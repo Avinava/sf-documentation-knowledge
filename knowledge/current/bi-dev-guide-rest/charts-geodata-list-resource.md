@@ -5,12 +5,10 @@ topic: charts-geodata-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.693Z
+lastCollected: 2026-04-07T18:36:56.223Z
 estimatedTokens: 334
 keywords: [Charts, Geodata, Resource, collection, definitions, creates, definition]
 ---
-
-# Charts Geodata List Resource
 
 > Returns a collection of geodata definitions and creates a geodata
       definition.

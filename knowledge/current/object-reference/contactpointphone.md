@@ -5,12 +5,10 @@ topic: contactpointphone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.459Z
+lastCollected: 2026-04-07T18:38:28.364Z
 estimatedTokens: 1671
-keywords: [ContactPointPhone, contact’s, phone, number, associated, individual, person, account, API, version, 48.0, later, Calls, Objects]
+keywords: [ContactPointPhone, contact’s, phone, number, individual, person, account, API, 48.0]
 ---
-
-# ContactPointPhone
 
 > Represents a contact’s phone number, which is associated with an
       individual or person account. This object is available in API version 48.0 and

@@ -5,12 +5,10 @@ topic: evaluating-filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.911Z
+lastCollected: 2026-04-07T18:36:17.141Z
 estimatedTokens: 336
 keywords: [Evaluating, Filters, Apex, Connector, Framework, filter, evaluates, row, matches, conditions]
 ---
-
-# Evaluating Filters in the Apex Connector Framework
 
 > A filter evaluates to true for a row if that row matches the conditions that the
         filter describes.

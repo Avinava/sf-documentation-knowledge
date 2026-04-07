@@ -5,12 +5,10 @@ topic: complexobjectfielddetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.350Z
+lastCollected: 2026-04-07T18:36:02.560Z
 estimatedTokens: 74
 keywords: [ComplexObjectFieldDetails, internal]
 ---
-
-# ComplexObjectFieldDetails Class
 
 > The methods and properties in this class are for internal use only.
 

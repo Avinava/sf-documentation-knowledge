@@ -5,12 +5,10 @@ topic: apex-versioning-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.819Z
+lastCollected: 2026-04-07T18:36:18.038Z
 estimatedTokens: 904
-keywords: [Apex, Versioning, Managed, Packages, package, component, exhibit, different, behavior, versions, add, refine, components, maintaining, backwards]
+keywords: [Apex, Versioning, Managed, Packages, package, exhibit, different, behavior, versions, add, refine, maintaining, backwards, compatibility, subscribers]
 ---
-
-# Apex Versioning in Managed Packages
 
 > A managed package component can exhibit different behavior in different package
   versions. By versioning managed Apex, you can add and refine components in the managed package,

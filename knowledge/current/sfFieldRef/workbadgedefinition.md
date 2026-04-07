@@ -5,12 +5,10 @@ topic: workbadgedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.778Z
+lastCollected: 2026-04-07T18:40:06.674Z
 estimatedTokens: 479
 keywords: [WorkBadgeDefinition, attributes, badge, including, image, WorkBadge, record, lookup, since, derived]
 ---
-
-# WorkBadgeDefinition
 
 > Represents the attributes of a badge including the badge name,
 			description, and image. Each WorkBadge record must have a lookup to a

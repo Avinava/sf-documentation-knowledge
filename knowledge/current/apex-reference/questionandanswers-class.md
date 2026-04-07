@@ -5,13 +5,11 @@ topic: questionandanswers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.328Z
+lastCollected: 2026-04-07T18:35:58.592Z
 estimatedTokens: 2385
 namespace: ConnectApi
-keywords: [QuestionAndAnswers, question, answers, suggestions, getSuggestions, communityId, subjectId, includeArticles, maxResults, API, Version, Requires, Chatter, Usage, setTestGetSuggestions]
+keywords: [QuestionAndAnswers, question, answers, suggestions, getSuggestions, communityId, subjectId, includeArticles, maxResults, API, Requires, Chatter, setTestGetSuggestions, result, updateQuestionAndAnswers, feedElementId, questionAndAnswersCapability]
 ---
-
-# QuestionAndAnswers Class
 
 > Get question and answers suggestions.
 

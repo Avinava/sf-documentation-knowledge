@@ -5,12 +5,10 @@ topic: referral-marketing-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.488Z
+lastCollected: 2026-04-07T18:39:09.821Z
 estimatedTokens: 207
-keywords: [Referral, Marketing, Standard, Objects, added, Salesforce, represent, specific, Marketing’s, connection, Cloud, orgs, enabled]
+keywords: [Referral, Marketing, Standard, added, Salesforce, represent, specific, Marketing’s, connection, Cloud, orgs, enabled]
 ---
-
-# Referral Marketing Fields on Standard Objects
 
 > Referral Marketing has added standard fields to some standard Salesforce objects to
   represent information specific to Referral Marketing’s connection with Marketing Cloud. These

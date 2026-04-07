@@ -5,12 +5,10 @@ topic: fundraising-fields-on-other-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.353Z
+lastCollected: 2026-04-07T18:37:30.413Z
 estimatedTokens: 383
-keywords: [Fundraising, Objects, includes, Salesforce, orgs, Nonprofit, Cloud, Education, enabled]
+keywords: [Fundraising, includes, Salesforce, orgs, Nonprofit, Cloud, Education, enabled]
 ---
-
-# Fundraising Fields on Other Objects
 
 > Fundraising includes fields that are available on other Salesforce objects. These fields
         are available only in orgs with Nonprofit Cloud or Education Cloud when Fundraising is

@@ -5,12 +5,10 @@ topic: personalization-experiment-attribute-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.762Z
+lastCollected: 2026-04-07T18:37:09.489Z
 estimatedTokens: 121
-keywords: [Personalization, Experiment, Attribute, Input]
+keywords: [Personalization, Experiment, Attribute]
 ---
-
-# Personalization Experiment Attribute Value Input
 
 > Defines the personalization attribute values.
 

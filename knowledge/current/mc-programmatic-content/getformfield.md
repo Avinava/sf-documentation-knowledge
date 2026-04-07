@@ -5,12 +5,10 @@ topic: getformfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.193Z
+lastCollected: 2026-04-07T18:40:23.629Z
 estimatedTokens: 107
-keywords: [GetFormField, Function, Ordinal, specifoed, data, **Overview**, **Syntax**, Key, identify, applicable, form, Members]
+keywords: [GetFormField, Function, Ordinal, specifoed, **Overview**, **Syntax**, Members, Key, identify, applicable, form]
 ---
-
-# GetFormField
 
 > GetFormField(1)
 

@@ -5,12 +5,10 @@ topic: installing-the-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.352Z
+lastCollected: 2026-04-07T18:40:27.525Z
 estimatedTokens: 536
-keywords: [Installing, Sample, Apps, GitHub, live, Mobile, SDK, repository, target, platform, hybrid, samples, option, Cordova, command]
+keywords: [Installing, Sample, Apps, GitHub, live, Mobile, SDK, repository, target, platform, hybrid, samples, option, Cordova, command, line, source, code, SalesforceMobileSDK-Shared, Accessing, Repositories, Building]
 ---
-
-# Installing the Sample Apps
 
 > In GitHub, sample apps live in the Mobile SDK repository for the
       target platform. For hybrid samples, you have the option of using the Cordova command line

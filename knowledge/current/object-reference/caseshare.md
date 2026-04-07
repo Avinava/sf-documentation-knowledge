@@ -5,12 +5,10 @@ topic: caseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.681Z
+lastCollected: 2026-04-07T18:38:27.649Z
 estimatedTokens: 1298
-keywords: [CaseShare, sharing, entry, Case, Calls, Special, Access, Rules, Usage]
+keywords: [CaseShare, sharing, entry, Case]
 ---
-
-# CaseShare
 
 > Represents a sharing entry on a Case.
 

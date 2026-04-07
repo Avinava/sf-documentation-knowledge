@@ -5,12 +5,10 @@ topic: best-practices-for-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:02.773Z
+lastCollected: 2026-04-07T18:38:55.207Z
 estimatedTokens: 294
 keywords: [Best, Practices, License, Management, App, Follow, LMA]
 ---
-
-# Best Practices for the License Management App
 
 > Follow these best practices when you use the License Management App (LMA).
 

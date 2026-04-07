@@ -5,12 +5,10 @@ topic: purchaserplancareprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.214Z
+lastCollected: 2026-04-07T18:37:47.841Z
 estimatedTokens: 787
-keywords: [PurchaserPlanCareProgram, junction, puchaser, plans, care, programs, under, purchaser, plan, employer-sponsored, managing, chronic, conditions, API, version]
+keywords: [PurchaserPlanCareProgram, junction, puchaser, plans, care, programs, under, purchaser, plan, employer-sponsored, managing, chronic, conditions, API, 66.0]
 ---
-
-# PurchaserPlanCareProgram
 
 > Represents a junction between puchaser plans and care programs. It defines
          the care programs that are available under a purchaser plan such as employer-sponsored

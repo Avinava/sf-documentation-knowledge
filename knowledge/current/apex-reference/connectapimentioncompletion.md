@@ -5,12 +5,10 @@ topic: connectapimentioncompletion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.826Z
+lastCollected: 2026-04-07T18:36:10.136Z
 estimatedTokens: 416
 keywords: [ConnectApi.MentionCompletion, record, @mention, user, group]
 ---
-
-# ConnectApi.MentionCompletion
 
 > Information about a record that could be used to @mention a user or
         group.

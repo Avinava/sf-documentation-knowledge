@@ -5,12 +5,10 @@ topic: execution-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.308Z
+lastCollected: 2026-04-07T18:35:43.195Z
 estimatedTokens: 131
-keywords: [Execution, Settings, Input, representation, ramp, deal]
+keywords: [Execution, Settings, ramp, deal]
 ---
-
-# Execution Settings Input
 
 > Input representation of the execution settings for a ramp deal.
 

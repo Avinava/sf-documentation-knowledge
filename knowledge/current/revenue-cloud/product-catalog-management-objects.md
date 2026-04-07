@@ -5,12 +5,10 @@ topic: product-catalog-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.192Z
+lastCollected: 2026-04-07T18:35:47.221Z
 estimatedTokens: 1916
-keywords: [Product, Catalog, Management, Objects, deployment, sequence, API, lookup, data, translation, requirements, Revenue, Cloud]
+keywords: [Product, Catalog, Management, deployment, sequence, API, lookup, translation, requirements, Revenue, Cloud]
 ---
-
-# Product Catalog Management Objects
 
 > This table provides the deployment sequence, object types, API names, lookup fields,
     and data translation requirements for Product Catalog Management objects in Revenue

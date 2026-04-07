@@ -5,12 +5,10 @@ topic: cgcloudcppricingconditiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.944Z
+lastCollected: 2026-04-07T18:39:13.349Z
 estimatedTokens: 2304
-keywords: [pricing, condition, template, define, calculated, step, calculation, schema, API, version, 54.0, later, cgcloud, _CP, _Pricing]
+keywords: [pricing, condition, template, define, calculated, step, calculation, schema, API, 54.0, cgcloud, _CP, _Pricing, _Condition, _Template]
 ---
-
-# cgcloud__CP_Pricing_Condition_Template__c
 
 > The pricing condition template object is used to define what is to be
          calculated in a step of a calculation schema. This object is available in API version

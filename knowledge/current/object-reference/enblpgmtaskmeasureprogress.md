@@ -5,12 +5,10 @@ topic: enblpgmtaskmeasureprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.577Z
+lastCollected: 2026-04-07T18:38:30.397Z
 estimatedTokens: 795
-keywords: [EnblPgmTaskMeasureProgress, user’s, progress, requirements, Enablement, measure, outcome, milestone, program, API, version, 61.0, later, Calls, Special]
+keywords: [EnblPgmTaskMeasureProgress, user’s, progress, requirements, Enablement, measure, outcome, milestone, program, API, 61.0]
 ---
-
-# EnblPgmTaskMeasureProgress
 
 > Represents a user’s progress through the object and field
          requirements that an Enablement measure defines for an outcome or milestone in an

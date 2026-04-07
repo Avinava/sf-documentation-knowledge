@@ -5,12 +5,10 @@ topic: dependencies-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.687Z
+lastCollected: 2026-04-07T18:36:56.216Z
 estimatedTokens: 308
-keywords: [Dependencies, Resource, asset, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Dependencies, Resource, asset, URL, Postman, HTTP]
 ---
-
-# Dependencies Resource
 
 > Returns the dependencies for an asset.
 

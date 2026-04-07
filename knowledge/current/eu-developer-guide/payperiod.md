@@ -5,12 +5,10 @@ topic: payperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.506Z
+lastCollected: 2026-04-07T18:37:32.737Z
 estimatedTokens: 304
-keywords: [PayPeriod, fixed, time, span, employee's, work, hours, earnings, recorded, calculated, payroll, API, version, 66.0, later]
+keywords: [PayPeriod, fixed, time, span, employee's, work, hours, earnings, recorded, calculated, payroll, API, 66.0]
 ---
-
-# PayPeriod
 
 > Indicates the fixed time span of employee's work hours and earnings that are recorded and
          calculated for payroll. This object is available in API version 66.0 and later.

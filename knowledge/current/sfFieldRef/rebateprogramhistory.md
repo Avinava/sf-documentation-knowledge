@@ -5,12 +5,10 @@ topic: rebateprogramhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.038Z
+lastCollected: 2026-04-07T18:39:58.694Z
 estimatedTokens: 169
-keywords: [RebateProgramHistory, History, tracked, RebateProgram]
+keywords: [RebateProgramHistory, tracked, RebateProgram]
 ---
-
-# RebateProgramHistory
 
 > History for tracked fields of RebateProgram.
 

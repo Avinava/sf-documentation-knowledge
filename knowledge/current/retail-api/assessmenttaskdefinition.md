@@ -5,12 +5,10 @@ topic: assessmenttaskdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.713Z
+lastCollected: 2026-04-07T18:39:12.238Z
 estimatedTokens: 617
-keywords: [AssessmentTaskDefinition, Associate, assessment, task, indicator, definition, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [AssessmentTaskDefinition, Associate, assessment, task, indicator, definition, API, 48.0]
 ---
-
-# AssessmentTaskDefinition
 
 > Associate an assessment task with an assessment indicator definition. This
     object is available in API version 48.0 and later.

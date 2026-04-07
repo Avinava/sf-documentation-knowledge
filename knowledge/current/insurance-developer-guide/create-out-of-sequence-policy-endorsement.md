@@ -5,12 +5,10 @@ topic: create-out-of-sequence-policy-endorsement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.042Z
+lastCollected: 2026-04-07T18:37:53.314Z
 estimatedTokens: 1352
-keywords: [Sequence, Policy, Endorsement, Perform, backdated, change, past, current, future, term, another, version, effective, date, later]
+keywords: [Sequence, Policy, Endorsement, Perform, backdated, change, past, current, future, term, another, effective, date, already, exists, impacted, versions, canceled, replaced, new, repriced, include, premium, impact, affected, captured, individual, out-of-sequence, transaction]
 ---
-
-# Create Out of Sequence Policy Endorsement
 
 > Perform a backdated change on a policy in the past, current, or future policy term, even
   when another policy version with an effective date later than the endorsement date already exists.

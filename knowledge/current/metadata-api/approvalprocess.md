@@ -5,12 +5,10 @@ topic: approvalprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.367Z
+lastCollected: 2026-04-07T18:36:22.620Z
 estimatedTokens: 4084
-keywords: [ApprovalProcess, metadata, associated, approval, process, automates, how, records, approved, Salesforce, step, including, point, File, Suffix]
+keywords: [ApprovalProcess, ApprovalSubmitter, ApprovalPageField, ApprovalStep, ApprovalAction, ApprovalStepApprover, Approver, ApprovalEntryCriteria, ApprovalStepRejectBehavior, NextAutomatedApprover, metadata, approval, process, automates, how, records, approved, Salesforce, step, including, point, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ApprovalProcess
 
 > Represents the metadata associated with an approval
             process. An approval process automates how records are approved in Salesforce. An

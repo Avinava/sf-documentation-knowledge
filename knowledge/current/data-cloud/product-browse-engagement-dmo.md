@@ -5,12 +5,10 @@ topic: product-browse-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.402Z
+lastCollected: 2026-04-07T18:35:54.448Z
 estimatedTokens: 2872
-keywords: [Product, Browse, Engagement, DMO, Data, Cloud, model, captured, user, action, searching, products, viewing, API, Category]
+keywords: [Category, Relationships, Product, Browse, Engagement, DMO, Cloud, model, captured, user, action, searching, products, viewing, API, Primary, Subject, Area, Key]
 ---
-
-# Product Browse Engagement DMO
 
 > Product Browse Engagement DMO is a Data Cloud data model object (DMO) for
       data captured from a user action, such as searching for products or viewing a list of

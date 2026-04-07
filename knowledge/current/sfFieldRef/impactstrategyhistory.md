@@ -5,12 +5,10 @@ topic: impactstrategyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.694Z
+lastCollected: 2026-04-07T18:39:44.350Z
 estimatedTokens: 262
-keywords: [ImpactStrategyHistory, History, tracked, ImpactStrategy]
+keywords: [ImpactStrategyHistory, tracked, ImpactStrategy]
 ---
-
-# ImpactStrategyHistory
 
 > History for tracked fields of ImpactStrategy.
 

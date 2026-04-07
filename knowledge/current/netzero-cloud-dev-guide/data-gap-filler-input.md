@@ -5,12 +5,10 @@ topic: data-gap-filler-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.604Z
+lastCollected: 2026-04-07T18:38:16.144Z
 estimatedTokens: 232
-keywords: [Data, Gap, Filler, Input, representation, missing, energy, consumption, records]
+keywords: [Gap, Filler, missing, energy, consumption, records]
 ---
-
-# Data Gap Filler Input
 
 > Input representation of the request to get missing energy
       consumption records.

@@ -5,12 +5,10 @@ topic: energyattrcertcredithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.646Z
+lastCollected: 2026-04-07T18:39:39.297Z
 estimatedTokens: 277
-keywords: [EnergyAttrCertCreditHistory, History, tracked, EnergyAttrCertCredit]
+keywords: [EnergyAttrCertCreditHistory, tracked, EnergyAttrCertCredit]
 ---
-
-# EnergyAttrCertCreditHistory
 
 > History for tracked fields of EnergyAttrCertCredit.
 

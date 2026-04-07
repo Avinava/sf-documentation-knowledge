@@ -5,12 +5,10 @@ topic: get-sobject-quick-action-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.136Z
+lastCollected: 2026-04-07T18:36:21.375Z
 estimatedTokens: 181
-keywords: [sObject, Quick, Action, specific, action’s, descriptive, detail, resource, REST, API, version, 28.0, later]
+keywords: [sObject, Quick, Action, specific, action’s, descriptive, detail, resource, REST, API, 28.0]
 ---
-
-# Get sObject Quick Action Details
 
 > Returns a specific action’s descriptive detail. This resource is available in REST API
   version 28.0 and later.

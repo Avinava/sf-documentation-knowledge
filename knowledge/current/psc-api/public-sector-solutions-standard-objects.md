@@ -5,12 +5,10 @@ topic: public-sector-solutions-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.624Z
+lastCollected: 2026-04-07T18:39:00.744Z
 estimatedTokens: 14151
-keywords: [Sector, Solutions, Standard, Objects, data, models, provide, support, licensing, permitting, inspections, assessments, case, program, management]
+keywords: [Sector, Solutions, Standard, models, provide, support, licensing, permitting, inspections, assessments, case, program, management, benefit, grantmaking, features, organization, work, transform, delivery, services]
 ---
-
-# Public Sector Solutions Standard Objects
 
 > The Public Sector Solutions data models provide objects and fields to support licensing
   and permitting, inspections and assessments, case and program management, benefit management,

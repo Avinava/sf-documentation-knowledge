@@ -5,12 +5,10 @@ topic: taskwhorelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.356Z
+lastCollected: 2026-04-07T18:38:42.166Z
 estimatedTokens: 430
-keywords: [TaskWhoRelation, relationship, task, lead, contacts, API, version, 29.0, later, Calls, Usage]
+keywords: [TaskWhoRelation, relationship, task, lead, contacts, API, 29.0]
 ---
-
-# TaskWhoRelation
 
 > Represents the relationship between a task and a lead or contacts.
         This object is available in API version 29.0 and later.

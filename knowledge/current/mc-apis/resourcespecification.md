@@ -5,12 +5,10 @@ topic: resourcespecification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.316Z
+lastCollected: 2026-04-07T18:40:18.527Z
 estimatedTokens: 489
-keywords: [ResourceSpecification, initial, location, new, asset, contained, account's, Portfolio, publicly, accessible, web, enhanced, FTP, below, specify]
+keywords: [ResourceSpecification, initial, location, new, asset, contained, account's, Portfolio, publicly, accessible, web, enhanced, FTP, below, specify, locati, Items]
 ---
-
-# ResourceSpecification
 
 > The ResourceSpecification object specifies the initial location for a new asset to be contained within an account's Portfolio. The location specified can be a publicly accessible web location or an enhanced FTP location. If you use an enhanced FTP location, use the syntax below to specify the locati
 

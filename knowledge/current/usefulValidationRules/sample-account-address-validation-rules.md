@@ -5,12 +5,10 @@ topic: sample-account-address-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.426Z
+lastCollected: 2026-04-07T18:40:12.446Z
 estimatedTokens: 2042
-keywords: [Sample, Account, Address, Validation, Rules, maintain, addresses, Canadian, Billing, Postal, Code, Zip, State, Shipping, Province]
+keywords: [Sample, Account, Address, Validation, maintain, addresses, Canadian, Billing, Postal, Code, Zip, State, Shipping, Province, Canada, Country]
 ---
-
-# Sample Account Address Validation Rules
 
 > Rules to maintain valid account addresses.
 

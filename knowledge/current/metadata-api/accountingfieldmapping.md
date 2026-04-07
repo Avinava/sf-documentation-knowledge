@@ -5,12 +5,10 @@ topic: accountingfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.725Z
+lastCollected: 2026-04-07T18:36:21.960Z
 estimatedTokens: 774
-keywords: [AccountingFieldMapping, accounting, mappings, organize, data, bring, ledger, entry, records, Parent, File, Suffix, Directory, Location, Version]
+keywords: [AccountingFieldMapping, accounting, mappings, organize, bring, ledger, entry, records, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AccountingFieldMapping
 
 > Represents the accounting field mappings to organize
 			your data and bring it to ledger entry records.

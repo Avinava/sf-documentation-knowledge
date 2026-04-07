@@ -5,12 +5,10 @@ topic: create-guest-user-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.127Z
+lastCollected: 2026-04-07T18:39:23.062Z
 estimatedTokens: 809
-keywords: [Guest, User, Sharing, Rules, rule, special, criteria-based, way, grant, record, access, unauthenticated, users]
+keywords: [Guest, User, Sharing, rule, criteria-based, way, grant, record, unauthenticated, users]
 ---
-
-# Create Guest User Sharing Rules
 
 > A guest user sharing rule is a special type of criteria-based sharing rule and the only
   way to grant record access to unauthenticated guest users. Guest user sharing rules can only grant

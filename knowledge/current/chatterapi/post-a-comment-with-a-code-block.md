@@ -5,12 +5,10 @@ topic: post-a-comment-with-a-code-block
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.239Z
+lastCollected: 2026-04-07T18:37:24.285Z
 estimatedTokens: 452
 keywords: [Post, Comment, Code, Block, Chatter]
 ---
-
-# Post a Comment with a Code Block
 
 > Post a Chatter comment with a code block.
 

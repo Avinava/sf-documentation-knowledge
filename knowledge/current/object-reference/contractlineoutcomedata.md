@@ -5,12 +5,10 @@ topic: contractlineoutcomedata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:37.953Z
+lastCollected: 2026-04-07T18:38:28.860Z
 estimatedTokens: 1095
-keywords: [ContractLineOutcomeData, contract, line, outcome’s, captured, data, stores, start, date, end, API, version, 58.0, later, Calls]
+keywords: [ContractLineOutcomeData, contract, line, outcome’s, captured, stores, start, date, end, API, 58.0]
 ---
-
-# ContractLineOutcomeData
 
 > Represents the contract line outcome’s captured data. It stores the data that
          was captured between the contract line outcome’s start date and end date. This object is

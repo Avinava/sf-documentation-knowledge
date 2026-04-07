@@ -5,12 +5,10 @@ topic: add-a-limited-access-user-to-your-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.057Z
+lastCollected: 2026-04-07T18:40:09.038Z
 estimatedTokens: 379
-keywords: [Add, Limited, Access, User, Dev, Hub, Org, users, require, Salesforce, Free, license, good, approach, provisioned]
+keywords: [Add, Limited, User, Dev, Hub, Org, users, require, Salesforce, Free, license, good, approach, provisioned, profile, assign, permission]
 ---
-
-# Add a Limited Access User to Your Dev Hub Org
 
 > If your users only require access to the Dev Hub, the Salesforce Limited Access -
 		Free license is a good approach. The Salesforce Limited Access - Free license is available

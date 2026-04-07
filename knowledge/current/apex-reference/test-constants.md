@@ -5,12 +5,10 @@ topic: test-constants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.088Z
+lastCollected: 2026-04-07T18:35:59.362Z
 estimatedTokens: 360
-keywords: [Test, Constants, keys, mock, application, environment, context, data]
+keywords: [Test, Constants, keys, mock, application, environment, context]
 ---
-
-# Test Constants
 
 > The Test class provides constants that are used as keys when you set
    mock application and environment context data.

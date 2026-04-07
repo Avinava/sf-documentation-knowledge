@@ -5,12 +5,10 @@ topic: assessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.640Z
+lastCollected: 2026-04-07T18:37:30.716Z
 estimatedTokens: 157
-keywords: [Assessment, Stores, data, API, version, 63.0, later, Calls]
+keywords: [Assessment, Stores, API, 63.0]
 ---
-
-# Assessment
 
 > Stores the header data for an assessment. This object is available in
       API version 63.0 and later.

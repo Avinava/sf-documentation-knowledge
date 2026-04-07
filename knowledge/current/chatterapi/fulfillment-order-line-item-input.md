@@ -5,12 +5,10 @@ topic: fulfillment-order-line-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.764Z
+lastCollected: 2026-04-07T18:37:08.588Z
 estimatedTokens: 280
-keywords: [Fulfillment, Order, Line, Item, Input, FulfillmentOrderLineItem, quantity, cancel, less, full, case, reallocate, canceled, different, FulfillmentOrder]
+keywords: [Fulfillment, Order, Line, Item, FulfillmentOrderLineItem, quantity, cancel, less, full, case, reallocate, canceled, different, FulfillmentOrder]
 ---
-
-# Fulfillment Order Line Item Input
 
 > A FulfillmentOrderLineItem and quantity to cancel. You can cancel
       less than the full quantity, in which case you reallocate the canceled quantity to a different

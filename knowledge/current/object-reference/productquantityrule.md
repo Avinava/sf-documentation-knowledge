@@ -5,12 +5,10 @@ topic: productquantityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.369Z
+lastCollected: 2026-04-07T18:38:38.779Z
 estimatedTokens: 369
-keywords: [ProductQuantityRule, relationship, quantity, rule, product, assigns, rules, API, version, 51.0, later, Calls, Special, Access]
+keywords: [ProductQuantityRule, relationship, quantity, rule, product, assigns, API, 51.0]
 ---
-
-# ProductQuantityRule
 
 > Represents the relationship between a quantity rule and a product. This
          object assigns quantity rules to a product. This object is available in API version

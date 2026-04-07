@@ -5,12 +5,10 @@ topic: clone-promotion-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.254Z
+lastCollected: 2026-04-07T18:38:07.480Z
 estimatedTokens: 354
-keywords: [Clone, Promotion, POST, along, associated, records]
+keywords: [Clone, Promotion, POST, along, records]
 ---
-
-# Clone Promotion (POST)
 
 > Clone an existing promotion along with its associated records
 

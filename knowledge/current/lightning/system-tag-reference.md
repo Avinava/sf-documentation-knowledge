@@ -5,12 +5,10 @@ topic: system-tag-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.491Z
+lastCollected: 2026-04-07T18:38:05.702Z
 estimatedTokens: 384
-keywords: [System, Tag, tags, represent, framework, definitions, Component, Library]
+keywords: [System, Tag, tags, represent, framework, definitions, Library]
 ---
-
-# System Tag Reference
 
 > System tags represent framework definitions and are not available in the Component
     Library.

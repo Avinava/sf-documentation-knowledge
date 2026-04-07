@@ -5,12 +5,10 @@ topic: blngpaymenttransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.362Z
+lastCollected: 2026-04-07T18:37:03.947Z
 estimatedTokens: 3019
-keywords: [blng__PaymentTransaction__c, payment, transactions, associated, blng, _PaymentTransaction, Calls]
+keywords: [blng__PaymentTransaction__c, payment, transactions, blng, _PaymentTransaction]
 ---
-
-# blng__PaymentTransaction__c
 
 > Represents the payment transactions associated with a
       payment.

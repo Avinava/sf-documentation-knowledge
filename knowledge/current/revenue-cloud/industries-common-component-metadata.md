@@ -5,12 +5,10 @@ topic: industries-common-component-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.146Z
+lastCollected: 2026-04-07T18:35:47.171Z
 estimatedTokens: 342
-keywords: [Industries, Common, Component, Metadata, deployment, components, Revenue, Cloud, including, setup, paths, configuration]
+keywords: [Industries, Common, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---
-
-# Industries Common Component Metadata
 
 > This table provides the metadata deployment reference for Industries common components
     in Revenue Cloud, including setup paths and configuration details.

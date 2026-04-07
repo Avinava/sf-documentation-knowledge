@@ -5,12 +5,10 @@ topic: sample-limits-request-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.940Z
+lastCollected: 2026-04-07T18:37:55.314Z
 estimatedTokens: 93
-keywords: [Sample, Limits, Data, Input, representation, validate]
+keywords: [Sample, Limits, validate]
 ---
-
-# Sample Limits Request Data Input
 
 > Input representation for the sample limits data to validate.
 

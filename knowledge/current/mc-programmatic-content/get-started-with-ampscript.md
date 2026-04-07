@@ -5,12 +5,10 @@ topic: get-started-with-ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.910Z
+lastCollected: 2026-04-07T18:40:22.290Z
 estimatedTokens: 593
-keywords: [Started, AMPscript, feature, requires, basic, general, logic, specific, full-fledged, object-oriented, programming, language, C++, Java, familiarize]
+keywords: [Prerequisites, Scenario, Preferences, Started, AMPscript, feature, requires, basic, general, logic, specific, full-fledged, object-oriented, programming, language, C++, Java, familiarize, yourself, concepts, full, 101-401]
 ---
-
-# Get Started with AMPscript
 
 > This feature requires basic information related to general logic and AMPscript in specific. AMPscript is not a full-fledged object-oriented programming language like C++, C#, or Java, but you do need to familiarize yourself with some programming concepts to make full use of all available AMPscript f
 

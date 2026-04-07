@@ -5,12 +5,10 @@ topic: contentworkspacedoc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.850Z
+lastCollected: 2026-04-07T18:38:28.757Z
 estimatedTokens: 837
-keywords: [ContentWorkspaceDoc, link, document, library, Salesforce, CRM, Content, versions, 17.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ContentWorkspaceDoc, link, document, library, Salesforce, CRM, Content, versions, 17.0]
 ---
-
-# ContentWorkspaceDoc
 
 > Represents a link between a document and a public library in
       Salesforce CRM Content. This object is available in versions 17.0 and later.

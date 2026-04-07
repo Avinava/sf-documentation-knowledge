@@ -5,12 +5,10 @@ topic: lifesciacctlistfiltercrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.737Z
+lastCollected: 2026-04-07T18:38:00.501Z
 estimatedTokens: 595
-keywords: [LifeSciAcctListFilterCrit, Stores, rules, conditions, derived, Account, direct, relationship, objects, filter, Life, Sciences, accounts, API, version]
+keywords: [LifeSciAcctListFilterCrit, Stores, conditions, derived, Account, direct, relationship, filter, Life, Sciences, accounts, API, 65.0]
 ---
-
-# LifeSciAcctListFilterCrit
 
 > Stores the rules and conditions derived from the Account object or its
          supported direct relationship objects to filter Life Sciences accounts. This object is

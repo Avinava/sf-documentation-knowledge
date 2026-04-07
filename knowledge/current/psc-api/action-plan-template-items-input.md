@@ -5,12 +5,10 @@ topic: action-plan-template-items-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.699Z
+lastCollected: 2026-04-07T18:39:00.828Z
 estimatedTokens: 216
-keywords: [Action, Plan, Template, Items, Input, representation, record]
+keywords: [Action, Plan, Template, Items, record]
 ---
-
-# Action Plan Template Items Input
 
 > Input representation for an Action Plan record.
 

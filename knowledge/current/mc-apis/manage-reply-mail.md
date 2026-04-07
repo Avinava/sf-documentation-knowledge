@@ -5,12 +5,10 @@ topic: manage-reply-mail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.670Z
+lastCollected: 2026-04-07T18:40:17.851Z
 estimatedTokens: 2069
-keywords: [Manage, Reply, Mail, conceptual, procedural, creating, updating, Management, settings, via, SOAP, API, Why, How, Sample]
+keywords: [Manage, Reply, Mail, conceptual, procedural, creating, updating, Management, settings, via, SOAP, API, Why, How, Sample, NET, Code, RMM, Retrieve, Call, Items]
 ---
-
-# Manage Reply Mail
 
 > This page contains conceptual and procedural information on creating and updating Reply Mail Management settings via the SOAP API.
 

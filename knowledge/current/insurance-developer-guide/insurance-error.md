@@ -5,12 +5,10 @@ topic: insurance-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.255Z
+lastCollected: 2026-04-07T18:37:52.412Z
 estimatedTokens: 127
-keywords: [Insurance, Error, Output, representation, occurred, census, management, operation]
+keywords: [Insurance, Error, occurred, census, management, operation]
 ---
-
-# Insurance Error
 
 > Output representation for an error that occurred during a census management operation.
 

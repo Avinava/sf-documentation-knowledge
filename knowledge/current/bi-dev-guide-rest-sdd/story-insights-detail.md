@@ -5,12 +5,10 @@ topic: story-insights-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.590Z
+lastCollected: 2026-04-07T18:37:00.086Z
 estimatedTokens: 214
 keywords: [Story, Insights, Detail]
 ---
-
-# Story Insights Detail
 
 > The insights detail for a story.
 

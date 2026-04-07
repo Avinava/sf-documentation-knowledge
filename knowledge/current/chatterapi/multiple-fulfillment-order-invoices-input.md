@@ -5,12 +5,10 @@ topic: multiple-fulfillment-order-invoices-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.354Z
+lastCollected: 2026-04-07T18:37:09.124Z
 estimatedTokens: 100
-keywords: [Multiple, Fulfillment, Order, Invoices, Input, FulfillmentOrders]
+keywords: [Multiple, Fulfillment, Order, Invoices, FulfillmentOrders]
 ---
-
-# Multiple Fulfillment Order Invoices Input
 
 > The FulfillmentOrders to create Invoices for.
 

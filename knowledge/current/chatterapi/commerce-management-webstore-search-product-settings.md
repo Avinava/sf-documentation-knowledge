@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-product-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.822Z
+lastCollected: 2026-04-07T18:37:12.701Z
 estimatedTokens: 254
 keywords: [Commerce, Management, Webstore, Search, Product, Settings]
 ---
-
-# Commerce Management Webstore Search, Product Settings
 
 > Get and update product search settings.
 

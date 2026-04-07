@@ -5,12 +5,10 @@ topic: pricing-simulation-input-variables-with-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:01.272Z
+lastCollected: 2026-04-07T18:35:46.207Z
 estimatedTokens: 174
-keywords: [Pricing, Simulation, Input, Variables, Data, Output, representation]
+keywords: [Pricing, Simulation, Variables]
 ---
-
-# Pricing Simulation Input Variables With Data
 
 > Output representation of the pricing simulation variables with data.
 

@@ -5,12 +5,10 @@ topic: practitioner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.338Z
+lastCollected: 2026-04-07T18:37:44.652Z
 estimatedTokens: 1270
-keywords: [Practitioner, FHIR, resource, maps, HealthcareProvider, person, accounts, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping, Sample, Record]
+keywords: [Practitioner, FHIR, resource, maps, HealthcareProvider, person, accounts, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# Practitioner
 
 > The Practitioner FHIR resource maps to the
       HealthcareProvider object and person accounts in

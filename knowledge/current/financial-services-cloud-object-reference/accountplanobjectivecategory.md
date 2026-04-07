@@ -5,12 +5,10 @@ topic: accountplanobjectivecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.973Z
+lastCollected: 2026-04-07T18:37:35.634Z
 estimatedTokens: 1028
-keywords: [AccountPlanObjectiveCategory, objective, category, that's, group, account, plan, objectives, streamline, tracking, analysis, management, API, version, 62.0]
+keywords: [AccountPlanObjectiveCategory, objective, category, that's, group, account, plan, objectives, streamline, analysis, management, API, 62.0]
 ---
-
-# AccountPlanObjectiveCategory
 
 > Represents an objective category that's used to group the account plan
          objectives to streamline tracking and analysis for management. This object is

@@ -5,12 +5,10 @@ topic: salesforce-modules-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.049Z
+lastCollected: 2026-04-07T18:37:33.388Z
 estimatedTokens: 1257
-keywords: [@salesforce, Modules, LWR, Sites, Experience, Cloud, support, add, functionality, Lightning, web, components, runtime]
+keywords: [@salesforce, Modules, LWR, Sites, Experience, Cloud, support, add, functionality, Lightning, web, runtime]
 ---
-
-# @salesforce Modules in LWR Sites
 
 > LWR sites in Experience Cloud support @salesforce modules, which add functionality to Lightning web components at
     runtime.

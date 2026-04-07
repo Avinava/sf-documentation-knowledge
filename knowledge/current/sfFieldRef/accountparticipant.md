@@ -5,12 +5,10 @@ topic: accountparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.267Z
+lastCollected: 2026-04-07T18:39:24.189Z
 estimatedTokens: 337
-keywords: [AccountParticipant, participant, context, account, record, API, version, 49.0, later]
+keywords: [AccountParticipant, participant, context, account, record, API, 49.0]
 ---
-
-# AccountParticipant
 
 > Represents information about a participant in the context of an account
       record. This object is available in API version 49.0 and later.

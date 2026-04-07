@@ -5,12 +5,10 @@ topic: incidentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.719Z
+lastCollected: 2026-04-07T18:39:44.381Z
 estimatedTokens: 357
-keywords: [IncidentFeed, Feed, tracking, Incident]
+keywords: [IncidentFeed, Incident]
 ---
-
-# IncidentFeed
 
 > Feed tracking for Incident.
 

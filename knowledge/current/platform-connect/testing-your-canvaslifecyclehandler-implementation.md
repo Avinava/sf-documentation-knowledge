@@ -5,12 +5,10 @@ topic: testing-your-canvaslifecyclehandler-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.583Z
+lastCollected: 2026-04-07T18:38:57.385Z
 estimatedTokens: 537
 keywords: [Testing, CanvasLifecycleHandler, Implementation, Canvas.Test, test, Canvas.CanvasLifecycleHandler.onRender, having, run, canvas, app]
 ---
-
-# Testing Your CanvasLifecycleHandler Implementation
 
 > You can use the Canvas.Test class to test your Canvas.CanvasLifecycleHandler.onRender() implementation without having to run your canvas app.
 

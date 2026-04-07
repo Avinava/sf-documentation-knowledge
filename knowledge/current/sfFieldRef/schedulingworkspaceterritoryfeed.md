@@ -5,12 +5,10 @@ topic: schedulingworkspaceterritoryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.054Z
+lastCollected: 2026-04-07T18:40:00.811Z
 estimatedTokens: 367
-keywords: [SchedulingWorkspaceTerritoryFeed, Feed, tracking, SchedulingWorkspaceTerritory]
+keywords: [SchedulingWorkspaceTerritoryFeed, SchedulingWorkspaceTerritory]
 ---
-
-# SchedulingWorkspaceTerritoryFeed
 
 > Feed tracking for SchedulingWorkspaceTerritory.
 

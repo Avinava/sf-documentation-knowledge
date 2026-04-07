@@ -5,12 +5,10 @@ topic: restore-dataset-version-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.530Z
+lastCollected: 2026-04-07T18:36:54.892Z
 estimatedTokens: 185
-keywords: [Restore, Dataset, Version, Input, specific, Analytics]
+keywords: [Restore, Dataset, specific, Analytics]
 ---
-
-# Restore Dataset Version Input
 
 > A specific version to restore an Analytics dataset to.
 

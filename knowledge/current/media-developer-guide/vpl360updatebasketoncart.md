@@ -5,12 +5,10 @@ topic: vpl360updatebasketoncart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.891Z
+lastCollected: 2026-04-07T18:38:11.156Z
 estimatedTokens: 158
-keywords: [VPL360_UpdateBasketOnCart, Integration, Procedure, updates, basket, key, omnichannel, cart, self, care, portal, case, new, shopping, journey]
+keywords: [VPL360_UpdateBasketOnCart, Integration, Procedure, updates, basket, key, omnichannel, cart, self, care, portal, case, new, shopping, journey, VPL360, _UpdateBasketOnCart, Sample]
 ---
-
-# VPL360_UpdateBasketOnCart
 
 > This Integration Procedure updates the basket key for the
       omnichannel cart in the self care portal in case of a new shopping journey.

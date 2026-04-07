@@ -5,12 +5,10 @@ topic: connectapichangeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.625Z
+lastCollected: 2026-04-07T18:36:04.981Z
 estimatedTokens: 423
 keywords: [ConnectApi.ChangeInputRepresentation, changes, OrderItemSummaries, order, change, cancel]
 ---
-
-# ConnectApi.ChangeInputRepresentation
 
 > A list of changes to OrderItemSummaries that make up an order
       change, such as a cancel or return.

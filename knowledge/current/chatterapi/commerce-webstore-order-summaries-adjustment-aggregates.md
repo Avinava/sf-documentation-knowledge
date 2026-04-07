@@ -5,12 +5,10 @@ topic: commerce-webstore-order-summaries-adjustment-aggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.610Z
+lastCollected: 2026-04-07T18:37:12.495Z
 estimatedTokens: 184
 keywords: [Commerce, Webstore, Order, Summaries, Adjustment, Aggregates, Submit, job, calculate, summary, IDs]
 ---
-
-# Commerce Webstore Order Summaries, Adjustment Aggregates
 
 > Submit a job to calculate adjustment aggregates for a list of order
       summary IDs.

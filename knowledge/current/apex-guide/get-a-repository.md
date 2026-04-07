@@ -5,12 +5,10 @@ topic: get-a-repository
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.786Z
+lastCollected: 2026-04-07T18:36:19.014Z
 estimatedTokens: 72
 keywords: [Repository, Call]
 ---
-
-# Get a Repository
 
 > Call a method to get a repository.
 

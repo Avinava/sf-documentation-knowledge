@@ -5,12 +5,10 @@ topic: dataactiontargetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.427Z
+lastCollected: 2026-04-07T18:39:37.028Z
 estimatedTokens: 361
-keywords: [DataActionTargetFeed, Feed, tracking, DataActionTarget]
+keywords: [DataActionTargetFeed, DataActionTarget]
 ---
-
-# DataActionTargetFeed
 
 > Feed tracking for DataActionTarget.
 

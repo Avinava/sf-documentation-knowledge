@@ -5,12 +5,10 @@ topic: assessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.550Z
+lastCollected: 2026-04-07T18:37:59.106Z
 estimatedTokens: 1314
-keywords: [AssessmentTask, Perform, activities, patient, registration, order, authorization, capture, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [AssessmentTask, Perform, activities, patient, registration, order, authorization, capture]
 ---
-
-# AssessmentTask
 
 > Perform activities such as patient registration or order authorization
       to capture information.

@@ -5,12 +5,10 @@ topic: messagechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.328Z
+lastCollected: 2026-04-07T18:38:52.638Z
 estimatedTokens: 66
-keywords: [$MessageChannel, merge, provide, access, message, channel, defined, organization, Usage, Examples]
+keywords: [Examples, $MessageChannel, merge, provide, message, channel, defined, organization]
 ---
-
-# $MessageChannel
 
 > A global merge field type to provide access to a message channel defined in your
   organization.

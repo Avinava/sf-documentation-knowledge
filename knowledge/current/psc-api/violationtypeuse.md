@@ -5,12 +5,10 @@ topic: violationtypeuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.638Z
+lastCollected: 2026-04-07T18:39:07.858Z
 estimatedTokens: 331
-keywords: [ViolationTypeUse, junction, assessment, questions, violation, associated, API, version, 55.0, later, Calls]
+keywords: [ViolationTypeUse, junction, assessment, questions, violation, API, 55.0]
 ---
-
-# ViolationTypeUse
 
 > Represents a junction between a set of assessment questions and the violation
          type associated with them. This object is available in API version 55.0 and later.

@@ -6,13 +6,10 @@ topic: query-data-graph-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.307Z
+lastCollected: 2026-04-07T18:35:51.164Z
 estimatedTokens: 807
-keywords: [Query, Data, Graph, metadata, graphs, APIs]
+keywords: [Query, Graph, metadata, graphs, APIs]
 ---
-
-# Query
-  Data Graph Data
 
 > To query
   metadata

@@ -5,12 +5,10 @@ topic: modeling-a-generator-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.517Z
+lastCollected: 2026-04-07T18:35:42.399Z
 estimatedTokens: 460
-keywords: [Modeling, Generator, Constraint, Model, examples, CML, define, technical, power, configuration, illustrating, concepts, calculated, variables, enforcement]
+keywords: [Modeling, Generator, Constraint, Model, examples, CML, define, technical, power, configuration, illustrating, concepts, calculated, variables, enforcement, external, standards, selection, requirements]
 ---
-
-# Modeling a Generator Set
 
 > The Constraint Model for a Generator Set examples use CML to define a technical power
     configuration, illustrating concepts such as calculated variables, enforcement of external

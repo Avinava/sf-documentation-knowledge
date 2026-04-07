@@ -5,12 +5,10 @@ topic: lnn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.267Z
+lastCollected: 2026-04-07T18:37:01.878Z
 estimatedTokens: 80
 keywords: [base, Euler's, number, logarithm, any, positive, non-zero, numeric, range, 1.797e308]
 ---
-
-# ln(n)
 
 > Returns the base e (Euler's number) logarithm of a number n. The
   value n can be any positive, non-zero numeric value in the range 0 <

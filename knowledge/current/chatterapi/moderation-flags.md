@@ -5,12 +5,10 @@ topic: moderation-flags
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.608Z
+lastCollected: 2026-04-07T18:37:20.797Z
 estimatedTokens: 371
 keywords: [Moderation, Flags]
 ---
-
-# Moderation Flags
 
 > Moderation flags.
 

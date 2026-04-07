@@ -5,12 +5,10 @@ topic: promotionhovercontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.005Z
+lastCollected: 2026-04-07T18:39:11.557Z
 estimatedTokens: 910
-keywords: [PromotionHoverContent, Apex, programmatic, access, promotion, hover, content, buttons, trade, calendar, launchpad, Implementation]
+keywords: [PromotionHoverContent, Apex, programmatic, promotion, hover, content, buttons, trade, calendar, launchpad, Implementation]
 ---
-
-# PromotionHoverContent Class
 
 > The PromotionHoverContent Apex class provides
     programmatic access to the promotion hover content and the buttons on the trade calendar

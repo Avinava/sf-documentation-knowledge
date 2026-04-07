@@ -5,12 +5,10 @@ topic: expected-behavior-for-external-routing-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.334Z
+lastCollected: 2026-04-07T18:38:45.164Z
 estimatedTokens: 721
 keywords: [Expected, Behavior, External, Routing, Omni-Channel, Verify, observe, testing, implementation, matches, scenarios]
 ---
-
-# Expected Behavior for External Routing for Omni-Channel
 
 > Verify that the behavior you observe while testing and using your implementation of
   external routing matches the following expected behavior scenarios.

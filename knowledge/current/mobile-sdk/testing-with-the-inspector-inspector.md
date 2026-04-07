@@ -5,12 +5,10 @@ topic: testing-with-the-inspector-inspector
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.684Z
+lastCollected: 2026-04-07T18:40:26.923Z
 estimatedTokens: 291
 keywords: [Testing, Inspector, Verifying, SmartStore, operations, become, tedious, time-consuming, effort, comes, rescue]
 ---
-
-# Testing with the  Inspector Inspector
 
 > Verifying SmartStore operations during testing can
     become a tedious and time-consuming effort. SmartStore Inspector comes to the

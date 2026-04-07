@@ -5,12 +5,10 @@ topic: catalog-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.397Z
+lastCollected: 2026-04-07T18:35:51.251Z
 estimatedTokens: 785
 keywords: [Catalog, Schema, Map, Engagement, Mobile, SDK, event]
 ---
-
-# Catalog Schema
 
 > Map an Engagement Mobile SDK catalog event to the catalog schema.
 

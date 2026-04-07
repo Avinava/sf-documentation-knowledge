@@ -5,12 +5,10 @@ topic: process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.712Z
+lastCollected: 2026-04-07T18:36:20.948Z
 estimatedTokens: 371
-keywords: [Process, Approvals, Accesses, approval, processes, submit, particular, record, entity, supports, already, defined, Records, approved, rejected]
+keywords: [Process, Approvals, Accesses, approval, processes, submit, particular, record, entity, supports, already, defined, Records, approved, rejected, current, user, assigned, approver]
 ---
-
-# Process Approvals
 
 > Accesses all approval processes. Can also be used to
    submit a particular record if that entity supports an approval process and one has already been

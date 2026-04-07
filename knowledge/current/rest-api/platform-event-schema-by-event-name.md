@@ -5,12 +5,10 @@ topic: platform-event-schema-by-event-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.043Z
+lastCollected: 2026-04-07T18:36:21.267Z
 estimatedTokens: 1107
-keywords: [Platform, Event, Schema, definition, JSON, Examples, API, Version, 43.0, Later, 42.0, Earlier, Apache, Avro]
+keywords: [Platform, Event, Schema, definition, JSON, Examples, API, 43.0, 42.0, Earlier, Apache, Avro]
 ---
-
-# Platform Event Schema by Event Name
 
 > Gets the definition of a platform event in JSON format for an event
       name.

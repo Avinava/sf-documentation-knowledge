@@ -5,12 +5,10 @@ topic: checkout-order-action-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.918Z
+lastCollected: 2026-04-07T18:37:07.645Z
 estimatedTokens: 243
-keywords: [Checkout, Order, Action, Input, representation, Commerce, store, checkout.request]
+keywords: [Checkout, Order, Action, Commerce, store, checkout.request]
 ---
-
-# Checkout Order Action List Input
 
 > Input representation of the Commerce store checkout.request.
 

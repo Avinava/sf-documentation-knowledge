@@ -5,12 +5,10 @@ topic: connectapipaymentcreditsequenceiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.689Z
+lastCollected: 2026-04-07T18:36:06.043Z
 estimatedTokens: 134
 keywords: [Order, Payment, Summary, credit, amount, individual, items, item, specific, applied, transaction]
 ---
-
-# ConnectApi.PaymentCreditSequenceItemInputRepresentation
 
 > Order Payment Summary ID, credit amount, and credit type for individual payment credit
     items. Each item represents a specific payment method and the amount of credit to be applied to

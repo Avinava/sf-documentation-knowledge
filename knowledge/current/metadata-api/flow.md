@@ -5,12 +5,10 @@ topic: flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.402Z
+lastCollected: 2026-04-07T18:36:30.772Z
 estimatedTokens: 49198
-keywords: [Flow, metadata, associated, encompasses, flow's, structure, logic, run-time, behavior, build, dynamic, applications, users, interactive, screens]
+keywords: [Flow, FlowActionCall, InvocableActionType, FlowActionCallInputParameter, FlowActionCallOutputParameter, FlowActionCallPath, FlowApexPluginCall, FlowApexPluginCallInputParameter, FlowApexPluginCallOutputParameter, FlowAssignment, FlowAssignmentItem, FlowAssignmentOperator, FlowBaseElement, FlowChoice, FlowChoiceUserInput, FlowCollectionProcessor, FlowCollectionSortOption, FlowCustomError, FlowCustomErrorMessage, FlowCondition, FlowCustomProperty, FlowConnector, FlowCollectionMapItem, FlowDataTypeMapping, FlowConstant, FlowDecision, FlowAttribute, FlowDynamicChoiceSet, FlowElement, FlowElementReferenceOrValue, FlowExitRule, FlowExperiment, FlowExperimentPath, FlowFormula, FlowIcon, FlowInlineTransform, FlowInputFieldAssignment, FlowInputValidationRule, FlowLoop, FlowMetadataValue, FlowNode, FlowOrchestratedStage, FlowOutputFieldAssignment, FlowRecordCreate, FlowRecordDelete, FlowRecordFilter, FlowRecordLookup, FlowRecordRollback, FlowRecordUpdate, FlowRule, FlowSchedule, FlowScheduledPath, FlowScreen, FlowScreenAction, FlowScreenActionInputParameter, FlowScreenField, FlowScreenFieldInputParameter, FlowScreenFieldOutputParameter, FlowScreenFieldStyleProperties, FlowScreenStyleSetting, FlowScreenTrigger, FlowScreenTriggerHandler, FlowStage, FlowStageStep, FlowStageStepAssignee, FlowStageStepEntryActionInputParameter, FlowStageStepEntryActionOutputParameter, FlowStageStepExitActionInputParameter, FlowStageStepExitActionOutputParameter, FlowStageStepInputParameter, FlowStageStepOutputConfigParam, FlowStageStepOutputParameter, FlowStart, FlowCapability, FlowCapabilityInput, FlowStartInputParameter, FlowStep, FlowSubflow, FlowSubflowInputAssignment, FlowSubflowOutputAssignment, FlowTransform, FlowTransformValue, FlowTransformValueAction, FlowTransformValueActionInputParameter, FlowTextTemplate, FlowValueMappingType, FlowVariable, FlowVisibilityRule, FlowWait, FlowWaitEvent, FlowWaitEventInputParameter, FlowWaitEventOutputParameter, metadata, encompasses, flow's, structure, logic, run-time, behavior, build]
 ---
-
-# Flow
 
 > Represents the metadata associated with a flow that encompasses the flow's structure,
         logic, and run-time behavior. It allows you to build dynamic applications that guide users

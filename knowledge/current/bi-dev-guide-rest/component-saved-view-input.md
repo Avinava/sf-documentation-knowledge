@@ -5,12 +5,10 @@ topic: component-saved-view-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.276Z
+lastCollected: 2026-04-07T18:36:54.636Z
 estimatedTokens: 122
-keywords: [Component, Saved, View, Input, Analytics]
+keywords: [Saved, View, Analytics]
 ---
-
-# Component Saved View Input
 
 > The saved view for an Analytics component.
 

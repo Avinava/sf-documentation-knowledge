@@ -5,12 +5,10 @@ topic: lightning-usage-by-browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.535Z
+lastCollected: 2026-04-07T18:36:20.772Z
 estimatedTokens: 308
-keywords: [Lightning, Usage, Browser, Experience, results, grouped, instance, resource, REST, API, version, 44.0, later]
+keywords: [Lightning, Browser, Experience, results, grouped, instance, resource, REST, API, 44.0]
 ---
-
-# Lightning Usage by Browser
 
 > Returns Lightning Experience usage results
    grouped by browser instance. This resource is available in REST API version 44.0 and

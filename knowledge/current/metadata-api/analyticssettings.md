@@ -5,12 +5,10 @@ topic: analyticssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.207Z
+lastCollected: 2026-04-07T18:36:22.461Z
 estimatedTokens: 6550
-keywords: [AnalyticsSettings, Analytics, settings, Salesforce, CRM, lets, explore, data, quickly, easily, providing, AI-powered, advanced, right, inside]
+keywords: [AnalyticsSettings, Analytics, settings, Salesforce, CRM, lets, explore, quickly, easily, providing, AI-powered, advanced, right, inside, Manage, datasets, query, Language, SAQL, customize, dashboards, configure, features, users, organization, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AnalyticsSettings
 
 > Represents Analytics settings in Salesforce. CRM
       Analytics lets you explore all your data quickly and easily by providing AI-powered advanced

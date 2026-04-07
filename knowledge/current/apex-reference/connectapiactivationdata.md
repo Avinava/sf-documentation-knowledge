@@ -5,12 +5,10 @@ topic: connectapiactivationdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.718Z
+lastCollected: 2026-04-07T18:36:07.061Z
 estimatedTokens: 238
-keywords: [ConnectApi.ActivationData, activation, data, Audience, Model, DMO]
+keywords: [ConnectApi.ActivationData, activation, Audience, Model, DMO]
 ---
-
-# ConnectApi.ActivationData
 
 > Represents the activation data for an Audience Data Model Object (DMO).
 

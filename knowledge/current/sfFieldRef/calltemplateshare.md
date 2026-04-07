@@ -5,12 +5,10 @@ topic: calltemplateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.054Z
+lastCollected: 2026-04-07T18:39:31.378Z
 estimatedTokens: 249
 keywords: [CallTemplateShare, Sharing, CallTemplate]
 ---
-
-# CallTemplateShare
 
 > Sharing for CallTemplate.
 

@@ -5,12 +5,10 @@ topic: bucket-v2-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.505Z
+lastCollected: 2026-04-07T18:39:18.186Z
 estimatedTokens: 104
-keywords: [Bucket, Input, version, recipe]
+keywords: [Bucket, recipe]
 ---
-
-# Bucket V2 Input
 
 > A version 2 bucket in a recipe.
 

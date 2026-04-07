@@ -5,12 +5,10 @@ topic: billing-fields-on-refundlinepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.254Z
+lastCollected: 2026-04-07T18:35:42.109Z
 estimatedTokens: 243
-keywords: [Billing, RefundLinePayment, Standard, extend, Refund, Line, Payment, represent, accounting, periods, legal, entities, API, version, 64.0]
+keywords: [Billing, RefundLinePayment, Standard, extend, Refund, Line, Payment, represent, accounting, periods, legal, entities, API, 64.0]
 ---
-
-# Billing Fields on RefundLinePayment
 
 > Standard fields extend the Refund Line Payment object for use in
          Billing to represent information about accounting periods for legal entities. This

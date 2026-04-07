@@ -5,12 +5,10 @@ topic: applicationcase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.979Z
+lastCollected: 2026-04-07T18:37:45.378Z
 estimatedTokens: 764
-keywords: [ApplicationCase, junction, stores, relationship, Case, IndividualApplication, API, version, 52.0, later, Provider, Network, Management, permission, license]
+keywords: [ApplicationCase, junction, stores, relationship, Case, IndividualApplication, API, 52.0, Provider, Network, Management, permission, license]
 ---
-
-# ApplicationCase
 
 > This junction object stores a relationship between Case and
          IndividualApplication. This object is available in API version 52.0 and later with the

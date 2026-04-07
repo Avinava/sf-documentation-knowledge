@@ -5,13 +5,11 @@ topic: pointsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.690Z
+lastCollected: 2026-04-07T18:38:06.905Z
 estimatedTokens: 157
 namespace: LoyaltyManagement
 keywords: [PointsInput, credit, loyalty, points, program, member’s, balance, debit]
 ---
-
-# PointsInput Class
 
 > Use this class to credit loyalty points to a loyalty program member’s
       balance or debit loyalty points from a loyalty program member’s balance.

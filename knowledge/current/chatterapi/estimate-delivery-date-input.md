@@ -5,12 +5,10 @@ topic: estimate-delivery-date-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.456Z
+lastCollected: 2026-04-07T18:37:08.283Z
 estimatedTokens: 179
-keywords: [Estimate, Delivery, Date, Input, estimation]
+keywords: [Estimate, Delivery, Date, estimation]
 ---
-
-# Estimate Delivery Date Input
 
 > Delivery date estimation information.
 

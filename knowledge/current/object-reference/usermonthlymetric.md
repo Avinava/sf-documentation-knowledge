@@ -5,12 +5,10 @@ topic: usermonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.908Z
+lastCollected: 2026-04-07T18:38:43.677Z
 estimatedTokens: 3030
-keywords: [UserMonthlyMetric, monthly, engagement, metrics, user, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [UserMonthlyMetric, monthly, engagement, metrics, user, API, 52.0]
 ---
-
-# UserMonthlyMetric
 
 > Represents the monthly engagement metrics for a user. This object is
       available in API version 52.0 and later.

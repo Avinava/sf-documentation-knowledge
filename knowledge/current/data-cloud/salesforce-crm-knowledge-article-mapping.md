@@ -5,12 +5,10 @@ topic: salesforce-crm-knowledge-article-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.191Z
+lastCollected: 2026-04-07T18:35:53.127Z
 estimatedTokens: 241
-keywords: [Salesforce, CRM, Knowledge, Article, Mapping, data, mappings, Knowledge_ka, DLO, found, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, Knowledge, Article, Mapping, mappings, Knowledge_ka, DLO, found, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Knowledge Article Mapping
 
 > These data mappings are for the Knowledge_ka DLO found in the Knowledge bundle of the
   Salesforce CRM Connector for Data Cloud.

@@ -5,12 +5,10 @@ topic: waitlist-service-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.697Z
+lastCollected: 2026-04-07T18:37:23.757Z
 estimatedTokens: 111
-keywords: [Waitlist, Service, Resource, Output, representation, resources, individual, users, attend, customer, appointments]
+keywords: [Waitlist, Service, Resource, resources, individual, users, attend, customer, appointments]
 ---
-
-# Waitlist Service Resource
 
 > Output representation of the waitlist service resource. Service
       resources are individual users who can attend customer appointments.

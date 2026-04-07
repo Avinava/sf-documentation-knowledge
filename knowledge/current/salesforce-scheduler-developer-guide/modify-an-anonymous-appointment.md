@@ -5,12 +5,10 @@ topic: modify-an-anonymous-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.762Z
+lastCollected: 2026-04-07T18:39:21.627Z
 estimatedTokens: 803
 keywords: [Modify, Anonymous, Appointment, case, explains, how, change, service, resource, Salesforce, Scheduler, APIs]
 ---
-
-# Modify an Anonymous Appointment
 
 > This use case explains how to change the service resource of an existing anonymous
       service appointment by using Salesforce Scheduler APIs.

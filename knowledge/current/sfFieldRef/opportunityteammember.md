@@ -5,12 +5,10 @@ topic: opportunityteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.189Z
+lastCollected: 2026-04-07T18:39:50.609Z
 estimatedTokens: 284
 keywords: [OpportunityTeamMember, User, opportunity, team]
 ---
-
-# OpportunityTeamMember
 
 > Represents a User on the
    opportunity team of an Opportunity.

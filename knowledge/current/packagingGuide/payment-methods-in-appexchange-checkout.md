@@ -5,12 +5,10 @@ topic: payment-methods-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.032Z
+lastCollected: 2026-04-07T18:38:45.865Z
 estimatedTokens: 437
 keywords: [Payment, AppExchange, Checkout, supports, two, credit, cards, bank, account, transfers, accept, listing]
 ---
-
-# Payment Methods in AppExchange Checkout
 
 > Checkout supports two payment methods: credit cards and bank account transfers. You can
   accept one or both payment methods on your listing.

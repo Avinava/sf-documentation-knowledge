@@ -5,12 +5,10 @@ topic: group-appointment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.562Z
+lastCollected: 2026-04-07T18:39:20.261Z
 estimatedTokens: 417
-keywords: [Group, Appointment, Result, Output, representation, specific]
+keywords: [Group, Appointment, Result, specific]
 ---
-
-# Group Appointment Result
 
 > Output representation that contains the details of a specific group
     appointment.

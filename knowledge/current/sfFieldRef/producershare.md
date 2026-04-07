@@ -5,12 +5,10 @@ topic: producershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.661Z
+lastCollected: 2026-04-07T18:39:55.223Z
 estimatedTokens: 247
 keywords: [ProducerShare, Sharing, Producer]
 ---
-
-# ProducerShare
 
 > Sharing for Producer.
 

@@ -5,12 +5,10 @@ topic: searchlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.058Z
+lastCollected: 2026-04-07T18:38:40.659Z
 estimatedTokens: 647
-keywords: [SearchLayout, search, layout, defined, API, version, 35.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [SearchLayout, search, layout, defined, API, 35.0]
 ---
-
-# SearchLayout
 
 > Represents a search layout defined for an object. This object is
       available in API version 35.0 and later.

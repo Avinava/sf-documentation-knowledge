@@ -5,12 +5,10 @@ topic: hotelstayenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.218Z
+lastCollected: 2026-04-07T18:38:18.826Z
 estimatedTokens: 2510
-keywords: [HotelStayEnrgyUse, energy, consumption, hotel, stay, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [HotelStayEnrgyUse, energy, consumption, hotel, stay, API, 54.0]
 ---
-
-# HotelStayEnrgyUse
 
 > Represents the energy consumption related to hotel stay. This object is
       available in API version 54.0 and later.

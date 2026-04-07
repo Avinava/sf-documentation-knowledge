@@ -5,12 +5,10 @@ topic: commerce-webstore-category-menu-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.468Z
+lastCollected: 2026-04-07T18:37:12.347Z
 estimatedTokens: 305
 keywords: [Commerce, Webstore, Category, Menu, Items, Retrieve, product, parent, item, store]
 ---
-
-# Commerce Webstore Category Menu Items
 
 > Retrieve product category menu items for the given parent item and
       store.

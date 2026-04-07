@@ -5,12 +5,10 @@ topic: priceadjustmenttierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.988Z
+lastCollected: 2026-04-07T18:39:54.538Z
 estimatedTokens: 269
-keywords: [PriceAdjustmentTierHistory, History, tracked, PriceAdjustmentTier]
+keywords: [PriceAdjustmentTierHistory, tracked, PriceAdjustmentTier]
 ---
-
-# PriceAdjustmentTierHistory
 
 > History for tracked fields of PriceAdjustmentTier.
 

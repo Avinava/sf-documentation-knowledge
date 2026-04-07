@@ -5,12 +5,10 @@ topic: processinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:47.133Z
+lastCollected: 2026-04-07T18:38:38.517Z
 estimatedTokens: 2324
-keywords: [ProcessInstance, instance, end-to-end, approval, process, node, step, workitem, objects, history, reports, Calls, Usage, Associated]
+keywords: [ProcessInstance, instance, end-to-end, approval, process, node, step, workitem, reports]
 ---
-
-# ProcessInstance
 
 > Represents an instance of a single, end-to-end 
  	approval process. Use this and the node, step, and workitem process instance objects 

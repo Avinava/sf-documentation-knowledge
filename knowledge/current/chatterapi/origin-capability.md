@@ -5,12 +5,10 @@ topic: origin-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.411Z
+lastCollected: 2026-04-07T18:37:21.532Z
 estimatedTokens: 156
-keywords: [Origin, Capability, feed, element, created, action]
+keywords: [Origin, Capability, created, action]
 ---
-
-# Origin Capability
 
 > If a feed element has this capability, it was created by a feed
       action.

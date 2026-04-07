@@ -5,12 +5,10 @@ topic: resourcepreferencefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.546Z
+lastCollected: 2026-04-07T18:40:00.274Z
 estimatedTokens: 362
-keywords: [ResourcePreferenceFeed, Feed, tracking, ResourcePreference]
+keywords: [ResourcePreferenceFeed, ResourcePreference]
 ---
-
-# ResourcePreferenceFeed
 
 > Feed tracking for ResourcePreference.
 

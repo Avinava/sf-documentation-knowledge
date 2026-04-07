@@ -5,12 +5,10 @@ topic: replace-strings-in-code-before-deploying-or-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.052Z
+lastCollected: 2026-04-07T18:40:09.034Z
 estimatedTokens: 2523
-keywords: [Replace, Strings, Code, Deploying, Packaging, Automatically, metadata, source, files, specific, right, deploy, org, package, version]
+keywords: [Examples, Replace, Strings, Code, Deploying, Packaging, Automatically, metadata, source, files, specific, right, deploy, org, package, Configure, Replacement, Tips, Tricks, Considerations, Limitations, Test, Replacements]
 ---
-
-# Replace Strings in Code Before Deploying or Packaging
 
 > Automatically replace strings in your metadata source files with specific values right
     before you deploy the files to an org or create a package version.

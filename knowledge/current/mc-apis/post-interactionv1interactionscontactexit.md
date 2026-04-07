@@ -5,12 +5,10 @@ topic: post-interactionv1interactionscontactexit
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.683Z
+lastCollected: 2026-04-07T18:40:15.798Z
 estimatedTokens: 388
-keywords: [POST, interaction, interactions, contactexit, Removes, contacts, journey, versions, **Overview**, Usage, Errors]
+keywords: [POST, interaction, interactions, contactexit, Removes, contacts, journey, versions, **Overview**, Errors]
 ---
-
-# POST /interaction/v1/interactions/contactexit
 
 > Removes up to 50 contacts from a journey or from one or more versions of a journey.
 

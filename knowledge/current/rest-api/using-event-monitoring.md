@@ -5,12 +5,10 @@ topic: using-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.423Z
+lastCollected: 2026-04-07T18:36:21.673Z
 estimatedTokens: 1748
-keywords: [Event, Monitoring, examples, REST, API, data, useful, assessing, org, usage, trends, user, behavior, accessed, Lightning]
+keywords: [Event, Monitoring, examples, REST, API, useful, assessing, org, trends, user, behavior, accessed, Lightning, Platform, SOAP, way, EventLogFile, Therefore, integrate, log, own, back-end, storage, marts, correlate, multiple, orgs, across, disparate, systems]
 ---
-
-# Using Event Monitoring
 
 > These examples use REST API event monitoring data that contains information useful for
     assessing org usage trends and user behavior. Event monitoring is accessed through the Lightning

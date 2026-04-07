@@ -5,12 +5,10 @@ topic: financialdealinteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.465Z
+lastCollected: 2026-04-07T18:37:37.245Z
 estimatedTokens: 844
-keywords: [FinancialDealInteraction, junction, interaction, financial, deal, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [FinancialDealInteraction, junction, interaction, financial, deal, API, 53.0]
 ---
-
-# FinancialDealInteraction
 
 > Represents a junction between an interaction and a financial deal. This
       object is available in API version 53.0 and later.

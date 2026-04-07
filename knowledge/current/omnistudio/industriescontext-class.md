@@ -5,13 +5,11 @@ topic: industriescontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.007Z
+lastCollected: 2026-04-07T18:36:35.499Z
 estimatedTokens: 2934
 namespace: Context
-keywords: [IndustriesContext, query, persist, context, record's, status, tags, attributes, addRecordsToContext, input, buildContext, deleteContext, evictContextDefinition, filteringContext, getContext]
+keywords: [IndustriesContext, query, persist, context, record's, status, tags, attributes, addRecordsToContext, buildContext, deleteContext, evictContextDefinition, filteringContext, getContext, getContextTranslation, leanerQueryTags, persistContext, queryContextRecordsAndChildren, queryRecordStatus, queryTags, updateContextAttributes]
 ---
-
-# IndustriesContext Class
 
 > Contains methods to create, query, persist, or delete a context. Also, query a record's
     status, query a context based on tags, or update context attributes by using the available

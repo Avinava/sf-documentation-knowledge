@@ -5,12 +5,10 @@ topic: describemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.381Z
+lastCollected: 2026-04-07T18:36:24.794Z
 estimatedTokens: 395
-keywords: [describeMetadata, call, retrieves, metadata, organization, includes, Apex, classes, triggers, custom, objects, standard, tab, define, app]
+keywords: [Arguments, Permissions, describeMetadata, call, retrieves, metadata, organization, includes, Apex, classes, triggers, standard, tab, define, app, Sample, Code—Java, describeValueType]
 ---
-
-# describeMetadata()
 
 > This call retrieves the metadata that describes your organization. This information
     includes Apex classes and triggers, custom objects, custom fields on standard objects, tab sets

@@ -5,12 +5,10 @@ topic: drpreparepayload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.039Z
+lastCollected: 2026-04-07T18:38:11.310Z
 estimatedTokens: 115
-keywords: [DRPreparePayload, Omnistudio, Data, Mapper, agent, console, transform, itemI, array, Change, Base, workflow, Sample, Input, Output]
+keywords: [DRPreparePayload, Omnistudio, Mapper, agent, console, transform, itemI, array, Change, Base, workflow, Sample]
 ---
-
-# DRPreparePayload
 
 > This Omnistudio Data Mapper is used in the agent console to
     transform the itemI D list in an array format in the Change Base workflow.

@@ -5,12 +5,10 @@ topic: standard-design-tokens-forcebase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.626Z
+lastCollected: 2026-04-07T18:38:05.848Z
 estimatedTokens: 2775
 keywords: [Standard, Design, Tokens—, force, base, tokens, subset, offered, Salesforce, Lightning, System, SLDS, extending]
 ---
-
-# Standard Design Tokens— force:base
 
 > The standard tokens available are a subset of the design tokens offered in the Salesforce Lightning Design System (SLDS). The
   following tokens are available when extending from force:base.

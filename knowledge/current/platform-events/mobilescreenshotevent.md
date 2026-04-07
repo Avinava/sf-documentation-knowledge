@@ -5,12 +5,10 @@ topic: mobilescreenshotevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.590Z
+lastCollected: 2026-04-07T18:38:59.506Z
 estimatedTokens: 757
-keywords: [MobileScreenshotEvent, Tracks, users’, screenshots, Salesforce, mobile, app, Enhanced, Security, API, version, 47.0, later, Calls, Subscribers]
+keywords: [MobileScreenshotEvent, Tracks, users’, screenshots, Salesforce, mobile, app, Enhanced, Security, API, 47.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# MobileScreenshotEvent
 
 > Tracks your users’ screenshots in a Salesforce mobile app with Enhanced
 			Mobile Security. This object is available in API version 47.0 and

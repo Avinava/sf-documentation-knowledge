@@ -5,13 +5,11 @@ topic: oaas-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.589Z
+lastCollected: 2026-04-07T18:36:46.439Z
 estimatedTokens: 6955
 namespace: FSL
-keywords: [OAAS, optimization, services, in-day, optimizations, reshuffle, operations, resource, schedule, Usage, optimize, serviceId, policyId, resourceDayOptimization, resourceId]
+keywords: [OAAS, optimization, services, in-day, optimizations, reshuffle, operations, resource, schedule, optimize, serviceId, policyId, resourceDayOptimization, resourceId, horizon, includeAllTasks, includeOnlyResourceFutureSA, radius, candidateSasFields, unschedulableServicesField, maxOptRuntime, nowTimeOnSchedule, candidateSas, unschedulableServices]
 ---
-
-# OAAS Class
 
 > Contains all the methods used in the available optimization services,
       such as global or in-day optimizations, reshuffle operations, and resource schedule

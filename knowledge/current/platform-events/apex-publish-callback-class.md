@@ -5,12 +5,10 @@ topic: apex-publish-callback-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.380Z
+lastCollected: 2026-04-07T18:38:58.233Z
 estimatedTokens: 1225
-keywords: [Apex, Publish, Callback, result, asynchronous, operation, completes, final, ready, system, implement, two, interfaces, EventBus.EventPublishFailureCallback, failed]
+keywords: [Apex, Publish, Callback, result, asynchronous, operation, completes, final, ready, system, implement, two, interfaces, EventBus.EventPublishFailureCallback, failed, publishes, EventBus.EventPublishSuccessCallback, successful, Track, Event, Failures, Successes]
 ---
-
-# Apex Publish Callback Class
 
 > An Apex publish callback contains the result of an asynchronous publish operation in
     Apex. After the publish operation completes and the final result is ready, the system returns a

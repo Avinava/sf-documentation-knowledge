@@ -5,12 +5,10 @@ topic: usageratablesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.881Z
+lastCollected: 2026-04-07T18:35:50.763Z
 estimatedTokens: 1735
-keywords: [UsageRatableSummary, aggregation, usage, summaries, calculate, rate, overages, charged, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UsageRatableSummary, aggregation, summaries, calculate, rate, overages, charged, API, 63.0]
 ---
-
-# UsageRatableSummary
 
 > Represents the aggregation of the usage summaries that are used to
          calculate the rate at which the overages are charged. This object is available in API

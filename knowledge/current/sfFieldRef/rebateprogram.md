@@ -5,12 +5,10 @@ topic: rebateprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.016Z
+lastCollected: 2026-04-07T18:39:58.673Z
 estimatedTokens: 372
 keywords: [RebateProgram, rebate, program, organization, runs, account, accounts, specific]
 ---
-
-# RebateProgram
 
 > The rebate program your organization runs with a single account, all accounts,
       or specific list of accounts.

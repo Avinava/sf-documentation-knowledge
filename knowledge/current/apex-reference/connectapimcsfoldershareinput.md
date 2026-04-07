@@ -5,12 +5,10 @@ topic: connectapimcsfoldershareinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.328Z
+lastCollected: 2026-04-07T18:36:05.675Z
 estimatedTokens: 174
 keywords: [ConnectApi.MCSFolderShareInput, Target, share, managed, content, space, folder]
 ---
-
-# ConnectApi.MCSFolderShareInput
 
 > Target to share a managed content space folder with.
 

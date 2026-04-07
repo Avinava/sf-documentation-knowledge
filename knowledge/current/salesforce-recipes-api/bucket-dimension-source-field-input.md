@@ -5,12 +5,10 @@ topic: bucket-dimension-source-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.459Z
+lastCollected: 2026-04-07T18:39:18.138Z
 estimatedTokens: 103
-keywords: [Bucket, Dimension, Source, Input, node, recipe]
+keywords: [Bucket, Dimension, Source, node, recipe]
 ---
-
-# Bucket Dimension Source Field Input
 
 > A dimension source field for a bucket node in a recipe.
 

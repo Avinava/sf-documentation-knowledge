@@ -7,14 +7,10 @@ topic: use-a-cms-with-your-experience-builder-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.667Z
+lastCollected: 2026-04-07T18:37:26.591Z
 estimatedTokens: 182
-keywords: [CMS, Experience, Builder, Site, Content, management, systems, give, power, reuse, rather, having, duplicate, feed, multiple]
+keywords: [CMS, Experience, Builder, Site, Content, management, systems, give, power, reuse, rather, having, duplicate, multiple, sites, centrally, keep, current, everywhere, once]
 ---
-
-# Use a CMS with
-    Your
-    Experience Builder Site
 
 > Content management systems (CMS) give you the power to reuse content rather than having
     to duplicate it. Using a CMS, you can feed content to multiple sites and also centrally update

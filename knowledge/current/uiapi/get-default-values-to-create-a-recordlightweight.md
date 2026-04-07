@@ -5,12 +5,10 @@ topic: get-default-values-to-create-a-recordlightweight
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.278Z
+lastCollected: 2026-04-07T18:40:11.276Z
 estimatedTokens: 581
 keywords: [Record—Lightweight, new, record, specify, want, resource, doesn’t, layout, getting, POST, ui-api, records]
 ---
-
-# Get Default Values to Create a Record—Lightweight
 
 > Get the default values for fields for a new record of a specified
       object and optional record type. You must specify the fields you want returned. This resource

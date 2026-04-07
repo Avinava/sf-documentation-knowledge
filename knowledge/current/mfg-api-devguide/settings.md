@@ -5,12 +5,10 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.840Z
+lastCollected: 2026-04-07T18:38:13.172Z
 estimatedTokens: 663
-keywords: [Settings, organization, feature, password, policies, session, network, access, SecuritySettings, component]
+keywords: [Settings, organization, feature, password, policies, session, network, SecuritySettings]
 ---
-
-# Settings
 
 > Represents the organization settings related to a feature. For example, your password
     policies, session settings and network access controls are all available in the SecuritySettings

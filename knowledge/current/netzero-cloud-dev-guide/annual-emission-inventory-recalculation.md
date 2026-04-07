@@ -5,12 +5,10 @@ topic: annual-emission-inventory-recalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.691Z
+lastCollected: 2026-04-07T18:38:16.237Z
 estimatedTokens: 136
-keywords: [Annual, Emission, Inventory, Recalculation, Recalculate, record, whenever, data, factors]
+keywords: [Annual, Emission, Inventory, Recalculation, Recalculate, record, whenever, factors]
 ---
-
-# Annual Emission Inventory Recalculation
 
 > Recalculate a record whenever you update data, such as emission
       factors.

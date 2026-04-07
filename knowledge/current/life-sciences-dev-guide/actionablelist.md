@@ -5,12 +5,10 @@ topic: actionablelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.035Z
+lastCollected: 2026-04-07T18:37:57.595Z
 estimatedTokens: 2226
-keywords: [ActionableList, actionable, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ActionableList, actionable, API, 65.0]
 ---
-
-# ActionableList
 
 > Represents an actionable list. This object is available in API version 65.0
          and later.

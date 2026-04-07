@@ -5,12 +5,10 @@ topic: promotionsegmentsalesstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.665Z
+lastCollected: 2026-04-07T18:38:39.165Z
 estimatedTokens: 1251
-keywords: [PromotionSegmentSalesStore, promotion, segment, associated, store, B2B, Commerce, API, version, 52.0, later, Calls, Special, Access, Rules]
+keywords: [PromotionSegmentSalesStore, promotion, segment, store, B2B, Commerce, API, 52.0]
 ---
-
-# PromotionSegmentSalesStore
 
 > Represents a promotion segment, associated with a store, and used for B2B
          Commerce. This object is available in API version 52.0 and later.

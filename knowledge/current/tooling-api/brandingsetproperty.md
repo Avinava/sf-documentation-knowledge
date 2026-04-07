@@ -5,12 +5,10 @@ topic: brandingsetproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.494Z
+lastCollected: 2026-04-07T18:36:31.918Z
 estimatedTokens: 191
-keywords: [BrandingSetProperty, branding, Theme, panel, Experience, Builder, API, version, 40.0, later, SOAP, Calls, REST]
+keywords: [BrandingSetProperty, branding, Theme, panel, Experience, Builder, API, 40.0, SOAP, REST]
 ---
-
-# BrandingSetProperty
 
 > Represents a branding set property in the Theme panel in Experience
       Builder. This object is available in API version 40.0 and later.

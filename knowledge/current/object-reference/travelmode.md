@@ -5,12 +5,10 @@ topic: travelmode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.171Z
+lastCollected: 2026-04-07T18:38:42.886Z
 estimatedTokens: 854
-keywords: [TravelMode, travel, mode, time, calculations, records, include, transportation, Car, Walking, whether, vehicle, take, toll, roads]
+keywords: [TravelMode, travel, mode, time, calculations, records, include, transportation, Car, Walking, whether, vehicle, take, toll, roads, transporting, hazardous, materials, API, 54.0]
 ---
-
-# TravelMode
 
 > Represents a travel mode used for travel time calculations. The records
          include information about the type of transportation (such as Car or Walking), whether a

@@ -5,12 +5,10 @@ topic: fscplansandgoalsutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.401Z
+lastCollected: 2026-04-07T18:37:33.836Z
 estimatedTokens: 161
 keywords: [FSCPlansAndGoalsUtil, utilities, Apex, classes, fschousehold]
 ---
-
-# FSCPlansAndGoalsUtil Class
 
 > The FSCPlansAndGoalsUtil class provides utilities to the other Apex classes in the
       fschousehold namespace.

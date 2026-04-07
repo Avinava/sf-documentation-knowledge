@@ -5,12 +5,10 @@ topic: using-soql-queries-that-return-one-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.031Z
+lastCollected: 2026-04-07T18:36:19.254Z
 estimatedTokens: 346
-keywords: [SOQL, Queries, Record, assign, sObject, result, element]
+keywords: [SOQL, Queries, Record, assign, sObject, result]
 ---
-
-# Using SOQL Queries That Return One Record
 
 > SOQL queries can be used to assign a single sObject value when the result list contains
   only one element.

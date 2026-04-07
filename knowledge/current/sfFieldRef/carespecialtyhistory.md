@@ -5,12 +5,10 @@ topic: carespecialtyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.676Z
+lastCollected: 2026-04-07T18:39:33.083Z
 estimatedTokens: 261
-keywords: [CareSpecialtyHistory, History, tracked, CareSpecialty]
+keywords: [CareSpecialtyHistory, tracked, CareSpecialty]
 ---
-
-# CareSpecialtyHistory
 
 > History for tracked fields of CareSpecialty.
 

@@ -5,12 +5,10 @@ topic: fhir-patient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.596Z
+lastCollected: 2026-04-07T18:37:56.037Z
 estimatedTokens: 673
-keywords: [FHIR, Patient, output, representation, stored, Salesforce, input]
+keywords: [FHIR, Patient, stored, Salesforce]
 ---
-
-# FHIR Patient
 
 > The output representation of the patient stored in Salesforce, as
       specified in the input request.

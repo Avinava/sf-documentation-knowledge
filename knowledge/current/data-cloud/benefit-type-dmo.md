@@ -5,12 +5,10 @@ topic: benefit-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.408Z
+lastCollected: 2026-04-07T18:35:52.240Z
 estimatedTokens: 414
-keywords: [Benefit, DMO, Data, Cloud, model, benefits, loyalty, program, healthcare, financial, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Benefit, DMO, Cloud, model, benefits, loyalty, program, healthcare, financial, API, Primary, Subject, Area, Key]
 ---
-
-# Benefit Type DMO
 
 > The Benefit Type DMO is a Data Cloud data model object (DMO) 
       for the types of benefits of a loyalty program, such as healthcare, financial, and loyalty.

@@ -5,12 +5,10 @@ topic: handling-bubbled-or-captured-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.958Z
+lastCollected: 2026-04-07T18:38:04.058Z
 estimatedTokens: 1805
-keywords: [Handling, Bubbled, Captured, Component, Events, Event, propagation, rules, determine, components, containment, hierarchy, handle, bubble, capture]
+keywords: [Handling, Bubbled, Captured, Events, Event, propagation, determine, containment, hierarchy, handle, bubble, capture, phases, how, Container, Stop, Pausing, Asynchronous, Code, Execution, Bubbling]
 ---
-
-# Handling Bubbled or Captured Component Events
 
 > Event propagation rules determine which components in the containment hierarchy can
         handle events by default in the bubble or capture phases. Learn about the rules and how to

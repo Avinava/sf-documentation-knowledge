@@ -5,12 +5,10 @@ topic: carespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.817Z
+lastCollected: 2026-04-07T18:39:08.055Z
 estimatedTokens: 1027
-keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions]
 ---
-
-# CareSpecialty
 
 > Represents a listing of provider specialty codes and
       descriptions.

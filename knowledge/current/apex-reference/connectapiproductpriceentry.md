@@ -5,12 +5,10 @@ topic: connectapiproductpriceentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.853Z
+lastCollected: 2026-04-07T18:36:11.118Z
 estimatedTokens: 197
 keywords: [ConnectApi.ProductPriceEntry, Line, item, price, product]
 ---
-
-# ConnectApi.ProductPriceEntry
 
 > Line item price for the product.
 

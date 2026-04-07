@@ -5,13 +5,11 @@ topic: membertierinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.670Z
+lastCollected: 2026-04-07T18:38:06.878Z
 estimatedTokens: 106
 namespace: LoyaltyManagement
 keywords: [MemberTierInput, retrieve, current, tier, loyalty, program, member]
 ---
-
-# MemberTierInput Class
 
 > Use this class to retrieve the current tier for a specified loyalty
       program member.

@@ -5,12 +5,10 @@ topic: tagcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.089Z
+lastCollected: 2026-04-07T18:37:38.997Z
 estimatedTokens: 509
-keywords: [TagCategory, Group, similar, interest, tags, together, tag, categories, API, version, 54.0, later, Calls]
+keywords: [TagCategory, Group, similar, interest, tags, together, tag, categories, API, 54.0]
 ---
-
-# TagCategory
 
 > Group similar interest tags together into tag categories. This object is
       available in API version 54.0 and later.

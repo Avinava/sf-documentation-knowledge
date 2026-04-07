@@ -5,12 +5,10 @@ topic: connectapirecordsnapshotcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.230Z
+lastCollected: 2026-04-07T18:36:11.515Z
 estimatedTokens: 207
-keywords: [ConnectApi.RecordSnapshotCapability, feed, element, capability, snapshotted, record, event]
+keywords: [ConnectApi.RecordSnapshotCapability, capability, snapshotted, record, event]
 ---
-
-# ConnectApi.RecordSnapshotCapability
 
 > If a feed element has this capability, it contains all the snapshotted
       fields of a record for a single create record event.

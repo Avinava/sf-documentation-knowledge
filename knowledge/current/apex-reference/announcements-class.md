@@ -5,13 +5,11 @@ topic: announcements-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.467Z
+lastCollected: 2026-04-07T18:35:55.592Z
 estimatedTokens: 2766
 namespace: ConnectApi
-keywords: [Announcements, Usage, deleteAnnouncement, communityId, announcementId, API, Version, Requires, Chatter, getAnnouncement, getAnnouncements, parentId, Guest, Users, pageParam]
+keywords: [Announcements, deleteAnnouncement, communityId, announcementId, API, Requires, Chatter, getAnnouncement, getAnnouncements, parentId, Guest, Users, pageParam, pageSize, postAnnouncement, announcement, updateAnnouncement, expirationDate]
 ---
-
-# Announcements Class
 
 > Get the first page of announcements.
 

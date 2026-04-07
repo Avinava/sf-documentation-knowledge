@@ -5,12 +5,10 @@ topic: xml-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.645Z
+lastCollected: 2026-04-07T18:36:18.865Z
 estimatedTokens: 142
 keywords: [XML, Support, Apex, utility, classes, enable, creation, parsing, content, streams, DOM]
 ---
-
-# XML Support
 
 > Apex provides utility classes that enable the creation and parsing of
 XML content using streams and the DOM.

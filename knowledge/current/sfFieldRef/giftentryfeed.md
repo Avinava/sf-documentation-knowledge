@@ -5,12 +5,10 @@ topic: giftentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.039Z
+lastCollected: 2026-04-07T18:39:42.680Z
 estimatedTokens: 385
-keywords: [GiftEntryFeed, Feed, tracking, GiftEntry]
+keywords: [GiftEntryFeed, GiftEntry]
 ---
-
-# GiftEntryFeed
 
 > Feed tracking for GiftEntry.
 

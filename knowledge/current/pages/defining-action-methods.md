@@ -5,12 +5,10 @@ topic: defining-action-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.687Z
+lastCollected: 2026-04-07T18:38:51.992Z
 estimatedTokens: 1159
-keywords: [Defining, Action, sample, described, Input, Components, command, button, bound, save, Account, standard, controller, adapt, previous]
+keywords: [Defining, Action, sample, described, command, button, bound, save, Account, standard, controller, adapt, previous, now, uses, MyController]
 ---
-
-# Defining Action Methods
 
 > For example, in the sample page described in Using Input Components in a Page, a command button is bound to the save method in the Account standard controller. We can adapt that previous
             example so that it now uses the MyController custom controller:

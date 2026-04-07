@@ -5,12 +5,10 @@ topic: configuring-salesforce-billing-to-access-your-paymentgatewayapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.455Z
+lastCollected: 2026-04-07T18:37:03.011Z
 estimatedTokens: 236
-keywords: [Configuring, Salesforce, Billing, Access, PaymentGatewayAPI, integrate, payment, gateway, package, know, process, convert, results, data, custom]
+keywords: [Configuring, Salesforce, Billing, PaymentGatewayAPI, integrate, payment, gateway, package, know, process, convert, results, setting, Config, add, code, installs, record, PaymentGatewayConfig]
 ---
-
-# Configuring Salesforce Billing to Access Your PaymentGatewayAPI Class
 
 > To integrate with a payment gateway package, Salesforce Billing must know which gateway
         package class contains the methods required to process a payment request and convert the

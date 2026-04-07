@@ -5,12 +5,10 @@ topic: productlistratehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.320Z
+lastCollected: 2026-04-07T18:39:55.893Z
 estimatedTokens: 264
-keywords: [ProductListRateHistory, History, tracked, ProductListRate]
+keywords: [ProductListRateHistory, tracked, ProductListRate]
 ---
-
-# ProductListRateHistory
 
 > History for tracked fields of ProductListRate.
 

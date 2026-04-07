@@ -5,12 +5,10 @@ topic: service-appointment-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.575Z
+lastCollected: 2026-04-07T18:39:20.270Z
 estimatedTokens: 72
-keywords: [Service, Appointment, Output, POST]
+keywords: [Service, Appointment, POST]
 ---
-
-# Service Appointment Output
 
 > Output of the service appointment POST method.
 

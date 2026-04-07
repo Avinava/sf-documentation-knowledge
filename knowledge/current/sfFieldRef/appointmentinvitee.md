@@ -5,12 +5,10 @@ topic: appointmentinvitee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.739Z
+lastCollected: 2026-04-07T18:39:26.696Z
 estimatedTokens: 331
-keywords: [AppointmentInvitee, participant, resources, creating, appointment, invitation, URL, API, version, 55.0, later]
+keywords: [AppointmentInvitee, participant, resources, creating, appointment, invitation, URL, API, 55.0]
 ---
-
-# AppointmentInvitee
 
 > Represents information about the participant and resources required
          for creating an appointment invitation URL. This object is available in API version

@@ -5,12 +5,10 @@ topic: media-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:22.279Z
+lastCollected: 2026-04-07T18:37:09.052Z
 estimatedTokens: 289
-keywords: [Media, Settings, Input, applicable, product, rows, import, csv, file]
+keywords: [Media, Settings, applicable, product, rows, import, csv, file]
 ---
-
-# Media Settings Input
 
 > Media settings applicable to all product rows in a product import
       .csv file.

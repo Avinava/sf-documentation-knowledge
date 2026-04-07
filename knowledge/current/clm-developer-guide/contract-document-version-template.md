@@ -5,12 +5,10 @@ topic: contract-document-version-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.076Z
+lastCollected: 2026-04-07T18:37:25.034Z
 estimatedTokens: 278
-keywords: [Contract, Document, Version, Template, Change]
+keywords: [Contract, Document, Template, Change]
 ---
-
-# Contract Document Version Template
 
 > Change the template in a contract document version.
 

@@ -5,12 +5,10 @@ topic: filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.090Z
+lastCollected: 2026-04-07T18:37:34.642Z
 estimatedTokens: 124
 keywords: [Filter, Criteria, queries, financial, goals, households]
 ---
-
-# Filter Criteria
 
 > Filter criteria for queries of financial goals and households.
 

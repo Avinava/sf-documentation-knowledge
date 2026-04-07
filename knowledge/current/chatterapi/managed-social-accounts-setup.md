@@ -5,12 +5,10 @@ topic: managed-social-accounts-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.484Z
+lastCollected: 2026-04-07T18:37:14.462Z
 estimatedTokens: 760
 keywords: [Managed, Social, Accounts, Setup, Add, recently, authenticated, network, account, entities]
 ---
-
-# Managed Social Accounts Setup
 
 > Add managed social accounts and get managed social accounts from a
       recently authenticated social network.

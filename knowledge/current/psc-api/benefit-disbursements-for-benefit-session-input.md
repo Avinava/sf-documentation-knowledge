@@ -5,12 +5,10 @@ topic: benefit-disbursements-for-benefit-session-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.758Z
+lastCollected: 2026-04-07T18:39:00.889Z
 estimatedTokens: 113
-keywords: [Benefit, Disbursements, Session, Input, representation]
+keywords: [Benefit, Disbursements, Session]
 ---
-
-# Benefit Disbursements for Benefit Session Input
 
 > Input representation of the request to create benefit disbursements
       for a benefit session.

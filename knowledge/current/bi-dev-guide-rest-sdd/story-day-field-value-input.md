@@ -5,12 +5,10 @@ topic: story-day-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.399Z
+lastCollected: 2026-04-07T18:36:58.896Z
 estimatedTokens: 202
-keywords: [Story, Day, Input, data]
+keywords: [Story, Day]
 ---
-
-# Story Day Field Value Input
 
 > The story data day property.
 

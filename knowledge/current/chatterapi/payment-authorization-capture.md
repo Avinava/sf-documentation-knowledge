@@ -5,12 +5,10 @@ topic: payment-authorization-capture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.018Z
+lastCollected: 2026-04-07T18:37:15.062Z
 estimatedTokens: 701
 keywords: [Payment, Authorization, Capture, authorized]
 ---
-
-# Payment Authorization, Capture
 
 > Capture an authorized payment.
 

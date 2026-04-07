@@ -5,12 +5,10 @@ topic: objectmetadatatag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.275Z
+lastCollected: 2026-04-07T18:39:49.768Z
 estimatedTokens: 340
-keywords: [ObjectMetadataTag, meta, tag, store, tags, HTML, documents, provide, structured, data, search, engines, ranking, show, content]
+keywords: [ObjectMetadataTag, meta, tag, store, tags, HTML, documents, provide, structured, search, engines, ranking, show, content, results, API, 60.0]
 ---
-
-# ObjectMetadataTag
 
 > Represents a meta tag for a store page. Meta tags in HTML documents provide
          structured data used by search engines for ranking and to show content in search

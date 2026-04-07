@@ -5,12 +5,10 @@ topic: syncing-metadata-and-layouts-on-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.126Z
+lastCollected: 2026-04-07T18:40:25.492Z
 estimatedTokens: 1188
 keywords: [Syncing, Metadata, Layouts, Android, layout, easy, started, how, initialize, configure, APIs, Initializing, MetadataSyncManager, LayoutSyncManager, Retrieving]
 ---
-
-# Syncing Metadata and Layouts on Android
 
 > Metadata and layout syncing on Android is easy to use. To get started, learn how to
     initialize and configure the APIs.

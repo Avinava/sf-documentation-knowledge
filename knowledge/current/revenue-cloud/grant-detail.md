@@ -5,12 +5,10 @@ topic: grant-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.042Z
+lastCollected: 2026-04-07T18:35:46.003Z
 estimatedTokens: 256
-keywords: [Grant, Detail, Output, representation, ProductUsageGrant, LineItemUsageResourceGrant, TransactionUsageEntitlement, objects]
+keywords: [Grant, Detail, ProductUsageGrant, LineItemUsageResourceGrant, TransactionUsageEntitlement]
 ---
-
-# Grant Detail
 
 > Output representation of the details of a grant from the ProductUsageGrant,
     LineItemUsageResourceGrant, or TransactionUsageEntitlement objects.

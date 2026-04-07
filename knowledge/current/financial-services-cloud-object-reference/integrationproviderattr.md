@@ -5,12 +5,10 @@ topic: integrationproviderattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.158Z
+lastCollected: 2026-04-07T18:37:37.974Z
 estimatedTokens: 597
-keywords: [IntegrationProviderAttr, attributes, definition, integration, provider, API, version, 57.0, later, Calls]
+keywords: [IntegrationProviderAttr, attributes, definition, integration, provider, API, 57.0]
 ---
-
-# IntegrationProviderAttr
 
 > Represents information about the attributes that are used in the definition
          for an integration provider. This object is available in API version 57.0 and

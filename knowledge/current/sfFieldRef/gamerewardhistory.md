@@ -5,12 +5,10 @@ topic: gamerewardhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.607Z
+lastCollected: 2026-04-07T18:39:42.247Z
 estimatedTokens: 257
-keywords: [GameRewardHistory, History, tracked, GameReward]
+keywords: [GameRewardHistory, tracked, GameReward]
 ---
-
-# GameRewardHistory
 
 > History for tracked fields of GameReward.
 

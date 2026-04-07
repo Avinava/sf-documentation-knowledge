@@ -5,12 +5,10 @@ topic: ocrdocumentscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.694Z
+lastCollected: 2026-04-07T18:36:41.384Z
 estimatedTokens: 1036
-keywords: [OcrDocumentScanResult, extracted, document, API, version, 50.0, later, Calls, Sharing, Rule, Associated, Objects, 55.0]
+keywords: [OcrDocumentScanResult, extracted, document, API, 50.0, Sharing, Rule, 55.0]
 ---
-
-# OcrDocumentScanResult
 
 > Represents the details of the information extracted from the
          document. This object is available in API version 55.0 and later.

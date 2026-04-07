@@ -5,12 +5,10 @@ topic: infoauthrequestform
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:49.752Z
+lastCollected: 2026-04-07T18:37:37.553Z
 estimatedTokens: 642
-keywords: [InfoAuthRequestForm, Tracks, individual, Authorization, Form, Texts, belong, consent, GDPR, privacy, policy, document, mortgage, loan, rate]
+keywords: [InfoAuthRequestForm, Tracks, individual, Authorization, Form, Texts, belong, consent, GDPR, privacy, policy, document, mortgage, loan, rate, lock, fee, API, 52.0]
 ---
-
-# InfoAuthRequestForm
 
 > Tracks the individual Authorization Form Texts that belong to an
          Authorization Request. For example, consent on GDPR privacy policy document and consent on

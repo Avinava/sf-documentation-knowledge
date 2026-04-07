@@ -5,12 +5,10 @@ topic: sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.064Z
+lastCollected: 2026-04-07T18:40:20.296Z
 estimatedTokens: 682
 keywords: [Sharing, share, assets, business, units, Content, Builder, enabled, Sample, Asset, sharedWith, sharingType, Items]
 ---
-
-# Sharing
 
 > You can share assets with one or more business units that have Content Builder Sharing enabled.
 

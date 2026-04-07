@@ -5,12 +5,10 @@ topic: run-unit-tests-synchronously
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.936Z
+lastCollected: 2026-04-07T18:36:31.328Z
 estimatedTokens: 1922
-keywords: [Run, Unit, Tests, Synchronously, Test, Runner, API, execute, Apex, flow, synchronous, version, 30.0, later, automated]
+keywords: [Run, Unit, Tests, Synchronously, Test, Runner, API, execute, Apex, flow, synchronous, 30.0, automated, 65.0]
 ---
-
-# Run Unit Tests Synchronously
 
 > Use the Test Runner API to execute one or more Apex or flow tests synchronously. All
   test methods in a synchronous test run must be in the same class. Available for Apex tests in API

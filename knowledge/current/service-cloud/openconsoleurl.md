@@ -5,12 +5,10 @@ topic: openconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.397Z
+lastCollected: 2026-04-07T18:36:50.643Z
 estimatedTokens: 499
-keywords: [openConsoleUrl, Opens, URL, created, generateConsoleUrl, tab, group, tabs, Salesforce, console, API, version, 28.0, later, Arguments]
+keywords: [Arguments, openConsoleUrl, Opens, URL, created, generateConsoleUrl, tab, group, tabs, Salesforce, console, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# openConsoleUrl()
 
 > Opens a URL created by the generateConsoleUrl() method (a URL to a tab, or group of related tabs, in the Salesforce console). This method is only available in API
                 version 28.0 or later.

@@ -5,12 +5,10 @@ topic: learningevaluationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.160Z
+lastCollected: 2026-04-07T18:36:03.374Z
 estimatedTokens: 1215
-keywords: [LearningEvaluationResult, user’s, progress, status, custom, exercise, Enablement, program, Usage, getLearningItemProgress, getLearningItemProgressStatus, setLearningItemProgress, learningItemProgress, setLearningItemProgressStatus, learningItemProgressStatus]
+keywords: [LearningEvaluationResult, user’s, progress, status, exercise, Enablement, program, getLearningItemProgress, getLearningItemProgressStatus, setLearningItemProgress, learningItemProgress, setLearningItemProgressStatus, learningItemProgressStatus]
 ---
-
-# LearningEvaluationResult Class
 
 > Represents a user’s progress and progress status of a custom exercise in an Enablement
         program.

@@ -5,12 +5,10 @@ topic: gamedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.486Z
+lastCollected: 2026-04-07T18:39:42.135Z
 estimatedTokens: 404
 keywords: [GameDefinition, game, loyalty, program, offers, members]
 ---
-
-# GameDefinition
 
 > Represents information about a game that the loyalty program offers
          to its members.

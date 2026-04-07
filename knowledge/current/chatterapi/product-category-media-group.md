@@ -5,12 +5,10 @@ topic: product-category-media-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.900Z
+lastCollected: 2026-04-07T18:37:22.013Z
 estimatedTokens: 301
-keywords: [Product, Category, Media, Group, associated]
+keywords: [Product, Category, Media, Group]
 ---
-
-# Product Category Media Group
 
 > Media group associated with a product category.
 

@@ -5,12 +5,10 @@ topic: searchlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.023Z
+lastCollected: 2026-04-07T18:36:29.475Z
 estimatedTokens: 1511
-keywords: [SearchLayouts, metadata, associated, search, layouts, customize, display, users, results, filter, lookup, dialogs, recent, record, tab]
+keywords: [SearchLayouts, metadata, search, layouts, customize, display, users, results, filter, lookup, dialogs, recent, record, tab, home, pages, accessing, encompassing, CustomObject, Declarative, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# SearchLayouts
 
 > Represents the metadata associated with the search
             layouts for an object. You can customize which fields to display for users in search

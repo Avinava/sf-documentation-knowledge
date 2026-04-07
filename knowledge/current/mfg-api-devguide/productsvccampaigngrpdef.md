@@ -5,12 +5,10 @@ topic: productsvccampaigngrpdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.016Z
+lastCollected: 2026-04-07T18:38:14.381Z
 estimatedTokens: 1735
-keywords: [ProductSvcCampaignGrpDef, product, service, campaign, definitions, groups, attributes, origin, status, consequences, Helps, compliance, officers, define, scope]
+keywords: [ProductSvcCampaignGrpDef, product, service, campaign, definitions, groups, attributes, origin, status, consequences, Helps, compliance, officers, define, scope, group, execution, API, 65.0]
 ---
-
-# ProductSvcCampaignGrpDef
 
 > Represents information about product service campaign definitions within
          groups based on attributes, such as the origin, status, or consequences of a campaign.

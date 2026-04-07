@@ -5,12 +5,10 @@ topic: constraint-modeling-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.735Z
+lastCollected: 2026-04-07T18:35:42.622Z
 estimatedTokens: 1452
 keywords: [Constraint, Modeling, Language, CML, domain-specific, models, complex, systems, product, configuration, describe, real-world, entities, their, relationships]
 ---
-
-# Constraint Modeling Language
 
 > Constraint Modeling Language (CML) is a domain-specific language that defines models
     for complex systems. For product configuration, constraint models describe real-world entities

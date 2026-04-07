@@ -5,12 +5,10 @@ topic: debug-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.552Z
+lastCollected: 2026-04-07T18:38:15.034Z
 estimatedTokens: 586
-keywords: [Debug, Lightning, Web, Components, best, way, develop, anything, built, HTML, CSS, JavaScript, built-in, debugging, tools]
+keywords: [Debug, Lightning, Web, best, way, develop, anything, built, HTML, CSS, JavaScript, built-in, debugging, tools, browser]
 ---
-
-# Debug Lightning Web Components
 
 > The best way to develop and debug your Lightning web components is the same way you
   develop and debug anything built with HTML, CSS, and JavaScript: with the built-in

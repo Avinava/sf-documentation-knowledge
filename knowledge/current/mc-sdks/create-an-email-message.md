@@ -5,12 +5,10 @@ topic: create-an-email-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.137Z
+lastCollected: 2026-04-07T18:40:24.603Z
 estimatedTokens: 797
-keywords: [Email, Message, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Email, Message, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create an Email Message
 
 > Use the Post method to create a new email message within a Marketing Cloud account.
 

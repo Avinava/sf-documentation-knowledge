@@ -5,12 +5,10 @@ topic: shared-categories-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.058Z
+lastCollected: 2026-04-07T18:40:20.290Z
 estimatedTokens: 837
-keywords: [Shared, Categories, Folders, share, business, units, Content, Builder, Sharing, enabled, Category, Scenarios, Scenario, Differences, SharingProperties]
+keywords: [Shared, Categories, Folders, share, business, units, Content, Builder, Sharing, enabled, Category, Scenarios, Scenario, Differences, SharingProperties, Assets, Items]
 ---
-
-# Shared Categories (Folders)
 
 > You can share categories with one or more business units that have Content Builder Sharing enabled.
 

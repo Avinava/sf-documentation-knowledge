@@ -5,12 +5,10 @@ topic: external-document-creation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.753Z
+lastCollected: 2026-04-07T18:37:24.728Z
 estimatedTokens: 185
-keywords: [External, Document, Creation, Input, representation]
+keywords: [External, Document, Creation]
 ---
-
-# External Document Creation Input
 
 > Input representation of the request to create an external
       document.

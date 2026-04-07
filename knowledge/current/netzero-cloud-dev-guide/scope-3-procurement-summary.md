@@ -5,12 +5,10 @@ topic: scope-3-procurement-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.338Z
+lastCollected: 2026-04-07T18:38:16.924Z
 estimatedTokens: 3404
-keywords: [Scope, Procurement, Summary, amount, organization, spends, category, quantifies, effect, atmospheric, warming, represented, tonnes, carbon, dioxide]
+keywords: [Scope, Procurement, Summary, amount, organization, spends, category, quantifies, effect, atmospheric, warming, represented, tonnes, carbon, dioxide, equivalent, tCO₂e, matched, emissions, factor, Item, record]
 ---
-
-# Scope 3 Procurement Summary
 
 > The Scope 3 Procurement Summary object represents the amount that the organization
     spends for one procurement category. Scope 3 procurement summary quantifies the effect on

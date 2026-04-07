@@ -5,12 +5,10 @@ topic: briefcaserulefilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.871Z
+lastCollected: 2026-04-07T18:38:26.854Z
 estimatedTokens: 355
-keywords: [BriefcaseRuleFilter, filter, criteria, briefcase, rule, API, version, 50.0, later, Special, Access, Rules, Calls]
+keywords: [BriefcaseRuleFilter, filter, criteria, briefcase, rule, API, 50.0]
 ---
-
-# BriefcaseRuleFilter
 
 > Represents a filter criteria for a briefcase rule. This object is
     available in API version 50.0 and later.

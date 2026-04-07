@@ -5,12 +5,10 @@ topic: server-side-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:28.503Z
+lastCollected: 2026-04-07T18:40:23.941Z
 estimatedTokens: 709
-keywords: [Server-Side, JavaScript, Marketing, Cloud, application, uses, code, processed, servers, Instead, browser, render, client-side, computer, executes]
+keywords: [Server-Side, JavaScript, Marketing, Cloud, application, uses, code, processed, servers, Instead, browser, render, client-side, computer, executes, server, rendering, Core, functions, personalize, lan, AMPscript, How]
 ---
-
-# Server-Side JavaScript
 
 > Marketing Cloud application uses JavaScript code processed by Marketing Cloud servers. Instead of using the browser to render the JavaScript on the client-side computer, Marketing Cloud executes the JavaScript on the server when rendering. Use Core server-side JavaScript functions to personalize lan
 

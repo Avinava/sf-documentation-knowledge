@@ -5,12 +5,10 @@ topic: assign-access-to-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.039Z
+lastCollected: 2026-04-07T18:38:47.005Z
 estimatedTokens: 185
-keywords: [Assign, Access, AppExchange, Marketplace, Analytics, give, team, Manage, Listings, permission, Salesforce, Partner, Community]
+keywords: [Assign, AppExchange, Marketplace, Analytics, give, team, Manage, Listings, permission, Salesforce, Partner, Community]
 ---
-
-# Assign Access to AppExchange Marketplace Analytics
 
 > To give your team access to AppExchange Marketplace Analytics, assign the Manage
     Listings permission in the Salesforce Partner Community.

@@ -5,12 +5,10 @@ topic: program-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.846Z
+lastCollected: 2026-04-07T18:38:20.587Z
 estimatedTokens: 183
-keywords: [Program, Enrollment, Input, representation, enrollee]
+keywords: [Program, Enrollment, enrollee]
 ---
-
-# Program Enrollment Input
 
 > Input representation of the enrollee for the program.
 

@@ -5,12 +5,10 @@ topic: contentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:37.546Z
+lastCollected: 2026-04-07T18:38:28.447Z
 estimatedTokens: 834
-keywords: [ContentAsset, Salesforce, file, converted, asset, custom, app, Lightning, Experience, files, org, setup, configuration, packaged, referenced]
+keywords: [ContentAsset, Salesforce, file, converted, asset, app, Lightning, Experience, files, org, setup, configuration, packaged, referenced, API, 38.0]
 ---
-
-# ContentAsset
 
 > Represents a Salesforce file that has been converted to an asset file
          in a custom app in Lightning Experience. Use asset files for org setup and configuration.

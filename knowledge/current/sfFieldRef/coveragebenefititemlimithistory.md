@@ -5,12 +5,10 @@ topic: coveragebenefititemlimithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.639Z
+lastCollected: 2026-04-07T18:39:36.156Z
 estimatedTokens: 276
-keywords: [CoverageBenefitItemLimitHistory, History, tracked, CoverageBenefitItemLimit]
+keywords: [CoverageBenefitItemLimitHistory, tracked, CoverageBenefitItemLimit]
 ---
-
-# CoverageBenefitItemLimitHistory
 
 > History for tracked fields of CoverageBenefitItemLimit.
 

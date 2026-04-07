@@ -5,12 +5,10 @@ topic: get-platformv1key
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.066Z
+lastCollected: 2026-04-07T18:40:17.215Z
 estimatedTokens: 387
-keywords: [platform, key, Retrieves, metadata, keys, belong, MID, Data, Rest, Encryption, prerequisite, feature, **Overview**, Usage]
+keywords: [platform, key, Retrieves, metadata, keys, belong, MID, Rest, Encryption, prerequisite, feature, **Overview**]
 ---
-
-# GET /platform/v1/key
 
 > Retrieves metadata for all keys that belong to a given MID. Data at Rest Encryption is a prerequisite for this feature.
 

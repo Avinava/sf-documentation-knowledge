@@ -5,12 +5,10 @@ topic: custom-field-used-by-employee-concierge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.256Z
+lastCollected: 2026-04-07T18:40:14.263Z
 estimatedTokens: 139
-keywords: [Custom, Employee, Concierge, package, includes, standard, Case, requires, Workspace, builds, person, account, record]
+keywords: [Employee, Concierge, package, includes, standard, Case, requires, Workspace, builds, person, account, record]
 ---
-
-# Custom Field Used by Employee Concierge
 
 > The Employee Concierge package includes a custom field on the standard object Case.
     Employee Concierge requires Employee Workspace and builds on the Employee standard object and

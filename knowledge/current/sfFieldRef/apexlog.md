@@ -5,12 +5,10 @@ topic: apexlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.888Z
+lastCollected: 2026-04-07T18:39:25.869Z
 estimatedTokens: 337
-keywords: [ApexLog, debug, log, containing, transaction, including, Apex, Visualforce, workflow, validation, rules, API, version, 19.0, later]
+keywords: [ApexLog, debug, log, containing, transaction, including, Apex, Visualforce, workflow, validation, API, 19.0]
 ---
-
-# ApexLog
 
 > Represents a debug log containing information about a transaction,
       including information about Apex, Visualforce, and workflow and validation rules. This

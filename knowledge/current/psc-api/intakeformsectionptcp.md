@@ -5,12 +5,10 @@ topic: intakeformsectionptcp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.817Z
+lastCollected: 2026-04-07T18:39:06.956Z
 estimatedTokens: 780
-keywords: [IntakeFormSectionPtcp, user, group, participants, access, intake, form, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [IntakeFormSectionPtcp, user, group, participants, intake, form, API, 64.0]
 ---
-
-# IntakeFormSectionPtcp
 
 > Represents information about a user or group of participants who have
          access to an intake form section. This object is available in API version 64.0 and

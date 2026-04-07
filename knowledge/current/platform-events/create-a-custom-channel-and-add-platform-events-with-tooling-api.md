@@ -5,12 +5,10 @@ topic: create-a-custom-channel-and-add-platform-events-with-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.986Z
+lastCollected: 2026-04-07T18:38:57.817Z
 estimatedTokens: 670
-keywords: [Custom, Channel, Add, Platform, Events, Tooling, API, orders, named, Order_Channel__chn, two, members, Order_NorthAmer__e, Order_EMEA__e]
+keywords: [Channel, Add, Platform, Events, Tooling, API, orders, named, Order_Channel__chn, two, members, Order_NorthAmer__e, Order_EMEA__e]
 ---
-
-# Create a Custom Channel and Add Platform Events with Tooling API
 
 > Create a channel for orders named Order_Channel__chn, and add two platform events as members: Order_NorthAmer__e and
   Order_EMEA__e.

@@ -5,12 +5,10 @@ topic: defer-sharing-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.255Z
+lastCollected: 2026-04-07T18:39:17.932Z
 estimatedTokens: 232
-keywords: [Defer, Sharing, Calculation, circumstances, appropriate, feature, users, processing, rules, until, new, content, loaded]
+keywords: [Defer, Sharing, Calculation, circumstances, appropriate, feature, users, processing, until, new, content, loaded]
 ---
-
-# Defer Sharing Calculation
 
 > In some circumstances, it might be appropriate to use a feature
 called defer sharing calculation, which allows users to defer

@@ -5,12 +5,10 @@ topic: recordset-filter-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.261Z
+lastCollected: 2026-04-07T18:37:09.978Z
 estimatedTokens: 183
-keywords: [Recordset, Filter, Criteria, Input, applied, records, service, appointment]
+keywords: [Recordset, Filter, Criteria, applied, records, service, appointment]
 ---
-
-# Recordset Filter Criteria Input
 
 > A set of recordset filter criteria applied to records, such as
       service appointment records.

@@ -5,12 +5,10 @@ topic: billingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.474Z
+lastCollected: 2026-04-07T18:39:29.622Z
 estimatedTokens: 700
-keywords: [BillingSchedule, Stores, order, item, invoicing, process, API, version, 55.0, later]
+keywords: [BillingSchedule, Stores, order, item, invoicing, process, API, 55.0]
 ---
-
-# BillingSchedule
 
 > Stores the order item information used in the invoicing process. This
       object is available in API version 55.0 and later.

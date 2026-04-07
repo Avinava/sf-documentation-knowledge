@@ -5,12 +5,10 @@ topic: cnfgmgmtdiscoverytarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.158Z
+lastCollected: 2026-04-07T18:35:55.264Z
 estimatedTokens: 748
-keywords: [CnfgMgmtDiscoveryTarget, definition, logical, grouping, endpoints, environments, scanned, infrastructure, asset, discovery, New, York, datacenter, Washington, office]
+keywords: [CnfgMgmtDiscoveryTarget, definition, logical, grouping, endpoints, environments, scanned, infrastructure, asset, discovery, New, York, datacenter, Washington, office, ground, floor, AWS, Staging, API, 65.0]
 ---
-
-# CnfgMgmtDiscoveryTarget
 
 > Represents the definition of a logical grouping of endpoints or environments
          to be scanned during IT infrastructure or asset discovery. For example, New York

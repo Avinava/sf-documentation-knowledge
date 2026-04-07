@@ -5,12 +5,10 @@ topic: changeeventheader-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.494Z
+lastCollected: 2026-04-07T18:37:05.232Z
 estimatedTokens: 1363
 keywords: [ChangeEventHeader, Check, descriptions, change, event]
 ---
-
-# ChangeEventHeader Fields
 
 > Check out the descriptions of the fields that the change event header
     contains.

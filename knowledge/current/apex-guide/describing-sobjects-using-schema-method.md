@@ -5,12 +5,10 @@ topic: describing-sobjects-using-schema-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.306Z
+lastCollected: 2026-04-07T18:36:17.534Z
 estimatedTokens: 329
 keywords: [Describing, sObjects, Schema, alternative, tokens, describe, calling, describeSObjects, passing, sObject, want]
 ---
-
-# Describing sObjects Using Schema Method
 
 > As an alternative to using tokens, you can describe sObjects by
 calling the describeSObjects Schema method and passing one or more sObject type names for the

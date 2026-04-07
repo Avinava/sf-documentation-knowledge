@@ -5,12 +5,10 @@ topic: visitshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.081Z
+lastCollected: 2026-04-07T18:40:05.965Z
 estimatedTokens: 245
 keywords: [VisitShare, Sharing, Visit]
 ---
-
-# VisitShare
 
 > Sharing for Visit.
 

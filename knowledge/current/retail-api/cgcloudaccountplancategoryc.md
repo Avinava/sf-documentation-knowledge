@@ -5,12 +5,10 @@ topic: cgcloudaccountplancategoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.283Z
+lastCollected: 2026-04-07T18:39:12.726Z
 estimatedTokens: 1118
-keywords: [cgcloud__Account_Plan_Category__c, Categories, account, plan, including, manual, inputs, assigned, category, business, year, combination, API, version, 54.0]
+keywords: [cgcloud__Account_Plan_Category__c, Categories, account, plan, including, manual, inputs, assigned, category, business, year, combination, API, 54.0, cgcloud, _Account, _Plan, _Category]
 ---
-
-# cgcloud__Account_Plan_Category__c
 
 > Categories of the account plan including the manual inputs. Categories can be
          assigned to an account plan. A category can only be assigned to one account/business year

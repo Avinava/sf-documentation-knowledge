@@ -5,13 +5,11 @@ topic: reports-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.805Z
+lastCollected: 2026-04-07T18:35:59.080Z
 estimatedTokens: 339
 namespace: Reports
 keywords: [Reports, Exceptions, exception, classes]
 ---
-
-# Reports Exceptions
 
 > The Reports namespace contains exception
   classes.

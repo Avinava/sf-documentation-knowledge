@@ -5,12 +5,10 @@ topic: taxtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.424Z
+lastCollected: 2026-04-07T18:38:42.237Z
 estimatedTokens: 1188
-keywords: [TaxTreatment, tax, treatment, how, Salesforce, external, engines, calculate, taxes, engine, calculation, IsTaxable, determines, whether, calculated]
+keywords: [TaxTreatment, tax, treatment, how, Salesforce, external, engines, calculate, taxes, engine, calculation, IsTaxable, determines, whether, calculated, product, transaction, code, sent, via, API, service, invoice, order, item, line, inherits, item’s, billing, schedule, line’s, TaxCode, populated, 55.0]
 ---
-
-# TaxTreatment
 
 > A tax treatment contains details about how Salesforce and external engines
          calculate taxes, and the tax engine to use for tax calculation. The IsTaxable field

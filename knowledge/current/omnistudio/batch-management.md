@@ -5,12 +5,10 @@ topic: batch-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:50.649Z
+lastCollected: 2026-04-07T18:36:36.205Z
 estimatedTokens: 468
-keywords: [Batch, Management, Automate, processing, records, scheduled, flows, process, high, volume, standard, custom, consists, three, Tooling]
+keywords: [Batch, Management, Automate, processing, records, scheduled, flows, process, high, volume, standard, consists, three, Tooling, API, Metadata, invocable, action, resources, view, edit, run, jobs]
 ---
-
-# Batch Management
 
 > Automate the processing of records in scheduled flows. You can process a high volume of
   standard and custom object records. Batch Management consists of three Tooling API objects, a

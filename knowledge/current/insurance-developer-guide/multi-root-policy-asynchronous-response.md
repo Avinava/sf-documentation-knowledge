@@ -5,12 +5,10 @@ topic: multi-root-policy-asynchronous-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.523Z
+lastCollected: 2026-04-07T18:37:52.721Z
 estimatedTokens: 132
 keywords: [Multi-Root, Policy, Asynchronous, that's, processed, asynchronously]
 ---
-
-# Multi-Root Policy Asynchronous Response
 
 > Details of the multi-root policy that's processed asynchronously.
 

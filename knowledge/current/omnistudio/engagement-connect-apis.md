@@ -5,12 +5,10 @@ topic: engagement-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.452Z
+lastCollected: 2026-04-07T18:36:41.147Z
 estimatedTokens: 176
 keywords: [Engagement, Connect, APIs, REST, Interaction, Attendee, Topic, records]
 ---
-
-# Engagement Connect APIs
 
 > With the Engagement Connect REST APIs, you can create, delete, and get Engagement
   Interaction, Engagement Attendee, and Engagement Topic records.

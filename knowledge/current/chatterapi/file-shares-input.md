@@ -5,12 +5,10 @@ topic: file-shares-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.631Z
+lastCollected: 2026-04-07T18:37:08.472Z
 estimatedTokens: 106
-keywords: [File, Shares, Input]
+keywords: [File, Shares]
 ---
-
-# File Shares Input
 
 > File shares input.
 

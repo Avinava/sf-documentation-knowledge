@@ -5,12 +5,10 @@ topic: message-segment-input-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.320Z
+lastCollected: 2026-04-07T18:37:09.087Z
 estimatedTokens: 159
-keywords: [Message, Segment, Input, Link, Inline, URL, provided, whitespace, text, space, inserted, because, links, parsed, segments]
+keywords: [Message, Segment, Link, Inline, URL, provided, whitespace, text, space, inserted, because, links, parsed, segments]
 ---
-
-# Message Segment Input: Link
 
 > Inline link to a URL input. If a link is provided as input without whitespace text before
     it, a space is inserted. If a link is provided as input without whitespace text after it, a

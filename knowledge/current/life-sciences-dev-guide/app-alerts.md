@@ -5,12 +5,10 @@ topic: app-alerts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.599Z
+lastCollected: 2026-04-07T18:37:57.099Z
 estimatedTokens: 233
-keywords: [App, Alerts, keep, users, informed, critical, updates, events, insights, require, timely, action, helping, prevent, missed]
+keywords: [App, Alerts, keep, users, informed, critical, updates, events, insights, require, timely, action, helping, prevent, missed, opportunities, deliver, messages, admins, managers, well, system-triggered, external, recommendations, enabling, act, directly, dismiss, suggestions, feedback, Serving, direct, immediate, communication, channel, integrate, across, streamline, teamwork, enhance, commercial, engagement]
 ---
-
-# App Alerts
 
 > App Alerts keep users informed of critical updates, events, and insights that require
   timely action, helping to prevent missed opportunities. These alerts can deliver messages from

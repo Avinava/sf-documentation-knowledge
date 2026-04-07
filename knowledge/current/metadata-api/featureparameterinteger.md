@@ -5,12 +5,10 @@ topic: featureparameterinteger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.514Z
+lastCollected: 2026-04-07T18:36:26.027Z
 estimatedTokens: 797
-keywords: [FeatureParameterInteger, feature, Management, App, FMA, let, drive, behavior, track, activation, metrics, subscriber, orgs, install, package]
+keywords: [FeatureParameterInteger, FeatureParameterDataFlowDirection, feature, Management, App, FMA, let, drive, behavior, track, activation, metrics, subscriber, orgs, install, package, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# FeatureParameterInteger
 
 > Represents an integer feature parameter in  the Feature Management App (FMA).
       Feature parameters let you drive app behavior and track activation metrics in subscriber orgs

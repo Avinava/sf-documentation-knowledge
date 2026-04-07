@@ -5,12 +5,10 @@ topic: people-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.238Z
+lastCollected: 2026-04-07T18:37:10.918Z
 estimatedTokens: 1277
-keywords: [People, Feed, Resources, elements, posted, context, user, follows, URL]
+keywords: [People, Resources, posted, context, user, follows, URL]
 ---
-
-# People Feed Resources
 
 > All feed elements posted by all of the people the context user
    follows.

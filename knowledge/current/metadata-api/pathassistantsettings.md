@@ -5,12 +5,10 @@ topic: pathassistantsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.781Z
+lastCollected: 2026-04-07T18:36:28.323Z
 estimatedTokens: 693
-keywords: [PathAssistantSettings, Path, preference, setting, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [PathAssistantSettings, Path, preference, setting, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PathAssistantSettings
 
 > Represents the Path preference setting.
             This type extends the Metadata metadata type and inherits its fullName field.

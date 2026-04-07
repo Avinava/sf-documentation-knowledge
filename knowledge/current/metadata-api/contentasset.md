@@ -5,12 +5,10 @@ topic: contentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.429Z
+lastCollected: 2026-04-07T18:36:23.746Z
 estimatedTokens: 1451
-keywords: [ContentAsset, metadata, creating, asset, file, files, enable, Salesforce, org, setup, configuration, purposes, extends, MetadataWithContent, inherits]
+keywords: [ContentAsset, ContentAssetRelationships, ContentAssetLink, ContentAssetVersions, ContentAssetVersion, metadata, creating, asset, file, files, enable, Salesforce, org, setup, configuration, purposes, extends, MetadataWithContent, inherits, content, fullName, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ContentAsset
 
 > Represents the metadata for creating an asset file.
     Asset files enable a Salesforce file to be used for org setup and configuration purposes. This type 

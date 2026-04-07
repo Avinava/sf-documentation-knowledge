@@ -5,12 +5,10 @@ topic: assessment-previous-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.145Z
+lastCollected: 2026-04-07T18:37:41.185Z
 estimatedTokens: 218
-keywords: [Assessment, Previous, Responses, Retrieves, historical, data, healthcare, applications, supporting, internal, Discovery, Framework, external, Milliman, Care]
+keywords: [Assessment, Previous, Responses, Retrieves, historical, healthcare, applications, supporting, internal, Discovery, Framework, external, Milliman, Care, Guidelines, MCG, assessments]
 ---
-
-# Assessment Previous Responses
 
 > Retrieves historical assessment response data for healthcare applications, supporting
     both internal Discovery Framework and external Milliman Care Guidelines (MCG)

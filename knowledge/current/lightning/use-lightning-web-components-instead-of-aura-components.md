@@ -5,12 +5,10 @@ topic: use-lightning-web-components-instead-of-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.189Z
+lastCollected: 2026-04-07T18:38:04.318Z
 estimatedTokens: 250
-keywords: [Lightning, Web, Components, instead, Aura, perform, better, easier, develop, However, may, because, LWC, doesn’t, yet]
+keywords: [Lightning, Web, instead, Aura, perform, better, easier, develop, However, may, because, LWC, doesn’t, yet, support, everything]
 ---
-
-# Use Lightning Web Components instead of Aura Components
 
 > Lightning web components perform better and are easier to develop than Aura components.
     However, when you develop Lightning web components, you also may need to use Aura, because LWC

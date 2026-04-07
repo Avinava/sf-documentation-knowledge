@@ -5,12 +5,10 @@ topic: lightningtabreplaced
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.024Z
+lastCollected: 2026-04-07T18:36:49.101Z
 estimatedTokens: 102
-keywords: [lightning, tabReplaced, tab, replaced, successfully, lightning__tabReplaced, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabReplaced, LWC]
+keywords: [lightning, tabReplaced, tab, replaced, successfully, lightning__tabReplaced, Lightning, message, channel, corresponds, Aura, app, event, web, console, _tabReplaced, LWC]
 ---
-
-# lightning:tabReplaced
 
 > A Lightning message channel that corresponds to the lightning:tabReplaced Aura app event. This message channel is available for
         Lightning web components used within a Lightning console app.

@@ -5,12 +5,10 @@ topic: custom-action-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.406Z
+lastCollected: 2026-04-07T18:37:27.415Z
 estimatedTokens: 357
-keywords: [Custom, Action, Plugin, lets, run, code, actions, Salesforce, CPQ, Currently, plugins, support, cloning]
+keywords: [Action, Plugin, lets, run, code, actions, Salesforce, CPQ, Currently, plugins, support, cloning]
 ---
-
-# Custom Action Plugin
 
 > A custom action plugin lets you run code before or after custom actions in Salesforce
   CPQ. Currently, custom action plugins support only cloning actions.

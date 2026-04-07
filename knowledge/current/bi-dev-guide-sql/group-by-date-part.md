@@ -5,12 +5,10 @@ topic: group-by-date-part
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.066Z
+lastCollected: 2026-04-07T18:37:01.679Z
 estimatedTokens: 115
 keywords: [Group, Date, Part, clause, EXTRACT, function, Pass, parts, isolate]
 ---
-
-# Group By Date Part
 
 > To group by date part, use the GROUP BY clause and
   the EXTRACT() function. Pass EXTRACT() the date parts to isolate.

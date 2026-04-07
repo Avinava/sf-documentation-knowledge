@@ -5,12 +5,10 @@ topic: view-threat-detection-events-and-provide-feedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.661Z
+lastCollected: 2026-04-07T18:39:22.566Z
 estimatedTokens: 397
-keywords: [View, Threat, Detection, Events, Provide, Feedback, Launch, app, detected, threats, occurred, Salesforce, org, include, anomalies]
+keywords: [View, Threat, Detection, Events, Provide, Feedback, Launch, app, detected, threats, occurred, Salesforce, org, include, anomalies, how, users, run, reports, session, hijacking, attempts, credential, stuffing, easily, severity, specific]
 ---
-
-# View Threat Detection Events and Provide Feedback
 
 > Launch the Threat Detection app and view all the detected threats that occurred in your
     Salesforce org. Threats include anomalies in how users run reports, session hijacking attempts,

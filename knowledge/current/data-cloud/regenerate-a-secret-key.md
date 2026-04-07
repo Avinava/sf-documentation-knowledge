@@ -5,12 +5,10 @@ topic: regenerate-a-secret-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.817Z
+lastCollected: 2026-04-07T18:35:51.668Z
 estimatedTokens: 129
-keywords: [Regenerate, Secret, Key, recommend, regenerating, webhook, system, least, every, months, minutes, effective, Until, new, configured]
+keywords: [Regenerate, Secret, Key, recommend, regenerating, webhook, system, least, every, months, minutes, effective, Until, new, configured, validations, target, fail]
 ---
-
-# Regenerate a Secret Key
 
 > We recommend regenerating the secret key used in your webhook system at least every 12
   months. After you regenerate a secret key, it takes up to 15 minutes to be effective. Until the

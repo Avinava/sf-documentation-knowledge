@@ -5,12 +5,10 @@ topic: priceprotectionexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:19.866Z
+lastCollected: 2026-04-07T18:37:06.564Z
 estimatedTokens: 607
-keywords: [PriceProtectionExecution, instance, running, price, protection, process, capturing, execution, time, status, effective, date, changes, API, version]
+keywords: [PriceProtectionExecution, instance, running, price, protection, process, capturing, execution, time, status, effective, date, changes, API, 63.0]
 ---
-
-# PriceProtectionExecution
 
 > Represents an instance of running the price protection process, capturing
          execution time, status, and the effective date of price changes.  This object is

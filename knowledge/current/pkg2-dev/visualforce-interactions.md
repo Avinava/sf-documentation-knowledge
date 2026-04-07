@@ -5,12 +5,10 @@ topic: visualforce-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.543Z
+lastCollected: 2026-04-07T18:38:54.940Z
 estimatedTokens: 549
-keywords: [Visualforce, Interactions, record, package, usage, log, custom_entity_type, VisualforcePage, interaction, packaged, pages, Requests]
+keywords: [Visualforce, Interactions, record, package, log, custom_entity_type, VisualforcePage, interaction, packaged, pages, Requests]
 ---
-
-# Visualforce Interactions
 
 > Each record in your package usage log that has a custom_entity_type of VisualforcePage describes an
   interaction with your packaged Visualforce pages.

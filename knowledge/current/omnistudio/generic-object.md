@@ -5,12 +5,10 @@ topic: generic-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.526Z
+lastCollected: 2026-04-07T18:36:37.056Z
 estimatedTokens: 76
-keywords: [Generic, Input, attributes]
+keywords: [Generic, attributes]
 ---
-
-# Generic Object
 
 > Input for generic object attributes.
 

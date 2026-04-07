@@ -5,12 +5,10 @@ topic: producer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.605Z
+lastCollected: 2026-04-07T18:39:55.167Z
 estimatedTokens: 301
 keywords: [Producer, agent, agency, selling, insurance]
 ---
-
-# Producer
 
 > Represents an agent or an agency selling insurance.
 

@@ -5,12 +5,10 @@ topic: salesforce-scheduler-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.336Z
+lastCollected: 2026-04-07T18:37:14.303Z
 estimatedTokens: 393
 keywords: [Salesforce, Scheduler, Resources, service, territories, appointments]
 ---
-
-# Salesforce Scheduler Resources
 
 > Get service territories and create service appointments
   using Salesforce Scheduler resources.

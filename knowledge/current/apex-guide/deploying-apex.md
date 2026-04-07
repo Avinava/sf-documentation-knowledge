@@ -5,12 +5,10 @@ topic: deploying-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.178Z
+lastCollected: 2026-04-07T18:36:17.405Z
 estimatedTokens: 717
 keywords: [Deploying, Apex, can't, develop, Salesforce, production, org, development, work, sandbox, scratch, Developer, Edition, Compile, Deploy]
 ---
-
-# Deploying Apex
 
 > You can't develop Apex in your Salesforce production org. Your development work is
         done in a sandbox, in a scratch org,  or in a Developer Edition org.

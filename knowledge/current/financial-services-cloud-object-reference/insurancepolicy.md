@@ -5,12 +5,10 @@ topic: insurancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:50.005Z
+lastCollected: 2026-04-07T18:37:37.817Z
 estimatedTokens: 5112
-keywords: [InsurancePolicy, insurance, policy, auto, home, life, annuity, Calls, Associated, Objects]
+keywords: [InsurancePolicy, insurance, policy, auto, home, life, annuity]
 ---
-
-# InsurancePolicy
 
 > Represents the type of insurance policy, such as auto, home, life, or
       annuity.

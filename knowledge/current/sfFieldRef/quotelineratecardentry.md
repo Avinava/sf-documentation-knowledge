@@ -5,12 +5,10 @@ topic: quotelineratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.445Z
+lastCollected: 2026-04-07T18:39:58.120Z
 estimatedTokens: 373
-keywords: [QuoteLineRateCardEntry, catalog, negotiated, rates, usage, resource, associated, quote, line, item, that's, charge, overage, consumption, API]
+keywords: [QuoteLineRateCardEntry, catalog, negotiated, rates, resource, quote, line, item, that's, charge, overage, consumption, API, 62.0]
 ---
-
-# QuoteLineRateCardEntry
 
 > Represents the catalog and negotiated rates of a usage resource associated
          with a quote line item that's used to charge overage consumption. This object is

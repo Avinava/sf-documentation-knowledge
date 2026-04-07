@@ -5,12 +5,10 @@ topic: authorizationformconsenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.571Z
+lastCollected: 2026-04-07T18:39:28.653Z
 estimatedTokens: 275
-keywords: [AuthorizationFormConsentHistory, History, tracked, AuthorizationFormConsent]
+keywords: [AuthorizationFormConsentHistory, tracked, AuthorizationFormConsent]
 ---
-
-# AuthorizationFormConsentHistory
 
 > History for tracked fields of AuthorizationFormConsent.
 

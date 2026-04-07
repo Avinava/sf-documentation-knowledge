@@ -5,12 +5,10 @@ topic: connectapiquerysqlpageoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.052Z
+lastCollected: 2026-04-07T18:36:11.331Z
 estimatedTokens: 764
-keywords: [ConnectApi.QuerySqlPageOutput, rows, output, SQL, query]
+keywords: [ConnectApi.QuerySqlPageOutput, rows, SQL, query]
 ---
-
-# ConnectApi.QuerySqlPageOutput
 
 > Represents the rows output for an SQL query.
 

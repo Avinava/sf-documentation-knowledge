@@ -5,12 +5,10 @@ topic: emaildomainfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.253Z
+lastCollected: 2026-04-07T18:38:30.084Z
 estimatedTokens: 717
-keywords: [EmailDomainFilter, filter, determines, whether, email, relay, restricted, specific, domains, API, version, 43.0, later, Calls, Special]
+keywords: [EmailDomainFilter, filter, determines, whether, email, relay, restricted, specific, domains, API, 43.0]
 ---
-
-# EmailDomainFilter
 
 > Represents a filter that determines whether an email relay is
 			restricted to a specific list of domains. This object is available in API version

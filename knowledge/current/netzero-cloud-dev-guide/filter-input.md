@@ -5,12 +5,10 @@ topic: filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.598Z
+lastCollected: 2026-04-07T18:38:16.137Z
 estimatedTokens: 92
-keywords: [Filter, Input, representation, key, pair]
+keywords: [Filter, key, pair]
 ---
-
-# Filter Input
 
 > Input representation of  the filter object with key value
     pair.

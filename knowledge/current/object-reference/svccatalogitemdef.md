@@ -5,12 +5,10 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.225Z
+lastCollected: 2026-04-07T18:38:42.027Z
 estimatedTokens: 1124
-keywords: [SvcCatalogItemDef, service, catalog, item, requested, user, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [SvcCatalogItemDef, service, catalog, item, requested, user, API, 53.0]
 ---
-
-# SvcCatalogItemDef
 
 > Represents a service catalog item that can be requested by a service
          catalog user. This object is available in API version 53.0 and later.

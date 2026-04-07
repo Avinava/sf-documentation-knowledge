@@ -5,12 +5,10 @@ topic: colordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.611Z
+lastCollected: 2026-04-07T18:36:32.050Z
 estimatedTokens: 325
-keywords: [ColorDefinition, color, metadata, tab, API, version, 43.0, later, SOAP, Calls, REST, HTTP]
+keywords: [ColorDefinition, color, metadata, tab, API, 43.0, SOAP, REST, HTTP]
 ---
-
-# ColorDefinition
 
 > Represents color metadata for a tab. Available in API version
         43.0 and later.

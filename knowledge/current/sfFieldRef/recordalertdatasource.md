@@ -5,13 +5,11 @@ topic: recordalertdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.333Z
+lastCollected: 2026-04-07T18:39:59.021Z
 estimatedTokens: 315
 namespace: NamespacePrefix
-keywords: [RecordAlertDataSource, internal, external, source, record, alert, data, API, version, 54.0, later]
+keywords: [RecordAlertDataSource, internal, external, source, record, alert, API, 54.0]
 ---
-
-# RecordAlertDataSource
 
 > Represents an internal or external source for record alert data. This
       object is available in API version 54.0 and later.

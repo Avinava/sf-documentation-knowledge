@@ -5,12 +5,10 @@ topic: flowstagerelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.754Z
+lastCollected: 2026-04-07T18:38:32.744Z
 estimatedTokens: 596
-keywords: [FlowStageRelation, relationship, paused, flow, interview, stages, Salesforce, creates, record, stage, that’s, $Flow.CurrentStage, $Flow.ActiveStages, variable, API]
+keywords: [FlowStageRelation, relationship, paused, flow, interview, stages, Salesforce, creates, record, stage, that’s, $Flow.CurrentStage, $Flow.ActiveStages, variable, API, 43.0]
 ---
-
-# FlowStageRelation
 
 > Represents a relationship between a paused flow interview and its stages. When
       a flow interview is paused, Salesforce creates a FlowStageRelation record for each stage

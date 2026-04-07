@@ -5,12 +5,10 @@ topic: regulatory-area-fees-and-enforcement-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.012Z
+lastCollected: 2026-04-07T18:39:05.024Z
 estimatedTokens: 178
-keywords: [Regulatory, Area, Fees, Enforcement, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Regulatory, Area, Fees, Enforcement, Model, relationships, Sector, Solutions]
 ---
-
-# Regulatory Area, Fees, and Enforcement Data Model
 
 > Learn about the objects and relationships used for regulatory area, fees, and
   enforcement in Public Sector Solutions.

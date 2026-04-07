@@ -5,12 +5,10 @@ topic: customtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:46.841Z
+lastCollected: 2026-04-07T18:36:32.290Z
 estimatedTokens: 877
-keywords: [CustomTab, custom, tab, Calls]
+keywords: [CustomTab, tab]
 ---
-
-# CustomTab
 
 > Represents a custom tab.
 

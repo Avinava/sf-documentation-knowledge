@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-field-mapping-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.975Z
+lastCollected: 2026-04-07T18:36:58.500Z
 estimatedTokens: 253
-keywords: [Abstract, Smart, Data, Discovery, Mapping, Source, Input, base, Einstein]
+keywords: [Abstract, Smart, Discovery, Mapping, Source, base, Einstein]
 ---
-
-# Abstract Smart Data Discovery Field Mapping Source Input
 
 > The base Einstein Discovery field mapping source input.
 

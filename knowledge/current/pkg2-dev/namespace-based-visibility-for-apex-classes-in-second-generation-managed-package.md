@@ -5,12 +5,10 @@ topic: namespace-based-visibility-for-apex-classes-in-second-generation-managed-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.898Z
+lastCollected: 2026-04-07T18:38:56.536Z
 estimatedTokens: 695
-keywords: [Namespace-Based, Visibility, Apex, Classes, Second-Generation, Managed, Packages, @NamespaceAccessible, package, annotation, interfaces, defined, aren’t, accessible, they]
+keywords: [Namespace-Based, Visibility, Apex, Classes, Second-Generation, Managed, Packages, @NamespaceAccessible, package, annotation, interfaces, defined, aren’t, accessible, they, share, declared, always, across, namespaces, needs]
 ---
-
-# Namespace-Based Visibility for Apex Classes in Second-Generation Managed Packages
 
 > The @NamespaceAccessible makes public Apex in
         a package available to other packages that use the same namespace. Without this annotation,

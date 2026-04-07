@@ -5,12 +5,10 @@ topic: barcodeurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.596Z
+lastCollected: 2026-04-07T18:40:21.928Z
 estimatedTokens: 673
-keywords: [BarCodeURL, Function, Ordinal, convert, bar, code, numeric, **Overview**, **Syntax**, Usage]
+keywords: [BarCodeURL, Function, Ordinal, convert, bar, code, numeric, **Overview**, **Syntax**]
 ---
-
-# BarCodeURL
 
 > BarCodeURL(1, 2, 3, 4, 5, 6, 7, 8, 9)
 

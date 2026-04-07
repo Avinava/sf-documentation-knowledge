@@ -5,12 +5,10 @@ topic: guardrails-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.115Z
+lastCollected: 2026-04-07T18:36:37.737Z
 estimatedTokens: 261
-keywords: [Guardrails, Fetches, Business, Rules, Engine, BRE, manage, rate, limits, components]
+keywords: [Guardrails, Fetches, Business, Engine, BRE, manage, rate, limits]
 ---
-
-# Guardrails (GET)
 
 > Fetches guardrails from the Business Rules Engine (BRE) to manage rate limits for BRE
     components.

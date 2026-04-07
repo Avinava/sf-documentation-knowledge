@@ -5,12 +5,10 @@ topic: comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.932Z
+lastCollected: 2026-04-07T18:37:11.744Z
 estimatedTokens: 654
 keywords: [Comment, edit]
 ---
-
-# Comment
 
 > A comment.
 

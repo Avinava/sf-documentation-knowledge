@@ -5,12 +5,10 @@ topic: regclcmplcontrolver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.367Z
+lastCollected: 2026-04-07T18:36:45.136Z
 estimatedTokens: 616
-keywords: [RegClCmplControlVer, junction, Regulation, Clause, Version, Compliance, Control, API, 65.0, later, Calls, Associated, Objects]
+keywords: [RegClCmplControlVer, junction, Regulation, Clause, Compliance, Control, API, 65.0]
 ---
-
-# RegClCmplControlVer
 
 > Represents a junction between a Regulation Clause Version and a Compliance
          Control Version. This object is available in API version 65.0 and later.

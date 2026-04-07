@@ -5,13 +5,11 @@ topic: using-your-organizations-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.652Z
+lastCollected: 2026-04-07T18:38:04.796Z
 estimatedTokens: 391
 namespace: If
-keywords: [Organization’s, organization, prefix, components, events, custom, objects, items, Lightning, markup]
+keywords: [Organization’s, organization, prefix, events, items, Lightning, markup]
 ---
-
-# Using Your Organization’s Namespace
 
 > If your organization has set a namespace prefix, use that namespace to reference
     components, events, custom objects and fields, and other items in your  Lightning

@@ -5,12 +5,10 @@ topic: embeddedservicequickaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.185Z
+lastCollected: 2026-04-07T18:36:32.652Z
 estimatedTokens: 300
-keywords: [EmbeddedServiceQuickAction, quick, action, associated, EmbeddedServiceLiveAgent, setup, includes, pre-chat, form, embedded, chat, window, displays, order, Tooling]
+keywords: [EmbeddedServiceQuickAction, quick, action, EmbeddedServiceLiveAgent, setup, includes, pre-chat, form, embedded, chat, window, displays, order, Tooling, API, 39.0, SOAP, REST, HTTP]
 ---
-
-# EmbeddedServiceQuickAction
 
 > Returns a quick
             action that is associated with an EmbeddedServiceLiveAgent setup. The quick action

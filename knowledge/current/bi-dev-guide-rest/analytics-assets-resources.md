@@ -5,12 +5,10 @@ topic: analytics-assets-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.903Z
+lastCollected: 2026-04-07T18:36:55.327Z
 estimatedTokens: 210
 keywords: [Analytics, Assets, Resources, Query, collections, asset]
 ---
-
-# Analytics Assets Resources
 
 > Query Analytics assets using parameters for a collections or query a single asset by
   ID.

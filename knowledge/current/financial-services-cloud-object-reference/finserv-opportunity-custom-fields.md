@@ -5,12 +5,10 @@ topic: finserv-opportunity-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.882Z
+lastCollected: 2026-04-07T18:37:35.535Z
 estimatedTokens: 170
-keywords: [FinServ, Opportunity, Custom, associated, individual, extend, Financial, Services, Cloud]
+keywords: [FinServ, Opportunity, individual, extend, Financial, Services, Cloud]
 ---
-
-# FinServ Opportunity Custom Fields
 
 > Represents an opportunity associated with an individual. Custom fields
    extend the Opportunity object for use in Financial Services Cloud.

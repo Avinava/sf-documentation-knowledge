@@ -5,12 +5,10 @@ topic: worktypestepldtimeovride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.670Z
+lastCollected: 2026-04-07T18:37:48.301Z
 estimatedTokens: 1339
-keywords: [WorkTypeStepLdTimeOvride, lead, time, that's, override, work, procedure, step, performed, service, territory, country, API, version, 59.0]
+keywords: [WorkTypeStepLdTimeOvride, lead, time, that's, override, work, procedure, step, performed, service, territory, country, API, 59.0]
 ---
-
-# WorkTypeStepLdTimeOvride
 
 > Represents the lead time that's used to override the default lead time
          required for the work procedure, work type, or work type step that's performed at a service

@@ -5,12 +5,10 @@ topic: eventwhorelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.225Z
+lastCollected: 2026-04-07T18:39:39.848Z
 estimatedTokens: 345
-keywords: [EventWhoRelation, relationship, event, lead, contacts, derived, filtered, version, EventRelation, IsParent, IsWhat, doesn’t, represent, relationships, invitees]
+keywords: [EventWhoRelation, relationship, event, lead, contacts, derived, filtered, EventRelation, IsParent, IsWhat, doesn’t, represent, relationships, invitees, accounts, opportunities]
 ---
-
-# EventWhoRelation
 
 > Represents the relationship between
     an event and a lead or contacts. This derived object is a filtered version of the EventRelation object; that is, IsParent is true and IsWhat is

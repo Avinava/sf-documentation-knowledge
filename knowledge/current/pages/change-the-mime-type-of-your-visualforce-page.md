@@ -5,12 +5,10 @@ topic: change-the-mime-type-of-your-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.069Z
+lastCollected: 2026-04-07T18:38:52.370Z
 estimatedTokens: 446
 keywords: [Change, MIME, Visualforce, specify, different, contentType, attribute, <apex, page>, tag, HTTPContent-Type, page’s]
 ---
-
-# Change the MIME type of Your Visualforce Page
 
 > You can specify a different format for a Visualforce page by using the contentType attribute on the <apex:page> tag. This sets the HTTPContent-Type header for the response to the value of the
         page’s contentType attribute.

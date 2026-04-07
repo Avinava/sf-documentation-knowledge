@@ -5,12 +5,10 @@ topic: ocr-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.032Z
+lastCollected: 2026-04-07T18:39:04.122Z
 estimatedTokens: 722
-keywords: [OCR, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller]
+keywords: [OCR, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# OCR Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that
         you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types

@@ -5,12 +5,10 @@ topic: livechatagentconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.784Z
+lastCollected: 2026-04-07T18:36:27.273Z
 estimatedTokens: 2018
-keywords: [LiveChatAgentConfig, configuration, organization’s, Chat, deployment, how, chats, assigned, agent, whether, sounds, enabled, File, Suffix, Directory]
+keywords: [LiveChatAgentConfig, AgentConfigAssignments, AgentConfigButtons, AgentConfigProfileAssignments, AgentConfigSkills, AgentConfigUserAssignments, SupervisorAgentConfigSkills, configuration, organization’s, Chat, deployment, how, chats, assigned, agent, whether, sounds, enabled, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LiveChatAgentConfig
 
 > Represents the configuration of an
             organization’s Chat deployment, such as how many chats can be assigned to an

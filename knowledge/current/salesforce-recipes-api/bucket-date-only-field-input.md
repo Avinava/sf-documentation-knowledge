@@ -5,12 +5,10 @@ topic: bucket-date-only-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.409Z
+lastCollected: 2026-04-07T18:39:18.099Z
 estimatedTokens: 128
-keywords: [Bucket, Date, Input, node, recipe]
+keywords: [Bucket, Date, node, recipe]
 ---
-
-# Bucket Date Only Field Input
 
 > A date only field for a bucket node in a recipe.
 

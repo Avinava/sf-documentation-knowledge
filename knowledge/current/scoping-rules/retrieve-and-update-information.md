@@ -5,12 +5,10 @@ topic: retrieve-and-update-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.879Z
+lastCollected: 2026-04-07T18:39:21.747Z
 estimatedTokens: 387
-keywords: [Retrieve, deploy, calls, move, metadata, XML, files, Salesforce, local, file, system, scoping, rules, procedure, components, PATCH]
+keywords: [Retrieve, deploy, move, metadata, XML, files, Salesforce, local, file, system, scoping, procedure, including, manifest, PATCH]
 ---
-
-# Retrieve and Update Information
 
 > Use the deploy() and retrieve() calls to move metadata (XML files) between Salesforce and a local file
   system. You can delete scoping rules by using the same procedure used to deploy components and

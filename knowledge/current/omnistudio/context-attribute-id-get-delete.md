@@ -5,12 +5,10 @@ topic: context-attribute-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.203Z
+lastCollected: 2026-04-07T18:36:37.812Z
 estimatedTokens: 110
 keywords: [Context, Attribute, Query]
 ---
-
-# Context Attribute ID (GET, DELETE)
 
 > Query and delete a context attribute using an ID.
 

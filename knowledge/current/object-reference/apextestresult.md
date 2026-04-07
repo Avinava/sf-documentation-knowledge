@@ -5,12 +5,10 @@ topic: apextestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.623Z
+lastCollected: 2026-04-07T18:38:25.509Z
 estimatedTokens: 943
-keywords: [ApexTestResult, result, Apex, test, execution, API, version, 23.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ApexTestResult, result, Apex, test, execution, API, 23.0]
 ---
-
-# ApexTestResult
 
 > Represents the result of an Apex test method execution. This
   object is available in API version 23.0 and later.

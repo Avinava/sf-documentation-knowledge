@@ -5,12 +5,10 @@ topic: sendclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.979Z
+lastCollected: 2026-04-07T18:40:20.201Z
 estimatedTokens: 755
 keywords: [SendClassification, send, classification, Marketing, Cloud, Items]
 ---
-
-# SendClassification
 
 > The SendClassification object represents a send classification in Marketing Cloud.
 

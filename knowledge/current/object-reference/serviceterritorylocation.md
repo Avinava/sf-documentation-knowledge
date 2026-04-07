@@ -5,12 +5,10 @@ topic: serviceterritorylocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.360Z
+lastCollected: 2026-04-07T18:38:41.003Z
 estimatedTokens: 608
-keywords: [ServiceTerritoryLocation, location, associated, particular, service, territory, Calls, Special, Access, Rules, Objects]
+keywords: [ServiceTerritoryLocation, location, particular, service, territory]
 ---
-
-# ServiceTerritoryLocation
 
 > Represents a location associated with a particular service territory
 			in field service.

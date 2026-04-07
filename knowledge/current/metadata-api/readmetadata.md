@@ -5,13 +5,11 @@ topic: readmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.406Z
+lastCollected: 2026-04-07T18:36:28.894Z
 estimatedTokens: 925
 namespace: MyNS
-keywords: [readMetadata, metadata, components, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Reading, Sample, Code—Java, Arguments]
+keywords: [Permissions, Arguments, readMetadata, metadata, organization, synchronously, Basic, Steps, Reading, Sample, Code—Java]
 ---
-
-# readMetadata()
 
 > Returns one or more metadata
 components from your organization synchronously.

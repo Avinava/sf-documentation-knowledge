@@ -5,12 +5,10 @@ topic: apianomalyeventstore-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.403Z
+lastCollected: 2026-04-07T18:39:22.298Z
 estimatedTokens: 214
-keywords: [ApiAnomalyEventStore, Policies, API, anomaly, event, monitor, anomalies, how, users, calls, Policy, Glance]
+keywords: [ApiAnomalyEventStore, Policies, API, anomaly, event, monitor, anomalies, how, users, Policy, Glance]
 ---
-
-# ApiAnomalyEventStore Policies
 
 > API anomaly event policies monitor anomalies in how users make API calls.
 

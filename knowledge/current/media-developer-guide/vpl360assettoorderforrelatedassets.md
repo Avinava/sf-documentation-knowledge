@@ -5,12 +5,10 @@ topic: vpl360assettoorderforrelatedassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.140Z
+lastCollected: 2026-04-07T18:38:11.407Z
 estimatedTokens: 169
-keywords: [VPL360_AssetToOrderForRelatedAssets, Integration, Procedure, converts, asset, order, assets, account, VPL360, _AssetToOrderForRelatedAssets, Sample, Input, Output, Calls]
+keywords: [VPL360_AssetToOrderForRelatedAssets, Integration, Procedure, converts, asset, order, assets, account, VPL360, _AssetToOrderForRelatedAssets, Sample]
 ---
-
-# VPL360_AssetToOrderForRelatedAssets
 
 > This Integration Procedure converts an asset to an order for
     all related assets of an account.

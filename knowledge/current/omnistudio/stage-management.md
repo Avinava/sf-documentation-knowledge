@@ -5,12 +5,10 @@ topic: stage-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:59.583Z
+lastCollected: 2026-04-07T18:36:45.345Z
 estimatedTokens: 266
-keywords: [Stage, Management, automate, manage, business, process, stages, gain, control, over, record, progress, transitions, fulfillment, criteria]
+keywords: [Stage, Management, automate, manage, business, process, stages, gain, control, over, record, progress, transitions, fulfillment, criteria, complex]
 ---
-
-# Stage Management
 
 > Stage Management enables you to automate and manage business process stages and gain
   control over the record stage progress. You can get details of business process stages,

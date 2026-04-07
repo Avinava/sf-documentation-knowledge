@@ -5,12 +5,10 @@ topic: commitment-payment-updates-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.331Z
+lastCollected: 2026-04-07T18:37:29.420Z
 estimatedTokens: 122
-keywords: [Commitment, Payment, Updates, Link, Output, representation, links]
+keywords: [Commitment, Payment, Updates, Link, links]
 ---
-
-# Commitment Payment Updates Response Link
 
 > Output representation of the links to the response object for the commitment payment
     updates.

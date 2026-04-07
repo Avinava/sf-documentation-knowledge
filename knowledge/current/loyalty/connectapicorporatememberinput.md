@@ -5,12 +5,10 @@ topic: connectapicorporatememberinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.744Z
+lastCollected: 2026-04-07T18:38:06.960Z
 estimatedTokens: 593
-keywords: [ConnectApi.CorporateMemberInput, Input, representation, corporate, member]
+keywords: [ConnectApi.CorporateMemberInput, corporate, member]
 ---
-
-# ConnectApi.CorporateMemberInput
 
 > Input representation of the corporate member create
     request.

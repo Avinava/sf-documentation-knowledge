@@ -2,7 +2,7 @@
 domain: restriction-rules
 name: Restriction Rules Developer Guide
 documentCount: 19
-lastGenerated: 2026-04-07T09:06:38.279Z
+lastGenerated: 2026-04-07T18:40:43.358Z
 ---
 
 # Restriction Rules Developer Guide — Knowledge Index

@@ -5,13 +5,11 @@ topic: billing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.460Z
+lastCollected: 2026-04-07T18:35:40.248Z
 estimatedTokens: 3796
 namespace: ConnectApi
-keywords: [Billing, Manage, scenarios, convert, negative, invoice, lines, apply, credit, memo, generate, invoices, recover, schedules, convertNegativeInvoiceLines]
+keywords: [Billing, Manage, scenarios, convert, negative, invoice, lines, apply, credit, memo, generate, invoices, recover, schedules, convertNegativeInvoiceLines, ConvertNegativeInvoiceLinesInput, invoiceId, API, Requires, Chatter, createCreditMemos, CreditMemoInputRequest, creditInvoice, CreditInvoiceInput, generateInvoices, inputRequest, recoverBillingSchedules, voidPostedCreditMemo, VoidPostedCreditMemoInput, creditMemoId, voidPostedInvoice]
 ---
-
-# Billing Class
 
 > Manage billing scenarios by using the Billing class. You can convert negative invoice
   lines, create and apply a credit memo to an invoice, generate invoices, and recover billing

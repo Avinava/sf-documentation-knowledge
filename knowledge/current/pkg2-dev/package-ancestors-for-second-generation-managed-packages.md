@@ -5,12 +5,10 @@ topic: package-ancestors-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.911Z
+lastCollected: 2026-04-07T18:38:56.551Z
 estimatedTokens: 1162
-keywords: [Package, Ancestors, Second-Generation, Managed, Packages, packaging, 2GP, offers, flexible, versioning, model, lets, break, linear, abandon]
+keywords: [Package, Ancestors, Second-Generation, Managed, Packages, packaging, 2GP, offers, flexible, versioning, model, lets, break, linear, abandon, longer, want, build, upon, call, decisions, ancestry, How, Affects, Upgrades, Great, Power, Comes, Responsibility, Patch, Versions]
 ---
-
-# Package Ancestors for Second-Generation Managed Packages
 
 > Second-generation managed packaging (managed 2GP) offers a flexible package versioning
   model that lets you break your linear versioning and abandon a package version you no longer want

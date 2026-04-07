@@ -5,12 +5,10 @@ topic: get-started-with-the-revenue-recognition-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.564Z
+lastCollected: 2026-04-07T18:37:03.129Z
 estimatedTokens: 1092
-keywords: [Started, Revenue, Recognition, Service, Review, Service’s, input, output, general, guidelines]
+keywords: [Started, Revenue, Recognition, Service, Review, Service’s, general, guidelines]
 ---
-
-# Get Started with the Revenue Recognition Service
 
 > Review the Revenue Recognition Service’s input and output parameters, and general
   guidelines.

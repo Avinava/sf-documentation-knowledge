@@ -5,12 +5,10 @@ topic: group-definitions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.051Z
+lastCollected: 2026-04-07T18:38:20.797Z
 estimatedTokens: 368
-keywords: [Group, Definitions, POST, Define, party, relationship, individuals, trusts, deliver, support, services, manage, shared, processes, cases]
+keywords: [Group, Definitions, POST, Define, party, relationship, individuals, trusts, deliver, support, services, manage, shared, processes, cases, benefits]
 ---
-
-# Group Definitions (POST)
 
 > Define a party relationship group of individuals or trusts to
       deliver support services or to manage shared processes, such as cases and

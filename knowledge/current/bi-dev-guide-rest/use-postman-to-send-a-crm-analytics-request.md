@@ -5,12 +5,10 @@ topic: use-postman-to-send-a-crm-analytics-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.750Z
+lastCollected: 2026-04-07T18:36:58.305Z
 estimatedTokens: 171
-keywords: [Postman, Send, CRM, Analytics, explore, test, API, calls, across, multiple, organizations, full, control, content]
+keywords: [Postman, Send, CRM, Analytics, explore, test, API, across, multiple, organizations, full, control, content]
 ---
-
-# Use Postman to Send a CRM Analytics Request
 
 > With Postman, you can explore and test your CRM Analytics API calls across multiple
   organizations with full control on headers, parameters, and content type.

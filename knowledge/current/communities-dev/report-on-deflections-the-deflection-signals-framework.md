@@ -5,12 +5,10 @@ topic: report-on-deflections-the-deflection-signals-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.059Z
+lastCollected: 2026-04-07T18:37:27.036Z
 estimatedTokens: 490
-keywords: [Report, Deflections, Deflection, Signals, Framework, lightningcommunity, deflectionSignal, event, fired, user, initiates, case, views, item, addresses]
+keywords: [Report, Deflections, Deflection, Signals, Framework, lightningcommunity, deflectionSignal, event, fired, user, initiates, case, views, item, addresses, their, issue, causes, abandon]
 ---
-
-# Report on Deflections: The Deflection Signals Framework
 
 > A lightningcommunity:deflectionSignal event is
     fired when a user initiates a case then views a deflection item that addresses their issue and

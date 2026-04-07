@@ -5,12 +5,10 @@ topic: serviceappointmentgroupshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.570Z
+lastCollected: 2026-04-07T18:40:01.329Z
 estimatedTokens: 254
 keywords: [ServiceAppointmentGroupShare, Sharing, ServiceAppointmentGroup]
 ---
-
-# ServiceAppointmentGroupShare
 
 > Sharing for ServiceAppointmentGroup.
 

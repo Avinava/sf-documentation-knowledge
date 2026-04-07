@@ -5,12 +5,10 @@ topic: optimized-append-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.741Z
+lastCollected: 2026-04-07T18:39:18.453Z
 estimatedTokens: 168
-keywords: [Optimized, Append, Input, node, recipe]
+keywords: [Optimized, Append, node, recipe]
 ---
-
-# Optimized Append Parameters Input
 
 > The parameters for an optimized append node in a recipe.
 

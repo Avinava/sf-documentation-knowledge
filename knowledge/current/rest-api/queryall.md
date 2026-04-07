@@ -5,12 +5,10 @@ topic: queryall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.820Z
+lastCollected: 2026-04-07T18:36:21.051Z
 estimatedTokens: 730
-keywords: [QueryAll, Executes, SOQL, query, Unlike, resource, records, soft, deleted, due, merge, permanently, removed, recycle, bin]
+keywords: [QueryAll, Executes, SOQL, query, Unlike, resource, records, soft, deleted, due, merge, permanently, removed, recycle, bin, longer, archived, task, event, REST, API, 29.0, Resources, Executing, Queries]
 ---
-
-# QueryAll
 
 > Executes the specified SOQL query. Unlike the Query resource, QueryAll returns records
 		that are soft deleted due to a merge or delete. After these records are permanently removed

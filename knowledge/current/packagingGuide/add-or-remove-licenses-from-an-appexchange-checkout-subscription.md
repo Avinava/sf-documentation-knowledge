@@ -5,12 +5,10 @@ topic: add-or-remove-licenses-from-an-appexchange-checkout-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.126Z
+lastCollected: 2026-04-07T18:38:45.978Z
 estimatedTokens: 468
-keywords: [Add, Remove, Licenses, AppExchange, Checkout, Subscription, customers, their, subscriptions, customer, adds, current, billing, period, additional]
+keywords: [Add, Remove, Licenses, AppExchange, Checkout, Subscription, customers, their, subscriptions, customer, adds, current, billing, period, additional, immediately, charges, prorated, amount, removes, removal, effect, start, reduced, license, count, Share, self-service, steps, updating]
 ---
-
-# Add or Remove Licenses from an AppExchange Checkout Subscription
 
 > Your customers can add or remove licenses from their Checkout subscriptions on
   AppExchange. If a customer adds licenses during the current billing period, the additional

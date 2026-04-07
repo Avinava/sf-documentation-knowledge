@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.085Z
+lastCollected: 2026-04-07T18:36:34.502Z
 estimatedTokens: 384
-keywords: [Skill, settings, service, route, chats, agents, Chat, skills, assigned, API, version, 65.0, later, SOAP, Calls]
+keywords: [Skill, settings, service, route, chats, agents, Chat, skills, assigned, API, 65.0, SOAP, REST]
 ---
-
-# Skill
 
 > Represents the settings for a skill used for field service or to route chats
          to agents in Chat, such as the name of the skill and which agents the skills are assigned

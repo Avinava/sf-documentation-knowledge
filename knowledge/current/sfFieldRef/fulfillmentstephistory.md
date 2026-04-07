@@ -5,12 +5,10 @@ topic: fulfillmentstephistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.135Z
+lastCollected: 2026-04-07T18:39:41.795Z
 estimatedTokens: 263
-keywords: [FulfillmentStepHistory, History, tracked, FulfillmentStep]
+keywords: [FulfillmentStepHistory, tracked, FulfillmentStep]
 ---
-
-# FulfillmentStepHistory
 
 > History for tracked fields of FulfillmentStep.
 

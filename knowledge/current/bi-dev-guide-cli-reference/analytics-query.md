@@ -5,12 +5,10 @@ topic: analytics-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.415Z
+lastCollected: 2026-04-07T18:36:53.777Z
 estimatedTokens: 365
 keywords: [analytics, query, Execute, Examples, Command]
 ---
-
-# analytics query
 
 > Execute an Analytics query.
 

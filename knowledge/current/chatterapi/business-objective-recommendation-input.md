@@ -5,12 +5,10 @@ topic: business-objective-recommendation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.649Z
+lastCollected: 2026-04-07T18:37:07.363Z
 estimatedTokens: 626
-keywords: [Business, Objective, Recommendation, Input, Recommended, action, goal]
+keywords: [Business, Objective, Recommendation, Recommended, action, goal]
 ---
-
-# Business Objective Recommendation Input
 
 > Recommended action for a business objective, or goal.
 

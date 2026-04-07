@@ -5,12 +5,10 @@ topic: salesstorecatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.778Z
+lastCollected: 2026-04-07T18:38:40.358Z
 estimatedTokens: 231
-keywords: [SalesStoreCatalog, catalog, associated, store, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [SalesStoreCatalog, catalog, store, API, 49.0]
 ---
-
-# SalesStoreCatalog
 
 > Represents the catalog associated with a store. This object is
       available in API version 49.0 and later.

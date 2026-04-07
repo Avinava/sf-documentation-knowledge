@@ -5,12 +5,10 @@ topic: cgcloudsubstitutionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.608Z
+lastCollected: 2026-04-07T18:39:15.050Z
 estimatedTokens: 1898
-keywords: [cgcloud__Substitution__c, case, stores, substitute, basis, substitution, depending, period, user, API, version, 54.0, later, cgcloud, _Substitution]
+keywords: [cgcloud__Substitution__c, case, stores, substitute, basis, substitution, depending, period, user, API, 54.0, cgcloud, _Substitution]
 ---
-
-# cgcloud__Substitution__c
 
 > The use case stores the details of the substitute object that
          specifies the basis of a substitution depending on a substitution period and user.

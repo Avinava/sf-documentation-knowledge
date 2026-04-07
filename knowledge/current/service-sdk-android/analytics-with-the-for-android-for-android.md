@@ -6,13 +6,10 @@ topic: analytics-with-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.443Z
+lastCollected: 2026-04-07T18:40:27.608Z
 estimatedTokens: 621
 keywords: [Analytics, Android, listen, user-driven, events, Service, Chat, SDK, ServiceAnalytics, system]
 ---
-
-# Analytics with the  for Android for
-      Android
 
 > You can listen to user-driven events from the Service Chat SDK using the ServiceAnalytics system.
 

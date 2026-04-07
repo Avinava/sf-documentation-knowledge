@@ -5,12 +5,10 @@ topic: forecastingfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.627Z
+lastCollected: 2026-04-07T18:36:33.113Z
 estimatedTokens: 622
-keywords: [ForecastingFilter, custom, filter, including, excluding, data, opportunity, forecasts, API, version, 55.0, later, SOAP, Calls, REST]
+keywords: [ForecastingFilter, filter, including, excluding, opportunity, forecasts, API, 55.0, SOAP, REST]
 ---
-
-# ForecastingFilter
 
 > Represents the custom filter for including or excluding data from opportunity
          forecasts. This object is available in API version 55.0 and later.

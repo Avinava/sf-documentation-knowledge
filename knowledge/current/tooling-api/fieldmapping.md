@@ -5,12 +5,10 @@ topic: fieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.508Z
+lastCollected: 2026-04-07T18:36:32.993Z
 estimatedTokens: 606
-keywords: [FieldMapping, mapping, org, data, service, uses, two, separate, maps, how, matches, records, adds, updates, record]
+keywords: [FieldMapping, mapping, org, service, uses, two, separate, maps, how, matches, records, adds, updates, record, SOAP, REST, HTTP]
 ---
-
-# FieldMapping
 
 > Represents a mapping between fields in an
             object in the org and fields in a data service. A data service uses two separate field

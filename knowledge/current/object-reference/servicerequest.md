@@ -5,12 +5,10 @@ topic: servicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.259Z
+lastCollected: 2026-04-07T18:38:40.864Z
 estimatedTokens: 1510
-keywords: [ServiceRequest, formal, user, something, provided, access, hardware, software, manages, lifecycle, tasks, typically, low-risk, fulfilled, defined]
+keywords: [ServiceRequest, formal, user, something, provided, hardware, software, manages, lifecycle, tasks, typically, low-risk, fulfilled, defined, repeatable, process, Service, created, employee, requesting, new, laptop, student, needing, transcript, API, 66.0]
 ---
-
-# ServiceRequest
 
 > Represents a formal request from a user for something to be provided, such as
          access, information, hardware, or software. This object manages the lifecycle of these

@@ -5,12 +5,10 @@ topic: user-followers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.154Z
+lastCollected: 2026-04-07T18:37:16.198Z
 estimatedTokens: 163
 keywords: [User, Followers]
 ---
-
-# User Followers
 
 > Get information about the followers for a
   user.

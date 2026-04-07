@@ -5,12 +5,10 @@ topic: get-messagingv1smsdefinitionsdefinitionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.203Z
+lastCollected: 2026-04-07T18:40:17.364Z
 estimatedTokens: 345
-keywords: [messaging, sms, definitions, definitionKey, send, definition, configuration, key, **Overview**, Usage, HTTP, Responses]
+keywords: [messaging, sms, definitions, definitionKey, send, definition, configuration, key, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/sms/definitions/{definitionKey}
 
 > Gets send definition configuration details for a definition key.
 

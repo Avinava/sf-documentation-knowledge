@@ -5,12 +5,10 @@ topic: calculation-procedures
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.131Z
+lastCollected: 2026-04-07T18:36:37.757Z
 estimatedTokens: 301
 keywords: [Calculation, Procedures, expression, known, procedure, search, text, API, maximum, ten, records, contain, keyword]
 ---
-
-# Calculation Procedures
 
 > Get a list of expression sets (also known as calculation procedure)
       based on a search text. The API returns a maximum of ten expression set records that contain

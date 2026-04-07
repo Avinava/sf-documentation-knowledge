@@ -5,12 +5,10 @@ topic: rules-testing-with-jsonxformtransformation-endpoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.929Z
+lastCollected: 2026-04-07T18:37:02.479Z
 estimatedTokens: 307
-keywords: [Rules, Testing, jsonxform, transformation, endpoint, Test, results, rule, deployment, calling, Process, Post, Transform, Constant, Array]
+keywords: [Testing, jsonxform, transformation, endpoint, Test, results, rule, deployment, calling, Process, Post, Transform, Constant, Array, Macro]
 ---
-
-# Rules Testing with jsonxform/transformation endpoint
 
 > Test the results of a rule before deployment by calling the jsonxform/transformation endpoint.
 

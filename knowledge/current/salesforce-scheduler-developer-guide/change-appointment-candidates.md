@@ -5,12 +5,10 @@ topic: change-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.625Z
+lastCollected: 2026-04-07T18:39:21.480Z
 estimatedTokens: 373
 keywords: [Change, Appointment, Candidates, assigned, resources, mark, themselves, absent, query, ServiceTerritoryMember, show, alternative]
 ---
-
-# Change Appointment Candidates
 
 > If the assigned resources mark themselves absent, use the query request on the ServiceTerritoryMember object to show the list of alternative
       resources.

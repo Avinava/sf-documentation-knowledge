@@ -5,12 +5,10 @@ topic: grantmaking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.255Z
+lastCollected: 2026-04-07T18:38:22.273Z
 estimatedTokens: 345
-keywords: [Grantmaking, objects, APIs, uses]
+keywords: [Grantmaking, APIs, uses]
 ---
-
-# Grantmaking
 
 > This guide provides information about the objects and APIs that Grantmaking
   uses.

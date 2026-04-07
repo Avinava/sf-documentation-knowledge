@@ -5,12 +5,10 @@ topic: senddefinitionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.996Z
+lastCollected: 2026-04-07T18:40:20.224Z
 estimatedTokens: 597
-keywords: [SendDefinitionList, audience, associated, email, send, definition]
+keywords: [SendDefinitionList, audience, email, send, definition]
 ---
-
-# SendDefinitionList
 
 > The SendDefinitionList object specifies audience associated with an email send definition.
 

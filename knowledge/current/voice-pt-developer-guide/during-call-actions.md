@@ -5,12 +5,10 @@ topic: during-call-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.514Z
+lastCollected: 2026-04-07T18:40:13.441Z
 estimatedTokens: 712
 keywords: [Call, Actions, guidelines, take]
 ---
-
-# During Call Actions
 
 > This section provides guidelines about actions you can take during a call.
 

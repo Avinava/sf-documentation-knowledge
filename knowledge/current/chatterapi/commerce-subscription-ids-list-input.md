@@ -5,12 +5,10 @@ topic: commerce-subscription-ids-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.046Z
+lastCollected: 2026-04-07T18:37:07.808Z
 estimatedTokens: 113
-keywords: [Commerce, Subscription, IDs, Input, representation, canceled]
+keywords: [Commerce, Subscription, IDs, canceled]
 ---
-
-# Commerce Subscription IDs List Input
 
 > Input representation of Commerce subscription IDs to be
     canceled.

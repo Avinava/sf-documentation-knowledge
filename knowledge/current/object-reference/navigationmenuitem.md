@@ -5,12 +5,10 @@ topic: navigationmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.765Z
+lastCollected: 2026-04-07T18:38:35.976Z
 estimatedTokens: 976
-keywords: [NavigationMenuItem, menu, item, NavigationLinkSet, items, Experience, Cloud, site’s, navigation, API, version, 35.0, later, Calls, Special]
+keywords: [NavigationMenuItem, menu, item, NavigationLinkSet, items, Experience, Cloud, site’s, navigation, API, 35.0]
 ---
-
-# NavigationMenuItem
 
 > Represents a single menu item in a NavigationLinkSet. Use this object
 			to create, delete, or update menu items in your Experience Cloud site’s navigation menu.

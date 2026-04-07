@@ -5,12 +5,10 @@ topic: schedulingobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.942Z
+lastCollected: 2026-04-07T18:36:29.420Z
 estimatedTokens: 844
-keywords: [SchedulingObjective, scheduling, objective, Workforce, Engagement, objectives, define, business, goals, tools, consider, identifying, agents, shifts, Parent]
+keywords: [SchedulingObjective, SchedulingObjectiveParameter, scheduling, objective, Workforce, Engagement, objectives, define, business, goals, tools, consider, identifying, agents, shifts, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SchedulingObjective
 
 > Represents a scheduling objective in Workforce Engagement. Scheduling objectives
       define business goals that the scheduling tools consider when identifying agents for

@@ -5,12 +5,10 @@ topic: salesforce-crm-voucher-definition-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.439Z
+lastCollected: 2026-04-07T18:35:53.401Z
 estimatedTokens: 427
-keywords: [Salesforce, CRM, Voucher, Definition, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, template]
+keywords: [Salesforce, CRM, Voucher, Definition, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, template, issue, vouchers, members, program, DMO]
 ---
-
-# Salesforce CRM: Voucher Definition Mapping
 
 > These data mappings are for the Voucher Definition DLO found in the Loyalty Management
   bundle of the Salesforce CRM Connector for Data Cloud. A voucher definition is a template that

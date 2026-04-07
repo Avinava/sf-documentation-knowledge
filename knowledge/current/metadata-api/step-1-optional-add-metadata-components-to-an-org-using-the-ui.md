@@ -5,12 +5,10 @@ topic: step-1-optional-add-metadata-components-to-an-org-using-the-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.375Z
+lastCollected: 2026-04-07T18:36:28.863Z
 estimatedTokens: 202
-keywords: [Step, Add, Metadata, Components, Org, you’re, starting, new, practice, doesn’t, customizations, standard, can’t, retrieved, API]
+keywords: [Step, Add, Metadata, Org, you’re, starting, new, practice, doesn’t, customizations, standard, can’t, retrieved, API, retrieve, call, Salesforce, working, project, already, skip]
 ---
-
-# Step 1: (Optional) Add Metadata Components to an Org Using the UI
 
 > If you’re starting with a new practice org that doesn’t have customizations, you only
   have standard metadata that can’t be retrieved. To use the Metadata API retrieve call, add a

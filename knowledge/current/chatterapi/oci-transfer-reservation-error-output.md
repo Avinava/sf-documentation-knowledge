@@ -5,12 +5,10 @@ topic: oci-transfer-reservation-error-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.088Z
+lastCollected: 2026-04-07T18:37:21.246Z
 estimatedTokens: 124
-keywords: [OCI, Transfer, Reservation, Error, Output, fulfill, inventory]
+keywords: [OCI, Transfer, Reservation, Error, fulfill, inventory]
 ---
-
-# OCI Transfer Reservation Error Output
 
 > Response to a request to fulfill one inventory
     reservation.

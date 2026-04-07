@@ -5,12 +5,10 @@ topic: activityfieldhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.877Z
+lastCollected: 2026-04-07T18:39:24.783Z
 estimatedTokens: 437
-keywords: [ActivityFieldHistory, change, tracked, big, API, version, 55.0, later]
+keywords: [ActivityFieldHistory, change, tracked, big, API, 55.0]
 ---
-
-# ActivityFieldHistory
 
 > Represents a change in a field value for a tracked object or field.
       This object is a big

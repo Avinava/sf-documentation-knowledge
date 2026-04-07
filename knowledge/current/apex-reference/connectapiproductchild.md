@@ -5,12 +5,10 @@ topic: connectapiproductchild
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.757Z
+lastCollected: 2026-04-07T18:36:11.023Z
 estimatedTokens: 117
 keywords: [ConnectApi.ProductChild, Child, product, parent]
 ---
-
-# ConnectApi.ProductChild
 
 > Child product related to a parent product.
 

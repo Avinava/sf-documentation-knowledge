@@ -5,12 +5,10 @@ topic: cgcloudtriplistaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.911Z
+lastCollected: 2026-04-07T18:39:15.403Z
 estimatedTokens: 1224
-keywords: [cgcloud__Trip_List_Account__c, stores, association, trip, customer, API, version, 54.0, later, cgcloud, _Trip, _List, _Account, Calls, Associated]
+keywords: [cgcloud__Trip_List_Account__c, stores, association, trip, customer, API, 54.0, cgcloud, _Trip, _List, _Account]
 ---
-
-# cgcloud__Trip_List_Account__c
 
 > The object stores the association between a trip list and a
          customer. This object is available in API version 54.0 and later.

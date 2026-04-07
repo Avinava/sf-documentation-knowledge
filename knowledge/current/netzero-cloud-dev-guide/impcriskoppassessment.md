@@ -5,12 +5,10 @@ topic: impcriskoppassessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.273Z
+lastCollected: 2026-04-07T18:38:18.907Z
 estimatedTokens: 794
-keywords: [ImpcRiskOppAssessment, assessment, ESG-related, impacts, risks, opportunities, organization, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ImpcRiskOppAssessment, assessment, ESG-related, impacts, risks, opportunities, organization, API, 63.0]
 ---
-
-# ImpcRiskOppAssessment
 
 > Represents an assessment of ESG-related impacts, risks, and opportunities for
          an organization.  This object is available in API version 63.0 and later.

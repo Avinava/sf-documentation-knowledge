@@ -5,12 +5,10 @@ topic: upload-binary-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.553Z
+lastCollected: 2026-04-07T18:40:10.525Z
 estimatedTokens: 713
-keywords: [Upload, Binary, Files, record, Base64, data, Multipart, Form-Data, JSON]
+keywords: [Upload, Binary, Files, record, Base64, Multipart, Form-Data, JSON]
 ---
-
-# Upload Binary Files
 
 > If a record has a Base64 field, you can upload binary data to the
       field when you create or update a record.

@@ -5,12 +5,10 @@ topic: quick-startadvanced
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.718Z
+lastCollected: 2026-04-07T18:38:57.524Z
 estimatedTokens: 1173
-keywords: [Quick, Start—Advanced, advanced, start, how, started, Canvas, features, step-by-step, process, creating, packaging, uploading, installing, running]
+keywords: [Quick, Start—Advanced, advanced, start, how, started, Canvas, features, step-by-step, process, creating, packaging, uploading, installing, running, app]
 ---
-
-# Quick Start—Advanced
 
 > This advanced quick start shows you how to get started with more of the Canvas features.
   It takes you step-by-step through the process of creating, packaging, uploading, installing, and

@@ -5,12 +5,10 @@ topic: getvoicecapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.469Z
+lastCollected: 2026-04-07T18:39:23.405Z
 estimatedTokens: 89
 keywords: [getVoiceCapabilities, partner, telephony, capabilities]
 ---
-
-# getVoiceCapabilities
 
 > Get the partner telephony capabilities.
 

@@ -5,12 +5,10 @@ topic: suspend-billing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.853Z
+lastCollected: 2026-04-07T18:35:39.639Z
 estimatedTokens: 381
-keywords: [Suspend, Billing, Action, resume, account, handle, disputes, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Suspend, Billing, Action, resume, account, handle, disputes, REST, HTTP]
 ---
-
-# Suspend Billing Action
 
 > Suspend or resume the billing of an account to handle billing
             disputes.

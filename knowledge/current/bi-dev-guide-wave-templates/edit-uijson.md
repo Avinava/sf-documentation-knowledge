@@ -5,12 +5,10 @@ topic: edit-uijson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.835Z
+lastCollected: 2026-04-07T18:37:02.389Z
 estimatedTokens: 630
 keywords: [Edit, ui.json, file, determines, how, template, displays, configuration, wizard, questions, defined, variables.json]
 ---
-
-# Edit ui.json
 
 > The ui.json file determines how your template
   displays the configuration wizard questions defined in variables.json.

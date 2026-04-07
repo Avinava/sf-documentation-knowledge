@@ -5,12 +5,10 @@ topic: composite-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.064Z
+lastCollected: 2026-04-07T18:37:07.824Z
 estimatedTokens: 197
-keywords: [Composite, Product, Input, representation]
+keywords: [Composite, Product]
 ---
-
-# Composite Product Input
 
 > Input representation of the composite product create request.
 

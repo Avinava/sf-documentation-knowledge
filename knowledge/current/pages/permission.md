@@ -5,12 +5,10 @@ topic: permission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.383Z
+lastCollected: 2026-04-07T18:38:52.694Z
 estimatedTokens: 213
-keywords: [$Permission, merge, referencing, current, user’s, custom, permission, access, any, organization’s, permissions, Usage]
+keywords: [$Permission, merge, referencing, current, user’s, permission, any, organization’s, permissions]
 ---
-
-# $Permission
 
 > A global merge field type to use when referencing information about the current user’s
   custom permission access. Use permission merge fields to reference information about the user’s

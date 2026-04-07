@@ -5,12 +5,10 @@ topic: stagedunmtchdemailaddr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.938Z
+lastCollected: 2026-04-07T18:38:41.689Z
 estimatedTokens: 686
-keywords: [StagedUnmtchdEmailAddr, data, email, address, identified, Einstein, Activity, Capture, doesn’t, match, user, contact, lead, record, addresses]
+keywords: [StagedUnmtchdEmailAddr, email, address, identified, Einstein, Activity, Capture, doesn’t, match, user, contact, lead, record, addresses, stored, temporarily, StagedUnmtchdEmailAddrRela, message, calendar, event, unmatched, API, 66.0]
 ---
-
-# StagedUnmtchdEmailAddr
 
 > Represents data about an email address identified by Einstein Activity
          Capture that doesn’t match to an existing user, contact, or lead record. These addresses

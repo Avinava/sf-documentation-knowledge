@@ -5,12 +5,10 @@ topic: productpricerange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.181Z
+lastCollected: 2026-04-07T18:35:50.104Z
 estimatedTokens: 911
-keywords: [ProductPriceRange, price, range, product, determined, selling, model, that’s, stored, relevant, book, API, version, 62.0, later]
+keywords: [ProductPriceRange, price, range, product, determined, selling, model, that’s, stored, relevant, book, API, 62.0]
 ---
-
-# ProductPriceRange
 
 > Represents the price range of a product determined by using a product
          selling model that’s stored in the relevant price book. This object is available in

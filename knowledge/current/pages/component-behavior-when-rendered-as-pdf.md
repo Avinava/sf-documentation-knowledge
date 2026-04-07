@@ -5,12 +5,10 @@ topic: component-behavior-when-rendered-as-pdf
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.535Z
+lastCollected: 2026-04-07T18:38:51.830Z
 estimatedTokens: 678
-keywords: [Component, Behavior, Rendered, PDF, Understanding, how, Visualforce, components, behave, converted, essential, creating, pages, render, well]
+keywords: [Behavior, Rendered, PDF, Understanding, how, Visualforce, behave, converted, essential, creating, pages, render, well, Safe, Rendering, Caution, Unsafe]
 ---
-
-# Component Behavior When Rendered as PDF
 
 > Understanding how Visualforce
   components behave when converted to PDF is essential to creating pages that render

@@ -5,12 +5,10 @@ topic: issue-voucher-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.707Z
+lastCollected: 2026-04-07T18:38:07.947Z
 estimatedTokens: 303
-keywords: [Issue, Voucher, Action, Output, representation, member, contact, REST, HTTP, Inputs, Outputs]
+keywords: [Issue, Voucher, Action, Inputs, Outputs, member, contact, REST, HTTP]
 ---
-
-# Issue Voucher Action
 
 > Issue a voucher for a member or contact.
 

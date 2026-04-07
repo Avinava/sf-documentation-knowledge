@@ -5,12 +5,10 @@ topic: removemessagehandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.500Z
+lastCollected: 2026-04-07T18:38:03.543Z
 estimatedTokens: 138
-keywords: [removeMessageHandler, Unmounts, message-handling, function, Sample, Arguments]
+keywords: [Sample, Arguments, removeMessageHandler, Unmounts, message-handling, function]
 ---
-
-# removeMessageHandler()
 
 > Unmounts the message-handling function.
 

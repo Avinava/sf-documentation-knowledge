@@ -5,12 +5,10 @@ topic: random
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.290Z
+lastCollected: 2026-04-07T18:40:22.701Z
 estimatedTokens: 133
-keywords: [Random, Function, Ordinal, int, Least, Greatest, **Overview**, **Syntax**, Usage]
+keywords: [Random, Function, Ordinal, int, Least, Greatest, **Overview**, **Syntax**]
 ---
-
-# Random
 
 > Random(1, 2)
 

@@ -5,12 +5,10 @@ topic: subscription-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.212Z
+lastCollected: 2026-04-07T18:36:57.762Z
 estimatedTokens: 123
 keywords: [Subscription, Collection, Analytics, subscriptions]
 ---
-
-# Subscription Collection
 
 > A collection of Analytics subscriptions.
 

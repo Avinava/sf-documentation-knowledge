@@ -5,12 +5,10 @@ topic: managing-user-passwords
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.436Z
+lastCollected: 2026-04-07T18:36:21.681Z
 estimatedTokens: 197
 keywords: [Managing, User, Passwords, examples, REST, API, resources, manage, setting, resetting]
 ---
-
-# Managing User Passwords
 
 > The examples in this section use REST API resources to manage user passwords, such as
   setting or resetting passwords.

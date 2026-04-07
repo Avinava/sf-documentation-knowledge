@@ -5,12 +5,10 @@ topic: roleorterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.886Z
+lastCollected: 2026-04-07T18:36:29.365Z
 estimatedTokens: 637
-keywords: [RoleOrTerritory, common, base, role, territory, Version, Declarative, Metadata, Sample, Definition]
+keywords: [RoleOrTerritory, common, base, role, territory, Declarative, Metadata, Sample, Definition]
 ---
-
-# RoleOrTerritory
 
 > Represents the common base type and valid values for
    role or territory.

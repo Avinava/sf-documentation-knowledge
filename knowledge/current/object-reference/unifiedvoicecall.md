@@ -5,12 +5,10 @@ topic: unifiedvoicecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.448Z
+lastCollected: 2026-04-07T18:38:43.200Z
 estimatedTokens: 644
-keywords: [UnifiedVoiceCall, voice, call, captured, synced, VoiceCall, Task, record, reports, dashboards, Winter, ’24, release, later, Calls]
+keywords: [UnifiedVoiceCall, voice, call, captured, synced, VoiceCall, Task, record, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedVoiceCall
 
 > Represents a voice call that is captured or synced from a VoiceCall
          or Task record. This object is available for reports and dashboards in the Winter ’24

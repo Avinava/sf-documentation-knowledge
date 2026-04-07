@@ -5,12 +5,10 @@ topic: crbncreditalloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.666Z
+lastCollected: 2026-04-07T18:39:36.187Z
 estimatedTokens: 575
 keywords: [CrbnCreditAlloc, how, carbon, credits, allocated, organization, offset, their, emissions]
 ---
-
-# CrbnCreditAlloc
 
 > Represents information about how the carbon credits are allocated by an
          organization to offset their emissions.

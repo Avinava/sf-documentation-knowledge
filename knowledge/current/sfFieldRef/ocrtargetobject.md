@@ -5,12 +5,10 @@ topic: ocrtargetobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.538Z
+lastCollected: 2026-04-07T18:39:49.993Z
 estimatedTokens: 233
 keywords: [OcrTargetObject, document, extracted, mapped]
 ---
-
-# OcrTargetObject
 
 > Represents the details of the object to which information from a
       document is extracted and mapped.

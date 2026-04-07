@@ -5,12 +5,10 @@ topic: current-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.202Z
+lastCollected: 2026-04-07T18:39:02.410Z
 estimatedTokens: 104
-keywords: [Current, Output, representation, guardrail, row, level]
+keywords: [Current, guardrail, row, level]
 ---
-
-# Current Value
 
 > Output representation of the current value of the guardrail at a row level.
 

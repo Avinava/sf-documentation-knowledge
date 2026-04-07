@@ -5,12 +5,10 @@ topic: run-salesforce-headless-pricing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.308Z
+lastCollected: 2026-04-07T18:35:40.086Z
 estimatedTokens: 965
-keywords: [Run, Salesforce, Headless, Pricing, Action, Invoke, Connect, API, providing, data, context, procedure, price, waterfall, Special]
+keywords: [Inputs, Outputs, Run, Salesforce, Headless, Pricing, Action, Invoke, Connect, API, providing, context, procedure, price, waterfall, REST, HTTP]
 ---
-
-# Run Salesforce Headless Pricing Action
 
 > Invoke the Pricing Connect API by providing the pricing data and
 			details of a context, pricing procedure, and price waterfall.

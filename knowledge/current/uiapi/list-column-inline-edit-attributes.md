@@ -5,12 +5,10 @@ topic: list-column-inline-edit-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.709Z
+lastCollected: 2026-04-07T18:40:11.719Z
 estimatedTokens: 133
 keywords: [Column, Inline, Edit, Attributes]
 ---
-
-# List Column Inline Edit Attributes
 
 > List column inline edit attributes.
 

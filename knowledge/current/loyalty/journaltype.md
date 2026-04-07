@@ -5,12 +5,10 @@ topic: journaltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:19.787Z
+lastCollected: 2026-04-07T18:38:10.103Z
 estimatedTokens: 782
-keywords: [JournalType, category, transactions, accrual, redemption, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [JournalType, category, transactions, accrual, redemption, API, 51.0]
 ---
-
-# JournalType
 
 > Represents the category of transactions. For example: accrual, redemption.
     This object is available in API version 51.0 and later.

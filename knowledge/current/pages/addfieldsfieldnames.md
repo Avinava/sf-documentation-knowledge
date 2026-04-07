@@ -5,12 +5,10 @@ topic: addfieldsfieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.037Z
+lastCollected: 2026-04-07T18:38:47.994Z
 estimatedTokens: 229
-keywords: [addFields, fieldNames, Visualforce, loaded, accessible, referenced, markup, adds, controller, explicitly, access, well, Usage]
+keywords: [addFields, fieldNames, Visualforce, loaded, accessible, referenced, markup, adds, controller, explicitly, well]
 ---
-
-# addFields(fieldNames)
 
 > When a Visualforce page is
   loaded, the fields accessible to the page are based on the fields referenced in the Visualforce markup. This method adds a

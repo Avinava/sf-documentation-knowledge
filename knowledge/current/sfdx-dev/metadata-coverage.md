@@ -5,12 +5,10 @@ topic: metadata-coverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.653Z
+lastCollected: 2026-04-07T18:40:08.609Z
 estimatedTokens: 321
-keywords: [Metadata, Coverage, Launch, report, determine, scratch, org, source, tracking, purposes, ultimate, truth, across, several, channels]
+keywords: [Metadata, Coverage, Launch, report, determine, scratch, org, source, purposes, ultimate, truth, across, several, channels, include, API, unlocked, packages, second-generation, managed, classic]
 ---
-
-# Metadata Coverage
 
 > Launch the Metadata Coverage report to determine supported metadata for scratch org
     source tracking purposes. The Metadata Coverage report is the ultimate source of truth for

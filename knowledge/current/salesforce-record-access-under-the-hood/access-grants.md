@@ -5,12 +5,10 @@ topic: access-grants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.080Z
+lastCollected: 2026-04-07T18:39:19.777Z
 estimatedTokens: 686
-keywords: [Access, Grants, organization-wide, Salesforce, uses, define, how, much, user, group, object’s, records, grant, gives, specific]
+keywords: [Grants, organization-wide, Salesforce, uses, define, how, much, user, group, object’s, records, grant, gives, specific, record]
 ---
-
-# Access Grants
 
 > When an object has its organization-wide default set to Private or Public Read Only, Salesforce uses access grants to define how
    much access a user or group has to that object’s records. Each access grant gives a specific user

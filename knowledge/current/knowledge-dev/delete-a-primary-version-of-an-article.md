@@ -5,12 +5,10 @@ topic: delete-a-primary-version-of-an-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.565Z
+lastCollected: 2026-04-07T18:37:53.853Z
 estimatedTokens: 82
-keywords: [Primary, Version, Article, Deletes]
+keywords: [Primary, Article, Deletes]
 ---
-
-# Delete a Primary Version of an Article
 
 > Deletes the primary version of an article.
 

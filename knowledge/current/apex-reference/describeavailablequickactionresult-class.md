@@ -5,13 +5,11 @@ topic: describeavailablequickactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.605Z
+lastCollected: 2026-04-07T18:36:02.812Z
 estimatedTokens: 671
 namespace: QuickAction
-keywords: [DescribeAvailableQuickActionResult, unique, action, doesn’t, API, Usage, getActionEnumOrId, getLabel, getName, getType]
+keywords: [DescribeAvailableQuickActionResult, unique, action, doesn’t, API, getActionEnumOrId, getLabel, getName, getType]
 ---
-
-# DescribeAvailableQuickActionResult Class
 
 > Returns the unique ID for the action. If the action doesn’t have an
       ID, its API name is used.

@@ -5,12 +5,10 @@ topic: verificationcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.984Z
+lastCollected: 2026-04-07T18:37:39.944Z
 estimatedTokens: 2636
-keywords: [VerificationContext, verification, context, including, process, definition, selected, search, result, verified, processDefinition, selectedSearchResult, selectedVerifiedResult, verifiedResult, message]
+keywords: [VerificationContext, verification, context, including, process, definition, selected, search, result, verified, processDefinition, selectedSearchResult, selectedVerifiedResult, verifiedResult, message, isSuccess]
 ---
-
-# VerificationContext Class
 
 > Contains information about the verification context, including the
       process definition, selected search result, selected verified result, and verified

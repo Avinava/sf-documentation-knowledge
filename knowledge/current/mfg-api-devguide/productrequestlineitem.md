@@ -5,12 +5,10 @@ topic: productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.931Z
+lastCollected: 2026-04-07T18:38:14.250Z
 estimatedTokens: 1464
-keywords: [ProductRequestLineItem, product, that’s, requested, part, line, items, components, requests, item, associated, specific, API, version, 60.0]
+keywords: [ProductRequestLineItem, product, that’s, requested, part, line, items, requests, item, specific, API, 60.0]
 ---
-
-# ProductRequestLineItem
 
 > Represents a product that’s requested as a part of a product request. Product
          request line items are components of product requests. Each line item is associated with a

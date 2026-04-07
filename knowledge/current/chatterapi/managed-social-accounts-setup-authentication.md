@@ -5,12 +5,10 @@ topic: managed-social-accounts-setup-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.490Z
+lastCollected: 2026-04-07T18:37:14.476Z
 estimatedTokens: 230
-keywords: [Managed, Social, Accounts, Setup, Authentication, data, relevant, networks]
+keywords: [Managed, Social, Accounts, Setup, Authentication, relevant, networks]
 ---
-
-# Managed Social Accounts Setup Authentication
 
 > Get data relevant to authentication for social
     networks.

@@ -5,12 +5,10 @@ topic: operatinghours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.251Z
+lastCollected: 2026-04-07T18:39:15.778Z
 estimatedTokens: 7684
-keywords: [Operatinghours, Standard, custom, extend, Operating, hours, Consumer, Goods, Cloud, represent, service, territory, resource, account, work]
+keywords: [Operatinghours, Standard, extend, Operating, hours, Consumer, Goods, Cloud, represent, service, territory, resource, account, work, API, 55.0]
 ---
-
-# Operatinghours
 
 > Standard and custom fields extend the standard Operating hours object
          in Consumer Goods Cloud to represent the hours in which a service territory, service

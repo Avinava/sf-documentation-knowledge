@@ -5,12 +5,10 @@ topic: conversationcontextentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.386Z
+lastCollected: 2026-04-07T18:39:35.835Z
 estimatedTokens: 361
-keywords: [ConversationContextEntry, context, message, event, chat, history, agent, messaging, user, API, version, 47.0, later]
+keywords: [ConversationContextEntry, context, message, event, chat, agent, messaging, user, API, 47.0]
 ---
-
-# ConversationContextEntry
 
 > Represents the context of a message or an event in the chat history between an
       agent and a messaging user. This object is available in API version 47.0 and later.

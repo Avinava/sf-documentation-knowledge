@@ -6,13 +6,10 @@ topic: execute-a-soql-query-that-includes-deleted-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.724Z
+lastCollected: 2026-04-07T18:36:19.945Z
 estimatedTokens: 416
-keywords: [Execute, SOQL, Query, Includes, Deleted, Items, QueryAll, resource, records, because, merge, rather, automatically, filter, Retrieving]
+keywords: [Execute, SOQL, Query, Includes, Deleted, Items, QueryAll, resource, records, because, merge, rather, automatically, filter, Retrieving, Remaining, Results]
 ---
-
-# Execute a SOQL Query that Includes
-            Deleted Items
 
 > Use the QueryAll resource to execute a SOQL query that includes information about
             records that have been deleted because of a merge or delete. Use QueryAll rather than

@@ -5,12 +5,10 @@ topic: bucket-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.491Z
+lastCollected: 2026-04-07T18:39:18.171Z
 estimatedTokens: 105
 keywords: [Bucket, node, recipe]
 ---
-
-# Bucket Parameters
 
 > The parameters for a bucket node in a recipe.
 

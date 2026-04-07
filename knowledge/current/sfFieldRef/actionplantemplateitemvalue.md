@@ -5,12 +5,10 @@ topic: actionplantemplateitemvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.698Z
+lastCollected: 2026-04-07T18:39:24.606Z
 estimatedTokens: 448
-keywords: [ActionPlanTemplateItemValue, associated, action, plan, template, item, API, version, 44.0, later]
+keywords: [ActionPlanTemplateItemValue, action, plan, template, item, API, 44.0]
 ---
-
-# ActionPlanTemplateItemValue
 
 > Represents the value associated with an action plan template item.
 		This object is available in API version 44.0 and later.

@@ -5,12 +5,10 @@ topic: data-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.767Z
+lastCollected: 2026-04-07T18:35:54.859Z
 estimatedTokens: 357
-keywords: [Data, Collection, Salesforce, Interactions, SDK, begin, capturing, initialize, gain, user’s, consent, track, User, Engagement, Profile]
+keywords: [Collection, Salesforce, Interactions, SDK, begin, capturing, initialize, gain, user’s, consent, track, User, Engagement, Profile]
 ---
-
-# Data Collection
 
 > Before the Salesforce Interactions SDK can begin capturing data, initialize the
     Salesforce Interactions SDK and gain the user’s consent to track the data.

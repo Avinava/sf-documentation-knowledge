@@ -5,12 +5,10 @@ topic: headless-registration-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:51.533Z
+lastCollected: 2026-04-07T18:37:39.473Z
 estimatedTokens: 994
-keywords: [Headless, Registration, Flow, extends, Authorization, Code, Credentials, end, new, user, registered, logged, they, access, Salesforce]
+keywords: [Headless, Registration, Flow, extends, Authorization, Code, Credentials, end, new, user, registered, logged, they, Salesforce, Here’s, high-level, how, works, single-page, app]
 ---
-
-# Headless Registration Overview
 
 > The Headless Registration Flow extends the Authorization Code and Credentials Flow. At
   the end of this flow, a new user is registered and logged in, and they can access Salesforce data.

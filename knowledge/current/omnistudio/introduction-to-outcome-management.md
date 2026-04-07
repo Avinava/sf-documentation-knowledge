@@ -5,12 +5,10 @@ topic: introduction-to-outcome-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.656Z
+lastCollected: 2026-04-07T18:36:43.395Z
 estimatedTokens: 180
-keywords: [Introduction, Outcome, Management, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators]
+keywords: [Introduction, Outcome, Management, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators, across, different, outcomes, programs, Organize, groups, reflect, organizational, logic, model, external, stakeholders, care]
 ---
-
-# Introduction to Outcome Management
 
 > Use Outcome Management to define, measure, and evaluate an organization’s outcome
   strategy. Set time-bound targets and baseline values and track results. Consistently measure the

@@ -5,13 +5,11 @@ topic: recordui-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.474Z
+lastCollected: 2026-04-07T18:35:58.738Z
 estimatedTokens: 538
 namespace: ConnectApi
-keywords: [RecordUi, picklist, record, getPicklistValuesByRecordType, objectApiName, recordTypeId, API, Version, Guest, Users, Requires, Chatter, Usage]
+keywords: [RecordUi, picklist, record, getPicklistValuesByRecordType, objectApiName, recordTypeId, API, Guest, Users, Requires, Chatter]
 ---
-
-# RecordUi Class
 
 > Get picklist values by record type.
 

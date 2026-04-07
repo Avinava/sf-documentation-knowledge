@@ -5,12 +5,10 @@ topic: create-learnings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.987Z
+lastCollected: 2026-04-07T18:37:29.099Z
 estimatedTokens: 85
-keywords: [Learnings, Input, representation]
+keywords: [Learnings]
 ---
-
-# Create Learnings Input
 
 > Input representation of the details of the request to create learnings.
 

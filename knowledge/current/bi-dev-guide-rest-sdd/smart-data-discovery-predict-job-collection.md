@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-job-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.296Z
+lastCollected: 2026-04-07T18:36:59.788Z
 estimatedTokens: 134
-keywords: [Smart, Data, Discovery, Predict, Job, Collection, Einstein, jobs]
+keywords: [Smart, Discovery, Predict, Job, Collection, Einstein, jobs]
 ---
-
-# Smart Data Discovery Predict Job Collection
 
 > A collection of Einstein Discovery predict jobs.
 

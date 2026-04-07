@@ -5,12 +5,10 @@ topic: account-statement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.043Z
+lastCollected: 2026-04-07T18:35:43.995Z
 estimatedTokens: 447
-keywords: [Account, Statement, Input, representation, generate, comprehensive, transaction, history, balance]
+keywords: [Account, Statement, generate, comprehensive, transaction, balance]
 ---
-
-# Account Statement Input
 
 > Input representation of the details required to generate a comprehensive statement of
     account with transaction history and balance information.

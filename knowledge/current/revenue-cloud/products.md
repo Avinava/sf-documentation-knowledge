@@ -5,12 +5,10 @@ topic: products
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:01.472Z
+lastCollected: 2026-04-07T18:35:46.436Z
 estimatedTokens: 235
-keywords: [Products, Output, representation, retrieved]
+keywords: [Products, retrieved]
 ---
-
-# Products
 
 > Output representation of the list of retrieved products.
 

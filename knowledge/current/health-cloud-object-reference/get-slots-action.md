@@ -5,12 +5,10 @@ topic: get-slots-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.625Z
+lastCollected: 2026-04-07T18:37:39.572Z
 estimatedTokens: 487
-keywords: [Slots, Action, Retrieve, appointment, resources, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Slots, Action, Retrieve, appointment, resources, REST, HTTP]
 ---
-
-# Get Slots Action
 
 > Retrieve available appointment slots for one or more
         resources.

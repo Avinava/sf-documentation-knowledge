@@ -5,12 +5,10 @@ topic: user-interface-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.804Z
+lastCollected: 2026-04-07T18:40:10.781Z
 estimatedTokens: 1316
 keywords: [User, API, Bodies, successful, execution, resource, JSON]
 ---
-
-# User Interface API Request Bodies
 
 > The successful execution of a request to a resource can return a response body in JSON
     format.

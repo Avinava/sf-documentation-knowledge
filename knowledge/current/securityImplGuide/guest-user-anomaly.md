@@ -5,12 +5,10 @@ topic: guest-user-anomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.737Z
+lastCollected: 2026-04-07T18:39:22.627Z
 estimatedTokens: 307
-keywords: [Guest, User, Anomaly, any, activity, sufficiently, different, users, metadata, Salesforce, Core, application, logs, build, profiles]
+keywords: [Guest, User, Anomaly, any, activity, sufficiently, different, users, metadata, Salesforce, Core, application, logs, build, profiles, representing, users’, activities, threat, detection, event, identifies, suspicious, attempts, organization]
 ---
-
-# Guest User Anomaly
 
 > An anomaly is any user activity that is sufficiently different from the other
     users. We use the metadata in Salesforce Core application logs to build profiles representing

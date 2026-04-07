@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-post-body-insight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.224Z
+lastCollected: 2026-04-07T18:36:59.714Z
 estimatedTokens: 143
-keywords: [Smart, Data, Discovery, Narrative, Post, Insight, metadata]
+keywords: [Smart, Discovery, Narrative, Post, Insight, metadata]
 ---
-
-# Smart Data Discovery Narrative Post Body Insight
 
 > The narrative insight metadata.
 

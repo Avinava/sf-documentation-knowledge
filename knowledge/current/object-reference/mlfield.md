@@ -5,12 +5,10 @@ topic: mlfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.493Z
+lastCollected: 2026-04-07T18:38:35.741Z
 estimatedTokens: 116
-keywords: [MLField, data, definition, API, version, 50.0, later, Calls]
+keywords: [MLField, definition, API, 50.0]
 ---
-
-# MLField
 
 > Represents a single field in a data definition. This object is available
     in API version 50.0 and later.

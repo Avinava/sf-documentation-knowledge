@@ -5,12 +5,10 @@ topic: applicationsectiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.604Z
+lastCollected: 2026-04-07T18:37:30.673Z
 estimatedTokens: 265
-keywords: [ApplicationSectionDefinition, application, API, version, 59.0, later, Calls]
+keywords: [ApplicationSectionDefinition, application, API, 59.0]
 ---
-
-# ApplicationSectionDefinition
 
 > Represents the section of an application. This object is available in
       API version 59.0 and later.

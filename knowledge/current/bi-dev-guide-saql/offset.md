@@ -5,12 +5,10 @@ topic: offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.689Z
+lastCollected: 2026-04-07T18:37:01.296Z
 estimatedTokens: 249
-keywords: [offset, results, query, Usage, Rows, 51–101]
+keywords: [offset, results, query, Rows, 51–101]
 ---
-
-# offset
 
 > Use offset to page through the results of your
   query.

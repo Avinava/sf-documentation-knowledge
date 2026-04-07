@@ -5,12 +5,10 @@ topic: dates-in-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.269Z
+lastCollected: 2026-04-07T18:37:02.834Z
 estimatedTokens: 516
 keywords: [Dates, XMD, Specify, date, conventions, Analytics, dashboards, lenses]
 ---
-
-# Dates in XMD
 
 > Specify date conventions for Analytics dashboards and lenses.
 

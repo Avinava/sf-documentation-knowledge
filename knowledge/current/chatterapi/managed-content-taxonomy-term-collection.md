@@ -5,12 +5,10 @@ topic: managed-content-taxonomy-term-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.384Z
+lastCollected: 2026-04-07T18:37:20.570Z
 estimatedTokens: 206
 keywords: [Managed, Content, Taxonomy, Term, Collection, terms]
 ---
-
-# Managed Content Taxonomy Term Collection
 
 > Collection of managed content taxonomy terms.
 

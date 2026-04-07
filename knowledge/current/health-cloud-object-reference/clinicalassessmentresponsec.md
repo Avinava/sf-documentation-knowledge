@@ -5,12 +5,10 @@ topic: clinicalassessmentresponsec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.409Z
+lastCollected: 2026-04-07T18:37:43.579Z
 estimatedTokens: 1946
-keywords: [ClinicalAssessmentResponse__c, results, assessment, patient’s, health, condition, ClinicalAssessmentResponse, Calls]
+keywords: [ClinicalAssessmentResponse__c, results, assessment, patient’s, health, condition, ClinicalAssessmentResponse]
 ---
-
-# ClinicalAssessmentResponse__c
 
 > Represents the results of an assessment of a patient’s health
 			condition.

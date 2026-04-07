@@ -5,12 +5,10 @@ topic: personalization-recommender-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.208Z
+lastCollected: 2026-04-07T18:37:15.254Z
 estimatedTokens: 152
 keywords: [Personalization, Recommender, Creation]
 ---
-
-# Personalization Recommender Creation
 
 > Create a personalization recommender.
 

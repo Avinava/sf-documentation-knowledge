@@ -5,12 +5,10 @@ topic: move-metadata-from-production-to-your-local-file-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.005Z
+lastCollected: 2026-04-07T18:36:30.383Z
 estimatedTokens: 364
 keywords: [Move, Metadata, Production, Local, File, System, development, changes, affecting, configurations, API, push, shareable, repository]
 ---
-
-# Move Metadata from Production to Your Local File System
 
 > To make development changes without affecting your existing
       configurations, use Metadata API to move metadata to your local file system. Next, push

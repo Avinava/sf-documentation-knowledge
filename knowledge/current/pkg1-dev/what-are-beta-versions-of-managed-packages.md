@@ -5,12 +5,10 @@ topic: what-are-beta-versions-of-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.770Z
+lastCollected: 2026-04-07T18:38:54.142Z
 estimatedTokens: 422
-keywords: [Beta, Versions, Managed, Packages, package, early, version, purpose, allow, developer, test, their, application, different, Salesforce]
+keywords: [Beta, Versions, Managed, Packages, package, early, purpose, allow, developer, test, their, application, different, Salesforce, orgs, share, app, pilot, users, evaluation, feedback]
 ---
-
-# What Are Beta Versions of Managed Packages?
 
 > A beta package is an early version of a managed package. The purpose of a beta
       package is to allow the developer to test their application in different Salesforce orgs and

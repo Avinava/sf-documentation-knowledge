@@ -5,12 +5,10 @@ topic: orderitemrateadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.582Z
+lastCollected: 2026-04-07T18:39:50.988Z
 estimatedTokens: 276
-keywords: [OrderItemRateAdjustmentHistory, History, tracked, OrderItemRateAdjustment]
+keywords: [OrderItemRateAdjustmentHistory, tracked, OrderItemRateAdjustment]
 ---
-
-# OrderItemRateAdjustmentHistory
 
 > History for tracked fields of OrderItemRateAdjustment.
 

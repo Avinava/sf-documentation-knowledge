@@ -5,12 +5,10 @@ topic: cgcloudaccountreceivablec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.321Z
+lastCollected: 2026-04-07T18:39:12.757Z
 estimatedTokens: 696
-keywords: [cgcloud__Account_Receivable__c, Holds, customer, regarding, invoices, paid, debit, credit, notes, API, version, 55.0, later, cgcloud, _Account]
+keywords: [cgcloud__Account_Receivable__c, Holds, customer, regarding, invoices, paid, debit, credit, notes, API, 55.0, cgcloud, _Account, _Receivable]
 ---
-
-# cgcloud__Account_Receivable__c
 
 > Holds the customer related information regarding invoices to be paid and
          debit and credit notes. This object is available in API version 55.0 and later.

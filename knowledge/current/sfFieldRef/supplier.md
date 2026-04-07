@@ -5,12 +5,10 @@ topic: supplier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.432Z
+lastCollected: 2026-04-07T18:40:03.123Z
 estimatedTokens: 299
 keywords: [Supplier, that’s, climate-committed, company]
 ---
-
-# Supplier
 
 > Represents information about the supplier that’s related to a climate-committed company.
 

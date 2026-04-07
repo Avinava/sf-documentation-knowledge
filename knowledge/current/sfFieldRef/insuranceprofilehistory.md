@@ -5,12 +5,10 @@ topic: insuranceprofilehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.829Z
+lastCollected: 2026-04-07T18:39:45.389Z
 estimatedTokens: 265
-keywords: [InsuranceProfileHistory, History, tracked, InsuranceProfile]
+keywords: [InsuranceProfileHistory, tracked, InsuranceProfile]
 ---
-
-# InsuranceProfileHistory
 
 > History for tracked fields of InsuranceProfile.
 

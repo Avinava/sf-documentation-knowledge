@@ -5,12 +5,10 @@ topic: hiercondhlthcodemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.389Z
+lastCollected: 2026-04-07T18:37:47.010Z
 estimatedTokens: 962
-keywords: [HierCondHlthCodeMapping, how, Hierarchical, Condition, Category, HCC, codes, map, specific, year, API, version, 61.0, later, Calls]
+keywords: [HierCondHlthCodeMapping, how, Hierarchical, Condition, Category, HCC, codes, map, specific, year, API, 61.0]
 ---
-
-# HierCondHlthCodeMapping
 
 > Represents how Hierarchical Condition Category (HCC) codes map to condition
          codes for a specific year. This object is available in API version 61.0 and later.

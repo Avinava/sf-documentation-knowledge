@@ -5,12 +5,10 @@ topic: lifesciprespageproductguidance-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.293Z
+lastCollected: 2026-04-07T18:37:54.620Z
 estimatedTokens: 175
 keywords: [LifeSciPresPageProductGuidance, Life, Sciences, Cloud]
 ---
-
-# LifeSciPresPageProductGuidance Methods
 
 > These are the LifeSciPresPageProductGuidance
         methods for Life Sciences Cloud.

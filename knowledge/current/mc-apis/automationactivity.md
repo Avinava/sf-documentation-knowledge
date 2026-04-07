@@ -5,12 +5,10 @@ topic: automationactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.393Z
+lastCollected: 2026-04-07T18:40:15.476Z
 estimatedTokens: 454
 keywords: [AutomationActivity, activity, automation, Studio, account]
 ---
-
-# AutomationActivity
 
 > The AutomationActivity defines an activity using an automation in Automation Studio for an account.
 

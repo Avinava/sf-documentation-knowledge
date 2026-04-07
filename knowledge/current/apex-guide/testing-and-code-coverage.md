@@ -5,12 +5,10 @@ topic: testing-and-code-coverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.540Z
+lastCollected: 2026-04-07T18:36:16.755Z
 estimatedTokens: 1788
-keywords: [Testing, Code, Coverage, Apex, framework, generates, numbers, classes, triggers, every, time, run, tests, how, executable]
+keywords: [Testing, Code, Coverage, Apex, framework, generates, numbers, classes, triggers, every, time, run, tests, how, executable, lines, exercised, test, Write, generate, Calculated, Inspecting]
 ---
-
-# Testing and Code Coverage
 
 > The Apex testing framework generates code coverage numbers for your Apex classes and
   triggers every time you run one or more tests. Code coverage indicates how many executable lines

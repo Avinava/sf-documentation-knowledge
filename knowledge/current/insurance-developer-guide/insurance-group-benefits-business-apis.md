@@ -5,12 +5,10 @@ topic: insurance-group-benefits-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.817Z
+lastCollected: 2026-04-07T18:37:53.039Z
 estimatedTokens: 309
 keywords: [Insurance, Group, Benefits, Business, APIs, API, resources, effectively, manage, plans, offered, groups, employees, their, dependents]
 ---
-
-# Insurance Group Benefits Business APIs
 
 > Use the Group Benefits API resources to effectively manage the insurance plans offered
     to groups, such as employees and their dependents.

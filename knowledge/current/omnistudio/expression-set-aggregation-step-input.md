@@ -5,12 +5,10 @@ topic: expression-set-aggregation-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.385Z
+lastCollected: 2026-04-07T18:36:36.930Z
 estimatedTokens: 170
-keywords: [Expression, Aggregation, Step, Input, representation]
+keywords: [Expression, Aggregation, Step]
 ---
-
-# Expression Set Aggregation Step Input
 
 > Input representation of an aggregation step in an expression
     set.

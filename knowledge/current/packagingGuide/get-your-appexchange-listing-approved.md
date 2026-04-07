@@ -5,12 +5,10 @@ topic: get-your-appexchange-listing-approved
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.224Z
+lastCollected: 2026-04-07T18:38:46.077Z
 estimatedTokens: 1001
-keywords: [AppExchange, Listing, Approved, publish, Salesforce, sure, complies, partner, brand, guidelines, program, policies, Sign, Application, Distribution]
+keywords: [AppExchange, Listing, Approved, publish, Salesforce, sure, complies, partner, brand, guidelines, program, policies, Sign, Application, Distribution, Agreement, Resubmit, Approval, Editing, Initial, Non-Approval]
 ---
-
-# Get Your AppExchange Listing Approved
 
 > Before you can publish your AppExchange listing, Salesforce must make sure that it
     complies with our partner brand guidelines and partner program policies.

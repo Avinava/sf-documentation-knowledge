@@ -6,13 +6,10 @@ topic: verify-the-wsdl-environment-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.077Z
+lastCollected: 2026-04-07T18:39:16.657Z
 estimatedTokens: 777
 keywords: [Verify, WSDL, Environment, WSDL-Based, APIs, developer, simple, test, application, Visual, Studio]
 ---
-
-# Verify the WSDL Environment (WSDL-Based
-APIs)
 
 > You can verify your developer environment with a simple
 C# test application in Visual Studio.

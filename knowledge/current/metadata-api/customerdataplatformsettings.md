@@ -5,12 +5,10 @@ topic: customerdataplatformsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.756Z
+lastCollected: 2026-04-07T18:36:24.096Z
 estimatedTokens: 629
-keywords: [CustomerDataPlatformSettings, org's, Data, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
+keywords: [CustomerDataPlatformSettings, org's, settings, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# CustomerDataPlatformSettings
 
 > Represents an org's Data 360 settings.
 

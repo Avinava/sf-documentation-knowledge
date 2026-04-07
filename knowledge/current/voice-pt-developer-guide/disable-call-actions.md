@@ -5,12 +5,10 @@ topic: disable-call-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.510Z
+lastCollected: 2026-04-07T18:40:13.436Z
 estimatedTokens: 752
-keywords: [Disable, Call, Actions, handling, options, end, dial, pad, phone, book, softphone, support, compliance, internal, policies]
+keywords: [Disable, Call, Actions, handling, options, end, dial, pad, phone, book, softphone, support, compliance, internal, policies, industry, regulations]
 ---
-
-# Disable Call Actions
 
 > You can disable call handling options such as end call, dial pad, and phone book in the
   softphone to support compliance with internal policies and industry regulations.

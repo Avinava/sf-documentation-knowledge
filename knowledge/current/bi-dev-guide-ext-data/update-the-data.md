@@ -5,12 +5,10 @@ topic: update-the-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.519Z
+lastCollected: 2026-04-07T18:36:53.888Z
 estimatedTokens: 124
-keywords: [Data, upload, dataset, adding, upserting, removing]
+keywords: [upload, dataset, adding, upserting, removing]
 ---
-
-# Update the Data
 
 > After you upload data into a dataset, update it by adding, upserting, or removing
     data.

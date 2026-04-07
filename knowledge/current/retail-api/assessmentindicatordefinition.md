@@ -5,12 +5,10 @@ topic: assessmentindicatordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.681Z
+lastCollected: 2026-04-07T18:39:12.203Z
 estimatedTokens: 687
-keywords: [AssessmentIndicatorDefinition, Define, act, markers, compliance, retail, tasks, compare, target, actual, API, version, 47.0, later, Calls]
+keywords: [AssessmentIndicatorDefinition, Define, act, markers, compliance, retail, tasks, compare, target, actual, API, 47.0]
 ---
-
-# AssessmentIndicatorDefinition
 
 > Define parameters that act as markers of compliance for retail tasks to compare
       target and actual values. This object is available in API version 47.0 and later.

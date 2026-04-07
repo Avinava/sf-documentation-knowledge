@@ -5,12 +5,10 @@ topic: owner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.861Z
+lastCollected: 2026-04-07T18:40:18.047Z
 estimatedTokens: 442
 keywords: [Owner, subscriber, triggered, Client, specify, On-Your-Behalf, AccountID, send, Otherwise, FromAddress, FromName, Sample, SOAP, Envelope]
 ---
-
-# Owner
 
 > The Owner object specifies the owner of a subscriber for triggered sends. Use the Client property to specify the On-Your-Behalf AccountID as the owner of the triggered send. Otherwise, use the FromAddress and FromName to specify the owner.
 

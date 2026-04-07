@@ -5,12 +5,10 @@ topic: surveyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.397Z
+lastCollected: 2026-04-07T18:37:57.931Z
 estimatedTokens: 219
-keywords: [SurveyResponse, Standard, custom, extend, Survey, represent, participant’s, API, version, 65.0, later, Calls]
+keywords: [SurveyResponse, Standard, extend, Survey, represent, participant’s, API, 65.0]
 ---
-
-# SurveyResponse
 
 > Standard and custom fields extend the standard Survey Response object to
          represent information about a participant’s response to a survey. This object is available

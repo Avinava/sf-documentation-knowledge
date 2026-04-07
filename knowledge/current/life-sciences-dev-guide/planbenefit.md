@@ -5,12 +5,10 @@ topic: planbenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.208Z
+lastCollected: 2026-04-07T18:38:00.997Z
 estimatedTokens: 2682
-keywords: [PlanBenefit, standard, benefits, under, plan, purchaser, offers, their, members, Calls, Associated, Objects]
+keywords: [PlanBenefit, standard, benefits, under, plan, purchaser, offers, their, members]
 ---
-
-# PlanBenefit
 
 > Represents the standard benefits available under a plan that the
 			purchaser offers to their members.

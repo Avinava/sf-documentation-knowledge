@@ -5,12 +5,10 @@ topic: cloudpagesurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.646Z
+lastCollected: 2026-04-07T18:40:21.994Z
 estimatedTokens: 360
-keywords: [CloudPagesURL, Function, Ordinal, landing, URL, Locate, appropriate, CloudPage, content, fro, **Overview**, **Syntax**, Usage]
+keywords: [CloudPagesURL, Function, Ordinal, landing, URL, Locate, appropriate, CloudPage, content, fro, **Overview**, **Syntax**]
 ---
-
-# CloudPagesURL
 
 > CloudPagesURL(1, 2, 3)
 

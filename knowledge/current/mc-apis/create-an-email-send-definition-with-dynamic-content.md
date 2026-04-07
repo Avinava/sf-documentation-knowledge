@@ -5,12 +5,10 @@ topic: create-an-email-send-definition-with-dynamic-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.144Z
+lastCollected: 2026-04-07T18:40:16.284Z
 estimatedTokens: 5934
-keywords: [Email, Send, Definition, Dynamic, Content, how, uses, data, extensions, emails, Why, Sample, NET, Code, Retrieve]
+keywords: [Email, Send, Definition, Dynamic, Content, how, uses, extensions, emails, Why, Sample, NET, Code, Retrieve, Classifications, Bind, Publication, Jave, Axis, 1.4, Start, SOAP, API, PHP, Ruby, Rails, Java, Envelope, Profile, Attributes, Filter, Audience, Starting]
 ---
-
-# Create an Email Send Definition with Dynamic Content
 
 > This page shows how to create an Email Send Definition that uses data extensions to send emails.
 

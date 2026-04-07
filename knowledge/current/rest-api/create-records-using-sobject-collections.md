@@ -5,12 +5,10 @@ topic: create-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.324Z
+lastCollected: 2026-04-07T18:36:20.546Z
 estimatedTokens: 703
-keywords: [Records, sObject, Collections, POST, add, returning, SaveResult, objects, choose, whether, roll, back, entire, error, occurs]
+keywords: [Records, sObject, Collections, POST, add, returning, SaveResult, choose, whether, roll, back, entire, error, occurs]
 ---
-
-# Create Records Using sObject Collections
 
 > Use a POST request with sObject Collections to add up to 200 records, returning a list
       of SaveResult objects. You can choose whether to roll back the entire request when an error

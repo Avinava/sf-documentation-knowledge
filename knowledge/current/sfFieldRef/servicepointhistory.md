@@ -5,12 +5,10 @@ topic: servicepointhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.736Z
+lastCollected: 2026-04-07T18:40:01.496Z
 estimatedTokens: 260
-keywords: [ServicePointHistory, History, tracked, ServicePoint]
+keywords: [ServicePointHistory, tracked, ServicePoint]
 ---
-
-# ServicePointHistory
 
 > History for tracked fields of ServicePoint.
 

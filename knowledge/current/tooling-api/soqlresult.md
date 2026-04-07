@@ -5,12 +5,10 @@ topic: soqlresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.091Z
+lastCollected: 2026-04-07T18:36:34.509Z
 estimatedTokens: 253
-keywords: [SOQLResult, complex, result, SOQL, query, ApexExecutionOverlayResult, API, version, 28.0, later, Usage]
+keywords: [SOQLResult, complex, result, SOQL, query, ApexExecutionOverlayResult, API, 28.0]
 ---
-
-# SOQLResult
 
 > A complex type that represents the result of a SOQL query in an ApexExecutionOverlayResult object. Available from API version 28.0 or later.
 

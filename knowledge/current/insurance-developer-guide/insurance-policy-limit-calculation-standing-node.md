@@ -5,12 +5,10 @@ topic: insurance-policy-limit-calculation-standing-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.129Z
+lastCollected: 2026-04-07T18:37:52.279Z
 estimatedTokens: 752
-keywords: [Insurance, Policy, Limit, Calculation, Standing, Node, Output, representation]
+keywords: [Insurance, Policy, Limit, Calculation, Standing, Node]
 ---
-
-# Insurance Policy Limit Calculation Standing Node
 
 > Output representation for an insurance policy limit standing calculation node.
 

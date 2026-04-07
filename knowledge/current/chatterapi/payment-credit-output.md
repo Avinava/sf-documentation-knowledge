@@ -5,12 +5,10 @@ topic: payment-credit-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.473Z
+lastCollected: 2026-04-07T18:37:21.591Z
 estimatedTokens: 154
-keywords: [Payment, Credit, Output, amount, order, summary, newly, created, transaction, applied, specific, generated, tracking]
+keywords: [Payment, Credit, amount, order, summary, newly, created, transaction, applied, specific, generated]
 ---
-
-# Payment Credit Output
 
 > The payment credit ID, amount, and order payment summary ID for a newly created payment
     credit. Represents a single credit transaction that was applied to a specific payment method

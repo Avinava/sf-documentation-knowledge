@@ -5,12 +5,10 @@ topic: scan-multiple-barcodes-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.123Z
+lastCollected: 2026-04-07T18:38:15.637Z
 estimatedTokens: 2251
-keywords: [Scan, Multiple, Barcodes, Legacy, scanning, session, resumeCapture, continuous, cycle, scans, until, user, clicks, Cancel, button]
+keywords: [Scan, Multiple, Barcodes, Legacy, scanning, session, resumeCapture, continuous, cycle, scans, until, user, clicks, Cancel, button, Continue, End, Capture]
 ---
-
-# Scan Multiple Barcodes (Legacy)
 
 > To scan multiple barcodes in a single scanning session, use resumeCapture() to create a continuous scanning cycle
         that scans barcodes until the user clicks the Cancel

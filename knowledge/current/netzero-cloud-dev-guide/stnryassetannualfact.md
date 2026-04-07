@@ -5,12 +5,10 @@ topic: stnryassetannualfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.843Z
+lastCollected: 2026-04-07T18:38:19.565Z
 estimatedTokens: 1136
-keywords: [StnryAssetAnnualFact, stationary, assets, their, quantify, intensity, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [StnryAssetAnnualFact, stationary, assets, their, quantify, intensity, API, 56.0]
 ---
-
-# StnryAssetAnnualFact
 
 > Represents the information about stationary assets and their types, which is
          used to quantify the related intensity. This object is available in API version 56.0

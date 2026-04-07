@@ -5,12 +5,10 @@ topic: routing-release-held-capacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.770Z
+lastCollected: 2026-04-07T18:37:15.833Z
 estimatedTokens: 262
-keywords: [Routing, Release, Held, Capacity, fulfillment, order, locations, call, decreases, location’s, changing, assigned, count, cancel, assignment]
+keywords: [Routing, Release, Held, Capacity, fulfillment, order, locations, call, decreases, location’s, changing, assigned, count, cancel, assignment, location]
 ---
-
-# Routing, Release Held Capacity
 
 > Release held fulfillment order capacity at one or more locations. This
       call decreases a location’s held capacity without changing its assigned fulfillment order

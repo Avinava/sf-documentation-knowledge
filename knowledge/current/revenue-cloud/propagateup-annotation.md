@@ -5,12 +5,10 @@ topic: propagateup-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.412Z
+lastCollected: 2026-04-07T18:35:42.286Z
 estimatedTokens: 2038
-keywords: [propagateUp, Annotation, Constraint, Modeling, Language, CML, aggregation, propagation, children, parent, elements, Configurator, Result, Configuration, Settings]
+keywords: [propagateUp, Annotation, Constraint, Modeling, Language, CML, aggregation, propagation, children, parent, Configurator, Result, Configuration, Settings]
 ---
-
-# propagateUp Annotation
 
 > propagateUp is a Constraint Modeling Language
     (CML) annotation that controls aggregation propagation between children and parent

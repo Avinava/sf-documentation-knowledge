@@ -5,12 +5,10 @@ topic: authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.114Z
+lastCollected: 2026-04-07T18:38:56.822Z
 estimatedTokens: 994
 keywords: [Authentication, Canvas, app, signed, OAuth, 2.0]
 ---
-
-# Authentication
 
 > When you create a Canvas app, you can use the signed request
   authentication method or the OAuth 2.0 authentication method.

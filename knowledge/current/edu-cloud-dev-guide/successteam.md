@@ -5,12 +5,10 @@ topic: successteam
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.784Z
+lastCollected: 2026-04-07T18:37:31.938Z
 estimatedTokens: 718
-keywords: [SuccessTeam, Records, success, team, Salesforce, Scheduler, API, version, 57.0, later, Calls]
+keywords: [SuccessTeam, Records, success, team, Salesforce, Scheduler, API, 57.0]
 ---
-
-# SuccessTeam
 
 > Records details about a success team in Salesforce Scheduler. This
       object is available in API version 57.0 and later.

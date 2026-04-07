@@ -5,12 +5,10 @@ topic: compute-data-gap-fillers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.680Z
+lastCollected: 2026-04-07T18:38:16.225Z
 estimatedTokens: 370
-keywords: [Compute, Data, Gap, Fillers, Identify, energy, consumption, records, associated, Stationary, Asset, Carbon, Footprint, missing, period]
+keywords: [Compute, Gap, Fillers, Identify, energy, consumption, records, Stationary, Asset, Carbon, Footprint, missing, period, fill, any, gaps, categorized, commercial, building]
 ---
-
-# Compute Data Gap Fillers
 
 > Identify and get energy consumption records associated with the
       Stationary Asset Carbon Footprint object that are missing for a given period. You can fill any

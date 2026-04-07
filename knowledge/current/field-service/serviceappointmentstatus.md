@@ -5,12 +5,10 @@ topic: serviceappointmentstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:02.117Z
+lastCollected: 2026-04-07T18:36:48.091Z
 estimatedTokens: 676
-keywords: [ServiceAppointmentStatus, possible, status, service, appointment, Calls, Special, Access, Rules, Usage]
+keywords: [ServiceAppointmentStatus, possible, status, service, appointment]
 ---
-
-# ServiceAppointmentStatus
 
 > Represents a possible status of a service appointment in field
 			service.

@@ -5,12 +5,10 @@ topic: scratch-org-definition-for-org-shape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.542Z
+lastCollected: 2026-04-07T18:40:08.495Z
 estimatedTokens: 689
-keywords: [Scratch, Org, Definition, Shape, creation, capture, features, settings, edition, licenses, limits, source, way, don’t, manually]
+keywords: [Scratch, Org, Definition, Shape, creation, capture, features, settings, edition, licenses, limits, source, way, don’t, manually, include, items, file, solely, add, functionality, present, Simple, Salesforce, Release, Transitions, DevOps, Center]
 ---
-
-# Scratch Org Definition for Org Shape
 
 > During org shape creation, we capture the features, settings, edition, licenses, and
         limits of the specified source org. This way, you don’t have to manually include these items

@@ -5,12 +5,10 @@ topic: apexareaseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.069Z
+lastCollected: 2026-04-07T18:38:49.061Z
 estimatedTokens: 1075
-keywords: [apex, areaSeries, data, series, rendered, shaded, areas, Visualforce, chart, It's, similar, line, fill, attribute, except]
+keywords: [Attributes, apex, areaSeries, series, rendered, shaded, areas, Visualforce, chart, It's, similar, line, fill, attribute, except, multiple, stack, levels, upon, area, three, plot]
 ---
-
-# apex:areaSeries
 
 > A data series to be rendered as shaded areas in a Visualforce chart. It's similar to a line series with the fill attribute set to true, except that multiple Y values for each X will "stack" as levels upon each other.
 

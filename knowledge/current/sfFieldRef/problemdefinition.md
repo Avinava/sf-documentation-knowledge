@@ -5,12 +5,10 @@ topic: problemdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.346Z
+lastCollected: 2026-04-07T18:39:54.904Z
 estimatedTokens: 412
-keywords: [ProblemDefinition, definition, care, plan, problem, reusable, PGI, library, that’s, part, Integrated, Management, instantiated, records, HealthCondition]
+keywords: [ProblemDefinition, definition, care, plan, problem, reusable, PGI, library, that’s, part, Integrated, Management, instantiated, records, HealthCondition, serve, problems, plans, API, 57.0]
 ---
-
-# ProblemDefinition
 
 > The definition of a care plan problem in the reusable PGI library that’s a
          part of Integrated Care Management. When instantiated, ProblemDefinition records create

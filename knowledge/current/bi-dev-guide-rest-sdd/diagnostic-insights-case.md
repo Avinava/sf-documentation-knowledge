@@ -5,12 +5,10 @@ topic: diagnostic-insights-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.886Z
+lastCollected: 2026-04-07T18:36:59.383Z
 estimatedTokens: 232
 keywords: [Diagnostic, Insights, Case, story, query]
 ---
-
-# Diagnostic Insights Case
 
 > A story query diagnostic insights.
 

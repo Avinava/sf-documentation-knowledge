@@ -5,12 +5,10 @@ topic: connectapicommentscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.774Z
+lastCollected: 2026-04-07T18:36:08.132Z
 estimatedTokens: 202
-keywords: [ConnectApi.CommentsCapability, feed, element, comment, capability, context, user, add]
+keywords: [ConnectApi.CommentsCapability, comment, capability, context, user, add]
 ---
-
-# ConnectApi.CommentsCapability
 
 > If a feed element or comment has this capability, the context user can
    add a comment to it.

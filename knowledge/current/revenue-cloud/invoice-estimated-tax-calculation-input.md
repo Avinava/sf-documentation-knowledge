@@ -5,12 +5,10 @@ topic: invoice-estimated-tax-calculation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.452Z
+lastCollected: 2026-04-07T18:35:43.354Z
 estimatedTokens: 179
-keywords: [Invoice, Estimated, Tax, Calculation, Input, tadsfsefx, calculated]
+keywords: [Invoice, Estimated, Tax, Calculation, tadsfsefx, calculated]
 ---
-
-# Invoice Estimated Tax Calculation Input
 
 > Details of the invoice for which the estimated tadsfsefx must be calculated.
 

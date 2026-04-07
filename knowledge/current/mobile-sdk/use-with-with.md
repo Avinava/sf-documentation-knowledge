@@ -5,12 +5,10 @@ topic: use-with-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.937Z
+lastCollected: 2026-04-07T18:40:26.249Z
 estimatedTokens: 1468
-keywords: [CocoaPods, convenient, mechanism, merging, Mobile, SDK, modules, Xcode, projects, steps, article, manually, setting, iOS, app]
+keywords: [CocoaPods, convenient, mechanism, merging, Mobile, SDK, modules, Xcode, projects, steps, article, manually, setting, iOS, app, created, forceios, 4.0, setup, automatically, case, don’t, perform, article—you, install, software, rest, you’re, creating, apps, way, plan, import]
 ---
-
-# Use  with with
 
 > CocoaPods provides a convenient mechanism for merging
                 Mobile SDK modules into existing Xcode projects. The steps in this

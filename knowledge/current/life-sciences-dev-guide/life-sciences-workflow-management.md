@@ -5,12 +5,10 @@ topic: life-sciences-workflow-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.901Z
+lastCollected: 2026-04-07T18:37:57.447Z
 estimatedTokens: 223
-keywords: [Life, Sciences, Workflow, Management, Configure, workflows, Commercial, Engagement, objects, users, advance, records, steps, path, unique]
+keywords: [Life, Sciences, Workflow, Management, Configure, workflows, Commercial, Engagement, users, advance, records, steps, path, unique, permissions, apply, step, conditions, met, Control, operations, user, actions, user's, role, Validate, business, enforce, status, transition, action, checklist, additional, calling, Platform, Events, mobile, web, platforms]
 ---
-
-# Life Sciences Workflow Management
 
 > Configure workflows for Commercial Engagement objects. As users advance records through
   the steps in a workflow path, unique permissions apply based on each step and the conditions met

@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-ruby-on-rails
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.650Z
+lastCollected: 2026-04-07T18:40:15.758Z
 estimatedTokens: 680
-keywords: [Connecting, SOAP, API, Ruby, Rails, development, environment, systems, Marketing, Cloud, Why, Connect, Prerequisites, How, Sample]
+keywords: [Prerequisites, Connecting, SOAP, API, Ruby, Rails, development, environment, systems, Marketing, Cloud, Why, Connect, How, Sample, Code, Generating, Drivers, Executing, File, Shell, Authenticating, DefaultEndpointUrl, end, point, Instantiate, new, enable, debug, showing, XML, run, script, Append, authentication, onto]
 ---
-
-# Connecting to the SOAP API Using Ruby on Rails
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API using Ruby on Rails.
 

@@ -5,12 +5,10 @@ topic: careprogramsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.912Z
+lastCollected: 2026-04-07T18:37:59.555Z
 estimatedTokens: 3522
-keywords: [CareProgramSite, care, program, site, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [CareProgramSite, care, program, site, API, 61.0]
 ---
-
-# CareProgramSite
 
 > Represents the details about the care program site. This object is
       available in API version 61.0 and later.

@@ -5,13 +5,11 @@ topic: bucketfieldvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.728Z
+lastCollected: 2026-04-07T18:36:02.933Z
 estimatedTokens: 1869
 namespace: Reports
 keywords: [BucketFieldValue, report, included, bucket, label, sourceDimensionValues, rangeUpperBound, getLabel, getRangeUpperBound, getSourceDimensionValues, setLabel, setRangeUpperBound, setSourceDimensionValues, toString]
 ---
-
-# BucketFieldValue Class
 
 > Contains information about the report values included in a bucket
       field.

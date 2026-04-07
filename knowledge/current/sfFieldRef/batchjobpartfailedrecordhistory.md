@@ -5,12 +5,10 @@ topic: batchjobpartfailedrecordhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.860Z
+lastCollected: 2026-04-07T18:39:28.958Z
 estimatedTokens: 276
-keywords: [BatchJobPartFailedRecordHistory, History, tracked, BatchJobPartFailedRecord]
+keywords: [BatchJobPartFailedRecordHistory, tracked, BatchJobPartFailedRecord]
 ---
-
-# BatchJobPartFailedRecordHistory
 
 > History for tracked fields of BatchJobPartFailedRecord.
 

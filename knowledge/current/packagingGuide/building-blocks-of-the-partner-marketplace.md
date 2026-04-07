@@ -5,12 +5,10 @@ topic: building-blocks-of-the-partner-marketplace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.255Z
+lastCollected: 2026-04-07T18:38:47.227Z
 estimatedTokens: 593
-keywords: [Building, Blocks, Partner, Marketplace, built, app, around, five, primary, objects, Together, they, track, milestone, lifecycle]
+keywords: [Building, Blocks, Partner, Marketplace, built, app, around, five, primary, Together, they, track, milestone, lifecycle, transaction, products, offers, orders, invoices, pay]
 ---
-
-# Building Blocks of the Partner Marketplace
 
 > We built the Partner Marketplace app around five primary objects. Together, they track
   each milestone within the lifecycle of the transaction. The objects are: products, offers, orders,

@@ -5,12 +5,10 @@ topic: gameparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.520Z
+lastCollected: 2026-04-07T18:39:42.172Z
 estimatedTokens: 366
 keywords: [GameParticipant, junction, game, definition, participant, either, account, contact, loyalty, program, member]
 ---
-
-# GameParticipant
 
 > Represents a junction between a game definition and a participant who
          is either an account, a contact, or a loyalty program member.

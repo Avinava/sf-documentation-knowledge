@@ -5,12 +5,10 @@ topic: story-text-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.453Z
+lastCollected: 2026-04-07T18:36:58.951Z
 estimatedTokens: 124
-keywords: [Story, Text, Input, data]
+keywords: [Story, Text]
 ---
-
-# Story Text Field Value Input
 
 > The story data text property.
 

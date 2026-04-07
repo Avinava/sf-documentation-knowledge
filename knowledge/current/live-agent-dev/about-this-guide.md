@@ -5,12 +5,10 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.949Z
+lastCollected: 2026-04-07T18:38:06.195Z
 estimatedTokens: 923
 keywords: [Customize, Chat, fit, company’s, needs, several, examples, help, understand, customized, windows, buttons, forms, pages]
 ---
-
-# About This Guide
 
 > Customize Chat to fit your company’s needs. This guide provides several examples
                 to help you understand and create customized chat windows, buttons, forms, and

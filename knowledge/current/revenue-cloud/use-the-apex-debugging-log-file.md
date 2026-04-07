@@ -5,12 +5,10 @@ topic: use-the-apex-debugging-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.691Z
+lastCollected: 2026-04-07T18:35:42.577Z
 estimatedTokens: 348
 keywords: [Apex, Debugging, Log, File, possible, reasons, performance, problems, identify, solutions, look, RLM_CONFIGURATOR_STATS]
 ---
-
-# Use the Apex Debugging Log File
 
 > To find possible reasons for the performance problems and identify solutions, look at
     the RLM_CONFIGURATOR_STATS section of the log file.

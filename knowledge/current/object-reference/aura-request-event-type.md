@@ -5,12 +5,10 @@ topic: aura-request-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.350Z
+lastCollected: 2026-04-07T18:38:31.189Z
 estimatedTokens: 1779
-keywords: [Aura, Event, events, contain, requests, Apex, Lightning, web, components, benchmark, time, identify, URI, unsuccessful]
+keywords: [Aura, Event, events, contain, requests, Apex, Lightning, web, benchmark, time, identify, URI, unsuccessful]
 ---
-
-# Aura Request Event Type
 
 > Aura Request events contain details of requests to Apex methods from
          Aura and Lightning web components. For example, you can benchmark request time or identify

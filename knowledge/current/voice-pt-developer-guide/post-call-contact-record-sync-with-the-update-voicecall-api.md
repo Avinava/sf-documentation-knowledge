@@ -5,12 +5,10 @@ topic: post-call-contact-record-sync-with-the-update-voicecall-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.695Z
+lastCollected: 2026-04-07T18:40:13.620Z
 estimatedTokens: 387
 keywords: [Post-Call, Contact, Record, Sync, VoiceCall, API, updates, call, ended, call-related, unavailable, creation, stage, callDuration, numberOfHold]
 ---
-
-# Post-Call Contact Record Sync with the Update VoiceCall API
 
 > This API updates a VoiceCall record after the call has ended. Use this API to update
     call-related parameters that are unavailable during the VoiceCall creation stage, such as

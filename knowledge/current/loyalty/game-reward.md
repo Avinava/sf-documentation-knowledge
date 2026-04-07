@@ -5,12 +5,10 @@ topic: game-reward
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.298Z
+lastCollected: 2026-04-07T18:38:07.517Z
 estimatedTokens: 104
-keywords: [Game, Reward, that’s, provided, participant, plays, Spin, Wheel, Scratch, Card, reward, Resource, Input, Sample, Output]
+keywords: [Game, Reward, that’s, provided, participant, plays, Spin, Wheel, Scratch, Card, Resource, reward, Sample]
 ---
-
-# Game Reward
 
 > Get the details of the reward that’s provided to a participant after the participant
     plays a Spin the Wheel, or Scratch Card game.

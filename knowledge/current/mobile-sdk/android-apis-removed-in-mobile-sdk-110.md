@@ -5,12 +5,10 @@ topic: android-apis-removed-in-mobile-sdk-110
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.276Z
+lastCollected: 2026-04-07T18:40:27.461Z
 estimatedTokens: 215
-keywords: [Android, APIs, Removed, Mobile, SDK, 11.0, show, objects, artifacts, were, 10.0, SoupSpec, AlterSoupLongOperation, SmartStore]
+keywords: [SoupSpec, AlterSoupLongOperation, SmartStore, Android, APIs, Removed, Mobile, SDK, 11.0, show, artifacts, were, 10.0]
 ---
-
-# Android APIs Removed in Mobile SDK 11.0
 
 > These lists show Mobile SDK objects and
     artifacts for Android that were removed in Mobile SDK 10.0.

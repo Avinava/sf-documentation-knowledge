@@ -5,12 +5,10 @@ topic: logoutresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.701Z
+lastCollected: 2026-04-07T18:39:23.637Z
 estimatedTokens: 192
 keywords: [LogoutResult, logout, result, Functions]
 ---
-
-# LogoutResult
 
 > Represents a logout result type.
 

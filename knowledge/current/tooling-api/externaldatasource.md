@@ -5,12 +5,10 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.388Z
+lastCollected: 2026-04-07T18:36:32.862Z
 estimatedTokens: 2629
-keywords: [ExternalDataSource, metadata, associated, external, data, source, sources, manage, connection, integration, content, stored, outside, Salesforce, org]
+keywords: [ExternalDataSource, metadata, external, source, sources, manage, connection, integration, content, stored, outside, Salesforce, org, API, 51.0, SOAP, REST, Configuration, Connect, Cross-Org, Adapter, OData, 2.0, 4.0]
 ---
-
-# ExternalDataSource
 
 > Represents the metadata associated with an external data source. Create
       external data sources to manage connection details for integration with data and content that

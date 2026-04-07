@@ -5,12 +5,10 @@ topic: supplierproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.456Z
+lastCollected: 2026-04-07T18:40:03.145Z
 estimatedTokens: 397
 keywords: [SupplierProduct, that's, track, products, purchased, supplier]
 ---
-
-# SupplierProduct
 
 > Represents information that's used to track the products that are purchased
          from a supplier.

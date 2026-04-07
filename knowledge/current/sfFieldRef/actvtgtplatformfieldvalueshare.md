@@ -5,12 +5,10 @@ topic: actvtgtplatformfieldvalueshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.961Z
+lastCollected: 2026-04-07T18:39:24.867Z
 estimatedTokens: 255
 keywords: [ActvTgtPlatformFieldValueShare, Sharing, ActvTgtPlatformFieldValue]
 ---
-
-# ActvTgtPlatformFieldValueShare
 
 > Sharing for ActvTgtPlatformFieldValue.
 

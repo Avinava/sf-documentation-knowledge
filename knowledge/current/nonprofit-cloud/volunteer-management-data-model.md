@@ -5,12 +5,10 @@ topic: volunteer-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.482Z
+lastCollected: 2026-04-07T18:38:23.381Z
 estimatedTokens: 199
-keywords: [Volunteer, Management, Data, Model, objects, relationships]
+keywords: [Volunteer, Management, Model, relationships]
 ---
-
-# Volunteer Management Data Model
 
 > Learn about the objects and relationships within the Volunteer Management data
   model.

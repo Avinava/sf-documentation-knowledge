@@ -5,12 +5,10 @@ topic: apimanager
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.216Z
+lastCollected: 2026-04-07T18:38:08.483Z
 estimatedTokens: 673
-keywords: [APIManager, manages, requests, gamification, invokes, REST, APIs, interact, Salesforce, retrieve, member, games, game, rewards, getGames]
+keywords: [APIManager, manages, requests, gamification, invokes, REST, APIs, interact, Salesforce, retrieve, member, games, game, rewards, getGames, getGameReward]
 ---
-
-# APIManager
 
 > The APIManager class manages requests related to
     gamification, and invokes the gamification REST APIs. Use this class to interact with the

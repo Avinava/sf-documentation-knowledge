@@ -5,12 +5,10 @@ topic: connectapiauthorizationgatewayresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.967Z
+lastCollected: 2026-04-07T18:36:07.305Z
 estimatedTokens: 122
-keywords: [ConnectApi.AuthorizationGatewayResponse, Payment, gateway, authorization, representation]
+keywords: [ConnectApi.AuthorizationGatewayResponse, Payment, gateway, authorization]
 ---
-
-# ConnectApi.AuthorizationGatewayResponse
 
 > Payment gateway authorization response
     representation.

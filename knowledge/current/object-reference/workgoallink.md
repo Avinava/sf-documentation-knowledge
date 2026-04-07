@@ -5,12 +5,10 @@ topic: workgoallink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.924Z
+lastCollected: 2026-04-07T18:38:44.728Z
 estimatedTokens: 343
-keywords: [WorkGoalLink, relationship, two, goals, deprecated, API, version, 35.0, GoalLink, query, WDC, Calls]
+keywords: [WorkGoalLink, relationship, two, goals, deprecated, API, 35.0, GoalLink, query, WDC]
 ---
-
-# WorkGoalLink
 
 > Represents the relationship between two goals (many to many
 			relationship). This object has been deprecated as of API version 35.0. Use the

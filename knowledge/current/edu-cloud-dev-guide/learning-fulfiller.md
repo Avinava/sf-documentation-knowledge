@@ -5,12 +5,10 @@ topic: learning-fulfiller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.558Z
+lastCollected: 2026-04-07T18:37:29.636Z
 estimatedTokens: 155
-keywords: [Learning, Fulfiller, Output, representation, fulfillment, options, foundation, items]
+keywords: [Learning, Fulfiller, fulfillment, options, foundation, items]
 ---
-
-# Learning Fulfiller
 
 > Output representation of the types of fulfillment options for the learning foundation
     items.

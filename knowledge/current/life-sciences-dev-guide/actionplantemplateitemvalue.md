@@ -5,12 +5,10 @@ topic: actionplantemplateitemvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.094Z
+lastCollected: 2026-04-07T18:37:57.659Z
 estimatedTokens: 642
-keywords: [ActionPlanTemplateItemValue, Standard, custom, extend, represent, associated, action, plan, template, item, Calls, Life, Sciences, Cloud, standard, Objects]
+keywords: [ActionPlanTemplateItemValue, Standard, extend, represent, action, plan, template, item, Life, Sciences, Cloud, standard]
 ---
-
-# ActionPlanTemplateItemValue
 
 > Standard and custom fields extend the standard ActionPlanTemplateItemValue
          object to represent the value associated with an action plan template item.

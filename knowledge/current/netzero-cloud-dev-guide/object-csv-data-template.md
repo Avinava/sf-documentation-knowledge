@@ -5,12 +5,10 @@ topic: object-csv-data-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.781Z
+lastCollected: 2026-04-07T18:38:16.335Z
 estimatedTokens: 118
-keywords: [CSV, Data, Template, Output, representation]
+keywords: [CSV, Template]
 ---
-
-# Object CSV Data Template
 
 > Output representation of the CSV data template for an
     object.

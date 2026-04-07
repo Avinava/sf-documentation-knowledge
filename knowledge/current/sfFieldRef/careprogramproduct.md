@@ -5,12 +5,10 @@ topic: careprogramproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.148Z
+lastCollected: 2026-04-07T18:39:32.548Z
 estimatedTokens: 373
 keywords: [CareProgramProduct, affiliation, care, program, product, provider]
 ---
-
-# CareProgramProduct
 
 > Represents the affiliation between a care program and a care program
       product, care program provider, or both.

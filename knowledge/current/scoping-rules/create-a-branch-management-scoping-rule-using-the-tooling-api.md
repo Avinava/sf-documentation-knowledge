@@ -5,12 +5,10 @@ topic: create-a-branch-management-scoping-rule-using-the-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.893Z
+lastCollected: 2026-04-07T18:39:21.771Z
 estimatedTokens: 1108
-keywords: [Branch, Management, Scoping, Rule, Tooling, API, filters, account, records, banker’s, location, uses, data, model, included]
+keywords: [Branch, Management, Scoping, Rule, Tooling, API, filters, account, records, banker’s, location, uses, model, included, Financial, Services, Cloud, RestrictionRule]
 ---
-
-# Create a Branch Management Scoping Rule Using the Tooling API
 
 > Create a scoping rule that filters account records based on a banker’s branch location.
   This example uses the branch management data model included in Financial Services Cloud and the

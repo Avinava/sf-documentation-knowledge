@@ -5,12 +5,10 @@ topic: assign-candidate-to-research-study-group-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.272Z
+lastCollected: 2026-04-07T18:37:54.597Z
 estimatedTokens: 582
-keywords: [Assign, Candidate, Research, Study, Group, Action, candidates, enrolled, clinical, trials, randomization, comparison, groups, Special, Access]
+keywords: [Inputs, Outputs, Assign, Candidate, Research, Study, Group, Action, candidates, enrolled, clinical, trials, randomization, comparison, groups, REST, HTTP]
 ---
-
-# Assign Candidate to Research Study Group Action
 
 > Assign candidates, enrolled in the clinical trials through
 			randomization to research study comparison groups.

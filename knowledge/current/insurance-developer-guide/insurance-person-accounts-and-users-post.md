@@ -5,12 +5,10 @@ topic: insurance-person-accounts-and-users-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.593Z
+lastCollected: 2026-04-07T18:37:51.647Z
 estimatedTokens: 749
-keywords: [Insurance, Person, Accounts, Users, POST, portal, group, census, members, Account, linking, appropriate, policy, association, corresponding]
+keywords: [Insurance, Person, Accounts, Users, POST, portal, group, census, members, Account, linking, appropriate, policy, association, corresponding, user, created, allow, member, log, community]
 ---
-
-# Insurance Person Accounts and Users (POST)
 
 > Create person accounts and portal users for group census members. The
    Person Account is used for linking to the appropriate policy for policy association, and the

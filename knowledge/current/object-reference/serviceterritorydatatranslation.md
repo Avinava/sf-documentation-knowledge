@@ -5,12 +5,10 @@ topic: serviceterritorydatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.354Z
+lastCollected: 2026-04-07T18:38:40.996Z
 estimatedTokens: 580
-keywords: [ServiceTerritoryDataTranslation, translated, data, stored, ServiceTerritory, record’s, API, version, 54.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ServiceTerritoryDataTranslation, translated, stored, ServiceTerritory, record’s, API, 54.0]
 ---
-
-# ServiceTerritoryDataTranslation
 
 > Represents the translated values of the data stored within a ServiceTerritory record’s fields. This object is available in API version 54.0 and
     later.

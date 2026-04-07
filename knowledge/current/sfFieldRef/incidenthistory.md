@@ -5,12 +5,10 @@ topic: incidenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.752Z
+lastCollected: 2026-04-07T18:39:44.387Z
 estimatedTokens: 254
-keywords: [IncidentHistory, History, tracked, Incident]
+keywords: [IncidentHistory, tracked, Incident]
 ---
-
-# IncidentHistory
 
 > History for tracked fields of Incident.
 

@@ -5,12 +5,10 @@ topic: testing-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.337Z
+lastCollected: 2026-04-07T18:36:18.571Z
 estimatedTokens: 774
-keywords: [Testing, test, simple, mileage, tracking, application, code, verifies, miles, entered, day, primary, custom, named, Mileage__c]
+keywords: [Testing, test, simple, mileage, application, code, verifies, miles, entered, day, primary, named, Mileage__c, creates, record, Positive, Case, Negative, Second, User]
 ---
-
-# Testing Example
 
 > The test is used with a simple mileage tracking application. The existing code for the
             application verifies that not more than 500 miles are entered in a single day. The

@@ -5,12 +5,10 @@ topic: problemdefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.365Z
+lastCollected: 2026-04-07T18:39:54.931Z
 estimatedTokens: 251
 keywords: [ProblemDefinitionShare, Sharing, ProblemDefinition]
 ---
-
-# ProblemDefinitionShare
 
 > Sharing for ProblemDefinition.
 

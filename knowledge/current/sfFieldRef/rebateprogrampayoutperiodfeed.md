@@ -5,12 +5,10 @@ topic: rebateprogrampayoutperiodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.122Z
+lastCollected: 2026-04-07T18:39:58.774Z
 estimatedTokens: 303
-keywords: [RebateProgramPayoutPeriodFeed, Feed, tracking, RebateProgramPayoutPeriod]
+keywords: [RebateProgramPayoutPeriodFeed, RebateProgramPayoutPeriod]
 ---
-
-# RebateProgramPayoutPeriodFeed
 
 > Feed tracking for RebateProgramPayoutPeriod.
 

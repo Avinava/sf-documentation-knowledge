@@ -5,12 +5,10 @@ topic: use-the-nfcservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.480Z
+lastCollected: 2026-04-07T18:38:16.010Z
 estimatedTokens: 661
-keywords: [NFCService, API, develop, Lightning, web, component, capable, interacting, NFCs, Add, Test, Availability, NFC, Tag, Erase]
+keywords: [NFCService, API, develop, Lightning, web, capable, interacting, NFCs, Add, Test, Availability, NFC, Tag, Erase, Write]
 ---
-
-# Use the NFCService API
 
 > To develop a Lightning web component capable of interacting with NFCs, use the
         NFCService API.

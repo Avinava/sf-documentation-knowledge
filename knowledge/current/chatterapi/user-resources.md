@@ -5,12 +5,10 @@ topic: user-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.358Z
+lastCollected: 2026-04-07T18:37:16.424Z
 estimatedTokens: 163
-keywords: [User, Resources, Change, status, conversation, post, crop, photo, recent, feed, item]
+keywords: [User, Resources, Change, status, conversation, post, crop, photo, recent, item]
 ---
-
-# User Resources
 
 > Change the status of a conversation. Get, post, and crop a user photo. Get the most
         recent user status feed item. Update or delete user status.

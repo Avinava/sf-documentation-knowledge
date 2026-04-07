@@ -5,12 +5,10 @@ topic: assessmentinddefinedvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.221Z
+lastCollected: 2026-04-07T18:39:27.189Z
 estimatedTokens: 360
-keywords: [AssessmentIndDefinedValue, Stores, acceptable, defined, part, assessment, indicator, definition, multi, select, question, API, version, 49.0, later]
+keywords: [AssessmentIndDefinedValue, Stores, acceptable, defined, part, assessment, indicator, definition, multi, select, question, API, 49.0]
 ---
-
-# AssessmentIndDefinedValue
 
 > Stores the list of acceptable values which are defined as part of assessment
       indicator definition for a single and multi select question.  This object is available in

@@ -5,12 +5,10 @@ topic: contract-creation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.063Z
+lastCollected: 2026-04-07T18:37:51.002Z
 estimatedTokens: 205
-keywords: [Contract, Creation, Input, representation, creating, group, benefits]
+keywords: [Contract, Creation, creating, group, benefits]
 ---
-
-# Contract Creation Input
 
 > Input representation for creating group benefits contract.
 

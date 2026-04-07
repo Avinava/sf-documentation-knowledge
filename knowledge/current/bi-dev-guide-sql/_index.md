@@ -2,7 +2,7 @@
 domain: bi-dev-guide-sql
 name: SQL for Analytics Developer Guide
 documentCount: 107
-lastGenerated: 2026-04-07T09:06:35.832Z
+lastGenerated: 2026-04-07T18:40:41.261Z
 ---
 
 # SQL for Analytics Developer Guide — Knowledge Index

@@ -5,12 +5,10 @@ topic: broadcasttopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.917Z
+lastCollected: 2026-04-07T18:38:26.891Z
 estimatedTokens: 797
-keywords: [BroadcastTopic, definition, broadcast, topic, associated, Experience, Cloud, network, sites, Service, collaboration, rooms, Sales, created, specific]
+keywords: [BroadcastTopic, definition, broadcast, topic, Experience, Cloud, network, sites, Service, collaboration, rooms, Sales, created, specific, user, role, linked, Slack, channels, API, 55.0]
 ---
-
-# BroadcastTopic
 
 > Represents a definition of a broadcast topic. A broadcast topic is associated
          with a list of Experience Cloud network sites for Service Cloud and collaboration rooms for

@@ -5,12 +5,10 @@ topic: learningfoundationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.342Z
+lastCollected: 2026-04-07T18:37:31.467Z
 estimatedTokens: 919
-keywords: [LearningFoundationItem, prerequisite, co-requisite, recommended, learning, that’s, outcome, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearningFoundationItem, prerequisite, co-requisite, recommended, learning, that’s, outcome, API, 57.0]
 ---
-
-# LearningFoundationItem
 
 > Represents information about the prerequisite, co-requisite, or the
          recommended learning that’s required for a learning outcome.  This object is available

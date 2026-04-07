@@ -5,12 +5,10 @@ topic: post-hubv1objectsobjecttypenametags
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.914Z
+lastCollected: 2026-04-07T18:40:16.053Z
 estimatedTokens: 436
-keywords: [POST, hub, objects, objectTypeName, tags, add, via, API, Marketing, Cloud, help, identify, categorize, different, multiple]
+keywords: [POST, hub, objectTypeName, tags, add, via, API, Marketing, Cloud, help, identify, categorize, different, multiple, tag, resource, creates, association, pair, payload, includes, **Overview**, Items]
 ---
-
-# POST /hub/v1/objects/{objectTypeName}/tags/
 
 > You can add tags via the API to Marketing Cloud to help identify and categorize different objects. An object can have multiple tags, and a tag can be associated with multiple objects. This resource creates an association for each tag/object pair. For example, if the payload includes 10 tags and 20 o
 

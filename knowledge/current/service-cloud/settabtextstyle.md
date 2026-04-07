@@ -5,12 +5,10 @@ topic: settabtextstyle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.687Z
+lastCollected: 2026-04-07T18:36:50.971Z
 estimatedTokens: 362
-keywords: [setTabTextStyle, cascading, style, sheet, CSS, tab’s, text, tab, enclosing, customize, API, version, 28.0, later, Arguments]
+keywords: [Arguments, setTabTextStyle, cascading, style, sheet, CSS, tab’s, text, tab, enclosing, customize, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# setTabTextStyle()
 
 > Sets a cascading style sheet (CSS) on a specified
             tab’s text. If a tab is not specified, the CSS is set on the enclosing

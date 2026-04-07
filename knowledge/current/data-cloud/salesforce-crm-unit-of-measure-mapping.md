@@ -5,12 +5,10 @@ topic: salesforce-crm-unit-of-measure-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.424Z
+lastCollected: 2026-04-07T18:35:53.378Z
 estimatedTokens: 237
-keywords: [Salesforce, CRM, Unit, Measure, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, product]
+keywords: [Salesforce, CRM, Unit, Measure, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, product, purchased, program, member, DMO]
 ---
-
-# Salesforce CRM: Unit of Measure Mapping
 
 > These data mappings are for the Unit of Measure DLO found in the Loyalty Management
   bundle of the Salesforce CRM Connector for Data Cloud. The unit of measure for a product purchased

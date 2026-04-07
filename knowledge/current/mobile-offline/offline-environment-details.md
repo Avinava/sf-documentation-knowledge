@@ -5,12 +5,10 @@ topic: offline-environment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.894Z
+lastCollected: 2026-04-07T18:38:15.391Z
 estimatedTokens: 577
-keywords: [Offline, Environment, presents, number, technical, challenges, LWC, Offline-enabled, mobile, apps, Lightning, web, components]
+keywords: [Offline, Environment, presents, number, technical, challenges, LWC, Offline-enabled, mobile, apps, Lightning, web]
 ---
-
-# Offline Environment Details
 
 > The offline environment presents a number of technical challenges for LWC
   Offline-enabled mobile apps, and for your Lightning web components.

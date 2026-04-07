@@ -5,12 +5,10 @@ topic: action-links-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:33.946Z
+lastCollected: 2026-04-07T18:36:19.169Z
 estimatedTokens: 919
-keywords: [Action, Links, Case, integrate, Salesforce, third-party, services, feed, link, HTTP, API, download, file, open, web]
+keywords: [Action, Links, Case, integrate, Salesforce, third-party, services, link, HTTP, API, download, file, open, web, topic, Start, Video, Chat]
 ---
-
-# Action Links Use Case
 
 > Use action links to integrate Salesforce and third-party services with a feed. An
     action link can make an HTTP request to a Salesforce or third-party API. An action link can also

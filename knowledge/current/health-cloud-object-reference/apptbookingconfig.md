@@ -5,12 +5,10 @@ topic: apptbookingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.691Z
+lastCollected: 2026-04-07T18:37:48.322Z
 estimatedTokens: 1159
-keywords: [ApptBookingConfig, collection, appointment, scheduling, API, version, 52.0, later, SOAP, Calls, REST]
+keywords: [ApptBookingConfig, collection, appointment, scheduling, API, 52.0, SOAP, REST]
 ---
-
-# ApptBookingConfig
 
 > Represents a collection of fields to set up appointment scheduling. This
       object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: stop-following-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.379Z
+lastCollected: 2026-04-07T18:37:24.390Z
 estimatedTokens: 185
 keywords: [Stop, Record]
 ---
-
-# Stop Following a Record
 
 > Stop following a record.
 

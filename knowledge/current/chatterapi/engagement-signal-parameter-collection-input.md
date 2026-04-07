@@ -5,12 +5,10 @@ topic: engagement-signal-parameter-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.412Z
+lastCollected: 2026-04-07T18:37:08.228Z
 estimatedTokens: 81
-keywords: [Engagement, Signal, Collection, Input]
+keywords: [Engagement, Signal, Collection]
 ---
-
-# Engagement Signal Parameter Collection Input
 
 > Collection of Engagement Signal parameters.
 

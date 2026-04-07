@@ -5,12 +5,10 @@ topic: install-and-uninstall-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.871Z
+lastCollected: 2026-04-07T18:38:56.491Z
 estimatedTokens: 980
-keywords: [Install, Uninstall, Second-Generation, Managed, Packages, disposable, scratch, org, test, 2GP, package, Salesforce, CLI, command, Setup]
+keywords: [Install, Uninstall, Second-Generation, Managed, Packages, disposable, scratch, org, test, 2GP, package, Salesforce, CLI, command, Setup, Because, can't, upgrade, beta, sure, don't, sandbox, release, pipeline, UAT, staging]
 ---
-
-# Install and Uninstall Second-Generation Managed Packages
 
 > Use a disposable scratch org to test your second-generation managed packages (managed
   2GP). You can install or uninstall a managed 2GP package using a Salesforce CLI command, or from

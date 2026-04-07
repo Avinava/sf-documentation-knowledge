@@ -5,12 +5,10 @@ topic: record-rollup-definitions-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.213Z
+lastCollected: 2026-04-07T18:39:05.209Z
 estimatedTokens: 251
-keywords: [Record, Rollup, Definitions, Business, APIs, consolidated, view, data, specific, aggregation, definition, sort, arrange, ascending, descending]
+keywords: [Record, Rollup, Definitions, Business, APIs, consolidated, view, specific, aggregation, definition, sort, arrange, ascending, descending, order, Resources]
 ---
-
-# Record Rollup Definitions Business APIs
 
 > Use the Record Rollup Definitions Business APIs to get a consolidated view of data for
     a specific record aggregation definition. You can sort data by name and arrange it in ascending

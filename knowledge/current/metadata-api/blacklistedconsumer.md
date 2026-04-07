@@ -5,12 +5,10 @@ topic: blacklistedconsumer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.672Z
+lastCollected: 2026-04-07T18:36:22.932Z
 estimatedTokens: 585
-keywords: [BlacklistedConsumer, connected, app, inaccessible, Salesforce, org’s, users, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [BlacklistedConsumer, connected, app, inaccessible, Salesforce, org’s, users, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# BlacklistedConsumer
 
 > Represents a connected app that is inaccessible to your Salesforce
       org’s users.

@@ -5,12 +5,10 @@ topic: remove-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.901Z
+lastCollected: 2026-04-07T18:37:33.199Z
 estimatedTokens: 138
 keywords: [Remove, SLDS, necessary, Salesforce, Lightning, Design, System, site]
 ---
-
-# Remove SLDS
 
 > If necessary, you can remove Salesforce Lightning Design System (SLDS) from your
     site.

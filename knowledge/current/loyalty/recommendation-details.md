@@ -5,12 +5,10 @@ topic: recommendation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.983Z
+lastCollected: 2026-04-07T18:38:08.236Z
 estimatedTokens: 104
 keywords: [Recommendation, rank, recommended, promotions]
 ---
-
-# Recommendation Details
 
 > The rank and details of the recommended promotions.
 

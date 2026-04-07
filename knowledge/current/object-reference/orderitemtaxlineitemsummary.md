@@ -5,12 +5,10 @@ topic: orderitemtaxlineitemsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.786Z
+lastCollected: 2026-04-07T18:38:37.052Z
 estimatedTokens: 1677
-keywords: [OrderItemTaxLineItemSummary, current, tax, OrderItemSummary, OrderItemAdjustmentLineSummary, Corresponds, order, item, line, items, consisting, original, any, change, objects]
+keywords: [OrderItemTaxLineItemSummary, current, tax, OrderItemSummary, OrderItemAdjustmentLineSummary, Corresponds, order, item, line, items, consisting, original, any, change, applicable, API, 48.0]
 ---
-
-# OrderItemTaxLineItemSummary
 
 > Represents the current tax on an OrderItemSummary or
       OrderItemAdjustmentLineSummary. Corresponds to one or more order item tax line items,

@@ -5,12 +5,10 @@ topic: add-lwc-quick-actions-to-mobile-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.717Z
+lastCollected: 2026-04-07T18:38:15.198Z
 estimatedTokens: 239
 keywords: [Add, LWC, Quick, Actions, Mobile, Layouts, action, appear, bar, record, view, assigned, main, layout, record's]
 ---
-
-# Add LWC Quick Actions to Mobile Layouts
 
 > For a quick action to appear in the action bar of a record view, it must be assigned to
   the main page layout for the record's object type.

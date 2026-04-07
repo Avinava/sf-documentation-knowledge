@@ -5,12 +5,10 @@ topic: group-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.160Z
+lastCollected: 2026-04-07T18:37:14.121Z
 estimatedTokens: 176
-keywords: [Group, Record, remove, association, associated]
+keywords: [Group, Record, remove, association]
 ---
-
-# Group Record
 
 > Get information about a group record or remove the association
       between a record and a group.

@@ -5,12 +5,10 @@ topic: cgcloudaccountplanuserfilterc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.291Z
+lastCollected: 2026-04-07T18:39:12.734Z
 estimatedTokens: 951
-keywords: [cgcloud__Account_Plan_User_Filter__c, filter, selections, user, planning, account, API, version, 54.0, later, cgcloud, _Account, _Plan, _User, _Filter]
+keywords: [cgcloud__Account_Plan_User_Filter__c, filter, selections, user, planning, account, API, 54.0, cgcloud, _Account, _Plan, _User, _Filter]
 ---
-
-# cgcloud__Account_Plan_User_Filter__c
 
 > Contains the filter selections of a user for a planning account. This
       object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: connectapiinsurancepolicybulkinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.146Z
+lastCollected: 2026-04-07T18:37:49.991Z
 estimatedTokens: 148
-keywords: [Input, representation, cancel, policies, bulk, resource, includes, insurance, policy, IDs, canceled, associated]
+keywords: [cancel, policies, bulk, resource, includes, insurance, policy, IDs, canceled]
 ---
-
-# ConnectApi.InsurancePolicyBulkInputRepresentation
 
 > Input representation details of the cancel policies in bulk resource. The input includes
     the list of insurance policy IDs to be canceled and the details of the associated fields of the

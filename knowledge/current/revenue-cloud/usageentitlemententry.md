@@ -5,12 +5,10 @@ topic: usageentitlemententry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.823Z
+lastCollected: 2026-04-07T18:35:50.706Z
 estimatedTokens: 1400
-keywords: [UsageEntitlementEntry, usage, entitlement, consumption, rollovers, expired, units, tenure, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UsageEntitlementEntry, entitlement, consumption, rollovers, expired, units, tenure, API, 63.0]
 ---
-
-# UsageEntitlementEntry
 
 > Represents the usage entitlement details, such as the usage
          consumption, rollovers, and details of expired units for each tenure. This object is

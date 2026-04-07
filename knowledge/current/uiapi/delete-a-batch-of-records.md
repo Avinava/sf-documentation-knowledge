@@ -5,12 +5,10 @@ topic: delete-a-batch-of-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.342Z
+lastCollected: 2026-04-07T18:40:11.338Z
 estimatedTokens: 493
 keywords: [Batch, Records, multiple]
 ---
-
-# Delete a Batch of Records
 
 > Delete multiple records. You can create, update, and delete up to 200 records in a
     single request.

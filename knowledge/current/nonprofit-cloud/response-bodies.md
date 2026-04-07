@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.550Z
+lastCollected: 2026-04-07T18:38:21.406Z
 estimatedTokens: 177
 keywords: [Bodies, Group, Membership, Households, APIs, Fundraising, API]
 ---
-
-# Response Bodies
 
 > Learn more about the available Fundraising API response bodies.
 

@@ -5,12 +5,10 @@ topic: connectapifeedentityreadsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.825Z
+lastCollected: 2026-04-07T18:36:09.210Z
 estimatedTokens: 77
-keywords: [ConnectApi.FeedEntityReadSummary, Summary, feed, post, comment]
+keywords: [ConnectApi.FeedEntityReadSummary, Summary, post, comment]
 ---
-
-# ConnectApi.FeedEntityReadSummary
 
 > Summary of the feed post or comment that was read.
 

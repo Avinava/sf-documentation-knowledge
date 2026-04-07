@@ -5,12 +5,10 @@ topic: send-with-a-triggeredsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.358Z
+lastCollected: 2026-04-07T18:40:24.798Z
 estimatedTokens: 652
-keywords: [Send, TriggeredSend, email, Specify, unique, identifier, props, order, identify, Subscribers, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Send, TriggeredSend, email, Specify, unique, identifier, props, order, identify, Subscribers, PHP]
 ---
-
-# Send with a TriggeredSend
 
 > Use the Send method to use a TriggeredSend to send an email. Specify a unique identifier in the props properties in order to identify which triggeredsend to send:
 

@@ -5,12 +5,10 @@ topic: use-branches-in-unlocked-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.943Z
+lastCollected: 2026-04-07T18:40:08.925Z
 estimatedTokens: 563
-keywords: [Branches, Unlocked, Packaging, Development, teams, their, source, control, system, SCS, often, build, package, versions, metadata]
+keywords: [Branches, Unlocked, Packaging, Development, teams, their, source, control, system, SCS, often, build, package, versions, metadata, particular, branch, code, Dependencies]
 ---
-
-# Use Branches in Unlocked Packaging
 
 > Development teams who use branches in their source control system (SCS), often
   build package versions based on the metadata in a particular branch of code.

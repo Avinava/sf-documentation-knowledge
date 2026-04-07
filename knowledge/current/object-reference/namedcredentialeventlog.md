@@ -5,13 +5,11 @@ topic: namedcredentialeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.735Z
+lastCollected: 2026-04-07T18:38:35.954Z
 estimatedTokens: 749
 namespace: Type
-keywords: [NamedCredentialEventLog, Named, Credential, event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t]
+keywords: [NamedCredentialEventLog, Named, Credential, event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t, recognize, package, log, file, investigate, whether, security, breach, occurred, API, 65.0]
 ---
-
-# NamedCredentialEventLog
 
 > The Named Credential event type captures information about Apex callouts that
          use named credentials as their endpoints. Use this event type to audit the installed

@@ -5,12 +5,10 @@ topic: create-visit-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.665Z
+lastCollected: 2026-04-07T18:37:54.984Z
 estimatedTokens: 458
-keywords: [Visit, Input, representation]
+keywords: [Visit]
 ---
-
-# Create Visit Request Input
 
 > Input representation of the create visit request.
 

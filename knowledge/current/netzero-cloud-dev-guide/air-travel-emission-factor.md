@@ -5,12 +5,10 @@ topic: air-travel-emission-factor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.985Z
+lastCollected: 2026-04-07T18:38:16.551Z
 estimatedTokens: 1834
 keywords: [Air, Travel, Emission, Factor, emissions, factors, scope, commercial]
 ---
-
-# Air Travel Emission Factor
 
 > The Air Travel Emission Factor object represents the emissions factors for scope 3
   commercial air travel.

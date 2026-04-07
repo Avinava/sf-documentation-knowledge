@@ -5,12 +5,10 @@ topic: addtobrowsertitlequeue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.750Z
+lastCollected: 2026-04-07T18:36:48.802Z
 estimatedTokens: 223
-keywords: [addToBrowserTitleQueue, Adds, browser, tab, title, titles, rotates, every, three, seconds, API, version, 28.0, later, Arguments]
+keywords: [Arguments, addToBrowserTitleQueue, Adds, browser, tab, title, titles, rotates, every, three, seconds, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# addToBrowserTitleQueue()
 
 > Adds a browser tab title to a list of titles,
             which rotates every three seconds. This method is only available in API

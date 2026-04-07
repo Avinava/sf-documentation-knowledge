@@ -5,12 +5,10 @@ topic: creating-basic-maps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.461Z
+lastCollected: 2026-04-07T18:38:51.722Z
 estimatedTokens: 456
-keywords: [Creating, Basic, Maps, map, markers, requires, <apex, map>, component, map’s, canvas, including, dimensions, location, initial]
+keywords: [Creating, Basic, Maps, map, markers, requires, <apex, map>, map’s, canvas, including, dimensions, location, initial, zoom, level]
 ---
-
-# Creating Basic Maps
 
 > A basic map without markers requires only an <apex:map> component. This component defines the map’s basic canvas, including its
   dimensions, location, and initial zoom level.

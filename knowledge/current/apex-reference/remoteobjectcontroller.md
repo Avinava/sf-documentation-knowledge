@@ -5,13 +5,11 @@ topic: remoteobjectcontroller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.239Z
+lastCollected: 2026-04-07T18:36:03.455Z
 estimatedTokens: 1973
 namespace: System
-keywords: [RemoteObjectController, access, standard, Visualforce, Remote, Objects, operations, override, Usage, del, recordIds, retrieve, criteria]
+keywords: [RemoteObjectController, standard, Visualforce, Remote, operations, override, del, recordIds, retrieve, criteria]
 ---
-
-# RemoteObjectController
 
 > Use RemoteObjectController to access the
   standard Visualforce Remote Objects operations in your Remote Objects override

@@ -5,12 +5,10 @@ topic: renew-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.420Z
+lastCollected: 2026-04-07T18:37:51.436Z
 estimatedTokens: 174
 keywords: [Renew, Policy, POST, insurance]
 ---
-
-# Renew Policy (POST)
 
 > Renew policy for the specified insurance policy ID.
 

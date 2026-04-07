@@ -5,12 +5,10 @@ topic: addresshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.018Z
+lastCollected: 2026-04-07T18:39:24.925Z
 estimatedTokens: 253
-keywords: [AddressHistory, History, tracked, Address]
+keywords: [AddressHistory, tracked, Address]
 ---
-
-# AddressHistory
 
 > History for tracked fields of Address.
 

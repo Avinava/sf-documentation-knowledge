@@ -5,12 +5,10 @@ topic: giftdefaultdesignationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.977Z
+lastCollected: 2026-04-07T18:39:42.617Z
 estimatedTokens: 273
-keywords: [GiftDefaultDesignationHistory, History, tracked, GiftDefaultDesignation]
+keywords: [GiftDefaultDesignationHistory, tracked, GiftDefaultDesignation]
 ---
-
-# GiftDefaultDesignationHistory
 
 > History for tracked fields of GiftDefaultDesignation.
 

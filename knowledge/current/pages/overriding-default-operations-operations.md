@@ -5,12 +5,10 @@ topic: overriding-default-operations-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.928Z
+lastCollected: 2026-04-07T18:38:52.242Z
 estimatedTokens: 1367
-keywords: [Overriding, Operations, Override, Remote, Objects, own, Apex, code, extend, customize, behavior, Access, Definitions, Overrides]
+keywords: [Overriding, Operations, Override, Remote, own, Apex, code, extend, customize, behavior, Definitions, Overrides]
 ---
-
-# Overriding Default  Operations Operations
 
 > Override the default Remote Objects operations with your own Apex code to extend or
         customize the behavior of Remote Objects.

@@ -5,12 +5,10 @@ topic: taxdisclosuresummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.022Z
+lastCollected: 2026-04-07T18:40:03.746Z
 estimatedTokens: 270
-keywords: [TaxDisclosureSummaryHistory, History, tracked, TaxDisclosureSummary]
+keywords: [TaxDisclosureSummaryHistory, tracked, TaxDisclosureSummary]
 ---
-
-# TaxDisclosureSummaryHistory
 
 > History for tracked fields of TaxDisclosureSummary.
 

@@ -5,12 +5,10 @@ topic: unlock-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.745Z
+lastCollected: 2026-04-07T18:38:16.292Z
 estimatedTokens: 114
-keywords: [Unlock, Record, Salesforce, data]
+keywords: [Unlock, Record, Salesforce]
 ---
-
-# Unlock Record
 
 > Unlock a record in
       Salesforce

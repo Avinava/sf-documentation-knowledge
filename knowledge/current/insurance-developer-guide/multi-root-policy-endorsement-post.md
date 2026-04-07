@@ -5,12 +5,10 @@ topic: multi-root-policy-endorsement-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.688Z
+lastCollected: 2026-04-07T18:37:51.746Z
 estimatedTokens: 463
 keywords: [Multi-Root, Policy, Endorsement, POST, Asynchronously, endorse, insurance, along, child, policies]
 ---
-
-# Multi-Root Policy Endorsement (POST)
 
 > Asynchronously endorse a multi-root insurance policy along with its
             child policies.

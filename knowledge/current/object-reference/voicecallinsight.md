@@ -5,12 +5,10 @@ topic: voicecallinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.333Z
+lastCollected: 2026-04-07T18:38:44.149Z
 estimatedTokens: 979
-keywords: [VoiceCallInsight, voice, call, insight, data, associated, record, specific, recording, transcript, API, version, 66.0, later, Calls]
+keywords: [VoiceCallInsight, voice, call, insight, record, specific, recording, transcript, API, 66.0]
 ---
-
-# VoiceCallInsight
 
 > Represents the voice call insight data associated with a voice call. Each
          record represents the call insight of a specific recording or transcript within a

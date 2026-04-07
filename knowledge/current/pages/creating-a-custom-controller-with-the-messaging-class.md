@@ -5,13 +5,11 @@ topic: creating-a-custom-controller-with-the-messaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.057Z
+lastCollected: 2026-04-07T18:38:51.297Z
 estimatedTokens: 549
 namespace: Messaging
-keywords: [Creating, Custom, Controller, Messaging, minimum, uses, Apex, needs, subject, recipient, email, acts, form, fill, deliver]
+keywords: [Creating, Controller, Messaging, minimum, uses, Apex, needs, subject, recipient, email, acts, form, fill, deliver]
 ---
-
-# Creating a Custom Controller with the Messaging Class
 
 > At minimum, a custom controller that uses the Apex Messaging namespace needs a subject, a body, and a recipient for the
 			email. You will need a page that acts as a form to fill out the subject and body and

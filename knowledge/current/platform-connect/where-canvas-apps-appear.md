@@ -5,12 +5,10 @@ topic: where-canvas-apps-appear
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.428Z
+lastCollected: 2026-04-07T18:38:57.226Z
 estimatedTokens: 1099
 keywords: [Canvas, Apps, Appear, various, places, depending, app, settings]
 ---
-
-# Where Canvas Apps Appear
 
 > Canvas apps can appear in various places, depending on your Canvas app
   settings.

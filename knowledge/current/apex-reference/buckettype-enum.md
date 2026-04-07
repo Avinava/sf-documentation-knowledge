@@ -5,12 +5,10 @@ topic: buckettype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.570Z
+lastCollected: 2026-04-07T18:36:12.862Z
 estimatedTokens: 66
 keywords: [BucketType, included, bucket]
 ---
-
-# BucketType Enum
 
 > The types of values included in a bucket.
 

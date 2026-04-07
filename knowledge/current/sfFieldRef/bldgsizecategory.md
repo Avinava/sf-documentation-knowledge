@@ -5,12 +5,10 @@ topic: bldgsizecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.772Z
+lastCollected: 2026-04-07T18:39:29.895Z
 estimatedTokens: 384
-keywords: [BldgSizeCategory, building, size, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum]
+keywords: [BldgSizeCategory, building, size, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum, units, sqft, overlapping, minimum-maximum, ranges]
 ---
-
-# BldgSizeCategory
 
 > Represents the building size filter criteria for the building energy
          intensity records. The building size filter criteria are stored as a range of floor area

@@ -5,12 +5,10 @@ topic: navigation-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.566Z
+lastCollected: 2026-04-07T18:38:52.879Z
 estimatedTokens: 574
 keywords: [Navigation, Issues, prevent, users, navigating, certain, pages, Salesforce, mobile, app]
 ---
-
-# Navigation Issues
 
 > These issues prevent users from navigating to certain pages in the Salesforce mobile
   app.

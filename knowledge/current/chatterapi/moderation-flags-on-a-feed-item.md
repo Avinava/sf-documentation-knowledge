@@ -5,12 +5,10 @@ topic: moderation-flags-on-a-feed-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.966Z
+lastCollected: 2026-04-07T18:37:12.863Z
 estimatedTokens: 912
-keywords: [Moderation, Flags, Feed, Item, Experience, Cloud, sites, flagged, post, flag]
+keywords: [Moderation, Flags, Item, Experience, Cloud, sites, flagged, post, flag]
 ---
-
-# Moderation Flags on a Feed Item
 
 > In Experience Cloud sites, get a flagged post, flag a post for
       moderation, and delete moderation flags.

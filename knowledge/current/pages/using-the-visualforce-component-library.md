@@ -5,12 +5,10 @@ topic: using-the-visualforce-component-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.657Z
+lastCollected: 2026-04-07T18:38:51.961Z
 estimatedTokens: 667
-keywords: [Visualforce, Component, Library, point, tag, examples, mandatory, <apex, page>, placed, start, end, markup, However, insert]
+keywords: [Visualforce, Library, point, tag, examples, mandatory, <apex, page>, placed, start, end, markup, However, insert, images, tables, HTML, document, <img>, <table>, tags, respectively]
 ---
-
-# Using the Visualforce Component Library
 
 > Up to this point, the only Visualforce tag that has been used in the examples is the mandatory <apex:page> tag that must be placed
 at the start and end of all Visualforce markup. However, just as you can insert images or tables into an

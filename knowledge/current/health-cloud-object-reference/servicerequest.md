@@ -5,12 +5,10 @@ topic: servicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.094Z
+lastCollected: 2026-04-07T18:37:44.312Z
 estimatedTokens: 2683
-keywords: [Service​Request, FH​IR, resource, maps, Clinical​Service​Request, Clinical​Service​Request​Detail, objects, Salesforce​, V4​.0, Clinical​, Data, Model, Mapping, Sample, Record]
+keywords: [Service​Request, FH​IR, resource, maps, Clinical​Service​Request, Clinical​Service​Request​Detail, Salesforce​, V4​.0, Clinical​, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# Service​Request
 
 > The service​Request FH​IR resource maps to the
       Clinical​Service​Request and Clinical​Service​Request​Detail objects in Salesforce​.

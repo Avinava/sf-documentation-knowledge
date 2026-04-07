@@ -5,12 +5,10 @@ topic: privacysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.051Z
+lastCollected: 2026-04-07T18:36:28.589Z
 estimatedTokens: 1117
-keywords: [PrivacySettings, organization’s, settings, data, privacy, consent, management, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [PrivacySettings, organization’s, settings, privacy, consent, management, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PrivacySettings
 
 > Represents an organization’s settings for data privacy
       and consent management. This type extends the Metadata metadata type and inherits its fullName field.

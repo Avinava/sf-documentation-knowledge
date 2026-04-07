@@ -5,12 +5,10 @@ topic: assign-a-license-and-permissions-to-snapshot-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.548Z
+lastCollected: 2026-04-07T18:40:08.500Z
 estimatedTokens: 437
-keywords: [Assign, License, Permissions, Snapshot, Users, Provide, non-admin, Scratch, Org, Snapshots, access, objects, Dev, Hub, production]
+keywords: [Assign, License, Permissions, Snapshot, Users, Provide, non-admin, Scratch, Org, Snapshots, Dev, Hub, production, admins, manage]
 ---
-
-# Assign a License and Permissions to Snapshot Users
 
 > Provide all non-admin Scratch Org Snapshots users with a supported license and access to
   the required scratch org and snapshot objects. Dev Hub (production org) admins can create and

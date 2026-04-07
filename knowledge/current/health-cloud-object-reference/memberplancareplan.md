@@ -5,12 +5,10 @@ topic: memberplancareplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.923Z
+lastCollected: 2026-04-07T18:37:47.505Z
 estimatedTokens: 764
-keywords: [MemberPlanCarePlan, junction, member, plans, care, problems, goals, interventions, plan, patient's, health, coverage, API, version, 66.0]
+keywords: [MemberPlanCarePlan, junction, member, plans, care, problems, goals, interventions, plan, patient's, health, coverage, API, 66.0]
 ---
-
-# MemberPlanCarePlan
 
 > Represents a junction between member plans and care plans. It defines the
          problems, goals, and interventions in a care plan based on the patient's health plan

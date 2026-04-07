@@ -5,12 +5,10 @@ topic: digital-verification-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.471Z
+lastCollected: 2026-04-07T18:37:55.929Z
 estimatedTokens: 142
-keywords: [Digital, Verification, Output, Representation, API]
+keywords: [Digital, Verification, API]
 ---
-
-# Digital Verification Output
 
 > Output Representation for the digital verification API request.
 

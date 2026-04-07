@@ -5,12 +5,10 @@ topic: sobject-specific-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.153Z
+lastCollected: 2026-04-07T18:36:21.394Z
 estimatedTokens: 444
-keywords: [sObject, Specific, Quick, Actions, Access, action, POST, resource, records, object’s]
+keywords: [sObject, Specific, Quick, Actions, action, POST, resource, records, object’s]
 ---
-
-# sObject Specific Quick Actions
 
 > Access a specific action for an object. By using the POST method with this resource, you
   can create records using an object’s quick actions.

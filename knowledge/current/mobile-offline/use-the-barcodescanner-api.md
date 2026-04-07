@@ -5,12 +5,10 @@ topic: use-the-barcodescanner-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.096Z
+lastCollected: 2026-04-07T18:38:15.610Z
 estimatedTokens: 1232
-keywords: [BarcodeScanner, API, develop, Lightning, component, barcode, scanning, features, Add, Web, Test, Availability, Scan]
+keywords: [BarcodeScanner, API, develop, Lightning, barcode, scanning, features, Add, Web, Test, Availability, Scan]
 ---
-
-# Use the BarcodeScanner API
 
 > To develop a Lightning component with barcode scanning features, use the BarcodeScanner
         API.

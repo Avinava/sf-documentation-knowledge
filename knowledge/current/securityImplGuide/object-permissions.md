@@ -5,12 +5,10 @@ topic: object-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.266Z
+lastCollected: 2026-04-07T18:39:23.200Z
 estimatedTokens: 796
-keywords: [Permissions, specify, base-level, access, users, edit, records]
+keywords: [Permissions, specify, base-level, users, edit, records]
 ---
-
-# Object Permissions
 
 > Object permissions specify the base-level access users have to create, read, edit, and
     delete records for each object.

@@ -5,12 +5,10 @@ topic: accessing-data-with-a-standard-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.844Z
+lastCollected: 2026-04-07T18:38:51.084Z
 estimatedTokens: 422
-keywords: [Accessing, Data, Standard, Controller, Every, includes, getter, record, query, URL, associated, markup, context]
+keywords: [Accessing, Standard, Controller, Every, includes, getter, record, query, URL, markup, context]
 ---
-
-# Accessing Data with a Standard Controller
 
 > Every standard controller includes a getter method that returns the record specified by the
             id query string parameter in the page URL. This

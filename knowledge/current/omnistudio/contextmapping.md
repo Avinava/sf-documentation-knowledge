@@ -5,12 +5,10 @@ topic: contextmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.884Z
+lastCollected: 2026-04-07T18:36:45.653Z
 estimatedTokens: 460
-keywords: [ContextMapping, mapping, attributes, nodes, objects, API, version, 59.0, later, SOAP, Calls, REST]
+keywords: [ContextMapping, mapping, attributes, nodes, API, 59.0, SOAP, REST]
 ---
-
-# ContextMapping
 
 > Represents the mapping of both attributes and nodes to related objects.
       This object is available in API version 59.0 and later.

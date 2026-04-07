@@ -5,12 +5,10 @@ topic: connectapicapturerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.425Z
+lastCollected: 2026-04-07T18:36:04.761Z
 estimatedTokens: 315
-keywords: [ConnectApi.CaptureRequest, Payment, capture, input, consumed, service]
+keywords: [ConnectApi.CaptureRequest, Payment, capture, consumed, service]
 ---
-
-# ConnectApi.CaptureRequest
 
 > Payment capture input consumed by the payment capture
     service.

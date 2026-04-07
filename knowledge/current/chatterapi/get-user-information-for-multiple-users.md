@@ -5,12 +5,10 @@ topic: get-user-information-for-multiple-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.357Z
+lastCollected: 2026-04-07T18:37:24.372Z
 estimatedTokens: 162
 keywords: [User, Multiple, Users, call]
 ---
-
-# Get User Information for Multiple Users
 
 > Get user information for multiple users with a single call.
 

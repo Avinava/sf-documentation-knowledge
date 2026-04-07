@@ -5,12 +5,10 @@ topic: lifescienceaccountlistobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.853Z
+lastCollected: 2026-04-07T18:38:00.632Z
 estimatedTokens: 396
-keywords: [LifeScienceAccountListObject, referenced, provider, account, API, version, 65.0, later, Calls]
+keywords: [LifeScienceAccountListObject, referenced, provider, account, API, 65.0]
 ---
-
-# LifeScienceAccountListObject
 
 > Represents the object that is referenced in the provider account list. This
          object is available in API version 65.0 and later.

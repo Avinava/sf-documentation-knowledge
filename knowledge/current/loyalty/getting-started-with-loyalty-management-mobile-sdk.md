@@ -5,12 +5,10 @@ topic: getting-started-with-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.356Z
+lastCollected: 2026-04-07T18:38:09.647Z
 estimatedTokens: 357
-keywords: [Getting, Started, Loyalty, Management, Mobile, SDK, Prepare, install, connected, app, experience, cloud, users’, access]
+keywords: [Getting, Started, Loyalty, Management, Mobile, SDK, Prepare, install, connected, app, experience, cloud, users’]
 ---
-
-# Getting Started with Loyalty Management Mobile SDK
 
 > Prepare to install the Loyalty Management Mobile SDK, to create a connected app, and
   then to set up your experience cloud users’ access to the Loyalty Management Mobile

@@ -5,12 +5,10 @@ topic: lightningomnichannel-connectionerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.947Z
+lastCollected: 2026-04-07T18:36:49.011Z
 estimatedTokens: 97
 keywords: [lightning, omniChannel, ConnectionError, network, connection, issue, occurred]
 ---
-
-# lightning:omniChannel﻿ConnectionError
 
 > Indicates that a network connection issue
             occurred.

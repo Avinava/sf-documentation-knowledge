@@ -5,12 +5,10 @@ topic: careregistereddevice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.416Z
+lastCollected: 2026-04-07T18:39:32.815Z
 estimatedTokens: 551
-keywords: [CareRegisteredDevice, device, registration, patient, care, program, enrollee, API, version, 49.0, later]
+keywords: [CareRegisteredDevice, device, registration, patient, care, program, enrollee, API, 49.0]
 ---
-
-# CareRegisteredDevice
 
 > Represents a device or device registration information for a patient or a care
       program enrollee. This object is available in API version 49.0 and later.

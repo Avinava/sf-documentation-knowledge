@@ -5,12 +5,10 @@ topic: favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.969Z
+lastCollected: 2026-04-07T18:40:10.956Z
 estimatedTokens: 323
-keywords: [Favorites, resources, favorite, collection, usage, easy, build]
+keywords: [Favorites, resources, favorite, collection, easy, build]
 ---
-
-# Favorites
 
 > Use these resources to create and update a single favorite or a
       collection of favorites, and to get favorites usage information. These resources make it easy

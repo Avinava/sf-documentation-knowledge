@@ -5,12 +5,10 @@ topic: workflows-and-associated-workflow-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.415Z
+lastCollected: 2026-04-07T18:39:10.909Z
 estimatedTokens: 743
-keywords: [Workflows, Associated, Workflow, Steps, API]
+keywords: [Workflows, Workflow, Steps, API]
 ---
-
-# Workflows and Associated Workflow Steps
 
 > The following table provides information about the BO API Workflow and the associated
         Workflow Steps.

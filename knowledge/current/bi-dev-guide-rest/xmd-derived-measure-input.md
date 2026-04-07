@@ -5,12 +5,10 @@ topic: xmd-derived-measure-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.844Z
+lastCollected: 2026-04-07T18:36:55.257Z
 estimatedTokens: 174
-keywords: [Xmd, Derived, Measure, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Derived, Measure, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Derived Measure Input
 
 > The extended metadata (Xmd) for a derived measure in an Analytics dataset.
 

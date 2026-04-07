@@ -5,12 +5,10 @@ topic: datausepurpose
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.264Z
+lastCollected: 2026-04-07T18:37:57.801Z
 estimatedTokens: 245
-keywords: [DataUsePurpose, Standard, custom, extend, Data, Purpose, represent, reason, contacting, prospect, customer, API, version, 65.0, later]
+keywords: [DataUsePurpose, Standard, extend, Purpose, represent, reason, contacting, prospect, customer, API, 65.0]
 ---
-
-# DataUsePurpose
 
 > Standard and custom fields extend the standard Data Use Purpose object to
          represent information about the reason for contacting a prospect or customer. This object

@@ -5,12 +5,10 @@ topic: article-type-datacategoryselection-datacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.048Z
+lastCollected: 2026-04-07T18:38:26.002Z
 estimatedTokens: 795
-keywords: [Article, __DataCategorySelection, data, category, selection, classifies, API, version, 19.0, later, _DataCategorySelection, Calls, Special, Access, Rules]
+keywords: [Article, __DataCategorySelection, category, selection, classifies, API, 19.0, _DataCategorySelection, SOQL, Sample]
 ---
-
-# Article Type __DataCategorySelection __DataCategorySelection
 
 > A data category selection represents a data category that classifies
       an article. This object is available in API version 19.0 and later.

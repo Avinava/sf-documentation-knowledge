@@ -5,12 +5,10 @@ topic: setstatemscrmrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.378Z
+lastCollected: 2026-04-07T18:40:22.801Z
 estimatedTokens: 227
-keywords: [SetStateMscrmRecord, Function, Ordinal, GUID, record, state, status, Dynamics, CRM, entity, stri, **Overview**, **Syntax**, Usage]
+keywords: [SetStateMscrmRecord, Function, Ordinal, GUID, record, state, status, Dynamics, CRM, entity, stri, **Overview**, **Syntax**]
 ---
-
-# SetStateMscrmRecord
 
 > SetStateMscrmRecord(1, 2, 3, 4)
 

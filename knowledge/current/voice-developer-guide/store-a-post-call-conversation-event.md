@@ -5,12 +5,10 @@ topic: store-a-post-call-conversation-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.193Z
+lastCollected: 2026-04-07T18:40:13.139Z
 estimatedTokens: 815
-keywords: [Store, Post-Call, Conversation, Event, events, generated, intelligence, sources, Amazon, Connect, Contact, Lens, data, Users, specify]
+keywords: [Store, Post-Call, Conversation, Event, events, generated, intelligence, sources, Amazon, Connect, Contact, Lens, Users, specify, target, VoiceCall, ConversationEntry, specific, URI, HTTP]
 ---
-
-# Store a Post-Call Conversation Event
 
 > Store post-call conversation events generated from intelligence
       sources, such as Amazon Connect Contact Lens, into the conversation data store. Users can also

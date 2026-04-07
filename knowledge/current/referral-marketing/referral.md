@@ -5,12 +5,10 @@ topic: referral
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.795Z
+lastCollected: 2026-04-07T18:39:10.236Z
 estimatedTokens: 1658
-keywords: [Referral, submitted, advocate, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Referral, submitted, advocate, API, 59.0]
 ---
-
-# Referral
 
 > Represents the details of a referral submitted by an advocate.
       This object is available in API version 59.0 and later.

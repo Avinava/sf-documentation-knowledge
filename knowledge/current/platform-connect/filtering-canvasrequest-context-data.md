@@ -5,12 +5,10 @@ topic: filtering-canvasrequest-context-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.464Z
+lastCollected: 2026-04-07T18:38:57.263Z
 estimatedTokens: 338
-keywords: [Filtering, CanvasRequest, Context, Data, filter, parts, sent, canvas, app, provide, implementation]
+keywords: [Filtering, CanvasRequest, Context, filter, parts, sent, canvas, app, provide, implementation]
 ---
-
-# Filtering CanvasRequest Context Data
 
 > To filter out parts of the CanvasRequest Context data that gets sent to your canvas
         app, you need to provide an implementation of Canvas.CanvasLifecycleHandler.excludeContextTypes().

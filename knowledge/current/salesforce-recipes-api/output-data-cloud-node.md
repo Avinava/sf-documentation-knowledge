@@ -5,12 +5,10 @@ topic: output-data-cloud-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.661Z
+lastCollected: 2026-04-07T18:39:19.344Z
 estimatedTokens: 182
-keywords: [Output, Data, Cloud, Node, recipe, write]
+keywords: [Cloud, Node, recipe, write]
 ---
-
-# Output Data Cloud Node
 
 > An output node in a recipe to write to Data 360.
 

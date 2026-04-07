@@ -5,12 +5,10 @@ topic: headless-login-send-a-token-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.435Z
+lastCollected: 2026-04-07T18:37:39.374Z
 estimatedTokens: 367
-keywords: [Headless, Login, Send, Token, authorization, code, exchange, access]
+keywords: [Headless, Login, Send, Token, authorization, code, exchange]
 ---
-
-# Headless Login: Send a Token Request
 
 > After you send the authorization request and get a code, exchange the code for an access
   token.

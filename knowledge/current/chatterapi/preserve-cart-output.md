@@ -5,12 +5,10 @@ topic: preserve-cart-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.715Z
+lastCollected: 2026-04-07T18:37:21.827Z
 estimatedTokens: 279
-keywords: [Preserve, Cart, Output, preserved]
+keywords: [Preserve, Cart, preserved]
 ---
-
-# Preserve Cart Output
 
 > Represents a preserved cart.
 

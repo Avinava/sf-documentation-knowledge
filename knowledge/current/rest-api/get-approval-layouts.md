@@ -5,12 +5,10 @@ topic: get-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.971Z
+lastCollected: 2026-04-07T18:36:21.197Z
 estimatedTokens: 130
-keywords: [Approval, Layouts, resource, REST, API, version, 30.0, later]
+keywords: [Approval, Layouts, resource, REST, API, 30.0]
 ---
-
-# Get Approval Layouts
 
 > Gets a list of approval layouts for a specified object. This resource is available in
 		REST API version 30.0 and later.

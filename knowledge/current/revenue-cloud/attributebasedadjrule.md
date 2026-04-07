@@ -5,12 +5,10 @@ topic: attributebasedadjrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.455Z
+lastCollected: 2026-04-07T18:35:48.469Z
 estimatedTokens: 713
-keywords: [AttributeBasedAdjRule, attribute, conditions, rule, associated, adjustment, made, product, service, sold, API, version, 60.0, later, Calls]
+keywords: [AttributeBasedAdjRule, attribute, conditions, rule, adjustment, made, product, service, sold, API, 60.0]
 ---
-
-# AttributeBasedAdjRule
 
 > Represents the attribute conditions in a rule associated with the attribute
          based adjustment made for a product or service being sold. This object is available in

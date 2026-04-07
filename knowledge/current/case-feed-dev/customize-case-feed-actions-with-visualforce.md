@@ -5,12 +5,10 @@ topic: customize-case-feed-actions-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.209Z
+lastCollected: 2026-04-07T18:37:04.930Z
 estimatedTokens: 1010
-keywords: [Customize, Case, Feed, Actions, Visualforce, Salesforce-provided, components, enable, customized, Salesforce, Classic, app, custom, console, interact]
+keywords: [Requirements, Customize, Case, Actions, Visualforce, Salesforce-provided, enable, customized, Salesforce, Classic, app, console, interact, publish, Feed-related, events, Sfdc.canvas.publisher, Publisher, JavaScript, API, Assigning, Pages, Users, Customization]
 ---
-
-# Customize Case Feed Actions with Visualforce
 
 > The Salesforce-provided Case Feed Visualforce components enable you to create a
     customized page within a Salesforce Classic app. To create custom Salesforce console components

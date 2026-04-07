@@ -5,12 +5,10 @@ topic: build-and-release-your-app-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:12.883Z
+lastCollected: 2026-04-07T18:40:07.825Z
 estimatedTokens: 1498
-keywords: [Build, Release, App, Metadata, API, Develop, test, sandboxes, Salesforce, CLI, Extensions, Code, retrieve, deploy, source]
+keywords: [Build, Release, App, Metadata, API, Develop, test, sandboxes, Salesforce, CLI, Extensions, Code, retrieve, deploy, source, development, work, flow, org, model, Sandbox, Environments, Tools, Considerations, Deploying, Apex]
 ---
-
-# Build and Release Your App with Metadata API
 
 > Develop and test your app in your sandboxes. Use Salesforce CLI or Salesforce Extensions
   for VS Code to retrieve and deploy your source. This development work flow is called the org

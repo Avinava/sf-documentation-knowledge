@@ -5,12 +5,10 @@ topic: utilities-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.706Z
+lastCollected: 2026-04-07T18:40:24.152Z
 estimatedTokens: 66
-keywords: [Utilities, Functions, Server-side, JavaScript, allow, load, modify, data]
+keywords: [Load, Utilities, Functions, Server-side, JavaScript, allow, modify]
 ---
-
-# Utilities Functions
 
 > The Utilities Server-side JavaScript functions allow you to load and modify data using Server-side JavaScript.
 

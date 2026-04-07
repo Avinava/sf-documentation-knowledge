@@ -5,12 +5,10 @@ topic: image
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.640Z
+lastCollected: 2026-04-07T18:39:44.295Z
 estimatedTokens: 430
-keywords: [Image, API, version, 47.0, later]
+keywords: [Image, API, 47.0]
 ---
-
-# Image
 
 > Represents the details of an image. This object is available in API
     version 47.0 and later.

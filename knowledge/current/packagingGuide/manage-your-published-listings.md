@@ -5,12 +5,10 @@ topic: manage-your-published-listings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.254Z
+lastCollected: 2026-04-07T18:38:46.103Z
 estimatedTokens: 475
 keywords: [Manage, Published, Listings, live, AppExchange, Link, different, solution, listing, Change, visibility]
 ---
-
-# Manage Your Published Listings
 
 > Update the listings that are live on AppExchange. Link a different solution to your
   listing. Change the visibility of your listing to private.

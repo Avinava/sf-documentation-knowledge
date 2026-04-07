@@ -5,12 +5,10 @@ topic: list-info-summary-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.735Z
+lastCollected: 2026-04-07T18:40:11.747Z
 estimatedTokens: 364
 keywords: [Info, Summary, Collection]
 ---
-
-# List Info Summary Collection
 
 > List info summary collection.
 

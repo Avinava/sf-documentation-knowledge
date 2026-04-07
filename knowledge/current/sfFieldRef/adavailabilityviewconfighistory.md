@@ -5,12 +5,10 @@ topic: adavailabilityviewconfighistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.984Z
+lastCollected: 2026-04-07T18:39:24.891Z
 estimatedTokens: 279
-keywords: [AdAvailabilityViewConfigHistory, History, tracked, AdAvailabilityViewConfig]
+keywords: [AdAvailabilityViewConfigHistory, tracked, AdAvailabilityViewConfig]
 ---
-
-# AdAvailabilityViewConfigHistory
 
 > History for tracked fields of AdAvailabilityViewConfig.
 

@@ -5,12 +5,10 @@ topic: customer-engagement-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.069Z
+lastCollected: 2026-04-07T18:38:47.034Z
 estimatedTokens: 642
-keywords: [Customer, Engagement, AppExchange, Marketplace, Analytics, how, customers, interact, listing, resources, over, time, compare, times, viewed]
+keywords: [Definitions, Customer, Engagement, AppExchange, Marketplace, Analytics, how, customers, interact, listing, resources, over, time, compare, times, viewed, white, papers, versus, customization, guides]
 ---
-
-# Customer Engagement in AppExchange Marketplace Analytics
 
 > See how customers interact with your listing and its resources over time. For example,
   compare how many times customers viewed white papers versus customization guides.

@@ -5,12 +5,10 @@ topic: get-smsv1contactsqueueimportidstatustokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.994Z
+lastCollected: 2026-04-07T18:40:17.144Z
 estimatedTokens: 209
-keywords: [sms, contacts, queueImport, status, tokenId, Retrieves, import, job, **Overview**, Usage]
+keywords: [sms, contacts, queueImport, status, tokenId, Retrieves, import, job, **Overview**]
 ---
-
-# GET /sms/v1/contacts/queueImport/{id}/status/{tokenId}
 
 > Retrieves the status of an import job.
 

@@ -5,12 +5,10 @@ topic: find-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.981Z
+lastCollected: 2026-04-07T18:35:39.763Z
 estimatedTokens: 1873
-keywords: [Products, Action, Search, catalog, category, subcategory, term, Special, Access, Rules, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Products, Action, Search, catalog, category, subcategory, term, REST, HTTP, Apex-Defined, Flow]
 ---
-
-# Find Products Action
 
 > Search for the products from a catalog, category, or subcategory by
 			using the specified search term.

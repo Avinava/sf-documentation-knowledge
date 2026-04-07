@@ -5,12 +5,10 @@ topic: inspectiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.458Z
+lastCollected: 2026-04-07T18:39:45.023Z
 estimatedTokens: 328
-keywords: [InspectionType, inspections, permit, license, API, version, 49.0, later]
+keywords: [InspectionType, inspections, permit, license, API, 49.0]
 ---
-
-# InspectionType
 
 > Represents the type of inspections related to a permit or license. This object is available in API version 49.0 and later.
 

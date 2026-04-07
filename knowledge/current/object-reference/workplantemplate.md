@@ -5,12 +5,10 @@ topic: workplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.092Z
+lastCollected: 2026-04-07T18:38:44.894Z
 estimatedTokens: 998
-keywords: [WorkPlanTemplate, template, work, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WorkPlanTemplate, template, work, plan, API, 52.0]
 ---
-
-# WorkPlanTemplate
 
 > Represents a template for a work plan. This object is available in API
     version 52.0 and later.

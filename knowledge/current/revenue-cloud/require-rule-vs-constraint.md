@@ -5,12 +5,10 @@ topic: require-rule-vs-constraint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.640Z
+lastCollected: 2026-04-07T18:35:42.525Z
 estimatedTokens: 158
-keywords: [Require, Rule, Constraint, Modeling, Language, CML, enforce, behavior, they, operate, differently, focuses, logical, consistency, physical]
+keywords: [Require, Rule, Constraint, Modeling, Language, CML, enforce, behavior, they, operate, differently, focuses, logical, consistency, physical, presence, products]
 ---
-
-# Require Rule vs Constraint
 
 > In Constraint Modeling Language (CML), constraint() and require() can both enforce
     behavior, but they operate differently: constraint focuses on logical consistency, require

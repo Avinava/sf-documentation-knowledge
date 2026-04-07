@@ -5,12 +5,10 @@ topic: application
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.095Z
+lastCollected: 2026-04-07T18:38:56.799Z
 estimatedTokens: 469
 keywords: [Application, JSON-formatted, signed, Context, specific, canvas, app, obtained, you’ve, added, connected, Salesforce, Setup]
 ---
-
-# Application
 
 > The Application object is a JSON-formatted object returned by
                 the signed request in the Context object. The

@@ -5,12 +5,10 @@ topic: transcribe-calls-in-real-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.753Z
+lastCollected: 2026-04-07T18:40:13.679Z
 estimatedTokens: 956
-keywords: [Transcribe, Calls, Real, Time, transcriptions, add, Enhanced, Conversation, component, Voice, Call, record, Lightning, App, Builder]
+keywords: [Transcribe, Real, Time, transcriptions, add, Enhanced, Conversation, Voice, Call, record, Lightning, App, Builder, orgs, Service, Cloud, Amazon, Connect, Partner, Telephony, provider, supports, transcription]
 ---
-
-# Transcribe Calls in Real Time
 
 > To see transcriptions in real time, add the Enhanced Conversation component to the Voice
     Call record page through the Lightning App Builder. You can add this component for orgs that use

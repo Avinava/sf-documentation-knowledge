@@ -5,12 +5,10 @@ topic: vpl360createpaymentintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.168Z
+lastCollected: 2026-04-07T18:38:11.473Z
 estimatedTokens: 156
-keywords: [VPL360_CreatePaymentIntent, Integration, Procedure, creates, payment, intent, made, VPL360, _CreatePaymentIntent, Sample, Input, Output, Calls]
+keywords: [VPL360_CreatePaymentIntent, Integration, Procedure, creates, payment, intent, made, VPL360, _CreatePaymentIntent, Sample]
 ---
-
-# VPL360_CreatePaymentIntent
 
 > This Integration Procedure creates a payment intent before
       a payment is made.

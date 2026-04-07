@@ -5,12 +5,10 @@ topic: returning-fields-in-the-record-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.285Z
+lastCollected: 2026-04-07T18:38:57.061Z
 estimatedTokens: 489
-keywords: [Returning, Record, <apex, canvasApp>, component, display, canvas, app, Visualforce, associated, placed, layout, specify, entityFields, attribute]
+keywords: [Returning, Record, <apex, canvasApp>, display, canvas, app, Visualforce, placed, layout, specify, entityFields, attribute, ways, Specific]
 ---
-
-# Returning Fields in the Record Object
 
 > When you use the <apex:canvasApp> component
         to display a canvas app on a Visualforce page, and that page is associated with an object

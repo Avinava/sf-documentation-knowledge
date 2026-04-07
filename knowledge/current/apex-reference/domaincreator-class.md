@@ -5,13 +5,11 @@ topic: domaincreator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.721Z
+lastCollected: 2026-04-07T18:36:01.009Z
 estimatedTokens: 2407
 namespace: System
-keywords: [DomainCreator, hostname, specific, org, org’s, Visualforce, MyDomainName.lightning.force.com, Examples, getContentHostname, getExperienceCloudSitesBuilderHostname, getExperienceCloudSitesHostname, getExperienceCloudSitesPreviewHostname, getLightningContainerComponentHostname, packageName, getLightningHostname]
+keywords: [Examples, DomainCreator, hostname, specific, org, org’s, Visualforce, MyDomainName.lightning.force.com, getContentHostname, getExperienceCloudSitesBuilderHostname, getExperienceCloudSitesHostname, getExperienceCloudSitesPreviewHostname, getLightningContainerComponentHostname, packageName, getLightningHostname, getOrgMyDomainHostname, getSalesforceSitesHostname, getSetupHostname, getVisualforceHostname]
 ---
-
-# DomainCreator Class
 
 > Use the DomainCreator class to return a hostname specific to the org.
       For example, get the org’s Visualforce hostname. Values are returned as a hostname, such as

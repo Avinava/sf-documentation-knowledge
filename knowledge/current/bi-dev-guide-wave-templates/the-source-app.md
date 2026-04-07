@@ -5,12 +5,10 @@ topic: the-source-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.938Z
+lastCollected: 2026-04-07T18:37:02.488Z
 estimatedTokens: 421
-keywords: [Source, App, purposes, CRM, Analytics, Templates, Studio, It’s, collection, assets—datasets, dataflows, recipes, lenses, dashboards—, stored]
+keywords: [Source, App, purposes, CRM, Analytics, Templates, Studio, It’s, collection, assets—datasets, dataflows, recipes, lenses, dashboards—, stored, together, folder]
 ---
-
-# The Source App
 
 > For the purposes of CRM Analytics Templates, the app you create in CRM Analytics
   Analytics Studio is called the source app. It’s a collection of CRM Analytics

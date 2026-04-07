@@ -5,12 +5,10 @@ topic: enblmeasureobjectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.570Z
+lastCollected: 2026-04-07T18:38:30.388Z
 estimatedTokens: 1198
-keywords: [EnblMeasureObjectDefinition, criteria, tracks, job-related, activity, Enablement, measure, program, separate, measure's, source, API, version, 56.0, later]
+keywords: [EnblMeasureObjectDefinition, criteria, tracks, job-related, activity, Enablement, measure, program, separate, measure's, source, API, 56.0]
 ---
-
-# EnblMeasureObjectDefinition
 
 > Represents the criteria for an object that tracks the job-related
          activity for an Enablement measure in an Enablement program. A separate

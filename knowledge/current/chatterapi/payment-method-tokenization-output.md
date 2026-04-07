@@ -5,12 +5,10 @@ topic: payment-method-tokenization-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.512Z
+lastCollected: 2026-04-07T18:37:21.628Z
 estimatedTokens: 191
-keywords: [Payment, Tokenization, Output, representation]
+keywords: [Payment, Tokenization]
 ---
-
-# Payment Method Tokenization Output
 
 > Payment method tokenization output representation.
 

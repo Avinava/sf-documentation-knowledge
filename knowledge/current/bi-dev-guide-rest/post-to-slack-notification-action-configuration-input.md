@@ -5,12 +5,10 @@ topic: post-to-slack-notification-action-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.501Z
+lastCollected: 2026-04-07T18:36:54.862Z
 estimatedTokens: 265
-keywords: [Post, Slack, Notification, Action, Configuration, Input, posting]
+keywords: [Post, Slack, Notification, Action, Configuration, posting]
 ---
-
-# Post To Slack Notification Action Configuration Input
 
 > The notification action configuration for posting to Slack.
 

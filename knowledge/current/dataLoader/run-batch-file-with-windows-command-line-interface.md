@@ -5,12 +5,10 @@ topic: run-batch-file-with-windows-command-line-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.378Z
+lastCollected: 2026-04-07T18:37:28.414Z
 estimatedTokens: 651
-keywords: [Run, Batch, File, Windows, Command-Line, automated, operations, nightly, scheduled, loads, extractions, Data, Loader, Running, process.bat]
+keywords: [Run, Batch, File, Windows, Command-Line, automated, operations, nightly, scheduled, loads, extractions, Loader, Running, process.bat]
 ---
-
-# Run Batch File With Windows Command-Line Interface
 
 > For automated batch operations, such as nightly scheduled loads and extractions, run
     Data Loader from the Windows command-line.

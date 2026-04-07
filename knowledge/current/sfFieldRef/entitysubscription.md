@@ -5,12 +5,10 @@ topic: entitysubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.055Z
+lastCollected: 2026-04-07T18:39:39.731Z
 estimatedTokens: 239
-keywords: [EntitySubscription, subscription, user, record, another, API, version, 34.0, later]
+keywords: [EntitySubscription, subscription, user, record, another, API, 34.0]
 ---
-
-# EntitySubscription
 
 > Represents a subscription for a user following a record or another
       user. This object is available in API version 34.0 and later.

@@ -5,12 +5,10 @@ topic: using-match-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.385Z
+lastCollected: 2026-04-07T18:36:16.607Z
 estimatedTokens: 310
 keywords: [Match, Operations, Matcher, performs, character, sequence, interpreting, Pattern]
 ---
-
-# Using Match Operations
 
 > A Matcher object performs match operations on a character
 sequence by interpreting a Pattern.

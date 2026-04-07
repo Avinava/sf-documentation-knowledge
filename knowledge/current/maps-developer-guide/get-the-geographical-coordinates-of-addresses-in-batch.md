@@ -5,12 +5,10 @@ topic: get-the-geographical-coordinates-of-addresses-in-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.642Z
+lastCollected: 2026-04-07T18:38:10.894Z
 estimatedTokens: 624
 keywords: [Geographical, Coordinates, Addresses, Batch, BatchGeocode, Apex, their, formatted, API, Call, Allocations, Sample, Code, Error]
 ---
-
-# Get the Geographical Coordinates of Addresses in Batch
 
 > The BatchGeocode() Apex method
       takes addresses and returns their geographical coordinates and formatted

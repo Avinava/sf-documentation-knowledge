@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-actions-with-a-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.399Z
+lastCollected: 2026-04-07T18:40:11.395Z
 estimatedTokens: 267
 keywords: [Batch, Actions, record, resource, uses, POST, enter, instead, complex, URL]
 ---
-
-# Get a Batch of Related List Actions with a Request Body
 
 > Get the actions on a batch of related lists for a record. This resource uses the POST
   method so you can enter request parameters in the request body instead using complex URL

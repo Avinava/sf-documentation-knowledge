@@ -5,12 +5,10 @@ topic: contentsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.475Z
+lastCollected: 2026-04-07T18:38:17.984Z
 estimatedTokens: 933
-keywords: [ContentSource, data, source, that's, referenced, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [ContentSource, source, that's, referenced, API, 62.0]
 ---
-
-# ContentSource
 
 > Represents the data source that's referenced by an object. This object
       is available in API version 62.0 and later.

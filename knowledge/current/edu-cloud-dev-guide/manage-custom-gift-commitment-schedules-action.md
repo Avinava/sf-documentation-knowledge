@@ -5,12 +5,10 @@ topic: manage-custom-gift-commitment-schedules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.816Z
+lastCollected: 2026-04-07T18:37:28.902Z
 estimatedTokens: 272
-keywords: [Manage, Custom, Gift, Commitment, Schedules, Action, Creates, updates, schedule, records, their, associated, transaction, REST, HTTP]
+keywords: [Inputs, Outputs, Manage, Gift, Commitment, Schedules, Action, Creates, updates, schedule, records, their, transaction, REST, HTTP]
 ---
-
-# Manage Custom Gift Commitment Schedules Action
 
 > Creates or updates up to 15 custom gift commitment schedule records and
    their associated gift transaction records.

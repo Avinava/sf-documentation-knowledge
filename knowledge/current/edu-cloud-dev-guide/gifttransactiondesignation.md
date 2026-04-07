@@ -5,12 +5,10 @@ topic: gifttransactiondesignation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.245Z
+lastCollected: 2026-04-07T18:37:30.307Z
 estimatedTokens: 1014
-keywords: [GiftTransactionDesignation, junction, gift, transaction, designation, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftTransactionDesignation, junction, gift, transaction, designation, API, 59.0]
 ---
-
-# GiftTransactionDesignation
 
 > Represents a junction between a gift transaction and a gift designation.
       This object is available in API version 59.0 and later.

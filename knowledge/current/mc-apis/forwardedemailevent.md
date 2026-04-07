@@ -5,12 +5,10 @@ topic: forwardedemailevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.902Z
+lastCollected: 2026-04-07T18:40:17.053Z
 estimatedTokens: 720
 keywords: [ForwardedEmailEvent, subscriber, Forward, Friend, feature, send, email, another, person, SOAP, Envelope, Items]
 ---
-
-# ForwardedEmailEvent
 
 > The ForwardedEmailEvent object indicates a subscriber used the Forward To A Friend feature to send an email to another person.
 

@@ -5,12 +5,10 @@ topic: cms-contents-publish
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.756Z
+lastCollected: 2026-04-07T18:37:11.549Z
 estimatedTokens: 336
 keywords: [CMS, Contents, Publish, content]
 ---
-
-# CMS Contents Publish
 
 > Publish content.
 

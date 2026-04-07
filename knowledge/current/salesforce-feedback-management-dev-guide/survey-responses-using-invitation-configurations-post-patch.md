@@ -5,12 +5,10 @@ topic: survey-responses-using-invitation-configurations-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.374Z
+lastCollected: 2026-04-07T18:39:16.994Z
 estimatedTokens: 1064
-keywords: [Survey, Responses, Invitation, Configurations, POST, PATCH, configuration, initiate, process, submitting, making, Submit, Special, Access, Rules]
+keywords: [Survey, Responses, Invitation, Configurations, POST, PATCH, configuration, initiate, process, submitting, making, Submit]
 ---
-
-# Survey Responses Using Invitation Configurations (POST, PATCH)
 
 > Create responses using the invitation configuration details and
       initiate the process of submitting the survey responses by making a POST request. Submit the

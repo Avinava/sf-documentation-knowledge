@@ -5,12 +5,10 @@ topic: sample-employee-services-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.347Z
+lastCollected: 2026-04-07T18:40:12.364Z
 estimatedTokens: 421
 keywords: [Sample, Employee, Services, Formulas, Bonus, Calculation, 401K, Hours, Worked, Per, Week, Total, Pay, Amount]
 ---
-
-# Sample Employee Services Formulas
 
 > Use these formulas for employee services.
 

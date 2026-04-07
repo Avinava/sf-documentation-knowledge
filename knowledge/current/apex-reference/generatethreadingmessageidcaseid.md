@@ -5,12 +5,10 @@ topic: generatethreadingmessageidcaseid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.820Z
+lastCollected: 2026-04-07T18:35:59.091Z
 estimatedTokens: 462
-keywords: [generateThreadingMessageId, caseId, RFC, 2822-compliant, message, identifier, match, email, replies, case, Usage]
+keywords: [generateThreadingMessageId, caseId, RFC, 2822-compliant, message, identifier, match, email, replies, case]
 ---
-
-# generateThreadingMessageId(caseId)
 
 > Returns an RFC 2822-compliant message identifier that contains
    information used to match the email and its replies to a case.

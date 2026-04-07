@@ -5,12 +5,10 @@ topic: identify-and-match-event-messages-with-the-eventuuid-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.044Z
+lastCollected: 2026-04-07T18:38:57.885Z
 estimatedTokens: 1369
-keywords: [Identify, Match, Event, Messages, EventUuid, Delivered, platform, include, identifies, message, published, received, comparing, universally, unique]
+keywords: [Identify, Match, Event, Messages, EventUuid, Delivered, platform, include, identifies, message, published, received, comparing, universally, unique, identifiers, UUIDs, events, SaveResult, publish, way, any, aren’t, republish, UUID, CometD, Client, Pub, Sub, API, Apex, Trigger]
 ---
-
-# Identify and Match Event Messages with the EventUuid Field
 
 > Delivered platform event messages include the EventUuid field,
     which identifies an event message. Use this field to match published and received event messages

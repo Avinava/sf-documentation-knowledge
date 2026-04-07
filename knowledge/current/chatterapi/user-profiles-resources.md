@@ -5,12 +5,10 @@ topic: user-profiles-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.066Z
+lastCollected: 2026-04-07T18:37:16.126Z
 estimatedTokens: 155
-keywords: [User, Profiles, Resources, profile, data, populates, Chatter, includes, address, manager, phone, number, capabilities, permissions, subtab]
+keywords: [User, Profiles, Resources, profile, populates, Chatter, includes, address, manager, phone, number, capabilities, permissions, subtab, apps, tabs]
 ---
-
-# User Profiles Resources
 
 > The user profile data populates the profile page (also called the Chatter profile
     page). This data includes user information (such as address, manager, and phone number), some

@@ -5,12 +5,10 @@ topic: page-specification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.927Z
+lastCollected: 2026-04-07T18:37:40.920Z
 estimatedTokens: 148
-keywords: [Specification, Input, representation]
+keywords: [Specification]
 ---
-
-# Page Specification Input
 
 > Input representation of the page specification
     details.

@@ -5,12 +5,10 @@ topic: healthcarepractitionerfacilityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.111Z
+lastCollected: 2026-04-07T18:39:43.730Z
 estimatedTokens: 283
-keywords: [HealthcarePractitionerFacilityHistory, History, tracked, HealthcarePractitionerFacility]
+keywords: [HealthcarePractitionerFacilityHistory, tracked, HealthcarePractitionerFacility]
 ---
-
-# HealthcarePractitionerFacilityHistory
 
 > History for tracked fields of HealthcarePractitionerFacility.
 

@@ -5,12 +5,10 @@ topic: post-contactsv1contacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.816Z
+lastCollected: 2026-04-07T18:40:15.941Z
 estimatedTokens: 1187
-keywords: [POST, contacts, Creates, new, contact, attribute, groups, **Overview**, Usage]
+keywords: [POST, contacts, Creates, new, contact, attribute, groups, **Overview**]
 ---
-
-# POST /contacts/v1/contacts
 
 > Creates a new contact with the specified information in the specified attribute groups.
 

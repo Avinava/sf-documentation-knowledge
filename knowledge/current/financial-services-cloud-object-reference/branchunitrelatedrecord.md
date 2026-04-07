@@ -5,12 +5,10 @@ topic: branchunitrelatedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.750Z
+lastCollected: 2026-04-07T18:37:36.534Z
 estimatedTokens: 798
-keywords: [BranchUnitRelatedRecord, record, case, account, associated, attributed, branch, unit, API, version, 51.0, later, Calls, Objects]
+keywords: [BranchUnitRelatedRecord, record, case, account, attributed, branch, unit, API, 51.0]
 ---
-
-# BranchUnitRelatedRecord
 
 > Represents a record such as a case or account that is associated with or
       attributed to a branch unit. This object is available in API version 51.0 and later.

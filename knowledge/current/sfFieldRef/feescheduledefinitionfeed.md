@@ -5,12 +5,10 @@ topic: feescheduledefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.674Z
+lastCollected: 2026-04-07T18:39:40.317Z
 estimatedTokens: 274
-keywords: [FeeScheduleDefinitionFeed, Feed, tracking, FeeScheduleDefinition]
+keywords: [FeeScheduleDefinitionFeed, FeeScheduleDefinition]
 ---
-
-# FeeScheduleDefinitionFeed
 
 > Feed tracking for FeeScheduleDefinition.
 

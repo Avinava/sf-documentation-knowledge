@@ -5,13 +5,11 @@ topic: decimal-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.721Z
+lastCollected: 2026-04-07T18:36:14.024Z
 estimatedTokens: 5736
 namespace: System
-keywords: [Decimal, primitive, data, Usage, Rounding, Mode, abs, divide, divisor, scale, roundingMode, doubleValue, intValue, longValue, pow]
+keywords: [Decimal, primitive, Rounding, Mode, abs, divide, divisor, scale, roundingMode, doubleValue, intValue, longValue, pow, exponent, precision, round, setScale, stripTrailingZeros, toPlainString, valueOf, doubleToDecimal, longToDecimal, stringToDecimal]
 ---
-
-# Decimal Class
 
 > Contains methods for the Decimal primitive data type.
 

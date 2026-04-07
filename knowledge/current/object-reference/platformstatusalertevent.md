@@ -5,12 +5,10 @@ topic: platformstatusalertevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.827Z
+lastCollected: 2026-04-07T18:38:38.182Z
 estimatedTokens: 72
 keywords: [PlatformStatusAlertEvent, documentation, moved, Platform, Events, Developer]
 ---
-
-# PlatformStatusAlertEvent
 
 > The documentation has moved to PlatformStatusAlertEvent in the Platform Events Developer
             Guide.

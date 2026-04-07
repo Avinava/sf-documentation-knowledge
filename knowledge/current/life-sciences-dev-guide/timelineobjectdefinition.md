@@ -5,12 +5,10 @@ topic: timelineobjectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.175Z
+lastCollected: 2026-04-07T18:37:58.694Z
 estimatedTokens: 584
-keywords: [TimelineObjectDefinition, container, stores, timeline, configuration, resource, Salesforce, objects, their, records, events, linear, time-sorted, view, Parent, Stores, configurations, API, version, 55.0]
+keywords: [TimelineObjectDefinition, container, stores, timeline, configuration, resource, Salesforce, their, records, events, linear, time-sorted, view, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Stores, configurations, API, 55.0]
 ---
-
-# TimelineObjectDefinition
 
 > Represents the container that stores the details of a
 			timeline configuration. You can use this resource with Salesforce objects to see

@@ -5,12 +5,10 @@ topic: findslotsrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.851Z
+lastCollected: 2026-04-07T18:37:39.797Z
 estimatedTokens: 746
 keywords: [FindSlotsRequest, options, time, slots, providers, match, patient’s, needs, extends, AppointmentBase, inherits, slotRangeEnd, slotRangeStart, isNextAvailSlot, patientId]
 ---
-
-# FindSlotsRequest Class
 
 > Contains set of options to find available time slots for providers who
       match the patient’s needs. This class extends the AppointmentBase class and inherits its properties.

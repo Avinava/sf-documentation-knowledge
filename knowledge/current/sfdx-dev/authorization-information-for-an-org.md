@@ -5,12 +5,10 @@ topic: authorization-information-for-an-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.864Z
+lastCollected: 2026-04-07T18:40:07.806Z
 estimatedTokens: 461
 keywords: [Authorization, Org, view, orgs, you’ve, authorized, scratch, created]
 ---
-
-# Authorization Information for an Org
 
 > You can view information for all orgs that you’ve authorized and the scratch orgs that
         you’ve created.

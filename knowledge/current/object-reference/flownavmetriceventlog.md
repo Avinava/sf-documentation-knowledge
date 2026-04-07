@@ -5,12 +5,10 @@ topic: flownavmetriceventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.561Z
+lastCollected: 2026-04-07T18:38:32.546Z
 estimatedTokens: 2125
-keywords: [FlowNavMetricEventLog, Flow, Navigation, Metric, event, logs, contain, data, interviews, total, execution, time, number, errors, API]
+keywords: [FlowNavMetricEventLog, Flow, Navigation, Metric, event, logs, contain, interviews, total, execution, time, number, errors, API, 61.0]
 ---
-
-# FlowNavMetricEventLog
 
 > Flow Navigation Metric event logs contain metric data for flow interviews
          such as total execution time, number of interviews, and number of errors. This object

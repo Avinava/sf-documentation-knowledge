@@ -5,12 +5,10 @@ topic: catalog-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.970Z
+lastCollected: 2026-04-07T18:37:33.275Z
 estimatedTokens: 372
-keywords: [Catalog, Interactions, interaction, occurs, customer, interacts, various, tracking, items, include, product, blog, post, View, Start]
+keywords: [Catalog, Interactions, interaction, occurs, customer, interacts, various, items, include, product, blog, post, View, Start, Event, Stop, Click]
 ---
-
-# Catalog Interactions
 
 > A catalog interaction occurs when a customer interacts with various
 			tracking items. For example, catalog items could include a product or a blog

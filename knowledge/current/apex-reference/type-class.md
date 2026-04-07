@@ -5,13 +5,11 @@ topic: type-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.579Z
+lastCollected: 2026-04-07T18:36:14.893Z
 estimatedTokens: 3232
 namespace: MyNamespace.ClassName
-keywords: [getting, Apex, corresponds, instantiating, new, Usage, equals, typeToCompare, forName, fullyQualifiedName, Versioned, Behavior, Changes, getName, hashCode]
+keywords: [getting, Apex, corresponds, instantiating, new, equals, typeToCompare, forName, fullyQualifiedName, Versioned, Behavior, Changes, getName, hashCode, isAssignableFrom, sourceType, newInstance, toString]
 ---
-
-# Type Class
 
 > Contains methods for getting the Apex type that corresponds to an Apex class and for
         instantiating new types.

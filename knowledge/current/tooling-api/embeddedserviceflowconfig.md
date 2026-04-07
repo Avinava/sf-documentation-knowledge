@@ -5,12 +5,10 @@ topic: embeddedserviceflowconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.135Z
+lastCollected: 2026-04-07T18:36:32.587Z
 estimatedTokens: 596
-keywords: [EmbeddedServiceFlowConfig, whether, Embedded, Service, Flow, feature, enabled, API, version, 45.0, later, SOAP, Calls, REST, Special]
+keywords: [EmbeddedServiceFlowConfig, whether, Embedded, Service, Flow, feature, enabled, API, 45.0, SOAP, REST]
 ---
-
-# EmbeddedServiceFlowConfig
 
 > Represents whether an Embedded Service Flow feature is enabled or not.
     This object is available in API version 45.0 and later.

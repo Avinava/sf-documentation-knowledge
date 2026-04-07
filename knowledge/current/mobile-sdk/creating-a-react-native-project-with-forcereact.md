@@ -5,12 +5,10 @@ topic: creating-a-react-native-project-with-forcereact
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.973Z
+lastCollected: 2026-04-07T18:40:27.196Z
 estimatedTokens: 1183
-keywords: [Creating, React, Native, Project, Forcereact, you’ve, successfully, installed, Mobile, SDK, environment, begin, apps, Interactively, Command-Line]
+keywords: [Creating, React, Native, Project, Forcereact, you’ve, successfully, installed, Mobile, SDK, environment, begin, apps, Interactively, Command-Line, Options, Specifying, Template, Build, Run, App, Android, Studio, Xcode, How, Script, Generates, New]
 ---
-
-# Creating a React Native Project with Forcereact
 
 > After you’ve successfully installed a native Mobile SDK
         environment, you can begin creating React Native apps.

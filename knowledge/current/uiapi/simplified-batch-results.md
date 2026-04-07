@@ -5,12 +5,10 @@ topic: simplified-batch-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.561Z
+lastCollected: 2026-04-07T18:40:11.557Z
 estimatedTokens: 538
 keywords: [Simplified, Batch, Results, resource, include, subrequest]
 ---
-
-# Simplified Batch Results
 
 > The simplified results from a request to a batch resource. Results include information
   for each subrequest in the batch.

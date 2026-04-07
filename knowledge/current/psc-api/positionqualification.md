@@ -5,12 +5,10 @@ topic: positionqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.172Z
+lastCollected: 2026-04-07T18:39:07.383Z
 estimatedTokens: 521
-keywords: [PositionQualification, position-based, qualification, Communication, Skills, Program, Management, Analyst, position, API, version, 64.0, later, Calls, Special]
+keywords: [PositionQualification, position-based, qualification, Communication, Skills, Program, Management, Analyst, position, API, 64.0]
 ---
-
-# PositionQualification
 
 > Represents a position-based qualification. For example, Communication Skills
          for a Program and Management Analyst position. This object is available in API version

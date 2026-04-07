@@ -5,12 +5,10 @@ topic: maintenanceworkrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.773Z
+lastCollected: 2026-04-07T18:36:47.729Z
 estimatedTokens: 818
-keywords: [MaintenanceWorkRule, recurrence, pattern, maintenance, record, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [MaintenanceWorkRule, recurrence, pattern, maintenance, record, API, 49.0]
 ---
-
-# MaintenanceWorkRule
 
 > Represents the recurrence pattern for a maintenance record. This object
     is available in API version 49.0 and later.

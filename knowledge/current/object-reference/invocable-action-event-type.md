@@ -5,12 +5,10 @@ topic: invocable-action-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.327Z
+lastCollected: 2026-04-07T18:38:31.158Z
 estimatedTokens: 750
-keywords: [Invocable, Action, Event, events, capture, calls, Salesforce, Actions, particularly, useful, monitor, invoked, Agentforce, flows, API]
+keywords: [Invocable, Action, Event, events, capture, Salesforce, Actions, particularly, useful, monitor, invoked, Agentforce, flows, API, versions, 64.0]
 ---
-
-# Invocable Action Event Type
 
 > Invocable Action events capture the calls to Salesforce Invocable Actions. This is
   particularly useful to monitor actions invoked during Agentforce flows. This event type is

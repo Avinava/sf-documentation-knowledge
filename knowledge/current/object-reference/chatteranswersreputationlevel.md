@@ -5,12 +5,10 @@ topic: chatteranswersreputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.925Z
+lastCollected: 2026-04-07T18:38:27.854Z
 estimatedTokens: 315
-keywords: [ChatterAnswersReputationLevel, reputation, level, Chatter, Answers, zone, API, version, 26.0, later, Calls, Usage]
+keywords: [ChatterAnswersReputationLevel, reputation, level, Chatter, Answers, zone, API, 26.0]
 ---
-
-# ChatterAnswersReputationLevel
 
 > Represents a reputation level
             within a Chatter Answers zone. 

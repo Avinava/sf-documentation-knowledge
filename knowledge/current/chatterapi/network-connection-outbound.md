@@ -5,12 +5,10 @@ topic: network-connection-outbound
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.780Z
+lastCollected: 2026-04-07T18:37:14.827Z
 estimatedTokens: 168
 keywords: [Network, Connection, Outbound, Provision, sync, tear, down]
 ---
-
-# Network Connection, Outbound
 
 > Provision, sync, or tear down the outbound network
     connection.

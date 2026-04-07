@@ -5,12 +5,10 @@ topic: deleting-aura-components-from-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:12.739Z
+lastCollected: 2026-04-07T18:38:02.662Z
 estimatedTokens: 853
-keywords: [Deleting, Aura, Components, Managed, Packages, you’ve, released, package, may, decide, refactor, component, It’s, responsibility, educate]
+keywords: [Deleting, Aura, Managed, Packages, you’ve, released, package, may, decide, refactor, It’s, responsibility, educate, customers, potential, impact, any, Release, Notes, upgraded, deleted, notify, necessary, actions]
 ---
-
-# Deleting Aura Components from Managed Packages
 
 > After you’ve released a managed package, you may decide to refactor the package and
   delete an Aura component. It’s your responsibility to educate your customers about the potential

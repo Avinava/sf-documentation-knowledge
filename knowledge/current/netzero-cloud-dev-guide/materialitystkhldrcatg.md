@@ -5,12 +5,10 @@ topic: materialitystkhldrcatg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.353Z
+lastCollected: 2026-04-07T18:38:19.001Z
 estimatedTokens: 700
-keywords: [MaterialityStkhldrCatg, category, organize, materiality, stakeholders, groups, employees, shareholders, suppliers, customers, API, version, 59.0, later, Calls]
+keywords: [MaterialityStkhldrCatg, category, organize, materiality, stakeholders, groups, employees, shareholders, suppliers, customers, API, 59.0]
 ---
-
-# MaterialityStkhldrCatg
 
 > Represents a category to organize materiality stakeholders into
          groups, such as employees, shareholders, suppliers, and customers. This object is

@@ -5,12 +5,10 @@ topic: connectapiiplstandingcalcamounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.470Z
+lastCollected: 2026-04-07T18:37:50.306Z
 estimatedTokens: 160
-keywords: [ConnectApi.IPLStandingCalcAmounts, Invocable, action, output, representation, insurance, policy, limit, standing, calculation, amounts]
+keywords: [ConnectApi.IPLStandingCalcAmounts, Invocable, action, insurance, policy, limit, standing, calculation, amounts]
 ---
-
-# ConnectApi.IPLStandingCalcAmounts
 
 > Invocable action output representation for insurance policy limit standing calculation
     amounts.

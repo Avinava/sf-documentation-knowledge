@@ -5,12 +5,10 @@ topic: accountid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.920Z
+lastCollected: 2026-04-07T18:36:04.134Z
 estimatedTokens: 81
 keywords: [accountId, customer, account, settled, postauthorization, performed]
 ---
-
-# accountId
 
 > The customer account
       that

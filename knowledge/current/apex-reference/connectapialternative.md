@@ -5,12 +5,10 @@ topic: connectapialternative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.815Z
+lastCollected: 2026-04-07T18:36:07.157Z
 estimatedTokens: 94
-keywords: [ConnectApi.Alternative, Alternative, representation, extension, feed, element]
+keywords: [ConnectApi.Alternative, Alternative, extension]
 ---
-
-# ConnectApi.Alternative
 
 > Alternative representation for an extension on a feed
     element.

@@ -5,12 +5,10 @@ topic: flow-for-dynamic-revenue-orchestrator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.360Z
+lastCollected: 2026-04-07T18:35:47.394Z
 estimatedTokens: 395
-keywords: [Flow, Dynamic, Revenue, Orchestrator, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
+keywords: [FlowActionCall, Flow, Dynamic, Revenue, Orchestrator, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, applications]
 ---
-
-# Flow for Dynamic Revenue Orchestrator
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

@@ -5,12 +5,10 @@ topic: getting-a-quick-start-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.602Z
+lastCollected: 2026-04-07T18:38:51.905Z
 estimatedTokens: 1140
-keywords: [Getting, Quick, Start, Visualforce, showcase, essential, elements, chapter, includes, examples, demonstrate, features, language, every, detail]
+keywords: [Getting, Quick, Start, Visualforce, showcase, essential, chapter, includes, examples, demonstrate, features, language, every, detail, rule, exception, tag, controller, new, developers, tutorial]
 ---
-
-# Getting a Quick Start with Visualforce
 
 > To showcase the essential elements of Visualforce, this chapter includes a set of examples that
       demonstrate features of the language. While the examples do not go into every detail, rule, or

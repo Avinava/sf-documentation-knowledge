@@ -5,12 +5,10 @@ topic: net-zero-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.470Z
+lastCollected: 2026-04-07T18:38:17.091Z
 estimatedTokens: 493
-keywords: [Net, Zero, Cloud, Standard, Objects, Salesforce, orgs, enabled]
+keywords: [Net, Zero, Cloud, Standard, Salesforce, orgs, enabled]
 ---
-
-# Net Zero Cloud Fields on Standard Objects
 
 > This section lists Net Zero Cloud fields available with standard Salesforce objects.
   These fields are available only in orgs where Net Zero Cloud is enabled.

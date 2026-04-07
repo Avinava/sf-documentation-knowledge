@@ -5,12 +5,10 @@ topic: get-to-know-the-utility-bar
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.467Z
+lastCollected: 2026-04-07T18:36:49.591Z
 estimatedTokens: 596
-keywords: [Know, Utility, Bar, specialized, Lightning, gives, users, quick, access, common, productivity, tools, bars, Experience, desktop]
+keywords: [Know, Utility, Bar, specialized, Lightning, gives, users, quick, common, productivity, tools, bars, Experience, desktop]
 ---
-
-# Get to Know the Utility Bar
 
 > The utility bar is a specialized type of Lightning page that gives your users quick
   access to common productivity tools. Utility bars are supported in Lightning Experience for

@@ -5,12 +5,10 @@ topic: corporate-member-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.604Z
+lastCollected: 2026-04-07T18:38:07.830Z
 estimatedTokens: 206
-keywords: [Corporate, Member, Enrollment, Output, representation]
+keywords: [Corporate, Member, Enrollment]
 ---
-
-# Corporate Member Enrollment
 
 > Output representation of the corporate member enrollment create
       request.

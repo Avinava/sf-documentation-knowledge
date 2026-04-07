@@ -5,12 +5,10 @@ topic: set-up-an-experience-cloud-site-for-headless-identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.375Z
+lastCollected: 2026-04-07T18:37:39.309Z
 estimatedTokens: 572
 keywords: [Experience, Cloud, Site, Headless, Identity, Because, APIs, exposed, creating, crucial, part, configuring]
 ---
-
-# Set Up an Experience Cloud Site for Headless Identity
 
 > Because Headless Identity APIs are exposed through Experience Cloud, creating a site is
     a crucial part of configuring Headless Identity.

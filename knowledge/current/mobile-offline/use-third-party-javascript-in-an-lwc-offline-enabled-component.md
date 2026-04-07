@@ -5,12 +5,10 @@ topic: use-third-party-javascript-in-an-lwc-offline-enabled-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.409Z
+lastCollected: 2026-04-07T18:38:15.938Z
 estimatedTokens: 859
-keywords: [Third-Party, JavaScript, LWC, Offline-Enabled, Component, resources, provide, access, libraries, Lightning, web, components, enable, offline, follow]
+keywords: [Third-Party, JavaScript, LWC, Offline-Enabled, resources, provide, libraries, Lightning, web, enable, offline, follow, guidelines]
 ---
-
-# Use Third-Party JavaScript in an LWC Offline-Enabled Component
 
 > Use static resources to provide access to third-party JavaScript libraries in your
         Lightning web components. To enable JavaScript libraries in static resources to be used while offline, follow these guidelines.

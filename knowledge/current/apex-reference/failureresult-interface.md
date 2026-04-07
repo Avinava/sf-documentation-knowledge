@@ -5,13 +5,11 @@ topic: failureresult-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.127Z
+lastCollected: 2026-04-07T18:36:13.443Z
 estimatedTokens: 356
 namespace: EventBus
 keywords: [FailureResult, result, Apex, publish, callback, event, publishing, failed, onFailure, EventPublishFailureCallback, getEventUuids]
 ---
-
-# FailureResult Interface
 
 > Contains the result of an Apex publish callback when the event publishing failed.
         This interface is used as a parameter in the onFailure

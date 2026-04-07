@@ -5,12 +5,10 @@ topic: get-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.125Z
+lastCollected: 2026-04-07T18:36:20.332Z
 estimatedTokens: 1580
-keywords: [Appointment, Candidates, service, resources, work, group, territories, Examples]
+keywords: [Examples, Appointment, Candidates, service, resources, work, group, territories]
 ---
-
-# Get Appointment Candidates
 
 > Returns a list of service resources (appointment candidates) based on work type group
     or work type and service territories.

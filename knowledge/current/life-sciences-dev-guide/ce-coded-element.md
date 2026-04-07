@@ -5,12 +5,10 @@ topic: ce---coded-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.948Z
+lastCollected: 2026-04-07T18:37:58.463Z
 estimatedTokens: 174
-keywords: [Coded, Element, HL7, segment, maps, CodeSet, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [Coded, HL7, segment, maps, CodeSet, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# CE - Coded Element
 
 > The Coded Element (CE) HL7 segment maps to the CodeSet object in Salesforce.
 

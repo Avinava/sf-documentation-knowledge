@@ -5,12 +5,10 @@ topic: inspolicyassetattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.829Z
+lastCollected: 2026-04-07T18:37:37.625Z
 estimatedTokens: 296
-keywords: [InsPolicyAssetAttribute, attributes, insurance, policy, asset, API, version, 63.0, later, Calls]
+keywords: [InsPolicyAssetAttribute, attributes, insurance, policy, asset, API, 63.0]
 ---
-
-# InsPolicyAssetAttribute
 
 > Represents attributes for insurance policy asset. This object is
       available in API version 63.0 and later.

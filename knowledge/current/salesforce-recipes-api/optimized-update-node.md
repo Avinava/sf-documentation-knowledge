@@ -5,12 +5,10 @@ topic: optimized-update-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.627Z
+lastCollected: 2026-04-07T18:39:19.309Z
 estimatedTokens: 119
 keywords: [Optimized, Node, recipe]
 ---
-
-# Optimized Update Node
 
 > An optimized update node in a recipe.
 

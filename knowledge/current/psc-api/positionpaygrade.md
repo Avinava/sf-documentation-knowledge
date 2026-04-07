@@ -5,12 +5,10 @@ topic: positionpaygrade
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.165Z
+lastCollected: 2026-04-07T18:39:07.376Z
 estimatedTokens: 770
-keywords: [PositionPayGrade, junction, position, pay, grade, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PositionPayGrade, junction, position, pay, grade, API, 62.0]
 ---
-
-# PositionPayGrade
 
 > Represents a junction between a position and a pay grade. This
       object is available in API version 62.0 and later.

@@ -5,12 +5,10 @@ topic: initiate-oauth-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.177Z
+lastCollected: 2026-04-07T18:38:56.909Z
 estimatedTokens: 544
-keywords: [Initiate, OAuth, Flow, Start, authorization, process, Canvas, app, 2.0, store, retrieve, data, authentication, token, app’s]
+keywords: [Initiate, OAuth, Flow, Start, authorization, process, Canvas, app, 2.0, store, retrieve, authentication, token, app’s, local, storage, callback, window.opener.localStorage, instead, window.localStorage]
 ---
-
-# Initiate OAuth Flow
 
 > Start the authorization process in your Canvas app by using OAuth 2.0. If you store
         or retrieve data, such as an authentication token, from your Canvas app’s local storage in

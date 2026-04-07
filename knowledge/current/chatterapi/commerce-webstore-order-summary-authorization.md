@@ -5,12 +5,10 @@ topic: commerce-webstore-order-summary-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.258Z
+lastCollected: 2026-04-07T18:37:12.102Z
 estimatedTokens: 436
-keywords: [Commerce, Webstore, Order, Summary, Authorization, Authorize, guest, users, verifying, their, personally, identifiable, access, requested, API]
+keywords: [Commerce, Webstore, Order, Summary, Authorization, Authorize, guest, users, verifying, their, personally, identifiable, requested, API, specifically]
 ---
-
-# Commerce Webstore Order Summary Authorization
 
 > Authorize guest users by verifying their personally identifiable
       information to access the requested order summary. This API is specifically for guest

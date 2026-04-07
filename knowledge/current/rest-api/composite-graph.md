@@ -5,12 +5,10 @@ topic: composite-graph
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.279Z
+lastCollected: 2026-04-07T18:36:20.493Z
 estimatedTokens: 346
-keywords: [Composite, Graph, resource, lets, submit, operations, REST, API, version, 50.0, later]
+keywords: [Composite, Graph, resource, lets, submit, operations, REST, API, 50.0]
 ---
-
-# Composite Graph
 
 > The composite graph resource lets you submit composite graph operations. This
         resource is available in REST API version 50.0 and later.

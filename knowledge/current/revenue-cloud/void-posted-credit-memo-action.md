@@ -5,12 +5,10 @@ topic: void-posted-credit-memo-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.397Z
+lastCollected: 2026-04-07T18:35:40.181Z
 estimatedTokens: 219
-keywords: [Posted, Credit, Memo, Action, Invoke, API, providing, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Posted, Credit, Memo, Action, Invoke, API, providing, REST, HTTP]
 ---
-
-# Void Posted Credit Memo Action
 
 > Invoke the Void Posted Credit Memo API by providing a credit memo ID.
 

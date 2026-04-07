@@ -5,12 +5,10 @@ topic: batch-invoice-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.259Z
+lastCollected: 2026-04-07T18:35:45.230Z
 estimatedTokens: 88
-keywords: [Batch, Invoice, Scheduler, Output, representation]
+keywords: [Batch, Invoice, Scheduler]
 ---
-
-# Batch Invoice Scheduler
 
 > Output representation of the details of an invoice scheduler.
 

@@ -5,12 +5,10 @@ topic: remove-a-custom-override
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.659Z
+lastCollected: 2026-04-07T18:38:50.892Z
 estimatedTokens: 270
-keywords: [Remove, Custom, Override, how, restore, behavior, standard, button, tab]
+keywords: [Remove, Override, how, restore, behavior, standard, button, tab]
 ---
-
-# Remove a Custom Override
 
 > Learn how to restore the default behavior of a standard button and
   tab.

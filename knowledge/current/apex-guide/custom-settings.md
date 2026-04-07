@@ -5,12 +5,10 @@ topic: custom-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.061Z
+lastCollected: 2026-04-07T18:36:17.295Z
 estimatedTokens: 1509
-keywords: [Custom, Settings, similar, objects, Application, developers, data, associate, organization, profile, specific, user, exposed, cache, efficient]
+keywords: [Settings, similar, Application, developers, associate, organization, profile, specific, user, exposed, cache, efficient, cost, repeated, queries, database, Formula, validation, flows, Apex, SOAP, API, Accessing, Setting, Hierarchy]
 ---
-
-# Custom Settings
 
 > Custom settings are similar to custom objects. Application developers can create custom
     sets of data and associate custom data for an organization, profile, or specific user. All

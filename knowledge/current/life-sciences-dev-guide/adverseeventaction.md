@@ -5,12 +5,10 @@ topic: adverseeventaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.403Z
+lastCollected: 2026-04-07T18:37:58.952Z
 estimatedTokens: 957
-keywords: [AdverseEventAction, Preventive, actions, contributed, avoiding, adverse, event, Ameliorating, taken, occured, order, reduce, extent, harm, API]
+keywords: [AdverseEventAction, Preventive, actions, contributed, avoiding, adverse, event, Ameliorating, taken, occured, order, reduce, extent, harm, API, 61.0]
 ---
-
-# AdverseEventAction
 
 > Preventive actions that contributed to avoiding the adverse event or
          Ameliorating actions taken after the adverse event occured in order to reduce the extent of

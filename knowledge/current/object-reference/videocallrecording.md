@@ -5,12 +5,10 @@ topic: videocallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.253Z
+lastCollected: 2026-04-07T18:38:44.067Z
 estimatedTokens: 1122
-keywords: [VideoCallRecording, recording, video, call, voice, transcript, recordings, aren’t, saved, Salesforce, API, version, 51.0, later, Calls]
+keywords: [VideoCallRecording, recording, video, call, voice, transcript, recordings, aren’t, saved, Salesforce, API, 51.0]
 ---
-
-# VideoCallRecording
 
 > Represents a recording from a video call, such as a video recording, a voice
       recording, or a transcript. Video call recordings aren’t saved in Salesforce. This object

@@ -5,12 +5,10 @@ topic: connectapiactivationcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.682Z
+lastCollected: 2026-04-07T18:36:07.029Z
 estimatedTokens: 234
 keywords: [ConnectApi.ActivationCollection, collection, activations]
 ---
-
-# ConnectApi.ActivationCollection
 
 > Represents a collection of activations.
 

@@ -5,12 +5,10 @@ topic: run-program-process-for-transaction-journal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.517Z
+lastCollected: 2026-04-07T18:38:08.831Z
 estimatedTokens: 415
-keywords: [Run, Program, Process, Transaction, Journal, active, loyalty, processes, pending, Accrual, Redemption, journals, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Run, Program, Process, Transaction, Journal, active, loyalty, processes, pending, Accrual, Redemption, journals, REST, HTTP]
 ---
-
-# Run Program Process for Transaction Journal
 
 > Run active loyalty program processes for pending Accrual or Redemption
       type transaction journals.

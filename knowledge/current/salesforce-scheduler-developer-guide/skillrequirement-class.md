@@ -5,13 +5,11 @@ topic: skillrequirement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.232Z
+lastCollected: 2026-04-07T18:39:19.925Z
 estimatedTokens: 143
 namespace: LxScheduler
-keywords: [SkillRequirement, skills, particular, task, work, Usage]
+keywords: [SkillRequirement, skills, particular, task, work]
 ---
-
-# SkillRequirement Class
 
 > Contains information about the set of skills that are required to
       complete a particular task for a work type.

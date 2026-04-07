@@ -5,12 +5,10 @@ topic: tann
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.167Z
+lastCollected: 2026-04-07T18:37:00.736Z
 estimatedTokens: 64
 keywords: [tan, tangent, radians, any, real, numeric, range, -1e308, 1e308, passed, argument, function, foreach, statement]
 ---
-
-# tan(n)
 
 > Returns the tangent value of radians value n. n
   can be any real numeric value in the range of -1e308 <= n <= 1e308. If

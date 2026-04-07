@@ -5,12 +5,10 @@ topic: send-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.446Z
+lastCollected: 2026-04-07T18:40:23.883Z
 estimatedTokens: 154
-keywords: [Send, Functions, allow, access, control, how, emails, sent, via, Marketing, Cloud, account, Load, Initialization]
+keywords: [Load, Initialization, Send, Functions, allow, control, how, emails, sent, via, Marketing, Cloud, account]
 ---
-
-# Send Functions
 
 > These functions allow you to access and control how emails are sent via your Marketing Cloud account.
 

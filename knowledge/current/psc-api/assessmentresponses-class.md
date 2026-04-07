@@ -5,13 +5,11 @@ topic: assessmentresponses-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.241Z
+lastCollected: 2026-04-07T18:39:00.297Z
 estimatedTokens: 716
 namespace: PublicSectrSltn
-keywords: [AssessmentResponses, store, dynamic, assessment, responses, Sector, Solutions, AssessmentQuestionResponse, standard, objects, Usage, Special, Access, Rules, storeResponses]
+keywords: [AssessmentResponses, store, dynamic, assessment, responses, Sector, Solutions, AssessmentQuestionResponse, standard, storeResponses, options]
 ---
-
-# AssessmentResponses Class
 
 > Use this class to store dynamic assessment responses Public Sector
             Solutions in the Assessment and AssessmentQuestionResponse standard

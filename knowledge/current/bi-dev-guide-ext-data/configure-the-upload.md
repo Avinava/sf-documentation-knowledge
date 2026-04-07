@@ -5,12 +5,10 @@ topic: configure-the-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.510Z
+lastCollected: 2026-04-07T18:36:53.879Z
 estimatedTokens: 455
-keywords: [Configure, Upload, external, data, inserting, row, InsightsExternalData, setting, configuration]
+keywords: [Configure, Upload, external, inserting, row, InsightsExternalData, setting, configuration]
 ---
-
-# Configure the Upload
 
 > Configure the external data upload by inserting a row into the InsightsExternalData
     object and setting configuration values.

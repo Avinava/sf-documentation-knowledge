@@ -5,12 +5,10 @@ topic: autoresponserules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.541Z
+lastCollected: 2026-04-07T18:36:22.793Z
 estimatedTokens: 891
-keywords: [AutoResponseRules, auto-response, rule, conditions, sending, automatic, email, responses, lead, case, submissions, attributes, submitted, record, access]
+keywords: [AutoResponseRules, AutoResponseRule, RuleEntry, auto-response, rule, conditions, sending, automatic, email, responses, lead, case, submissions, attributes, submitted, record, metadata, applicable, specific, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AutoResponseRules
 
 > Represents an auto-response rule that sets conditions
             for sending automatic email responses to lead or case submissions based on the

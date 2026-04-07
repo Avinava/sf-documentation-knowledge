@@ -5,12 +5,10 @@ topic: surveyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.373Z
+lastCollected: 2026-04-07T18:40:20.617Z
 estimatedTokens: 604
 keywords: [SurveyEvent, survey, took, place, application, generates, question, answer, pair, Items]
 ---
-
-# SurveyEvent
 
 > The SurveyEvent object contains information on when a survey response took place. The application generates one survey for each question and answer pair within a survey.
 

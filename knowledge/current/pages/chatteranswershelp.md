@@ -5,12 +5,10 @@ topic: chatteranswershelp
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.260Z
+lastCollected: 2026-04-07T18:38:49.324Z
 estimatedTokens: 131
-keywords: [chatteranswers, help, Displays, Chatter, Answers, FAQ, customers, Attributes]
+keywords: [Attributes, chatteranswers, help, Displays, Chatter, Answers, FAQ, customers]
 ---
-
-# chatteranswers:help
 
 > Displays the Chatter Answers help page (FAQ) to your customers.
 

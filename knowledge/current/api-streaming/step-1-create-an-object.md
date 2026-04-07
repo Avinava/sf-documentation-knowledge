@@ -5,12 +5,10 @@ topic: step-1-create-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.948Z
+lastCollected: 2026-04-07T18:36:51.256Z
 estimatedTokens: 480
 keywords: [Step, Invoice, Statement, user]
 ---
-
-# Step 1: Create an Object
 
 > Create an Invoice Statement object from the user interface.
 

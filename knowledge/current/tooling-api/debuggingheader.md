@@ -5,12 +5,10 @@ topic: debuggingheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.971Z
+lastCollected: 2026-04-07T18:36:31.369Z
 estimatedTokens: 479
-keywords: [DebuggingHeader, deployment, result, debug, log, output, level, detail, included, Apex, tests, executed, part, Version, Calls]
+keywords: [DebuggingHeader, LogInfo, deployment, result, debug, log, level, detail, included, Apex, tests, executed, part, Sample, Code—Java]
 ---
-
-# DebuggingHeader
 
 > Specifies that the deployment result contains the debug log output, and specifies the
         level of detail included in the log. The debug log contains the output of Apex tests that

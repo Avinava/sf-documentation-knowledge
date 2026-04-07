@@ -5,12 +5,10 @@ topic: feed-post-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.112Z
+lastCollected: 2026-04-07T18:37:19.231Z
 estimatedTokens: 191
-keywords: [Feed, Post, Summary]
+keywords: [Post, Summary]
 ---
-
-# Feed Post Summary
 
 > Feed post summary.
 

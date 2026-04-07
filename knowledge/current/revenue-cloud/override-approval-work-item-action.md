@@ -5,12 +5,10 @@ topic: override-approval-work-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.201Z
+lastCollected: 2026-04-07T18:35:39.977Z
 estimatedTokens: 439
-keywords: [Override, Approval, Work, Item, Action, status, admin, decision, any, comments, added, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Override, Approval, Work, Item, Action, status, admin, decision, any, comments, added, REST, HTTP]
 ---
-
-# Override Approval Work Item Action
 
 > Update an approval work item status with the approval admin decision
             and any comments that the approval admin added.

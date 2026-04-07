@@ -5,12 +5,10 @@ topic: creating-records-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.914Z
+lastCollected: 2026-04-07T18:38:52.228Z
 estimatedTokens: 652
-keywords: [Creating, Records, record, calling, Remote, Objects, model, instance]
+keywords: [Creating, Records, record, calling, Remote, model, instance]
 ---
-
-# Creating Records with
 
 > Create a record by calling create() on a Remote
         Objects model instance.

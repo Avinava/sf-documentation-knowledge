@@ -5,12 +5,10 @@ topic: stationary-asset-carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.056Z
+lastCollected: 2026-04-07T18:38:16.626Z
 estimatedTokens: 7208
-keywords: [Stationary, Asset, Carbon, Footprint, total, emissions, environmental, attributes, assets, quantifies, effect, atmospheric, warming, represented, metric]
+keywords: [Stationary, Asset, Carbon, Footprint, total, emissions, environmental, attributes, assets, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# Stationary Asset Carbon Footprint
 
 > The Stationary Asset Carbon Footprint object represents the
     total carbon emissions and other environmental attributes from stationary assets. The carbon

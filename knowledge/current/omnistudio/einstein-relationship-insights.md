@@ -5,12 +5,10 @@ topic: einstein-relationship-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:55.472Z
+lastCollected: 2026-04-07T18:36:41.166Z
 estimatedTokens: 129
-keywords: [Einstein, Relationship, Insights, Explore, interconnected, relationships, people, companies, web, helps, discover, critical, exploring, disparate, data]
+keywords: [Einstein, Relationship, Insights, Explore, interconnected, relationships, people, companies, web, helps, discover, critical, exploring, disparate, sources, unstructured, pages, structured, Salesforce, records]
 ---
-
-# Einstein Relationship Insights
 
 > Explore interconnected relationships between people and companies on the web. Einstein
       Relationship Insights helps discover critical relationships by exploring disparate data

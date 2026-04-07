@@ -5,12 +5,10 @@ topic: cgcloudtransactionlogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.884Z
+lastCollected: 2026-04-07T18:39:15.375Z
 estimatedTokens: 1173
-keywords: [cgcloud__Transaction_Log__c, transaction, log, messages, API, version, 54.0, later, cgcloud, _Transaction, _Log, Calls, Associated, Objects]
+keywords: [cgcloud__Transaction_Log__c, transaction, log, messages, API, 54.0, cgcloud, _Transaction, _Log]
 ---
-
-# cgcloud__Transaction_Log__c
 
 > This object contains all transaction log messages that are related to
          CG. This object is available in API version 54.0 and later.

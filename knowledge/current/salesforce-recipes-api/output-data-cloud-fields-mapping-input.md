@@ -5,12 +5,10 @@ topic: output-data-cloud-fields-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.768Z
+lastCollected: 2026-04-07T18:39:18.482Z
 estimatedTokens: 135
-keywords: [Output, Data, Cloud, Mapping, Input, node, recipe]
+keywords: [Cloud, Mapping, node, recipe]
 ---
-
-# Output Data Cloud Fields Mapping Input
 
 > The fields mapping for an output Data 360 node in a recipe.
 

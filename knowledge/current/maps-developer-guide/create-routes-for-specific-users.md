@@ -5,12 +5,10 @@ topic: create-routes-for-specific-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.744Z
+lastCollected: 2026-04-07T18:38:11.006Z
 estimatedTokens: 1026
-keywords: [Routes, Specific, Users, StartAdvancedOptimizationForUsers, Apex, creates, assigned, any, active, Salesforce, Maps, Advanced, visit, plan, leverage]
+keywords: [Routes, Specific, Users, StartAdvancedOptimizationForUsers, Apex, creates, assigned, any, active, Salesforce, Maps, Advanced, visit, plan, leverage, planning, workflow, app, retail, execution, generate, reps, automatically, having, click, manually, Sample, Code]
 ---
-
-# Create Routes for Specific Users
 
 > The StartAdvancedOptimizationForUsers() Apex method creates routes for users
             assigned to any active Salesforce Maps Advanced visit plan. Use this method to leverage

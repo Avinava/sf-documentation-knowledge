@@ -5,12 +5,10 @@ topic: life-sciences-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.641Z
+lastCollected: 2026-04-07T18:37:57.152Z
 estimatedTokens: 1270
-keywords: [Life, Sciences, Cloud, Standard, Objects, adds, Salesforce, represent, individuals, orgs, enabled]
+keywords: [Life, Sciences, Cloud, Standard, adds, Salesforce, represent, individuals, orgs, enabled]
 ---
-
-# Life Sciences Cloud Fields on Standard Objects
 
 > Life Sciences Cloud adds fields to some standard Salesforce objects to represent
       information about individuals. These fields are available only in orgs where Life Sciences

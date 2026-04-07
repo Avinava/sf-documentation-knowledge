@@ -5,12 +5,10 @@ topic: cgcloudproducthierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.010Z
+lastCollected: 2026-04-07T18:39:14.401Z
 estimatedTokens: 1222
-keywords: [cgcloud__Product_Hierarchy__c, Relation, product, Child_Product, parent, time-framed, API, version, 54.0, later, cgcloud, _Product, _Hierarchy, Calls, Associated]
+keywords: [cgcloud__Product_Hierarchy__c, Relation, product, Child_Product, parent, time-framed, API, 54.0, cgcloud, _Product, _Hierarchy]
 ---
-
-# cgcloud__Product_Hierarchy__c
 
 > Relation from a product (Child_Product) to its parent. This relation
          is time-framed. This object is available in API version 54.0 and later.

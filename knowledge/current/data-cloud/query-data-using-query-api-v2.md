@@ -5,12 +5,10 @@ topic: query-data-using-query-api-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.808Z
+lastCollected: 2026-04-07T18:35:51.659Z
 estimatedTokens: 1282
-keywords: [Query, Data, API, supports, SQL, ANSI, standard, results, array, records, expected, input, calling, free, form]
+keywords: [Query, API, supports, SQL, ANSI, standard, results, array, records, expected, calling, free, form, include, stream, profile, engagement, model, unified, support, variety, cases, includes, large, volume, reads, external, application, integration, interactive, demand, querying, lake, Key, Connected, App, Setup, Acquire, Exchange, Token, Cloud, Qualifiers, Call]
 ---
-
-# Query Data using Query API V2
 
 > Query API V2 supports SQL query in ANSI standard. The results return as an array of
     records. The expected input when calling this API is free form SQL. The input objects include

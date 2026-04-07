@@ -5,12 +5,10 @@ topic: financial-services-cloud-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.690Z
+lastCollected: 2026-04-07T18:37:35.314Z
 estimatedTokens: 133
-keywords: [Financial, Services, Cloud, Standard, Invocable, Actions, records, residential, loan, application, assessment, summary, run, integration, plans]
+keywords: [Financial, Services, Cloud, Standard, Invocable, Actions, records, residential, loan, application, assessment, summary, run, integration, plans, REST, API, Developer]
 ---
-
-# Financial Services Cloud Standard Invocable Actions
 
 > Create related records for a residential loan application, get an
       assessment response summary, or create and run integration plans. For more information on

@@ -5,12 +5,10 @@ topic: enable-push-notifications-in-a-salesforce-mobile-sdk-ios-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.931Z
+lastCollected: 2026-04-07T18:39:09.249Z
 estimatedTokens: 745
-keywords: [Enable, Push, Notifications, Salesforce, Mobile, SDK, iOS, App, SFPushNotificationManager, handle, registration, import, <SalesforceSDKCore, SFPushNotificationManager>, runtime]
+keywords: [Enable, Push, Notifications, Salesforce, Mobile, SDK, iOS, App, SFPushNotificationManager, handle, registration, import, <SalesforceSDKCore, SFPushNotificationManager>, runtime, singleton]
 ---
-
-# Enable Push Notifications in a Salesforce Mobile SDK iOS App
 
 > Salesforce Mobile SDK for iOS provides the SFPushNotificationManager class to handle push registration. To use
                 it, import <SalesforceSDKCore/SFPushNotificationManager>. The SFPushNotificationManager class is available as a

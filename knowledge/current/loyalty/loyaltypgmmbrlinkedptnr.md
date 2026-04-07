@@ -5,12 +5,10 @@ topic: loyaltypgmmbrlinkedptnr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.963Z
+lastCollected: 2026-04-07T18:38:10.242Z
 estimatedTokens: 981
-keywords: [LoyaltyPgmMbrLinkedPtnr, association, loyalty, program, member, their, membership, partner, acts, facilitates, points, accrual, data, exchange, joint]
+keywords: [LoyaltyPgmMbrLinkedPtnr, association, loyalty, program, member, their, membership, partner, acts, facilitates, points, accrual, exchange, joint, API, 66.0]
 ---
-
-# LoyaltyPgmMbrLinkedPtnr
 
 > Represents the association between a loyalty program member and their membership with a partner. It acts as an association that facilitates points accrual and data exchange in a joint loyalty program. This object is available in API
       version 66.0 and later.

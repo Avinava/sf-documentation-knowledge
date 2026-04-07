@@ -5,12 +5,10 @@ topic: expressionsetconstraintobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.113Z
+lastCollected: 2026-04-07T18:35:49.082Z
 estimatedTokens: 573
-keywords: [ExpressionSetConstraintObj, association, Product, constraint, model, tags, defined, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [ExpressionSetConstraintObj, association, Product, constraint, model, tags, defined, API, 63.0]
 ---
-
-# ExpressionSetConstraintObj
 
 > Represents the association between a Product object and the constraint model
          tags defined in a given constraint model. This object is available in API version 63.0

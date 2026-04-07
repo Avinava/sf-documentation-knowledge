@@ -5,12 +5,10 @@ topic: filters-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.624Z
+lastCollected: 2026-04-07T18:36:53.995Z
 estimatedTokens: 348
-keywords: [filters, key, included, dashboard, separate, node, configurable, filter, apply, layouts, specify, whether, widget, add, step, query, Although, steps, user, manually]
+keywords: [filters, key, included, dashboard, separate, node, configurable, filter, apply, layouts, specify, whether, widget, Operators, add, step, query, Although, steps, user, manually, define, JSON, Compact, Form, 2.0, 1.0]
 ---
-
-# filters Properties
 
 > Use the filters property to add a filter to a
         step query. Although you can create filters for query steps in the user interface, you have

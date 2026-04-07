@@ -5,12 +5,10 @@ topic: messagingchannelskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.319Z
+lastCollected: 2026-04-07T18:39:48.776Z
 estimatedTokens: 294
-keywords: [MessagingChannelSkill, Junction, association, MessagingChannel, Skill, API, version, 45.0, later]
+keywords: [MessagingChannelSkill, Junction, association, MessagingChannel, Skill, API, 45.0]
 ---
-
-# MessagingChannelSkill
 
 > Junction object that represents an association between
 			MessagingChannel and Skill. This object is available in API version 45.0 and

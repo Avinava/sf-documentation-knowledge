@@ -5,12 +5,10 @@ topic: bulk-api-20-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.027Z
+lastCollected: 2026-04-07T18:38:30.828Z
 estimatedTokens: 1288
 keywords: [Bulk, API, 2.0, Event, BulkApi2, events, contain, requests]
 ---
-
-# Bulk API 2.0 Event Type
 
 > BulkApi2 events contain details about Bulk API 2.0 requests.
 

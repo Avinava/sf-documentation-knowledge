@@ -5,12 +5,10 @@ topic: crm-analytics-rest-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.033Z
+lastCollected: 2026-04-07T18:36:54.402Z
 estimatedTokens: 6005
-keywords: [CRM, Analytics, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON]
+keywords: [CRM, Analytics, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter, listed, resource]
 ---
-
-# CRM Analytics REST API Request Bodies
 
 > To perform a POST, PATCH, or PUT request, pass query parameters
   or create a request body formatted in either XML or JSON. This chapter

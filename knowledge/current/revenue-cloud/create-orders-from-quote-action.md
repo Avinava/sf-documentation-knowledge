@@ -5,12 +5,10 @@ topic: create-orders-from-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.922Z
+lastCollected: 2026-04-07T18:35:39.705Z
 estimatedTokens: 800
-keywords: [Orders, Quote, Action, multiple, instead, order, ensuring, easier, management, fulfillment, operations, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Examples, Orders, Quote, Action, multiple, instead, order, ensuring, easier, management, fulfillment, operations, REST, HTTP]
 ---
-
-# Create Orders From Quote Action
 
 > Create multiple orders from a single quote instead of a single
             order, ensuring easier order management and fulfillment operations.

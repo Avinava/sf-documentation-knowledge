@@ -5,12 +5,10 @@ topic: user-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.161Z
+lastCollected: 2026-04-07T18:37:16.205Z
 estimatedTokens: 358
 keywords: [User, Groups, member]
 ---
-
-# User Groups
 
 > Get the groups that a user is a member
     of.

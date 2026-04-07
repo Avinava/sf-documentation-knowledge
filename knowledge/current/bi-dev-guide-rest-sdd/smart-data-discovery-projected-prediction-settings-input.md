@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-prediction-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.332Z
+lastCollected: 2026-04-07T18:36:58.830Z
 estimatedTokens: 183
-keywords: [Smart, Data, Discovery, Projected, Prediction, Settings, Input, Einstein]
+keywords: [Smart, Discovery, Projected, Prediction, Settings, Einstein]
 ---
-
-# Smart Data Discovery Projected Prediction Settings Input
 
 > The projected prediction settings input for Einstein Discovery.
 

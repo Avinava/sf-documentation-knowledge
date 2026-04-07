@@ -5,12 +5,10 @@ topic: connectapimanagedcontentdocumentcloneinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.374Z
+lastCollected: 2026-04-07T18:36:05.723Z
 estimatedTokens: 253
-keywords: [Managed, content, clone, input]
+keywords: [Managed, content, clone]
 ---
-
-# ConnectApi.ManagedContentDocumentCloneInput
 
 > Managed content clone input.
 

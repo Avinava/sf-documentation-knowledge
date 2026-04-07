@@ -5,12 +5,10 @@ topic: loyalty-management-mobile-sdk-for-ios-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.366Z
+lastCollected: 2026-04-07T18:38:09.657Z
 estimatedTokens: 412
-keywords: [Loyalty, Management, Mobile, SDK, iOS, Development, delivers, libraries, sample, Xcode, project, develop, apps, application, uses]
+keywords: [Loyalty, Management, Mobile, SDK, iOS, Development, delivers, libraries, sample, Xcode, project, develop, apps, application, uses, ForceSwift, library, SwiftUI, build, user, interfaces, interacting, Salesforce]
 ---
-
-# Loyalty Management Mobile SDK for iOS Development
 
 > Loyalty Management Mobile SDK for iOS delivers libraries and sample Xcode project to
     develop mobile apps on iOS. To create the iOS application, Loyalty Management Mobile SDK for iOS

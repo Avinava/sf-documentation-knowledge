@@ -5,12 +5,10 @@ topic: usagegrantrolloverpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.843Z
+lastCollected: 2026-04-07T18:35:50.723Z
 estimatedTokens: 618
-keywords: [UsageGrantRolloverPolicy, policy, rollover, usage, grant.This, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [UsageGrantRolloverPolicy, policy, rollover, grant.This, API, 62.0]
 ---
-
-# UsageGrantRolloverPolicy
 
 > Represents a policy about the rollover of a usage grant.This object is
       available in API version 62.0 and later.

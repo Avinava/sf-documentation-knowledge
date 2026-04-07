@@ -5,12 +5,10 @@ topic: customizing-real-time-reporting-rtr-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.371Z
+lastCollected: 2026-04-07T18:37:05.097Z
 estimatedTokens: 1249
-keywords: [Customizing, Real, Time, Reporting, RTR, APEX, fund, report, custom, data, sources, integrate, KPI, obtained, Salesforce]
+keywords: [Customizing, Real, Time, Reporting, RTR, APEX, fund, report, sources, integrate, KPI, obtained, Salesforce, attribute, reports, filters, along, standard]
 ---
-
-# Customizing  Real Time Reporting (RTR) with APEX
 
 > You can create a fund report with custom APEX data sources to integrate KPI values that
     are obtained from other sources such as a Salesforce attribute. You can also create reports with

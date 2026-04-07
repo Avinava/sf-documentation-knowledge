@@ -5,12 +5,10 @@ topic: read-by-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.373Z
+lastCollected: 2026-04-07T18:37:22.479Z
 estimatedTokens: 354
-keywords: [Collection, feed, element]
+keywords: [Collection]
 ---
-
-# Read By Collection
 
 > A collection of information about who read the feed element and
       when.

@@ -5,12 +5,10 @@ topic: market-segment-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.053Z
+lastCollected: 2026-04-07T18:35:54.085Z
 estimatedTokens: 635
-keywords: [Market, Segment, DMO, Data, Cloud, model, group, people, share, common, characteristics, grouped, marketing, purposes, API]
+keywords: [Category, Relationships, Market, Segment, DMO, Cloud, model, group, people, share, common, characteristics, grouped, marketing, purposes, API, Primary, Subject, Area, Key]
 ---
-
-# Market Segment DMO
 
 > The Market Segment DMO is a Data Cloud data model object (DMO) for a group
       of people who share one or more common characteristics, grouped for marketing

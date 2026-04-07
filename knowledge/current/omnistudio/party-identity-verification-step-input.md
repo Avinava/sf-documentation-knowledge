@@ -5,12 +5,10 @@ topic: party-identity-verification-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.727Z
+lastCollected: 2026-04-07T18:36:37.255Z
 estimatedTokens: 269
-keywords: [Party, Identity, Verification, Step, Input, representation]
+keywords: [Party, Identity, Verification, Step]
 ---
-
-# Party Identity Verification Step Input
 
 > Input representation of the details of the party identity verification step.
 

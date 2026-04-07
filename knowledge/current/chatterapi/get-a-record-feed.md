@@ -5,12 +5,10 @@ topic: get-a-record-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.156Z
+lastCollected: 2026-04-07T18:37:24.200Z
 estimatedTokens: 99
-keywords: [Record, Feed]
+keywords: [Record]
 ---
-
-# Get a Record Feed
 
 > Get a record feed.
 

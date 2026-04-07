@@ -5,12 +5,10 @@ topic: cms-digital-asset-management-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.781Z
+lastCollected: 2026-04-07T18:37:11.581Z
 estimatedTokens: 441
 keywords: [CMS, Digital, Asset, Management, Provider, DAM, instance]
 ---
-
-# CMS Digital Asset Management Provider
 
 > Update or delete a digital asset management (DAM) provider instance.
 

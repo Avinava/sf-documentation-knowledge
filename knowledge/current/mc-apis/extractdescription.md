@@ -5,12 +5,10 @@ topic: extractdescription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.786Z
+lastCollected: 2026-04-07T18:40:16.942Z
 estimatedTokens: 481
-keywords: [ExtractDescription, specific, data, extract, Items]
+keywords: [ExtractDescription, specific, extract, Items]
 ---
-
-# ExtractDescription
 
 > The ExtractDescription object describes a specific data extract.
 

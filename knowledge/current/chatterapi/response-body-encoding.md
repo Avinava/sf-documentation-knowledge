@@ -5,12 +5,10 @@ topic: response-body-encoding
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:36.943Z
+lastCollected: 2026-04-07T18:37:23.986Z
 estimatedTokens: 416
 keywords: [Encoding, Responses, minimally, HTML, entity-encoded]
 ---
-
-# Response Body Encoding
 
 > Responses are minimally HTML entity-encoded by
   default.

@@ -5,12 +5,10 @@ topic: scope3emssnsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.124Z
+lastCollected: 2026-04-07T18:40:00.893Z
 estimatedTokens: 484
 keywords: [Scope3EmssnSrc, scope, activities, source, greenhouse, gas, emissions]
 ---
-
-# Scope3EmssnSrc
 
 > Represents scope 3 activities that are the source of greenhouse gas
          emissions.

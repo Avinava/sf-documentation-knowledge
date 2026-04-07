@@ -5,12 +5,10 @@ topic: notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.106Z
+lastCollected: 2026-04-07T18:40:27.326Z
 estimatedTokens: 134
-keywords: [Notification, Fetches, iOS, Android]
+keywords: [Notification, Android, Fetches, iOS]
 ---
-
-# Notification
 
 > Fetches a single notification by its notification ID.
 

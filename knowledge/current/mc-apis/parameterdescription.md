@@ -5,12 +5,10 @@ topic: parameterdescription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.868Z
+lastCollected: 2026-04-07T18:40:18.054Z
 estimatedTokens: 60
 keywords: [ParameterDescription, base, ExtractParameterDescription, Items]
 ---
-
-# ParameterDescription
 
 > The ParameterDescription object specifies the base object for ExtractParameterDescription.
 

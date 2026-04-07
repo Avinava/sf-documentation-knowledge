@@ -5,12 +5,10 @@ topic: consumer-sales-platform-event-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.418Z
+lastCollected: 2026-04-07T18:37:26.329Z
 estimatedTokens: 198
-keywords: [Consumer, Sales, Platform, Event, Communications, Cloud, publishes, standard, events, action, occurred, org, report, errors, subscribe]
+keywords: [Consumer, Sales, Platform, Event, Communications, Cloud, publishes, standard, events, action, occurred, org, report, errors, subscribe, subscription, mechanism, supports]
 ---
-
-# Consumer Sales Platform Event Object
 
 > Communications Cloud publishes standard platform events in response to an action that
     occurred in the org or to report errors. You can subscribe to a standard platform event using

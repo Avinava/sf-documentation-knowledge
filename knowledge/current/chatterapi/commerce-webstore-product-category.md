@@ -5,12 +5,10 @@ topic: commerce-webstore-product-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.681Z
+lastCollected: 2026-04-07T18:37:12.571Z
 estimatedTokens: 399
 keywords: [Commerce, Webstore, Product, Category]
 ---
-
-# Commerce Webstore Product Category
 
 > Get a product category.
 

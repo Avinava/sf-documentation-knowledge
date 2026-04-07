@@ -5,12 +5,10 @@ topic: finclacctptyfinclasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.404Z
+lastCollected: 2026-04-07T18:36:52.817Z
 estimatedTokens: 1008
-keywords: [FinclAcctPtyFinclAsset, financial, account, associated, asset, specific, contact, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [FinclAcctPtyFinclAsset, financial, account, asset, specific, contact, API, 60.0]
 ---
-
-# FinclAcctPtyFinclAsset
 
 > Represents the financial account associated with the financial asset for a
          specific account or contact. This object is available in API version 60.0 and later.

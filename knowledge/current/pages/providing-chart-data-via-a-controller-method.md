@@ -5,12 +5,10 @@ topic: providing-chart-data-via-a-controller-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.824Z
+lastCollected: 2026-04-07T18:38:48.771Z
 estimatedTokens: 751
-keywords: [Providing, Chart, Data, via, Controller, straightforward, way, provide, Visualforce, expression, references, Simply, <apex, chart>, attribute]
+keywords: [Providing, Chart, via, Controller, straightforward, way, provide, Visualforce, expression, references, Simply, <apex, chart>, attribute]
 ---
-
-# Providing Chart Data via a Controller Method
 
 > The most straightforward way to provide data to a chart is using a Visualforce expression that
         references a controller method. Simply reference the controller in the <apex:chart>

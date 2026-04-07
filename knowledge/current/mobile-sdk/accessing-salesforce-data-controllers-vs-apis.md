@@ -5,12 +5,10 @@ topic: accessing-salesforce-data-controllers-vs-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.673Z
+lastCollected: 2026-04-07T18:40:26.016Z
 estimatedTokens: 1184
-keywords: [Accessing, Salesforce, Data, Controllers, APIs, HTML5, app, access, two, ways, JavaScript, Remoting, Invoke, Apex, Controller]
+keywords: [Accessing, Salesforce, Controllers, APIs, HTML5, app, two, ways, JavaScript, Remoting, Invoke, Apex, Controller, API, Force.js, Additional, Options, Offline, Limitations]
 ---
-
-# Accessing Salesforce Data: Controllers vs. APIs
 
 > In an HTML5 app, you can access Salesforce data two ways.
 

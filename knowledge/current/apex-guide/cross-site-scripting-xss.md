@@ -5,12 +5,10 @@ topic: cross-site-scripting-xss
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.520Z
+lastCollected: 2026-04-07T18:36:19.737Z
 estimatedTokens: 1144
-keywords: [Cross, Site, Scripting, XSS, Cross-site, attacks, malicious, HTML, client-side, provided, web, application, includes, user, unknowingly]
+keywords: [Cross, Site, Scripting, XSS, Cross-site, attacks, malicious, HTML, client-side, provided, web, application, includes, user, unknowingly, becomes, victim, attack, attacker, uses, applicat, Protection, Disabling, Escape, Visualforce, Tags, Programming, Items, Protected]
 ---
-
-# Cross Site Scripting (XSS)
 
 > Cross-site scripting (XSS) attacks are where malicious HTML or client-side scripting is
         provided to a web application. The web application includes malicious scripting in a

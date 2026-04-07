@@ -5,12 +5,10 @@ topic: genericvisittaskfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.813Z
+lastCollected: 2026-04-07T18:39:42.444Z
 estimatedTokens: 361
-keywords: [GenericVisitTaskFeed, Feed, tracking, GenericVisitTask]
+keywords: [GenericVisitTaskFeed, GenericVisitTask]
 ---
-
-# GenericVisitTaskFeed
 
 > Feed tracking for GenericVisitTask.
 

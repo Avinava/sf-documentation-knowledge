@@ -5,12 +5,10 @@ topic: vpls360csrgetprofiledetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.471Z
+lastCollected: 2026-04-07T18:38:11.776Z
 estimatedTokens: 102
-keywords: [vpls360csr_GetProfileDetails, Integration, Procedure, agent, console, profile, account, vpls360csr, _GetProfileDetails, Sample, Input, Output, Calls]
+keywords: [vpls360csr_GetProfileDetails, Integration, Procedure, agent, console, profile, account, vpls360csr, _GetProfileDetails, Sample]
 ---
-
-# vpls360csr_GetProfileDetails
 
 > This Integration Procedure is used in the agent console to
     get the profile details for an account.

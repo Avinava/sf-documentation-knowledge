@@ -5,13 +5,11 @@ topic: omniinteractionaccessconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:55.744Z
+lastCollected: 2026-04-07T18:39:50.178Z
 estimatedTokens: 458
 namespace: NamespacePrefix
 keywords: [OmniInteractionAccessConfig, internal]
 ---
-
-# OmniInteractionAccessConfig
 
 > For internal use only.
 

@@ -5,12 +5,10 @@ topic: clause-versions-bulk-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.972Z
+lastCollected: 2026-04-07T18:36:36.497Z
 estimatedTokens: 209
-keywords: [Clause, Versions, Bulk, Input, representation, asynchronously, status, version, records]
+keywords: [Clause, Versions, Bulk, asynchronously, status, records]
 ---
-
-# Clause Versions Bulk Update Input
 
 > Input representation to asynchronously bulk update the status of the clause version
     records.

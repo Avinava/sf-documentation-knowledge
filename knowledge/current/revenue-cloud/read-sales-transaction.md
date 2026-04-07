@@ -5,12 +5,10 @@ topic: read-sales-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.580Z
+lastCollected: 2026-04-07T18:35:46.551Z
 estimatedTokens: 182
-keywords: [Sales, Transaction, Output, representation]
+keywords: [Sales, Transaction]
 ---
-
-# Read Sales Transaction
 
 > Output representation of the request to read a sales transaction.
 

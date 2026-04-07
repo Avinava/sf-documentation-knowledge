@@ -5,12 +5,10 @@ topic: connectapireturnorderlineiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.998Z
+lastCollected: 2026-04-07T18:36:06.346Z
 estimatedTokens: 481
-keywords: [Data, creating, ReturnOrderLineItem, order, item, including, ReturnOrderLineItems, representing, any, fees, associated]
+keywords: [creating, ReturnOrderLineItem, order, item, including, ReturnOrderLineItems, representing, any, fees]
 ---
-
-# ConnectApi.ReturnOrderLineItemInputRepresentation
 
 > Data for creating a ReturnOrderLineItem for an order item being
       returned, including data to create ReturnOrderLineItems representing any return fees

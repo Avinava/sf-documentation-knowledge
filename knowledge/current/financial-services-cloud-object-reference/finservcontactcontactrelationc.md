@@ -5,12 +5,10 @@ topic: finservcontactcontactrelationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.068Z
+lastCollected: 2026-04-07T18:37:36.846Z
 estimatedTokens: 656
-keywords: [FinServ_ContactContactRelation__c, relationship, any, two, individuals, FinServ, _ContactContactRelation, Calls]
+keywords: [FinServ_ContactContactRelation__c, relationship, any, two, individuals, FinServ, _ContactContactRelation]
 ---
-
-# FinServ_ContactContactRelation__c
 
 > Represents the relationship between any two
         individuals.

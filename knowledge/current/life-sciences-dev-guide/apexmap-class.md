@@ -5,12 +5,10 @@ topic: apexmap-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.304Z
+lastCollected: 2026-04-07T18:37:54.632Z
 estimatedTokens: 1004
 keywords: [ApexMap, clone, convert, key-value, pairs, JSON, key, toString]
 ---
-
-# ApexMap Class
 
 > Create, clone, and convert string based key-value pairs to a JSON string
     format.

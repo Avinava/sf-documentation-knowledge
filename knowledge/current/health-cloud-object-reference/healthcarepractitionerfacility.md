@@ -5,12 +5,10 @@ topic: healthcarepractitionerfacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.275Z
+lastCollected: 2026-04-07T18:37:46.889Z
 estimatedTokens: 1494
-keywords: [HealthcarePractitionerFacility, different, locations, practitioner, services, Calls, Associated, Objects]
+keywords: [HealthcarePractitionerFacility, different, locations, practitioner, services]
 ---
-
-# HealthcarePractitionerFacility
 
 > Represents the different locations in which a practitioner provides
       services.

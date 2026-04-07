@@ -5,12 +5,10 @@ topic: appexchange-object-prefixes-and-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.955Z
+lastCollected: 2026-04-07T18:38:23.829Z
 estimatedTokens: 184
-keywords: [AppExchange, Prefixes, API, unmanaged, package, managed, version, becomes, custom, objects, Scontrol, change, prefix, added, component]
+keywords: [AppExchange, Prefixes, API, unmanaged, package, managed, becomes, Scontrol, change, prefix, added, unique, name__c, prefix__name__c]
 ---
-
-# AppExchange Object Prefixes and the API
 
 > If you have an unmanaged package and a managed package
         version becomes available, the API names of custom fields, custom objects, and Scontrol

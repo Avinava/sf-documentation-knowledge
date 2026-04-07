@@ -5,12 +5,10 @@ topic: type-hierarchies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.680Z
+lastCollected: 2026-04-07T18:35:42.566Z
 estimatedTokens: 770
-keywords: [Hierarchies, Constraint, Modeling, Language, CML, supports, inheritance, overriding, allow, establishing, models, become, modular, efficient, How]
+keywords: [Hierarchies, Constraint, Modeling, Language, CML, supports, inheritance, overriding, allow, establishing, models, become, modular, efficient, How, Function, Practical, Examples, Hierarchy, Core, Benefits, Simple, Product, Extension, Multi-Level, Nesting, Abstract, Base, Polymorphism]
 ---
-
-# Type Hierarchies
 
 > Constraint Modeling Language (CML) supports inheritance and overriding, which allow you
     to create hierarchies between types. By establishing these hierarchies, constraint models become

@@ -5,12 +5,10 @@ topic: electronicmediagroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.220Z
+lastCollected: 2026-04-07T18:38:30.058Z
 estimatedTokens: 541
-keywords: [ElectronicMediaGroup, media, associate, product, category.This, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [ElectronicMediaGroup, media, associate, product, category.This, API, 49.0]
 ---
-
-# ElectronicMediaGroup
 
 > Represents the type of media that you can associate with a product or
          category.This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: documenttemplateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.892Z
+lastCollected: 2026-04-07T18:39:38.573Z
 estimatedTokens: 251
 keywords: [DocumentTemplateShare, Sharing, DocumentTemplate]
 ---
-
-# DocumentTemplateShare
 
 > Sharing for DocumentTemplate.
 

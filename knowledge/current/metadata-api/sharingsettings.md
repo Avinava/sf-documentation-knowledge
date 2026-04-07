@@ -5,12 +5,10 @@ topic: sharingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.316Z
+lastCollected: 2026-04-07T18:36:29.743Z
 estimatedTokens: 1960
-keywords: [SharingSettings, organization’s, sharing, visibility, data, access, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [SharingSettings, organization’s, sharing, visibility, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SharingSettings
 
 > Represents an organization’s sharing, visibility,
       and data access settings. This type extends the Metadata metadata type and inherits its fullName field.

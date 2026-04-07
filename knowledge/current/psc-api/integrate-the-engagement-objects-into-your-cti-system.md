@@ -5,12 +5,10 @@ topic: integrate-the-engagement-objects-into-your-cti-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.527Z
+lastCollected: 2026-04-07T18:39:03.711Z
 estimatedTokens: 904
-keywords: [Integrate, Engagement, Objects, CTI, System, Modify, adapter, customer, service, representative, CSR, accepts, incoming, call, softphone]
+keywords: [Integrate, Engagement, CTI, System, Modify, adapter, customer, service, representative, CSR, accepts, incoming, call, softphone, interaction, record, created, part, model, two, Attendee, Topic, store, start, end, date, time, Modifications]
 ---
-
-# Integrate the Engagement Objects Into Your CTI System
 
 > Modify your CTI adapter so that when a customer service representative (CSR) accepts an
         incoming call using the softphone, an engagement interaction record for the call is created.

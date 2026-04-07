@@ -5,12 +5,10 @@ topic: retrieving-and-deploying-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.877Z
+lastCollected: 2026-04-07T18:36:18.105Z
 estimatedTokens: 542
 keywords: [Retrieving, Deploying, Metadata, Retrieve, deploy, Metadata.Operations]
 ---
-
-# Retrieving and Deploying Metadata
 
 > Retrieve and deploy metadata by using the Metadata.Operations class.
 

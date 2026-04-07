@@ -5,12 +5,10 @@ topic: managedcontentspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.239Z
+lastCollected: 2026-04-07T18:38:35.485Z
 estimatedTokens: 494
-keywords: [ManagedContentSpace, instance, Salesforce, CMS, workspace, stores, managed, content, Users, groups, designated, permissions, access, manage, API]
+keywords: [ManagedContentSpace, instance, Salesforce, CMS, workspace, stores, managed, content, Users, groups, designated, permissions, manage, API, 56.0]
 ---
-
-# ManagedContentSpace
 
 > Represents the complete instance of a Salesforce CMS workspace that stores
          managed content. Users and groups with designated permissions can access and manage the

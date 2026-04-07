@@ -5,12 +5,10 @@ topic: loyaltypgmptnrldgrsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.966Z
+lastCollected: 2026-04-07T18:39:47.420Z
 estimatedTokens: 407
-keywords: [LoyaltyPgmPtnrLdgrSummary, aggregated, ledger, loyalty, program, credit, points, debit, prepaid, partner's, pack, add, deduct, monetary, postpaid]
+keywords: [LoyaltyPgmPtnrLdgrSummary, aggregated, ledger, loyalty, program, credit, points, debit, prepaid, partner's, pack, add, deduct, monetary, postpaid, bill]
 ---
-
-# LoyaltyPgmPtnrLdgrSummary
 
 > Represents the aggregated ledger used by a loyalty program to credit points
          to or debit points from a prepaid partner's points pack. This ledger can also be used to

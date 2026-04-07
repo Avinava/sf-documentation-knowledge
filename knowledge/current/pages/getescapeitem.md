@@ -5,12 +5,10 @@ topic: getescapeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.405Z
+lastCollected: 2026-04-07T18:38:48.360Z
 estimatedTokens: 94
-keywords: [getEscapeItem, current, SelectOption, object's, itemEscaped, attribute, Usage]
+keywords: [getEscapeItem, current, SelectOption, object's, itemEscaped, attribute]
 ---
-
-# getEscapeItem()
 
 > Returns the current value of the SelectOption object's itemEscaped attribute.
 

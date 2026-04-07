@@ -5,12 +5,10 @@ topic: rateadjustmentbyattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.612Z
+lastCollected: 2026-04-07T18:39:58.275Z
 estimatedTokens: 589
-keywords: [RateAdjustmentByAttribute, adjustments, determine, rate, resource, rate-impacting, attributes, linked, usage, product, record, Rates, influenced, conditions, Attribute]
+keywords: [RateAdjustmentByAttribute, adjustments, determine, rate, resource, rate-impacting, attributes, linked, product, record, Rates, influenced, conditions, Attribute, Adjustment, Condition, Finally, charge, determined, Rule, API, 62.0]
 ---
-
-# RateAdjustmentByAttribute
 
 > Represents the adjustments that determine the rate of a resource based on its
          rate-impacting attributes. These attributes are linked to the usage product record. Rates

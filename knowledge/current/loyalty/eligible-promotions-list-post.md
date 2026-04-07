@@ -5,12 +5,10 @@ topic: eligible-promotions-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.262Z
+lastCollected: 2026-04-07T18:38:07.487Z
 estimatedTokens: 683
-keywords: [Eligible, Promotions, POST, their, associated, rewards, cart, line, items, Special, Access, Rules]
+keywords: [Eligible, Promotions, POST, their, rewards, cart, line, items]
 ---
-
-# Eligible Promotions List (POST)
 
 > Get eligible promotions and their associated rewards for a cart and its line
     items.

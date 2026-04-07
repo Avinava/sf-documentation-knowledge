@@ -5,12 +5,10 @@ topic: worktypecodesetbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.640Z
+lastCollected: 2026-04-07T18:37:48.275Z
 estimatedTokens: 819
-keywords: [WorkTypeCodeSetBundle, relationship, visit, Work, code, bundles, represent, service, appointment, API, version, 52.0, later, Calls]
+keywords: [WorkTypeCodeSetBundle, relationship, visit, Work, code, bundles, represent, service, appointment, API, 52.0]
 ---
-
-# WorkTypeCodeSetBundle
 
 > Represents a relationship between visit type (Work Type) and code set bundles
          that represent the service and appointment details for the visit type. This object is

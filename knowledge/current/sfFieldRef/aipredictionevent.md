@@ -5,12 +5,10 @@ topic: aipredictionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.931Z
+lastCollected: 2026-04-07T18:39:23.861Z
 estimatedTokens: 289
-keywords: [AIPredictionEvent, Notifies, subscribers, Einstein, feature, Prediction, Builder, Case, Classification, written, results, back, target, API, version]
+keywords: [AIPredictionEvent, Notifies, subscribers, Einstein, feature, Prediction, Builder, Case, Classification, written, results, back, target, API, 46.0]
 ---
-
-# AIPredictionEvent
 
 > Notifies subscribers when an Einstein feature, such as Prediction
       Builder or Case Classification, has written prediction results back to a target object and AI

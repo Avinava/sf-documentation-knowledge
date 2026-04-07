@@ -5,12 +5,10 @@ topic: addmessagehandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.485Z
+lastCollected: 2026-04-07T18:38:03.505Z
 estimatedTokens: 155
-keywords: [addMessageHandler, Mounts, message, handling, function, handle, messages, sent, Aura, component, framed, JavaScript, app, Sample, Arguments]
+keywords: [Sample, Arguments, addMessageHandler, Mounts, message, handling, function, handle, messages, sent, Aura, framed, JavaScript, app]
 ---
-
-# addMessageHandler()
 
 > Mounts a message handling function, used to handle messages sent from the Aura component
     to the framed JavaScript app.

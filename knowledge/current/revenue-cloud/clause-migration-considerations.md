@@ -5,12 +5,10 @@ topic: clause-migration-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:02.066Z
+lastCollected: 2026-04-07T18:35:47.088Z
 estimatedTokens: 1452
-keywords: [Clause, Migration, Considerations, prerequisite, Microsoft, template, Review, understand, how, structure, versions, relationships, exist, target, org]
+keywords: [Clause, Migration, Considerations, prerequisite, Microsoft, template, Review, understand, how, structure, versions, relationships, exist, target, org, migrating, document, templates, Category, Configuration, First-Time, Iterative]
 ---
-
-# Clause Migration Considerations
 
 > Clause migration is a prerequisite for Microsoft 365 template migration. Review these
     considerations to understand how clause structure, versions, and relationships must exist in the

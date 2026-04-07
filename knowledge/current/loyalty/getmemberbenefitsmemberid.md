@@ -5,12 +5,10 @@ topic: getmemberbenefitsmemberid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.442Z
+lastCollected: 2026-04-07T18:38:06.647Z
 estimatedTokens: 125
-keywords: [getMemberBenefits, memberId, benefits, loyalty, program, member, API, Version, Requires, Chatter]
+keywords: [getMemberBenefits, memberId, benefits, loyalty, program, member, API, Requires, Chatter]
 ---
-
-# getMemberBenefits(memberId)
 
 > Get benefits for a loyalty program member.
 

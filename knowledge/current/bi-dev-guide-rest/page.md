@@ -5,12 +5,10 @@ topic: page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:10.991Z
+lastCollected: 2026-04-07T18:36:57.499Z
 estimatedTokens: 195
 keywords: [Analytics, template]
 ---
-
-# Page
 
 > A UI page for an Analytics template.
 

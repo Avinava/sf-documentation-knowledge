@@ -5,12 +5,10 @@ topic: data-category-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:31.155Z
+lastCollected: 2026-04-07T18:37:18.236Z
 estimatedTokens: 214
-keywords: [Data, Category, Metadata]
+keywords: [Category, Metadata]
 ---
-
-# Data Category Metadata
 
 > Data category metadata for the object.
 

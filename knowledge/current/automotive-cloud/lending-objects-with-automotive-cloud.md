@@ -5,12 +5,10 @@ topic: lending-objects-with-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.600Z
+lastCollected: 2026-04-07T18:36:51.957Z
 estimatedTokens: 2231
-keywords: [Lending, Objects, Automotive, Cloud, access, Digital, support, end-to-end, lifecycle, across, loan, lease, products, platform, serves]
+keywords: [Lending, Automotive, Cloud, Digital, support, end-to-end, lifecycle, across, loan, lease, products, platform, serves, point-of-sale, origination, system, Vehicle, Asset, enabled, org]
 ---
-
-# Lending Objects with Automotive Cloud
 
 > Automotive Cloud provides access to Digital Lending objects that you can use to support
     the end-to-end lending lifecycle across automotive loan and lease products. Get access to a

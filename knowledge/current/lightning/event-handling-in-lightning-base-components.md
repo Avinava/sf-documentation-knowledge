@@ -5,12 +5,10 @@ topic: event-handling-in-lightning-base-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.499Z
+lastCollected: 2026-04-07T18:38:04.657Z
 estimatedTokens: 1097
-keywords: [Event, Handling, Lightning, Base, Components, lightweight, closely, resemble, HTML, markup, They, follow, standard, practices, providing]
+keywords: [Event, Handling, Lightning, Base, lightweight, closely, resemble, HTML, markup, They, follow, standard, practices, providing, handlers, attributes, onfocus, instead, registering, firing, events, Reusing, Retrieving, Active, onactive, Handler, onselect, Limitations, Native]
 ---
-
-# Event Handling in Lightning Base Components
 
 > Base components are lightweight and closely resemble HTML markup. They follow standard
         HTML practices by providing event handlers as attributes, such as onfocus, instead of registering and firing Lightning

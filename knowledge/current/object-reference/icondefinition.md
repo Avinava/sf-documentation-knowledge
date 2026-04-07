@@ -5,12 +5,10 @@ topic: icondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.408Z
+lastCollected: 2026-04-07T18:38:33.556Z
 estimatedTokens: 311
-keywords: [IconDefinition, icon-related, metadata, custom, tab, API, version, 43.0, later, Calls]
+keywords: [IconDefinition, icon-related, metadata, tab, API, 43.0]
 ---
-
-# IconDefinition
 
 > Represents the icon-related metadata for a custom tab. This
 		object is available in API version 43.0 and later.

@@ -5,12 +5,10 @@ topic: get-started-with-event-notification-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.661Z
+lastCollected: 2026-04-07T18:40:16.818Z
 estimatedTokens: 495
-keywords: [Started, Event, Notification, Service, Ensure, client, secret, stored, securely, Never, expose, side, via, JavaScript, store]
+keywords: [Prerequisites, Started, Event, Notification, Service, Ensure, client, secret, stored, securely, Never, expose, side, via, JavaScript, store, mobile, application, API, Items]
 ---
-
-# Get Started with Event Notification Service
 
 > Ensure that your client ID and secret are stored securely. Never expose this information on the client side via JavaScript or store it in a mobile application.
 

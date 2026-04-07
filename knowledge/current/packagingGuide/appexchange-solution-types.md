@@ -5,12 +5,10 @@ topic: appexchange-solution-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.363Z
+lastCollected: 2026-04-07T18:38:46.227Z
 estimatedTokens: 611
 keywords: [AppExchange, Solution, Salesforce, ISV, partner, distribute, packaged, solutions, APIs, you're, planning, business, sure]
 ---
-
-# AppExchange Solution Types
 
 > As a Salesforce ISV partner, you can distribute packaged solutions and APIs on
         AppExchange. As you're planning your AppExchange business, make sure that your solution type

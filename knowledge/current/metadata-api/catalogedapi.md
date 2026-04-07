@@ -5,12 +5,10 @@ topic: catalogedapi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.078Z
+lastCollected: 2026-04-07T18:36:23.372Z
 estimatedTokens: 713
-keywords: [CatalogedApi, API, brought, Catalog, Salesforce, external, source, Parent, File, Suffix, Directory, Location, Version, CatalogedApiInstance, Declarative]
+keywords: [CatalogedApi, CatalogedApiInstance, API, brought, Catalog, Salesforce, external, source, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# CatalogedApi
 
 > Represents an API brought into API Catalog for Salesforce from an
 			external source.

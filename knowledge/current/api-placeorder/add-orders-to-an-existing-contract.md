@@ -5,12 +5,10 @@ topic: add-orders-to-an-existing-contract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.767Z
+lastCollected: 2026-04-07T18:36:51.056Z
 estimatedTokens: 142
 keywords: [Add, Orders, Contract, Here’s, PATCH, Contract-based, resource, new, order, products]
 ---
-
-# Add Orders to an Existing Contract
 
 > Here’s an example of a PATCH request using the Contract-based Orders resource to add new orders and order products to an existing
       contract.

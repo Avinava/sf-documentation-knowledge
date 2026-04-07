@@ -5,12 +5,10 @@ topic: retrieve-the-invitation-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.292Z
+lastCollected: 2026-04-07T18:39:21.103Z
 estimatedTokens: 241
-keywords: [Retrieve, Invitation, Key, unique, URL, user, clicks, two, components, prefix, auto-generated, identifier]
+keywords: [Retrieve, Invitation, Key, unique, URL, user, clicks, two, prefix, auto-generated, identifier]
 ---
-
-# Retrieve the Invitation Key
 
 > Retrieve the unique invitation key from the invitation URL that the
       user clicks.  The invitation URL has two components: the invitation URL prefix and the

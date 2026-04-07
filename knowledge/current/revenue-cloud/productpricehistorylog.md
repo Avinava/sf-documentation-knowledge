@@ -5,12 +5,10 @@ topic: productpricehistorylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.169Z
+lastCollected: 2026-04-07T18:35:50.095Z
 estimatedTokens: 816
-keywords: [ProductPriceHistoryLog, Stores, historical, pricing, data, product's, price, range, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [ProductPriceHistoryLog, Stores, historical, pricing, product's, price, range, API, 62.0]
 ---
-
-# ProductPriceHistoryLog
 
 > Stores historical pricing data based on the product's price
          range. This object is available in API version 62.0 and later.

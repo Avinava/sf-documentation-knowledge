@@ -5,12 +5,10 @@ topic: managed-content-failed-variants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.199Z
+lastCollected: 2026-04-07T18:37:20.391Z
 estimatedTokens: 180
 keywords: [Managed, Content, Failed, Variants, cloned, cloning, partially, successful]
 ---
-
-# Managed Content Failed Variants
 
 > Information about failed cloned managed content variants if cloning was partially
     successful.

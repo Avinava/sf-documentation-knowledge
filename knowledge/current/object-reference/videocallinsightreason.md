@@ -5,12 +5,10 @@ topic: videocallinsightreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.234Z
+lastCollected: 2026-04-07T18:38:44.047Z
 estimatedTokens: 537
-keywords: [VideoCallInsightReason, video, call, insight, reason, keyword, moments, associated, number, occurrences, API, version, 66.0, later, Calls]
+keywords: [VideoCallInsightReason, video, call, insight, reason, keyword, moments, number, occurrences, API, 66.0]
 ---
-
-# VideoCallInsightReason
 
 > Represents the video call insight reason that contains the insight keyword,
          insight moments associated with a keyword, and the number of keyword occurrences. This

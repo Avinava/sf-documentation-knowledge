@@ -5,12 +5,10 @@ topic: orderitemtaxlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.696Z
+lastCollected: 2026-04-07T18:39:51.102Z
 estimatedTokens: 404
-keywords: [OrderItemTaxLineItem, tax, amount, applied, order, item, API, version, 48.0, later]
+keywords: [OrderItemTaxLineItem, tax, amount, applied, order, item, API, 48.0]
 ---
-
-# OrderItemTaxLineItem
 
 > The tax amount that has been applied to an order item. This object is
     available in API version 48.0 and later.

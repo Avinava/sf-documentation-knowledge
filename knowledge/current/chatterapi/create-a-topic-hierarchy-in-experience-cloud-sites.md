@@ -5,12 +5,10 @@ topic: create-a-topic-hierarchy-in-experience-cloud-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.102Z
+lastCollected: 2026-04-07T18:37:24.148Z
 estimatedTokens: 1602
 keywords: [Topic, Hierarchy, Experience, Cloud, Sites, Managed, Topics, Standard]
 ---
-
-# Create a Topic Hierarchy in Experience Cloud Sites
 
 > Create a topic hierarchy in Experience Cloud sites.
 

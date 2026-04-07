@@ -5,12 +5,10 @@ topic: windows-performance-suggestions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.395Z
+lastCollected: 2026-04-07T18:40:09.343Z
 estimatedTokens: 598
 keywords: [Windows, Performance, Suggestions, Follow, improve, Salesforce, CLI]
 ---
-
-# Windows Performance Suggestions
 
 > Follow these suggestions to improve the performance of Salesforce CLI on
 		Windows.

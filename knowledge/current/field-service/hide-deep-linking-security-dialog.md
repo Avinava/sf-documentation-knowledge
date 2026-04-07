@@ -5,12 +5,10 @@ topic: hide-deep-linking-security-dialog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.896Z
+lastCollected: 2026-04-07T18:36:46.750Z
 estimatedTokens: 837
-keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, link, action, Service, mobile, app, prompts, confirm]
+keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, link, action, Service, mobile, app, prompts, confirm, Launch, configuring, URL, key]
 ---
-
-# Hide Deep Linking Security Dialog
 
 > Each time a user opens a deep link to an action from the Field Service mobile app, a
   security dialog prompts the user to confirm the action. You can hide this Launch action? dialog by

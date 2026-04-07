@@ -5,12 +5,10 @@ topic: workfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:52.822Z
+lastCollected: 2026-04-07T18:38:44.634Z
 estimatedTokens: 716
-keywords: [WorkFeedback, answer, question, person, asked, via, feedback, store, offered, linking, particular, Calls, Additional, Considerations, Objects]
+keywords: [WorkFeedback, answer, question, person, asked, via, feedback, store, offered, linking, particular, Additional, Considerations]
 ---
-
-# WorkFeedback
 
 > Represents the answer to a question that a person was asked via a
 			feedback request. Also used to store offered feedback without linking it to a particular

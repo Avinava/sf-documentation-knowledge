@@ -5,13 +5,11 @@ topic: actionablenotificationbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.895Z
+lastCollected: 2026-04-07T18:36:00.180Z
 estimatedTokens: 1968
 namespace: Messaging
-keywords: [ActionableNotification.Builder, build, instance, Messaging.ActionableNotification, configure, actionable, notifications, mobile, devices, withActionIdentifier, actionIdentifier, withNotificationTypeId, notificationTypeId, withRecipientId, recipientId]
+keywords: [ActionableNotification.Builder, build, instance, Messaging.ActionableNotification, configure, actionable, notifications, mobile, devices, withActionIdentifier, actionIdentifier, withNotificationTypeId, notificationTypeId, withRecipientId, recipientId, withSenderId, senderId, withTargetId, targetId, withTargetPageRef, targetPageRef]
 ---
-
-# ActionableNotification.Builder Class
 
 > Contains methods to build an instance of the Messaging.ActionableNotification class, which  is used to configure actionable
     notifications for mobile devices.

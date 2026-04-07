@@ -5,12 +5,10 @@ topic: vpls360csr-formatproductlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.450Z
+lastCollected: 2026-04-07T18:38:11.755Z
 estimatedTokens: 116
-keywords: [vpls360Csr-FormatProductList, Omnistudio, Data, Mapper, agent, console, transform, product, change, base, pack, flow, Sample, Input, Output]
+keywords: [vpls360Csr-FormatProductList, Omnistudio, Mapper, agent, console, transform, product, change, base, pack, flow, Sample]
 ---
-
-# vpls360Csr-FormatProductList
 
 > This Omnistudio Data Mapper is used in the agent console to
     format or transform the product list in the change base pack flow.

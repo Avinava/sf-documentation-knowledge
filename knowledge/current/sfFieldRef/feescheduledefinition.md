@@ -5,12 +5,10 @@ topic: feescheduledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.666Z
+lastCollected: 2026-04-07T18:39:40.308Z
 estimatedTokens: 311
 keywords: [FeeScheduleDefinition, Stores, fee, schedule, contracts, Standard, Care, Agreement]
 ---
-
-# FeeScheduleDefinition
 
 > Stores fee schedule information for contracts of Standard Care Fee Agreement
          types.

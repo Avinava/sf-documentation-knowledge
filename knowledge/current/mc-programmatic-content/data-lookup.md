@@ -5,12 +5,10 @@ topic: data-lookup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.957Z
+lastCollected: 2026-04-07T18:40:22.343Z
 estimatedTokens: 181
-keywords: [Data, Lookup, demonstrates, how, display, recommended, products, product, category, preference, subscriber, including, review, ratings, extensions]
+keywords: [Lookup, demonstrates, how, display, recommended, products, product, category, preference, subscriber, including, review, ratings, extensions, created, Relationships, well, Email, Message, Rendered]
 ---
-
-# Data Lookup
 
 > This example demonstrates how to display a list of recommended products based on the product category preference of the subscriber, including a product review and ratings for the related products. Use the data extensions created in the Data Relationships section for this example as well.
 

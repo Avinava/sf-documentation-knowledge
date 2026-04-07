@@ -5,12 +5,10 @@ topic: einstein-llm-generation-citation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.393Z
+lastCollected: 2026-04-07T18:37:18.489Z
 estimatedTokens: 129
-keywords: [Einstein, LLM, Generation, Citation, Source, associated, generated]
+keywords: [Einstein, LLM, Generation, Citation, Source, generated]
 ---
-
-# Einstein LLM Generation Citation
 
 > Source information associated with a generated response.
 

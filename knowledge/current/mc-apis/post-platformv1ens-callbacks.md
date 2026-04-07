@@ -5,12 +5,10 @@ topic: post-platformv1ens-callbacks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.792Z
+lastCollected: 2026-04-07T18:40:15.910Z
 estimatedTokens: 640
-keywords: [POST, platform, ens-callbacks, Registers, new, callback, receive, event, notifications, Verify, subscription, **Overview**, Usage, HTTP, Responses]
+keywords: [POST, platform, ens-callbacks, Registers, new, callback, receive, event, notifications, Verify, subscription, **Overview**, HTTP, Responses, Items]
 ---
-
-# POST /platform/v1/ens-callbacks
 
 > Registers a new callback to receive event notifications. Verify your callback before you can use it in a subscription.
 

@@ -5,13 +5,11 @@ topic: detailcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.890Z
+lastCollected: 2026-04-07T18:36:03.098Z
 estimatedTokens: 540
 namespace: Reports
-keywords: [DetailColumn, describing, contain, detailed, data, listed, report, metadata, Instance, getName, getLabel, getDataType]
+keywords: [DetailColumn, describing, contain, detailed, listed, report, metadata, Instance, getName, getLabel, getDataType]
 ---
-
-# DetailColumn Class
 
 > Contains methods for describing fields that contain detailed
 data. Detailed data fields are also listed in the report metadata.

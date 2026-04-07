@@ -5,12 +5,10 @@ topic: findorcreatemapisexactmatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.858Z
+lastCollected: 2026-04-07T18:38:06.093Z
 estimatedTokens: 392
-keywords: [findOrCreate.map.isExactMatch, specify, whether, match, record, conduct, search, findOrCreate.map, Usage]
+keywords: [findOrCreate.map.isExactMatch, specify, whether, match, record, conduct, search, findOrCreate.map]
 ---
-
-# findOrCreate.map.isExactMatch
 
 > Use the findOrCreate.map.isExactMatch method to specify whether a field value must
     exactly match the field value in an existing record when you conduct a search with the

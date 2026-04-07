@@ -5,12 +5,10 @@ topic: journey-builder-glossary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.321Z
+lastCollected: 2026-04-07T18:40:17.484Z
 estimatedTokens: 1686
 keywords: [Journey, Builder, Glossary, Items]
 ---
-
-# Journey Builder Glossary
 
 # Journey Builder Glossary
 

@@ -5,12 +5,10 @@ topic: adavailabilityviewconfigfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.977Z
+lastCollected: 2026-04-07T18:39:24.885Z
 estimatedTokens: 393
-keywords: [AdAvailabilityViewConfigFeed, Feed, tracking, AdAvailabilityViewConfig]
+keywords: [AdAvailabilityViewConfigFeed, AdAvailabilityViewConfig]
 ---
-
-# AdAvailabilityViewConfigFeed
 
 > Feed tracking for AdAvailabilityViewConfig.
 

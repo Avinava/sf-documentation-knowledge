@@ -5,12 +5,10 @@ topic: programrebatetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:47.593Z
+lastCollected: 2026-04-07T18:38:39.068Z
 estimatedTokens: 1600
-keywords: [ProgramRebateType, rebate, structure, associated, Program, API, version, 63.0, later, Calls]
+keywords: [ProgramRebateType, rebate, structure, Program, API, 63.0]
 ---
-
-# ProgramRebateType
 
 > Represents a rebate structure associated with a Rebate Program. This
       object is available in API version 63.0 and later.

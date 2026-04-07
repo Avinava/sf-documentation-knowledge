@@ -5,12 +5,10 @@ topic: clonetosalesqlis-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.940Z
+lastCollected: 2026-04-07T18:37:32.106Z
 estimatedTokens: 78
 keywords: [CloneTo_SalesQLIs, API, Clone, working, cart, quote, line, items, QLIs, sales, CloneTo, _SalesQLIs, URI, HTTP]
 ---
-
-# CloneTo_SalesQLIs API
 
 > Clone the working cart quote line items (QLIs) to sales QLIs.
 

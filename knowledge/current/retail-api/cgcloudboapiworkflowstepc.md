@@ -5,12 +5,10 @@ topic: cgcloudboapiworkflowstepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:19.633Z
+lastCollected: 2026-04-07T18:39:13.053Z
 estimatedTokens: 1094
-keywords: [cgcloud__BO_API_Workflow_Step__c, stores, definitions, workflow, step, API, version, 54.0, later, cgcloud, _BO, _API, _Workflow, _Step, Calls]
+keywords: [cgcloud__BO_API_Workflow_Step__c, stores, definitions, workflow, step, API, 54.0, cgcloud, _BO, _API, _Workflow, _Step]
 ---
-
-# cgcloud__BO_API_Workflow_Step__c
 
 > This table stores the definitions of the workflow step. This
       object is available in API version 54.0 and later.

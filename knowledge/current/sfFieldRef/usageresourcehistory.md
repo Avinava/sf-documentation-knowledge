@@ -5,12 +5,10 @@ topic: usageresourcehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.086Z
+lastCollected: 2026-04-07T18:40:04.901Z
 estimatedTokens: 261
-keywords: [UsageResourceHistory, History, tracked, UsageResource]
+keywords: [UsageResourceHistory, tracked, UsageResource]
 ---
-
-# UsageResourceHistory
 
 > History for tracked fields of UsageResource.
 

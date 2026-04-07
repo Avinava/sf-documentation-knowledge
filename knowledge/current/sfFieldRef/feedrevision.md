@@ -5,12 +5,10 @@ topic: feedrevision
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.741Z
+lastCollected: 2026-04-07T18:39:40.391Z
 estimatedTokens: 314
-keywords: [FeedRevision, Holds, revision, history, specific, feed, item, comment, including, attributes, changed, API, version, 34.0, later]
+keywords: [FeedRevision, Holds, revision, specific, item, comment, including, attributes, changed, API, 34.0]
 ---
-
-# FeedRevision
 
 > Holds the revision history of a specific feed item or comment,
       including a list of attributes that changed for each revision. This object is available in API version 34.0 and

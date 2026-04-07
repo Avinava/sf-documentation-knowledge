@@ -5,12 +5,10 @@ topic: balance-state-preview-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.833Z
+lastCollected: 2026-04-07T18:37:16.900Z
 estimatedTokens: 335
-keywords: [Balance, State, Preview, Output, generated, balances, order, cart, including, totals, adjustments, taxes]
+keywords: [Balance, State, Preview, generated, balances, order, cart, including, totals, adjustments, taxes]
 ---
-
-# Balance State Preview Output
 
 > The generated preview of all balances for an order or a cart, including totals,
     adjustments, and taxes.

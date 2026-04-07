@@ -5,12 +5,10 @@ topic: understanding-place-order-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:04.846Z
+lastCollected: 2026-04-07T18:36:51.139Z
 estimatedTokens: 322
 keywords: [Understanding, Place, Order, REST, API, Resources, Integrate, creation, system, Salesforce]
 ---
-
-# Understanding Place Order REST API Resources
 
 > Integrate your order creation system with Salesforce by using the Place Order REST
     API.

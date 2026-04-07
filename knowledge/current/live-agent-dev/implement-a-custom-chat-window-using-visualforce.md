@@ -5,12 +5,10 @@ topic: implement-a-custom-chat-window-using-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.908Z
+lastCollected: 2026-04-07T18:38:06.145Z
 estimatedTokens: 696
-keywords: [Implement, Custom, Chat, Window, Visualforce, windows, visitors, exchange, messages, support, agents, deployments, includes, customized, add]
+keywords: [Implement, Chat, Window, Visualforce, windows, visitors, exchange, messages, support, agents, deployments, includes, customized, add, styling, functionality, HTML, CSS, JavaScript]
 ---
-
-# Implement a Custom Chat Window Using Visualforce
 
 > Chat windows are what visitors use to exchange messages with support agents. Each of your
         Chat deployments includes a chat window. You can create a customized chat window by using

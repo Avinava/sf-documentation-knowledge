@@ -5,12 +5,10 @@ topic: product-configurator-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.208Z
+lastCollected: 2026-04-07T18:35:47.238Z
 estimatedTokens: 208
-keywords: [Product, Configurator, Objects, deployment, sequence, Revenue, Cloud, including, API, sequences, lookup]
+keywords: [Product, Configurator, deployment, sequence, Revenue, Cloud, including, API, sequences, lookup]
 ---
-
-# Product Configurator Objects
 
 > This table provides the object deployment sequence and properties for Product
     Configurator in Revenue Cloud, including object types, API names, deployment sequences, and

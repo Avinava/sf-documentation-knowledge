@@ -5,12 +5,10 @@ topic: cgcloudaccountrelationshipc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.332Z
+lastCollected: 2026-04-07T18:39:12.767Z
 estimatedTokens: 1319
-keywords: [cgcloud__Account_Relationship__c, relationship, two, customer, accounts, API, version, 54.0, later, cgcloud, _Account, _Relationship, Calls, Associated, Objects]
+keywords: [cgcloud__Account_Relationship__c, relationship, two, customer, accounts, API, 54.0, cgcloud, _Account, _Relationship]
 ---
-
-# cgcloud__Account_Relationship__c
 
 > This object represents the relationship between two customer
          accounts. This object is available in API version 54.0 and later.

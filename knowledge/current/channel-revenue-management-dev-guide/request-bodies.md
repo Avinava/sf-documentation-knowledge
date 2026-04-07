@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.368Z
+lastCollected: 2026-04-07T18:37:06.064Z
 estimatedTokens: 97
 keywords: [Bodies, Here’s, Rebate, Management, Business, API, Stock, Rotation, APIs]
 ---
-
-# Request Bodies
 
 > Learn more about the available request bodies of Stock Rotation APIs.
 

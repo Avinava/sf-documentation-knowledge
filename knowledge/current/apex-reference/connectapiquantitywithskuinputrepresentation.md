@@ -5,12 +5,10 @@ topic: connectapiquantitywithskuinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.835Z
+lastCollected: 2026-04-07T18:36:06.184Z
 estimatedTokens: 80
 keywords: [quantity, product]
 ---
-
-# ConnectApi.QuantityWithSkuInputRepresentation
 
 > A quantity of a product.
 

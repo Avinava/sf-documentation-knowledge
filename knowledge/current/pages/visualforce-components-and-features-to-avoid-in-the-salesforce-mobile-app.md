@@ -6,13 +6,10 @@ topic: visualforce-components-and-features-to-avoid-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.516Z
+lastCollected: 2026-04-07T18:38:52.823Z
 estimatedTokens: 483
-keywords: [Visualforce, Components, Features, Avoid, Salesforce, Mobile, App, core, apex, function, normally, Unfortunately, doesn’t, mean, they’re]
+keywords: [Visualforce, Features, Avoid, Salesforce, Mobile, App, core, apex, function, normally, Unfortunately, doesn’t, mean, they’re, optimized, every, feature, works, improve, user, experience, pages, straightforward]
 ---
-
-# Visualforce Components and Features to Avoid in the Salesforce
-            Mobile App
 
 > Most core Visualforce components (those components in the apex namespace) function normally within the Salesforce
         mobile app. Unfortunately, that doesn’t mean they’re optimized for mobile, or that every

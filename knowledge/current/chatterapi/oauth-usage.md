@@ -5,12 +5,10 @@ topic: oauth-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.002Z
+lastCollected: 2026-04-07T18:37:16.081Z
 estimatedTokens: 208
-keywords: [OAuth, Usage, external, client, apps, data]
+keywords: [OAuth, external, client, apps]
 ---
-
-# OAuth Usage
 
 > Get a list of external client apps that have OAuth usage
     data.

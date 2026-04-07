@@ -5,12 +5,10 @@ topic: rowsupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.604Z
+lastCollected: 2026-04-07T18:40:23.037Z
 estimatedTokens: 170
-keywords: [Rows.Update, Function, Ordinal, column, Identifies, columns, search, data, **Overview**, **Syntax**]
+keywords: [Rows.Update, Function, Ordinal, column, Identifies, columns, search, **Overview**, **Syntax**]
 ---
-
-# Rows.Update
 
 > Rows.Update(1, 2, 3)
 

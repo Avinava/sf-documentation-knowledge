@@ -5,12 +5,10 @@ topic: files-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.338Z
+lastCollected: 2026-04-07T18:37:09.109Z
 estimatedTokens: 163
-keywords: [Files, Capability, Input, Attach, already, uploaded, remove, feed, element]
+keywords: [Files, Capability, Attach, already, uploaded, remove]
 ---
-
-# Files Capability Input
 
 > Attach up to 10 files that have already been uploaded or remove one or
       more files from a feed element.

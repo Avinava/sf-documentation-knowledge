@@ -5,12 +5,10 @@ topic: create-and-upload-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:02.105Z
+lastCollected: 2026-04-07T18:38:54.524Z
 estimatedTokens: 3710
 keywords: [Upload, First-Generation, Managed, Package, procedure, Tooling, API, sample, code, PackageUploadRequest, Developer]
 ---
-
-# Create and Upload a First-Generation Managed Package
 
 > Use the following procedure to create and upload a managed package through the UI. You
     can also upload a package using the Tooling API. For sample code and more details, see the

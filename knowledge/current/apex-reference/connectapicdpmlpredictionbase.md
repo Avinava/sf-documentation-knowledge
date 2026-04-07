@@ -5,12 +5,10 @@ topic: connectapicdpmlpredictionbase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.536Z
+lastCollected: 2026-04-07T18:36:07.914Z
 estimatedTokens: 56
 keywords: [ConnectApi.CdpMlPredictionBase, Prediction, result]
 ---
-
-# ConnectApi.CdpMlPredictionBase
 
 > Prediction result.
 

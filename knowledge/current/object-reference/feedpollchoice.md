@@ -5,12 +5,10 @@ topic: feedpollchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.296Z
+lastCollected: 2026-04-07T18:38:32.270Z
 estimatedTokens: 303
-keywords: [FeedPollChoice, choices, poll, posted, feed, API, version, 29.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [FeedPollChoice, choices, poll, posted, API, 29.0]
 ---
-
-# FeedPollChoice
 
 > Shows the choices for a poll posted in the
         feed. This object is available in API version 29.0 and later.

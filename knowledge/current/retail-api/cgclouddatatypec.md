@@ -5,12 +5,10 @@ topic: cgclouddatatypec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.010Z
+lastCollected: 2026-04-07T18:39:13.419Z
 estimatedTokens: 1281
-keywords: [cgcloud__Data_Type__c, Stores, flexible, data, API, version, 54.0, later, cgcloud, _Data, _Type, Calls, Associated, Objects]
+keywords: [cgcloud__Data_Type__c, Stores, flexible, API, 54.0, cgcloud, _Data, _Type]
 ---
-
-# cgcloud__Data_Type__c
 
 > Stores the flexible data type. This object is available in API
       version 54.0 and later.

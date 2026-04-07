@@ -5,12 +5,10 @@ topic: product-variation-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.122Z
+lastCollected: 2026-04-07T18:37:22.230Z
 estimatedTokens: 212
 keywords: [Product, Variation, Info, attributes, metadata, mappings, attribute, combinations, IDs]
 ---
-
-# Product Variation Info
 
 > Product variation attributes, metadata, and mappings of attribute
       combinations to variation product IDs.

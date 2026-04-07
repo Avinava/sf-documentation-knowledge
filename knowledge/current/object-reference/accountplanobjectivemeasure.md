@@ -5,12 +5,10 @@ topic: accountplanobjectivemeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.585Z
+lastCollected: 2026-04-07T18:38:24.462Z
 estimatedTokens: 1177
-keywords: [AccountPlanObjectiveMeasure, performance, target, metrics, objective, associated, account, plan, API, version, 62.0, later, Calls, Special, Access]
+keywords: [AccountPlanObjectiveMeasure, performance, target, metrics, objective, account, plan, API, 62.0]
 ---
-
-# AccountPlanObjectiveMeasure
 
 > Represents the performance of target metrics for an objective associated with
          the account plan. This object is available in API version 62.0 and later.

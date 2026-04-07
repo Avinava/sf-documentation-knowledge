@@ -5,12 +5,10 @@ topic: match-result-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.894Z
+lastCollected: 2026-04-07T18:40:11.904Z
 estimatedTokens: 91
 keywords: [Match, Result, Info, results]
 ---
-
-# Match Result Info
 
 > Information about the results of a match.
 

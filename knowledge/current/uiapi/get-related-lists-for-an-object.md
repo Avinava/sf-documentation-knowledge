@@ -5,12 +5,10 @@ topic: get-related-lists-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.441Z
+lastCollected: 2026-04-07T18:40:11.434Z
 estimatedTokens: 250
 keywords: [object’s, layout]
 ---
-
-# Get Related Lists for an Object
 
 > Returns the related lists in an object’s default
         layout.

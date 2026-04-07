@@ -5,12 +5,10 @@ topic: transactional-messaging-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.441Z
+lastCollected: 2026-04-07T18:40:20.687Z
 estimatedTokens: 601
-keywords: [Transactional, Messaging, API, documentation, triggered, managed, Email, Studio, review, Scenario, Considerations, Items]
+keywords: [Considerations, Transactional, Messaging, API, documentation, triggered, managed, Email, Studio, review, Scenario, Items]
 ---
-
-# Transactional Messaging API
 
 > This documentation applies only to the Transactional Messaging API. For triggered sends that are managed in Email Studio, review the Triggered Email Scenario Guide.
 

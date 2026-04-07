@@ -6,13 +6,10 @@ topic: accessibility-with-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:32.894Z
+lastCollected: 2026-04-07T18:40:28.038Z
 estimatedTokens: 678
-keywords: [Accessibility, iOS, Service, Chat, SDK, accessible, customers, screen, reader, Depending, needs, change, settings, expand, Disable]
+keywords: [Accessibility, iOS, Service, Chat, SDK, accessible, customers, screen, reader, Depending, needs, change, settings, expand, Disable, Minimized, View, Contrast, Ratio, Considerations, Dynamic, Text]
 ---
-
-# Accessibility with the  for iOS for
-      iOS
 
 > The Service Chat SDK is accessible to customers
       that use a screen reader. Depending on your needs, you can also change some settings to expand

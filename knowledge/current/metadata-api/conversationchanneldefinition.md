@@ -5,12 +5,10 @@ topic: conversationchanneldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.525Z
+lastCollected: 2026-04-07T18:36:23.855Z
 estimatedTokens: 3176
-keywords: [ConversationChannelDefinition, conversation, channel, definition, that’s, implemented, Interaction, Service, Bring, Own, Messaging, CCaaS, channels, API, version]
+keywords: [ConversationChannelDefinition, conversation, channel, definition, that’s, implemented, Interaction, Service, Bring, Own, Messaging, CCaaS, channels, API, 60.0, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---
-
-# ConversationChannelDefinition
 
 > Represents the conversation channel definition that’s
 			implemented for Interaction Service for Bring Your Own Channel for Messaging and Bring Your Own

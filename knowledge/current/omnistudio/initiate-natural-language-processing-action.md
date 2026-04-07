@@ -5,12 +5,10 @@ topic: initiate-natural-language-processing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.708Z
+lastCollected: 2026-04-07T18:36:35.171Z
 estimatedTokens: 442
-keywords: [Initiate, Natural, Language, Processing, Action, record, result, text, service, Special, Access, Rules, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Initiate, Natural, Language, Processing, Action, record, result, text, service, REST, HTTP]
 ---
-
-# Initiate Natural Language Processing Action
 
 > Create a record for the AI natural language processing result and
    initiate text processing by using the service specified in the related record.

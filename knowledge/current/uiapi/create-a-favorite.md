@@ -5,12 +5,10 @@ topic: create-a-favorite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.980Z
+lastCollected: 2026-04-07T18:40:10.967Z
 estimatedTokens: 242
 keywords: [Favorite]
 ---
-
-# Create a Favorite
 
 > Create a favorite.
 

@@ -5,12 +5,10 @@ topic: twofactorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:51.183Z
+lastCollected: 2026-04-07T18:38:42.893Z
 estimatedTokens: 355
-keywords: [TwoFactorInfo, Stores, user’s, secret, multi-factor, operations, customizing, authentication, organization, formerly, two-factor, API, version, 32.0, later]
+keywords: [TwoFactorInfo, Stores, user’s, secret, multi-factor, operations, customizing, authentication, organization, formerly, two-factor, API, 32.0]
 ---
-
-# TwoFactorInfo
 
 > Stores a user’s secret for
 				multi-factor operations. Use this object when customizing multi-factor

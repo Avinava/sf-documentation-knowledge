@@ -5,12 +5,10 @@ topic: documenttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.079Z
+lastCollected: 2026-04-07T18:38:29.944Z
 estimatedTokens: 356
-keywords: [DocumentTag, Associates, word, short, phrase, Document, Calls, Usage]
+keywords: [DocumentTag, Associates, word, short, phrase, Document]
 ---
-
-# DocumentTag
 
 > Associates a word or short phrase with a Document.
 

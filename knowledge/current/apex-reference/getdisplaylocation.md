@@ -5,12 +5,10 @@ topic: getdisplaylocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.037Z
+lastCollected: 2026-04-07T18:35:59.309Z
 estimatedTokens: 306
-keywords: [getDisplayLocation, Retrieves, display, location, canvas, app, Visualforce, Usage]
+keywords: [getDisplayLocation, Retrieves, display, location, canvas, app, Visualforce]
 ---
-
-# getDisplayLocation()
 
 > Retrieves the display location where
 the canvas app is being called from. For example, a value of Visualforce page.

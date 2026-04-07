@@ -5,12 +5,10 @@ topic: get-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.104Z
+lastCollected: 2026-04-07T18:35:39.878Z
 estimatedTokens: 1438
-keywords: [Product, Action, attributes, hierarchy, cardinality, Special, Access, Rules, REST, HTTP, Inputs, Outputs, Usage, Apex-Defined, Data]
+keywords: [Inputs, Outputs, Product, Action, attributes, hierarchy, cardinality, REST, HTTP, Apex-Defined, Flow]
 ---
-
-# Get Product Details Action
 
 > Get details such as attributes, hierarchy, and cardinality for the
 			specified product.

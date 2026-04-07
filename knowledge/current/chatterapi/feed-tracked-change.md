@@ -5,12 +5,10 @@ topic: feed-tracked-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.141Z
+lastCollected: 2026-04-07T18:37:19.263Z
 estimatedTokens: 262
-keywords: [Feed, Tracked, Change]
+keywords: [Tracked, Change]
 ---
-
-# Feed Tracked Change
 
 > Feed tracked change.
 

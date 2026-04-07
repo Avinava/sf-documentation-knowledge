@@ -5,12 +5,10 @@ topic: carttoordercompletedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.936Z
+lastCollected: 2026-04-07T18:38:58.793Z
 estimatedTokens: 609
-keywords: [CartToOrderCompletedEvent, row, notifies, subscribers, actions, standard, createOrderFromCart, REST, successful, event, Order, record, isn’t, errors, associated]
+keywords: [CartToOrderCompletedEvent, row, notifies, subscribers, actions, standard, createOrderFromCart, REST, successful, event, Order, record, isn’t, errors, API, 66.0, Subscription, Channel]
 ---
-
-# CartToOrderCompletedEvent
 
 > Each row represents information that notifies subscribers when the
             /actions/standard/createOrderFromCart REST request is

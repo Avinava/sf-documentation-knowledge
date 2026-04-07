@@ -5,12 +5,10 @@ topic: fscplanservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.723Z
+lastCollected: 2026-04-07T18:37:34.239Z
 estimatedTokens: 103
 keywords: [FSCPlanService]
 ---
-
-# FSCPlanService Methods
 
 > The following are methods for FSCPlanService.
 

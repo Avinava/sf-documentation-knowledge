@@ -5,12 +5,10 @@ topic: mktjourneydcsnsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.488Z
+lastCollected: 2026-04-07T18:38:35.736Z
 estimatedTokens: 346
-keywords: [MktJourneyDcsnSetup, collection, Marketing, Cloud, Engagement, journeys, interact, Salesforce, Flow, API, version, 65.0, later, Calls]
+keywords: [MktJourneyDcsnSetup, collection, Marketing, Cloud, Engagement, journeys, interact, Salesforce, Flow, API, 65.0]
 ---
-
-# MktJourneyDcsnSetup
 
 > Represents a collection of Marketing Cloud Engagement journeys that you can
          interact with by using Salesforce Flow in Marketing Cloud. This object is available in

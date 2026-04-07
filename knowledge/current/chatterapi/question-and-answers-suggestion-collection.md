@@ -5,12 +5,10 @@ topic: question-and-answers-suggestion-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.306Z
+lastCollected: 2026-04-07T18:37:22.412Z
 estimatedTokens: 103
 keywords: [Question, Answers, Suggestion, Collection, suggestions, search, result]
 ---
-
-# Question and Answers Suggestion Collection
 
 > Question and answers suggestions search result.
 

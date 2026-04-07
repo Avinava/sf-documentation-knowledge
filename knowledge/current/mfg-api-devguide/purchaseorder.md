@@ -5,12 +5,10 @@ topic: purchaseorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.063Z
+lastCollected: 2026-04-07T18:38:14.451Z
 estimatedTokens: 891
-keywords: [PurchaseOrder, Purchase, Order, entity, captures, formal, Buyer, Supplier, supply, goods, services, identified, unique, PurchaseOrderNumber, tracks]
+keywords: [PurchaseOrder, Purchase, Order, entity, captures, formal, Buyer, Supplier, supply, goods, services, identified, unique, PurchaseOrderNumber, tracks, order's, lifecycle, via, StatusCode, commercial, terms, TotalAmount, BillingAccount, governing, PriceBook, API, 65.0]
 ---
-
-# PurchaseOrder
 
 > Represents the Purchase Order entity that captures a formal request from a
       Buyer to a Supplier to supply goods or services. It is identified by a unique

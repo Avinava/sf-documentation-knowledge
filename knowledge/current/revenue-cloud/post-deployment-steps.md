@@ -5,12 +5,10 @@ topic: post-deployment-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.598Z
+lastCollected: 2026-04-07T18:35:47.623Z
 estimatedTokens: 243
-keywords: [Post-Deployment, Steps, deployments, require, take, actions, deployment, target, org, ensure, proper, functionality, data, integrity]
+keywords: [Post-Deployment, Steps, deployments, require, take, actions, deployment, target, org, ensure, proper, functionality, integrity]
 ---
-
-# Post-Deployment Steps
 
 > Most deployments require that you take some actions after the deployment to the target org is complete to ensure proper functionality and data integrity.
 

@@ -5,12 +5,10 @@ topic: vehiclesearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.010Z
+lastCollected: 2026-04-07T18:36:53.357Z
 estimatedTokens: 3822
-keywords: [VehicleSearchableField, common, dataset, including, multiple, objects, basis, inventory, search, vehicles, API, version, 58.0, later, Calls]
+keywords: [VehicleSearchableField, common, dataset, including, multiple, basis, inventory, search, vehicles, API, 58.0]
 ---
-
-# VehicleSearchableField
 
 > Represents a common dataset including multiple fields and values from
          multiple objects and is used as the basis for inventory search related to vehicles.

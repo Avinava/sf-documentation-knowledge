@@ -5,12 +5,10 @@ topic: query-context-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.805Z
+lastCollected: 2026-04-07T18:36:37.331Z
 estimatedTokens: 137
-keywords: [Query, Context, Record, Input, representation]
+keywords: [Query, Context, Record]
 ---
-
-# Query Context Record Input
 
 > Input representation of query context record.
 

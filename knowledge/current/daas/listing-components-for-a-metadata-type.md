@@ -5,12 +5,10 @@ topic: listing-components-for-a-metadata-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.018Z
+lastCollected: 2026-04-07T18:37:28.051Z
 estimatedTokens: 800
-keywords: [Listing, Components, Metadata, listMetadata, target, retrieves, components.This, useful, identify, individual, package.xml, retrieval, high-level, view, particular]
+keywords: [Listing, Metadata, listMetadata, target, retrieves, components.This, useful, identify, individual, package.xml, retrieval, high-level, view, particular, CustomObject, Layout, retrieve, subset]
 ---
-
-# Listing Components for a Metadata Type
 
 > The listMetadata target retrieves property information
     about your metadata components.This target is useful to identify

@@ -5,12 +5,10 @@ topic: to-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.349Z
+lastCollected: 2026-04-07T18:37:11.089Z
 estimatedTokens: 1205
-keywords: [Feed, Items, @mentions, context, user, posts, made, user's, Flat]
+keywords: [Items, @mentions, context, user, posts, made, user's, Flat]
 ---
-
-# To Feed Items
 
 > Get the feed items for @mentions of the context user and posts made
       to the user's feed.

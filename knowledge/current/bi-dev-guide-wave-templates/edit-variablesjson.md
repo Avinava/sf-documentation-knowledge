@@ -5,12 +5,10 @@ topic: edit-variablesjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.843Z
+lastCollected: 2026-04-07T18:37:02.396Z
 estimatedTokens: 1141
-keywords: [Edit, variables.json, file, variables, template-info.json, ui.json, different, rules.json, files, Examples]
+keywords: [Examples, Edit, variables.json, file, variables, template-info.json, ui.json, different, rules.json, files]
 ---
-
-# Edit variables.json
 
 > The variables.json file describes all the variables
   used in the template-info.json, ui.json, and the different rules.json

@@ -5,12 +5,10 @@ topic: healthcareservicedetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.304Z
+lastCollected: 2026-04-07T18:39:43.935Z
 estimatedTokens: 274
-keywords: [HealthcareServiceDetailHistory, History, tracked, HealthcareServiceDetail]
+keywords: [HealthcareServiceDetailHistory, tracked, HealthcareServiceDetail]
 ---
-
-# HealthcareServiceDetailHistory
 
 > History for tracked fields of HealthcareServiceDetail.
 

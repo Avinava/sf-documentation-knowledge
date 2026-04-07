@@ -5,12 +5,10 @@ topic: platformeventusagemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.823Z
+lastCollected: 2026-04-07T18:38:38.173Z
 estimatedTokens: 1969
-keywords: [PlatformEventUsageMetric, usage, data, event, publishing, delivery, CometD, Pub, Sub, API, clients, empApi, Lightning, components, relays]
+keywords: [PlatformEventUsageMetric, event, publishing, delivery, CometD, Pub, Sub, API, clients, empApi, Lightning, relays, Enhanced, Metrics, isn't, enabled, hours, ending, hour, historical, daily, 58.0, enable, client, granular, time, intervals, separate, platform, events, change, capture, 50.0]
 ---
-
-# PlatformEventUsageMetric
 
 > Contains usage data for event publishing and delivery to CometD and Pub/Sub API
       clients, empApi Lightning components, and event relays. If

@@ -5,12 +5,10 @@ topic: set-the-voice-call-record-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.827Z
+lastCollected: 2026-04-07T18:40:12.781Z
 estimatedTokens: 512
 keywords: [Voice, Call, Record, Configure, Amazon, Connect, flow, automatically]
 ---
-
-# Set the Voice Call Record Type
 
 > Configure an Amazon Connect flow to automatically set the record
       type for a voice call record.

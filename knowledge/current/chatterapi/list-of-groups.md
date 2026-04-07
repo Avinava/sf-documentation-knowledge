@@ -5,12 +5,10 @@ topic: list-of-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.275Z
+lastCollected: 2026-04-07T18:37:14.238Z
 estimatedTokens: 1037
 keywords: [Groups, organization, group]
 ---
-
-# List of Groups
 
 > A list of all the groups in the organization. Get
    information about groups or create a group.

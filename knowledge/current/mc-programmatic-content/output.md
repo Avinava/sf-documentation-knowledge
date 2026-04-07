@@ -5,12 +5,10 @@ topic: output
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.253Z
+lastCollected: 2026-04-07T18:40:22.668Z
 estimatedTokens: 162
-keywords: [Output, Function, Ordinal, Code, produce, results, system, **Overview**, **Syntax**, Usage]
+keywords: [Function, Ordinal, Code, produce, results, system, **Overview**, **Syntax**]
 ---
-
-# Output
 
 > Output(1)
 

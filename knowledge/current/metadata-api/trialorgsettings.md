@@ -5,12 +5,10 @@ topic: trialorgsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.802Z
+lastCollected: 2026-04-07T18:36:30.210Z
 estimatedTokens: 503
-keywords: [TrialOrgSettings, settings, trial, user’s, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
+keywords: [TrialOrgSettings, settings, trial, user’s, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# TrialOrgSettings
 
 > Represents the settings in a trial user’s org. This type extends the Metadata metadata type and inherits its fullName field.
 

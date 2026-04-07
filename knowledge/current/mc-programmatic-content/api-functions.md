@@ -5,12 +5,10 @@ topic: api-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.881Z
+lastCollected: 2026-04-07T18:40:23.299Z
 estimatedTokens: 115
-keywords: [API, Functions, Access, SOAP, allowing, objects, Marketing, Cloud, account, via, include, new, messages, subscribers, entities]
+keywords: [API, Functions, SOAP, allowing, Marketing, Cloud, account, via, include, new, messages, subscribers, entities]
 ---
-
-# API Functions
 
 > Access the SOAP API using these functions, allowing you to create objects within a Marketing Cloud account via the SOAP API. These objects can include new messages, subscribers, or other entities within the Marketing Cloud account.
 

@@ -5,12 +5,10 @@ topic: serviceterritorymember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.101Z
+lastCollected: 2026-04-07T18:39:20.900Z
 estimatedTokens: 1114
-keywords: [ServiceTerritoryMember, service, resource, assigned, appointments, territory, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special, Access]
+keywords: [ServiceTerritoryMember, service, resource, assigned, appointments, territory, Salesforce, Scheduler, API, 38.0]
 ---
-
-# ServiceTerritoryMember
 
 > Represents a service resource who can be assigned to service
 			appointments in a service territory in Salesforce Scheduler. This object is

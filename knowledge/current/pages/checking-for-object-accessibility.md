@@ -5,12 +5,10 @@ topic: checking-for-object-accessibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.868Z
+lastCollected: 2026-04-07T18:38:51.108Z
 estimatedTokens: 249
 keywords: [Checking, Accessibility, user, insufficient, privileges, view, any, Visualforce, uses, controller, render, inaccessible, avoid, error, ensure]
 ---
-
-# Checking for Object Accessibility
 
 > If a user has insufficient privileges to view an object, any
 		Visualforce page that uses a controller to render that object is

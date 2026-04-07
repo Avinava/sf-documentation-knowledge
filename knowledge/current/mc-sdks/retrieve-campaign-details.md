@@ -5,12 +5,10 @@ topic: retrieve-campaign-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.975Z
+lastCollected: 2026-04-07T18:40:24.477Z
 estimatedTokens: 517
-keywords: [Retrieve, Campaign, campaigns, Ruby, PHP, Python, CSharp, Java, Filtering, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Campaign, campaigns, PHP, Filtering, Requests]
 ---
-
-# Retrieve Campaign Details
 
 > Use the Get method to return information about existing campaigns.
 

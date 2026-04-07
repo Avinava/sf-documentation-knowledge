@@ -5,12 +5,10 @@ topic: receipt-status-updation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.307Z
+lastCollected: 2026-04-07T18:38:09.597Z
 estimatedTokens: 550
-keywords: [Receipt, Status, Updation, reward, points, transaction, journal, line, item, Resource, HTTP, Input, Sample, Output]
+keywords: [Resource, Receipt, Status, Updation, reward, points, transaction, journal, line, item, HTTP, Sample]
 ---
-
-# Receipt Status Updation
 
 > Update the status of the receipt, reward points, and create a transaction journal for
   each line item in the receipt.

@@ -5,12 +5,10 @@ topic: orgdomainlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.216Z
+lastCollected: 2026-04-07T18:36:33.604Z
 estimatedTokens: 616
-keywords: [OrgDomainLog, Salesforce, org’s, previous, Domain, API, version, 51.0, later, SOAP, Calls, REST, Usage]
+keywords: [OrgDomainLog, Salesforce, org’s, previous, Domain, API, 51.0, SOAP, REST]
 ---
-
-# OrgDomainLog
 
 > Represents a Salesforce org’s previous My Domain. This object is available
     in API version 51.0 and later.

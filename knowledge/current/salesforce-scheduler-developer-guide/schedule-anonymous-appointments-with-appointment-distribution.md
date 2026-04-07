@@ -5,12 +5,10 @@ topic: schedule-anonymous-appointments-with-appointment-distribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.782Z
+lastCollected: 2026-04-07T18:39:21.643Z
 estimatedTokens: 934
-keywords: [Schedule, Anonymous, Appointments, Appointment, Distribution, Build, scheduling, app, Salesforce, Scheduler, APIs, book, service, via, phone]
+keywords: [Schedule, Anonymous, Appointments, Appointment, Distribution, Build, scheduling, app, Salesforce, Scheduler, APIs, book, service, via, phone, video, conferences, large, virtual, territory, territories, too, resources, show, least, consumed, begin, task]
 ---
-
-# Schedule Anonymous Appointments with Appointment Distribution
 
 > Build a scheduling app by using Salesforce Scheduler APIs to book anonymous service
    appointments via phone calls and video conferences within a large, virtual service territory. For

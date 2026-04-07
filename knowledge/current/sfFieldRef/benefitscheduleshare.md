@@ -5,12 +5,10 @@ topic: benefitscheduleshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.156Z
+lastCollected: 2026-04-07T18:39:29.273Z
 estimatedTokens: 250
 keywords: [BenefitScheduleShare, Sharing, BenefitSchedule]
 ---
-
-# BenefitScheduleShare
 
 > Sharing for BenefitSchedule.
 

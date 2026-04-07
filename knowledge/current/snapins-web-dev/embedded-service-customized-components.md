@@ -5,12 +5,10 @@ topic: embedded-service-customized-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.495Z
+lastCollected: 2026-04-07T18:40:09.441Z
 estimatedTokens: 664
-keywords: [Embedded, Service, Customized, Components, Simplify, customization, process, HTML, modern, JavaScript, Lightning, Web, Aura, less, flexible]
+keywords: [Embedded, Service, Customized, Simplify, customization, process, HTML, modern, JavaScript, Lightning, Web, Aura, less, flexible, try, multiple]
 ---
-
-# Embedded Service Customized Components
 
 > Simplify the customization process for Embedded Service using HTML or modern
                 JavaScript with Lightning Web Components. Aura Components are still available but

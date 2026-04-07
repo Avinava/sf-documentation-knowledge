@@ -5,12 +5,10 @@ topic: detection-event-isnt-anomalous
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.825Z
+lastCollected: 2026-04-07T18:39:22.722Z
 estimatedTokens: 592
-keywords: [Detection, Event, Isn’t, Anomalous, Jason, sales, data, analyst, reports, regional, manager, It’s, Jason’s, job, generate]
+keywords: [Detection, Event, Isn’t, Anomalous, Jason, sales, analyst, reports, regional, manager, It’s, Jason’s, job, generate, manager’s, March, account, report, Alia, administrator, org, noticed, ReportAnomalyEvent, generation, activity]
 ---
-
-# Detection Event Isn’t Anomalous
 
 > Jason is a sales data analyst who reports to the regional sales manager. It’s Jason’s job to generate reports for his manager’s sales calls. On March 27, 2019, Jason’s account was used to generate a report. Alia, the administrator for Jason’s org, noticed a ReportAnomalyEvent about this report generation activity.
 

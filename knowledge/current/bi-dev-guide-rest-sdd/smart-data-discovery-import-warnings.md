@@ -5,12 +5,10 @@ topic: smart-data-discovery-import-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.282Z
+lastCollected: 2026-04-07T18:36:59.769Z
 estimatedTokens: 147
-keywords: [Smart, Data, Discovery, Import, Warnings, Einstein, prediction]
+keywords: [Smart, Discovery, Import, Warnings, Einstein, prediction]
 ---
-
-# Smart Data Discovery Import Warnings
 
 > The import warnings for an Einstein Discovery prediction.
 

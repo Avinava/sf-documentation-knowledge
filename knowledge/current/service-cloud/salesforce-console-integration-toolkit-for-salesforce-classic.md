@@ -6,13 +6,10 @@ topic: salesforce-console-integration-toolkit-for-salesforce-classic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.349Z
+lastCollected: 2026-04-07T18:36:49.453Z
 estimatedTokens: 944
-keywords: [Salesforce, Console, Integration, Toolkit, Classic, browser-based, JavaScript, API, programmatic, access, uses, browsers, clients, display, pages]
+keywords: [Salesforce, Console, Integration, Toolkit, Classic, browser-based, JavaScript, API, programmatic, uses, browsers, clients, display, pages, tabs, lets, integrate, third-party, systems, opening, external, application, window, tab]
 ---
-
-# Salesforce Console Integration Toolkit for Salesforce
-    Classic
 
 > The Salesforce Console Integration Toolkit is a browser-based JavaScript API that
     provides you with programmatic access to the console in Salesforce Classic. The Salesforce

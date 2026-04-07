@@ -5,12 +5,10 @@ topic: rsrchstdyrandomizationblock
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:05.705Z
+lastCollected: 2026-04-07T18:40:00.444Z
 estimatedTokens: 376
-keywords: [RsrchStdyRandomizationBlock, block, that’s, generated, research, study, randomization, API, version, 61.0, later]
+keywords: [RsrchStdyRandomizationBlock, block, that’s, generated, research, study, randomization, API, 61.0]
 ---
-
-# RsrchStdyRandomizationBlock
 
 > Represents the details of a block that’s generated through the parameters
          specified in the research study randomization. This object is available in API version

@@ -6,13 +6,10 @@ topic: datetostringdatetime-dateonly-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.291Z
+lastCollected: 2026-04-07T18:37:00.853Z
 estimatedTokens: 177
 keywords: [date_to_string, DateTime, DateOnly, Converts, date, _to, _string]
 ---
-
-# date_to_string(DateTime |
-        DateOnly, format)
 
 > Converts a date to a string.
 

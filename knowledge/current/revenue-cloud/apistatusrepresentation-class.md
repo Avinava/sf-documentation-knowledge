@@ -5,12 +5,10 @@ topic: apistatusrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.106Z
+lastCollected: 2026-04-07T18:35:40.977Z
 estimatedTokens: 584
 keywords: [ApiStatusRepresentation, Stores, API, execution, messages, status, code, message, statusCode, statusMessage]
 ---
-
-# ApiStatusRepresentation Class
 
 > Stores details of the API request such as execution messages, status code, and status
     message.

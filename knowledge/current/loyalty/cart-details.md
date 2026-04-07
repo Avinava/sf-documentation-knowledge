@@ -5,12 +5,10 @@ topic: cart-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.557Z
+lastCollected: 2026-04-07T18:38:07.791Z
 estimatedTokens: 393
 keywords: [Cart, line, items, including, initial, amount, adjusted, price, applied, discounts, promotions]
 ---
-
-# Cart Details
 
 > The details of the cart and its line items, including initial amount, adjusted price, and details of all applied discounts and promotions.
 

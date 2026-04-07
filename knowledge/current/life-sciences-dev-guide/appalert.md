@@ -5,12 +5,10 @@ topic: appalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.494Z
+lastCollected: 2026-04-07T18:37:59.043Z
 estimatedTokens: 1327
-keywords: [AppAlert, alert, message, tab, level, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [AppAlert, alert, message, tab, level, API, 65.0]
 ---
-
-# AppAlert
 
 > Represents an alert message at the object, tab, or global level. This object is
       available in API version 65.0 and later.

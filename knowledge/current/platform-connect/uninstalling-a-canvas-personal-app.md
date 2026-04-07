@@ -5,12 +5,10 @@ topic: uninstalling-a-canvas-personal-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.549Z
+lastCollected: 2026-04-07T18:38:57.343Z
 estimatedTokens: 427
-keywords: [Uninstalling, Canvas, Personal, App, user, installs, refresh, token, created, turn, generates, OAuth, stop, end, users]
+keywords: [Uninstalling, Canvas, Personal, App, user, installs, refresh, token, created, turn, generates, OAuth, stop, end, users, accessing, revoked, action, effectively, uninstalls]
 ---
-
-# Uninstalling a Canvas Personal App
 
 > When a user installs and allows a canvas personal app, a refresh token is created,
     which in turn generates an OAuth token. To stop end users from accessing the app, this refresh

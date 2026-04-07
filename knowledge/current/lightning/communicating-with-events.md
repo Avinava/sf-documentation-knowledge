@@ -5,12 +5,10 @@ topic: communicating-with-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.029Z
+lastCollected: 2026-04-07T18:38:04.136Z
 estimatedTokens: 1163
 keywords: [Communicating, Events, framework, uses, event-driven, programming, write, handlers, respond, they, occur, may, triggered, user, interaction]
 ---
-
-# Communicating with Events
 
 > The framework uses event-driven programming. You write handlers that respond to
     interface events as they occur. The events may or may not have been triggered by user

@@ -5,12 +5,10 @@ topic: cgcloudrbfproductmanualinputc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.317Z
+lastCollected: 2026-04-07T18:39:14.727Z
 estimatedTokens: 1077
-keywords: [cgcloud__RBF_Product_Manual_Input__c, junction, Rate-based, Funding, Product, API, version, 54.0, later, cgcloud, _RBF, _Product, _Manual, _Input, Calls]
+keywords: [cgcloud__RBF_Product_Manual_Input__c, junction, Rate-based, Funding, Product, API, 54.0, cgcloud, _RBF, _Product, _Manual, _Input]
 ---
-
-# cgcloud__RBF_Product_Manual_Input__c
 
 > This object represents the junction between Rate-based Funding and
          Product. This object is available in API version 54.0 and later.

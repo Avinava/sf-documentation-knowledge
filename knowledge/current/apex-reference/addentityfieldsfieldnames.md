@@ -5,12 +5,10 @@ topic: addentityfieldsfieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.032Z
+lastCollected: 2026-04-07T18:35:59.304Z
 estimatedTokens: 552
-keywords: [addEntityFields, fieldNames, Adds, signed, Record, component, appears, Visualforce, that’s, placed, Usage]
+keywords: [addEntityFields, fieldNames, Adds, signed, Record, appears, Visualforce, that’s, placed]
 ---
-
-# addEntityFields(fieldNames)
 
 > Adds a set of fields to the list of object fields that are returned in the signed
   request Record object when the component appears on a Visualforce page that’s placed on an

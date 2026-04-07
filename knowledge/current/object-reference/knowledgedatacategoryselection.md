@@ -5,12 +5,10 @@ topic: knowledgedatacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.725Z
+lastCollected: 2026-04-07T18:38:33.904Z
 estimatedTokens: 474
-keywords: [Knowledge__DataCategorySelection, data, category, classifies, article, API, version, 39.0, later, Knowledge, _DataCategorySelection, Calls, Special, Access, Rules]
+keywords: [Knowledge__DataCategorySelection, category, classifies, article, API, 39.0, Knowledge, _DataCategorySelection]
 ---
-
-# Knowledge__DataCategorySelection
 
 > Represents a data category that classifies an article. This object is
     available in API version 39.0 and later.

@@ -5,12 +5,10 @@ topic: close-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.446Z
+lastCollected: 2026-04-07T18:37:17.518Z
 estimatedTokens: 306
-keywords: [Close, Capability, feed, element, users, permission]
+keywords: [Close, Capability, users, permission]
 ---
-
-# Close Capability
 
 > If a feed element has this capability, users with permission can close it.
 

@@ -5,12 +5,10 @@ topic: scheduled-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.105Z
+lastCollected: 2026-04-07T18:36:57.630Z
 estimatedTokens: 251
-keywords: [Scheduled, Item, base, schedule, data, refresh]
+keywords: [Scheduled, Item, base, schedule, refresh]
 ---
-
-# Scheduled Item
 
 > The base schedule for a data refresh.
 

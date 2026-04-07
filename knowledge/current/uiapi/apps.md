@@ -5,12 +5,10 @@ topic: apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.917Z
+lastCollected: 2026-04-07T18:40:10.896Z
 estimatedTokens: 360
-keywords: [Apps, resources, data, metadata, Salesforce, current, user, access]
+keywords: [Apps, resources, metadata, Salesforce, current, user]
 ---
-
-# Apps
 
 > Use these resources to get data and metadata for apps displayed in the Salesforce
     UI.

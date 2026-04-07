@@ -5,12 +5,10 @@ topic: hold-fo-capacity-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.657Z
+lastCollected: 2026-04-07T18:37:19.805Z
 estimatedTokens: 101
-keywords: [Hold, Capacity, Output, fulfillment, order, locations]
+keywords: [Hold, Capacity, fulfillment, order, locations]
 ---
-
-# Hold FO Capacity Response Output
 
 > Response to a request to hold fulfillment order capacity at one or
       more locations.

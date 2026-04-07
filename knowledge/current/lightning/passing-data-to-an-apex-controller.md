@@ -5,12 +5,10 @@ topic: passing-data-to-an-apex-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.651Z
+lastCollected: 2026-04-07T18:38:03.702Z
 estimatedTokens: 620
-keywords: [Passing, Data, Apex, Controller, action.setParams, JavaScript, pass, Different]
+keywords: [Passing, Apex, Controller, action.setParams, JavaScript, pass, Different]
 ---
-
-# Passing Data to an Apex Controller
 
 > Use action.setParams() in JavaScript to set
         data to pass to an Apex controller.

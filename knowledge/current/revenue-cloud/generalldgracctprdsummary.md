@@ -5,12 +5,10 @@ topic: generalldgracctprdsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.333Z
+lastCollected: 2026-04-07T18:35:49.282Z
 estimatedTokens: 837
-keywords: [GeneralLdgrAcctPrdSummary, junction, general, ledger, account, legal, entity, accounting, period, Stores, total, credit, amount, debit, opening]
+keywords: [GeneralLdgrAcctPrdSummary, junction, general, ledger, account, legal, entity, accounting, period, Stores, total, credit, amount, debit, opening, balance, closing, specific, API, 65.0]
 ---
-
-# GeneralLdgrAcctPrdSummary
 
 > Represents a junction between a general ledger account and a legal
          entity accounting period. Stores information about the total credit amount, total debit

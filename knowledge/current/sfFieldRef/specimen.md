@@ -5,12 +5,10 @@ topic: specimen
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.880Z
+lastCollected: 2026-04-07T18:40:02.568Z
 estimatedTokens: 278
-keywords: [Specimen, sample, analysis, API, version, 64.0, later]
+keywords: [Specimen, sample, analysis, API, 64.0]
 ---
-
-# Specimen
 
 > Represents a sample used for analysis. This object is available in API
       version 64.0 and later.

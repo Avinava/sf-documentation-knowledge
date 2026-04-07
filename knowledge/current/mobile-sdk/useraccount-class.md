@@ -5,12 +5,10 @@ topic: useraccount-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.339Z
+lastCollected: 2026-04-07T18:40:26.645Z
 estimatedTokens: 829
-keywords: [UserAccount, user, account, currently, authenticated, encapsulates, data, uniquely, identify]
+keywords: [UserAccount, user, account, currently, authenticated, encapsulates, uniquely, identify]
 ---
-
-# UserAccount Class
 
 > The UserAccount class
 represents a single user account that is currently authenticated.

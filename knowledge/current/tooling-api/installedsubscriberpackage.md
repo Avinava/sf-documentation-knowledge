@@ -5,12 +5,10 @@ topic: installedsubscriberpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.888Z
+lastCollected: 2026-04-07T18:36:33.303Z
 estimatedTokens: 236
-keywords: [InstalledSubscriberPackage, package, first-, second-generation, installed, subscriber’s, org, API, version, 41.0, later, SOAP, Calls, REST, HTTP]
+keywords: [InstalledSubscriberPackage, package, first-, second-generation, installed, subscriber’s, org, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# InstalledSubscriberPackage
 
 > Represents a package (first- or
             second-generation) that is installed in a subscriber’s org. Available in API

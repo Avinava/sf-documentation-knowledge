@@ -5,12 +5,10 @@ topic: get-predictions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.907Z
+lastCollected: 2026-04-07T18:36:58.439Z
 estimatedTokens: 1225
 keywords: [Predictions, Einstein, Prediction, Service, REST, API, endpoint, POST]
 ---
-
-# Get Predictions
 
 > The Einstein Prediction Service provides a REST API endpoint to request a
     prediction.

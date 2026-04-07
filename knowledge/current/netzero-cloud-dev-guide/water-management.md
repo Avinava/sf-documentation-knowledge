@@ -5,12 +5,10 @@ topic: water-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.026Z
+lastCollected: 2026-04-07T18:38:17.559Z
 estimatedTokens: 222
 keywords: [Water, Management, record, water-related, activities, withdrawal, consumption, discharge, calculate, footprints]
 ---
-
-# Water Management
 
 > You can record the water-related activities, such as withdrawal, consumption, or
     discharge of water and calculate the water footprints.

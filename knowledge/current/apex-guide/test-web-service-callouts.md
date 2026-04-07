@@ -5,12 +5,10 @@ topic: test-web-service-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.952Z
+lastCollected: 2026-04-07T18:36:16.172Z
 estimatedTokens: 991
-keywords: [Test, Web, Service, Callouts, Generated, code, saved, Apex, containing, invoke, calling, deploy, package, accompanying, 75%]
+keywords: [Test, Web, Service, Callouts, Generated, code, saved, Apex, containing, invoke, calling, deploy, package, accompanying, 75%, coverage, including, don’t, support, tests, perform, fail, prevent, failing, increase, built-in, WebServiceMock, Test.setMock, receive, fake, responses, Specify, Mock, Testing]
 ---
-
-# Test Web Service Callouts
 
 > Generated code is saved as an Apex class containing the methods you can invoke for
         calling the web service. To deploy or package this Apex class and other accompanying code,

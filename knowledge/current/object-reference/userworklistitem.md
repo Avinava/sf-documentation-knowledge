@@ -5,12 +5,10 @@ topic: userworklistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.163Z
+lastCollected: 2026-04-07T18:38:43.963Z
 estimatedTokens: 159
-keywords: [UserWorkListItem, individual, work, item, tab, Sales, Engagement, users, Calls]
+keywords: [UserWorkListItem, individual, work, item, tab, Sales, Engagement, users]
 ---
-
-# UserWorkListItem
 
 > Represents an individual work item in the My List tab for Sales Engagement
       users.

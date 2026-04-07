@@ -5,12 +5,10 @@ topic: service-cloud-connector-api-class-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.351Z
+lastCollected: 2026-04-07T18:39:23.279Z
 estimatedTokens: 2588
-keywords: [Service, Cloud, Connector, API, Objects, Base]
+keywords: [Service, Cloud, Connector, API, Base]
 ---
-
-# Service Cloud Connector API Class Objects
 
 > These objects are used by the Connector API Methods and the Base Connector
   API.

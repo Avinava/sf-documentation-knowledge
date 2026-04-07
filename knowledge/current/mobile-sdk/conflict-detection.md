@@ -5,12 +5,10 @@ topic: conflict-detection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.053Z
+lastCollected: 2026-04-07T18:40:25.421Z
 estimatedTokens: 931
-keywords: [Conflict, Detection, Model, objects, support, prevent, unwanted, data, loss, saved, server, any, save, operation, regardless]
+keywords: [Conflict, Detection, Model, support, prevent, unwanted, loss, saved, server, any, save, operation, regardless, whether, device, returning, offline, state, MERGE, _MODE.OVERWRITE, _ACCEPT, _YOURS, _FAIL, _IF, _CONFLICT, Fails, Succeeds]
 ---
-
-# Conflict Detection
 
 > Model objects support optional conflict detection to prevent unwanted
 data loss when the object is saved to the server. You can use conflict

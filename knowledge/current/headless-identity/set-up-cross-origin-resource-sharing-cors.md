@@ -5,12 +5,10 @@ topic: set-up-cross-origin-resource-sharing-cors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.332Z
+lastCollected: 2026-04-07T18:37:39.264Z
 estimatedTokens: 339
-keywords: [Cross-Origin, Resource, Sharing, CORS, production, Headless, Identity, features, web, app, enable, communicate, Salesforce, step, isn’t]
+keywords: [Cross-Origin, Resource, Sharing, CORS, production, Headless, Identity, features, web, app, enable, communicate, Salesforce, step, isn’t, necessary, implementation, skip, now, want, how, here’s, it’s]
 ---
-
-# Set Up Cross-Origin Resource Sharing (CORS)
 
 > In production, to use Headless Identity features in a web app, you must enable
   Cross-Origin Resource Sharing (CORS) so that your app can communicate with Salesforce. This step

@@ -5,12 +5,10 @@ topic: socialcontributionsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.750Z
+lastCollected: 2026-04-07T18:40:02.435Z
 estimatedTokens: 456
 keywords: [SocialContributionSum, social, contributions, made, political, non-political, organizations, belonging, financial, non-financial, categories]
 ---
-
-# SocialContributionSum
 
 > Represents information about social contributions made to political
          and non-political organizations belonging to financial and non-financial categories.

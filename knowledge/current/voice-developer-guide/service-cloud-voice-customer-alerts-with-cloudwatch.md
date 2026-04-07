@@ -5,12 +5,10 @@ topic: service-cloud-voice-customer-alerts-with-cloudwatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.694Z
+lastCollected: 2026-04-07T18:40:12.663Z
 estimatedTokens: 518
-keywords: [Service, Cloud, Voice, Customer, Alerts, CloudWatch, Ensure, implementation, running, properly, Amazon, dashboards, alarms, provide, Monitor]
+keywords: [Service, Cloud, Voice, Customer, Alerts, CloudWatch, Ensure, implementation, running, properly, Amazon, dashboards, alarms, provide, Monitor, health, contact, center, two, Fine-tune, they, trigger, something, needs, attention, environment, Notify, right, people, events, new, RealtimeAlertEvent, platform, event]
 ---
-
-# Service Cloud Voice Customer Alerts with CloudWatch
 
 > Ensure that your Service Cloud Voice implementation is running properly with the Amazon
     CloudWatch dashboards and alarms that we provide. Monitor the health of your contact center with

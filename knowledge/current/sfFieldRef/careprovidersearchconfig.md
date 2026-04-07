@@ -5,12 +5,10 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.368Z
+lastCollected: 2026-04-07T18:39:32.765Z
 estimatedTokens: 342
-keywords: [CareProviderSearchConfig, appear, provider, search, results, specify, arbitrary, objects, source, made, target, API, version, 48.0, later]
+keywords: [CareProviderSearchConfig, appear, provider, search, results, specify, arbitrary, source, made, target, API, 48.0]
 ---
-
-# CareProviderSearchConfig
 
 > Represents fields that can appear in provider search results. Use this object to specify fields in arbitrary objects (source) that are made available in the search
 		object (target). This object is available in API version 48.0 and later.

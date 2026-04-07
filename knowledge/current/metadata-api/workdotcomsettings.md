@@ -5,12 +5,10 @@ topic: workdotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.710Z
+lastCollected: 2026-04-07T18:36:21.951Z
 estimatedTokens: 606
-keywords: [WorkDotComSettings, WorkDotCom, settings, extends, Metadata, inherits, fullName, Version, Declarative, Sample, Definition]
+keywords: [WorkDotComSettings, WorkDotCom, settings, extends, Metadata, inherits, fullName, Declarative, Sample, Definition]
 ---
-
-# WorkDotComSettings
 
 > Represents WorkDotCom settings.  This type extends
     the Metadata metadata type and inherits its fullName field.

@@ -5,12 +5,10 @@ topic: consent-action-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.875Z
+lastCollected: 2026-04-07T18:35:52.778Z
 estimatedTokens: 399
-keywords: [Consent, Action, DMO, Data, Cloud, model, user, consents, their, collection, web, activity, tracking, API, Category]
+keywords: [Category, Relationships, Consent, Action, DMO, Cloud, model, user, consents, their, collection, web, activity, API, Primary, Subject, Area, Key]
 ---
-
-# Consent Action DMO
 
 > The Consent Action DMO is a Data Cloud data model object (DMO) for what a
       user consents to be done with their data, for example, data collection or web activity

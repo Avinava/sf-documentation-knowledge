@@ -5,12 +5,10 @@ topic: ispromotiontemplatederivable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.782Z
+lastCollected: 2026-04-07T18:39:11.314Z
 estimatedTokens: 71
-keywords: [isPromotionTemplateDerivable, validates, promotion, derivable, template, Input, Sample]
+keywords: [isPromotionTemplateDerivable, validates, promotion, derivable, template, Sample]
 ---
-
-# isPromotionTemplateDerivable
 
 > This method validates if the given promotion has a derivable promotion template.
 

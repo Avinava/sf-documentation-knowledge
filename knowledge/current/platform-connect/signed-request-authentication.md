@@ -5,12 +5,10 @@ topic: signed-request-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.225Z
+lastCollected: 2026-04-07T18:38:56.990Z
 estimatedTokens: 1229
-keywords: [Signed, Authentication, authorization, Canvas, apps, flow, varies, depending, whether, administrator, gives, users, access, app, self-authorize]
+keywords: [Signed, Authentication, authorization, Canvas, apps, flow, varies, depending, whether, administrator, gives, users, app, self-authorize, verify, client, secret, requests, customize, subsequent, Salesforce]
 ---
-
-# Signed Request Authentication
 
 > Signed request is the default authorization method for Canvas apps. The signed request
   authorization flow varies depending on whether the administrator gives users access to the Canvas

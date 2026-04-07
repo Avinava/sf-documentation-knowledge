@@ -5,13 +5,11 @@ topic: configurableselfreghandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.774Z
+lastCollected: 2026-04-07T18:36:13.061Z
 estimatedTokens: 2061
 namespace: Auth
-keywords: [ConfigurableSelfRegHandler, Gives, control, over, how, customers, partners, self-register, Experience, Cloud, site, creating, implements, Auth.ConfigurableSelfRegHandler, choose]
+keywords: [ConfigurableSelfRegHandler, Gives, control, over, how, customers, partners, self-register, Experience, Cloud, site, creating, implements, Auth.ConfigurableSelfRegHandler, choose, user, collect, users, identify, themselves—with, their, email, address, phone, number, another, identifier, verified, customer, partner, log, createUser, accountId, profileId, registrationAttributes, password, Implementation]
 ---
-
-# ConfigurableSelfRegHandler Interface
 
 > Gives you more control over how customers or partners self-register
       for your Experience Cloud site by creating a class that implements Auth.ConfigurableSelfRegHandler. You choose the user

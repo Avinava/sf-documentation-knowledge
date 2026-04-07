@@ -5,12 +5,10 @@ topic: audiostatselement
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.601Z
+lastCollected: 2026-04-07T18:39:23.531Z
 estimatedTokens: 185
-keywords: [AudioStatsElement, audio, stats, element, include, input, channel, output, Objects]
+keywords: [AudioStatsElement, audio, stats, include, channel]
 ---
-
-# AudioStatsElement
 
 > Represents audio stats element, which can include audio
         input channel stats and audio output channel stats.

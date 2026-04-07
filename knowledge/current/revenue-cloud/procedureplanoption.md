@@ -5,12 +5,10 @@ topic: procedureplanoption
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.033Z
+lastCollected: 2026-04-07T18:35:50.894Z
 estimatedTokens: 974
-keywords: [ProcedurePlanOption, selection, criteria, how, procedure, configured, selected, plan, record, API, version, 62.0, later, SOAP, Calls]
+keywords: [ProcedurePlanOption, selection, criteria, how, procedure, configured, selected, plan, record, API, 62.0, SOAP, REST]
 ---
-
-# ProcedurePlanOption
 
 > Represents the selection criteria of how a procedure can be
          configured for a selected procedure plan section record. This object is available in

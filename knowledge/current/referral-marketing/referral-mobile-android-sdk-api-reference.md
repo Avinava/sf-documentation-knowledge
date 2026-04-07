@@ -5,12 +5,10 @@ topic: referral-mobile-android-sdk-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.493Z
+lastCollected: 2026-04-07T18:39:09.829Z
 estimatedTokens: 180
-keywords: [Referral, Mobile, Android, SDK, API, interacts, Salesforce, APIs, manage, referral-related, operations, enrolling, members, programs, creating]
+keywords: [Referral, Mobile, Android, SDK, API, interacts, Salesforce, APIs, manage, referral-related, operations, enrolling, members, programs, creating, events]
 ---
-
-# Referral Mobile Android SDK API Reference
 
 > The Referral Mobile Android SDK interacts with the Salesforce Referral APIs to manage
     referral-related operations, such as enrolling members in referral programs, and creating

@@ -5,12 +5,10 @@ topic: list-view-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:35.599Z
+lastCollected: 2026-04-07T18:37:22.708Z
 estimatedTokens: 220
-keywords: [View, Column, record’s, how, lay, doesn’t, contain, column’s, data]
+keywords: [View, Column, record’s, how, lay, doesn’t, contain, column’s]
 ---
-
-# List View Column
 
 > Single column of a record’s related list. Describes how to lay out the column;
     doesn’t contain the column’s data.

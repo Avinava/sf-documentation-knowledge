@@ -5,12 +5,10 @@ topic: initiate-upgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.654Z
+lastCollected: 2026-04-07T18:35:44.656Z
 estimatedTokens: 588
-keywords: [Initiate, Upgrade, POST, amendment, moves, lower-tier, product, higher-tier, change, tracked, linked, asset, actions, quote, order]
+keywords: [Initiate, Upgrade, POST, amendment, moves, lower-tier, product, higher-tier, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing]
 ---
-
-# Initiate Upgrade (POST)
 
 > Create an amendment that moves a lower-tier product to a higher-tier
       product. This change is tracked as an upgrade request with linked asset actions and quote or

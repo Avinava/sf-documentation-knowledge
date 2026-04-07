@@ -5,12 +5,10 @@ topic: wavedashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.621Z
+lastCollected: 2026-04-07T18:38:50.855Z
 estimatedTokens: 1359
-keywords: [wave, dashboard, component, add, Salesforce, Analytics, Visualforce, Attributes]
+keywords: [Attributes, wave, dashboard, add, Salesforce, Analytics, Visualforce]
 ---
-
-# wave:dashboard
 
 > Use this component to add a Salesforce Analytics dashboard to a Visualforce page.
 

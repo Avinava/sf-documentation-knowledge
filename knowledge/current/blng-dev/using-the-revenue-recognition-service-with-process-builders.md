@@ -5,12 +5,10 @@ topic: using-the-revenue-recognition-service-with-process-builders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.717Z
+lastCollected: 2026-04-07T18:37:03.285Z
 estimatedTokens: 1461
-keywords: [Revenue, Recognition, Service, Process, Builders, provide, convenient, way, call, you’ve, defined, builder, passing, key, want]
+keywords: [Revenue, Recognition, Service, Process, Builders, provide, convenient, way, call, you’ve, defined, builder, passing, key, want, recognize]
 ---
-
-# Using the Revenue Recognition Service With Process Builders
 
 > Process builders provide a convenient way to call the revenue recognition service. After
   you’ve defined your Revenue Recognition class, your process builder can call the service while

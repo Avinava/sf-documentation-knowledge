@@ -5,12 +5,10 @@ topic: setmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.898Z
+lastCollected: 2026-04-07T18:36:50.076Z
 estimatedTokens: 293
-keywords: [setMessagingComponent, LWC, Lightning, Experience, Inserts, messaging, component, service, rep’s, text, box, insert, works, console, apps]
+keywords: [Arguments, setMessagingComponent, LWC, Lightning, Experience, Inserts, messaging, service, rep’s, text, box, insert, works, console, apps, Sample, Code]
 ---
-
-# setMessagingComponent() for LWC for Lightning Experience
 
 > Inserts a specified messaging component into the service rep’s text box. You can also
   use this method to insert text into the service rep’s text box. This method works only in

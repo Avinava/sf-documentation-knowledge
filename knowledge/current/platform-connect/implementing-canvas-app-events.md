@@ -5,12 +5,10 @@ topic: implementing-canvas-app-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.144Z
+lastCollected: 2026-04-07T18:38:56.857Z
 estimatedTokens: 791
 keywords: [Implementing, Canvas, App, Events, provide, JavaScript-based, way, send, receive, apps, enable, communication, multiple]
 ---
-
-# Implementing Canvas App Events
 
 > Events provide a JavaScript-based
 way to send and receive events between canvas apps. Use events to

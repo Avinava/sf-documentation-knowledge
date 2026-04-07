@@ -5,12 +5,10 @@ topic: regulatoryauthorityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.723Z
+lastCollected: 2026-04-07T18:39:59.386Z
 estimatedTokens: 362
-keywords: [RegulatoryAuthorityFeed, Feed, tracking, RegulatoryAuthority]
+keywords: [RegulatoryAuthorityFeed, RegulatoryAuthority]
 ---
-
-# RegulatoryAuthorityFeed
 
 > Feed tracking for RegulatoryAuthority.
 

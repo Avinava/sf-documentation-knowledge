@@ -5,12 +5,10 @@ topic: enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.310Z
+lastCollected: 2026-04-07T18:36:19.522Z
 estimatedTokens: 1282
-keywords: [Enums, abstract, data, take, finite, identifiers, specify, typically, define, possible, don’t, otherwise, numerical, order, Typical]
+keywords: [Enums, abstract, take, finite, identifiers, specify, typically, define, possible, don’t, otherwise, numerical, order, Typical, examples, include, suit, card, particular, season, year]
 ---
-
-# Enums
 
 > An enum is an abstract data type with values that each take on exactly one of a
         finite set of identifiers that you specify. Enums are typically used to define a set of

@@ -5,12 +5,10 @@ topic: managed-social-account-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.529Z
+lastCollected: 2026-04-07T18:37:08.363Z
 estimatedTokens: 482
-keywords: [Managed, Social, Account, Setup, Input, Data]
+keywords: [Managed, Social, Account, Setup]
 ---
-
-# Managed Social Account Setup Input
 
 > Data required to create a managed social account.
 

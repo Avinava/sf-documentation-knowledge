@@ -5,12 +5,10 @@ topic: onutilityclick-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.780Z
+lastCollected: 2026-04-07T18:36:49.957Z
 estimatedTokens: 531
-keywords: [onUtilityClick, Lightning, Experience, Registers, eventHandler, utility, clicked, Arguments, LWC, Sample, Code, Aura, Components]
+keywords: [Arguments, onUtilityClick, Lightning, Experience, Registers, eventHandler, utility, clicked, LWC, Sample, Code, Aura]
 ---
-
-# onUtilityClick() for Lightning Experience
 
 > Registers an eventHandler for the utility. This
    eventHandler is called when the utility is

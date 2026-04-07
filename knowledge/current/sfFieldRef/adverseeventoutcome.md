@@ -5,12 +5,10 @@ topic: adverseeventoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.361Z
+lastCollected: 2026-04-07T18:39:25.252Z
 estimatedTokens: 287
-keywords: [AdverseEventOutcome, outcome, adverse, event, API, version, 61.0, later]
+keywords: [AdverseEventOutcome, outcome, adverse, event, API, 61.0]
 ---
-
-# AdverseEventOutcome
 
 > Type of outcome from the adverse event. This object is available in API
       version 61.0 and later.

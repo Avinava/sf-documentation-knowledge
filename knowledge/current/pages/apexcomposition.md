@@ -5,12 +5,10 @@ topic: apexcomposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.372Z
+lastCollected: 2026-04-07T18:38:49.491Z
 estimatedTokens: 412
-keywords: [apex, composition, area, includes, content, second, template, pages, Visualforce, include, <apex, insert>, components, composition>, component]
+keywords: [Attributes, apex, composition, area, includes, content, second, template, pages, Visualforce, include, <apex, insert>, composition>, template's, matching, <ap]
 ---
-
-# apex:composition
 
 > An area of a page that includes content from a second template page. Template pages are Visualforce pages that include one or more <apex:insert> components. The <apex:composition> component names the associated template, and provides body for the template's <apex:insert> components with matching <ap
 

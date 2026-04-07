@@ -5,12 +5,10 @@ topic: entityparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.279Z
+lastCollected: 2026-04-07T18:36:32.751Z
 estimatedTokens: 3877
-keywords: [EntityParticle, element, presented, user, Contrast, FieldDefinition, defined, Metadata, API, parity, describe, accessible, entity, Tooling, version]
+keywords: [EntityParticle, Limitations, presented, user, Contrast, FieldDefinition, defined, Metadata, API, parity, describe, accessible, entity, Tooling, 34.0, SOAP, REST, HTTP, RelationshipReferenceTo]
 ---
-
-# EntityParticle
 
 > Represents each element of a field
             that can be presented in a user interface. Contrast EntityParticle with FieldDefinition,

@@ -5,12 +5,10 @@ topic: idea
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.498Z
+lastCollected: 2026-04-07T18:39:44.148Z
 estimatedTokens: 553
-keywords: [Idea, users, allowed, comment, vote, suggestion, enhancement, product, process, API, version, later]
+keywords: [Idea, users, allowed, comment, vote, suggestion, enhancement, product, process, API]
 ---
-
-# Idea
 
 > Represents an idea on which users are allowed to
         comment and vote, for example, a suggestion for an enhancement to an existing product or

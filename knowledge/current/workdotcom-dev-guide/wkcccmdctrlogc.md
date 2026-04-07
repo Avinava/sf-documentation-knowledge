@@ -5,12 +5,10 @@ topic: wkcccmdctrlogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.975Z
+lastCollected: 2026-04-07T18:40:13.956Z
 estimatedTokens: 820
-keywords: [wkcc__CmdCtrLog__c, Stores, log, messages, errors, exceptions, Workplace, Command, Center, Wellness, Check, message, error, originating, Apex]
+keywords: [wkcc__CmdCtrLog__c, Stores, log, messages, errors, exceptions, Workplace, Command, Center, Wellness, Check, message, error, originating, Apex, affected, logging, level, user, executed, operation, orgs, Work.com, installed, wkcc, _CmdCtrLog]
 ---
-
-# wkcc__CmdCtrLog__c
 
 > Stores log messages (errors and exceptions) from Workplace Command Center and
       Wellness Check. Each log message contains information about the error, such as the

@@ -5,12 +5,10 @@ topic: get-search-result-layouts-for-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.738Z
+lastCollected: 2026-04-07T18:36:19.964Z
 estimatedTokens: 155
-keywords: [Search, Result, Layouts, Objects, resource, retrieve, layout, configuration, query]
+keywords: [Search, Result, Layouts, resource, retrieve, layout, configuration, query]
 ---
-
-# Get Search Result Layouts for Objects
 
 > Use the Search Result Layouts resource to retrieve the search result layout
       configuration for each object specified in the query string.

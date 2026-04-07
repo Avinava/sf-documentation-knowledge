@@ -5,12 +5,10 @@ topic: target-a-specific-release-for-your-unlocked-packages-during-salesforce-re
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.932Z
+lastCollected: 2026-04-07T18:40:08.914Z
 estimatedTokens: 342
-keywords: [Target, Specific, Release, Unlocked, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, version, Specifying]
+keywords: [Target, Specific, Release, Unlocked, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, Specifying, test, upcoming, features, run, regression, tests, support, customers, regardless, their, org, Previously, versions, matched, Dev, Hub]
 ---
-
-# Target a Specific Release for Your Unlocked Packages During Salesforce Release Transitions
 
 > During major Salesforce release transitions, you can specify preview or previous when
   creating a package version. Specifying the release version for a package allows you to test

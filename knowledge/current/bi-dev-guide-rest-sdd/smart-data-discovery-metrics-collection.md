@@ -5,12 +5,10 @@ topic: smart-data-discovery-metrics-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.133Z
+lastCollected: 2026-04-07T18:36:59.622Z
 estimatedTokens: 177
-keywords: [Smart, Data, Discovery, Metrics, Collection, Einstein]
+keywords: [Smart, Discovery, Metrics, Collection, Einstein]
 ---
-
-# Smart Data Discovery Metrics Collection
 
 > A collection of Einstein Discovery metrics.
 

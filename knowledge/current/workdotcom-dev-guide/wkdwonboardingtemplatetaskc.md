@@ -5,12 +5,10 @@ topic: wkdwonboardingtemplatetaskc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.190Z
+lastCollected: 2026-04-07T18:40:14.225Z
 estimatedTokens: 755
-keywords: [wkdw__OnboardingTemplateTask__c, custom, junction, serves, join, transition, task, plan, wkdw, _OnboardingTemplateTask, Calls]
+keywords: [wkdw__OnboardingTemplateTask__c, junction, serves, join, transition, task, plan, wkdw, _OnboardingTemplateTask]
 ---
-
-# wkdw__OnboardingTemplateTask__c
 
 > Represents a custom object that is a junction object which serves to
          join a transition task to a transition plan.

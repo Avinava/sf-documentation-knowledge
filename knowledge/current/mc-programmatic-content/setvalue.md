@@ -5,12 +5,10 @@ topic: setvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.862Z
+lastCollected: 2026-04-07T18:40:23.284Z
 estimatedTokens: 121
 keywords: [SetValue, Function, Ordinal, AMPscript, variable, containing, passed, **Overview**, **Syntax**, assign]
 ---
-
-# SetValue
 
 > SetValue(1, 2)
 

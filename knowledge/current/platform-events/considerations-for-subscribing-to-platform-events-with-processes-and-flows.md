@@ -5,12 +5,10 @@ topic: considerations-for-subscribing-to-platform-events-with-processes-and-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.294Z
+lastCollected: 2026-04-07T18:38:58.107Z
 estimatedTokens: 1299
 keywords: [Considerations, Subscribing, Platform, Events, Processes, Flows, subscribe, familiarize, yourself, Event, Resumed, Flow, Interviews]
 ---
-
-# Considerations for Subscribing to Platform Events with Processes and Flows
 
 > Before you use processes or flows to subscribe to platform events,
       familiarize yourself with these considerations.

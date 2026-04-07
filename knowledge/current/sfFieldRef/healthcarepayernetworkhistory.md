@@ -5,12 +5,10 @@ topic: healthcarepayernetworkhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.073Z
+lastCollected: 2026-04-07T18:39:43.695Z
 estimatedTokens: 273
-keywords: [HealthcarePayerNetworkHistory, History, tracked, HealthcarePayerNetwork]
+keywords: [HealthcarePayerNetworkHistory, tracked, HealthcarePayerNetwork]
 ---
-
-# HealthcarePayerNetworkHistory
 
 > History for tracked fields of HealthcarePayerNetwork.
 

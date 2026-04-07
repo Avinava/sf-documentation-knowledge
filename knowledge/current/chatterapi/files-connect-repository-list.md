@@ -5,12 +5,10 @@ topic: files-connect-repository-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.081Z
+lastCollected: 2026-04-07T18:37:12.984Z
 estimatedTokens: 263
 keywords: [Files, Connect, Repository, repositories]
 ---
-
-# Files Connect Repository List
 
 > Get a list of Files Connect
     repositories.

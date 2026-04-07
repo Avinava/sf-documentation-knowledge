@@ -5,12 +5,10 @@ topic: access-or-permission-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.539Z
+lastCollected: 2026-04-07T18:38:52.845Z
 estimatedTokens: 286
-keywords: [Access, Permission, Issues, affect, pages, records, users, Salesforce, app]
+keywords: [Permission, Issues, affect, pages, records, users, Salesforce, app]
 ---
-
-# Access or Permission Issues
 
 > Access and permission issues affect which pages and records your users see in the
   Salesforce app.

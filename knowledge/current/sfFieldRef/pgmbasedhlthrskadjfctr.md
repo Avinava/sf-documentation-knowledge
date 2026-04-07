@@ -5,12 +5,10 @@ topic: pgmbasedhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.541Z
+lastCollected: 2026-04-07T18:39:54.111Z
 estimatedTokens: 539
-keywords: [PgmBasedHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, their, eligibility, certain, benefits, programs, instance, Medicaid, API]
+keywords: [PgmBasedHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, their, eligibility, certain, benefits, programs, instance, Medicaid, API, 61.0]
 ---
-
-# PgmBasedHlthRskAdjFctr
 
 > Stores the risk adjustment factor for patients and members based on their
          eligibility for certain benefits programs. For instance, Medicaid in the US. This

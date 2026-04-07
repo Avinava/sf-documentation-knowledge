@@ -5,12 +5,10 @@ topic: event-and-event-bus-properties-in-test-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.597Z
+lastCollected: 2026-04-07T18:38:58.471Z
 estimatedTokens: 707
 keywords: [Event, Bus, Test, Context, messages, different, State, events, subscribers, reset, isn’t, persisted, Limits, Testing]
 ---
-
-# Event and Event Bus Properties in Test Context
 
 > In test context, event messages and the event bus have different properties. State
   information of events and subscribers is reset and isn’t persisted.

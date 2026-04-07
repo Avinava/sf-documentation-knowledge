@@ -5,12 +5,10 @@ topic: sessionpermsetactivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.394Z
+lastCollected: 2026-04-07T18:38:41.046Z
 estimatedTokens: 672
-keywords: [SessionPermSetActivation, permission, assignment, activated, individual, user, session, inserted, activation, event, fires, allowing, settings, apply, user’s]
+keywords: [SessionPermSetActivation, permission, assignment, activated, individual, user, session, inserted, activation, event, fires, allowing, settings, apply, user’s, specific, API, versions, 37.0]
 ---
-
-# SessionPermSetActivation
 
 > The SessionPermSetActivation object represents a
    permission set assignment activated during an individual user session. When a SessionPermSetActivation object is inserted into a

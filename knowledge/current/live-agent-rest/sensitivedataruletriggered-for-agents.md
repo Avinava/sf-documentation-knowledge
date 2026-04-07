@@ -5,12 +5,10 @@ topic: sensitivedataruletriggered-for-agents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.227Z
+lastCollected: 2026-04-07T18:38:06.461Z
 estimatedTokens: 172
-keywords: [SensitiveDataRuleTriggered, Agents, sensitive, data, rules, chat, agent, blocking, agent’s, credit, card, Social, Security, phone, account]
+keywords: [SensitiveDataRuleTriggered, Agents, sensitive, chat, agent, blocking, agent’s, credit, card, Social, Security, phone, account, numbers, profanity]
 ---
-
-# SensitiveDataRuleTriggered for Agents
 
 > Sets the sensitive data rules for the chat agent, such as blocking the
    agent’s credit card, Social Security, phone and account numbers, or even

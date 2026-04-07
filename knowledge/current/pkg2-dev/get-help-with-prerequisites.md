@@ -5,12 +5,10 @@ topic: get-help-with-prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.207Z
+lastCollected: 2026-04-07T18:38:54.609Z
 estimatedTokens: 169
 keywords: [Help, Prerequisites, setting, solution, consultation, Platform, Expert]
 ---
-
-# Get Help with Prerequisites
 
 > If you need help with setting up your solution, you can request a consultation with a
   Platform Expert.

@@ -5,12 +5,10 @@ topic: knowledge-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.713Z
+lastCollected: 2026-04-07T18:37:54.007Z
 estimatedTokens: 1028
-keywords: [Knowledge, Objects, Salesforce, platform, working]
+keywords: [Knowledge, Salesforce, platform, working]
 ---
-
-# Knowledge Objects
 
 > Salesforce platform objects  for working with Salesforce Knowledge.
 

@@ -5,12 +5,10 @@ topic: govtfinancialasstsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.128Z
+lastCollected: 2026-04-07T18:38:18.713Z
 estimatedTokens: 2012
-keywords: [GovtFinancialAsstSum, financial, assistance, received, governments, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [GovtFinancialAsstSum, financial, assistance, received, governments, API, 57.0]
 ---
-
-# GovtFinancialAsstSum
 
 > Represents information about the financial assistance received from
          governments. This object is available in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: connect-your-telephony-system-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.454Z
+lastCollected: 2026-04-07T18:40:13.380Z
 estimatedTokens: 798
 keywords: [Connect, Telephony, System, Salesforce, demo, connector, quick, effective, way, communicating, org, uses, API]
 ---
-
-# Connect Your Telephony System to Salesforce
 
 > The demo connector is a quick and effective way to get your telephony system
   communicating with your Salesforce org. This demo connector uses the Connector API, which is the

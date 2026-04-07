@@ -5,12 +5,10 @@ topic: transaction-finalizers-error-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.452Z
+lastCollected: 2026-04-07T18:36:18.686Z
 estimatedTokens: 467
 keywords: [Transaction, Finalizers, Error, Messages, Troubleshoot, semantic, run-time, issues, analyzing]
 ---
-
-# Transaction Finalizers Error Messages
 
 > Troubleshoot both semantic and run-time issues by analyzing these
         error messages.

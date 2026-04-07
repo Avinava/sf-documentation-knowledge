@@ -5,12 +5,10 @@ topic: configuration-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.065Z
+lastCollected: 2026-04-07T18:35:44.025Z
 estimatedTokens: 126
-keywords: [Configuration, Input, representation]
+keywords: [Configuration]
 ---
-
-# Configuration Update Input
 
 > Input representation of the details to update a configuration.
 

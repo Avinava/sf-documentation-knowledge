@@ -5,12 +5,10 @@ topic: sendmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.881Z
+lastCollected: 2026-04-07T18:36:50.058Z
 estimatedTokens: 242
-keywords: [sendMessagingComponent, LWC, Lightning, Experience, new, message, messaging, component, behalf, service, rep, send, text, works, console]
+keywords: [Arguments, sendMessagingComponent, LWC, Lightning, Experience, new, message, messaging, behalf, service, rep, send, text, works, console, apps, Sample, Code]
 ---
-
-# sendMessagingComponent() for LWC for Lightning Experience
 
 > Sends a new message with a specified messaging component on behalf of the service rep.
   You can also use this method to send a text message. This method works only in Lightning console

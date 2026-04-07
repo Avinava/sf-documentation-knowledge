@@ -5,12 +5,10 @@ topic: territory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.620Z
+lastCollected: 2026-04-07T18:36:30.032Z
 estimatedTokens: 2016
-keywords: [Territory2, metadata, associated, sales, territory, extends, inherits, fullName, Territories, enabled, File, Suffix, Directory, Location, Version]
+keywords: [Territory2, FieldValue, Territory2AccessLevel, Territory2RuleAssociation, metadata, sales, territory, extends, inherits, fullName, Territories, enabled, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Territory2
 
 > Represents the metadata associated with a sales territory.
     This type extends the Metadata metadata type and inherits its fullName

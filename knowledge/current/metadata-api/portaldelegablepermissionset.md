@@ -5,12 +5,10 @@ topic: portaldelegablepermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.978Z
+lastCollected: 2026-04-07T18:36:28.517Z
 estimatedTokens: 504
-keywords: [PortalDelegablePermissionSet, org-level, permission, assigned, particular, profile, external, users, shoppers, store, enabling, Delegable, Administration, perm, Parent]
+keywords: [PortalDelegablePermissionSet, org-level, permission, assigned, particular, profile, external, users, shoppers, store, enabling, Delegable, Administration, perm, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PortalDelegablePermissionSet
 
 > Represents the org-level permission sets that can
       be assigned to a particular profile for external users or shoppers in a store after enabling

@@ -5,12 +5,10 @@ topic: documentclausefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.654Z
+lastCollected: 2026-04-07T18:39:38.358Z
 estimatedTokens: 270
-keywords: [DocumentClauseFeed, Feed, tracking, DocumentClause]
+keywords: [DocumentClauseFeed, DocumentClause]
 ---
-
-# DocumentClauseFeed
 
 > Feed tracking for DocumentClause.
 

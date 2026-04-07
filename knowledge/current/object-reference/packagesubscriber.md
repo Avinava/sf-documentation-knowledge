@@ -5,12 +5,10 @@ topic: packagesubscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.116Z
+lastCollected: 2026-04-07T18:38:37.410Z
 estimatedTokens: 1097
-keywords: [PackageSubscriber, installation, package, org, managed, unlocked, packages, developed, you’re, logged, Calls, Special, Access, Rules, Usage]
+keywords: [PackageSubscriber, installation, package, org, managed, unlocked, packages, developed, you’re, logged]
 ---
-
-# PackageSubscriber
 
 > Represents an installation of a package in an org. This object contains
 			installation information for managed or unlocked packages developed in the org you’re

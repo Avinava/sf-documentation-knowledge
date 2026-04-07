@@ -5,12 +5,10 @@ topic: find-lookup-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.713Z
+lastCollected: 2026-04-07T18:37:27.716Z
 estimatedTokens: 187
-keywords: [Lookup, Records, sample, JavaScript, script, Quote, Line, Calculator, query, plugin, line’s, Method-Chaining, Apex, Legacy, **Find, Records**]
+keywords: [Javascript, Lookup, Records, sample, script, Quote, Line, Calculator, query, plugin, line’s, Method-Chaining, Apex, Legacy, **Find, Records**]
 ---
-
-# Find Lookup Records
 
 > The sample Apex class can be used in the Legacy Quote Line Calculator to query
         records within the plugin and use fields from those records to set each quote line’s

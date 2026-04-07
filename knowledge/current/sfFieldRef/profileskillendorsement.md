@@ -5,12 +5,10 @@ topic: profileskillendorsement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.115Z
+lastCollected: 2026-04-07T18:39:56.660Z
 estimatedTokens: 326
 keywords: [ProfileSkillEndorsement, detail, relationship, ProfileSkillUser, endorsement, profile, skill, approval, support, another, user’s, publicly, declared]
 ---
-
-# ProfileSkillEndorsement
 
 > Represents a detail relationship of ProfileSkillUser. An endorsement of a profile skill shows approval and support of another
 			user’s publicly declared skill.

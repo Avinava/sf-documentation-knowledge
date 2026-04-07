@@ -5,12 +5,10 @@ topic: data-access-in-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.098Z
+lastCollected: 2026-04-07T18:39:19.789Z
 estimatedTokens: 776
-keywords: [Data, Access, Salesforce, meet, company’s, security, needs, it’s, understand, means, users, User’s, Perspective, Architect’s]
+keywords: [Salesforce, meet, company’s, security, needs, it’s, understand, means, users, User’s, Perspective, Architect’s]
 ---
-
-# Data Access in Salesforce
 
 > To meet your company’s security needs, it’s important to understand what data access means to
    your users and to you.

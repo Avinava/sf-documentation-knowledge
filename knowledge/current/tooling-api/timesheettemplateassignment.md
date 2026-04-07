@@ -5,12 +5,10 @@ topic: timesheettemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.270Z
+lastCollected: 2026-04-07T18:36:34.701Z
 estimatedTokens: 353
-keywords: [TimeSheetTemplateAssignment, assignment, time, sheet, template, profile, API, version, 48.0, later, SOAP, Calls, REST, HTTP, Limitations]
+keywords: [TimeSheetTemplateAssignment, Limitations, assignment, time, sheet, template, profile, API, 48.0, SOAP, REST, HTTP]
 ---
-
-# TimeSheetTemplateAssignment
 
 > Represents the assignment of a time sheet template to a
         profile. Available in API version 48.0 and later.

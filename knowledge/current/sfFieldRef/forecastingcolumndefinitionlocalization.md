@@ -5,13 +5,11 @@ topic: forecastingcolumndefinitionlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.519Z
+lastCollected: 2026-04-07T18:39:41.190Z
 estimatedTokens: 249
 namespace: NamespacePrefix
-keywords: [ForecastingColumnDefinitionLocalization, translated, custom, calculated, column, label, Translation, Workbench, enabled, organization]
+keywords: [ForecastingColumnDefinitionLocalization, translated, calculated, column, label, Translation, Workbench, enabled, organization]
 ---
-
-# ForecastingColumnDefinitionLocalization
 
 > Represents the translated value of a custom calculated column label when the
          Translation Workbench is enabled for your organization.

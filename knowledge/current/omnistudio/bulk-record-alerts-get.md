@@ -5,12 +5,10 @@ topic: bulk-record-alerts-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.618Z
+lastCollected: 2026-04-07T18:36:38.246Z
 estimatedTokens: 362
 keywords: [Bulk, Record, Alerts, Retrieve]
 ---
-
-# Bulk Record Alerts (GET)
 
 > Retrieve bulk record alerts.
 

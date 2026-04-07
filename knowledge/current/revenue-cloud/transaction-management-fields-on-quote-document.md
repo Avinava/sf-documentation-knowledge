@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-quote-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.017Z
+lastCollected: 2026-04-07T18:35:48.054Z
 estimatedTokens: 252
-keywords: [Transaction, Management, Quote, Document, Standard, custom, extend, represent, documents, API, version, 61.0, later, Special, Access]
+keywords: [Transaction, Management, Quote, Document, Standard, extend, represent, documents, API, 61.0]
 ---
-
-# Transaction Management Fields on Quote Document
 
 > Standard and custom fields extend the standard Quote Document object for use
          in Transaction Management to represent information about quote documents. This object

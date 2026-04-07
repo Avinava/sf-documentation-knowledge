@@ -5,12 +5,10 @@ topic: waitlist-check-in-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.609Z
+lastCollected: 2026-04-07T18:39:20.339Z
 estimatedTokens: 126
-keywords: [Waitlist, Check, Result, Output, representation]
+keywords: [Waitlist, Check, Result]
 ---
-
-# Waitlist Check In Result
 
 > Output representation of the waitlist check in
     result.

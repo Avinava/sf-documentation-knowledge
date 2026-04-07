@@ -5,12 +5,10 @@ topic: loanapplicationfinancial
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.386Z
+lastCollected: 2026-04-07T18:37:38.224Z
 estimatedTokens: 2561
-keywords: [LoanApplicationFinancial, transaction, loan, application, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [LoanApplicationFinancial, transaction, loan, application, API, 47.0]
 ---
-
-# LoanApplicationFinancial
 
 > Represents transaction details for a loan application. This object is
 		available in API version 47.0 and later.

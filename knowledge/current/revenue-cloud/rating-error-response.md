@@ -5,12 +5,10 @@ topic: rating-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.561Z
+lastCollected: 2026-04-07T18:35:46.527Z
 estimatedTokens: 97
-keywords: [Rating, Error, Output, representation, API]
+keywords: [Rating, Error, API]
 ---
-
-# Rating Error Response
 
 > Output representation of the error details related to the API request.
 

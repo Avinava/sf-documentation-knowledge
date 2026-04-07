@@ -5,12 +5,10 @@ topic: get-list-view-record-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.041Z
+lastCollected: 2026-04-07T18:40:11.029Z
 estimatedTokens: 567
 keywords: [View, Record, Actions, views]
 ---
-
-# Get List View Record Actions
 
 > Get the record actions on list views.
 

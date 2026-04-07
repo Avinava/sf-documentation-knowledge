@@ -5,12 +5,10 @@ topic: productinventorybatchsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.805Z
+lastCollected: 2026-04-07T18:38:14.133Z
 estimatedTokens: 2209
-keywords: [ProductInventoryBatchSearchableField, production, batch, data, inventory, search, including, item, specific, location, serves, basis, Criteria-Based, Filter, combines]
+keywords: [ProductInventoryBatchSearchableField, production, batch, inventory, search, including, item, specific, location, serves, basis, Criteria-Based, Filter, combines, standard, dimensions, API, 47.0]
 ---
-
-# ProductInventoryBatchSearchableField
 
 > Represents production batch data used for inventory search, including batch
       item details for a specific location. This data serves as the basis for Criteria-Based and

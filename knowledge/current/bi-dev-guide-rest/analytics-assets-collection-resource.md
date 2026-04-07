@@ -5,12 +5,10 @@ topic: analytics-assets-collection-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.898Z
+lastCollected: 2026-04-07T18:36:55.321Z
 estimatedTokens: 200
-keywords: [Analytics, Assets, Collection, Resource, URL, Formats, Version, HTTP, POST]
+keywords: [Formats, Analytics, Assets, Collection, Resource, URL, HTTP, POST]
 ---
-
-# Analytics Assets Collection Resource
 
 > Returns a collection of Analytics assets.
 

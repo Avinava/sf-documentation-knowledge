@@ -5,12 +5,10 @@ topic: lwc-methods-for-enhanced-messaging-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.165Z
+lastCollected: 2026-04-07T18:36:50.370Z
 estimatedTokens: 1131
-keywords: [LWC, Enhanced, Messaging, Lightning, Experience, Conversation, Toolkit, API, interact, customer, web, component, apply, components, Sample]
+keywords: [LWC, Enhanced, Messaging, Lightning, Experience, Conversation, Toolkit, API, interact, customer, web, apply, Sample, Code]
 ---
-
-# LWC Methods for Enhanced Messaging in Lightning Experience
 
 > The Conversation Toolkit API for Enhanced Messaging provides methods to interact with a
   Messaging customer from a Lightning web component (LWC). These methods apply to Lightning web

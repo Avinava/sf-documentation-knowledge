@@ -5,12 +5,10 @@ topic: personalization-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.261Z
+lastCollected: 2026-04-07T18:37:15.299Z
 estimatedTokens: 888
 keywords: [Personalization, Targets, match, user, context, assigned, audiences, include]
 ---
-
-# Personalization Targets
 
 > Get a list of targets that match the user context, based on the
       assigned audiences that include the user. Create and update targets.

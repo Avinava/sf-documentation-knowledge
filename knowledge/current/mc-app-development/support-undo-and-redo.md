@@ -5,12 +5,10 @@ topic: support-undo-and-redo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.196Z
+lastCollected: 2026-04-07T18:40:21.471Z
 estimatedTokens: 570
-keywords: [Support, Undo, Redo, Build, custom, activities, entry, sources, Journey, Builder’s, feature, Writing, Data, System, History]
+keywords: [Support, Undo, Redo, Build, activities, entry, sources, Journey, Builder’s, feature, Writing, System, User, Action, Intent, Messages, Items]
 ---
-
-# Support Undo and Redo
 
 > Build your custom activities and entry sources to support Journey Builder’s undo/redo feature.
 

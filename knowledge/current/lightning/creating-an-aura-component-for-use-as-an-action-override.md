@@ -5,12 +5,10 @@ topic: creating-an-aura-component-for-use-as-an-action-override
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.377Z
+lastCollected: 2026-04-07T18:38:03.396Z
 estimatedTokens: 1080
-keywords: [Creating, Aura, Component, Action, Override, Add, lightning, actionOverride, allow, Experience, Salesforce, mobile, app, components, implement]
+keywords: [Creating, Aura, Action, Override, Add, lightning, actionOverride, allow, Experience, Salesforce, mobile, app, implement, appear, menu, panel, Current, Record]
 ---
-
-# Creating an Aura Component for Use as an Action Override
 
 > Add the lightning:actionOverride interface to an Aura component to allow it to be used as
       an action override in Lightning Experience or the Salesforce mobile app. Only components that

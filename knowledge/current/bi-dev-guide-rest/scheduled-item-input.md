@@ -5,12 +5,10 @@ topic: scheduled-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.561Z
+lastCollected: 2026-04-07T18:36:54.926Z
 estimatedTokens: 256
-keywords: [Scheduled, Item, Input, base, schedule, data, refresh]
+keywords: [Scheduled, Item, base, schedule, refresh]
 ---
-
-# Scheduled Item Input
 
 > The base schedule for a data refresh.
 

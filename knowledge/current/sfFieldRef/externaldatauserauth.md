@@ -5,12 +5,10 @@ topic: externaldatauserauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.609Z
+lastCollected: 2026-04-07T18:39:40.241Z
 estimatedTokens: 390
-keywords: [ExternalDataUserAuth, Stores, authentication, settings, Salesforce, user, access, external, system, defined, data, source, named, credential, that’s]
+keywords: [ExternalDataUserAuth, Stores, authentication, settings, Salesforce, user, external, system, defined, source, named, credential, that’s, configured, per-user, API, 27.0]
 ---
-
-# ExternalDataUserAuth
 
 > Stores authentication settings for a Salesforce user to access an
 			external system. The external system must be defined in an external data source or a

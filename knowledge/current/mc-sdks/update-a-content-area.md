@@ -5,12 +5,10 @@ topic: update-a-content-area
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.016Z
+lastCollected: 2026-04-07T18:40:24.521Z
 estimatedTokens: 492
-keywords: [Content, Area, Patch, Specify, unique, identifier, props, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Content, Area, Patch, Specify, unique, identifier, props, identify, PHP]
 ---
-
-# Update a Content Area
 
 > Use the Patch method to update an existing content area. Specify a unique identifier in the props property to identify the content area to update:
 

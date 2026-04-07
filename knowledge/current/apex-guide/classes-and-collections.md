@@ -5,12 +5,10 @@ topic: classes-and-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.161Z
+lastCollected: 2026-04-07T18:36:16.371Z
 estimatedTokens: 212
-keywords: [Classes, Collections, maps, interfaces, ways, sObjects, means, user-defined, data, key, map, Likewise, objects]
+keywords: [Classes, Collections, maps, interfaces, ways, sObjects, means, user-defined, key, map, Likewise]
 ---
-
-# Classes and Collections
 
 > Lists and maps can be used with classes and interfaces, in the same ways that lists and maps can
    be used with sObjects. This means, for example, that you can use a user-defined data type for the

@@ -5,12 +5,10 @@ topic: insurance-member-rating-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.124Z
+lastCollected: 2026-04-07T18:37:51.066Z
 estimatedTokens: 96
-keywords: [Insurance, Member, Rating, Input, representation, individual, rated]
+keywords: [Insurance, Member, Rating, individual, rated]
 ---
-
-# Insurance Member Rating Details Input
 
 > Input representation for an individual member to be rated.
 

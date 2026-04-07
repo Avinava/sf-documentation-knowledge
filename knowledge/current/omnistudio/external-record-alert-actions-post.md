@@ -5,12 +5,10 @@ topic: external-record-alert-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.553Z
+lastCollected: 2026-04-07T18:36:38.176Z
 estimatedTokens: 279
 keywords: [External, Record, Alert, Actions, POST, Snooze, alerts, source, system, time, period, dismiss]
 ---
-
-# External Record Alert Actions (POST)
 
 > Snooze external record alerts that are from an external source system
       for a specified time period or dismiss them.

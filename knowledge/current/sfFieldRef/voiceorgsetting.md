@@ -5,12 +5,10 @@ topic: voiceorgsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.256Z
+lastCollected: 2026-04-07T18:40:06.151Z
 estimatedTokens: 339
-keywords: [VoiceOrgSetting, org's, customized, voice, settings, API, version, 46.0, later]
+keywords: [VoiceOrgSetting, org's, customized, voice, settings, API, 46.0]
 ---
-
-# VoiceOrgSetting
 
 > Represents the org's customized voice settings. This object is available
       in API version 46.0 and later.

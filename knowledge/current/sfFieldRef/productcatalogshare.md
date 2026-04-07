@@ -5,12 +5,10 @@ topic: productcatalogshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.797Z
+lastCollected: 2026-04-07T18:39:55.363Z
 estimatedTokens: 250
 keywords: [ProductCatalogShare, Sharing, ProductCatalog]
 ---
-
-# ProductCatalogShare
 
 > Sharing for ProductCatalog.
 

@@ -5,13 +5,11 @@ topic: custom-metadata-types-customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.823Z
+lastCollected: 2026-04-07T18:36:24.164Z
 estimatedTokens: 1336
 namespace: CustomMetadata
-keywords: [Custom, Metadata, CustomObject, associated, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Sample, Definition]
+keywords: [Metadata, CustomObject, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Custom Metadata Types (CustomObject)
 
 > Represents the metadata associated with a
    custom metadata type.

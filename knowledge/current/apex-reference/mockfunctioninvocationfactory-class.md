@@ -5,12 +5,10 @@ topic: mockfunctioninvocationfactory-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.400Z
+lastCollected: 2026-04-07T18:36:02.609Z
 estimatedTokens: 1078
-keywords: [MockFunctionInvocationFactory, generate, appropriate, mock, responses, testing, Salesforce, Functions, Usage, createErrorResponse, invocationId, functionsErrorType, errMsg, createSuccessResponse]
+keywords: [MockFunctionInvocationFactory, generate, appropriate, mock, responses, testing, Salesforce, Functions, createErrorResponse, invocationId, functionsErrorType, errMsg, createSuccessResponse]
 ---
-
-# MockFunctionInvocationFactory Class
 
 > Use the MockFunctionInvocationFactory methods to generate appropriate mock responses for
       testing Salesforce Functions.

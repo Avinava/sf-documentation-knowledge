@@ -5,12 +5,10 @@ topic: credit-points-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.620Z
+lastCollected: 2026-04-07T18:38:07.846Z
 estimatedTokens: 327
-keywords: [Credit, Points, Action, Output, representation]
+keywords: [Credit, Points, Action]
 ---
-
-# Credit Points Action
 
 > Output representation of the credit points action
     type.

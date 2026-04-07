@@ -5,12 +5,10 @@ topic: fields-on-producttransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.749Z
+lastCollected: 2026-04-07T18:37:57.274Z
 estimatedTokens: 371
 keywords: [ProductTransfer, Life, Sciences, Cloud, extend, standard, capture, specific, inventory, batch]
 ---
-
-# Fields on ProductTransfer
 
 > Life Sciences Cloud fields extend the standard ProductTransfer object to capture
     specific inventory and batch information.

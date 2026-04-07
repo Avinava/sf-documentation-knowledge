@@ -5,12 +5,10 @@ topic: ampscript-language-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.198Z
+lastCollected: 2026-04-07T18:40:22.597Z
 estimatedTokens: 2662
-keywords: [AMPscript, Language, Elements, uses, Constants, Attribute, Data, Extension, Custom, Keywords, Statements, Condition, Evaluation, Process, Loop]
+keywords: [Constants, Keywords, Statements, Rowsets, AMPscript, Language, uses, Attribute, Extension, Condition, Evaluation, Process, Loop, Statement, OutputLine, Comments, Enterprise, Awareness]
 ---
-
-# AMPscript Language Elements
 
 > AMPscript uses the following language elements:
 

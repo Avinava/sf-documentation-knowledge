@@ -5,12 +5,10 @@ topic: deployment-api-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.939Z
+lastCollected: 2026-04-07T18:38:06.178Z
 estimatedTokens: 911
 keywords: [Deployment, API, Code, Sample, Test, preview, how, help, customize, deployments, Chat, Window, Cookies]
 ---
-
-# Deployment API Code Sample
 
 > Test and preview how the Deployment API can help you customize
 your deployments.

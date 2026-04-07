@@ -5,12 +5,10 @@ topic: duplicate-directory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.333Z
+lastCollected: 2026-04-07T18:37:13.282Z
 estimatedTokens: 71
 keywords: [Duplicate, Directory, resources]
 ---
-
-# Duplicate Directory
 
 > Duplicate directory.
 

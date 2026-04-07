@@ -5,12 +5,10 @@ topic: medicationdispensehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.899Z
+lastCollected: 2026-04-07T18:39:48.344Z
 estimatedTokens: 267
-keywords: [MedicationDispenseHistory, History, tracked, MedicationDispense]
+keywords: [MedicationDispenseHistory, tracked, MedicationDispense]
 ---
-
-# MedicationDispenseHistory
 
 > History for tracked fields of MedicationDispense.
 

@@ -5,12 +5,10 @@ topic: learningachievement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.275Z
+lastCollected: 2026-04-07T18:37:31.403Z
 estimatedTokens: 1160
-keywords: [LearningAchievement, outcome, learning, activity, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearningAchievement, outcome, learning, activity, API, 57.0]
 ---
-
-# LearningAchievement
 
 > Represents information about the outcome of a learning activity.  This
       object is available in API version 57.0 and later.

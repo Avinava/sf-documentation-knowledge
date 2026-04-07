@@ -5,12 +5,10 @@ topic: metadata-wizard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.276Z
+lastCollected: 2026-04-07T18:39:10.754Z
 estimatedTokens: 753
-keywords: [Metadata, Wizard, MetadataWizard, designed, library, build, simple, pages, rendered, user, defined, document, NewPromotionWizardCallable, APEX, created]
+keywords: [Introduction, Metadata, Wizard, MetadataWizard, designed, library, build, simple, pages, rendered, user, defined, document, NewPromotionWizardCallable, APEX, created, providing, New, Promotion, Driven]
 ---
-
-# Metadata Wizard
 
 > The MetadataWizard is designed as a library that can be used to
       build simple wizard pages that are rendered to the user based on the defined wizard metadata.

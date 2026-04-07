@@ -5,12 +5,10 @@ topic: dynamic-data-gap-percentage-calculation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.589Z
+lastCollected: 2026-04-07T18:38:17.163Z
 estimatedTokens: 278
-keywords: [Dynamic, Data, Gap, Percentage, Calculation, Input, representation, endpoint]
+keywords: [Dynamic, Gap, Percentage, Calculation, endpoint]
 ---
-
-# Dynamic Data Gap Percentage Calculation Input
 
 > Input representation of Dynamic Data Gap Percentage Calculation endpoint.
 

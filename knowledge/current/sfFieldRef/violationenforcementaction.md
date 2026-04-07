@@ -5,12 +5,10 @@ topic: violationenforcementaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.970Z
+lastCollected: 2026-04-07T18:40:05.846Z
 estimatedTokens: 442
-keywords: [ViolationEnforcementAction, action, regulatory, authority, address, violations, API, version, 49.0, later]
+keywords: [ViolationEnforcementAction, action, regulatory, authority, address, violations, API, 49.0]
 ---
-
-# ViolationEnforcementAction
 
 > Represents the action that a regulatory authority takes to address violations. This object is available in API version 49.0 and later.
 

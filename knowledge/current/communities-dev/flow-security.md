@@ -5,12 +5,10 @@ topic: flow-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.012Z
+lastCollected: 2026-04-07T18:37:26.984Z
 estimatedTokens: 624
-keywords: [Flow, Security, guest, external, users, run, flows, override, permission, grant, access, specific, user, profiles, site]
+keywords: [Flow, Security, guest, external, users, run, flows, override, permission, grant, specific, user, profiles, site, rather, allowing, Avoid, running, system, context, possible, restrict, subflows, Otherwise, ensure, implement, procedural]
 ---
-
-# Flow Security
 
 > If guest or external users must run flows, override the flow permission to grant access
     only to specific external user profiles, permission sets, or site guest user profiles, rather

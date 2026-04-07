@@ -5,12 +5,10 @@ topic: reject-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.688Z
+lastCollected: 2026-04-07T18:36:19.913Z
 estimatedTokens: 153
 keywords: [Reject, Record, Process, Approvals, resource, collection, records, call, array, requests, current, user, assigned, approver]
 ---
-
-# Reject a Record
 
 > Use the Process Approvals resource to reject a record or a collection of records. Each call takes
       an array of requests. The current user must be an assigned approver.

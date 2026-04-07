@@ -5,12 +5,10 @@ topic: ratingrequestbatchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.523Z
+lastCollected: 2026-04-07T18:35:50.405Z
 estimatedTokens: 671
-keywords: [RatingRequestBatchJob, junction, rating, batch, job, objects, API, version, 62.0, later, Calls, Associated]
+keywords: [RatingRequestBatchJob, junction, rating, batch, job, API, 62.0]
 ---
-
-# RatingRequestBatchJob
 
 > Represents a junction between the rating request and batch job
          objects. This object is available in API version 62.0 and later.

@@ -5,12 +5,10 @@ topic: apexcodecoverageaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.270Z
+lastCollected: 2026-04-07T18:36:31.643Z
 estimatedTokens: 386
-keywords: [ApexCodeCoverageAggregate, aggregate, code, coverage, test, results, Apex, trigger, Tooling, API, version, 29.0, later, SOAP, Calls]
+keywords: [ApexCodeCoverageAggregate, aggregate, code, coverage, test, results, Apex, trigger, Tooling, API, 29.0, SOAP, REST, HTTP]
 ---
-
-# ApexCodeCoverageAggregate
 
 > Represents aggregate code coverage test results for an Apex class or
    trigger. Available in Tooling API version 29.0 and later.

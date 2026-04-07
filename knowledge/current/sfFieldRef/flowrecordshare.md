@@ -5,12 +5,10 @@ topic: flowrecordshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.402Z
+lastCollected: 2026-04-07T18:39:41.062Z
 estimatedTokens: 248
 keywords: [FlowRecordShare, Sharing, FlowRecord]
 ---
-
-# FlowRecordShare
 
 > Sharing for FlowRecord.
 

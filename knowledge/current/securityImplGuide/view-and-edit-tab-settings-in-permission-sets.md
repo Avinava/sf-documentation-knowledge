@@ -5,12 +5,10 @@ topic: view-and-edit-tab-settings-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.300Z
+lastCollected: 2026-04-07T18:39:23.234Z
 estimatedTokens: 349
 keywords: [View, Edit, Tab, Settings, Permission, specify, whether, appears, Tabs, visible]
 ---
-
-# View and Edit Tab Settings in Permission Sets
 
 > Tab settings specify whether a tab appears in the All Tabs page or is visible in a tab
     set.

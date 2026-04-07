@@ -5,12 +5,10 @@ topic: required-permissions-for-change-event-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.700Z
+lastCollected: 2026-04-07T18:37:05.424Z
 estimatedTokens: 780
-keywords: [Permissions, Change, Event, Subscribers, Data, Capture, ignores, sharing, settings, events, records, Salesforce, receive, channel, subscribed]
+keywords: [Permissions, Change, Event, Subscribers, Capture, ignores, sharing, settings, events, records, Salesforce, receive, channel, subscribed, user, depending, entities, apply, Pub, Sub, API, CometD, Apex, triggers, run, system, privileges, under, Automated, Process, entity, they, don’t, require, Permission, Enforcement]
 ---
-
-# Required Permissions for Change Event Subscribers
 
 > Change Data Capture ignores sharing settings and sends change events for all records of
     a Salesforce object. To receive change events on a channel, the subscribed user must have one or

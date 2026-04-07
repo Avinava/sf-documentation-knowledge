@@ -5,12 +5,10 @@ topic: rebate-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.442Z
+lastCollected: 2026-04-07T18:37:06.142Z
 estimatedTokens: 2350
-keywords: [Rebate, Management, Standard, Objects, data, model, manage, programs, payouts, transactions, optimize, incentives, offered, build, mutually]
+keywords: [Rebate, Management, Standard, model, manage, programs, payouts, transactions, optimize, incentives, offered, build, mutually, profitable, relationship, partners]
 ---
-
-# Rebate Management Standard Objects
 
 > Rebate Management data model provides objects and fields to create and manage rebate
     programs and manage payouts and transactions. Use the objects to optimize the incentives offered

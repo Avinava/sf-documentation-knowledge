@@ -5,12 +5,10 @@ topic: oci-inventory-check-availability-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.734Z
+lastCollected: 2026-04-07T18:37:19.883Z
 estimatedTokens: 163
-keywords: [OCI, Inventory, Check, Availability, Output, product, individual, location, group]
+keywords: [OCI, Inventory, Check, Availability, product, individual, location, group]
 ---
-
-# OCI Inventory Check Availability Output
 
 > Inventory product availability for an individual location or location
       group.

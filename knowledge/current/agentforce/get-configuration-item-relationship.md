@@ -5,12 +5,10 @@ topic: get-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.962Z
+lastCollected: 2026-04-07T18:35:55.065Z
 estimatedTokens: 348
-keywords: [Configuration, Item, Relationship, Retrieves, detailed, relationships, unique, identifier, record, Special, Access, Rules]
+keywords: [Configuration, Item, Relationship, Retrieves, detailed, relationships, unique, identifier, record]
 ---
-
-# Get Configuration Item Relationship
 
 > Retrieves detailed information about all configuration item (CI)
       relationships by using the unique identifier of a CI record.

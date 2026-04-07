@@ -5,12 +5,10 @@ topic: commerce-webstore-composite-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.030Z
+lastCollected: 2026-04-07T18:37:11.856Z
 estimatedTokens: 1242
-keywords: [Commerce, Webstore, Composite, Promotions, new, promotion, associated, objects, including, segments, qualifiers, targets, translations, API, created]
+keywords: [Commerce, Webstore, Composite, Promotions, new, promotion, including, segments, qualifiers, targets, translations, API, created, Retrieve]
 ---
-
-# Commerce Webstore Composite Promotions
 
 > Create a new promotion and all of the associated objects, including
       segments, qualifiers, targets, and translations. The API returns the ID of the created

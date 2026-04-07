@@ -5,12 +5,10 @@ topic: invoicefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.159Z
+lastCollected: 2026-04-07T18:39:45.726Z
 estimatedTokens: 356
-keywords: [InvoiceFeed, Feed, tracking, Invoice]
+keywords: [InvoiceFeed, Invoice]
 ---
-
-# InvoiceFeed
 
 > Feed tracking for Invoice.
 

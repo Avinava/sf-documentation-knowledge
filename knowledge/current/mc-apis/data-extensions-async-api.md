@@ -5,12 +5,10 @@ topic: data-extensions-async-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.223Z
+lastCollected: 2026-04-07T18:40:16.362Z
 estimatedTokens: 418
-keywords: [Data, Extensions, Async, API, Marketing, Cloud, REST, supports, ability, persist, identified, extension, asynchronously, Prerequisites, Specification]
+keywords: [Prerequisites, Extensions, Async, API, Marketing, Cloud, REST, supports, ability, persist, identified, extension, asynchronously, Specification]
 ---
-
-# Data Extensions Async API
 
 > The Marketing Cloud REST API supports the ability to persist data into an identified data extension asynchronously.
 

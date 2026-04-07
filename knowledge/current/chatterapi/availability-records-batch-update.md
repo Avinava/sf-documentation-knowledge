@@ -5,12 +5,10 @@ topic: availability-records-batch-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.902Z
+lastCollected: 2026-04-07T18:37:14.952Z
 estimatedTokens: 278
-keywords: [Availability, Records, Batch, inventory, Omnichannel, Add, new, record, hand, future, quantity, date, safety, stock, count]
+keywords: [Availability, Records, Batch, inventory, Omnichannel, Add, new, record, hand, future, quantity, date, safety, stock, count, shipping, eligibility]
 ---
-
-# Availability Records, Batch Update
 
 > Update a batch of inventory records to Omnichannel Inventory. Add
       a new inventory record or update on hand, future quantity, future date, safety stock count,

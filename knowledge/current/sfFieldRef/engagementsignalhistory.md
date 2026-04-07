@@ -5,12 +5,10 @@ topic: engagementsignalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.905Z
+lastCollected: 2026-04-07T18:39:39.572Z
 estimatedTokens: 265
-keywords: [EngagementSignalHistory, History, tracked, EngagementSignal]
+keywords: [EngagementSignalHistory, tracked, EngagementSignal]
 ---
-
-# EngagementSignalHistory
 
 > History for tracked fields of EngagementSignal.
 

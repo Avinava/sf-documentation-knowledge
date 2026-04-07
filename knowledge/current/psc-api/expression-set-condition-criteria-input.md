@@ -5,12 +5,10 @@ topic: expression-set-condition-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.089Z
+lastCollected: 2026-04-07T18:39:01.234Z
 estimatedTokens: 247
-keywords: [Expression, Condition, Criteria, Input, representation]
+keywords: [Expression, Condition, Criteria]
 ---
-
-# Expression Set Condition Criteria Input
 
 > Input representation of a condition criteria in an expression
       set.

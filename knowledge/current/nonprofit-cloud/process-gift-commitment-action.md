@@ -5,12 +5,10 @@ topic: process-gift-commitment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.598Z
+lastCollected: 2026-04-07T18:38:20.279Z
 estimatedTokens: 258
-keywords: [Process, Gift, Commitment, Action, Updates, status, relevant, statuses, associated, transactions, current, schedule, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Process, Gift, Commitment, Action, Updates, status, relevant, statuses, transactions, current, schedule, REST, HTTP]
 ---
-
-# Process Gift Commitment Action
 
 > Updates the status and other relevant fields for a gift commitment
       based on the statuses of the associated gift transactions and the current gift commitment

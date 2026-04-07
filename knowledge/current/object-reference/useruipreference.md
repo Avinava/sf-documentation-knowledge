@@ -5,12 +5,10 @@ topic: useruipreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.152Z
+lastCollected: 2026-04-07T18:38:43.940Z
 estimatedTokens: 447
-keywords: [UserUIPreference, user, preferences, Salesforce, components, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [UserUIPreference, user, preferences, Salesforce, API, 63.0]
 ---
-
-# UserUIPreference
 
 > Represents user preferences for Salesforce components. This object is
       available in API version 63.0 and later.

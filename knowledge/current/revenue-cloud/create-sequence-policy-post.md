@@ -5,12 +5,10 @@ topic: create-sequence-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.378Z
+lastCollected: 2026-04-07T18:35:44.349Z
 estimatedTokens: 960
-keywords: [Sequence, Policy, POST, configure, unique, sequential, number, posted, invoices, credit, memos, Special, Access, Rules]
+keywords: [Sequence, Policy, POST, configure, unique, sequential, number, posted, invoices, credit, memos]
 ---
-
-# Create Sequence Policy (POST)
 
 > Create a sequence policy to configure a unique, sequential number for
       posted invoices or credit memos.

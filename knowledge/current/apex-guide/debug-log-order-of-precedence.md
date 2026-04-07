@@ -5,12 +5,10 @@ topic: debug-log-order-of-precedence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.108Z
+lastCollected: 2026-04-07T18:36:17.335Z
 estimatedTokens: 465
-keywords: [Debug, Log, Order, Precedence, events, logged, depends, various, factors, include, trace, flags, logging, levels, API]
+keywords: [Debug, Log, Order, Precedence, events, logged, depends, various, factors, include, trace, flags, logging, levels, API, user-based, system, enablement, entry, points]
 ---
-
-# Debug Log Order of Precedence
 
 > Which events are logged depends on various factors. These factors include your trace
   flags, the default logging levels, your API header, user-based system log enablement, and the log

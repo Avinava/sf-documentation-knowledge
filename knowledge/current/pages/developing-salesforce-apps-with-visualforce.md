@@ -5,12 +5,10 @@ topic: developing-salesforce-apps-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.496Z
+lastCollected: 2026-04-07T18:38:51.759Z
 estimatedTokens: 614
-keywords: [Developing, Salesforce, Apps, Visualforce, Developers, extend, add, new, functionality, mobile, app, develop, lets, access, data]
+keywords: [Developing, Salesforce, Apps, Visualforce, Developers, extend, add, new, functionality, mobile, app, develop, lets, integrated, experience, runs, Lightning, Platform, Vis]
 ---
-
-# Developing Salesforce Apps with Visualforce
 
 > Developers can use Visualforce to extend and add new functionality to the Salesforce
             mobile app. Using Visualforce to develop for Salesforce lets you access Salesforce data

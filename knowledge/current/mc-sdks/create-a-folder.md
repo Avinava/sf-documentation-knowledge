@@ -5,12 +5,10 @@ topic: create-a-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.172Z
+lastCollected: 2026-04-07T18:40:24.635Z
 estimatedTokens: 1001
-keywords: [Folder, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Folder, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Folder
 
 > Use the Post method to create a new folder within a Marketing Cloud account.
 

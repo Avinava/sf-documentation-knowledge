@@ -5,13 +5,11 @@ topic: fsccashflowutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.373Z
+lastCollected: 2026-04-07T18:37:33.802Z
 estimatedTokens: 223
 namespace: Usage
-keywords: [FSCCashFlowUtil, callable, manage, validate, data, party, income, expense, entities, passing, action, corresponding, arguments, utility, FSCCashFlow]
+keywords: [FSCCashFlowUtil, callable, manage, validate, party, income, expense, entities, passing, action, corresponding, arguments, utility, FSCCashFlow, Flexcard, child, Flexcards]
 ---
-
-# FSCCashFlowUtil Class
 
 > Use the callable FSCCashFlowUtil class to manage and validate data for party income
         and expense entities by passing in the action and the corresponding arguments. This class

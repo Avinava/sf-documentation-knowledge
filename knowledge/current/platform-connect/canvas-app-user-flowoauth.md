@@ -5,12 +5,10 @@ topic: canvas-app-user-flowoauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.830Z
+lastCollected: 2026-04-07T18:38:57.639Z
 estimatedTokens: 256
-keywords: [Canvas, App, User, Flow—OAuth, uses, OAuth, authorization, experience, varies, depending, located, how, access]
+keywords: [Canvas, App, User, Flow—OAuth, uses, OAuth, authorization, experience, varies, depending, located, how]
 ---
-
-# Canvas App User Flow—OAuth
 
 > If your canvas app uses OAuth authorization, the user experience varies depending on
   where the canvas app is located in the user interface and how user access is set.

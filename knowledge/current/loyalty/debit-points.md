@@ -5,12 +5,10 @@ topic: debit-points
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.419Z
+lastCollected: 2026-04-07T18:38:08.722Z
 estimatedTokens: 538
-keywords: [Debit, Points, loyalty, program, member’s, balance, redeem, service, upgrade, member, higher, tier, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Debit, Points, loyalty, program, member’s, balance, redeem, service, upgrade, member, higher, tier, REST, HTTP]
 ---
-
-# Debit Points
 
 > Debit loyalty points from a specified loyalty program member’s balance.
    You can debit loyalty points to redeem for a service or upgrade the member to a higher

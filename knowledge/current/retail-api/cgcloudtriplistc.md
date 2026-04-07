@@ -5,12 +5,10 @@ topic: cgcloudtriplistc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.901Z
+lastCollected: 2026-04-07T18:39:15.393Z
 estimatedTokens: 1343
-keywords: [cgcloud__Trip_List__c, Trip, plan, visits, predefined, sequence, customers, API, version, 54.0, later, cgcloud, _Trip, _List, Calls]
+keywords: [cgcloud__Trip_List__c, Trip, plan, visits, predefined, sequence, customers, API, 54.0, cgcloud, _Trip, _List]
 ---
-
-# cgcloud__Trip_List__c
 
 > Use Trip List to plan visits based on a predefined sequence of
          customers. This object is available in API version 54.0 and later.

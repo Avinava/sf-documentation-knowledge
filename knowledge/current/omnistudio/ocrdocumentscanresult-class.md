@@ -5,12 +5,10 @@ topic: ocrdocumentscanresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.131Z
+lastCollected: 2026-04-07T18:36:35.628Z
 estimatedTokens: 443
 keywords: [OcrDocumentScanResult, OCR, document, scan, result, stores, number, extracted, text, ocrDocumentScanResultId, pageNumber]
 ---
-
-# OcrDocumentScanResult Class
 
 > This class contains the OCR document scan result. It stores the OCR Document Scan Result
     ID and the page number of the extracted text.

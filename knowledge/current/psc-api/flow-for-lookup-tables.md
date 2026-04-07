@@ -5,12 +5,10 @@ topic: flow-for-lookup-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.161Z
+lastCollected: 2026-04-07T18:39:04.286Z
 estimatedTokens: 235
-keywords: [Flow, Lookup, Tables, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
+keywords: [FlowActionCall, Flow, Lookup, Tables, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Lookup Tables
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

@@ -5,12 +5,10 @@ topic: business-rules-engine
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:07.653Z
+lastCollected: 2026-04-07T18:39:00.774Z
 estimatedTokens: 472
-keywords: [Business, Rules, Engine, suite, services, components, objects, perform, complex, lookups, calculations, key, expression, decision, matrices]
+keywords: [Business, Engine, suite, services, perform, complex, lookups, calculations, key, expression, decision, matrices, tables]
 ---
-
-# Business Rules Engine
 
 > Business Rules Engine is a suite of services, components, and objects that can be used to
   create business rules that perform complex lookups and calculations. The key components of

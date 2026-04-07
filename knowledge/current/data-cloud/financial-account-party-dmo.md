@@ -5,12 +5,10 @@ topic: financial-account-party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.649Z
+lastCollected: 2026-04-07T18:35:53.613Z
 estimatedTokens: 522
-keywords: [Financial, Account, Party, DMO, role, organization, person, Provided, Services, Cloud, Data, Kit, API, version, later]
+keywords: [Category, Relationships, Financial, Account, Party, DMO, role, organization, person, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Financial Account Party DMO
 
 > Represents the role of an organization account or person account related to a
       financial account. Provided in the Financial Services Cloud Data Kit. This DMO is available in

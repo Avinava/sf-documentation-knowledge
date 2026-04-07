@@ -5,12 +5,10 @@ topic: personalization-audiences-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.124Z
+lastCollected: 2026-04-07T18:37:15.175Z
 estimatedTokens: 76
 keywords: [Personalization, Audiences, Batch, audience, comma-separated, IDs]
 ---
-
-# Personalization Audiences, Batch
 
 > Get audience information for a comma-separated list of audience
       IDs.

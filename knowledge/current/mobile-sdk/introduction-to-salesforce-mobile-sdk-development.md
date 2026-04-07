@@ -5,12 +5,10 @@ topic: introduction-to-salesforce-mobile-sdk-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.888Z
+lastCollected: 2026-04-07T18:40:26.203Z
 estimatedTokens: 342
 keywords: [Introduction, Salesforce, Mobile, SDK, Development, lets, harness, power, Platform, stand-alone, apps]
 ---
-
-# Introduction to Salesforce Mobile SDK Development
 
 > Salesforce Mobile SDK lets you harness the power of Salesforce Platform within
   stand-alone mobile apps.

@@ -5,12 +5,10 @@ topic: focusnavigationitem-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.583Z
+lastCollected: 2026-04-07T18:36:49.736Z
 estimatedTokens: 253
-keywords: [focusNavigationItem, Lightning, Experience, Focuses, selected, navigation, opens, object's, home, Typically, standard, custom, objects, open, view]
+keywords: [Arguments, focusNavigationItem, Lightning, Experience, Focuses, selected, navigation, opens, object's, home, Typically, standard, open, view, split, focus, remains, works, console, apps, Sample, Code]
 ---
-
-# focusNavigationItem() for Lightning Experience
 
 > Focuses on the selected navigation object and opens the object's home page. Typically,
     standard and custom objects open the object's list view. If split view is open, focus remains on

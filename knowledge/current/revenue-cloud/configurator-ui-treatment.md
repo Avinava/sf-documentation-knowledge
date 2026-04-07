@@ -5,12 +5,10 @@ topic: configurator-ui-treatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.556Z
+lastCollected: 2026-04-07T18:35:45.566Z
 estimatedTokens: 364
-keywords: [Configurator, Treatment, Output, representation, treatments, product, include, configuration, rule, actions, override, disable, hide, behavior, options]
+keywords: [Configurator, Treatment, treatments, product, include, configuration, rule, actions, override, disable, hide, behavior, options, attributes, attribute, picklist]
 ---
-
-# Configurator UI Treatment
 
 > Output representation of the details of the UI treatments of a product configurator. The
     details include the product configuration rule actions to override the disable or hide behavior

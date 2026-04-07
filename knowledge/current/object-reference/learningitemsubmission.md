@@ -5,12 +5,10 @@ topic: learningitemsubmission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.078Z
+lastCollected: 2026-04-07T18:38:34.274Z
 estimatedTokens: 919
-keywords: [LearningItemSubmission, link, resource, video, recording, user, submits, part, Feedback, exercise, Enablement, program, peer, manager, user’s]
+keywords: [LearningItemSubmission, link, resource, video, recording, user, submits, part, Feedback, exercise, Enablement, program, peer, manager, user’s, sales, patch, Einstein, Coach, call, generates, call’s, transcription, API, 59.0, 61.0]
 ---
-
-# LearningItemSubmission
 
 > Represents a link to a resource, such as a video recording, that a
          user submits as part of a Feedback Request exercise in an Enablement program. For peer and

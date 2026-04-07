@@ -5,12 +5,10 @@ topic: working-with-field-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:58.957Z
+lastCollected: 2026-04-07T18:38:51.199Z
 estimatedTokens: 1324
 keywords: [Working, dynamic, bindings, display, Visualforce, pages, grouping, describing, user's, middle, business, title, Apex, Considerations]
 ---
-
-# Working with Field Sets
 
 > You can use dynamic bindings to display field sets on your Visualforce
             pages. A field set is a grouping of fields. For example, you could have a field set that

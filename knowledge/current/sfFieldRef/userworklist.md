@@ -5,12 +5,10 @@ topic: userworklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.775Z
+lastCollected: 2026-04-07T18:40:05.648Z
 estimatedTokens: 291
-keywords: [UserWorkList, work, items, Feed, tab, Sales, Engagement, users]
+keywords: [UserWorkList, work, items, tab, Sales, Engagement, users]
 ---
-
-# UserWorkList
 
 > Represents a list of work items in the My Feed tab for Sales Engagement
       users.

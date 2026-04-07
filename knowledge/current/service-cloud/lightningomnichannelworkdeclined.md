@@ -5,12 +5,10 @@ topic: lightningomnichannelworkdeclined
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.986Z
+lastCollected: 2026-04-07T18:36:49.059Z
 estimatedTokens: 148
 keywords: [lightning, omniChannelWorkDeclined, agent, declined, work, assignment]
 ---
-
-# lightning:omniChannelWorkDeclined
 
 > Indicates that an agent has declined a work
             assignment.

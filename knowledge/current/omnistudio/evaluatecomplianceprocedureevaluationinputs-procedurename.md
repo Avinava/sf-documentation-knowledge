@@ -5,12 +5,10 @@ topic: evaluatecomplianceprocedureevaluationinputs-procedurename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.882Z
+lastCollected: 2026-04-07T18:36:35.360Z
 estimatedTokens: 265
-keywords: [evaluateComplianceProcedure, evaluationInputs, procedureName, Evaluate, compliance, procedure, business, context, API, Version]
+keywords: [evaluateComplianceProcedure, evaluationInputs, procedureName, Evaluate, compliance, procedure, business, context, API]
 ---
-
-# evaluateComplianceProcedure(evaluationInputs, procedureName)
 
 > Evaluate a compliance procedure with a business context.
 

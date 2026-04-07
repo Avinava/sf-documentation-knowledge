@@ -5,12 +5,10 @@ topic: rebateclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.837Z
+lastCollected: 2026-04-07T18:39:58.502Z
 estimatedTokens: 516
 keywords: [RebateClaim, claim, submitted, end, customer, distributor, ship, debit, rebate, program]
 ---
-
-# RebateClaim
 
 > Represents Information about the claim submitted by the end customer or
          distributor for a ship and debit rebate program.

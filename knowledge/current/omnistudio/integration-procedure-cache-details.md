@@ -5,12 +5,10 @@ topic: integration-procedure-cache-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.082Z
+lastCollected: 2026-04-07T18:36:39.768Z
 estimatedTokens: 171
-keywords: [Integration, Procedure, Cache, Output, representation, cleared, procedures]
+keywords: [Integration, Procedure, Cache, cleared, procedures]
 ---
-
-# Integration Procedure Cache Details
 
 > Output representation of the cache that are cleared for the specified integration
     procedures.

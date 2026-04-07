@@ -5,12 +5,10 @@ topic: experience-cloud-site-preview-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.998Z
+lastCollected: 2026-04-07T18:37:12.896Z
 estimatedTokens: 187
 keywords: [Experience, Cloud, Site, Preview, URL]
 ---
-
-# Experience Cloud Site Preview URL
 
 > Get a preview URL for an Experience Cloud site page.
 

@@ -5,12 +5,10 @@ topic: install-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.901Z
+lastCollected: 2026-04-07T18:40:28.044Z
 estimatedTokens: 883
 keywords: [Install, iOS, SDK, configure, project]
 ---
-
-# Install the for iOS for iOS
 
 > Before you can use the iOS SDK, install the SDK and configure your
             project.

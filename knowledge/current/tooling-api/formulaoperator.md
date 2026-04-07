@@ -5,12 +5,10 @@ topic: formulaoperator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.737Z
+lastCollected: 2026-04-07T18:36:33.178Z
 estimatedTokens: 313
-keywords: [FormulaOperator, operator, building, formula, including, examples, uses, Tooling, API, version, 39.0, later, SOAP, Calls, REST]
+keywords: [FormulaOperator, operator, building, formula, including, examples, uses, Tooling, API, 39.0, SOAP, REST, HTTP, Query]
 ---
-
-# FormulaOperator
 
 > Represents an operator used when building a formula,
             including examples and uses. This object is available in Tooling API version 39.0

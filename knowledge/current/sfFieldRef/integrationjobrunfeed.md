@@ -5,12 +5,10 @@ topic: integrationjobrunfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.893Z
+lastCollected: 2026-04-07T18:39:45.454Z
 estimatedTokens: 389
-keywords: [IntegrationJobRunFeed, Feed, tracking, IntegrationJobRun]
+keywords: [IntegrationJobRunFeed, IntegrationJobRun]
 ---
-
-# IntegrationJobRunFeed
 
 > Feed tracking for IntegrationJobRun.
 

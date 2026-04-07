@@ -5,12 +5,10 @@ topic: processexceptionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.734Z
+lastCollected: 2026-04-07T18:38:59.674Z
 estimatedTokens: 900
-keywords: [ProcessExceptionEvent, Notifies, subscribers, errors, occur, payment, processing, capture, apply, refund, order, summary, event, trigger, flows]
+keywords: [ProcessExceptionEvent, Notifies, subscribers, errors, occur, payment, processing, capture, apply, refund, order, summary, event, trigger, flows, workflow, API, 50.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# ProcessExceptionEvent
 
 > Notifies subscribers of errors that occur during payment processing
 			(capture, apply, and refund) on an order summary. Use this event to trigger subscribers

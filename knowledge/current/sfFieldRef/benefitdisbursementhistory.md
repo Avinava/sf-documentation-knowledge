@@ -5,12 +5,10 @@ topic: benefitdisbursementhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.068Z
+lastCollected: 2026-04-07T18:39:29.175Z
 estimatedTokens: 268
-keywords: [BenefitDisbursementHistory, History, tracked, BenefitDisbursement]
+keywords: [BenefitDisbursementHistory, tracked, BenefitDisbursement]
 ---
-
-# BenefitDisbursementHistory
 
 > History for tracked fields of BenefitDisbursement.
 

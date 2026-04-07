@@ -5,12 +5,10 @@ topic: perform-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.824Z
+lastCollected: 2026-04-07T18:40:10.793Z
 estimatedTokens: 307
-keywords: [Perform, Action, Input, quick, creates, updates, record]
+keywords: [Perform, Action, quick, creates, updates, record]
 ---
-
-# Perform Action Input
 
 > Perform a quick action that creates or updates a record.
 

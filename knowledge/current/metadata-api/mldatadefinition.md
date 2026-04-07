@@ -5,12 +5,10 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.125Z
+lastCollected: 2026-04-07T18:36:27.655Z
 estimatedTokens: 1319
-keywords: [MLDataDefinition, modeling, data, definition, model, include, filters, exclude, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [MLDataDefinition, MLField, MLFilter, modeling, definition, model, include, filters, exclude, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# MLDataDefinition
 
 > Represents a modeling data definition, which specifies the data used to create a model.
     Such data can include filters, fields to include, fields to exclude, and so on. This type

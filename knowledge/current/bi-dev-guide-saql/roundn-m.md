@@ -6,13 +6,10 @@ topic: roundn-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.151Z
+lastCollected: 2026-04-07T18:37:00.712Z
 estimatedTokens: 203
-keywords: [round, rounded, decimal, places, negative, case, function, left, point, omitted, nearest, tie-breaking, follows, half, way]
+keywords: [round, rounded, decimal, places, negative, case, function, left, point, omitted, nearest, tie-breaking, follows, half, way, zero, convention, any, real, numeric, range, -1e308, 1e308, -15, inclusive, foreach, statement]
 ---
-
-# round(n[,
-  m])
 
 > Returns the value of n rounded to m decimal
   places. m can be negative, in which case the function returns

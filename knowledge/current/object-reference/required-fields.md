@@ -5,12 +5,10 @@ topic: required-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.090Z
+lastCollected: 2026-04-07T18:38:23.960Z
 estimatedTokens: 250
-keywords: [non-null, rule, affects, calls]
+keywords: [non-null, rule, affects]
 ---
-
-# Required Fields
 
 > Required fields must have a non-null value. This rule
    affects the create and update calls:

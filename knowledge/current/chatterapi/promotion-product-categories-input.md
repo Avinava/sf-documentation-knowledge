@@ -5,12 +5,10 @@ topic: promotion-product-categories-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.154Z
+lastCollected: 2026-04-07T18:37:09.871Z
 estimatedTokens: 97
-keywords: [Promotion, Product, Categories, Input, IDs, associated, category]
+keywords: [Promotion, Product, Categories, IDs, category]
 ---
-
-# Promotion Product Categories Input
 
 > IDs of a product and associated category.
 

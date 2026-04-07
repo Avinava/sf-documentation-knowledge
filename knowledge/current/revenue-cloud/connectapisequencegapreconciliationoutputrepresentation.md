@@ -5,12 +5,10 @@ topic: connectapisequencegapreconciliationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.781Z
+lastCollected: 2026-04-07T18:35:41.652Z
 estimatedTokens: 223
-keywords: [Output, representation, sequence, gap, reconciliation]
+keywords: [sequence, gap, reconciliation]
 ---
-
-# ConnectApi.SequenceGapReconciliationOutputRepresentation
 
 > Output representation of the details of the sequence gap reconciliation.
 

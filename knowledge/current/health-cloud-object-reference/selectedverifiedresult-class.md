@@ -5,12 +5,10 @@ topic: selectedverifiedresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.974Z
+lastCollected: 2026-04-07T18:37:39.933Z
 estimatedTokens: 399
 keywords: [SelectedVerifiedResult, verified, secondary, search, verifiedDetails]
 ---
-
-# SelectedVerifiedResult Class
 
 > Contains information about the verified object that is used for the
       secondary search.

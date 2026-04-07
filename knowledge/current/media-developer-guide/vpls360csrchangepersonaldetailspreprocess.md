@@ -5,12 +5,10 @@ topic: vpls360csrchangepersonaldetailspreprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.416Z
+lastCollected: 2026-04-07T18:38:11.733Z
 estimatedTokens: 146
-keywords: [Integration, Procedure, agent, console, change, personal, account, vpls360csr, _ChangePersonalDetailsPreProcess, Sample, Input, Output, Calls]
+keywords: [Integration, Procedure, agent, console, change, personal, account, vpls360csr, _ChangePersonalDetailsPreProcess, Sample]
 ---
-
-# vpls360csr_ChangePersonalDetailsPreProcess
 
 > This Integration Procedure is used in the agent console to
       change the personal details of an account.

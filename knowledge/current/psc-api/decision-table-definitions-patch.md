@@ -5,12 +5,10 @@ topic: decision-table-definitions-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.640Z
+lastCollected: 2026-04-07T18:39:01.786Z
 estimatedTokens: 1219
-keywords: [Decision, Definitions, PATCH, definition, associated]
+keywords: [Decision, Definitions, PATCH, definition]
 ---
-
-# Decision Table Definitions (PATCH)
 
 > Update a decision table definition associated with a decision
       table.

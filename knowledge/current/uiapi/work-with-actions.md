@@ -5,12 +5,10 @@ topic: work-with-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.518Z
+lastCollected: 2026-04-07T18:40:10.493Z
 estimatedTokens: 401
-keywords: [Work, Actions, resources, data, metadata, Salesforce, Examples, include, standard, custom, buttons, quick, productivity]
+keywords: [Work, Actions, resources, metadata, Salesforce, Examples, include, standard, buttons, quick, productivity]
 ---
-
-# Work with Actions
 
 > Use the Actions resources to get data and metadata about actions
       displayed in the Salesforce UI. Examples include standard and custom buttons, quick actions,

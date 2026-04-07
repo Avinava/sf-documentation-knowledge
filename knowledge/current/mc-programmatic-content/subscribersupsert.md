@@ -5,12 +5,10 @@ topic: subscribersupsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.835Z
+lastCollected: 2026-04-07T18:40:23.255Z
 estimatedTokens: 197
 keywords: [Subscribers.Upsert, Function, Ordinal, Attribute, containing, Email, address, subscriber, JSON, EmailAddress, SubscriberKey, subscribe, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Upsert
 
 > Subscribers.Upsert(1, 2)
 

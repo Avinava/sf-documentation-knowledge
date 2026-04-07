@@ -5,12 +5,10 @@ topic: asset-state-period-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.032Z
+lastCollected: 2026-04-07T18:37:17.106Z
 estimatedTokens: 73
-keywords: [Asset, State, Period, Output, received, lifecycle-managed]
+keywords: [Asset, State, Period, received, lifecycle-managed]
 ---
-
-# Asset State Period Output
 
 > Response received from an asset state period for a lifecycle-managed
       asset.

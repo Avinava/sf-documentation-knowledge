@@ -5,12 +5,10 @@ topic: product-catalog-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.593Z
+lastCollected: 2026-04-07T18:35:47.618Z
 estimatedTokens: 335
-keywords: [Product, Catalog, Management, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
+keywords: [Product, Catalog, Management, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
-
-# Product Catalog Management Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

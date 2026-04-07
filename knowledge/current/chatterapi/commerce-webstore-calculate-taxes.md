@@ -5,12 +5,10 @@ topic: commerce-webstore-calculate-taxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.269Z
+lastCollected: 2026-04-07T18:37:12.114Z
 estimatedTokens: 110
 keywords: [Commerce, Webstore, Calculate, Taxes]
 ---
-
-# Commerce Webstore Calculate Taxes
 
 > Calculate taxes for a Commerce webstore.
 

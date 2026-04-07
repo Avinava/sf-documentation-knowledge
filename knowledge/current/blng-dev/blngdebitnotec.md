@@ -5,12 +5,10 @@ topic: blngdebitnotec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.977Z
+lastCollected: 2026-04-07T18:37:04.661Z
 estimatedTokens: 2612
-keywords: [blng__DebitNote__c, positive, balance, change, allocate, invoice, line, credit, blng, _DebitNote, Calls]
+keywords: [blng__DebitNote__c, positive, balance, change, allocate, invoice, line, credit, blng, _DebitNote]
 ---
-
-# blng__DebitNote__c
 
 > Represents information about the positive balance change that you can
          allocate to an invoice line or a positive credit note line.

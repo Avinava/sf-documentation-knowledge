@@ -5,13 +5,11 @@ topic: gatewayerrorresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.719Z
+lastCollected: 2026-04-07T18:36:01.943Z
 estimatedTokens: 665
 namespace: CommercePayments
-keywords: [GatewayErrorResponse, respond, error, indication, errors, PaymentGateway, adapter, request-forbidden, responses, custom, validation, expired, API, tokens, Usage]
+keywords: [GatewayErrorResponse, respond, error, indication, errors, PaymentGateway, adapter, request-forbidden, responses, validation, expired, API, tokens, errorCode, errorMessage]
 ---
-
-# GatewayErrorResponse Class
 
 > Use to respond with an error indication following errors from the
         PaymentGateway adapter, such as request-forbidden

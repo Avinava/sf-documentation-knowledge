@@ -5,12 +5,10 @@ topic: fetch-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.137Z
+lastCollected: 2026-04-07T18:37:01.750Z
 estimatedTokens: 249
 keywords: [FETCH, Clause, number, rows, SQL]
 ---
-
-# FETCH Clause
 
 > The FETCH clause specifies the number of rows to
   return. If no FETCH clause is specified, then SQL returns all

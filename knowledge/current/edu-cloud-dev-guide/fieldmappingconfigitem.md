@@ -5,12 +5,10 @@ topic: fieldmappingconfigitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.025Z
+lastCollected: 2026-04-07T18:37:30.100Z
 estimatedTokens: 471
-keywords: [FieldMappingConfigItem, mapped, defined, source, destination, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [FieldMappingConfigItem, mapped, defined, source, destination, API, 63.0]
 ---
-
-# FieldMappingConfigItem
 
 > Represents the fields mapped between a defined source object and the
          destination object and fields. This object is available in API version 63.0 and later.

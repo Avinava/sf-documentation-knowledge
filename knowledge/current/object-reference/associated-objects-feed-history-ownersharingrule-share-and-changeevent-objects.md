@@ -6,13 +6,10 @@ topic: associated-objects-feed-history-ownersharingrule-share-and-changeevent-ob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.143Z
+lastCollected: 2026-04-07T18:38:24.023Z
 estimatedTokens: 703
-keywords: [Associated, Objects, Feed, History, OwnerSharingRule, Share, ChangeEvent, standard, their]
+keywords: [OwnerSharingRule, Share, ChangeEvent, standard, their]
 ---
-
-# Associated Objects (Feed, History, OwnerSharingRule, Share, and
-            ChangeEvent Objects)
 
 > This section provides a list of objects associated to standard objects and their
         standard fields.

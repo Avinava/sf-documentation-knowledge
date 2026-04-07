@@ -5,12 +5,10 @@ topic: create-referral-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.043Z
+lastCollected: 2026-04-07T18:37:42.209Z
 estimatedTokens: 381
-keywords: [Referral, Action, patient, record, consists, multiple, objects, account, clinical, service, detail, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Referral, Action, patient, record, consists, multiple, account, clinical, service, detail, REST, HTTP]
 ---
-
-# Create Referral Action
 
 > Create a patient referral record. A patient referral consists of
       multiple objects, such as an account, clinical service request, and clinical service request

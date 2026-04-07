@@ -5,12 +5,10 @@ topic: warning
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.333Z
+lastCollected: 2026-04-07T18:38:05.548Z
 estimatedTokens: 77
 keywords: [Deprecated, Logs, browser's, JavaScript, console]
 ---
-
-# warning()
 
 > Deprecated. Logs a warning to the browser's JavaScript console, if it
    is available.

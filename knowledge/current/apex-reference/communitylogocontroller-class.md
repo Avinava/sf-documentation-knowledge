@@ -5,13 +5,11 @@ topic: communitylogocontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.262Z
+lastCollected: 2026-04-07T18:36:01.515Z
 estimatedTokens: 82
 namespace: AppLauncher
 keywords: [CommunityLogoController, internal]
 ---
-
-# CommunityLogoController Class
 
 > This class and its methods are for internal use
     only.

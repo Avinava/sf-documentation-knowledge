@@ -5,12 +5,10 @@ topic: partyrolerelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.059Z
+lastCollected: 2026-04-07T18:38:23.028Z
 estimatedTokens: 963
-keywords: [PartyRoleRelation, relationship, participants, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [PartyRoleRelation, relationship, participants, API, 57.0]
 ---
-
-# PartyRoleRelation
 
 > Represents information about the type of relationship between the
          participants. This object is available in API version 57.0 and later.

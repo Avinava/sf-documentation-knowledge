@@ -5,12 +5,10 @@ topic: rebate-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:19.385Z
+lastCollected: 2026-04-07T18:37:06.082Z
 estimatedTokens: 669
 keywords: [Rebate, Management, programs, define, incentive, structure, benefits, corresponding, qualification, thresholds]
 ---
-
-# Rebate Management
 
 > Use Rebate Management to create rebate programs and define an incentive structure with
     benefits and corresponding qualification thresholds.

@@ -5,12 +5,10 @@ topic: campaignsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.967Z
+lastCollected: 2026-04-07T18:36:23.252Z
 estimatedTokens: 1174
-keywords: [CampaignSettings, org’s, Campaign, Influence, Einstein, Attribution, Key, Accounts, member, settings, features, help, understand, how, campaigns]
+keywords: [CampaignSettings, org’s, Campaign, Influence, Einstein, Attribution, Key, Accounts, member, settings, features, help, understand, how, campaigns, affecting, opportunity, pipeline, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# CampaignSettings
 
 > Represents an org’s Campaign Influence,
 			Einstein Attribution, Einstein Key Accounts, and campaign member settings. These

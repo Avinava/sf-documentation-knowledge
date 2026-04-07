@@ -5,12 +5,10 @@ topic: configuration-set-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.975Z
+lastCollected: 2026-04-07T18:35:45.000Z
 estimatedTokens: 327
-keywords: [Configuration, Instance, POST, product, API, scenarios, different, database, Salesforce, catalog, management, data]
+keywords: [Configuration, Instance, POST, product, API, scenarios, different, database, Salesforce, catalog, management]
 ---
-
-# Configuration Set Instance (POST)
 
 > Set a product configuration instance. This API is used in scenarios
       where the configuration instance is available in a different database than Salesforce and the

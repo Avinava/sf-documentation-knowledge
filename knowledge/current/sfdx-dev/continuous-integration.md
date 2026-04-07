@@ -5,12 +5,10 @@ topic: continuous-integration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.915Z
+lastCollected: 2026-04-07T18:40:07.853Z
 estimatedTokens: 687
-keywords: [Continuous, Integration, software, development, practice, developers, regularly, integrate, their, code, changes, source, repository, ensure, new]
+keywords: [Continuous, Integration, software, development, practice, developers, regularly, integrate, their, code, changes, source, repository, ensure, new, introduce, bugs, automated, builds, tests, run, check]
 ---
-
-# Continuous Integration
 
 > Continuous integration (CI) is a software development practice in which developers
   regularly integrate their code changes into a source code repository. To ensure that the new code

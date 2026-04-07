@@ -5,12 +5,10 @@ topic: multipartyinfoauthrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.727Z
+lastCollected: 2026-04-07T18:39:49.200Z
 estimatedTokens: 394
-keywords: [MultipartyInfoAuthRequest, Tracks, multiple, parties, authorization, Data, Purpose, consent, requests, share, documents, open, joint, financial, account]
+keywords: [MultipartyInfoAuthRequest, Tracks, multiple, parties, authorization, Purpose, consent, requests, share, documents, open, joint, financial, account, mortgage, disclosures, loan, applicants, borrower, co-borrower, API, 53.0]
 ---
-
-# MultipartyInfoAuthRequest
 
 > Tracks a request for multiple parties of authorization on a Data Use Purpose.
          For example, consent requests to share the required documents to open a joint financial

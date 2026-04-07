@@ -5,12 +5,10 @@ topic: contract-action-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.152Z
+lastCollected: 2026-04-07T18:37:25.105Z
 estimatedTokens: 85
 keywords: [Contract, Action, particular]
 ---
-
-# Contract Action Response
 
 > Contract action response for a particular contract
     ID.

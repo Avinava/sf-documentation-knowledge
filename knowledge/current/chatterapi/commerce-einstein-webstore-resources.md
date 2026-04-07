@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:25.243Z
+lastCollected: 2026-04-07T18:37:12.084Z
 estimatedTokens: 772
 keywords: [Commerce, Einstein, Webstore, Resources, status, deployment, configuration, Export, purge, activity, product, recommendations]
 ---
-
-# Commerce Einstein Webstore Resources
 
 > Get the status of a Commerce Einstein deployment. Get the Commerce Einstein
   configuration. Export and purge Commerce Einstein activity. Get Commerce Einstein product

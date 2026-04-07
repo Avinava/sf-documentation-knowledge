@@ -5,12 +5,10 @@ topic: salesagreeproductattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.187Z
+lastCollected: 2026-04-07T18:38:14.591Z
 estimatedTokens: 389
-keywords: [SalesAgreeProductAttribute, virtual, stores, key-value, pairs, attributes, sales, agreement, products, API, version, 60.0, later, Calls]
+keywords: [SalesAgreeProductAttribute, virtual, stores, key-value, pairs, attributes, sales, agreement, products, API, 60.0]
 ---
-
-# SalesAgreeProductAttribute
 
 > Represents a virtual object that stores the key-value pairs for attributes of
          sales agreement products. This object is available in API version 60.0 and later.

@@ -5,13 +5,11 @@ topic: schedulablecontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.243Z
+lastCollected: 2026-04-07T18:36:13.546Z
 estimatedTokens: 295
 namespace: System
 keywords: [SchedulableContext, implements, Schedulable, scheduled, job, implemented, internally, Apex, getTriggerId]
 ---
-
-# SchedulableContext Interface
 
 > Represents the parameter type of a method in a class that implements the Schedulable interface and contains the scheduled job ID. This
   interface is implemented internally by Apex.

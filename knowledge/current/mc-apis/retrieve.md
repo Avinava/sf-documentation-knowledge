@@ -5,12 +5,10 @@ topic: retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.440Z
+lastCollected: 2026-04-07T18:40:18.644Z
 estimatedTokens: 415
-keywords: [Retrieve, retrieves, Apply, filters, ensure, relevant, results, Output]
+keywords: [Retrieve, retrieves, Apply, filters, ensure, relevant, results]
 ---
-
-# Retrieve
 
 > Use the Retrieve method to return a single object type. This method retrieves only the specified object properties for properties that have values. Apply filters to ensure that you get only relevant results.
 

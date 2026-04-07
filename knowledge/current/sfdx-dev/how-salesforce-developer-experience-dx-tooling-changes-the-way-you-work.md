@@ -5,12 +5,10 @@ topic: how-salesforce-developer-experience-dx-tooling-changes-the-way-you-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:13.147Z
+lastCollected: 2026-04-07T18:40:08.099Z
 estimatedTokens: 1368
-keywords: [How, Salesforce, Developer, Experience, Tooling, Changes, Way, Work, modern, manage, develop, apps, platform, across, their]
+keywords: [How, Salesforce, Developer, Experience, Tooling, Changes, Way, Work, modern, manage, develop, apps, platform, across, their, entire, lifecycle, brings, together, source-driven, development, team, collaboration, governance, new, levels, agility, app, best, practices, Ready, Begin]
 ---
-
-# How Salesforce Developer Experience (DX) Tooling Changes the Way You Work
 
 > Salesforce DX tooling provides modern experience to manage and develop apps on the
         platform across their entire lifecycle. It brings together source-driven development, team

@@ -5,12 +5,10 @@ topic: migrate-deprecated-metadata-from-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.866Z
+lastCollected: 2026-04-07T18:40:08.817Z
 estimatedTokens: 205
 keywords: [Migrate, Deprecated, Metadata, Unlocked, Packages, deprecate, package, move, new, install, production, org]
 ---
-
-# Migrate Deprecated Metadata from Unlocked Packages
 
 > You can deprecate metadata in an unlocked package, move that metadata to a new package,
   and then install the new package in your production org.

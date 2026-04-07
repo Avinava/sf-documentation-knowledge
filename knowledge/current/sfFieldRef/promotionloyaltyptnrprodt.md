@@ -5,12 +5,10 @@ topic: promotionloyaltyptnrprodt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.581Z
+lastCollected: 2026-04-07T18:39:57.167Z
 estimatedTokens: 378
 keywords: [PromotionLoyaltyPtnrProdt, relationship, promotion, loyalty, partner, product, products, categories, applied, particular]
 ---
-
-# PromotionLoyaltyPtnrProdt
 
 > Represents a relationship between a promotion and a loyalty partner product. It
       indicates the products or product categories that are applied to a particular promotion.

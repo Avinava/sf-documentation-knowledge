@@ -5,12 +5,10 @@ topic: configure-the-login-endpoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.930Z
+lastCollected: 2026-04-07T18:40:25.298Z
 estimatedTokens: 509
-keywords: [Configure, Login, Endpoint, Finally, app, Experience, Cloud, site, app’s, mobile, platform, determines, how, setting, Android]
+keywords: [Android, Configure, Login, Endpoint, Finally, app, Experience, Cloud, site, app’s, mobile, platform, determines, how, setting, iOS]
 ---
-
-# Configure the Login Endpoint
 
 > Finally, configure the app to use your Experience Cloud site login endpoint. The app’s
    mobile platform determines how you configure this setting.

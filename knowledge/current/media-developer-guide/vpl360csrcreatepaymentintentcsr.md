@@ -5,12 +5,10 @@ topic: vpl360csrcreatepaymentintentcsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.237Z
+lastCollected: 2026-04-07T18:38:11.555Z
 estimatedTokens: 173
 keywords: [VPL360CSR_CreatePaymentIntentCSR, Integration, Procedure, creates, payment, intent, customer, Stripe, fetches, client, secret, key, VPL360CSR, _CreatePaymentIntentCSR, Sample]
 ---
-
-# VPL360CSR_CreatePaymentIntentCSR
 
 > This Integration Procedure creates the payment intent for
     the customer in Stripe and fetches the client secret key to complete the payment.

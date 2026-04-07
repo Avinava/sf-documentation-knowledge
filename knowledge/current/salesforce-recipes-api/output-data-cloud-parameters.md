@@ -5,12 +5,10 @@ topic: output-data-cloud-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.670Z
+lastCollected: 2026-04-07T18:39:19.352Z
 estimatedTokens: 473
-keywords: [Output, Data, Cloud, node, recipe]
+keywords: [Cloud, node, recipe]
 ---
-
-# Output Data Cloud Parameters
 
 > The parameters for an output Data 360 node in a recipe.
 

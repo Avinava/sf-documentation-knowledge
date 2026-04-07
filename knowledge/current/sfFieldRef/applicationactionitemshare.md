@@ -5,12 +5,10 @@ topic: applicationactionitemshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.243Z
+lastCollected: 2026-04-07T18:39:26.192Z
 estimatedTokens: 253
 keywords: [ApplicationActionItemShare, Sharing, ApplicationActionItem]
 ---
-
-# ApplicationActionItemShare
 
 > Sharing for ApplicationActionItem.
 

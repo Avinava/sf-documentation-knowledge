@@ -5,12 +5,10 @@ topic: expensereportshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.354Z
+lastCollected: 2026-04-07T18:39:39.961Z
 estimatedTokens: 249
 keywords: [ExpenseReportShare, Sharing, ExpenseReport]
 ---
-
-# ExpenseReportShare
 
 > Sharing for ExpenseReport.
 

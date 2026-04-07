@@ -5,12 +5,10 @@ topic: action-link-diagnostic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.447Z
+lastCollected: 2026-04-07T18:37:11.210Z
 estimatedTokens: 144
-keywords: [Action, Link, Diagnostic, executes, users, access]
+keywords: [Action, Link, Diagnostic, executes, users]
 ---
-
-# Action Link Diagnostic Information
 
 > Get diagnostic information returned when an action link executes.
       Diagnostic information is given only for users who can access the action

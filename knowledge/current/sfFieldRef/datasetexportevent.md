@@ -5,12 +5,10 @@ topic: datasetexportevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.990Z
+lastCollected: 2026-04-07T18:39:37.679Z
 estimatedTokens: 262
-keywords: [DatasetExportEvent, Notifies, subscribers, export, Analytics, dataset, API, version, 41.0, later]
+keywords: [DatasetExportEvent, Notifies, subscribers, export, Analytics, dataset, API, 41.0]
 ---
-
-# DatasetExportEvent
 
 > Notifies subscribers on the export of an Analytics dataset. This
 		object is available in API version 41.0 and later.

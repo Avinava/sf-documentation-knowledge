@@ -5,12 +5,10 @@ topic: lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.108Z
+lastCollected: 2026-04-07T18:36:19.332Z
 estimatedTokens: 719
-keywords: [ordered, collection, elements, distinguished, their, indices, any, data, type—primitive, collections, sObjects, user-defined, built-in, Apex, Array]
+keywords: [ordered, collection, distinguished, their, indices, any, type—primitive, collections, sObjects, user-defined, built-in, Apex, Array, Notation, One-Dimensional]
 ---
-
-# Lists
 
 > A list is an ordered collection of elements that are distinguished by their indices.
         List elements can be of any data type—primitive types, collections, sObjects,

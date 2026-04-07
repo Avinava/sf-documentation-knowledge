@@ -6,13 +6,10 @@ topic: overriding-tabs-using-a-standard-list-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.829Z
+lastCollected: 2026-04-07T18:38:51.068Z
 estimatedTokens: 245
 keywords: [Overriding, Tabs, Standard, Controller, sure, made, users, setting, level, security, appropriately]
 ---
-
-# Overriding Tabs Using a Standard List
-Controller
 
 > Make sure you have made this page available to all your users by setting the page level
         security appropriately.

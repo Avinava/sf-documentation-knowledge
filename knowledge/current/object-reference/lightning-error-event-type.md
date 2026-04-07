@@ -5,12 +5,10 @@ topic: lightning-error-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.370Z
+lastCollected: 2026-04-07T18:38:31.217Z
 estimatedTokens: 2015
-keywords: [Lightning, Error, Event, events, represent, errors, occurred, user, interactions, Experience, Salesforce, mobile, app, EventLogFile, API]
+keywords: [Lightning, Error, Event, events, represent, errors, occurred, user, interactions, Experience, Salesforce, mobile, app, EventLogFile, API, 39.0]
 ---
-
-# Lightning Error Event Type
 
 > Lightning Error events represent errors that occurred during user
 			interactions with Lightning Experience and the Salesforce mobile app. This event

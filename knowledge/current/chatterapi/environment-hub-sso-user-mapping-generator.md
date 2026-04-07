@@ -5,12 +5,10 @@ topic: environment-hub-sso-user-mapping-generator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.440Z
+lastCollected: 2026-04-07T18:37:13.392Z
 estimatedTokens: 384
 keywords: [Environment, Hub, SSO, User, Mapping, Generator, Creates, member, org, lets, log, mapped, having, re-authenticate]
 ---
-
-# Environment Hub SSO User Mapping Generator
 
 > Creates an SSO mapping between an Environment Hub user and a user in
       a hub member org. An SSO user mapping lets the Environment Hub user log in as the mapped user

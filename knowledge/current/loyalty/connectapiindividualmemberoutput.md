@@ -5,12 +5,10 @@ topic: connectapiindividualmemberoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.786Z
+lastCollected: 2026-04-07T18:38:06.999Z
 estimatedTokens: 203
-keywords: [ConnectApi.IndividualMemberOutput, Output, representation, individual, member]
+keywords: [ConnectApi.IndividualMemberOutput, individual, member]
 ---
-
-# ConnectApi.IndividualMemberOutput
 
 > Output representation of the individual member create
     request.

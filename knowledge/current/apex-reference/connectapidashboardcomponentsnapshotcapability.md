@@ -5,12 +5,10 @@ topic: connectapidashboardcomponentsnapshotcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.115Z
+lastCollected: 2026-04-07T18:36:08.515Z
 estimatedTokens: 213
-keywords: [feed, element, capability, dashboard, component, snapshot, image, specific, point, time]
+keywords: [capability, dashboard, snapshot, image, specific, point, time]
 ---
-
-# ConnectApi.DashboardComponentSnapshotCapability
 
 > If a feed element has this capability, it has a dashboard component
       snapshot. A snapshot is a static image of a dashboard component at a specific point in

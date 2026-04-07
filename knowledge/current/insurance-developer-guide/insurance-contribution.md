@@ -5,12 +5,10 @@ topic: insurance-contribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.219Z
+lastCollected: 2026-04-07T18:37:52.370Z
 estimatedTokens: 150
-keywords: [Insurance, Contribution, Output, representation, individual, rating]
+keywords: [Insurance, Contribution, individual, rating]
 ---
-
-# Insurance Contribution
 
 > Output representation of contribution information in an individual rating.
 

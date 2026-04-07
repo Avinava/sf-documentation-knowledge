@@ -5,12 +5,10 @@ topic: log-in-with-hardware-2fa
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.277Z
+lastCollected: 2026-04-07T18:37:28.308Z
 estimatedTokens: 223
-keywords: [Log, Hardware, 2FA, how, Data, Loader, OAuth]
+keywords: [Log, Hardware, 2FA, how, Loader, OAuth]
 ---
-
-# Log In with Hardware 2FA
 
 > Learn how to log in to Data Loader with OAuth and hardware 2FA.
 

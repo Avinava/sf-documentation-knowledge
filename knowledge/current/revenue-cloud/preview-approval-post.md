@@ -5,12 +5,10 @@ topic: preview-approval-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.765Z
+lastCollected: 2026-04-07T18:35:44.774Z
 estimatedTokens: 275
-keywords: [Preview, Approval, POST, levels, record, associated, level, chains, approvers, conditions, submit]
+keywords: [Preview, Approval, POST, levels, record, level, chains, approvers, conditions, submit]
 ---
-
-# Preview Approval (POST)
 
 > Preview the approval levels of a record and associated level details,
       approval chains, approvers, and conditions before you submit the record for an

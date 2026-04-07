@@ -5,12 +5,10 @@ topic: embedded-service-chat-sdk-for-android-developer-guide-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:32.701Z
+lastCollected: 2026-04-07T18:40:27.846Z
 estimatedTokens: 1063
-keywords: [Embedded, Service, Chat, SDK, Android, Developer, Mobile, Apps, easy, give, customers, access, powerful, features, right]
+keywords: [Embedded, Service, Chat, SDK, Android, Developer, Mobile, Apps, easy, give, customers, powerful, features, right, native, app, helps, started]
 ---
-
-# Embedded Service Chat SDK for Android Developer Guide Developer Guide
 
 > The Embedded Service Chat SDK for Mobile
    Apps makes it easy to give customers access to powerful chat features right from within your

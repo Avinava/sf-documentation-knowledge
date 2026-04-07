@@ -5,12 +5,10 @@ topic: connectapiinsuranceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.687Z
+lastCollected: 2026-04-07T18:37:50.562Z
 estimatedTokens: 200
-keywords: [Output, representation, bulk, renew, policy, cancel, requests]
+keywords: [bulk, renew, policy, cancel, requests]
 ---
-
-# ConnectApi.InsuranceOutputRepresentation
 
 > Output representation details of the bulk renew policy and bulk cancel policy
     requests.

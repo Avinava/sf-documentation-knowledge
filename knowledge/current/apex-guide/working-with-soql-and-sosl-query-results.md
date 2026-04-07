@@ -5,12 +5,10 @@ topic: working-with-soql-and-sosl-query-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.043Z
+lastCollected: 2026-04-07T18:36:19.266Z
 estimatedTokens: 435
-keywords: [Working, SOQL, SOSL, Query, Results, queries, data, sObject, selected, original, try, access, receive, runtime, error]
+keywords: [Working, SOQL, SOSL, Query, Results, queries, sObject, selected, original, try, receive, runtime, error, database, code]
 ---
-
-# Working with SOQL and SOSL Query Results
 
 > SOQL and SOSL queries only return data for sObject fields that
 are selected in the original query. If you try to access a field that

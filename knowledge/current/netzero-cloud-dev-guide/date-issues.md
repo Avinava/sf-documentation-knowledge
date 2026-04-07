@@ -5,12 +5,10 @@ topic: date-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.687Z
+lastCollected: 2026-04-07T18:38:16.232Z
 estimatedTokens: 312
-keywords: [Date, Issues, Identify, energy, consumption, records, associated, Stationary, Asset, Carbon, Footprint]
+keywords: [Date, Issues, Identify, energy, consumption, records, Stationary, Asset, Carbon, Footprint]
 ---
-
-# Date Issues
 
 > Identify and get energy consumption records with date issues
       associated with the Stationary Asset Carbon Footprint object.

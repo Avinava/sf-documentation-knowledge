@@ -5,12 +5,10 @@ topic: lightning-platform-query-optimizer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.235Z
+lastCollected: 2026-04-07T18:39:17.912Z
 estimatedTokens: 1703
-keywords: [Lightning, Platform, Query, Optimizer, Salesforce, multitenant, architecture, uses, underlying, database, way, system’s, can’t, effectively, optimize]
+keywords: [Lightning, Platform, Query, Optimizer, Salesforce, multitenant, architecture, uses, underlying, database, way, system’s, can’t, effectively, optimize, search, queries, helps, database’s, produce, effective, providing, efficient, Creating, Determine, Selectivity, Filter, Condition, SOQL, Complex, Conditions, Understand, Impact, Deleted, Records]
 ---
-
-# Lightning Platform Query Optimizer
 
 > The Salesforce multitenant architecture uses the underlying database in such a way that
   the database system’s optimizer can’t effectively optimize search queries. The Lightning Platform query optimizer helps the database’s optimizer

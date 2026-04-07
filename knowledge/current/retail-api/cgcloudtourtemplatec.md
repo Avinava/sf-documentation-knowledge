@@ -5,12 +5,10 @@ topic: cgcloudtourtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.842Z
+lastCollected: 2026-04-07T18:39:15.331Z
 estimatedTokens: 2761
-keywords: [cgcloud__Tour_Template__c, Stores, tour, template, that's, tours, API, version, 54.0, later, cgcloud, _Tour, _Template, Calls, Associated]
+keywords: [cgcloud__Tour_Template__c, Stores, tour, template, that's, tours, API, 54.0, cgcloud, _Tour, _Template]
 ---
-
-# cgcloud__Tour_Template__c
 
 > Stores the details of the tour template object that's to be used for
          tours. This object is available in API version 54.0 and later.

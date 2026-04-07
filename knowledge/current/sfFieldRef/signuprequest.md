@@ -5,12 +5,10 @@ topic: signuprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.600Z
+lastCollected: 2026-04-07T18:40:02.289Z
 estimatedTokens: 667
 keywords: [SignupRequest, new, sign-up]
 ---
-
-# SignupRequest
 
 > Represents a request for a new sign-up.
 

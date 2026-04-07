@@ -5,12 +5,10 @@ topic: get-apiv1profilemetadatadatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.767Z
+lastCollected: 2026-04-07T18:35:51.624Z
 estimatedTokens: 237
-keywords: [api, profile, metadata, dataModelName, data, model, includes, indexes, lookup, Examples, HTTP, Responses]
+keywords: [Examples, api, profile, metadata, dataModelName, model, includes, indexes, lookup, HTTP, Responses]
 ---
-
-# GET /api/v1/profile/metadata/{dataModelName}
 
 > Returns the metadata for the data model object. Metadata includes the list of fields,
     data types, and indexes available for lookup.

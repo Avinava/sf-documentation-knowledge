@@ -5,12 +5,10 @@ topic: perform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.917Z
+lastCollected: 2026-04-07T18:40:18.098Z
 estimatedTokens: 566
 keywords: [Perform, manage, asynchronous, processes, sending, email, importing, subscribers, starting, import, definition, Actions, Items]
 ---
-
-# Perform
 
 > Use the Perform method to manage asynchronous processes, like sending email, importing subscribers, or starting an import definition.
 

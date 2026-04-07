@@ -5,12 +5,10 @@ topic: searchclickeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.042Z
+lastCollected: 2026-04-07T18:38:40.633Z
 estimatedTokens: 493
-keywords: [SearchClickEventLog, Search, Click, Event, Log, user’s, interaction, results, API, version, 61.0, later, Calls, Special, Access]
+keywords: [SearchClickEventLog, Search, Click, Event, Log, user’s, interaction, results, API, 61.0]
 ---
-
-# SearchClickEventLog
 
 > Search Click Event Log contains details about the user’s interaction with the
          search results. This object is available in API version 61.0 and later.

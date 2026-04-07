@@ -5,12 +5,10 @@ topic: externalsocialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.647Z
+lastCollected: 2026-04-07T18:39:40.292Z
 estimatedTokens: 566
-keywords: [ExternalSocialAccount, managed, social, media, account, network, Facebook, Twitter, API, version, 29.0, later]
+keywords: [ExternalSocialAccount, managed, social, media, account, network, Facebook, Twitter, API, 29.0]
 ---
-
-# ExternalSocialAccount
 
 > Represents a managed social media account on a social network such
 			as Facebook or Twitter. This object is available in API version 29.0 and

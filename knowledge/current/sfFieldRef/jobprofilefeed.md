@@ -5,12 +5,10 @@ topic: jobprofilefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.295Z
+lastCollected: 2026-04-07T18:39:45.860Z
 estimatedTokens: 358
-keywords: [JobProfileFeed, Feed, tracking, JobProfile]
+keywords: [JobProfileFeed, JobProfile]
 ---
-
-# JobProfileFeed
 
 > Feed tracking for JobProfile.
 

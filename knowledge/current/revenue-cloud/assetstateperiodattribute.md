@@ -5,12 +5,10 @@ topic: assetstateperiodattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:03.377Z
+lastCollected: 2026-04-07T18:35:48.423Z
 estimatedTokens: 732
-keywords: [AssetStatePeriodAttribute, virtual, holds, key-value, pair, asset, attribute, state, period, child, AssetStatePeriod, API, version, 60.0, later]
+keywords: [AssetStatePeriodAttribute, virtual, holds, key-value, pair, asset, attribute, state, period, child, AssetStatePeriod, API, 60.0]
 ---
-
-# AssetStatePeriodAttribute
 
 > Represents a virtual object that holds the key-value pair of the
          asset attribute in a specified asset state period. This object is a child object of

@@ -5,12 +5,10 @@ topic: researchstdysearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.848Z
+lastCollected: 2026-04-07T18:38:01.734Z
 estimatedTokens: 1637
-keywords: [ResearchStdySearchableField, common, dataset, includes, multiple, objects, serves, basis, searches, research, studies, API, version, 61.0, later]
+keywords: [ResearchStdySearchableField, common, dataset, includes, multiple, serves, basis, searches, research, studies, API, 61.0]
 ---
-
-# ResearchStdySearchableField
 
 > Represents a common dataset that includes multiple fields and values from
          multiple objects and serves as the basis for searches related to research studies.

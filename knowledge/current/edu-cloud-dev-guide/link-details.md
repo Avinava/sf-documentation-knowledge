@@ -5,12 +5,10 @@ topic: link-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.599Z
+lastCollected: 2026-04-07T18:37:29.675Z
 estimatedTokens: 102
-keywords: [Link, Output, representation]
+keywords: [Link]
 ---
-
-# Link Details
 
 > Output representation of the link details for the response object.
 

@@ -5,12 +5,10 @@ topic: quick-text-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.297Z
+lastCollected: 2026-04-07T18:37:15.340Z
 estimatedTokens: 337
 keywords: [Quick, Text, Resource]
 ---
-
-# Quick Text Resource
 
 > Get the body of a quick text.
 

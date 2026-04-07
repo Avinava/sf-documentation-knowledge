@@ -5,12 +5,10 @@ topic: document-management-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.614Z
+lastCollected: 2026-04-07T18:37:41.733Z
 estimatedTokens: 160
-keywords: [Document, Management, Result, Output, representation, split]
+keywords: [Document, Management, Result, split]
 ---
-
-# Document Management Result
 
 > Output representation of the document split request.
 

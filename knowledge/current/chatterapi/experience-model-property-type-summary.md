@@ -5,12 +5,10 @@ topic: experience-model-property-type-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.659Z
+lastCollected: 2026-04-07T18:37:18.756Z
 estimatedTokens: 260
 keywords: [Experience, Model, Summary]
 ---
-
-# Experience Model Property Type Summary
 
 > Property type summary.
 

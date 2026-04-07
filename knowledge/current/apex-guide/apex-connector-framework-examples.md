@@ -5,12 +5,10 @@ topic: apex-connector-framework-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.863Z
+lastCollected: 2026-04-07T18:36:17.067Z
 estimatedTokens: 554
-keywords: [Apex, Connector, Framework, Examples, illustrate, how, custom, adapters, Salesforce, Connect]
+keywords: [Apex, Connector, Framework, Examples, illustrate, how, adapters, Salesforce, Connect]
 ---
-
-# Apex Connector Framework Examples
 
 > These examples illustrate how to use the Apex Connector Framework to create custom
         adapters for Salesforce Connect.

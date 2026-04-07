@@ -5,12 +5,10 @@ topic: use-postman-to-work-with-headless-identity-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.477Z
+lastCollected: 2026-04-07T18:37:39.415Z
 estimatedTokens: 1552
-keywords: [Postman, Work, Headless, Identity, APIs, Now, configured, org-wide, settings, Experience, Cloud, connected, app, configure, test]
+keywords: [Postman, Work, Headless, Identity, APIs, Now, configured, org-wide, settings, Experience, Cloud, connected, app, configure, test, flows, process, easier, provide, examples, customized, single-page, implementation, walk, registration, login, password, reset, collection, calling, User, Info, endpoint, logging]
 ---
-
-# Use Postman to Work with Headless Identity APIs
 
 > Now that you configured org-wide settings, Experience Cloud settings, and a connected
     app, you can configure and test out the headless identity flows. To make this process easier, we

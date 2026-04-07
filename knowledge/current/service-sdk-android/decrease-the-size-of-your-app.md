@@ -5,12 +5,10 @@ topic: decrease-the-size-of-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.448Z
+lastCollected: 2026-04-07T18:40:27.613Z
 estimatedTokens: 373
 keywords: [Decrease, Size, App, Although, SDK, doesn't, large, footprint, splitting, APK, ProGuard]
 ---
-
-# Decrease the Size of Your App
 
 > Although the SDK doesn't have a large footprint, you can decrease the size of your app by
         splitting your APK or by using ProGuard.

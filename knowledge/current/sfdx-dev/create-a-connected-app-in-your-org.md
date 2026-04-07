@@ -5,12 +5,10 @@ topic: create-a-connected-app-in-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.801Z
+lastCollected: 2026-04-07T18:40:07.742Z
 estimatedTokens: 1997
 keywords: [Connected, App, Org, Salesforce, CLI, requires, either, external, client, preferred, you're, authorizing]
 ---
-
-# Create a Connected App in Your Org
 
 > Salesforce CLI requires either an external client app (preferred) or connected app in
     the org that you're authorizing.

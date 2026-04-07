@@ -5,12 +5,10 @@ topic: fundraising-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.527Z
+lastCollected: 2026-04-07T18:38:21.380Z
 estimatedTokens: 268
-keywords: [Fundraising, Metadata, API, access, feature, settings, customize, user]
+keywords: [Fundraising, Metadata, API, feature, settings, customize, user]
 ---
-
-# Fundraising Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface.

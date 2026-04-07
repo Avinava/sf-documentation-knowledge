@@ -5,12 +5,10 @@ topic: salesforceinvoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.751Z
+lastCollected: 2026-04-07T18:38:40.331Z
 estimatedTokens: 732
-keywords: [SalesforceInvoice, Read-only, virtual, Account, App, organization’s, invoices, Salesforce, Calls, Usage, Associated, Objects]
+keywords: [SalesforceInvoice, Read-only, virtual, Account, App, organization’s, invoices, Salesforce]
 ---
-
-# SalesforceInvoice
 
 > Read-only virtual object used in the Your Account App. Represents information
          about your organization’s invoices with Salesforce.

@@ -5,12 +5,10 @@ topic: education-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.685Z
+lastCollected: 2026-04-07T18:37:29.760Z
 estimatedTokens: 691
-keywords: [Education, Cloud, Associated, Objects, Consumer, Goods, standard, their]
+keywords: [Education, Cloud, Consumer, Goods, standard, their]
 ---
-
-# Education Cloud Associated Objects
 
 > This section provides a list of objects associated to Consumer Goods Cloud standard
   objects with their standard fields.

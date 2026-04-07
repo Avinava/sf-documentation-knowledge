@@ -5,12 +5,10 @@ topic: visualforce-request-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.863Z
+lastCollected: 2026-04-07T18:38:31.744Z
 estimatedTokens: 2206
 keywords: [Visualforce, Event, events, contain, requests, originate, browser]
 ---
-
-# Visualforce Request Event Type
 
 > Visualforce Request events contain details of Visualforce requests.
          Requests can originate from the browser (UI).

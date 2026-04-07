@@ -5,12 +5,10 @@ topic: managed-content-space-folder-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.353Z
+lastCollected: 2026-04-07T18:37:20.545Z
 estimatedTokens: 409
 keywords: [Managed, Content, Space, Folder, Detail]
 ---
-
-# Managed Content Space Folder Detail
 
 > Managed content space folder.
 

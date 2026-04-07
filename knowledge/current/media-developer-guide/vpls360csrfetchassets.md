@@ -5,12 +5,10 @@ topic: vpls360csrfetchassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.443Z
+lastCollected: 2026-04-07T18:38:11.750Z
 estimatedTokens: 123
-keywords: [vpls360csr_FetchAssets, Integration, Procedure, assets, account, total, cost, subscription, vpls360csr, _FetchAssets, Sample, Input, Output, Calls]
+keywords: [vpls360csr_FetchAssets, Integration, Procedure, assets, account, total, cost, subscription, vpls360csr, _FetchAssets, Sample]
 ---
-
-# vpls360csr_FetchAssets
 
 > This Integration Procedure gets all the assets of an account
     and the total cost of the subscription.

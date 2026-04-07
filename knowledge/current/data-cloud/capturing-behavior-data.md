@@ -5,12 +5,10 @@ topic: capturing-behavior-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.349Z
+lastCollected: 2026-04-07T18:35:51.205Z
 estimatedTokens: 695
-keywords: [Capturing, Behavior, Data, Cloud, Module, Engagement, Mobile, SDK, collection, granular, customer’s, app, interactions, event, tracking]
+keywords: [Capturing, Behavior, Cloud, Module, Engagement, Mobile, SDK, collection, granular, customer’s, app, interactions, event, Lifecycle, Events, Screen, Send]
 ---
-
-# Capturing Behavior Data
 
 > The Data Cloud Module for the Engagement Mobile SDK enables the
     collection of granular data about a customer’s mobile app interactions through event

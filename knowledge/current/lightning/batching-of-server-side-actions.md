@@ -5,12 +5,10 @@ topic: batching-of-server-side-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.535Z
+lastCollected: 2026-04-07T18:38:03.584Z
 estimatedTokens: 956
-keywords: [Batching, Server-side, Actions, Multiple, queued, batched, together, group, sent, server, XHR, minimize, network, round, trips]
+keywords: [Batching, Server-side, Actions, Multiple, queued, batched, together, group, sent, server, XHR, minimize, network, round, trips, known, boxcar’ing, similar, train, couples, boxcars]
 ---
-
-# Batching of Server-side Actions
 
 > Multiple queued actions are batched together into a group, and then sent to the server
   in a single request (XHR) to minimize network round trips. The batching of actions is also known

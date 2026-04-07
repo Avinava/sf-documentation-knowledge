@@ -5,12 +5,10 @@ topic: promotion-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.174Z
+lastCollected: 2026-04-07T18:39:10.644Z
 estimatedTokens: 4631
-keywords: [Promotion, APEX, programmatic, access, TPM, SObject, it’s, SObjects, Implementation, _Promotion, List<TPM, _Promotion.Record>, getAttachmentLinks, API, Version]
+keywords: [Promotion, APEX, programmatic, TPM, SObject, it’s, SObjects, Implementation, _Promotion, List<TPM, _Promotion.Record>, getAttachmentLinks, API, getAttachments, getProductShares, getTacticFunds, _Promotion.TacticRecord>, getTactics, getTacticConditionCreationDefinitions, Set<Id>, getEffectiveCategories, getEffectiveBrands, _ManualInputs, getManualInputs, _ParticipatingCustomers, getParticipatingCustomers, _ProductFilter, getProductFilter, _Promotion.Record, append, addTacticConditionCreationDefinition, addAttachment, addAttachmentLink, addProductShare, addTacticFund, getRecordById, _Promotion.TacticRecord, addTactic, _Scenarios, getScenarios, _SubAccounts, getSubAccounts, addRelationship, registerWork, reload, save]
 ---
-
-# Promotion Class
 
 > This APEX class provides programmatic access to the TPM Promotion SObject and it’s
   related SObjects.

@@ -5,12 +5,10 @@ topic: chatestablished
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.126Z
+lastCollected: 2026-04-07T18:38:06.388Z
 estimatedTokens: 115
 keywords: [ChatEstablished, agent, accepted, chat, engaged, visitor]
 ---
-
-# ChatEstablished
 
 > Indicates that an agent has accepted a chat request and
 is engaged in a chat with a visitor.

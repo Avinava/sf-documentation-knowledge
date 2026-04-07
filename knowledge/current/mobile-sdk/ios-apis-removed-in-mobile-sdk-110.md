@@ -5,12 +5,10 @@ topic: ios-apis-removed-in-mobile-sdk-110
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.283Z
+lastCollected: 2026-04-07T18:40:27.467Z
 estimatedTokens: 265
-keywords: [iOS, APIs, Removed, Mobile, SDK, 11.0, show, objects, artifacts, were, 10.0, SFCryptChunks, SFDecryptStream, SFEncryptionKey, SFKeyStoreManager]
+keywords: [SFCryptChunks, SFDecryptStream, SFEncryptionKey, SFKeyStoreManager, SFSecureEncryptionKey, SFSoupSpec, SFAlterSoupLongOperation, SFSmartStore, iOS, APIs, Removed, Mobile, SDK, 11.0, show, artifacts, were, 10.0]
 ---
-
-# iOS APIs Removed in Mobile SDK 11.0
 
 > These lists show Mobile SDK objects and
     artifacts for iOS that were removed in Mobile SDK 10.0.

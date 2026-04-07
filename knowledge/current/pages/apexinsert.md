@@ -5,12 +5,10 @@ topic: apexinsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.730Z
+lastCollected: 2026-04-07T18:38:49.921Z
 estimatedTokens: 200
-keywords: [apex, insert, template, component, declares, named, area, defined, <apex, define>, another, Visualforce, composition>, components, share]
+keywords: [Attributes, apex, insert, template, declares, named, area, defined, <apex, define>, another, Visualforce, composition>, share, multiple, pages]
 ---
-
-# apex:insert
 
 > A template component that declares a named area that must be defined by an <apex:define> component in another Visualforce page. Use this component with the <apex:composition> and <apex:define> components to share data between multiple pages.
 

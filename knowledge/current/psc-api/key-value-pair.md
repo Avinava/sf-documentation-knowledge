@@ -5,12 +5,10 @@ topic: key-value-pair
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.781Z
+lastCollected: 2026-04-07T18:39:03.903Z
 estimatedTokens: 102
-keywords: [Key, Pair, Output, representation, document, extract]
+keywords: [Key, Pair, document, extract]
 ---
-
-# Key Value Pair
 
 > Output representation of the key and value pair from the document
    extract.

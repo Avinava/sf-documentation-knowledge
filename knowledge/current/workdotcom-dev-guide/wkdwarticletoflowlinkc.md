@@ -5,12 +5,10 @@ topic: wkdwarticletoflowlinkc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.115Z
+lastCollected: 2026-04-07T18:40:14.146Z
 estimatedTokens: 482
-keywords: [wkdw__ArticleToFlowLink__c, new, custom, order, let, customer, configure, flows, invocable, Knowledge, Article, community, API, version, 53.0]
+keywords: [wkdw__ArticleToFlowLink__c, new, order, let, customer, configure, flows, invocable, Knowledge, Article, community, API, 53.0, wkdw, _ArticleToFlowLink]
 ---
-
-# wkdw__ArticleToFlowLink__c
 
 > Create new custom object in order to let customer configure which flows will
          be invocable from Knowledge Article page in community. This object is available in API

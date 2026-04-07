@@ -5,12 +5,10 @@ topic: insurance-group-census-members-delete-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.634Z
+lastCollected: 2026-04-07T18:37:51.687Z
 estimatedTokens: 236
 keywords: [Insurance, Group, Census, Members, POST]
 ---
-
-# Insurance Group Census Members Delete (POST)
 
 > Delete one or more census members of the specified group census ID.
 

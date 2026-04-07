@@ -5,12 +5,10 @@ topic: billingaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:35.224Z
+lastCollected: 2026-04-07T18:39:29.342Z
 estimatedTokens: 1031
-keywords: [BillingAccount, customer's, billing, backend, system, maintain, bill, frequency, autopay, API, version, 62.0, later]
+keywords: [BillingAccount, customer's, billing, backend, system, maintain, bill, frequency, autopay, API, 62.0]
 ---
-
-# BillingAccount
 
 > Represents the customer's billing controls in the backend system. Used to set
          up and maintain details such as bill frequency, bill format, and autopay details. This

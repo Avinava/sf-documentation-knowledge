@@ -5,12 +5,10 @@ topic: connectapigroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.418Z
+lastCollected: 2026-04-07T18:36:06.766Z
 estimatedTokens: 198
 keywords: [ConnectApi.GroupMember, Member, group]
 ---
-
-# ConnectApi.GroupMember
 
 > Member of a group.
 

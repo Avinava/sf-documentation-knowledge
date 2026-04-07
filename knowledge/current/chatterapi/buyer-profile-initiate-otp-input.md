@@ -5,12 +5,10 @@ topic: buyer-profile-initiate-otp-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.660Z
+lastCollected: 2026-04-07T18:37:07.378Z
 estimatedTokens: 297
-keywords: [Buyer, Profile, Initiate, OTP, Input]
+keywords: [Buyer, Profile, Initiate, OTP]
 ---
-
-# Buyer Profile Initiate OTP Input
 
 > Input details for a buyer profile OTP initiate request.
 

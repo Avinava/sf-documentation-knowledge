@@ -5,12 +5,10 @@ topic: connectapidocumentinfoattributeswrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.519Z
+lastCollected: 2026-04-07T18:37:33.985Z
 estimatedTokens: 118
-keywords: [Input, representation, supporting, document, complaint]
+keywords: [supporting, document, complaint]
 ---
-
-# ConnectApi.DocumentInfoAttributesWrapper
 
 > Input representation of the details of a supporting document for the
       complaint.

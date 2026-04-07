@@ -5,12 +5,10 @@ topic: get-a-list-of-composite-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.265Z
+lastCollected: 2026-04-07T18:36:20.480Z
 estimatedTokens: 145
 keywords: [Composite, Resources, URIs]
 ---
-
-# Get a List of Composite Resources
 
 > Gets a list of URIs for other composite resources.
 

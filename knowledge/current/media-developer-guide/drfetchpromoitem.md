@@ -5,12 +5,10 @@ topic: drfetchpromoitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.016Z
+lastCollected: 2026-04-07T18:38:11.282Z
 estimatedTokens: 94
-keywords: [DRFetchPromoItem, Omnistudio, Data, Mapper, fetches, promotion, associated, order, item, Sample, Input, Output]
+keywords: [DRFetchPromoItem, Omnistudio, Mapper, fetches, promotion, order, item, Sample]
 ---
-
-# DRFetchPromoItem
 
 > This Omnistudio Data Mapper fetches the promotion ID
     associated with an order item.

@@ -5,12 +5,10 @@ topic: unitofmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.474Z
+lastCollected: 2026-04-07T18:38:43.229Z
 estimatedTokens: 708
-keywords: [UnitOfMeasure, units, systems, express, account, quantities, API, version, 61.0, later, Calls]
+keywords: [UnitOfMeasure, units, systems, express, account, quantities, API, 61.0]
 ---
-
-# UnitOfMeasure
 
 > Defines the units and systems of units used to express and account for
          quantities.  This object is available in API version 61.0 and later.

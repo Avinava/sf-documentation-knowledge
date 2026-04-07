@@ -5,13 +5,11 @@ topic: salesforceresultcodeinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.920Z
+lastCollected: 2026-04-07T18:36:02.138Z
 estimatedTokens: 683
 namespace: CommercePayments
-keywords: [SalesforceResultCodeInfo, Stores, Salesforce, result, code, payment, gateway, adapters, Usage, customMetadataTypeInfo, salesforceResultCode]
+keywords: [SalesforceResultCodeInfo, Stores, Salesforce, result, code, payment, gateway, adapters, customMetadataTypeInfo, salesforceResultCode]
 ---
-
-# SalesforceResultCodeInfo
 
 > Stores Salesforce result code information from payment gateway
       adapters.

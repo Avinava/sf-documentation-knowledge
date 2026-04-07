@@ -5,12 +5,10 @@ topic: authorizationformconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.565Z
+lastCollected: 2026-04-07T18:39:28.646Z
 estimatedTokens: 551
-keywords: [AuthorizationFormConsent, date, way, user, consented, authorization, form, API, version, 46.0, later]
+keywords: [AuthorizationFormConsent, date, way, user, consented, authorization, form, API, 46.0]
 ---
-
-# AuthorizationFormConsent
 
 > Represents the date and way in which a user consented to an
 			authorization form. This object is available in API version 46.0 and

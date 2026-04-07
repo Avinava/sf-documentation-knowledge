@@ -6,13 +6,10 @@ topic: gridlayouts-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.631Z
+lastCollected: 2026-04-07T18:36:54.002Z
 estimatedTokens: 636
-keywords: [gridLayouts, key, layouts, dashboard, separate, node, layout, provide, devices, placement, widget, cell, spacing, grid, dashboard’s]
+keywords: [gridLayouts, key, layouts, dashboard, separate, node, layout, provide, devices, placement, widget, cell, spacing, grid, dashboard’s, background, color, image]
 ---
-
-# gridLayouts
-    Properties
 
 > The gridLayouts key defines all layouts for the
     dashboard. It contains a separate node for each layout. Each layout has properties that provide

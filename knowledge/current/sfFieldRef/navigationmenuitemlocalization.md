@@ -5,13 +5,11 @@ topic: navigationmenuitemlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.039Z
+lastCollected: 2026-04-07T18:39:49.514Z
 estimatedTokens: 233
 namespace: NamespacePrefix
 keywords: [NavigationMenuItemLocalization, translated, navigation, menu, item, Experience, Cloud, site]
 ---
-
-# NavigationMenuItemLocalization
 
 > Represents the translated value of a
 				navigation menu item in an Experience Cloud site.

@@ -5,12 +5,10 @@ topic: cpq-api-optionmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.302Z
+lastCollected: 2026-04-07T18:37:27.306Z
 estimatedTokens: 447
-keywords: [CPQ, API, OptionModel, Option, model, product, data, Salesforce]
+keywords: [CPQ, API, OptionModel, Option, model, product, Salesforce]
 ---
-
-# CPQ API OptionModel
 
 > The Option model represents a product option data model in Salesforce CPQ.
 

@@ -5,12 +5,10 @@ topic: managed-content-delivery-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.142Z
+lastCollected: 2026-04-07T18:37:20.324Z
 estimatedTokens: 253
 keywords: [Managed, Content, Delivery, Channels, Collection]
 ---
-
-# Managed Content Delivery Channels
 
 > Collection of managed content delivery channels.
 

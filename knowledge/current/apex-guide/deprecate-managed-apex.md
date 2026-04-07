@@ -5,12 +5,10 @@ topic: deprecate-managed-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.783Z
+lastCollected: 2026-04-07T18:36:18.004Z
 estimatedTokens: 481
-keywords: [Deprecate, Managed, Apex, @Deprecated, annotation, specify, identifiers, subscribers, longer, subsequent, releases, package, Deprecation, useful, you’re]
+keywords: [Deprecate, Managed, Apex, @Deprecated, annotation, specify, identifiers, subscribers, longer, subsequent, releases, package, Deprecation, useful, you’re, refactoring, code, packages, requirements, evolve]
 ---
-
-# Deprecate Managed Apex
 
 > Use the @Deprecated annotation to specify Apex
   identifiers that can subscribers can no longer reference in subsequent releases of the managed

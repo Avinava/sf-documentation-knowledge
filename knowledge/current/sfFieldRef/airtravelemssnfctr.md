@@ -5,12 +5,10 @@ topic: airtravelemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.569Z
+lastCollected: 2026-04-07T18:39:25.520Z
 estimatedTokens: 857
 keywords: [AirTravelEmssnFctr, emissions, factors, scope, commercial, air, travel]
 ---
-
-# AirTravelEmssnFctr
 
 > Represents the emissions factors for scope 3 commercial air travel.
 

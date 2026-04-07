@@ -5,12 +5,10 @@ topic: addeventhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.155Z
+lastCollected: 2026-04-07T18:38:05.344Z
 estimatedTokens: 352
-keywords: [addEventHandler, Dynamically, adds, event, handler, component, application, Sample, Code]
+keywords: [addEventHandler, Dynamically, adds, event, handler, application, Sample, Code]
 ---
-
-# addEventHandler()
 
 > Dynamically adds an event handler for a component or application
    event.

@@ -5,12 +5,10 @@ topic: permissiondependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.512Z
+lastCollected: 2026-04-07T18:36:33.858Z
 estimatedTokens: 334
-keywords: [PermissionDependency, permission, dependencies, child, Modify, Data, Tooling, API, version, 46.0, later, SOAP, Calls, REST, HTTP]
+keywords: [PermissionDependency, permission, dependencies, child, Modify, Tooling, API, 46.0, SOAP, REST, HTTP]
 ---
-
-# PermissionDependency
 
 > Represents permission dependencies for a specified permission. For
             example, return all child dependencies for the Modify All Data permission.

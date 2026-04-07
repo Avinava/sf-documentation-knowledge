@@ -5,12 +5,10 @@ topic: connectapiproductattributestoproductentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.699Z
+lastCollected: 2026-04-07T18:36:10.966Z
 estimatedTokens: 240
 keywords: [Mapping, attribute, combination, variation, product]
 ---
-
-# ConnectApi.ProductAttributesToProductEntry
 
 > Mapping of an attribute value combination to a variation product
       ID.

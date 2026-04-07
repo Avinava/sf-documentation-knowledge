@@ -5,12 +5,10 @@ topic: index-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.895Z
+lastCollected: 2026-04-07T18:35:45.893Z
 estimatedTokens: 174
-keywords: [Index, Error, Output, representation]
+keywords: [Index, Error]
 ---
-
-# Index Error
 
 > Output representation of the error details related to an index.
 

@@ -5,12 +5,10 @@ topic: messagingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.307Z
+lastCollected: 2026-04-07T18:39:48.763Z
 estimatedTokens: 783
-keywords: [MessagingChannel, communication, channel, end, user, send, message, agent, SMS, number, Facebook, another, messaging, API, version]
+keywords: [MessagingChannel, communication, channel, end, user, send, message, agent, SMS, number, Facebook, another, messaging, API, 40.0]
 ---
-
-# MessagingChannel
 
 > Represents a communication channel that an end user can use to send a
 			message to an agent. A communication channel can be an SMS number, a Facebook page, or

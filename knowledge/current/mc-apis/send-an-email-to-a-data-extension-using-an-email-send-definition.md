@@ -5,12 +5,10 @@ topic: send-an-email-to-a-data-extension-using-an-email-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.958Z
+lastCollected: 2026-04-07T18:40:20.178Z
 estimatedTokens: 578
-keywords: [Send, Email, Data, Extension, Definition, scenario, how, message, sendable, basis, perform, elements, Diagram, Objects, Referenced]
+keywords: [Diagram, Send, Email, Extension, Definition, scenario, how, message, sendable, basis, perform, Referenced, Require, Code, Sample, Links, Items]
 ---
-
-# Send an Email to a Data Extension Using an Email Send Definition
 
 > This scenario describes how to send an email message using information in a data extension. You can use information within a sendable data extension as the basis for a send. To perform this send, you must use the following elements:
 

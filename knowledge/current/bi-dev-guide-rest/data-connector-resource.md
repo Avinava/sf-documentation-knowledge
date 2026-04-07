@@ -5,12 +5,10 @@ topic: data-connector-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.542Z
+lastCollected: 2026-04-07T18:36:56.036Z
 estimatedTokens: 667
-keywords: [Data, Connector, Resource, Analytics, updates, deletes, connectors, URL, Formats, Version, Postman, Components, HTTP, PATCH, Schedule]
+keywords: [Formats, Connector, Resource, Analytics, updates, deletes, connectors, URL, Postman, HTTP, PATCH, Schedule, Connection]
 ---
-
-# Data Connector Resource
 
 > Returns Analytics connector properties and updates or deletes
       Analytics connectors.

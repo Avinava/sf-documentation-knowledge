@@ -5,13 +5,11 @@ topic: findduplicatesbyids-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.801Z
+lastCollected: 2026-04-07T18:36:00.080Z
 estimatedTokens: 1326
 namespace: Datacloud
-keywords: [FindDuplicatesByIds, Performs, rule-based, searches, duplicate, records, input, array, IDs, search, duplicates, among, detected, active, rules]
+keywords: [FindDuplicatesByIds, Performs, rule-based, searches, duplicate, records, array, IDs, search, duplicates, among, detected, active, applicable, corresponding]
 ---
-
-# FindDuplicatesByIds Class
 
 > Performs rule-based searches for duplicate records. The input is an
       array of IDs. Each ID specifies records to search for duplicates among. The duplicates are

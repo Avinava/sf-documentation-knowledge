@@ -5,12 +5,10 @@ topic: accessibility-tests-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.562Z
+lastCollected: 2026-04-07T18:38:02.490Z
 estimatedTokens: 562
-keywords: [Accessibility, Tests, you’ve, made, component, accessible, write, sure, stays, way, automated, variety, concerns, including, expected]
+keywords: [Accessibility, Tests, you’ve, made, accessible, write, sure, stays, way, automated, variety, concerns, including, expected, keyboard, functionality, role, state, ARIA, HTML, correct]
 ---
-
-# Accessibility Tests Example
 
 > If you’ve made a component accessible, write tests to make sure it stays that way. You
   can write automated tests for a variety of accessibility concerns, including expected keyboard

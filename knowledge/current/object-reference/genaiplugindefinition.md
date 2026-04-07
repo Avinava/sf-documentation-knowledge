@@ -5,12 +5,10 @@ topic: genaiplugindefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.252Z
+lastCollected: 2026-04-07T18:38:33.377Z
 estimatedTokens: 928
-keywords: [GenAiPluginDefinition, agent, topic, category, actions, particular, job, agents, API, version, 62.0, later, Calls, Special, Access]
+keywords: [GenAiPluginDefinition, agent, topic, category, actions, particular, job, agents, API, 62.0]
 ---
-
-# GenAiPluginDefinition
 
 > Represents an agent topic, which is a category of actions related to a
          particular job to be done by AI agents. This object is available in API version 62.0

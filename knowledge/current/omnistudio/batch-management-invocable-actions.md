@@ -5,12 +5,10 @@ topic: batch-management-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.676Z
+lastCollected: 2026-04-07T18:36:36.237Z
 estimatedTokens: 234
-keywords: [Batch, Management, Invocable, Actions, Run, active, job, definition, custom, REST, API, Developer]
+keywords: [Batch, Management, Invocable, Actions, Run, active, job, definition, REST, API, Developer]
 ---
-
-# Batch Management Invocable Actions
 
 > Run an active Batch Management job definition. For more
     information on custom invocable actions, see REST API Developer Guide and Actions Developer Guide.

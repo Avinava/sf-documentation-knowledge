@@ -5,12 +5,10 @@ topic: action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.964Z
+lastCollected: 2026-04-07T18:36:38.625Z
 estimatedTokens: 176
-keywords: [Action, Output, representation, part, search, configuration, metadata]
+keywords: [Action, part, search, configuration, metadata]
 ---
-
-# Action
 
 > Output representation of the action that is returned as part of the search configuration
     metadata.

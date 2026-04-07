@@ -5,12 +5,10 @@ topic: text-classifications-bulk-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.279Z
+lastCollected: 2026-04-07T18:37:23.390Z
 estimatedTokens: 76
 keywords: [Text, Classifications, Bulk, Results, classification]
 ---
-
-# Text Classifications Bulk Results
 
 > Text classification bulk results.
 

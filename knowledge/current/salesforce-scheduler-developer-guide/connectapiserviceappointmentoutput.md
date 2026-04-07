@@ -5,12 +5,10 @@ topic: connectapiserviceappointmentoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.300Z
+lastCollected: 2026-04-07T18:39:19.998Z
 estimatedTokens: 73
-keywords: [ConnectApi.ServiceAppointmentOutput, Output, service, appointment]
+keywords: [ConnectApi.ServiceAppointmentOutput, service, appointment]
 ---
-
-# ConnectApi.ServiceAppointmentOutput
 
 > Output  of the create service appointment request.
 

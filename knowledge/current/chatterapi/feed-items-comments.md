@@ -5,12 +5,10 @@ topic: feed-items-comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.509Z
+lastCollected: 2026-04-07T18:37:13.466Z
 estimatedTokens: 1208
-keywords: [Feed, Items, Comments, item, post, comment]
+keywords: [Items, Comments, item, post, comment]
 ---
-
-# Feed Items Comments
 
 > Get comments for a feed item or post a
                         comment.

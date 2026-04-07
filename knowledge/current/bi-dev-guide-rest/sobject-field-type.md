@@ -5,12 +5,10 @@ topic: sobject-field-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.159Z
+lastCollected: 2026-04-07T18:36:57.707Z
 estimatedTokens: 130
 keywords: [Sobject, Analytics, template, variable]
 ---
-
-# Sobject Field Type
 
 > The sobject field type of an Analytics template variable.
 

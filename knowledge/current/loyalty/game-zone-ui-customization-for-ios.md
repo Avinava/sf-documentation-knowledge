@@ -5,12 +5,10 @@ topic: game-zone-ui-customization-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.303Z
+lastCollected: 2026-04-07T18:38:08.563Z
 estimatedTokens: 479
-keywords: [Game, Zone, Customization, iOS, build, Gamification, Mobile, SDK, customize, components, Spinner, Scratch, Card]
+keywords: [Game, Zone, Customization, iOS, build, Gamification, Mobile, SDK, customize, Spinner, Scratch, Card]
 ---
-
-# Game Zone UI Customization for iOS
 
 > After you build the Gamification Mobile SDK for iOS, you can customize the game zone UI
     components.

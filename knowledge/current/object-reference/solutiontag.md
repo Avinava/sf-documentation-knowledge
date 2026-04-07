@@ -5,12 +5,10 @@ topic: solutiontag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.900Z
+lastCollected: 2026-04-07T18:38:41.639Z
 estimatedTokens: 356
-keywords: [SolutionTag, Associates, word, short, phrase, Solution, Calls, Usage]
+keywords: [SolutionTag, Associates, word, short, phrase, Solution]
 ---
-
-# SolutionTag
 
 > Associates a word or short phrase with a Solution.
 

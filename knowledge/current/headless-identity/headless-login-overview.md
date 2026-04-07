@@ -5,12 +5,10 @@ topic: headless-login-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:51.422Z
+lastCollected: 2026-04-07T18:37:39.361Z
 estimatedTokens: 765
-keywords: [Headless, Login, configure, via, Authorization, Code, Credentials, Flow, built, OAuth, 2.0, grant, end, user, logged]
+keywords: [Headless, Login, configure, via, Authorization, Code, Credentials, Flow, built, OAuth, 2.0, grant, end, user, logged, Salesforce, Here’s, high-level, how, works, single-page, app]
 ---
-
-# Headless Login Overview
 
 > You configure headless login via the Authorization Code and Credentials Flow, which is
   built on the OAuth 2.0 Authorization Code grant type. At the end of this flow, a user is logged in

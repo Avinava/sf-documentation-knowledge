@@ -5,12 +5,10 @@ topic: rest-resource-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.879Z
+lastCollected: 2026-04-07T18:36:31.272Z
 estimatedTokens: 1036
-keywords: [REST, Resource, Examples, Robust, resources, Tooling, API, Setup, Retrieve, Manipulate, Objects, Query, MetadataContainer, Check, Deployment]
+keywords: [REST, Resource, Examples, Robust, resources, Tooling, API, Setup, Retrieve, Manipulate, Query, MetadataContainer, Check, Deployment, Status, Execute, Anonymous, Apex, Unit, Tests]
 ---
-
-# REST Resource Examples
 
 > Robust examples using REST resources in the Tooling
     API.

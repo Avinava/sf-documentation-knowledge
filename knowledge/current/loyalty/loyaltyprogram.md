@@ -5,12 +5,10 @@ topic: loyaltyprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.038Z
+lastCollected: 2026-04-07T18:38:10.307Z
 estimatedTokens: 1035
-keywords: [LoyaltyProgram, loyalty, program, organization, members, tiers, tier, groups, currencies, vouchers, benefits, partners, promotions, transactions, associated]
+keywords: [LoyaltyProgram, loyalty, program, organization, members, tiers, tier, groups, currencies, vouchers, benefits, partners, promotions, transactions, API, 51.0]
 ---
-
-# LoyaltyProgram
 
 > Represents the loyalty program within an organization. All the
       information related to members, tiers, tier groups, program currencies, vouchers, benefits,

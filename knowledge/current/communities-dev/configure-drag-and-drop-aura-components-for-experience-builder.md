@@ -5,12 +5,10 @@ topic: configure-drag-and-drop-aura-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.066Z
+lastCollected: 2026-04-07T18:37:27.043Z
 estimatedTokens: 1025
-keywords: [Configure, Drag-and-Drop, Aura, Components, Experience, Builder, custom, component, there, few, configuration, steps, take, Add, Design]
+keywords: [Configure, Drag-and-Drop, Aura, Experience, Builder, there, few, configuration, steps, take, Add, Design, Resource, Bundle, SVG, CSS]
 ---
-
-# Configure Drag-and-Drop Aura Components for Experience Builder
 
 > Before you can use a custom Aura component in Experience Builder, there a few
     configuration steps to take.

@@ -5,12 +5,10 @@ topic: presentationpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.287Z
+lastCollected: 2026-04-07T18:38:01.073Z
 estimatedTokens: 1288
-keywords: [PresentationPage, collection, pages, presentation, contain, multiple, slides, reused, across, different, presentations, API, version, 65.0, later]
+keywords: [PresentationPage, collection, pages, presentation, contain, multiple, slides, reused, across, different, presentations, API, 65.0]
 ---
-
-# PresentationPage
 
 > Represents a collection of pages that can be used within a presentation. Each
          page can contain multiple slides. Pages can be reused across different presentations.

@@ -5,12 +5,10 @@ topic: borrower-address-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.977Z
+lastCollected: 2026-04-07T18:37:34.513Z
 estimatedTokens: 304
-keywords: [Borrower, Address, Input, representation, addresses]
+keywords: [Borrower, Address, addresses]
 ---
-
-# Borrower Address Input
 
 > Input representation for Borrower addresses.
 

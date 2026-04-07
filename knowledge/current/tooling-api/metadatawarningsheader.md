@@ -5,12 +5,10 @@ topic: metadatawarningsheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.814Z
+lastCollected: 2026-04-07T18:36:31.207Z
 estimatedTokens: 121
-keywords: [MetadataWarningsHeader, save, metadata, warnings, Version, Calls]
+keywords: [MetadataWarningsHeader, save, metadata, warnings]
 ---
-
-# MetadataWarningsHeader
 
 > Allows you to save metadata even if warnings are
             returned.

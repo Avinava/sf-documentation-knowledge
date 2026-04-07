@@ -5,12 +5,10 @@ topic: forecastingfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.804Z
+lastCollected: 2026-04-07T18:36:26.269Z
 estimatedTokens: 585
-keywords: [ForecastingFilter, custom, filter, including, excluding, data, opportunity, forecasts, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [ForecastingFilter, filter, including, excluding, opportunity, forecasts, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ForecastingFilter
 
 > Represents the custom filter for including or excluding data
       from opportunity forecasts.

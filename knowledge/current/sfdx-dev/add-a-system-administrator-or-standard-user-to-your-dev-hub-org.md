@@ -5,12 +5,10 @@ topic: add-a-system-administrator-or-standard-user-to-your-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.074Z
+lastCollected: 2026-04-07T18:40:09.054Z
 estimatedTokens: 523
-keywords: [Add, System, Administrator, Standard, User, Dev, Hub, Org, users, their, work, requires, level, authority, Otherwise]
+keywords: [Add, System, Administrator, Standard, User, Dev, Hub, Org, users, their, work, requires, level, authority, Otherwise, permission, Salesforce, permissions]
 ---
-
-# Add a System Administrator or Standard User to Your Dev Hub Org
 
 > Add system administrator users only if their work requires that level of authority.
 		Otherwise, add standard users and create a permission set with the required Salesforce DX

@@ -5,12 +5,10 @@ topic: appmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.791Z
+lastCollected: 2026-04-07T18:38:25.724Z
 estimatedTokens: 2036
-keywords: [AppMenuItem, organization’s, settings, items, app, menu, Launcher, Calls, Usage]
+keywords: [AppMenuItem, organization’s, settings, items, app, menu, Launcher]
 ---
-
-# AppMenuItem
 
 > Represents the organization’s default settings for items in the app
 			menu or App Launcher.

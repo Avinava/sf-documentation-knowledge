@@ -5,12 +5,10 @@ topic: connectapistaticdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.585Z
+lastCollected: 2026-04-07T18:36:11.867Z
 estimatedTokens: 52
-keywords: [ConnectApi.StaticData, data, output]
+keywords: [ConnectApi.StaticData]
 ---
-
-# ConnectApi.StaticData
 
 > Represents the static data output.
 

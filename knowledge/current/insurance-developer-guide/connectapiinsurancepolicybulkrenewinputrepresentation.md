@@ -5,12 +5,10 @@ topic: connectapiinsurancepolicybulkrenewinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.152Z
+lastCollected: 2026-04-07T18:37:49.996Z
 estimatedTokens: 152
-keywords: [Input, representation, renew, insurance, policies, bulk, resource, includes, policy, IDs, renewed, associated]
+keywords: [renew, insurance, policies, bulk, resource, includes, policy, IDs, renewed]
 ---
-
-# ConnectApi.InsurancePolicyBulkRenewInputRepresentation
 
 > Input representation details of the renew insurance policies in bulk resource. The input
     includes the list of insurance policy IDs to be renewed and the details of the associated fields

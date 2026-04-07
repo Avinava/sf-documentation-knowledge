@@ -5,13 +5,11 @@ topic: dynamic-visualforce-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.930Z
+lastCollected: 2026-04-07T18:38:51.171Z
 estimatedTokens: 778
 namespace: Component.Apex.DataTable
-keywords: [Dynamic, Visualforce, Components, primarily, intended, markup-driven, language, lets, developers, user, matches, Salesforce, look-and-feel, However, there]
+keywords: [Dynamic, Visualforce, primarily, intended, markup-driven, language, lets, developers, user, matches, Salesforce, look-and-feel, However, there, occasions, it’s, necessary, programmatically, Usually, achieve, complicated]
 ---
-
-# Dynamic Visualforce Components
 
 > Visualforce is primarily intended to be
    a static, markup-driven language that lets developers create a user interface that matches the

@@ -5,12 +5,10 @@ topic: creating-your-first-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.731Z
+lastCollected: 2026-04-07T18:38:52.042Z
 estimatedTokens: 662
 keywords: [Creating, want, “HelloWorld”, Salesforce, organization, uses, MyDomain_login_URL, enter, http, apex, HelloWorld]
 ---
-
-# Creating Your First Page
 
 > For example, if you want to create a page called “HelloWorld” and your Salesforce
             organization uses MyDomain_login_URL, enter

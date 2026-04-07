@@ -5,12 +5,10 @@ topic: connectapirefundlineapplyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.748Z
+lastCollected: 2026-04-07T18:35:41.616Z
 estimatedTokens: 121
-keywords: [ConnectApi.RefundLineApplyResponse, Output, representation, applied, refund, includes, line, date, against, payment, record]
+keywords: [ConnectApi.RefundLineApplyResponse, applied, refund, includes, line, date, against, payment, record]
 ---
-
-# ConnectApi.RefundLineApplyResponse
 
 > Output representation of the details of an applied refund. This representation includes
     the properties of a refund line, such as the date when the refund is applied against a payment

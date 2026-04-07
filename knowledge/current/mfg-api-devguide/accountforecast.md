@@ -5,12 +5,10 @@ topic: accountforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.079Z
+lastCollected: 2026-04-07T18:38:13.347Z
 estimatedTokens: 920
-keywords: [AccountForecast, rolling, forecast, record, particular, account, prepared, data, directly, sales, agreements, orders, opportunities, API, version]
+keywords: [AccountForecast, rolling, forecast, record, particular, account, prepared, directly, sales, agreements, orders, opportunities, API, 47.0]
 ---
-
-# AccountForecast
 
 > Represents the rolling forecast record of a particular account. The forecast is
       prepared using data directly from sales agreements, orders, and opportunities. This

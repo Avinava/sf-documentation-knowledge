@@ -5,12 +5,10 @@ topic: embedded-service-configuration-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.434Z
+lastCollected: 2026-04-07T18:36:20.659Z
 estimatedTokens: 301
 keywords: [Embedded, Service, Configuration, Describe, Retrieves, deployment]
 ---
-
-# Embedded Service Configuration Describe
 
 > Retrieves the values for your Embedded Service deployment configuration or the headers
   returned by a request.

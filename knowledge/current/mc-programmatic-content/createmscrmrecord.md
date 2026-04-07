@@ -5,12 +5,10 @@ topic: createmscrmrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.755Z
+lastCollected: 2026-04-07T18:40:22.114Z
 estimatedTokens: 238
-keywords: [CreateMscrmRecord, Function, Ordinal, Dynamics, CRM, entity, record, Number, pairs, **Overview**, **Syntax**, Usage]
+keywords: [CreateMscrmRecord, Function, Ordinal, Dynamics, CRM, entity, record, Number, pairs, **Overview**, **Syntax**]
 ---
-
-# CreateMscrmRecord
 
 > CreateMscrmRecord(1, 2, 3, 4)
 

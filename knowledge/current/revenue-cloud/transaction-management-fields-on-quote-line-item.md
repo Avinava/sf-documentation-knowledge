@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-quote-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.039Z
+lastCollected: 2026-04-07T18:35:48.077Z
 estimatedTokens: 1332
-keywords: [Transaction, Management, Quote, Line, Item, Standard, custom, extend, represent, items, API, version, 60.0, later, Special]
+keywords: [Transaction, Management, Quote, Line, Item, Standard, extend, represent, items, API, 60.0]
 ---
-
-# Transaction Management Fields on Quote Line Item
 
 > Standard and custom fields extend the standard Quote Line Item object for use
          in Transaction Management to represent information about line items in a quote. This object

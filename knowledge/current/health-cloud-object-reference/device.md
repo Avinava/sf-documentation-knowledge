@@ -5,12 +5,10 @@ topic: device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.175Z
+lastCollected: 2026-04-07T18:37:44.426Z
 estimatedTokens: 1100
-keywords: [Device, F​HI​R, resource, maps, Asset, ​​Care​Registered​Device​, objects, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping]
+keywords: [Device, F​HI​R, resource, maps, Asset, ​​Care​Registered​Device​, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping]
 ---
-
-# Device
 
 > The Device F​HI​R resource maps to the Asset and ​​Care​Registered​Device​ objects in Salesforce​.
 

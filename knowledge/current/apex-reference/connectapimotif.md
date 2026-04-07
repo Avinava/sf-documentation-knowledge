@@ -5,12 +5,10 @@ topic: connectapimotif
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.881Z
+lastCollected: 2026-04-07T18:36:10.180Z
 estimatedTokens: 399
-keywords: [ConnectApi.Motif, motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups]
+keywords: [ConnectApi.Motif, motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups, records, their, tab, style, icon, unauthenticated, display, email, type’s, base, color]
 ---
-
-# ConnectApi.Motif
 
 > The motif properties contain URLs for small, medium, and large icons that indicate the
       Salesforce record type. Common record types are files, users, and groups, but all record types

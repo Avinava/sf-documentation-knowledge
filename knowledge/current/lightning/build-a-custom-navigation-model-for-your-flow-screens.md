@@ -5,12 +5,10 @@ topic: build-a-custom-navigation-model-for-your-flow-screens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.036Z
+lastCollected: 2026-04-07T18:38:02.992Z
 estimatedTokens: 375
-keywords: [Build, Custom, Navigation, Model, Flow, Screens, Since, Aura, components, access, screen’s, actions, fully, customize, how]
+keywords: [Build, Navigation, Model, Flow, Screens, Since, Aura, screen’s, actions, fully, customize, how, user, moves, hide, buttons, move, screen, selects, choice]
 ---
-
-# Build a Custom Navigation Model for Your Flow Screens
 
 > Since Aura components have access to a flow screen’s navigation actions, you
                 can fully customize how the user moves between screens. For example, hide the

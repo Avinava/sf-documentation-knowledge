@@ -5,12 +5,10 @@ topic: survey-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.179Z
+lastCollected: 2026-04-07T18:37:23.296Z
 estimatedTokens: 133
 keywords: [Survey, Email, invitation]
 ---
-
-# Survey Email
 
 > Survey invitation email response.
 

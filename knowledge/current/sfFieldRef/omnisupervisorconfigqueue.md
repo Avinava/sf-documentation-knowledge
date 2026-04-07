@@ -5,12 +5,10 @@ topic: omnisupervisorconfigqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.931Z
+lastCollected: 2026-04-07T18:39:50.360Z
 estimatedTokens: 286
-keywords: [OmniSupervisorConfigQueue, queues, visible, supervisors, Omni-Channel, supervisor, configuration, queue, appears, Backlog, Assigned, Work, tabs, Omni, API]
+keywords: [OmniSupervisorConfigQueue, queues, visible, supervisors, Omni-Channel, supervisor, configuration, queue, appears, Backlog, Assigned, Work, tabs, Omni, API, 53.0]
 ---
-
-# OmniSupervisorConfigQueue
 
 > Represents the queues that are visible to the supervisors of an Omni-Channel supervisor configuration. The queue, if visible, appears in the Queues Backlog and Assigned
 		Work tabs of Omni Supervisor. This object is available in API version 53.0 and later.

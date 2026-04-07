@@ -5,12 +5,10 @@ topic: create-and-register-your-namespace-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.779Z
+lastCollected: 2026-04-07T18:38:56.332Z
 estimatedTokens: 497
-keywords: [Register, Second-Generation, Managed, Packages, packaging, 2GP, share, multiple, Since, sharing, code, much, easier, package, shares]
+keywords: [Register, Second-Generation, Managed, Packages, packaging, 2GP, share, multiple, Since, sharing, code, much, easier, package, shares, recommend]
 ---
-
-# Create and Register Your Namespace for Second-Generation Managed Packages
 
 > With second-generation managed packaging (managed 2GP), you can share a single
     namespace with multiple packages. Since sharing of code is much easier if your package shares

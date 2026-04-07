@@ -5,12 +5,10 @@ topic: authapplicationassetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.390Z
+lastCollected: 2026-04-07T18:39:28.453Z
 estimatedTokens: 253
 keywords: [AuthApplicationAssetShare, Sharing, AuthApplicationAsset]
 ---
-
-# AuthApplicationAssetShare
 
 > Sharing for AuthApplicationAsset.
 

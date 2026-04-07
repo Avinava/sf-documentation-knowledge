@@ -5,12 +5,10 @@ topic: migrating-from-the-previous-release
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.313Z
+lastCollected: 2026-04-07T18:40:26.624Z
 estimatedTokens: 100
 keywords: [Migrating, Previous, Release, you’re, upgrading, app, built, Salesforce, Mobile, SDK, 11.0, follow, instructions, 11.1]
 ---
-
-# Migrating from the Previous Release
 
 > If you’re upgrading an app built with Salesforce Mobile SDK 11.0, follow these
          instructions to update your app to 11.1.

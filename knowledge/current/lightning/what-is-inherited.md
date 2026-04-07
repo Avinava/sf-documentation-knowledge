@@ -5,12 +5,10 @@ topic: what-is-inherited
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.695Z
+lastCollected: 2026-04-07T18:38:04.841Z
 estimatedTokens: 884
-keywords: [Inherited, topic, extend, definition, component, Attributes, Events, Helpers, Controllers]
+keywords: [Events, Helpers, Controllers, Inherited, topic, extend, definition, Attributes]
 ---
-
-# What is Inherited?
 
 > This topic lists what is inherited when you extend a definition, such as a component.
 

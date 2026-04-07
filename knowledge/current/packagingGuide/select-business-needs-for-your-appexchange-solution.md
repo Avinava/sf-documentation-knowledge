@@ -5,12 +5,10 @@ topic: select-business-needs-for-your-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.295Z
+lastCollected: 2026-04-07T18:38:46.155Z
 estimatedTokens: 1445
-keywords: [Select, Business, Needs, AppExchange, Solution, listing, categories, describe, challenge, solves, how, help, customers, discover, solutions]
+keywords: [Select, Business, Needs, AppExchange, Solution, listing, categories, describe, challenge, solves, how, help, customers, discover, solutions, review, guidance, selecting, Subcategories, Listings, Search, Tips]
 ---
-
-# Select Business Needs for Your AppExchange Solution
 
 > When you create an AppExchange listing for your solution, you select up to 3 categories
     called business needs. Business needs describe what your solution does or the challenge that it

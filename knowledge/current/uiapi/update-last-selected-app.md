@@ -5,12 +5,10 @@ topic: update-last-selected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.913Z
+lastCollected: 2026-04-07T18:40:10.891Z
 estimatedTokens: 251
 keywords: [Selected, App, metadata, saves, user]
 ---
-
-# Update Last Selected App
 
 > Returns metadata for an app, and saves an app as the last selected
       for a user.

@@ -5,12 +5,10 @@ topic: associate-partner-telephony-users-and-groups-with-queues
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:18.802Z
+lastCollected: 2026-04-07T18:40:13.725Z
 estimatedTokens: 3668
 keywords: [Associate, Partner, Telephony, Users, Groups, Queues, queue, management, Service, Cloud, Voice, Implement, Apex]
 ---
-
-# Associate Partner Telephony Users and Groups with Queues
 
 > Set up queue management to associate partner telephony users and groups with
                 Service Cloud Voice queues.

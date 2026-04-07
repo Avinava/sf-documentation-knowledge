@@ -5,12 +5,10 @@ topic: volunteer-management-fields-on-other-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:32.487Z
+lastCollected: 2026-04-07T18:38:23.386Z
 estimatedTokens: 467
-keywords: [Volunteer, Management, Objects, includes, Salesforce, orgs, Nonprofit, Cloud, enabled]
+keywords: [Volunteer, Management, includes, Salesforce, orgs, Nonprofit, Cloud, enabled]
 ---
-
-# Volunteer Management Fields on Other Objects
 
 > Volunteer Management includes fields that are available on other Salesforce objects. 
       These fields are available only in orgs with Nonprofit Cloud when Volunteer Management is 

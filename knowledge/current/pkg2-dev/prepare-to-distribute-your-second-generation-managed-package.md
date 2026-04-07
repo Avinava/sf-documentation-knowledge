@@ -5,12 +5,10 @@ topic: prepare-to-distribute-your-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:03.818Z
+lastCollected: 2026-04-07T18:38:56.405Z
 estimatedTokens: 691
-keywords: [Prepare, Distribute, Second-Generation, Managed, Package, release, version, ensure, understand, code, coverage, requirements, logistics, how, publish]
+keywords: [Prepare, Distribute, Second-Generation, Managed, Package, release, ensure, understand, code, coverage, requirements, logistics, how, publish, app, AppExchange]
 ---
-
-# Prepare to Distribute Your Second-Generation Managed Package
 
 > Before you release a version of your second-generation managed package, ensure that you
   understand the code coverage requirements, release logistics, and how to publish your app on

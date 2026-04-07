@@ -5,12 +5,10 @@ topic: business-objective-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.922Z
+lastCollected: 2026-04-07T18:37:16.981Z
 estimatedTokens: 128
 keywords: [Business, Objective, Recommendations, recommended, actions, goal]
 ---
-
-# Business Objective Recommendations
 
 > Details of the recommended actions for a business objective, or goal.
 

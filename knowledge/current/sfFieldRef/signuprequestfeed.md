@@ -5,12 +5,10 @@ topic: signuprequestfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.609Z
+lastCollected: 2026-04-07T18:40:02.298Z
 estimatedTokens: 387
-keywords: [SignupRequestFeed, Feed, tracking, SignupRequest]
+keywords: [SignupRequestFeed, SignupRequest]
 ---
-
-# SignupRequestFeed
 
 > Feed tracking for SignupRequest.
 

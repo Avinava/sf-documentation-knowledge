@@ -5,12 +5,10 @@ topic: using-storecache-for-offline-caching
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.513Z
+lastCollected: 2026-04-07T18:40:25.893Z
 estimatedTokens: 1299
-keywords: [StoreCache, Offline, Caching, Although, intended, Mobile, Sync, any, cache, mechanism, meets, requirements, described, Construction, Initialization]
+keywords: [Examples, StoreCache, Offline, Caching, Although, intended, Mobile, Sync, any, cache, mechanism, meets, requirements, described, Construction, Initialization]
 ---
-
-# Using StoreCache For Offline Caching
 
 > Although StoreCache is intended for use with Mobile Sync, you
                 can use any cache mechanism with Mobile Sync that

@@ -5,12 +5,10 @@ topic: engagement-topic-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.600Z
+lastCollected: 2026-04-07T18:35:53.558Z
 estimatedTokens: 790
-keywords: [Engagement, Topic, DMO, Data, Cloud, model, represent, topics, discussed, customer, attendees, may, multiple, campaigns, promotions]
+keywords: [Category, Relationships, Engagement, Topic, DMO, Cloud, model, represent, topics, discussed, customer, attendees, may, multiple, campaigns, promotions, opportunities, tasks, API, Primary, Subject, Area, Key]
 ---
-
-# Engagement Topic DMO
 
 > The Engagement Topic DMO is a Data Cloud data model object (DMO) that
       is used to represent information about the topics discussed by a customer and other attendees

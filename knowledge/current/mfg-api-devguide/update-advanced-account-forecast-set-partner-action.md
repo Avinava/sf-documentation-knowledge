@@ -5,12 +5,10 @@ topic: update-advanced-account-forecast-set-partner-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.313Z
+lastCollected: 2026-04-07T18:38:12.604Z
 estimatedTokens: 457
-keywords: [Advanced, Account, Forecast, Partner, Action, Updates, status, record, data, combination, generated, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Advanced, Account, Forecast, Partner, Action, Updates, status, record, combination, generated, REST, HTTP]
 ---
-
-# Update Advanced Account Forecast Set Partner Action
 
 > Updates the status of the Advanced Account Forecast Set Partner record
    after the forecast data for a given combination of account and forecast set has been

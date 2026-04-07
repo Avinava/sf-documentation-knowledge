@@ -5,13 +5,11 @@ topic: activescratchorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.846Z
+lastCollected: 2026-04-07T18:39:24.755Z
 estimatedTokens: 519
 namespace: Namespace
-keywords: [ActiveScratchOrg, active, scratch, org, API, version, 41.0, later]
+keywords: [ActiveScratchOrg, active, scratch, org, API, 41.0]
 ---
-
-# ActiveScratchOrg
 
 > Represents an active scratch org. This object is available in
 		API version 41.0 and later.

@@ -5,12 +5,10 @@ topic: pricingadjbatchjobhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.113Z
+lastCollected: 2026-04-07T18:39:54.664Z
 estimatedTokens: 272
-keywords: [PricingAdjBatchJobHistory, History, tracked, PricingAdjBatchJob]
+keywords: [PricingAdjBatchJobHistory, tracked, PricingAdjBatchJob]
 ---
-
-# PricingAdjBatchJobHistory
 
 > History for tracked fields of PricingAdjBatchJob.
 

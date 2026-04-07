@@ -5,12 +5,10 @@ topic: preview-components-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.703Z
+lastCollected: 2026-04-07T18:38:15.188Z
 estimatedTokens: 1549
-keywords: [Preview, Components, Salesforce, Mobile, App, verify, Lightning, web, devices, virtual, device, builds, possible, run, iOS]
+keywords: [Preview, Salesforce, Mobile, App, verify, Lightning, web, devices, virtual, device, builds, possible, run, iOS, simulators, Android, emulators, Install, Xcode, Studio, Download, Packages, Org]
 ---
-
-# Preview Components in the Salesforce Mobile App
 
 > To verify your Lightning web components in Salesforce on many devices, use virtual
     device builds of the Salesforce mobile app. These builds make it possible to run Salesforce on

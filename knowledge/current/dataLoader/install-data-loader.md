@@ -5,12 +5,10 @@ topic: install-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.256Z
+lastCollected: 2026-04-07T18:37:28.292Z
 estimatedTokens: 253
-keywords: [Install, Data, Loader, insert, export, Salesforce, records]
+keywords: [Install, Loader, insert, export, Salesforce, records]
 ---
-
-# Install Data Loader
 
 > Use Data Loader to insert, update, delete, and export Salesforce records.
 

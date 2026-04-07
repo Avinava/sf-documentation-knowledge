@@ -5,12 +5,10 @@ topic: devicesynctransactionlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.249Z
+lastCollected: 2026-04-07T18:37:59.938Z
 estimatedTokens: 1008
-keywords: [DeviceSyncTransactionLog, log, synchronized, data, mobile, device, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [DeviceSyncTransactionLog, log, synchronized, mobile, device, API, 65.0]
 ---
-
-# DeviceSyncTransactionLog
 
 > Represents a log with information about the synchronized data from a mobile
          device.

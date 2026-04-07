@@ -5,12 +5,10 @@ topic: get-a-list-of-records-a-user-follows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.179Z
+lastCollected: 2026-04-07T18:37:24.228Z
 estimatedTokens: 144
 keywords: [Records, User, Follows]
 ---
-
-# Get a List of Records a User Follows
 
 > Get a list of records that a user follows.
 

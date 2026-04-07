@@ -5,12 +5,10 @@ topic: enblprogramtaskmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.604Z
+lastCollected: 2026-04-07T18:38:30.422Z
 estimatedTokens: 481
-keywords: [EnblProgramTaskMeasure, connection, Enablement, measure, specific, milestone, outcome, program, API, version, 61.0, later, Calls, Special, Access]
+keywords: [EnblProgramTaskMeasure, connection, Enablement, measure, specific, milestone, outcome, program, API, 61.0]
 ---
-
-# EnblProgramTaskMeasure
 
 > Represents the connection between an Enablement measure and a
          specific milestone or outcome in an Enablement program. This object is available in

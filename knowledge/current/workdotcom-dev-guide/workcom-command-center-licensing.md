@@ -5,12 +5,10 @@ topic: workcom-command-center-licensing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.931Z
+lastCollected: 2026-04-07T18:40:13.906Z
 estimatedTokens: 245
 keywords: [Work.com, Command, Center, Licensing, Design, solution, Salesforce, platform, end-user, license, requirements, mind]
 ---
-
-# Work.com Command Center Licensing
 
 > Design your solution with Salesforce platform and Work.com end-user license requirements
   in mind.

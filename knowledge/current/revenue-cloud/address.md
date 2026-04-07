@@ -5,12 +5,10 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.141Z
+lastCollected: 2026-04-07T18:35:45.135Z
 estimatedTokens: 77
-keywords: [Address, Output, representation, location, code, associated]
+keywords: [Address, location, code]
 ---
-
-# Address
 
 > Output representation of the location code associated with an address.
 

@@ -5,12 +5,10 @@ topic: holdtoggleresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.689Z
+lastCollected: 2026-04-07T18:39:23.627Z
 estimatedTokens: 515
 keywords: [HoldToggleResult, result, toggling, hold, state, call, Functions]
 ---
-
-# HoldToggleResult
 
 > Represents the result when toggling the hold state for a
         call.

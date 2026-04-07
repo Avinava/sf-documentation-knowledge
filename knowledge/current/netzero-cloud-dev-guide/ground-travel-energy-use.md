@@ -5,12 +5,10 @@ topic: ground-travel-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.258Z
+lastCollected: 2026-04-07T18:38:16.842Z
 estimatedTokens: 2540
 keywords: [Ground, Travel, Energy, consumption]
 ---
-
-# Ground Travel Energy Use
 
 > The Ground Travel Energy Use object represents the energy consumption related to ground
     travel.

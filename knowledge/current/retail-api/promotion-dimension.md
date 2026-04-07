@@ -5,12 +5,10 @@ topic: promotion-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.332Z
+lastCollected: 2026-04-07T18:39:11.874Z
 estimatedTokens: 262
 keywords: [Promotion, Dimension, configure, integration, export, sales, org, CSV, exports, executed, meta, JSON]
 ---
-
-# Promotion Dimension
 
 > You must configure the promotion dimension for integration export for each sales org on
   which CSV exports is executed.

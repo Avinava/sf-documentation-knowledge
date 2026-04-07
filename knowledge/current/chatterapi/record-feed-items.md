@@ -5,12 +5,10 @@ topic: record-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.309Z
+lastCollected: 2026-04-07T18:37:11.030Z
 estimatedTokens: 4863
-keywords: [Record, Feed, Items, records, context, user, Post, item, search, Flat]
+keywords: [Record, Items, records, context, user, Post, item, search, Flat]
 ---
-
-# Record Feed Items
 
 > Get the feed items for the records the context user is following, or
       get the feed items of a record. Post a feed item and search a record feed.

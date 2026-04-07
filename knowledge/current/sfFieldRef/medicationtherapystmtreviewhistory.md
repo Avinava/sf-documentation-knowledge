@@ -5,12 +5,10 @@ topic: medicationtherapystmtreviewhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.119Z
+lastCollected: 2026-04-07T18:39:48.577Z
 estimatedTokens: 282
-keywords: [MedicationTherapyStmtReviewHistory, History, tracked, MedicationTherapyStmtReview]
+keywords: [MedicationTherapyStmtReviewHistory, tracked, MedicationTherapyStmtReview]
 ---
-
-# MedicationTherapyStmtReviewHistory
 
 > History for tracked fields of MedicationTherapyStmtReview.
 

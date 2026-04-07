@@ -5,13 +5,11 @@ topic: memberpointbalanceoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.666Z
+lastCollected: 2026-04-07T18:38:06.873Z
 estimatedTokens: 1065
 namespace: LoyaltyManagement
 keywords: [MemberPointBalanceOutput, loyalty, points, balance, program, member, getCurrencyName, getErrors, getEscrowPointsBalance, getLoyaltyProgramMemberId, getPoints, getProgramName, isSuccess]
 ---
-
-# MemberPointBalanceOutput Class
 
 > Represents the loyalty points balance for a specified loyalty program
       member.

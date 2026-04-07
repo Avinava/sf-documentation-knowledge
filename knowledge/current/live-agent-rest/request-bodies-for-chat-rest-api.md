@@ -5,12 +5,10 @@ topic: request-bodies-for-chat-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.365Z
+lastCollected: 2026-04-07T18:38:06.583Z
 estimatedTokens: 1433
-keywords: [Bodies, Chat, REST, API, perform, POST, pass, query, that’s, formatted, JSON, contain, nested, inside, unique]
+keywords: [Breadcrumb, ChasitorInit, ChasitorResyncState, ChasitorSneakPeek, ChatMessage, CustomEvent, MultiNoun, Bodies, Chat, REST, API, perform, POST, pass, query, that’s, formatted, JSON, contain, nested, inside, unique, SensitiveDataRuleTriggered, Agents, Chasitors]
 ---
-
-# Request Bodies for Chat REST API
 
 > To perform a POST or GET request, pass query parameters or create a request body
                 that’s formatted in JSON. Request bodies can contain one or more other

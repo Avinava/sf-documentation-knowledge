@@ -5,12 +5,10 @@ topic: knowledgearticletypelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.757Z
+lastCollected: 2026-04-07T18:38:49.960Z
 estimatedTokens: 189
-keywords: [knowledge, articleTypeList, loop, article, Simple, display, Attributes]
+keywords: [Attributes, knowledge, articleTypeList, loop, article, Simple, display]
 ---
-
-# knowledge:articleTypeList
 
 > A loop on all available article types.
 

@@ -5,12 +5,10 @@ topic: identityverificationevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:49.590Z
+lastCollected: 2026-04-07T18:39:44.241Z
 estimatedTokens: 471
-keywords: [IdentityVerificationEvent, Tracks, user, identity, verification, events, org, big, stores, event, data, users, prompted, verify, their]
+keywords: [IdentityVerificationEvent, Tracks, user, identity, verification, events, org, big, stores, event, users, prompted, verify, their, API, 47.0]
 ---
-
-# IdentityVerificationEvent
 
 > Tracks user identity verification events in your org.
 			IdentityVerificationEvent is a big object that stores the event data when users are

@@ -5,12 +5,10 @@ topic: connectapiactionlinktemplatebindinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:19.127Z
+lastCollected: 2026-04-07T18:36:04.347Z
 estimatedTokens: 241
 keywords: [key-value, pair, fill, binding, variable, action, link, template]
 ---
-
-# ConnectApi.ActionLinkTemplateBindingInput
 
 > A key-value pair to fill in a binding variable value from an action
       link template.

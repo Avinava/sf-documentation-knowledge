@@ -5,12 +5,10 @@ topic: ensure-custom-components-in-orgs-with-experience-cloud-sites-are-secure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.672Z
+lastCollected: 2026-04-07T18:37:26.597Z
 estimatedTokens: 461
-keywords: [Ensure, Custom, Components, Orgs, Experience, Cloud, Sites, Secure, Developers, customize, functionality, business, logic, any, solution]
+keywords: [Ensure, Orgs, Experience, Cloud, Sites, Secure, Developers, customize, functionality, business, logic, any, solution, aware, potential, security-related, pitfalls, Bypassing, built-in, defenses, expose, security, risks]
 ---
-
-# Ensure Custom Components in Orgs with Experience Cloud Sites Are Secure
 
 > Developers can customize functionality and business logic in Experience Cloud sites by
   using custom components. As with any custom solution, developers must be aware of potential

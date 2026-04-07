@@ -5,13 +5,11 @@ topic: relatedlistitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.235Z
+lastCollected: 2026-04-07T18:36:00.507Z
 estimatedTokens: 1432
 namespace: Metadata
-keywords: [RelatedListItem, item, layout, Usage, customButtons, excludeButtons, quickActions, relatedList, sortField, sortOrder, clone]
+keywords: [RelatedListItem, item, layout, customButtons, excludeButtons, quickActions, relatedList, sortField, sortOrder, clone]
 ---
-
-# RelatedListItem Class
 
 > Represents an item in the related list in a page
     layout.

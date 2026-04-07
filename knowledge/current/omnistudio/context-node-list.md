@@ -5,12 +5,10 @@ topic: context-node-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.406Z
+lastCollected: 2026-04-07T18:36:39.071Z
 estimatedTokens: 142
-keywords: [Context, Node, Output, representation, nodes]
+keywords: [Context, Node, nodes]
 ---
-
-# Context Node List
 
 > Output representation of the list of context nodes.
 

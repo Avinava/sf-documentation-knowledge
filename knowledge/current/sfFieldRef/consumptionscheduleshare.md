@@ -5,12 +5,10 @@ topic: consumptionscheduleshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.392Z
+lastCollected: 2026-04-07T18:39:34.847Z
 estimatedTokens: 252
 keywords: [ConsumptionScheduleShare, Sharing, ConsumptionSchedule]
 ---
-
-# ConsumptionScheduleShare
 
 > Sharing for ConsumptionSchedule.
 

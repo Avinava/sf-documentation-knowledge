@@ -5,12 +5,10 @@ topic: query-batches-of-archived-field-history-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.261Z
+lastCollected: 2026-04-07T18:37:33.660Z
 estimatedTokens: 285
-keywords: [Query, Batches, Archived, History, Data, Audit, Trail, entries, stored, FieldHistoryArchive]
+keywords: [Query, Batches, Archived, Audit, Trail, entries, stored, FieldHistoryArchive]
 ---
-
-# Query Batches of Archived Field History Data
 
 > You can query Field Audit Trail entries stored on the FieldHistoryArchive object.
 

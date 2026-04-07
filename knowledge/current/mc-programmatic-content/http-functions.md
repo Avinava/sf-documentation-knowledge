@@ -5,12 +5,10 @@ topic: http-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.763Z
+lastCollected: 2026-04-07T18:40:23.182Z
 estimatedTokens: 88
-keywords: [HTTP, Functions, server-side, JavaScript, perform, POST, actions, part, interactions, Marketing, Cloud, Load, permit, interact, URL, retrieve, locale, client, browser, functionality]
+keywords: [Load, HTTP, Functions, server-side, JavaScript, perform, POST, actions, part, interactions, Marketing, Cloud, permit, interact, URL, retrieve, locale, client, browser, functionality, include, content, email, landing, URLs, inclusion, rendered]
 ---
-
-# HTTP Functions
 
 > Use the HTTP server-side JavaScript functions to perform HTTP GET and HTTP POST actions and use that information as part of your interactions with Marketing Cloud.
 

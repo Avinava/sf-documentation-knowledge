@@ -5,12 +5,10 @@ topic: image-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.780Z
+lastCollected: 2026-04-07T18:36:57.293Z
 estimatedTokens: 125
 keywords: [Image, Item, panel, Analytics, template, wizard]
 ---
-
-# Image Item
 
 > An image item on a panel for an Analytics template wizard page.
 

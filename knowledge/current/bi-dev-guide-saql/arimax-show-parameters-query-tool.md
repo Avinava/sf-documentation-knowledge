@@ -5,12 +5,10 @@ topic: arimax-show-parameters-query-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.767Z
+lastCollected: 2026-04-07T18:37:00.278Z
 estimatedTokens: 2117
-keywords: [arimax, Show, Query, Tool, showParams, provided, developer, run, review, model, Bayesian, Criteria, BIC, understand, data]
+keywords: [arimax, Show, Query, Tool, showParams, provided, developer, run, review, model, Bayesian, Criteria, BIC, understand, better, improve, efficiency, Partition, Forecast, Measure, showParams="top, showParams="multi, Multiple, Measures, Seasonality]
 ---
-
-# arimax Show Parameters Query Tool
 
 > The showParams parameter is provided for you as a query developer tool. It allows you to
   run an arimax query and review the model parameters and Bayesian Information Criteria (BIC) to

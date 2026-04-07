@@ -5,12 +5,10 @@ topic: use-case-add-a-new-workflow-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.494Z
+lastCollected: 2026-04-07T18:39:10.996Z
 estimatedTokens: 1201
-keywords: [Case, Add, New, Workflow, Step, updates, Tactic, Comment, send, input]
+keywords: [Case, Add, New, Workflow, Step, updates, Tactic, Comment, send]
 ---
-
-# Use Case: Add a New Workflow Step
 
 > In this use case, you will create a complete new workflow step that updates the
         Tactic Comment field with a new specified value that you will send as input.

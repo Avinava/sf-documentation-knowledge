@@ -5,12 +5,10 @@ topic: team
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.084Z
+lastCollected: 2026-04-07T18:40:03.808Z
 estimatedTokens: 271
-keywords: [Team, members, associated, organization, API, version, 58.0, later]
+keywords: [Team, members, organization, API, 58.0]
 ---
-
-# Team
 
 > Represents the team of members associated with an organization. This
       object is available in API version 58.0 and later.

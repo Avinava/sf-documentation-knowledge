@@ -5,12 +5,10 @@ topic: careprogramhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.135Z
+lastCollected: 2026-04-07T18:39:32.540Z
 estimatedTokens: 258
-keywords: [CareProgramHistory, History, tracked, CareProgram]
+keywords: [CareProgramHistory, tracked, CareProgram]
 ---
-
-# CareProgramHistory
 
 > History for tracked fields of CareProgram.
 

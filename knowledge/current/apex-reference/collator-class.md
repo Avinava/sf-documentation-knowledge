@@ -5,13 +5,11 @@ topic: collator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.684Z
+lastCollected: 2026-04-07T18:36:00.970Z
 estimatedTokens: 867
 namespace: System
-keywords: [Collator, locale-specific, instances, comparisons, sorting, getInstance, obtain, instance, locale, pass, Comparator, list.sort, Usage, compare, source]
+keywords: [Collator, locale-specific, instances, comparisons, sorting, getInstance, obtain, instance, locale, pass, Comparator, list.sort, compare, source, target]
 ---
-
-# Collator Class
 
 > Contains methods to get locale-specific instances that can be used for comparisons
         and sorting. Use the getInstance() method to obtain the

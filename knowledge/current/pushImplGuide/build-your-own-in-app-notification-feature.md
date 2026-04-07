@@ -5,12 +5,10 @@ topic: build-your-own-in-app-notification-feature
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.974Z
+lastCollected: 2026-04-07T18:39:09.297Z
 estimatedTokens: 1185
-keywords: [Build, Own, In-App, Notification, Feature, Salesforce, mobile, app, you’re, familiar, Bell, tray, current, user’s, recent]
+keywords: [Notification, Notifications, Build, Own, In-App, Feature, Salesforce, mobile, app, you’re, familiar, Bell, tray, current, user’s, recent, APIs, design, Template, SDK, iOS, Wrappers, Status, Android]
 ---
-
-# Build Your Own In-App Notification Feature
 
 > If you use the Salesforce mobile app, you’re familiar with the Salesforce Bell. The Bell
   provides an in-app notification tray that lists the current user’s most recent notifications. With

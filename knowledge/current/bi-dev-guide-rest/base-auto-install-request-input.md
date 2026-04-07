@@ -5,12 +5,10 @@ topic: base-auto-install-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.241Z
+lastCollected: 2026-04-07T18:36:54.605Z
 estimatedTokens: 195
-keywords: [Base, Auto-Install, Input]
+keywords: [Base, Auto-Install]
 ---
-
-# Base Auto-Install Request Input
 
 > The base auto-install request input.
 

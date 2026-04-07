@@ -5,12 +5,10 @@ topic: salesforce-mobile-app-generation-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.632Z
+lastCollected: 2026-04-07T18:38:15.116Z
 estimatedTokens: 617
-keywords: [Salesforce, Mobile, App, Generation, Developer, Preview, Ecosystem, MAGE, suite, pro-code, tools, designed, automate, creation, editing]
+keywords: [Salesforce, Mobile, App, Generation, Developer, Preview, Ecosystem, MAGE, suite, pro-code, tools, designed, automate, creation, editing, native, applications, Model, Context, Protocol, MCP, currently, developers, generate, production-ready, iOS, Android, project, scaffolds, directly, chat, bridges, gap, natural, language, requirements, complex, development, configurations, specifically, handling, SDK, Agentforce, integrations]
 ---
-
-# Salesforce Mobile App Generation (Developer Preview)
 
 > The Mobile App Generation Ecosystem (MAGE) is a suite of pro-code tools designed to
     automate the creation and editing of Salesforce native mobile applications. By using the Model

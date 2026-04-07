@@ -5,12 +5,10 @@ topic: configure-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.396Z
+lastCollected: 2026-04-07T18:40:22.820Z
 estimatedTokens: 163
 keywords: [Configure, via, WSProxy, item, several, items, call, configureItem, configureBatch, functions]
 ---
-
-# Configure via WSProxy
 
 > To configure a single item or several items of the same type in a single call, use the configureItem and configureBatch functions.
 

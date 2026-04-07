@@ -5,12 +5,10 @@ topic: product-surcharge-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.556Z
+lastCollected: 2026-04-07T18:37:52.752Z
 estimatedTokens: 138
-keywords: [Product, Surcharge, Output, Representation, ProductSurcharge]
+keywords: [Product, Surcharge, ProductSurcharge]
 ---
-
-# Product Surcharge List
 
 > Output Representation for List of ProductSurcharge
 

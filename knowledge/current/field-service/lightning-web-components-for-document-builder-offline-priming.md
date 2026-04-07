@@ -5,12 +5,10 @@ topic: lightning-web-components-for-document-builder-offline-priming
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.946Z
+lastCollected: 2026-04-07T18:36:46.799Z
 estimatedTokens: 624
-keywords: [Lightning, Web, Components, Document, Builder, Offline, Priming, Ensure, custom, LWCs, work, mobile, workers, Install, Komaci]
+keywords: [Lightning, Web, Document, Builder, Offline, Priming, Ensure, LWCs, work, mobile, workers, Install, Komaci, ESLint, Visual, Studio, Code, Plug-in]
 ---
-
-# Lightning Web Components for Document Builder: Offline Priming
 
 > Ensure that your custom Lightning web components (LWCs) for Document Builder work when
   your mobile workers are offline.

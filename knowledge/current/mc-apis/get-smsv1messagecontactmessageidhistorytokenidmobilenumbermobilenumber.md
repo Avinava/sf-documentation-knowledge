@@ -5,12 +5,10 @@ topic: get-smsv1messagecontactmessageidhistorytokenidmobilenumbermobilenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.101Z
+lastCollected: 2026-04-07T18:40:17.250Z
 estimatedTokens: 250
-keywords: [sms, messageContact, messageId, history, tokenId, mobileNumber, Retrieves, message, sent, mobile, number, **Overview**, Usage]
+keywords: [sms, messageContact, messageId, tokenId, mobileNumber, Retrieves, message, sent, mobile, number, **Overview**]
 ---
-
-# GET /sms/v1/messageContact/{messageId}/history/{tokenId}/mobileNumber/{mobileNumber}
 
 > Retrieves the last message sent to a mobile number.
 

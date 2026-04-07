@@ -5,12 +5,10 @@ topic: billing-arrangement-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.475Z
+lastCollected: 2026-04-07T18:35:44.462Z
 estimatedTokens: 240
-keywords: [Billing, Arrangement, Retrieve, associated, lines]
+keywords: [Billing, Arrangement, Retrieve, lines]
 ---
-
-# Billing Arrangement (GET)
 
 > Retrieve a billing arrangement and its associated billing arrangement
     lines.

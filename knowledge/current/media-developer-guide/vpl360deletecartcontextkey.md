@@ -5,12 +5,10 @@ topic: vpl360deletecartcontextkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.210Z
+lastCollected: 2026-04-07T18:38:11.521Z
 estimatedTokens: 117
 keywords: [VPL360_DeleteCartContextKey, Integration, Procedure, self, care, portal, cart, context, key, checkout, flow, completed, VPL360, _DeleteCartContextKey, Sample]
 ---
-
-# VPL360_DeleteCartContextKey
 
 > This Integration Procedure is used in the self care portal to delete the cart context key after the checkout flow is completed.
 

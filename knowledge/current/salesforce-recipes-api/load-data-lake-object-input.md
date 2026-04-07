@@ -5,12 +5,10 @@ topic: load-data-lake-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.704Z
+lastCollected: 2026-04-07T18:39:18.408Z
 estimatedTokens: 116
-keywords: [Load, Data, Lake, Input]
+keywords: [Load, Lake]
 ---
-
-# Load Data Lake Object Input
 
 > A data lake object to load.
 

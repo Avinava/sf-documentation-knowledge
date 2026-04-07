@@ -5,12 +5,10 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.987Z
+lastCollected: 2026-04-07T18:37:25.899Z
 estimatedTokens: 412
-keywords: [Standard, Objects, their]
+keywords: [Standard, their]
 ---
-
-# Standard Objects
 
 > This section provides a list of standard objects and their standard fields.
 

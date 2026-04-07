@@ -5,12 +5,10 @@ topic: managed-content-date-and-time-node-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.117Z
+lastCollected: 2026-04-07T18:37:20.300Z
 estimatedTokens: 165
 keywords: [Managed, Content, Date, Time, Node]
 ---
-
-# Managed Content Date and Time Node Value
 
 > Managed content node of date and time type.
 

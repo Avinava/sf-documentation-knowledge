@@ -5,12 +5,10 @@ topic: orchestrate-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.193Z
+lastCollected: 2026-04-07T18:35:39.964Z
 estimatedTokens: 484
-keywords: [Orchestrate, Transaction, Action, any, domain-specific, collection, plan, Revenue, billing, requires, composition, execution, fulfillment, Special, Access]
+keywords: [Inputs, Outputs, Orchestrate, Transaction, Action, any, domain-specific, collection, plan, Revenue, billing, requires, composition, execution, fulfillment, REST, HTTP]
 ---
-
-# Orchestrate Transaction Action
 
 > Orchestrate a transaction for any
             domain-specific object, such as a collection plan for Revenue billing, that requires the

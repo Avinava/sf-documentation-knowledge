@@ -5,12 +5,10 @@ topic: loanapplicationliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.375Z
+lastCollected: 2026-04-07T18:39:46.862Z
 estimatedTokens: 517
-keywords: [LoanApplicationLiability, borrower, co-borrower, current, liabilities, API, version, 47.0, later]
+keywords: [LoanApplicationLiability, borrower, co-borrower, current, liabilities, API, 47.0]
 ---
-
-# LoanApplicationLiability
 
 > Represents details about the borrower and co-borrower current
 			liabilities. This object is available in API version 47.0 and later.

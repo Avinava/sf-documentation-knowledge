@@ -5,12 +5,10 @@ topic: documentchecklistsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.382Z
+lastCollected: 2026-04-07T18:39:04.477Z
 estimatedTokens: 433
-keywords: [DocumentChecklistSettings, org’s, DocumentChecklistItem, settings, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Package, Manifest]
+keywords: [DocumentChecklistSettings, org’s, DocumentChecklistItem, settings, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# DocumentChecklistSettings
 
 > Represents an org’s DocumentChecklistItem settings.
 

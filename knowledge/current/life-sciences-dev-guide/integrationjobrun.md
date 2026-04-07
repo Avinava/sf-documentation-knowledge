@@ -5,12 +5,10 @@ topic: integrationjobrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.657Z
+lastCollected: 2026-04-07T18:38:00.411Z
 estimatedTokens: 1056
-keywords: [IntegrationJobRun, statistical, asynchronous, integration, jobs, run, system, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [IntegrationJobRun, statistical, asynchronous, integration, jobs, run, system, API, 65.0]
 ---
-
-# IntegrationJobRun
 
 > Represents the statistical details of asynchronous integration jobs that are
          run on the system. This object is available in API version 65.0 and later.

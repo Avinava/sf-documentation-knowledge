@@ -5,12 +5,10 @@ topic: extract
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.774Z
+lastCollected: 2026-04-07T18:40:16.930Z
 estimatedTokens: 1818
-keywords: [Extract, package, Marketing, Cloud, FTP, site, Specify, File, Transfer, Location, intent, deliver, different, Sample, Java]
+keywords: [Extract, package, Marketing, Cloud, FTP, site, Specify, File, Transfer, Location, intent, deliver, different, Sample, Java, Code, SOAP]
 ---
-
-# Extract
 
 > Use the Extract method to extract a package to the Marketing Cloud FTP site. Specify the File Transfer Location only when the intent is to deliver the file to a different FTP site.
 

@@ -5,12 +5,10 @@ topic: connectapiactivationcontactpointinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.142Z
+lastCollected: 2026-04-07T18:36:04.362Z
 estimatedTokens: 243
-keywords: [ConnectApi.ActivationContactPointInput, activation, contact, point, input]
+keywords: [ConnectApi.ActivationContactPointInput, activation, contact, point]
 ---
-
-# ConnectApi.ActivationContactPointInput
 
 > Represents the activation contact point input.
 

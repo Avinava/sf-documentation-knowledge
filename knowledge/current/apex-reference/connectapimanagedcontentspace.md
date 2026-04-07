@@ -5,12 +5,10 @@ topic: connectapimanagedcontentspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:24.650Z
+lastCollected: 2026-04-07T18:36:09.973Z
 estimatedTokens: 556
 keywords: [ConnectApi.ManagedContentSpace, Managed, content, space]
 ---
-
-# ConnectApi.ManagedContentSpace
 
 > Managed content space.
 

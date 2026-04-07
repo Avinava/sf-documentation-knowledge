@@ -5,12 +5,10 @@ topic: connectapifeedelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:23.771Z
+lastCollected: 2026-04-07T18:36:09.157Z
 estimatedTokens: 860
-keywords: [ConnectApi.FeedElement, Feed, elements, top-level, items, Feeds, element, containers]
+keywords: [ConnectApi.FeedElement, top-level, items, Feeds, containers]
 ---
-
-# ConnectApi.FeedElement
 
 > Feed elements are the top-level items that a feed contains. Feeds are feed element
     containers.

@@ -5,12 +5,10 @@ topic: custodyverfctypeoverridehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.184Z
+lastCollected: 2026-04-07T18:39:36.759Z
 estimatedTokens: 279
-keywords: [CustodyVerfcTypeOverrideHistory, History, tracked, CustodyVerfcTypeOverride]
+keywords: [CustodyVerfcTypeOverrideHistory, tracked, CustodyVerfcTypeOverride]
 ---
-
-# CustodyVerfcTypeOverrideHistory
 
 > History for tracked fields of CustodyVerfcTypeOverride.
 

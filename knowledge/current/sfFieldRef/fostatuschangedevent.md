@@ -5,12 +5,10 @@ topic: fostatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.654Z
+lastCollected: 2026-04-07T18:39:40.300Z
 estimatedTokens: 287
-keywords: [FOStatusChangedEvent, Notifies, subscribers, changes, status, fulfillment, order, record, event, trigger, flows, processes, workflow, API, version]
+keywords: [FOStatusChangedEvent, Notifies, subscribers, changes, status, fulfillment, order, record, event, trigger, flows, processes, workflow, API, 48.0]
 ---
-
-# FOStatusChangedEvent
 
 > Notifies subscribers of changes to the status of a fulfillment order record.
       Use this event to trigger flows and processes in your order workflow. This object is

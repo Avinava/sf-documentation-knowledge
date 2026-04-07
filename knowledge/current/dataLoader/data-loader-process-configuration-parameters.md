@@ -5,12 +5,10 @@ topic: data-loader-process-configuration-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.310Z
+lastCollected: 2026-04-07T18:37:28.346Z
 estimatedTokens: 3476
-keywords: [Data, Loader, Process, Configuration, running, command, line, specify, process-conf.xml, file, cases, represented, Settings]
+keywords: [Loader, Process, Configuration, running, command, line, specify, process-conf.xml, file, cases, represented, Settings]
 ---
-
-# Data Loader Process Configuration Parameters
 
 > When running Data Loader from the command line, you can specify configuration parameters in
     the process-conf.xml file. In some cases, the parameter is also

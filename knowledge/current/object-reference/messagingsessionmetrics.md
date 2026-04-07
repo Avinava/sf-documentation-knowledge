@@ -5,12 +5,10 @@ topic: messagingsessionmetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.420Z
+lastCollected: 2026-04-07T18:38:35.667Z
 estimatedTokens: 698
-keywords: [MessagingSessionMetrics, metric, gathered, specific, enhanced, messaging, session, average, agent, time, starting, October, API, version, 62.0]
+keywords: [MessagingSessionMetrics, metric, gathered, specific, enhanced, messaging, session, average, agent, time, starting, October, API, 62.0]
 ---
-
-# MessagingSessionMetrics
 
 > Represents a metric gathered about a specific enhanced messaging session,
          such as average agent response time. This object is available starting in October 2024

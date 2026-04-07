@@ -5,12 +5,10 @@ topic: care-request-patient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.240Z
+lastCollected: 2026-04-07T18:37:55.709Z
 estimatedTokens: 122
 keywords: [Care, Patient, whom, raised]
 ---
-
-# Care Request Patient
 
 > The patient for whom the request is being raised.
 

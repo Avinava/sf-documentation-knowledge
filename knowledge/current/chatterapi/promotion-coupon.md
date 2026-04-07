@@ -5,12 +5,10 @@ topic: promotion-coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.213Z
+lastCollected: 2026-04-07T18:37:22.322Z
 estimatedTokens: 337
 keywords: [Promotion, Coupon]
 ---
-
-# Promotion Coupon
 
 > A coupon used in a promotion.
 

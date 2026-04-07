@@ -5,12 +5,10 @@ topic: fulfillmentstepsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.150Z
+lastCollected: 2026-04-07T18:39:41.810Z
 estimatedTokens: 299
-keywords: [FulfillmentStepSource, link, fulfillment, step, corresponding, order, lines, API, version, 61.0, later]
+keywords: [FulfillmentStepSource, link, fulfillment, step, corresponding, order, lines, API, 61.0]
 ---
-
-# FulfillmentStepSource
 
 > Represents a link between a fulfillment step and the corresponding
          order lines. This object is available in API version 61.0 and later.

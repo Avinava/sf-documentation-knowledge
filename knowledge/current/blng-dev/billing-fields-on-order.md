@@ -5,12 +5,10 @@ topic: billing-fields-on-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.795Z
+lastCollected: 2026-04-07T18:37:04.420Z
 estimatedTokens: 753
-keywords: [Billing, Order, Standard, custom, extend, represent, orders]
+keywords: [Billing, Order, Standard, extend, represent, orders]
 ---
-
-# Billing Fields on Order
 
 > Standard and custom fields extend the standard Order object for use
          in Billing to represent information about orders.

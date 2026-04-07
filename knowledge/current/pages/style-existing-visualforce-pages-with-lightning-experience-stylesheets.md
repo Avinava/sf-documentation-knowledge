@@ -6,13 +6,10 @@ topic: style-existing-visualforce-pages-with-lightning-experience-stylesheets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.673Z
+lastCollected: 2026-04-07T18:38:52.965Z
 estimatedTokens: 1422
-keywords: [Style, Visualforce, Pages, Lightning, Experience, Stylesheets, control, whether, styled, look, viewed, Salesforce, mobile, app, lightningStylesheets]
+keywords: [Style, Visualforce, Pages, Lightning, Experience, Stylesheets, control, whether, styled, look, viewed, Salesforce, mobile, app, lightningStylesheets, attribute]
 ---
-
-# Style Existing Visualforce Pages with Lightning Experience
-      Stylesheets
 
 > You can control whether a page is styled with the look of Lightning Experience when
     viewed in Lightning Experience or the Salesforce mobile app with the lightningStylesheets attribute.

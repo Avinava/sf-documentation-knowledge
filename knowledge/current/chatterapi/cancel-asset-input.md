@@ -5,12 +5,10 @@ topic: cancel-asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.725Z
+lastCollected: 2026-04-07T18:37:07.445Z
 estimatedTokens: 176
-keywords: [Cancel, Asset, Input, Cancellation, consumed, Customer, Lifecycle, Management, action, made, against, lifecycle-managed]
+keywords: [Cancel, Asset, Cancellation, consumed, Customer, Lifecycle, Management, action, made, against, lifecycle-managed]
 ---
-
-# Cancel Asset Input
 
 > Cancellation input consumed by Customer Asset Lifecycle Management. Represents a
     cancellation action made against a lifecycle-managed asset.

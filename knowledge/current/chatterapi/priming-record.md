@@ -5,12 +5,10 @@ topic: priming-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.779Z
+lastCollected: 2026-04-07T18:37:21.880Z
 estimatedTokens: 143
-keywords: [Priming, Record, associated, briefcase]
+keywords: [Priming, Record, briefcase]
 ---
-
-# Priming Record
 
 > Record associated with the briefcase.
 

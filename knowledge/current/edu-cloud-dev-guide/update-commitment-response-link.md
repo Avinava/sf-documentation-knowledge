@@ -5,12 +5,10 @@ topic: update-commitment-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.647Z
+lastCollected: 2026-04-07T18:37:29.728Z
 estimatedTokens: 126
-keywords: [Commitment, Link, Output, representation, links, updates]
+keywords: [Commitment, Link, links, updates]
 ---
-
-# Update Commitment Response Link
 
 > Output representation of the links to the response object for the commitment
     updates.

@@ -5,12 +5,10 @@ topic: customevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.148Z
+lastCollected: 2026-04-07T18:38:06.420Z
 estimatedTokens: 123
-keywords: [CustomEvent, custom, event, sent, chat, visitor, agent]
+keywords: [CustomEvent, event, sent, chat, visitor, agent]
 ---
-
-# CustomEvent
 
 > Indicates a custom event was sent from the chat visitor
 during the chat.

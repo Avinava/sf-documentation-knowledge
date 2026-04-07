@@ -5,12 +5,10 @@ topic: create-a-trialforce-source-org-with-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.833Z
+lastCollected: 2026-04-07T18:38:47.781Z
 estimatedTokens: 457
 keywords: [Trialforce, Source, Org, Environment, Hub, Partner, Business, PBO, TSO, install, package, configure, want, customers, experience]
 ---
-
-# Create a Trialforce Source Org with Environment Hub
 
 > Use the Environment Hub in a Partner Business Org (PBO) to create a Trialforce Source
   Org (TSO). After you create the TSO, install your package. Then configure the TSO as you want

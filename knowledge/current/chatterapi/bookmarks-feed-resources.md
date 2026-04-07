@@ -5,12 +5,10 @@ topic: bookmarks-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.894Z
+lastCollected: 2026-04-07T18:37:10.586Z
 estimatedTokens: 1283
-keywords: [Bookmarks, Feed, Resources, containing, elements, saved, context, user, URL]
+keywords: [Bookmarks, Resources, containing, saved, context, user, URL]
 ---
-
-# Bookmarks Feed Resources
 
 > A feed containing feed elements saved as bookmarks by the
    context user.

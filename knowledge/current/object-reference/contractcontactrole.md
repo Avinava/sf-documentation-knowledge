@@ -5,12 +5,10 @@ topic: contractcontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.917Z
+lastCollected: 2026-04-07T18:38:28.823Z
 estimatedTokens: 455
-keywords: [ContractContactRole, role, Contact, plays, Contract, Calls]
+keywords: [ContractContactRole, role, Contact, plays, Contract]
 ---
-
-# ContractContactRole
 
 > Represents the role that a Contact plays on a
   Contract.

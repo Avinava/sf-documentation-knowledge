@@ -5,12 +5,10 @@ topic: pricebookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.392Z
+lastCollected: 2026-04-07T18:38:00.109Z
 estimatedTokens: 906
-keywords: [Pricebookentry, product, entry, association, price, book, Calls, Usage, Associated, Objects]
+keywords: [Pricebookentry, product, entry, association, price, book]
 ---
-
-# Pricebookentry
 
 > Represents a product entry (an association between a price book and
       product) in a price book.

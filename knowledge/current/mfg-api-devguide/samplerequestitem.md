@@ -5,12 +5,10 @@ topic: samplerequestitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.222Z
+lastCollected: 2026-04-07T18:38:14.632Z
 estimatedTokens: 656
-keywords: [SampleRequestItem, items, associated, sample, including, product, custom, specifications, quantity, price, API, version, 65.0, later, Calls]
+keywords: [SampleRequestItem, items, sample, including, product, specifications, quantity, price, API, 65.0]
 ---
-
-# SampleRequestItem
 
 > Represents information on items associated with a sample request, including
       details such as product, custom specifications, quantity and price. This object is available

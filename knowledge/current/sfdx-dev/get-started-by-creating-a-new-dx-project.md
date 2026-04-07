@@ -5,12 +5,10 @@ topic: get-started-by-creating-a-new-dx-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.135Z
+lastCollected: 2026-04-07T18:40:08.092Z
 estimatedTokens: 5907
-keywords: [Started, Creating, New, Project, Let's, say, you're, Salesforce, developer, creates, awesome, org, customizations, declarative, tools]
+keywords: [Started, Creating, New, Project, Let's, say, you're, Salesforce, developer, creates, awesome, org, customizations, declarative, tools, builders, Flow, Lightning, App, Builder, You've, heard, source-driven, development, want, move, direction, therefore, extract, store, source, control, system, GitHub, becomes, truth, quite, sure, how, works, hands, practice, simple, cases, Keep, reading, Play, Dev, Hub, Install, Platform, Authorize, Scratch, Change, Retrieve, Apex, Deploy, Web, Sandbox, Add, Files, VCS, Steps]
 ---
-
-# Get Started by Creating a New DX Project
 
 > Let's say you're a Salesforce developer who creates awesome org customizations using
     declarative tools and builders, such as Flow and Lightning App Builder. You've heard about

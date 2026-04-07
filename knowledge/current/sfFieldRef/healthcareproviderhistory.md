@@ -5,12 +5,10 @@ topic: healthcareproviderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.143Z
+lastCollected: 2026-04-07T18:39:43.769Z
 estimatedTokens: 267
-keywords: [HealthcareProviderHistory, History, tracked, HealthcareProvider]
+keywords: [HealthcareProviderHistory, tracked, HealthcareProvider]
 ---
-
-# HealthcareProviderHistory
 
 > History for tracked fields of HealthcareProvider.
 

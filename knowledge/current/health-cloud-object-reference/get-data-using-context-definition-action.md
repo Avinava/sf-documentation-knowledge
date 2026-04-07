@@ -5,12 +5,10 @@ topic: get-data-using-context-definition-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.595Z
+lastCollected: 2026-04-07T18:37:39.539Z
 estimatedTokens: 493
-keywords: [Data, Context, Definition, Action, service, associated, mapping, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Context, Definition, Action, service, mapping, REST, HTTP]
 ---
-
-# Get Data Using Context Definition Action
 
 > Get data from a context service using a context definition and the
             associated context mapping.

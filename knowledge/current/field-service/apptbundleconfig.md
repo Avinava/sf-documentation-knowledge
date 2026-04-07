@@ -5,12 +5,10 @@ topic: apptbundleconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.298Z
+lastCollected: 2026-04-07T18:36:47.174Z
 estimatedTokens: 1135
-keywords: [ApptBundleConfig, general, define, behavior, bundle, API, version, 54.0, later, Calls, Special, Access, Rules]
+keywords: [ApptBundleConfig, general, define, behavior, bundle, API, 54.0]
 ---
-
-# ApptBundleConfig
 
 > Represents the general parameters that define the behavior of the
          bundle. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: connectapipolicyoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.751Z
+lastCollected: 2026-04-07T18:37:50.650Z
 estimatedTokens: 109
-keywords: [ConnectApi.PolicyOutputRepresentation, Output, representation, policy]
+keywords: [ConnectApi.PolicyOutputRepresentation, policy]
 ---
-
-# ConnectApi.PolicyOutputRepresentation
 
 > Output representation of the policy details.
 

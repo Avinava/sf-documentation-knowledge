@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-predict-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.010Z
+lastCollected: 2026-04-07T18:36:58.536Z
 estimatedTokens: 468
-keywords: [Abstract, Smart, Data, Discovery, Predict, Input, base, Einstein]
+keywords: [Abstract, Smart, Discovery, Predict, base, Einstein]
 ---
-
-# Abstract Smart Data Discovery Predict Input
 
 > The base predict input for Einstein Discovery.
 

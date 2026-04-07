@@ -5,12 +5,10 @@ topic: intelligent-document-reader-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.333Z
+lastCollected: 2026-04-07T18:36:42.046Z
 estimatedTokens: 350
-keywords: [Intelligent, Document, Reader, Standard, Invocable, Actions, detects, extracts, text, Amazon, Textract, API, optical, character, recognition]
+keywords: [Intelligent, Document, Reader, Standard, Invocable, Actions, detects, extracts, text, Amazon, Textract, API, optical, character, recognition, automate, extraction, process, includes, detecting, extracting, fetching, extracted, selecting, OCR, template]
 ---
-
-# Intelligent Document Reader Standard Invocable Actions
 
 > Intelligent Document Reader detects and
       extracts text from a document using the Amazon Textract API, which is based on optical

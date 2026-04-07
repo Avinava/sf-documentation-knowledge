@@ -5,12 +5,10 @@ topic: externalevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.105Z
+lastCollected: 2026-04-07T18:38:32.059Z
 estimatedTokens: 587
-keywords: [ExternalEvent, Holds, native, iOS, Android, calendar, event, Salesforce, Today, feature, mobile, app, API, version, 35.0]
+keywords: [ExternalEvent, Holds, native, iOS, Android, calendar, event, Salesforce, Today, feature, mobile, app, API, 35.0]
 ---
-
-# ExternalEvent
 
 > Holds native iOS or Android calendar event details for the Salesforce Today feature in the Salesforce mobile app. This object is available in API version 35.0 and later.
 

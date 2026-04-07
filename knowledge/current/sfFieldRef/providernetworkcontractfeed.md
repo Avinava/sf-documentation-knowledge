@@ -5,12 +5,10 @@ topic: providernetworkcontractfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.881Z
+lastCollected: 2026-04-07T18:39:57.476Z
 estimatedTokens: 275
-keywords: [ProviderNetworkContractFeed, Feed, tracking, ProviderNetworkContract]
+keywords: [ProviderNetworkContractFeed, ProviderNetworkContract]
 ---
-
-# ProviderNetworkContractFeed
 
 > Feed tracking for ProviderNetworkContract.
 

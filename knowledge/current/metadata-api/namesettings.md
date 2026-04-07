@@ -5,12 +5,10 @@ topic: namesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.319Z
+lastCollected: 2026-04-07T18:36:27.836Z
 estimatedTokens: 728
-keywords: [NameSettings, disables, formal, middle, suffix, attributes, person, objects, Contact, Lead, Account, User, extends, Metadata, inherits]
+keywords: [NameSettings, disables, formal, middle, suffix, attributes, person, Contact, Lead, Account, User, extends, Metadata, inherits, fullName, File, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# NameSettings
 
 > Enables or disables the formal name, middle name, and
             suffix attributes for these person objects: Contact, Lead, Person Account, and

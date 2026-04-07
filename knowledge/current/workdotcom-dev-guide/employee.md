@@ -5,12 +5,10 @@ topic: employee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.865Z
+lastCollected: 2026-04-07T18:40:13.832Z
 estimatedTokens: 2847
-keywords: [Employee, company, organization, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing, rules, history, tracking, Work.com, uses, standard, track, users]
+keywords: [Employee, company, organization, API, 48.0, 49.0, supports, reports, criteria-based, sharing, plus, exclude, individual, layouts, Work.com, uses, standard, track, users, students, volunteers, roles, addition, employees, managed, packages, install]
 ---
-
-# Employee
 
 > Represents an employee within a company or organization. This object is
     available in API version 48.0 and later. In API version 49.0 and later, this object supports

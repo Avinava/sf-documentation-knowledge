@@ -5,12 +5,10 @@ topic: course-offering-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.343Z
+lastCollected: 2026-04-07T18:37:29.431Z
 estimatedTokens: 164
-keywords: [Course, Offering, Output, representation, submitted, bulk]
+keywords: [Course, Offering, submitted, bulk]
 ---
-
-# Course Offering Details
 
 > Output representation of each course offering submitted in a bulk request.
 

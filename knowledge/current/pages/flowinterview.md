@@ -5,12 +5,10 @@ topic: flowinterview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.495Z
+lastCollected: 2026-04-07T18:38:49.620Z
 estimatedTokens: 646
-keywords: [flow, interview, component, embeds, Attributes]
+keywords: [Attributes, flow, interview, embeds]
 ---
-
-# flow:interview
 
 > This component embeds a Flow interview in the page.
 

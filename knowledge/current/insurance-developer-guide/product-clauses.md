@@ -5,12 +5,10 @@ topic: product-clauses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.235Z
+lastCollected: 2026-04-07T18:37:52.388Z
 estimatedTokens: 102
-keywords: [Product, Clauses, Output, representation, successfully, created, clause]
+keywords: [Product, Clauses, successfully, created, clause]
 ---
-
-# Product Clauses
 
 > Output representation for a successfully created product clause.
 

@@ -5,12 +5,10 @@ topic: tools-for-large-scale-realignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.788Z
+lastCollected: 2026-04-07T18:37:28.877Z
 estimatedTokens: 385
-keywords: [Tools, Large-Scale, Realignments, demanding, maintenance, activity, customers, perform, realignment, sales, teams, territories, account, assignments, Whether]
+keywords: [Tools, Large-Scale, Realignments, demanding, maintenance, activity, customers, perform, realignment, sales, teams, territories, account, assignments, Whether, annually, quarterly, frequently, typically, involve, extensive, changes, organization’s, structure, updates, large, amounts, result, record]
 ---
-
-# Tools for Large-Scale Realignments
 
 > The most demanding maintenance activity that customers perform is a large-scale
         realignment of sales teams, territories, and account assignments. Whether you do

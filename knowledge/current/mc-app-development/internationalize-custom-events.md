@@ -5,12 +5,10 @@ topic: internationalize-custom-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.161Z
+lastCollected: 2026-04-07T18:40:21.441Z
 estimatedTokens: 812
-keywords: [Internationalize, Custom, Events, summary, array, defined, their, config.json, under, userInterfaces, collection, key-value, pairs, maps, labels]
+keywords: [Internationalize, Events, summary, array, defined, their, config.json, under, userInterfaces, collection, key-value, pairs, maps, labels, step, event, configuration, modal, canvas, Schema]
 ---
-
-# Internationalize Custom Events
 
 > Custom events should have a summary array defined in their config.json under userInterfaces. The summary array is a collection of key-value pairs that maps to labels and values on the summary step of the event configuration modal and the event summary on the canvas.
 

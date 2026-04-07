@@ -5,12 +5,10 @@ topic: add-a-canvas-app-to-a-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.089Z
+lastCollected: 2026-04-07T18:38:56.784Z
 estimatedTokens: 924
 keywords: [Add, Canvas, App, Layout, Account]
 ---
-
-# Add a Canvas App to a Page Layout
 
 > Add a canvas app to the page layout for an Account.
 

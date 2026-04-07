@@ -5,12 +5,10 @@ topic: using-pop-out-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.991Z
+lastCollected: 2026-04-07T18:36:50.186Z
 estimatedTokens: 714
-keywords: [Pop-Out, Utilities, support, “popped, out”, utility, bar, their, own, separate, child, windows, Standard, Custom, Disabling]
+keywords: [Pop-Out, Utilities, support, “popped, out”, utility, bar, their, own, separate, child, windows, Standard, Disabling]
 ---
-
-# Using Pop-Out Utilities
 
 > Utilities that support pop-out can be “popped out” of the utility bar and into their
         own separate child windows.

@@ -5,12 +5,10 @@ topic: territory2alignmentlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.952Z
+lastCollected: 2026-04-07T18:38:42.668Z
 estimatedTokens: 783
-keywords: [Territory2AlignmentLog, start, end, status, territory, assignment, rule, run, job, API, version, 54.0, later, Calls, Special]
+keywords: [Territory2AlignmentLog, start, end, status, territory, assignment, rule, run, job, API, 54.0]
 ---
-
-# Territory2AlignmentLog
 
 > Represents the start and end status of a territory assignment rule
          run job. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: flexible-hierarchy-bulk-validation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.258Z
+lastCollected: 2026-04-07T18:37:34.832Z
 estimatedTokens: 501
-keywords: [Flexible, Hierarchy, Bulk, Validation, POST, Validate, multiple, hierarchies, asynchronously, providing, IDs, applying, filter, criteria, selecting]
+keywords: [Flexible, Hierarchy, Bulk, Validation, POST, Validate, multiple, hierarchies, asynchronously, providing, IDs, applying, filter, criteria, selecting, draft]
 ---
-
-# Flexible Hierarchy Bulk Validation (POST)
 
 > Validate multiple flexible hierarchies asynchronously by providing a list of IDs,
       applying filter criteria, or selecting all draft hierarchies.

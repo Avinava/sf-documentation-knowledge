@@ -5,12 +5,10 @@ topic: catalogratespreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:56.802Z
+lastCollected: 2026-04-07T18:35:41.672Z
 estimatedTokens: 193
-keywords: [CatalogRatesPreferenceEnum, rate, card, entries, defined, catalog, fetched, quote, line, items, usage-based, selling, place, sales, transaction, order, creation, process, Usage]
+keywords: [CatalogRatesPreferenceEnum, rate, card, entries, defined, catalog, fetched, quote, line, items, usage-based, selling, place, sales, transaction, process, order, creation]
 ---
-
-# CatalogRatesPreferenceEnum Enum
 
 > Specifies the rate card entries defined in the catalog that must be fetched for quote
     line items, with usage-based selling during the place sales transaction process.

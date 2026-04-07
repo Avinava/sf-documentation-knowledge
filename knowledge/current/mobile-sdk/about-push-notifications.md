@@ -5,12 +5,10 @@ topic: about-push-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.926Z
+lastCollected: 2026-04-07T18:40:27.141Z
 estimatedTokens: 426
-keywords: [Push, Notifications, Salesforce, notification, service, develop, test, Mobile, SDK, custom, apps, APIs, implement, register, devices]
+keywords: [Push, Notifications, Salesforce, notification, service, develop, test, Mobile, SDK, apps, APIs, implement, register, devices, However, receiving, handling, remain, responsibility]
 ---
-
-# About Push Notifications
 
 > With the Salesforce notification service, you can develop and test push notifications in Mobile
    SDK custom apps. Mobile SDK provides APIs that you can implement to register devices with the push notification service.

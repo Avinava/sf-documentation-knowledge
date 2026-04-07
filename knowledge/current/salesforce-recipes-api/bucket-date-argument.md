@@ -5,12 +5,10 @@ topic: bucket-date-argument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.273Z
+lastCollected: 2026-04-07T18:39:18.960Z
 estimatedTokens: 108
 keywords: [Bucket, Date, Argument, recipe]
 ---
-
-# Bucket Date Argument
 
 > A date bucket argument for a recipe.
 

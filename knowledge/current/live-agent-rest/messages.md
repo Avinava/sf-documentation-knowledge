@@ -5,12 +5,10 @@ topic: messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.185Z
+lastCollected: 2026-04-07T18:38:06.430Z
 estimatedTokens: 626
-keywords: [Messages, were, sent, agents, chat, visitors, session, Troubleshooting]
+keywords: [Messages, Troubleshooting, were, sent, agents, chat, visitors, session]
 ---
-
-# Messages
 
 > Returns all messages that were sent between agents and
 chat visitors during a chat session.

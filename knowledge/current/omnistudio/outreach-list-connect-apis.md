@@ -5,12 +5,10 @@ topic: outreach-list-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.676Z
+lastCollected: 2026-04-07T18:36:43.415Z
 estimatedTokens: 125
-keywords: [Outreach, Connect, APIs, actionable, associated, metadata]
+keywords: [Outreach, Connect, APIs, actionable, metadata]
 ---
-
-# Outreach List Connect APIs
 
 > Use the Outreach List Connect APIs to get
     actionable lists and the associated metadata.

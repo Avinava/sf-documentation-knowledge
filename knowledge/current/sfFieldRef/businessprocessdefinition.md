@@ -5,12 +5,10 @@ topic: businessprocessdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:36.526Z
+lastCollected: 2026-04-07T18:39:30.744Z
 estimatedTokens: 300
-keywords: [BusinessProcessDefinition, Setup, stores, stages, customer, lifecycle, map, associated, surveys, questions, created, Salesforce]
+keywords: [BusinessProcessDefinition, Setup, stores, stages, customer, lifecycle, map, surveys, questions, created, Salesforce]
 ---
-
-# BusinessProcessDefinition
 
 > Setup object that stores information about stages in a customer lifecycle map.
       The stages are associated with surveys and questions created using Salesforce Surveys.

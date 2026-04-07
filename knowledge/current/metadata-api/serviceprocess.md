@@ -5,12 +5,10 @@ topic: serviceprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.198Z
+lastCollected: 2026-04-07T18:36:29.612Z
 estimatedTokens: 1826
-keywords: [ServiceProcess, process, created, Service, Studio, associated, attributes, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [ServiceProcess, ServiceProcessAttribute, ServiceProcessDependency, ServiceProcessItemGroup, process, created, Service, Studio, attributes, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ServiceProcess
 
 > Represents a process created in Service Process Studio and its
 			associated attributes.

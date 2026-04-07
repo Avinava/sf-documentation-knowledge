@@ -5,12 +5,10 @@ topic: logouteventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.557Z
+lastCollected: 2026-04-07T18:38:59.458Z
 estimatedTokens: 1165
-keywords: [LogoutEventStream, Tracks, user, logout, event, records, successful, org’s, can’t, retrieve, SOQL, query, API, version, 41.0]
+keywords: [LogoutEventStream, Tracks, user, logout, event, records, successful, org’s, can’t, retrieve, SOQL, query, API, 41.0, Subscribers, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# LogoutEventStream
 
 > Tracks user UI logout. A logout event records a successful user logout
 			from your org’s UI. This object is read only, and you can’t retrieve it using a SOQL

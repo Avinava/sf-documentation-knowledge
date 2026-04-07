@@ -5,12 +5,10 @@ topic: connectapiupvotesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.829Z
+lastCollected: 2026-04-07T18:36:12.108Z
 estimatedTokens: 68
 keywords: [ConnectApi.UpVoteSummary, Summary, upvote]
 ---
-
-# ConnectApi.UpVoteSummary
 
 > Summary of an upvote.
 

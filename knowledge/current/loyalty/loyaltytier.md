@@ -5,12 +5,10 @@ topic: loyaltytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.195Z
+lastCollected: 2026-04-07T18:38:10.453Z
 estimatedTokens: 1012
-keywords: [LoyaltyTier, tiers, loyalty, program, tier, group, sequential, order, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyTier, tiers, loyalty, program, tier, group, sequential, order, API, 51.0]
 ---
-
-# LoyaltyTier
 
 > Represents information about tiers of a loyalty program. A tier group
       has a set of tiers in a sequential order. This object is available in API version 51.0

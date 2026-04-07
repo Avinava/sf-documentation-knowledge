@@ -5,13 +5,11 @@ topic: industriesintegrationfwk-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.601Z
+lastCollected: 2026-04-07T18:36:36.148Z
 estimatedTokens: 310
 namespace: The
 keywords: [industriesintegrationfwk, interfaces, Industries, Send, Apex, Async, invocable, action, integration, framework, Continuation]
 ---
-
-# industriesintegrationfwk Namespace
 
 > The industriesintegrationfwk namespace provides
     interfaces for the Industries: Send Apex Async Request invocable action and for using the

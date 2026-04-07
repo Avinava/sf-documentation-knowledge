@@ -5,13 +5,11 @@ topic: engagements-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.047Z
+lastCollected: 2026-04-07T18:36:35.531Z
 estimatedTokens: 548
 namespace: DataRetrieval
 keywords: [Engagements, Stores, DataRetrieval.Engagement, records]
 ---
-
-# Engagements Class
 
 > Stores the a list of DataRetrieval.Engagement
     records.

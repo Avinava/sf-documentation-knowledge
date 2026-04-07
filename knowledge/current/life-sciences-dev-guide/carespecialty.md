@@ -5,12 +5,10 @@ topic: carespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.033Z
+lastCollected: 2026-04-07T18:37:59.689Z
 estimatedTokens: 886
-keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions, Physician, General, Surgery, Calls, Associated, Objects]
+keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions, Physician, General, Surgery]
 ---
-
-# CareSpecialty
 
 > Represents a listing of provider specialty codes and descriptions. For example,
         02 - Physician/General Surgery.

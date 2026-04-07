@@ -5,13 +5,11 @@ topic: successresult-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.132Z
+lastCollected: 2026-04-07T18:36:13.448Z
 estimatedTokens: 359
 namespace: EventBus
 keywords: [SuccessResult, result, Apex, publish, callback, event, publishing, succeeded, onSuccess, EventPublishSuccessCallback, getEventUuids]
 ---
-
-# SuccessResult Interface
 
 > Contains the result of an Apex publish callback when the event publishing succeeded.
         This interface is used as a parameter in the onSuccess

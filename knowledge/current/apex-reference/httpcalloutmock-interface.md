@@ -5,13 +5,11 @@ topic: httpcalloutmock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.181Z
+lastCollected: 2026-04-07T18:36:13.481Z
 estimatedTokens: 434
 namespace: System
-keywords: [HttpCalloutMock, sending, fake, responses, testing, HTTP, callouts, Usage, respond]
+keywords: [HttpCalloutMock, sending, fake, responses, testing, HTTP, callouts, respond]
 ---
-
-# HttpCalloutMock Interface
 
 > Enables sending fake responses when testing
 HTTP callouts.

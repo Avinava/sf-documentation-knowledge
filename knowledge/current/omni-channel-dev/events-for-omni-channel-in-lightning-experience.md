@@ -5,12 +5,10 @@ topic: events-for-omni-channel-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.404Z
+lastCollected: 2026-04-07T18:38:45.225Z
 estimatedTokens: 586
-keywords: [Events, Omni-Channel, Lightning, Experience, Console, JavaScript, API, executed, certain, occur, user, closes, tab, There, few]
+keywords: [Events, Omni-Channel, Lightning, Experience, Console, JavaScript, API, executed, certain, occur, user, closes, tab, There, few, specific, apply]
 ---
-
-# Events for Omni-Channel in Lightning Experience
 
 > Use these Lightning Console JavaScript API events for Omni-Channel. JavaScript can be
     executed when certain types of events occur in a console, such as when a user closes a tab.

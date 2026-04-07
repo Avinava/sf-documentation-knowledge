@@ -5,12 +5,10 @@ topic: invoke-underwriting-rules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.127Z
+lastCollected: 2026-04-07T18:37:48.860Z
 estimatedTokens: 258
-keywords: [Invoke, Underwriting, Rules, Action, different, insurance, records, run, time, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Invoke, Underwriting, Action, different, insurance, records, run, time, REST, HTTP]
 ---
-
-# Invoke Underwriting Rules Action
 
 > Invoke the underwriting rules for different insurance records during the
             run time.

@@ -5,12 +5,10 @@ topic: apexincludelightning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.585Z
+lastCollected: 2026-04-07T18:38:49.729Z
 estimatedTokens: 337
-keywords: [apex, includeLightning, Includes, Lightning, Components, Visualforce, JavaScript, library, lightning.out.js, correct, Salesforce, domain, Attributes]
+keywords: [Attributes, apex, includeLightning, Includes, Lightning, Visualforce, JavaScript, library, lightning.out.js, correct, Salesforce, domain]
 ---
-
-# apex:includeLightning
 
 > Includes the Lightning Components for Visualforce JavaScript library,
 				lightning.out.js, from the correct

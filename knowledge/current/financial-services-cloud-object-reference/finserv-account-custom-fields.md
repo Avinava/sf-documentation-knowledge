@@ -5,12 +5,10 @@ topic: finserv-account-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.808Z
+lastCollected: 2026-04-07T18:37:35.449Z
 estimatedTokens: 5027
-keywords: [FinServ, Account, Custom, individual, pertains, their, dealings, firm, review, frequency, service, tier, extend, standard, Financial]
+keywords: [FinServ, Account, individual, pertains, their, dealings, firm, review, frequency, service, tier, extend, standard, Financial, Services, Cloud]
 ---
-
-# FinServ Account Custom Fields
 
 > Represents information about an individual that pertains to their
    dealings with your firm, such as their review frequency or service tier. Custom fields extend the

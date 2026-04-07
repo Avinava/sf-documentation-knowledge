@@ -5,12 +5,10 @@ topic: consent-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.621Z
+lastCollected: 2026-04-07T18:37:57.125Z
 estimatedTokens: 167
-keywords: [Consent, Management, captures, honors, healthcare, provider, communication, preferences, across, subscriptions, channels, Increase, engagement, improve, relationships]
+keywords: [Consent, Management, captures, honors, healthcare, provider, communication, preferences, across, subscriptions, channels, Increase, engagement, improve, relationships, personalizing, communications, ensuring, privacy, compliance]
 ---
-
-# Consent Management
 
 > Consent Management captures and honors healthcare provider consent and communication
   preferences across subscriptions and channels. Increase engagement and improve relationships by

@@ -5,12 +5,10 @@ topic: chatteremailsmdsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.136Z
+lastCollected: 2026-04-07T18:36:23.436Z
 estimatedTokens: 895
-keywords: [ChatterEmailsMDSettings, org’s, settings, Chatter, email, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [ChatterEmailsMDSettings, org’s, settings, Chatter, email, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ChatterEmailsMDSettings
 
 > Represents an org’s settings for Chatter email when
       Chatter is enabled. This type extends the Metadata metadata type and inherits its fullName field.

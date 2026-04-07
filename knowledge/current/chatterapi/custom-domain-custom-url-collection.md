@@ -5,12 +5,10 @@ topic: custom-domain-custom-url-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.071Z
+lastCollected: 2026-04-07T18:37:18.147Z
 estimatedTokens: 251
-keywords: [Custom, Domain, URL, Collection, URLs, consists, path, prefix, unique, site, serve, content, least]
+keywords: [Domain, URL, Collection, URLs, consists, path, prefix, unique, site, serve, content, least]
 ---
-
-# Custom Domain Custom URL Collection
 
 > List of custom URLs for a custom domain. A custom URL consists of a domain, a custom
     path prefix, and a unique site path. For a domain to serve content from a site, at least one

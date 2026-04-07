@@ -5,12 +5,10 @@ topic: cpq-quote-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.307Z
+lastCollected: 2026-04-07T18:37:27.311Z
 estimatedTokens: 397
 keywords: [CPQ, Quote, API, Manage, quotes, quoting, actions]
 ---
-
-# CPQ Quote API
 
 > Manage quotes and quoting actions with CPQ quote API.
 

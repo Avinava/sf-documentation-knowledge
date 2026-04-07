@@ -5,12 +5,10 @@ topic: termrelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.110Z
+lastCollected: 2026-04-07T18:37:39.019Z
 estimatedTokens: 1170
-keywords: [TermRelatedObject, relationship, term, defined, API, version, 62.0, later, Digital, Lending, permission, Calls, Associated, Objects]
+keywords: [TermRelatedObject, relationship, term, defined, API, 62.0, Digital, Lending, permission]
 ---
-
-# TermRelatedObject
 
 > Represents the relationship between a term and the object for which the term
          is defined. This object is available in API version 62.0 and later. Available with

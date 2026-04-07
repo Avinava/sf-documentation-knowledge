@@ -5,12 +5,10 @@ topic: field-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.668Z
+lastCollected: 2026-04-07T18:37:57.184Z
 estimatedTokens: 220
-keywords: [Email, streamlines, creation, process, enhances, efficiency, ensures, professional, compliant, communication, aligns, brand, guidelines, Predefined, templates]
+keywords: [Email, streamlines, creation, process, enhances, efficiency, ensures, professional, compliant, communication, aligns, brand, guidelines, Predefined, templates, ensure, compliance, regulations, GDPR, CAN-SPAM, maintaining, consistency, Customization, options, dynamic, variables, content, fragments, allow, personalized, messages, resonate, recipients, key, performance, metrics, opens, clicks, users, optimize, their, campaigns, effectively]
 ---
-
-# Field Email
 
 > Field Email streamlines the email creation process, enhances efficiency, and ensures
   professional and compliant communication that aligns with brand guidelines. Predefined email

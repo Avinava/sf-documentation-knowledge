@@ -5,12 +5,10 @@ topic: get-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.543Z
+lastCollected: 2026-04-07T18:39:21.370Z
 estimatedTokens: 267
-keywords: [Service, Appointments, appointment, booked, Salesforce, Scheduler, AssignedResource, resource, assigned, Retrieve, IDs, scheduled, associated, specific, resources, query, ServiceAppointment, retrieve]
+keywords: [Service, Appointments, appointment, booked, Salesforce, Scheduler, AssignedResource, resource, assigned, Retrieve, IDs, scheduled, specific, resources, query, ServiceAppointment, retrieve]
 ---
-
-# Get Service Appointments
 
 > The AssignedResource object represents a
       service resource who is assigned to a service appointment in Salesforce Scheduler. Retrieve

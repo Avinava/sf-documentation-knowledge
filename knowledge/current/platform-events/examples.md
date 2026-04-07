@@ -5,12 +5,10 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.065Z
+lastCollected: 2026-04-07T18:38:57.904Z
 estimatedTokens: 275
 keywords: [Examples, Check, platform, event, apps—an, end-to-end, flows, Java, client, sample, app, covers, business, scenario]
 ---
-
-# Examples
 
 > Check out platform event apps—an end-to-end example using flows, a Java client,
   and a sample app that covers a business scenario.

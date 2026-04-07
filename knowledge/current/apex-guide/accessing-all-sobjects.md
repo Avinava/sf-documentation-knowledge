@@ -5,12 +5,10 @@ topic: accessing-all-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.342Z
+lastCollected: 2026-04-07T18:36:17.575Z
 estimatedTokens: 532
 keywords: [Accessing, sObjects, Schema, getGlobalDescribe, map, relationship, sObject, keys, tokens]
 ---
-
-# Accessing All sObjects
 
 > Use the Schema getGlobalDescribe method to return a map that represents the relationship between
 all sObject names (keys) to sObject tokens (values). For example:

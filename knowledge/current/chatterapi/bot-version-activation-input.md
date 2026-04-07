@@ -5,12 +5,10 @@ topic: bot-version-activation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.620Z
+lastCollected: 2026-04-07T18:37:07.338Z
 estimatedTokens: 104
-keywords: [Bot, Version, Activation, Input]
+keywords: [Bot, Activation]
 ---
-
-# Bot Version Activation Input
 
 > Activation information for the bot version.
 

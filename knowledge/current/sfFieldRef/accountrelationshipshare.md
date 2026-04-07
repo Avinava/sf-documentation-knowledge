@@ -5,12 +5,10 @@ topic: accountrelationshipshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.348Z
+lastCollected: 2026-04-07T18:39:24.291Z
 estimatedTokens: 252
 keywords: [AccountRelationshipShare, Sharing, AccountRelationship]
 ---
-
-# AccountRelationshipShare
 
 > Sharing for AccountRelationship.
 

@@ -5,12 +5,10 @@ topic: sample-commission-calculations-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.320Z
+lastCollected: 2026-04-07T18:40:12.341Z
 estimatedTokens: 444
 keywords: [Sample, Commission, Calculations, Formulas, calculate, amounts, Opportunities, Deal, Size, Greater, Equal, Maximum]
 ---
-
-# Sample Commission Calculations Formulas
 
 > Use these formulas to calculate commission amounts.
 

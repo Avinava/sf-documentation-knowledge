@@ -5,12 +5,10 @@ topic: request-an-extension-for-a-test-drive-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.961Z
+lastCollected: 2026-04-07T18:38:46.920Z
 estimatedTokens: 244
 keywords: [Extension, Test, Drive, Org, orgs, expire, year, prevent, expiring, log, support, case]
 ---
-
-# Request an Extension for a Test Drive Org
 
 > Test drive orgs expire after 1 year. To prevent a test drive from expiring, log a
   support case to request an extension.

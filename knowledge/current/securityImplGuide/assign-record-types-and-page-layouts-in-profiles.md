@@ -5,12 +5,10 @@ topic: assign-record-types-and-page-layouts-in-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.275Z
+lastCollected: 2026-04-07T18:39:23.209Z
 estimatedTokens: 320
 keywords: [Assign, Record, Layouts, Profiles, Configure, layout, assignment, mappings, users, view, records]
 ---
-
-# Assign Record Types and Page Layouts in Profiles
 
 > Configure the record type and page layout assignment mappings that are used when users
     view records.

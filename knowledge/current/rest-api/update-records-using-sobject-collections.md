@@ -5,12 +5,10 @@ topic: update-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.351Z
+lastCollected: 2026-04-07T18:36:20.580Z
 estimatedTokens: 700
-keywords: [Records, sObject, Collections, PATCH, returning, SaveResult, objects, choose, whether, roll, back, entire, error, occurs]
+keywords: [Records, sObject, Collections, PATCH, returning, SaveResult, choose, whether, roll, back, entire, error, occurs]
 ---
-
-# Update Records Using sObject Collections
 
 > Use a PATCH request with sObject Collections to update up to 200 records, returning a
       list of SaveResult objects. You can choose whether to roll back the entire request when an

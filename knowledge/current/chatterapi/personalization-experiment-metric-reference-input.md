@@ -5,12 +5,10 @@ topic: personalization-experiment-metric-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.795Z
+lastCollected: 2026-04-07T18:37:09.515Z
 estimatedTokens: 149
-keywords: [Personalization, Experiment, Metric, Input, metrics, additional, performance, behavior, insights]
+keywords: [Personalization, Experiment, Metric, metrics, additional, performance, behavior, insights]
 ---
-
-# Personalization Experiment Metric Reference Input
 
 > Defines the metrics for additional performance and behavior insights.
 

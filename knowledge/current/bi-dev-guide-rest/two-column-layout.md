@@ -5,12 +5,10 @@ topic: two-column-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.338Z
+lastCollected: 2026-04-07T18:36:57.898Z
 estimatedTokens: 131
 keywords: [Two, Column, Layout, Analytics, template, wizard]
 ---
-
-# Two Column Layout
 
 > A two column layout for an Analytics template wizard page.
 

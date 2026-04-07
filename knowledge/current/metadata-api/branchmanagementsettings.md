@@ -5,12 +5,10 @@ topic: branchmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.828Z
+lastCollected: 2026-04-07T18:36:23.101Z
 estimatedTokens: 536
-keywords: [BranchManagementSettings, branch, management, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, Access, File, Suffix, Directory]
+keywords: [BranchManagementSettings, branch, management, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support]
 ---
-
-# BranchManagementSettings
 
 > Represents the branch management settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 

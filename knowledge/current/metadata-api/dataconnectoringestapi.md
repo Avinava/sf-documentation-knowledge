@@ -5,12 +5,10 @@ topic: dataconnectoringestapi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.013Z
+lastCollected: 2026-04-07T18:36:24.353Z
 estimatedTokens: 509
-keywords: [DataConnectorIngestApi, connection, specific, Ingestion, API, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
+keywords: [DataConnectorIngestApi, connection, specific, Ingestion, API, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataConnectorIngestApi
 
 > Represents the connection information specific to Ingestion
 			API.

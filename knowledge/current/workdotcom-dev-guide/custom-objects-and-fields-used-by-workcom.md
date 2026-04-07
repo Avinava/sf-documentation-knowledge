@@ -5,12 +5,10 @@ topic: custom-objects-and-fields-used-by-workcom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.904Z
+lastCollected: 2026-04-07T18:40:13.884Z
 estimatedTokens: 2210
-keywords: [Custom, Objects, Work.com, data, model, includes, several]
+keywords: [Work.com, model, includes, several]
 ---
-
-# Custom Objects and Fields Used by Work.com
 
 > The Work.com data model includes several custom objects and fields.
 

@@ -5,12 +5,10 @@ topic: contactpointsocial
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.103Z
+lastCollected: 2026-04-07T18:37:59.766Z
 estimatedTokens: 1117
-keywords: [ContactPointSocial, social, media, identifiers, contact, points, individual, account, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ContactPointSocial, social, media, identifiers, contact, points, individual, account, API, 65.0]
 ---
-
-# ContactPointSocial
 
 > Represents social media identifiers or contact points for an
          individual or account. This object is available in API version 65.0 and

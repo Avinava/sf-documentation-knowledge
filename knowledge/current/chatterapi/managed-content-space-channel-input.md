@@ -5,12 +5,10 @@ topic: managed-content-space-channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.183Z
+lastCollected: 2026-04-07T18:37:08.960Z
 estimatedTokens: 207
-keywords: [Managed, Content, Space, Channel, Input, add, remove]
+keywords: [Managed, Content, Space, Channel, add, remove]
 ---
-
-# Managed Content Space Channel Input
 
 > Channel to add or remove from a managed content space.
 

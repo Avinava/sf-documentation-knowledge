@@ -5,12 +5,10 @@ topic: unifiedtaskparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.422Z
+lastCollected: 2026-04-07T18:38:43.164Z
 estimatedTokens: 487
-keywords: [UnifiedTaskParticipant, participant, task, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access, Rules]
+keywords: [UnifiedTaskParticipant, participant, task, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedTaskParticipant
 
 > Represents a participant in a task. This object is available for
       reports and dashboards in the Winter ’24 release and later.

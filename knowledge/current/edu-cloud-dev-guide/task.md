@@ -5,12 +5,10 @@ topic: task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.620Z
+lastCollected: 2026-04-07T18:37:29.696Z
 estimatedTokens: 272
-keywords: [Task, Output, representation, individual, hold, result, items]
+keywords: [Task, individual, hold, result, items]
 ---
-
-# Task
 
 > Output representation of the task information related to individual hold result
     items.

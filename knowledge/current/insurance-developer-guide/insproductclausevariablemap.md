@@ -5,12 +5,10 @@ topic: insproductclausevariablemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.149Z
+lastCollected: 2026-04-07T18:37:53.434Z
 estimatedTokens: 513
-keywords: [InsProductClauseVariableMap, mapping, token, defined, insurance, clause, product, attributes, populate, runtime, Free, Look, customer, cancel, policy]
+keywords: [InsProductClauseVariableMap, mapping, token, defined, insurance, clause, product, attributes, populate, runtime, Free, Look, customer, cancel, policy, certain, number, days, variable, that's, populated, product-specific, API, 65.0]
 ---
-
-# InsProductClauseVariableMap
 
 > Represents the mapping between a token defined in an insurance clause and the
          product attributes that populate the token value at runtime. For example, a Free Look

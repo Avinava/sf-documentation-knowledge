@@ -5,12 +5,10 @@ topic: selected-search-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.948Z
+lastCollected: 2026-04-07T18:37:42.104Z
 estimatedTokens: 114
-keywords: [Selected, Search, Result, Output]
+keywords: [Selected, Search, Result]
 ---
-
-# Selected Search Result Output
 
 > Represents the selected search result.
 

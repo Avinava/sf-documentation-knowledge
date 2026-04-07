@@ -5,12 +5,10 @@ topic: create-a-custom-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:33.075Z
+lastCollected: 2026-04-07T18:36:18.301Z
 estimatedTokens: 490
-keywords: [Custom, step, Book, Price]
+keywords: [step, Book, Price]
 ---
-
-# Create a Custom Object
 
 > In this step, you create a custom object called Book with one custom field called
         Price.

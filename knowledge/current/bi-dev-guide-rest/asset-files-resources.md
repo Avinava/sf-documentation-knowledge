@@ -5,12 +5,10 @@ topic: asset-files-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.997Z
+lastCollected: 2026-04-07T18:36:55.426Z
 estimatedTokens: 253
 keywords: [Asset, Files, Resources, Analytics, assets, contain, define, their, previews, collection, individual]
 ---
-
-# Asset Files Resources
 
 > Analytics assets contain files to define their previews. Get a collection of files available and individual files, and create and update asset files
 

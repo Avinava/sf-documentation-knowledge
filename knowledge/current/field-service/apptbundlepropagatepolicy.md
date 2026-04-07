@@ -5,12 +5,10 @@ topic: apptbundlepropagatepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.328Z
+lastCollected: 2026-04-07T18:36:47.202Z
 estimatedTokens: 884
-keywords: [ApptBundlePropagatePolicy, Policy, inherited, bundle, members, assigned, constant, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ApptBundlePropagatePolicy, Policy, inherited, bundle, members, assigned, constant, API, 55.0]
 ---
-
-# ApptBundlePropagatePolicy
 
 > Policy that defines which property values are inherited from the
          bundle to the bundle members or are assigned as constant values in the bundle members.

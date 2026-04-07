@@ -5,12 +5,10 @@ topic: post-messagingv1smsmessagesmessagekey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:24.949Z
+lastCollected: 2026-04-07T18:40:20.169Z
 estimatedTokens: 700
-keywords: [POST, messaging, sms, messages, messageKey, message, recipient, via, send, definition, path, **Overview**, Usage, HTTP, Responses]
+keywords: [POST, messaging, sms, messages, messageKey, message, recipient, via, send, definition, path, **Overview**, HTTP, Responses]
 ---
-
-# POST /messaging/v1/sms/messages/{messageKey}
 
 > Sends a message to a single recipient via a send definition using a messageKey path parameter.
 

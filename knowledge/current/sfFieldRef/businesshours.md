@@ -5,12 +5,10 @@ topic: businesshours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.382Z
+lastCollected: 2026-04-07T18:39:30.593Z
 estimatedTokens: 498
-keywords: [BusinessHours, business, hours, support, organization, Escalation, rules, run]
+keywords: [BusinessHours, business, hours, support, organization, Escalation, run]
 ---
-
-# BusinessHours
 
 > Specifies the business hours of your support organization. Escalation
       rules are run only during these hours.

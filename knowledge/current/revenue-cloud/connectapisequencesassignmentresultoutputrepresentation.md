@@ -5,12 +5,10 @@ topic: connectapisequencesassignmentresultoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.792Z
+lastCollected: 2026-04-07T18:35:41.662Z
 estimatedTokens: 192
-keywords: [Output, representation, assigned, sequence, target, objects]
+keywords: [assigned, sequence, target]
 ---
-
-# ConnectApi.SequencesAssignmentResultOutputRepresentation
 
 > Output representation of the details of the assigned sequence values to target
     objects.

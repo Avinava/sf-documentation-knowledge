@@ -5,12 +5,10 @@ topic: sustainabilitypurchase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.139Z
+lastCollected: 2026-04-07T18:38:19.814Z
 estimatedTokens: 1305
-keywords: [SustainabilityPurchase, sustainability, credits, purchases, carbon, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [SustainabilityPurchase, sustainability, credits, purchases, carbon, API, 56.0]
 ---
-
-# SustainabilityPurchase
 
 > Represents information related to the sustainability credits purchases such
          as carbon credits. This object is available in API version 56.0 and later.

@@ -5,13 +5,11 @@ topic: flowexecutionerrorevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.184Z
+lastCollected: 2026-04-07T18:38:59.066Z
 estimatedTokens: 1008
 namespace: Type
-keywords: [FlowExecutionErrorEvent, Notifies, subscribers, errors, screen, flow, executions, API, version, 47.0, later, Calls, Event, Delivery, Allocation]
+keywords: [FlowExecutionErrorEvent, Notifies, subscribers, errors, screen, flow, executions, API, 47.0, Event, Delivery, Allocation, Enforced]
 ---
-
-# FlowExecutionErrorEvent
 
 > Notifies subscribers of errors related to screen flow executions.
 		This object is available in API version 47.0 and later.

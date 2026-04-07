@@ -5,12 +5,10 @@ topic: service-appointment-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.411Z
+lastCollected: 2026-04-07T18:39:20.118Z
 estimatedTokens: 753
-keywords: [Service, Appointment, Input, representation, updating, scheduled, times, assigned, resource, territory, work, appointments, Limitations]
+keywords: [Limitations, Service, Appointment, updating, scheduled, times, assigned, resource, territory, work, appointments]
 ---
-
-# Service Appointment Update Input
 
 > Input representation for updating a service appointment. Use to update
       the scheduled times, assigned resource(s), service territory or even work type for existing

@@ -5,12 +5,10 @@ topic: goaldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.682Z
+lastCollected: 2026-04-07T18:39:06.809Z
 estimatedTokens: 958
-keywords: [GoalDefinition, definition, care, plan, goal, reusable, PGI, library, that’s, part, Integrated, Management, instantiated, records, GoalAssignment]
+keywords: [GoalDefinition, definition, care, plan, goal, reusable, PGI, library, that’s, part, Integrated, Management, instantiated, records, GoalAssignment, serve, goals, plans, API, 57.0]
 ---
-
-# GoalDefinition
 
 > The definition of a care plan goal in the reusable PGI library that’s a part
          of Integrated Care Management. When instantiated, GoalDefinition records create

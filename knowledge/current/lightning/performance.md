@@ -5,12 +5,10 @@ topic: performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.704Z
+lastCollected: 2026-04-07T18:38:04.850Z
 estimatedTokens: 216
 keywords: [Performance, There, few, settings, techniques, help, improve, application]
 ---
-
-# Performance
 
 > There are a few settings and techniques that can help you to improve application
   performance.

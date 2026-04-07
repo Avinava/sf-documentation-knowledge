@@ -5,12 +5,10 @@ topic: tax-treatment-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.711Z
+lastCollected: 2026-04-07T18:35:50.597Z
 estimatedTokens: 631
-keywords: [Tax, Treatment, Item, code, that’s, calculate, product, specific, engine, API, version, 66.0, later, Calls, Special]
+keywords: [Tax, Treatment, Item, code, that’s, calculate, product, specific, engine, API, 66.0]
 ---
-
-# Tax Treatment Item
 
 > Represents tax code information that’s used to calculate tax for a
          product by a specific tax engine. This object is available in API version 66.0 and

@@ -5,12 +5,10 @@ topic: story-field-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.573Z
+lastCollected: 2026-04-07T18:37:00.074Z
 estimatedTokens: 73
-keywords: [Story, data]
+keywords: [Story]
 ---
-
-# Story Field Only
 
 > The story data field property.
 

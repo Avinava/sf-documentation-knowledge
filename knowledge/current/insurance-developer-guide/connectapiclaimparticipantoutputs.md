@@ -5,12 +5,10 @@ topic: connectapiclaimparticipantoutputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.387Z
+lastCollected: 2026-04-07T18:37:50.221Z
 estimatedTokens: 81
-keywords: [ConnectApi.ClaimParticipantOutputs, Invocable, action, output, representation, wrapper, claim, participants]
+keywords: [ConnectApi.ClaimParticipantOutputs, Invocable, action, wrapper, claim, participants]
 ---
-
-# ConnectApi.ClaimParticipantOutputs
 
 > Invocable action output representation for a wrapper that contains a list of claim
     participants.

@@ -5,12 +5,10 @@ topic: club-member-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.207Z
+lastCollected: 2026-04-07T18:38:07.434Z
 estimatedTokens: 429
 keywords: [Club, Member, Enrollment, Enroll, members, manage, their, including, membership, numbers, renewal, periods, end, dates]
 ---
-
-# Club Member Enrollment
 
 > Enroll members in a club and manage their details, including membership numbers,
     renewal periods, and end dates.

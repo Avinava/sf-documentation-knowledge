@@ -5,12 +5,10 @@ topic: flexible-hierarchy-bulk-validation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.477Z
+lastCollected: 2026-04-07T18:37:35.089Z
 estimatedTokens: 98
-keywords: [Flexible, Hierarchy, Bulk, Validation, Output, representation, display, status]
+keywords: [Flexible, Hierarchy, Bulk, Validation, display, status]
 ---
-
-# Flexible Hierarchy Bulk Validation Details
 
 > Output representation to display the status of bulk validation request.
 

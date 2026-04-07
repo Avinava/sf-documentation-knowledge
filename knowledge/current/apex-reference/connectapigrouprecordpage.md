@@ -5,12 +5,10 @@ topic: connectapigrouprecordpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.393Z
+lastCollected: 2026-04-07T18:36:06.745Z
 estimatedTokens: 171
-keywords: [ConnectApi.GroupRecordPage, paginated, ConnectApi.GroupRecord, objects]
+keywords: [ConnectApi.GroupRecordPage, paginated, ConnectApi.GroupRecord]
 ---
-
-# ConnectApi.GroupRecordPage
 
 > A paginated list of ConnectApi.GroupRecord
     objects.

@@ -5,12 +5,10 @@ topic: connectapizone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.026Z
+lastCollected: 2026-04-07T18:36:12.308Z
 estimatedTokens: 255
 keywords: [ConnectApi.Zone, Chatter, Answers, zone]
 ---
-
-# ConnectApi.Zone
 
 > Information about a Chatter Answers zone.
 

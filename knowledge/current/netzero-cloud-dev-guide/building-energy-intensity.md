@@ -5,12 +5,10 @@ topic: building-energy-intensity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.025Z
+lastCollected: 2026-04-07T18:38:16.593Z
 estimatedTokens: 765
-keywords: [Building, Energy, Intensity, BEI, average, fuel, across, buildings, derive, data, published, sources, records, source, setting]
+keywords: [Building, Energy, Intensity, BEI, average, fuel, across, buildings, derive, published, sources, records, source, setting, window, time, characteristics, size]
 ---
-
-# Building Energy Intensity
 
 > The
     Building Energy Intensity (BEI) object represents the average energy intensity by fuel type

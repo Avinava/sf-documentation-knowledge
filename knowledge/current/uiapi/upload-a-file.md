@@ -5,12 +5,10 @@ topic: upload-a-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.373Z
+lastCollected: 2026-04-07T18:40:11.364Z
 estimatedTokens: 375
 keywords: [Upload, File, document, image]
 ---
-
-# Upload a File
 
 > Upload a file such as a document or image.
 

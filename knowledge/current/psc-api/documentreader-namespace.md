@@ -5,13 +5,11 @@ topic: documentreader-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.584Z
+lastCollected: 2026-04-07T18:39:00.698Z
 estimatedTokens: 998
 namespace: DocumentReader
-keywords: [DocumentReader, classes, storing, output, Intelligent, Document, Reader, flow, actions, Apex, store, text, extracted, uploaded, documents]
+keywords: [DocumentReader, classes, storing, Intelligent, Document, Reader, flow, actions, Apex, store, text, extracted, uploaded, documents, content, IDs, active, OCR, template]
 ---
-
-# DocumentReader Namespace
 
 > The DocumentReader namespace contains classes
     for storing the output parameters of the Intelligent Document Reader flow actions. The Apex

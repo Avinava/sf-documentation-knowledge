@@ -5,12 +5,10 @@ topic: notification-type-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.955Z
+lastCollected: 2026-04-07T18:37:21.128Z
 estimatedTokens: 118
 keywords: [Notification, Collection]
 ---
-
-# Notification Type Collection
 
 > Collection of notification types.
 

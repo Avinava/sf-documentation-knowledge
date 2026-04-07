@@ -5,12 +5,10 @@ topic: navigation-and-messaging-with-the-sforceone-object-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.462Z
+lastCollected: 2026-04-07T18:38:52.769Z
 estimatedTokens: 2364
-keywords: [Navigation, Messaging, sforce.one, Salesforce, Platform, includes, event, mechanism, exposed, Visualforce, JavaScript, It’s, any, appears, mobile]
+keywords: [Navigation, Messaging, sforce.one, Salesforce, Platform, includes, event, mechanism, exposed, Visualforce, JavaScript, It’s, any, appears, mobile, app]
 ---
-
-# Navigation and Messaging with the  sforce.one Object Object
 
 > The Salesforce Platform includes an event mechanism for navigation and messaging. This
     is exposed in Visualforce as a JavaScript object called sforce.one. It’s available in any page that appears in the Salesforce mobile

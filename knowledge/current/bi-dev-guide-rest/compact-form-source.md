@@ -5,12 +5,10 @@ topic: compact-form-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.289Z
+lastCollected: 2026-04-07T18:36:56.834Z
 estimatedTokens: 197
 keywords: [Compact, Form, Source, query]
 ---
-
-# Compact Form Source
 
 > A compact form source for a query.
 

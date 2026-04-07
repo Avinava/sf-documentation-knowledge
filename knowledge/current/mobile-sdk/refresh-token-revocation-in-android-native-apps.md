@@ -5,12 +5,10 @@ topic: refresh-token-revocation-in-android-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.437Z
+lastCollected: 2026-04-07T18:40:26.712Z
 estimatedTokens: 139
 keywords: [Refresh, Token, Revocation, Android, Native, Apps, revoked, administrator, behavior, automatically, log, current, user, result]
 ---
-
-# Refresh Token Revocation in Android Native Apps
 
 > When a refresh token is revoked by an administrator, the default behavior is to
          automatically log out the current user. As a result of this behavior:

@@ -5,12 +5,10 @@ topic: planbenefititem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.083Z
+lastCollected: 2026-04-07T18:37:47.699Z
 estimatedTokens: 1768
-keywords: [PlanBenefitItem, benefit, under, purchaser’s, plan, offered, their, members, Calls, Associated, Objects]
+keywords: [PlanBenefitItem, benefit, under, purchaser’s, plan, offered, their, members]
 ---
-
-# PlanBenefitItem
 
 > Represents the details of a benefit available under a purchaser’s
 			plan that is offered to their members.

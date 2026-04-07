@@ -5,12 +5,10 @@ topic: devops-center-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:41.459Z
+lastCollected: 2026-04-07T18:37:28.480Z
 estimatedTokens: 80
 keywords: [DevOps, Center, Release, Notes, team, releases, new, features, product, enhancements, bug, fixes, regular, basis]
 ---
-
-# DevOps Center Release Notes
 
 > The DevOps Center team releases new features, product enhancements, and bug fixes on a regular basis.
 

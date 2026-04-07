@@ -5,12 +5,10 @@ topic: component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.295Z
+lastCollected: 2026-04-07T18:38:52.605Z
 estimatedTokens: 335
-keywords: [$Component, merge, referencing, Visualforce, component, Usage]
+keywords: [$Component, merge, referencing, Visualforce]
 ---
-
-# $Component
 
 > A global merge field type to use when referencing a Visualforce
         component.

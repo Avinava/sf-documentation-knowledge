@@ -5,12 +5,10 @@ topic: faq
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.385Z
+lastCollected: 2026-04-07T18:36:51.725Z
 estimatedTokens: 1263
-keywords: [FAQ, answers, frequently, asked, questions, installing, apps, Lightning, Platform, AppExchange, uninstall, packages, installed, Why, did]
+keywords: [FAQ, answers, frequently, asked, questions, installing, apps, Lightning, Platform, AppExchange, uninstall, packages, installed, Why, did, installation, upgrade, fail, customize, How, package, secure, install, happens, prefix, reinstall, uninstalling, that’s, listed, tabs, count, against, limits, Salesforce, edition]
 ---
-
-# FAQ
 
 > A list of answers to frequently asked questions about installing apps from Lightning
   Platform AppExchange.

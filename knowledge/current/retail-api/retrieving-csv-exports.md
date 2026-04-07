@@ -5,12 +5,10 @@ topic: retrieving-csv-exports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.358Z
+lastCollected: 2026-04-07T18:39:11.895Z
 estimatedTokens: 199
-keywords: [Retrieving, CSV, Exports, binary, file, saved, locally, ending, csv.gz, zipped, extracted, Endpoint, HTTP]
+keywords: [Endpoint, Retrieving, CSV, Exports, binary, file, saved, locally, ending, csv.gz, zipped, extracted, HTTP]
 ---
-
-# Retrieving CSV Exports
 
 > The response body is a binary file and can be saved locally. This file with the ending csv.gz is a zipped CSV file, so it must be extracted first.
 

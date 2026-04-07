@@ -5,12 +5,10 @@ topic: collaboration-room-notification-recipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.237Z
+lastCollected: 2026-04-07T18:36:56.798Z
 estimatedTokens: 76
 keywords: [Collaboration, Room, Notification, Recipient, Slack]
 ---
-
-# Collaboration Room Notification Recipient
 
 > The Slack recipient of a notification.
 

@@ -5,12 +5,10 @@ topic: caretaskdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.825Z
+lastCollected: 2026-04-07T18:37:46.396Z
 estimatedTokens: 797
-keywords: [CareTaskDetail, extra, healthcare-related, task, detail, record, code, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [CareTaskDetail, extra, healthcare-related, task, detail, record, code, API, 61.0]
 ---
-
-# CareTaskDetail
 
 > Represents extra details about a healthcare-related task such as the detail
          type, detail record, detail code, and detail value. This object is available in API

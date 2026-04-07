@@ -5,12 +5,10 @@ topic: changerequestrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.844Z
+lastCollected: 2026-04-07T18:38:27.779Z
 estimatedTokens: 816
-keywords: [ChangeRequestRelatedItem, junction, relates, ChangeRequest, Asset, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [ChangeRequestRelatedItem, junction, relates, ChangeRequest, Asset, API, 53.0]
 ---
-
-# ChangeRequestRelatedItem
 
 > Represents a junction object that relates a ChangeRequest to an Asset.
       This object is available in API version 53.0 and later.

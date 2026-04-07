@@ -5,12 +5,10 @@ topic: list-your-app-in-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.170Z
+lastCollected: 2026-04-07T18:40:21.450Z
 estimatedTokens: 370
 keywords: [App, AppExchange, package, sign, Partner, Community, walk, steps, Marketing, Cloud, Account, Manager, Items]
 ---
-
-# List Your App in AppExchange
 
 > To list your package as an app on AppExchange, sign up for the Partner Community and walk through these steps with your Marketing Cloud Partner Account Manager.
 

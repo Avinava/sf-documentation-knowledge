@@ -5,12 +5,10 @@ topic: groupcensusmemberplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.573Z
+lastCollected: 2026-04-07T18:39:43.125Z
 estimatedTokens: 392
-keywords: [GroupCensusMemberPlan, association, GroupCensusMember, ContractGroupPlan, entity, census, data, includes, previous, member, enrollment, plan, new, populate, reading]
+keywords: [GroupCensusMemberPlan, association, GroupCensusMember, ContractGroupPlan, entity, census, includes, previous, member, enrollment, plan, new, populate, reading, services, creating, insurance, policies, API, 55.0]
 ---
-
-# GroupCensusMemberPlan
 
 > Represents the association of GroupCensusMember and ContractGroupPlan. Use this entity when census data includes previous member enrollment plan details and new member plan details. You can populate GroupCensusMemberPlan by reading the enrollment census in the enrollment services before creating insurance policies. This object is available in API version 55.0 and later.
 

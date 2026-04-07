@@ -5,12 +5,10 @@ topic: min
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.922Z
+lastCollected: 2026-04-07T18:37:00.436Z
 estimatedTokens: 120
 keywords: [min, minimum, dimension, measure, Smallest, Opportunity, Account, Airline, Destinations, per, Origin]
 ---
-
-# min()
 
 > Returns the minimum value of a dimension or measure field.
 

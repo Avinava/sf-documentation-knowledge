@@ -5,12 +5,10 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.361Z
+lastCollected: 2026-04-07T18:36:28.854Z
 estimatedTokens: 629
-keywords: [Prerequisites, strongly, recommend, sandbox, exact, replica, production, organization, Enterprise, Unlimited, Performance, Editions, come, free, developer, start, developing, Metadata, API]
+keywords: [Prerequisites, strongly, recommend, sandbox, exact, replica, production, organization, Enterprise, Unlimited, Performance, Editions, come, free, developer, sandboxes, http, www.salesforce.com, platform, cloud-infras, start, developing, Metadata, API]
 ---
-
-# Prerequisites
 
 > We strongly recommend that you use a sandbox, which
             is an exact replica of your production organization. Enterprise, Unlimited, and

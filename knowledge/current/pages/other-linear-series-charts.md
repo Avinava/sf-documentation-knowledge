@@ -5,12 +5,10 @@ topic: other-linear-series-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.776Z
+lastCollected: 2026-04-07T18:38:48.717Z
 estimatedTokens: 864
-keywords: [Linear, Series, Charts, data, include, <apex, areaSeries>, lineSeries>, scatterSeries>]
+keywords: [Linear, Series, Charts, include, <apex, areaSeries>, lineSeries>, scatterSeries>]
 ---
-
-# Other Linear Series Charts
 
 > Other linear data series charts include <apex:areaSeries>, <apex:lineSeries>, and <apex:scatterSeries>.
 

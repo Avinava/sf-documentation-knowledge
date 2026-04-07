@@ -5,12 +5,10 @@ topic: insurance-policy-limit-current-standings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.966Z
+lastCollected: 2026-04-07T18:37:50.899Z
 estimatedTokens: 316
-keywords: [Insurance, Policy, Limit, Current, Standings, Input, representation, limits]
+keywords: [Insurance, Policy, Limit, Current, Standings, limits]
 ---
-
-# Insurance Policy Limit Current Standings Input
 
 > Input representation for the current standings of the insurance policy limits.
 

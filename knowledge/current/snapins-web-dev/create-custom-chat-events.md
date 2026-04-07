@@ -5,12 +5,10 @@ topic: create-custom-chat-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.570Z
+lastCollected: 2026-04-07T18:40:09.517Z
 estimatedTokens: 1814
-keywords: [Custom, Chat, Events, let, own, communication, channel, customers, agent, console, send, receive, JavaScript, CSS, files]
+keywords: [Chat, Events, let, own, communication, channel, customers, agent, console, send, receive, JavaScript, CSS, files, Event, Customer]
 ---
-
-# Create Custom Chat Events
 
 > Custom chat events let you have your own communication channel with your customers using
   the agent console to send and receive your own chat events. Create custom events using your own

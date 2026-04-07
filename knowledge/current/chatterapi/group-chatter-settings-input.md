@@ -5,12 +5,10 @@ topic: group-chatter-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.819Z
+lastCollected: 2026-04-07T18:37:08.633Z
 estimatedTokens: 147
-keywords: [Group, Chatter, Settings, Input]
+keywords: [Group, Chatter, Settings]
 ---
-
-# Group Chatter Settings Input
 
 > Group Chatter settings input.
 

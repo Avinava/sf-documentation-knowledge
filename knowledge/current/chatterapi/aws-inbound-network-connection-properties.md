@@ -5,12 +5,10 @@ topic: aws-inbound-network-connection-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.821Z
+lastCollected: 2026-04-07T18:37:16.888Z
 estimatedTokens: 141
 keywords: [AWS, Inbound, Network, Connection]
 ---
-
-# AWS Inbound Network Connection Properties
 
 > AWS inbound network connection properties.
 

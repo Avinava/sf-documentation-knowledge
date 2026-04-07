@@ -5,12 +5,10 @@ topic: individualapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.999Z
+lastCollected: 2026-04-07T18:39:44.587Z
 estimatedTokens: 691
-keywords: [IndividualApplication, application, form, submitted, individual, organization, API, version, 50.0, later]
+keywords: [IndividualApplication, application, form, submitted, individual, organization, API, 50.0]
 ---
-
-# IndividualApplication
 
 > Represents an application form submitted by an individual or
          organization. This object is available in API version 50.0 and later.

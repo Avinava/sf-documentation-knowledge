@@ -5,12 +5,10 @@ topic: insurance-quote-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.738Z
+lastCollected: 2026-04-07T18:37:51.805Z
 estimatedTokens: 593
-keywords: [Insurance, Quote, POST, Generate, quote-ready, context, multiple, ways, API, accepts, user, inputs, generates, runs, rules]
+keywords: [Insurance, Quote, POST, Generate, quote-ready, context, multiple, ways, API, accepts, user, inputs, generates, runs, pricing, prorates, run, Alternatively, accept, prorate]
 ---
-
-# Insurance Quote (POST)
 
 > Generate a quote or quote-ready context in multiple ways. The API accepts user inputs,
     generates context, runs rules and pricing, prorates, and then returns a quote ID. The API can

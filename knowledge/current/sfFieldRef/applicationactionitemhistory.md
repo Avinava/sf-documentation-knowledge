@@ -5,12 +5,10 @@ topic: applicationactionitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.236Z
+lastCollected: 2026-04-07T18:39:26.185Z
 estimatedTokens: 271
-keywords: [ApplicationActionItemHistory, History, tracked, ApplicationActionItem]
+keywords: [ApplicationActionItemHistory, tracked, ApplicationActionItem]
 ---
-
-# ApplicationActionItemHistory
 
 > History for tracked fields of ApplicationActionItem.
 

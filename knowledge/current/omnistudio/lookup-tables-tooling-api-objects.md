@@ -5,12 +5,10 @@ topic: lookup-tables-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.521Z
+lastCollected: 2026-04-07T18:36:42.228Z
 estimatedTokens: 288
-keywords: [Lookup, Tables, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
+keywords: [Lookup, Tables, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
-
-# Lookup Tables Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

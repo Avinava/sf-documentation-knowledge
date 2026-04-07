@@ -5,12 +5,10 @@ topic: adspacegroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.139Z
+lastCollected: 2026-04-07T18:38:12.427Z
 estimatedTokens: 617
-keywords: [AdSpaceGroupMember, junction, space, specification, group, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdSpaceGroupMember, junction, space, specification, group, API, 54.0]
 ---
-
-# AdSpaceGroupMember
 
 > Represents the junction between an ad space specification and an ad
          space group. This object is available in API version 54.0 and later.

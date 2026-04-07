@@ -5,12 +5,10 @@ topic: callcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.009Z
+lastCollected: 2026-04-07T18:39:31.328Z
 estimatedTokens: 310
-keywords: [CallCenter, call, center, logical, representation, computer-telephony, integration, CTI, system, instance, organization]
+keywords: [CallCenter, call, center, logical, computer-telephony, integration, CTI, system, instance, organization]
 ---
-
-# CallCenter
 
 > Represents a call center, which is a
                                 logical representation of a single computer-telephony integration

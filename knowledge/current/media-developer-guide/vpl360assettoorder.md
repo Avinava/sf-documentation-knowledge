@@ -5,12 +5,10 @@ topic: vpl360assettoorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.135Z
+lastCollected: 2026-04-07T18:38:11.401Z
 estimatedTokens: 126
-keywords: [VPL360_AssetToOrder, Integration, Procedure, converts, asset, order, basket, VPL360, _AssetToOrder, Sample, Input, Output, Calls]
+keywords: [VPL360_AssetToOrder, Integration, Procedure, converts, asset, order, basket, VPL360, _AssetToOrder, Sample]
 ---
-
-# VPL360_AssetToOrder
 
 > This Integration Procedure converts an asset to an order
         or an asset to a basket.

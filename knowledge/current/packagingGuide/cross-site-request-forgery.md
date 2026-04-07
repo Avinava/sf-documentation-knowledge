@@ -5,12 +5,10 @@ topic: cross-site-request-forgery
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.465Z
+lastCollected: 2026-04-07T18:38:47.420Z
 estimatedTokens: 663
-keywords: [Cross-Site, Forgery, CSRF, attack, forces, end, user, execute, unwanted, actions, their, authenticated, web, application, session]
+keywords: [Cross-Site, Forgery, CSRF, attack, forces, end, user, execute, unwanted, actions, their, authenticated, web, application, session, protect, against, confirmationTokenRequired, trigger, state, changes, Apex, Visualforce, Protection, Lightning, LWC]
 ---
-
-# Cross-Site Request Forgery
 
 > A cross-site request forgery (CSRF) is an attack that forces an end user to execute
     unwanted actions during their authenticated web application session. To protect against CSRF,

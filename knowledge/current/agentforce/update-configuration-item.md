@@ -5,12 +5,10 @@ topic: update-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.924Z
+lastCollected: 2026-04-07T18:35:55.025Z
 estimatedTokens: 599
-keywords: [Configuration, Item, Updates, attributes, unique, identifier, subset, Special, Access, Rules, UpdatedAttributes]
+keywords: [UpdatedAttributes, Configuration, Item, Updates, attributes, unique, identifier, subset]
 ---
-
-# Update Configuration Item
 
 > Updates one or more attributes of an existing configuration item
       specified by its unique identifier. You can update a subset of attributes or all attributes in

@@ -5,12 +5,10 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.488Z
+lastCollected: 2026-04-07T18:36:31.912Z
 estimatedTokens: 1070
-keywords: [BrandingSet, branding, Experience, Builder, site, defined, Theme, panel, API, version, 40.0, later, SOAP, Calls, REST]
+keywords: [BrandingSet, branding, Experience, Builder, site, defined, Theme, panel, API, 40.0, SOAP, REST]
 ---
-
-# BrandingSet
 
 > Represents a set of branding properties for an Experience Builder site, as
       defined in the Theme panel in Experience Builder. This object is available in API version

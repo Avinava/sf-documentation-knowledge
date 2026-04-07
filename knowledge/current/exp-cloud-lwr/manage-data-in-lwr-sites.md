@@ -6,13 +6,10 @@ topic: manage-data-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.954Z
+lastCollected: 2026-04-07T18:37:33.252Z
 estimatedTokens: 830
-keywords: [Manage, Data, LWR, Sites, understand, how, visitor, engagement, sent, Cloud, best, tailor, tools, specific, needs]
+keywords: [Manage, LWR, Sites, understand, how, visitor, engagement, sent, Cloud, best, tailor, tools, specific, needs, powerful, tool, world, site, management, analytics, Understanding, users, interact, helps, build, detailed, user, profiles, enhanced, personalize, experience, Familiarize, Yourself, Turn, Layer, Code, Embedded, JSON]
 ---
-
-# Manage Data in LWR
-        Sites
 
 > Use this guide to understand how visitor engagement from your LWR sites can be sent to
         Data Cloud and how you can best tailor our tools to your specific needs. Data is a powerful

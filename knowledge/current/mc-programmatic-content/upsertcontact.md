@@ -5,12 +5,10 @@ topic: upsertcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.874Z
+lastCollected: 2026-04-07T18:40:24.368Z
 estimatedTokens: 329
-keywords: [UpsertContact, Function, Ordinal, channel, contact, Possible, include, mobile, Primary, key, **Overview**, **Syntax**, Usage]
+keywords: [UpsertContact, Function, Ordinal, channel, contact, Possible, include, mobile, Primary, key, **Overview**, **Syntax**]
 ---
-
-# UpsertContact
 
 > UpsertContact(1, 2, 3, 4, 5)
 

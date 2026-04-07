@@ -5,12 +5,10 @@ topic: soql-injection-due-to-insecure-database-query-construction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.493Z
+lastCollected: 2026-04-07T18:38:47.445Z
 estimatedTokens: 882
-keywords: [SOQL, Injection, Due, Insecure, Database, Query, Construction, prevent, Salesforce, Language, bind, variables, input, sanitation, Examples]
+keywords: [SOQL, Injection, Due, Insecure, Database, Query, Construction, prevent, Salesforce, Language, bind, variables, sanitation, Examples]
 ---
-
-# SOQL Injection Due to Insecure Database Query Construction
 
 > To prevent Salesforce Object Query Language (SOQL) injection, use bind variables and
     input sanitation.

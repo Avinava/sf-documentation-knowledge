@@ -5,12 +5,10 @@ topic: object-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.949Z
+lastCollected: 2026-04-07T18:40:11.960Z
 estimatedTokens: 1563
 keywords: [Info, metadata]
 ---
-
-# Object Info
 
 > The metadata for an object.
 

@@ -5,12 +5,10 @@ topic: post-apiv1query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.784Z
+lastCollected: 2026-04-07T18:35:51.640Z
 estimatedTokens: 230
-keywords: [POST, api, query, Data, Cloud, lake, across, model, unified, linked, objects, Examples, HTTP, Responses]
+keywords: [Examples, POST, api, query, Cloud, lake, across, model, unified, linked, HTTP, Responses]
 ---
-
-# POST /api/v1/query
 
 > Use Query API V1 to query Data Cloud data lake across data model, data lake,
     unified, and linked objects.

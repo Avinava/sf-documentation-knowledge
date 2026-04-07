@@ -5,12 +5,10 @@ topic: dashboardfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.380Z
+lastCollected: 2026-04-07T18:39:36.976Z
 estimatedTokens: 357
-keywords: [DashboardFeed, Feed, tracking, Dashboard]
+keywords: [DashboardFeed, Dashboard]
 ---
-
-# DashboardFeed
 
 > Feed tracking for Dashboard.
 

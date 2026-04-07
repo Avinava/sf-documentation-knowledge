@@ -5,12 +5,10 @@ topic: subscriberlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.285Z
+lastCollected: 2026-04-07T18:40:20.523Z
 estimatedTokens: 510
 keywords: [SubscriberList, retrieve, specific, subscriber, Items]
 ---
-
-# SubscriberList
 
 > Use the SubscriberList object to retrieve lists for a specific subscriber.
 

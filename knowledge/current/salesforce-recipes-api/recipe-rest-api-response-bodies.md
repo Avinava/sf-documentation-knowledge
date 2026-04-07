@@ -5,12 +5,10 @@ topic: recipe-rest-api-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.710Z
+lastCollected: 2026-04-07T18:39:19.384Z
 estimatedTokens: 6776
 keywords: [Recipe, REST, API, Bodies, successful, execution, resource, either, JSON, XML]
 ---
-
-# Recipe REST API Response Bodies
 
 > The successful execution of a request to a Recipe REST API resource can return a
   response body in either JSON or XML format.

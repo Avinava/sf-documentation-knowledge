@@ -5,12 +5,10 @@ topic: provide-developers-access-to-salesforce-dx-tools
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.093Z
+lastCollected: 2026-04-07T18:40:09.058Z
 estimatedTokens: 381
-keywords: [Provide, Developers, Access, Salesforce, Tools, Prepare, development, team, license, user, permissions, they, Determine, org, Dev]
+keywords: [Provide, Developers, Salesforce, Tools, Prepare, development, team, license, user, permissions, they, Determine, org, Dev, Hub, enable, setting]
 ---
-
-# Provide Developers Access to Salesforce DX Tools
 
 > Prepare your development team with the license, user access, and user permissions they
   need. Determine which org to use as your Dev Hub org, and enable the Dev Hub setting in that

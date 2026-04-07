@@ -5,12 +5,10 @@ topic: contracts-patch-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.884Z
+lastCollected: 2026-04-07T18:37:24.856Z
 estimatedTokens: 234
 keywords: [Contracts, PATCH, POST]
 ---
-
-# Contracts (PATCH, POST)
 
 > Update and create contracts using the object ID.
 

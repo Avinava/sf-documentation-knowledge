@@ -5,12 +5,10 @@ topic: feed-elements-capability-associated-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.596Z
+lastCollected: 2026-04-07T18:37:13.544Z
 estimatedTokens: 216
-keywords: [Feed, Elements, Capability, Associated, Actions, Access, element]
+keywords: [Capability, Actions]
 ---
-
-# Feed Elements Capability, Associated Actions
 
 > Access the associated actions capability of a feed
     element.

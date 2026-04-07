@@ -5,12 +5,10 @@ topic: partyincome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.586Z
+lastCollected: 2026-04-07T18:37:38.440Z
 estimatedTokens: 1436
-keywords: [PartyIncome, income, individual, business, entity, salaries, commissions, fees, rental, sources, API, version, 55.0, later, Calls]
+keywords: [PartyIncome, income, individual, business, entity, salaries, commissions, fees, rental, sources, API, 55.0]
 ---
-
-# PartyIncome
 
 > Represents the income of an individual or a business entity. This
          income can be from salaries, commissions, fees, rental properties, and other sources.

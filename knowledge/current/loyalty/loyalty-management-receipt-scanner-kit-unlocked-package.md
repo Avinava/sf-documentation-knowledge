@@ -5,12 +5,10 @@ topic: loyalty-management-receipt-scanner-kit-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.601Z
+lastCollected: 2026-04-07T18:38:08.931Z
 estimatedTokens: 266
-keywords: [Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, members, scan, submit, receipts, receive, points, they’re, purchases]
+keywords: [Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, members, scan, submit, receipts, receive, points, they’re, purchases, eligible, submitted, automatically, creates, transaction, journals, line, items, developers, select, modular, they, want, their, implementation, packages, customizable, help, easily, manage, reuse, across, different, projects]
 ---
-
-# Loyalty Management Receipt Scanner Kit Unlocked Package
 
 > The Loyalty Management Receipt Scanner Kit unlocked package allows members to scan and
     submit receipts to receive loyalty points that they’re purchases are eligible for. After the

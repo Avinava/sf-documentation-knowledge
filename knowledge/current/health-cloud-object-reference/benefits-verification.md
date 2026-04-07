@@ -5,12 +5,10 @@ topic: benefits-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.230Z
+lastCollected: 2026-04-07T18:37:42.371Z
 estimatedTokens: 709
-keywords: [Benefits, Verification, data, model, supports, providers, payers, life, sciences, organizations, determining, coverage, services, products, provided]
+keywords: [Benefits, Verification, model, supports, providers, payers, life, sciences, organizations, determining, coverage, services, products, provided]
 ---
-
-# Benefits Verification
 
 > The benefits verification data model supports providers, payers, and life sciences
   organizations in determining benefits coverage for services and products provided.

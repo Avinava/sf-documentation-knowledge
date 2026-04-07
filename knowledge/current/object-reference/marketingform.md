@@ -5,12 +5,10 @@ topic: marketingform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.257Z
+lastCollected: 2026-04-07T18:38:35.503Z
 estimatedTokens: 1085
-keywords: [MarketingForm, Account, Engagement, marketing, form, synched, Salesforce, forms, website, landing, pages, collect, visitors, turn, anonymous]
+keywords: [MarketingForm, Account, Engagement, marketing, form, synched, Salesforce, forms, website, landing, pages, collect, visitors, turn, anonymous, identified, prospects, API, 42.0]
 ---
-
-# MarketingForm
 
 > Represents an Account Engagement marketing form that has been
 			synched to Salesforce. Use forms on your website and landing pages to collect

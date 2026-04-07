@@ -5,12 +5,10 @@ topic: patientmedicalprocedureshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.255Z
+lastCollected: 2026-04-07T18:39:52.752Z
 estimatedTokens: 254
 keywords: [PatientMedicalProcedureShare, Sharing, PatientMedicalProcedure]
 ---
-
-# PatientMedicalProcedureShare
 
 > Sharing for PatientMedicalProcedure.
 

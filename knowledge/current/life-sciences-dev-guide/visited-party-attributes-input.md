@@ -5,12 +5,10 @@ topic: visited-party-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.993Z
+lastCollected: 2026-04-07T18:37:55.400Z
 estimatedTokens: 134
-keywords: [Visited, Party, Attributes, Input, representation, visiting, medical, device, visit, surgeon, anesthesiologist]
+keywords: [Visited, Party, Attributes, visiting, medical, device, visit, surgeon, anesthesiologist]
 ---
-
-# Visited Party Attributes Input
 
 > Input representation of the visiting party. For example, for a medical
       device visit, the visiting party can be the surgeon and the anesthesiologist.

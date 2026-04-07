@@ -5,12 +5,10 @@ topic: using-experience-cloud-sites-with-mobile-sdk-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.925Z
+lastCollected: 2026-04-07T18:40:25.292Z
 estimatedTokens: 868
-keywords: [Experience, Cloud, Sites, Mobile, SDK, Apps, include, millions, users, allowed, Salesforce, limits, proper, configuration, customers]
+keywords: [Experience, Cloud, Sites, Mobile, SDK, Apps, include, millions, users, allowed, Salesforce, limits, proper, configuration, customers, their, site, login, credentials, app, brand, screen]
 ---
-
-# Using Experience Cloud Sites With Mobile SDK Apps
 
 > Experience Cloud sites can include up to millions of users, as allowed by Salesforce limits. With proper configuration, your
       customers can use their Experience Cloud site login credentials to access your Mobile SDK app.

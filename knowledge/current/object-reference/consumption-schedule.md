@@ -5,12 +5,10 @@ topic: consumption-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:37.261Z
+lastCollected: 2026-04-07T18:38:28.180Z
 estimatedTokens: 1225
-keywords: [Consumption, Schedule, organizes, rates, usage-based, products, quoted, billed, API, version, 45.0, later, Calls]
+keywords: [Consumption, Schedule, organizes, rates, usage-based, products, quoted, billed, API, 45.0]
 ---
-
-# Consumption Schedule
 
 > A consumption schedule organizes a set of consumption rates by which
       usage-based products are quoted and billed. This object is available in API version 45.0

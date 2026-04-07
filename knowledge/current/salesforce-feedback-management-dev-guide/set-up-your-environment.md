@@ -5,12 +5,10 @@ topic: set-up-your-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.912Z
+lastCollected: 2026-04-07T18:39:17.572Z
 estimatedTokens: 670
 keywords: [Environment, Salesforce, ready, in-app, survey, invitation, Feedback, Management, SFM, unAuth, APIs]
 ---
-
-# Set Up Your Environment
 
 > Get your Salesforce environment ready before you create your first in-app
       survey.

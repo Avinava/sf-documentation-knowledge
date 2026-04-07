@@ -5,12 +5,10 @@ topic: partyprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.995Z
+lastCollected: 2026-04-07T18:37:47.597Z
 estimatedTokens: 2620
-keywords: [PartyProfile, additional, patient, Health, Cloud, API, version, 61.0, later, Calls]
+keywords: [PartyProfile, additional, patient, Health, Cloud, API, 61.0]
 ---
-
-# PartyProfile
 
 > Represents additional details related to a patient. This object is
       available in Health Cloud in API version 61.0 and later.

@@ -5,12 +5,10 @@ topic: cgcloudsystemnumberlastc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.625Z
+lastCollected: 2026-04-07T18:39:15.074Z
 estimatedTokens: 923
-keywords: [cgcloud__System_Number_Last__c, number, specific, device, API, version, 54.0, later, cgcloud, _System, _Number, _Last, Calls, Associated, Objects]
+keywords: [cgcloud__System_Number_Last__c, number, specific, device, API, 54.0, cgcloud, _System, _Number, _Last]
 ---
-
-# cgcloud__System_Number_Last__c
 
 > Last used number of a specific number type and device. This
       object is available in API version 54.0 and later.

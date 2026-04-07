@@ -5,12 +5,10 @@ topic: product-catalog-management-fields-on-product-relationship-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.765Z
+lastCollected: 2026-04-07T18:35:47.788Z
 estimatedTokens: 213
-keywords: [Product, Catalog, Management, Relationship, Standard, custom, extend]
+keywords: [Product, Catalog, Management, Relationship, Standard, extend]
 ---
-
-# Product Catalog Management Fields on Product Relationship Type
 
 > Standard and custom fields extend the standard Product Relationship Type
          object for use in Product Catalog Management.

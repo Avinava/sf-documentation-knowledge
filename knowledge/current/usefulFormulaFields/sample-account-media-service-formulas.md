@@ -5,12 +5,10 @@ topic: sample-account-media-service-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.304Z
+lastCollected: 2026-04-07T18:40:12.325Z
 estimatedTokens: 391
-keywords: [Sample, Account, Media, Service, Formulas, link, specific, search, sites, accounts, BBC™, News, Bloomberg™, CNN™, MarketWatch™]
+keywords: [Sample, Account, Media, Service, Formulas, link, specific, search, sites, accounts, BBC™, News, Bloomberg™, CNN™, MarketWatch™, Google™, Google, Yahoo!™, Yahoo]
 ---
-
-# Sample Account Media Service Formulas
 
 > Formulas to link to specific search sites and media accounts.
 

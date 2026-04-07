@@ -5,12 +5,10 @@ topic: vpl360revokecancellation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.850Z
+lastCollected: 2026-04-07T18:38:11.122Z
 estimatedTokens: 134
-keywords: [VPL360_RevokeCancellation, Integration, Procedure, revokes, cancellation, asset, VPL360, _RevokeCancellation, Sample, Input, Output, Calls]
+keywords: [VPL360_RevokeCancellation, Integration, Procedure, revokes, cancellation, asset, VPL360, _RevokeCancellation, Sample]
 ---
-
-# VPL360_RevokeCancellation
 
 > This Integration Procedure revokes the cancellation of an
     asset.

@@ -5,12 +5,10 @@ topic: article-topic-assignment-job-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.472Z
+lastCollected: 2026-04-07T18:37:07.186Z
 estimatedTokens: 156
-keywords: [Article, Topic, Assignment, Job, Input]
+keywords: [Article, Topic, Assignment, Job]
 ---
-
-# Article Topic Assignment Job Input
 
 > An article and topic assignment job.
 

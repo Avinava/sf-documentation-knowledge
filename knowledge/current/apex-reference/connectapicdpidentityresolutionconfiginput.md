@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.536Z
+lastCollected: 2026-04-07T18:36:04.885Z
 estimatedTokens: 323
-keywords: [Input, representation, creating, identity, resolution, ruleset]
+keywords: [creating, identity, resolution, ruleset]
 ---
-
-# ConnectApi.CdpIdentityResolutionConfigInput
 
 > Input representation for creating an identity resolution ruleset.
 

@@ -5,12 +5,10 @@ topic: export-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.585Z
+lastCollected: 2026-04-07T18:39:18.276Z
 estimatedTokens: 175
-keywords: [Export, Input, node, recipe]
+keywords: [Export, node, recipe]
 ---
-
-# Export Parameters Input
 
 > The parameters for an export node in a recipe.
 

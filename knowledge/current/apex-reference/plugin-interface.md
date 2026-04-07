@@ -5,13 +5,11 @@ topic: plugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.885Z
+lastCollected: 2026-04-07T18:36:13.190Z
 estimatedTokens: 786
 namespace: Process
-keywords: [Plugin, pass, data, organization, flow, describe, invoke, Implementation, Test]
+keywords: [Plugin, pass, organization, flow, describe, invoke, Implementation, Test]
 ---
-
-# Plugin Interface
 
 > Allows you to pass data between your organization and a
 specified flow.

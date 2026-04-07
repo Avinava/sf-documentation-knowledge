@@ -5,13 +5,11 @@ topic: cgcloud-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.281Z
+lastCollected: 2026-04-07T18:39:10.760Z
 estimatedTokens: 559
 namespace: CGCloud
-keywords: [CGCloud, classes, allow, customise, Real, Time, Reporting, RTR, data, extraction, Apex]
+keywords: [CGCloud, classes, allow, customise, Real, Time, Reporting, RTR, extraction, Apex]
 ---
-
-# CGCloud Namespace
 
 > The CGCloud namespace provides classes that
     allow you to customise Real Time Reporting (RTR) data extraction from Apex.

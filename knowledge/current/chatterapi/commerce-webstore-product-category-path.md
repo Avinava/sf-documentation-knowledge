@@ -5,12 +5,10 @@ topic: commerce-webstore-product-category-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.685Z
+lastCollected: 2026-04-07T18:37:12.575Z
 estimatedTokens: 123
 keywords: [Commerce, Webstore, Product, Category, Path, root, current]
 ---
-
-# Commerce Webstore Product Category Path
 
 > Get the product category path from the root category to the current
       category.

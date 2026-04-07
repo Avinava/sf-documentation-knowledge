@@ -5,12 +5,10 @@ topic: feed-elements-capability-close
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.651Z
+lastCollected: 2026-04-07T18:37:13.610Z
 estimatedTokens: 470
-keywords: [Feed, Elements, Capability, Close, closed, status, element]
+keywords: [Capability, Close, closed, status]
 ---
-
-# Feed Elements Capability, Close
 
 > Get the closed status of a feed element. Set a feed element to
       closed.

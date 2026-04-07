@@ -5,12 +5,10 @@ topic: advanced-approvals-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:55.426Z
+lastCollected: 2026-04-07T18:35:40.213Z
 estimatedTokens: 658
 keywords: [Advanced, Approvals, Standard, Invocable, Actions]
 ---
-
-# Advanced Approvals Standard Invocable Actions
 
 > Learn more about the standard invocable actions available with Advanced
     Approvals.

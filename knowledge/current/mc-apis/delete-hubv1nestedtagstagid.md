@@ -5,12 +5,10 @@ topic: delete-hubv1nestedtagstagid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.405Z
+lastCollected: 2026-04-07T18:40:16.546Z
 estimatedTokens: 127
-keywords: [hub, nestedtags, tagId, Deletes, tag, nested, tags, **Overview**, Usage]
+keywords: [hub, nestedtags, tagId, Deletes, tag, nested, tags, **Overview**]
 ---
-
-# DELETE /hub/v1/nestedtags/{tagId}
 
 > Deletes an existing tag and all of its nested tags.
 

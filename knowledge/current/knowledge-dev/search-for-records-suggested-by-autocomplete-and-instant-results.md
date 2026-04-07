@@ -6,13 +6,10 @@ topic: search-for-records-suggested-by-autocomplete-and-instant-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.964Z
+lastCollected: 2026-04-07T18:37:54.266Z
 estimatedTokens: 2142
-keywords: [Search, Records, Suggested, Autocomplete, Instant, Results, whose, match, user’s, suggestions, resource, users, navigate, directly, likely]
+keywords: [Search, Records, Suggested, Autocomplete, Instant, Results, whose, match, user’s, suggestions, resource, users, navigate, directly, likely, relevant, performing, full, REST, API, 32.0]
 ---
-
-# Search for Records Suggested by Autocomplete and Instant
-    Results
 
 > Returns a list of suggested records whose names match the
       user’s search string. The suggestions resource provides autocomplete results and instant

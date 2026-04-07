@@ -5,12 +5,10 @@ topic: getpostdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.198Z
+lastCollected: 2026-04-07T18:40:23.634Z
 estimatedTokens: 382
-keywords: [GetPostData, Function, Ordinal, Encoding, entered, Windows-1252, **Overview**, **Syntax**, Examples]
+keywords: [GetPostData, Encoding, Examples, Function, Ordinal, entered, Windows-1252, **Overview**, **Syntax**]
 ---
-
-# GetPostData
 
 > GetPostData(1)
 

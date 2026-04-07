@@ -5,12 +5,10 @@ topic: onchattransferredout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.297Z
+lastCollected: 2026-04-07T18:36:50.518Z
 estimatedTokens: 197
-keywords: [onChatTransferredOut, Registers, function, call, engaged, chat, transferred, another, agent, API, version, 29.0, later, Arguments, Sample]
+keywords: [Arguments, onChatTransferredOut, Registers, function, call, engaged, chat, transferred, another, agent, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onChatTransferredOut()
 
 > Registers a function to call when an engaged chat is transferred out to another
         agent. Available in API version 29.0 or

@@ -5,12 +5,10 @@ topic: publisher-apis-in-salesforce-classic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.126Z
+lastCollected: 2026-04-07T18:37:04.835Z
 estimatedTokens: 1756
-keywords: [Publisher, APIs, Salesforce, Classic, JavaScript, API, lets, Visualforce, pages, components, interact, actions, you’ve, added, record]
+keywords: [Publisher, APIs, Salesforce, Classic, JavaScript, API, lets, Visualforce, pages, interact, actions, you’ve, added, record, app, feed-enabled, works, apps, standard, navigation, console, develop, generates, customized, pre-written, text, adds, new, post, Case, portal, action, submits, click, publisher.selectAction, publisher.setActionInputValues, publisher.invokeAction, publisher.customActionMessage, publisher.refresh, Sample, Code]
 ---
-
-# Publisher APIs in Salesforce Classic
 
 > The Salesforce Classic Publisher JavaScript API lets your Visualforce pages and
       components interact with actions you’ve added to a record page in a Salesforce Classic app for

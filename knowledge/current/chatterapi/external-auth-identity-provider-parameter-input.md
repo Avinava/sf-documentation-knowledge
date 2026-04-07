@@ -5,12 +5,10 @@ topic: external-auth-identity-provider-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.501Z
+lastCollected: 2026-04-07T18:37:08.332Z
 estimatedTokens: 283
-keywords: [External, Auth, Identity, Provider, Input]
+keywords: [External, Auth, Identity, Provider]
 ---
-
-# External Auth Identity Provider Parameter Input
 
 > External auth identity provider parameter input.
 

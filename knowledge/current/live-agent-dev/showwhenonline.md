@@ -5,12 +5,10 @@ topic: showwhenonline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.781Z
+lastCollected: 2026-04-07T18:38:06.017Z
 estimatedTokens: 544
-keywords: [showWhenOnline, specify, customers, particular, button, online, Usage]
+keywords: [showWhenOnline, specify, customers, particular, button, online]
 ---
-
-# showWhenOnline
 
 > Use the showWhenOnline method to specify what customers see when a particular button is
 online.

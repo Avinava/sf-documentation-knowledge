@@ -5,12 +5,10 @@ topic: generate-asset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.737Z
+lastCollected: 2026-04-07T18:37:07.457Z
 estimatedTokens: 243
-keywords: [Generate, Asset, Input, generation, Customer, Lifecycle, Management, creation, lifecycle-managed]
+keywords: [Generate, Asset, generation, Customer, Lifecycle, Management, creation, lifecycle-managed]
 ---
-
-# Generate Asset Input
 
 > Asset generation input for Customer Asset Lifecycle Management. Represents the creation
     of a lifecycle-managed asset.

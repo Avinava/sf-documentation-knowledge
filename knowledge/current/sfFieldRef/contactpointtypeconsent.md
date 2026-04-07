@@ -5,12 +5,10 @@ topic: contactpointtypeconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.677Z
+lastCollected: 2026-04-07T18:39:35.120Z
 estimatedTokens: 535
-keywords: [ContactPointTypeConsent, consent, contact, point, email, phone, API, version, 45.0, later]
+keywords: [ContactPointTypeConsent, consent, contact, point, email, phone, API, 45.0]
 ---
-
-# ContactPointTypeConsent
 
 > Represents consent for a contact point type, such as email or
 			phone. This object is available in API version 45.0 and later.

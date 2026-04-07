@@ -5,12 +5,10 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.073Z
+lastCollected: 2026-04-07T18:39:20.862Z
 estimatedTokens: 1026
-keywords: [ServiceResource, technician, asset, API, version, 38.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ServiceResource, technician, asset, API, 38.0]
 ---
-
-# ServiceResource
 
 > Represents a technician or an asset. This object is available in
 		API version 38.0 and later.

@@ -5,12 +5,10 @@ topic: partyincomehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.832Z
+lastCollected: 2026-04-07T18:39:52.252Z
 estimatedTokens: 258
-keywords: [PartyIncomeHistory, History, tracked, PartyIncome]
+keywords: [PartyIncomeHistory, tracked, PartyIncome]
 ---
-
-# PartyIncomeHistory
 
 > History for tracked fields of PartyIncome.
 

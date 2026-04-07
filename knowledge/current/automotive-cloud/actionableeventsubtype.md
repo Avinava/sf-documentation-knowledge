@@ -5,12 +5,10 @@ topic: actionableeventsubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.902Z
+lastCollected: 2026-04-07T18:36:52.328Z
 estimatedTokens: 501
-keywords: [ActionableEventSubtype, subtype, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, version]
+keywords: [ActionableEventSubtype, subtype, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, 62.0]
 ---
-
-# ActionableEventSubtype
 
 > Represents the subtype of an external or internal event that's processed by
          the Actionable Event Orchestration framework to trigger different types of actions.

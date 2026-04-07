@@ -5,12 +5,10 @@ topic: event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:19.714Z
+lastCollected: 2026-04-07T18:38:10.029Z
 estimatedTokens: 10298
-keywords: [Event, calendar, user, task, records, collectively, referred, activities, Calls, Usage, Associated, Objects]
+keywords: [Event, calendar, user, task, records, collectively, referred, activities]
 ---
-
-# Event
 
 > Represents an event in the calendar. In the user interface, event and
       task records are collectively referred to as activities.

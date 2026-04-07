@@ -6,13 +6,10 @@ topic: update-an-account-create-a-contact-and-link-them-with-a-junction-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.573Z
+lastCollected: 2026-04-07T18:36:19.798Z
 estimatedTokens: 148
-keywords: [Account, Contact, Link, Junction, uses, Composite, resource, two, records, AccountContactJunction, requests, executed, call, composite.json, file]
+keywords: [Account, Contact, Link, Junction, uses, Composite, resource, two, records, AccountContactJunction, requests, executed, call, composite.json, file, subrequest]
 ---
-
-# Update an Account, Create a Contact, and Link Them with a Junction
-            Object
 
 > The following example uses the Composite resource to update some fields on an
         account, create a contact, and link the two records with a junction object called AccountContactJunction. All these requests are executed in

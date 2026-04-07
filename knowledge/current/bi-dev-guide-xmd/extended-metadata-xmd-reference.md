@@ -5,12 +5,10 @@ topic: extended-metadata-xmd-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.262Z
+lastCollected: 2026-04-07T18:37:02.828Z
 estimatedTokens: 669
 keywords: [Extended, Metadata, XMD, modify, file, customize, formatting, dataset, appear, Analytics, lenses, dashboard, widgets]
 ---
-
-# Extended Metadata (XMD) Reference
 
 > You can modify the XMD file to customize the formatting of dataset fields and field
     values that appear in Analytics lenses and dashboard widgets.

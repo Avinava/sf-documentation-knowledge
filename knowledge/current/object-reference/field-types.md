@@ -5,12 +5,10 @@ topic: field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:33.042Z
+lastCollected: 2026-04-07T18:38:23.914Z
 estimatedTokens: 5101
-keywords: [addition, primitive, data, API, AnyType, Calculated, ComboBox, Currency, DataCategoryGroupReference, Email, JunctionIdList, Multi-Select, Picklist, Percent, Phone]
+keywords: [addition, primitive, API, AnyType, Calculated, ComboBox, Currency, DataCategoryGroupReference, Email, JunctionIdList, Multi-Select, Picklist, Percent, Phone, Textarea, URL]
 ---
-
-# Field Types
 
 > In addition to the primitive data types, the API defines the following data types for fields.
 

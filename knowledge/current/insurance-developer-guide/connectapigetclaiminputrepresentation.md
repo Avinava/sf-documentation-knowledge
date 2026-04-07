@@ -5,12 +5,10 @@ topic: connectapigetclaiminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.924Z
+lastCollected: 2026-04-07T18:37:49.798Z
 estimatedTokens: 71
-keywords: [ConnectApi.GetClaimInputRepresentation, Input, representation, claim]
+keywords: [ConnectApi.GetClaimInputRepresentation, claim]
 ---
-
-# ConnectApi.GetClaimInputRepresentation
 
 > Input representation to get the details of a claim.
 

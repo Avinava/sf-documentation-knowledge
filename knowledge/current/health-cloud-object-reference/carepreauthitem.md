@@ -5,12 +5,10 @@ topic: carepreauthitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.370Z
+lastCollected: 2026-04-07T18:37:45.866Z
 estimatedTokens: 1265
-keywords: [CarePreauthItem, items, included, preauthorization, care, under, member’s, plan, Calls, Associated, Objects]
+keywords: [CarePreauthItem, items, included, preauthorization, care, under, member’s, plan]
 ---
-
-# CarePreauthItem
 
 > Represents the details of items included in a preauthorization for
 			care under a member’s plan.

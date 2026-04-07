@@ -5,12 +5,10 @@ topic: product-rating-post-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.318Z
+lastCollected: 2026-04-07T18:37:51.327Z
 estimatedTokens: 266
-keywords: [Product, Rating, Post, Input, representation]
+keywords: [Product, Rating, Post]
 ---
-
-# Product Rating Post Input
 
 > Input representation of the product rating details.
 

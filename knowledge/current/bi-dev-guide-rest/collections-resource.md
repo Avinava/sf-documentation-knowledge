@@ -5,12 +5,10 @@ topic: collections-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.039Z
+lastCollected: 2026-04-07T18:36:55.470Z
 estimatedTokens: 246
-keywords: [Collections, Resource, updates, deletes, collection, Analytics, items, URL, Formats, Version, HTTP, PATCH]
+keywords: [Formats, Collections, Resource, updates, deletes, collection, Analytics, items, URL, HTTP, PATCH]
 ---
-
-# Collections Resource
 
 > Returns, updates, or deletes a collection. Each collection contains Analytics resource items.
 

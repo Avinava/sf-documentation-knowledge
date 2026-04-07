@@ -5,12 +5,10 @@ topic: extraction-context-mappings-delete-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.060Z
+lastCollected: 2026-04-07T18:37:25.014Z
 estimatedTokens: 350
 keywords: [Extraction, Context, Mappings, PATCH, mapping, case]
 ---
-
-# Extraction Context Mappings (DELETE, GET, PATCH)
 
 > Delete extraction context mapping details based on the specified
       context use case mapping ID. Get extraction context mapping details based on the specified

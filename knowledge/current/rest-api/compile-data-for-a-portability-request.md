@@ -5,12 +5,10 @@ topic: compile-data-for-a-portability-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.707Z
+lastCollected: 2026-04-07T18:36:20.944Z
 estimatedTokens: 333
-keywords: [Compile, Data, Portability, Aggregate, subject's, personally, identifiable, PII, file, POST, resource, includes, found, Account, Contact]
+keywords: [Compile, Portability, Aggregate, subject's, personally, identifiable, PII, file, POST, resource, includes, found, Account, Contact, Individual, Lead, Person, User, receive, URL, download, policy, selected, creating, execute, REST, API, 50.0]
 ---
-
-# Compile Data for a Portability Request
 
 > Aggregate your data subject's personally identifiable information (PII) into one file
   using the POST method of the Portability resource. The PII includes data found in the Account,

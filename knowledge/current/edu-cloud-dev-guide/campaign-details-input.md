@@ -5,12 +5,10 @@ topic: campaign-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.899Z
+lastCollected: 2026-04-07T18:37:29.001Z
 estimatedTokens: 134
-keywords: [Campaign, Input, representation, that's, associated, gift, transaction]
+keywords: [Campaign, that's, gift, transaction]
 ---
-
-# Campaign Details Input
 
 > Input representation of the campaign that's associated with the gift
     transaction.

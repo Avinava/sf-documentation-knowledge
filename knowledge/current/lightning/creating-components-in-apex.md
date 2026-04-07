@@ -5,12 +5,10 @@ topic: creating-components-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.656Z
+lastCollected: 2026-04-07T18:38:02.576Z
 estimatedTokens: 125
-keywords: [Creating, Components, Apex, server, side, Cmp.<myNamespace>.<myComponent>, deprecated, $A.createComponent, client-side, JavaScript, code, instead]
+keywords: [Creating, Apex, server, side, Cmp.<myNamespace>.<myComponent>, deprecated, $A.createComponent, client-side, JavaScript, code, instead]
 ---
-
-# Creating Components in Apex
 
 > Creating components on the server side in Apex, using the Cmp.<myNamespace>.<myComponent> syntax, is
         deprecated. Use $A.createComponent() in client-side

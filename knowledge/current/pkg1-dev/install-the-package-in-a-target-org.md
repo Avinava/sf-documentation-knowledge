@@ -5,12 +5,10 @@ topic: install-the-package-in-a-target-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.030Z
+lastCollected: 2026-04-07T18:38:54.445Z
 estimatedTokens: 275
 keywords: [Install, Package, Target, Org, CLI, any, authenticate, including, scratch]
 ---
-
-# Install the Package in a Target Org
 
 > After you create a package with the CLI, install the package in a target org. You can
   install the package in any org you can authenticate, including a scratch org.

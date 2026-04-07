@@ -5,12 +5,10 @@ topic: pagereferencepartialurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.311Z
+lastCollected: 2026-04-07T18:38:48.270Z
 estimatedTokens: 150
 keywords: [PageReference, partialURL, Creates, new, instance, URL]
 ---
-
-# PageReference(partialURL)
 
 > Creates a new instance of the PageReference class using the specified URL.
 

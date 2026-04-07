@@ -5,12 +5,10 @@ topic: mobiletelephonyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.600Z
+lastCollected: 2026-04-07T18:38:59.519Z
 estimatedTokens: 808
-keywords: [MobileTelephonyEvent, Tracks, users’, phone, calls, text, messages, Salesforce, mobile, app, Enhanced, Security, API, version, 47.0]
+keywords: [MobileTelephonyEvent, Tracks, users’, phone, text, messages, Salesforce, mobile, app, Enhanced, Security, API, 47.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# MobileTelephonyEvent
 
 > Tracks your users’ phone calls and text messages in a Salesforce mobile
 			app with Enhanced Mobile Security. This object is available in API version 47.0 and

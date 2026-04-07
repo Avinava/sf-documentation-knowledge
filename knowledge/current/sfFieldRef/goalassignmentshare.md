@@ -5,12 +5,10 @@ topic: goalassignmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.338Z
+lastCollected: 2026-04-07T18:39:42.919Z
 estimatedTokens: 250
 keywords: [GoalAssignmentShare, Sharing, GoalAssignment]
 ---
-
-# GoalAssignmentShare
 
 > Sharing for GoalAssignment.
 

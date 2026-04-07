@@ -5,12 +5,10 @@ topic: work-item-state-change-sfdevopsworkitemstatechangee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.725Z
+lastCollected: 2026-04-07T18:37:28.811Z
 estimatedTokens: 457
-keywords: [Work, Item, State, Change, sf_devops__Work_Item_State_Change__e, Notifies, subscribers, State__c, changes, API, version, 62.0, later, _devops, _Work]
+keywords: [Work, Item, State, Change, sf_devops__Work_Item_State_Change__e, Notifies, subscribers, State__c, changes, API, 62.0, _devops, _Work, _Item, _State, _Change, Streaming, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# Work Item State Change (sf_devops__Work_Item_State_Change__e)
 
 > Notifies subscribers when the State__c field of a work item
          changes. This object is available in API version 62.0 and later.

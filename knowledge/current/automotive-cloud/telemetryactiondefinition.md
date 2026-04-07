@@ -5,12 +5,10 @@ topic: telemetryactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.677Z
+lastCollected: 2026-04-07T18:36:52.056Z
 estimatedTokens: 515
-keywords: [TelemetryActionDefinition, action, taken, telemetry, signal, sent, connected, asset, vehicle, getting, current, status, component, sending, perform]
+keywords: [TelemetryActionDefinition, action, taken, telemetry, signal, sent, connected, asset, vehicle, getting, current, status, sending, perform, remote, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, API, 65.0]
 ---
-
-# TelemetryActionDefinition
 
 > Represents the action taken on a telemetry signal sent
 			from a connected asset or vehicle, such as getting the current status of a vehicle or

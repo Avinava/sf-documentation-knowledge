@@ -5,12 +5,10 @@ topic: gaps-between-first-generation-and-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.881Z
+lastCollected: 2026-04-07T18:38:56.507Z
 estimatedTokens: 181
 keywords: [Gaps, First-Generation, Second-Generation, Managed, Packaging, functionality, yet, We’re, working, address, feature]
 ---
-
-# Gaps Between First-Generation and Second-Generation Managed Packaging
 
 > The following functionality is supported in first-generation managed packaging, and not
     yet supported in second-generation managed packaging. We’re working to address these feature

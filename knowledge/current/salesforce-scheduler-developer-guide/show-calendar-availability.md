@@ -5,12 +5,10 @@ topic: show-calendar-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.305Z
+lastCollected: 2026-04-07T18:39:21.120Z
 estimatedTokens: 590
-keywords: [Show, Calendar, Availability, time, slot, period, day, appointment, scheduled, getAppointmentSlots, API, retrieve, service, resources, associated]
+keywords: [Show, Calendar, Availability, time, slot, period, day, appointment, scheduled, getAppointmentSlots, API, retrieve, service, resources, invitation]
 ---
-
-# Show Calendar Availability
 
 > A time slot is a period in a day when an appointment can be scheduled.
       Use the getAppointmentSlots API to retrieve the calendar

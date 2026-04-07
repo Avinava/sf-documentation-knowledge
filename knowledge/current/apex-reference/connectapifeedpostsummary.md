@@ -5,12 +5,10 @@ topic: connectapifeedpostsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.867Z
+lastCollected: 2026-04-07T18:36:09.250Z
 estimatedTokens: 88
 keywords: [ConnectApi.FeedPostSummary, Summary, post]
 ---
-
-# ConnectApi.FeedPostSummary
 
 > Summary of the post.
 

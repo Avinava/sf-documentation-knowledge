@@ -5,12 +5,10 @@ topic: package-usage-logs-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.393Z
+lastCollected: 2026-04-07T18:38:54.770Z
 estimatedTokens: 2547
-keywords: [Package, Usage, Logs, Schema, informed, development, decisions, log, data, Analyze, adoption, user, behavior, company, Lightning]
+keywords: [Package, Logs, Schema, informed, development, decisions, log, Analyze, adoption, user, behavior, company, Lightning, app, activity, 24-hour, period, UTC]
 ---
-
-# Package Usage Logs Schema
 
 > Make informed development decisions based on package usage log data. Analyze adoption,
     user behavior, company information, and Lightning app and page usage data. Package usage logs

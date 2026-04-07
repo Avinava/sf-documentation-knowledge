@@ -5,12 +5,10 @@ topic: care-diagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.278Z
+lastCollected: 2026-04-07T18:37:55.781Z
 estimatedTokens: 1156
-keywords: [Care, Diagnosis, Associated, including, code, diagnoses]
+keywords: [Care, Diagnosis, including, code, diagnoses]
 ---
-
-# Care Diagnosis
 
 > Associated diagnosis including code type, name, and description. One
       or more care diagnoses can be associated with a care request.

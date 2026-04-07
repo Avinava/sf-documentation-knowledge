@@ -5,12 +5,10 @@ topic: sendapplication-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.757Z
+lastCollected: 2026-04-07T18:35:59.028Z
 estimatedTokens: 217
 keywords: [send, application, users, push, notification, message]
 ---
-
-# send(application, users)
 
 > Sends a push notification message to the specified
   users.

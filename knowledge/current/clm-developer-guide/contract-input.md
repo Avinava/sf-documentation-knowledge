@@ -5,12 +5,10 @@ topic: contract-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.653Z
+lastCollected: 2026-04-07T18:37:24.646Z
 estimatedTokens: 148
-keywords: [Contract, Input]
+keywords: [Contract]
 ---
-
-# Contract Input
 
 > Input to create and update contract.
 

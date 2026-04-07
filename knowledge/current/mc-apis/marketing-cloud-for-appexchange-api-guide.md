@@ -5,12 +5,10 @@ topic: marketing-cloud-for-appexchange-api-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.750Z
+lastCollected: 2026-04-07T18:40:16.910Z
 estimatedTokens: 5048
-keywords: [Marketing, Cloud, Appexchange, API, presents, needed, capabilities, via, SOAP, Simple, Access, Protocol, web, service, business]
+keywords: [Prerequisites, Security, Marketing, Cloud, Appexchange, API, presents, needed, capabilities, via, SOAP, Simple, Protocol, web, service, business, application, Accessing, Integration, Framework, WSDL, File, Developing, against, NET, call, Send, Email, Listing, Sending, Salesforce, Report, PHP, Sample]
 ---
-
-# Marketing Cloud for Appexchange API Guide
 
 > This guide presents the details needed to use the capabilities of Marketing Cloud for AppExchange via a SOAP (Simple Object Access Protocol) web service in your business application.
 

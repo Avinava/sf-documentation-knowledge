@@ -5,12 +5,10 @@ topic: create-an-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.151Z
+lastCollected: 2026-04-07T18:40:08.108Z
 estimatedTokens: 885
 keywords: [Application, Follow, basic, workflow, starting, scratch, develop, app, runs, Lightning, Platform]
 ---
-
-# Create an Application
 
 > Follow the basic workflow when you are starting from scratch to create and develop an
   app that runs on the Lightning Platform.

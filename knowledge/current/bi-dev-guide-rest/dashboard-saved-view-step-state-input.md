@@ -5,12 +5,10 @@ topic: dashboard-saved-view-step-state-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.346Z
+lastCollected: 2026-04-07T18:36:54.703Z
 estimatedTokens: 97
-keywords: [Dashboard, Saved, View, Step, State, Input, Analytics]
+keywords: [Dashboard, Saved, View, Step, State, Analytics]
 ---
-
-# Dashboard Saved View Step State Input
 
 > The step state for an Analytics dashboard saved view.
 

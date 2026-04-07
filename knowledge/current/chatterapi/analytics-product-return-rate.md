@@ -5,12 +5,10 @@ topic: analytics-product-return-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.692Z
+lastCollected: 2026-04-07T18:37:15.754Z
 estimatedTokens: 228
 keywords: [Analytics, Product, Rate, products, product’s]
 ---
-
-# Analytics, Product Return Rate
 
 > Get products with each product’s return rate.
 

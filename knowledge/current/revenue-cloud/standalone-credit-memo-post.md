@@ -5,12 +5,10 @@ topic: standalone-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.289Z
+lastCollected: 2026-04-07T18:35:44.255Z
 estimatedTokens: 707
-keywords: [Standalone, Credit, Memo, POST, applying, invoice, later, date]
+keywords: [Standalone, Credit, Memo, POST, applying, invoice, date]
 ---
-
-# Standalone Credit Memo (POST)
 
 > Create a credit memo without applying it to an invoice. You can credit
       the invoice at a later date.

@@ -5,12 +5,10 @@ topic: apexcodecoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.263Z
+lastCollected: 2026-04-07T18:36:31.632Z
 estimatedTokens: 715
-keywords: [ApexCodeCoverage, code, coverage, test, results, Apex, trigger, Tooling, API, version, 29.0, later, SOAP, Calls, REST]
+keywords: [ApexCodeCoverage, code, coverage, test, results, Apex, trigger, Tooling, API, 29.0, SOAP, REST, HTTP]
 ---
-
-# ApexCodeCoverage
 
 > Represents code coverage test results for an Apex class or
    trigger. Available in Tooling API version 29.0 and later.

@@ -5,12 +5,10 @@ topic: ios-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.364Z
+lastCollected: 2026-04-07T18:40:27.536Z
 estimatedTokens: 594
-keywords: [iOS, Sample, Apps, template, forceios, createwithtemplate, spawn, Mobile, SDK, “starter”, samples, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo]
+keywords: [Native, Hybrid, iOS, Sample, Apps, template, forceios, createwithtemplate, spawn, Mobile, SDK, “starter”, samples, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo]
 ---
-
-# iOS Sample Apps
 
 > You can use template apps with forceios create or
           forceios createwithtemplate to spawn Mobile SDK “starter” apps.

@@ -5,12 +5,10 @@ topic: navigation-menu-page-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.808Z
+lastCollected: 2026-04-07T18:37:20.999Z
 estimatedTokens: 163
 keywords: [Navigation, Menu, item]
 ---
-
-# Navigation Menu Page Reference
 
 > Navigation menu item page reference.
 

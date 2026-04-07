@@ -5,12 +5,10 @@ topic: crm-analytics-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.316Z
+lastCollected: 2026-04-07T18:38:54.710Z
 estimatedTokens: 648
-keywords: [CRM, Analytics, Recipes, org, AppExchange, App, building, environment, country-codes, dataset, two, produce, subscriber, info, aggregate]
+keywords: [CRM, Analytics, Recipes, org, AppExchange, App, building, environment, country-codes, dataset, two, produce, subscriber, info, aggregate, daily]
 ---
-
-# CRM Analytics Recipes
 
 > Set up your org to create AppExchange App Analytics recipes by building your CRM
   Analytics environment. You first create a country-codes dataset. Then you create two CRM Analytics

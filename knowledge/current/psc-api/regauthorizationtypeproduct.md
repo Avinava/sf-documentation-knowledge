@@ -5,12 +5,10 @@ topic: regauthorizationtypeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.426Z
+lastCollected: 2026-04-07T18:39:07.648Z
 estimatedTokens: 742
-keywords: [RegAuthorizationTypeProduct, association, authorization, product, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [RegAuthorizationTypeProduct, association, authorization, product, API, 49.0]
 ---
-
-# RegAuthorizationTypeProduct
 
 > Represents the association of authorization type and product. This object is available in API version 49.0 and later.
 

@@ -5,12 +5,10 @@ topic: how-api-version-and-source-api-version-work-in-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.260Z
+lastCollected: 2026-04-07T18:40:09.205Z
 estimatedTokens: 2433
-keywords: [How, API, Version, Source, Work, Salesforce, CLI, uses, deploying, retrieving, metadata, org, they, sound, often]
+keywords: [How, API, Source, Work, Salesforce, CLI, uses, deploying, retrieving, metadata, org, they, sound, often, two, settings, differently, Precedence, Deploy, Examples, Show, Retrieve]
 ---
-
-# How API Version and Source API Version Work in Salesforce CLI
 
 > Salesforce CLI uses both the API version and source API version when deploying or
     retrieving metadata to or from an org. While they sound the same, and are often set to the same

@@ -5,12 +5,10 @@ topic: partner-payouts-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.306Z
+lastCollected: 2026-04-07T18:38:47.279Z
 estimatedTokens: 776
-keywords: [Partner, Payouts, refer, net, revenue, partners, receive, settled, customer, payments, Stripe, behalf, Salesforce, consolidates, orders]
+keywords: [Partner, Payouts, refer, net, revenue, partners, receive, settled, customer, payments, Stripe, behalf, Salesforce, consolidates, orders, daily, payout, means, rounds, deposits, account, day, haven’t, received, submitted, payment, hasn’t, yet, won’t, View, Breakdown]
 ---
-
-# Partner Payouts Overview
 
 > Payouts refer to the net revenue that partners receive from settled customer payments.
     Stripe, on behalf of Salesforce, consolidates settled revenue for all customer orders into a

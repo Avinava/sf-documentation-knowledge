@@ -5,12 +5,10 @@ topic: ratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.686Z
+lastCollected: 2026-04-07T18:39:58.348Z
 estimatedTokens: 545
-keywords: [RateCardEntry, rule, determines, charge, rate, product's, resource, entry, linked, card, exclusively, activation, deactivation, controlled, assigning]
+keywords: [RateCardEntry, rule, determines, charge, rate, product's, resource, entry, linked, card, exclusively, activation, deactivation, controlled, assigning, effective, dates, API, 62.0]
 ---
-
-# RateCardEntry
 
 > Represents a rule that determines the charge rate for using a
          product's resource. Each entry is linked to one rate card exclusively, and its activation

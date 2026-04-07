@@ -5,12 +5,10 @@ topic: assessment-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.465Z
+lastCollected: 2026-04-07T18:37:40.444Z
 estimatedTokens: 133
-keywords: [Assessment, Input, representation]
+keywords: [Assessment]
 ---
-
-# Assessment Details Input
 
 > Input representation of the assessment details of Assessment Response request.
 

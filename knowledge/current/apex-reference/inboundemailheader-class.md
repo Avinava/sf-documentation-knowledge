@@ -5,13 +5,11 @@ topic: inboundemailheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.332Z
+lastCollected: 2026-04-07T18:36:03.550Z
 estimatedTokens: 508
 namespace: Messaging
 keywords: [InboundEmail.Header, InboundEmail, stores, RFC, email]
 ---
-
-# InboundEmail.Header Class
 
 > An InboundEmail object stores RFC 2822 email header information
 in an InboundEmail.Header object with the following properties.

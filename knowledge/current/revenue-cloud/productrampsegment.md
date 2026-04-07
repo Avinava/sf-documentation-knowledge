@@ -5,12 +5,10 @@ topic: productrampsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.203Z
+lastCollected: 2026-04-07T18:35:50.121Z
 estimatedTokens: 925
-keywords: [ProductRampSegment, ramp, period, deal, terms, volumes, commitments, change, over, time, API, version, 62.0, later, Calls]
+keywords: [ProductRampSegment, ramp, period, deal, terms, volumes, commitments, change, over, time, API, 62.0]
 ---
-
-# ProductRampSegment
 
 > Represents the ramp period within a ramp deal where terms, volumes, and other
          commitments change over time. This object is available in API version 62.0 and

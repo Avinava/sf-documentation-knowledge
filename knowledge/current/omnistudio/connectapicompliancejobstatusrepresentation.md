@@ -5,12 +5,10 @@ topic: connectapicompliancejobstatusrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.315Z
+lastCollected: 2026-04-07T18:36:35.820Z
 estimatedTokens: 209
-keywords: [Output, representation, job, status]
+keywords: [job, status]
 ---
-
-# ConnectApi.ComplianceJobStatusRepresentation
 
 > Output representation for job status response.
 

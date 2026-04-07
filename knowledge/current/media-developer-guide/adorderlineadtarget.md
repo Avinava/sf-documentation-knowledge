@@ -5,12 +5,10 @@ topic: adorderlineadtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.803Z
+lastCollected: 2026-04-07T18:38:12.081Z
 estimatedTokens: 848
-keywords: [AdOrderLineAdTarget, selections, made, user, against, specific, Order, Line, item, particular, category, API, version, 55.0, later]
+keywords: [AdOrderLineAdTarget, selections, made, user, against, specific, Order, Line, item, particular, category, API, 55.0]
 ---
-
-# AdOrderLineAdTarget
 
 > Represents the selections made by the user against a specific Ad Order Line item for a
       particular category. This object is available in API version 55.0 and later.

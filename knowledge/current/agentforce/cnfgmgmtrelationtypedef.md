@@ -5,12 +5,10 @@ topic: cnfgmgmtrelationtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.376Z
+lastCollected: 2026-04-07T18:35:55.493Z
 estimatedTokens: 880
-keywords: [CnfgMgmtRelationTypeDef, relationship, configuration, item, items, defined, CMDB, Depends, Connected, API, version, 65.0, later, SOAP, Calls]
+keywords: [CnfgMgmtRelationTypeDef, relationship, configuration, item, items, defined, CMDB, Depends, Connected, API, 65.0, SOAP, REST]
 ---
-
-# CnfgMgmtRelationTypeDef
 
 > Represents the relationship between configuration item types or configuration
          items as defined in the CMDB. For example, Depends on or Connected to. This object is

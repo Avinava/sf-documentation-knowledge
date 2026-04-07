@@ -5,12 +5,10 @@ topic: canvas-personal-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.554Z
+lastCollected: 2026-04-07T18:38:57.348Z
 estimatedTokens: 916
-keywords: [Canvas, Personal, Apps, let, connected, designed, specifically, end, users, across, orgs, app, own, installation, relying]
+keywords: [Canvas, Personal, Apps, let, connected, designed, specifically, end, users, across, orgs, app, own, installation, relying, org, admins, distribution]
 ---
-
-# Canvas Personal Apps
 
 > Canvas personal apps let you create connected apps that are designed specifically for
         end users across orgs. With a canvas personal app, you make your own app available for

@@ -6,13 +6,10 @@ topic: requirements-for-standalone-amendment-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.681Z
+lastCollected: 2026-04-07T18:37:04.306Z
 estimatedTokens: 414
 keywords: [Requirements, Standalone, Amendment, Order, Products, product, API, Salesforce, Lightning, Classic]
 ---
-
-# Requirements
-  for Standalone Amendment Order Products
 
 > Create a standalone amendment order product through API in Salesforce Lightning or
   Salesforce Classic

@@ -5,12 +5,10 @@ topic: simplify-unlocked-package-development-by-creating-and-specifying-an-org-s
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.885Z
+lastCollected: 2026-04-07T18:40:08.835Z
 estimatedTokens: 301
-keywords: [Simplify, Unlocked, Package, Development, Creating, Specifying, Org, Shape, package’s, metadata, depends, complex, features, settings, licenses]
+keywords: [Simplify, Unlocked, Package, Development, Creating, Specifying, Org, Shape, package’s, metadata, depends, complex, features, settings, licenses, difficult, declaratively, specify, dependencies, scratch, definition, file, Instead, production, another, source, org’s, creation, mimic, environment, build, validate]
 ---
-
-# Simplify Unlocked Package Development by Creating and Specifying an Org Shape
 
 > If your package’s metadata depends on a complex set of features,
       settings, or licenses, it can be difficult to declaratively specify these dependencies in a

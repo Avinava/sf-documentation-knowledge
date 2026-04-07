@@ -5,12 +5,10 @@ topic: hourly-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.765Z
+lastCollected: 2026-04-07T18:36:57.283Z
 estimatedTokens: 206
 keywords: [Hourly, Schedule, Specify, Analytics, asset]
 ---
-
-# Hourly Schedule
 
 > Specify an hourly schedule for an Analytics asset.
 

@@ -5,12 +5,10 @@ topic: flowdefinitionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.492Z
+lastCollected: 2026-04-07T18:38:32.476Z
 estimatedTokens: 4114
-keywords: [FlowDefinitionView, flow, definition, API, version, 46.0, later, Calls, Usage]
+keywords: [FlowDefinitionView, flow, definition, API, 46.0]
 ---
-
-# FlowDefinitionView
 
 > Represents the description of a flow definition. This object is
       available in API version 46.0 and later.

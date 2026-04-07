@@ -5,12 +5,10 @@ topic: provideractivitymeasuretype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.513Z
+lastCollected: 2026-04-07T18:38:01.368Z
 estimatedTokens: 1751
-keywords: [ProviderActivityMeasureType, activity, goal, measure, API, version, 65.0, later, Calls]
+keywords: [ProviderActivityMeasureType, activity, goal, measure, API, 65.0]
 ---
-
-# ProviderActivityMeasureType
 
 > Represents the details of the activity goal measure type. This
       object is available in API version 65.0 and later.

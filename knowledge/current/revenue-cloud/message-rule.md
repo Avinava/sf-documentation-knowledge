@@ -5,12 +5,10 @@ topic: message-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.600Z
+lastCollected: 2026-04-07T18:35:42.481Z
 estimatedTokens: 416
 keywords: [Message, Rule, displays, users, conditions]
 ---
-
-# Message Rule
 
 > The message rule displays a message to users based on specified conditions.
 

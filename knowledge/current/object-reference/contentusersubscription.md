@@ -5,12 +5,10 @@ topic: contentusersubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.767Z
+lastCollected: 2026-04-07T18:38:28.678Z
 estimatedTokens: 199
-keywords: [ContentUserSubscription, subscription, user, another, API, version, 42.0, later, Calls, Special, Access, Rules]
+keywords: [ContentUserSubscription, subscription, user, another, API, 42.0]
 ---
-
-# ContentUserSubscription
 
 > Represents a subscription for a user following another user. This object
     is available in API version 42.0 and later.

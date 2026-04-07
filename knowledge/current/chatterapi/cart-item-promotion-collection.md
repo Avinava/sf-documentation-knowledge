@@ -5,12 +5,10 @@ topic: cart-item-promotion-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.186Z
+lastCollected: 2026-04-07T18:37:17.257Z
 estimatedTokens: 104
-keywords: [Cart, Item, Promotion, Collection, promotions, associated, items]
+keywords: [Cart, Item, Promotion, Collection, promotions, items]
 ---
-
-# Cart Item Promotion Collection
 
 > Collection of promotions associated with cart items.
 

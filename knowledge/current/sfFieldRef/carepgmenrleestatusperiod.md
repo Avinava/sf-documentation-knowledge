@@ -5,12 +5,10 @@ topic: carepgmenrleestatusperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.586Z
+lastCollected: 2026-04-07T18:39:31.947Z
 estimatedTokens: 350
-keywords: [CarePgmEnrleeStatusPeriod, historical, changes, status, stage, care, program, enrollee, API, version, 61.0, later]
+keywords: [CarePgmEnrleeStatusPeriod, historical, changes, status, stage, care, program, enrollee, API, 61.0]
 ---
-
-# CarePgmEnrleeStatusPeriod
 
 > Represents the historical changes to the status or stage of a care program
          enrollee. This object is available in API version 61.0 and later.

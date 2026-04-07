@@ -5,12 +5,10 @@ topic: comparing-setresumecheckpoint-and-and-eventbusretryableexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.528Z
+lastCollected: 2026-04-07T18:38:58.398Z
 estimatedTokens: 515
 keywords: [Comparing, setResumeCheckpoint, EventBus.RetryableException, Determine, suitable, resuming, platform, event, trigger]
 ---
-
-# Comparing  setResumeCheckpoint() and and EventBus.RetryableException
 
 > Determine which method is most suitable for resuming a platform
       event trigger.

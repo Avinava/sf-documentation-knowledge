@@ -5,12 +5,10 @@ topic: content-link-load-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.865Z
+lastCollected: 2026-04-07T18:37:24.838Z
 estimatedTokens: 246
-keywords: [Content, Link, Load, POST, Fetches, data, IDs]
+keywords: [Content, Link, Load, POST, Fetches, IDs]
 ---
-
-# Content Link Load (POST)
 
 > Fetches the content data for a specified reference ID or set of
       content link IDs.

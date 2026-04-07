@@ -5,12 +5,10 @@ topic: industries-common-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:57.894Z
+lastCollected: 2026-04-07T18:36:43.623Z
 estimatedTokens: 3418
 keywords: [Industries, Common, Resources, Certain, feature, shared, across, developer, documentation, help, put, features, work]
 ---
-
-# Industries Common Resources
 
 > Certain feature sets are shared across industries. This guide contains developer
     documentation to help you put those features to work.

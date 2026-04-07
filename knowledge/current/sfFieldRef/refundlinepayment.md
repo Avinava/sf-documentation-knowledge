@@ -5,12 +5,10 @@ topic: refundlinepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.659Z
+lastCollected: 2026-04-07T18:39:59.323Z
 estimatedTokens: 522
-keywords: [RefundLinePayment, refund, line, applied, payment, API, version, 48.0, later]
+keywords: [RefundLinePayment, refund, line, applied, payment, API, 48.0]
 ---
-
-# RefundLinePayment
 
 > A refund line that has been applied to a payment. This object is available
     in API version 48.0 and later.

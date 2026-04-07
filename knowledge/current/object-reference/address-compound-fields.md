@@ -5,12 +5,10 @@ topic: address-compound-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:32.996Z
+lastCollected: 2026-04-07T18:38:23.869Z
 estimatedTokens: 1535
-keywords: [Address, Compound, Standard, addresses—addresses, built, objects, Salesforce—are, accessible, SOAP, API, REST, structured, data, well, individual]
+keywords: [Address, Compound, Standard, addresses—addresses, built, Salesforce—are, accessible, SOAP, API, REST, structured, well, individual, enabled, add, mimic, behavior, Retrieving, Retrieve, Locations]
 ---
-
-# Address Compound Fields
 
 > Standard addresses—addresses built into standard objects in Salesforce—are accessible
         in the SOAP API and REST API as an Address, a structured compound data

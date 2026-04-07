@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.124Z
+lastCollected: 2026-04-07T18:37:32.298Z
 estimatedTokens: 180
 keywords: [Bodies, Here’s, E&U, Cloud, API]
 ---
-
-# Request Bodies
 
 > Here’s a list of E&U Cloud API request bodies.
 

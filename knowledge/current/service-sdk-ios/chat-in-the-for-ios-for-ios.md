@@ -6,13 +6,10 @@ topic: chat-in-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.008Z
+lastCollected: 2026-04-07T18:40:28.139Z
 estimatedTokens: 829
 keywords: [Chat, iOS, Service, SDK, provide, real-time, sessions, native, app]
 ---
-
-# Chat in the  for iOS for
-   iOS
 
 > Using Chat within the Service Chat SDK, you can provide real-time chat sessions
     from within your native app.

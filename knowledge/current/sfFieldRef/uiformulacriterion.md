@@ -5,12 +5,10 @@ topic: uiformulacriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:09.611Z
+lastCollected: 2026-04-07T18:40:04.345Z
 estimatedTokens: 335
-keywords: [UiFormulaCriterion, filter, helps, define, component, visibility, Lightning, API, version, 47.0, later]
+keywords: [UiFormulaCriterion, filter, helps, define, visibility, Lightning, API, 47.0]
 ---
-
-# UiFormulaCriterion
 
 > Represents a filter that helps define component visibility on a
          Lightning page. This object is available in API version 47.0 and later.

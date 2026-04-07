@@ -5,12 +5,10 @@ topic: expensereporthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.347Z
+lastCollected: 2026-04-07T18:39:39.955Z
 estimatedTokens: 261
-keywords: [ExpenseReportHistory, History, tracked, ExpenseReport]
+keywords: [ExpenseReportHistory, tracked, ExpenseReport]
 ---
-
-# ExpenseReportHistory
 
 > History for tracked fields of ExpenseReport.
 

@@ -5,12 +5,10 @@ topic: publishing-a-canvas-event-from-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.303Z
+lastCollected: 2026-04-07T18:38:57.088Z
 estimatedTokens: 424
 keywords: [Publishing, Canvas, Event, Visualforce, code, how, call, publish, myevent, Any, app, subscribes, receive]
 ---
-
-# Publishing a Canvas Event from a Visualforce Page
 
 > The following code example shows how to call the publish method to publish the myevent event from a Visualforce page. Any canvas app that subscribes
                 to this event will receive the event.

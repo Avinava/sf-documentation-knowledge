@@ -5,12 +5,10 @@ topic: refresh-a-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.265Z
+lastCollected: 2026-04-07T18:40:18.475Z
 estimatedTokens: 842
 keywords: [Refresh, Group, SOAP, API, Why, How, Sample, NET, Code, PHP, Envelope, Items]
 ---
-
-# Refresh a Group
 
 > This page contains information  about using the SOAP API to refresh a group.
 

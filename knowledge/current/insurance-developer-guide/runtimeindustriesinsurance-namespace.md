@@ -5,13 +5,11 @@ topic: runtimeindustriesinsurance-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:01.781Z
+lastCollected: 2026-04-07T18:37:50.678Z
 estimatedTokens: 803
 namespace: The
-keywords: [runtime_industries_insurance, Options, classes, control, input, managing, insurance, operations, creating, updating, quotes, generating, clauses, running, ratings]
+keywords: [runtime_industries_insurance, Options, classes, control, managing, insurance, operations, creating, updating, quotes, generating, clauses, running, ratings, calling, APIs, Apex, pricing, configuration, qualification, product, catalog, validation, runtime, _industries, _insurance]
 ---
-
-# runtime_industries_insurance Namespace
 
 > The runtime_industries_insurance namespace provides Options classes to control optional
     input parameters for managing insurance operations, such as creating and updating insurance

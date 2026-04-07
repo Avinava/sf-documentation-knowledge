@@ -5,12 +5,10 @@ topic: lightningonboardingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.719Z
+lastCollected: 2026-04-07T18:36:27.200Z
 estimatedTokens: 786
-keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic, Admins, customize, question, how, frequently, form]
+keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic, Admins, customize, question, how, frequently, form, appears, stored, Chatter, Adoption, Assistance, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LightningOnboardingConfig
 
 > Represents the feedback provided when users switch from
       Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently

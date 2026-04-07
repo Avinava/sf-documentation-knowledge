@@ -5,12 +5,10 @@ topic: string-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.181Z
+lastCollected: 2026-04-07T18:37:00.750Z
 estimatedTokens: 714
 keywords: [Functions, SAQL, measure, dimension]
 ---
-
-# String Functions
 
 > Use SAQL string functions to
         format your measure and dimension fields.

@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-applicationformselleritem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.967Z
+lastCollected: 2026-04-07T18:36:52.396Z
 estimatedTokens: 352
 keywords: [Automotive, Cloud, ApplicationFormSellerItem, Standard, extend, represent, junction, application, form, seller, product]
 ---
-
-# Automotive Cloud Fields on ApplicationFormSellerItem
 
 > Standard fields extend the ApplicationFormSellerItem object for use in
          Automotive Cloud to represent a junction between an application form and an automotive

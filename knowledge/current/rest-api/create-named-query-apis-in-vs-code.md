@@ -5,12 +5,10 @@ topic: create-named-query-apis-in-vs-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.672Z
+lastCollected: 2026-04-07T18:36:20.909Z
 estimatedTokens: 465
 keywords: [Named, Query, APIs, Code, API, deploy, org, Setup, view, edit]
 ---
-
-# Create Named Query APIs in VS Code
 
 > In VS Code, you can create a Named Query API and deploy it to your org. In Setup, you
   can view, edit, and delete the Named Query API.

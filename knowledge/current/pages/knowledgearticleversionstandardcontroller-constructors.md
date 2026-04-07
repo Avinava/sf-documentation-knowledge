@@ -6,12 +6,9 @@ topic: knowledgearticleversionstandardcontroller-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.972Z
+lastCollected: 2026-04-07T18:38:47.927Z
 estimatedTokens: 106
 ---
-
-# KnowledgeArticleVersionStandardController
-Constructors
 
 > The following are constructors for KnowledgeArticleVersionStandardController.
 

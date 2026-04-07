@@ -5,12 +5,10 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.122Z
+lastCollected: 2026-04-07T18:36:30.495Z
 estimatedTokens: 818
-keywords: [ValidationRule, validation, rule, verify, data, user, enters, record, saved, formula, expression, evaluates, rules, include, error]
+keywords: [ValidationRule, validation, rule, verify, user, enters, record, saved, formula, expression, evaluates, include, error, message, client, application, display, due, invalid, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# ValidationRule
 
 > Represents a validation rule, which is used to
             verify that the data a user enters in a record is valid and can be saved. A validation

@@ -5,12 +5,10 @@ topic: extend-workcom-with-custom-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.946Z
+lastCollected: 2026-04-07T18:40:13.917Z
 estimatedTokens: 447
-keywords: [Extend, Work.com, Custom, Solutions, Build, including, Workplace, Command, Center, Wellness, Check, Shift, Management, Employee, Workspace]
+keywords: [Extend, Work.com, Solutions, Build, including, Workplace, Command, Center, Wellness, Check, Shift, Management, Employee, Workspace, help, businesses, respond, major, event, adopt, wide-scale, compliance, implement, auditing, system, operations]
 ---
-
-# Extend Work.com with Custom Solutions
 
 > Build custom solutions for Work.com, including Workplace Command Center, Wellness Check, Shift Management,
 Employee Workspace and more, to help businesses respond to a major event, adopt wide-scale compliance, implement an

@@ -5,12 +5,10 @@ topic: stopping-and-restarting-sync-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.334Z
+lastCollected: 2026-04-07T18:40:25.708Z
 estimatedTokens: 1206
-keywords: [Stopping, Restarting, Sync, Operations, Beginning, Mobile, SDK, 7.1, manager, classes, provide, allow, apps, stop, restart]
+keywords: [Android, Stopping, Restarting, Sync, Operations, Beginning, Mobile, SDK, 7.1, manager, classes, provide, allow, apps, stop, restart, syncs, Sometimes, stopped, paused, restarted, cases, forces, operation, fail, possibility, resuming, new, APIs, support, another, enhancement, ability, share, safely, across, multiple, app, extensions, Descriptions, iOS, Hybrid, React, Native, Efficiently, Down]
 ---
-
-# Stopping and Restarting Sync Operations
 
 > Beginning in Mobile SDK 7.1, sync
     manager classes provide methods that allow apps to stop and restart syncs. Sometimes, a stopped

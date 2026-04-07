@@ -5,12 +5,10 @@ topic: connectapiproductattributesetsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.682Z
+lastCollected: 2026-04-07T18:36:10.950Z
 estimatedTokens: 180
 keywords: [ConnectApi.ProductAttributeSetSummary, Summary, product, attribute]
 ---
-
-# ConnectApi.ProductAttributeSetSummary
 
 > Summary of a product attribute set.
 

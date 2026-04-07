@@ -5,12 +5,10 @@ topic: update-data-cloud-object-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.036Z
+lastCollected: 2026-04-07T18:39:19.730Z
 estimatedTokens: 386
-keywords: [Data, Cloud, node, recipe]
+keywords: [Cloud, node, recipe]
 ---
-
-# Update Data Cloud Object Parameters
 
 > The parameters for an update data cloud object node in a recipe.
 

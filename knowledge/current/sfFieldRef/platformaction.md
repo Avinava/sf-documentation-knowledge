@@ -5,12 +5,10 @@ topic: platformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.782Z
+lastCollected: 2026-04-07T18:39:54.331Z
 estimatedTokens: 627
-keywords: [PlatformAction, virtual, read-only, query, actions, user, context, device, record, Examples, include, standard, custom, buttons, quick]
+keywords: [PlatformAction, virtual, read-only, query, actions, user, context, device, record, Examples, include, standard, buttons, quick, productivity]
 ---
-
-# PlatformAction
 
 > PlatformAction is a virtual read-only object. It enables you to query
    for actions displayed in the UI, given a user, a context, device format, and a record ID.

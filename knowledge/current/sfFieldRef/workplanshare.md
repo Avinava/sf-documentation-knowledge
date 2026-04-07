@@ -5,12 +5,10 @@ topic: workplanshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.043Z
+lastCollected: 2026-04-07T18:40:06.948Z
 estimatedTokens: 247
 keywords: [WorkPlanShare, Sharing, WorkPlan]
 ---
-
-# WorkPlanShare
 
 > Sharing for WorkPlan.
 

@@ -5,12 +5,10 @@ topic: create-an-email-as-a-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.291Z
+lastCollected: 2026-04-07T18:38:03.304Z
 estimatedTokens: 560
-keywords: [Email, Quick, Action, custom, component, button, launch, composer, pre-populated, content, record, lightning, pageReferenceUtils, navigation, components]
+keywords: [Email, Quick, Action, button, launch, composer, pre-populated, content, record, lightning, pageReferenceUtils, navigation, together, Define, Services, pageReference, Utils, Pass, Attributes, navService, Add, Predefined, Info]
 ---
-
-# Create an Email as a Quick Action
 
 > In a custom component, create a button to launch the email composer with pre-populated
         content. To launch a record create a page with pre-populated field values, use the lightning:pageReferenceUtils and lightning:navigation components together.

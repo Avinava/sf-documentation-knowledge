@@ -5,12 +5,10 @@ topic: account-relation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.681Z
+lastCollected: 2026-04-07T18:39:00.806Z
 estimatedTokens: 421
-keywords: [Account, Relation, Input, representation, relationship]
+keywords: [Account, Relation, relationship]
 ---
-
-# Account Relation Input
 
 > Input representation of an account relationship.
 

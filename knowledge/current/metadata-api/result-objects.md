@@ -5,12 +5,10 @@ topic: result-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.820Z
+lastCollected: 2026-04-07T18:36:29.300Z
 estimatedTokens: 611
-keywords: [Result, Objects, results, file-based, CRUD-based, calls]
+keywords: [Result, results, file-based, CRUD-based]
 ---
-
-# Result Objects
 
 > Use the following objects to get the results of your file-based or CRUD-based calls.
 

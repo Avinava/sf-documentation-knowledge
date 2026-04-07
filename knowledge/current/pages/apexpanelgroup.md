@@ -5,12 +5,10 @@ topic: apexpanelgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.212Z
+lastCollected: 2026-04-07T18:38:50.486Z
 estimatedTokens: 360
-keywords: [apex, panelGroup, container, multiple, child, components, they, panelGrid, cell, <apex, panelGroup>, component, panelGrid>, Attributes]
+keywords: [Attributes, apex, panelGroup, container, multiple, child, they, panelGrid, cell, <apex, panelGroup>, panelGrid>]
 ---
-
-# apex:panelGroup
 
 > A container for multiple child components so that they can be displayed in a single panelGrid cell. An <apex:panelGroup> must be a child component of an <apex:panelGrid>.
 

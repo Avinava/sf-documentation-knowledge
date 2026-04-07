@@ -5,12 +5,10 @@ topic: salesforce-surveys-invitation-emails-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.887Z
+lastCollected: 2026-04-07T18:37:15.958Z
 estimatedTokens: 937
-keywords: [Salesforce, Surveys, Invitation, Emails, Resource, Email, survey, invitations, participants, leads, contacts, users, org, Either, link]
+keywords: [Salesforce, Surveys, Invitation, Emails, Resource, Email, survey, invitations, participants, leads, contacts, users, org, Either, link, launch, question, embedded]
 ---
-
-# Salesforce Surveys Invitation Emails Resource
 
 > Email survey invitations to up to 300 participants. You can email
       leads, contacts, or users in your org. Either a link to launch the survey or a question can be

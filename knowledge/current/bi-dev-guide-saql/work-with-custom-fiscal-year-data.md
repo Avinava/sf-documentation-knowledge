@@ -5,12 +5,10 @@ topic: work-with-custom-fiscal-year-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:13.787Z
+lastCollected: 2026-04-07T18:37:00.295Z
 estimatedTokens: 513
-keywords: [Work, Custom, Fiscal, Year, Data, inheriting, years, SAQL, queries, support]
+keywords: [Work, Fiscal, Year, inheriting, years, SAQL, queries, support]
 ---
-
-# Work with Custom Fiscal Year Data
 
 > After inheriting custom fiscal years, SAQL queries support custom
          fiscal year data.

@@ -5,12 +5,10 @@ topic: cgcloudpromotionproductsharec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.148Z
+lastCollected: 2026-04-07T18:39:14.549Z
 estimatedTokens: 961
-keywords: [cgcloud__Promotion_Product_Share__c, holds, categories, assigned, promotion, API, version, 54.0, later, cgcloud, _Promotion, _Product, _Share, Calls, Associated]
+keywords: [cgcloud__Promotion_Product_Share__c, holds, categories, assigned, promotion, API, 54.0, cgcloud, _Promotion, _Product, _Share]
 ---
-
-# cgcloud__Promotion_Product_Share__c
 
 > This object holds the details of categories that are assigned to a
          promotion. This object is available in API version 54.0 and later.

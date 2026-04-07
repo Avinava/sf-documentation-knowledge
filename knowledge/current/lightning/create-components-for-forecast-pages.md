@@ -5,12 +5,10 @@ topic: create-components-for-forecast-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.887Z
+lastCollected: 2026-04-07T18:38:02.815Z
 estimatedTokens: 766
-keywords: [Components, Forecast, Pages, custom, Aura, add, Lightning, forecasts]
+keywords: [Forecast, Pages, Aura, add, Lightning, forecasts]
 ---
-
-# Create Components for Forecast Pages
 
 > Create custom Aura components that are available to add to Lightning forecasts
     pages.

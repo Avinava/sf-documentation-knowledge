@@ -5,12 +5,10 @@ topic: add
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.262Z
+lastCollected: 2026-04-07T18:40:21.538Z
 estimatedTokens: 95
-keywords: [Add, Function, Ordinal, numeric, Second, **Overview**, **Syntax**, Usage, JSON, representing, new, account, user, content, area, data, extension, Examples, delivery, profile]
+keywords: [Add, Function, Ordinal, numeric, Second, **Overview**, **Syntax**, JSON, representing, new, account, user, content, area, Examples, extension, delivery, profile, containing, email, including, filter, definition, folder, Portfolio, query, retrieves, array, definitions, criteria, CustomerKey, message, associate, send, IDs, classification, sender, subscriber, template, triggered]
 ---
-
-# Add
 
 > Add(1)
 

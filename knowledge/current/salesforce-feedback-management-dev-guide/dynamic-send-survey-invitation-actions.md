@@ -5,12 +5,10 @@ topic: dynamic-send-survey-invitation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.152Z
+lastCollected: 2026-04-07T18:39:16.747Z
 estimatedTokens: 599
-keywords: [Dynamic, Send, Survey, Invitation, Actions, customized, notifications, users, events, updates, records, they’re, working, notify, account]
+keywords: [Inputs, Outputs, Dynamic, Send, Survey, Invitation, Actions, customized, notifications, users, events, updates, records, they’re, working, notify, account, owners, case, created, REST, HTTP]
 ---
-
-# Dynamic Send Survey Invitation Actions
 
 > Send customized notifications to users about important events or
 			updates to the records that they’re working on. For example, notify account owners when

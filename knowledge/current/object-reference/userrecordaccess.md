@@ -5,12 +5,10 @@ topic: userrecordaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.072Z
+lastCollected: 2026-04-07T18:38:43.845Z
 estimatedTokens: 900
-keywords: [UserRecordAccess, user’s, access, records, API, version, 24.0, later, doesn’t, consider, whether, blocked, restriction, rule, Calls]
+keywords: [UserRecordAccess, user’s, records, API, 24.0, doesn’t, consider, whether, blocked, restriction, rule]
 ---
-
-# UserRecordAccess
 
 > Represents a user’s access to a set of records. This object
             is read only and is available in API version 24.0 and later. This object doesn’t

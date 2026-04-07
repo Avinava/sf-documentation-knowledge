@@ -5,12 +5,10 @@ topic: customobjecttranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.861Z
+lastCollected: 2026-04-07T18:36:24.206Z
 estimatedTokens: 4881
-keywords: [CustomObjectTranslation, metadata, translate, custom, objects, variety, languages, Declarative, File, Suffix, Directory, Location, Version, CustomFieldTranslation, FieldSetTranslation]
+keywords: [CustomObjectTranslation, CustomFieldTranslation, FieldSetTranslation, LayoutTranslation, LayoutSectionTranslation, LookupFilterTranslation, NamedFilterTranslation, ObjectNameCaseValue, PicklistValueTranslation, QuickActionTranslation, RecordTypeTranslation, SharingReasonTranslation, ValidationRuleTranslation, WebLinkTranslation, WorkflowTaskTranslation, metadata, translate, variety, languages, Declarative, File, Suffix, Directory, Location, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# CustomObjectTranslation
 
 > This metadata type allows you to translate
             custom objects for a variety of languages.

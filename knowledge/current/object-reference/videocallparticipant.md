@@ -5,12 +5,10 @@ topic: videocallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.243Z
+lastCollected: 2026-04-07T18:38:44.057Z
 estimatedTokens: 1103
-keywords: [VideoCallParticipant, participant, video, call, come, provider, Zoom, Salesforce, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [VideoCallParticipant, participant, video, call, come, provider, Zoom, Salesforce, API, 51.0]
 ---
-
-# VideoCallParticipant
 
 > Represents a participant in a video call. Participant information can come from
       the video call provider (for example, Zoom), or Salesforce. This object is available in

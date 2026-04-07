@@ -5,12 +5,10 @@ topic: setsmsconversationnextkeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.373Z
+lastCollected: 2026-04-07T18:40:22.789Z
 estimatedTokens: 342
-keywords: [SetSmsConversationNextKeyword, Function, Ordinal, Short, code, SMS, service, MOBILE_NUMBER, variable, user's, mobile, number, **Overview**, **Syntax**, Usage]
+keywords: [SetSmsConversationNextKeyword, Function, Ordinal, Short, code, SMS, service, MOBILE_NUMBER, variable, user's, mobile, number, **Overview**, **Syntax**]
 ---
-
-# SetSmsConversationNextKeyword
 
 > SetSmsConversationNextKeyword(1, 2, 3)
 

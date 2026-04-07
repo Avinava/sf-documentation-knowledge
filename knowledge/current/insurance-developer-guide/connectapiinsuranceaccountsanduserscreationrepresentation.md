@@ -5,12 +5,10 @@ topic: connectapiinsuranceaccountsanduserscreationrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.531Z
+lastCollected: 2026-04-07T18:37:50.367Z
 estimatedTokens: 230
-keywords: [Output, representation, person, account, user, creation, process]
+keywords: [person, account, user, creation, process]
 ---
-
-# ConnectApi.InsuranceAccountsAndUsersCreationRepresentation
 
 > Output representation for the person account and user creation process.
 

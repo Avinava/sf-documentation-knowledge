@@ -5,12 +5,10 @@ topic: promotion-product-evaluation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.161Z
+lastCollected: 2026-04-07T18:37:09.879Z
 estimatedTokens: 439
-keywords: [Promotion, Product, Evaluation, Input, Finds, promotions, products, eligible, computes, discounts, Supports, domain, dependent, requests, webstoreId]
+keywords: [Promotion, Product, Evaluation, Finds, promotions, products, eligible, computes, discounts, Supports, domain, dependent, requests, webstoreId, effectiveAccountId, independent, external, dataset, SKUs, categories]
 ---
-
-# Promotion Product Evaluation Input
 
 > Finds promotions that products are eligible for and computes the discounts. Supports
     domain dependent requests based on webstoreId and effectiveAccountId, or domain independent requests using an

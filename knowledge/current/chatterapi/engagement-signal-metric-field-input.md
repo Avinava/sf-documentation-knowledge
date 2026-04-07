@@ -5,12 +5,10 @@ topic: engagement-signal-metric-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.397Z
+lastCollected: 2026-04-07T18:37:08.218Z
 estimatedTokens: 108
-keywords: [Engagement, Signal, Metric, Input, References]
+keywords: [Engagement, Signal, Metric, References]
 ---
-
-# Engagement Signal Metric Field Input
 
 > References an Engagement Signal Metric by Engagement Signal and Metric
     names.

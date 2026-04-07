@@ -5,12 +5,10 @@ topic: approve-or-reject-a-request-to-join-a-private-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.076Z
+lastCollected: 2026-04-07T18:37:24.123Z
 estimatedTokens: 235
 keywords: [Approve, Reject, Join, Group, Chatter]
 ---
-
-# Approve or Reject a Request to Join a Private Group
 
 > Approve or reject a request to join a private group in Chatter.
 

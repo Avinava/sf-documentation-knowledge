@@ -5,12 +5,10 @@ topic: impactriskopportunityscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.258Z
+lastCollected: 2026-04-07T18:38:18.867Z
 estimatedTokens: 1031
-keywords: [ImpactRiskOpportunityScore, score, impact, risk, opportunity, assessment, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ImpactRiskOpportunityScore, score, impact, risk, opportunity, assessment, API, 63.0]
 ---
-
-# ImpactRiskOpportunityScore
 
 > Represents the score of an impact, risk, or opportunity for an
          assessment. This object is available in API version 63.0 and later.

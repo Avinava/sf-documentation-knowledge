@@ -5,12 +5,10 @@ topic: files-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.305Z
+lastCollected: 2026-04-07T18:40:27.487Z
 estimatedTokens: 220
 keywords: [Files, API]
 ---
-
-# Files API Reference
 
 # Files API Reference
 

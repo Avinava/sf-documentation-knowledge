@@ -5,12 +5,10 @@ topic: arbitrary-redirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.973Z
+lastCollected: 2026-04-07T18:39:21.847Z
 estimatedTokens: 1449
-keywords: [Arbitrary, Redirect, sites, mechanism, redirecting, users, different, pages, site, server, side, PHP, JSP, ASP, etc]
+keywords: [Arbitrary, Redirect, sites, mechanism, redirecting, users, different, pages, site, server, side, PHP, JSP, ASP, etc, client, JavaScript, redirects, bring, Sample, Vulnerability, Application, Vulnerable, How, Test, Protect]
 ---
-
-# Arbitrary Redirect
 
 > Many sites have a mechanism for redirecting users to different pages on the site, or
                 even to pages on different sites, The redirect can be done server side (PHP, JSP,

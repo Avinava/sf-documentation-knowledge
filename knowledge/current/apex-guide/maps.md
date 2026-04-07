@@ -5,12 +5,10 @@ topic: maps
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.126Z
+lastCollected: 2026-04-07T18:36:19.350Z
 estimatedTokens: 1234
-keywords: [Maps, map, collection, key-value, pairs, unique, key, Keys, any, data, type—primitive, collections, sObjects, user-defined, built-in]
+keywords: [Maps, map, collection, key-value, pairs, unique, key, Keys, any, type—primitive, collections, sObjects, user-defined, built-in, Apex, Considerations]
 ---
-
-# Maps
 
 > A map is a collection of key-value pairs where each unique key maps to a single value.
     Keys and values can be any data type—primitive types, collections, sObjects, user-defined

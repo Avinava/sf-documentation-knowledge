@@ -5,13 +5,11 @@ topic: reportfactwithdetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.966Z
+lastCollected: 2026-04-07T18:36:03.178Z
 estimatedTokens: 743
 namespace: Reports
-keywords: [ReportFactWithDetails, detailed, fact, map, report, report’s, data, Usage, getAggregates, getKey, getRows]
+keywords: [ReportFactWithDetails, detailed, fact, map, report, report’s, getAggregates, getKey, getRows]
 ---
-
-# ReportFactWithDetails Class
 
 > Contains the detailed fact map for the report, which represents
 the report’s data values.

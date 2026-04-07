@@ -5,12 +5,10 @@ topic: indicatorassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.582Z
+lastCollected: 2026-04-07T18:36:43.320Z
 estimatedTokens: 1144
-keywords: [IndicatorAssignment, assignment, indicator, definition, that's, measure, performance, outcome, activity, API, version, 59.0, later, Calls, Special]
+keywords: [IndicatorAssignment, assignment, indicator, definition, that's, measure, performance, outcome, activity, API, 59.0]
 ---
-
-# IndicatorAssignment
 
 > Represents the assignment of an indicator definition that's used to
          measure the performance of an outcome or a related activity. This object is available

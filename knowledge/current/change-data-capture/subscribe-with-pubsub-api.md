@@ -5,12 +5,10 @@ topic: subscribe-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.864Z
+lastCollected: 2026-04-07T18:37:05.571Z
 estimatedTokens: 1267
-keywords: [Subscribe, Pub, Sub, API, event, messages, external, client, integrate, systems, Simplify, development, publish, retrieve, schema]
+keywords: [Subscribe, Pub, Sub, API, event, messages, external, client, integrate, systems, Simplify, development, publish, retrieve, schema, gRPC, HTTP, efficient, delivery, binary, Apache, Avro, control, volume, received, per, call, processing, speed]
 ---
-
-# Subscribe with Pub/Sub API
 
 > Use Pub/Sub API to subscribe to event messages in an external client to integrate your
     systems. Simplify your development by using one API to publish, subscribe, and retrieve the

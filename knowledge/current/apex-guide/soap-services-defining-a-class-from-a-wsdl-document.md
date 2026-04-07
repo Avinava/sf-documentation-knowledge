@@ -5,12 +5,10 @@ topic: soap-services-defining-a-class-from-a-wsdl-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.922Z
+lastCollected: 2026-04-07T18:36:16.147Z
 estimatedTokens: 2850
-keywords: [SOAP, Services, Defining, WSDL, Document, Classes, automatically, generated, stored, local, hard, drive, network, Creating, consuming]
+keywords: [SOAP, Services, Defining, WSDL, Document, Classes, automatically, generated, stored, local, hard, drive, network, Creating, consuming, developers, callouts, external, Web, service, their, Apex, code, Invoking, HTTP, Support, Sending, Callout, Accessing, Features]
 ---
-
-# SOAP Services: Defining a Class from a WSDL Document
 
 > Classes can be automatically generated from a WSDL document that
         is stored on a local hard drive or network. Creating a class by consuming a WSDL

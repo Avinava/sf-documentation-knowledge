@@ -5,13 +5,11 @@ topic: standarddatefilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.828Z
+lastCollected: 2026-04-07T18:36:03.035Z
 estimatedTokens: 1318
 namespace: Reports
-keywords: [StandardDateFilter, standard, date, filter, report—for, API, start, end, duration, well, placed, getColumn, getDurationValue, getEndDate, getStartDate]
+keywords: [StandardDateFilter, standard, date, filter, report—for, API, start, end, duration, well, placed, getColumn, getDurationValue, getEndDate, getStartDate, setColumn, standardDateFilterColumnName, setDurationValue, durationName, setEndDate, endDate, setStartDate, startDate]
 ---
-
-# StandardDateFilter Class
 
 > Contains information about standard date filter available in the
       report—for example, the API name, start date, and end date of the standard date filter

@@ -5,12 +5,10 @@ topic: investigate-session-hijacking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.848Z
+lastCollected: 2026-04-07T18:39:22.755Z
 estimatedTokens: 1078
 keywords: [Investigate, Session, Hijacking, tips, investigating, attack]
 ---
-
-# Investigate Session Hijacking
 
 > Here are some tips for investigating a session hijacking attack.
 

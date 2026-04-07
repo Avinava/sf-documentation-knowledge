@@ -5,13 +5,11 @@ topic: use-a-visualforce-global-variable-for-the-platform-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.938Z
+lastCollected: 2026-04-07T18:36:18.164Z
 estimatedTokens: 465
 namespace: CacheBuilder
-keywords: [Visualforce, Variable, Platform, Cache, access, cached, stored, session, org, variables]
+keywords: [Visualforce, Variable, Platform, Cache, cached, stored, session, org, variables]
 ---
-
-# Use a Visualforce Global Variable for the Platform Cache
 
 > You can access cached values stored in the session or org cache from a Visualforce page
     with global variables.

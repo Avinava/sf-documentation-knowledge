@@ -5,12 +5,10 @@ topic: math-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.083Z
+lastCollected: 2026-04-07T18:37:00.640Z
 estimatedTokens: 1749
 keywords: [Math, Functions, perform, numeric, operations, SAQL, query]
 ---
-
-# Math Functions
 
 > To perform numeric operations in a SAQL query, use math
         functions.

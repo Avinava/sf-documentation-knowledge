@@ -5,12 +5,10 @@ topic: freeze-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:54.995Z
+lastCollected: 2026-04-07T18:35:39.772Z
 estimatedTokens: 514
-keywords: [Freeze, Sales, Transaction, Action, disable, modification, line, item, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Freeze, Sales, Transaction, Action, disable, modification, line, item, REST, HTTP]
 ---
-
-# Freeze Sales Transaction Action
 
 > Freeze a sales transaction to disable the modification of a line
             item.

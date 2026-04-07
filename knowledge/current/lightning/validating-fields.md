@@ -5,12 +5,10 @@ topic: validating-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:14.448Z
+lastCollected: 2026-04-07T18:38:04.602Z
 estimatedTokens: 1470
-keywords: [Validating, Validate, user, input, handle, errors, display, error, messages, Prevent, Invalid, Getting, Submitted, Validation, Considerations]
+keywords: [Validating, Validate, user, handle, errors, display, error, messages, Prevent, Invalid, Getting, Submitted, Validation, Considerations]
 ---
-
-# Validating Fields
 
 > Validate user input, handle errors, and display error messages on input
         fields.

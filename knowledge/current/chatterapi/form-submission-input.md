@@ -5,12 +5,10 @@ topic: form-submission-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.734Z
+lastCollected: 2026-04-07T18:37:08.556Z
 estimatedTokens: 89
-keywords: [Form, Submission, Input, Marketing, integration]
+keywords: [Form, Submission, Marketing, integration]
 ---
-
-# Form Submission Input
 
 > Marketing integration form submission.
 

@@ -5,12 +5,10 @@ topic: lifescimetadataassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.955Z
+lastCollected: 2026-04-07T18:38:00.739Z
 estimatedTokens: 812
-keywords: [LifeSciMetadataAssignment, assignments, Life, Sciences, configuration, record, child, LifeSciMetadataRecord, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LifeSciMetadataAssignment, assignments, Life, Sciences, configuration, record, child, LifeSciMetadataRecord, API, 65.0]
 ---
-
-# LifeSciMetadataAssignment
 
 > Represents the assignments for a Life Sciences configuration record. This
          object is a child of LifeSciMetadataRecord. This object is available in API version

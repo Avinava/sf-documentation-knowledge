@@ -5,12 +5,10 @@ topic: set-up-your-development-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.757Z
+lastCollected: 2026-04-07T18:38:15.241Z
 estimatedTokens: 1567
-keywords: [Development, Environment, Lightning, web, component, LWC, test, mobile, app, components, Installation, Instructions]
+keywords: [Development, Environment, Lightning, web, LWC, test, mobile, app, Installation, Instructions]
 ---
-
-# Set Up Your Development Environment
 
 > Before you can create your first Lightning web component (LWC), or test a LWC in a
   mobile app, you must set up your development environment for mobile components.

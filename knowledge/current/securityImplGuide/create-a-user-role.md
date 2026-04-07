@@ -5,12 +5,10 @@ topic: create-a-user-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.201Z
+lastCollected: 2026-04-07T18:39:22.093Z
 estimatedTokens: 989
-keywords: [User, Role, hierarchy, users, access, records, owned, shared, roles, below, affect, components, reports]
+keywords: [User, Role, hierarchy, users, records, owned, shared, roles, below, affect, reports]
 ---
-
-# Create a User Role
 
 > In the role hierarchy, users have access to records owned by or shared with users in
   roles below them. Roles within the hierarchy affect access on components such as records and

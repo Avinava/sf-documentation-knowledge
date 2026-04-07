@@ -5,12 +5,10 @@ topic: oauth-refresh-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.024Z
+lastCollected: 2026-04-07T18:37:16.106Z
 estimatedTokens: 129
 keywords: [OAuth, Refresh, Token, identifier]
 ---
-
-# OAuth Refresh Token
 
 > Delete a refresh token by token identifier.
 

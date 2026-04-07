@@ -5,12 +5,10 @@ topic: referral-promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.195Z
+lastCollected: 2026-04-07T18:39:09.506Z
 estimatedTokens: 529
-keywords: [Referral, Promotion, output]
+keywords: [Referral, Promotion]
 ---
-
-# Referral Promotion
 
 > Represents the output for Referral Promotion.
 

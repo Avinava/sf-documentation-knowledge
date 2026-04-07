@@ -5,12 +5,10 @@ topic: pasclaimresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.323Z
+lastCollected: 2026-04-07T18:37:44.629Z
 estimatedTokens: 255
-keywords: [PASClaimResponse, FHIR, resource, maps, CareProcessingError, AuthorNote, TrackedCommunication, andTrackedCommunicationDetailobjects, V4.0, Utilization, Management, Data, Model, Mapping]
+keywords: [PASClaimResponse, FHIR, resource, maps, CareProcessingError, AuthorNote, TrackedCommunication, andTrackedCommunicationDetailobjects, V4.0, Utilization, Management, Model, Mapping]
 ---
-
-# PASClaimResponse
 
 > The PASClaimResponse FHIR resource maps to the
    CareProcessingError, AuthorNote,

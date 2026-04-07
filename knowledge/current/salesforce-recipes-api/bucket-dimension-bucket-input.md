@@ -5,12 +5,10 @@ topic: bucket-dimension-bucket-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.437Z
+lastCollected: 2026-04-07T18:39:18.124Z
 estimatedTokens: 89
-keywords: [Bucket, Dimension, Input, node, recipe]
+keywords: [Bucket, Dimension, node, recipe]
 ---
-
-# Bucket Dimension Bucket Input
 
 > A bucket for a bucket node dimension field in a recipe.
 

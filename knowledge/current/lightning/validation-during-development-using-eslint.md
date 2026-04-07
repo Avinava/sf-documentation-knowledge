@@ -5,12 +5,10 @@ topic: validation-during-development-using-eslint
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.703Z
+lastCollected: 2026-04-07T18:38:05.926Z
 estimatedTokens: 320
-keywords: [Validation, Development, ESLint, scan, improve, code, linting, tool, doesn’t, help, avoid, Lightning, Locker, conflicts, anti-patterns]
+keywords: [Validation, Development, ESLint, scan, improve, code, linting, tool, doesn’t, help, avoid, Lightning, Locker, conflicts, anti-patterns, It’s, terrific, practice, improving, quality, consistency, uncover, subtle, bugs, commit, codebase]
 ---
-
-# Validation During Development Using ESLint
 
 > Use ESLint to scan and improve your code during development. A linting
       tool doesn’t just help you avoid Lightning Locker conflicts and anti-patterns. It’s a terrific

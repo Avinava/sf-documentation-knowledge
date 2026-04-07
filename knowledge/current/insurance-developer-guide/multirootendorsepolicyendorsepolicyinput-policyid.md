@@ -6,13 +6,10 @@ topic: multirootendorsepolicyendorsepolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.059Z
+lastCollected: 2026-04-07T18:37:53.334Z
 estimatedTokens: 330
-keywords: [MultiRootEndorsePolicy, EndorsePolicyInput, policyId, Resource, Insurance, Multi, Root, Endorsement, Policy, Connect, API, POST, Version, Requires, Chatter]
+keywords: [MultiRootEndorsePolicy, EndorsePolicyInput, policyId, Resource, Insurance, Multi, Root, Endorsement, Policy, Connect, API, POST, Requires, Chatter]
 ---
-
-# MultiRootEndorsePolicy(EndorsePolicyInput,
-            policyId)
 
 > Resource for the Insurance Multi Root Endorsement Policy Connect API POST
         Method.

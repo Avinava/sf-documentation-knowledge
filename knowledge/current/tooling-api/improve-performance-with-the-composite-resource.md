@@ -5,12 +5,10 @@ topic: improve-performance-with-the-composite-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.521Z
+lastCollected: 2026-04-07T18:36:34.977Z
 estimatedTokens: 813
-keywords: [Improve, Performance, Composite, Resource, development, tool, app, built, Tooling, API, executes, series, requests, call, minimizing]
+keywords: [Improve, Performance, Composite, Resource, development, tool, app, built, Tooling, API, executes, series, requests, call, minimizing, number, round, trips, needed, client, server, subsequent, requests’, bodies, HTTP, statuses, entire, counts, toward, limits, 40.0]
 ---
-
-# Improve Performance with the Composite Resource
 
 > Use the /composite resource to
       improve the performance of a development tool or app built with Tooling API. This resource

@@ -5,12 +5,10 @@ topic: employeeusersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.902Z
+lastCollected: 2026-04-07T18:36:25.374Z
 estimatedTokens: 619
-keywords: [EmployeeUserSettings, employee-user, settings, automatically, creating, syncing, employee, user, data, work.com, orgs, extends, Metadata, inherits, fullName]
+keywords: [EmployeeUserSettings, employee-user, settings, automatically, creating, syncing, employee, user, work.com, orgs, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# EmployeeUserSettings
 
 > Represents the employee-user settings used for
       automatically creating or syncing employee and user data in work.com orgs.

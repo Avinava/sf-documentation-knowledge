@@ -5,12 +5,10 @@ topic: regulatorycode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.784Z
+lastCollected: 2026-04-07T18:39:59.448Z
 estimatedTokens: 415
-keywords: [RegulatoryCode, regulation, code, enforced, regulatory, API, version, 49.0, later]
+keywords: [RegulatoryCode, regulation, code, enforced, regulatory, API, 49.0]
 ---
-
-# RegulatoryCode
 
 > Represents the regulation code enforced by the regulatory body. This object is available in API version 49.0 and later.
 

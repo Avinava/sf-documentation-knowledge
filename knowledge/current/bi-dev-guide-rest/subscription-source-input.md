@@ -5,12 +5,10 @@ topic: subscription-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.613Z
+lastCollected: 2026-04-07T18:36:54.980Z
 estimatedTokens: 132
-keywords: [Subscription, Source, Input]
+keywords: [Subscription, Source]
 ---
-
-# Subscription Source Input
 
 > The subscription source.
 

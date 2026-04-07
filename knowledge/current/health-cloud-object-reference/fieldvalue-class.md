@@ -5,12 +5,10 @@ topic: fieldvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.884Z
+lastCollected: 2026-04-07T18:37:39.833Z
 estimatedTokens: 933
 keywords: [FieldValue, key-value, pair, represented, developer, search, results, verification, developerName]
 ---
-
-# FieldValue Class
 
 > Contains a key-value pair represented by the developer name and value
       of the field. The key-value pair is used for both search results and

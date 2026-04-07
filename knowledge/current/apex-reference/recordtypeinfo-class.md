@@ -5,13 +5,11 @@ topic: recordtypeinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.544Z
+lastCollected: 2026-04-07T18:36:00.819Z
 estimatedTokens: 1272
 namespace: Schema
-keywords: [RecordTypeInfo, developer, record, Usage, getDeveloperName, getName, getRecordTypeId, isActive, isAvailable, isDefaultRecordTypeMapping, isMaster]
+keywords: [RecordTypeInfo, developer, record, getDeveloperName, getName, getRecordTypeId, isActive, isAvailable, isDefaultRecordTypeMapping, isMaster]
 ---
-
-# RecordTypeInfo Class
 
 > Returns the developer name for this record type.
 

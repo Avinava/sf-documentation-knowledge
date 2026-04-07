@@ -5,12 +5,10 @@ topic: create-a-logout-link-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.772Z
+lastCollected: 2026-04-07T18:37:33.041Z
 estimatedTokens: 269
-keywords: [Logout, Link, Component, log, users, custom]
+keywords: [Logout, Link, log, users]
 ---
-
-# Create a Logout Link Component
 
 > To log out your users, you can create a custom logout link component.
 

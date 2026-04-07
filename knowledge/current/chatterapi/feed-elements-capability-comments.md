@@ -5,12 +5,10 @@ topic: feed-elements-capability-comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.657Z
+lastCollected: 2026-04-07T18:37:13.624Z
 estimatedTokens: 373
-keywords: [Feed, Elements, Capability, Comments, Access, element]
+keywords: [Capability, Comments]
 ---
-
-# Feed Elements Capability, Comments
 
 > Access the comments capability for a feed element.
 

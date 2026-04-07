@@ -5,12 +5,10 @@ topic: create-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.982Z
+lastCollected: 2026-04-07T18:40:16.124Z
 estimatedTokens: 11149
-keywords: [Data, Extension, store, subscribers, Marketing, Cloud, How, Sample, NET, Code, PHP, Java, Axis, 1.4, Ruby]
+keywords: [Extension, store, subscribers, Marketing, Cloud, How, Sample, NET, Code, PHP, Java, Axis, 1.4, Ruby, Rails, Sendable, SOAP, Non-Nullable, Different, Creating, Retention, Options, Setting, Decimal, Date, Date-type, Items]
 ---
-
-# Create a Data Extension
 
 > Use a data extension to store information about your subscribers in Marketing Cloud.
 

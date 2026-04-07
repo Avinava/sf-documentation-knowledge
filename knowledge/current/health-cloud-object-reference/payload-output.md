@@ -5,12 +5,10 @@ topic: payload-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.860Z
+lastCollected: 2026-04-07T18:37:42.002Z
 estimatedTokens: 120
-keywords: [Payload, Output, representation, communicated, recipient]
+keywords: [Payload, communicated, recipient]
 ---
-
-# Payload Output
 
 > Output representation of the details communicated to the
       recipient.

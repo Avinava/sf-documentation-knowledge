@@ -5,12 +5,10 @@ topic: configurator-updated-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.076Z
+lastCollected: 2026-04-07T18:37:25.984Z
 estimatedTokens: 151
-keywords: [Configurator, Updated, Node, Input, representation, nodes, product, configuration]
+keywords: [Configurator, Updated, Node, nodes, product, configuration]
 ---
-
-# Configurator Updated Node Input
 
 > Input representation of the nodes to be updated in a product configuration.
 

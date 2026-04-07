@@ -5,12 +5,10 @@ topic: usagecommitmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.789Z
+lastCollected: 2026-04-07T18:35:50.667Z
 estimatedTokens: 317
-keywords: [UsageCommitmentPolicy, rules, determines, how, commitments, applied, usage, resource, API, version, later, Calls, Special, Access]
+keywords: [UsageCommitmentPolicy, determines, how, commitments, applied, resource, API]
 ---
-
-# UsageCommitmentPolicy
 
 > Represents the set of rules that determines how commitments are
          applied to a usage resource. This object is available in API version 65 and

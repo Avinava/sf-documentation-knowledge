@@ -5,12 +5,10 @@ topic: add-the-user-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.487Z
+lastCollected: 2026-04-07T18:40:25.861Z
 estimatedTokens: 197
-keywords: [Add, User, View, Finally, simple, displays, selected, customer’s, second, app, customer, navigates, tapping, item, Users]
+keywords: [Add, User, View, Finally, simple, displays, selected, customer’s, second, app, customer, navigates, tapping, item, Users, user-page, template, Back, button]
 ---
-
-# Add the User View
 
 > Finally, you add a simple page view that displays a selected customer’s details. This
                 view is the second page in this app. The customer navigates to it by tapping an item

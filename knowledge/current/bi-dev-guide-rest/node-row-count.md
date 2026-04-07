@@ -5,12 +5,10 @@ topic: node-row-count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.941Z
+lastCollected: 2026-04-07T18:36:57.461Z
 estimatedTokens: 96
 keywords: [Node, Row, Count, Analytics, dataflow, job]
 ---
-
-# Node Row Count
 
 > The node row count for an Analytics dataflow job node.
 

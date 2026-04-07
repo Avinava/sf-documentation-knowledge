@@ -5,12 +5,10 @@ topic: appmenu-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.200Z
+lastCollected: 2026-04-07T18:36:20.413Z
 estimatedTokens: 271
 keywords: [AppMenu, Items, Accesses, App, Menu, Salesforce, dropdown, retrieve, HEAD]
 ---
-
-# AppMenu Items
 
 > Accesses App Menu items from the Salesforce app dropdown menu. To retrieve a list of App Menu items, use the GET method. To retrieve the headers returned by a request for App Menu
 		items, use the HEAD method.

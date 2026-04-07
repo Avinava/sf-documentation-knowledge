@@ -2,7 +2,7 @@
 domain: voice-pt-developer-guide
 name: Service Cloud Voice for Partner Telephony Developer Guide
 documentCount: 88
-lastGenerated: 2026-04-07T09:06:39.318Z
+lastGenerated: 2026-04-07T18:40:44.489Z
 ---
 
 # Service Cloud Voice for Partner Telephony Developer Guide — Knowledge Index

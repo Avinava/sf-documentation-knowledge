@@ -5,12 +5,10 @@ topic: add-the-search-result-list-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.457Z
+lastCollected: 2026-04-07T18:40:25.836Z
 estimatedTokens: 278
-keywords: [Add, Search, Result, View, doesn’t, template, simply, container, item, views, tracks, listItemViews, member, underlying, collection]
+keywords: [Add, Search, Result, View, doesn’t, template, simply, container, item, views, tracks, listItemViews, member, underlying, collection, changes, re-renders, itself]
 ---
-
-# Add the Search Result List View
 
 > The view for the search result list doesn’t need a template. It is simply a container for
                 list item views. It tracks these views in the listItemViews member. If the underlying collection changes, it

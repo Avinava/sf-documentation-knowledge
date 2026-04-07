@@ -5,12 +5,10 @@ topic: get-pushv1locationlocationid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.238Z
+lastCollected: 2026-04-07T18:40:17.397Z
 estimatedTokens: 251
-keywords: [push, location, locationId, specific, **Overview**, Usage]
+keywords: [push, location, locationId, specific, **Overview**]
 ---
-
-# GET /push/v1/location/{locationId}
 
 > Gets a specific location.
 

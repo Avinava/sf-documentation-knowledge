@@ -5,12 +5,10 @@ topic: networkmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.909Z
+lastCollected: 2026-04-07T18:38:36.098Z
 estimatedTokens: 1721
-keywords: [NetworkMember, member, Experience, Cloud, site, Members, either, users, company, external, portal, profiles, API, version, 26.0]
+keywords: [NetworkMember, member, Experience, Cloud, site, Members, either, users, company, external, portal, profiles, API, 26.0]
 ---
-
-# NetworkMember
 
 > Represents a member of an Experience Cloud
     site. Members can be either users in your company or external users with portal profiles.

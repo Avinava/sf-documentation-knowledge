@@ -5,12 +5,10 @@ topic: invokeschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.924Z
+lastCollected: 2026-04-07T18:40:23.349Z
 estimatedTokens: 239
 keywords: [InvokeSchedule, Function, Ordinal, perform, Schedule, **Overview**, **Syntax**]
 ---
-
-# InvokeSchedule
 
 > InvokeSchedule(1, 2, 3, 4, 5)
 

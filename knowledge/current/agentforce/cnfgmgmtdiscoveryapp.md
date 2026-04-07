@@ -5,12 +5,10 @@ topic: cnfgmgmtdiscoveryapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.131Z
+lastCollected: 2026-04-07T18:35:55.236Z
 estimatedTokens: 602
-keywords: [CnfgMgmtDiscoveryApp, definition, discovery, application, agentless, applications, installed, customer, network, hosts, scan, devices, environment, API, version]
+keywords: [CnfgMgmtDiscoveryApp, definition, discovery, application, agentless, applications, installed, customer, network, hosts, scan, devices, environment, API, 65.0]
 ---
-
-# CnfgMgmtDiscoveryApp
 
 > Represents the definition of a discovery application used for agentless
          discovery. These applications are installed on customer network hosts and are used to scan

@@ -5,12 +5,10 @@ topic: parameterized-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.939Z
+lastCollected: 2026-04-07T18:37:54.240Z
 estimatedTokens: 55
 keywords: [Parameterized, Search, Executes, simple, REST, instead, SOSL, clause, Indicate, URI, POST, complex, searches]
 ---
-
-# Parameterized Search
 
 > Executes a simple REST search using parameters instead of a
    SOSL clause. Indicate parameters in the URI with the GET method. Or, use the POST method to

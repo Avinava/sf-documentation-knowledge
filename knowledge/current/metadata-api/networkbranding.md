@@ -5,12 +5,10 @@ topic: networkbranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.439Z
+lastCollected: 2026-04-07T18:36:27.921Z
 estimatedTokens: 1147
-keywords: [NetworkBranding, branding, color, scheme, applied, login, pages, Experience, Cloud, site, sites, represented, Network, component, Declarative]
+keywords: [NetworkBranding, branding, color, scheme, applied, login, pages, Experience, Cloud, site, sites, represented, Network, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# NetworkBranding
 
 > Represents the branding and color scheme applied
             to the login pages of an Experience Cloud site. (Experience Cloud sites are

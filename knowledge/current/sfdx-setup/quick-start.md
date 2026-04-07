@@ -5,12 +5,10 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.357Z
+lastCollected: 2026-04-07T18:40:09.298Z
 estimatedTokens: 885
-keywords: [Quick, Start, Salesforce, CLI, command-line, simplifies, development, build, automation, working, org, manage, orgs, synchronize, source]
+keywords: [Quick, Start, Salesforce, CLI, command-line, simplifies, development, build, automation, working, org, manage, orgs, synchronize, source, install, packages]
 ---
-
-# Quick Start
 
 > Salesforce CLI is a command-line interface that simplifies development and build automation when working with your Salesforce org. Use it to create and manage orgs, synchronize source to and from orgs, create and install packages, and more.
 

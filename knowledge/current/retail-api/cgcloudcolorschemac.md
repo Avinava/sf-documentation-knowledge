@@ -5,12 +5,10 @@ topic: cgcloudcolorschemac
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.666Z
+lastCollected: 2026-04-07T18:39:13.090Z
 estimatedTokens: 1136
-keywords: [cgcloud__Color_Schema__c, various, Sales, Organization-dependent, property-based, color, schemes, Trade, Calendar, API, version, 54.0, later, cgcloud, _Color]
+keywords: [cgcloud__Color_Schema__c, various, Sales, Organization-dependent, property-based, color, schemes, Trade, Calendar, API, 54.0, cgcloud, _Color, _Schema]
 ---
-
-# cgcloud__Color_Schema__c
 
 > Defines various Sales Organization-dependent property-based color
          schemes for the Trade Calendar. This object is available in API version 54.0 and

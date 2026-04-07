@@ -5,12 +5,10 @@ topic: custom-recommendation-audience-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.243Z
+lastCollected: 2026-04-07T18:37:09.961Z
 estimatedTokens: 508
-keywords: [Custom, Recommendation, Audience, Input]
+keywords: [Recommendation, Audience]
 ---
-
-# Custom Recommendation Audience Input
 
 > A custom recommendation audience.
 

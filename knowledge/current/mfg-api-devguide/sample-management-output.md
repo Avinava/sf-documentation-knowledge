@@ -5,12 +5,10 @@ topic: sample-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.450Z
+lastCollected: 2026-04-07T18:38:12.747Z
 estimatedTokens: 202
-keywords: [Sample, Management, Output, representation, Product, Requirement, Specification, operation]
+keywords: [Sample, Management, Product, Requirement, Specification, operation]
 ---
-
-# Sample Management Output
 
 > Output representation of the response for a Product Requirement Specification
     operation.

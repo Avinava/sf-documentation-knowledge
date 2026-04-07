@@ -5,12 +5,10 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.653Z
+lastCollected: 2026-04-07T18:39:16.193Z
 estimatedTokens: 12909
-keywords: [User, Standard, custom, extend, Consumer, Goods, Cloud, represent, company, API, version, 55.0, later, Calls]
+keywords: [User, Standard, extend, Consumer, Goods, Cloud, represent, company, API, 55.0]
 ---
-
-# User
 
 > Standard and custom fields extend the standard User object for use in
          Consumer Goods Cloud to represent a user in your company. This object is available in

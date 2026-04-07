@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-multiclass-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.004Z
+lastCollected: 2026-04-07T18:36:59.495Z
 estimatedTokens: 94
-keywords: [Smart, Data, Discovery, Model, Multiclass, Metrics, Einstein]
+keywords: [Smart, Discovery, Model, Multiclass, Metrics, Einstein]
 ---
-
-# Smart Data Discovery AI Model Multiclass Metrics
 
 > The multiclass metrics for an Einstein Discovery AI model.
 

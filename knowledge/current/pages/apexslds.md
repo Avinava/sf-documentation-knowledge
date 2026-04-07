@@ -5,12 +5,10 @@ topic: apexslds
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.466Z
+lastCollected: 2026-04-07T18:38:50.705Z
 estimatedTokens: 855
-keywords: [apex, slds, Visualforce, pages, Lightning, Design, System, styling, include, custom, themes, component, instead, uploading, resource]
+keywords: [Attributes, apex, slds, Visualforce, pages, Lightning, Design, System, styling, include, themes, instead, uploading, resource]
 ---
-
-# apex:slds
 
 > Allows Visualforce pages to reference Lightning Design System styling and to include
 			custom themes. Use this component instead of uploading the Lightning Design System as a

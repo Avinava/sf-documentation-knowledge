@@ -5,13 +5,11 @@ topic: deleteresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.587Z
+lastCollected: 2026-04-07T18:35:59.864Z
 estimatedTokens: 1722
 namespace: DataSource
-keywords: [DeleteResult, result, operation, sObject, record, DataSource.deleteRows, DataSource.Connection, Usage, errorMessage, externalId, success, equals, obj, failure, hashCode, DML, Database.delete, getErrors, getId, isSuccess]
+keywords: [DeleteResult, result, operation, sObject, record, DataSource.deleteRows, DataSource.Connection, errorMessage, externalId, success, equals, obj, failure, hashCode, DML, Database.delete, getErrors, getId, isSuccess]
 ---
-
-# DeleteResult Class
 
 > Represents the result of a delete operation on an sObject record. The
       result is returned by the DataSource.deleteRows method

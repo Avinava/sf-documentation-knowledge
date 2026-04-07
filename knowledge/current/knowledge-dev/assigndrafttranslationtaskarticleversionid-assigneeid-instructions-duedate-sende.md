@@ -5,12 +5,10 @@ topic: assigndrafttranslationtaskarticleversionid-assigneeid-instructions-duedat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.456Z
+lastCollected: 2026-04-07T18:37:53.741Z
 estimatedTokens: 138
 keywords: [assignDraftTranslationTask, articleVersionId, assigneeId, instructions, dueDate, sendEmailNotification, Assigns, review, task, draft, translation]
 ---
-
-# assignDraftTranslationTask(articleVersionId, assigneeId, instructions, dueDate, sendEmailNotification)
 
 > Assigns a review task related to a draft translation.
 

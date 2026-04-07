@@ -5,12 +5,10 @@ topic: resume-gift-commitment-schedule-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.612Z
+lastCollected: 2026-04-07T18:38:20.294Z
 estimatedTokens: 298
-keywords: [Resume, Gift, Commitment, Schedule, Action, Resumes, paused, date, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Resume, Gift, Commitment, Schedule, Action, Resumes, paused, date, REST, HTTP]
 ---
-
-# Resume Gift Commitment Schedule Action
 
 > Resumes a paused gift commitment schedule on a specified
   date.

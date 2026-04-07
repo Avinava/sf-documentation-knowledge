@@ -5,12 +5,10 @@ topic: clear-data-from-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.559Z
+lastCollected: 2026-04-07T18:40:15.665Z
 estimatedTokens: 983
-keywords: [Clear, Data, Extension, clearing, Prerequisites, How, Sample, NET, Code, Java, CXF, Bundle, 2.3.3, SOAP]
+keywords: [Prerequisites, Clear, Extension, clearing, How, Sample, NET, Code, Java, CXF, Bundle, 2.3.3, SOAP]
 ---
-
-# Clear Data from a Data Extension
 
 > This page contains information  about clearing data from an existing data extension.
 

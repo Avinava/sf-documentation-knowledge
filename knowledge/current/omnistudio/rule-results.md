@@ -5,12 +5,10 @@ topic: rule-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.713Z
+lastCollected: 2026-04-07T18:36:40.424Z
 estimatedTokens: 118
-keywords: [Rule, Results, Output, representation, result, executing, input, expression]
+keywords: [Rule, Results, result, executing, expression]
 ---
-
-# Rule Results
 
 > Output representation of the result of executing a single input in an
       expression set.

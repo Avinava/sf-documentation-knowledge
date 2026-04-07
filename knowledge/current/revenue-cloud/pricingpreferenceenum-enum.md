@@ -5,12 +5,10 @@ topic: pricingpreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.821Z
+lastCollected: 2026-04-07T18:35:41.690Z
 estimatedTokens: 229
-keywords: [PricingPreferenceEnum, pricing, preference, creation, sales, transaction, Usage, order, process, quote]
+keywords: [PricingPreferenceEnum, pricing, preference, creation, sales, transaction, order, process, quote]
 ---
-
-# PricingPreferenceEnum Enum
 
 > Specifies the pricing preference during the creation of a sales transaction.
 

@@ -5,12 +5,10 @@ topic: component-event-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.975Z
+lastCollected: 2026-04-07T18:38:04.076Z
 estimatedTokens: 854
-keywords: [Component, Event, Here’s, simple, case, attribute, another, Notifier, Handler, Put, Together]
+keywords: [Event, Here’s, simple, case, attribute, another, Notifier, Handler, Put, Together]
 ---
-
-# Component Event Example
 
 > Here’s a simple use case of using a component event
 to update an attribute in another component.

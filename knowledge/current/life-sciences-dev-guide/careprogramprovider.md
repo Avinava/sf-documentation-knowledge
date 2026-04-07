@@ -5,12 +5,10 @@ topic: careprogramprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.890Z
+lastCollected: 2026-04-07T18:37:59.522Z
 estimatedTokens: 1171
-keywords: [CareProgramProvider, business, account, service, provider, care, program, product, Calls, Associated, Objects]
+keywords: [CareProgramProvider, business, account, service, provider, care, program, product]
 ---
-
-# CareProgramProvider
 
 > Represents a business account that is the service provider for a care program
       product.

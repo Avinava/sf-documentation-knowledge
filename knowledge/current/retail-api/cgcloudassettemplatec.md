@@ -5,12 +5,10 @@ topic: cgcloudassettemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.506Z
+lastCollected: 2026-04-07T18:39:12.930Z
 estimatedTokens: 1655
-keywords: [cgcloud__Asset_Template__c, asset, physical, element, certain, manufacturer, place, customer's, location, retailer, bar, hotel, shop, associated, POS]
+keywords: [cgcloud__Asset_Template__c, asset, physical, certain, manufacturer, place, customer's, location, retailer, bar, hotel, shop, POS, shelf, cooler, fridge, API, 54.0, cgcloud, _Asset, _Template]
 ---
-
-# cgcloud__Asset_Template__c
 
 > An asset is a physical element that has a certain value which a
          manufacturer can place at a customer's location (retailer, bar, hotel, shop, and so on),

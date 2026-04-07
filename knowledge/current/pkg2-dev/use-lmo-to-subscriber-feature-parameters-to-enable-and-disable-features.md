@@ -6,13 +6,10 @@ topic: use-lmo-to-subscriber-feature-parameters-to-enable-and-disable-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.743Z
+lastCollected: 2026-04-07T18:38:55.173Z
 estimatedTokens: 273
-keywords: [LMO-to-Subscriber, Feature, Enable, Disable, Features, data, flow, direction, LMO, Subscriber, writable, end, read-only, subscriber’s, org]
+keywords: [LMO-to-Subscriber, Feature, Enable, Disable, Features, flow, direction, LMO, Subscriber, writable, end, read-only, subscriber’s, org, serve, permissions, limits, new, control, how, resource, limited, trial, period, Assign, updating, junction, records, check, code]
 ---
-
-# Use LMO-to-Subscriber Feature Parameters to Enable and Disable
-   Features
 
 > Feature parameters with a data flow direction value of LMO
    to Subscriber are writable at your end and read-only in your subscriber’s org. These

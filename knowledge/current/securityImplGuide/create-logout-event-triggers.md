@@ -5,12 +5,10 @@ topic: create-logout-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.954Z
+lastCollected: 2026-04-07T18:39:22.871Z
 estimatedTokens: 322
 keywords: [Logout, Event, Triggers, LogoutEventStream, org, Apex, respond, security, events, org’s]
 ---
-
-# Create Logout Event Triggers
 
 > If the LogoutEventStream object is available to your org, you can create Apex triggers
   that respond to security logout events from your org’s UI.

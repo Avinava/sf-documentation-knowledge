@@ -5,12 +5,10 @@ topic: mortgage-information-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.486Z
+lastCollected: 2026-04-07T18:37:35.099Z
 estimatedTokens: 86
 keywords: [Mortgage]
 ---
-
-# Mortgage Information Response
 
 > Response for the GET method.
 

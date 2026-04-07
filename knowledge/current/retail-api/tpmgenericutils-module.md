@@ -5,13 +5,11 @@ topic: tpmgenericutils-module
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.723Z
+lastCollected: 2026-04-07T18:39:16.263Z
 estimatedTokens: 1094
 namespace: CGCloud
-keywords: [tpmGenericUtils, Module, replacements, accessing, @salesforce, modules, components, cgcloud, runtime, Implementation, Perform, Apex, Calls, Load, Resources]
+keywords: [tpmGenericUtils, Module, replacements, accessing, @salesforce, modules, cgcloud, runtime, Implementation, Perform, Apex, Load, Resources, Internationalization, Current, User, Client, Form, Factor, TPMManualInput]
 ---
-
-# tpmGenericUtils Module
 
 > The tpmGenericUtils module provides replacements
         for accessing the @salesforce modules on components

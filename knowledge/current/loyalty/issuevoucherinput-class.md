@@ -5,13 +5,11 @@ topic: issuevoucherinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.579Z
+lastCollected: 2026-04-07T18:38:06.783Z
 estimatedTokens: 101
 namespace: LoyaltyManagement
 keywords: [IssueVoucherInput, issue, voucher, loyalty, program, member]
 ---
-
-# IssueVoucherInput Class
 
 > Use this class to issue a voucher to a loyalty program member.
 

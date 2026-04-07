@@ -5,12 +5,10 @@ topic: cms-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.718Z
+lastCollected: 2026-04-07T18:37:11.513Z
 estimatedTokens: 827
 keywords: [CMS, Channels, managed, content]
 ---
-
-# CMS Channels
 
 > Get and create managed content channels.
 

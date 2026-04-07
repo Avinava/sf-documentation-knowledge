@@ -5,12 +5,10 @@ topic: social-engagement-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:28.800Z
+lastCollected: 2026-04-07T18:37:15.865Z
 estimatedTokens: 526
-keywords: [Social, Engagement, Resources, Provide, functionality, access, managed, accounts, post, intents, service, agents]
+keywords: [Social, Engagement, Resources, Provide, functionality, managed, accounts, post, intents, service, agents]
 ---
-
-# Social Engagement Resources
 
 > Provide social functionality, such as access to managed social accounts and social post
     intents, for service agents.

@@ -5,12 +5,10 @@ topic: relaxed-tidying-for-the-html5-doctype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.251Z
+lastCollected: 2026-04-07T18:38:51.506Z
 estimatedTokens: 500
-keywords: [Relaxed, Tidying, HTML5, Doctype, relax, HTML, applications, causes, problems, “html-5.0”, API, version, 28.0, greater]
+keywords: [Relaxed, Tidying, HTML5, Doctype, relax, HTML, applications, causes, problems, “html-5.0”, API, 28.0, greater]
 ---
-
-# Relaxed Tidying for the HTML5 Doctype
 
 > To relax the default HTML tidying for HTML5 applications where it causes problems, set
   the docType to “html-5.0” and the API

@@ -5,13 +5,11 @@ topic: addressesresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.765Z
+lastCollected: 2026-04-07T18:35:40.584Z
 estimatedTokens: 1146
 namespace: CommerceTax
-keywords: [AddressesResponse, tax, address, external, engine, setter, Ship, Sold, addresses, Usage, setShipFrom, shipFrom, setShipTo, shipTo, setSoldTo]
+keywords: [AddressesResponse, tax, address, external, engine, setter, Ship, Sold, addresses, setShipFrom, shipFrom, setShipTo, shipTo, setSoldTo, soldTo]
 ---
-
-# AddressesResponse Class
 
 > Sets the tax address fields based on a response from the external
       tax engine. Contains setter methods for the Ship From, Ship To, and Sold To

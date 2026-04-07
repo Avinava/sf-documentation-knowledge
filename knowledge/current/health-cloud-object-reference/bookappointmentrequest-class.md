@@ -5,12 +5,10 @@ topic: bookappointmentrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.813Z
+lastCollected: 2026-04-07T18:37:39.759Z
 estimatedTokens: 1461
-keywords: [BookAppointmentRequest, options, book, healthcare, appointment, Usage, appointmentType, serviceType, slot, sourceFacilityId, sourcePatientId, sourcePractitionerId, sourceSystem]
+keywords: [BookAppointmentRequest, options, book, healthcare, appointment, appointmentType, serviceType, slot, sourceFacilityId, sourcePatientId, sourcePractitionerId, sourceSystem]
 ---
-
-# BookAppointmentRequest Class
 
 > Contains set of options to book a healthcare
     appointment.

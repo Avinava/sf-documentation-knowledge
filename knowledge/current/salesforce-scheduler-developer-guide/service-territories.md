@@ -5,12 +5,10 @@ topic: service-territories
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.504Z
+lastCollected: 2026-04-07T18:39:20.200Z
 estimatedTokens: 718
 keywords: [Service, Territories, workTypeId, workTypeGroupId, Filter, sort, radius, latitude, longitude, sortBy, sortOrder]
 ---
-
-# Service Territories
 
 > Get service territories for a workTypeId or workTypeGroupId. Filter and
       sort the service territories using the radius, latitude, longitude,

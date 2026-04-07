@@ -5,12 +5,10 @@ topic: close-gift-commitment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.557Z
+lastCollected: 2026-04-07T18:38:20.234Z
 estimatedTokens: 207
-keywords: [Close, Gift, Commitment, Action, Updates, status, closed, unpaid, failed, transactions, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Close, Gift, Commitment, Action, Updates, status, closed, unpaid, failed, transactions, REST, HTTP]
 ---
-
-# Close Gift Commitment Action
 
 > Updates the status of a gift commitment to closed and updates the
    status for each of its unpaid and failed gift transactions.

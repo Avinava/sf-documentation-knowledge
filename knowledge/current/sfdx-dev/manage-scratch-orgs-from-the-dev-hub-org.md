@@ -5,12 +5,10 @@ topic: manage-scratch-orgs-from-the-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.504Z
+lastCollected: 2026-04-07T18:40:08.456Z
 estimatedTokens: 433
-keywords: [Manage, Scratch, Orgs, Dev, Hub, Org, view, their, associated, requests]
+keywords: [Manage, Scratch, Orgs, Dev, Hub, Org, view, their, requests]
 ---
-
-# Manage Scratch Orgs from the Dev Hub Org
 
 > You can view and delete your scratch orgs and their associated requests from the Dev
   Hub org.

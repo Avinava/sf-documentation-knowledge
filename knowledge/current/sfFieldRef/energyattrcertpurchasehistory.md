@@ -5,12 +5,10 @@ topic: energyattrcertpurchasehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.678Z
+lastCollected: 2026-04-07T18:39:39.326Z
 estimatedTokens: 279
-keywords: [EnergyAttrCertPurchaseHistory, History, tracked, EnergyAttrCertPurchase]
+keywords: [EnergyAttrCertPurchaseHistory, tracked, EnergyAttrCertPurchase]
 ---
-
-# EnergyAttrCertPurchaseHistory
 
 > History for tracked fields of EnergyAttrCertPurchase.
 

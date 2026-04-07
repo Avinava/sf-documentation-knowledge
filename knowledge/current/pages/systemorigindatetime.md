@@ -5,12 +5,10 @@ topic: systemorigindatetime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.418Z
+lastCollected: 2026-04-07T18:38:52.728Z
 estimatedTokens: 89
-keywords: [$System.OriginDateTime, merge, literal, 1900-01-01, Usage]
+keywords: [$System.OriginDateTime, merge, literal, 1900-01-01]
 ---
-
-# $System.OriginDateTime
 
 > A global merge field that represents the literal value of 1900-01-01
   00:00:00.

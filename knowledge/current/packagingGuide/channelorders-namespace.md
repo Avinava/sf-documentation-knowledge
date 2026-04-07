@@ -5,13 +5,11 @@ topic: channelorders-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.903Z
+lastCollected: 2026-04-07T18:38:45.729Z
 estimatedTokens: 360
 namespace: The
 keywords: [CHANNEL_ORDERS, classes, submitting, orders, Salesforce, Partner, Operations, send, order, edit, recall, clone, CHANNEL, _ORDERS]
 ---
-
-# CHANNEL_ORDERS Namespace
 
 > The CHANNEL_ORDERS namespace provides classes for
     submitting orders to Salesforce Partner Operations. After you send an order, you can use other

@@ -5,12 +5,10 @@ topic: definitionsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.438Z
+lastCollected: 2026-04-07T18:40:23.874Z
 estimatedTokens: 144
-keywords: [DefinitionSend, Function, Ordinal, Date, specifying, send, perform, pass, performs, immediately, **Overview**, **Syntax**, Examples]
+keywords: [DefinitionSend, Examples, Function, Ordinal, Date, specifying, send, perform, pass, performs, immediately, **Overview**, **Syntax**]
 ---
-
-# DefinitionSend
 
 > DefinitionSend(1)
 

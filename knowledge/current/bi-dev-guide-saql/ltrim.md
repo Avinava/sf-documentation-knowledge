@@ -5,12 +5,10 @@ topic: ltrim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.215Z
+lastCollected: 2026-04-07T18:37:00.781Z
 estimatedTokens: 154
-keywords: [ltrim, Removes, characters, beginning, Usage]
+keywords: [ltrim, Removes, characters, beginning]
 ---
-
-# ltrim()
 
 > Removes the specified characters from the beginning of a string.
 

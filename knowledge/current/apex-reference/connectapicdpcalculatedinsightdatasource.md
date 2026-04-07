@@ -5,12 +5,10 @@ topic: connectapicdpcalculatedinsightdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.426Z
+lastCollected: 2026-04-07T18:36:07.806Z
 estimatedTokens: 156
-keywords: [Calculated, insight, data, source]
+keywords: [Calculated, insight, source]
 ---
-
-# ConnectApi.CdpCalculatedInsightDataSource
 
 > Calculated insight data source.
 

@@ -5,12 +5,10 @@ topic: associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.487Z
+lastCollected: 2026-04-07T18:37:26.392Z
 estimatedTokens: 650
-keywords: [Associated, Objects, standard, their]
+keywords: [standard, their]
 ---
-
-# Associated Objects
 
 > This section provides a list of objects associated to standard objects with their
     standard fields.

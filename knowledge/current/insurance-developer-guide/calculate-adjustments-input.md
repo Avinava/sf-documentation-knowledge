@@ -5,12 +5,10 @@ topic: calculate-adjustments-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.815Z
+lastCollected: 2026-04-07T18:37:50.722Z
 estimatedTokens: 131
-keywords: [Calculate, Adjustments, Input, representation, calculating, claim, loss, item]
+keywords: [Calculate, Adjustments, calculating, claim, loss, item]
 ---
-
-# Calculate Adjustments Input
 
 > Input representation for calculating adjustments for the claim loss item.
 

@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.472Z
+lastCollected: 2026-04-07T18:37:32.696Z
 estimatedTokens: 1489
-keywords: [Location, warehouse, service, vehicle, work, site, element, region, team, performs, API, version, 59.0, later, Calls]
+keywords: [Location, warehouse, service, vehicle, work, site, region, team, performs, API, 59.0]
 ---
-
-# Location
 
 > Represents a warehouse, service vehicle, work site, or other element of the region
       where your team performs field service work. This object is available in API version 59.0 and

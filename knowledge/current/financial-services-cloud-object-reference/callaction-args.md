@@ -5,12 +5,10 @@ topic: callaction-args
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.453Z
+lastCollected: 2026-04-07T18:37:33.905Z
 estimatedTokens: 508
-keywords: [call, action, args, calls, IntegrationHandler, actions, passes, arguments, Usage, DisputeMgmtHelper, AssessmentHelperFunction, ComplaintMgmtHelper, FSCFinancialAccountService, API, Version, FSCGoalService, FSCHouseholdService, FSCPlanService, RetrievalSummaryDataRefresh, AddressUpdateHelperFunctions]
+keywords: [call, action, args, IntegrationHandler, actions, passes, arguments, DisputeMgmtHelper, AssessmentHelperFunction, ComplaintMgmtHelper, FSCFinancialAccountService, API, FSCGoalService, FSCHouseholdService, FSCPlanService, RetrievalSummaryDataRefresh, Examples, AddressUpdateHelperFunctions, FeeReversalHelperFunctions, RecordAlertsWrapper, CDPQuery, FSCPersonalizedFinanceUtil]
 ---
-
-# call(action, args)
 
 > This method calls one of the available AddressUpdateHelperFunctions
       actions and passes arguments to that action.

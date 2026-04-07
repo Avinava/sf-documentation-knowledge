@@ -5,12 +5,10 @@ topic: sales-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.628Z
+lastCollected: 2026-04-07T18:35:43.506Z
 estimatedTokens: 1462
-keywords: [Sales, Transaction, Input, representation, place, quote, order]
+keywords: [Sales, Transaction, place, quote, order]
 ---
-
-# Sales Transaction Input
 
 > Input representation of the details of the request to place a sales transaction, such as
     a quote or an order.

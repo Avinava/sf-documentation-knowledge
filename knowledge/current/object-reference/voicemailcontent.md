@@ -5,12 +5,10 @@ topic: voicemailcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.423Z
+lastCollected: 2026-04-07T18:38:44.235Z
 estimatedTokens: 545
-keywords: [VoiceMailContent, voicemail, message, left, caller, context, user, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [VoiceMailContent, voicemail, message, left, caller, context, user]
 ---
-
-# VoiceMailContent
 
 > Represents a voicemail message left by a caller to the context
 			user.

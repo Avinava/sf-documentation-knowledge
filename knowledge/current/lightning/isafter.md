@@ -5,12 +5,10 @@ topic: isafter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.017Z
+lastCollected: 2026-04-07T18:38:05.183Z
 estimatedTokens: 162
 keywords: [isAfter, Checks, date1, date2, Sample, Code]
 ---
-
-# isAfter()
 
 > Checks if date1 is after
     date2.

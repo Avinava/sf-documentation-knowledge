@@ -5,12 +5,10 @@ topic: batch-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.103Z
+lastCollected: 2026-04-07T18:36:20.314Z
 estimatedTokens: 738
-keywords: [Batch, collection, subrequests, execute, Composite, resource, Input, Subrequest]
+keywords: [Subrequest, Batch, collection, subrequests, execute, Composite, resource]
 ---
-
-# Batch Request Body
 
 > Describes a collection of subrequests to execute with the Composite Batch
   resource.

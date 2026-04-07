@@ -5,12 +5,10 @@ topic: info-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:01:54.331Z
+lastCollected: 2026-04-07T18:35:39.117Z
 estimatedTokens: 311
-keywords: [info, Commands, Display, Salesforce, CLI, release, notes, command, line, releasenotes, Examples, Flags, Aliases]
+keywords: [Flags, info, Commands, Display, Salesforce, CLI, release, notes, command, line, releasenotes, Examples, Aliases]
 ---
-
-# info Commands
 
 > Display Salesforce CLI release notes on the command line.
 

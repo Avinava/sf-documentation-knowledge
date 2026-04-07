@@ -5,12 +5,10 @@ topic: methods-for-primary-tabs-and-subtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.227Z
+lastCollected: 2026-04-07T18:36:50.435Z
 estimatedTokens: 3549
-keywords: [Primary, Tabs, Subtabs, Salesforce, console, displays, pages, tab, main, item, work, account, subtab, items, account’s]
+keywords: [Primary, Tabs, Subtabs, Salesforce, console, displays, pages, tab, main, item, work, account, subtab, items, account’s, contacts, opportunities]
 ---
-
-# Methods for Primary Tabs and Subtabs
 
 > A Salesforce console displays Salesforce pages
 as primary tabs or subtabs. A primary tab displays the main item to

@@ -5,12 +5,10 @@ topic: productrequiredhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.633Z
+lastCollected: 2026-04-07T18:39:56.171Z
 estimatedTokens: 263
-keywords: [ProductRequiredHistory, History, tracked, ProductRequired]
+keywords: [ProductRequiredHistory, tracked, ProductRequired]
 ---
-
-# ProductRequiredHistory
 
 > History for tracked fields of ProductRequired.
 

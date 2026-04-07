@@ -5,12 +5,10 @@ topic: flow-for-intelligent-form-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.589Z
+lastCollected: 2026-04-07T18:36:41.282Z
 estimatedTokens: 300
-keywords: [Flow, Intelligent, Form, Reader, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
+keywords: [FlowActionCall, Flow, Intelligent, Form, Reader, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Intelligent Form Reader
 
 > Represents the metadata associated with a flow. With a flow, you can create an
   application that navigates users through a series of screens to query and update records in the

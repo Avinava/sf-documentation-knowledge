@@ -5,12 +5,10 @@ topic: get-life-sciences-configuration-field-names-and-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.926Z
+lastCollected: 2026-04-07T18:37:57.475Z
 estimatedTokens: 412
-keywords: [Life, Sciences, Configuration, key-value, pairs, their, records, category, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Life, Sciences, Configuration, key-value, pairs, their, records, category, REST, HTTP]
 ---
-
-# Get Life Sciences Configuration Field Names and Values
 
 > Gets key-value pairs of field names and their values for Life
             Sciences configuration records of a given category.

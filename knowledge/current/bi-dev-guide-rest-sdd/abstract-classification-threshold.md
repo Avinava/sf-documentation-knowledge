@@ -5,12 +5,10 @@ topic: abstract-classification-threshold
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.705Z
+lastCollected: 2026-04-07T18:36:59.202Z
 estimatedTokens: 128
 keywords: [Abstract, Classification, Threshold, base]
 ---
-
-# Abstract Classification Threshold
 
 > The base classification threshold.
 

@@ -5,12 +5,10 @@ topic: vpl-csrgetorderstatusfromacc2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.296Z
+lastCollected: 2026-04-07T18:38:11.622Z
 estimatedTokens: 101
-keywords: [VPL-CSRGetOrderStatusfromAcc2, Omnistudio, Data, Mapper, agent, console, extract, order, status, account, Sample, Input, Output]
+keywords: [VPL-CSRGetOrderStatusfromAcc2, Omnistudio, Mapper, agent, console, extract, order, status, account, Sample]
 ---
-
-# VPL-CSRGetOrderStatusfromAcc2
 
 > This Omnistudio Data Mapper is used in the agent console to
     extract the order information and status for an account.

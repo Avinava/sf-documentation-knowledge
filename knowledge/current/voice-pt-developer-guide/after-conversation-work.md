@@ -5,12 +5,10 @@ topic: after-conversation-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:18.385Z
+lastCollected: 2026-04-07T18:40:13.314Z
 estimatedTokens: 866
 keywords: [Conversation, Work, ACW, gives, reps, amount, time, customer, wrap, their, they, start, new]
 ---
-
-# After Conversation Work
 
 > After Conversation Work (ACW) gives reps a set amount of time after a customer
     conversation to wrap up their work before they start a new conversation.

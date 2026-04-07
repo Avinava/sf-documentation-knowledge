@@ -5,12 +5,10 @@ topic: personemploymenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.378Z
+lastCollected: 2026-04-07T18:39:53.917Z
 estimatedTokens: 265
-keywords: [PersonEmploymentHistory, History, tracked, PersonEmployment]
+keywords: [PersonEmploymentHistory, tracked, PersonEmployment]
 ---
-
-# PersonEmploymentHistory
 
 > History for tracked fields of PersonEmployment.
 

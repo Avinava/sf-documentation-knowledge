@@ -5,12 +5,10 @@ topic: salesworkqueuesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.958Z
+lastCollected: 2026-04-07T18:40:00.711Z
 estimatedTokens: 362
-keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, custom, number, person, accounts, contacts, leads, Sales]
+keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, number, person, accounts, contacts, leads, Sales, Engagement, customer, Previously, Einstein, Intelligence, Score]
 ---
-
-# SalesWorkQueueSettings
 
 > Represents settings used to customize work queue options for
          third-party scoring. Third-party scoring enables custom number fields on person accounts,

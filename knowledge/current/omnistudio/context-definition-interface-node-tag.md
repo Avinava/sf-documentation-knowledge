@@ -5,12 +5,10 @@ topic: context-definition-interface-node-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.346Z
+lastCollected: 2026-04-07T18:36:39.009Z
 estimatedTokens: 265
-keywords: [Context, Definition, Node, Tag, Output, representation, tags, associated]
+keywords: [Context, Definition, Node, Tag, tags]
 ---
-
-# Context Definition Interface Node Tag
 
 > Output representation of the tags associated with the context definition
     interface.

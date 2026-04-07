@@ -5,12 +5,10 @@ topic: secure-your-tableau-accelerator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.382Z
+lastCollected: 2026-04-07T18:38:47.363Z
 estimatedTokens: 385
-keywords: [Secure, Tableau, Accelerator, Accelerators, listed, AppExchange, adhere, requirements, Allowed, Functionality, Links, URL, Actions, Sample, Data]
+keywords: [Secure, Tableau, Accelerator, Accelerators, listed, AppExchange, adhere, requirements, Allowed, Functionality, Links, URL, Actions, Sample, Origin, De-Identified, Packaging, Source, Credentials]
 ---
-
-# Secure Your Tableau Accelerator
 
 > All Tableau Accelerators listed on AppExchange must adhere to these
     requirements.

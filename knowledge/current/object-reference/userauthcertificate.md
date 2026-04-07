@@ -5,12 +5,10 @@ topic: userauthcertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.708Z
+lastCollected: 2026-04-07T18:38:43.474Z
 estimatedTokens: 698
-keywords: [UserAuthCertificate, user, authentication, certificate, org, unique, PEM-encoded, X.509, digital, authenticate, individual, users, API, version, 45.0]
+keywords: [UserAuthCertificate, user, authentication, certificate, org, unique, PEM-encoded, X.509, digital, authenticate, individual, users, API, 45.0]
 ---
-
-# UserAuthCertificate
 
 > Represents a user authentication
             certificate in your org. A user certificate is a unique PEM-encoded X.509 digital

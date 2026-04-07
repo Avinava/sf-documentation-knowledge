@@ -5,12 +5,10 @@ topic: convert-unmanaged-packages-to-managed
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.810Z
+lastCollected: 2026-04-07T18:38:53.108Z
 estimatedTokens: 385
 keywords: [Convert, Unmanaged, Packages, Managed, Package, uploads, installs, Group, Professional, Enterprise, Performance, Unlimited, Developer, Editions]
 ---
-
-# Convert Unmanaged Packages to Managed
 
 > Package uploads and installs are available in
          Group, Professional, Enterprise, Performance, Unlimited,

@@ -5,12 +5,10 @@ topic: shiftsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.511Z
+lastCollected: 2026-04-07T18:38:41.165Z
 estimatedTokens: 400
-keywords: [ShiftSegment, scheduled, activity, shift, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ShiftSegment, scheduled, activity, shift, API, 55.0]
 ---
-
-# ShiftSegment
 
 > Represents a scheduled activity within a shift. This object is available
       in API version 55.0 and later.

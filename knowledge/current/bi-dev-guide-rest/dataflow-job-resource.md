@@ -5,12 +5,10 @@ topic: dataflow-job-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.601Z
+lastCollected: 2026-04-07T18:36:56.114Z
 estimatedTokens: 525
-keywords: [Dataflow, Job, Resource, stops, current, Includes, standard, dataflows, recipes, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Dataflow, Job, Resource, stops, current, Includes, standard, dataflows, recipes, URL, Postman, HTTP, PATCH, Start, Stop]
 ---
-
-# Dataflow Job Resource
 
 > Returns a dataflow job and stops a current dataflow job. Includes
       standard dataflows and recipes.

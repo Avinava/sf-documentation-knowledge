@@ -5,13 +5,11 @@ topic: external-auth-identity-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.661Z
+lastCollected: 2026-04-07T18:37:14.700Z
 estimatedTokens: 749
 namespace: String
 keywords: [External, Auth, Identity, Provider]
 ---
-
-# External Auth Identity Provider
 
 > Get, update, and delete an external auth identity
     provider.

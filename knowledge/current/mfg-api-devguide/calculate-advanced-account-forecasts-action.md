@@ -5,12 +5,10 @@ topic: calculate-advanced-account-forecasts-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.299Z
+lastCollected: 2026-04-07T18:38:12.582Z
 estimatedTokens: 291
-keywords: [Calculate, Advanced, Account, Forecasts, Action, formulae, associated, forecast, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Calculate, Advanced, Account, Forecasts, Action, formulae, forecast, REST, HTTP]
 ---
-
-# Calculate Advanced Account Forecasts Action
 
 > Calculate forecasts for an account based on the formulae associated
    with the forecast set.

@@ -5,12 +5,10 @@ topic: get-renewable-assets-summary-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.136Z
+lastCollected: 2026-04-07T18:35:39.912Z
 estimatedTokens: 397
-keywords: [Renewable, Assets, Summary, Action, Retrieve, order, renewal, opportunities, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Renewable, Assets, Summary, Action, Retrieve, order, renewal, opportunities, REST, HTTP]
 ---
-
-# Get Renewable Assets Summary Action
 
 > Retrieve details about renewable assets in a given order. You can
             use this information to create renewal opportunities.

@@ -5,12 +5,10 @@ topic: chatteranswerssingleitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.289Z
+lastCollected: 2026-04-07T18:38:49.364Z
 estimatedTokens: 177
-keywords: [chatteranswers, singleitemfeed, Displays, Chatter, Answers, feed, case, question, Ext, versions, less, included, pages, component, Attributes]
+keywords: [Attributes, chatteranswers, singleitemfeed, Displays, Chatter, Answers, case, question, Ext, versions, less, included, pages]
 ---
-
-# chatteranswers:singleitemfeed
 
 > Displays the Chatter Answers feed for a single case and question.  Ext JS versions less than 3 should not be included on pages that use this component.
 

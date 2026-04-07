@@ -5,12 +5,10 @@ topic: metadata-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.917Z
+lastCollected: 2026-04-07T18:39:21.797Z
 estimatedTokens: 181
-keywords: [Metadata, API, RestrictionRule, scoping, rules]
+keywords: [Metadata, API, RestrictionRule, scoping]
 ---
-
-# Metadata API Reference
 
 > This section provides more information on the RestrictionRule Metadata API type used to
   create scoping rules.

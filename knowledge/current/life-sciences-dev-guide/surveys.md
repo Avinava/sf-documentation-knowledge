@@ -5,12 +5,10 @@ topic: surveys
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.881Z
+lastCollected: 2026-04-07T18:37:57.423Z
 estimatedTokens: 255
-keywords: [Surveys, provide, Life, Science, companies, easy-to-use, solution, creating, distributing, completing, help, ensure, regulatory, compliance, support]
+keywords: [Surveys, provide, Life, Science, companies, easy-to-use, solution, creating, distributing, completing, help, ensure, regulatory, compliance, support, accurate, management, deliver, actionable, insights, enhance, research, outcomes, enable, informed, decision-making, Additionally, include, offline, survey, capability, Sciences, Cloud, mobile, app, allowing, users, collect, responses, internet, connection, back, online, automatically, synced, ensuring, seamless, integration, feedback, analytics, processes]
 ---
-
-# Surveys
 
 > Surveys provide Life Science companies with an easy-to-use solution for creating,
   distributing, and completing surveys. Surveys help ensure regulatory compliance, support accurate

@@ -5,12 +5,10 @@ topic: calldisposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.027Z
+lastCollected: 2026-04-07T18:39:31.349Z
 estimatedTokens: 277
 keywords: [CallDisposition, call, result, sales, reps, select, logging]
 ---
-
-# CallDisposition
 
 > Represents a call result value that sales reps select when logging a call.
 

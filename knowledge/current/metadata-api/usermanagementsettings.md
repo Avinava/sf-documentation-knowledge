@@ -5,12 +5,10 @@ topic: usermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.097Z
+lastCollected: 2026-04-07T18:36:30.466Z
 estimatedTokens: 2320
-keywords: [UserManagementSettings, selection, user, management, options, appear, Settings, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [UserManagementSettings, selection, user, management, options, appear, Settings, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# UserManagementSettings
 
 > Represents a selection of user management
             options that appear on the User Management Settings Setup page.

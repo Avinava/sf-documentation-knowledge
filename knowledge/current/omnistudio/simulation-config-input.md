@@ -5,12 +5,10 @@ topic: simulation-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.968Z
+lastCollected: 2026-04-07T18:36:37.525Z
 estimatedTokens: 180
-keywords: [Simulation, Config, Input, configuration, version, run]
+keywords: [Simulation, Config, configuration, run]
 ---
-
-# Simulation Config Input
 
 > Input information of the configuration version to run a
       simulation.

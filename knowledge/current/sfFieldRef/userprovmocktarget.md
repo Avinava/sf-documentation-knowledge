@@ -5,12 +5,10 @@ topic: userprovmocktarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.666Z
+lastCollected: 2026-04-07T18:40:05.531Z
 estimatedTokens: 350
-keywords: [UserProvMockTarget, entity, testing, user, data, committing, third-party, system, provisioning]
+keywords: [UserProvMockTarget, entity, testing, user, committing, third-party, system, provisioning]
 ---
-
-# UserProvMockTarget
 
 > Represents an entity for testing user data before committing the
 			data to a third-party system for user provisioning.

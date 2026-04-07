@@ -5,12 +5,10 @@ topic: loyalty-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.963Z
+lastCollected: 2026-04-07T18:38:09.256Z
 estimatedTokens: 181
-keywords: [Loyalty, Management, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
+keywords: [Loyalty, Management, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# Loyalty Management Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that
         you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types

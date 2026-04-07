@@ -5,12 +5,10 @@ topic: file-rendition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.011Z
+lastCollected: 2026-04-07T18:37:13.977Z
 estimatedTokens: 320
 keywords: [File, Rendition, binary, preview, depends]
 ---
-
-# File Rendition
 
 > A rendition of the file.
 A rendition is a binary preview of the file. The format of the binary

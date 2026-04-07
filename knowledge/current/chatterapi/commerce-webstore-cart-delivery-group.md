@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-delivery-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.315Z
+lastCollected: 2026-04-07T18:37:12.170Z
 estimatedTokens: 1160
 keywords: [Commerce, Webstore, Cart, Delivery, Group]
 ---
-
-# Commerce Webstore Cart Delivery Group
 
 > Get, delete, or update a delivery group in the
     cart.

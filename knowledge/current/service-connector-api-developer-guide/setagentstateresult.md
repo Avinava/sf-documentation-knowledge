@@ -5,12 +5,10 @@ topic: setagentstateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.760Z
+lastCollected: 2026-04-07T18:39:23.696Z
 estimatedTokens: 207
 keywords: [SetAgentStateResult, setAgentStatus, whether, status, succeeded, follow-up, sync, Amazon, Connect]
 ---
-
-# SetAgentStateResult
 
 > Return value for setAgentStatus; indicates whether the status update succeeded and
         whether a follow-up sync is required. Used with Amazon Connect.

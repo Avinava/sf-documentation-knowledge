@@ -5,12 +5,10 @@ topic: decision-table-row-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.994Z
+lastCollected: 2026-04-07T18:39:01.131Z
 estimatedTokens: 136
-keywords: [Decision, Row, Input, representation, data, CSV, added, updated]
+keywords: [Decision, Row, CSV, added, updated]
 ---
-
-# Decision Table Row List Input
 
 > Input representation of the data for a row in the CSV based decision
       table that has to be added or updated.

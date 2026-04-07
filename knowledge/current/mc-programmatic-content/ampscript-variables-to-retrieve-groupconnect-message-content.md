@@ -5,12 +5,10 @@ topic: ampscript-variables-to-retrieve-groupconnect-message-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:26.930Z
+lastCollected: 2026-04-07T18:40:22.307Z
 estimatedTokens: 409
-keywords: [AMPscript, Variables, Retrieve, GroupConnect, Message, Content, apply, messages, cannot, functions, email, landing, pages, functionality, specific]
+keywords: [TEXT, Examples, AMPscript, Variables, Retrieve, GroupConnect, Message, Content, apply, messages, cannot, functions, email, landing, pages, functionality, specific, including, applicable, nouns, sticker, NOUN, STKR]
 ---
-
-# AMPscript Variables to Retrieve GroupConnect Message Content
 
 > These variables apply only to GroupConnect messages. You cannot use these functions with email messages, landing pages, or other functionality. These functions return specific values that apply only to GroupConnect messages, including text, applicable nouns, and sticker data.
 

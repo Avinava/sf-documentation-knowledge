@@ -5,12 +5,10 @@ topic: cgcloudjobdljobdefinitiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.346Z
+lastCollected: 2026-04-07T18:39:13.756Z
 estimatedTokens: 2155
-keywords: [stores, questions, surveys, job, definition, API, version, 54.0, later, cgcloud, _Job, _DL, _Definition, _Template, Calls]
+keywords: [stores, questions, surveys, job, definition, API, 54.0, cgcloud, _Job, _DL, _Definition, _Template]
 ---
-
-# cgcloud__Job_DL_Job_Definition_Template__c
 
 > This object stores the questions or surveys that are used in the job
          definition list. This object is available in API version 54.0 and later.

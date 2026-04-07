@@ -5,12 +5,10 @@ topic: create-gift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.169Z
+lastCollected: 2026-04-07T18:38:20.925Z
 estimatedTokens: 158
-keywords: [Gift, Output, representation, created, transaction]
+keywords: [Gift, created, transaction]
 ---
-
-# Create Gift
 
 > Output representation of the details of the created gift transaction
     response.

@@ -5,12 +5,10 @@ topic: producercommission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.615Z
+lastCollected: 2026-04-07T18:39:55.177Z
 estimatedTokens: 647
-keywords: [ProducerCommission, producer's, commission, insurance, policy, calculated, commissionable, transactions, populated, external, system, API, version, 51.0, later]
+keywords: [ProducerCommission, producer's, commission, insurance, policy, calculated, commissionable, transactions, populated, external, system, API, 51.0]
 ---
-
-# ProducerCommission
 
 > Represents a producer's commission for an insurance policy. The commission
          can be calculated from the commissionable transactions or can be populated from an external

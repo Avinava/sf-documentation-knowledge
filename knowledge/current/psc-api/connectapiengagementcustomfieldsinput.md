@@ -5,12 +5,10 @@ topic: connectapiengagementcustomfieldsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.356Z
+lastCollected: 2026-04-07T18:39:00.435Z
 estimatedTokens: 309
-keywords: [ConnectApi.EngagementCustomFieldsInput, Input, representation, creating, engagement, interaction, topic, attendee, record, custom]
+keywords: [ConnectApi.EngagementCustomFieldsInput, creating, engagement, interaction, topic, attendee, record]
 ---
-
-# ConnectApi.EngagementCustomFieldsInput
 
 > Input representation for creating an engagement interaction, topic, or attendee record with a custom field.
 

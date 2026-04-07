@@ -5,12 +5,10 @@ topic: customizing-the-email-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.151Z
+lastCollected: 2026-04-07T18:37:04.866Z
 estimatedTokens: 1209
-keywords: [Customizing, Email, Action, apex, emailPublisher, component, closes, task, Open, Activities, created, Email-to-Case, inbound, Attributes, Case]
+keywords: [Customizing, Email, Action, apex, emailPublisher, closes, task, Open, Activities, created, Email-to-Case, inbound, Attributes, Case, Code, Sample]
 ---
-
-# Customizing the Email Action
 
 > The apex:emailPublisher component closes a
                                         task in Open Activities created by Email-to-Case inbound

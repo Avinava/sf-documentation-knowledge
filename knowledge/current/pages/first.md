@@ -5,12 +5,10 @@ topic: first
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.119Z
+lastCollected: 2026-04-07T18:38:48.069Z
 estimatedTokens: 118
 keywords: [Changes, records, controller]
 ---
-
-# first()
 
 > Changes the set of records that the controller returns to the first
   page of records.

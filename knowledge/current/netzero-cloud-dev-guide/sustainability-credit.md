@@ -5,12 +5,10 @@ topic: sustainability-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.021Z
+lastCollected: 2026-04-07T18:38:17.555Z
 estimatedTokens: 277
 keywords: [Sustainability, Credit, credits, part, purchase, variety, instruments, proving, positive, environmental, benefits, carbon, renewable, energy, certificates]
 ---
-
-# Sustainability Credit
 
 > The Sustainability Credit object represents information about the sustainability
     credits that are a part of a sustainability purchase. Sustainability credits can be one of a

@@ -5,12 +5,10 @@ topic: einstein-prompt-record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.432Z
+lastCollected: 2026-04-07T18:37:18.531Z
 estimatedTokens: 139
 keywords: [Einstein, Prompt, Record, Collection, template, records]
 ---
-
-# Einstein Prompt Record Collection
 
 > List of prompt template records.
 

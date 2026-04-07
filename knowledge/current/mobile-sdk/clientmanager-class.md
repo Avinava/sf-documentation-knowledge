@@ -5,12 +5,10 @@ topic: clientmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.478Z
+lastCollected: 2026-04-07T18:40:24.887Z
 estimatedTokens: 155
-keywords: [ClientManager, works, Android, AccountManager, manage, user, accounts, importantly, apps, access, RestClient, instances, two]
+keywords: [ClientManager, works, Android, AccountManager, manage, user, accounts, importantly, apps, RestClient, instances, two]
 ---
-
-# ClientManager Class
 
 > ClientManager works with the
 Android AccountManager class

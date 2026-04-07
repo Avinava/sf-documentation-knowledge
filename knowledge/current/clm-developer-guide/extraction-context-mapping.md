@@ -5,12 +5,10 @@ topic: extraction-context-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.321Z
+lastCollected: 2026-04-07T18:37:25.249Z
 estimatedTokens: 117
-keywords: [Extraction, Context, Mapping, Output, representation, associate, extracted, data, specific, system, entities]
+keywords: [Extraction, Context, Mapping, associate, extracted, specific, system, entities]
 ---
-
-# Extraction Context Mapping
 
 > Output representation of mapping details within an extraction context, used to associate
     extracted data with specific system entities.

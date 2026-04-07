@@ -5,12 +5,10 @@ topic: scheduled-custom-recommendation-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.791Z
+lastCollected: 2026-04-07T18:37:22.902Z
 estimatedTokens: 118
-keywords: [Scheduled, Custom, Recommendation, Collection, recommendations]
+keywords: [Scheduled, Recommendation, Collection, recommendations]
 ---
-
-# Scheduled Custom Recommendation Collection
 
 > A list of scheduled custom recommendations.
 

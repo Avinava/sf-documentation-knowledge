@@ -5,12 +5,10 @@ topic: sustainabilityscorecardhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.729Z
+lastCollected: 2026-04-07T18:40:03.438Z
 estimatedTokens: 273
-keywords: [SustainabilityScorecardHistory, History, tracked, SustainabilityScorecard]
+keywords: [SustainabilityScorecardHistory, tracked, SustainabilityScorecard]
 ---
-
-# SustainabilityScorecardHistory
 
 > History for tracked fields of SustainabilityScorecard.
 

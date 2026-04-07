@@ -5,12 +5,10 @@ topic: connectapirefundsequenceiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.942Z
+lastCollected: 2026-04-07T18:36:06.288Z
 estimatedTokens: 105
 keywords: [Order, Payment, Summary, amount, individual, refund, items, sequence, item, processed]
 ---
-
-# ConnectApi.RefundSequenceItemInputRepresentation
 
 > The Order Payment Summary ID and amount for the individual refund items in a sequence.
     Each item has a payment method and refund amount to be processed for that method.

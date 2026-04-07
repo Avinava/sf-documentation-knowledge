@@ -5,12 +5,10 @@ topic: topics-on-records-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.413Z
+lastCollected: 2026-04-07T18:37:15.466Z
 estimatedTokens: 853
-keywords: [Topics, Records, Resource, assigned, record, feed, item, add, remove, replace, Optionally, suggest, assign, improve, future]
+keywords: [Topics, Records, Resource, assigned, record, item, add, remove, replace, Optionally, suggest, assign, improve, future, topic, suggestions, users, permission, items, new, Administrators, enable]
 ---
-
-# Topics on Records Resource
 
 > Get information about topics assigned to a record or feed
          item and add, remove, and replace topics on a record or feed item. Optionally, suggest a

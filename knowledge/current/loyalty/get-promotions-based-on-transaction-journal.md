@@ -5,12 +5,10 @@ topic: get-promotions-based-on-transaction-journal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.431Z
+lastCollected: 2026-04-07T18:38:08.735Z
 estimatedTokens: 354
-keywords: [Promotions, Transaction, Journal, Retrieve, active, eligible, action, process, accrual, redemption, transactions, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Promotions, Transaction, Journal, Retrieve, active, eligible, action, process, accrual, redemption, transactions, REST, HTTP]
 ---
-
-# Get Promotions Based on Transaction Journal
 
 > Retrieve active promotions that are eligible for a transaction journal.
    The action can process accrual or redemption transactions.

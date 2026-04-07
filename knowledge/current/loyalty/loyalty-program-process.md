@@ -5,12 +5,10 @@ topic: loyalty-program-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.376Z
+lastCollected: 2026-04-07T18:38:07.606Z
 estimatedTokens: 1172
 keywords: [Loyalty, Program, Process, Run, created, template]
 ---
-
-# Loyalty Program Process
 
 > Run a loyalty process created from a loyalty program process
       template.

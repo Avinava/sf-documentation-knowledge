@@ -5,12 +5,10 @@ topic: benefit-session-participants-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.931Z
+lastCollected: 2026-04-07T18:38:20.674Z
 estimatedTokens: 206
 keywords: [Benefit, Session, Participants, POST, Add]
 ---
-
-# Benefit Session Participants (POST)
 
 > Add participants to a benefit session.
 

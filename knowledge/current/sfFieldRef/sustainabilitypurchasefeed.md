@@ -5,12 +5,10 @@ topic: sustainabilitypurchasefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.685Z
+lastCollected: 2026-04-07T18:40:03.379Z
 estimatedTokens: 364
-keywords: [SustainabilityPurchaseFeed, Feed, tracking, SustainabilityPurchase]
+keywords: [SustainabilityPurchaseFeed, SustainabilityPurchase]
 ---
-
-# SustainabilityPurchaseFeed
 
 > Feed tracking for SustainabilityPurchase.
 

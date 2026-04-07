@@ -5,13 +5,11 @@ topic: contexttypeenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.436Z
+lastCollected: 2026-04-07T18:36:12.732Z
 estimatedTokens: 181
 namespace: Canvas
-keywords: [ContextTypeEnum, context, data, excluded, canvas, app, specify, exclude, excludeContextTypes, CanvasLifecycleHandler, implementation]
+keywords: [ContextTypeEnum, context, excluded, canvas, app, specify, exclude, excludeContextTypes, CanvasLifecycleHandler, implementation]
 ---
-
-# ContextTypeEnum Enum
 
 > Describes context data that can be excluded
 from canvas app context data. You specify which context types to exclude

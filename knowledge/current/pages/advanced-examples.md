@@ -5,12 +5,10 @@ topic: advanced-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.743Z
+lastCollected: 2026-04-07T18:38:50.978Z
 estimatedTokens: 70
 keywords: [Advanced, Examples, quick, start, tutorial, considered, beginning, primarily, Visualforce, markup, Lightning, Platform, Apex, code, addition]
 ---
-
-# Advanced Examples
 
 > The examples in the quick start
     tutorial are considered beginning examples, and primarily use only Visualforce markup.

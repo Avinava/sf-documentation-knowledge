@@ -5,13 +5,11 @@ topic: reportchartcomponentlayoutitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.244Z
+lastCollected: 2026-04-07T18:36:00.516Z
 estimatedTokens: 1850
 namespace: Metadata
-keywords: [ReportChartComponentLayoutItem, settings, report, chart, standard, custom, Usage, cacheData, contextFilterableField, error, hideOnError, includeContext, reportName, showTitle, size]
+keywords: [ReportChartComponentLayoutItem, settings, report, chart, standard, cacheData, contextFilterableField, error, hideOnError, includeContext, reportName, showTitle, size, clone]
 ---
-
-# ReportChartComponentLayoutItem Class
 
 > Represents the settings for a report chart on a standard or custom
       page.

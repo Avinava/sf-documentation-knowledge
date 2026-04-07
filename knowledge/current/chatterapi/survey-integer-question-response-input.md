@@ -5,12 +5,10 @@ topic: survey-integer-question-response-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.631Z
+lastCollected: 2026-04-07T18:37:10.329Z
 estimatedTokens: 125
-keywords: [Survey, Question, Input, representation, NPS]
+keywords: [Survey, Question, NPS]
 ---
-
-# Survey Integer Question Response Input
 
 > Input representation of the details of the response to an NPS question
       on the survey page.

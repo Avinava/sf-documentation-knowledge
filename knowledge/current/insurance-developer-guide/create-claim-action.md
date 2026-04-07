@@ -5,12 +5,10 @@ topic: create-claim-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.934Z
+lastCollected: 2026-04-07T18:37:48.649Z
 estimatedTokens: 168
-keywords: [Claim, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Claim, Action, REST, HTTP]
 ---
-
-# Create Claim Action
 
 > Create a claim.
 

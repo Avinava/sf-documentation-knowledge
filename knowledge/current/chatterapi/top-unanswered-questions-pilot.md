@@ -5,12 +5,10 @@ topic: top-unanswered-questions-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.290Z
+lastCollected: 2026-04-07T18:37:15.332Z
 estimatedTokens: 288
 keywords: [Top, Unanswered, Questions, Pilot, context, user, Experience, Cloud, site]
 ---
-
-# Top Unanswered Questions (Pilot)
 
 > Get the top unanswered questions for the context user in an
       Experience Cloud site.

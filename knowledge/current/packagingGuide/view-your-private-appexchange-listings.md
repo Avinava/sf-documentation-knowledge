@@ -5,12 +5,10 @@ topic: view-your-private-appexchange-listings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.377Z
+lastCollected: 2026-04-07T18:38:46.243Z
 estimatedTokens: 230
-keywords: [View, AppExchange, Listings, listing, isn't, discoverable, Rarely, Salesforce, removes, published, tags, usually, because, issues, discovered]
+keywords: [View, AppExchange, Listings, listing, isn't, discoverable, Rarely, Salesforce, removes, published, tags, usually, because, issues, discovered, security, review, don't, appear, Partner, Console]
 ---
-
-# View Your Private AppExchange Listings
 
 > You can make your listing private so it isn't discoverable on AppExchange. Rarely,
     Salesforce removes a published listing from AppExchange and tags it as private, usually because

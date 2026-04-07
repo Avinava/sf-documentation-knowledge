@@ -5,12 +5,10 @@ topic: data-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.502Z
+lastCollected: 2026-04-07T18:36:57.018Z
 estimatedTokens: 588
-keywords: [Data, Connector, Analytics]
+keywords: [Connector, Analytics]
 ---
-
-# Data Connector
 
 > An Analytics data connector.
 

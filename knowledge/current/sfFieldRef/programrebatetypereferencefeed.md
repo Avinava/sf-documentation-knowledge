@@ -5,12 +5,10 @@ topic: programrebatetypereferencefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.502Z
+lastCollected: 2026-04-07T18:39:57.059Z
 estimatedTokens: 304
-keywords: [ProgramRebateTypeReferenceFeed, Feed, tracking, ProgramRebateTypeReference]
+keywords: [ProgramRebateTypeReferenceFeed, ProgramRebateTypeReference]
 ---
-
-# ProgramRebateTypeReferenceFeed
 
 > Feed tracking for ProgramRebateTypeReference.
 

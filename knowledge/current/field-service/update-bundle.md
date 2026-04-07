@@ -5,12 +5,10 @@ topic: update-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.188Z
+lastCollected: 2026-04-07T18:36:47.060Z
 estimatedTokens: 1917
-keywords: [Bundle, Adds, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, version, 54.0, later]
+keywords: [Bundle, Adds, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---
-
-# Update Bundle
 
 > Adds service appointments to an existing bundle. This resource accepts a bundle ID and
   service appointment IDs. This API is not supported in Gov Cloud. This endpoint is available in

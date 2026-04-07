@@ -5,12 +5,10 @@ topic: connectapiclaimparticipantinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.814Z
+lastCollected: 2026-04-07T18:37:49.676Z
 estimatedTokens: 244
-keywords: [Input, representation, claim, participant]
+keywords: [claim, participant]
 ---
-
-# ConnectApi.ClaimParticipantInputRepresentation
 
 > Input representation for a claim participant.
 

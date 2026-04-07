@@ -5,12 +5,10 @@ topic: make-the-threat-detection-app-visible-to-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.676Z
+lastCollected: 2026-04-07T18:39:22.572Z
 estimatedTokens: 986
-keywords: [Threat, Detection, App, Visible, Users, view, events, Salesforce, provide, feedback, specify, four, tabs, different, user]
+keywords: [Threat, Detection, App, Visible, Users, view, events, Salesforce, provide, feedback, specify, four, tabs, different, user, profiles]
 ---
-
-# Make the Threat Detection App Visible to Users
 
 > Before you can view the Threat Detection events in Salesforce and provide feedback, you
     must make the app visible to users. You also specify which of the four tabs are visible to

@@ -5,12 +5,10 @@ topic: forecasting-user-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.444Z
+lastCollected: 2026-04-07T18:37:19.590Z
 estimatedTokens: 111
 keywords: [Forecasting, User, Collection, users, whose, forecasts, context, view]
 ---
-
-# Forecasting User Collection
 
 > A collection of forecasting users whose forecasts the context user
       can view.

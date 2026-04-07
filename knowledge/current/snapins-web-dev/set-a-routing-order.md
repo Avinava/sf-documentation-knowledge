@@ -5,12 +5,10 @@ topic: set-a-routing-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.775Z
+lastCollected: 2026-04-07T18:40:09.719Z
 estimatedTokens: 549
 keywords: [Routing, Order, user, IDs, button, Embedded, Service, deployment, replace, assigned, chat, customer, requests, it’s, routed]
 ---
-
-# Set a Routing Order
 
 > Set a list of user IDs and button IDs on your Embedded Service
       deployment to replace the assigned chat button. When a customer requests a chat, it’s routed

@@ -5,12 +5,10 @@ topic: enable-the-option-to-request-a-callback
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.770Z
+lastCollected: 2026-04-07T18:40:12.732Z
 estimatedTokens: 1468
-keywords: [Enable, Option, Callback, how, rep-first, inbound, contact, flow, interactive, voice, IVR, prompts, customer, leave, phone]
+keywords: [Prerequisites, Enable, Option, Callback, how, rep-first, inbound, contact, flow, interactive, voice, IVR, prompts, customer, leave, phone, number, Step, Import, Amazon, Connect, Modify, Blocks, Publish, Test]
 ---
-
-# Enable the Option to Request a Callback
 
 > This example shows how to set up a rep-first callback in your
       inbound contact flow. The contact flow defines the interactive voice response (IVR) and

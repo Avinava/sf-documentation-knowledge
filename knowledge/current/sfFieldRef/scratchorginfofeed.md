@@ -5,12 +5,10 @@ topic: scratchorginfofeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.274Z
+lastCollected: 2026-04-07T18:40:01.034Z
 estimatedTokens: 360
-keywords: [ScratchOrgInfoFeed, Feed, tracking, ScratchOrgInfo]
+keywords: [ScratchOrgInfoFeed, ScratchOrgInfo]
 ---
-
-# ScratchOrgInfoFeed
 
 > Feed tracking for ScratchOrgInfo.
 

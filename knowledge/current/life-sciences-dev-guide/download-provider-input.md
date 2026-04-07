@@ -5,12 +5,10 @@ topic: download-provider-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.710Z
+lastCollected: 2026-04-07T18:37:55.028Z
 estimatedTokens: 175
-keywords: [Download, Provider, Input, representation, data, external, identifier]
+keywords: [Download, Provider, external, identifier]
 ---
-
-# Download Provider Input
 
 > The request representation to download provider data using an external identifier.
 

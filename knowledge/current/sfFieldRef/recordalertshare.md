@@ -5,12 +5,10 @@ topic: recordalertshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.354Z
+lastCollected: 2026-04-07T18:39:59.049Z
 estimatedTokens: 248
 keywords: [RecordAlertShare, Sharing, RecordAlert]
 ---
-
-# RecordAlertShare
 
 > Sharing for RecordAlert.
 

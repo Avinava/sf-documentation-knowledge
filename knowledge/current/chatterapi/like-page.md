@@ -5,12 +5,10 @@ topic: like-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.876Z
+lastCollected: 2026-04-07T18:37:20.034Z
 estimatedTokens: 379
 keywords: [Chatter, likes]
 ---
-
-# Like Page
 
 > Page of Chatter likes.
 

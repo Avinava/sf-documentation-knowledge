@@ -5,12 +5,10 @@ topic: contentnote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.873Z
+lastCollected: 2026-04-07T18:39:35.331Z
 estimatedTokens: 347
 keywords: [ContentNote, created, enhanced, taking, tool, released, Winter, ‘16]
 ---
-
-# ContentNote
 
 > Represents a note created with the enhanced note taking tool, released
    in Winter ‘16.

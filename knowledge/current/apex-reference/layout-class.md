@@ -5,13 +5,11 @@ topic: layout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.103Z
+lastCollected: 2026-04-07T18:36:00.385Z
 estimatedTokens: 4219
 namespace: Metadata
-keywords: [Layout, metadata, associated, Usage, customButtons, customConsoleComponents, emailDefault, excludeButtons, feedLayout, layoutSections, miniLayout, multilineLayoutFields, platformActionList, quickActionList, relatedContent]
+keywords: [Layout, metadata, customButtons, customConsoleComponents, emailDefault, excludeButtons, feedLayout, layoutSections, miniLayout, multilineLayoutFields, platformActionList, quickActionList, relatedContent, relatedLists, relatedObjects, runAssignmentRulesDefault, showEmailCheckbox, showHighlightsPanel, showInteractionLogPanel, showKnowledgeComponent, showRunAssignmentRulesCheckbox, showSolutionSection, showSubmitAndAttachButton, summaryLayout, clone]
 ---
-
-# Layout Class
 
 > Represents the metadata associated with a page
     layout.

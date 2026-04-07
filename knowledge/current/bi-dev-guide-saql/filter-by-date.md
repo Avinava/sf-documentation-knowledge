@@ -5,12 +5,10 @@ topic: filter-by-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.344Z
+lastCollected: 2026-04-07T18:37:00.914Z
 estimatedTokens: 536
 keywords: [Filter, Date, results, DateTime, DateOnly, Filters, include, exact, dates, specific, ranges, relative]
 ---
-
-# Filter By Date
 
 > You can filter results by DateTime and DateOnly fields. Filters can include exact dates, specific date
     ranges, or relative date ranges.

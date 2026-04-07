@@ -5,12 +5,10 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.235Z
+lastCollected: 2026-04-07T18:40:03.965Z
 estimatedTokens: 332
 keywords: [Territory2Type, category, territories, Territory2, Every, Sales, enabled, organization]
 ---
-
-# Territory2Type
 
 > Represents a category for territories (Territory2). Every Territory2
    must have a Territory2Type. Available only if Sales Territories has been enabled for your

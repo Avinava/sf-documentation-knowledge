@@ -5,12 +5,10 @@ topic: bulk-presentation-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.479Z
+lastCollected: 2026-04-07T18:37:54.806Z
 estimatedTokens: 350
-keywords: [Bulk, Presentation, Input, representation]
+keywords: [Bulk, Presentation]
 ---
-
-# Bulk Presentation Update Input
 
 > Input representation for bulk presentation update.
 

@@ -5,12 +5,10 @@ topic: timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:59.608Z
+lastCollected: 2026-04-07T18:36:45.375Z
 estimatedTokens: 297
-keywords: [Timeline, component, key, events, relating, person, resource, place, users, source, truth]
+keywords: [Timeline, key, events, relating, person, resource, place, users, source, truth]
 ---
-
-# Timeline
 
 > The Timeline component shows key events relating to a person or a resource in one place,
   so your users can see information from a single source of truth.

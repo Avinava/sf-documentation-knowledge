@@ -5,12 +5,10 @@ topic: productitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.856Z
+lastCollected: 2026-04-07T18:38:14.171Z
 estimatedTokens: 1045
-keywords: [ProductItem, stock, product, particular, inventory, location, warehouse, distribution, lot, item, records, represent, associated, stores, quantity]
+keywords: [ProductItem, stock, product, particular, inventory, location, warehouse, distribution, lot, item, records, represent, stores, quantity, products, API, 60.0]
 ---
-
-# ProductItem
 
 > Represents the stock of a product at a particular inventory location, such as
          a warehouse or a distribution lot. Product item records represent your inventory. A product

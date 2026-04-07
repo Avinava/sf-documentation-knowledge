@@ -5,12 +5,10 @@ topic: oauthcustomscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.985Z
+lastCollected: 2026-04-07T18:38:36.176Z
 estimatedTokens: 788
-keywords: [OauthCustomScope, permission, defining, protected, data, connected, app, access, external, entity, Salesforce, OAuth, authorization, provider, Calls]
+keywords: [OauthCustomScope, permission, defining, protected, connected, app, external, entity, Salesforce, OAuth, authorization, provider]
 ---
-
-# OauthCustomScope
 
 > Represents a permission defining the protected data that a connected app can access
 		from an external entity when Salesforce is the OAuth authorization provider.

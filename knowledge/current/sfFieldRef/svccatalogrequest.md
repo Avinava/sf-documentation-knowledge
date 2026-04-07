@@ -5,12 +5,10 @@ topic: svccatalogrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.803Z
+lastCollected: 2026-04-07T18:40:03.521Z
 estimatedTokens: 542
-keywords: [SvcCatalogRequest, made, user, Service, Catalog, builders, report, activity, API, version, 53.0, later]
+keywords: [SvcCatalogRequest, made, user, Service, Catalog, builders, report, activity, API, 53.0]
 ---
-
-# SvcCatalogRequest
 
 > Represents a request made by a user using the Service Catalog. Catalog
          builders use this object to report on Service Catalog activity. This object is

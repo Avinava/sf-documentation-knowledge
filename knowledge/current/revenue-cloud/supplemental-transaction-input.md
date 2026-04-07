@@ -5,12 +5,10 @@ topic: supplemental-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:58.640Z
+lastCollected: 2026-04-07T18:35:43.513Z
 estimatedTokens: 361
-keywords: [Supplemental, Transaction, Input, representation, order]
+keywords: [Supplemental, Transaction, order]
 ---
-
-# Supplemental Transaction Input
 
 > Input representation of the details of the request to create a supplemental
     order.

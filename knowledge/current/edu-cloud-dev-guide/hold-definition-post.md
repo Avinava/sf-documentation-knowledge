@@ -5,12 +5,10 @@ topic: hold-definition-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.250Z
+lastCollected: 2026-04-07T18:37:29.345Z
 estimatedTokens: 360
 keywords: [Hold, Definition, POST, reasons, resolution, plan]
 ---
-
-# Hold Definition (POST)
 
 > Create a hold definition with hold reasons and a resolution plan.
 

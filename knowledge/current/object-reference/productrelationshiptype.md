@@ -5,12 +5,10 @@ topic: productrelationshiptype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.397Z
+lastCollected: 2026-04-07T18:38:38.800Z
 estimatedTokens: 480
-keywords: [ProductRelationshipType, relationship, two, sales, transaction, items, bundle, component, API, version, 57.0, later, Calls, Special, Access]
+keywords: [ProductRelationshipType, relationship, two, sales, transaction, items, bundle, API, 57.0]
 ---
-
-# ProductRelationshipType
 
 > Defines the relationship between two sales transaction items. For
 			example, defines a relationship between a bundle and a bundle component. This

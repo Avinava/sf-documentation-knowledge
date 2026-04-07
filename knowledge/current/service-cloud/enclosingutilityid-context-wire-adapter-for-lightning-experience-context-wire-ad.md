@@ -6,13 +6,10 @@ topic: enclosingutilityid-context-wire-adapter-for-lightning-experience-context-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.055Z
+lastCollected: 2026-04-07T18:36:50.253Z
 estimatedTokens: 320
-keywords: [EnclosingUtilityId, Context, Wire, Adapter, Lightning, Experience, Determines, component, utility, Web, Components, LWC, Sample, Code]
+keywords: [EnclosingUtilityId, Context, Wire, Adapter, Lightning, Experience, Determines, utility, Web, LWC, Sample, Code]
 ---
-
-# EnclosingUtilityId Context Wire Adapter for Lightning Experience Context
-            Wire Adapter for Lightning Experience
 
 > Determines if the component is within a utility. This wire adapter is available for
         Lightning Web Components (LWC) only.

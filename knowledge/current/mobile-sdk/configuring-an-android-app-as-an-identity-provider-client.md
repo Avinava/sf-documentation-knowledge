@@ -5,12 +5,10 @@ topic: configuring-an-android-app-as-an-identity-provider-client
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.783Z
+lastCollected: 2026-04-07T18:40:25.177Z
 estimatedTokens: 256
-keywords: [Configuring, Android, App, Identity, Provider, Client, configure, any, built, Mobile, SDK, 11.0, later, long, it’s]
+keywords: [Configuring, Android, App, Identity, Provider, Client, configure, any, built, Mobile, SDK, 11.0, long, it’s, identify, itself, call, IDP, rest]
 ---
-
-# Configuring an Android App as an Identity Provider Client
 
 > You can configure any app built on Mobile SDK 11.0 or later as
     an identity provider client, as long as it’s not the same app being used as an identity

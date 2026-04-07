@@ -5,12 +5,10 @@ topic: producersplitarrangement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.864Z
+lastCollected: 2026-04-07T18:37:38.743Z
 estimatedTokens: 1193
-keywords: [ProducerSplitArrangement, Producer, Split, Arrangement, definition, associated, account, service, item, API, version, later, Calls, Objects]
+keywords: [ProducerSplitArrangement, Producer, Split, Arrangement, definition, account, service, item, API]
 ---
-
-# ProducerSplitArrangement
 
 > Represents a Producer Split Arrangement definition associated with an account,
          service, or an item. This object is available in API version 61 and later.

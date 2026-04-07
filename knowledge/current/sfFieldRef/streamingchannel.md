@@ -5,12 +5,10 @@ topic: streamingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.359Z
+lastCollected: 2026-04-07T18:40:03.053Z
 estimatedTokens: 368
-keywords: [StreamingChannel, channel, basis, notifying, listeners, generic, Streaming, API, events, version, 29.0, later]
+keywords: [StreamingChannel, channel, basis, notifying, listeners, generic, Streaming, API, events, 29.0]
 ---
-
-# StreamingChannel
 
 > Represents a channel that is the basis for notifying listeners of generic
       Streaming API events. This object is available in API version 29.0 and later.

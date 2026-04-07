@@ -5,12 +5,10 @@ topic: memberplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.901Z
+lastCollected: 2026-04-07T18:37:47.478Z
 estimatedTokens: 1796
-keywords: [MemberPlan, insurance, coverage, member, subscriber, Calls, Associated, Objects]
+keywords: [MemberPlan, insurance, coverage, member, subscriber]
 ---
-
-# MemberPlan
 
 > Represents details about the insurance coverage for a member or
 			subscriber.

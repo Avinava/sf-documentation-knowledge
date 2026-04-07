@@ -5,12 +5,10 @@ topic: set-up-your-development-environment-for-enhanced-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.225Z
+lastCollected: 2026-04-07T18:40:21.506Z
 estimatedTokens: 432
 keywords: [Development, Environment, Enhanced, Packages, Items]
 ---
-
-# Set Up Your Development Environment for Enhanced Packages
 
 # Set Up Your Development Environment for Enhanced Packages
 

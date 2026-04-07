@@ -6,13 +6,10 @@ topic: common-test-utility-classes-for-test-data-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.425Z
+lastCollected: 2026-04-07T18:36:18.653Z
 estimatedTokens: 339
-keywords: [Common, Test, Utility, Classes, Data, Creation, contain, reusable, code]
+keywords: [Common, Test, Utility, Classes, Creation, contain, reusable, code]
 ---
-
-# Common Test Utility Classes for Test Data
-Creation
 
 > Common test utility classes are public test classes that
 contain reusable code for test data creation.

@@ -5,12 +5,10 @@ topic: code-modifications-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.888Z
+lastCollected: 2026-04-07T18:40:27.110Z
 estimatedTokens: 396
 keywords: [Code, Modifications, Android, project, number, Google, authorized, send, push, notifications, device]
 ---
-
-# Code Modifications (Android)
 
 > This value is the project number of
                         the Google project that is authorized to send push notifications to an

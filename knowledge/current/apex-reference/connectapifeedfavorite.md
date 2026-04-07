@@ -5,12 +5,10 @@ topic: connectapifeedfavorite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.303Z
+lastCollected: 2026-04-07T18:36:06.655Z
 estimatedTokens: 348
-keywords: [ConnectApi.FeedFavorite, Feed, favorite]
+keywords: [ConnectApi.FeedFavorite, favorite]
 ---
-
-# ConnectApi.FeedFavorite
 
 > Feed favorite.
 

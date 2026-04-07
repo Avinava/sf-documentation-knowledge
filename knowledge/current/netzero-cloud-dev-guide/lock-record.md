@@ -5,12 +5,10 @@ topic: lock-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.700Z
+lastCollected: 2026-04-07T18:38:16.252Z
 estimatedTokens: 126
-keywords: [Lock, Record, Salesforce, prevent, data, modification, carbon, footprint, calculated]
+keywords: [Lock, Record, Salesforce, prevent, modification, carbon, footprint, calculated]
 ---
-
-# Lock Record
 
 > Lock a record in Salesforce object to prevent data modification
       after carbon footprint is calculated.

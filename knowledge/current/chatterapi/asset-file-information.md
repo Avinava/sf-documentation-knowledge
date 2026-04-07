@@ -5,12 +5,10 @@ topic: asset-file-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.951Z
+lastCollected: 2026-04-07T18:37:13.915Z
 estimatedTokens: 199
 keywords: [Asset, File, change, visibility, unauthenticated, users]
 ---
-
-# Asset File Information
 
 > Get information about an asset file or change the visibility of an
       asset file for unauthenticated users.

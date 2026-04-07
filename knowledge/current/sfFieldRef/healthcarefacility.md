@@ -5,12 +5,10 @@ topic: healthcarefacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.994Z
+lastCollected: 2026-04-07T18:39:43.610Z
 estimatedTokens: 486
 keywords: [HealthcareFacility, healthcare, facility, may, physical, functional, geographic, business]
 ---
-
-# HealthcareFacility
 
 > Represents a healthcare facility and all its related details. These
          details may be physical, functional, geographic, or business details.

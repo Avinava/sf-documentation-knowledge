@@ -5,12 +5,10 @@ topic: allergyintoleranceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.658Z
+lastCollected: 2026-04-07T18:39:25.615Z
 estimatedTokens: 252
 keywords: [AllergyIntoleranceShare, Sharing, AllergyIntolerance]
 ---
-
-# AllergyIntoleranceShare
 
 > Sharing for AllergyIntolerance.
 

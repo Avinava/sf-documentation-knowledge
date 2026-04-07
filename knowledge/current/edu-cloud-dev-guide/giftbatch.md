@@ -5,12 +5,10 @@ topic: giftbatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.057Z
+lastCollected: 2026-04-07T18:37:30.126Z
 estimatedTokens: 1319
-keywords: [GiftBatch, status, batch, gifts, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftBatch, status, batch, gifts, API, 59.0]
 ---
-
-# GiftBatch
 
 > Represents the details and status of the batch of gifts. This object is
       available in API version 59.0 and later.

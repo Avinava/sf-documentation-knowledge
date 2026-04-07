@@ -5,12 +5,10 @@ topic: connectapidatagraphobjectdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.161Z
+lastCollected: 2026-04-07T18:36:08.572Z
 estimatedTokens: 332
-keywords: [ConnectApi.DataGraphObjectData, metadata, data, graph]
+keywords: [ConnectApi.DataGraphObjectData, metadata, graph]
 ---
-
-# ConnectApi.DataGraphObjectData
 
 > Represents object metadata for a data graph.
 

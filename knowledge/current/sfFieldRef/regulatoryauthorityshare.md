@@ -5,12 +5,10 @@ topic: regulatoryauthorityshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.744Z
+lastCollected: 2026-04-07T18:39:59.406Z
 estimatedTokens: 252
 keywords: [RegulatoryAuthorityShare, Sharing, RegulatoryAuthority]
 ---
-
-# RegulatoryAuthorityShare
 
 > Sharing for RegulatoryAuthority.
 

@@ -2,7 +2,7 @@
 domain: bigobjects
 name: Big Objects Implementation Guide
 documentCount: 10
-lastGenerated: 2026-04-07T09:06:35.855Z
+lastGenerated: 2026-04-07T18:40:41.283Z
 ---
 
 # Big Objects Implementation Guide — Knowledge Index

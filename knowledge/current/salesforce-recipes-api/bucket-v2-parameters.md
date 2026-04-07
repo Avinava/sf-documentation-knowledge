@@ -5,12 +5,10 @@ topic: bucket-v2-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.340Z
+lastCollected: 2026-04-07T18:39:19.026Z
 estimatedTokens: 257
-keywords: [Bucket, paramters, version, node, recipe]
+keywords: [Bucket, paramters, node, recipe]
 ---
-
-# Bucket V2 Parameters
 
 > A paramters for a version 2 bucket node in a recipe.
 

@@ -5,12 +5,10 @@ topic: apexpanelbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.174Z
+lastCollected: 2026-04-07T18:38:50.444Z
 estimatedTokens: 1102
-keywords: [apex, panelBar, area, includes, <apex, panelBarItem>, tags, expand, user, clicks, associated, expanded, content, item, items]
+keywords: [Attributes, apex, panelBar, area, includes, <apex, panelBarItem>, tags, expand, user, clicks, expanded, content, item, items, hidden, another]
 ---
-
-# apex:panelBar
 
 > A page area that includes one or more <apex:panelBarItem> tags that can expand when a user clicks the associated header. When an <apex:panelBarItem> is expanded, the header and the content of the item are displayed while the content of all other items are hidden. When another <apex:panelBarItem> is 
 

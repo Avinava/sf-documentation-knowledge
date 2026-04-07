@@ -5,12 +5,10 @@ topic: setcustomconsolecomponentbuttonstyle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.587Z
+lastCollected: 2026-04-07T18:36:50.862Z
 estimatedTokens: 255
-keywords: [setCustomConsoleComponentButtonStyle, style, button, launch, application-level, custom, console, component, that’s, API, version, 25.0, later, isn’t, Lightning]
+keywords: [Arguments, setCustomConsoleComponentButtonStyle, style, button, launch, application-level, console, that’s, API, 25.0, isn’t, Lightning, Sample, Code–Visualforce]
 ---
-
-# setCustomConsoleComponentButtonStyle()
 
 > Sets the style of a button used to
             launch an application-level custom console component that’s on a page. This method is only available in API version 25.0 or

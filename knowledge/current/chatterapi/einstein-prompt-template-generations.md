@@ -5,12 +5,10 @@ topic: einstein-prompt-template-generations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.268Z
+lastCollected: 2026-04-07T18:37:15.306Z
 estimatedTokens: 509
-keywords: [Einstein, Prompt, Template, Generations, Generates, input, Generated, LLM, provider, resolved, text]
+keywords: [Einstein, Prompt, Template, Generations, Generates, Generated, LLM, provider, resolved, text]
 ---
-
-# Einstein Prompt Template Generations
 
 > Generated response from the specified LLM provider and resolved prompt template
     text.

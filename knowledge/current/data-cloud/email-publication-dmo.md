@@ -5,12 +5,10 @@ topic: email-publication-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.560Z
+lastCollected: 2026-04-07T18:35:53.519Z
 estimatedTokens: 1765
-keywords: [Email, Publication, DMO, Data, Cloud, model, campaign, orchestration, channel, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Email, Publication, DMO, Cloud, model, campaign, orchestration, channel, API, Primary, Subject, Area, Key]
 ---
-
-# Email Publication DMO
 
 > The Email Publication DMO is a Data Cloud data model object (DMO) that
       contains information about a publication such as a campaign or an orchestration used in the

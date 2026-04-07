@@ -5,12 +5,10 @@ topic: bulkapirequesteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.973Z
+lastCollected: 2026-04-07T18:38:26.951Z
 estimatedTokens: 837
-keywords: [BulkApiRequestEventLog, Bulk, API, event, captures, requests, received, job, batch, completes, version, 65.0, later, Calls, Special]
+keywords: [BulkApiRequestEventLog, Bulk, API, event, captures, requests, received, job, batch, completes, 65.0]
 ---
-
-# BulkApiRequestEventLog
 
 > The Bulk API request event captures when Bulk API requests are received to
          create a job, update a job, create a batch, update a batch, and when a job completes.

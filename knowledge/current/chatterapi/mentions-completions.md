@@ -5,12 +5,10 @@ topic: mentions-completions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.553Z
+lastCollected: 2026-04-07T18:37:14.551Z
 estimatedTokens: 604
-keywords: [Mentions, Completions, users, groups, mention, feed, item, comment, resource, generate, proposed, user, choose, “@”, character]
+keywords: [Mentions, Completions, users, groups, mention, item, comment, resource, generate, proposed, user, choose, “@”, character, followed, group, mentioned, they, receive, notification]
 ---
-
-# Mentions Completions
 
 > Information about users and groups to mention in a feed item body or comment body. Use
       this resource to generate a list of proposed mentions that a user can choose from. A mention

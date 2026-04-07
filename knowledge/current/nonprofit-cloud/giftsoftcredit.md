@@ -5,12 +5,10 @@ topic: giftsoftcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.917Z
+lastCollected: 2026-04-07T18:38:21.846Z
 estimatedTokens: 1114
-keywords: [GiftSoftCredit, soft, credit, attributed, person, organization, gift, transaction, API, version, 59.0, later, Calls, Special, Access]
+keywords: [GiftSoftCredit, soft, credit, attributed, person, organization, gift, transaction, API, 59.0]
 ---
-
-# GiftSoftCredit
 
 > Represents the soft credit attributed to a person or organization for the
          gift transaction. This object is available in API version 59.0 and later.

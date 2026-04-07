@@ -5,12 +5,10 @@ topic: action-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.802Z
+lastCollected: 2026-04-07T18:36:52.222Z
 estimatedTokens: 103
-keywords: [Action, Output, representation, inbound, event]
+keywords: [Action, inbound, event]
 ---
-
-# Action Response
 
 > Output representation of the action response of an inbound
     event.

@@ -5,12 +5,10 @@ topic: referral-advocate-enrollments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.113Z
+lastCollected: 2026-04-07T18:39:09.437Z
 estimatedTokens: 857
-keywords: [Referral, Advocate, Enrollments, POST, Enroll, new, customer, promotion, Special, Access, Rules]
+keywords: [Referral, Advocate, Enrollments, POST, Enroll, new, customer, promotion]
 ---
-
-# Referral Advocate Enrollments (POST)
 
 > Enroll an existing or new customer as an advocate of a referral promotion.
 

@@ -5,12 +5,10 @@ topic: edit-a-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.731Z
+lastCollected: 2026-04-07T18:36:18.950Z
 estimatedTokens: 76
 keywords: [Edit, Comment, Call]
 ---
-
-# Edit a Comment
 
 > Call a method to edit a comment.
 

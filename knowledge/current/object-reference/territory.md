@@ -5,12 +5,10 @@ topic: territory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.932Z
+lastCollected: 2026-04-07T18:38:42.651Z
 estimatedTokens: 1154
-keywords: [Territory, flexible, collection, accounts, users, least, access, regardless, owns, Sales, Territories, enabled, Calls, Special, Rules]
+keywords: [Territory, flexible, collection, accounts, users, least, regardless, owns, Sales, Territories, enabled]
 ---
-
-# Territory
 
 > Represents a flexible collection of accounts and users where the users
       have at least read access to the accounts, regardless of who owns the accounts. Available

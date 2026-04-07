@@ -5,12 +5,10 @@ topic: networkselfregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:55.183Z
+lastCollected: 2026-04-07T18:39:49.672Z
 estimatedTokens: 557
-keywords: [NetworkSelfRegistration, account, self-registering, Experience, Cloud, users, associated, site, admin, specify, setting, self-registration, isn’t, Salesforce, creates]
+keywords: [NetworkSelfRegistration, account, self-registering, Experience, Cloud, users, site, admin, specify, setting, self-registration, isn’t, Salesforce, creates, person, accounts, enabled, API, 34.0]
 ---
-
-# NetworkSelfRegistration
 
 > Represents the account that self-registering Experience Cloud users are associated with by default. Self-registering users in an Experience Cloud site are required to
 		be associated with an account, which the admin must specify while setting up self-registration for the site. If an account isn’t specified, Salesforce creates person accounts (when enabled)

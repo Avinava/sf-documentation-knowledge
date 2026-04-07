@@ -5,12 +5,10 @@ topic: page-condition-syntax-for-uijson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.958Z
+lastCollected: 2026-04-07T18:37:02.507Z
 estimatedTokens: 263
-keywords: [Condition, ui.json, page's, appearance, conditional, variable, user, answers, “No”, asked, there, Products, dimension, ensure, Products-related]
+keywords: [Condition, ui.json, page's, appearance, conditional, variable, user, answers, “No”, asked, there, Products, dimension, ensure, Products-related, displays, wizard, Adding, conditions, flow, met, display, instruct, conditionals, control, pages]
 ---
-
-# Page Condition Syntax for ui.json
 
 > You can make a page's appearance conditional on the value of a variable. For example, if
   the user answers “No” when asked if there is a Products dimension, you can use a conditional to

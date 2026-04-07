@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-date-interval-setting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.388Z
+lastCollected: 2026-04-07T18:36:59.882Z
 estimatedTokens: 191
-keywords: [Smart, Data, Discovery, Projected, Predictions, Date, Interval, Setting, settings, Einstein]
+keywords: [Smart, Discovery, Projected, Predictions, Date, Interval, Setting, settings, Einstein]
 ---
-
-# Smart Data Discovery Projected Predictions Date Interval Setting
 
 > The settings for an Einstein Discovery date interval.
 

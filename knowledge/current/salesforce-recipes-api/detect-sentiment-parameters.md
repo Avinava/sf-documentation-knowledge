@@ -5,12 +5,10 @@ topic: detect-sentiment-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.386Z
+lastCollected: 2026-04-07T18:39:19.067Z
 estimatedTokens: 192
 keywords: [Detect, Sentiment, node, recipe]
 ---
-
-# Detect Sentiment Parameters
 
 > The parameters for a detect sentiment node in a recipe.
 

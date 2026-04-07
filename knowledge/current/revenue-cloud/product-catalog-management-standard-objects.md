@@ -5,12 +5,10 @@ topic: product-catalog-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.588Z
+lastCollected: 2026-04-07T18:35:47.614Z
 estimatedTokens: 1617
-keywords: [Product, Catalog, Management, Standard, Objects, data, model, manage, products, rules, catalogs]
+keywords: [Product, Catalog, Management, Standard, model, manage, products, catalogs]
 ---
-
-# Product Catalog Management Standard Objects
 
 > The Product Catalog Management data model provides objects and fields to manage
   products, rules, and catalogs.

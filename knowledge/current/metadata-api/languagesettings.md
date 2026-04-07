@@ -5,12 +5,10 @@ topic: languagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.538Z
+lastCollected: 2026-04-07T18:36:26.963Z
 estimatedTokens: 1242
-keywords: [LanguageSettings, organization’s, language, settings, control, end-user, selection, locale, formats, translation, options, extends, Metadata, inherits, fullName]
+keywords: [LanguageSettings, organization’s, language, settings, control, end-user, selection, locale, formats, translation, options, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LanguageSettings
 
 > Represents an organization’s language settings. Language
             settings control end-user language selection, locale formats, and translation options.

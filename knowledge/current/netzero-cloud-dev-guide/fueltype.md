@@ -5,12 +5,10 @@ topic: fueltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.905Z
+lastCollected: 2026-04-07T18:38:16.458Z
 estimatedTokens: 505
-keywords: [FuelType, custom, fuel, org, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, additional, defined, customer.This, API, version]
+keywords: [FuelType, fuel, org, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, additional, defined, customer.This, API, 57.0, customer, SOAP, REST]
 ---
-
-# FuelType
 
 > Represents information about the additional fuel types defined by a
          customer. This object is available in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.478Z
+lastCollected: 2026-04-07T18:37:15.537Z
 estimatedTokens: 1413
 keywords: [Service, Appointments, appointment, records, assign, resources, generate, leads, including, group, multiple, participants]
 ---
-
-# Service Appointments
 
 > Create and update service appointment records, assign resources, and
       generate leads, including group appointments with multiple participants.

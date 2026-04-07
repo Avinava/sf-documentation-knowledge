@@ -5,12 +5,10 @@ topic: gamification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.597Z
+lastCollected: 2026-04-07T18:38:08.926Z
 estimatedTokens: 199
 keywords: [Gamification, doesn’t, play, game, Engage, customers, gamifying, customer, activities, placing, order, events, birthdays, anniversaries]
 ---
-
-# Gamification
 
 > Who doesn’t like to play a game? Engage your customers more by gamifying customer
     activities, such as placing an order, or events, such as birthdays and

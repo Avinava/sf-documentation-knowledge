@@ -5,12 +5,10 @@ topic: use-sample-code-in-production
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.469Z
+lastCollected: 2026-04-07T18:38:47.424Z
 estimatedTokens: 148
-keywords: [Sample, Code, Production, educational, tool, preparation, developing, own, application, building, always, write, yourself, Avoid, copying]
+keywords: [Sample, Code, Production, educational, tool, preparation, developing, own, application, building, always, write, yourself, Avoid, copying, sources, don’t, directly, control]
 ---
-
-# Use Sample Code in Production
 
 > Only use sample code as an educational tool in preparation for developing your own
     application. When building your production code, always write the code yourself. Avoid copying

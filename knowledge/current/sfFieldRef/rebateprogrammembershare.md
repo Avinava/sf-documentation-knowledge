@@ -5,12 +5,10 @@ topic: rebateprogrammembershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.103Z
+lastCollected: 2026-04-07T18:39:58.756Z
 estimatedTokens: 162
 keywords: [RebateProgramMemberShare, Sharing, RebateProgramMember]
 ---
-
-# RebateProgramMemberShare
 
 > Sharing for RebateProgramMember.
 

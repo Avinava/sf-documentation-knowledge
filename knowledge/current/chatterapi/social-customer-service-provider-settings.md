@@ -5,12 +5,10 @@ topic: social-customer-service-provider-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.824Z
+lastCollected: 2026-04-07T18:37:22.943Z
 estimatedTokens: 185
 keywords: [Social, Customer, Service, Provider, Settings, behavior, specific, networks]
 ---
-
-# Social Customer Service Provider Settings
 
 > Social Customer Service settings related to the behavior of specific
       social networks.

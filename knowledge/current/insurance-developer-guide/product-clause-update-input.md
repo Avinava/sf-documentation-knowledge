@@ -5,12 +5,10 @@ topic: product-clause-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.235Z
+lastCollected: 2026-04-07T18:37:51.212Z
 estimatedTokens: 142
-keywords: [Product, Clause, Input, representation, updating]
+keywords: [Product, Clause, updating]
 ---
-
-# Product Clause Update Input
 
 > Input representation for updating a product clause.
 

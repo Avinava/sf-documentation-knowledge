@@ -5,12 +5,10 @@ topic: updateoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.698Z
+lastCollected: 2026-04-07T18:40:20.962Z
 estimatedTokens: 510
-keywords: [UpdateOptions, ability, save, data, extension, container, instance, DataExtensionField, Action, call, drops, any, child, Otherwise, adds]
+keywords: [UpdateOptions, ability, save, extension, container, instance, DataExtensionField, Action, call, drops, any, child, Otherwise, adds, updates, Sample, Code, Items]
 ---
-
-# UpdateOptions
 
 > The UpdateOptions object defines the ability to save, update, or delete data extension fields using a container. If the Container property contains an instance of DataExtensionField, and the Action is DELETE, then the call drops any child fields. Otherwise, the call adds or updates all child fields 
 

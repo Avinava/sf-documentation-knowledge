@@ -5,12 +5,10 @@ topic: usageimpactgroupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.943Z
+lastCollected: 2026-04-07T18:40:04.739Z
 estimatedTokens: 361
-keywords: [UsageImpactGroupFeed, Feed, tracking, UsageImpactGroup]
+keywords: [UsageImpactGroupFeed, UsageImpactGroup]
 ---
-
-# UsageImpactGroupFeed
 
 > Feed tracking for UsageImpactGroup.
 

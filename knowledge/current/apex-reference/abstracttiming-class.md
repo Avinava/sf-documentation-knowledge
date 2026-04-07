@@ -5,13 +5,11 @@ topic: abstracttiming-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.356Z
+lastCollected: 2026-04-07T18:36:00.629Z
 estimatedTokens: 172
 namespace: RichMessaging
 keywords: [AbstractTiming, Parent, RichMessaging, timing, classes]
 ---
-
-# AbstractTiming Class
 
 > Parent class for other RichMessaging timing classes.
 

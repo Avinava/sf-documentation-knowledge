@@ -5,12 +5,10 @@ topic: programrebatetypebenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.372Z
+lastCollected: 2026-04-07T18:39:56.929Z
 estimatedTokens: 372
 keywords: [ProgramRebateTypeBenefit, benefit, matrix, rebate, $200]
 ---
-
-# ProgramRebateTypeBenefit
 
 > Defines the benefit matrix for the rebate type. For example, 5% or $200.
 

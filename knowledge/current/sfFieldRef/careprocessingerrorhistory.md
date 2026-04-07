@@ -5,12 +5,10 @@ topic: careprocessingerrorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.902Z
+lastCollected: 2026-04-07T18:39:32.288Z
 estimatedTokens: 269
-keywords: [CareProcessingErrorHistory, History, tracked, CareProcessingError]
+keywords: [CareProcessingErrorHistory, tracked, CareProcessingError]
 ---
-
-# CareProcessingErrorHistory
 
 > History for tracked fields of CareProcessingError.
 

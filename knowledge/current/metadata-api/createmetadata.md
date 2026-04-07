@@ -5,12 +5,10 @@ topic: createmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.652Z
+lastCollected: 2026-04-07T18:36:23.990Z
 estimatedTokens: 1080
-keywords: [createMetadata, Adds, new, metadata, components, organization, synchronously, Usage, Version, Permissions, Data, Basic, Steps, Creating, Sample]
+keywords: [Permissions, Arguments, createMetadata, Adds, new, metadata, organization, synchronously, Basic, Steps, Creating, Sample, Code—Java]
 ---
-
-# createMetadata()
 
 > Adds one or more new metadata components to your
             organization synchronously.

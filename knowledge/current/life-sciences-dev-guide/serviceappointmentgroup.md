@@ -5,12 +5,10 @@ topic: serviceappointmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.945Z
+lastCollected: 2026-04-07T18:38:01.832Z
 estimatedTokens: 1142
-keywords: [ServiceAppointmentGroup, Stores, group, service, appointments, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [ServiceAppointmentGroup, Stores, group, service, appointments, API, 56.0]
 ---
-
-# ServiceAppointmentGroup
 
 > Stores information about a group of related service appointments. This
       object is available in API version 56.0 and later.

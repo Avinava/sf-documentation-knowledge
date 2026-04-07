@@ -5,12 +5,10 @@ topic: using-ios-app-extensions-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.239Z
+lastCollected: 2026-04-07T18:40:26.548Z
 estimatedTokens: 2160
-keywords: [iOS, App, Extensions, provide, opportunities, developers, extend, their, app’s, functionality, beyond, window, Mobile, SDK, supports]
+keywords: [iOS, App, Extensions, provide, opportunities, developers, extend, their, app’s, functionality, beyond, window, Mobile, SDK, supports, small, amount, extra, configuration, Apps, Project, Settings, Group, AppDelegate, Code, Changes, Extension]
 ---
-
-# Using iOS App Extensions with
 
 > iOS app extensions provide opportunities for developers to extend their app’s
         functionality beyond the app window. Mobile SDK supports

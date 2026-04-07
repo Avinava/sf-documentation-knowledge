@@ -5,12 +5,10 @@ topic: provideroffering
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.715Z
+lastCollected: 2026-04-07T18:37:31.866Z
 estimatedTokens: 704
-keywords: [ProviderOffering, people, organizations, associated, providing, benefits, program, participants, API, version, 60.0, later, Calls, Objects]
+keywords: [ProviderOffering, people, organizations, providing, benefits, program, participants, API, 60.0]
 ---
-
-# ProviderOffering
 
 > Represents people or organizations associated with providing benefits to
          program participants. This object is available in API version 60.0 and later.

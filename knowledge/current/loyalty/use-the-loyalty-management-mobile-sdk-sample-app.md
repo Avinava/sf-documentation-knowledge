@@ -5,12 +5,10 @@ topic: use-the-loyalty-management-mobile-sdk-sample-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.763Z
+lastCollected: 2026-04-07T18:38:09.061Z
 estimatedTokens: 378
-keywords: [Loyalty, Management, Mobile, SDK, Sample, App, MyNTORewards, apps, implementation, capabilities, include, SDK's, code, structure, either]
+keywords: [Loyalty, Management, Mobile, SDK, Sample, App, MyNTORewards, apps, implementation, capabilities, include, SDK's, code, structure, either, implement, source, provided, as-is, extend, modifying]
 ---
-
-# Use the Loyalty Management Mobile SDK Sample App
 
 > The MyNTORewards sample apps are a reference implementation of Loyalty Management Mobile
         SDK capabilities, and include  the SDK's code, structure, and implementation. You can either

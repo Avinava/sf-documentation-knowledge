@@ -5,12 +5,10 @@ topic: using-custom-marker-icons
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.491Z
+lastCollected: 2026-04-07T18:38:51.753Z
 estimatedTokens: 562
-keywords: [Custom, Marker, Icons, Visualforce, map, icon, functional, plain, differentiate, markers, add, detail, style, maps]
+keywords: [Marker, Icons, Visualforce, map, icon, functional, plain, differentiate, markers, add, detail, style, maps]
 ---
-
-# Using Custom Marker Icons
 
 > The Visualforce map marker icon
     is functional but plain. To differentiate markers and add detail or style to your maps, use

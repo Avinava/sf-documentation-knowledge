@@ -5,12 +5,10 @@ topic: carebarriertypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.236Z
+lastCollected: 2026-04-07T18:39:31.580Z
 estimatedTokens: 360
-keywords: [CareBarrierTypeFeed, Feed, tracking, CareBarrierType]
+keywords: [CareBarrierTypeFeed, CareBarrierType]
 ---
-
-# CareBarrierTypeFeed
 
 > Feed tracking for CareBarrierType.
 

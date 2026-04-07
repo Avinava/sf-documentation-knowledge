@@ -5,12 +5,10 @@ topic: creating-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.744Z
+lastCollected: 2026-04-07T18:40:26.077Z
 estimatedTokens: 457
-keywords: [Creating, Hybrid, Apps, combine, ease, HTML5, Web, app, development, power, features, native, platform, They, run]
+keywords: [Creating, Hybrid, Apps, combine, ease, HTML5, Web, app, development, power, features, native, platform, They, run, Salesforce, mobile, container—a, layer, translates, device-specific, code—and, define, their, functionality, JavaScript, files]
 ---
-
-# Creating Hybrid Apps
 
 > Hybrid apps combine the ease of HTML5 Web app development with the power
       and features of the native platform. They run within a Salesforce mobile container—a

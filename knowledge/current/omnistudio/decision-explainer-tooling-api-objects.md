@@ -5,12 +5,10 @@ topic: decision-explainer-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.185Z
+lastCollected: 2026-04-07T18:36:40.888Z
 estimatedTokens: 322
-keywords: [Decision, Explainer, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, store, locate, associated, every, business]
+keywords: [Decision, Explainer, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, store, locate, every, business, rule]
 ---
-
-# Decision Explainer Tooling API Objects
 
 > Decision Explainer objects store and locate the metadata
         associated with every business rule.

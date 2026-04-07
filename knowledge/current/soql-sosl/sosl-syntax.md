@@ -5,12 +5,10 @@ topic: sosl-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.363Z
+lastCollected: 2026-04-07T18:40:10.333Z
 estimatedTokens: 1609
-keywords: [SOSL, query, begins, clause, add, clauses, filter, data, categories, determine, what’s, specify, order, results, how]
+keywords: [SOSL, query, begins, clause, add, clauses, filter, categories, determine, what’s, specify, order, results, how, rows]
 ---
-
-# SOSL Syntax
 
 > A SOSL query begins with the required FIND clause.
 		You can then add optional clauses to filter the query by object type, fields, data

@@ -5,12 +5,10 @@ topic: calculate-quote-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.548Z
+lastCollected: 2026-04-07T18:37:27.556Z
 estimatedTokens: 510
 keywords: [Calculate, Quote, API, calculates, prices, CPQ, REST, Examples, Apex]
 ---
-
-# Calculate Quote API
 
 > The Calculate Quote API calculates the prices of a CPQ quote.
 

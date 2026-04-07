@@ -5,12 +5,10 @@ topic: otheremssnfctrsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.044Z
+lastCollected: 2026-04-07T18:39:51.458Z
 estimatedTokens: 270
-keywords: [OtherEmssnFctrSetHistory, History, tracked, OtherEmssnFctrSet]
+keywords: [OtherEmssnFctrSetHistory, tracked, OtherEmssnFctrSet]
 ---
-
-# OtherEmssnFctrSetHistory
 
 > History for tracked fields of OtherEmssnFctrSet.
 

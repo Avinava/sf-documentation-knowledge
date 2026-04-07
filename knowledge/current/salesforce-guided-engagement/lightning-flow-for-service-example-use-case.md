@@ -5,12 +5,10 @@ topic: lightning-flow-for-service-example-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.008Z
+lastCollected: 2026-04-07T18:39:17.675Z
 estimatedTokens: 1520
-keywords: [Lightning, Flow, Service, Case, help, agents, follow, consistent, procedures, customer, calls, support, issue, comes, associate]
+keywords: [Lightning, Flow, Service, Case, help, agents, follow, consistent, procedures, customer, support, issue, comes, associate, actions, new, record, contact, show, to-do]
 ---
-
-# Lightning Flow for Service Example Use Case
 
 > Lightning Flow for Service can help your agents follow consistent procedures when a
     customer calls or a support issue comes in. You can associate actions with a new record, such as

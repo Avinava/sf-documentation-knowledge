@@ -5,12 +5,10 @@ topic: setcookie
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.964Z
+lastCollected: 2026-04-07T18:40:23.391Z
 estimatedTokens: 152
 keywords: [SetCookie, Function, Ordinal, Session, cookie, datetime, Date, time, indicating, **Overview**, **Syntax**]
 ---
-
-# SetCookie
 
 > SetCookie(1, 2, 3, 4)
 

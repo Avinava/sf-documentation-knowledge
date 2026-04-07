@@ -6,13 +6,10 @@ topic: using-page-references-to-open-console-workspace-tabs-and-subtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.817Z
+lastCollected: 2026-04-07T18:36:49.998Z
 estimatedTokens: 1306
-keywords: [References, Open, Console, Workspace, Tabs, Subtabs, navigate, different, including, URL, addressable, custom, component, LWC, lightning__UrlAddressable]
+keywords: [References, Open, Console, Workspace, Tabs, Subtabs, navigate, different, including, URL, addressable, LWC, lightning__UrlAddressable, target, Aura, implement, lightning, isUrlAddressable]
 ---
-
-# Using Page References to Open Console Workspace Tabs and
-            Subtabs
 
 > You can navigate to different page types, including a URL addressable custom
         component. To make a custom component URL addressable using LWC, use the lightning__UrlAddressable target. To make an Aura component

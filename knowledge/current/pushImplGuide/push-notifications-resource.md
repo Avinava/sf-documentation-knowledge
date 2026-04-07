@@ -5,12 +5,10 @@ topic: push-notifications-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.792Z
+lastCollected: 2026-04-07T18:39:09.110Z
 estimatedTokens: 382
-keywords: [Push, Notifications, Resource, Send, mobile, notification, client, apps, users’, devices, accessible, session, established, app, developed]
+keywords: [Push, Notifications, Resource, Send, mobile, notification, client, apps, users’, devices, accessible, session, established, app, developed, org, installed, package, recipient’s]
 ---
-
-# Push Notifications Resource
 
 > Send a mobile push notification to client apps on users’
          devices. This resource is only accessible when the session is established with a client app

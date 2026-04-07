@@ -5,12 +5,10 @@ topic: connectapigroupinformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.139Z
+lastCollected: 2026-04-07T18:36:09.530Z
 estimatedTokens: 133
 keywords: [ConnectApi.GroupInformation, group, visible, members]
 ---
-
-# ConnectApi.GroupInformation
 
 > Describes the Information section of the group. If the group
    is private, this section is visible only to members.

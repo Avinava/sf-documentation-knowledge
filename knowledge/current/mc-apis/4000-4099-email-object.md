@@ -5,12 +5,10 @@ topic: 4000-4099-email-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.760Z
+lastCollected: 2026-04-07T18:40:14.767Z
 estimatedTokens: 71
 keywords: [4000-4099, Email]
 ---
-
-# 4000-4099 Email Object
 
 # 4000-4099 Email Object
 

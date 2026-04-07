@@ -5,12 +5,10 @@ topic: delete-scheduled-async-api-conversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.462Z
+lastCollected: 2026-04-07T18:40:16.604Z
 estimatedTokens: 454
-keywords: [Scheduled, Async, API, Conversation, ScheduledConversation, Deletion, Eligibility, Errors, Sample, SOAP, Items]
+keywords: [Errors, Scheduled, Async, API, Conversation, ScheduledConversation, Deletion, Eligibility, Sample, SOAP, Items]
 ---
-
-# Delete Scheduled Async API Conversation
 
 > Use the ScheduledConversation object to delete a scheduled conversation.
 

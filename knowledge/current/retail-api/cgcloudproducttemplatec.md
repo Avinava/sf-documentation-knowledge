@@ -5,12 +5,10 @@ topic: cgcloudproducttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.039Z
+lastCollected: 2026-04-07T18:39:14.435Z
 estimatedTokens: 1371
-keywords: [cgcloud__Product_Template__c, Stores, product, template, that's, products, API, version, 54.0, later, cgcloud, _Product, _Template, Calls, Associated]
+keywords: [cgcloud__Product_Template__c, Stores, product, template, that's, products, API, 54.0, cgcloud, _Product, _Template]
 ---
-
-# cgcloud__Product_Template__c
 
 > Stores the details of the product template object that's used for
          products. This object is available in API version 54.0 and later.

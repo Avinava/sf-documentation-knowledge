@@ -5,12 +5,10 @@ topic: benefit-disbursement-field-set-api-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.013Z
+lastCollected: 2026-04-07T18:38:20.757Z
 estimatedTokens: 108
-keywords: [Benefit, Disbursement, API, Retrieve, associated]
+keywords: [Benefit, Disbursement, API, Retrieve]
 ---
-
-# Benefit Disbursement Field Set API Names
 
 > Retrieve the API names of the field sets associated with a benefit disbursement
     object.

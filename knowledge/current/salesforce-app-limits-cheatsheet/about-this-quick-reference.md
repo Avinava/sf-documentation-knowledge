@@ -5,12 +5,10 @@ topic: about-this-quick-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.901Z
+lastCollected: 2026-04-07T18:39:16.447Z
 estimatedTokens: 320
-keywords: [Quick, common, limits, allocations, Salesforce, doesn’t, cover, contain, don’t, apply, org, Stated, aren’t, promise, resource]
+keywords: [Quick, common, limits, allocations, Salesforce, doesn’t, cover, contain, don’t, apply, org, Stated, aren’t, promise, resource, limit, circumstances, Load, performance, system, issues, prevent, reached, change, notice]
 ---
-
-# About This Quick Reference
 
 > This quick reference provides common limits and allocations for Salesforce and doesn’t
     cover all limits and allocations. It might contain limits or allocations that don’t apply to

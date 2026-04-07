@@ -5,12 +5,10 @@ topic: bucket-dimension-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.454Z
+lastCollected: 2026-04-07T18:39:18.133Z
 estimatedTokens: 154
-keywords: [Bucket, Dimension, Setup, Input, node, recipe]
+keywords: [Bucket, Dimension, Setup, node, recipe]
 ---
-
-# Bucket Dimension Setup Input
 
 > The dimension field setup for a bucket node in a recipe.
 

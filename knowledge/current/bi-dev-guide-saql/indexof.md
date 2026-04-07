@@ -5,12 +5,10 @@ topic: indexof
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.198Z
+lastCollected: 2026-04-07T18:37:00.768Z
 estimatedTokens: 255
-keywords: [index_of, location, index, characters, _of, Usage]
+keywords: [index_of, location, index, characters, _of]
 ---
-
-# index_of()
 
 > Returns the location (index) of the specified characters.
 

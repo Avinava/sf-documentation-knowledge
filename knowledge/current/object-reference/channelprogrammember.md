@@ -5,12 +5,10 @@ topic: channelprogrammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.895Z
+lastCollected: 2026-04-07T18:38:27.826Z
 estimatedTokens: 731
-keywords: [ChannelProgramMember, partner, member, channel, program, API, version, 41.0, later, Calls, Associated, Objects]
+keywords: [ChannelProgramMember, partner, member, channel, program, API, 41.0]
 ---
-
-# ChannelProgramMember
 
 > Represents a partner who is a member of a channel program. This
 		object is available in API version 41.0 and later.

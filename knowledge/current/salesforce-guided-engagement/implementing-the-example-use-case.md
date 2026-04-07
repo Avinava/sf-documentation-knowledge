@@ -5,12 +5,10 @@ topic: implementing-the-example-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.002Z
+lastCollected: 2026-04-07T18:39:17.667Z
 estimatedTokens: 1771
-keywords: [Implementing, Case, configure, Actions, Recommendations, component, several, ways, Creating, deployment, Setup, easy, way, RecordActions, appear]
+keywords: [Implementing, Case, configure, Actions, Recommendations, several, ways, Creating, deployment, Setup, easy, way, RecordActions, appear, Agent, Experience, Customer, Scenarios]
 ---
-
-# Implementing the Example Use Case
 
 > You can configure the Actions & Recommendations component in several ways. Creating
     a deployment in Setup is an easy way to create RecordActions that appear in the list.

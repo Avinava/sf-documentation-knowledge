@@ -5,12 +5,10 @@ topic: applied-cart-line-promotion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.522Z
+lastCollected: 2026-04-07T18:38:07.760Z
 estimatedTokens: 355
 keywords: [Applied, Cart, Line, Promotion, reward]
 ---
-
-# Applied Cart Line Promotion Details
 
 > Specifies the list of cart line reward details.
 

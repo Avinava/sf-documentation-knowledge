@@ -5,13 +5,11 @@ topic: documenttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:43.819Z
+lastCollected: 2026-04-07T18:39:38.497Z
 estimatedTokens: 807
 namespace: Namespace
-keywords: [DocumentTemplate, dynamic, document, generation, API, version, 56.0, later]
+keywords: [DocumentTemplate, dynamic, document, generation, API, 56.0]
 ---
-
-# DocumentTemplate
 
 > Represents information about dynamic document generation. This
       object is available in API version 56.0 and later.

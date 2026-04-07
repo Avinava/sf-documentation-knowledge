@@ -5,12 +5,10 @@ topic: get-layouts-and-descriptions-for-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.052Z
+lastCollected: 2026-04-07T18:36:21.281Z
 estimatedTokens: 95
 keywords: [Layouts, Descriptions, Retrieves, their]
 ---
-
-# Get Layouts and Descriptions for a Specified Object
 
 > Retrieves lists of layouts and their descriptions for a single object.
 

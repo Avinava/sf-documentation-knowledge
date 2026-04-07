@@ -5,12 +5,10 @@ topic: return-http-headers-for-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.181Z
+lastCollected: 2026-04-07T18:36:20.389Z
 estimatedTokens: 139
-keywords: [HTTP, Invocable, Actions, sending, resource, gives, chance, retrieving, content, REST, API, version, 32.0, later, URI]
+keywords: [Formats, Authentication, HTTP, Invocable, Actions, sending, resource, gives, chance, retrieving, content, REST, API, 32.0, URI]
 ---
-
-# Return HTTP Headers for Invocable Actions
 
 > Returns only the headers that are returned by sending a GET request to the invocable
     actions resource. This gives you a chance to see returned header values of the GET request

@@ -5,12 +5,10 @@ topic: salesforce-crm-survey-subject-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.569Z
+lastCollected: 2026-04-07T18:35:52.443Z
 estimatedTokens: 314
-keywords: [Salesforce, CRM, Survey, Subject, Mapping, data, mappings, SurveySubject, DLO, found, Services, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Survey, Subject, Mapping, mappings, SurveySubject, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Survey Subject Mapping
 
 > These data mappings are for the SurveySubject DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

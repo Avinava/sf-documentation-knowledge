@@ -5,12 +5,10 @@ topic: lightning-model-schema-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.987Z
+lastCollected: 2026-04-07T18:37:08.799Z
 estimatedTokens: 136
-keywords: [Lightning, Model, Schema, Config, Input, configuration]
+keywords: [Lightning, Model, Schema, Config, configuration]
 ---
-
-# Lightning Model Schema Config Input
 
 > Input for lightning model type schema configuration.
 

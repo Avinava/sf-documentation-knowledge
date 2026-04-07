@@ -6,13 +6,10 @@ topic: add-a-contract-and-orders-to-an-existing-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.810Z
+lastCollected: 2026-04-07T18:36:51.097Z
 estimatedTokens: 145
-keywords: [Add, Contract, Orders, Account, Here’s, POST, Contract-based, resource, contract—with, child, order, products, custom, objects—to]
+keywords: [Add, Contract, Orders, Account, Here’s, POST, Contract-based, resource, contract—with, child, order, products, objects—to]
 ---
-
-# Add a Contract and Orders to an Existing
-Account
 
 > Here’s an example of a POST request using the Create Contract-based Orders resource to create a contract—with child orders,
             order products, and custom objects—to an existing account.

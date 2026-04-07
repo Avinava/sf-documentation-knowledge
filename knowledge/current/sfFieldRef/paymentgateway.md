@@ -5,12 +5,10 @@ topic: paymentgateway
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.390Z
+lastCollected: 2026-04-07T18:39:52.894Z
 estimatedTokens: 406
-keywords: [PaymentGateway, Platform, connection, external, payment, gateway, API, version, 48.0, later]
+keywords: [PaymentGateway, Platform, connection, external, payment, gateway, API, 48.0]
 ---
-
-# PaymentGateway
 
 > Platform object that represents the connection to an external payment
       gateway. This object is available in API version 48.0 and later.

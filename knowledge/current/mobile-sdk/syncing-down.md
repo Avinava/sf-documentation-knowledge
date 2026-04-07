@@ -5,12 +5,10 @@ topic: syncing-down
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.237Z
+lastCollected: 2026-04-07T18:40:25.599Z
 estimatedTokens: 1825
-keywords: [Syncing, Down, download, sObjects, server, local, Mobile, Sync, soup, appropriate, “sync, down”, Merge, Modes, iOS]
+keywords: [Syncing, Down, download, sObjects, server, local, Mobile, Sync, soup, appropriate, “sync, down”, Merge, Modes, iOS, Manager, Android, SyncManager]
 ---
-
-# Syncing Down
 
 > To download sObjects from the server to your local Mobile Sync soup, use
             the appropriate “sync down” method.

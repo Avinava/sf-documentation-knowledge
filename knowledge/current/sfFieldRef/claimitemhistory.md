@@ -5,12 +5,10 @@ topic: claimitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.482Z
+lastCollected: 2026-04-07T18:39:33.908Z
 estimatedTokens: 256
-keywords: [ClaimItemHistory, History, tracked, ClaimItem]
+keywords: [ClaimItemHistory, tracked, ClaimItem]
 ---
-
-# ClaimItemHistory
 
 > History for tracked fields of ClaimItem.
 

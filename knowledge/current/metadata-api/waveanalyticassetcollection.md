@@ -5,12 +5,10 @@ topic: waveanalyticassetcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.420Z
+lastCollected: 2026-04-07T18:36:30.799Z
 estimatedTokens: 544
-keywords: [WaveAnalyticAssetCollection, collection, Analytics, assets, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [WaveAnalyticAssetCollection, WaveAnalyticAssestCollectionItem, collection, Analytics, assets, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# WaveAnalyticAssetCollection
 
 > Represents a collection of Analytics assets. This type
       extends the Metadata metadata type and inherits its fullName field.

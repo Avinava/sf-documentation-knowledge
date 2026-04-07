@@ -5,12 +5,10 @@ topic: productusageresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.842Z
+lastCollected: 2026-04-07T18:39:56.385Z
 estimatedTokens: 348
-keywords: [ProductUsageResource, mapping, product, usage, resources, API, version, 64.0, later]
+keywords: [ProductUsageResource, mapping, product, resources, API, 64.0]
 ---
-
-# ProductUsageResource
 
 > Represents the mapping of a product and its usage resources.
       This object is available in API version 64.0 and later.

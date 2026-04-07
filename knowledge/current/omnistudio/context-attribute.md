@@ -5,12 +5,10 @@ topic: context-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.000Z
+lastCollected: 2026-04-07T18:36:40.705Z
 estimatedTokens: 184
 keywords: [Context, Attribute, new, attributes, ones, retrieve, query]
 ---
-
-# Context Attribute
 
 > Create new attributes, update existing ones, retrieve or query attribute details,
         and delete attributes.

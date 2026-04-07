@@ -5,12 +5,10 @@ topic: recipe-notification-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.209Z
+lastCollected: 2026-04-07T18:39:18.899Z
 estimatedTokens: 379
-keywords: [Recipe, Notification, Resource, Data, Prep, job, creates, updates, URL, Formats, Version, Postman, Components, HTTP, PUT]
+keywords: [Formats, Recipe, Notification, Resource, Prep, job, creates, updates, URL, Postman, HTTP, PUT]
 ---
-
-# Recipe Notification Resource
 
 > Returns a Data Prep recipe job notification, creates, or updates a Data Prep recipe job
   notification.

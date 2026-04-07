@@ -5,12 +5,10 @@ topic: schema-slice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.906Z
+lastCollected: 2026-04-07T18:39:19.590Z
 estimatedTokens: 128
 keywords: [Schema, Slice, definition, node, recipe]
 ---
-
-# Schema Slice
 
 > The slice definition for a schema node in a recipe.
 

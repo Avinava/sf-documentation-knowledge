@@ -5,12 +5,10 @@ topic: orderadjustmentgroupsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.288Z
+lastCollected: 2026-04-07T18:39:50.702Z
 estimatedTokens: 492
-keywords: [OrderAdjustmentGroupSummary, current, state, group, price, adjustments, Associated, OrderItemAdjustmentLineSummaries, apply, OrderItemSummaries, belonging, OrderSummary, Corresponds, order, adjustment]
+keywords: [OrderAdjustmentGroupSummary, current, state, group, price, adjustments, OrderItemAdjustmentLineSummaries, apply, OrderItemSummaries, belonging, OrderSummary, Corresponds, order, adjustment, consisting, original, any, change, applicable]
 ---
-
-# OrderAdjustmentGroupSummary
 
 > Represents the current properties and state of a group of related price
       adjustments. Associated with a set of OrderItemAdjustmentLineSummaries that apply to

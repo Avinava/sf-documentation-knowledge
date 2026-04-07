@@ -5,12 +5,10 @@ topic: applicationform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.488Z
+lastCollected: 2026-04-07T18:37:36.236Z
 estimatedTokens: 1382
-keywords: [ApplicationForm, high, level, application, that's, submitted, product, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [ApplicationForm, high, level, application, that's, submitted, product, API, 59.0]
 ---
-
-# ApplicationForm
 
 > Represents the high level information of an application that's submitted for
          the product. This object is available in API version 59.0 and later.

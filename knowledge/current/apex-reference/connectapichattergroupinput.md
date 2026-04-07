@@ -5,12 +5,10 @@ topic: connectapichattergroupinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.664Z
+lastCollected: 2026-04-07T18:36:05.018Z
 estimatedTokens: 464
-keywords: [ConnectApi.ChatterGroupInput, Chatter, group, input]
+keywords: [ConnectApi.ChatterGroupInput, Chatter, group]
 ---
-
-# ConnectApi.ChatterGroupInput
 
 > Chatter group input.
 

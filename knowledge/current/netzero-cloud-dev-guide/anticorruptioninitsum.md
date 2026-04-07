@@ -5,12 +5,10 @@ topic: anticorruptioninitsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.310Z
+lastCollected: 2026-04-07T18:38:17.824Z
 estimatedTokens: 2138
-keywords: [AntiCorruptionInitSum, initiatives, taken, organization, communicate, train, employee, anti-corruption, policies, procedures, API, version, 57.0, later, Calls]
+keywords: [AntiCorruptionInitSum, initiatives, taken, organization, communicate, train, employee, anti-corruption, policies, procedures, API, 57.0]
 ---
-
-# AntiCorruptionInitSum
 
 > Represents information about the initiatives taken by an organization
          to communicate and train the employee on anti-corruption policies and procedures. This

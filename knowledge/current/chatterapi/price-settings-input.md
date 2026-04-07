@@ -5,12 +5,10 @@ topic: price-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:22.984Z
+lastCollected: 2026-04-07T18:37:09.705Z
 estimatedTokens: 343
-keywords: [Price, Settings, Input, applicable, product, rows, import, csv, file]
+keywords: [Price, Settings, applicable, product, rows, import, csv, file]
 ---
-
-# Price Settings Input
 
 > Price settings are applicable to all product rows in a product
       import .csv file.

@@ -5,12 +5,10 @@ topic: apexscatterseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.334Z
+lastCollected: 2026-04-07T18:38:50.573Z
 estimatedTokens: 856
-keywords: [apex, scatterSeries, data, series, rendered, individual, connected, points, linear, Visualforce, chart, minimum, specify, collection, point]
+keywords: [Attributes, apex, scatterSeries, series, rendered, individual, connected, points, linear, Visualforce, chart, minimum, specify, collection, point, well, axes, scale, against]
 ---
-
-# apex:scatterSeries
 
 > A data series to be rendered as individual (not connected) points in a linear Visualforce chart. At a minimum you must specify the fields in the data collection to use as X and Y values for each point, as well as the X and Y axes to scale against.
 

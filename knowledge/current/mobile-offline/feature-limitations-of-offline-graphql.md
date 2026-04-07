@@ -5,12 +5,10 @@ topic: feature-limitations-of-offline-graphql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.343Z
+lastCollected: 2026-04-07T18:38:15.869Z
 estimatedTokens: 1745
-keywords: [Feature, Limitations, Offline, GraphQL, uses, wire, adapter, mechanism, standard, online, LWC, don’t, change, any, code]
+keywords: [Metadata, Feature, Limitations, Offline, GraphQL, uses, wire, adapter, mechanism, standard, online, LWC, don’t, change, any, code, Record, Queries, Considerations]
 ---
-
-# Feature Limitations of Offline GraphQL
 
 > Offline GraphQL uses the same wire adapter mechanism as the standard (online only) LWC
     wire adapter for GraphQL. You don’t change any code to use Offline GraphQL, and your component

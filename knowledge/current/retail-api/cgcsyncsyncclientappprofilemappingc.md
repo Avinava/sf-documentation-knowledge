@@ -5,12 +5,10 @@ topic: cgcsyncsyncclientappprofilemappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.832Z
+lastCollected: 2026-04-07T18:39:12.353Z
 estimatedTokens: 314
-keywords: [Maps, either, user, role, profile, specific, sync, configuration, API, version, 53.0, later, cgc, _sync, _Client]
+keywords: [Maps, either, user, role, profile, specific, sync, configuration, API, 53.0, cgc, _sync, _Client, _App, _Profile, _Mapping]
 ---
-
-# cgc_sync__Sync_Client_App_Profile_Mapping__c
 
 > Maps either a user, role, or profile to a specific sync configuration. This object is
       available in API version 53.0 and later.

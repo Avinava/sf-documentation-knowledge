@@ -5,12 +5,10 @@ topic: individual-member-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.701Z
+lastCollected: 2026-04-07T18:38:07.941Z
 estimatedTokens: 207
-keywords: [Individual, Member, Enrollment, Output, representation]
+keywords: [Individual, Member, Enrollment]
 ---
-
-# Individual Member Enrollment
 
 > Output representation of the individual member enrollment create
       request.

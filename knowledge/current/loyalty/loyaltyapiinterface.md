@@ -5,12 +5,10 @@ topic: loyaltyapiinterface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.179Z
+lastCollected: 2026-04-07T18:38:09.464Z
 estimatedTokens: 1070
 keywords: [LoyaltyAPIInterface, creating, formatting, sending, REST, requests, Salesforce, service, stores, API, call, definitions, Loyalty, Summary]
 ---
-
-# LoyaltyAPIInterface
 
 > The LoyaltyApiInterface class defines
     the interface for creating, formatting, and sending REST requests to the Salesforce service.

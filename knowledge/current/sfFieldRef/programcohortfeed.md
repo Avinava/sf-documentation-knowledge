@@ -5,12 +5,10 @@ topic: programcohortfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.223Z
+lastCollected: 2026-04-07T18:39:56.766Z
 estimatedTokens: 387
-keywords: [ProgramCohortFeed, Feed, tracking, ProgramCohort]
+keywords: [ProgramCohortFeed, ProgramCohort]
 ---
-
-# ProgramCohortFeed
 
 > Feed tracking for ProgramCohort.
 

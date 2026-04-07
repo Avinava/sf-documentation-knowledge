@@ -6,13 +6,10 @@ topic: using-dynamic-references-with-custom-objects-and-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.021Z
+lastCollected: 2026-04-07T18:38:51.253Z
 estimatedTokens: 823
-keywords: [Dynamic, References, Custom, Objects, Packages, Package, developers, Visualforce, binding, user, access, situation, occur, you’re, developing]
+keywords: [Dynamic, References, Packages, Package, developers, Visualforce, binding, user, situation, occur, you’re, developing, managed, displays, Since, developer, doesn’t, know, subscriber, they, define, renders, differently]
 ---
-
-# Using Dynamic References with Custom Objects and
-        Packages
 
 > Package developers can use dynamic Visualforce binding to list only the
         fields a user can access. This situation might occur when you’re developing a managed

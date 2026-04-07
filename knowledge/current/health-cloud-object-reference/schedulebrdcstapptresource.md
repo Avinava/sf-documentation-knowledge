@@ -5,12 +5,10 @@ topic: schedulebrdcstapptresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.274Z
+lastCollected: 2026-04-07T18:37:47.887Z
 estimatedTokens: 1027
-keywords: [ScheduleBrdcstApptResource, junction, Schedule, Broadcast, Appointment, Service, Resource, resources, whom, sent, API, version, 60.0, later, Calls]
+keywords: [ScheduleBrdcstApptResource, junction, Schedule, Broadcast, Appointment, Service, Resource, resources, whom, sent, API, 60.0]
 ---
-
-# ScheduleBrdcstApptResource
 
 > Represents a junction between a Schedule Broadcast Appointment and a Service
          Resource. This object represents the resources to whom a schedule broadcast is sent.

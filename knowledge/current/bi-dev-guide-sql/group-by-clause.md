@@ -5,12 +5,10 @@ topic: group-by-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.156Z
+lastCollected: 2026-04-07T18:37:01.770Z
 estimatedTokens: 321
 keywords: [GROUP, Clause, organizes, rows, SELECT, statement, groups, apply, aggregate, function, count, sum, number, items, respectively]
 ---
-
-# GROUP BY Clause
 
 > The GROUP BY clause organizes the rows returned
   from a SELECT statement into groups. Within each group, you

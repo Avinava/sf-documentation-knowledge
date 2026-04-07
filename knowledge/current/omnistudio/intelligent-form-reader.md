@@ -5,12 +5,10 @@ topic: intelligent-form-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:56.425Z
+lastCollected: 2026-04-07T18:36:42.131Z
 estimatedTokens: 698
-keywords: [Intelligent, Form, Reader, optical, character, recognition, automatically, extract, data, external, documents]
+keywords: [Intelligent, Form, Reader, optical, character, recognition, automatically, extract, external, documents]
 ---
-
-# Intelligent Form Reader
 
 > Intelligent Form Reader provides optical character recognition to automatically
         extract data from external documents.

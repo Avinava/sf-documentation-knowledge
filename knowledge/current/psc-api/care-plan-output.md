@@ -5,12 +5,10 @@ topic: care-plan-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.095Z
+lastCollected: 2026-04-07T18:39:02.307Z
 estimatedTokens: 477
-keywords: [Care, Plan, Output, representation, associated, benefit, assignment, goal, records]
+keywords: [Care, Plan, benefit, assignment, goal, records]
 ---
-
-# Care Plan Output
 
 > Output representation of the care plan and the associated benefit
   assignment and goal assignment records.

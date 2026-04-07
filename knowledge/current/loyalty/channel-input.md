@@ -5,12 +5,10 @@ topic: channel-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.962Z
+lastCollected: 2026-04-07T18:38:07.176Z
 estimatedTokens: 97
-keywords: [Channel, Input, representation, retrieve, eligible, promotions]
+keywords: [Channel, retrieve, eligible, promotions]
 ---
-
-# Channel Input
 
 > Input representation details of a channel for which to retrieve eligible
     promotions.

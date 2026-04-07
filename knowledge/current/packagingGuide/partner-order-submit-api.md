@@ -5,12 +5,10 @@ topic: partner-order-submit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.673Z
+lastCollected: 2026-04-07T18:38:46.534Z
 estimatedTokens: 616
-keywords: [Partner, Order, Submit, API, longer, version, 1.39, earlier, Channel, App, Migrate, Apex, Send, orders, Salesforce]
+keywords: [Partner, Order, Submit, API, longer, 1.39, earlier, Channel, App, Migrate, Apex, Send, orders, Salesforce, immediately, asynchronously, Guidelines, Batching]
 ---
-
-# Partner Order Submit API
 
 > (No longer supported and available only in version 1.39 and earlier of the Channel
       Order App. Migrate to the Channel Order Apex API.) Send orders to Salesforce immediately or

@@ -5,12 +5,10 @@ topic: user-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.223Z
+lastCollected: 2026-04-07T18:39:22.111Z
 estimatedTokens: 427
-keywords: [User, Permissions, specify, tasks, users, perform, features, access, View, Setup, Configuration, permission, pages, API, Enabled]
+keywords: [User, Permissions, specify, tasks, users, perform, features, View, Setup, Configuration, permission, pages, API, Enabled, any, Salesforce]
 ---
-
-# User Permissions
 
 > User permissions specify what tasks users can perform and what features users can
         access. For example, users with the View Setup and Configuration user permission can view

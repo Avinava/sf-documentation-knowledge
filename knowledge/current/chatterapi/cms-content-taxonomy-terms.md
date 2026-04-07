@@ -5,12 +5,10 @@ topic: cms-content-taxonomy-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.725Z
+lastCollected: 2026-04-07T18:37:11.521Z
 estimatedTokens: 475
-keywords: [CMS, Content, Taxonomy, Terms, associated, managed, Add, remove, term, associations]
+keywords: [CMS, Content, Taxonomy, Terms, managed, Add, remove, term, associations]
 ---
-
-# CMS Content Taxonomy Terms
 
 > Get taxonomy terms that are associated with managed content. Add or remove taxonomy
     term associations from managed content.

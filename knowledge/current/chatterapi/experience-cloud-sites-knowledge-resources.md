@@ -5,12 +5,10 @@ topic: experience-cloud-sites-knowledge-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:25.912Z
+lastCollected: 2026-04-07T18:37:12.811Z
 estimatedTokens: 190
 keywords: [Experience, Cloud, Sites, Knowledge, Resources, trending, articles, site, top-viewed, topic, Increase, article, view, counts]
 ---
-
-# Experience Cloud Sites Knowledge Resources
 
 > Get trending articles for an Experience Cloud site.
             Get trending and top-viewed articles for a topic in an Experience Cloud site. Increase

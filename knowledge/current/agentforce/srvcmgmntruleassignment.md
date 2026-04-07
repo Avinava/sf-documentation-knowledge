@@ -5,12 +5,10 @@ topic: srvcmgmntruleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.297Z
+lastCollected: 2026-04-07T18:35:55.408Z
 estimatedTokens: 435
-keywords: [SrvcMgmntRuleAssignment, relationship, business, operation, group, user, assigned, API, version, 65.0, later, Calls]
+keywords: [SrvcMgmntRuleAssignment, relationship, business, operation, group, user, assigned, API, 65.0]
 ---
-
-# SrvcMgmntRuleAssignment
 
 > Represents the relationship between a business operation and a group or user
          to which the operation is assigned by default. This object is available in API version

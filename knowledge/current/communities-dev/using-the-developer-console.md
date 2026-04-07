@@ -5,12 +5,10 @@ topic: using-the-developer-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.071Z
+lastCollected: 2026-04-07T18:37:27.048Z
 estimatedTokens: 479
-keywords: [Developer, Console, tools, developing, Aura, components, applications]
+keywords: [Developer, Console, tools, developing, Aura, applications]
 ---
-
-# Using the Developer Console
 
 > The Developer Console provides tools for developing your Aura components and
             applications.

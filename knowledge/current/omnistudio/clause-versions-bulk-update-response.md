@@ -5,12 +5,10 @@ topic: clause-versions-bulk-update-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.197Z
+lastCollected: 2026-04-07T18:36:38.859Z
 estimatedTokens: 145
-keywords: [Clause, Versions, Bulk, Output, representation, asynchronously, status, version, records]
+keywords: [Clause, Versions, Bulk, asynchronously, status, records]
 ---
-
-# Clause Versions Bulk Update Response
 
 > Output representation of the details to asynchronously bulk update the status of the
     clause version records.

@@ -5,12 +5,10 @@ topic: triggers-and-recovered-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.574Z
+lastCollected: 2026-04-07T18:36:18.792Z
 estimatedTokens: 282
 keywords: [Triggers, Recovered, Records, undelete, trigger, event, works, records—that, were, deleted, Recycle, Bin, DML, statement, undeleted]
 ---
-
-# Triggers and Recovered Records
 
 > The after undelete trigger event only works with
 recovered records—that is, records that were deleted and then recovered from the Recycle Bin

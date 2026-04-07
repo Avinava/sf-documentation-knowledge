@@ -5,12 +5,10 @@ topic: double-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.328Z
+lastCollected: 2026-04-07T18:37:08.139Z
 estimatedTokens: 96
-keywords: [Double, Input]
+keywords: [Double]
 ---
-
-# Double List Input
 
 > List of Double values.
 

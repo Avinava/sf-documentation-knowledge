@@ -5,12 +5,10 @@ topic: merchaccpaymentmethodset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:54.232Z
+lastCollected: 2026-04-07T18:39:48.688Z
 estimatedTokens: 386
-keywords: [MerchAccPaymentMethodSet, Payment, admins, configure, ordered, buyer, checkout, admin, multiple, MerchAccPaymentMethodSets, designated, specific, locale, region, sale]
+keywords: [MerchAccPaymentMethodSet, Payment, admins, configure, ordered, buyer, checkout, admin, multiple, MerchAccPaymentMethodSets, designated, specific, locale, region, sale, channel]
 ---
-
-# MerchAccPaymentMethodSet
 
 > Allows Payment admins to configure an ordered list of payment methods that
          are available to a buyer during checkout. A payment admin can configure multiple

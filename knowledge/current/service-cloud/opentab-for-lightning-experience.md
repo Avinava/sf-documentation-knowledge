@@ -5,12 +5,10 @@ topic: opentab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.827Z
+lastCollected: 2026-04-07T18:36:50.008Z
 estimatedTokens: 818
-keywords: [openTab, Lightning, Experience, Opens, new, workspace, tab, already, open, focused, Arguments, LWC, Sample, Code, Aura]
+keywords: [Arguments, openTab, Lightning, Experience, Opens, new, workspace, tab, already, open, focused, LWC, Sample, Code, Aura]
 ---
-
-# openTab() for Lightning Experience
 
 > Opens a new workspace tab. If the tab is already open, the tab is focused.
 

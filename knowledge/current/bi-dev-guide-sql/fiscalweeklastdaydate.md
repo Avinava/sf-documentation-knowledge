@@ -5,12 +5,10 @@ topic: fiscalweeklastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.051Z
+lastCollected: 2026-04-07T18:37:01.664Z
 estimatedTokens: 177
-keywords: [fiscal_week_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Sunday, fiscal, week, _week, _last, _day]
+keywords: [fiscal_week_last_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, Sunday, fiscal, week, _week, _last, _day]
 ---
-
-# fiscal_week_last_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the last day (Sunday) of the fiscal week that contains the specified date.

@@ -5,12 +5,10 @@ topic: sequencegapreconciliation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.597Z
+lastCollected: 2026-04-07T18:35:50.487Z
 estimatedTokens: 538
-keywords: [SequenceGapReconciliation, missing, sequence, identified, reconciliation, later, ensure, there, gaps, policy, numbers, API, version, 65.0, Calls]
+keywords: [SequenceGapReconciliation, missing, sequence, identified, reconciliation, ensure, there, gaps, policy, numbers, API, 65.0]
 ---
-
-# SequenceGapReconciliation
 
 > Represents a missing sequence value identified during reconciliation,
          which can be used later to ensure there are no gaps in the sequence policy numbers.

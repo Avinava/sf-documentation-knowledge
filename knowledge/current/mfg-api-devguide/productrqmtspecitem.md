@@ -5,12 +5,10 @@ topic: productrqmtspecitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:23.955Z
+lastCollected: 2026-04-07T18:38:14.294Z
 estimatedTokens: 490
-keywords: [ProductRqmtSpecItem, specific, measurable, requirement, specification, requested, product, delivered, how, verify, fulfilment, API, version, 65.0, later]
+keywords: [ProductRqmtSpecItem, specific, measurable, requirement, specification, requested, product, delivered, how, verify, fulfilment, API, 65.0]
 ---
-
-# ProductRqmtSpecItem
 
 > Represents a specific and measurable requirement within a requirement
       specification for a requested product. Defines what must be delivered and how to verify its

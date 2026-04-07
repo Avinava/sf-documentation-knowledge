@@ -5,12 +5,10 @@ topic: scriptutilhttprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.060Z
+lastCollected: 2026-04-07T18:40:23.495Z
 estimatedTokens: 501
 keywords: [Script.Util.HttpRequest, Function, Ordinal, URL, perform, **Overview**, **Syntax**]
 ---
-
-# Script.Util.HttpRequest
 
 > Script.Util.HttpRequest(1)
 

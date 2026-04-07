@@ -5,12 +5,10 @@ topic: accountdataitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.047Z
+lastCollected: 2026-04-07T18:40:15.069Z
 estimatedTokens: 121
 keywords: [AccountDataItem, regarding, child, account, parent, structure]
 ---
-
-# AccountDataItem
 
 > The AccountDataItem object contains information regarding a child account within a parent account structure.
 

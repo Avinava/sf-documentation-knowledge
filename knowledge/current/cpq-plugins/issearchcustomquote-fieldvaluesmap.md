@@ -5,12 +5,10 @@ topic: issearchcustomquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.660Z
+lastCollected: 2026-04-07T18:37:27.659Z
 estimatedTokens: 285
-keywords: [isSearchCustom, quote, fieldValuesMap, isFilterHidden, getFilterDefaulValue, plugin, uses, custom, searching, enhanced]
+keywords: [isSearchCustom, quote, fieldValuesMap, isFilterHidden, getFilterDefaulValue, plugin, uses, searching, enhanced]
 ---
-
-# isSearchCustom(quote, fieldValuesMap)
 
 > Called after isFilterHidden and
         getFilterDefaulValue. Returns True if the plugin uses custom searching or False if the plugin uses enhanced searching.

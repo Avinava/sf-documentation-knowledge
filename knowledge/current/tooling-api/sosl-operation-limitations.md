@@ -5,12 +5,10 @@ topic: sosl-operation-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.084Z
+lastCollected: 2026-04-07T18:36:31.460Z
 estimatedTokens: 443
-keywords: [SOSL, Operation, Limitations, Two, Tooling, API, objects, EntityDefinition, FieldDefinition, ExternalString, MetadataComponentDependency, Beta, don’t, support, searches]
+keywords: [ExternalString, SOSL, Operation, Limitations, Two, Tooling, API, EntityDefinition, FieldDefinition, MetadataComponentDependency, Beta, don’t, support, searches]
 ---
-
-# SOSL Operation Limitations
 
 > Two Tooling API objects, EntityDefinition and FieldDefinition, have some SOSL
     limitations. ExternalString and MetadataComponentDependency (Beta) don’t support SOSL searches.

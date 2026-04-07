@@ -5,12 +5,10 @@ topic: commercediagnosticevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.951Z
+lastCollected: 2026-04-07T18:38:58.810Z
 estimatedTokens: 1670
-keywords: [CommerceDiagnosticEvent, Tracks, checkout, pricing, search, activity, Commerce, implementation, monitor, events, diagnose, issues, API, version, 49.0]
+keywords: [CommerceDiagnosticEvent, Tracks, checkout, pricing, search, activity, Commerce, implementation, monitor, events, diagnose, issues, API, 49.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# CommerceDiagnosticEvent
 
 > Tracks checkout, pricing, search, and other activity within your
 			Commerce implementation to monitor events and diagnose issues. This object is

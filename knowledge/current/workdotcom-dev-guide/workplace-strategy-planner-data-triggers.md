@@ -5,12 +5,10 @@ topic: workplace-strategy-planner-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.396Z
+lastCollected: 2026-04-07T18:40:14.408Z
 estimatedTokens: 510
-keywords: [Workplace, Strategy, Planner, Data, Triggers, managed, package, installed, org, Crisis, Location, Assessment, added, Trigger, Enable]
+keywords: [Workplace, Strategy, Planner, Triggers, managed, package, installed, org, Crisis, Location, Assessment, added, Trigger, Enable, Disable]
 ---
-
-# Workplace Strategy Planner Data Triggers
 
 > When the Workplace Strategy Planner managed package is installed into an org, data
     triggers on Crisis, Location, and Location Assessment are added.

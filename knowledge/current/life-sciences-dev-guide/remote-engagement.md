@@ -5,12 +5,10 @@ topic: remote-engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.772Z
+lastCollected: 2026-04-07T18:37:57.298Z
 estimatedTokens: 259
-keywords: [Remote, Engagement, Enable, sales, medical, teams, connect, healthcare, professionals, virtually, across, multiple, channels, interactive, compliant]
+keywords: [Remote, Engagement, Enable, sales, medical, teams, connect, healthcare, professionals, virtually, across, multiple, channels, interactive, compliant, content, collection, capabilities, technology, flexibility, benefits, include, accessibility, compliance, regulations, GDPR, increased, productivity, convenience, scheduling, ability, interactions, video, voice, digital, assets, Users, plan, launch, conduct, finish, meetings, screen, sharing, signatures, feedback, capture]
 ---
-
-# Remote Engagement
 
 > Enable sales and medical teams to connect with healthcare professionals virtually across
   multiple channels, with interactive and compliant content, data collection capabilities, and

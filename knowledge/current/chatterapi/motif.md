@@ -5,12 +5,10 @@ topic: motif
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.621Z
+lastCollected: 2026-04-07T18:37:20.810Z
 estimatedTokens: 1096
-keywords: [Motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups, Custom]
+keywords: [Motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups, records, their, tab, style, icon, unauthenticated, display, email, type’s, base, color]
 ---
-
-# Motif
 
 > The motif properties contain URLs for small, medium, and large icons that indicate the
       Salesforce record type. Common record types are files, users, and groups, but all record types

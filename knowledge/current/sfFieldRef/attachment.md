@@ -5,12 +5,10 @@ topic: attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.055Z
+lastCollected: 2026-04-07T18:39:28.072Z
 estimatedTokens: 335
 keywords: [Attachment, file, User, uploaded, attached, parent]
 ---
-
-# Attachment
 
 > Represents a file that a User has uploaded and attached to a parent
    object.

@@ -5,12 +5,10 @@ topic: configure-components-for-lightning-experience-record-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.898Z
+lastCollected: 2026-04-07T18:38:02.826Z
 estimatedTokens: 913
-keywords: [Configure, Components, Lightning, Experience, Record, Pages, component, work, App, Builder, guidelines, works]
+keywords: [Configure, Lightning, Experience, Record, Pages, work, App, Builder, guidelines, works]
 ---
-
-# Configure Components for Lightning Experience Record Pages
 
 > After your component is set up to work on Lightning pages and in the Lightning App
     Builder, use these guidelines to configure the component so it works on record pages in

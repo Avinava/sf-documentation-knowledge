@@ -5,12 +5,10 @@ topic: story-month-of-year-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.600Z
+lastCollected: 2026-04-07T18:37:00.097Z
 estimatedTokens: 147
-keywords: [Story, Month, Year, data]
+keywords: [Story, Month, Year]
 ---
-
-# Story Month of Year Field Value
 
 > The story data month of year property.
 

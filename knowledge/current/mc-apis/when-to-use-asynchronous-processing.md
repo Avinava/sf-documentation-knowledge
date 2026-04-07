@@ -5,12 +5,10 @@ topic: when-to-use-asynchronous-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.282Z
+lastCollected: 2026-04-07T18:40:15.348Z
 estimatedTokens: 441
-keywords: [Asynchronous, Processing, necessary, API, calls, Analyze, scenarios, identify, best, suited, Items]
+keywords: [Asynchronous, Processing, necessary, API, Analyze, scenarios, identify, best, suited, Items]
 ---
-
-# When to Use Asynchronous Processing
 
 > Asynchronous processing is not necessary for all your API calls. Analyze these scenarios to identify which API calls are best suited for asynchronous processing.
 

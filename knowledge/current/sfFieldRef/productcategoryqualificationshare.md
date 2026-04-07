@@ -5,12 +5,10 @@ topic: productcategoryqualificationshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.902Z
+lastCollected: 2026-04-07T18:39:55.471Z
 estimatedTokens: 257
 keywords: [ProductCategoryQualificationShare, Sharing, ProductCategoryQualification]
 ---
-
-# ProductCategoryQualificationShare
 
 > Sharing for ProductCategoryQualification.
 

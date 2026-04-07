@@ -5,12 +5,10 @@ topic: supervisor-listen-in-or-barge-in-with-service-cloud-voice-for-partner-tel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.361Z
+lastCollected: 2026-04-07T18:40:13.297Z
 estimatedTokens: 1203
-keywords: [Supervisor, Listen, Barge, Service, Cloud, Voice, Partner, Telephony, rep, belongs, supervised, group, monitor, their, active]
+keywords: [Supervisor, Listen, Barge, Service, Cloud, Voice, Partner, Telephony, rep, belongs, supervised, group, monitor, their, active, Panel]
 ---
-
-# Supervisor Listen In or Barge In with Service Cloud Voice for Partner Telephony
 
 > When a rep belongs to a supervised group, a supervisor can monitor their active calls
         using the Supervisor Panel.

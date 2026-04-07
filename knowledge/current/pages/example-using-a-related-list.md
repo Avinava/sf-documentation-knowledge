@@ -5,12 +5,10 @@ topic: example-using-a-related-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.946Z
+lastCollected: 2026-04-07T18:38:51.188Z
 estimatedTokens: 737
-keywords: [Dynamic, Visualforce, components, best, don’t, know, want, opposed, bindings, access]
+keywords: [Dynamic, Visualforce, best, don’t, know, want, opposed, bindings]
 ---
-
-# Example Using a Related List
 
 > Dynamic Visualforce components are
             best used when you don’t know the type of object you want to reference, as

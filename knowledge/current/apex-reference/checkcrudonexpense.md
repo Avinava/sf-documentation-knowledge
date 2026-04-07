@@ -5,12 +5,10 @@ topic: checkcrudonexpense
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.656Z
+lastCollected: 2026-04-07T18:36:12.943Z
 estimatedTokens: 108
-keywords: [CheckCrudOnExpense, Checks, access, partyExpense, entity, Examples]
+keywords: [CheckCrudOnExpense, Examples, Checks, partyExpense, entity]
 ---
-
-# CheckCrudOnExpense
 
 > Checks create, update and delete access on partyExpense
             entity.

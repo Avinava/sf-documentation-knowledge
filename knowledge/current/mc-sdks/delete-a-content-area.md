@@ -5,12 +5,10 @@ topic: delete-a-content-area
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.003Z
+lastCollected: 2026-04-07T18:40:24.508Z
 estimatedTokens: 452
-keywords: [Content, Area, Specify, unique, identifier, props, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Content, Area, Specify, unique, identifier, props, identify, PHP]
 ---
-
-# Delete a Content Area
 
 > Use the Delete method to delete a content area. Specify a unique identifier in the props properties to identify the content area to update:
 

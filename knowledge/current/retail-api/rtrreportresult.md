@@ -5,13 +5,11 @@ topic: rtrreportresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.072Z
+lastCollected: 2026-04-07T18:39:10.537Z
 estimatedTokens: 557
 namespace: The
-keywords: [RTRReportResult, Apex, access, process, RTR, reports, Implementation]
+keywords: [RTRReportResult, Apex, process, RTR, reports, Implementation]
 ---
-
-# RTRReportResult
 
 > The RTRReportResult Apex class provides methods to
   access and process RTR reports.

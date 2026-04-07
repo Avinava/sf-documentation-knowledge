@@ -5,12 +5,10 @@ topic: duplicates-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.639Z
+lastCollected: 2026-04-07T18:40:11.646Z
 estimatedTokens: 360
-keywords: [Duplicates, Configuration, duplicate, management, whether, configured, determine, records, exist, rules, active]
+keywords: [Duplicates, Configuration, duplicate, management, whether, configured, determine, records, exist, active]
 ---
-
-# Duplicates Configuration
 
 > Contains information about duplicate management configuration for an
       object. Learn whether duplicate management is configured, which fields are used to determine

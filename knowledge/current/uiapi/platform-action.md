@@ -5,12 +5,10 @@ topic: platform-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.012Z
+lastCollected: 2026-04-07T18:40:12.022Z
 estimatedTokens: 946
-keywords: [Platform, Action, metadata, layout, data]
+keywords: [Platform, Action, metadata, layout]
 ---
-
-# Platform Action
 
 > The metadata, layout information, and data for a platform
     action.

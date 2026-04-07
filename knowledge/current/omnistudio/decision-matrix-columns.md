@@ -5,12 +5,10 @@ topic: decision-matrix-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.421Z
+lastCollected: 2026-04-07T18:36:38.031Z
 estimatedTokens: 336
 keywords: [Decision, Matrix, Columns, Retrieve, manage, resource, add, new]
 ---
-
-# Decision Matrix Columns
 
 > Retrieve a list of or manage columns in a decision matrix. Use this
       resource to add new columns, or update or delete existing columns in a decision

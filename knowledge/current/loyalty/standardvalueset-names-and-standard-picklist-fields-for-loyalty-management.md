@@ -5,12 +5,10 @@ topic: standardvalueset-names-and-standard-picklist-fields-for-loyalty-managemen
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.959Z
+lastCollected: 2026-04-07T18:38:09.252Z
 estimatedTokens: 198
 keywords: [StandardValueSet, Standard, Picklist, Loyalty, Management, picklists, their, corresponding]
 ---
-
-# StandardValueSet Names and Standard Picklist Fields for Loyalty Management
 
 > This table lists the names of standard picklists as standard value sets and their
   corresponding field names.

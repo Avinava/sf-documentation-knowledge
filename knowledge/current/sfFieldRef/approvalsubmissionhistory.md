@@ -5,12 +5,10 @@ topic: approvalsubmissionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.841Z
+lastCollected: 2026-04-07T18:39:26.801Z
 estimatedTokens: 267
-keywords: [ApprovalSubmissionHistory, History, tracked, ApprovalSubmission]
+keywords: [ApprovalSubmissionHistory, tracked, ApprovalSubmission]
 ---
-
-# ApprovalSubmissionHistory
 
 > History for tracked fields of ApprovalSubmission.
 

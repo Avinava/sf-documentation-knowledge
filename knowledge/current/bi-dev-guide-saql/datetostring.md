@@ -5,12 +5,10 @@ topic: datetostring
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.014Z
+lastCollected: 2026-04-07T18:37:00.536Z
 estimatedTokens: 162
-keywords: [date_to_string, Converts, date, _to, _string, Usage]
+keywords: [date_to_string, Converts, date, _to, _string]
 ---
-
-# date_to_string()
 
 > Converts a date to a string.
 

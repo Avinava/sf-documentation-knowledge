@@ -5,12 +5,10 @@ topic: diagnosticsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.171Z
+lastCollected: 2026-04-07T18:39:37.879Z
 estimatedTokens: 333
-keywords: [DiagnosticSummary, findings, interpretations, summaries, tests, performed, patients, API, version, 51.0, later]
+keywords: [DiagnosticSummary, findings, interpretations, summaries, tests, performed, patients, API, 51.0]
 ---
-
-# DiagnosticSummary
 
 > Represents the findings, interpretations, and summaries of tests performed on
       patients. This object is available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: club-membership-renewal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.975Z
+lastCollected: 2026-04-07T18:38:07.190Z
 estimatedTokens: 270
-keywords: [Club, Membership, Renewal, Input, representation]
+keywords: [Club, Membership, Renewal]
 ---
-
-# Club Membership Renewal Input
 
 > The input representation for club membership renewal.
 

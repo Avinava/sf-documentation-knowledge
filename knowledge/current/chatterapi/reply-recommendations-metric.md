@@ -5,12 +5,10 @@ topic: reply-recommendations-metric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:35.642Z
+lastCollected: 2026-04-07T18:37:22.743Z
 estimatedTokens: 407
 keywords: [Reply, Recommendations, Metric]
 ---
-
-# Reply Recommendations Metric
 
 > Reply recommendations metric.
 

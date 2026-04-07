@@ -5,12 +5,10 @@ topic: connectapimanagedcontentdeliverydocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.523Z
+lastCollected: 2026-04-07T18:36:09.868Z
 estimatedTokens: 544
 keywords: [Managed, content, delivery, scope]
 ---
-
-# ConnectApi.ManagedContentDeliveryDocument
 
 > Managed content in delivery scope.
 

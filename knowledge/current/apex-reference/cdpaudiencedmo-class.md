@@ -5,13 +5,11 @@ topic: cdpaudiencedmo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.509Z
+lastCollected: 2026-04-07T18:35:55.644Z
 estimatedTokens: 374
 namespace: ConnectApi
-keywords: [CdpAudienceDMO, activation, records, Data, Audience, Model, Objects, DMOs, getActivationData, activationId, API, Version, Requires, Chatter]
+keywords: [CdpAudienceDMO, activation, records, Audience, Model, DMOs, getActivationData, activationId, API, Requires, Chatter]
 ---
-
-# CdpAudienceDMO Class
 
 > Get activation records from Data 360 Audience Data Model Objects (DMOs).
 

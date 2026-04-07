@@ -5,12 +5,10 @@ topic: realtimeeventsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.419Z
+lastCollected: 2026-04-07T18:36:28.910Z
 estimatedTokens: 684
-keywords: [RealTimeEventSettings, Real-Time, Event, entities, want, enable, disable, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [RealTimeEventSettings, RealTimeEvent, Real-Time, Event, entities, want, enable, disable, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# RealTimeEventSettings
 
 > Represents the list of Real-Time Event entities
             that you want to enable or disable.

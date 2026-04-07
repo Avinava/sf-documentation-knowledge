@@ -5,12 +5,10 @@ topic: nullapiproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.795Z
+lastCollected: 2026-04-07T18:40:17.979Z
 estimatedTokens: 150
-keywords: [NullAPIProperty, API, avoid, problems, associated, sending, empty]
+keywords: [NullAPIProperty, API, avoid, problems, sending, empty]
 ---
-
-# NullAPIProperty
 
 > The NullAPIProperty object takes an API property and specifies a null property for that value. Use this object to avoid problems associated with sending an empty string.
 

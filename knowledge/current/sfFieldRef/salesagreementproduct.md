@@ -5,12 +5,10 @@ topic: salesagreementproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.845Z
+lastCollected: 2026-04-07T18:40:00.595Z
 estimatedTokens: 574
 keywords: [SalesAgreementProduct, total, quantity, amount, pricing, product, category, across, time, period, sales, agreement]
 ---
-
-# SalesAgreementProduct
 
 > Represents the total quantity or amount and the default pricing information of
       a product or category across the total time period of the sales agreement.

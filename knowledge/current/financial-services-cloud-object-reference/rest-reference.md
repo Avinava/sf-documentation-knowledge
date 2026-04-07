@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.929Z
+lastCollected: 2026-04-07T18:37:35.590Z
 estimatedTokens: 249
-keywords: [REST, access, Financial, Services, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Financial, Services, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Financial Services Cloud Business APIs using REST endpoints. These REST
     APIs follow similar conventions as Connect REST APIs.

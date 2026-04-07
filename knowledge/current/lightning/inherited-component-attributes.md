@@ -5,12 +5,10 @@ topic: inherited-component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.663Z
+lastCollected: 2026-04-07T18:38:04.807Z
 estimatedTokens: 785
-keywords: [Inherited, Component, Attributes, sub, extends, super, inherits, Attribute]
+keywords: [Inherited, Attributes, sub, extends, super, inherits, Attribute]
 ---
-
-# Inherited Component Attributes
 
 > A sub component that extends a super component inherits the attributes of the super
         component.

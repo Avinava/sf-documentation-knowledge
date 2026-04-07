@@ -5,12 +5,10 @@ topic: invoketelephonyintegrationapifunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.947Z
+lastCollected: 2026-04-07T18:40:12.893Z
 estimatedTokens: 1883
-keywords: [InvokeTelephonyIntegrationApiFunction, Lambda, Function, invokeTelephonyIntegrationApi, actions, orchestrate, voice, call, handling, routing, integrates, telephony, events, Salesforce, ensuring]
+keywords: [InvokeTelephonyIntegrationApiFunction, Lambda, Function, invokeTelephonyIntegrationApi, actions, orchestrate, voice, call, handling, routing, integrates, telephony, events, Salesforce, ensuring, properly, processed, directed, appropriate, Omni-Channel, logic]
 ---
-
-# InvokeTelephonyIntegrationApiFunction Lambda Function
 
 > The invokeTelephonyIntegrationApi function contains actions which
       orchestrate voice call handling and routing. The function integrates telephony events with

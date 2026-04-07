@@ -5,12 +5,10 @@ topic: use-the-connector-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.459Z
+lastCollected: 2026-04-07T18:40:13.384Z
 estimatedTokens: 628
 keywords: [Connector, API, partner, messaging, telephony, system, Salesforce, org, pass, receive, events, back]
 ---
-
-# Use the Connector API
 
 > The Connector API is the interface between your partner messaging or telephony system
     and your Salesforce org. This API allows you to pass information to Salesforce, and to receive

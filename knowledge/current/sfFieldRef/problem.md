@@ -5,12 +5,10 @@ topic: problem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.312Z
+lastCollected: 2026-04-07T18:39:54.874Z
 estimatedTokens: 560
-keywords: [Problem, Problems, represent, root, cause, data, incidents, documenting, history, detection, closure, API, version, 53.0, later]
+keywords: [Problem, Problems, represent, root, cause, incidents, documenting, detection, closure, API, 53.0]
 ---
-
-# Problem
 
 > Problems represent the root cause data of one or more incidents. This object
          contains all the details of a problem, documenting the history of the problem from

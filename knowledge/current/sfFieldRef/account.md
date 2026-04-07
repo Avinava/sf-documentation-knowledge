@@ -5,12 +5,10 @@ topic: account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.062Z
+lastCollected: 2026-04-07T18:39:23.990Z
 estimatedTokens: 1960
 keywords: [Account, individual, organization, person, involved, business, customers, competitors, partners]
 ---
-
-# Account
 
 > Represents an individual account, which is an organization or person
 			involved with your business (such as customers, competitors, and

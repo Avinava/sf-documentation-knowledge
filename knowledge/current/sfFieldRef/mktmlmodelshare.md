@@ -5,12 +5,10 @@ topic: mktmlmodelshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.628Z
+lastCollected: 2026-04-07T18:39:49.098Z
 estimatedTokens: 248
 keywords: [MktMLModelShare, Sharing, MktMLModel]
 ---
-
-# MktMLModelShare
 
 > Sharing for MktMLModel.
 

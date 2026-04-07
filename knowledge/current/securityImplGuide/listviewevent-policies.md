@@ -5,12 +5,10 @@ topic: listviewevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.427Z
+lastCollected: 2026-04-07T18:39:22.317Z
 estimatedTokens: 481
-keywords: [ListViewEvent, Policies, View, event, monitor, data, viewed, downloaded, views, Salesforce, Classic, Lightning, Experience, API, Policy]
+keywords: [ListViewEvent, Policies, View, event, monitor, viewed, downloaded, views, Salesforce, Classic, Lightning, Experience, API, Policy, Glance]
 ---
-
-# ListViewEvent Policies
 
 > List View event policies monitor when data is viewed or downloaded from your list views
   using Salesforce Classic, Lightning Experience, or the API.

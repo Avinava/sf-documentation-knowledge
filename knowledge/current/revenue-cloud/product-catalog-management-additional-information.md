@@ -5,12 +5,10 @@ topic: product-catalog-management-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.163Z
+lastCollected: 2026-04-07T18:35:47.188Z
 estimatedTokens: 786
 keywords: [Product, Catalog, Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
-
-# Product Catalog Management Additional Information
 
 > Get to know additional deployment information for Product Catalog Management in Revenue
     Cloud, including active or inactive states, object information, and migration

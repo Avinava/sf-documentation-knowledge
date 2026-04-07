@@ -5,12 +5,10 @@ topic: announcement-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.578Z
+lastCollected: 2026-04-07T18:37:16.655Z
 estimatedTokens: 212
 keywords: [Announcement, paginated, collection, bodies]
 ---
-
-# Announcement Page
 
 > A paginated collection of Announcement response bodies.
 

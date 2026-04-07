@@ -5,12 +5,10 @@ topic: selectmacro
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.529Z
+lastCollected: 2026-04-07T18:36:50.796Z
 estimatedTokens: 203
-keywords: [selectMacro, Selects, displays, specific, macro, widget, API, version, 36.0, later, isn’t, Lightning, Console, Arguments, Sample]
+keywords: [Arguments, selectMacro, Selects, displays, specific, macro, widget, API, 36.0, isn’t, Lightning, Console, Sample, Code–Visualforce]
 ---
-
-# selectMacro()
 
 > Selects and displays a specific macro in the macro
             widget. This method is only available in API version 36.0 or later. This method isn’t

@@ -5,12 +5,10 @@ topic: credit-memo-addresses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.221Z
+lastCollected: 2026-04-07T18:35:43.104Z
 estimatedTokens: 115
-keywords: [Credit, Memo, Addresses, Input, representation, billing, shipping]
+keywords: [Credit, Memo, Addresses, billing, shipping]
 ---
-
-# Credit Memo Addresses Input
 
 > Input representation of the details of the billing and shipping addresses.
 

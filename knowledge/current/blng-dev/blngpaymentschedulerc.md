@@ -5,12 +5,10 @@ topic: blngpaymentschedulerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.335Z
+lastCollected: 2026-04-07T18:37:03.907Z
 estimatedTokens: 1023
-keywords: [blng__PaymentScheduler__c, automating, payment, runs, creating, schedulers, process, recurring, basis, blng, _PaymentScheduler, Calls]
+keywords: [blng__PaymentScheduler__c, automating, payment, runs, creating, schedulers, process, recurring, basis, blng, _PaymentScheduler]
 ---
-
-# blng__PaymentScheduler__c
 
 > Represents automating payment runs by creating payment schedulers,
          which process the payment runs on a recurring basis.

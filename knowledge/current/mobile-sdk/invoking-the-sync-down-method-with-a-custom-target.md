@@ -5,12 +5,10 @@ topic: invoking-the-sync-down-method-with-a-custom-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.198Z
+lastCollected: 2026-04-07T18:40:25.561Z
 estimatedTokens: 208
-keywords: [Invoking, Sync, Down, Custom, Target, supports, iOS, Android]
+keywords: [Invoking, Sync, Down, Target, supports, iOS, Android]
 ---
-
-# Invoking the Sync Down Method with a Custom Target
 
 > The following example supports both iOS and
               Android:

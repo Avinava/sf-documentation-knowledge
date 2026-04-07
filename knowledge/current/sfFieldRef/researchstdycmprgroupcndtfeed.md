@@ -5,12 +5,10 @@ topic: researchstdycmprgroupcndtfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.164Z
+lastCollected: 2026-04-07T18:39:59.850Z
 estimatedTokens: 393
-keywords: [ResearchStdyCmprGroupCndtFeed, Feed, tracking, ResearchStdyCmprGroupCndt]
+keywords: [ResearchStdyCmprGroupCndtFeed, ResearchStdyCmprGroupCndt]
 ---
-
-# ResearchStdyCmprGroupCndtFeed
 
 > Feed tracking for ResearchStdyCmprGroupCndt.
 

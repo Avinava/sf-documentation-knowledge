@@ -5,12 +5,10 @@ topic: files-connect-repository-item-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.075Z
+lastCollected: 2026-04-07T18:37:12.977Z
 estimatedTokens: 104
-keywords: [Files, Connect, Repository, Item, associated]
+keywords: [Files, Connect, Repository, Item]
 ---
-
-# Files Connect Repository Item Type
 
 > Returns information about an item type associated with a
       repository.

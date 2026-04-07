@@ -5,12 +5,10 @@ topic: commerce-webstore-my-profile-initiate-otp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.547Z
+lastCollected: 2026-04-07T18:37:12.432Z
 estimatedTokens: 497
-keywords: [Commerce, Webstore, Profile, Initiate, OTP, one-time, password, via, SMS, Email, API, unique, identifier, associated]
+keywords: [Commerce, Webstore, Profile, Initiate, OTP, one-time, password, via, SMS, Email, API, unique, identifier]
 ---
-
-# Commerce Webstore My Profile Initiate OTP
 
 > Initiate the one-time password (OTP) via the specified method, such as
       SMS or Email. The API returns a unique identifier associated with the OTP

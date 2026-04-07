@@ -5,12 +5,10 @@ topic: limits-for-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.727Z
+lastCollected: 2026-04-07T18:38:46.598Z
 estimatedTokens: 186
-keywords: [Limits, Group, Professional, Editions, Salesforce, restrict, number, apps, objects, tabs, various, Edition]
+keywords: [Limits, Group, Professional, Editions, Salesforce, restrict, number, apps, tabs, various, Edition]
 ---
-
-# Limits for Group and Professional Editions
 
 > All Salesforce editions have limits that restrict the number of apps, objects, and tabs that can
    be used. For details on the limits for various editions, see the Edition Limits Table.

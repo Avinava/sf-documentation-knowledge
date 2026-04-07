@@ -5,12 +5,10 @@ topic: emssnrdctncommitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.563Z
+lastCollected: 2026-04-07T18:39:39.209Z
 estimatedTokens: 589
-keywords: [EmssnRdctnCommitment, company's, commitment, reducing, carbon, emissions, line, Paris, Agreement’s, goal, achieve, low-carbon, future, companies, sign]
+keywords: [EmssnRdctnCommitment, company's, commitment, reducing, carbon, emissions, line, Paris, Agreement’s, goal, achieve, low-carbon, future, companies, sign, Business, Ambition, 1.5°C, letter, commit, emission, reduction, targets, limit, temperature, rise, above, pre-industrial, levels]
 ---
-
-# EmssnRdctnCommitment
 
 > Represents information about a company's commitment to reducing its carbon emissions. This commitment is in line with the Paris Agreement’s goal to achieve a low-carbon future. For example, companies sign the Business Ambition for 1.5°C commitment letter and commit to set emission reduction targets to limit temperature rise to 1.5°C above pre-industrial levels.
 

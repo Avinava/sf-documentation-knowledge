@@ -5,12 +5,10 @@ topic: example-publish-callback-class-that-correlates-callback-results-with-even
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.387Z
+lastCollected: 2026-04-07T18:38:58.241Z
 estimatedTokens: 336
-keywords: [Publish, Callback, Correlates, Results, Event, Messages, implementation, how, retry, publishing, failed, events, It’s, trigger, Order]
+keywords: [Publish, Callback, Correlates, Results, Event, Messages, implementation, how, retry, publishing, failed, events, It’s, trigger, Order, Apex]
 ---
-
-# Example: Publish Callback Class That Correlates Callback Results with Event Messages
 
 > This example callback class implementation shows how to retry publishing failed events.
   It’s based on a trigger on the Order object.

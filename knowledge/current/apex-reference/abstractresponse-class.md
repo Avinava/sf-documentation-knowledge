@@ -5,13 +5,11 @@ topic: abstractresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.449Z
+lastCollected: 2026-04-07T18:36:01.687Z
 estimatedTokens: 2012
 namespace: CommercePayments
-keywords: [AbstractResponse, normalized, payment, gateways, common, gateway, responses, Usage, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayResultCode]
+keywords: [AbstractResponse, normalized, payment, gateways, common, gateway, responses, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setSalesforceResultCodeInfo, salesforceResultCodeInfo, setRetryCategory, retryCategory, setRetryDecision, retryDecision]
 ---
-
-# AbstractResponse Class
 
 > Contains the normalized response fields from payment gateways that are
       common to all the other gateway responses.

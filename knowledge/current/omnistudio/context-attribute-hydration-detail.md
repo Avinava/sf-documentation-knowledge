@@ -5,12 +5,10 @@ topic: context-attribute-hydration-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.247Z
+lastCollected: 2026-04-07T18:36:38.905Z
 estimatedTokens: 239
-keywords: [Context, Attribute, Hydration, Detail, Output, representation]
+keywords: [Context, Attribute, Hydration, Detail]
 ---
-
-# Context Attribute Hydration Detail
 
 > Output representation of context attribute hydration detail.
 

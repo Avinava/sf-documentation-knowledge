@@ -5,12 +5,10 @@ topic: learningitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.053Z
+lastCollected: 2026-04-07T18:38:34.248Z
 estimatedTokens: 1189
-keywords: [LearningItem, item, requires, users, take, action, including, Learning, Paths, entry, Enablement, program, exercise, linked, content]
+keywords: [LearningItem, item, requires, users, take, action, including, Learning, Paths, entry, Enablement, program, exercise, linked, content, assigned, programs, exercises, self-enroll, shared, API, 58.0]
 ---
-
-# LearningItem
 
 > Represents an item that requires users to take action, including a
          Learning Paths entry, an Enablement program, or an exercise with linked content in an

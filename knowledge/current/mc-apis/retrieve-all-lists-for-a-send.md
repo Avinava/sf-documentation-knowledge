@@ -5,12 +5,10 @@ topic: retrieve-all-lists-for-a-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.602Z
+lastCollected: 2026-04-07T18:40:18.801Z
 estimatedTokens: 763
-keywords: [Retrieve, Send, retrieving, Why, How, Sample, NET, Code, Output]
+keywords: [Retrieve, Send, retrieving, Why, How, Sample, NET, Code]
 ---
-
-# Retrieve All Lists for a Send
 
 > This page contains information  about retrieving all lists for a send.
 

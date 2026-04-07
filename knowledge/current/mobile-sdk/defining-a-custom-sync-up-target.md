@@ -5,12 +5,10 @@ topic: defining-a-custom-sync-up-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.284Z
+lastCollected: 2026-04-07T18:40:25.645Z
 estimatedTokens: 1180
-keywords: [Defining, Custom, Sync, Target, define, targets, operations, subclassing, platform’s, abstract, base, hybrid, apps, you’re, implement]
+keywords: [Defining, Sync, Target, define, targets, operations, subclassing, platform’s, abstract, base, hybrid, apps, you’re, implement, native, platform, support, classes, Handling]
 ---
-
-# Defining a Custom Sync Up Target
 
 > You define custom targets for sync up operations by subclassing your platform’s abstract base
    class for sync up targets. To use custom targets in hybrid apps, you’re required to implement a

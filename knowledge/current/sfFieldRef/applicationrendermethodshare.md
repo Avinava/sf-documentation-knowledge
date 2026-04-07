@@ -5,12 +5,10 @@ topic: applicationrendermethodshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:32.572Z
+lastCollected: 2026-04-07T18:39:26.516Z
 estimatedTokens: 254
 keywords: [ApplicationRenderMethodShare, Sharing, ApplicationRenderMethod]
 ---
-
-# ApplicationRenderMethodShare
 
 > Sharing for ApplicationRenderMethod.
 

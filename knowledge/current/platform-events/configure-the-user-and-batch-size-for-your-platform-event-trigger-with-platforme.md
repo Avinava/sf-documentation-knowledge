@@ -6,13 +6,10 @@ topic: configure-the-user-and-batch-size-for-your-platform-event-trigger-with-pl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.609Z
+lastCollected: 2026-04-07T18:38:58.485Z
 estimatedTokens: 1520
-keywords: [Configure, User, Batch, Size, Platform, Event, Trigger, PlatformEventSubscriberConfig, override, running, Apex, runs, Automated, Process, system]
+keywords: [Configure, User, Batch, Size, Platform, Event, Trigger, PlatformEventSubscriberConfig, override, running, Apex, runs, Automated, Process, system, messages, Configuring, bypass, limitations, sometimes, arise, defaults, Tooling, API, Metadata]
 ---
-
-# Configure the User and Batch Size for Your Platform Event Trigger with
-    PlatformEventSubscriberConfig
 
 > You can override the default running user and batch size of a platform
       event Apex trigger. By default, the trigger runs as the Automated Process system user with a

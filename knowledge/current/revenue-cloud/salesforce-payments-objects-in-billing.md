@@ -5,12 +5,10 @@ topic: salesforce-payments-objects-in-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.183Z
+lastCollected: 2026-04-07T18:35:42.034Z
 estimatedTokens: 397
-keywords: [Salesforce, Payments, Objects, Billing, access, standard, authorize, connect, external, payment, gateway, group, transactions, processed, particular]
+keywords: [Salesforce, Payments, Billing, standard, authorize, connect, external, payment, gateway, group, transactions, processed, particular, transaction, store, Revenue, Cloud, license]
 ---
-
-# Salesforce Payments Objects in Billing
 
 > Billing provides access to some standard Salesforce Payments objects
                   that you can use to authorize payments, connect to an external payment gateway,

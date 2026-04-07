@@ -5,13 +5,11 @@ topic: object-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.956Z
+lastCollected: 2026-04-07T18:36:01.169Z
 estimatedTokens: 1033
 namespace: System
-keywords: [implemented, Apex, Usage, equals, obj, hashCode, toString, Versioned, Behavior, Changes]
+keywords: [implemented, Apex, equals, obj, hashCode, toString, Versioned, Behavior, Changes]
 ---
-
-# Object Class
 
 > Contains methods that are implemented by all Apex types.
 

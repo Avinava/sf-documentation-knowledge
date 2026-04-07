@@ -5,12 +5,10 @@ topic: connectapiabstractmanagedcontentreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.529Z
+lastCollected: 2026-04-07T18:36:06.883Z
 estimatedTokens: 254
 keywords: [Managed, content]
 ---
-
-# ConnectApi.AbstractManagedContentReference
 
 > Managed content reference.
 

@@ -5,12 +5,10 @@ topic: waste-footprint-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.389Z
+lastCollected: 2026-04-07T18:38:16.978Z
 estimatedTokens: 357
 keywords: [Waste, Footprint, Item, volume, disposal, aggregated, generated, either, part, operations, end, life, product]
 ---
-
-# Waste Footprint Item
 
 > The Waste Footprint Item object represents the volume by waste type and disposal type of
   aggregated waste generated either as part of operations or at the end of life of a

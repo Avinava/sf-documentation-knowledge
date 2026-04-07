@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-field-date-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.206Z
+lastCollected: 2026-04-07T18:36:58.707Z
 estimatedTokens: 145
-keywords: [Smart, Data, Discovery, Model, Date, Input, Einstein]
+keywords: [Smart, Discovery, Model, Date, Einstein]
 ---
-
-# Smart Data Discovery Model Field Date Input
 
 > The Einstein Discovery date model field create or update.
 

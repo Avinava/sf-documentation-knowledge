@@ -5,12 +5,10 @@ topic: paymentlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:58.482Z
+lastCollected: 2026-04-07T18:39:52.995Z
 estimatedTokens: 523
-keywords: [PaymentLink, payment, link, merchant, embed, Salesforce, app, directs, payers, Pay, Now, what’s, paid, currency, lets]
+keywords: [PaymentLink, payment, link, merchant, embed, Salesforce, app, directs, payers, Pay, Now, what’s, paid, currency, lets, enter, their]
 ---
-
-# PaymentLink
 
 > A payment link that a merchant can embed into a Salesforce app. The link
          directs payers to a Pay Now page that shows what’s being paid for, in the payers currency,

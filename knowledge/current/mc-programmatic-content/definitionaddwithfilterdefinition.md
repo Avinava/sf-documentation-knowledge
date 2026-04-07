@@ -5,12 +5,10 @@ topic: definitionaddwithfilterdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.425Z
+lastCollected: 2026-04-07T18:40:23.861Z
 estimatedTokens: 276
-keywords: [Definition.AddWithFilterDefinition, Function, Ordinal, Customer, key, subject, line, send, definition, **Overview**, **Syntax**, Examples]
+keywords: [Examples, Definition.AddWithFilterDefinition, Function, Ordinal, Customer, key, subject, line, send, definition, **Overview**, **Syntax**]
 ---
-
-# Definition.AddWithFilterDefinition
 
 > Definition.AddWithFilterDefinition(1, 2, 3, 4, 5)
 

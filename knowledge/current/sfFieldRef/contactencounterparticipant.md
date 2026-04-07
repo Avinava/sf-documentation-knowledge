@@ -5,12 +5,10 @@ topic: contactencounterparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.519Z
+lastCollected: 2026-04-07T18:39:34.961Z
 estimatedTokens: 287
 keywords: [ContactEncounterParticipant, person, present, contact, encounter]
 ---
-
-# ContactEncounterParticipant
 
 > Represents a person who was present during a contact
     encounter.

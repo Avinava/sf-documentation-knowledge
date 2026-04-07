@@ -5,12 +5,10 @@ topic: update-and-crop-a-user-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.391Z
+lastCollected: 2026-04-07T18:37:24.400Z
 estimatedTokens: 279
 keywords: [Crop, User, Photo]
 ---
-
-# Update and Crop a User Photo
 
 > Update and crop a user photo.
 

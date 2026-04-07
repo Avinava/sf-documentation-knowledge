@@ -5,12 +5,10 @@ topic: loyalty-program-process-rule-action-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.759Z
+lastCollected: 2026-04-07T18:38:07.996Z
 estimatedTokens: 150
-keywords: [Loyalty, Program, Process, Rule, Action, Output, representation]
+keywords: [Loyalty, Program, Process, Rule, Action]
 ---
-
-# Loyalty Program Process Rule Action Parameter
 
 > Output representation of the loyalty program process rule action
       parameter.

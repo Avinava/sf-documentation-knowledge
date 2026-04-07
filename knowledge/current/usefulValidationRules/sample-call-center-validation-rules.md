@@ -5,12 +5,10 @@ topic: sample-call-center-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.434Z
+lastCollected: 2026-04-07T18:40:12.461Z
 estimatedTokens: 677
-keywords: [Sample, Call, Center, Validation, Rules, requiring, conditional, preventing, cases, reset, restricting, case, status, Conditionally, Require]
+keywords: [Sample, Call, Center, Validation, requiring, conditional, preventing, cases, reset, restricting, case, status, Conditionally, Require, Reason, “Other”, Prevent, Open, New, Restrict, Re-Opened, Milestone, Completion, Closed, Creation, Dates]
 ---
-
-# Sample Call Center Validation Rules
 
 > Validation rules for requiring a conditional description, preventing cases from being
     reset, restricting case status, and more.

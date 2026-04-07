@@ -6,13 +6,10 @@ topic: soql-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.786Z
+lastCollected: 2026-04-07T18:36:54.154Z
 estimatedTokens: 619
-keywords: [soql, Step, directly, query, Salesforce, objects—both, standard, custom—to, data, that’s, datasets, external, objects, created, OData]
+keywords: [soql, Step, directly, query, Salesforce, objects—both, standard, custom—to, that’s, datasets, external, created, OData, adapter, Connect, view, results, dashboard, user, viewing, queried, records, Total, Number, Active, Users]
 ---
-
-# soql Step Type
-        Properties
 
 > Use to directly query Salesforce objects—both standard and custom—to
         get Salesforce data that’s not available in datasets. You can also query external objects

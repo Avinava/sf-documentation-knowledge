@@ -5,12 +5,10 @@ topic: creditmemoinvapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.930Z
+lastCollected: 2026-04-07T18:39:36.484Z
 estimatedTokens: 469
-keywords: [CreditMemoInvApplication, amount, applied, credit, memo, invoice, API, version, 48.0, later]
+keywords: [CreditMemoInvApplication, amount, applied, credit, memo, invoice, API, 48.0]
 ---
-
-# CreditMemoInvApplication
 
 > Represents an amount applied from a credit memo to an invoice. This
       object is available in API version 48.0 and later.

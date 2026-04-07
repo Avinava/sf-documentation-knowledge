@@ -5,12 +5,10 @@ topic: related-records-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.616Z
+lastCollected: 2026-04-07T18:35:46.583Z
 estimatedTokens: 154
-keywords: [Records, Output, representation]
+keywords: [Records]
 ---
-
-# Related Records List
 
 > Output representation of the list of related records.
 

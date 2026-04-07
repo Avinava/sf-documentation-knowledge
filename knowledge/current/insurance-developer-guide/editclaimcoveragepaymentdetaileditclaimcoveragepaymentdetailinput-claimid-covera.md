@@ -5,12 +5,10 @@ topic: editclaimcoveragepaymentdetaileditclaimcoveragepaymentdetailinput-claimid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.433Z
+lastCollected: 2026-04-07T18:37:49.269Z
 estimatedTokens: 398
-keywords: [EditClaimCoveragePaymentDetail, EditClaimCoveragePaymentDetailInput, claimId, coverageId, paymentDetailId, Modify, claim, coverage, payment, detail, record, API, Version, Requires, Chatter]
+keywords: [EditClaimCoveragePaymentDetail, EditClaimCoveragePaymentDetailInput, claimId, coverageId, paymentDetailId, Modify, claim, coverage, payment, detail, record, API, Requires, Chatter]
 ---
-
-# EditClaimCoveragePaymentDetail(EditClaimCoveragePaymentDetailInput, claimId, coverageId, paymentDetailId)
 
 > Modify a claim coverage payment detail record.
 

@@ -5,12 +5,10 @@ topic: limited-access-license-for-package-developers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.062Z
+lastCollected: 2026-04-07T18:38:56.748Z
 estimatedTokens: 441
-keywords: [Limited, Access, License, Package, Developers, Salesforce, Free, designed, users, whose, role, build, customizations, applications, Dev]
+keywords: [Limited, License, Package, Developers, Salesforce, Free, designed, users, whose, role, build, customizations, applications, Dev, Hub, development, tools, environments, production, org, restricts, standard, Partner, Business, Orgs, PBO, include, user, licenses]
 ---
-
-# Limited Access License for Package Developers
 
 > The Salesforce Limited Access - Free is designed for users whose role is to build
   customizations or applications. This license provides access to the Dev Hub, development tools,

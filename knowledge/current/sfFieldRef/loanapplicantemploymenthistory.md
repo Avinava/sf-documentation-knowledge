@@ -5,12 +5,10 @@ topic: loanapplicantemploymenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.194Z
+lastCollected: 2026-04-07T18:39:46.705Z
 estimatedTokens: 274
-keywords: [LoanApplicantEmploymentHistory, History, tracked, LoanApplicantEmployment]
+keywords: [LoanApplicantEmploymentHistory, tracked, LoanApplicantEmployment]
 ---
-
-# LoanApplicantEmploymentHistory
 
 > History for tracked fields of LoanApplicantEmployment.
 

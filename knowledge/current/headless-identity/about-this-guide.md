@@ -5,12 +5,10 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.393Z
+lastCollected: 2026-04-07T18:37:39.332Z
 estimatedTokens: 263
 keywords: [walks, end-to-end, Headless, Identity, implementation, completing, Salesforce, setup, calling, API, designed, single-page, app, client]
 ---
-
-# About This Guide
 
 > This guide walks you through an end-to-end Headless Identity implementation, from
     completing your Salesforce setup to calling Headless Identity API. The example implementation in

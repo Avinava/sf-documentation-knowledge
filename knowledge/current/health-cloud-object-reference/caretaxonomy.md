@@ -5,12 +5,10 @@ topic: caretaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.833Z
+lastCollected: 2026-04-07T18:37:46.405Z
 estimatedTokens: 912
-keywords: [CareTaxonomy, taxonomy, codes, Calls, Associated, Objects]
+keywords: [CareTaxonomy, taxonomy, codes]
 ---
-
-# CareTaxonomy
 
 > Represents a static list of taxonomy codes.
 

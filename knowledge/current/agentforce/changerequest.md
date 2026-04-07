@@ -5,12 +5,10 @@ topic: changerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.077Z
+lastCollected: 2026-04-07T18:35:55.177Z
 estimatedTokens: 1200
-keywords: [ChangeRequest, Standard, extend, Agentforce, Service, represent, fix, implemented, issue, API, version, 65.0, later, Calls]
+keywords: [ChangeRequest, Standard, extend, Agentforce, Service, represent, fix, implemented, issue, API, 65.0]
 ---
-
-# ChangeRequest
 
 > Standard fields extend the ChangeRequest object for use in Agentforce IT
          Service to represent the fix implemented for an issue. This object is available in API

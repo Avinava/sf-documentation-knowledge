@@ -5,12 +5,10 @@ topic: clonesalesqtowcdiscounts-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.936Z
+lastCollected: 2026-04-07T18:37:32.101Z
 estimatedTokens: 96
-keywords: [CloneSalesQToWC_Discounts, API, Clone, sales, quote, line, items, QLIs, working, cart, discounts, adjustments, CloneSalesQToWC, _Discounts, URI]
+keywords: [CloneSalesQToWC_Discounts, API, Clone, sales, quote, line, items, QLIs, working, cart, discounts, adjustments, CloneSalesQToWC, _Discounts, URI, HTTP]
 ---
-
-# CloneSalesQToWC_Discounts API
 
 > Clone sales quote line items (QLIs) to working cart QLIs with discounts and adjustments.
 

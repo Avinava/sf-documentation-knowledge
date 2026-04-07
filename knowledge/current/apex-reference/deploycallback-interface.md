@@ -5,13 +5,11 @@ topic: deploycallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.878Z
+lastCollected: 2026-04-07T18:36:13.182Z
 estimatedTokens: 592
 namespace: Metadata
-keywords: [DeployCallback, metadata, deployment, callback, classes, Usage, handleResult, var1, var2, Implementation]
+keywords: [DeployCallback, metadata, deployment, callback, classes, handleResult, var1, var2, Implementation]
 ---
-
-# DeployCallback Interface
 
 > An interface for metadata deployment callback
     classes.

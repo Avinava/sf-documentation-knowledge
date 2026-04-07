@@ -5,12 +5,10 @@ topic: paymentcredittransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.308Z
+lastCollected: 2026-04-07T18:38:37.610Z
 estimatedTokens: 731
-keywords: [PaymentCreditTransaction, payment, credit, transaction, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [PaymentCreditTransaction, payment, credit, transaction, API, 65.0]
 ---
-
-# PaymentCreditTransaction
 
 > A payment credit transaction. This object is available in API version
       65.0 and later.

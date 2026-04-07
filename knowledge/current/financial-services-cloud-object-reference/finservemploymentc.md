@@ -5,12 +5,10 @@ topic: finservemploymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.358Z
+lastCollected: 2026-04-07T18:37:37.133Z
 estimatedTokens: 615
-keywords: [FinServ_Employment__c, individual’s, employment, history, FinServ, _Employment, Calls]
+keywords: [FinServ_Employment__c, individual’s, employment, FinServ, _Employment]
 ---
-
-# FinServ_Employment__c
 
 > Represents information about an individual’s employment
       history.

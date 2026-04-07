@@ -5,12 +5,10 @@ topic: integrationproviderdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.180Z
+lastCollected: 2026-04-07T18:37:38.002Z
 estimatedTokens: 1070
-keywords: [IntegrationProviderDef, definition, that's, applicable, integration, provider, API, version, 57.0, later, Calls]
+keywords: [IntegrationProviderDef, definition, that's, applicable, integration, provider, API, 57.0]
 ---
-
-# IntegrationProviderDef
 
 > Represents the definition that's applicable to an integration provider.
       This object is available in API version 57.0 and later.

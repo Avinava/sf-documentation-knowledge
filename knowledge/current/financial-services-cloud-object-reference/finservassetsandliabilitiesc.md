@@ -5,12 +5,10 @@ topic: finservassetsandliabilitiesc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.643Z
+lastCollected: 2026-04-07T18:37:36.413Z
 estimatedTokens: 827
-keywords: [FinServ_AssetsAndLiabilities__c, assets, liabilities, represented, client's, financial, accounts, real, estate, collectibles, FinServ, _AssetsAndLiabilities, Calls]
+keywords: [FinServ_AssetsAndLiabilities__c, assets, liabilities, represented, client's, financial, accounts, real, estate, collectibles, FinServ, _AssetsAndLiabilities]
 ---
-
-# FinServ_AssetsAndLiabilities__c
 
 > Represents assets or liabilities that are not represented in a
             client's financial accounts, such as real estate or collectibles.

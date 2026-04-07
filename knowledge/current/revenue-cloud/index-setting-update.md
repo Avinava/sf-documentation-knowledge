@@ -5,12 +5,10 @@ topic: index-setting-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.905Z
+lastCollected: 2026-04-07T18:35:45.903Z
 estimatedTokens: 128
-keywords: [Index, Setting, Output, representation, updated]
+keywords: [Index, Setting, updated]
 ---
-
-# Index Setting Update
 
 > Output representation of the details of the updated index setting.
 

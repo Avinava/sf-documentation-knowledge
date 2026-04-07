@@ -5,12 +5,10 @@ topic: extension-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.467Z
+lastCollected: 2026-04-07T18:37:08.295Z
 estimatedTokens: 201
-keywords: [Extension, Input]
+keywords: [Extension]
 ---
-
-# Extension Input
 
 > An extension.
 

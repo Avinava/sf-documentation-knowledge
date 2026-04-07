@@ -5,12 +5,10 @@ topic: partyfinancialasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.629Z
+lastCollected: 2026-04-07T18:39:52.044Z
 estimatedTokens: 647
-keywords: [PartyFinancialAsset, financial, asset, owned, individual, account, API, version, 58.0, later]
+keywords: [PartyFinancialAsset, financial, asset, owned, individual, account, API, 58.0]
 ---
-
-# PartyFinancialAsset
 
 > Represents the financial asset owned by an individual or
          account. This object is available in API version 58.0 and later.

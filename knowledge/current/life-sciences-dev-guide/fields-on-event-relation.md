@@ -5,12 +5,10 @@ topic: fields-on-event-relation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.302Z
+lastCollected: 2026-04-07T18:37:57.831Z
 estimatedTokens: 334
-keywords: [Event, Relation, Life, Sciences, Cloud, extend, standard, represent, person, user, lead, contact, resource, conference, room]
+keywords: [Event, Relation, Life, Sciences, Cloud, extend, standard, represent, person, user, lead, contact, resource, conference, room, invited]
 ---
-
-# Fields on Event Relation
 
 > Life Sciences Cloud fields extend the standard Event Relation object to
          represent a person (a user, lead, or contact) or a resource (such as a conference room)

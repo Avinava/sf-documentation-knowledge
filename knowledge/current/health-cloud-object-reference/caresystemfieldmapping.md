@@ -5,12 +5,10 @@ topic: caresystemfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.580Z
+lastCollected: 2026-04-07T18:37:44.951Z
 estimatedTokens: 704
-keywords: [CareSystemFieldMapping, mapping, source, system, Salesforce, objects, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, target, entities, attributes, Calls, external]
+keywords: [CareSystemFieldMapping, mapping, source, system, Salesforce, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, target, entities, attributes, external, systems, SOAP, API, REST]
 ---
-
-# CareSystemFieldMapping
 
 > Represents a mapping from fields in external source systems to Salesforce
          target entities and attributes

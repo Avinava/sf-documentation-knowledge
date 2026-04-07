@@ -5,12 +5,10 @@ topic: bootstrap-embedded-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.502Z
+lastCollected: 2026-04-07T18:40:09.447Z
 estimatedTokens: 834
-keywords: [Bootstrap, Embedded, Chat, API, developers, quick, setup, skips, help, button, stage, loading, necessary, dependencies, bootstraps]
+keywords: [Bootstrap, Embedded, Chat, API, developers, quick, setup, skips, help, button, stage, loading, necessary, dependencies, bootstraps, opens, application, website, call, quickly, add, replacing, code, changes, _svc.bootstrapEmbeddedService, attributes]
 ---
-
-# Bootstrap Embedded Chat
 
 > This API provides developers with a quick Chat setup that skips the static help button
     stage, loading all the necessary dependencies, bootstraps, and opens the chat application on

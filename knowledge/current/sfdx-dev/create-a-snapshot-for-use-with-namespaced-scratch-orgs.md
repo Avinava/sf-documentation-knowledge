@@ -5,12 +5,10 @@ topic: create-a-snapshot-for-use-with-namespaced-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.593Z
+lastCollected: 2026-04-07T18:40:08.545Z
 estimatedTokens: 403
 keywords: [Snapshot, Namespaced, Scratch, Orgs, can't, org, way, deploy, metadata, Snapshots, intended, include, dependent, packages, test]
 ---
-
-# Create a Snapshot for Use with Namespaced Scratch Orgs
 
 > While you can't use a namespaced scratch org to create a snapshot, you can create a
     namespaced scratch org from a snapshot. That way, you can deploy namespaced metadata to the

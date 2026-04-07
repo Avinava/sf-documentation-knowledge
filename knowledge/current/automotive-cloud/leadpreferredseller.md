@@ -5,12 +5,10 @@ topic: leadpreferredseller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.529Z
+lastCollected: 2026-04-07T18:36:52.939Z
 estimatedTokens: 672
-keywords: [LeadPreferredSeller, relationship, lead, dealer, account, selects, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [LeadPreferredSeller, relationship, lead, dealer, account, selects, API, 56.0]
 ---
-
-# LeadPreferredSeller
 
 > Represents the relationship between a lead and the dealer account that the
          lead selects, or the relationship between a lead and the account that provides the

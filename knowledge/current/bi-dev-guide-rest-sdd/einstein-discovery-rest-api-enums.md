@@ -5,12 +5,10 @@ topic: einstein-discovery-rest-api-enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.835Z
+lastCollected: 2026-04-07T18:36:58.359Z
 estimatedTokens: 2459
 keywords: [Einstein, Discovery, REST, API, Enums, specific, smartdatadiscovery]
 ---
-
-# Einstein Discovery REST API Enums
 
 > Enums specific to the /smartdatadiscovery namespace
 

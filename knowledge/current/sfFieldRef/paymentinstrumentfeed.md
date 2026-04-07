@@ -5,12 +5,10 @@ topic: paymentinstrumentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.422Z
+lastCollected: 2026-04-07T18:39:52.934Z
 estimatedTokens: 389
-keywords: [PaymentInstrumentFeed, Feed, tracking, PaymentInstrument]
+keywords: [PaymentInstrumentFeed, PaymentInstrument]
 ---
-
-# PaymentInstrumentFeed
 
 > Feed tracking for PaymentInstrument.
 

@@ -5,12 +5,10 @@ topic: insurance-policy-developer-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:03.919Z
+lastCollected: 2026-04-07T18:37:53.178Z
 estimatedTokens: 391
-keywords: [Insurance, Policy, Developer, Journey, manage, policies, Salesforce, Quoting, APIs, generate, quote, context, serves, foundation, operations]
+keywords: [Insurance, Policy, Developer, Journey, manage, policies, Salesforce, Quoting, APIs, generate, quote, context, serves, foundation, operations, managing, Rating, API, price-adjusted, necessary, rated, depending, formal, record]
 ---
-
-# Insurance Policy Developer Journey
 
 > To manage insurance policies by using Salesforce Quoting, use the Quoting APIs to
     generate a quote context, which serves as the foundation for policy operations. For managing

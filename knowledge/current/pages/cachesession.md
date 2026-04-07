@@ -5,13 +5,11 @@ topic: cachesession
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.290Z
+lastCollected: 2026-04-07T18:38:52.600Z
 estimatedTokens: 399
 namespace: CacheBuilder
-keywords: [$Cache.Session, merge, access, org’s, session, cache, Visualforce, Retrieve, cached, partition’s, referenced, org, Usage, Examples]
+keywords: [Examples, $Cache.Session, merge, org’s, session, cache, Visualforce, Retrieve, cached, partition’s, referenced, org]
 ---
-
-# $Cache.Session
 
 > A global merge field to access an org’s session cache from a Visualforce page. Retrieve
   cached values from a specified partition’s session cache in the referenced org.

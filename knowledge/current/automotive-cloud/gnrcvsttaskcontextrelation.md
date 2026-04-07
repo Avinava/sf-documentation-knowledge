@@ -5,12 +5,10 @@ topic: gnrcvsttaskcontextrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.486Z
+lastCollected: 2026-04-07T18:36:52.901Z
 estimatedTokens: 559
-keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context, Automotive, Cloud, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [GnrcVstTaskContextRelation, common, attributes, visit, task, context, Automotive, Cloud, API, 56.0]
 ---
-
-# GnrcVstTaskContextRelation
 
 > Represents common attributes used for a visit task and a visit task
          context. This object is available in Automotive Cloud in API version 56.0 and

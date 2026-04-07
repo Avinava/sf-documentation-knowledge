@@ -5,12 +5,10 @@ topic: ownerchangeoptioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.054Z
+lastCollected: 2026-04-07T18:38:37.345Z
 estimatedTokens: 145
-keywords: [OwnerChangeOptionInfo, actions, performed, record’s, owner, changed, API, version, 35.0, later, query, change, metadata, Tooling, instead]
+keywords: [OwnerChangeOptionInfo, actions, performed, record’s, owner, changed, API, 35.0, query, change, metadata, Tooling, instead]
 ---
-
-# OwnerChangeOptionInfo
 
 > Represents default and
     optional actions that can be performed when a record’s owner is changed. Available in API

@@ -5,12 +5,10 @@ topic: optimized-append-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.731Z
+lastCollected: 2026-04-07T18:39:18.447Z
 estimatedTokens: 123
-keywords: [Optimized, Append, Node, Input, recipe]
+keywords: [Optimized, Append, Node, recipe]
 ---
-
-# Optimized Append Node Input
 
 > An optimized append node in a recipe.
 

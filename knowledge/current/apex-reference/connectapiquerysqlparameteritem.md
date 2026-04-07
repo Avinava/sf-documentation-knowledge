@@ -5,12 +5,10 @@ topic: connectapiquerysqlparameteritem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.857Z
+lastCollected: 2026-04-07T18:36:06.206Z
 estimatedTokens: 126
-keywords: [ConnectApi.QuerySqlParameterItem, SQL, query, input]
+keywords: [ConnectApi.QuerySqlParameterItem, SQL, query]
 ---
-
-# ConnectApi.QuerySqlParameterItem
 
 > Represents the parameter fields for an SQL query input.
 

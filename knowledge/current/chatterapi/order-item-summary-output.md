@@ -5,12 +5,10 @@ topic: order-item-summary-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.231Z
+lastCollected: 2026-04-07T18:37:21.367Z
 estimatedTokens: 133
-keywords: [Order, Item, Summary, Output, OrderItemSummary, failed, FulfillmentOrder, multiple, fulfillment, orders]
+keywords: [Order, Item, Summary, OrderItemSummary, failed, FulfillmentOrder, multiple, fulfillment, orders]
 ---
-
-# Order Item Summary Output
 
 > Details of an OrderItemSummary from a failed FulfillmentOrder in a
       create multiple fulfillment orders request.

@@ -5,12 +5,10 @@ topic: updateclaimclaimid-updateclaiminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.327Z
+lastCollected: 2026-04-07T18:37:49.147Z
 estimatedTokens: 255
-keywords: [UpdateClaim, claimId, UpdateClaimInput, specific, claim, API, Version, Requires, Chatter]
+keywords: [UpdateClaim, claimId, UpdateClaimInput, specific, claim, API, Requires, Chatter]
 ---
-
-# UpdateClaim(claimId, UpdateClaimInput)
 
 > Update the details of a specific claim.
 

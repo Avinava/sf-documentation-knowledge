@@ -5,12 +5,10 @@ topic: acctmgrtargetsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.627Z
+lastCollected: 2026-04-07T18:38:12.951Z
 estimatedTokens: 488
-keywords: [AcctMgrTargetSettings, settings, account, manager, targets, define, distribution, frequency, hierarchy, team, members, assignments, price, book, displays]
+keywords: [AcctMgrTargetSettings, settings, account, manager, targets, define, distribution, frequency, hierarchy, team, members, assignments, price, book, displays, record, Salesforce, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, API, 49.0, SOAP, REST, HTTP]
 ---
-
-# AcctMgrTargetSettings
 
 > Represents the settings of account manager targets. These settings define the
       distribution frequency, the hierarchy of team members for assignments, and the default price

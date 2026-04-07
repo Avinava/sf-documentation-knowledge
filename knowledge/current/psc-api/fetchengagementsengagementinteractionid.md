@@ -5,12 +5,10 @@ topic: fetchengagementsengagementinteractionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.095Z
+lastCollected: 2026-04-07T18:39:00.071Z
 estimatedTokens: 164
-keywords: [fetchEngagements, engagementInteractionId, engagement, interaction, record, API, Version, Requires, Chatter]
+keywords: [fetchEngagements, engagementInteractionId, engagement, interaction, record, API, Requires, Chatter]
 ---
-
-# fetchEngagements(engagementInteractionId)
 
 > Get an engagement interaction record.
 

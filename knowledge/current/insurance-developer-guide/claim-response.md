@@ -5,12 +5,10 @@ topic: claim-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.994Z
+lastCollected: 2026-04-07T18:37:52.122Z
 estimatedTokens: 133
-keywords: [Claim, Output, representation, created, updated]
+keywords: [Claim, created, updated]
 ---
-
-# Claim Response
 
 > Output representation for a created or updated claim.
 

@@ -5,12 +5,10 @@ topic: procedure-plan-evaluation-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.324Z
+lastCollected: 2026-04-07T18:35:46.259Z
 estimatedTokens: 176
-keywords: [Procedure, Plan, Evaluation, Output, representation, definition]
+keywords: [Procedure, Plan, Evaluation, definition]
 ---
-
-# Procedure Plan Evaluation Response
 
 > Output representation of the evaluation details of a procedure plan
     definition.

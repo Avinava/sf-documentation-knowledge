@@ -5,12 +5,10 @@ topic: get-assetv1contentassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.194Z
+lastCollected: 2026-04-07T18:40:15.224Z
 estimatedTokens: 522
 keywords: [asset, content, assets, collection, simple, $filter, **Overview**, Sort, Filter, Operators]
 ---
-
-# GET /asset/v1/content/assets
 
 > Gets an asset collection by simple $filter parameters.
 

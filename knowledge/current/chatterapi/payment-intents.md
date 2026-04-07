@@ -5,12 +5,10 @@ topic: payment-intents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.082Z
+lastCollected: 2026-04-07T18:37:15.127Z
 estimatedTokens: 717
 keywords: [Payment, Intents, Initiate, Salesforce, Payments, initiated]
 ---
-
-# Payment Intents
 
 > Initiate a payment with Salesforce Payments.
 

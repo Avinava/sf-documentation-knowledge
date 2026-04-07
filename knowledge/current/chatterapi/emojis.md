@@ -5,12 +5,10 @@ topic: emojis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.642Z
+lastCollected: 2026-04-07T18:37:11.431Z
 estimatedTokens: 92
 keywords: [Emojis, org]
 ---
-
-# Emojis
 
 > Get a list of emojis that are supported in the org.
 

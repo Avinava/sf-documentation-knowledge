@@ -5,12 +5,10 @@ topic: apexinputsecret
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.689Z
+lastCollected: 2026-04-07T18:38:49.836Z
 estimatedTokens: 1676
-keywords: [apex, inputSecret, HTML, input, element, password, component, user, controller, correspond, Salesforce, masked, Attributes]
+keywords: [Attributes, apex, inputSecret, HTML, password, user, controller, correspond, Salesforce, masked]
 ---
-
-# apex:inputSecret
 
 > An HTML input element of type password. Use this component to get
 		user input for a controller method that does not correspond to a field

@@ -5,12 +5,10 @@ topic: engagement-signal-metric-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.393Z
+lastCollected: 2026-04-07T18:37:08.213Z
 estimatedTokens: 81
-keywords: [Engagement, Signal, Metric, Collection, Input, wrapper, inputs]
+keywords: [Engagement, Signal, Metric, Collection, wrapper, inputs]
 ---
-
-# Engagement Signal Metric Collection Input
 
 > Collection wrapper for Engagement Signal Metric inputs.
 

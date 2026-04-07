@@ -5,13 +5,11 @@ topic: xmlnode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.883Z
+lastCollected: 2026-04-07T18:36:04.096Z
 estimatedTokens: 4821
 namespace: Dom
-keywords: [XmlNode, Inserts, new, child, node, addChildElement, prefix, Usage, addCommentNode, text, addTextNode, getAttribute, key, keyNamespace, getAttributeCount]
+keywords: [XmlNode, Inserts, new, child, node, addChildElement, prefix, addCommentNode, text, addTextNode, getAttribute, key, keyNamespace, getAttributeCount, getAttributeKeyAt, index, getAttributeKeyNsAt, getAttributeValue, getAttributeValueNs, getChildElement, getChildElements, getChildren, getName, getNamespace, getNamespaceFor, getNodeType, getParent, getPrefixFor, getText, insertBefore, newChild, refChild, removeAttribute, removeChild, childNode, setAttribute, setAttributeNs, valueNamespace, setNamespace]
 ---
-
-# XmlNode Class
 
 > Inserts a new child node before the specified node.
 

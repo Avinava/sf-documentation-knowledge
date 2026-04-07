@@ -5,12 +5,10 @@ topic: updating-a-person-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.777Z
+lastCollected: 2026-04-07T18:37:05.489Z
 estimatedTokens: 243
-keywords: [Updating, Person, Account, two, change, events, generated, contact, regardless, changed, Salesforce, always, updates, LastModifiedDate, system]
+keywords: [Updating, Person, Account, two, change, events, generated, contact, regardless, changed, Salesforce, always, updates, LastModifiedDate, system, updated, underlying, records]
 ---
-
-# Updating a Person Account
 
 > When updating a person account, two change events are generated, one for the account
     and one for the contact, regardless which fields changed. Salesforce always updates the

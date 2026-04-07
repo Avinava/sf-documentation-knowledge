@@ -5,12 +5,10 @@ topic: briefcase-priming-records-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.592Z
+lastCollected: 2026-04-07T18:37:11.375Z
 estimatedTokens: 417
 keywords: [Briefcase, Priming, Records, Resource, offline]
 ---
-
-# Briefcase Priming Records Resource
 
 > Get a list of records related to an offline briefcase.
 

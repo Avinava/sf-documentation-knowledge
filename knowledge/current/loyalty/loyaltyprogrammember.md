@@ -5,12 +5,10 @@ topic: loyaltyprogrammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.100Z
+lastCollected: 2026-04-07T18:38:10.363Z
 estimatedTokens: 1823
-keywords: [LoyaltyProgramMember, member, belongs, loyalty, program, individual, corporate, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyProgramMember, member, belongs, loyalty, program, individual, corporate, API, 51.0]
 ---
-
-# LoyaltyProgramMember
 
 > Represents information about member who belongs to a loyalty program.
       The member can be individual or corporate type. This object is available in API version

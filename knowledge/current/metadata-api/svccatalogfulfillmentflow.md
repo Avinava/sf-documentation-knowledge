@@ -5,12 +5,10 @@ topic: svccatalogfulfillmentflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.551Z
+lastCollected: 2026-04-07T18:36:29.964Z
 estimatedTokens: 986
-keywords: [SvcCatalogFulfillmentFlow, flow, associated, specific, catalog, item, Service, File, Suffix, Directory, Location, Version, SvcCatalogFulfillFlowItem, Declarative, Metadata]
+keywords: [SvcCatalogFulfillmentFlow, SvcCatalogFulfillFlowItem, flow, specific, catalog, item, Service, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SvcCatalogFulfillmentFlow
 
 > Represents the flow associated with a specific catalog item in the Service
     Catalog.

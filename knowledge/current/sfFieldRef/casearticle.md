@@ -5,12 +5,10 @@ topic: casearticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.902Z
+lastCollected: 2026-04-07T18:39:33.315Z
 estimatedTokens: 322
-keywords: [CaseArticle, association, Case, KnowledgeArticle, API, version, 20.0, later]
+keywords: [CaseArticle, association, Case, KnowledgeArticle, API, 20.0]
 ---
-
-# CaseArticle
 
 > Represents the association between a Case and
         a KnowledgeArticle.

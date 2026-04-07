@@ -5,12 +5,10 @@ topic: relationships-among-standard-objects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.085Z
+lastCollected: 2026-04-07T18:38:23.955Z
 estimatedTokens: 1308
-keywords: [Relationships, Among, Standard, Objects, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
+keywords: [Relationships, Among, Standard, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
-
-# Relationships Among Standard Objects and Fields
 
 > Where possible, we changed noninclusive terms to align with our company
       value of Equality. We maintained certain terms to avoid any effect on customer

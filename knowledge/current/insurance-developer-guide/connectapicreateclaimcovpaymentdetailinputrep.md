@@ -5,12 +5,10 @@ topic: connectapicreateclaimcovpaymentdetailinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.852Z
+lastCollected: 2026-04-07T18:37:49.731Z
 estimatedTokens: 318
-keywords: [Input, representation, creating, claim, coverage, payment, detail, record]
+keywords: [creating, claim, coverage, payment, detail, record]
 ---
-
-# ConnectApi.CreateClaimCovPaymentDetailInputRep
 
 > Input representation for creating a claim coverage payment detail record.
 

@@ -5,12 +5,10 @@ topic: vpl-createcustomerinteractiontopicinos
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.277Z
+lastCollected: 2026-04-07T18:38:11.593Z
 estimatedTokens: 130
-keywords: [VPL-CreateCustomerInteractionTopicInOS, Integration, Procedure, creates, topic, customer, interaction, Sample, Input, Output, Calls]
+keywords: [VPL-CreateCustomerInteractionTopicInOS, Integration, Procedure, creates, topic, customer, interaction, Sample]
 ---
-
-# VPL-CreateCustomerInteractionTopicInOS
 
 > This Integration Procedure creates a topic ID for a customer
                       interaction.

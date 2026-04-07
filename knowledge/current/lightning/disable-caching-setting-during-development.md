@@ -5,12 +5,10 @@ topic: disable-caching-setting-during-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.831Z
+lastCollected: 2026-04-07T18:38:03.920Z
 estimatedTokens: 268
-keywords: [Disable, Caching, Setting, Development, secure, persistent, browser, sandbox, Developer, Edition, org, effect, any, code, changes]
+keywords: [Disable, Caching, Setting, Development, secure, persistent, browser, sandbox, Developer, Edition, org, effect, any, code, changes, needing, empty, cache]
 ---
-
-# Disable Caching Setting During Development
 
 > Disable the secure and persistent browser caching setting during development in a
         sandbox or Developer Edition org to see the effect of any code changes without needing to

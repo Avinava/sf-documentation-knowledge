@@ -5,12 +5,10 @@ topic: using-a-custom-doctype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.089Z
+lastCollected: 2026-04-07T18:38:52.393Z
 estimatedTokens: 667
-keywords: [Custom, Doctype, specify, different, “doctype”, document, DTD, Visualforce, attribute, <apex, page>, tag, changes, declaration, beginning]
+keywords: [Doctype, specify, different, “doctype”, document, DTD, Visualforce, attribute, <apex, page>, tag, changes, declaration, beginning, particularly, useful, you’re, working, HTML5, allow, address, browser, compatibility, issues]
 ---
-
-# Using a Custom Doctype
 
 > You can specify a different “doctype” (document type, or DTD) for a Visualforce page by using the docType attribute on the <apex:page> tag. This changes the doctype
         declaration at the beginning of the page. This is particularly useful if you’re working with

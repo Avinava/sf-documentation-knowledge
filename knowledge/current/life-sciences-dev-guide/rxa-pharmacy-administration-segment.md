@@ -5,12 +5,10 @@ topic: rxa---pharmacy-administration-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.007Z
+lastCollected: 2026-04-07T18:37:58.533Z
 estimatedTokens: 494
-keywords: [RXA, Pharmacy, Administration, Segment, HL7, maps, primarily, PatientImmunization, Medication, objects, Salesforce, V2.3, Clinical, Data, Model]
+keywords: [RXA, Pharmacy, Administration, Segment, HL7, maps, primarily, PatientImmunization, Medication, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# RXA - Pharmacy Administration Segment
 
 > The Pharmacy Administration Segment (RXA) HL7 segment maps primarily to the PatientImmunization and Medication objects in Salesforce.
 

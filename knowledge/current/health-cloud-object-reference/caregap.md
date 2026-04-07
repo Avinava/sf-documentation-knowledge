@@ -5,12 +5,10 @@ topic: caregap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:57.217Z
+lastCollected: 2026-04-07T18:37:45.695Z
 estimatedTokens: 1511
-keywords: [CareGap, gaps, patient, care, period, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [CareGap, gaps, patient, care, period, API, 59.0]
 ---
-
-# CareGap
 
 > Represents gaps in patient care through a specified period. This object is
          available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: search-suggested-article-title-matches
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.978Z
+lastCollected: 2026-04-07T18:37:54.277Z
 estimatedTokens: 1294
-keywords: [Search, Suggested, Article, Title, Matches, Salesforce, Knowledge, titles, match, user’s, query, shortcut, navigate, directly, likely]
+keywords: [Search, Suggested, Article, Title, Matches, Salesforce, Knowledge, titles, match, user’s, query, shortcut, navigate, directly, likely, relevant, articles, user, performs, resource, REST, API, 30.0]
 ---
-
-# Search Suggested Article Title Matches
 
 > Returns a list of Salesforce Knowledge
       article titles that match the user’s search query string. Provides a shortcut to

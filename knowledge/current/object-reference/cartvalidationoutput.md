@@ -5,12 +5,10 @@ topic: cartvalidationoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.545Z
+lastCollected: 2026-04-07T18:38:27.540Z
 estimatedTokens: 1061
-keywords: [CartValidationOutput, Associate, errors, cart, entities, line, items, delivery, groups, store, built, B2B, Commerce, D2C, error]
+keywords: [CartValidationOutput, Associate, errors, cart, entities, line, items, delivery, groups, store, built, B2B, Commerce, D2C, error, “Out, stock.”, API, 49.0]
 ---
-
-# CartValidationOutput
 
 > Associate errors to cart entities, such as cart line items, delivery
          groups, and the like, in a store built with B2B Commerce or D2C Commerce. An example error

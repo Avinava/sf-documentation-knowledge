@@ -5,12 +5,10 @@ topic: embeddedservicemenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:47.162Z
+lastCollected: 2026-04-07T18:36:32.627Z
 estimatedTokens: 1023
-keywords: [EmbeddedServiceMenuItem, needed, configure, Channel, Menu, item, API, version, 47.0, later, SOAP, Calls, Special, Access, Rules]
+keywords: [EmbeddedServiceMenuItem, needed, configure, Channel, Menu, item, API, 47.0, SOAP]
 ---
-
-# EmbeddedServiceMenuItem
 
 > Represents the information needed to configure a Channel Menu item. This
     object is available in API version 47.0 and later.

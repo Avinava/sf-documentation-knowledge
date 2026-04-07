@@ -5,12 +5,10 @@ topic: lens-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.789Z
+lastCollected: 2026-04-07T18:36:56.330Z
 estimatedTokens: 209
-keywords: [Lens, File, Resource, updates, part, Analytics, URL, Formats, Version, HTTP, PUT]
+keywords: [Formats, Lens, File, Resource, updates, part, Analytics, URL, HTTP, PUT]
 ---
-
-# Lens File Resource
 
 > Returns or updates a file that is part of an Analytics
       lens.

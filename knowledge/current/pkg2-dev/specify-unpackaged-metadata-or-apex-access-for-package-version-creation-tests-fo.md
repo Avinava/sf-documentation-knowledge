@@ -6,13 +6,10 @@ topic: specify-unpackaged-metadata-or-apex-access-for-package-version-creation-t
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.996Z
+lastCollected: 2026-04-07T18:38:56.657Z
 estimatedTokens: 399
-keywords: [Specify, Unpackaged, Metadata, Apex, Access, Package, Version, Creation, Tests, Second-Generation, Managed, Packages, scenarios, require, isn’t]
+keywords: [Specify, Unpackaged, Metadata, Apex, Package, Creation, Tests, Second-Generation, Managed, Packages, scenarios, require, isn’t, part, necessary, test, runs, path, containing, sfdx-project.json, file, included, installed, subscriber, orgs, Manage]
 ---
-
-# Specify Unpackaged Metadata or Apex Access for Package Version Creation Tests for
-        Second-Generation Managed Packages
 
 > For scenarios where you require metadata that isn’t part of your
             second-generation managed package, but is necessary for Apex test runs, you can specify

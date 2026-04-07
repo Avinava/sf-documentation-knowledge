@@ -5,12 +5,10 @@ topic: daily-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.371Z
+lastCollected: 2026-04-07T18:36:56.905Z
 estimatedTokens: 70
 keywords: [Daily, Schedule, Specify, Analytics, asset]
 ---
-
-# Daily Schedule
 
 > Specify a daily schedule for an Analytics asset.
 

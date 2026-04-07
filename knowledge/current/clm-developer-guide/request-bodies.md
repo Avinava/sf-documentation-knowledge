@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.567Z
+lastCollected: 2026-04-07T18:37:24.572Z
 estimatedTokens: 1429
 keywords: [Bodies, Here’s, Salesforce, Contracts, API]
 ---
-
-# Request Bodies
 
 > Here’s a list of Salesforce Contracts API request bodies.
 

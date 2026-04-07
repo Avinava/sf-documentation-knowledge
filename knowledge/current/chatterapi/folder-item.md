@@ -5,12 +5,10 @@ topic: folder-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.345Z
+lastCollected: 2026-04-07T18:37:19.487Z
 estimatedTokens: 144
 keywords: [Folder, Item, file]
 ---
-
-# Folder Item
 
 > Description of an item (file or folder) in a folder.
 

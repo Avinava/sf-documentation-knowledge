@@ -5,12 +5,10 @@ topic: appexchange-security-review-for-your-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.353Z
+lastCollected: 2026-04-07T18:38:46.216Z
 estimatedTokens: 277
 keywords: [AppExchange, Security, Review, Solution, tests, posture, subject, pass, publicly, distribute]
 ---
-
-# AppExchange Security Review for Your Solution
 
 > The AppExchange security review tests the security posture of your solution. If your
   solution is subject to review, it must pass before you can publicly distribute it on

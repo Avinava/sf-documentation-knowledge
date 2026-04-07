@@ -5,13 +5,11 @@ topic: healthcloudext-namespace-for-intelligent-appointment-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.393Z
+lastCollected: 2026-04-07T18:37:40.371Z
 estimatedTokens: 1014
 namespace: HealthCloudExt
 keywords: [HealthCloudExt, Intelligent, Appointment, Management, classes, Health, Cloud, integrate, source, electronic, records, EHR, system]
 ---
-
-# HealthCloudExt Namespace for Intelligent Appointment Management
 
 > The HealthCloudExt namespace provides an
     interface and classes for Health Cloud to integrate with a source electronic health records

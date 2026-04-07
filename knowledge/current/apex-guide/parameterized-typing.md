@@ -5,12 +5,10 @@ topic: parameterized-typing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.437Z
+lastCollected: 2026-04-07T18:36:19.653Z
 estimatedTokens: 171
-keywords: [Parameterized, Typing, Apex, general, statically-typed, programming, language, means, users, specify, data, variable, Subtyping]
+keywords: [Parameterized, Typing, Apex, general, statically-typed, programming, language, means, users, specify, variable, Subtyping]
 ---
-
-# Parameterized Typing
 
 > Apex, in general, is a statically-typed programming language, which means users must
         specify the data type for a variable before that variable can be used.

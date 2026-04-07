@@ -5,12 +5,10 @@ topic: converting-a-page-to-a-pdf-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.820Z
+lastCollected: 2026-04-07T18:38:52.126Z
 estimatedTokens: 496
-keywords: [Converting, PDF, File, previous, tutorial, Visualforce, change, company, Suppose, wanted, generate, announcement, new, produces, along]
+keywords: [Converting, PDF, File, previous, tutorial, Visualforce, change, company, Suppose, wanted, generate, announcement, new, produces, along, current, date, time]
 ---
-
-# Converting a Page to a PDF File
 
 > In the previous tutorial, you used a Visualforce page to change the name of a company. Suppose you wanted to generate
 an announcement of the new name as a PDF. The following example produces

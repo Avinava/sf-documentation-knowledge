@@ -5,12 +5,10 @@ topic: enum-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.739Z
+lastCollected: 2026-04-07T18:36:14.042Z
 estimatedTokens: 257
-keywords: [abstract, data, take, finite, identifiers, specify, Apex, built-in, enums, LoggingLevel, define, own]
+keywords: [abstract, take, finite, identifiers, specify, Apex, built-in, enums, LoggingLevel, define, own]
 ---
-
-# Enum Methods
 
 > An enum is an abstract data type with values that each take on exactly one of a finite
   set of identifiers that you specify. Apex provides built-in enums, such as LoggingLevel, and you can define your own enum.

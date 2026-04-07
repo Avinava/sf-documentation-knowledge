@@ -5,12 +5,10 @@ topic: underlying-concepts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.285Z
+lastCollected: 2026-04-07T18:39:17.967Z
 estimatedTokens: 178
 keywords: [Underlying, Concepts]
 ---
-
-# Underlying Concepts
 
 # Underlying Concepts
 

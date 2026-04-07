@@ -5,12 +5,10 @@ topic: automated-key-provisioning-with-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.334Z
+lastCollected: 2026-04-07T18:40:13.267Z
 estimatedTokens: 351
-keywords: [Automated, Key, Provisioning, Service, Cloud, Voice, Partner, Telephony, contact, center, created, connected, system, provisioned, automatically]
+keywords: [Automated, Key, Provisioning, Service, Cloud, Voice, Partner, Telephony, contact, center, created, connected, system, provisioned, automatically, Apex, call]
 ---
-
-# Automated Key Provisioning with Service Cloud Voice for Partner Telephony
 
 > When a contact center is created and connected with the partner telephony system, the
         public key for the contact center can be provisioned automatically with an Apex call to the

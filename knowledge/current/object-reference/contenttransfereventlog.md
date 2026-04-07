@@ -5,12 +5,10 @@ topic: contenttransfereventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.762Z
+lastCollected: 2026-04-07T18:38:28.672Z
 estimatedTokens: 487
-keywords: [ContentTransferEventLog, stores, content, transfer, events, downloads, uploads, previews, includes, performed, files, attachments, records, API, version]
+keywords: [ContentTransferEventLog, stores, content, transfer, events, downloads, uploads, previews, includes, performed, files, attachments, records, API, 62.0]
 ---
-
-# ContentTransferEventLog
 
 > ContentTransferEventLog stores information about content transfer events,
          such as downloads, uploads, and previews. This information includes events performed on

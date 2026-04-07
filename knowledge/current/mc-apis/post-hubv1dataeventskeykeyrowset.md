@@ -5,12 +5,10 @@ topic: post-hubv1dataeventskeykeyrowset
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.002Z
+lastCollected: 2026-04-07T18:40:18.190Z
 estimatedTokens: 675
-keywords: [POST, hub, dataevents, key, rowset, API, upserts, multiple, data, extension, rows, synchronous, call, maximum, payload]
+keywords: [POST, hub, dataevents, key, rowset, API, upserts, multiple, extension, rows, synchronous, call, maximum, payload, size, best, practice, columns, records, time, **Overview**]
 ---
-
-# POST /hub/v1/dataevents/key:{key}/rowset
 
 > The API upserts multiple data extension rows in a single synchronous call. The maximum payload size is 5 MB. As a best practice, post a maximum of 50 columns and 50 records at a time.
 

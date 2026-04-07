@@ -5,12 +5,10 @@ topic: compliancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.888Z
+lastCollected: 2026-04-07T18:36:44.595Z
 estimatedTokens: 1063
-keywords: [CompliancePolicy, internal, policies, organization, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [CompliancePolicy, internal, policies, organization, API, 65.0]
 ---
-
-# CompliancePolicy
 
 > Represents information on internal policies of the organization. This
       object is available in API version 65.0 and later.

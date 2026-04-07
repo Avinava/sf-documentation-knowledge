@@ -5,12 +5,10 @@ topic: retrieve-all-links-for-a-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.592Z
+lastCollected: 2026-04-07T18:40:18.791Z
 estimatedTokens: 959
-keywords: [Retrieve, Links, Send, retrieving, Why, How, Sample, NET, Code, Output, PHP]
+keywords: [Retrieve, Links, Send, retrieving, Why, How, Sample, NET, Code, PHP]
 ---
-
-# Retrieve All Links for a Send
 
 > This page contains information  about retrieving all links for a send.
 

@@ -5,12 +5,10 @@ topic: card-payment-method-tokenization-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.781Z
+lastCollected: 2026-04-07T18:37:07.496Z
 estimatedTokens: 175
-keywords: [Card, Payment, Tokenization, Input, Credit]
+keywords: [Card, Payment, Tokenization, Credit]
 ---
-
-# Card Payment Method Tokenization Input
 
 > Credit card payment method input for tokenization.
 

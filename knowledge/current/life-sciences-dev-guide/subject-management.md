@@ -5,12 +5,10 @@ topic: subject-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.877Z
+lastCollected: 2026-04-07T18:37:57.419Z
 estimatedTokens: 195
-keywords: [Subject, Management, Subjects, organize, manage, across, various, functions, Users, add, topics, medical, inquiries, facilitating, automatic]
+keywords: [Subject, Management, Subjects, organize, manage, across, various, functions, Users, add, topics, medical, inquiries, facilitating, automatic, queue, assignments, building, knowledge, repository, applied, insights, email, templates, easy, searching, filtering]
 ---
-
-# Subject Management
 
 > Use Subjects to organize and manage information across various functions. Users can add
   topics to medical inquiries as subjects, facilitating automatic queue assignments and building a

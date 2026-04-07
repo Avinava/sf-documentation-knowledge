@@ -5,12 +5,10 @@ topic: understanding-relationship-query-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.926Z
+lastCollected: 2026-04-07T18:40:09.870Z
 estimatedTokens: 807
 keywords: [Understanding, Relationship, Query, Limitations, design, SOQL, queries, there, several, consider]
 ---
-
-# Understanding Relationship Query Limitations
 
 > When you design SOQL relationship queries, there are several limitations to
     consider.

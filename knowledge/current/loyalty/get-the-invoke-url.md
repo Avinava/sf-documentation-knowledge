@@ -5,12 +5,10 @@ topic: get-the-invoke-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.856Z
+lastCollected: 2026-04-07T18:38:09.150Z
 estimatedTokens: 274
-keywords: [Invoke, URL, API, select, deployment, stage, deploy, members, upload, their, receipts, loyalty, points, Endpoint, custom]
+keywords: [Invoke, URL, API, select, deployment, stage, deploy, members, upload, their, receipts, loyalty, points, Endpoint, setting, Remote, Site, AWS, Gateway]
 ---
-
-# Get the Invoke URL
 
 > After you create the API and select a deployment stage, deploy the API so that members
   can upload their receipts and get loyalty points. This invoke URL is used to create the API

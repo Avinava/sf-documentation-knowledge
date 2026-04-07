@@ -5,12 +5,10 @@ topic: load-javascript-files-from-third-party-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.511Z
+lastCollected: 2026-04-07T18:38:47.460Z
 estimatedTokens: 573
-keywords: [Load, JavaScript, Files, Third-Party, Endpoints, Avoid, dynamically, loading, content, delivery, networks, CDNs, Instead, code, resources]
+keywords: [Load, JavaScript, Files, Third-Party, Endpoints, Avoid, dynamically, loading, content, delivery, networks, CDNs, Instead, code, resources, folder, package, Visualforce, Aura]
 ---
-
-# Load JavaScript Files from Third-Party Endpoints
 
 > Avoid dynamically loading third-party JavaScript files from content delivery networks
     (CDNs). Instead, load the code from the static resources folder of your package.

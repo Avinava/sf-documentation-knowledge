@@ -5,12 +5,10 @@ topic: group-appointments-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.804Z
+lastCollected: 2026-04-07T18:37:08.622Z
 estimatedTokens: 449
-keywords: [Group, Appointments, Input, representation, criteria, filter, retrieve]
+keywords: [Group, Appointments, criteria, filter, retrieve]
 ---
-
-# Group Appointments Input
 
 > Input representation of the criteria to filter and retrieve group
     appointments.

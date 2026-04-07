@@ -5,12 +5,10 @@ topic: group-membership-operations-and-sharing-recalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.737Z
+lastCollected: 2026-04-07T18:37:28.818Z
 estimatedTokens: 1040
-keywords: [Group, Membership, Operations, Sharing, Recalculation, Salesforce, role, hierarchy, groups, territories, closely, connected, rules, security, features]
+keywords: [Group, Membership, Operations, Sharing, Recalculation, Salesforce, role, hierarchy, groups, territories, closely, connected, security, features, Because, relationships, seemingly, simple, changes, sometimes, involve, substantial, recalculations, users, rights]
 ---
-
-# Group Membership Operations and Sharing Recalculation
 
 > The Salesforce role hierarchy, public groups, and territories are closely connected to
       sharing rules and other security features. Because of these relationships, seemingly simple

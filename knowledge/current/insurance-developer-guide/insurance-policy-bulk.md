@@ -5,12 +5,10 @@ topic: insurance-policy-bulk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.391Z
+lastCollected: 2026-04-07T18:37:52.574Z
 estimatedTokens: 164
-keywords: [Insurance, Policy, Bulk, Output, representation, renew, cancel, requests]
+keywords: [Insurance, Policy, Bulk, renew, cancel, requests]
 ---
-
-# Insurance Policy Bulk
 
 > Output representation details of bulk renew policy and bulk cancel policy
     requests.

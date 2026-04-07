@@ -5,12 +5,10 @@ topic: orderitemrecipienthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.621Z
+lastCollected: 2026-04-07T18:39:51.033Z
 estimatedTokens: 269
-keywords: [OrderItemRecipientHistory, History, tracked, OrderItemRecipient]
+keywords: [OrderItemRecipientHistory, tracked, OrderItemRecipient]
 ---
-
-# OrderItemRecipientHistory
 
 > History for tracked fields of OrderItemRecipient.
 

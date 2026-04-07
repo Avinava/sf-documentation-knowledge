@@ -5,12 +5,10 @@ topic: changerequestcnfgitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.084Z
+lastCollected: 2026-04-07T18:35:55.184Z
 estimatedTokens: 412
-keywords: [ChangeRequestCnfgItem, relationship, change, configuration, item, API, version, 65.0, later, Calls]
+keywords: [ChangeRequestCnfgItem, relationship, change, configuration, item, API, 65.0]
 ---
-
-# ChangeRequestCnfgItem
 
 > Represents the relationship between a change request and a configuration item
          reference. This object is available in API version 65.0 and later.

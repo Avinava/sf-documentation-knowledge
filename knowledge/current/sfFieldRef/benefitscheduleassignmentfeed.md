@@ -5,12 +5,10 @@ topic: benefitscheduleassignmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.130Z
+lastCollected: 2026-04-07T18:39:29.239Z
 estimatedTokens: 393
-keywords: [BenefitScheduleAssignmentFeed, Feed, tracking, BenefitScheduleAssignment]
+keywords: [BenefitScheduleAssignmentFeed, BenefitScheduleAssignment]
 ---
-
-# BenefitScheduleAssignmentFeed
 
 > Feed tracking for BenefitScheduleAssignment.
 

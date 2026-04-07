@@ -5,12 +5,10 @@ topic: user-defined-data-sources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.062Z
+lastCollected: 2026-04-07T18:40:22.449Z
 estimatedTokens: 238
-keywords: [User-Defined, Data, Sources, Template, Language, offers, two]
+keywords: [User-Defined, Sources, Template, Language, offers, two]
 ---
-
-# User-Defined Data Sources
 
 > Guide Template Language offers two types of user-defined data sources:
 

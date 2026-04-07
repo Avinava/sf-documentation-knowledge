@@ -5,12 +5,10 @@ topic: fhir-coding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.666Z
+lastCollected: 2026-04-07T18:37:41.787Z
 estimatedTokens: 436
-keywords: [FHIR, Coding, output, representation, Code, records, created, represent]
+keywords: [FHIR, Coding, Code, records, created, represent]
 ---
-
-# FHIR Coding
 
 > The output representation of the Code Set records created to represent
       a Coding value.

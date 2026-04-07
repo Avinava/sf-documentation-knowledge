@@ -5,12 +5,10 @@ topic: amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.924Z
+lastCollected: 2026-04-07T18:36:04.138Z
 estimatedTokens: 73
 keywords: [amount, total, postauthorization]
 ---
-
-# amount
 
 > The total amount of the postauthorization request.
 

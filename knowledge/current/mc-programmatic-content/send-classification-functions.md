@@ -5,12 +5,10 @@ topic: send-classification-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.392Z
+lastCollected: 2026-04-07T18:40:23.820Z
 estimatedTokens: 78
-keywords: [Send, Classification, Functions, Server-side, JavaScript, retrieve, classifications, part, email, Load]
+keywords: [Load, Send, Classification, Functions, Server-side, JavaScript, retrieve, classifications, part, email]
 ---
-
-# Send Classification Functions
 
 > Use the Send Classification Server-side JavaScript functions to retrieve information on the send classifications used as part of the email sends.
 

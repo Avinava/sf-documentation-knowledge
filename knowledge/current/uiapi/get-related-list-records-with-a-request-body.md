@@ -5,12 +5,10 @@ topic: get-related-list-records-with-a-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.493Z
+lastCollected: 2026-04-07T18:40:11.487Z
 estimatedTokens: 276
-keywords: [Records, record, data, resource, uses, POST, let, enter, instead, URL]
+keywords: [Records, record, resource, uses, POST, let, enter, instead, URL]
 ---
-
-# Get Related List Records with a Request Body
 
 > Returns record data for up to 1,999 records in a related list. This
    resource uses the POST method to let you enter request parameters in the request body instead of

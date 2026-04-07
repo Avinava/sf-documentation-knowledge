@@ -5,12 +5,10 @@ topic: customer-engagement-metadata-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.653Z
+lastCollected: 2026-04-07T18:37:57.166Z
 estimatedTokens: 106
-keywords: [Customer, Engagement, Metadata, API, access, feature, settings, Life, Sciences, Cloud, customize, user]
+keywords: [Customer, Engagement, Metadata, API, feature, settings, Life, Sciences, Cloud, customize, user]
 ---
-
-# Customer Engagement Metadata Type
 
 > Metadata API enables you to access some types and feature settings for Customer
   Engagement for Life Sciences Cloud that you can customize in the user interface.

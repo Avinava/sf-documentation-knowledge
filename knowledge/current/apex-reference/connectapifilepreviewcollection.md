@@ -5,12 +5,10 @@ topic: connectapifilepreviewcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.946Z
+lastCollected: 2026-04-07T18:36:09.338Z
 estimatedTokens: 149
 keywords: [ConnectApi.FilePreviewCollection, collection, file, previews]
 ---
-
-# ConnectApi.FilePreviewCollection
 
 > A collection of file previews.
 

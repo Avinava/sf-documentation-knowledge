@@ -5,12 +5,10 @@ topic: liveagentclientchatalertmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.809Z
+lastCollected: 2026-04-07T18:38:50.023Z
 estimatedTokens: 645
-keywords: [liveAgent, clientChatAlertMessage, area, Live, Agent, chat, window, displays, system, alert, messages, disconnected, Attributes]
+keywords: [Attributes, liveAgent, clientChatAlertMessage, area, Live, Agent, chat, window, displays, system, alert, messages, disconnected]
 ---
-
-# liveAgent:clientChatAlertMessage
 
 > The area in a Live Agent chat window that displays system alert messages (such as "You have been disconnected").
 

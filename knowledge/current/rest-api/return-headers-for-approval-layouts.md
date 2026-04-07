@@ -5,12 +5,10 @@ topic: return-headers-for-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.975Z
+lastCollected: 2026-04-07T18:36:21.202Z
 estimatedTokens: 157
-keywords: [Approval, Layouts, sObject, ApprovalLayouts, resources, gives, chance, retrieving, content, resource, REST, API, version, 30.0, later]
+keywords: [Approval, Layouts, sObject, ApprovalLayouts, resources, gives, chance, retrieving, content, resource, REST, API, 30.0]
 ---
-
-# Return Headers for Approval Layouts
 
 > Returns only the headers that are returned by a GET request to sObject ApprovalLayouts
 		resources. This gives you a chance to see header values before retrieving the content of the

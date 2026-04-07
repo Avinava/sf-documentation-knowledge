@@ -5,12 +5,10 @@ topic: cgcloudcpcalculationschemac
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.820Z
+lastCollected: 2026-04-07T18:39:13.230Z
 estimatedTokens: 1341
-keywords: [cgcloud__CP_Calculation_Schema__c, calculation, schema, complex, pricing, API, version, 54.0, later, cgcloud, _CP, _Calculation, _Schema, Calls, Associated]
+keywords: [cgcloud__CP_Calculation_Schema__c, calculation, schema, complex, pricing, API, 54.0, cgcloud, _CP, _Calculation, _Schema]
 ---
-
-# cgcloud__CP_Calculation_Schema__c
 
 > The calculation schema object is used for complex pricing. This
       object is available in API version 54.0 and later.

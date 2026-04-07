@@ -5,12 +5,10 @@ topic: visualforce-remote-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.851Z
+lastCollected: 2026-04-07T18:38:52.161Z
 estimatedTokens: 393
-keywords: [Visualforce, Remote, Objects, JavaScript, remoting, popular, powerful, efficient, building, Web, apps, especially, creating, pages, Salesforce]
+keywords: [Visualforce, Remote, JavaScript, remoting, popular, powerful, efficient, building, Web, apps, especially, creating, pages, Salesforce, mobile, app, working, libraries, jQuery, AngularJS, proxy, enable, basic, DML, operations, sObjects, directly, remove, complexity, reducing, @RemoteAction, Apex, controller, extension]
 ---
-
-# Visualforce  Remote Objects
 
 > JavaScript remoting is a popular, powerful, and efficient method for building Web apps
     with Visualforce, especially for creating pages for use in the Salesforce mobile app or working

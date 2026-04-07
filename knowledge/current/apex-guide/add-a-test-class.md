@@ -5,12 +5,10 @@ topic: add-a-test-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.091Z
+lastCollected: 2026-04-07T18:36:18.315Z
 estimatedTokens: 1530
 keywords: [Add, Test, step, run, verify, code, coverage, exercises, validates, trigger, reach, 100%]
 ---
-
-# Add a Test Class
 
 > In this step, you add a test class with one test method. You also run the test and
         verify code coverage. The test method exercises and validates the code in the trigger and

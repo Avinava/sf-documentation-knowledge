@@ -5,12 +5,10 @@ topic: procedureplandefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.013Z
+lastCollected: 2026-04-07T18:35:50.876Z
 estimatedTokens: 887
-keywords: [ProcedurePlanDefinition, setup, unified, procedure, multiple, procedures, sequenced, any, order, business, needs, plan, definition, sections, subsections]
+keywords: [ProcedurePlanDefinition, setup, unified, procedure, multiple, procedures, sequenced, any, order, business, needs, plan, definition, sections, subsections, configured, lookup, rule-based, criteria, API, 62.0, SOAP, REST]
 ---
-
-# ProcedurePlanDefinition
 
 > Represents the setup of a unified procedure from a list of multiple
          procedures that can be sequenced in any order based on business needs. Each procedure plan

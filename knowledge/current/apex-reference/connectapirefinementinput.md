@@ -5,12 +5,10 @@ topic: connectapirefinementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.923Z
+lastCollected: 2026-04-07T18:36:06.270Z
 estimatedTokens: 208
-keywords: [ConnectApi.RefinementInput, Attribute-based, refinement, input, product, search]
+keywords: [ConnectApi.RefinementInput, Attribute-based, refinement, product, search]
 ---
-
-# ConnectApi.RefinementInput
 
 > Attribute-based refinement input for product search.
 

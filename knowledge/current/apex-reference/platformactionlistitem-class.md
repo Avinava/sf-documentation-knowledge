@@ -5,13 +5,11 @@ topic: platformactionlistitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.181Z
+lastCollected: 2026-04-07T18:36:00.457Z
 estimatedTokens: 887
 namespace: Metadata
-keywords: [PlatformActionListItem, action, platform, layout, Usage, actionName, actionType, sortOrder, subtype, clone]
+keywords: [PlatformActionListItem, action, platform, layout, actionName, actionType, sortOrder, subtype, clone]
 ---
-
-# PlatformActionListItem Class
 
 > Represents an action in the platform action list for a
     layout.

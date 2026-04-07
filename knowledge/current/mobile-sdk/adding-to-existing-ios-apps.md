@@ -5,12 +5,10 @@ topic: adding-to-existing-ios-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.170Z
+lastCollected: 2026-04-07T18:40:25.534Z
 estimatedTokens: 378
-keywords: [Adding, iOS, Apps, easily, upgrade, projects, support, Mobile, Sync, forceios, new, project, add, assets, However]
+keywords: [Adding, iOS, Apps, easily, upgrade, projects, support, Mobile, Sync, forceios, new, project, add, assets, However, you’d, know, steps, upgrading, older, SDK, 6.0, you’re, right, place]
 ---
-
-# Adding  to Existing iOS Apps
 
 > You can easily upgrade existing iOS projects to support Mobile Sync: Just use forceios to
     create a new project, then add in your assets. However, if you’d like to know the steps for

@@ -5,12 +5,10 @@ topic: question-and-answers-suggestions-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.284Z
+lastCollected: 2026-04-07T18:37:15.322Z
 estimatedTokens: 305
 keywords: [Question, Answers, Suggestions, Resource]
 ---
-
-# Question and Answers Suggestions Resource
 
 > Get question and answers suggestions.
 

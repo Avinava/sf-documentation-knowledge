@@ -5,12 +5,10 @@ topic: appformproductcollateral
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.426Z
+lastCollected: 2026-04-07T18:37:36.162Z
 estimatedTokens: 1357
-keywords: [AppFormProductCollateral, physical, financial, asset, pledged, collateral, application, form, product, API, version, 65.0, later, Digital, Lending]
+keywords: [AppFormProductCollateral, physical, financial, asset, pledged, collateral, application, form, product, API, 65.0, Digital, Lending, permission]
 ---
-
-# AppFormProductCollateral
 
 > Represents a physical or financial asset that is pledged as collateral for an
          application form product. This object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: group-memberships-and-households-in-nonprofit-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.247Z
+lastCollected: 2026-04-07T18:38:22.258Z
 estimatedTokens: 206
-keywords: [Group, Memberships, Households, Nonprofit, Cloud, objects, APIs, uses]
+keywords: [Group, Memberships, Households, Nonprofit, Cloud, APIs, uses]
 ---
-
-# Group Memberships and Households in Nonprofit Cloud
 
 > This guide provides information about the Group Memberships objects and APIs that
     Nonprofit Cloud uses.

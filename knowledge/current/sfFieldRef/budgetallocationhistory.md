@@ -5,12 +5,10 @@ topic: budgetallocationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.109Z
+lastCollected: 2026-04-07T18:39:30.277Z
 estimatedTokens: 265
-keywords: [BudgetAllocationHistory, History, tracked, BudgetAllocation]
+keywords: [BudgetAllocationHistory, tracked, BudgetAllocation]
 ---
-
-# BudgetAllocationHistory
 
 > History for tracked fields of BudgetAllocation.
 

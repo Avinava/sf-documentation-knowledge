@@ -5,12 +5,10 @@ topic: connectapipresentationcontentinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.373Z
+lastCollected: 2026-04-07T18:37:54.703Z
 estimatedTokens: 145
-keywords: [Input, representation, creating, updating, presentation, content]
+keywords: [creating, updating, presentation, content]
 ---
-
-# ConnectApi.PresentationContentInputRepresentation
 
 > Input representation for creating or updating presentation
             content.

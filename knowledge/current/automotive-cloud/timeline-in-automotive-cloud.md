@@ -5,12 +5,10 @@ topic: timeline-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.095Z
+lastCollected: 2026-04-07T18:36:53.451Z
 estimatedTokens: 103
-keywords: [Timeline, Automotive, Cloud, configure, chronological, view, records, multiple, objects]
+keywords: [Timeline, Automotive, Cloud, configure, chronological, view, records, multiple]
 ---
-
-# Timeline in Automotive Cloud
 
 > Use Timeline to configure a chronological view of records from multiple
   objects.

@@ -5,12 +5,10 @@ topic: pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.626Z
+lastCollected: 2026-04-07T18:35:44.619Z
 estimatedTokens: 547
 keywords: [Pricing, POST, hydrate, context, instance, Provide, comprehensive, final, per, line, items, errors, any]
 ---
-
-# Pricing (POST)
 
 > Create and hydrate context instance in a single request. Provide a
       comprehensive response that contains final pricing details per line items and related errors,

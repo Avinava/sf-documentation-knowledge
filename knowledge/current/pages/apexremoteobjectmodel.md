@@ -5,12 +5,10 @@ topic: apexremoteobjectmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.298Z
+lastCollected: 2026-04-07T18:38:50.537Z
 estimatedTokens: 646
-keywords: [apex, remoteObjectModel, sObject, accessible, Visualforce, Remote, Objects, definition, include, shorthand, JavaScript, instead, full, API, especially]
+keywords: [Attributes, apex, remoteObjectModel, sObject, accessible, Visualforce, Remote, definition, include, shorthand, JavaScript, instead, full, API, especially, useful, organization, code]
 ---
-
-# apex:remoteObjectModel
 
 > Defines an sObject and its fields to make accessible using Visualforce Remote Objects. This definition can include a shorthand name for the object, which you can use in JavaScript instead of the full API name. This is especially useful if your organization has a namespace, and makes your code more m
 

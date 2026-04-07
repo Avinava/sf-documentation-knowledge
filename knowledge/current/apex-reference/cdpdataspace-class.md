@@ -5,13 +5,11 @@ topic: cdpdataspace-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.538Z
+lastCollected: 2026-04-07T18:35:55.675Z
 estimatedTokens: 745
 namespace: ConnectApi
-keywords: [CdpDataSpace, Data, spaces, getAllDataSpaces, batchSize, offset, orderBy, API, Version, Requires, Chatter, getDataSpace, idOrName]
+keywords: [CdpDataSpace, spaces, getAllDataSpaces, batchSize, offset, orderBy, API, Requires, Chatter, getDataSpace, idOrName]
 ---
-
-# CdpDataSpace Class
 
 > Get Data 360 data spaces.
 

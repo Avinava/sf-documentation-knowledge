@@ -5,12 +5,10 @@ topic: loyaltymembercurrencyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.763Z
+lastCollected: 2026-04-07T18:39:47.238Z
 estimatedTokens: 363
-keywords: [LoyaltyMemberCurrencyFeed, Feed, tracking, LoyaltyMemberCurrency]
+keywords: [LoyaltyMemberCurrencyFeed, LoyaltyMemberCurrency]
 ---
-
-# LoyaltyMemberCurrencyFeed
 
 > Feed tracking for LoyaltyMemberCurrency.
 

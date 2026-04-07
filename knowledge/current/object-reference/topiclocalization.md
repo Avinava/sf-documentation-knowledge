@@ -5,12 +5,10 @@ topic: topiclocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.119Z
+lastCollected: 2026-04-07T18:38:42.827Z
 estimatedTokens: 1358
-keywords: [TopicLocalization, translated, version, topic, localization, navigational, featured, topics, Experience, Cloud, sites, API, 33.0, later, Calls]
+keywords: [TopicLocalization, translated, topic, localization, navigational, featured, topics, Experience, Cloud, sites, API, 33.0]
 ---
-
-# TopicLocalization
 
 > Represents the translated version of a topic name. Topic
 			localization applies only to navigational and featured topics in Experience Cloud

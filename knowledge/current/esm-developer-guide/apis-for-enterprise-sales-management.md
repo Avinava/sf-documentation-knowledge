@@ -5,12 +5,10 @@ topic: apis-for-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:44.857Z
+lastCollected: 2026-04-07T18:37:32.018Z
 estimatedTokens: 4516
-keywords: [APIs, Enterprise, Sales, Management, manage, quotes, calling, corresponding, Integration, Procedures, Posting, Data, Procedure, API, Descriptions]
+keywords: [APIs, Enterprise, Sales, Management, manage, quotes, calling, corresponding, Integration, Procedures, Posting, Procedure, API, Descriptions]
 ---
-
-# APIs for Enterprise Sales Management
 
 > You can use the Enterprise Sales Management APIs
                       to create and manage enterprise quotes by calling corresponding Integration

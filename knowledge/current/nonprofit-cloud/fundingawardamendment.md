@@ -5,12 +5,10 @@ topic: fundingawardamendment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.863Z
+lastCollected: 2026-04-07T18:38:22.837Z
 estimatedTokens: 1081
-keywords: [FundingAwardAmendment, modification, scope, finances, previously, approved, award, API, version, 57.0, later, Calls, Special, Access, Rules]
+keywords: [FundingAwardAmendment, modification, scope, finances, previously, approved, award, API, 57.0]
 ---
-
-# FundingAwardAmendment
 
 > Represents a modification to the scope or finances of a previously approved award.
       This object is available in API version 57.0 and later.

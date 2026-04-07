@@ -5,12 +5,10 @@ topic: accountswitcheractivity-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.327Z
+lastCollected: 2026-04-07T18:40:26.633Z
 estimatedTokens: 244
 keywords: [AccountSwitcherActivity, extend, display, user, switching]
 ---
-
-# AccountSwitcherActivity Class
 
 > Use or extend the AccountSwitcherActivity class to display the user switching interface.
 

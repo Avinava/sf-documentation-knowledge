@@ -5,12 +5,10 @@ topic: installation-methods-for-appexchange-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.174Z
+lastCollected: 2026-04-07T18:38:46.027Z
 estimatedTokens: 638
-keywords: [Installation, AppExchange, Solutions, easier, prospects, install, solution, likely, they, become, paying, customers, listing, Partner, Console]
+keywords: [Installation, AppExchange, Solutions, easier, prospects, install, solution, likely, they, become, paying, customers, listing, Partner, Console, you’re, prompted, select, Offer, gives, best, experience]
 ---
-
-# Installation Methods for AppExchange Solutions
 
 > The easier it is for prospects to install your AppExchange solution, the more likely it
     is that they become paying customers. When you create your listing in the Partner Console,

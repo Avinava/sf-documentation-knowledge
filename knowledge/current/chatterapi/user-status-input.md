@@ -5,12 +5,10 @@ topic: user-status-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.811Z
+lastCollected: 2026-04-07T18:37:10.503Z
 estimatedTokens: 139
-keywords: [User, Status, Input]
+keywords: [User, Status]
 ---
-
-# User Status Input
 
 > User status input.
 

@@ -5,12 +5,10 @@ topic: scheduledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.844Z
+lastCollected: 2026-04-07T18:40:20.065Z
 estimatedTokens: 666
 keywords: [ScheduleDefinition, run-time, attributes, schedule, email, send, program, Items]
 ---
-
-# ScheduleDefinition
 
 > The ScheduleDefinition object is a run-time set of attributes used to schedule an email send or program.
 

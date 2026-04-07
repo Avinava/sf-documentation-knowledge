@@ -5,12 +5,10 @@ topic: fieldmappingrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.525Z
+lastCollected: 2026-04-07T18:36:33.005Z
 estimatedTokens: 452
-keywords: [FieldMappingRow, data, service, record, maps, org, SOAP, Calls, REST, HTTP]
+keywords: [FieldMappingRow, service, record, maps, org, SOAP, REST, HTTP]
 ---
-
-# FieldMappingRow
 
 > Represents a field in a data service
             record that maps to a field in an object record in the org.

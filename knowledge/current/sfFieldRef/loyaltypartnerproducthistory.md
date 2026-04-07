@@ -5,12 +5,10 @@ topic: loyaltypartnerproducthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.820Z
+lastCollected: 2026-04-07T18:39:47.300Z
 estimatedTokens: 271
-keywords: [LoyaltyPartnerProductHistory, History, tracked, LoyaltyPartnerProduct]
+keywords: [LoyaltyPartnerProductHistory, tracked, LoyaltyPartnerProduct]
 ---
-
-# LoyaltyPartnerProductHistory
 
 > History for tracked fields of LoyaltyPartnerProduct.
 

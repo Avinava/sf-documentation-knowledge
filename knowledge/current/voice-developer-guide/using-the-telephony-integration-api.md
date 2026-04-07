@@ -5,12 +5,10 @@ topic: using-the-telephony-integration-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.186Z
+lastCollected: 2026-04-07T18:40:13.131Z
 estimatedTokens: 1103
-keywords: [Telephony, Integration, API, programmatically, manage, voice, call, provided, Amazon, Connect, Lambda, functions, automatically, endpoints, perform]
+keywords: [Telephony, Integration, API, programmatically, manage, voice, call, provided, Amazon, Connect, Lambda, functions, automatically, endpoints, perform, APIs, separate]
 ---
-
-# Using the Telephony Integration API
 
 > The Telephony Integration API allows you to programmatically manage a voice call. The
   provided Amazon Connect Lambda functions automatically use these endpoints to perform telephony

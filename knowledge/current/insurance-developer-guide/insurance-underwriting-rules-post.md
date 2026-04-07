@@ -5,12 +5,10 @@ topic: insurance-underwriting-rules-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.656Z
+lastCollected: 2026-04-07T18:37:51.716Z
 estimatedTokens: 452
-keywords: [Insurance, Underwriting, Rules, POST, rule, root, product, selected, state, definition, transition]
+keywords: [Insurance, Underwriting, POST, rule, root, product, selected, state, definition, transition]
 ---
-
-# Insurance Underwriting Rules (POST)
 
 > Create an underwriting rule for a root product based on the selected state definition,
     transition, and object name.

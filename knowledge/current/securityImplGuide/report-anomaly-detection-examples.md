@@ -5,12 +5,10 @@ topic: report-anomaly-detection-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.733Z
+lastCollected: 2026-04-07T18:39:22.622Z
 estimatedTokens: 499
 keywords: [Report, Anomaly, Detection, Examples, several, illustrate, how, investigate, anomalous, events, thoroughly]
 ---
-
-# Report Anomaly Detection Examples
 
 > Here are several examples that illustrate how you can investigate anomalous report
     events thoroughly.

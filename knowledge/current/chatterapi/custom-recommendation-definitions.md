@@ -5,12 +5,10 @@ topic: custom-recommendation-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.348Z
+lastCollected: 2026-04-07T18:37:15.401Z
 estimatedTokens: 669
-keywords: [Custom, Recommendation, Definitions, definition]
+keywords: [Recommendation, Definitions, definition]
 ---
-
-# Custom Recommendation Definitions
 
 > Get a list of custom recommendation definitions or create a custom
       recommendation definition.

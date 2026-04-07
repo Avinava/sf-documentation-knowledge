@@ -5,12 +5,10 @@ topic: getchatlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.151Z
+lastCollected: 2026-04-07T18:36:49.220Z
 estimatedTokens: 542
-keywords: [getChatLog, chat, log, associated, specific, key, API, version, 29.0, later, Arguments, Sample, Code–Visualforce, customEvent, message]
+keywords: [Arguments, getChatLog, chat, log, specific, key, API, 29.0, Sample, Code–Visualforce, customEvent, message]
 ---
-
-# getChatLog()
 
 > Returns the chat log of a chat associated with a specific chat key. Available in API version 29.0 or
             later.

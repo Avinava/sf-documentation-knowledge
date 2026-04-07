@@ -5,12 +5,10 @@ topic: flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.572Z
+lastCollected: 2026-04-07T18:36:33.057Z
 estimatedTokens: 2682
-keywords: [Flow, retrieve, specific, versions, SOAP, Calls, REST, API, HTTP]
+keywords: [Flow, retrieve, specific, versions, SOAP, REST, API, HTTP]
 ---
-
-# Flow
 
 > Use the Flow object to retrieve and update
             specific flow versions.

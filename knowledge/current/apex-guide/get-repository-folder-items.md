@@ -5,12 +5,10 @@ topic: get-repository-folder-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.803Z
+lastCollected: 2026-04-07T18:36:19.031Z
 estimatedTokens: 137
 keywords: [Repository, Folder, Items, Call, collection]
 ---
-
-# Get Repository Folder Items
 
 > Call a method to get a collection of repository folder items.
 

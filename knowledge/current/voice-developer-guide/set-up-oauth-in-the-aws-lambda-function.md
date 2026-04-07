@@ -5,12 +5,10 @@ topic: set-up-oauth-in-the-aws-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.877Z
+lastCollected: 2026-04-07T18:40:12.827Z
 estimatedTokens: 2101
 keywords: [OAuth, AWS, Lambda, Function, instructions, describe, how, Amazon, Connect, instance]
 ---
-
-# Set Up OAuth in the AWS Lambda Function
 
 > These instructions describe how to set up OAuth on your Amazon Connect
     instance.

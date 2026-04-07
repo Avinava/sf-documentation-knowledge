@@ -5,12 +5,10 @@ topic: oci-future-inventory-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.028Z
+lastCollected: 2026-04-07T18:37:21.190Z
 estimatedTokens: 89
-keywords: [OCI, Future, Inventory, Output, expected, restock]
+keywords: [OCI, Future, Inventory, expected, restock]
 ---
-
-# OCI Future Inventory Output
 
 > An expected future inventory restock.
 

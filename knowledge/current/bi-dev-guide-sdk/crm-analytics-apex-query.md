@@ -5,12 +5,10 @@ topic: crm-analytics-apex-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.766Z
+lastCollected: 2026-04-07T18:37:01.374Z
 estimatedTokens: 505
-keywords: [CRM, Analytics, Apex, Query, data, any, Construct, well-formed, queries, builder]
+keywords: [CRM, Analytics, Apex, Query, any, Construct, well-formed, queries, builder]
 ---
-
-# CRM Analytics Apex Query
 
 > Query your data in CRM Analytics from any Apex class. Construct well-formed queries
   using the query builder.

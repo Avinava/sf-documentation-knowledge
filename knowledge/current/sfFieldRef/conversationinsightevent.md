@@ -5,12 +5,10 @@ topic: conversationinsightevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.409Z
+lastCollected: 2026-04-07T18:39:35.852Z
 estimatedTokens: 294
-keywords: [ConversationInsightEvent, Notifies, subscribers, whenever, Einstein, Insight, rule, triggered, API, version, 60.0, later]
+keywords: [ConversationInsightEvent, Notifies, subscribers, whenever, Einstein, Insight, rule, triggered, API, 60.0]
 ---
-
-# ConversationInsightEvent
 
 > Notifies subscribers whenever an Einstein Insight rule is
 			triggered. This object is available in API version 60.0 and later.

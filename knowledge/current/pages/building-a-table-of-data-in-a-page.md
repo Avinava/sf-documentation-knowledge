@@ -5,12 +5,10 @@ topic: building-a-table-of-data-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.764Z
+lastCollected: 2026-04-07T18:38:52.076Z
 estimatedTokens: 560
-keywords: [Building, Data, Visualforce, components, <apex, pageBlockTable>, dataTable>, allow, display, multiple, records, time, iterating, over, collection]
+keywords: [Building, Visualforce, <apex, pageBlockTable>, dataTable>, allow, display, multiple, records, time, iterating, over, collection, illustrate, concept, uses, comp]
 ---
-
-# Building a Table of Data in a Page
 
 > Some Visualforce components, such as
             <apex:pageBlockTable> or <apex:dataTable>, allow you to display information

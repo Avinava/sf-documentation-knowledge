@@ -5,12 +5,10 @@ topic: apexincludescript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.592Z
+lastCollected: 2026-04-07T18:38:49.736Z
 estimatedTokens: 512
-keywords: [apex, includeScript, link, JavaScript, library, Visualforce, component, injects, script, <head>, element, generated, HTML, Attributes]
+keywords: [Attributes, apex, includeScript, link, JavaScript, library, Visualforce, injects, script, <head>, generated, HTML]
 ---
-
-# apex:includeScript
 
 > A link to a JavaScript library that can be used in the Visualforce page. When specified, this component injects a script reference into the <head> element of the generated HTML page.
 

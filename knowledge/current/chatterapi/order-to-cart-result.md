@@ -5,12 +5,10 @@ topic: order-to-cart-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.400Z
+lastCollected: 2026-04-07T18:37:21.522Z
 estimatedTokens: 170
 keywords: [Order, Cart, Result, action, adding]
 ---
-
-# Order to Cart Result
 
 > Result of action adding an order to a cart.
 

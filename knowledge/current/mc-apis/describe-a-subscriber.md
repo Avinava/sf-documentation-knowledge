@@ -5,12 +5,10 @@ topic: describe-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.529Z
+lastCollected: 2026-04-07T18:40:16.672Z
 estimatedTokens: 1662
-keywords: [Describe, Subscriber, ExtendedProperties, include, base, attribute, metadata, call, ideally, suited, building, profile, center, Why, How]
+keywords: [Describe, Subscriber, ExtendedProperties, include, base, attribute, metadata, call, ideally, suited, building, profile, center, Why, How, Sample, NET, Code, PHP, SOAP, Envelope, Items]
 ---
-
-# Describe a Subscriber
 
 > The Subscriber object is the only object that returns both Properties and ExtendedProperties. Properties include the base Subscriber properties, and ExtendedProperties include subscriber attribute metadata. This call is ideally suited for building a profile center.
 

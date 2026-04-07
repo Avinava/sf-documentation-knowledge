@@ -5,12 +5,10 @@ topic: service-report-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.019Z
+lastCollected: 2026-04-07T18:36:46.886Z
 estimatedTokens: 915
-keywords: [Service, Report, Template, corresponding, templates, resource, REST, API, version, 40.0, later]
+keywords: [Service, Report, Template, corresponding, templates, resource, REST, API, 40.0]
 ---
-
-# Service Report Template
 
 > Returns information corresponding to one or more service report templates in field
   service. This resource is available in REST API version 40.0 and later.

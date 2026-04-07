@@ -5,12 +5,10 @@ topic: eligibility-rule-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.727Z
+lastCollected: 2026-04-07T18:36:39.440Z
 estimatedTokens: 167
-keywords: [Eligibility, Rule, Metadata, Output, representation]
+keywords: [Eligibility, Rule, Metadata]
 ---
-
-# Eligibility Rule Metadata
 
 > Output representation details of get eligibility rule metadata request.
 

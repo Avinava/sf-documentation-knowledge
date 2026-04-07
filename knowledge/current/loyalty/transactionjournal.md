@@ -5,12 +5,10 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.472Z
+lastCollected: 2026-04-07T18:38:10.735Z
 estimatedTokens: 3432
-keywords: [TransactionJournal, loyalty, transactions, track, activities, member, behavior, adjustments, API, version, 51.0, later, Calls, Usage, Associated]
+keywords: [TransactionJournal, loyalty, transactions, track, activities, member, behavior, adjustments, API, 51.0]
 ---
-
-# TransactionJournal
 
 > Represents information about loyalty transactions that track activities, member
       behavior, and adjustments. This object is available in API version 51.0 and later.

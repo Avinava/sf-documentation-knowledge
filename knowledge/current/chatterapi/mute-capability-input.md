@@ -5,12 +5,10 @@ topic: mute-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.364Z
+lastCollected: 2026-04-07T18:37:09.129Z
 estimatedTokens: 92
-keywords: [Mute, Capability, Input, unmute, feed, element]
+keywords: [Mute, Capability, unmute]
 ---
-
-# Mute Capability Input
 
 > Mute or unmute a feed element.
 

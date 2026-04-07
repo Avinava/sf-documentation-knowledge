@@ -5,12 +5,10 @@ topic: get-assessment-response-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.696Z
+lastCollected: 2026-04-07T18:36:35.164Z
 estimatedTokens: 518
-keywords: [Assessment, Summary, easy, flow, trigger, server-side, document, generation, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Assessment, Summary, easy, flow, trigger, server-side, document, generation, REST, HTTP]
 ---
-
-# Get Assessment Response Summary
 
 > Get Assessment Response Summary makes it easy to use a flow to trigger
       server-side document generation using Document Generation.

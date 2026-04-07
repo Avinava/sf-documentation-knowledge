@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-prediction-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.367Z
+lastCollected: 2026-04-07T18:36:59.843Z
 estimatedTokens: 180
-keywords: [Smart, Data, Discovery, Projected, Prediction, Settings]
+keywords: [Smart, Discovery, Projected, Prediction, Settings]
 ---
-
-# Smart Data Discovery Projected Prediction Settings
 
 > The settings for projected prediction fields.
 

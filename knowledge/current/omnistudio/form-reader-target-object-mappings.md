@@ -5,12 +5,10 @@ topic: form-reader-target-object-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.996Z
+lastCollected: 2026-04-07T18:36:39.686Z
 estimatedTokens: 169
-keywords: [Form, Reader, Target, Mappings, Output, representation, text, extracted, Salesforce, document]
+keywords: [Form, Reader, Target, Mappings, text, extracted, Salesforce, document]
 ---
-
-# Form Reader Target Object Mappings
 
 > Output representation of the mappings between the text extracted by
    the document reader and the Salesforce object.

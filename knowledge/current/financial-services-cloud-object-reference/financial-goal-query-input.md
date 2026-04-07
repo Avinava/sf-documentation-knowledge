@@ -5,12 +5,10 @@ topic: financial-goal-query-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.135Z
+lastCollected: 2026-04-07T18:37:34.695Z
 estimatedTokens: 307
-keywords: [Financial, Goal, Query, Input, goals, members, parent, record, Person, Account, Household]
+keywords: [Financial, Goal, Query, goals, members, parent, record, Person, Account, Household]
 ---
-
-# Financial Goal Query Input
 
 > Query input for financial goals and goal members based on a parent record ID. The parent
     can be a Person Account or Household.

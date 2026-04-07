@@ -5,12 +5,10 @@ topic: userfieldaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.366Z
+lastCollected: 2026-04-07T18:36:34.814Z
 estimatedTokens: 687
-keywords: [UserFieldAccess, access, current, user, Tooling, API, version, 34.0, later, SOQL, Limitations]
+keywords: [UserFieldAccess, current, user, Tooling, API, 34.0, SOQL, Limitations]
 ---
-
-# UserFieldAccess
 
 > Represents the access that the current user has to a field.
         Available in Tooling API version 34.0 and later.

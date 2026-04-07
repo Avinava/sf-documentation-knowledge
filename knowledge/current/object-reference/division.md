@@ -5,12 +5,10 @@ topic: division
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.029Z
+lastCollected: 2026-04-07T18:38:29.888Z
 estimatedTokens: 791
-keywords: [Division, logical, segment, organization's, data, company, organized, different, business, units, unit, “North, America, “Healthcare, “Consulting.”]
+keywords: [Division, logical, segment, organization's, company, organized, different, business, units, unit, “North, America, “Healthcare, “Consulting.”, organization, permission, enabled]
 ---
-
-# Division
 
 > A logical segment of your organization's data. For example, if your
    company is organized into different business units, you could create a division for each business

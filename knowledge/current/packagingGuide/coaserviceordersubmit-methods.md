@@ -5,12 +5,10 @@ topic: coaserviceordersubmit-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.831Z
+lastCollected: 2026-04-07T18:38:45.650Z
 estimatedTokens: 76
 keywords: [COA_ServiceOrderSubmit, COA, _ServiceOrderSubmit]
 ---
-
-# COA_ServiceOrderSubmit Methods
 
 > The following are methods for COA_ServiceOrderSubmit.
 

@@ -5,12 +5,10 @@ topic: instant-pricing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.362Z
+lastCollected: 2026-04-07T18:35:43.252Z
 estimatedTokens: 276
-keywords: [Instant, Pricing, Input, representation, fetch]
+keywords: [Instant, Pricing, fetch]
 ---
-
-# Instant Pricing Input
 
 > Input representation to fetch the instant pricing details.
 

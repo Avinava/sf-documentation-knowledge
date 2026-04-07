@@ -5,12 +5,10 @@ topic: using-custom-types-in-map-keys-and-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.133Z
+lastCollected: 2026-04-07T18:36:19.357Z
 estimatedTokens: 678
-keywords: [Custom, Map, Keys, add, instances, own, Apex, classes, maps, Adding, equals, hashCode, Sample]
+keywords: [Sample, Map, Keys, add, instances, own, Apex, classes, maps, Adding, equals, hashCode]
 ---
-
-# Using Custom Types in Map Keys and Sets
 
 > You can add instances of your own Apex classes to maps and sets.
 

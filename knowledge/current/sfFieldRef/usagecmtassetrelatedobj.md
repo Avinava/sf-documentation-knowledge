@@ -5,12 +5,10 @@ topic: usagecmtassetrelatedobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.799Z
+lastCollected: 2026-04-07T18:40:04.574Z
 estimatedTokens: 352
-keywords: [UsageCmtAssetRelatedObj, relation, asset, commitment-based, usage, product, account, contract, custom, API, version, 64.0, later]
+keywords: [UsageCmtAssetRelatedObj, relation, asset, commitment-based, product, account, contract, API, 64.0]
 ---
-
-# UsageCmtAssetRelatedObj
 
 > Represents the relation between an asset for the commitment-based
          usage product and an asset, account, contract, or custom object. This object is

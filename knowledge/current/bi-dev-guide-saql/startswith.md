@@ -5,12 +5,10 @@ topic: startswith
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.254Z
+lastCollected: 2026-04-07T18:37:00.824Z
 estimatedTokens: 201
-keywords: [starts_with, starts, characters, _with, Usage]
+keywords: [starts_with, starts, characters, _with]
 ---
-
-# starts_with()
 
 > Returns true if the string starts with the
         specified characters.

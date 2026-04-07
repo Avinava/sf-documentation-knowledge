@@ -5,12 +5,10 @@ topic: security-policy-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.377Z
+lastCollected: 2026-04-07T18:38:47.358Z
 estimatedTokens: 848
-keywords: [Security, Policy, Requirements, solution, AppExchange, program, demonstrates, company’s, commitment, help, customers, evaluate, quality, share, info]
+keywords: [Security, Policy, Requirements, solution, AppExchange, program, demonstrates, company’s, commitment, help, customers, evaluate, quality, share, info, Designate, Expert, Implement, Services, Artifacts, Inventory, Third-Party, Libraries, Architecture, Diagrams, Certifications, Audit, Document, Security-Assurance, Activities, Sensitive, Disclose, Storage, Locations, Providers, Identify, Sharing, Contact]
 ---
-
-# Security Policy Requirements
 
 > Requirements: Before you list your solution on AppExchange, you must have a security program that demonstrates your company’s commitment to security. Also, to help customers evaluate the quality of your solution, you must share your program info with them.
 

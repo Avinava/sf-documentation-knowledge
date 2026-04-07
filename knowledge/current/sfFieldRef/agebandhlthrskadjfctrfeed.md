@@ -5,12 +5,10 @@ topic: agebandhlthrskadjfctrfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.462Z
+lastCollected: 2026-04-07T18:39:25.400Z
 estimatedTokens: 391
-keywords: [AgeBandHlthRskAdjFctrFeed, Feed, tracking, AgeBandHlthRskAdjFctr]
+keywords: [AgeBandHlthRskAdjFctrFeed, AgeBandHlthRskAdjFctr]
 ---
-
-# AgeBandHlthRskAdjFctrFeed
 
 > Feed tracking for AgeBandHlthRskAdjFctr.
 

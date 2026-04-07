@@ -5,12 +5,10 @@ topic: list-filter-by-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.715Z
+lastCollected: 2026-04-07T18:40:11.725Z
 estimatedTokens: 281
 keywords: [Filter, Info]
 ---
-
-# List Filter by Info
 
 > Information used to filter a list.
 

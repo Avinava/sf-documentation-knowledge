@@ -5,12 +5,10 @@ topic: adavailabilitydimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.553Z
+lastCollected: 2026-04-07T18:38:11.852Z
 estimatedTokens: 1169
-keywords: [AdAvailabilityDimensions, references, specific, records, common, filterable, media, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [AdAvailabilityDimensions, references, specific, records, common, filterable, media, API, 59.0]
 ---
-
-# AdAvailabilityDimensions
 
 > Represents references to specific records with common filterable
          fields between media types. This object is available in API version 59.0 and later.

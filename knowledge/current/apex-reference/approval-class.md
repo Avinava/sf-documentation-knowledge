@@ -5,13 +5,11 @@ topic: approval-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.286Z
+lastCollected: 2026-04-07T18:36:13.591Z
 estimatedTokens: 7507
 namespace: ProcessRequest
-keywords: [Approval, record, locked, it’s, Usage, isLocked, ids, sobject, sobjects, lock, recordId, recordIds, recordToLock, recordsToLock, allOrNothing]
+keywords: [Approval, record, locked, it’s, isLocked, ids, sobject, sobjects, lock, recordId, recordIds, recordToLock, recordsToLock, allOrNothing, process, approvalRequest, allOrNone, approvalRequests, unlock, recordToUnlock, recordsToUnlock]
 ---
-
-# Approval Class
 
 > Returns true if the record
       with the ID id is locked, or false if it’s not.

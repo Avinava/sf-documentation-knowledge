@@ -5,12 +5,10 @@ topic: blnginvoicerunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.147Z
+lastCollected: 2026-04-07T18:37:03.663Z
 estimatedTokens: 1013
-keywords: [blng__InvoiceRun__c, invoice, batch, run, billing, schedules, meet, criteria, processed, resulting, generation, invoices, blng, _InvoiceRun, Calls]
+keywords: [blng__InvoiceRun__c, invoice, batch, run, billing, schedules, meet, criteria, processed, resulting, generation, invoices, blng, _InvoiceRun]
 ---
-
-# blng__InvoiceRun__c
 
 > During
          an invoice batch run, all billing schedules that meet the specified criteria are processed,

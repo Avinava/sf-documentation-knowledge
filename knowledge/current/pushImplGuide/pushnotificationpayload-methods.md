@@ -5,12 +5,10 @@ topic: pushnotificationpayload-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.741Z
+lastCollected: 2026-04-07T18:39:09.046Z
 estimatedTokens: 159
 keywords: [PushNotificationPayload]
 ---
-
-# PushNotificationPayload Methods
 
 > The following are the methods for PushNotificationPayload. All are global
 static methods.

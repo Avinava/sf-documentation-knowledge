@@ -5,13 +5,11 @@ topic: dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.599Z
+lastCollected: 2026-04-07T18:36:15.832Z
 estimatedTokens: 818
 namespace: Metadata
-keywords: [DataWeave, Apex, uses, Mulesoft, library, parse, data, transform, export, different, scripts, metadata, invoke, directly, run]
+keywords: [DataWeave, Apex, uses, Mulesoft, library, parse, transform, export, different, scripts, metadata, invoke, directly, run, Salesforce, application, servers, enforcing, heap, CPU, limits, executing, code]
 ---
-
-# DataWeave in Apex
 
 > DataWeave in Apex uses the Mulesoft DataWeave library to read and parse data from one
         format, transform it, and export it in a different format. You can create DataWeave scripts

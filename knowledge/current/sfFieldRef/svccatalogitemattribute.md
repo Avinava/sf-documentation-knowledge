@@ -5,12 +5,10 @@ topic: svccatalogitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.773Z
+lastCollected: 2026-04-07T18:40:03.485Z
 estimatedTokens: 517
-keywords: [SvcCatalogItemAttribute, pre-filled, fulfillment, flow, inputs, user, questions, ask, users, context, service, catalog, item, version, API]
+keywords: [SvcCatalogItemAttribute, pre-filled, fulfillment, flow, inputs, user, questions, ask, users, context, service, catalog, item, API, 57.0]
 ---
-
-# SvcCatalogItemAttribute
 
 > Represents pre-filled fulfillment flow inputs and user questions to ask to
          users in the context of a service catalog item version. This object is available in

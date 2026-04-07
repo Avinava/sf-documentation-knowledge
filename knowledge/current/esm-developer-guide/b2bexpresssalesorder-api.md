@@ -5,12 +5,10 @@ topic: b2bexpresssalesorder-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.886Z
+lastCollected: 2026-04-07T18:37:32.046Z
 estimatedTokens: 52
 keywords: [b2bExpress_SalesOrder, API, orders, quote, account, principal, order, b2bExpress, _SalesOrder, URI, HTTP]
 ---
-
-# b2bExpress_SalesOrder API
 
 > Create orders for the given quote ID and account ID. This API returns the principal order ID.
 

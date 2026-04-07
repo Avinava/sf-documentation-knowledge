@@ -5,12 +5,10 @@ topic: connectapischeduledrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.423Z
+lastCollected: 2026-04-07T18:36:11.709Z
 estimatedTokens: 657
-keywords: [ConnectApi.ScheduledRecommendation, scheduled, custom, recommendation]
+keywords: [ConnectApi.ScheduledRecommendation, scheduled, recommendation]
 ---
-
-# ConnectApi.ScheduledRecommendation
 
 > Represents a scheduled custom recommendation.
 

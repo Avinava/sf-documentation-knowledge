@@ -5,12 +5,10 @@ topic: create-a-stripe-account-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.120Z
+lastCollected: 2026-04-07T18:38:45.964Z
 estimatedTokens: 625
 keywords: [Stripe, Account, AppExchange, Checkout, listings, payment, partner]
 ---
-
-# Create a Stripe Account for AppExchange Checkout
 
 > To use Checkout with your AppExchange listings, you must create an account with our
   payment partner, Stripe.

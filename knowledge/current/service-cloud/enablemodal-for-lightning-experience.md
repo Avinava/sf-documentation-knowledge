@@ -5,12 +5,10 @@ topic: enablemodal-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.039Z
+lastCollected: 2026-04-07T18:36:50.237Z
 estimatedTokens: 222
-keywords: [enableModal, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, Web, Components]
+keywords: [Arguments, enableModal, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, Web, LWC, Sample, Code]
 ---
-
-# enableModal() for Lightning Experience
 
 > Toggles modal mode for a utility. While in modal mode, an overlay blocks users from
   using the console while the utility panel is visible. This method is available for Lightning Web

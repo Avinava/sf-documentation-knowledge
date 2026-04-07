@@ -5,12 +5,10 @@ topic: endswith
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.194Z
+lastCollected: 2026-04-07T18:37:00.763Z
 estimatedTokens: 94
-keywords: [ends_with, ends, characters, _with, Usage]
+keywords: [ends_with, ends, characters, _with]
 ---
-
-# ends_with()
 
 > Returns true if the string ends with the
         specified characters.

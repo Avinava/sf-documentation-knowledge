@@ -5,12 +5,10 @@ topic: render-flows-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.175Z
+lastCollected: 2026-04-07T18:38:51.416Z
 estimatedTokens: 1131
-keywords: [Render, Flows, Visualforce, standard, user, running, flow, can’t, customized, Builder, However, once, embed, Apex, code]
+keywords: [Render, Flows, Visualforce, standard, user, running, flow, can’t, customized, Builder, However, once, embed, Apex, code, markup, configure, run, time—such, pass, customize, look, feel, time]
 ---
-
-# Render Flows with Visualforce
 
 > The standard user interface for running a flow can’t be customized by using 
   Flow Builder. However, once you embed a flow in a Visualforce page, you can use Apex code 

@@ -5,12 +5,10 @@ topic: data-connectors-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.536Z
+lastCollected: 2026-04-07T18:36:56.026Z
 estimatedTokens: 704
-keywords: [Data, Connectors, Resource, collection, Analytics, creates, connector, URL, Formats, Version, Postman, Components, HTTP, POST]
+keywords: [Formats, Connectors, Resource, collection, Analytics, creates, connector, URL, Postman, HTTP, POST]
 ---
-
-# Data Connectors List Resource
 
 > Returns a collection of Analytics connectors and creates an
       Analytics connector.

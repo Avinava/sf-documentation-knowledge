@@ -5,12 +5,10 @@ topic: connectapiinspolicytrxniainputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.995Z
+lastCollected: 2026-04-07T18:37:49.861Z
 estimatedTokens: 76
-keywords: [ConnectApi.InsPolicyTrxnIAInputRep, Input, representation, insurance, policy, transaction]
+keywords: [ConnectApi.InsPolicyTrxnIAInputRep, insurance, policy, transaction]
 ---
-
-# ConnectApi.InsPolicyTrxnIAInputRep
 
 > Input representation details of an insurance policy transaction.
 

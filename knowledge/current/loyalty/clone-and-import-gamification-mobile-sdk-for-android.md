@@ -5,12 +5,10 @@ topic: clone-and-import-gamification-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.181Z
+lastCollected: 2026-04-07T18:38:08.446Z
 estimatedTokens: 431
-keywords: [Clone, Import, Gamification, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, history, local, computer]
+keywords: [Clone, Import, Gamification, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, local, computer, Studio, automatically, download, manage, external, dependencies]
 ---
-
-# Clone and Import Gamification Mobile SDK for Android
 
 > Clone the GitHub repository to copy the code base and revision history of the repository
   to your local computer. After you clone the mobile SDK for Android repository, import Gamification

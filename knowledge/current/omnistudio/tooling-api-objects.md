@@ -5,12 +5,10 @@ topic: tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.118Z
+lastCollected: 2026-04-07T18:36:40.821Z
 estimatedTokens: 389
-keywords: [Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
+keywords: [Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

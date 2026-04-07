@@ -5,13 +5,11 @@ topic: apexremoteobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.307Z
+lastCollected: 2026-04-07T18:38:50.551Z
 estimatedTokens: 542
 namespace: String
-keywords: [apex, remoteObjects, component, along, child, <apex, remoteObjectModel>, remoteObjectField>, components, specify, sObjects, access, Visualforce, Remote, Objects]
+keywords: [Attributes, apex, remoteObjects, along, child, <apex, remoteObjectModel>, remoteObjectField>, specify, sObjects, Visualforce, Remote, generate, models, JavaScript, basic, select, operation]
 ---
-
-# apex:remoteObjects
 
 > Use this component, along with child <apex:remoteObjectModel> and <apex:remoteObjectField> components, to specify the sObjects and fields to access using Visualforce Remote Objects. These components generate models in JavaScript that you can use for basic create, select, update, and delete operation
 

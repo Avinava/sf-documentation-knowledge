@@ -5,12 +5,10 @@ topic: accountforecastperiodmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.246Z
+lastCollected: 2026-04-07T18:39:24.169Z
 estimatedTokens: 305
 keywords: [AccountForecastPeriodMetric, records, account, metrics, vary, period, specific, product]
 ---
-
-# AccountForecastPeriodMetric
 
 > Represents records of account metrics which vary by period but are not specific
       for a product.

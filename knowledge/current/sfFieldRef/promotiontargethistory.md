@@ -5,12 +5,10 @@ topic: promotiontargethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.765Z
+lastCollected: 2026-04-07T18:39:57.355Z
 estimatedTokens: 263
-keywords: [PromotionTargetHistory, History, tracked, PromotionTarget]
+keywords: [PromotionTargetHistory, tracked, PromotionTarget]
 ---
-
-# PromotionTargetHistory
 
 > History for tracked fields of PromotionTarget.
 

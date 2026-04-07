@@ -2,7 +2,7 @@
 domain: securityImplGuide
 name: Salesforce Security Guide 
 documentCount: 163
-lastGenerated: 2026-04-07T09:06:38.515Z
+lastGenerated: 2026-04-07T18:40:43.575Z
 ---
 
 # Salesforce Security Guide  — Knowledge Index

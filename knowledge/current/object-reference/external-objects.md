@@ -5,12 +5,10 @@ topic: external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.043Z
+lastCollected: 2026-04-07T18:38:31.995Z
 estimatedTokens: 1392
-keywords: [External, Objects, API, version, 32.0, later, similar, custom, record, data, stored, outside, Salesforce, organization, perhaps]
+keywords: [External, API, 32.0, similar, record, stored, outside, Salesforce, organization, perhaps, that’s, premises, enterprise, resource, planning, ERP, system, Instead, copying, org, real, time, via, web, service, callouts, Naming, Conventions, Relationships, Feature, Support, Connect, Adapters, Files]
 ---
-
-# External Objects
 
 > External objects are supported in API version 32.0 and later. External objects are
     similar to custom objects, but external object record data is stored outside your Salesforce

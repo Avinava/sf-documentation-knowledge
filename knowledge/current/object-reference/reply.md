@@ -5,12 +5,10 @@ topic: reply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.320Z
+lastCollected: 2026-04-07T18:38:39.924Z
 estimatedTokens: 582
-keywords: [Reply, user, submitted, question, answers, zone, Calls, Usage]
+keywords: [Reply, user, submitted, question, answers, zone]
 ---
-
-# Reply
 
 > Represents a reply that a user has submitted to a
     question in an answers zone.

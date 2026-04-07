@@ -5,13 +5,11 @@ topic: rtrreportresultmockexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.000Z
+lastCollected: 2026-04-07T18:39:10.461Z
 estimatedTokens: 161
 namespace: The
 keywords: [RTRReportResult.MockException, mock, exceptions, unit, test, execution, Implementation]
 ---
-
-# RTRReportResult.MockException
 
 > This class is used to create mock exceptions for the unit test execution.
 

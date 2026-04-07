@@ -5,12 +5,10 @@ topic: notifyforfields-set-to-all
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.151Z
+lastCollected: 2026-04-07T18:36:51.475Z
 estimatedTokens: 707
-keywords: [NotifyForFields, PushTopic.NotifyForFields, change, any, record, causes, Streaming, API, matching, logic, evaluate, determine, whether, generate, notification]
+keywords: [NotifyForFields, PushTopic.NotifyForFields, change, any, record, causes, Streaming, API, matching, logic, evaluate, determine, whether, generate, notification, Changes, cause, evaluation]
 ---
-
-# NotifyForFields Set to All
 
 > When you set the value of PushTopic.NotifyForFields to All, a change to any field value in the record causes
             the Streaming API matching logic to evaluate the record to determine whether to generate

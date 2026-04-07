@@ -5,12 +5,10 @@ topic: einstein-prompt-template-mask-content-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.476Z
+lastCollected: 2026-04-07T18:37:18.564Z
 estimatedTokens: 172
-keywords: [Einstein, Prompt, Template, Mask, Content, Representation, Generated, resolved, masked, data, masking]
+keywords: [Einstein, Prompt, Template, Mask, Content, Generated, resolved, masked, masking]
 ---
-
-# Einstein Prompt Template Mask Content Representation
 
 > Generated response for a prompt template or resolved prompt template with masked data
     and masking information.

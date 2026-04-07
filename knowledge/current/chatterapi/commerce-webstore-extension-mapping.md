@@ -5,12 +5,10 @@ topic: commerce-webstore-extension-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.384Z
+lastCollected: 2026-04-07T18:37:18.480Z
 estimatedTokens: 64
 keywords: [Commerce, Webstore, Extension, Mapping, mapped]
 ---
-
-# Commerce Webstore Extension Mapping
 
 > Webstore mapped to a Commerce extension.
 

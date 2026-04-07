@@ -5,12 +5,10 @@ topic: soql-object-limits-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.850Z
+lastCollected: 2026-04-07T18:40:09.794Z
 estimatedTokens: 2748
-keywords: [SOQL, Limits, Limitations, specific, objects, situations, search, results, defined, ContentDocumentLink, ContentHubItem, big, external, NewsFeed, KnowledgeArticleVersion]
+keywords: [SOQL, Limits, Limitations, specific, situations, search, results, defined, ContentDocumentLink, ContentHubItem, big, external, NewsFeed, KnowledgeArticleVersion, RecentlyViewed, TopicAssignment, UserRecordAccess, UserProfileFeed, Vote]
 ---
-
-# SOQL Object Limits and Limitations
 
 > SOQL applies specific limits to objects and situations in search results. SOQL limits
 		are defined for the ContentDocumentLink object, ContentHubItem object, big objects, external

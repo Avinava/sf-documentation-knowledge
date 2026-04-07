@@ -5,12 +5,10 @@ topic: salesagreementproductfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.858Z
+lastCollected: 2026-04-07T18:40:00.604Z
 estimatedTokens: 301
-keywords: [SalesAgreementProductFeed, Feed, tracking, SalesAgreementProduct]
+keywords: [SalesAgreementProductFeed, SalesAgreementProduct]
 ---
-
-# SalesAgreementProductFeed
 
 > Feed tracking for SalesAgreementProduct.
 

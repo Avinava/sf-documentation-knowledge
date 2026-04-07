@@ -5,12 +5,10 @@ topic: territory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.943Z
+lastCollected: 2026-04-07T18:38:42.661Z
 estimatedTokens: 856
-keywords: [Territory2, sales, territory, Territories, enabled, Calls, Special, Access, Rules]
+keywords: [Territory2, sales, territory, Territories, enabled]
 ---
-
-# Territory2
 
 > Represents a sales territory. Available if Sales Territories has
   been enabled.

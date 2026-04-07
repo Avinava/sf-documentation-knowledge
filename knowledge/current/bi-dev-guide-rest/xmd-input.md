@@ -5,12 +5,10 @@ topic: xmd-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.869Z
+lastCollected: 2026-04-07T18:36:55.285Z
 estimatedTokens: 346
-keywords: [Xmd, Input, extended, metadata, Analytics, dataset, version]
+keywords: [Xmd, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Input
 
 > The extended metadata (Xmd) for an Analytics dataset version.
 

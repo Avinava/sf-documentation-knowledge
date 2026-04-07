@@ -5,12 +5,10 @@ topic: provider-search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.889Z
+lastCollected: 2026-04-07T18:37:42.035Z
 estimatedTokens: 756
 keywords: [Provider, Search, Result, Detailed, healthcare, matching, criteria]
 ---
-
-# Provider Search Result
 
 > Detailed information about a single healthcare provider matching the search criteria.
 

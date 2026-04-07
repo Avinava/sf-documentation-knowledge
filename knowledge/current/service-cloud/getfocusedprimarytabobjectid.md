@@ -5,12 +5,10 @@ topic: getfocusedprimarytabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.268Z
+lastCollected: 2026-04-07T18:36:49.329Z
 estimatedTokens: 233
-keywords: [getFocusedPrimaryTabObjectId, primary, tab, browser, focused, API, version, 25.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getFocusedPrimaryTabObjectId, primary, tab, browser, focused, API, 25.0, Sample, Code–Visualforce]
 ---
-
-# getFocusedPrimaryTabObjectId()
 
 > Returns the object ID of the primary tab on
             which the browser is focused. This method is only available in API version 25.0 or

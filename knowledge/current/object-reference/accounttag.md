@@ -5,12 +5,10 @@ topic: accounttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.671Z
+lastCollected: 2026-04-07T18:38:24.537Z
 estimatedTokens: 355
-keywords: [AccountTag, Associates, word, short, phrase, Account, Calls, Usage]
+keywords: [AccountTag, Associates, word, short, phrase, Account]
 ---
-
-# AccountTag
 
 > Associates a word or short phrase with an Account.
 

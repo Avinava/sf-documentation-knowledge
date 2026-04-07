@@ -5,12 +5,10 @@ topic: calculate-grand-totals-and-subtotals-with-the-rollup-modifier-and-groupin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.852Z
+lastCollected: 2026-04-07T18:37:00.363Z
 estimatedTokens: 726
-keywords: [Calculate, Grand, Totals, Subtotals, rollup, Modifier, grouping, Function, grouped, data, SAQL, query, group, statement, work]
+keywords: [Calculate, Grand, Totals, Subtotals, rollup, Modifier, grouping, Function, grouped, SAQL, query, group, statement, work, subtotaled, opportunities, lead, source, roll, groups, label]
 ---
-
-# Calculate Grand Totals and Subtotals with the rollup Modifier and grouping() Function
 
 > Calculate subtotals of grouped data in your SAQL query using the
                   rollup modifier on the group

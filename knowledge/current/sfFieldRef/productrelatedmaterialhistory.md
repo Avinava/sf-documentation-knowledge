@@ -5,12 +5,10 @@ topic: productrelatedmaterialhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.472Z
+lastCollected: 2026-04-07T18:39:56.048Z
 estimatedTokens: 181
-keywords: [ProductRelatedMaterialHistory, History, tracked, ProductRelatedMaterial]
+keywords: [ProductRelatedMaterialHistory, tracked, ProductRelatedMaterial]
 ---
-
-# ProductRelatedMaterialHistory
 
 > History for tracked fields of ProductRelatedMaterial.
 

@@ -5,12 +5,10 @@ topic: contactpointconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.608Z
+lastCollected: 2026-04-07T18:39:35.050Z
 estimatedTokens: 532
-keywords: [ContactPointConsent, customer's, consent, contacted, via, specific, contact, point, email, address, phone, number, API, version, 48.0]
+keywords: [ContactPointConsent, customer's, consent, contacted, via, specific, contact, point, email, address, phone, number, API, 48.0]
 ---
-
-# ContactPointConsent
 
 > Represents a customer's consent to be contacted via a specific contact point,
       such as an email address or phone number. This object is available in API version 48.0

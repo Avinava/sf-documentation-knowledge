@@ -5,12 +5,10 @@ topic: quick-start-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.370Z
+lastCollected: 2026-04-07T18:36:28.859Z
 estimatedTokens: 694
-keywords: [Quick, Start, Metadata, API, started, retrieving, small, components, org, Salesforce, CLI, Resources, Beginner, Developers, Developing]
+keywords: [Quick, Start, Metadata, API, started, retrieving, small, org, Salesforce, CLI, Resources, Beginner, Developers, Developing]
 ---
-
-# Quick Start: Metadata API
 
 > Get started with Metadata API by retrieving a small set of metadata components from your
   org on the Salesforce CLI.

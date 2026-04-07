@@ -5,12 +5,10 @@ topic: task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.566Z
+lastCollected: 2026-04-07T18:39:16.103Z
 estimatedTokens: 11209
-keywords: [Task, Standard, custom, extend, Consumer, Goods, Cloud, represent, business, activities, Event, records, making, phone, call]
+keywords: [Task, Standard, extend, Consumer, Goods, Cloud, represent, business, activities, Event, records, making, phone, call, API, 55.0]
 ---
-
-# Task
 
 > Standard and custom fields extend the standard Task object in
          Consumer Goods Cloud to represent business activities, which are Task and Event records,

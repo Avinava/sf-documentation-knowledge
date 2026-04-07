@@ -6,13 +6,10 @@ topic: wavetemplateconfigurationmodifier-interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.636Z
+lastCollected: 2026-04-07T18:37:02.219Z
 estimatedTokens: 1312
-keywords: [WaveTemplateConfigurationModifier, Interfaces, main, supporting, classes, their, WaveTemplateInfo, ReleaseInfo, UIPage, Answers, Variable, VariableDefinition, VariableType]
+keywords: [WaveTemplateInfo, ReleaseInfo, UIPage, Answers, Variable, VariableDefinition, VariableType, WaveTemplateConfigurationModifier, Interfaces, main, supporting, classes, their]
 ---
-
-# WaveTemplateConfigurationModifier
-  Interfaces
 
 > The main class is WaveTemplateConfigurationModifier with these supporting classes and their methods.
 

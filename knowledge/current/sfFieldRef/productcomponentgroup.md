@@ -5,12 +5,10 @@ topic: productcomponentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.975Z
+lastCollected: 2026-04-07T18:39:55.546Z
 estimatedTokens: 436
-keywords: [ProductComponentGroup, logical, grouping, associated, products, bundle, products’, arrangement, policy, group, cardinality, API, version, 58.0, later]
+keywords: [ProductComponentGroup, logical, grouping, products, bundle, products’, arrangement, policy, group, cardinality, API, 58.0]
 ---
-
-# ProductComponentGroup
 
 > Represents the logical grouping of associated products in a bundle
 			and the products’ arrangement policy (group cardinality). This object is available

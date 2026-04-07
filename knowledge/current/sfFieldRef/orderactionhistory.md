@@ -5,12 +5,10 @@ topic: orderactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.257Z
+lastCollected: 2026-04-07T18:39:50.657Z
 estimatedTokens: 258
-keywords: [OrderActionHistory, History, tracked, OrderAction]
+keywords: [OrderActionHistory, tracked, OrderAction]
 ---
-
-# OrderActionHistory
 
 > History for tracked fields of OrderAction.
 

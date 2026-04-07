@@ -5,12 +5,10 @@ topic: partnermarketingbudget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.369Z
+lastCollected: 2026-04-07T18:39:51.784Z
 estimatedTokens: 523
-keywords: [PartnerMarketingBudget, budget, funds, channel, partners, selling, marketing, products, services, API, version, 41.0, later]
+keywords: [PartnerMarketingBudget, budget, funds, channel, partners, selling, marketing, products, services, API, 41.0]
 ---
-
-# PartnerMarketingBudget
 
 > Represents a budget that provides funds to channel partners for selling
 			and marketing products and services. This object is available in API version 41.0

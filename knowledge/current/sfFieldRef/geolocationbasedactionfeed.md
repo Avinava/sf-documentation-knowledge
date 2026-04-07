@@ -5,12 +5,10 @@ topic: geolocationbasedactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.864Z
+lastCollected: 2026-04-07T18:39:42.505Z
 estimatedTokens: 364
-keywords: [GeolocationBasedActionFeed, Feed, tracking, GeolocationBasedAction]
+keywords: [GeolocationBasedActionFeed, GeolocationBasedAction]
 ---
-
-# GeolocationBasedActionFeed
 
 > Feed tracking for GeolocationBasedAction.
 

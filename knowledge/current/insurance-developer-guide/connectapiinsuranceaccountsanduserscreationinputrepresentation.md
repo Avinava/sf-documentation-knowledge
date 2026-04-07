@@ -5,12 +5,10 @@ topic: connectapiinsuranceaccountsanduserscreationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:01.003Z
+lastCollected: 2026-04-07T18:37:49.868Z
 estimatedTokens: 314
-keywords: [Input, representation, creating, person, accounts, portal, users, group, census, members]
+keywords: [creating, person, accounts, portal, users, group, census, members]
 ---
-
-# ConnectApi.InsuranceAccountsAndUsersCreationInputRepresentation
 
 > Input representation for creating person accounts and portal users from group census members.
 

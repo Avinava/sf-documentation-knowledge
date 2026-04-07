@@ -5,12 +5,10 @@ topic: retrieve-channel-member-names-and-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.310Z
+lastCollected: 2026-04-07T18:40:22.722Z
 estimatedTokens: 513
-keywords: [Retrieve, Channel, Member, IDs, AMPscript, pull, back, Enterprise, account, landing, displays, entities, part, SOAP, API]
+keywords: [Prerequisites, Retrieve, Channel, Member, IDs, AMPscript, pull, back, Enterprise, account, landing, displays, entities, part, SOAP, API, perform, any, necessary, Place]
 ---
-
-# Retrieve Channel Member Names and IDs
 
 > Use AMPscript to pull back channel member IDs and names from an Enterprise account. The landing page in this example displays the channel member names and IDs for all entities within your Enterprise account. Use this information as part of your SOAP API calls to perform any necessary calls. Place th
 

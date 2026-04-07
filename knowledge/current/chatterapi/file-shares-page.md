@@ -5,12 +5,10 @@ topic: file-shares-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.227Z
+lastCollected: 2026-04-07T18:37:19.381Z
 estimatedTokens: 149
 keywords: [File, Shares, Files, share]
 ---
-
-# File Shares Page
 
 > Files share page.
 

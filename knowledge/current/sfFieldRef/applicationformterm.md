@@ -5,12 +5,10 @@ topic: applicationformterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.522Z
+lastCollected: 2026-04-07T18:39:26.470Z
 estimatedTokens: 367
-keywords: [ApplicationFormTerm, terms, associated, application, form, loan, lease, API, version, 62.0, later]
+keywords: [ApplicationFormTerm, terms, application, form, loan, lease, API, 62.0]
 ---
-
-# ApplicationFormTerm
 
 > Represents the terms associated with an application form for a loan or a
          lease. This object is available in API version 62.0 and later.

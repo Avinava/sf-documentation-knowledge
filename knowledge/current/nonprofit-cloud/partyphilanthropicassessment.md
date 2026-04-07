@@ -5,12 +5,10 @@ topic: partyphilanthropicassessment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.979Z
+lastCollected: 2026-04-07T18:38:22.949Z
 estimatedTokens: 2217
-keywords: [PartyPhilanthropicAssessment, formalized, assessment, wealth, rating, place, third-party, valuation, financial, asset, internal, API, version, 63.0, later]
+keywords: [PartyPhilanthropicAssessment, formalized, assessment, wealth, rating, place, third-party, valuation, financial, asset, internal, API, 63.0]
 ---
-
-# PartyPhilanthropicAssessment
 
 > Represents a formalized assessment of wealth when a rating takes place, such
          as a third-party wealth assessment, a property valuation, a financial asset assessment, or

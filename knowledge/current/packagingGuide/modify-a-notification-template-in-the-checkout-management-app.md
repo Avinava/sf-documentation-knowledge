@@ -5,12 +5,10 @@ topic: modify-a-notification-template-in-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.420Z
+lastCollected: 2026-04-07T18:38:46.285Z
 estimatedTokens: 537
-keywords: [Modify, Notification, Template, Checkout, Management, App, CMA, send, email, notifications, trial, installations, purchases, subscription, changes]
+keywords: [Modify, Notification, Template, Checkout, Management, App, CMA, send, email, notifications, trial, installations, purchases, subscription, changes, created, started, tailor, templates, company’s, needs]
 ---
-
-# Modify a Notification Template in the Checkout Management App
 
 > The Checkout Management App (CMA) can send email notifications in response to trial
         installations, purchases, and other subscription changes. We created default notifications

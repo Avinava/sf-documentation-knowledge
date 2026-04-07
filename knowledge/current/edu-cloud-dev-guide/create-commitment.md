@@ -5,12 +5,10 @@ topic: create-commitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.366Z
+lastCollected: 2026-04-07T18:37:29.456Z
 estimatedTokens: 175
-keywords: [Commitment, Output, representation, fundraising, associated, links]
+keywords: [Commitment, fundraising, links]
 ---
-
-# Create Commitment
 
 > Output representation of the fundraising commitment request that contains the commitment
     ID and associated links.

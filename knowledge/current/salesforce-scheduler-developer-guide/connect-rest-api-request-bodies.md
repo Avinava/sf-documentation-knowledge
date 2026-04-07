@@ -5,12 +5,10 @@ topic: connect-rest-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.337Z
+lastCollected: 2026-04-07T18:39:20.043Z
 estimatedTokens: 828
-keywords: [Connect, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter]
+keywords: [Connect, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter, listed, resource]
 ---
-
-# Connect REST API Request Bodies
 
 > To perform a POST, PATCH, or PUT request, pass query parameters
 or create a request body formatted in either XML or JSON. This chapter

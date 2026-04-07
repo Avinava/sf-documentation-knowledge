@@ -5,12 +5,10 @@ topic: checkout-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.907Z
+lastCollected: 2026-04-07T18:37:07.629Z
 estimatedTokens: 960
-keywords: [Checkout, Input, Commerce, store]
+keywords: [Checkout, Commerce, store]
 ---
-
-# Checkout Input
 
 > Input for a Commerce store checkout.
 

@@ -5,12 +5,10 @@ topic: review-data-loader-output-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.364Z
+lastCollected: 2026-04-07T18:37:28.396Z
 estimatedTokens: 420
-keywords: [Review, Data, Loader, Output, Files, import, export, generates, two, CSV, contain, results, operation, file, begins]
+keywords: [Review, Loader, Files, import, export, generates, two, CSV, contain, results, operation, file, begins, success, starts, error, extension, viewer, open, Specify, folder, containing, Finish, step]
 ---
-
-# Review Data Loader Output Files
 
 > After an import or export, Data Loader generates two CSV output files that contain
         the results of the operation. One file name begins with success, and the other starts with error.

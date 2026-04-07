@@ -5,12 +5,10 @@ topic: extractedvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.260Z
+lastCollected: 2026-04-07T18:39:00.320Z
 estimatedTokens: 347
 keywords: [ExtractedValue, extracted, document, confidence, score]
 ---
-
-# ExtractedValue Class
 
 > This class contains the value extracted from the document and its confidence
     score.

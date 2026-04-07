@@ -5,13 +5,11 @@ topic: auradefinitionbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.346Z
+lastCollected: 2026-04-07T18:39:28.404Z
 estimatedTokens: 371
 namespace: NamespacePrefix
-keywords: [AuraDefinitionBundle, Lightning, Aura, component, definition, bundle, application, resources, API, version, 32.0, later]
+keywords: [AuraDefinitionBundle, Lightning, Aura, definition, bundle, application, resources, API, 32.0]
 ---
-
-# AuraDefinitionBundle
 
 > Represents a Lightning Aura component definition bundle, such as a
 			component or application bundle. A bundle contains a Lightning Aura component definition

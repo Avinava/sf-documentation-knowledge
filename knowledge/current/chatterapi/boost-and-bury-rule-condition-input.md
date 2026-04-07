@@ -5,12 +5,10 @@ topic: boost-and-bury-rule-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.610Z
+lastCollected: 2026-04-07T18:37:07.329Z
 estimatedTokens: 129
-keywords: [Boost, Bury, Rule, Condition, Input]
+keywords: [Boost, Bury, Rule, Condition]
 ---
-
-# Boost and Bury Rule Condition Input
 
 > Condition for a boost and bury rule.
 

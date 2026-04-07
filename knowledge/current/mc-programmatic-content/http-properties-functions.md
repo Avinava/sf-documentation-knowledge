@@ -5,12 +5,10 @@ topic: http-properties-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.184Z
+lastCollected: 2026-04-07T18:40:23.619Z
 estimatedTokens: 570
 keywords: [HTTP, Functions, retrieve, various, platform, application, client, browser, passes, server, interaction, regarding, session, Additional]
 ---
-
-# HTTP Properties Functions
 
 > You can use the Request object to retrieve various types of HTTP Request object properties and platform application values. The client browser passes this information to the server during an HTTP interaction, so this object contains information regarding the browser and session. These methods return
 

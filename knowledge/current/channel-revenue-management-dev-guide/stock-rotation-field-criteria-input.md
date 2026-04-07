@@ -5,12 +5,10 @@ topic: stock-rotation-field-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.083Z
+lastCollected: 2026-04-07T18:37:05.779Z
 estimatedTokens: 159
-keywords: [Stock, Rotation, Criteria, Input, Individual, filter, operations]
+keywords: [Stock, Rotation, Criteria, Individual, filter, operations]
 ---
-
-# Stock Rotation Field Criteria Input
 
 > Individual filter criteria for stock rotation operations
 

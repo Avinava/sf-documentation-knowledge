@@ -5,12 +5,10 @@ topic: adquote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.889Z
+lastCollected: 2026-04-07T18:38:12.183Z
 estimatedTokens: 1331
-keywords: [AdQuote, quote, advertisement, campaign, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [AdQuote, quote, advertisement, campaign, API, 51.0]
 ---
-
-# AdQuote
 
 > Represents the details of a quote for an advertisement campaign. This object is
       available in API version 51.0 and later.

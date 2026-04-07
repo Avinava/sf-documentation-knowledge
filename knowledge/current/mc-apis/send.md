@@ -5,12 +5,10 @@ topic: send
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.912Z
+lastCollected: 2026-04-07T18:40:20.133Z
 estimatedTokens: 1469
-keywords: [Send, email, retrieves, aggregate, data, JobID, Items]
+keywords: [Send, email, retrieves, aggregate, JobID, Items]
 ---
-
-# Send
 
 > The Send object sends email and retrieves aggregate data based on a JobID.
 

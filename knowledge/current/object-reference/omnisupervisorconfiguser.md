@@ -5,12 +5,10 @@ topic: omnisupervisorconfiguser
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.155Z
+lastCollected: 2026-04-07T18:38:36.331Z
 estimatedTokens: 320
-keywords: [OmniSupervisorConfigUser, users, whom, Command, Center, Service, configuration, User-level, configurations, override, profile-level, API, version, 41.0, later]
+keywords: [OmniSupervisorConfigUser, users, whom, Command, Center, Service, configuration, User-level, configurations, override, profile-level, API, 41.0]
 ---
-
-# OmniSupervisorConfigUser
 
 > Represents the users to whom a Command Center for Service configuration
    applies. User-level configurations override profile-level configurations. This object is

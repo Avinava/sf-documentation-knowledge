@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.980Z
+lastCollected: 2026-04-07T18:37:05.684Z
 estimatedTokens: 75
 keywords: [Bodies, Here’s, Common, Business, API, Rebate, Management, Stock, Rotation, APIs]
 ---
-
-# Response Bodies
 
 > Here’s a list of Rebate Management Business API response bodies.
 

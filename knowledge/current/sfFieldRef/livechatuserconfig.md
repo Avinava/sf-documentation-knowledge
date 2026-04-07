@@ -5,12 +5,10 @@ topic: livechatuserconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.005Z
+lastCollected: 2026-04-07T18:39:46.567Z
 estimatedTokens: 802
-keywords: [LiveChatUserConfig, setting, console, settings, Chat, users, API, version, 24.0, later]
+keywords: [LiveChatUserConfig, setting, console, settings, Chat, users, API, 24.0]
 ---
-
-# LiveChatUserConfig
 
 > Represents a setting that controls the console settings for Chat
    users. This object is available in API version 24.0 and later.

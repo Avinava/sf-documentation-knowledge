@@ -5,12 +5,10 @@ topic: insurance-update-underwriting-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.491Z
+lastCollected: 2026-04-07T18:37:52.680Z
 estimatedTokens: 187
-keywords: [Insurance, Underwriting, Rules, Output, representation]
+keywords: [Insurance, Underwriting]
 ---
-
-# Insurance Update Underwriting Rules
 
 > Output representation details of the insurance update underwriting rules
     request.

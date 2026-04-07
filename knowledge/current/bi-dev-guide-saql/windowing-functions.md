@@ -5,12 +5,10 @@ topic: windowing-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.430Z
+lastCollected: 2026-04-07T18:37:01.004Z
 estimatedTokens: 2284
-keywords: [Windowing, Functions, SAQL, functionality, calculate, common, business, cases, percent, grand, total, moving, average, year, quarter]
+keywords: [Notes, Examples, Windowing, Functions, SAQL, functionality, calculate, common, business, cases, percent, grand, total, moving, average, year, quarter, growth, ranking, Dynamically, Display, Top, Five, Reps]
 ---
-
-# Windowing Functions
 
 > Use SAQL windowing functionality to calculate common business cases such as percent of
   grand total, moving average, year and quarter growth, and ranking.

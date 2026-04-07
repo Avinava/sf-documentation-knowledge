@@ -5,12 +5,10 @@ topic: soql-and-sosl-limits-for-search-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.985Z
+lastCollected: 2026-04-07T18:39:16.529Z
 estimatedTokens: 1327
-keywords: [SOQL, SOSL, Limits, Search, Queries, Long, complex, statements, contain, formula, result, QUERY_TOO_COMPLICATED, error, occurs, because]
+keywords: [SOQL, SOSL, Limits, Search, Queries, Long, complex, statements, contain, formula, result, QUERY_TOO_COMPLICATED, error, occurs, because, statement, expanded, internally, processe]
 ---
-
-# SOQL and SOSL Limits for Search Queries
 
 > Long, complex SOQL statements, such as
                                 statements that contain many formula fields, can result in a QUERY_TOO_COMPLICATED error. The

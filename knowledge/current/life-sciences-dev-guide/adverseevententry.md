@@ -5,12 +5,10 @@ topic: adverseevententry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.436Z
+lastCollected: 2026-04-07T18:37:58.987Z
 estimatedTokens: 1906
-keywords: [AdverseEventEntry, event, unintended, anticipated, effects, research, participants, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [AdverseEventEntry, event, unintended, anticipated, effects, research, participants, API, 61.0]
 ---
-
-# AdverseEventEntry
 
 > Represents the event related to unintended/anticipated effects on research
          participants. This object is available in API version 61.0 and later.

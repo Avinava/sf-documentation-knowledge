@@ -5,12 +5,10 @@ topic: install-the-loyalty-management-receipt-scanner-kit-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.893Z
+lastCollected: 2026-04-07T18:38:09.189Z
 estimatedTokens: 318
-keywords: [Install, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, org, program, members, upload, their, purchase, receipts]
+keywords: [Install, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, org, program, members, upload, their, purchase, receipts, mobile, app]
 ---
-
-# Install the Loyalty Management Receipt Scanner Kit Unlocked Package
 
 > Install the Loyalty Management Receipt Scanner Kit unlocked package in the org that
   contains the loyalty program for members to upload their purchase receipts by using the Loyalty

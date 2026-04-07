@@ -5,12 +5,10 @@ topic: folder-schedule-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.740Z
+lastCollected: 2026-04-07T18:36:56.275Z
 estimatedTokens: 147
 keywords: [Folder, Schedule, Resource, deletes, updates, Analytics, app]
 ---
-
-# Folder Schedule Resource
 
 > Returns, deletes, or updates the schedule for an Analytics app or folder
   with the specified ID.

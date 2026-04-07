@@ -5,12 +5,10 @@ topic: tax-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:01.866Z
+lastCollected: 2026-04-07T18:35:46.871Z
 estimatedTokens: 268
-keywords: [Tax, Output, representation, line, item]
+keywords: [Tax, line, item]
 ---
-
-# Tax Details
 
 > Output representation of the tax details for each line item.
 

@@ -5,12 +5,10 @@ topic: invoicebatchrunrecovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.113Z
+lastCollected: 2026-04-07T18:39:45.683Z
 estimatedTokens: 410
-keywords: [InvoiceBatchRunRecovery, invoice, batch, run, recovery, procedure, API, version, 57.0, later]
+keywords: [InvoiceBatchRunRecovery, invoice, batch, run, recovery, procedure, API, 57.0]
 ---
-
-# InvoiceBatchRunRecovery
 
 > Provides information about an invoice batch run recovery procedure. This
       object is available in API version 57.0 and later.

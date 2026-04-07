@@ -5,12 +5,10 @@ topic: flexiblehierarchynode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.590Z
+lastCollected: 2026-04-07T18:37:37.375Z
 estimatedTokens: 583
-keywords: [FlexibleHierarchyNode, unique, entity, hierarchy, company, subsidiary, branch, unit, individual, person, API, version, 66.0, later, Calls]
+keywords: [FlexibleHierarchyNode, unique, entity, hierarchy, company, subsidiary, branch, unit, individual, person, API, 66.0]
 ---
-
-# FlexibleHierarchyNode
 
 > Represents a unique entity within the hierarchy, such as a company, a
          subsidiary, a branch unit, or an individual person. This object is available in API

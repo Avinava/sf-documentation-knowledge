@@ -5,12 +5,10 @@ topic: identifiers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.435Z
+lastCollected: 2026-04-07T18:37:01.011Z
 estimatedTokens: 86
 keywords: [Identifiers, SAQL, case-sensitive, enclosed, quotation, marks]
 ---
-
-# Identifiers
 
 > SAQL identifiers are case-sensitive
   and must be enclosed in single quotation marks (').

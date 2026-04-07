@@ -5,12 +5,10 @@ topic: gift-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.040Z
+lastCollected: 2026-04-07T18:38:20.785Z
 estimatedTokens: 318
-keywords: [Gift, Transactions, associated, commitment, record]
+keywords: [Gift, Transactions, commitment, record]
 ---
-
-# Gift Transactions
 
 > Get gift transactions associated with a gift commitment record.
 

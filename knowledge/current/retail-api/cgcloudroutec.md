@@ -5,12 +5,10 @@ topic: cgcloudroutec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.363Z
+lastCollected: 2026-04-07T18:39:14.759Z
 estimatedTokens: 1790
-keywords: [cgcloud__Route__c, Stores, route, API, version, 54.0, later, cgcloud, _Route, Calls, Associated, Objects]
+keywords: [cgcloud__Route__c, Stores, route, API, 54.0, cgcloud, _Route]
 ---
-
-# cgcloud__Route__c
 
 > Stores the details of the route object. This object is available
       in API version 54.0 and later.

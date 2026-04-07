@@ -5,12 +5,10 @@ topic: oci-fulfill-reservation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.496Z
+lastCollected: 2026-04-07T18:37:09.266Z
 estimatedTokens: 127
-keywords: [OCI, Fulfill, Reservation, Input, inventory, reservations]
+keywords: [OCI, Fulfill, Reservation, inventory, reservations]
 ---
-
-# OCI Fulfill Reservation Input
 
 > A list of inventory reservations to fulfill.
 

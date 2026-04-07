@@ -5,12 +5,10 @@ topic: get-picklist-values-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.334Z
+lastCollected: 2026-04-07T18:37:33.751Z
 estimatedTokens: 214
-keywords: [Picklist, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Picklist, Action, REST, HTTP]
 ---
-
-# Get Picklist Values Action
 
 > Get picklist values for the specified fields of an object.
 

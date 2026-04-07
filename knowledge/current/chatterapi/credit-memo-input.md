@@ -5,12 +5,10 @@ topic: credit-memo-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.226Z
+lastCollected: 2026-04-07T18:37:08.027Z
 estimatedTokens: 109
-keywords: [Credit, Memo, Input, that’s, issued, amount, balance, payment]
+keywords: [Credit, Memo, that’s, issued, amount, balance, payment]
 ---
-
-# Credit Memo Input
 
 > The credit memo that’s being issued as credit. The specified amount from the credit
     memo balance is issued as payment credit.

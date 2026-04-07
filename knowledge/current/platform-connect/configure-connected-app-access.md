@@ -5,12 +5,10 @@ topic: configure-connected-app-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.665Z
+lastCollected: 2026-04-07T18:38:57.471Z
 estimatedTokens: 782
-keywords: [Configure, Connected, App, Access, canvas, policies, profiles, corresponding]
+keywords: [Configure, Connected, App, canvas, policies, profiles, corresponding]
 ---
-
-# Configure Connected App Access
 
 > To configure access to your canvas app, configure the policies and profiles for the
         corresponding connected app.

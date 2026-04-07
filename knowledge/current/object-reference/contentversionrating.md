@@ -5,12 +5,10 @@ topic: contentversionrating
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.831Z
+lastCollected: 2026-04-07T18:38:28.739Z
 estimatedTokens: 237
-keywords: [ContentVersionRating, rating, version, file, API, 42.0, later, Calls, Special, Access, Rules]
+keywords: [ContentVersionRating, rating, file, API, 42.0]
 ---
-
-# ContentVersionRating
 
 > Represents a rating on a version of a file. This object is
     available in API version 42.0 and later.

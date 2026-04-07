@@ -5,12 +5,10 @@ topic: configure-your-projects-build-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.045Z
+lastCollected: 2026-04-07T18:40:26.355Z
 estimatedTokens: 1097
-keywords: [Configure, Project’s, Build, Settings, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
+keywords: [Prerequisites, Configure, Project’s, Build, Settings, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations, Customize, Configuration]
 ---
-
-# Configure Your Project’s Build Settings
 
 > Where possible, we changed noninclusive terms to align with our company
       value of Equality. We maintained certain terms to avoid any effect on customer

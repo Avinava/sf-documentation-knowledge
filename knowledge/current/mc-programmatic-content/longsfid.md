@@ -5,12 +5,10 @@ topic: longsfid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.214Z
+lastCollected: 2026-04-07T18:40:22.608Z
 estimatedTokens: 100
-keywords: [LongSFID, Function, Ordinal, 15-character, Salesforce, **Overview**, **Syntax**, Usage]
+keywords: [LongSFID, Function, Ordinal, 15-character, Salesforce, **Overview**, **Syntax**]
 ---
-
-# LongSFID
 
 > LongSFID(1)
 

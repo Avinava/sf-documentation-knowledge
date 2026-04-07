@@ -5,12 +5,10 @@ topic: configuration-save-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.689Z
+lastCollected: 2026-04-07T18:35:46.656Z
 estimatedTokens: 114
-keywords: [Configuration, Save, Instance, Output, representation, that’s]
+keywords: [Configuration, Save, Instance, that’s]
 ---
-
-# Configuration Save Instance
 
 > Output representation of the response that’s returned with a save configuration
     request.

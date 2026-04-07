@@ -5,12 +5,10 @@ topic: acctmgrtargetmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.536Z
+lastCollected: 2026-04-07T18:38:12.851Z
 estimatedTokens: 276
-keywords: [AcctMgrTargetMeasure, measure, account, manager, target, dynamic, pick, referenced, API, version, 49.0, later, Calls]
+keywords: [AcctMgrTargetMeasure, measure, account, manager, target, dynamic, pick, referenced, API, 49.0]
 ---
-
-# AcctMgrTargetMeasure
 
 > Represents the type of measure for an account manager target. This object is a
       dynamic pick list table, which is referenced in account manager target. It is available

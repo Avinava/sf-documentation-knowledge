@@ -5,12 +5,10 @@ topic: update-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.806Z
+lastCollected: 2026-04-07T18:36:20.031Z
 estimatedTokens: 565
-keywords: [Record, sObject, Rows, resource, records, Provide, updated, data, PATCH, specific, file]
+keywords: [Record, sObject, Rows, resource, records, Provide, updated, PATCH, specific, file]
 ---
-
-# Update a Record
 
 > You use the sObject Rows resource to update records. Provide the updated record
 			information in your request data and use the PATCH method of the resource with a

@@ -5,12 +5,10 @@ topic: feeds-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.882Z
+lastCollected: 2026-04-07T18:37:10.574Z
 estimatedTokens: 145
 keywords: [Feeds, Resource, context, user, able, view]
 ---
-
-# Feeds Resource
 
 > A list of all of the feeds the context user is able to
    view.

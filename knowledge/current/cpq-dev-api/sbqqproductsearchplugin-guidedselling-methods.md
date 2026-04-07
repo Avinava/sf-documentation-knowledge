@@ -5,12 +5,10 @@ topic: sbqqproductsearchplugin-guidedselling-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.116Z
+lastCollected: 2026-04-07T18:37:27.089Z
 estimatedTokens: 394
 keywords: [SBQQ.ProductSearchPlugin, GuidedSelling, guided, selling, implementation]
 ---
-
-# SBQQ.ProductSearchPlugin GuidedSelling Methods
 
 > The following are methods for a guided selling implementation of SBQQ.ProductSearchPlugin.
 

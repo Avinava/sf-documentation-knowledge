@@ -5,12 +5,10 @@ topic: compression-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.945Z
+lastCollected: 2026-04-07T18:36:20.163Z
 estimatedTokens: 347
-keywords: [Compression, compress, REST, API, reduces, bandwidth, although, requires, processing, power, client, cases, tradeoff, benefits, overall]
+keywords: [Compression, compress, REST, API, reduces, bandwidth, although, requires, processing, power, client, cases, tradeoff, benefits, overall, performance, application]
 ---
-
-# Compression Headers
 
 > Use a compression header to compress a REST API request or response. Compression reduces
   the bandwidth required for a request, although it requires more processing power at your client.

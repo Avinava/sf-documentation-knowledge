@@ -2,7 +2,7 @@
 domain: referral-marketing
 name: Referral Marketing Developer Guide
 documentCount: 92
-lastGenerated: 2026-04-07T09:06:38.275Z
+lastGenerated: 2026-04-07T18:40:43.354Z
 ---
 
 # Referral Marketing Developer Guide — Knowledge Index

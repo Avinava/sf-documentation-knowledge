@@ -5,12 +5,10 @@ topic: install-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.321Z
+lastCollected: 2026-04-07T18:40:09.263Z
 estimatedTokens: 3950
-keywords: [Install, Salesforce, CLI, computer, operating, system-specific, artifacts, pkg, macOS, TAR, files, npm, Windows, File, Older]
+keywords: [Installers, Install, Salesforce, CLI, computer, operating, system-specific, artifacts, pkg, macOS, TAR, files, npm, Windows, File, Older, Versions, Verify, Installation]
 ---
-
-# Install Salesforce CLI
 
 > Install Salesforce CLI on your computer using operating system-specific artifacts, such
     as .pkg on macOS, TAR files, or with npm.

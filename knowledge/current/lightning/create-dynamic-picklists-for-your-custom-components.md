@@ -5,12 +5,10 @@ topic: create-dynamic-picklists-for-your-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.873Z
+lastCollected: 2026-04-07T18:38:02.797Z
 estimatedTokens: 1149
-keywords: [Dynamic, Picklists, Custom, Components, expose, component, picklist, configured, Lightning, App, Builder, picklist’s, provided, Apex, Add]
+keywords: [Dynamic, Picklists, expose, picklist, configured, Lightning, App, Builder, picklist’s, provided, Apex, Add, Design, File, Tips, Considerations]
 ---
-
-# Create Dynamic Picklists for Your Custom Components
 
 > You can expose a component property as a picklist when the component is configured in
   the Lightning App Builder. The picklist’s values are provided by an Apex class that you

@@ -5,12 +5,10 @@ topic: create-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.338Z
+lastCollected: 2026-04-07T18:37:42.481Z
 estimatedTokens: 3272
-keywords: [Provider, API, creates, healthcare, records, along, corresponding, Account, facilities, Contact, practitioners, manage, practitioner, credentials, Cases]
+keywords: [Prerequisites, Resources, Provider, API, creates, healthcare, records, along, corresponding, Account, facilities, Contact, practitioners, manage, practitioner, credentials, Cases, Credentialing, Specialist, Code, Samples, Sample, Person, Synced, Search, Facility, Possible, Creating, Partial, Success, Error, Handling, Codes]
 ---
-
-# Create Provider
 
 > This API creates healthcare provider records along with the
             corresponding Account records (for facilities) or Contact records (for practitioners).

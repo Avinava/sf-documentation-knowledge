@@ -5,12 +5,10 @@ topic: declaring-a-remote-method-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.382Z
+lastCollected: 2026-04-07T18:38:51.644Z
 estimatedTokens: 300
-keywords: [Declaring, Remote, Apex, call, almost, any, JavaScript, remoting, action, needs, conform, simple, rules]
+keywords: [Declaring, Remote, Apex, call, almost, any, JavaScript, remoting, action, needs, conform, simple]
 ---
-
-# Declaring a Remote Method in Apex
 
 > You can call almost any Apex method as a JavaScript remoting remote action. To do so, the
   method needs to conform to some simple rules.

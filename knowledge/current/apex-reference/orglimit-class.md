@@ -5,13 +5,11 @@ topic: orglimit-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.966Z
+lastCollected: 2026-04-07T18:36:01.177Z
 estimatedTokens: 761
 namespace: System
-keywords: [OrgLimit, provide, maximum, current, org, limit, Usage, getLimit, getName, getValue, toString]
+keywords: [OrgLimit, provide, maximum, current, org, limit, getLimit, getName, getValue, toString]
 ---
-
-# OrgLimit Class
 
 > Contains methods that provide the name, maximum value, and current
       value of an org limit.

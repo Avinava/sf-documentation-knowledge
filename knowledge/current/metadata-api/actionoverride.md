@@ -5,12 +5,10 @@ topic: actionoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.490Z
+lastCollected: 2026-04-07T18:36:21.735Z
 estimatedTokens: 1776
-keywords: [ActionOverride, action, override, standard, custom, edit, overrides, access, accessing, encompassing, CustomObject, Declarative, Metadata, File, Suffix]
+keywords: [ActionOverride, ActionOverrideType, action, override, standard, edit, overrides, accessing, encompassing, CustomObject, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# ActionOverride
 
 > Represents an action override on a standard or custom object. Use it
             to create, update, edit, or delete action overrides.

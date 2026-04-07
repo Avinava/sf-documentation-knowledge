@@ -5,12 +5,10 @@ topic: groupclasscontribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.687Z
+lastCollected: 2026-04-07T18:37:37.487Z
 estimatedTokens: 1103
-keywords: [GroupClassContribution, employer, group, contributions, GroupClass, members, their, dependents, per, product, category, medical, dental, vision, Child]
+keywords: [GroupClassContribution, employer, group, contributions, GroupClass, members, their, dependents, per, product, category, medical, dental, vision, Child, API, 55.0]
 ---
-
-# GroupClassContribution
 
 > Represents employer or group contributions for GroupClass members and their dependents on a per product category such as medical, dental, or vision. Child object of GroupClass. This object is available in API version 55.0 and later.
 

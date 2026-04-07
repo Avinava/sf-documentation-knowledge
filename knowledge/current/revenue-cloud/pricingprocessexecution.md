@@ -5,12 +5,10 @@ topic: pricingprocessexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.940Z
+lastCollected: 2026-04-07T18:35:49.899Z
 estimatedTokens: 1045
-keywords: [PricingProcessExecution, record, generated, execution, discovery, pricing, procedure, Multiple, procedures, may, performed, API, call, recorded, version]
+keywords: [PricingProcessExecution, record, generated, execution, discovery, pricing, procedure, Multiple, procedures, may, performed, API, call, recorded, 63.0]
 ---
-
-# PricingProcessExecution
 
 > Represents a record generated during the execution of a discovery or pricing
          procedure. Multiple procedures may be performed within a single API call, with each

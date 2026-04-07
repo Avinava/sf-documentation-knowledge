@@ -5,12 +5,10 @@ topic: interactionsumdiscussedaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.078Z
+lastCollected: 2026-04-07T18:39:08.350Z
 estimatedTokens: 629
-keywords: [InteractionSumDiscussedAccount, companies, discussed, interaction, Calls, Associated, Objects]
+keywords: [InteractionSumDiscussedAccount, companies, discussed, interaction]
 ---
-
-# InteractionSumDiscussedAccount
 
 > Represents information about the companies discussed in an
       interaction.

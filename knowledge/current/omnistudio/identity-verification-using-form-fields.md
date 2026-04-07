@@ -5,12 +5,10 @@ topic: identity-verification-using-form-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.793Z
+lastCollected: 2026-04-07T18:36:38.449Z
 estimatedTokens: 249
 keywords: [Identity, Verification, Form, Verify, representative, customer, inputs, submitted]
 ---
-
-# Identity Verification Using Form Fields
 
 > Verify the identity of a representative or customer by using the
       inputs submitted through form fields.

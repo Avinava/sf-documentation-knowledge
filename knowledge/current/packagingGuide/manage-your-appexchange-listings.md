@@ -5,12 +5,10 @@ topic: manage-your-appexchange-listings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.028Z
+lastCollected: 2026-04-07T18:38:46.994Z
 estimatedTokens: 595
-keywords: [Manage, AppExchange, Listings, solutions, distribute, company, profile, business, Connect, Salesforce, development, orgs, trials, Partner, Console]
+keywords: [Manage, AppExchange, Listings, solutions, distribute, company, profile, business, Connect, Salesforce, development, orgs, trials, Partner, Console, Configure, license, settings, managed, packages, Collect, leads, customers, interact, Track, listing, performance, package, analytics]
 ---
-
-# Manage Your AppExchange Listings
 
 > Create listings for the solutions you distribute on AppExchange. Set up a company
         profile for your AppExchange business. Connect your Salesforce business and development

@@ -5,12 +5,10 @@ topic: mfgpgmcpntfrcstfactopptyschd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.630Z
+lastCollected: 2026-04-07T18:38:13.958Z
 estimatedTokens: 367
-keywords: [MfgPgmCpntFrcstFactOpptySchd, junction, forecast, opportunity, line, item, schedule, objects, providing, relationship, data, corresponding, sales, order, schedules]
+keywords: [MfgPgmCpntFrcstFactOpptySchd, junction, forecast, opportunity, line, item, schedule, providing, relationship, corresponding, sales, order, schedules, API, 55.0]
 ---
-
-# MfgPgmCpntFrcstFactOpptySchd
 
 > Represents a junction between the forecast and opportunity line item schedule
          objects, providing details on the relationship between forecast data and corresponding

@@ -5,12 +5,10 @@ topic: enable-maps-and-location-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.711Z
+lastCollected: 2026-04-07T18:39:21.570Z
 estimatedTokens: 133
 keywords: [Enable, Maps, Location, Services, Salesforce, Scheduler, uses, search, appointment, locations, service, territories]
 ---
-
-# Enable Maps and Location Services
 
 > Salesforce Scheduler uses maps and location services to search for appointment
       locations (service territories)..

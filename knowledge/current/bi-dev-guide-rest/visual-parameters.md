@@ -5,12 +5,10 @@ topic: visual-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.441Z
+lastCollected: 2026-04-07T18:36:57.998Z
 estimatedTokens: 88
 keywords: [Visual, Analytics, watchlist, item]
 ---
-
-# Visual Parameters
 
 > A visual parameters for an Analytics watchlist item.
 

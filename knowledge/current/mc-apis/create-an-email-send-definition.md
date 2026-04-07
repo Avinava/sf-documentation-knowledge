@@ -5,12 +5,10 @@ topic: create-an-email-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.136Z
+lastCollected: 2026-04-07T18:40:16.272Z
 estimatedTokens: 5918
-keywords: [Email, Send, Definition, how, uses, data, extensions, emails, Why, Sample, NET, Code, Retrieve, Classifications, Bind]
+keywords: [Email, Send, Definition, how, uses, extensions, emails, Why, Sample, NET, Code, Retrieve, Classifications, Bind, Publication, Jave, Axis, 1.4, Start, SOAP, API, PHP, Ruby, Rails, Java, Envelope, Profile, Attributes, Filter, Audience, Starting]
 ---
-
-# Create an Email Send Definition
 
 > This page shows how to create an Email Send Definition that uses data extensions to send emails.
 

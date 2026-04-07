@@ -5,12 +5,10 @@ topic: bulk-api-request-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.039Z
+lastCollected: 2026-04-07T18:38:30.844Z
 estimatedTokens: 1017
 keywords: [Bulk, API, Event, captures, requests, received, job, batch, completes]
 ---
-
-# Bulk API Request Event Type
 
 > The Bulk API request event captures when Bulk API requests are
          received to create a job, update a job, create a batch, update a batch, and when a job

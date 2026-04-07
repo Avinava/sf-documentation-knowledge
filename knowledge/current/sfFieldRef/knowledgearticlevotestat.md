@@ -5,12 +5,10 @@ topic: knowledgearticlevotestat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.415Z
+lastCollected: 2026-04-07T18:39:45.967Z
 estimatedTokens: 247
-keywords: [KnowledgeArticleVoteStat, weighted, rating, article, scale, across, read-only, API, version, 20.0, later]
+keywords: [KnowledgeArticleVoteStat, weighted, rating, article, scale, across, read-only, API, 20.0]
 ---
-
-# KnowledgeArticleVoteStat
 
 > Provides the weighted rating for the specified article on a scale of 1 to 5
       across all article types. This object is read-only and available in

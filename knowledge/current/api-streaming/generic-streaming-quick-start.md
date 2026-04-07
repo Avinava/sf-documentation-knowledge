@@ -5,12 +5,10 @@ topic: generic-streaming-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.107Z
+lastCollected: 2026-04-07T18:36:51.424Z
 estimatedTokens: 297
 keywords: [Generic, Streaming, Quick, Start]
 ---
-
-# Generic Streaming Quick Start
 
 # Generic Streaming Quick Start
 

@@ -5,12 +5,10 @@ topic: set-up-your-development-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.047Z
+lastCollected: 2026-04-07T18:38:56.734Z
 estimatedTokens: 737
-keywords: [Development, Environment, Second-generation, managed, packaging, uses, Salesforce, developer, tools, Ensure, orgs, installed, enabled, Dev, Hub]
+keywords: [Development, Environment, Second-generation, managed, packaging, uses, Salesforce, developer, tools, Ensure, orgs, installed, enabled, Dev, Hub, Keep, Track, Package]
 ---
-
-# Set Up Your Development Environment
 
 > Second-generation managed packaging uses Salesforce DX developer tools. Ensure that you
   have the required tools and orgs installed and enabled.

@@ -5,13 +5,11 @@ topic: recorddetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.213Z
+lastCollected: 2026-04-07T18:39:00.260Z
 estimatedTokens: 574
 namespace: DataRetrieval
-keywords: [RecordDetailsRepresentation, Stores, individual, record, including, associated, data]
+keywords: [RecordDetailsRepresentation, Stores, individual, record, including]
 ---
-
-# RecordDetailsRepresentation Class
 
 > Stores the details of an individual record, including its associated field
     data.

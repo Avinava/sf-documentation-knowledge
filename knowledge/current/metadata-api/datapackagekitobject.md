@@ -5,12 +5,10 @@ topic: datapackagekitobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.088Z
+lastCollected: 2026-04-07T18:36:24.428Z
 estimatedTokens: 584
-keywords: [DataPackageKitObject, Data, Kit, Content, objects, added, inside, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [DataPackageKitObject, Kit, Content, added, inside, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataPackageKitObject
 
 > Represents the object in Data Kit Content Object.
       These objects are added inside the data kit.

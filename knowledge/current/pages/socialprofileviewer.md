@@ -5,12 +5,10 @@ topic: socialprofileviewer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.472Z
+lastCollected: 2026-04-07T18:38:50.711Z
 estimatedTokens: 387
-keywords: [social, profileViewer, component, adds, Accounts, Contacts, viewer, Account, including, person, Contact, Lead, detail, pages, displays]
+keywords: [Attributes, social, profileViewer, adds, Accounts, Contacts, viewer, Account, including, person, Contact, Lead, detail, pages, displays, record, profile, picture, network, icons, allow, users, sign, their, view, directly, Sal]
 ---
-
-# social:profileViewer
 
 > UI component that adds the Social Accounts and Contacts viewer to Account (including person account), Contact, or Lead detail pages. The viewer displays the record name, a profile picture, and the social network icons that allow users to sign in to their accounts and view social data directly in Sal
 

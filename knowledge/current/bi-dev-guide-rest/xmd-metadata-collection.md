@@ -5,12 +5,10 @@ topic: xmd-metadata-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.669Z
+lastCollected: 2026-04-07T18:36:58.226Z
 estimatedTokens: 161
 keywords: [Xmd, Metadata, Collection, Analytics]
 ---
-
-# Xmd Metadata Collection
 
 > A collection of Analytics Xmd metadata.
 

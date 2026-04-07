@@ -5,12 +5,10 @@ topic: dataflow-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.634Z
+lastCollected: 2026-04-07T18:36:56.154Z
 estimatedTokens: 664
-keywords: [Dataflow, Resource, Reverts, previous, version, Postman]
+keywords: [Dataflow, Resource, Reverts, previous, Postman]
 ---
-
-# Dataflow Resource
 
 > Returns a dataflow. Reverts a dataflow to a previous
     version.

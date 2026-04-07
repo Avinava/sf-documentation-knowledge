@@ -5,12 +5,10 @@ topic: external-auth-identity-provider-credential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.726Z
+lastCollected: 2026-04-07T18:37:18.822Z
 estimatedTokens: 201
 keywords: [External, Auth, Identity, Provider, Credential]
 ---
-
-# External Auth Identity Provider Credential
 
 > External auth identity provider credential.
 

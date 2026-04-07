@@ -5,12 +5,10 @@ topic: costbookentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.447Z
+lastCollected: 2026-04-07T18:39:35.902Z
 estimatedTokens: 359
-keywords: [CostBookEntryFeed, Feed, tracking, CostBookEntry]
+keywords: [CostBookEntryFeed, CostBookEntry]
 ---
-
-# CostBookEntryFeed
 
 > Feed tracking for CostBookEntry.
 

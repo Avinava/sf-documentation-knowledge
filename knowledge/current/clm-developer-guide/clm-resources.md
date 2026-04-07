@@ -5,12 +5,10 @@ topic: clm-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.845Z
+lastCollected: 2026-04-07T18:37:24.814Z
 estimatedTokens: 1203
-keywords: [CLM, Resources, Manage, Salesforce, Contracts, Check, contract, document, content, Execute, actions, status, versions, generation, process]
+keywords: [CLM, Resources, Manage, Salesforce, Contracts, Check, contract, document, content, Execute, actions, status, versions, generation, process, configured, templates, possible, particular, Lock, unlock, active, Change, template]
 ---
-
-# CLM Resources
 
 > Manage Salesforce Contracts CLM resources. Check in and check out a contract document.
       Get and delete content document details. Execute actions for a contract based on the status.

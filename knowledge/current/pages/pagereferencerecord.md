@@ -5,12 +5,10 @@ topic: pagereferencerecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.306Z
+lastCollected: 2026-04-07T18:38:48.264Z
 estimatedTokens: 71
 keywords: [PageReference, record, Generate, new, instance, sObject]
 ---
-
-# PageReference(record)
 
 > Generate a new instance of the PageReference
   class for the specified sObject record.

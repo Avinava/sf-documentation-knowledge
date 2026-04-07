@@ -5,12 +5,10 @@ topic: serviceappointmentattendee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.052Z
+lastCollected: 2026-04-07T18:39:20.845Z
 estimatedTokens: 997
-keywords: [ServiceAppointmentAttendee, Lead, Contact, Person, Account, associated, Service, Appointment, Group, API, version, 60.0, later, Calls, Special]
+keywords: [ServiceAppointmentAttendee, Lead, Contact, Person, Account, Service, Appointment, Group, API, 60.0]
 ---
-
-# ServiceAppointmentAttendee
 
 > Represents a Lead, Contact, or Person Account who is associated with
          the Service Appointment of type Group. This object is available in API version 60.0

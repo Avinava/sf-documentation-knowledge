@@ -5,12 +5,10 @@ topic: check-lmo-to-subscriber-values-in-your-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.720Z
+lastCollected: 2026-04-07T18:38:55.145Z
 estimatedTokens: 128
-keywords: [Check, LMO-to-Subscriber, Code, feature, you’d, any, custom]
+keywords: [Check, LMO-to-Subscriber, Code, feature, you’d, any]
 ---
-
-# Check LMO-to-Subscriber Values in Your Code
 
 > You can reference feature parameters in your code, just like you’d reference any other
   custom object.

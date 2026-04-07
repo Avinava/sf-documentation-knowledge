@@ -5,12 +5,10 @@ topic: wave-analytics-limit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.459Z
+lastCollected: 2026-04-07T18:36:58.016Z
 estimatedTokens: 629
 keywords: [Wave, Analytics, Limit]
 ---
-
-# Wave Analytics Limit
 
 > An Analytics limit.
 

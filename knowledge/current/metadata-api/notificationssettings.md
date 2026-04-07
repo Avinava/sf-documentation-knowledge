@@ -5,12 +5,10 @@ topic: notificationssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.446Z
+lastCollected: 2026-04-07T18:36:27.952Z
 estimatedTokens: 557
-keywords: [NotificationsSettings, organization’s, mobile, settings, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Wildcard, Support]
+keywords: [NotificationsSettings, organization’s, mobile, settings, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# NotificationsSettings
 
 > Represents an organization’s mobile
             settings.

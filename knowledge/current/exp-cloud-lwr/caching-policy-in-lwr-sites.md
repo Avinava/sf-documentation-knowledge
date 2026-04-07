@@ -5,12 +5,10 @@ topic: caching-policy-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.209Z
+lastCollected: 2026-04-07T18:37:33.589Z
 estimatedTokens: 590
-keywords: [Caching, Policy, LWR, Sites, Experience, Cloud, heavy, improve, performance, scalability, live, site, Except, initial, document]
+keywords: [Caching, Policy, LWR, Sites, Experience, Cloud, heavy, improve, performance, scalability, live, site, Except, initial, document, API, requests, load, HTTP, cacheable]
 ---
-
-# Caching Policy in LWR Sites
 
 > LWR sites in Experience Cloud make heavy use of caching to improve performance and
   scalability on the live site. Except for the initial document request and data API calls, all

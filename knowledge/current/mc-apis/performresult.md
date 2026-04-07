@@ -5,12 +5,10 @@ topic: performresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.946Z
+lastCollected: 2026-04-07T18:40:18.132Z
 estimatedTokens: 289
 keywords: [PerformResult, results, Perform, call]
 ---
-
-# PerformResult
 
 > The PerformResult object contains the results of a Perform call.
 

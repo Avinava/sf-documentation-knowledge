@@ -5,12 +5,10 @@ topic: cgcloudpaymenttacticproductmanualinputc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.891Z
+lastCollected: 2026-04-07T18:39:14.284Z
 estimatedTokens: 1268
-keywords: [Stores, manual, inputs, payment, tactic-specific, API, version, 54.0, later, cgcloud, _Payment, _Tactic, _Product, _Manual, _Input]
+keywords: [Stores, manual, inputs, payment, tactic-specific, API, 54.0, cgcloud, _Payment, _Tactic, _Product, _Manual, _Input]
 ---
-
-# cgcloud__Payment_Tactic_Product_Manual_Input__c
 
 > Stores manual inputs for payment tactic-specific manual inputs.
       This object is available in API version 54.0 and later.

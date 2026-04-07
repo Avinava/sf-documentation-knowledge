@@ -5,12 +5,10 @@ topic: worktypecarespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.336Z
+lastCollected: 2026-04-07T18:40:07.256Z
 estimatedTokens: 265
 keywords: [WorkTypeCareSpecialty, relationship, care, specialty, visit, Work]
 ---
-
-# WorkTypeCareSpecialty
 
 > Represents a relationship between a care specialty and a visit type (Work
          Type).

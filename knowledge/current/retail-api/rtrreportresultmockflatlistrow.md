@@ -5,13 +5,11 @@ topic: rtrreportresultmockflatlistrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.005Z
+lastCollected: 2026-04-07T18:39:10.467Z
 estimatedTokens: 252
 namespace: The
 keywords: [RTRReportResult.MockFlatlistRow, mock, responses, unit, test, execution, Implementation]
 ---
-
-# RTRReportResult.MockFlatlistRow
 
 > This class is used to create mock responses for the unit test execution.
 

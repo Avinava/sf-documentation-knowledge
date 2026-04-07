@@ -5,12 +5,10 @@ topic: connectapipayexgratiaclaimcvrpaymentdetailinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.214Z
+lastCollected: 2026-04-07T18:37:50.057Z
 estimatedTokens: 81
-keywords: [Input, representation, gratia, payment, claim, coverage, detail]
+keywords: [gratia, payment, claim, coverage, detail]
 ---
-
-# ConnectApi.PayExGratiaClaimCvrPaymentDetailInputRep
 
 > Input representation for the ex gratia payment for the claim coverage payment detail.
 

@@ -5,12 +5,10 @@ topic: timesheetentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.808Z
+lastCollected: 2026-04-07T18:39:12.324Z
 estimatedTokens: 1204
-keywords: [TimeSheetEntry, span, time, assignee, spends, task, API, version, 65.0, later, sheets, composed, sheet, entries, typically]
+keywords: [TimeSheetEntry, span, time, assignee, spends, task, API, 65.0, sheets, composed, sheet, entries, typically, track, individual, tasks]
 ---
-
-# TimeSheetEntry
 
 > Represents a span of time that an assignee spends on a task. This object is available in
 		API version 65.0 and later. Time sheets are composed of time sheet entries. Time sheet

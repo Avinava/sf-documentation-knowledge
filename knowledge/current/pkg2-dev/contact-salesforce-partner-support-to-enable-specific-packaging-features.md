@@ -5,12 +5,10 @@ topic: contact-salesforce-partner-support-to-enable-specific-packaging-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.565Z
+lastCollected: 2026-04-07T18:38:56.102Z
 estimatedTokens: 185
 keywords: [Contact, Salesforce, Partner, Support, Enable, Specific, Packaging, Features, Certain, enabled]
 ---
-
-# Contact Salesforce Partner Support to Enable Specific Packaging Features
 
 > Certain packaging features can only be enabled by Salesforce Partner Support.
 

@@ -5,12 +5,10 @@ topic: comparison-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.997Z
+lastCollected: 2026-04-07T18:40:09.949Z
 estimatedTokens: 2376
 keywords: [Comparison, Operators, SOQL, queries, include, expression, clause, SELECT, statement, complex, semi-joins, anti-joins, Considerations, Semi-Join, Anti-Join]
 ---
-
-# Comparison Operators
 
 > SOQL queries can include comparison operators, such as =, <, >, IN, and LIKE in the field expression of a WHERE clause, which you use in a SELECT statement. You can also use comparison operators to create complex queries with semi-joins and anti-joins.
 

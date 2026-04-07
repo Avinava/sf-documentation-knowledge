@@ -5,12 +5,10 @@ topic: format-measures
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.232Z
+lastCollected: 2026-04-07T18:37:02.789Z
 estimatedTokens: 1671
-keywords: [Measures, apply, letters, symbols, numeric, currency, perform, decimal, rounding, add, grouping, separators, Formatting, Measure, Derived]
+keywords: [Measures, apply, letters, symbols, numeric, currency, perform, decimal, rounding, add, grouping, separators, Formatting, Measure, Derived, Examples]
 ---
-
-# Format Measures
 
 > You can apply letters or symbols before or after the numeric value, such as for
     currency, perform decimal rounding, and add grouping and decimal separators.

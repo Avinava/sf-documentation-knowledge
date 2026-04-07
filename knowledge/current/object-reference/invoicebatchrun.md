@@ -5,12 +5,10 @@ topic: invoicebatchrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.653Z
+lastCollected: 2026-04-07T18:38:33.831Z
 estimatedTokens: 2788
-keywords: [InvoiceBatchRun, batch, processing, job, Subscription, Management, Billing, Revenue, Cloud, invoice, run, schedules, meet, criteria, processed]
+keywords: [InvoiceBatchRun, batch, processing, job, Subscription, Management, Billing, Revenue, Cloud, invoice, run, schedules, meet, criteria, processed, resulting, generation, invoices, API, 55.0]
 ---
-
-# InvoiceBatchRun
 
 > Represents a batch processing job in Subscription Management or
 			Billing (Revenue Cloud). During an invoice batch run, all billing schedules that meet

@@ -5,12 +5,10 @@ topic: insurance-invoke-underwriting-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.115Z
+lastCollected: 2026-04-07T18:37:51.061Z
 estimatedTokens: 108
-keywords: [Insurance, Invoke, Underwriting, Rule, Input, representation, operation]
+keywords: [Insurance, Invoke, Underwriting, Rule, operation]
 ---
-
-# Insurance Invoke Underwriting Rule Input
 
 > Input representation for invoke underwriting rule operation.
 

@@ -5,12 +5,10 @@ topic: optimized-append-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.617Z
+lastCollected: 2026-04-07T18:39:19.300Z
 estimatedTokens: 119
 keywords: [Optimized, Append, Node, recipe]
 ---
-
-# Optimized Append Node
 
 > An optimized append node in a recipe.
 

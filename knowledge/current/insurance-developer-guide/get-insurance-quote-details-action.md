@@ -5,12 +5,10 @@ topic: get-insurance-quote-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.177Z
+lastCollected: 2026-04-07T18:37:48.911Z
 estimatedTokens: 239
-keywords: [Insurance, Quote, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Insurance, Quote, Action, REST, HTTP]
 ---
-
-# Get Insurance Quote Details Action
 
 > Get the details of an insurance quote.
 

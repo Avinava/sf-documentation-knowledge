@@ -5,12 +5,10 @@ topic: sorting-lists-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.736Z
+lastCollected: 2026-04-07T18:36:17.956Z
 estimatedTokens: 1364
-keywords: [Sorting, sObjects, List.sort, sort, Order, Custom]
+keywords: [Sorting, sObjects, List.sort, sort, Order]
 ---
-
-# Sorting Lists of sObjects
 
 > Using the List.sort method, you can sort
         lists of sObjects.

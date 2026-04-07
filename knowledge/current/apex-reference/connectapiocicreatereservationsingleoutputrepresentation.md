@@ -5,12 +5,10 @@ topic: connectapiocicreatereservationsingleoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.075Z
+lastCollected: 2026-04-07T18:36:10.371Z
 estimatedTokens: 153
 keywords: [inventory, reservation, product]
 ---
-
-# ConnectApi.OCICreateReservationSingleOutputRepresentation
 
 > Details of an inventory reservation for one
     product.

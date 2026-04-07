@@ -5,12 +5,10 @@ topic: discoveryaimodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.583Z
+lastCollected: 2026-04-07T18:36:25.028Z
 estimatedTokens: 1821
-keywords: [DiscoveryAIModel, metadata, associated, model, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Version, DiscoveryAlgorithmType, DiscoveryModelField, DiscoveryModelTransform]
+keywords: [DiscoveryAIModel, DiscoveryAlgorithmType, DiscoveryModelField, DiscoveryModelTransform, DiscoveryAIModelTransformationType, DiscoveryModelFieldType, DiscoveryModelRuntimeType, DiscoveryModelSourceType, DiscoveryAIModelStatus, metadata, model, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# DiscoveryAIModel
 
 > Represents the metadata associated with a model used in Einstein
             Discovery.

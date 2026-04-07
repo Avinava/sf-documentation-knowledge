@@ -5,12 +5,10 @@ topic: upsertresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.979Z
+lastCollected: 2026-04-07T18:36:30.353Z
 estimatedTokens: 182
-keywords: [UpsertResult, result, associated, upsertMetadata, call, Version]
+keywords: [UpsertResult, result, upsertMetadata, call]
 ---
-
-# UpsertResult
 
 > Contains information about the result of the associated upsertMetadata() call.
 

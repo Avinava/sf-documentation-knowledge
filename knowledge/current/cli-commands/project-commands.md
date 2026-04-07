@@ -5,12 +5,10 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:54.700Z
+lastCollected: 2026-04-07T18:35:39.491Z
 estimatedTokens: 22507
-keywords: [project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Flags, Aliases, source-behavior]
+keywords: [Flags, project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Aliases, source-behavior, Beta, deploy, cancel, pipeline, quick, report, resume, start, validate, preview, generate, manifest, ignored, reset, retrieve]
 ---
-
-# project Commands
 
 > Convert metadata retrieved via Metadata API into the source format used in Salesforce DX projects.
 

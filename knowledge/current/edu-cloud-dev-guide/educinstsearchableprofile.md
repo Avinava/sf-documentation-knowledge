@@ -5,12 +5,10 @@ topic: educinstsearchableprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.074Z
+lastCollected: 2026-04-07T18:37:31.199Z
 estimatedTokens: 3970
-keywords: [EducInstSearchableProfile, educational, institution, aggregated, objects, Criteria-Based, Search, Filter, API, version, 64.0, later, Calls, Associated]
+keywords: [EducInstSearchableProfile, educational, institution, aggregated, Criteria-Based, Search, Filter, API, 64.0]
 ---
-
-# EducInstSearchableProfile
 
 > Represents information about an educational institution aggregated from other
          objects for Criteria-Based Search and Filter. This object is available in API version

@@ -5,12 +5,10 @@ topic: insurance-group-rating-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.578Z
+lastCollected: 2026-04-07T18:37:51.630Z
 estimatedTokens: 320
 keywords: [Insurance, Group, Rating, POST, Rate, benefits, quote, calculate, premiums, line, items, specific, root, plans, their]
 ---
-
-# Insurance Group Rating (POST)
 
 > Rate a group benefits quote to calculate premiums for all quote line items. Rate
   specific root plans to calculate premiums for their associated quote line items.

@@ -5,12 +5,10 @@ topic: connectapifeediteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.087Z
+lastCollected: 2026-04-07T18:36:05.426Z
 estimatedTokens: 702
-keywords: [ConnectApi.FeedItemInput, rich, feed, items, include, @mentions, files]
+keywords: [ConnectApi.FeedItemInput, rich, items, include, @mentions, files]
 ---
-
-# ConnectApi.FeedItemInput
 
 > Used to create rich feed items, for example, feed items that include @mentions or
     files.

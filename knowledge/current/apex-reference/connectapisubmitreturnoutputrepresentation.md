@@ -5,12 +5,10 @@ topic: connectapisubmitreturnoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.637Z
+lastCollected: 2026-04-07T18:36:11.920Z
 estimatedTokens: 209
 keywords: [change, order, created, action, financial]
 ---
-
-# ConnectApi.SubmitReturnOutputRepresentation
 
 > ID of the change order created for a return action, and a set of its
       financial values.

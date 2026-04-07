@@ -5,12 +5,10 @@ topic: feed-elements-capability-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.731Z
+lastCollected: 2026-04-07T18:37:13.693Z
 estimatedTokens: 198
-keywords: [Feed, Elements, Capability, Interactions, Access, element]
+keywords: [Capability, Interactions]
 ---
-
-# Feed Elements Capability, Interactions
 
 > Access the interactions capability of a feed
     element.

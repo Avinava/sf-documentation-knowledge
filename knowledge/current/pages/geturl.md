@@ -5,12 +5,10 @@ topic: geturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.352Z
+lastCollected: 2026-04-07T18:38:48.316Z
 estimatedTokens: 56
-keywords: [getUrl, relative, URL, associated, PageReference, originally, defined, including, any, query, anchors]
+keywords: [getUrl, relative, URL, PageReference, originally, defined, including, any, query, anchors]
 ---
-
-# getUrl()
 
 > Returns the relative URL associated with the PageReference
 when it was originally defined, including any query string parameters

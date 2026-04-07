@@ -5,12 +5,10 @@ topic: blockingrule-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.492Z
+lastCollected: 2026-04-07T18:36:46.330Z
 estimatedTokens: 175
 keywords: [BlockingRule]
 ---
-
-# BlockingRule Properties
 
 > BlockingRule contains the following properties.
 

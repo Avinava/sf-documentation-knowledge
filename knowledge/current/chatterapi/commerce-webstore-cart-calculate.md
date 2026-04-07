@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-calculate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.299Z
+lastCollected: 2026-04-07T18:37:12.150Z
 estimatedTokens: 458
-keywords: [Commerce, Webstore, Cart, Calculate, Perform, calculation, status, Possible, calculations, include, computing, prices, evaluating, promotions, checking]
+keywords: [Commerce, Webstore, Cart, Calculate, Perform, calculation, status, Possible, calculations, include, computing, prices, evaluating, promotions, checking, inventory, shipping, costs, applying, post, adjustments, taxes]
 ---
-
-# Commerce Webstore Cart, Calculate
 
 > Perform a complete cart calculation based on the cart status.
       Possible calculations include computing prices, evaluating promotions, checking the inventory,

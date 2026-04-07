@@ -5,12 +5,10 @@ topic: requirements-for-standalone-cancellation-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.690Z
+lastCollected: 2026-04-07T18:37:04.315Z
 estimatedTokens: 837
 keywords: [Requirements, Standalone, Cancellation, Order, Products, product, API, Salesforce, Lightning, Classic, Title]
 ---
-
-# Requirements for Standalone Cancellation Order Products
 
 > Create a standalone cancellation order product through API in Salesforce Lightning or
   Salesforce Classic.

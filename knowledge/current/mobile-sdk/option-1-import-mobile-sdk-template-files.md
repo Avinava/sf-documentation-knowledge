@@ -5,12 +5,10 @@ topic: option-1-import-mobile-sdk-template-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.059Z
+lastCollected: 2026-04-07T18:40:26.369Z
 estimatedTokens: 986
-keywords: [Option, Import, Mobile, SDK, Template, Files, replace, Xcode, Swift, native, template—work, otherwise, forceios, few, drags]
+keywords: [Prerequisites, Option, Import, Mobile, SDK, Template, Files, replace, Xcode, Swift, native, template—work, otherwise, forceios, few, drags, drops, app, ready, connect, Salesforce, display, org, Add, Code, Assets, Build, New]
 ---
-
-# Option 1: Import Mobile SDK Template Files
 
 > In this option, you replace files from the Xcode Swift template with files from the
     Mobile SDK native Swift template—work that otherwise would be done by forceios. A few

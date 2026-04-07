@@ -5,12 +5,10 @@ topic: party-financial-liability-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.318Z
+lastCollected: 2026-04-07T18:35:54.362Z
 estimatedTokens: 502
-keywords: [Party, Financial, Liability, DMO, associated, individual, organization, mortgage, loan, Provided, Services, Cloud, Data, Kit, API]
+keywords: [Category, Relationships, Party, Financial, Liability, DMO, individual, organization, mortgage, loan, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Party Financial Liability DMO
 
 > Represents a financial liability associated with an individual or an organization. For
       example a mortgage or loan. Provided in the Financial Services Cloud Data Kit. This DMO is

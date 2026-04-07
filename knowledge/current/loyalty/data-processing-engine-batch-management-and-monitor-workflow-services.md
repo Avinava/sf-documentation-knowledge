@@ -5,12 +5,10 @@ topic: data-processing-engine-batch-management-and-monitor-workflow-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.877Z
+lastCollected: 2026-04-07T18:38:07.086Z
 estimatedTokens: 951
-keywords: [Data, Processing, Engine, Batch, Management, Monitor, Workflow, Services, help, automate, business, processes, objects, APIs, Platform]
+keywords: [Processing, Engine, Batch, Management, Monitor, Workflow, Services, help, automate, business, processes, APIs, Platform, Events, invocable, actions, define, run, review, definitions, jobs]
 ---
-
-# Data Processing Engine, Batch Management, and Monitor Workflow Services
 
 > Data Processing Engine and Batch Management help automate your business processes. Use
   objects, APIs, Platform Events, and invocable actions to define, run, and review Data Processing

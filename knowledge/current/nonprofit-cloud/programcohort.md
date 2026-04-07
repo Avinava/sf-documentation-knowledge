@@ -5,12 +5,10 @@ topic: programcohort
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.322Z
+lastCollected: 2026-04-07T18:38:22.355Z
 estimatedTokens: 826
-keywords: [ProgramCohort, participants, program, cohort, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ProgramCohort, participants, program, cohort, API, 61.0]
 ---
-
-# ProgramCohort
 
 > Represents information about the participants of a program cohort. This
       object is available in API version 61.0 and later.

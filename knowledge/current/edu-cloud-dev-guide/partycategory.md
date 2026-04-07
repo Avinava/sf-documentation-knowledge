@@ -5,12 +5,10 @@ topic: partycategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.855Z
+lastCollected: 2026-04-07T18:37:29.928Z
 estimatedTokens: 687
-keywords: [PartyCategory, criteria, categorizing, contacts, accounts, specific, classification, time, period, API, version, 64.0, later, Calls, Special]
+keywords: [PartyCategory, criteria, categorizing, contacts, accounts, specific, classification, time, period, API, 64.0]
 ---
-
-# PartyCategory
 
 > The criteria for categorizing contacts and accounts based on specific
          classification information for a specified time period. This object is available in

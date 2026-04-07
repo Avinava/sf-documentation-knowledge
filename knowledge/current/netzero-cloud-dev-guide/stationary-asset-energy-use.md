@@ -5,12 +5,10 @@ topic: stationary-asset-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.208Z
+lastCollected: 2026-04-07T18:38:16.789Z
 estimatedTokens: 20336
 keywords: [Stationary, Asset, Energy, consumption, assets, across, multiple, fuel]
 ---
-
-# Stationary Asset Energy Use
 
 > The Stationary Asset Energy Use object represents the energy consumption related to
     stationary assets across multiple fuel types.

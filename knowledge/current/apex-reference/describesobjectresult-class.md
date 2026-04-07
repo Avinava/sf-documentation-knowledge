@@ -5,13 +5,11 @@ topic: describesobjectresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.176Z
+lastCollected: 2026-04-07T18:36:14.554Z
 estimatedTokens: 11235
 namespace: Schema
-keywords: [DescribeSObjectResult, associated, History, Share, Usage, accessible, associateentitytype, associateparententity, childrelationships, createable, custom, customsetting, datatranslationenabled, defaultimplementation, deletable]
+keywords: [DescribeSObjectResult, Share, accessible, associateentitytype, associateparententity, childrelationships, createable, customsetting, datatranslationenabled, defaultimplementation, deletable, deprecatedandhidden, feedenabled, fieldSets, hassubtypes, implementedby, implementsinterfaces, isinterface, keyprefix, label, labelplural, localname, mergeable, mruenabled, queryable, recordtypeinfos, recordtypeinfosbydevelopername, recordtypeinfosbyid, recordtypeinfosbyname, searchable, sobjectdescribeoption, sobjecttype, undeletable, updateable, equals, obj, getAssociateEntityType, getAssociateParentEntity, getChildRelationships, getDataTranslationEnabled, getDefaultImplementation, getFields, getFieldSets, getHasSubtypes, getImplementedBy, getImplementsInterfaces, getIsInterface, getKeyPrefix, getLabel, getLabelPlural, getLocalName, getName, getRecordTypeInfos, getRecordTypeInfosByDeveloperName, getRecordTypeInfosById, getRecordTypeInfosByName, getSObjectDescribeOption, getSobjectType, hashCode, isAccessible, Versioned, Behavior, Changes, isCreateable, isCustom, isCustomSetting, isDeletable, isDeprecatedAndHidden, isFeedEnabled, isMergeable, isMruEnabled, isQueryable, isSearchable, isUndeletable, isUpdateable, toString]
 ---
-
-# DescribeSObjectResult Class
 
 > The type of associated object. For example, History or Share.
 

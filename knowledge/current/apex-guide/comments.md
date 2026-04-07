@@ -5,12 +5,10 @@ topic: comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.319Z
+lastCollected: 2026-04-07T18:36:19.536Z
 estimatedTokens: 287
 keywords: [Comments, multiline, Apex, code]
 ---
-
-# Comments
 
 > Both single and multiline comments are supported in Apex code.
 

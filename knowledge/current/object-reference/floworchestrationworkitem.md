@@ -5,12 +5,10 @@ topic: floworchestrationworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:41.646Z
+lastCollected: 2026-04-07T18:38:32.637Z
 estimatedTokens: 2357
-keywords: [FlowOrchestrationWorkItem, work, item, associated, run-time, instance, interactive, step, orchestration, API, version, 54.0, later, Calls, Special]
+keywords: [FlowOrchestrationWorkItem, work, item, run-time, instance, interactive, step, orchestration, API, 54.0]
 ---
-
-# FlowOrchestrationWorkItem
 
 > Represents a work item associated with a run-time instance of an interactive
          step in a run-time instance of an orchestration. This object is available in API

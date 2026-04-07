@@ -5,12 +5,10 @@ topic: connectapispellcorrectioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.575Z
+lastCollected: 2026-04-07T18:36:11.858Z
 estimatedTokens: 170
 keywords: [ConnectApi.SpellCorrectionInfo, Spell, correction, search]
 ---
-
-# ConnectApi.SpellCorrectionInfo
 
 > Spell correction information for object search.
 

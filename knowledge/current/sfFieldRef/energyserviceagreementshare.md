@@ -5,12 +5,10 @@ topic: energyserviceagreementshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.774Z
+lastCollected: 2026-04-07T18:39:39.437Z
 estimatedTokens: 254
 keywords: [EnergyServiceAgreementShare, Sharing, EnergyServiceAgreement]
 ---
-
-# EnergyServiceAgreementShare
 
 > Sharing for EnergyServiceAgreement.
 

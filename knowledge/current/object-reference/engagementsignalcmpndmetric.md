@@ -5,12 +5,10 @@ topic: engagementsignalcmpndmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.651Z
+lastCollected: 2026-04-07T18:38:30.470Z
 estimatedTokens: 961
-keywords: [EngagementSignalCmpndMetric, rate, metric, measures, ratio, two, engagement, signal, metrics, product, orders, views, calculate, conversion, email]
+keywords: [EngagementSignalCmpndMetric, rate, metric, measures, ratio, two, engagement, signal, metrics, product, orders, views, calculate, conversion, email, clicks, opens, determine, click-through, complex, measurements, testing, web, experimentation, API, 62.0]
 ---
-
-# EngagementSignalCmpndMetric
 
 > Represents a rate metric that measures the ratio between two engagement
          signal metrics, such as product orders and product views to calculate a conversion rate, or

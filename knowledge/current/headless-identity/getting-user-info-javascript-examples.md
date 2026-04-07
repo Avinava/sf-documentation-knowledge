@@ -5,12 +5,10 @@ topic: getting-user-info-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.407Z
+lastCollected: 2026-04-07T18:37:39.347Z
 estimatedTokens: 79
-keywords: [Getting, User, Info, JavaScript, Examples, access, token, via, headless, registration, login, retrieve, endpoint, understand, how]
+keywords: [Getting, User, Info, JavaScript, Examples, token, via, headless, registration, login, retrieve, endpoint, understand, how]
 ---
-
-# Getting User Info JavaScript Examples
 
 > When you get an access token via headless registration or headless login, you can
         retrieve user information with a request to the User Info endpoint. Use this example to

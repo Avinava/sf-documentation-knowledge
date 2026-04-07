@@ -5,12 +5,10 @@ topic: applicationform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.085Z
+lastCollected: 2026-04-07T18:38:22.051Z
 estimatedTokens: 920
-keywords: [ApplicationForm, application, form, submitted, individual, organization, API, version, 66.0, later, Calls, Special, Access, Rules, Associated, high, level, 65.0]
+keywords: [ApplicationForm, application, form, submitted, individual, organization, API, 66.0, high, level, 65.0]
 ---
-
-# ApplicationForm
 
 > Represents an application form submitted by an individual or
          organization. This object is available in API version 66.0 and later.

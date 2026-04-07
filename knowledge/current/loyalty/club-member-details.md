@@ -5,12 +5,10 @@ topic: club-member-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.578Z
+lastCollected: 2026-04-07T18:38:07.814Z
 estimatedTokens: 233
-keywords: [Club, Member, output, Profile, API]
+keywords: [Club, Member, Profile, API]
 ---
-
-# Club Member Details
 
 > Represents the output for Club Member Profile API.
 

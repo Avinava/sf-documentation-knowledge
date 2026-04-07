@@ -5,13 +5,11 @@ topic: connect-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.684Z
+lastCollected: 2026-04-07T18:36:18.898Z
 estimatedTokens: 952
 namespace: ConnectApi
-keywords: [Connect, Apex, develop, custom, experiences, Salesforce, programmatic, access, B2B, Commerce, CMS, managed, content, Experience, Cloud]
+keywords: [Connect, Apex, develop, experiences, Salesforce, programmatic, B2B, Commerce, CMS, managed, content, Experience, Cloud, sites, topics, pages, display, Chatter, feeds, post, items, mentions, user, group, photos, triggers]
 ---
-
-# Connect in Apex
 
 > Use Connect in Apex to develop custom experiences in
                         Salesforce. Connect in Apex provides programmatic access to B2B Commerce,

@@ -5,12 +5,10 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.608Z
+lastCollected: 2026-04-07T18:38:09.919Z
 estimatedTokens: 621
-keywords: [Benefit, benefits, associated, loyalty, program, mapped, members, tier, rules, API, version, 51.0, later, Calls]
+keywords: [Benefit, benefits, loyalty, program, mapped, members, tier, API, 51.0]
 ---
-
-# Benefit
 
 > Represents information about benefits associated with the loyalty
       program. Benefits are mapped to the members based on the tier or other program rules.

@@ -5,12 +5,10 @@ topic: csptrustedsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:38.296Z
+lastCollected: 2026-04-07T18:38:29.183Z
 estimatedTokens: 1581
-keywords: [CspTrustedSite, trusted, URL, specify, Content, Security, Policy, CSP, directives, permissions, directive, Lightning, components, third-party, APIs]
+keywords: [CspTrustedSite, trusted, URL, specify, Content, Security, Policy, CSP, directives, permissions, directive, Lightning, third-party, APIs, WebSocket, connections, resource, Permissions-Policy, HTTP, enabled, grants, browser, feature, API, 58.0, earlier, included, referred, Sites, Salesforce, Setup, 39.0]
 ---
-
-# CspTrustedSite
 
 > Represents a trusted URL. For each CspTrustedSite, you can specify Content Security Policy (CSP) directives and permissions policy directives. Each CSP directive
 		allows Lightning components, third-party APIs, and WebSocket connections to access a resource type from the trusted URL. If the Permissions-Policy HTTP header is enabled, each permissions

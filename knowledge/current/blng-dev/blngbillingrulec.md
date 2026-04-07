@@ -5,12 +5,10 @@ topic: blngbillingrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.979Z
+lastCollected: 2026-04-07T18:37:03.513Z
 estimatedTokens: 997
-keywords: [blng__BillingRule__c, how, billing, occur, products, services, blng, _BillingRule, Calls]
+keywords: [blng__BillingRule__c, how, billing, occur, products, services, blng, _BillingRule]
 ---
-
-# blng__BillingRule__c
 
 > Represents how and when billing must occur for products and services.
 

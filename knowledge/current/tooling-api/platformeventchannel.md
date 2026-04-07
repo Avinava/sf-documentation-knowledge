@@ -5,12 +5,10 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.595Z
+lastCollected: 2026-04-07T18:36:33.926Z
 estimatedTokens: 1657
-keywords: [PlatformEventChannel, custom, channel, subscribe, order, receive, stream, change, data, capture, events, SOAP, Calls, REST, HTTP]
+keywords: [PlatformEventChannel, channel, subscribe, order, receive, stream, change, capture, events, SOAP, REST, HTTP]
 ---
-
-# PlatformEventChannel
 
 > Represents a custom channel that you can
             subscribe to in order to receive a stream of change data capture

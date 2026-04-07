@@ -5,12 +5,10 @@ topic: update-member-progress-for-cumulative-promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.549Z
+lastCollected: 2026-04-07T18:38:08.861Z
 estimatedTokens: 546
-keywords: [Member, Progress, Cumulative, Promotion, made, loyalty, program, towards, attaining, action, creates, record, isn't, associated, REST]
+keywords: [Inputs, Outputs, Member, Progress, Cumulative, Promotion, made, loyalty, program, towards, attaining, action, creates, record, isn't, REST, HTTP]
 ---
-
-# Update Member Progress for Cumulative Promotion
 
 > Update the progress made by a loyalty program member towards attaining
    a Cumulative type promotion. The action creates a Loyalty Program Member Promotion record if the

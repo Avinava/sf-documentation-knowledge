@@ -5,12 +5,10 @@ topic: when-to-use-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.709Z
+lastCollected: 2026-04-07T18:36:50.995Z
 estimatedTokens: 641
-keywords: [Salesforce, Console, Integration, Toolkit, helps, advanced, administrators, developers, implement, custom, functionality, display, Visualforce, pages, third-party]
+keywords: [Salesforce, Console, Integration, Toolkit, helps, advanced, administrators, developers, implement, functionality, display, Visualforce, pages, third-party, content, tabs, API, uses, browsers, clients]
 ---
-
-# When to Use the Salesforce Console Integration Toolkit
 
 > The Salesforce Console Integration Toolkit helps advanced administrators and developers
     implement custom functionality for the Salesforce console. For example,

@@ -5,12 +5,10 @@ topic: retrieve-data-extension-column-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.033Z
+lastCollected: 2026-04-07T18:40:24.537Z
 estimatedTokens: 871
-keywords: [Retrieve, Data, Extension, Column, columns, Ruby, PHP, Python, CSharp, Java, Streamline, Usage, Filtering, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Extension, Column, columns, PHP, Streamline, Filtering, Requests]
 ---
-
-# Retrieve Data Extension Column Details
 
 > Use the Get method to return information about existing data extension columns.
 

@@ -5,12 +5,10 @@ topic: platform-event-error-status-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.025Z
+lastCollected: 2026-04-07T18:38:57.854Z
 estimatedTokens: 403
 keywords: [Platform, Event, Error, Status, Codes, publishing, message, results, code, SaveResult, Synchronous, Errors]
 ---
-
-# Platform Event Error Status Codes
 
 > When publishing an event message results in an error, a status code is returned in the
   SaveResult.

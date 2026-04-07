@@ -5,12 +5,10 @@ topic: campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.065Z
+lastCollected: 2026-04-07T18:39:31.391Z
 estimatedTokens: 665
 keywords: [Campaign, tracks, marketing, direct, mail, promotion, webinar, trade, show]
 ---
-
-# Campaign
 
 > Represents and tracks a marketing campaign, such as a direct mail
 			promotion, webinar, or trade show.

@@ -5,12 +5,10 @@ topic: draft-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.859Z
+lastCollected: 2026-04-07T18:37:13.821Z
 estimatedTokens: 284
-keywords: [Draft, Feed, Element, Publish]
+keywords: [Draft, Publish]
 ---
-
-# Draft Feed Element
 
 > Publish a draft feed element.
 

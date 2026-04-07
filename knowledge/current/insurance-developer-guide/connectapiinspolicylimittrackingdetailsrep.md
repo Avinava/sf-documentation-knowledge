@@ -5,12 +5,10 @@ topic: connectapiinspolicylimittrackingdetailsrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.511Z
+lastCollected: 2026-04-07T18:37:50.347Z
 estimatedTokens: 328
-keywords: [Output, representation, insurance, policy, limit, tracking]
+keywords: [insurance, policy, limit]
 ---
-
-# ConnectApi.InsPolicyLimitTrackingDetailsRep
 
 > Output representation for the insurance policy limit tracking details.
 

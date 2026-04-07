@@ -5,12 +5,10 @@ topic: createsmsconversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.289Z
+lastCollected: 2026-04-07T18:40:21.572Z
 estimatedTokens: 366
-keywords: [CreateSmsConversation, Function, Ordinal, Short, code, SMS, communication, Mobile, number, begin, conversation, **Overview**, **Syntax**, Usage]
+keywords: [CreateSmsConversation, Function, Ordinal, Short, code, SMS, communication, Mobile, number, begin, conversation, **Overview**, **Syntax**]
 ---
-
-# CreateSmsConversation
 
 > CreateSmsConversation(1, 2, 3, 4)
 

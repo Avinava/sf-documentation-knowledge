@@ -5,12 +5,10 @@ topic: analytics-dataset-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.839Z
+lastCollected: 2026-04-07T18:36:59.340Z
 estimatedTokens: 150
 keywords: [Analytics, Dataset, Source, analysis]
 ---
-
-# Analytics Dataset Source
 
 > An analytics dataset as the analysis source.
 

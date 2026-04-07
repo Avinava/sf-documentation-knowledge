@@ -5,12 +5,10 @@ topic: emailroutingaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.347Z
+lastCollected: 2026-04-07T18:38:30.176Z
 estimatedTokens: 306
 keywords: [EmailRoutingAddress, email, address, Email-to-Case, routing, addresses, store, unique, services, provided, Salesforce, configuration, options, emails, received]
 ---
-
-# EmailRoutingAddress
 
 > An email address used for Email-to-Case. Email routing addresses store a
          unique email services address provided by Salesforce and configuration options for emails

@@ -5,13 +5,11 @@ topic: staticresourcecalloutmock-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.212Z
+lastCollected: 2026-04-07T18:36:14.567Z
 estimatedTokens: 1004
 namespace: System
-keywords: [StaticResourceCalloutMock, Utility, specify, fake, testing, HTTP, callouts, Usage, setHeader, headerName, headerValue, setStaticResource, resourceName, setStatus, httpStatus]
+keywords: [StaticResourceCalloutMock, Utility, specify, fake, testing, HTTP, callouts, setHeader, headerName, headerValue, setStaticResource, resourceName, setStatus, httpStatus, setStatusCode, httpStatusCode]
 ---
-
-# StaticResourceCalloutMock Class
 
 > Utility class used to specify a fake response for testing
 HTTP callouts.

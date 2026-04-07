@@ -5,12 +5,10 @@ topic: salesforce-cli-snapshot-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.552Z
+lastCollected: 2026-04-07T18:40:08.504Z
 estimatedTokens: 145
 keywords: [Salesforce, CLI, Snapshot, Commands, manage, scratch, org, snapshots, Help, Terminal, Command]
 ---
-
-# Salesforce CLI Snapshot Commands
 
 > You must use Salesforce CLI commands to create and manage your scratch org
   snapshots.

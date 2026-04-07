@@ -5,12 +5,10 @@ topic: start-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.736Z
+lastCollected: 2026-04-07T18:40:13.662Z
 estimatedTokens: 1330
-keywords: [Start, Calls, guidelines, starting]
+keywords: [Start, guidelines, starting]
 ---
-
-# Start Calls
 
 > This section provides guidelines related to starting calls.
 

@@ -5,12 +5,10 @@ topic: residentialloanapplicationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.489Z
+lastCollected: 2026-04-07T18:40:00.212Z
 estimatedTokens: 366
-keywords: [ResidentialLoanApplicationFeed, Feed, tracking, ResidentialLoanApplication]
+keywords: [ResidentialLoanApplicationFeed, ResidentialLoanApplication]
 ---
-
-# ResidentialLoanApplicationFeed
 
 > Feed tracking for ResidentialLoanApplication.
 

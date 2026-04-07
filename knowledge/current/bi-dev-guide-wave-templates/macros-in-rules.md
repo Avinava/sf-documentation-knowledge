@@ -5,12 +5,10 @@ topic: macros-in-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.934Z
+lastCollected: 2026-04-07T18:37:02.484Z
 estimatedTokens: 566
-keywords: [Macros, Rules, macro, rule, executes, repeatedly, different, JSON, node, paths]
+keywords: [Macros, macro, rule, executes, repeatedly, different, JSON, node, paths]
 ---
-
-# Macros in Rules
 
 > Use a macro when a single rule executes repeatedly on different JSON node
   paths.

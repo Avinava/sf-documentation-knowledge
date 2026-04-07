@@ -5,12 +5,10 @@ topic: insurancepolicyparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.076Z
+lastCollected: 2026-04-07T18:37:37.891Z
 estimatedTokens: 2811
-keywords: [InsurancePolicyParticipant, junction, associates, InsurancePolicy, Account, participants, insurance, policy, include, owners, beneficiaries, Calls, Associated, Objects]
+keywords: [InsurancePolicyParticipant, junction, associates, InsurancePolicy, Account, participants, insurance, policy, include, owners, beneficiaries]
 ---
-
-# InsurancePolicyParticipant
 
 > A junction object that associates the InsurancePolicy object with the Account
       object. This object represents the participants of an insurance policy. Insurance policy

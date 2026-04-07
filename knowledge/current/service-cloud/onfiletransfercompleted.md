@@ -5,12 +5,10 @@ topic: onfiletransfercompleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.316Z
+lastCollected: 2026-04-07T18:36:50.544Z
 estimatedTokens: 210
-keywords: [onFileTransferCompleted, Registers, function, call, file, transferred, customer, agent, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, onFileTransferCompleted, Registers, function, call, file, transferred, customer, agent, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# onFileTransferCompleted()
 
 > Registers a function to call when a file is transferred from a customer to an agent.
         Available in API version 31.0 or later.

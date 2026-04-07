@@ -5,12 +5,10 @@ topic: model-coefficients-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.483Z
+lastCollected: 2026-04-07T18:36:58.981Z
 estimatedTokens: 240
 keywords: [Model, Coefficients, Resource, collection, Einstein, Discovery]
 ---
-
-# Model Coefficients Resource
 
 > Returns a collection of coefficients for an Einstein Discovery
    model.

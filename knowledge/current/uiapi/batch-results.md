@@ -5,12 +5,10 @@ topic: batch-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.556Z
+lastCollected: 2026-04-07T18:40:11.552Z
 estimatedTokens: 160
 keywords: [Batch, Results, resource, include, subrequest]
 ---
-
-# Batch Results
 
 > The results from a request to a batch resource. Results include information for each
   subrequest in the batch.

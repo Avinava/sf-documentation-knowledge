@@ -5,12 +5,10 @@ topic: unauthenticated-guest-user-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:39.990Z
+lastCollected: 2026-04-07T18:37:26.959Z
 estimatedTokens: 551
-keywords: [Unauthenticated, Guest, User, Guidelines, Consider, record, encryption, providing, different, levels, access, users, choose, declarative, custom]
+keywords: [Unauthenticated, Guest, User, Guidelines, Consider, record, encryption, providing, different, levels, users, choose, declarative, control, model]
 ---
-
-# Unauthenticated Guest User Guidelines
 
 > Consider these guidelines about record ID encryption and providing different levels
         of access to unauthenticated guest users before you choose a declarative or custom access

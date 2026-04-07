@@ -5,12 +5,10 @@ topic: caretaxonomyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.784Z
+lastCollected: 2026-04-07T18:39:33.194Z
 estimatedTokens: 359
-keywords: [CareTaxonomyFeed, Feed, tracking, CareTaxonomy]
+keywords: [CareTaxonomyFeed, CareTaxonomy]
 ---
-
-# CareTaxonomyFeed
 
 > Feed tracking for CareTaxonomy.
 

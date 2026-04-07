@@ -5,12 +5,10 @@ topic: sentiment-insights-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.925Z
+lastCollected: 2026-04-07T18:36:43.658Z
 estimatedTokens: 108
-keywords: [Sentiment, Insights, Standard, Objects, view, result, analysis]
+keywords: [Sentiment, Insights, Standard, view, result, analysis]
 ---
-
-# Sentiment Insights Standard Objects
 
 > Use the standard objects to view the result of the sentiment analysis.
 

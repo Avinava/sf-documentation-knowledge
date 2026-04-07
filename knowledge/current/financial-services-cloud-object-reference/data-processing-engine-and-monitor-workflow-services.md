@@ -5,12 +5,10 @@ topic: data-processing-engine-and-monitor-workflow-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:47.667Z
+lastCollected: 2026-04-07T18:37:35.288Z
 estimatedTokens: 472
-keywords: [Data, Processing, Engine, Monitor, Workflow, Services, helps, transform, that's, Salesforce, org, write, back, transformation, results]
+keywords: [Processing, Engine, Monitor, Workflow, Services, helps, transform, that's, Salesforce, org, write, back, transformation, results, new, updated, records, standard, definitions, activate, definition, run, tracked]
 ---
-
-# Data Processing Engine and Monitor Workflow Services
 
 > Data Processing Engine helps you transform data that's available in your Salesforce org
   and write back the transformation results as new or updated records. You can transform the data

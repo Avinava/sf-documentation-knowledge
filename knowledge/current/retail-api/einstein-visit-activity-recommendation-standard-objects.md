@@ -5,12 +5,10 @@ topic: einstein-visit-activity-recommendation-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.875Z
+lastCollected: 2026-04-07T18:39:11.412Z
 estimatedTokens: 226
-keywords: [Einstein, Visit, Activity, Recommendation, Standard, Objects, data, model, contain, task, requests, recommendations, supports, sales, managers]
+keywords: [Einstein, Visit, Activity, Recommendation, Standard, model, contain, task, requests, recommendations, supports, sales, managers, reps, scheduling, tasks, assessment, indicators, visits]
 ---
-
-# Einstein Visit Activity Recommendation Standard Objects
 
 > Einstein Visit Activity Recommendation data model provides you objects and fields to
   contain data about visit task recommendation requests and visit task recommendations. Einstein

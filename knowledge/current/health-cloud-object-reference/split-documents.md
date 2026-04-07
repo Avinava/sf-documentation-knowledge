@@ -5,12 +5,10 @@ topic: split-documents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.300Z
+lastCollected: 2026-04-07T18:37:41.373Z
 estimatedTokens: 521
 keywords: [Split, Documents, document, attach, pages, transformed, Salesforce, records]
 ---
-
-# Split Documents
 
 > Split a document and attach one or more pages from the transformed
       document to Salesforce

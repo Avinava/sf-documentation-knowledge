@@ -5,12 +5,10 @@ topic: record-alert-action-collection-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.609Z
+lastCollected: 2026-04-07T18:36:40.330Z
 estimatedTokens: 126
-keywords: [Record, Alert, Action, Collection, Map, Output, representation, bulk, actions]
+keywords: [Record, Alert, Action, Collection, Map, bulk, actions]
 ---
-
-# Record Alert Action Collection Map
 
 > Output representation of the record alert bulk
     actions.

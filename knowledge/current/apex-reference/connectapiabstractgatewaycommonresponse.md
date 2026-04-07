@@ -5,12 +5,10 @@ topic: connectapiabstractgatewaycommonresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.507Z
+lastCollected: 2026-04-07T18:36:06.861Z
 estimatedTokens: 327
 keywords: [Payment, gateway, commonly, services]
 ---
-
-# ConnectApi.AbstractGatewayCommonResponse
 
 > Payment gateway response fields commonly used in payment
       services.

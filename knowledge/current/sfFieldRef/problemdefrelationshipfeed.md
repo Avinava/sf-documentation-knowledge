@@ -5,12 +5,10 @@ topic: problemdefrelationshipfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.331Z
+lastCollected: 2026-04-07T18:39:54.889Z
 estimatedTokens: 364
-keywords: [ProblemDefRelationshipFeed, Feed, tracking, ProblemDefRelationship]
+keywords: [ProblemDefRelationshipFeed, ProblemDefRelationship]
 ---
-
-# ProblemDefRelationshipFeed
 
 > Feed tracking for ProblemDefRelationship.
 

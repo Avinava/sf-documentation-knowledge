@@ -5,12 +5,10 @@ topic: create-application-form-party-financial-liability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.454Z
+lastCollected: 2026-04-07T18:36:39.125Z
 estimatedTokens: 128
-keywords: [Application, Form, Party, Financial, Liability, Output, representation]
+keywords: [Application, Form, Party, Financial, Liability]
 ---
-
-# Create Application Form Party Financial Liability
 
 > Output representation of the request to create the party financial
     liability.

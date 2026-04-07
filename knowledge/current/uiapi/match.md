@@ -5,12 +5,10 @@ topic: match
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.884Z
+lastCollected: 2026-04-07T18:40:11.894Z
 estimatedTokens: 125
-keywords: [Match, group, records, duplicate, rules]
+keywords: [Match, group, records, duplicate]
 ---
-
-# Match
 
 > A group of records that match the duplicate rules.
 

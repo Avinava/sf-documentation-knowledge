@@ -5,12 +5,10 @@ topic: xmd-organization-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.885Z
+lastCollected: 2026-04-07T18:36:55.302Z
 estimatedTokens: 129
-keywords: [Xmd, Organization, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Organization, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Organization Input
 
 > The extended metadata (Xmd) for an organization in an Analytics dataset.
 

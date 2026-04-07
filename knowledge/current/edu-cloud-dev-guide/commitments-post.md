@@ -5,12 +5,10 @@ topic: commitments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.165Z
+lastCollected: 2026-04-07T18:37:29.288Z
 estimatedTokens: 370
-keywords: [Commitments, POST, recurring, gift, schedules, along, associated, new, matched, donor, Customize, accounts]
+keywords: [Commitments, POST, recurring, gift, schedules, along, new, matched, donor, Customize, accounts]
 ---
-
-# Commitments (POST)
 
 > Create recurring gift commitments and schedules, along with associated new or matched
     donor. Customize fields for donor accounts, gift commitments, and schedules.

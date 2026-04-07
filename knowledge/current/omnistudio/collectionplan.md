@@ -5,12 +5,10 @@ topic: collectionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.806Z
+lastCollected: 2026-04-07T18:36:44.523Z
 estimatedTokens: 2406
-keywords: [CollectionPlan, outstanding, amounts, linked, financial, accounts, billing, contacts, cases, associated, individuals, organization, API, version, 63.0]
+keywords: [CollectionPlan, outstanding, amounts, linked, financial, accounts, billing, contacts, cases, individuals, organization, API, 63.0]
 ---
-
-# CollectionPlan
 
 > Represents details about the outstanding amounts linked to financial
          accounts, billing accounts, contacts, accounts, or cases associated with individuals or an

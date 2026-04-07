@@ -5,12 +5,10 @@ topic: connectapifeeditempage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.331Z
+lastCollected: 2026-04-07T18:36:06.683Z
 estimatedTokens: 532
-keywords: [ConnectApi.FeedItemPage, paged, collection, ConnectApi.FeedItem, objects]
+keywords: [ConnectApi.FeedItemPage, paged, collection, ConnectApi.FeedItem]
 ---
-
-# ConnectApi.FeedItemPage
 
 > A paged collection of ConnectApi.FeedItem objects.
 

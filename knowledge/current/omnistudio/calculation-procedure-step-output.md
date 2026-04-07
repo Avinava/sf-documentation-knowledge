@@ -5,12 +5,10 @@ topic: calculation-procedure-step-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.162Z
+lastCollected: 2026-04-07T18:36:38.823Z
 estimatedTokens: 1050
-keywords: [Calculation, Procedure, Step, Output, representation, steps, expression, version, record]
+keywords: [Calculation, Procedure, Step, steps, expression, record]
 ---
-
-# Calculation Procedure Step Output
 
 > Output representation of the steps of the expression set version
       record.

@@ -5,12 +5,10 @@ topic: productusageresourcefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.850Z
+lastCollected: 2026-04-07T18:39:56.393Z
 estimatedTokens: 391
-keywords: [ProductUsageResourceFeed, Feed, tracking, ProductUsageResource]
+keywords: [ProductUsageResourceFeed, ProductUsageResource]
 ---
-
-# ProductUsageResourceFeed
 
 > Feed tracking for ProductUsageResource.
 

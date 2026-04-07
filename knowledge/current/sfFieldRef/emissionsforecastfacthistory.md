@@ -5,12 +5,10 @@ topic: emissionsforecastfacthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.397Z
+lastCollected: 2026-04-07T18:39:39.054Z
 estimatedTokens: 271
-keywords: [EmissionsForecastFactHistory, History, tracked, EmissionsForecastFact]
+keywords: [EmissionsForecastFactHistory, tracked, EmissionsForecastFact]
 ---
-
-# EmissionsForecastFactHistory
 
 > History for tracked fields of EmissionsForecastFact.
 

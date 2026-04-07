@@ -5,12 +5,10 @@ topic: require-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.635Z
+lastCollected: 2026-04-07T18:35:42.521Z
 estimatedTokens: 336
-keywords: [Require, Rule, requires, certain, components, included, relationship, conditions, met]
+keywords: [Require, Rule, requires, certain, included, relationship, conditions, met]
 ---
-
-# Require Rule
 
 > The require rule requires certain components to be included in a relationship when
     specified conditions are met.

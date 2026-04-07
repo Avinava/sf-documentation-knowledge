@@ -5,12 +5,10 @@ topic: prerequisites-setup-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.746Z
+lastCollected: 2026-04-07T18:38:15.230Z
 estimatedTokens: 242
 keywords: [Prerequisites, Setup, Considerations, correct, tools, installed, Offline, App, Onboarding, Wizard, haven’t, yet, resources, guidance]
 ---
-
-# Prerequisites & Setup Considerations
 
 > You need the correct tools installed to use the Offline App Onboarding Wizard. If you
         haven’t set up your tools yet, see the following resources for guidance.

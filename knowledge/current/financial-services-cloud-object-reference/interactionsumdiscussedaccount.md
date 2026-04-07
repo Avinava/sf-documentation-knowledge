@@ -5,12 +5,10 @@ topic: interactionsumdiscussedaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.237Z
+lastCollected: 2026-04-07T18:37:38.065Z
 estimatedTokens: 674
-keywords: [InteractionSumDiscussedAccount, companies, discussed, interaction, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [InteractionSumDiscussedAccount, companies, discussed, interaction, API, 53.0]
 ---
-
-# InteractionSumDiscussedAccount
 
 > Represents information about the companies discussed in an interaction.
       This object is available in API version 53.0 and later.

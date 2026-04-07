@@ -5,12 +5,10 @@ topic: methods-for
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.177Z
+lastCollected: 2026-04-07T18:36:50.382Z
 estimatedTokens: 668
 keywords: [org, Lightning, Experience, Console, JavaScript, API]
 ---
-
-# Methods for
 
 > If your org is using Lightning Experience,
   use Lightning Console JavaScript API methods.

@@ -5,12 +5,10 @@ topic: insurance-configurator-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.202Z
+lastCollected: 2026-04-07T18:37:52.350Z
 estimatedTokens: 99
-keywords: [Insurance, Configurator, Message, Output, representation, messages]
+keywords: [Insurance, Configurator, Message, messages]
 ---
-
-# Insurance Configurator Message
 
 > Output representation of configurator messages.
 

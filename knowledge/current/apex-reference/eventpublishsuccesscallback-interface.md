@@ -5,13 +5,11 @@ topic: eventpublishsuccesscallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.121Z
+lastCollected: 2026-04-07T18:36:13.438Z
 estimatedTokens: 654
 namespace: EventBus
-keywords: [EventPublishSuccessCallback, Implement, track, platform, event, messages, were, published, successfully, onSuccess, final, result, asynchronous, publish, operation]
+keywords: [EventPublishSuccessCallback, Implement, track, platform, event, messages, were, published, successfully, onSuccess, final, result, asynchronous, publish, operation, becomes, Implementation]
 ---
-
-# EventPublishSuccessCallback Interface
 
 > Implement this interface to track platform event messages that were published
         successfully. The onSuccess() method in this interface is

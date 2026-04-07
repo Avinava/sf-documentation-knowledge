@@ -5,12 +5,10 @@ topic: survey-nps-question-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.433Z
+lastCollected: 2026-04-07T18:39:17.063Z
 estimatedTokens: 273
-keywords: [Survey, NPS, Question, Output, representation]
+keywords: [Survey, NPS, Question]
 ---
-
-# Survey NPS Question Output
 
 > Output representation of the details of the NPS question on the survey
       page.

@@ -5,12 +5,10 @@ topic: oncallbegin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.338Z
+lastCollected: 2026-04-07T18:36:50.574Z
 estimatedTokens: 166
-keywords: [onCallBegin, Registers, function, call, begins, comes, computer-telephony, integration, CTI, it’s, API, version, 24.0, later, Arguments]
+keywords: [Arguments, onCallBegin, Registers, function, call, begins, comes, computer-telephony, integration, CTI, it’s, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# onCallBegin()
 
 > Registers a function that is called when a call begins (comes
    in). This method is for computer-telephony integration (CTI);

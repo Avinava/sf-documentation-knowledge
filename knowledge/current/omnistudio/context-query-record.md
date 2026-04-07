@@ -5,12 +5,10 @@ topic: context-query-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.425Z
+lastCollected: 2026-04-07T18:36:39.091Z
 estimatedTokens: 126
-keywords: [Context, Query, Record, Output, representation, including, primary, associated, child, records]
+keywords: [Context, Query, Record, including, primary, child, records]
 ---
-
-# Context Query Record
 
 > Output representation of context query record, including primary and associated child
     records.

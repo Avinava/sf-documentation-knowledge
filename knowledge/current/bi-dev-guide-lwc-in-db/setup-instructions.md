@@ -5,12 +5,10 @@ topic: setup-instructions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.992Z
+lastCollected: 2026-04-07T18:36:54.366Z
 estimatedTokens: 791
-keywords: [Setup, Instructions, Salesforce, org, development, Lightning, Web, Components, CRM, Analytics, Component, examples, provided]
+keywords: [Setup, Instructions, Salesforce, org, development, Lightning, Web, CRM, Analytics, examples, provided]
 ---
-
-# Setup Instructions
 
 > Use these instructions to set up your Salesforce org for development of Lightning Web
     Components and to use the CRM Analytics Lightning Web Component examples provided.

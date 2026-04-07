@@ -5,12 +5,10 @@ topic: defining-templates-with-apexcomposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.143Z
+lastCollected: 2026-04-07T18:38:52.450Z
 estimatedTokens: 753
-keywords: [Defining, Templates, <apex, composition>, defined, child, insert>, tags, tag, pages, import, template, needs, definition, Any]
+keywords: [Defining, Templates, <apex, composition>, defined, child, insert>, tags, tag, pages, import, template, needs, definition, Any, Visualforce, imports, define>, specify, Dynamic]
 ---
-
-# Defining Templates with  <apex:composition>
 
 > All templates defined using <apex:composition> must have one or more child <apex:insert> tags. An <apex:insert> tag indicates to pages that import the template that a section needs
 a definition. Any Visualforce page that imports a template using <apex:composition> must use <apex:define> to specify t

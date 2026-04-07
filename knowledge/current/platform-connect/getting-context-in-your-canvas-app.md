@@ -5,12 +5,10 @@ topic: getting-context-in-your-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.155Z
+lastCollected: 2026-04-07T18:38:56.872Z
 estimatedTokens: 565
 keywords: [Getting, Context, Canvas, App, authenticate, signed, CanvasRequest, part, POST, URL, you’re, authenticating, OAuth, want, call]
 ---
-
-# Getting Context in Your Canvas App
 
 > When you authenticate your canvas app using signed request, you get the CanvasRequest object (which contains the Context object) as part
             of the POST to the canvas app URL. If you’re authenticating using OAuth, or you

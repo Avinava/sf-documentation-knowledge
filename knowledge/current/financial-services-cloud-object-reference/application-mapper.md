@@ -5,12 +5,10 @@ topic: application-mapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.290Z
+lastCollected: 2026-04-07T18:37:34.870Z
 estimatedTokens: 186
 keywords: [Application, Mapper, financial, accounts, records, residential, loan]
 ---
-
-# Application Mapper
 
 > Create financial accounts and related records from a residential
       loan application.

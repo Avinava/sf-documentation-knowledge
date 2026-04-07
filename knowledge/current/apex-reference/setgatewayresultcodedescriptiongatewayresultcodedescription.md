@@ -5,12 +5,10 @@ topic: setgatewayresultcodedescriptiongatewayresultcodedescription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.009Z
+lastCollected: 2026-04-07T18:36:04.229Z
 estimatedTokens: 169
 keywords: [setGatewayResultCodeDescription, gatewayResultCodeDescription, gateway-specific, result, code, payment, gateway, Maximum, length, characters]
 ---
-
-# setGatewayResultCodeDescription(gatewayResultCodeDescription)
 
 > Sets a description of the gateway-specific result code that a payment gateway returned.
     Maximum length of 1000 characters.

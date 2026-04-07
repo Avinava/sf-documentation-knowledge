@@ -5,12 +5,10 @@ topic: operational-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.037Z
+lastCollected: 2026-04-07T18:36:31.422Z
 estimatedTokens: 454
-keywords: [Operational, Objects, Tooling, API, operations]
+keywords: [Operational, Tooling, API, operations]
 ---
-
-# Operational Objects
 
 > Use the following objects for Tooling API operations.
 

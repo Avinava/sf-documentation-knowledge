@@ -5,12 +5,10 @@ topic: resultitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.428Z
+lastCollected: 2026-04-07T18:40:18.627Z
 estimatedTokens: 789
-keywords: [ResultItem, results, asynchronous, API, call, calling, zero, objects, until, picked, queue, amount, time, remains, depends]
+keywords: [ResultItem, results, asynchronous, API, call, calling, zero, until, picked, queue, amount, time, remains, depends, current, volume, Marketing, Cloud, Sample, SOAP, Envelope, Items]
 ---
-
-# ResultItem
 
 > The ResultItem object contains the results of an asynchronous API call. When calling the asynchronous API, ResultItem contains zero objects until that request is picked up from the asynchronous queue. The amount of time a call remains in the queue depends on the current volume of Marketing Cloud.
 

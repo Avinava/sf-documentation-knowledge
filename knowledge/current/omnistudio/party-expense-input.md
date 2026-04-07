@@ -5,12 +5,10 @@ topic: party-expense-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.668Z
+lastCollected: 2026-04-07T18:36:37.197Z
 estimatedTokens: 345
-keywords: [Party, Expense, Input, representation]
+keywords: [Party, Expense]
 ---
-
-# Party Expense Input
 
 > Input representation of the party expense.
 

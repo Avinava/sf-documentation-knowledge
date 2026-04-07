@@ -5,12 +5,10 @@ topic: connectapiconnectiondbschemacollectioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.711Z
+lastCollected: 2026-04-07T18:36:05.074Z
 estimatedTokens: 164
-keywords: [input, database, schema, collection]
+keywords: [database, schema, collection]
 ---
-
-# ConnectApi.ConnectionDbSchemaCollectionInput
 
 > Represents the input for a database schema collection.
 

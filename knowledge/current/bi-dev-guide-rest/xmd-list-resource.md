@@ -5,12 +5,10 @@ topic: xmd-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.996Z
+lastCollected: 2026-04-07T18:36:56.556Z
 estimatedTokens: 332
-keywords: [Xmd, Resource, resources, version, dataset, main, system, user, view, asset, Xmds, refer, API, URL, Formats]
+keywords: [Formats, Xmd, Resource, resources, dataset, main, system, user, view, asset, Xmds, refer, API, URL, Postman, HTTP]
 ---
-
-# Xmd List Resource
 
 > Returns a list of Xmd resources for a version of a dataset. This list is for main,
       system, and user Xmd types. To view asset type Xmds, refer to the Asset Xmd API resource.

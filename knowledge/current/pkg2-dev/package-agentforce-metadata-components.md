@@ -5,12 +5,10 @@ topic: package-agentforce-metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.652Z
+lastCollected: 2026-04-07T18:38:55.063Z
 estimatedTokens: 820
-keywords: [Package, Agentforce, Metadata, Components, Bring, power, conversational, apps]
+keywords: [Package, Agentforce, Metadata, Bring, power, conversational, apps]
 ---
-
-# Package Agentforce Metadata Components
 
 > Bring the power of conversational AI to your apps with Agentforce.
 

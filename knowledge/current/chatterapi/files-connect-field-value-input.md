@@ -5,12 +5,10 @@ topic: files-connect-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.125Z
+lastCollected: 2026-04-07T18:37:07.914Z
 estimatedTokens: 125
-keywords: [Files, Connect, Input, item]
+keywords: [Files, Connect, item]
 ---
-
-# Files Connect Field Value Input
 
 > The fields of the item type.
 

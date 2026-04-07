@@ -5,12 +5,10 @@ topic: vpls360csr-transformpersonaldetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.484Z
+lastCollected: 2026-04-07T18:38:11.787Z
 estimatedTokens: 82
-keywords: [vpls360csr-TransformPersonalDetails, Omnistudio, Data, Mapper, transforms, personal, account, Sample, Input, Output]
+keywords: [vpls360csr-TransformPersonalDetails, Omnistudio, Mapper, transforms, personal, account, Sample]
 ---
-
-# vpls360csr-TransformPersonalDetails
 
 > This Omnistudio Data Mapper transforms the personal details
     of an account.

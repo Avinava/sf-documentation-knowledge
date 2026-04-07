@@ -5,12 +5,10 @@ topic: connectapimultiplefulfillmentorderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.914Z
+lastCollected: 2026-04-07T18:36:10.216Z
 estimatedTokens: 155
 keywords: [responses, individual, FulfillmentOrder, creation, attempts, multiple, fulfillment, orders]
 ---
-
-# ConnectApi.MultipleFulfillmentOrderOutputRepresentation
 
 > A list of responses for the individual FulfillmentOrder creation
       attempts from a request to create multiple fulfillment orders.

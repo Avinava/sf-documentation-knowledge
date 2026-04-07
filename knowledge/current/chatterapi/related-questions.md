@@ -5,12 +5,10 @@ topic: related-questions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.865Z
+lastCollected: 2026-04-07T18:37:13.827Z
 estimatedTokens: 328
 keywords: [Questions, context, question]
 ---
-
-# Related Questions
 
 > Get questions related to the context question.
 

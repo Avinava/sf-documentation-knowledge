@@ -5,12 +5,10 @@ topic: service-cloud-voice-for-partner-telephony-troubleshooting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.769Z
+lastCollected: 2026-04-07T18:40:13.694Z
 estimatedTokens: 1227
-keywords: [Service, Cloud, Voice, Partner, Telephony, Troubleshooting, Review, tips, common, problems, Omni-Channel, Doesn't, Show, AgentWork, Accept]
+keywords: [Service, Cloud, Voice, Partner, Telephony, Troubleshooting, Review, tips, common, problems, Omni-Channel, Doesn't, Show, AgentWork, Accept, Reject, Incoming, Call, Duplicate, Connector, Doesn’t, Load, Successfully, Setup, Node, Display, Phone, Control, Fails, Download, Logs]
 ---
-
-# Service Cloud Voice for Partner Telephony Troubleshooting
 
 > Review tips for troubleshooting common problems.
 

@@ -5,12 +5,10 @@ topic: expression-set-invocation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.093Z
+lastCollected: 2026-04-07T18:36:37.710Z
 estimatedTokens: 347
 keywords: [Expression, Invocation, POST, Invokes, Business, Rule, Engine]
 ---
-
-# Expression Set Invocation (POST)
 
 > Invokes expression sets in Business Rule Engine.
 

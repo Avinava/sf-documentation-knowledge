@@ -5,12 +5,10 @@ topic: use-an-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.699Z
+lastCollected: 2026-04-07T18:38:57.500Z
 estimatedTokens: 907
 keywords: [External, Client, App, canvas, org, configure, plugin]
 ---
-
-# Use an External Client App
 
 > To create the canvas app in your org, configure the Canvas plugin for an external
         client app.

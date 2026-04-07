@@ -5,12 +5,10 @@ topic: build-your-own-ui-with-the-chat-core-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.500Z
+lastCollected: 2026-04-07T18:40:27.661Z
 estimatedTokens: 1920
-keywords: [Build, Own, Chat, Core, API, access, functionality, useful, want]
+keywords: [Build, Own, Chat, Core, API, functionality, useful, want]
 ---
-
-# Build Your Own UI with the Chat Core API
 
 > With the Chat Core API, you can access the functionality of Chat without a UI. This API
     is useful if you want to build your own UI and not use the default.

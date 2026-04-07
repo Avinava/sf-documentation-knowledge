@@ -5,12 +5,10 @@ topic: get-eligible-insurance-clauses-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.072Z
+lastCollected: 2026-04-07T18:37:48.800Z
 estimatedTokens: 383
-keywords: [Eligible, Insurance, Clauses, Action, quote, context, specify, either, instance, key, line, item, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Eligible, Insurance, Clauses, Action, quote, context, specify, either, instance, key, line, item, REST, HTTP]
 ---
-
-# Get Eligible Insurance Clauses Action
 
 > Get eligible insurance clauses based on quote ID
             and context ID. You must specify either a quote ID or a context ID, and either an

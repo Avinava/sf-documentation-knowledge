@@ -5,12 +5,10 @@ topic: cgcloudaccountvisitsettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.466Z
+lastCollected: 2026-04-07T18:39:12.890Z
 estimatedTokens: 1615
-keywords: [cgcloud__Account_Visit_Setting__c, stores, settings, calls, user, customer, API, version, 54.0, later, cgcloud, _Account, _Visit, _Setting, Associated]
+keywords: [cgcloud__Account_Visit_Setting__c, stores, settings, user, customer, API, 54.0, cgcloud, _Account, _Visit, _Setting]
 ---
-
-# cgcloud__Account_Visit_Setting__c
 
 > This object stores the settings for the calls of a user based on a
          customer. This object is available in API version 54.0 and later.

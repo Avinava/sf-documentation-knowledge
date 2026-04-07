@@ -5,12 +5,10 @@ topic: loyaltypgmengmtattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.843Z
+lastCollected: 2026-04-07T18:39:47.323Z
 estimatedTokens: 448
 keywords: [LoyaltyPgmEngmtAttribute, engagement, attribute, loyalty, program]
 ---
-
-# LoyaltyPgmEngmtAttribute
 
 > Represents information about an engagement attribute for a loyalty
          program.

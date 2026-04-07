@@ -5,12 +5,10 @@ topic: related-list-record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.161Z
+lastCollected: 2026-04-07T18:40:12.167Z
 estimatedTokens: 693
 keywords: [Record, Collection, records]
 ---
-
-# Related List Record Collection
 
 > A collection of related list records.
 

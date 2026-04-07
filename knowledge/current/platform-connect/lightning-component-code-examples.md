@@ -5,12 +5,10 @@ topic: lightning-component-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:05:04.108Z
+lastCollected: 2026-04-07T18:38:56.815Z
 estimatedTokens: 1106
-keywords: [Lightning, Component, Code, Examples, show, how, <force, canvasApp>, applicationName, developerName, namespacePrefix, Detail, Standard]
+keywords: [Lightning, Code, Examples, show, how, <force, canvasApp>, applicationName, developerName, namespacePrefix, Detail, Standard]
 ---
-
-# Lightning Component Code Examples
 
 > The following examples show how to reference a <force:canvasApp> component using applicationName, developerName, and
             namespacePrefix.

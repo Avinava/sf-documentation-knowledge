@@ -5,12 +5,10 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:37.000Z
+lastCollected: 2026-04-07T18:36:22.253Z
 estimatedTokens: 2676
-keywords: [AdvAccountForecastSet, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, data]
+keywords: [AdvAccountForecastSet, AdvAccountForecastFormula, AdvAcctForecastAdjPeriod, AdvAcctForecastDimension, AdvAcctForecastMeasureDef, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, manage, configuration, updates, impacting, any, unit’s, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AdvAccountForecastSet
 
 > Represents the forecast sets that define the forecast
 			configurations for each business unit or different groups of accounts. With separate

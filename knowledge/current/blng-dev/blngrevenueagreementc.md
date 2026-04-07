@@ -5,12 +5,10 @@ topic: blngrevenueagreementc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.448Z
+lastCollected: 2026-04-07T18:37:04.042Z
 estimatedTokens: 1418
-keywords: [blng__RevenueAgreement__c, objects, revenue, schedule, agreement, useful, grouping, schedules, transaction, quickly, evaluate, amounts, blng, _RevenueAgreement, Calls]
+keywords: [blng__RevenueAgreement__c, revenue, schedule, agreement, useful, grouping, schedules, transaction, quickly, evaluate, amounts, blng, _RevenueAgreement]
 ---
-
-# blng__RevenueAgreement__c
 
 > Represents the objects with a revenue schedule related list. The revenue
          agreement is useful for grouping revenue schedules related to the same transaction, so that

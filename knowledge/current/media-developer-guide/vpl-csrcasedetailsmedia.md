@@ -5,12 +5,10 @@ topic: vpl-csrcasedetailsmedia
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.287Z
+lastCollected: 2026-04-07T18:38:11.604Z
 estimatedTokens: 95
-keywords: [VPL-CSRCaseDetailsMedia, Omnistudio, Data, Mapper, extracts, cases, registered, account, interaction, Sample, Input, Output]
+keywords: [VPL-CSRCaseDetailsMedia, Omnistudio, Mapper, extracts, cases, registered, account, interaction, Sample]
 ---
-
-# VPL-CSRCaseDetailsMedia
 
 > This Omnistudio
     Data Mapper extracts the cases registered for the specified account or interaction

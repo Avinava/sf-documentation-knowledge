@@ -5,12 +5,10 @@ topic: globalpicklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.105Z
+lastCollected: 2026-04-07T18:36:26.551Z
 estimatedTokens: 643
-keywords: [GlobalPicklist, picklist, shared, custom, contrast, CustomValue, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [GlobalPicklist, picklist, shared, contrast, CustomValue, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# GlobalPicklist
 
 > Represents a global picklist, or the set of shared
       picklist values that custom picklist fields can use. In contrast, the custom picklist fields

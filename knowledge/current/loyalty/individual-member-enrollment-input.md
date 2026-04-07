@@ -5,12 +5,10 @@ topic: individual-member-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.033Z
+lastCollected: 2026-04-07T18:38:07.247Z
 estimatedTokens: 753
-keywords: [Individual, Member, Enrollment, Input, representation, creating, person, account, Loyalty, Program, record]
+keywords: [Individual, Member, Enrollment, creating, person, account, Loyalty, Program, record]
 ---
-
-# Individual Member Enrollment Input
 
 > Input representation for creating a person account and an Individual
       type Loyalty Program Member record for the member.

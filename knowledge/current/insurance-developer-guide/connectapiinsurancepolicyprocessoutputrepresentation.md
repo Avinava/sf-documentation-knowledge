@@ -5,12 +5,10 @@ topic: connectapiinsurancepolicyprocessoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.719Z
+lastCollected: 2026-04-07T18:37:50.604Z
 estimatedTokens: 72
-keywords: [Output, representation, insurance, policy, renewal, resource]
+keywords: [insurance, policy, renewal, resource]
 ---
-
-# ConnectApi.InsurancePolicyProcessOutputRepresentation
 
 > Output representation details of the insurance policy renewal resource.
 

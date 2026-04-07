@@ -5,12 +5,10 @@ topic: lens-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.396Z
+lastCollected: 2026-04-07T18:36:53.762Z
 estimatedTokens: 752
-keywords: [lens, Commands, Manage, Analytics, lenses, history, Examples, Command, revert]
+keywords: [lens, Commands, Manage, Analytics, lenses, Examples, Command, revert]
 ---
-
-# lens Commands
 
 > Manage Analytics lenses.
 

@@ -5,12 +5,10 @@ topic: create-a-complex-filter-via-ampscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.721Z
+lastCollected: 2026-04-07T18:40:22.081Z
 estimatedTokens: 373
-keywords: [Complex, Filter, Via, AMPscript, sort, desired, records, larger, data, code, sample, below, separates, subscribers, email]
+keywords: [Complex, Filter, Via, AMPscript, sort, desired, records, larger, code, sample, below, separates, subscribers, email, send, definition, instance, received, December, 1st, model, own]
 ---
-
-# Create a Complex Filter Via AMPscript
 
 > Use a complex filter to sort out desired records from a larger set of data. For example, the code sample below separates out subscribers in a given email send definition instance that received a send after December 1st, 2009. Use this sample AMPscript as a model to create your own code.
 

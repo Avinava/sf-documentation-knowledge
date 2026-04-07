@@ -5,12 +5,10 @@ topic: revoke-permissions-and-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.636Z
+lastCollected: 2026-04-07T18:39:22.524Z
 estimatedTokens: 666
-keywords: [Revoke, Permissions, Access, profiles, permission, groups, grant, deny, granted, honored, Transfer, Record, isn't, enabled, profile]
+keywords: [Revoke, Permissions, profiles, permission, groups, grant, deny, granted, honored, Transfer, Record, isn't, enabled, profile, assigned, user, records, regardless, whether, owns, remove, instances]
 ---
-
-# Revoke Permissions and Access
 
 > You can use profiles, permission sets, and permission set groups to grant access but
     not to deny access. Permissions granted from profiles, permission sets, and permission set

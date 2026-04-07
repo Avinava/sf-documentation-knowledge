@@ -5,12 +5,10 @@ topic: move-metadata-to-a-sandbox-at-integration-points
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.997Z
+lastCollected: 2026-04-07T18:36:30.375Z
 estimatedTokens: 433
 keywords: [Move, Metadata, Sandbox, Integration, Points, development, API, sandboxes, integrating, changes, testing, collaborating, team]
 ---
-
-# Move Metadata to a Sandbox at Integration Points
 
 > During development, use Metadata API to move metadata to sandboxes for
    integrating changes, testing, and collaborating with your team.

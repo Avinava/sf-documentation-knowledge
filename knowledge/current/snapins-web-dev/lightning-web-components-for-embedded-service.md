@@ -5,12 +5,10 @@ topic: lightning-web-components-for-embedded-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.508Z
+lastCollected: 2026-04-07T18:40:09.453Z
 estimatedTokens: 830
-keywords: [Lightning, Web, Components, Embedded, Service, Build, custom, chat, Experience, Cloud, Essentials, Leverage, HTML, JavaScript, modern]
+keywords: [Lightning, Web, Embedded, Service, Build, chat, Experience, Cloud, Essentials, Leverage, HTML, JavaScript, modern]
 ---
-
-# Lightning Web Components for Embedded Service
 
 > Build custom chat components using Lightning Web Components in Embedded Service, which
     is supported in Lightning Out, Experience Cloud, and Essentials. Leverage HTML and JavaScript

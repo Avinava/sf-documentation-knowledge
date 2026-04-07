@@ -5,12 +5,10 @@ topic: documentextractionrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:55.512Z
+lastCollected: 2026-04-07T18:37:43.678Z
 estimatedTokens: 948
-keywords: [DocumentExtractionRequest, extract, documents, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [DocumentExtractionRequest, extract, documents, API, 63.0]
 ---
-
-# DocumentExtractionRequest
 
 > Represents a request to extract documents. This object is available in
       API version 63.0 and later.

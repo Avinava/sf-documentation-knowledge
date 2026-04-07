@@ -5,12 +5,10 @@ topic: upgrade-your-batch-mode-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.204Z
+lastCollected: 2026-04-07T18:37:28.238Z
 estimatedTokens: 380
-keywords: [Upgrade, Batch, Mode, Data, Loader, versions, 8.0, later, aren’t, backward-compatible, earlier, you’re, version, run, processes]
+keywords: [Upgrade, Batch, Mode, Loader, versions, 8.0, aren’t, backward-compatible, earlier, you’re, run, processes, options]
 ---
-
-# Upgrade Your Batch Mode Interface
 
 > The batch mode interface in Data Loader versions 8.0 and later aren’t
   backward-compatible with earlier versions. If you’re using a version earlier than 8.0 to run batch

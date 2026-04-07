@@ -5,12 +5,10 @@ topic: rules-application-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.932Z
+lastCollected: 2026-04-07T18:35:44.949Z
 estimatedTokens: 278
-keywords: [Rules, Application, POST, Apply, payments, credits, account's, invoices, defined, Billing, Settings]
+keywords: [Application, POST, Apply, payments, credits, account's, invoices, defined, Billing, Settings]
 ---
-
-# Rules Application (POST)
 
 > Apply payments and credits to an account's invoices based on specified
       rules defined on the Billing Settings page.

@@ -5,12 +5,10 @@ topic: financial-goals-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.472Z
+lastCollected: 2026-04-07T18:37:35.084Z
 estimatedTokens: 77
-keywords: [Financial, Goals, Output, Queried]
+keywords: [Financial, Goals, Queried]
 ---
-
-# Financial Goals List Output
 
 > Queried financial goals.
 

@@ -5,12 +5,10 @@ topic: quickly-uninstall-all-non-core-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.411Z
+lastCollected: 2026-04-07T18:40:09.359Z
 estimatedTokens: 237
 keywords: [Quickly, Uninstall, Non-Core, Plugins, Sometimes, want, Salesforce, CLI, were, installed]
 ---
-
-# Quickly Uninstall All Non-Core Plugins
 
 > Sometimes you want to quickly uninstall all the non-core Salesforce CLI plugins that were
         installed after you first installed the CLI.

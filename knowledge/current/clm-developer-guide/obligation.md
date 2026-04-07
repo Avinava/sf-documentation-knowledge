@@ -5,12 +5,10 @@ topic: obligation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.841Z
+lastCollected: 2026-04-07T18:37:25.740Z
 estimatedTokens: 1018
-keywords: [Obligation, parties, fulfill, agreed, conditions, contractual, commitments, commitment, assists, strategy, achieve, desired, outcome, timeframe, reduce]
+keywords: [Obligation, parties, fulfill, agreed, conditions, contractual, commitments, commitment, assists, strategy, achieve, desired, outcome, timeframe, reduce, risk, compliance, payment, due, dates, contract, terms, renewals, API, 59.0]
 ---
-
-# Obligation
 
 > Represents an obligation between parties to fulfill agreed
          conditions, such as contractual commitments. The obligation commitment assists with a

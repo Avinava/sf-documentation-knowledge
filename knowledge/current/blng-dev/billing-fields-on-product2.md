@@ -6,13 +6,10 @@ topic: billing-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.835Z
+lastCollected: 2026-04-07T18:37:04.461Z
 estimatedTokens: 350
-keywords: [Billing, Product2, Standard, custom, extend, represent, products]
+keywords: [Billing, Product2, Standard, extend, represent, products]
 ---
-
-# Billing
-      Fields on Product2
 
 > Standard and custom fields extend the standard Product2 object for
          use in Billing to represent information about products.

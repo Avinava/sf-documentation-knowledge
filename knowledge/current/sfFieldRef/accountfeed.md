@@ -5,12 +5,10 @@ topic: accountfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.200Z
+lastCollected: 2026-04-07T18:39:24.122Z
 estimatedTokens: 356
-keywords: [AccountFeed, Feed, tracking, Account]
+keywords: [AccountFeed, Account]
 ---
-
-# AccountFeed
 
 > Feed tracking for Account.
 

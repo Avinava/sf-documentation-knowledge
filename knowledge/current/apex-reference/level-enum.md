@@ -5,12 +5,10 @@ topic: level-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.529Z
+lastCollected: 2026-04-07T18:36:12.828Z
 estimatedTokens: 129
-keywords: [Level, compression, creating, zip, file, Usage]
+keywords: [Level, compression, creating, zip, file]
 ---
-
-# Level Enum
 
 > Specifies the compression level for creating a zip file.
 

@@ -6,13 +6,10 @@ topic: integrate-gamification-mobile-android-sdk-into-loyalty-management-mobile-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.209Z
+lastCollected: 2026-04-07T18:38:08.475Z
 estimatedTokens: 465
 keywords: [Integrate, Gamification, Mobile, Android, SDK, Loyalty, Management, add, external, dependency]
 ---
-
-# Integrate Gamification Mobile Android SDK into Loyalty Management Mobile Android
-    SDK
 
 > To integrate the Gamification Mobile Android SDK into the existing Loyalty Management
     Mobile Android SDK, add it as an external dependency.

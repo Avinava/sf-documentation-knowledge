@@ -5,12 +5,10 @@ topic: routing-confirm-held-capacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.734Z
+lastCollected: 2026-04-07T18:37:15.795Z
 estimatedTokens: 313
 keywords: [Routing, Confirm, Held, Capacity, fulfillment, order, locations, call, decreases, location’s, increases, assigned, count, assign, location]
 ---
-
-# Routing, Confirm Held Capacity
 
 > Confirm held fulfillment order capacity at one or more locations.
       This call decreases a location’s held capacity and increases its assigned fulfillment order

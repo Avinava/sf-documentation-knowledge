@@ -5,12 +5,10 @@ topic: compliance-control-evaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.203Z
+lastCollected: 2026-04-07T18:36:38.866Z
 estimatedTokens: 288
-keywords: [Compliance, Control, Evaluation, Output, representation]
+keywords: [Compliance, Control, Evaluation]
 ---
-
-# Compliance Control Evaluation
 
 > Output representation details of a compliance control evaluation.
 

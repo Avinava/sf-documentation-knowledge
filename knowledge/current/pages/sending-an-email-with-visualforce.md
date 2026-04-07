@@ -5,12 +5,10 @@ topic: sending-an-email-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.062Z
+lastCollected: 2026-04-07T18:38:51.301Z
 estimatedTokens: 190
-keywords: [Sending, Email, Visualforce, possible, send, creating, custom, controller, deliver, message, Apex, Messaging.SingleEmailMessage, handles, outbound, functionality]
+keywords: [Sending, Email, Visualforce, possible, send, creating, controller, deliver, message, Apex, Messaging.SingleEmailMessage, handles, outbound, functionality, Salesforce]
 ---
-
-# Sending an Email with Visualforce
 
 > It is possible to send email using Visualforce by creating a custom controller to
    deliver the message. The Apex Messaging.SingleEmailMessage class handles the outbound email functionality available

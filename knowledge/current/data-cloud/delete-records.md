@@ -5,12 +5,10 @@ topic: delete-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.324Z
+lastCollected: 2026-04-07T18:35:51.182Z
 estimatedTokens: 339
-keywords: [Records, data, lake]
+keywords: [Records, lake]
 ---
-
-# Delete Records
 
 > Delete records from the data lake table.
 

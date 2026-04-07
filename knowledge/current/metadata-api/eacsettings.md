@@ -5,12 +5,10 @@ topic: eacsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.705Z
+lastCollected: 2026-04-07T18:36:25.161Z
 estimatedTokens: 1761
-keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically]
+keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically, sync, contact, event, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# EACSettings
 
 > Represents the Einstein Activity Capture metadata type.
     Use Einstein Activity Capture to add emails and events from your Microsoft or Google account to

@@ -5,12 +5,10 @@ topic: download-provider-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.121Z
+lastCollected: 2026-04-07T18:37:55.567Z
 estimatedTokens: 272
-keywords: [Download, Provider, POST, Health, Care, data, external, system, Salesforce, org, search, performed]
+keywords: [Download, Provider, POST, Health, Care, external, system, Salesforce, org, search, performed]
 ---
-
-# Download Provider (POST)
 
 > Download Health Care provider data from an external system to a Salesforce org after a
     search is performed.

@@ -5,12 +5,10 @@ topic: healthcareprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.285Z
+lastCollected: 2026-04-07T18:37:46.900Z
 estimatedTokens: 1148
-keywords: [HealthCareProcedure, industry-standard, healthcare, procedure, codes, Spring, ’21, release, Diagnosis, objects, stored, specifically, procedures, diagnoses, were]
+keywords: [HealthCareProcedure, industry-standard, healthcare, procedure, codes, Spring, ’21, release, Diagnosis, stored, specifically, procedures, diagnoses, were, prior-authorization, requests, approval, processes, Since, Spring’21, Health, Cloud, uses, Code, Bundle, purpose, instead]
 ---
-
-# HealthCareProcedure
 
 > Represents information related to industry-standard healthcare
 			procedure codes. Before the Spring ’21 release, the Healthcare Procedure and Healthcare

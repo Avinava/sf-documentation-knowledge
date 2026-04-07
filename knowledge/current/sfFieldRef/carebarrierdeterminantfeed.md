@@ -5,12 +5,10 @@ topic: carebarrierdeterminantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.184Z
+lastCollected: 2026-04-07T18:39:31.523Z
 estimatedTokens: 364
-keywords: [CareBarrierDeterminantFeed, Feed, tracking, CareBarrierDeterminant]
+keywords: [CareBarrierDeterminantFeed, CareBarrierDeterminant]
 ---
-
-# CareBarrierDeterminantFeed
 
 > Feed tracking for CareBarrierDeterminant.
 

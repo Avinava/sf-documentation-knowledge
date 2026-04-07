@@ -5,12 +5,10 @@ topic: getpicklistobjectname-fieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.731Z
+lastCollected: 2026-04-07T18:37:34.248Z
 estimatedTokens: 128
-keywords: [getPicklist, objectName, fieldName, accepts, picklist, API, Version]
+keywords: [getPicklist, objectName, fieldName, accepts, picklist, API]
 ---
-
-# getPicklist(objectName, fieldName)
 
 > This method accepts an object name and picklist field and returns the picklist
     values.

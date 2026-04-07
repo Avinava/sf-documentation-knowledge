@@ -5,12 +5,10 @@ topic: vpl360revokecancellationallassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.855Z
+lastCollected: 2026-04-07T18:38:11.127Z
 estimatedTokens: 132
-keywords: [VPL360_RevokeCancellationAllAssets, Integration, Procedure, revoke, in-progress, cancellation, assets, account, VPL360, _RevokeCancellationAllAssets, Sample, Input, Output, Calls]
+keywords: [VPL360_RevokeCancellationAllAssets, Integration, Procedure, revoke, in-progress, cancellation, assets, account, VPL360, _RevokeCancellationAllAssets, Sample]
 ---
-
-# VPL360_RevokeCancellationAllAssets
 
 > This Integration Procedure is used to revoke the
         in-progress cancellation of assets for an account.

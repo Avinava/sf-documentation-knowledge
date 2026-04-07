@@ -5,12 +5,10 @@ topic: data-category-value-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.160Z
+lastCollected: 2026-04-07T18:37:18.241Z
 estimatedTokens: 132
-keywords: [Data, Category, Metadata, object's]
+keywords: [Category, Metadata, object's]
 ---
-
-# Data Category Value Metadata
 
 > Data category values for the object's data category.
 

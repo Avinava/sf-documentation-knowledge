@@ -5,12 +5,10 @@ topic: custom-event-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.446Z
+lastCollected: 2026-04-07T18:35:51.299Z
 estimatedTokens: 517
-keywords: [Custom, Event, Schema, data, models, provided, Engagement, Mobile, SDK, cart, catalog, order, unified, model, across]
+keywords: [Event, Schema, models, provided, Engagement, Mobile, SDK, cart, catalog, order, unified, model, across, Salesforce, capture]
 ---
-
-# Custom Event Schema
 
 > Use the event data models provided by the Engagement Mobile SDK for cart event, catalog
     event, and order event to use the unified data model across Salesforce. You can create and

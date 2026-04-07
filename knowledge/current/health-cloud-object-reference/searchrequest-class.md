@@ -5,12 +5,10 @@ topic: searchrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.935Z
+lastCollected: 2026-04-07T18:37:39.890Z
 estimatedTokens: 1501
-keywords: [SearchRequest, search, data, filters, object-based, terms, text-based, verification, context, includes, process, definition, searchTerm, searchFilters, verificationContext]
+keywords: [SearchRequest, search, filters, object-based, terms, text-based, verification, context, includes, process, definition, searchTerm, searchFilters, verificationContext]
 ---
-
-# SearchRequest Class
 
 > Contains information about the search request data. The search request
       represents search filters for object-based search, search terms for text-based search, and the

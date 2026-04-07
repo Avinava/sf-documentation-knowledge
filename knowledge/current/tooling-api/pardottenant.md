@@ -5,12 +5,10 @@ topic: pardottenant
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.429Z
+lastCollected: 2026-04-07T18:36:33.810Z
 estimatedTokens: 936
-keywords: [PardotTenant, Account, Engagement, business, unit, API, version, 56.0, later, SOAP, Calls, REST, Special, Access, Rules]
+keywords: [PardotTenant, Account, Engagement, business, unit, API, 56.0, SOAP, REST]
 ---
-
-# PardotTenant
 
 > Represents an Account Engagement business unit. This object is
       available in API version 56.0 and later.

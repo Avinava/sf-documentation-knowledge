@@ -5,12 +5,10 @@ topic: outcomefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.149Z
+lastCollected: 2026-04-07T18:39:51.564Z
 estimatedTokens: 356
-keywords: [OutcomeFeed, Feed, tracking, Outcome]
+keywords: [OutcomeFeed, Outcome]
 ---
-
-# OutcomeFeed
 
 > Feed tracking for Outcome.
 

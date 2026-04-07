@@ -5,12 +5,10 @@ topic: partycreditprofilealertfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.525Z
+lastCollected: 2026-04-07T18:39:51.941Z
 estimatedTokens: 364
-keywords: [PartyCreditProfileAlertFeed, Feed, tracking, PartyCreditProfileAlert]
+keywords: [PartyCreditProfileAlertFeed, PartyCreditProfileAlert]
 ---
-
-# PartyCreditProfileAlertFeed
 
 > Feed tracking for PartyCreditProfileAlert.
 

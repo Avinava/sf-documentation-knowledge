@@ -5,12 +5,10 @@ topic: engagementchannelworktypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.844Z
+lastCollected: 2026-04-07T18:39:39.509Z
 estimatedTokens: 365
-keywords: [EngagementChannelWorkTypeFeed, Feed, tracking, EngagementChannelWorkType]
+keywords: [EngagementChannelWorkTypeFeed, EngagementChannelWorkType]
 ---
-
-# EngagementChannelWorkTypeFeed
 
 > Feed tracking for EngagementChannelWorkType.
 

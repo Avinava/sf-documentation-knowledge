@@ -5,12 +5,10 @@ topic: working-with-lightning-base-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.576Z
+lastCollected: 2026-04-07T18:38:04.722Z
 estimatedTokens: 3720
-keywords: [Working, Lightning, Base, Components, building, blocks, modern, user, interfaces, Experience, Salesforce, app, Builder, sites, Buttons]
+keywords: [Buttons, Forms, Layout, Working, Lightning, Base, building, blocks, modern, user, interfaces, Experience, Salesforce, app, Builder, sites, Entry, Displaying, Navigation, Visual, Feature-Specific]
 ---
-
-# Working with Lightning Base Components
 
 > Lightning base components are the building blocks that make up the modern user
     interfaces in Lightning Experience, Salesforce app, and Experience Builder sites.

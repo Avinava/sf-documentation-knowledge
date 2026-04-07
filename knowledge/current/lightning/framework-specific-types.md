@@ -5,12 +5,10 @@ topic: framework-specific-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.761Z
+lastCollected: 2026-04-07T18:38:04.910Z
 estimatedTokens: 461
 keywords: [Framework-Specific, specific, framework]
 ---
-
-# Framework-Specific Types
 
 > Here are the supported type values that are specific to the framework.
 

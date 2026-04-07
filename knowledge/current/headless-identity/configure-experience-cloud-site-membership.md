@@ -5,12 +5,10 @@ topic: configure-experience-cloud-site-membership
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.440Z
+lastCollected: 2026-04-07T18:37:39.379Z
 estimatedTokens: 209
 keywords: [Configure, Experience, Cloud, Site, Membership, Because, stores, user, add, end-user, profile, site’s]
 ---
-
-# Configure Experience Cloud Site Membership
 
 > Because your Experience Cloud site stores all your user information, you must add your
   end-user profile to the site’s membership.

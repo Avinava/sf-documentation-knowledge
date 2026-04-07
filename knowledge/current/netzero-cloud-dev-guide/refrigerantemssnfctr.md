@@ -5,12 +5,10 @@ topic: refrigerantemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.656Z
+lastCollected: 2026-04-07T18:38:19.342Z
 estimatedTokens: 989
-keywords: [RefrigerantEmssnFctr, warming, potential, individual, refrigerants, compares, atmospheric, radiative, forcing, molecule, refrigerant, carbon, dioxide, API, version]
+keywords: [RefrigerantEmssnFctr, warming, potential, individual, refrigerants, compares, atmospheric, radiative, forcing, molecule, refrigerant, carbon, dioxide, API, 54.0]
 ---
-
-# RefrigerantEmssnFctr
 
 > Represents the global warming potential values for individual refrigerants.
          Global warming potential compares the atmospheric radiative forcing of one molecule of

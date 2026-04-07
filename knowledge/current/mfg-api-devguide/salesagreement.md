@@ -5,12 +5,10 @@ topic: salesagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.131Z
+lastCollected: 2026-04-07T18:38:14.523Z
 estimatedTokens: 2392
-keywords: [SalesAgreement, long-term, agreement, buyer, seller, negotiate, price, volume, products.This, API, version, 47.0, later, Calls, Associated]
+keywords: [SalesAgreement, long-term, agreement, buyer, seller, negotiate, price, volume, products.This, API, 47.0]
 ---
-
-# SalesAgreement
 
 > Represents a long-term agreement between a buyer and a seller to negotiate
       price and volume of products.This object is available in API version 47.0 and

@@ -5,12 +5,10 @@ topic: learningitemserializedeserializer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.175Z
+lastCollected: 2026-04-07T18:36:03.391Z
 estimatedTokens: 1428
-keywords: [LearningItemSerializeDeserializer, Serializes, deserializes, content, associated, custom, exercise, migrating, Enablement, program, org, another, Usage, deserialize, serializedOutput]
+keywords: [LearningItemSerializeDeserializer, Serializes, deserializes, content, exercise, migrating, Enablement, program, org, another, deserialize, serializedOutput, serialize, learningItemId]
 ---
-
-# LearningItemSerializeDeserializer Class
 
 > Serializes and deserializes the content associated with a custom exercise when migrating
     an Enablement program from one org to another.

@@ -5,12 +5,10 @@ topic: interactions-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.724Z
+lastCollected: 2026-04-07T18:37:19.874Z
 estimatedTokens: 194
-keywords: [Interactions, Capability, feed, element, user]
+keywords: [Interactions, Capability, user]
 ---
-
-# Interactions Capability
 
 > If a feed element has this capability, it has information about user
     interactions.

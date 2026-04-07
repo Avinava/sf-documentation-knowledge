@@ -5,12 +5,10 @@ topic: social-determinants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.873Z
+lastCollected: 2026-04-07T18:37:57.414Z
 estimatedTokens: 122
-keywords: [Social, Determinants, data, model, barriers, health, interventions, patient, member, API, version, 45.0, later]
+keywords: [Social, Determinants, model, barriers, health, interventions, patient, member, API, 45.0]
 ---
-
-# Social Determinants
 
 > The social determinants data model represents the barriers, health determinants, and
   interventions for a patient or member. Available in API version 45.0 and later.

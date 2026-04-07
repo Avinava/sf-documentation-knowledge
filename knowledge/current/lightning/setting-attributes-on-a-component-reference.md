@@ -5,12 +5,10 @@ topic: setting-attributes-on-a-component-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.520Z
+lastCollected: 2026-04-07T18:38:05.738Z
 estimatedTokens: 225
-keywords: [Setting, Attributes, Component, include, another, <lightning, button>, call, <aura, set>, attribute, includes]
+keywords: [Setting, Attributes, include, another, <lightning, button>, call, <aura, set>, attribute, includes]
 ---
-
-# Setting Attributes on a Component Reference
 
 > When you include another component, such as <lightning:button>, in a component, we call that a component reference
             to <lightning:button>. You can use <aura:set> to set an attribute on the component

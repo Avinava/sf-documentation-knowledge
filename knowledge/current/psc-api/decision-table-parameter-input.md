@@ -5,12 +5,10 @@ topic: decision-table-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.989Z
+lastCollected: 2026-04-07T18:39:01.125Z
 estimatedTokens: 502
-keywords: [Decision, Input, representation, defined]
+keywords: [Decision, defined]
 ---
-
-# Decision Table Parameter Input
 
 > Input representation of parameters defined for the decision
       table.

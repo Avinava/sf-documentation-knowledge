@@ -5,12 +5,10 @@ topic: step-4-use-the-connector-with-username-and-password-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.986Z
+lastCollected: 2026-04-07T18:36:51.292Z
 estimatedTokens: 795
 keywords: [Step, Connector, Username, Password, Login, Now, you’ve, downloaded, built, EMP, connect, CometD, subscribe, PushTopic]
 ---
-
-# Step 4:  Use the Connector with Username and Password Login
 
 > Now that you’ve downloaded and built EMP Connector, use it to connect to CometD and
         subscribe to the PushTopic.

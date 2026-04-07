@@ -5,12 +5,10 @@ topic: businessmilestonehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.506Z
+lastCollected: 2026-04-07T18:39:30.723Z
 estimatedTokens: 266
-keywords: [BusinessMilestoneHistory, History, tracked, BusinessMilestone]
+keywords: [BusinessMilestoneHistory, tracked, BusinessMilestone]
 ---
-
-# BusinessMilestoneHistory
 
 > History for tracked fields of BusinessMilestone.
 

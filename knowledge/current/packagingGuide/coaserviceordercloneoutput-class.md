@@ -5,12 +5,10 @@ topic: coaserviceordercloneoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.849Z
+lastCollected: 2026-04-07T18:38:45.673Z
 estimatedTokens: 166
-keywords: [COA_ServiceOrderCloneOutput, Wrapper, output, clone, operation, COA, _ServiceOrderCloneOutput]
+keywords: [COA_ServiceOrderCloneOutput, Wrapper, clone, operation, COA, _ServiceOrderCloneOutput]
 ---
-
-# COA_ServiceOrderCloneOutput Class
 
 > Wrapper class for output parameters returned from the clone operation.
 

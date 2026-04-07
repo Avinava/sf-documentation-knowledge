@@ -5,12 +5,10 @@ topic: partyfinancialassetterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.547Z
+lastCollected: 2026-04-07T18:37:38.400Z
 estimatedTokens: 1395
-keywords: [PartyFinancialAssetTerm, term, condition, associated, financial, asset, Aids, identifying, tracking, terms, lender, legal, regulatory, around, asset's]
+keywords: [PartyFinancialAssetTerm, term, condition, financial, asset, Aids, identifying, terms, lender, legal, regulatory, around, asset's, ownership, maintenance, monitoring, API, 65.0, Digital, Lending, permission]
 ---
-
-# PartyFinancialAssetTerm
 
 > Represents a term or condition associated with a financial asset. Aids in
          identifying and tracking the terms set by a lender or the legal or regulatory terms around

@@ -5,12 +5,10 @@ topic: csv-based-decision-table-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.437Z
+lastCollected: 2026-04-07T18:36:38.055Z
 estimatedTokens: 446
-keywords: [CSV, Decision, Fetch, paginated, data, resource, responsible, managing, rows]
+keywords: [CSV, Decision, Fetch, paginated, resource, responsible, managing, rows]
 ---
-
-# CSV Based Decision Table (GET)
 
 > Fetch paginated data from a CSV based decision table. This resource is responsible for
     managing rows in a Decision Table.

@@ -5,12 +5,10 @@ topic: connectapiunauthenticateduser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.813Z
+lastCollected: 2026-04-07T18:36:12.099Z
 estimatedTokens: 74
 keywords: [ConnectApi.UnauthenticatedUser, Unauthenticated, user]
 ---
-
-# ConnectApi.UnauthenticatedUser
 
 > Unauthenticated user.
 

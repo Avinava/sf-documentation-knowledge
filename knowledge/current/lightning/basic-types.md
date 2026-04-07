@@ -5,12 +5,10 @@ topic: basic-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.776Z
+lastCollected: 2026-04-07T18:38:04.927Z
 estimatedTokens: 972
-keywords: [Basic, correspond, wrapper, objects, primitives, Java, Since, framework, written, defaults, maximum, size, number, defined, Retrieving]
+keywords: [Basic, correspond, wrapper, primitives, Java, Since, framework, written, defaults, maximum, size, number, defined, Retrieving, Apex, Controller]
 ---
-
-# Basic Types
 
 > Here are the supported basic type values. Some of these types correspond to the
                 wrapper objects for primitives in Java. Since the framework is written in Java,

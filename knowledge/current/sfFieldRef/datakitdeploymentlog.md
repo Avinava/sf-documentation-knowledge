@@ -5,12 +5,10 @@ topic: datakitdeploymentlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.570Z
+lastCollected: 2026-04-07T18:39:37.187Z
 estimatedTokens: 619
-keywords: [DataKitDeploymentLog, log, data, kit, component, deployment, API, version, 61.0, later]
+keywords: [DataKitDeploymentLog, log, kit, deployment, API, 61.0]
 ---
-
-# DataKitDeploymentLog
 
 > Represents the log details of a data kit component deployment. This
 			object is available in API version 61.0 or later.

@@ -5,12 +5,10 @@ topic: salesforce-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.650Z
+lastCollected: 2026-04-07T18:35:47.679Z
 estimatedTokens: 749
 keywords: [Salesforce, Pricing, customized, price, adjustment, procedures, Determine, discounts, apply, products, services, visibility, calculation, process]
 ---
-
-# Salesforce Pricing
 
 > Create customized price adjustment methods and pricing procedures. Determine the
   discounts to apply to your products and services by using price adjustment methods. Get visibility

@@ -5,12 +5,10 @@ topic: feed-element-capabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:31.920Z
+lastCollected: 2026-04-07T18:37:19.015Z
 estimatedTokens: 1810
-keywords: [Feed, Element, Capabilities, container, included]
+keywords: [Capabilities, container, included]
 ---
-
-# Feed Element Capabilities
 
 > A container for all capabilities that can be included with a feed element.
 

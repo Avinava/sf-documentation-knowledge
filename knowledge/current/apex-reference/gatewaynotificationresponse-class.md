@@ -5,13 +5,11 @@ topic: gatewaynotificationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.727Z
+lastCollected: 2026-04-07T18:36:01.950Z
 estimatedTokens: 856
 namespace: CommercePayments
-keywords: [GatewayNotificationResponse, payment, gateway, notification, payments, platform, responds, indicating, whether, succeeded, failed, receiving, Usage, setResponseBody, responseBody]
+keywords: [GatewayNotificationResponse, payment, gateway, notification, payments, platform, responds, indicating, whether, succeeded, failed, receiving, setResponseBody, responseBody, setStatusCode, statusCode]
 ---
-
-# GatewayNotificationResponse Class
 
 > When the payment gateway sends a notification to the payments
             platform, the platform responds with a GatewayNotificationResponse indicating whether the platform succeeded or

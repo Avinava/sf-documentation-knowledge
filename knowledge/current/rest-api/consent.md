@@ -5,12 +5,10 @@ topic: consent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.378Z
+lastCollected: 2026-04-07T18:36:20.601Z
 estimatedTokens: 103
-keywords: [Consent, users, store, preferences, different, locations, possibly, inconsistently, locate, customers’, across, multiple, records, API, version]
+keywords: [Consent, users, store, preferences, different, locations, possibly, inconsistently, locate, customers’, across, multiple, records, API, 44.0, helps, respect, restrictive, requests, specific, Cloud, 50.0]
 ---
-
-# Consent
 
 > Your users can store consent preferences in different locations and possibly
 		inconsistently. You can locate your customers’ preferences for consent across multiple

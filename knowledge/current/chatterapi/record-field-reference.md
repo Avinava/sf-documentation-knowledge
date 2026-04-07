@@ -5,12 +5,10 @@ topic: record-field-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.485Z
+lastCollected: 2026-04-07T18:37:22.589Z
 estimatedTokens: 174
 keywords: [Record, containing, another]
 ---
-
-# Record Field: Reference
 
 > Record field containing a reference to another object.
 

@@ -5,13 +5,11 @@ topic: revsalestrxn-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.991Z
+lastCollected: 2026-04-07T18:36:15.312Z
 estimatedTokens: 559
 namespace: RevSalesTrxn
 keywords: [RevSalesTrxn, classes, sales, transaction, quote, order, integrated, pricing, configuration]
 ---
-
-# RevSalesTrxn Namespace
 
 > The RevSalesTrxn namespace provides classes and
         methods to create a sales transaction, such as a quote or an order, with integrated pricing

@@ -5,12 +5,10 @@ topic: calculate-taxes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.687Z
+lastCollected: 2026-04-07T18:37:07.406Z
 estimatedTokens: 193
-keywords: [Calculate, Taxes, Input, tax]
+keywords: [Calculate, Taxes, tax]
 ---
-
-# Calculate Taxes Input
 
 > Calculate tax input.
 

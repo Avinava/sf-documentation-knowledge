@@ -5,12 +5,10 @@ topic: import-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:21.864Z
+lastCollected: 2026-04-07T18:37:08.681Z
 estimatedTokens: 273
-keywords: [Import, Configuration, Input, product, operation]
+keywords: [Import, Configuration, product, operation]
 ---
-
-# Import Configuration Input
 
 > Configuration input for a product import operation.
 

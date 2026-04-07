@@ -5,12 +5,10 @@ topic: featured-assets-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.408Z
+lastCollected: 2026-04-07T18:36:54.765Z
 estimatedTokens: 73
-keywords: [Featured, Assets, Input, feaatured, Analytics, app]
+keywords: [Featured, Assets, feaatured, Analytics, app]
 ---
-
-# Featured Assets Input
 
 > A feaatured assets for an Analytics app.
 

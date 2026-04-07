@@ -5,12 +5,10 @@ topic: bookmarks-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.905Z
+lastCollected: 2026-04-07T18:37:10.602Z
 estimatedTokens: 1149
-keywords: [Bookmarks, Feed, Items, bookmarked, context, user, Flat]
+keywords: [Bookmarks, Items, bookmarked, context, user, Flat]
 ---
-
-# Bookmarks Feed Items
 
 > Get feed items bookmarked by the context user.
 

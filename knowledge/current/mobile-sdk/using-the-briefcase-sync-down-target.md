@@ -5,12 +5,10 @@ topic: using-the-briefcase-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.341Z
+lastCollected: 2026-04-07T18:40:25.715Z
 estimatedTokens: 1085
-keywords: [Briefcase, Sync, Down, Target, org, uses, Briefcases, mobile, users, introduced, SDK, 10.1, efficient, way, load]
+keywords: [Briefcase, Sync, Down, Target, org, uses, Briefcases, mobile, users, introduced, SDK, 10.1, efficient, way, load, records, time, constrained, included, assigned, current, user, made, accessible, client’s, Connected, App, limit, specific, array, BriefcaseObjectInfo, include, sObject, soup, add, Configuration, File, iOS, APIs, Android]
 ---
-
-# Using the Briefcase Sync Down Target
 
 > If your org uses Briefcases for your mobile users, the Briefcase sync down target was
     introduced in Mobile SDK

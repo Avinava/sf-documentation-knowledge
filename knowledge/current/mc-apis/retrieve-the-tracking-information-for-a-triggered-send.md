@@ -5,12 +5,10 @@ topic: retrieve-the-tracking-information-for-a-triggered-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.540Z
+lastCollected: 2026-04-07T18:40:18.743Z
 estimatedTokens: 285
-keywords: [Retrieve, Tracking, Triggered, Send, scenario, retrieving, associated, determine, how, instances, occurred, actions, taken, place, result]
+keywords: [Diagram, Retrieve, Triggered, Send, scenario, retrieving, determine, how, instances, occurred, actions, taken, place, result, opens, bounces, Referenced, Code, Sample, Links]
 ---
-
-# Retrieve the Tracking Information for a Triggered Send
 
 > This scenario contains information about retrieving tracking information associated with a triggered send. You can use this information to determine how many instances of a triggered send have occurred and what actions have taken place as a result of those triggered sends (such as opens, bounces, an
 

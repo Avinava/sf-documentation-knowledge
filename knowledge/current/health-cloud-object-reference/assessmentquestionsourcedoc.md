@@ -5,12 +5,10 @@ topic: assessmentquestionsourcedoc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.381Z
+lastCollected: 2026-04-07T18:37:43.544Z
 estimatedTokens: 515
-keywords: [AssessmentQuestionSourceDoc, assessment, questions, their, source, document, API, version, 61.0, later, Calls]
+keywords: [AssessmentQuestionSourceDoc, assessment, questions, their, source, document, API, 61.0]
 ---
-
-# AssessmentQuestionSourceDoc
 
 > Represents assessment questions and their source document. This object is available in
       API version 61.0 and later.

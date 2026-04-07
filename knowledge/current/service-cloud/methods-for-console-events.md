@@ -5,12 +5,10 @@ topic: methods-for-console-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.172Z
+lastCollected: 2026-04-07T18:36:50.378Z
 estimatedTokens: 712
-keywords: [Console, Events, objects, Email, Case, Comment, tab, opened, closed, immediately, generated, cases, field’s, equal, parent’s]
+keywords: [Console, Events, Email, Case, Comment, tab, opened, closed, immediately, generated, cases, field’s, equal, parent’s]
 ---
-
-# Methods for Console Events
 
 > Note: For some objects (such as Email and Case Comment), the tab
                       is opened and closed immediately and no object ID is generated for the tab. In

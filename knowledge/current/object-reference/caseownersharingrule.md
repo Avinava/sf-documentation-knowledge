@@ -5,12 +5,10 @@ topic: caseownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.630Z
+lastCollected: 2026-04-07T18:38:27.632Z
 estimatedTokens: 852
-keywords: [CaseOwnerSharingRule, rules, sharing, case, users, owner, Calls, Special, Access, Usage]
+keywords: [CaseOwnerSharingRule, sharing, case, users, owner]
 ---
-
-# CaseOwnerSharingRule
 
 > Represents the rules for sharing a case with users other than the
       owner.

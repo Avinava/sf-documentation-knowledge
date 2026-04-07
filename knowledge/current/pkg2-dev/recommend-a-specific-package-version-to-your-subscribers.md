@@ -5,12 +5,10 @@ topic: recommend-a-specific-package-version-to-your-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.963Z
+lastCollected: 2026-04-07T18:38:56.618Z
 estimatedTokens: 586
-keywords: [Recommend, Specific, Package, Version, Subscribers, choose, upgrade, released]
+keywords: [Recommend, Specific, Package, Subscribers, choose, upgrade, released]
 ---
-
-# Recommend a Specific Package Version to Your Subscribers
 
 > You can choose to recommend that your subscribers upgrade to a specific, released
     version of your package.

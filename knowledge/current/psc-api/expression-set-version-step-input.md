@@ -5,12 +5,10 @@ topic: expression-set-version-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.153Z
+lastCollected: 2026-04-07T18:39:01.295Z
 estimatedTokens: 1150
-keywords: [Expression, Version, Step, Input, representation]
+keywords: [Expression, Step]
 ---
-
-# Expression Set Version Step Input
 
 > Input representation of a step in an expression set
     version.

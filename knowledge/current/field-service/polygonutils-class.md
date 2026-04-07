@@ -5,13 +5,11 @@ topic: polygonutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.616Z
+lastCollected: 2026-04-07T18:36:46.464Z
 estimatedTokens: 1222
 namespace: FSL
-keywords: [PolygonUtils, result, getTerritoryIdByPolygons, service, territory, record, latitude, longitude, geolocation, Usage, getAllPolygonsByLatLong]
+keywords: [PolygonUtils, result, getTerritoryIdByPolygons, service, territory, record, latitude, longitude, geolocation, getAllPolygonsByLatLong]
 ---
-
-# PolygonUtils Class
 
 > Represents the result of using the getTerritoryIdByPolygons method to return a service territory record ID using
       latitude and longitude geolocation values.

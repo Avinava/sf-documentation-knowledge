@@ -5,12 +5,10 @@ topic: specifying-an-uninstall-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.789Z
+lastCollected: 2026-04-07T18:38:53.087Z
 estimatedTokens: 123
 keywords: [Specifying, Uninstall, Script, you’ve, created, tested, included, member, package, specify, lookup, Detail]
 ---
-
-# Specifying an Uninstall Script
 
 > After you’ve created and tested the uninstall script and included it as a member of your
   package, you can specify it in the Uninstall Script lookup field on the

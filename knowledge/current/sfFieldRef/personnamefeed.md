@@ -5,12 +5,10 @@ topic: personnamefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.500Z
+lastCollected: 2026-04-07T18:39:54.048Z
 estimatedTokens: 358
-keywords: [PersonNameFeed, Feed, tracking, PersonName]
+keywords: [PersonNameFeed, PersonName]
 ---
-
-# PersonNameFeed
 
 > Feed tracking for PersonName.
 

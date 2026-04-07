@@ -5,12 +5,10 @@ topic: grpcensusgrpclasssummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.674Z
+lastCollected: 2026-04-07T18:39:43.221Z
 estimatedTokens: 365
-keywords: [GrpCensusGrpClassSummaryFeed, Feed, tracking, GrpCensusGrpClassSummary]
+keywords: [GrpCensusGrpClassSummaryFeed, GrpCensusGrpClassSummary]
 ---
-
-# GrpCensusGrpClassSummaryFeed
 
 > Feed tracking for GrpCensusGrpClassSummary.
 

@@ -5,12 +5,10 @@ topic: clause-validations-and-migration-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.075Z
+lastCollected: 2026-04-07T18:35:47.098Z
 estimatedTokens: 1239
-keywords: [Clause, Validations, Migration, Constraints, Validation, rules, data, model, known, behaviors, affect, records, Review, understand, sequencing]
+keywords: [Clause, Validations, Migration, Constraints, Validation, model, known, behaviors, affect, records, Review, understand, sequencing, status, handling, dependency, requirements, impact, success, Mapping]
 ---
-
-# Clause Validations and Migration Constraints
 
 > Validation rules, data model constraints, and known migration behaviors that affect
     clause records during migration. Review this reference to understand sequencing, status

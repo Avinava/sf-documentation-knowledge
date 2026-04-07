@@ -5,12 +5,10 @@ topic: get-a-batch-of-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.336Z
+lastCollected: 2026-04-07T18:40:11.327Z
 estimatedTokens: 1663
-keywords: [Batch, Records, data]
+keywords: [Batch, Records]
 ---
-
-# Get a Batch of Records
 
 > Get data for a batch of records.
 

@@ -5,12 +5,10 @@ topic: external-managed-account-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.802Z
+lastCollected: 2026-04-07T18:37:18.899Z
 estimatedTokens: 239
-keywords: [External, Managed, Account, Output, Externally]
+keywords: [External, Managed, Account, Externally]
 ---
-
-# External Managed Account Output
 
 > Externally managed account.
 

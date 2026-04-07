@@ -5,12 +5,10 @@ topic: develop-offline-ready-lwcs-with-the-lwc-offline-test-harness
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.543Z
+lastCollected: 2026-04-07T18:38:15.024Z
 estimatedTokens: 695
-keywords: [Develop, Offline-Ready, LWCs, LWC, Offline, Test, Harness, short, lightweight, testing, debugging, inspection, app, developers, debug]
+keywords: [Features, Develop, Offline-Ready, LWCs, LWC, Offline, Test, Harness, short, lightweight, testing, debugging, inspection, app, developers, debug, Lightning, web, their, Offline-based, mobile, apps, execute, Quick, Actions, selected, SObjects, Salesforce, org, JavaScript, inspect, drafts, draft, queue, behavior]
 ---
-
-# Develop Offline-Ready LWCs with the LWC Offline Test Harness
 
 > The LWC Offline Test Harness (Test Harness, for short) is a lightweight testing,
   debugging, and inspection app. It enables developers to debug Lightning web components for use in

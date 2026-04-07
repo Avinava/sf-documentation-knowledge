@@ -5,12 +5,10 @@ topic: program-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.978Z
+lastCollected: 2026-04-07T18:37:40.975Z
 estimatedTokens: 152
-keywords: [Program, Enrollment, Input, care]
+keywords: [Program, Enrollment, care]
 ---
-
-# Program  Enrollment Input
 
 > Request body for care program enrollment.
 

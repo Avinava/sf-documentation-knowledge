@@ -5,12 +5,10 @@ topic: interest-tags-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.943Z
+lastCollected: 2026-04-07T18:39:02.133Z
 estimatedTokens: 218
 keywords: [Interest, Tags, PATCH]
 ---
-
-# Interest Tags (PATCH)
 
 > Update Interest Tags.
 

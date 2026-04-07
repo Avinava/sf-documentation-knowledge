@@ -5,12 +5,10 @@ topic: apex-rest-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.158Z
+lastCollected: 2026-04-07T18:36:18.390Z
 estimatedTokens: 159
 keywords: [Apex, REST, Code, Samples, show, how, expose, classes, architecture, call, resources, client]
 ---
-
-# Apex REST Code Samples
 
 > These code samples show you how to expose Apex classes and methods through the REST
    architecture and how to call those resources from a client.

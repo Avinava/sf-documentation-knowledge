@@ -5,12 +5,10 @@ topic: soap-faults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.123Z
+lastCollected: 2026-04-07T18:40:20.359Z
 estimatedTokens: 1342
-keywords: [SOAP, Faults, regarding, occur, reasons, addressed, error, messages, below, Fault, Schema, Server, Security, Client, Unplanned]
+keywords: [SOAP, Faults, regarding, occur, reasons, addressed, error, messages, below, Fault, Schema, Server, Security, Client, Unplanned, Outage, Authentication, Login, Unexpected, Exception, Passing, Credentials, Authorization, Filter, Caused, System, Inaccessible, User, Authorized, User's, Account, Had, Web, Service, Feature, Activated, Missing, Action, Determined, HTTP, Unsupported, Always, Operation, Message, Maintenance, Member, Synchronous, Cannot, Requested]
 ---
-
-# SOAP Faults
 
 > This page contains information regarding SOAP faults. These faults can occur for reasons addressed in the error messages details below.
 

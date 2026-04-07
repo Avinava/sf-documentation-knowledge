@@ -5,12 +5,10 @@ topic: classic-encryption-for-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.483Z
+lastCollected: 2026-04-07T18:39:22.374Z
 estimatedTokens: 1167
-keywords: [Classic, Encryption, Custom, Restrict, Salesforce, users, seeing, text, want, keep, View, Encrypted, Data, permission, Implementation]
+keywords: [Restrictions, Classic, Encryption, Restrict, Salesforce, users, seeing, text, want, keep, View, Encrypted, permission, Implementation, Notes, Best, Practices]
 ---
-
-# Classic Encryption for Custom Fields
 
 > Restrict other Salesforce users from seeing custom text fields that you want to keep
         private. Only users with the View Encrypted Data permission can see data in encrypted custom

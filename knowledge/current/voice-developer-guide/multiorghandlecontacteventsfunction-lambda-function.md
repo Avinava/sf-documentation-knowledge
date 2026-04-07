@@ -5,12 +5,10 @@ topic: multiorghandlecontacteventsfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.658Z
+lastCollected: 2026-04-07T18:40:12.636Z
 estimatedTokens: 302
-keywords: [MultiorgHandleContactEventsFunction, Lambda, Function, handles, disconnect, event, missed, abandoned, call, ensures, Pending, Service, Routing, PSR, record]
+keywords: [MultiorgHandleContactEventsFunction, Lambda, Function, handles, disconnect, event, missed, abandoned, call, ensures, Pending, Service, Routing, PSR, record, cleared, Salesforce]
 ---
-
-# MultiorgHandleContactEventsFunction Lambda Function
 
 > This Lambda function handles the disconnect event for a missed or abandoned call, and
   ensures that the Pending Service Routing (PSR) record is cleared in Salesforce.

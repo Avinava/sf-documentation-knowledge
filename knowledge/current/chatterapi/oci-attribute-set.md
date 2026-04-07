@@ -5,12 +5,10 @@ topic: oci-attribute-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.970Z
+lastCollected: 2026-04-07T18:37:21.138Z
 estimatedTokens: 77
 keywords: [OCI, Attribute]
 ---
-
-# OCI Attribute Set
 
 > Details of an attribute set.
 

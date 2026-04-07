@@ -5,12 +5,10 @@ topic: stagetransitionentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.924Z
+lastCollected: 2026-04-07T18:40:02.613Z
 estimatedTokens: 391
-keywords: [StageTransitionEntryFeed, Feed, tracking, StageTransitionEntry]
+keywords: [StageTransitionEntryFeed, StageTransitionEntry]
 ---
-
-# StageTransitionEntryFeed
 
 > Feed tracking for StageTransitionEntry.
 

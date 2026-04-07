@@ -5,12 +5,10 @@ topic: use-expressions-to-add-dynamic-data-to-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.792Z
+lastCollected: 2026-04-07T18:37:33.071Z
 estimatedTokens: 1384
-keywords: [Expressions, Add, Dynamic, Data, LWR, Sites, calculations, access, Salesforce, content, CMS, pass, component’s, attributes, output]
+keywords: [Expressions, Add, Dynamic, LWR, Sites, calculations, Salesforce, content, CMS, pass, component’s, attributes, passing, assigning, Binding]
 ---
-
-# Use Expressions to Add Dynamic Data to LWR Sites
 
 > With expressions, you can make calculations and access property values and other data
     from Salesforce or content from Salesforce CMS to pass into a component’s attributes. Use

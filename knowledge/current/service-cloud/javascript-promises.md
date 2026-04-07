@@ -5,12 +5,10 @@ topic: javascript-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.441Z
+lastCollected: 2026-04-07T18:36:49.563Z
 estimatedTokens: 221
 keywords: [JavaScript, Promises, Lightning, Console, API, results, LWC, Aura]
 ---
-
-# JavaScript Promises
 
 > Methods in the Lightning Console JavaScript API return results using promises.
 

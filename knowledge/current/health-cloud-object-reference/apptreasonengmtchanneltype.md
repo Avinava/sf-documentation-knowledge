@@ -5,12 +5,10 @@ topic: apptreasonengmtchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:55.368Z
+lastCollected: 2026-04-07T18:37:43.534Z
 estimatedTokens: 791
-keywords: [ApptReasonEngmtChannelType, engagement, channel, AppointmentReason, Possible, channels, video, phone, person, appointment, reasons, annual, physical, fever, therapy]
+keywords: [ApptReasonEngmtChannelType, engagement, channel, AppointmentReason, Possible, channels, video, phone, person, appointment, reasons, annual, physical, fever, therapy, API, 56.0]
 ---
-
-# ApptReasonEngmtChannelType
 
 > Represents an available engagement channel for a given AppointmentReason.
          Possible engagement channels could be video, phone, or in person. Possible appointment

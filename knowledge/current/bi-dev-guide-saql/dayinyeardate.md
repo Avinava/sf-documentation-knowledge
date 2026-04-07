@@ -5,12 +5,10 @@ topic: dayinyeardate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.332Z
+lastCollected: 2026-04-07T18:37:00.903Z
 estimatedTokens: 27
 keywords: [day_in_year, date, representing, day, year, specific, _in, _year]
 ---
-
-# day_in_year(date)
 
 > Returns an integer representing the day of the year for a specific date.
 

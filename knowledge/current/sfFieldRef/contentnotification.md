@@ -5,12 +5,10 @@ topic: contentnotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.879Z
+lastCollected: 2026-04-07T18:39:35.337Z
 estimatedTokens: 251
-keywords: [ContentNotification, notification, file, API, version, 42.0, later]
+keywords: [ContentNotification, notification, file, API, 42.0]
 ---
-
-# ContentNotification
 
 > Represents a notification for a file. This object is available in
     API version 42.0 and later.

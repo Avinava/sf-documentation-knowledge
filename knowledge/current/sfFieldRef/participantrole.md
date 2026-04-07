@@ -5,13 +5,11 @@ topic: participantrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.254Z
+lastCollected: 2026-04-07T18:39:51.668Z
 estimatedTokens: 337
 namespace: NamespacePrefix
-keywords: [ParticipantRole, associated, access, level, role, participant, context, parent, record, API, version, 50.0, later]
+keywords: [ParticipantRole, level, role, participant, context, parent, record, API, 50.0]
 ---
-
-# ParticipantRole
 
 > Represents details such as the name and associated default access
       level for a role that a participant can have in the context of a parent record. This

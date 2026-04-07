@@ -5,12 +5,10 @@ topic: stationary-asset-water-footprint-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.016Z
+lastCollected: 2026-04-07T18:38:17.550Z
 estimatedTokens: 260
 keywords: [Stationary, Asset, Water, Footprint, Item, total, volume, activity, withdrawal, consumption, discharge, assets, child, record]
 ---
-
-# Stationary Asset Water Footprint Item
 
 > The Stationary Asset Water Footprint Item object represents information about the total
     volume of water from each water activity, such as withdrawal, consumption, or discharge related

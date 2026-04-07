@@ -5,12 +5,10 @@ topic: orgdeleterequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.899Z
+lastCollected: 2026-04-07T18:39:51.311Z
 estimatedTokens: 323
-keywords: [OrgDeleteRequest, developer, edition, org, API, version, 42.0, later, Database.com, editions]
+keywords: [OrgDeleteRequest, developer, edition, org, API, 42.0, Database.com, editions]
 ---
-
-# OrgDeleteRequest
 
 > Represents a request to delete a developer edition (DE) org. This
 		object is available in API version 42.0 and later. It is available only in Developer and

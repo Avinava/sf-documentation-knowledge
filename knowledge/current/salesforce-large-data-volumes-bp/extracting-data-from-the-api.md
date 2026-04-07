@@ -5,12 +5,10 @@ topic: extracting-data-from-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.114Z
+lastCollected: 2026-04-07T18:39:17.788Z
 estimatedTokens: 114
-keywords: [Extracting, Data, API]
+keywords: [Extracting, API]
 ---
-
-# Extracting Data from the API
 
 # Extracting Data from the API
 

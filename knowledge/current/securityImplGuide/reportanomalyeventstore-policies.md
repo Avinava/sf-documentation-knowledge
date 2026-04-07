@@ -5,12 +5,10 @@ topic: reportanomalyeventstore-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.449Z
+lastCollected: 2026-04-07T18:39:22.340Z
 estimatedTokens: 213
 keywords: [ReportAnomalyEventStore, Policies, Report, anomaly, event, monitor, anomalies, how, users, run, export, reports, Policy, Glance]
 ---
-
-# ReportAnomalyEventStore Policies
 
 > Report anomaly event policies monitor anomalies in how users run or export
   reports.

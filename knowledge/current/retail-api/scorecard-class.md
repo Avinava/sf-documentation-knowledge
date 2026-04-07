@@ -5,13 +5,11 @@ topic: scorecard-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.271Z
+lastCollected: 2026-04-07T18:39:10.748Z
 estimatedTokens: 331
 namespace: CGCloud
-keywords: [ScoreCard, Real, Time, Reporting, RTR, report, component, extends, ReportComponent, Usage, getValue, kpiName]
+keywords: [ScoreCard, Real, Time, Reporting, RTR, report, extends, ReportComponent, getValue, kpiName]
 ---
-
-# ScoreCard Class
 
 > Represents a Real Time Reporting (RTR) report scorecard component. This
    class extends the ReportComponent class.

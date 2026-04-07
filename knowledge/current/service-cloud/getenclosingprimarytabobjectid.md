@@ -5,12 +5,10 @@ topic: getenclosingprimarytabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.247Z
+lastCollected: 2026-04-07T18:36:49.311Z
 estimatedTokens: 315
-keywords: [getEnclosingPrimaryTabObjectId, current, primary, tab, subtab, case, account, works, API, version, 24.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getEnclosingPrimaryTabObjectId, current, primary, tab, subtab, case, account, works, API, 24.0, Sample, Code–Visualforce]
 ---
-
-# getEnclosingPrimaryTabObjectId()
 
 > Returns the object ID of the current
             primary tab, which contains a subtab. For example, a case ID or account ID. This method

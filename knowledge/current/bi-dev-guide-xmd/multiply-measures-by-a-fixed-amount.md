@@ -5,12 +5,10 @@ topic: multiply-measures-by-a-fixed-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.251Z
+lastCollected: 2026-04-07T18:37:02.818Z
 estimatedTokens: 392
 keywords: [Multiply, Measures, Fixed, Amount, measure, derived, multiplier, convert, field’s, decimal, percents]
 ---
-
-# Multiply Measures by a Fixed Amount
 
 > You can multiply the values of a measure or derived measure by a fixed amount. For
     example, you can use the multiplier to convert a field’s decimal values to percents.

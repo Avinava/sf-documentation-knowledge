@@ -5,12 +5,10 @@ topic: fieldmappingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.678Z
+lastCollected: 2026-04-07T18:36:31.069Z
 estimatedTokens: 796
-keywords: [FieldMappingConfig, configuration, mapped, source, destination, objects, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [FieldMappingConfig, configuration, mapped, source, destination, API, 63.0]
 ---
-
-# FieldMappingConfig
 
 > Represents the configuration for fields mapped between a source object and
          one or more destination objects and fields.  This object is available in API version

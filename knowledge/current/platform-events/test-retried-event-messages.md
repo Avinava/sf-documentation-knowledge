@@ -5,12 +5,10 @@ topic: test-retried-event-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.603Z
+lastCollected: 2026-04-07T18:38:58.478Z
 estimatedTokens: 547
-keywords: [Test, Retried, Event, Messages, Apex, trigger, retry, processing, message, throwing, EventBus.RetryableException, API, version, 43.0, later]
+keywords: [Test, Retried, Event, Messages, Apex, trigger, retry, processing, message, throwing, EventBus.RetryableException, API, 43.0, calling, Test.EventBus.deliver, inspecting, EventBusSubscriber]
 ---
-
-# Test Retried Event Messages
 
 > An Apex trigger can retry processing of an event message by throwing EventBus.RetryableException. In API version 43.0 and
         later, you can test retried event messages by calling Test.EventBus.deliver() and inspecting EventBusSubscriber fields.

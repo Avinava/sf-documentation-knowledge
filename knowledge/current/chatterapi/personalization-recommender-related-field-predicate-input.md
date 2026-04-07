@@ -5,12 +5,10 @@ topic: personalization-recommender-related-field-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.899Z
+lastCollected: 2026-04-07T18:37:09.624Z
 estimatedTokens: 216
-keywords: [Personalization, Recommender, Predicate, Input, RHS]
+keywords: [Personalization, Recommender, Predicate, RHS]
 ---
-
-# Personalization Recommender Related Field Predicate Input
 
 > Represents a predicate where the RHS is a related field.
 

@@ -5,12 +5,10 @@ topic: custom-objects-for-retail-execution-and-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.599Z
+lastCollected: 2026-04-07T18:39:12.125Z
 estimatedTokens: 2916
-keywords: [Custom, Objects, Retail, Execution, Trade, Promotion, Management, consumer, goods, data, model, supports, TPM]
+keywords: [Retail, Execution, Trade, Promotion, Management, consumer, goods, model, supports, TPM]
 ---
-
-# Custom Objects for Retail Execution and Trade Promotion Management
 
 > The consumer goods data model provides objects and fields that supports both RE and
   TPM.

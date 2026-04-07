@@ -5,12 +5,10 @@ topic: sale-gateway-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.774Z
+lastCollected: 2026-04-07T18:37:22.885Z
 estimatedTokens: 293
 keywords: [Sale, Gateway, payment, gateway's, processing]
 ---
-
-# Sale Gateway Response
 
 > Contains information about the payment gateway's processing of the
       payment sale request.

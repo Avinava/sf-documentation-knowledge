@@ -5,12 +5,10 @@ topic: fieldchangesnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.752Z
+lastCollected: 2026-04-07T18:39:40.411Z
 estimatedTokens: 247
-keywords: [FieldChangeSnapshot, virtual, opportunities, close, dates, changed, time, period, API, version, 52.0, later]
+keywords: [FieldChangeSnapshot, virtual, opportunities, close, dates, changed, time, period, API, 52.0]
 ---
-
-# FieldChangeSnapshot
 
 > Use this virtual object to learn which opportunities' close dates changed
          during the specified time period. This object is available in API version 52.0 and

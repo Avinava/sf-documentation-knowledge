@@ -5,12 +5,10 @@ topic: suspend-resume-billing-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.845Z
+lastCollected: 2026-04-07T18:35:46.849Z
 estimatedTokens: 199
-keywords: [Suspend, Resume, Billing, Output, representation, accounts, schedule, groups, suspended, resumed, operations, along, status, API]
+keywords: [Suspend, Resume, Billing, accounts, schedule, groups, suspended, resumed, operations, along, status, API]
 ---
-
-# Suspend Resume Billing Object
 
 > Output representation of the details of accounts and billing schedule groups, which are
     suspended or resumed for billing operations, along with the status of the API

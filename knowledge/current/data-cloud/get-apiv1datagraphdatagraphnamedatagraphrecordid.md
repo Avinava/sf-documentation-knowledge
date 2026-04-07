@@ -5,12 +5,10 @@ topic: get-apiv1datagraphdatagraphnamedatagraphrecordid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.972Z
+lastCollected: 2026-04-07T18:35:51.810Z
 estimatedTokens: 214
-keywords: [api, dataGraph, dataGraphName, dataGraphRecordId, data, graph]
+keywords: [api, dataGraph, dataGraphName, dataGraphRecordId, graph]
 ---
-
-# GET /api/v1/dataGraph/{dataGraphName}/{dataGraphRecordId}
 
 > Request data from a specified data graph.
 

@@ -5,12 +5,10 @@ topic: 100-199-perform-and-schedule-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.585Z
+lastCollected: 2026-04-07T18:40:14.606Z
 estimatedTokens: 357
 keywords: [100-199, Perform, Schedule]
 ---
-
-# 100-199 Perform and Schedule Method
 
 # 100-199 Perform and Schedule Method
 

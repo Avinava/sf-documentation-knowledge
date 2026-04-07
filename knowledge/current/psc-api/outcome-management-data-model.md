@@ -5,12 +5,10 @@ topic: outcome-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:11.931Z
+lastCollected: 2026-04-07T18:39:04.947Z
 estimatedTokens: 193
-keywords: [Outcome, Management, Data, Model, objects, relationships]
+keywords: [Outcome, Management, Model, relationships]
 ---
-
-# Outcome Management Data Model
 
 > Learn about the objects and relationships in the Outcome Management data
   model.

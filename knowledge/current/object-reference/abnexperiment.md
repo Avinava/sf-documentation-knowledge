@@ -5,12 +5,10 @@ topic: abnexperiment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.348Z
+lastCollected: 2026-04-07T18:38:24.234Z
 estimatedTokens: 1671
-keywords: [AbnExperiment, experiment, that's, Marketing, Cloud, content, Experience, websites, platform, automations, API, version, 63.0, later, Calls]
+keywords: [AbnExperiment, experiment, that's, Marketing, Cloud, content, Experience, websites, platform, automations, API, 63.0]
 ---
-
-# AbnExperiment
 
 > Represents an A/B/n experiment that's used with Marketing Cloud Next content,
          Experience Cloud websites, and platform automations. This object is available in API

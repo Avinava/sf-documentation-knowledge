@@ -5,12 +5,10 @@ topic: order-by-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.368Z
+lastCollected: 2026-04-07T18:37:00.934Z
 estimatedTokens: 98
 keywords: [Order, Date, result, SAQL, queries, DateTime, DateOnly]
 ---
-
-# Order By Date
 
 > You can order the result of your SAQL queries by DateTime or DateOnly.
 

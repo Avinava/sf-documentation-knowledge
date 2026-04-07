@@ -5,12 +5,10 @@ topic: about-this-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.800Z
+lastCollected: 2026-04-07T18:38:15.286Z
 estimatedTokens: 222
-keywords: [Developer, Documentation, LWC, Offline, work, progress, improve, continuously, throughout, pilot, beta, programs, initial, release, program]
+keywords: [Developer, Documentation, LWC, Offline, work, progress, improve, continuously, throughout, pilot, beta, programs, initial, release, program, shared, across, several, Offline-enabled, mobile, apps, purpose, evaluating, own, orgs]
 ---
-
-# About This Developer Guide
 
 > Documentation
   for LWC Offline is a work in

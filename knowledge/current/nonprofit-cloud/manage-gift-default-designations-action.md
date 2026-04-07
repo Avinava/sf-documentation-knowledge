@@ -5,12 +5,10 @@ topic: manage-gift-default-designations-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.568Z
+lastCollected: 2026-04-07T18:38:20.247Z
 estimatedTokens: 282
-keywords: [Manage, Gift, Designations, Action, Creates, manages, Designation, records, entry, associated, campaign, opportunity, commitment, REST, HTTP]
+keywords: [Inputs, Outputs, Manage, Gift, Designations, Action, Creates, manages, Designation, records, entry, campaign, opportunity, commitment, REST, HTTP]
 ---
-
-# Manage Gift Default Designations Action
 
 > Creates and manages Gift Default Designation records for a gift entry
       associated with a campaign, opportunity, or gift commitment.

@@ -5,12 +5,10 @@ topic: patch-messagingv1emaildefinitionsdefinitionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.633Z
+lastCollected: 2026-04-07T18:40:20.895Z
 estimatedTokens: 1071
-keywords: [PATCH, messaging, email, definitions, definitionKey, Updates, specific, message, definition, **Overview**, Usage, HTTP, Responses]
+keywords: [PATCH, messaging, email, definitions, definitionKey, Updates, specific, message, definition, **Overview**, HTTP, Responses]
 ---
-
-# PATCH /messaging/v1/email/definitions/{definitionKey}
 
 > Updates a specific message definition.
 

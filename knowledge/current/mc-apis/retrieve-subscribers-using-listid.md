@@ -5,12 +5,10 @@ topic: retrieve-subscribers-using-listid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.669Z
+lastCollected: 2026-04-07T18:40:18.874Z
 estimatedTokens: 2095
-keywords: [Retrieve, Subscribers, ListID, SOAP, API, subscriber, Why, How, Sample, NET, Code, PHP, Java, Axis, 1.4]
+keywords: [Retrieve, Subscribers, ListID, SOAP, API, subscriber, Why, How, Sample, NET, Code, PHP, Java, Axis, 1.4, Envelope, Items]
 ---
-
-# Retrieve Subscribers Using ListID
 
 > This page contains information  about using the SOAP API to retrieve subscriber information based on the ListID object.
 

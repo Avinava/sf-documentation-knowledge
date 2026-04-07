@@ -5,12 +5,10 @@ topic: insurance-quoting-developer-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:03.984Z
+lastCollected: 2026-04-07T18:37:53.249Z
 estimatedTokens: 500
-keywords: [Insurance, Quoting, Developer, Journey, how, Rating, APIs, build, user, journeys, creating, updating, quotes, Salesforce, Flows]
+keywords: [Insurance, Quoting, Developer, Journey, how, Rating, APIs, build, user, journeys, creating, updating, quotes, Salesforce, Flows, Omniscripts, help, users, representatives, console, well, policyholders, partners, services, community, portals]
 ---
-
-# Insurance Quoting Developer Journey
 
 > Learn how to use the Insurance Quoting and Rating APIs to build user journeys for
     creating and updating quotes with Salesforce Flows and Omniscripts. These APIs help you build

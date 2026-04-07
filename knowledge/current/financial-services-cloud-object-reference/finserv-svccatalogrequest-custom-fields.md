@@ -5,12 +5,10 @@ topic: finserv-svccatalogrequest-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.887Z
+lastCollected: 2026-04-07T18:37:35.541Z
 estimatedTokens: 136
-keywords: [FinServ, SvcCatalogRequest, Custom, made, user, Service, Catalog, CaseId, extends, Financial, Services, Cloud]
+keywords: [FinServ, SvcCatalogRequest, made, user, Service, Catalog, CaseId, extends, Financial, Services, Cloud]
 ---
-
-# FinServ SvcCatalogRequest Custom Fields
 
 > Represents a request made by a user using the Service Catalog. The CaseId custom field
       extends the SvcCatalogRequest object for use in Financial Services Cloud.

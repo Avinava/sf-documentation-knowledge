@@ -5,12 +5,10 @@ topic: create-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.692Z
+lastCollected: 2026-04-07T18:36:20.929Z
 estimatedTokens: 582
-keywords: [Product, Schedules, Establish, reestablish, schedule, multiple, installments, opportunity, resource, REST, API, version, 43.0, later, 46.0]
+keywords: [Examples, Product, Schedules, Establish, reestablish, schedule, multiple, installments, opportunity, resource, REST, API, 43.0, 46.0, established, re-established, support, validation, Apex, triggers]
 ---
-
-# Create Product Schedules
 
 > Establish or reestablish a product schedule with multiple installments for an
   opportunity product. This resource is available in REST API version 43.0 and later. In API version

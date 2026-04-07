@@ -5,12 +5,10 @@ topic: dataobjectbuildorgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.063Z
+lastCollected: 2026-04-07T18:36:24.403Z
 estimatedTokens: 774
-keywords: [DataObjectBuildOrgTemplate, derived, template, define, structure, configuration, data, objects, build, organization, templates, added, inside, kit, deploy]
+keywords: [DataObjectBuildOrgTemplate, derived, template, define, structure, configuration, build, organization, templates, added, inside, kit, deploy, metadata, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# DataObjectBuildOrgTemplate
 
 > Represents the derived object template used
       to define the structure and configuration of data objects in a build organization. The object

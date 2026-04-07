@@ -5,12 +5,10 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.009Z
+lastCollected: 2026-04-07T18:38:59.961Z
 estimatedTokens: 75
 keywords: [Settings, organization, control, non-qualifying, points, balance, members, credited, Intelligent, Document, Reader]
 ---
-
-# Settings
 
 > Represents the organization settings to control the settings related to Intelligent
     Document Reader. For more information, see Settings.

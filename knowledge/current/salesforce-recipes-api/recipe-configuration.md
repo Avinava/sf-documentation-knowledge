@@ -5,12 +5,10 @@ topic: recipe-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.868Z
+lastCollected: 2026-04-07T18:39:18.589Z
 estimatedTokens: 124
-keywords: [Recipe, Configuration, data, prep]
+keywords: [Recipe, Configuration, prep]
 ---
-
-# Recipe Configuration
 
 > The data prep recipe configuration data.
 

@@ -5,12 +5,10 @@ topic: criteria-based-search-filter-configurations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.562Z
+lastCollected: 2026-04-07T18:39:01.711Z
 estimatedTokens: 199
-keywords: [Criteria-Based, Search, Filter, Configurations, Retrieve, unified, data, input, criteria, configuration, defined, administrator]
+keywords: [Criteria-Based, Search, Filter, Configurations, Retrieve, unified, criteria, configuration, defined, administrator]
 ---
-
-# Criteria-Based Search Filter Configurations
 
 > Retrieve the unified object search data based on the input criteria
       and the search configuration defined by the administrator.

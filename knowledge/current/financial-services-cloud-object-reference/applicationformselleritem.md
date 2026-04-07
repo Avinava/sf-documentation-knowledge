@@ -5,12 +5,10 @@ topic: applicationformselleritem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.568Z
+lastCollected: 2026-04-07T18:37:36.331Z
 estimatedTokens: 1880
-keywords: [ApplicationFormSellerItem, junction, application, form, seller, product, API, version, 61.0, later, Digital, Lending, permission, Calls, Associated]
+keywords: [ApplicationFormSellerItem, junction, application, form, seller, product, API, 61.0, Digital, Lending, permission]
 ---
-
-# ApplicationFormSellerItem
 
 > Represents a junction between an application form and a seller
          product. This object is available in API version 61.0 and later. Available with

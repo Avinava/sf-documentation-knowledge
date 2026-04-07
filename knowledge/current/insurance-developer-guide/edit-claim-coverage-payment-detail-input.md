@@ -5,12 +5,10 @@ topic: edit-claim-coverage-payment-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.901Z
+lastCollected: 2026-04-07T18:37:50.812Z
 estimatedTokens: 351
-keywords: [Edit, Claim, Coverage, Payment, Detail, Input, record]
+keywords: [Edit, Claim, Coverage, Payment, Detail, record]
 ---
-
-# Edit Claim Coverage Payment Detail Input
 
 > Details to edit a claim coverage payment detail record.
 

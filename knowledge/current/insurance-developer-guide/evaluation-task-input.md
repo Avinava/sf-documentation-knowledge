@@ -5,12 +5,10 @@ topic: evaluation-task-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.923Z
+lastCollected: 2026-04-07T18:37:50.831Z
 estimatedTokens: 125
-keywords: [Evaluation, Task, Input, representation]
+keywords: [Evaluation, Task]
 ---
-
-# Evaluation Task Input
 
 > Input representation details of the evaluation task.
 

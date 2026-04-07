@@ -5,12 +5,10 @@ topic: index-setting-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.527Z
+lastCollected: 2026-04-07T18:35:44.518Z
 estimatedTokens: 298
 keywords: [Index, Setting, PATCH, Fetch, settings, indexing, search]
 ---
-
-# Index Setting (GET, PATCH)
 
 > Fetch and update settings related to indexing and
     search.

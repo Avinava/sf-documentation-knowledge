@@ -5,12 +5,10 @@ topic: personeducation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.740Z
+lastCollected: 2026-04-07T18:37:38.611Z
 estimatedTokens: 1035
-keywords: [PersonEducation, professional, education, person, party, role, Calls, Associated, Objects]
+keywords: [PersonEducation, professional, education, person, party, role]
 ---
-
-# PersonEducation
 
 > Represents information about professional education for a person in a party
       role.

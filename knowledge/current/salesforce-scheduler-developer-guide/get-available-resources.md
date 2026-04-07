@@ -5,12 +5,10 @@ topic: get-available-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.558Z
+lastCollected: 2026-04-07T18:39:21.395Z
 estimatedTokens: 348
 keywords: [Resources, Retrieve, anonymous, appointment]
 ---
-
-# Get Available Resources
 
 > Retrieve the resources that are available for an anonymous
     appointment.

@@ -5,12 +5,10 @@ topic: process-consumption-overages-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.227Z
+lastCollected: 2026-04-07T18:35:40.005Z
 estimatedTokens: 379
-keywords: [Process, Consumption, Overages, Action, usage, summary, records, SummaryComplete, status, uses, entitlement, service, Special, Access, Rules]
+keywords: [Inputs, Outputs, Process, Consumption, Overages, Action, summary, records, SummaryComplete, status, uses, entitlement, service, REST, HTTP]
 ---
-
-# Process Consumption Overages Action
 
 > Process consumption overages for the usage summary records with
 				SummaryComplete status. This action uses the

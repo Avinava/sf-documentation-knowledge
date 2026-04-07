@@ -5,12 +5,10 @@ topic: personalization-recommender-base-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.824Z
+lastCollected: 2026-04-07T18:37:09.551Z
 estimatedTokens: 89
-keywords: [Personalization, Recommender, Base, Patch, Input, representation, editing]
+keywords: [Personalization, Recommender, Base, Patch, editing]
 ---
-
-# Personalization Recommender Base Patch Input
 
 > The base representation for editing a personalization object.
 

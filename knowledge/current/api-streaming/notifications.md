@@ -5,12 +5,10 @@ topic: notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.145Z
+lastCollected: 2026-04-07T18:36:51.469Z
 estimatedTokens: 334
-keywords: [Notifications, record, created, updated, event, evaluated, against, PushTopic, query, notification, generated, message, sent, channel, result]
+keywords: [Notifications, record, created, updated, event, evaluated, against, PushTopic, query, notification, generated, message, sent, channel, result, JSON, formatted, NotifyF]
 ---
-
-# Notifications
 
 > After a record is created or updated (an event), the record is evaluated against the PushTopic
    query and a notification might be generated. A notification is the message sent to the channel as

@@ -6,13 +6,10 @@ topic: considerations-for-newline-characters-and-computing-the-sha-256-hash
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.438Z
+lastCollected: 2026-04-07T18:37:05.170Z
 estimatedTokens: 305
-keywords: [Considerations, Newline, Characters, Computing, SHA-256, Hash, content, Salesforce, uses, generate, transformed, browser, browsers, transform, record]
+keywords: [Considerations, Newline, Characters, Computing, SHA-256, Hash, content, Salesforce, uses, generate, transformed, browser, browsers, transform, record, records, stored, trims, leading, trailing, white, spaces]
 ---
-
-# Considerations for Newline Characters and Computing the SHA-256
-      Hash
 
 > The content that Salesforce uses to generate the SHA-256 hash might have newline
     characters transformed by the browser. Many browsers transform newline characters to \r

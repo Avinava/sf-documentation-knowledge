@@ -5,12 +5,10 @@ topic: interoptopictriggercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.814Z
+lastCollected: 2026-04-07T18:37:47.397Z
 estimatedTokens: 1258
-keywords: [InteropTopicTriggerCriteria, criteria, trigger, notification, interoperability, topic, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicTriggerCriteria, criteria, trigger, notification, interoperability, topic, API, 64.0]
 ---
-
-# InteropTopicTriggerCriteria
 
 > Represents the criteria that trigger a notification for an interoperability
          topic. This object is available in API version 64.0 and later.

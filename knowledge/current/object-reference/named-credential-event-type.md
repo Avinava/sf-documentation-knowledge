@@ -5,12 +5,10 @@ topic: named-credential-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.549Z
+lastCollected: 2026-04-07T18:38:31.418Z
 estimatedTokens: 1253
-keywords: [Named, Credential, Event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t, recognize]
+keywords: [Named, Credential, Event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t, recognize, package, log, file, investigate, whether, security, breach, occurred, EventLogFile, API, 53.0]
 ---
-
-# Named Credential Event Type
 
 > The Named Credential event type captures information about Apex
          callouts that use named credentials as their endpoints. Use this event type to audit the

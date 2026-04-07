@@ -5,12 +5,10 @@ topic: orderchangelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.305Z
+lastCollected: 2026-04-07T18:39:50.719Z
 estimatedTokens: 413
-keywords: [OrderChangeLog, log, record, change, requests, made, order, post, activation, always, one-to-one, API, version, 48.0, later]
+keywords: [OrderChangeLog, log, record, change, requests, made, order, post, activation, always, one-to-one, API, 48.0]
 ---
-
-# OrderChangeLog
 
 > Represents a log record of all change requests made to an order post
          activation. A log record is always one-to-one to change an order request. This object

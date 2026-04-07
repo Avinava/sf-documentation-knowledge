@@ -5,12 +5,10 @@ topic: publish-event-messages-with-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.461Z
+lastCollected: 2026-04-07T18:38:58.322Z
 estimatedTokens: 648
 keywords: [Publish, Event, Messages, Processes, Process, Builder, Salesforce, app, part, automated]
 ---
-
-# Publish Event Messages with Processes
 
 > Use Process Builder to publish event messages from a Salesforce app
    as part of an automated process.

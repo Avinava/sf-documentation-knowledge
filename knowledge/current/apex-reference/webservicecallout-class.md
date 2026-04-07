@@ -5,13 +5,11 @@ topic: webservicecallout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.126Z
+lastCollected: 2026-04-07T18:36:01.386Z
 estimatedTokens: 986
 namespace: System
 keywords: [WebServiceCallout, making, callouts, SOAP, operations, external, Web, service, Apex, stub, auto-generated, WSDL, invoke, infoArray]
 ---
-
-# WebServiceCallout Class
 
 > Enables making callouts to SOAP operations on an external Web service. This class is
         used in the Apex stub class that is auto-generated from a WSDL.

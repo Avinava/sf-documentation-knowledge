@@ -5,12 +5,10 @@ topic: debugging-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.081Z
+lastCollected: 2026-04-07T18:36:17.308Z
 estimatedTokens: 171
 keywords: [Debugging, Apex, support, debug, code, Developer, Console, logs]
 ---
-
-# Debugging Apex
 
 > Apex provides debugging support. You can debug your Apex code using the Developer
         Console and debug logs.

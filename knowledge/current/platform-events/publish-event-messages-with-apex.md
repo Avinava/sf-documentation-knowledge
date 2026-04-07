@@ -5,12 +5,10 @@ topic: publish-event-messages-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.364Z
+lastCollected: 2026-04-07T18:38:58.217Z
 estimatedTokens: 1481
 keywords: [Publish, Event, Messages, Apex, Salesforce, app, Events, Immediate, Result, Database.SaveResult, Status, Code, Asynchronous, Publishing, Behavior]
 ---
-
-# Publish Event Messages with Apex
 
 > Use Apex to publish event messages from a Salesforce
         app.

@@ -5,12 +5,10 @@ topic: rest-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.864Z
+lastCollected: 2026-04-07T18:36:31.257Z
 estimatedTokens: 156
 keywords: [REST, you’re, language, isn’t, strongly, typed, JavaScript]
 ---
-
-# REST Headers
 
 > Use REST if you’re using a language that isn’t strongly
       typed, like JavaScript.

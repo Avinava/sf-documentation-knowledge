@@ -5,12 +5,10 @@ topic: adding-and-retrieving-data-with-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.298Z
+lastCollected: 2026-04-07T18:36:19.512Z
 estimatedTokens: 524
-keywords: [Adding, Retrieving, Data, DML, Apex, tightly, integrated, Lightning, Platform, persistence, layer, Records, database, inserted, manipulated]
+keywords: [Adding, Retrieving, DML, Apex, tightly, integrated, Lightning, Platform, persistence, layer, Records, database, inserted, manipulated, directly, simple, statements, language, add, manage, Manipulation, contrast, SOQL, operations, querying, write]
 ---
-
-# Adding and Retrieving Data With DML
 
 > Apex is tightly integrated with the Lightning Platform persistence layer. Records in
         the database can be inserted and manipulated through Apex directly using simple statements.

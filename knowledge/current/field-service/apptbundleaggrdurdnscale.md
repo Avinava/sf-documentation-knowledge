@@ -5,12 +5,10 @@ topic: apptbundleaggrdurdnscale
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.274Z
+lastCollected: 2026-04-07T18:36:47.144Z
 estimatedTokens: 550
-keywords: [ApptBundleAggrDurDnscale, Sums, duration, bundle, members, reduced, predefined, percentage, API, version, 54.0, later, Calls, Special, Access]
+keywords: [ApptBundleAggrDurDnscale, Sums, duration, bundle, members, reduced, predefined, percentage, API, 54.0]
 ---
-
-# ApptBundleAggrDurDnscale
 
 > Sums the duration of the bundle members, reduced by a predefined
          percentage. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: whats-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.952Z
+lastCollected: 2026-04-07T18:40:08.934Z
 estimatedTokens: 701
-keywords: [What’s, Unlocked, Package, you’re, new, packaging, think, container, fill, metadata, features, customizations, schema, packages, help]
+keywords: [What’s, Unlocked, Package, you’re, new, packaging, think, container, fill, metadata, features, customizations, schema, packages, help, add, edit, remove, org, trackable, way, apply, multiple, orgs, upgrade, Salesforce, apps, easier, faster, especially, suited, internal, business]
 ---
-
-# What’s an Unlocked Package?
 
 > If you’re new to packaging, think of a package as a container that you fill with
   metadata. It contains a set of related features, customizations, and schema. Unlocked packages

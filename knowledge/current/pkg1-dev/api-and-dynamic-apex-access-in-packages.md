@@ -5,12 +5,10 @@ topic: api-and-dynamic-apex-access-in-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:00.728Z
+lastCollected: 2026-04-07T18:38:53.024Z
 estimatedTokens: 1835
-keywords: [API, Dynamic, Apex, Access, Packages, Package, components, via, standard, custom, objects, organization, they’re, installed, Considerations]
+keywords: [API, Dynamic, Apex, Packages, Package, via, standard, organization, they’re, installed, Considerations]
 ---
-
-# API and Dynamic Apex Access in Packages
 
 > Apex Package components have access via dynamic
       Apex and the API to standard and custom objects in the organization where they’re

@@ -5,12 +5,10 @@ topic: invoicelinefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.189Z
+lastCollected: 2026-04-07T18:39:45.760Z
 estimatedTokens: 358
-keywords: [InvoiceLineFeed, Feed, tracking, InvoiceLine]
+keywords: [InvoiceLineFeed, InvoiceLine]
 ---
-
-# InvoiceLineFeed
 
 > Feed tracking for InvoiceLine.
 

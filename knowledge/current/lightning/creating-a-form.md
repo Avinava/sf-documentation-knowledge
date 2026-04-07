@@ -5,12 +5,10 @@ topic: creating-a-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.507Z
+lastCollected: 2026-04-07T18:38:04.664Z
 estimatedTokens: 1321
-keywords: [Creating, Form, Work, user, input, server-side, updating, record, displaying, hiding, components, Implement, Basic]
+keywords: [Creating, Form, Work, user, server-side, updating, record, displaying, hiding, Implement, Basic]
 ---
-
-# Creating a Form
 
 > Work with user input for server-side use, such as creating or updating a record. Or
         get user input to update the user interface, such as displaying or hiding

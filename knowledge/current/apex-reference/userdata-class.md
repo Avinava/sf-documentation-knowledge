@@ -5,13 +5,11 @@ topic: userdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.410Z
+lastCollected: 2026-04-07T18:35:59.687Z
 estimatedTokens: 4736
 namespace: Auth
-keywords: [UserData, Stores, user, authentication, provider, registration, handlers, including, implement, Auth.RegistrationHandler, built, Flow, Builder, Usage, identifier]
+keywords: [UserData, Stores, user, authentication, provider, registration, handlers, including, implement, Auth.RegistrationHandler, built, Flow, Builder, identifier, firstName, lastName, fullName, email, link, userName, locale, siteLoginUrl, attributeMap, idToken, userInfoJSONString, idTokenJSONString]
 ---
-
-# UserData Class
 
 > Stores user information for authentication provider registration handlers, including
     handlers that implement the Auth.RegistrationHandler

@@ -5,12 +5,10 @@ topic: validate-secure-document-public-api-secure-document-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.782Z
+lastCollected: 2026-04-07T18:38:02.714Z
 estimatedTokens: 416
 keywords: [Validate, Secure, Document, API, secure-document, rule, validates, functions, accessed]
 ---
-
-# Validate Secure Document Public API ( secure-document ) )
 
 > This rule validates that only supported functions and properties
             of the document global are

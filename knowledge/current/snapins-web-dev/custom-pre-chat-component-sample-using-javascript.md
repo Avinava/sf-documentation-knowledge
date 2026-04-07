@@ -5,12 +5,10 @@ topic: custom-pre-chat-component-sample-using-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.671Z
+lastCollected: 2026-04-07T18:40:09.609Z
 estimatedTokens: 464
-keywords: [Custom, Pre-Chat, Component, Sample, JavaScript, code, examples, controller, helper, plain]
+keywords: [Pre-Chat, Sample, JavaScript, code, examples, controller, helper, plain]
 ---
-
-# Custom Pre-Chat Component Sample Using JavaScript
 
 > The following code sample contains examples of the component, controller, and helper
 		code for a custom pre-chat component using plain JavaScript.

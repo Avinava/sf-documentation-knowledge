@@ -5,12 +5,10 @@ topic: adtargetcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.187Z
+lastCollected: 2026-04-07T18:38:12.477Z
 estimatedTokens: 963
-keywords: [AdTargetCategory, targeting, category, that's, group, multiple, segments, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [AdTargetCategory, targeting, category, that's, group, multiple, segments, API, 55.0]
 ---
-
-# AdTargetCategory
 
 > Represents a targeting category that's used to group multiple
          targeting segments. This object is available in API version 55.0 and later.

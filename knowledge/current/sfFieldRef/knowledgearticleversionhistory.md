@@ -5,12 +5,10 @@ topic: knowledgearticleversionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.400Z
+lastCollected: 2026-04-07T18:39:45.955Z
 estimatedTokens: 369
-keywords: [KnowledgeArticleVersionHistory, read-only, access, full, history, article, API, version, 25.0, later]
+keywords: [KnowledgeArticleVersionHistory, read-only, full, article, API, 25.0]
 ---
-
-# KnowledgeArticleVersionHistory
 
 > Enables read-only access to
         the full history of an article.

@@ -5,12 +5,10 @@ topic: handling-events-with-client-side-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.313Z
+lastCollected: 2026-04-07T18:38:04.454Z
 estimatedTokens: 1243
-keywords: [Handling, Events, Client-Side, Controllers, controller, handles, component, It’s, JavaScript, resource, functions, component’s, actions, Creating, Calling]
+keywords: [Handling, Events, Client-Side, Controllers, controller, handles, It’s, JavaScript, resource, functions, component’s, actions, Creating, Calling, Framework, Accessing, Attributes, Invoking, Another, Action]
 ---
-
-# Handling Events with Client-Side Controllers
 
 > A client-side controller handles events within a component. It’s a JavaScript resource that defines the functions for all
         of the component’s actions.

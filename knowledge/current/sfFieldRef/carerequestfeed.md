@@ -5,12 +5,10 @@ topic: carerequestfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.549Z
+lastCollected: 2026-04-07T18:39:32.947Z
 estimatedTokens: 358
-keywords: [CareRequestFeed, Feed, tracking, CareRequest]
+keywords: [CareRequestFeed, CareRequest]
 ---
-
-# CareRequestFeed
 
 > Feed tracking for CareRequest.
 

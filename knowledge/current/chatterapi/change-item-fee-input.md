@@ -5,12 +5,10 @@ topic: change-item-fee-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.857Z
+lastCollected: 2026-04-07T18:37:07.583Z
 estimatedTokens: 807
-keywords: [Change, Item, Fee, Input, representation]
+keywords: [Change, Item, Fee]
 ---
-
-# Change Item Fee Input
 
 > Input representation for Change Item Fee Input
 

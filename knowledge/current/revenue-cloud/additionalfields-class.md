@@ -5,12 +5,10 @@ topic: additionalfields-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.096Z
+lastCollected: 2026-04-07T18:35:40.966Z
 estimatedTokens: 521
 keywords: [AdditionalFields, include, map, key, instance, AdditionalFieldsInput]
 ---
-
-# AdditionalFields Class
 
 > Contains properties to include a map where the key is a string and the value is an
     instance of the AdditionalFieldsInput class.

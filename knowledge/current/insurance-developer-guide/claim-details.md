@@ -5,12 +5,10 @@ topic: claim-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.963Z
+lastCollected: 2026-04-07T18:37:52.076Z
 estimatedTokens: 415
-keywords: [Claim, Output, representation, record]
+keywords: [Claim, record]
 ---
-
-# Claim Details
 
 > Output representation for the details of a claim record.
 

@@ -5,12 +5,10 @@ topic: statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.726Z
+lastCollected: 2026-04-07T18:37:01.334Z
 estimatedTokens: 408
-keywords: [Statements, SAQL, query, loads, input, data, operates, outputs, result, made, statement, stream, operation, output]
+keywords: [Statements, SAQL, query, loads, operates, outputs, result, made, statement, stream, operation]
 ---
-
-# Statements
 
 > A SAQL query loads input data,
     operates on it, and outputs the result data. A query is made up of statements. Each SAQL

@@ -5,12 +5,10 @@ topic: assessmentquestionassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.306Z
+lastCollected: 2026-04-07T18:39:27.272Z
 estimatedTokens: 325
-keywords: [AssessmentQuestionAssignment, junction, assessment, question, API, version, 55.0, later]
+keywords: [AssessmentQuestionAssignment, junction, assessment, question, API, 55.0]
 ---
-
-# AssessmentQuestionAssignment
 
 > Represents a junction between an assessment question set and an
          assessment question. This object is available in API version 55.0 and

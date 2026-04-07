@@ -5,12 +5,10 @@ topic: get-my-news-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.183Z
+lastCollected: 2026-04-07T18:37:24.232Z
 estimatedTokens: 96
-keywords: [News, Feed]
+keywords: [News]
 ---
-
-# Get My News Feed
 
 > Get my news feed.
 

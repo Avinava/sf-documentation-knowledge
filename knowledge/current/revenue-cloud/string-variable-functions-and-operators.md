@@ -5,12 +5,10 @@ topic: string-variable-functions-and-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.661Z
+lastCollected: 2026-04-07T18:35:42.542Z
 estimatedTokens: 909
 keywords: [Variable, Functions, Operators, Constraint, Modeling, Language, CML, manipulation, conversion, comparison, validation]
 ---
-
-# String Variable Functions and Operators
 
 > Constraint Modeling Language (CML) provides string manipulation and conversion
     functions, and string comparison and validation operators.

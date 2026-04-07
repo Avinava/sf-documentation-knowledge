@@ -5,12 +5,10 @@ topic: return-headers-of-appmenu-mobile-item-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.222Z
+lastCollected: 2026-04-07T18:36:20.435Z
 estimatedTokens: 146
-keywords: [AppMenu, Mobile, Item, Requests, Salesforce, app, Android, iOS, web, navigation, menu, URI, retrieve, content, resource]
+keywords: [AppMenu, Mobile, Item, Requests, Salesforce, app, Android, iOS, web, navigation, menu, URI, retrieve, content, resource, REST, API, 29.0]
 ---
-
-# Return Headers of AppMenu Mobile Item Requests
 
 > Returns only the headers that are returned by a GET request to the Salesforce mobile app
   for Android and iOS and the mobile web navigation menu. Use this URI to see the header values

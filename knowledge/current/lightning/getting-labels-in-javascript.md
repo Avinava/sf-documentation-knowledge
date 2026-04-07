@@ -5,12 +5,10 @@ topic: getting-labels-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.460Z
+lastCollected: 2026-04-07T18:38:04.615Z
 estimatedTokens: 1103
-keywords: [Getting, Labels, JavaScript, retrieve, code, performs, optimally, statically, defined, sent, client, component, loaded, Dynamic]
+keywords: [Getting, Labels, JavaScript, retrieve, code, performs, optimally, statically, defined, sent, client, loaded, Dynamic]
 ---
-
-# Getting Labels in JavaScript
 
 > You can retrieve labels in JavaScript code. Your code performs optimally if the labels
         are statically defined and sent to the client when the component is loaded.

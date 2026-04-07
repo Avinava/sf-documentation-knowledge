@@ -5,12 +5,10 @@ topic: synchronization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.316Z
+lastCollected: 2026-04-07T18:37:41.391Z
 estimatedTokens: 331
-keywords: [Synchronization, Synchronize, calculated, score, Data, Cloud, category]
+keywords: [Synchronization, Synchronize, calculated, score, Cloud, category]
 ---
-
-# Synchronization
 
 > Synchronize the calculated score from the Data Cloud for a given score
       category.

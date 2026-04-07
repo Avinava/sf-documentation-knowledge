@@ -5,12 +5,10 @@ topic: identityprovidereventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.567Z
+lastCollected: 2026-04-07T18:39:44.216Z
 estimatedTokens: 343
-keywords: [IdentityProviderEventStore, Tracks, problems, successes, inbound, SAML, OpenID, Connect, authentication, requests, another, app, provider, records, outbound]
+keywords: [IdentityProviderEventStore, Tracks, problems, successes, inbound, SAML, OpenID, Connect, authentication, requests, another, app, provider, records, outbound, responses, Salesforce, acting, identity, big, API, 51.0]
 ---
-
-# IdentityProviderEventStore
 
 > Tracks problems and successes with inbound SAML or OpenID Connect
       authentication requests from another app provider. It also records outbound SAML responses

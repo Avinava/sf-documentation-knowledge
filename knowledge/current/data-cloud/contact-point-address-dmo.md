@@ -5,12 +5,10 @@ topic: contact-point-address-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.896Z
+lastCollected: 2026-04-07T18:35:52.806Z
 estimatedTokens: 1966
-keywords: [Contact, Point, Address, DMO, data, model, CloudDMO, mailing, party, Provided, Sales, Service, Kits, API, Category]
+keywords: [Category, Relationships, Contact, Point, Address, DMO, model, CloudDMO, mailing, party, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---
-
-# Contact Point Address DMO
 
 > The Contact Point Address data model object (DMO) is a Data CloudDMO
 		based on the mailing address of a party. Provided in both the Sales and Service Data

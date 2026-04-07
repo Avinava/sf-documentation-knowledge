@@ -5,12 +5,10 @@ topic: access-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.568Z
+lastCollected: 2026-04-07T18:39:17.206Z
 estimatedTokens: 134
-keywords: [Access, Token, enable, survey, invitation, creation, gather, feedback, unauthenticated, participants]
+keywords: [Token, enable, survey, invitation, creation, gather, feedback, unauthenticated, participants]
 ---
-
-# Access Token
 
 > Create an access token to enable survey invitation creation, and
       gather feedback from unauthenticated participants.

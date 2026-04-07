@@ -5,12 +5,10 @@ topic: get-messagingv1smsmessagesmessagekey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.209Z
+lastCollected: 2026-04-07T18:40:17.371Z
 estimatedTokens: 665
-keywords: [messaging, sms, messages, messageKey, send, status, message, Because, route, rate-limited, infrequent, verification, collect, scale, subscribe]
+keywords: [messaging, sms, messages, messageKey, send, status, message, Because, route, rate-limited, infrequent, verification, collect, scale, subscribe, transactional, events, Event, Notification, Service, **Overview**, Sent, Queued, NotSent, HTTP, Responses]
 ---
-
-# GET /messaging/v1/sms/messages/{messageKey}
 
 > Gets the send status for a message. Because this route is rate-limited, use it for infrequent verification of a messageKey. To collect send status at scale, subscribe to transactional send events using the Event Notification Service.
 

@@ -5,12 +5,10 @@ topic: calling-a-server-side-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.553Z
+lastCollected: 2026-04-07T18:38:03.603Z
 estimatedTokens: 1656
-keywords: [Calling, Server-Side, Action, Call, controller, client-side, callback, completed, any, containing, serializable, JSON, data]
+keywords: [Calling, Server-Side, Action, Call, controller, client-side, callback, completed, any, containing, serializable, JSON]
 ---
-
-# Calling a Server-Side Action
 
 > Call a server-side controller action from a client-side
 controller. In the client-side controller, you set a callback, which

@@ -5,12 +5,10 @@ topic: troubleshoot-package-conversion-failures
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.734Z
+lastCollected: 2026-04-07T18:38:54.098Z
 estimatedTokens: 1245
-keywords: [Troubleshoot, Package, Conversion, Failures, possible, error, scenarios, occur, convert, API, Version, RecordType, Errors, Org, Shape]
+keywords: [Troubleshoot, Package, Conversion, Failures, possible, error, scenarios, occur, convert, API, RecordType, Errors, Org, Shape, Permission, Code, Coverage, Picklist]
 ---
-
-# Troubleshoot Package Conversion Failures
 
 > Here are some possible error scenarios that can occur when you convert a package.
 

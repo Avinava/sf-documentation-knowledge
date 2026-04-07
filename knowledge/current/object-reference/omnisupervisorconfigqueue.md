@@ -5,12 +5,10 @@ topic: omnisupervisorconfigqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.138Z
+lastCollected: 2026-04-07T18:38:36.313Z
 estimatedTokens: 319
-keywords: [OmniSupervisorConfigQueue, queues, visible, supervisors, Command, Center, Service, configuration, queue, appears, Backlog, Assigned, Work, tabs, API]
+keywords: [OmniSupervisorConfigQueue, queues, visible, supervisors, Command, Center, Service, configuration, queue, appears, Backlog, Assigned, Work, tabs, API, 53.0]
 ---
-
-# OmniSupervisorConfigQueue
 
 > Represents the queues that are visible to the supervisors of a Command
 			Center for Service configuration. The queue, if visible, appears in the Queues Backlog

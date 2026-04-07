@@ -5,12 +5,10 @@ topic: create-reports-with-custom-apex-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.345Z
+lastCollected: 2026-04-07T18:37:05.075Z
 estimatedTokens: 511
-keywords: [Reports, Custom, Apex, Filter, Along, standard, filters, define, attributes, Promotion, Report, Configuration, Sample, Code]
+keywords: [Reports, Apex, Filter, Along, standard, filters, define, attributes, Promotion, Report, Configuration, Sample, Code]
 ---
-
-# Create Reports with Custom Apex Filter
 
 > Along with standard filters, you can also define custom Apex filters that reference the
     attributes of the Promotion object.

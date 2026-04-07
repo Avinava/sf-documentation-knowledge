@@ -5,12 +5,10 @@ topic: connectapitopicnamesinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.184Z
+lastCollected: 2026-04-07T18:36:06.535Z
 estimatedTokens: 289
 keywords: [ConnectApi.TopicNamesInput, topic, replace, currently, assigned, topics, suggested, assign]
 ---
-
-# ConnectApi.TopicNamesInput
 
 > A list of topic names to replace currently assigned topics. Also a
       list of suggested topics to assign.

@@ -5,12 +5,10 @@ topic: process-compliance-navigator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.702Z
+lastCollected: 2026-04-07T18:36:43.440Z
 estimatedTokens: 268
-keywords: [Process, Compliance, Navigator, Business, APIs, control, mitigate, risk, evaluating, procedures, enforcing, regulations, Keep, users, customers]
+keywords: [Process, Compliance, Navigator, Business, APIs, control, mitigate, risk, evaluating, procedures, enforcing, regulations, Keep, users, customers, compliant, their, Salesforce, processes, non-validation, track, log, Logging, API]
 ---
-
-# Process Compliance Navigator Business APIs
 
 > Use the Process Compliance Navigator Business APIs to control or mitigate compliance
     risk, by evaluating compliance procedures and enforcing compliance regulations. Keep your users

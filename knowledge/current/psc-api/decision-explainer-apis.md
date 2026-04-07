@@ -5,12 +5,10 @@ topic: decision-explainer-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.104Z
+lastCollected: 2026-04-07T18:39:03.333Z
 estimatedTokens: 217
 keywords: [Decision, Explainer, APIs, Business, give, users, seamless, API, experience, applications, audit, their, past, events]
 ---
-
-# Decision Explainer APIs
 
 > Use the Decision Explainer Business APIs to give users a seamless API
       experience for applications to audit their past events.

@@ -5,12 +5,10 @@ topic: audio-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.555Z
+lastCollected: 2026-04-07T18:38:02.483Z
 estimatedTokens: 368
-keywords: [Audio, Messages, convey, notifications, toast, lightning, notificationsLibrary, rendered, role="alert, screen, readers, announce, text, inside, any]
+keywords: [Audio, Messages, convey, notifications, toast, lightning, notificationsLibrary, rendered, role="alert, screen, readers, announce, text, inside, any, additional, action, user]
 ---
-
-# Audio Messages
 
 > To convey audio notifications, create a toast using lightning:notificationsLibrary. The toast is rendered with role="alert", which enables screen readers to announce
             the text inside the toast without any additional action by the user.

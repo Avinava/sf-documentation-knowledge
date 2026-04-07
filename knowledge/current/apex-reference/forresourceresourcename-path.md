@@ -5,12 +5,10 @@ topic: forresourceresourcename-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.870Z
+lastCollected: 2026-04-07T18:35:59.144Z
 estimatedTokens: 225
 keywords: [forResource, resourceName, path, PageReference, nested, content, inside, zip, resource]
 ---
-
-# forResource(resourceName, path)
 
 > Create a PageReference for nested content inside a zip static
       resource, by name and path.

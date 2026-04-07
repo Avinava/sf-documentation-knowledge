@@ -5,12 +5,10 @@ topic: learningprogramplanrqmt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.418Z
+lastCollected: 2026-04-07T18:37:31.557Z
 estimatedTokens: 1078
-keywords: [LearningProgramPlanRqmt, requirements, learning, outcome, that’s, included, program, plan, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearningProgramPlanRqmt, requirements, learning, outcome, that’s, included, program, plan, API, 57.0]
 ---
-
-# LearningProgramPlanRqmt
 
 > Represents information about the requirements of a learning outcome that’s
          included in the learning program plan.  This object is available in API version 57.0

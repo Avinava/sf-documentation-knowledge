@@ -5,12 +5,10 @@ topic: place-a-new-email-message-into-a-folder-using-ampscript-and-the-soap-web-
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.275Z
+lastCollected: 2026-04-07T18:40:22.684Z
 estimatedTokens: 2464
-keywords: [Place, New, Email, Message, Folder, AMPscript, SOAP, Web, Service, API, locates, want, storage, places, organize]
+keywords: [Place, New, Email, Message, Folder, AMPscript, SOAP, Web, Service, API, locates, want, storage, places, organize, messages, different, folders, Once, assign, user, permissions, allow, How, Sample]
 ---
-
-# Place a New Email Message Into a Folder using AMPscript and the SOAP Web Service API
 
 > This AMPscript locates the folder you want to use for email storage and places the new email message in that folder. Use this information to organize your email messages in different folders. Once you organize those messages, assign user permissions to those folders to allow access to only those use
 

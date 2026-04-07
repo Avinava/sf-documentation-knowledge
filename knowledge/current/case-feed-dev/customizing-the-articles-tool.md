@@ -5,12 +5,10 @@ topic: customizing-the-articles-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.099Z
+lastCollected: 2026-04-07T18:37:04.808Z
 estimatedTokens: 1155
-keywords: [Customizing, Articles, Tool, lets, support, agents, browse, Salesforce, Knowledge, whether, attached, case, share, relevant, customers]
+keywords: [Customizing, Articles, Tool, lets, support, agents, browse, Salesforce, Knowledge, whether, attached, case, share, relevant, customers, caseArticles, Attributes, Code, Sample]
 ---
-
-# Customizing the Articles Tool
 
 > The Articles tool lets support agents browse Salesforce Knowledge articles, see whether articles
                 are attached to a case, and share relevant articles with customers. With the support:caseArticles

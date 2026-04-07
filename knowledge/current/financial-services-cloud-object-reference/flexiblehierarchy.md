@@ -5,12 +5,10 @@ topic: flexiblehierarchy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.582Z
+lastCollected: 2026-04-07T18:37:37.366Z
 estimatedTokens: 794
-keywords: [FlexibleHierarchy, structure, hierarchy, relationships, among, individuals, entities, organization, organizations, API, version, 66.0, later, Calls, Special]
+keywords: [FlexibleHierarchy, structure, hierarchy, relationships, among, individuals, entities, organization, organizations, API, 66.0]
 ---
-
-# FlexibleHierarchy
 
 > Represents the structure and hierarchy of relationships among
          individuals or entities within an organization or between organizations. This object

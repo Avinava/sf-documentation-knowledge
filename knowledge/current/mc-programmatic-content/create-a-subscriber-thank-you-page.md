@@ -5,12 +5,10 @@ topic: create-a-subscriber-thank-you-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.528Z
+lastCollected: 2026-04-07T18:40:22.961Z
 estimatedTokens: 609
 keywords: [Subscriber, Thank, Place, script, webpage, person, subscribes, mailing]
 ---
-
-# Create a Subscriber Thank You Page
 
 > Place this script in the webpage displayed when a person subscribes to your mailing list.
 

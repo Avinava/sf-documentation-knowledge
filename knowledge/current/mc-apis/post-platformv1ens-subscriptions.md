@@ -5,12 +5,10 @@ topic: post-platformv1ens-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.907Z
+lastCollected: 2026-04-07T18:40:16.046Z
 estimatedTokens: 647
-keywords: [POST, platform, ens-subscriptions, Creates, subscription, event, receive, notifications, callback, webhook, new, take, two, minutes, become]
+keywords: [POST, platform, ens-subscriptions, Creates, subscription, event, receive, notifications, callback, webhook, new, take, two, minutes, become, active, verified, subscrip, **Overview**, HTTP, Responses]
 ---
-
-# POST /platform/v1/ens-subscriptions
 
 > Creates a single subscription. A subscription indicates which event types to receive notifications for and which callback, or webhook, to receive them on. A new subscription can take up to two minutes to become active. You can create a subscription only for a verified callback and up to 200 subscrip
 

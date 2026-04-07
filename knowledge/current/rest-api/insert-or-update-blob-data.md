@@ -5,12 +5,10 @@ topic: insert-or-update-blob-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.788Z
+lastCollected: 2026-04-07T18:36:20.009Z
 estimatedTokens: 2822
-keywords: [Insert, Blob, Data, sObject, Basic, Rows, Collections, resources, binary, large, objects, blobs, Salesforce, images, PDFs]
+keywords: [Insert, Blob, sObject, Basic, Rows, Collections, resources, binary, large, blobs, Salesforce, images, PDFs, upload, files, any, standard, Inserting, Document, Updating, ContentVersion, Collection, Records, Multipart, Message, Considerations]
 ---
-
-# Insert or Update Blob Data
 
 > You can use the sObject Basic Information, sObject Rows, or sObject
                 Collections resources to insert or update binary large objects (blobs) in

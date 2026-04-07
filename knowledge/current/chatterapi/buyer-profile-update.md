@@ -5,12 +5,10 @@ topic: buyer-profile-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.972Z
+lastCollected: 2026-04-07T18:37:17.038Z
 estimatedTokens: 330
-keywords: [Buyer, Profile, Output]
+keywords: [Buyer, Profile]
 ---
-
-# Buyer Profile Update
 
 > Output details for a buyer profile update request.
 

@@ -5,12 +5,10 @@ topic: using-forcehybrid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.783Z
+lastCollected: 2026-04-07T18:40:26.111Z
 estimatedTokens: 920
-keywords: [Forcehybrid, creating, hybrid, apps, Mobile, SDK, npm, utility, works, Cordova, command, line, build, projects, iOS]
+keywords: [Forcehybrid, creating, hybrid, apps, Mobile, SDK, npm, utility, works, Cordova, command, line, build, projects, iOS, Android, pass, Interactively, Script, Mode, createWithTemplate, How, Generates, New]
 ---
-
-# Using Forcehybrid
 
 > For creating hybrid apps, Mobile SDK provides
         the forcehybrid npm utility. This utility works with the Cordova command line to build

@@ -5,13 +5,11 @@ topic: authorizationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.538Z
+lastCollected: 2026-04-07T18:36:01.770Z
 estimatedTokens: 3181
 namespace: CommercePayments
-keywords: [AuthorizationResponse, sent, payment, gateway, adapter, authorization, service, Usage, setAmount, amount, setAsync, async, setAuthorizationExpirationDate, authExpDate, setGatewayAuthCode]
+keywords: [AuthorizationResponse, sent, payment, gateway, adapter, authorization, service, setAmount, amount, setAsync, async, setAuthorizationExpirationDate, authExpDate, setGatewayAuthCode, gatewayAuthCode, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setPaymentMethodTokenizationResponse, paymentMethodTokenizationResponse, setSalesforceResultCodeInfo, salesforceResultCodeInfo]
 ---
-
-# AuthorizationResponse Class
 
 > Response sent by the payment gateway adapter for an authorization
             service.

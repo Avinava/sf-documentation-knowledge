@@ -5,12 +5,10 @@ topic: send
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.615Z
+lastCollected: 2026-04-07T18:40:24.046Z
 estimatedTokens: 361
 keywords: [Send, Function, Ordinal, Email, address, triggered, Attributes, included, time, **Overview**, **Syntax**]
 ---
-
-# Send
 
 > Send(1, 2)
 

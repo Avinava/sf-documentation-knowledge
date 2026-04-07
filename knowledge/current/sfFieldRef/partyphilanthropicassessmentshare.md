@@ -5,12 +5,10 @@ topic: partyphilanthropicassessmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.874Z
+lastCollected: 2026-04-07T18:39:52.295Z
 estimatedTokens: 257
 keywords: [PartyPhilanthropicAssessmentShare, Sharing, PartyPhilanthropicAssessment]
 ---
-
-# PartyPhilanthropicAssessmentShare
 
 > Sharing for PartyPhilanthropicAssessment.
 

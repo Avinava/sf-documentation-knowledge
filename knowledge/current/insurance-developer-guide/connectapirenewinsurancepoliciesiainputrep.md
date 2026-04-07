@@ -5,13 +5,11 @@ topic: connectapirenewinsurancepoliciesiainputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.252Z
+lastCollected: 2026-04-07T18:37:50.091Z
 estimatedTokens: 454
 namespace: String
 keywords: [Apex, record, insurance, policies, renewed]
 ---
-
-# ConnectApi.RenewInsurancePoliciesIAInputRep
 
 > An Apex ConnectApi.RenewInsurancePoliciesIAInputRep record that contains the details of
     the insurance policies to be renewed.

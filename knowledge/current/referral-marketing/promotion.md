@@ -5,12 +5,10 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.721Z
+lastCollected: 2026-04-07T18:39:10.148Z
 estimatedTokens: 2907
-keywords: [Promotion, referral, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Promotion, referral, API, 59.0]
 ---
-
-# Promotion
 
 > Represents information about a referral promotion. This object
       is available in API version 59.0 and later.

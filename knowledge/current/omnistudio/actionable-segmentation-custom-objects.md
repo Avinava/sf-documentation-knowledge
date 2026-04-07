@@ -5,12 +5,10 @@ topic: actionable-segmentation-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.615Z
+lastCollected: 2026-04-07T18:36:35.082Z
 estimatedTokens: 145
-keywords: [Actionable, Segmentation, Custom, Objects, including, junction, link, large, number, child, records, record, parent]
+keywords: [Actionable, Segmentation, including, junction, link, large, number, child, records, record, parent]
 ---
-
-# Actionable Segmentation Custom Objects
 
 > This section provides details on custom objects, including junction objects. The Junction
   Object is a custom object that enables you to link a custom object with a large number of child

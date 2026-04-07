@@ -5,12 +5,10 @@ topic: tag-category-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.859Z
+lastCollected: 2026-04-07T18:36:40.564Z
 estimatedTokens: 89
-keywords: [Tag, Category, Output, representation, categories, assigned, Interest]
+keywords: [Tag, Category, categories, assigned, Interest]
 ---
-
-# Tag Category List
 
 > Output representation of a list of tag categories assigned to an
       Interest Tag.

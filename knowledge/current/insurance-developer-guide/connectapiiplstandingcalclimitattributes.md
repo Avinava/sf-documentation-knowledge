@@ -5,12 +5,10 @@ topic: connectapiiplstandingcalclimitattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.488Z
+lastCollected: 2026-04-07T18:37:50.318Z
 estimatedTokens: 192
-keywords: [Invocable, action, output, representation, limit, attributes]
+keywords: [Invocable, action, limit, attributes]
 ---
-
-# ConnectApi.IPLStandingCalcLimitAttributes
 
 > Invocable action output representation for limit attributes.
 

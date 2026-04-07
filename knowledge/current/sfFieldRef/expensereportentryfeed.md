@@ -5,12 +5,10 @@ topic: expensereportentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.324Z
+lastCollected: 2026-04-07T18:39:39.928Z
 estimatedTokens: 362
-keywords: [ExpenseReportEntryFeed, Feed, tracking, ExpenseReportEntry]
+keywords: [ExpenseReportEntryFeed, ExpenseReportEntry]
 ---
-
-# ExpenseReportEntryFeed
 
 > Feed tracking for ExpenseReportEntry.
 

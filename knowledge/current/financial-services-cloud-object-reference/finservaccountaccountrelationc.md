@@ -5,12 +5,10 @@ topic: finservaccountaccountrelationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.361Z
+lastCollected: 2026-04-07T18:37:36.091Z
 estimatedTokens: 1030
-keywords: [FinServ_AccountAccountRelation__c, relationship, two, accounts, household, business, account, FinServ, _AccountAccountRelation, Calls]
+keywords: [FinServ_AccountAccountRelation__c, relationship, two, accounts, household, business, account, FinServ, _AccountAccountRelation]
 ---
-
-# FinServ_AccountAccountRelation__c
 
 > Represents a relationship between two accounts, such as between a
    household and a business account.

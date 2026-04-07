@@ -5,12 +5,10 @@ topic: create-a-data-extension-using-ampscript-and-the-soap-web-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.725Z
+lastCollected: 2026-04-07T18:40:22.086Z
 estimatedTokens: 1525
-keywords: [Data, Extension, AMPscript, SOAP, Web, Service, API, contained, landing, interact, unique, sendable, extensions, receive, another]
+keywords: [Extension, AMPscript, SOAP, Web, Service, API, contained, landing, interact, unique, sendable, extensions, receive, another, system, integration, conduct, imported]
 ---
-
-# Create a Data Extension Using AMPscript and the SOAP Web Service API
 
 > Use AMPscript contained in a landing page to interact with the web service API to create a data extension. For example, you can create unique sendable data extensions that receive information from another data system or integration and conduct sends based on the information imported into those data 
 

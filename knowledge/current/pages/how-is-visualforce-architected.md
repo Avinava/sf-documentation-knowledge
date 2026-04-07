@@ -5,12 +5,10 @@ topic: how-is-visualforce-architected
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.287Z
+lastCollected: 2026-04-07T18:38:51.539Z
 estimatedTokens: 482
-keywords: [How, Visualforce, Architected, pages, run, entirely, Lightning, platform, developer, creates, end, user, requests, shown, architecture]
+keywords: [How, Visualforce, Architected, pages, run, entirely, Lightning, platform, developer, creates, end, user, requests, shown, architecture, diagrams]
 ---
-
-# How is Visualforce Architected?
 
 > All Visualforce pages run entirely on the Lightning platform, both when a developer creates the
 page, and when an end user requests a page, as shown in the following architecture diagrams.

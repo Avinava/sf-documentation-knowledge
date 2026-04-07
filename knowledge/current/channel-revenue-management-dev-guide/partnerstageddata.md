@@ -5,12 +5,10 @@ topic: partnerstageddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.778Z
+lastCollected: 2026-04-07T18:37:06.477Z
 estimatedTokens: 1435
-keywords: [PartnerStagedData, data, partners, point, sale, reported, inventory, stored, further, processing, downstream, processes, tracking, reconciliation, ship]
+keywords: [PartnerStagedData, partners, point, sale, reported, inventory, stored, further, processing, downstream, processes, reconciliation, ship, debit, claim, validation, API, 64.0]
 ---
-
-# PartnerStagedData
 
 > Represents data from partners, such as point of sale and reported inventory
          data, stored for further processing before being used in downstream processes such as

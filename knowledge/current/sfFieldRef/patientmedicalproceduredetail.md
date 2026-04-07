@@ -5,12 +5,10 @@ topic: patientmedicalproceduredetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.215Z
+lastCollected: 2026-04-07T18:39:52.708Z
 estimatedTokens: 316
-keywords: [PatientMedicalProcedureDetail, Associates, records, different, objects, patient, medical, procedure, record, add, multi-object, junction, API, version, 51.0]
+keywords: [PatientMedicalProcedureDetail, Associates, records, different, patient, medical, procedure, record, add, multi-object, junction, API, 51.0]
 ---
-
-# PatientMedicalProcedureDetail
 
 > Associates records from different objects to a patient medical procedure record
       to add more information to the procedure record. This is a multi-object junction object.

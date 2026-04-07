@@ -5,12 +5,10 @@ topic: promotion-association
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.143Z
+lastCollected: 2026-04-07T18:37:22.250Z
 estimatedTokens: 173
-keywords: [Promotion, Association, associated, cart, items]
+keywords: [Promotion, Association, cart, items]
 ---
-
-# Promotion Association
 
 > Promotion associated with cart items.
 

@@ -5,12 +5,10 @@ topic: get-recommendations-of-users-to-follow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.188Z
+lastCollected: 2026-04-07T18:37:24.236Z
 estimatedTokens: 149
 keywords: [Recommendations, Users, Follow]
 ---
-
-# Get Recommendations of Users to Follow
 
 > Get recommendations of users to follow.
 

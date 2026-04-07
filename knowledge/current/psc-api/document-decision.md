@@ -5,12 +5,10 @@ topic: document-decision
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.687Z
+lastCollected: 2026-04-07T18:39:01.832Z
 estimatedTokens: 392
-keywords: [Document, Decision, Invoke, accept, key-value, pairs, match, keys, either, Categories, associated]
+keywords: [Document, Decision, Invoke, accept, key-value, pairs, match, keys, either, Categories]
 ---
-
-# Document Decision
 
 > Invoke a Decision Table, accept key-value pairs that match the Decision Table keys, and
     return either Document Types or Document Categories and the Document Types associated with

@@ -5,12 +5,10 @@ topic: profileskilluserfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.164Z
+lastCollected: 2026-04-07T18:39:56.710Z
 estimatedTokens: 361
-keywords: [ProfileSkillUserFeed, Feed, tracking, ProfileSkillUser]
+keywords: [ProfileSkillUserFeed, ProfileSkillUser]
 ---
-
-# ProfileSkillUserFeed
 
 > Feed tracking for ProfileSkillUser.
 

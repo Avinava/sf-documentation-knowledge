@@ -5,12 +5,10 @@ topic: publish-actionable-orchestration-source-event-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.340Z
+lastCollected: 2026-04-07T18:37:33.759Z
 estimatedTokens: 277
-keywords: [Publish, Actionable, Orchestration, Source, Event, Action, payload, current, API, data, change, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Publish, Actionable, Orchestration, Source, Event, Action, payload, current, API, change, REST, HTTP]
 ---
-
-# Publish Actionable Orchestration Source Event Action
 
 > Publish an actionable orchestration source event by using the payload current value
         and API name of the source object from a data object data change event.

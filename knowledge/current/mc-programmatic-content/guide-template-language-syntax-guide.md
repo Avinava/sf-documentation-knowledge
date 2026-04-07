@@ -5,12 +5,10 @@ topic: guide-template-language-syntax-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.042Z
+lastCollected: 2026-04-07T18:40:22.433Z
 estimatedTokens: 587
-keywords: [Template, Language, known, GTL, declarative, personalized, messages, Marketing, Cloud, templates, containing, elements, define, personalization, message]
+keywords: [Templates, Tags, Template, Language, known, GTL, declarative, personalized, messages, Marketing, Cloud, containing, define, personalization, message, including, contact, attributes, dynamic, Guid, Sources, Simple, Prefixes, Suffixes, Empty]
 ---
-
-# Guide Template Language Syntax Guide
 
 > Guide Template Language (also known as GTL or Guide) is a declarative language used to create personalized messages within the Marketing Cloud. Use Guide to create templates containing elements that define personalization within the message, including contact attributes and dynamic information. Guid
 

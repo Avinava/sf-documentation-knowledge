@@ -6,13 +6,10 @@ topic: positionsearchstr-in-sourcestr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.421Z
+lastCollected: 2026-04-07T18:37:02.028Z
 estimatedTokens: 104
 keywords: [position, search_str, source_str, occurrence, substring, found, function, search, _str, source]
 ---
-
-# position(search_str IN
-    source_str)
 
 > Returns an integer that indicates the first occurrence of a substring in a given string.
   If the substring is not found, the function returns 0.

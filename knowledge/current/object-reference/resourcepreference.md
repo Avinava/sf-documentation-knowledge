@@ -5,12 +5,10 @@ topic: resourcepreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.477Z
+lastCollected: 2026-04-07T18:38:40.065Z
 estimatedTokens: 978
-keywords: [ResourcePreference, account’s, preference, service, resource, work, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ResourcePreference, account’s, preference, service, resource, work]
 ---
-
-# ResourcePreference
 
 > Represents an account’s preference for a specified service resource
 			on field service work.

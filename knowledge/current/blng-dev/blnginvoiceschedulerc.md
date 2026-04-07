@@ -5,12 +5,10 @@ topic: blnginvoiceschedulerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.160Z
+lastCollected: 2026-04-07T18:37:03.675Z
 estimatedTokens: 1373
-keywords: [blng__InvoiceScheduler__c, whether, order, product, invoiced, blng, _InvoiceScheduler, Calls]
+keywords: [blng__InvoiceScheduler__c, whether, order, product, invoiced, blng, _InvoiceScheduler]
 ---
-
-# blng__InvoiceScheduler__c
 
 > Represents whether and when an
          order

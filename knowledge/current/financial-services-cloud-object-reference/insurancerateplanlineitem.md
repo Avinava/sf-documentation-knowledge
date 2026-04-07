@@ -5,12 +5,10 @@ topic: insurancerateplanlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.149Z
+lastCollected: 2026-04-07T18:37:37.965Z
 estimatedTokens: 1131
-keywords: [InsuranceRatePlanLineItem, insurance, rates, that's, provided, carriers, specific, employees, certain, tiers, under, policy, coverage, API, version]
+keywords: [InsuranceRatePlanLineItem, insurance, rates, that's, provided, carriers, specific, employees, certain, tiers, under, policy, coverage, API]
 ---
-
-# InsuranceRatePlanLineItem
 
 > Represents insurance rates information that's provided by carriers specific to
          employees of certain tiers under certain policy or policy coverage. This object is

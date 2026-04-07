@@ -5,12 +5,10 @@ topic: personalization-recommender-base-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.819Z
+lastCollected: 2026-04-07T18:37:09.546Z
 estimatedTokens: 105
-keywords: [Personalization, Recommender, Base, Input, representation, creating]
+keywords: [Personalization, Recommender, Base, creating]
 ---
-
-# Personalization Recommender Base Input
 
 > The base representation for creating a personalization object.
 

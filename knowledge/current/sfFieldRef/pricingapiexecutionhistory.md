@@ -5,12 +5,10 @@ topic: pricingapiexecutionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.160Z
+lastCollected: 2026-04-07T18:39:54.713Z
 estimatedTokens: 268
-keywords: [PricingApiExecutionHistory, History, tracked, PricingApiExecution]
+keywords: [PricingApiExecutionHistory, tracked, PricingApiExecution]
 ---
-
-# PricingApiExecutionHistory
 
 > History for tracked fields of PricingApiExecution.
 

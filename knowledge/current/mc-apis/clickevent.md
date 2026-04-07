@@ -5,12 +5,10 @@ topic: clickevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.565Z
+lastCollected: 2026-04-07T18:40:15.671Z
 estimatedTokens: 606
 keywords: [ClickEvent, time, date, well, URL, regarding, click, link, contained, message, Items]
 ---
-
-# ClickEvent
 
 > The ClickEvent object contains time and date information, as well as a URL ID and a URL, regarding a click on a link contained in a message.
 

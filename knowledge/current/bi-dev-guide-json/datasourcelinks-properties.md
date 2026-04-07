@@ -6,13 +6,10 @@ topic: datasourcelinks-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.613Z
+lastCollected: 2026-04-07T18:36:53.980Z
 estimatedTokens: 233
-keywords: [dataSourceLinks, key, data, source, connections, dashboard, separate, node, connection]
+keywords: [dataSourceLinks, key, source, connections, dashboard, separate, node, connection]
 ---
-
-# dataSourceLinks
-    Properties
 
 > The dataSourceLinks key defines all data source
     connections for the dashboard. It contains a separate node for each connection. Each connection

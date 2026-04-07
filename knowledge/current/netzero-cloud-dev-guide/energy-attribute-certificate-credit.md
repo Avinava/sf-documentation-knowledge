@@ -5,12 +5,10 @@ topic: energy-attribute-certificate-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.625Z
+lastCollected: 2026-04-07T18:38:17.196Z
 estimatedTokens: 191
 keywords: [Energy, Attribute, Certificate, Credit, credits, purchase]
 ---
-
-# Energy Attribute Certificate Credit
 
 > The Energy Attribute Certificate Credit object represents information about the energy
     attribute certificate credits related to energy attribute certificate purchase.

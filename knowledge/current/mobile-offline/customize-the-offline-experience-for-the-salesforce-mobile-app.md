@@ -5,12 +5,10 @@ topic: customize-the-offline-experience-for-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.712Z
+lastCollected: 2026-04-07T18:38:15.193Z
 estimatedTokens: 587
-keywords: [Customize, Offline, Experience, Salesforce, Mobile, App, advanced, runtime, environment, Lightning, web, components, devices, replaces, standard]
+keywords: [Customize, Offline, Experience, Salesforce, Mobile, App, advanced, runtime, environment, Lightning, web, devices, replaces, standard, augments, features, designed, specifically]
 ---
-
-# Customize the Offline Experience for the Salesforce Mobile App
 
 > Mobile Offline is an advanced runtime environment for Lightning web components.
     Available only for mobile devices, it replaces the standard Lightning components runtime and

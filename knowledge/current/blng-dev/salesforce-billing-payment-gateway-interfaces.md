@@ -5,12 +5,10 @@ topic: salesforce-billing-payment-gateway-interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.537Z
+lastCollected: 2026-04-07T18:37:03.102Z
 estimatedTokens: 334
-keywords: [Salesforce, Billing, Payment, Gateway, Interfaces, package, requires, three, communicate, user-defined, PaymentGatewayAPI, implements, process, different, transaction]
+keywords: [Salesforce, Billing, Payment, Gateway, Interfaces, package, requires, three, communicate, user-defined, PaymentGatewayAPI, implements, process, different, transaction, actions]
 ---
-
-# Salesforce Billing Payment Gateway Interfaces
 
 > A payment gateway package requires three interfaces to communicate with Salesforce
   Billing. Each interface contains methods that the user-defined

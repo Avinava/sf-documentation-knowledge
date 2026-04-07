@@ -5,12 +5,10 @@ topic: definitionupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.443Z
+lastCollected: 2026-04-07T18:40:23.879Z
 estimatedTokens: 267
-keywords: [DefinitionUpdate, Function, Ordinal, Attributes, send, definition, change, **Overview**, **Syntax**, Examples]
+keywords: [DefinitionUpdate, Examples, Function, Ordinal, Attributes, send, definition, change, **Overview**, **Syntax**]
 ---
-
-# DefinitionUpdate
 
 > DefinitionUpdate(1)
 

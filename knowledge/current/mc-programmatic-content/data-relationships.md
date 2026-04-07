@@ -5,12 +5,10 @@ topic: data-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:26.963Z
+lastCollected: 2026-04-07T18:40:22.350Z
 estimatedTokens: 914
-keywords: [Data, Relationships, demonstrates, how, display, order, history, subscriber, including, any, product, reviews, ratings, purchased, products]
+keywords: [Relationships, demonstrates, how, display, order, subscriber, including, any, product, reviews, ratings, purchased, products, Extensions, Email, Message]
 ---
-
-# Data Relationships
 
 > This example demonstrates how to display the order history of a subscriber, including any product reviews and the ratings for the purchased products.
 

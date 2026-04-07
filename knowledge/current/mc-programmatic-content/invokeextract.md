@@ -5,12 +5,10 @@ topic: invokeextract
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.908Z
+lastCollected: 2026-04-07T18:40:23.332Z
 estimatedTokens: 183
 keywords: [InvokeExtract, Function, Ordinal, perform, Extract, array, containing, status, RequestID, API, call, **Overview**, **Syntax**]
 ---
-
-# InvokeExtract
 
 > InvokeExtract(1, 2, 3)
 

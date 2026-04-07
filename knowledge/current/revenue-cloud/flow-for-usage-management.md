@@ -5,12 +5,10 @@ topic: flow-for-usage-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.142Z
+lastCollected: 2026-04-07T18:35:51.000Z
 estimatedTokens: 337
-keywords: [Flow, Usage, Management, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
+keywords: [FlowActionCall, Flow, Management, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Usage Management
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

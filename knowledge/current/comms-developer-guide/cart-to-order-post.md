@@ -5,12 +5,10 @@ topic: cart-to-order-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.209Z
+lastCollected: 2026-04-07T18:37:26.124Z
 estimatedTokens: 213
 keywords: [Cart, Order, POST, creation, items, present, generated, entire, whole, rather, individual]
 ---
-
-# Cart to Order (POST)
 
 > Create single order creation for all items present in the cart. An
       order is generated for the entire cart as a whole, rather than for individual cart

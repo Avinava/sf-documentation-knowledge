@@ -5,12 +5,10 @@ topic: indicatorperformanceperiodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.940Z
+lastCollected: 2026-04-07T18:39:44.537Z
 estimatedTokens: 278
-keywords: [IndicatorPerformancePeriodHistory, History, tracked, IndicatorPerformancePeriod]
+keywords: [IndicatorPerformancePeriodHistory, tracked, IndicatorPerformancePeriod]
 ---
-
-# IndicatorPerformancePeriodHistory
 
 > History for tracked fields of IndicatorPerformancePeriod.
 

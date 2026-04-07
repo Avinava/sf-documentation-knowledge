@@ -5,12 +5,10 @@ topic: billingarrangementline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.537Z
+lastCollected: 2026-04-07T18:35:48.537Z
 estimatedTokens: 645
-keywords: [BillingArrangementLine, billing, account, profile, percentage, amount, invoiced, arrangement, line, results, separate, invoice, addressed, selected, API]
+keywords: [BillingArrangementLine, billing, account, profile, percentage, amount, invoiced, arrangement, line, results, separate, invoice, addressed, selected, API, 66.0]
 ---
-
-# BillingArrangementLine
 
 > Represents the billing account, billing profile, and the percentage of
          billing amount to be invoiced. Each billing arrangement line results in a separate invoice

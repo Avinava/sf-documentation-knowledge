@@ -5,12 +5,10 @@ topic: using-the-development-mode-footer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.168Z
+lastCollected: 2026-04-07T18:38:52.473Z
 estimatedTokens: 1793
-keywords: [Development, Mode, Footer, enabled, view, edit, content, navigating, URL, named, HelloWorld, Salesforce, instance, MyDomain_login_URL, enter]
+keywords: [Development, Mode, Footer, enabled, view, edit, content, navigating, URL, named, HelloWorld, Salesforce, instance, MyDomain_login_URL, enter, https, apex, browser's, address, State, Tab]
 ---
-
-# Using the Development Mode Footer
 
 > With development mode enabled, you can view and edit the content of a page by navigating to the
    URL of the page. For example, if a page is named HelloWorld, and your Salesforce instance is

@@ -5,12 +5,10 @@ topic: account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.641Z
+lastCollected: 2026-04-07T18:39:12.167Z
 estimatedTokens: 4007
-keywords: [Account, Standard, custom, extend, Consumer, Goods, Cloud, represent, individual, company, person, involved, business, customers, competitors]
+keywords: [Account, Standard, extend, Consumer, Goods, Cloud, represent, individual, company, person, involved, business, customers, competitors, partners, API, 55.0]
 ---
-
-# Account
 
 > Standard and custom fields extend the standard Account object for use
          in Consumer Goods Cloud to represent an individual account, which is an company or person

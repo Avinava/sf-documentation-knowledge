@@ -5,12 +5,10 @@ topic: personcompetency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.563Z
+lastCollected: 2026-04-07T18:37:31.696Z
 estimatedTokens: 135
-keywords: [PersonCompetency, skills, competencies, person, API, version, 64.0, later, Calls]
+keywords: [PersonCompetency, skills, competencies, person, API, 64.0]
 ---
-
-# PersonCompetency
 
 > Represents the skills and competencies of a person. This object is
       available in API version 64.0 and later.

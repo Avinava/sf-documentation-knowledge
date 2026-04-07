@@ -5,12 +5,10 @@ topic: applicationsubtypedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.339Z
+lastCollected: 2026-04-07T18:39:08.618Z
 estimatedTokens: 605
-keywords: [ApplicationSubtypeDefinition, subtype, application, domain, API, version, 54.0, later, SOAP, Calls, REST]
+keywords: [ApplicationSubtypeDefinition, subtype, application, domain, API, 54.0, SOAP, REST]
 ---
-
-# ApplicationSubtypeDefinition
 
 > Represents a subtype of an application within an application domain.
       Available in API version 54.0 and later.

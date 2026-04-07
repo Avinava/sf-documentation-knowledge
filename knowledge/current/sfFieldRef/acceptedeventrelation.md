@@ -5,12 +5,10 @@ topic: acceptedeventrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.027Z
+lastCollected: 2026-04-07T18:39:23.956Z
 estimatedTokens: 315
 keywords: [AcceptedEventRelation, event, participants, invitees, attendees, status, Accepted]
 ---
-
-# AcceptedEventRelation
 
 > Represents event participants (invitees or attendees) with the status
     Accepted for a given event.

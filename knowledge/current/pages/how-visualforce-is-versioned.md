@@ -6,13 +6,10 @@ topic: how-visualforce-is-versioned
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:59.298Z
+lastCollected: 2026-04-07T18:38:51.551Z
 estimatedTokens: 987
-keywords: [How, Visualforce, Versioned, pages, components, component, version, number, functionality, older, elements, doesn’t, change, new, implementations]
+keywords: [How, Visualforce, Versioned, pages, number, functionality, older, doesn’t, change, new, implementations, introduced, versions, start, 15.0, try, earlier, automatically, changes, Relate, Salesforce, API]
 ---
-
-# How Visualforce is
-    Versioned
 
 > Visualforce pages and components are versioned.
       When a page or component has a version number, the functionality of older Visualforce elements

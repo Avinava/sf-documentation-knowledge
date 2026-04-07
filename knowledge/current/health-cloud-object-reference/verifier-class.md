@@ -5,12 +5,10 @@ topic: verifier-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.029Z
+lastCollected: 2026-04-07T18:37:39.990Z
 estimatedTokens: 833
-keywords: [Verifier, input, representations, including, developerName, verificationState]
+keywords: [Verifier, representations, including, developerName, verificationState]
 ---
-
-# Verifier Class
 
 > Contains a list of input representations for verifier fields,
       including the optional and required fields.

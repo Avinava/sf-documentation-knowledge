@@ -5,12 +5,10 @@ topic: quote-term-reader-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.337Z
+lastCollected: 2026-04-07T18:37:27.346Z
 estimatedTokens: 318
 keywords: [Quote, Term, Reader, API, Retrieve, terms, REST, Examples, Apex]
 ---
-
-# Quote Term Reader API
 
 > Retrieve quote terms for a quote.
 

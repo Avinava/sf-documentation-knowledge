@@ -5,12 +5,10 @@ topic: use-einstein-bots-with-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.983Z
+lastCollected: 2026-04-07T18:40:28.114Z
 estimatedTokens: 764
-keywords: [Einstein, Bots, Chat, complement, support, experience, smart, automated, system, saves, agents, time, keeps, customers, happy]
+keywords: [Einstein, Bots, Chat, complement, support, experience, smart, automated, system, saves, agents, time, keeps, customers, happy, Once, you've, org, SDK, automatically, begins, bot, design, transfer, agent, any, point]
 ---
-
-# Use Einstein Bots with Chat
 
 > With Einstein Bots, you can complement your chat support
       experience with a smart, automated system that saves your agents time and keeps your customers

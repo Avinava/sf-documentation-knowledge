@@ -5,12 +5,10 @@ topic: create-a-scratch-org-based-on-an-org-shape
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.520Z
+lastCollected: 2026-04-07T18:40:08.472Z
 estimatedTokens: 1293
-keywords: [Scratch, Org, Shape, know, it’s, easy, build, definition, mirrors, features, settings, production, Orgs, leave, building]
+keywords: [Scratch, Org, Shape, know, it’s, easy, build, definition, mirrors, features, settings, production, Orgs, leave, building, capture, org’s, spin, What’s, Included, Shapes, Specific, Release, File]
 ---
-
-# Create a Scratch Org Based on an Org Shape
 
 > We know it’s not easy to build a scratch org definition that mirrors the features and
         settings in your production org. With Org Shape for Scratch Orgs, you can leave building the

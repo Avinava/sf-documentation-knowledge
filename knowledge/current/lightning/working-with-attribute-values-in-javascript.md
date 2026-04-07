@@ -5,12 +5,10 @@ topic: working-with-attribute-values-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.235Z
+lastCollected: 2026-04-07T18:38:04.368Z
 estimatedTokens: 564
 keywords: [Working, Attribute, JavaScript, common, patterns, useful, Deep, Validate, Defined, Empty]
 ---
-
-# Working with Attribute Values in JavaScript
 
 > These common patterns are useful for working with attribute values in
   JavaScript.

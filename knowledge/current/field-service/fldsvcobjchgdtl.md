@@ -5,12 +5,10 @@ topic: fldsvcobjchgdtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:01.682Z
+lastCollected: 2026-04-07T18:36:47.626Z
 estimatedTokens: 414
-keywords: [FldSvcObjChgDtl, change, made, service, appointment’s, tracked, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [FldSvcObjChgDtl, change, made, service, appointment’s, tracked, API, 63.0]
 ---
-
-# FldSvcObjChgDtl
 
 > Represents the details of a change made to one of a service appointment’s
          tracked fields. This object is available in API version 63.0 and later.

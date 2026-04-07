@@ -5,12 +5,10 @@ topic: applicationrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.559Z
+lastCollected: 2026-04-07T18:37:30.628Z
 estimatedTokens: 570
-keywords: [ApplicationRecommendation, recommendation, individual, application, API, version, 57.0, later, Calls]
+keywords: [ApplicationRecommendation, recommendation, individual, application, API, 57.0]
 ---
-
-# ApplicationRecommendation
 
 > Represents information about the recommendation for an individual
          application. This object is available in API version 57.0 and later.

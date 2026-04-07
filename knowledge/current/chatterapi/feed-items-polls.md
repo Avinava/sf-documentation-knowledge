@@ -5,12 +5,10 @@ topic: feed-items-polls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.536Z
+lastCollected: 2026-04-07T18:37:13.493Z
 estimatedTokens: 338
 keywords: [Feed-Items, Polls, poll, vote]
 ---
-
-# Feed-Items Polls
 
 > Get a poll or a vote on a poll.
 

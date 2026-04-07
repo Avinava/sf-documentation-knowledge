@@ -5,12 +5,10 @@ topic: attributepicklistvalueoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.129Z
+lastCollected: 2026-04-07T18:35:40.999Z
 estimatedTokens: 1462
 keywords: [Stores, attribute, picklist, code, displayValue, isBooleanValue, label, sequence, status, textValue]
 ---
-
-# AttributePickListValueOutputRepresentation Class
 
 > Stores details of an attribute picklist value.
 

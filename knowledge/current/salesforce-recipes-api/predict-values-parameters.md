@@ -5,12 +5,10 @@ topic: predict-values-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.738Z
+lastCollected: 2026-04-07T18:39:19.424Z
 estimatedTokens: 74
 keywords: [Predict, node, recipe]
 ---
-
-# Predict Values Parameters
 
 > The parameters for a predict values node in a recipe.
 

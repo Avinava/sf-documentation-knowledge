@@ -5,12 +5,10 @@ topic: comparison-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.495Z
+lastCollected: 2026-04-07T18:37:01.085Z
 estimatedTokens: 1030
 keywords: [Comparison, Operators, compare, strings, numbers]
 ---
-
-# Comparison Operators
 
 > Use comparison operators to compare values of the same type. For example, you can
     compare strings with strings and numbers with numbers.

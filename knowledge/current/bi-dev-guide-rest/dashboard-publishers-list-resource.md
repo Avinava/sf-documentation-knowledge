@@ -5,12 +5,10 @@ topic: dashboard-publishers-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.495Z
+lastCollected: 2026-04-07T18:36:55.976Z
 estimatedTokens: 310
-keywords: [Dashboard, Publishers, Resource, users, assigned, Adds, current, user, Removes, dashboard's, publisher, URL, Formats, Version, HTTP]
+keywords: [Formats, Dashboard, Publishers, Resource, users, assigned, Adds, current, user, Removes, dashboard's, publisher, URL, HTTP, POST]
 ---
-
-# Dashboard Publishers List Resource
 
 > Returns a list of users who are assigned as publishers for the given dashboard. Adds the current user to the 
   list of publishers for the given dashboard. Removes all users from the dashboard's publisher list.

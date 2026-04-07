@@ -5,12 +5,10 @@ topic: files-connect-repository-for-a-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.071Z
+lastCollected: 2026-04-07T18:37:12.972Z
 estimatedTokens: 90
 keywords: [Files, Connect, Repository, File]
 ---
-
-# Files Connect Repository for a File
 
 > Get Files Connect repository information
       for a repository file.

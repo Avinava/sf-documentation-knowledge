@@ -5,12 +5,10 @@ topic: limit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.159Z
+lastCollected: 2026-04-07T18:40:10.131Z
 estimatedTokens: 132
 keywords: [LIMIT, clause, added, SELECT, statement, SOQL, query, specify, maximum, number, rows]
 ---
-
-# LIMIT
 
 > LIMIT is an optional clause that can be added to a
       SELECT statement of a SOQL query to specify the maximum

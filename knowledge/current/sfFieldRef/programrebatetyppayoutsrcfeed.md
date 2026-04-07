@@ -5,12 +5,10 @@ topic: programrebatetyppayoutsrcfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.347Z
+lastCollected: 2026-04-07T18:39:56.900Z
 estimatedTokens: 303
-keywords: [ProgramRebateTypPayoutSrcFeed, Feed, tracking, ProgramRebateTypPayoutSrc]
+keywords: [ProgramRebateTypPayoutSrcFeed, ProgramRebateTypPayoutSrc]
 ---
-
-# ProgramRebateTypPayoutSrcFeed
 
 > Feed tracking for ProgramRebateTypPayoutSrc.
 

@@ -5,12 +5,10 @@ topic: insurance-message-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.354Z
+lastCollected: 2026-04-07T18:37:52.530Z
 estimatedTokens: 102
-keywords: [Insurance, Message, Output, representation, informational, error]
+keywords: [Insurance, Message, informational, error]
 ---
-
-# Insurance Message Output
 
 > Output representation of an insurance message, which can be informational or an error.
 

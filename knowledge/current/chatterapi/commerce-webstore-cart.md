@@ -5,12 +5,10 @@ topic: commerce-webstore-cart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.275Z
+lastCollected: 2026-04-07T18:37:12.122Z
 estimatedTokens: 571
 keywords: [Commerce, Webstore, Cart, active, doesn’t, exist]
 ---
-
-# Commerce Webstore Cart
 
 > Get a cart. Delete a cart. Create an active cart, if one doesn’t
       exist.

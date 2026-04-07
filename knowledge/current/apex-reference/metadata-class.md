@@ -5,13 +5,11 @@ topic: metadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.138Z
+lastCollected: 2026-04-07T18:36:00.418Z
 estimatedTokens: 691
 namespace: Metadata
-keywords: [Metadata, abstract, base, custom, component, Usage, fullName, clone]
+keywords: [Metadata, abstract, base, fullName, clone]
 ---
-
-# Metadata Class
 
 > An abstract base class that represents a custom metadata
       component.

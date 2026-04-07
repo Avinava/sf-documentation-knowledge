@@ -5,12 +5,10 @@ topic: custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.229Z
+lastCollected: 2026-04-07T18:38:24.120Z
 estimatedTokens: 394
-keywords: [Custom, Objects, entities, support, their, standard, user, extend, org’s, data, defining, database, tables, allow, store, unique, organization, flag—a, describe]
+keywords: [entities, support, their, standard, user, extend, org’s, defining, database, tables, allow, store, unique, organization, flag—a, describe, results—is, Naming, Conventions, Relationships, Among, Audit, Sharing, Tags, Standard, Managed, Packages, API]
 ---
-
-# Custom Objects
 
 > In the user interface, you can extend your org’s data by defining
       custom objects. Custom objects are custom database tables that allow you to store information

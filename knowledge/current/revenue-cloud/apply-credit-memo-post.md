@@ -5,12 +5,10 @@ topic: apply-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.385Z
+lastCollected: 2026-04-07T18:35:44.363Z
 estimatedTokens: 564
 keywords: [Apply, Credit, Memo, POST, Adjust, correct, already, issued, invoices, applying, invoice]
 ---
-
-# Apply Credit Memo (POST)
 
 > Adjust or correct already issued invoices by applying an existing
       credit memo to an invoice.

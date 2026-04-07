@@ -5,12 +5,10 @@ topic: enable-and-configure-concurrent-scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.588Z
+lastCollected: 2026-04-07T18:39:21.426Z
 estimatedTokens: 117
-keywords: [Enable, Configure, Concurrent, Scheduling, let, users, schedule, multiple, service, appointments, time, slot, there, things, keep]
+keywords: [Enable, Configure, Concurrent, Scheduling, let, users, schedule, multiple, service, appointments, time, slot, there, things, keep, mind, implement]
 ---
-
-# Enable and Configure Concurrent Scheduling
 
 > You must enable concurrent scheduling to let users schedule multiple service
    appointments in the same time slot. Also, there are some things to keep in mind when you

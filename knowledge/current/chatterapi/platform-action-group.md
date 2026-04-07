@@ -5,12 +5,10 @@ topic: platform-action-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.505Z
+lastCollected: 2026-04-07T18:37:16.584Z
 estimatedTokens: 451
 keywords: [Platform, Action, Group, instance, state, appropriate, context, user]
 ---
-
-# Platform Action Group
 
 > A platform action group instance with state appropriate for the
       context user.

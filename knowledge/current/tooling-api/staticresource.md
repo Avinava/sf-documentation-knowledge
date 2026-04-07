@@ -5,12 +5,10 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.118Z
+lastCollected: 2026-04-07T18:36:34.535Z
 estimatedTokens: 419
-keywords: [StaticResource, working, copy, resource, file, editing, saving, resources, allow, upload, content, Visualforce, including, images, stylesheets]
+keywords: [StaticResource, working, copy, resource, file, editing, saving, resources, allow, upload, content, Visualforce, including, images, stylesheets, JavaScript, files, Tooling, API, 29.0, SOAP, REST, HTTP]
 ---
-
-# StaticResource
 
 > Represents the working copy of a static resource file for editing or
    saving. Static resources allow you to upload content that you can reference in a Visualforce

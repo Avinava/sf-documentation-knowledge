@@ -5,12 +5,10 @@ topic: publish-on-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.565Z
+lastCollected: 2026-04-07T18:38:48.513Z
 estimatedTokens: 360
-keywords: [Publish, Message, Channel, Visualforce, include, $MessageChannel, variable, page's, JavaScript, code, write, calls, sforce.one.publish]
+keywords: [Publish, Message, Channel, Visualforce, include, $MessageChannel, variable, page's, JavaScript, code, write, sforce.one.publish]
 ---
-
-# Publish on a Message Channel
 
 > To publish on a Message Channel from a Visualforce page, include the $MessageChannel global variable in your page's JavaScript code
     and write a method that calls sforce.one.publish().

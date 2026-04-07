@@ -5,12 +5,10 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.232Z
+lastCollected: 2026-04-07T18:36:47.106Z
 estimatedTokens: 561
-keywords: [Skill, settings, service, route, chats, agents, Chat, skills, assigned, File, Suffix, Directory, Location, Version, SkillAssignments, category, group, users, resources, Workforce]
+keywords: [Skill, SkillAssignments, SkillProfileAssignments, SkillUserAssignments, settings, service, route, chats, agents, Chat, skills, assigned, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, category, group, users, resources, Workforce, Engagement, API, 24.0]
 ---
-
-# Skill
 
 > Represents a category or group of Chat users or  service resources in
    Field Service or Workforce Engagement. This object is available in API version 24.0 and

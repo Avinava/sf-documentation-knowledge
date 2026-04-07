@@ -5,12 +5,10 @@ topic: trncoursehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.598Z
+lastCollected: 2026-04-07T18:40:04.332Z
 estimatedTokens: 258
-keywords: [TrnCourseHistory, History, tracked, TrnCourse]
+keywords: [TrnCourseHistory, tracked, TrnCourse]
 ---
-
-# TrnCourseHistory
 
 > History for tracked fields of TrnCourse.
 

@@ -5,12 +5,10 @@ topic: group-appointments-list-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.530Z
+lastCollected: 2026-04-07T18:37:19.680Z
 estimatedTokens: 90
-keywords: [Group, Appointments, Result, Output, representation]
+keywords: [Group, Appointments, Result]
 ---
-
-# Group Appointments List Result
 
 > Output representation of the list of group appointments.
 

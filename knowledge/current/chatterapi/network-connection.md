@@ -5,12 +5,10 @@ topic: network-connection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.816Z
+lastCollected: 2026-04-07T18:37:21.007Z
 estimatedTokens: 417
 keywords: [Network, Connection, External]
 ---
-
-# Network Connection
 
 > External network connection.
 

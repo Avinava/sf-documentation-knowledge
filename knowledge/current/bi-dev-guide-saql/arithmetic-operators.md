@@ -5,12 +5,10 @@ topic: arithmetic-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.469Z
+lastCollected: 2026-04-07T18:37:01.060Z
 estimatedTokens: 113
 keywords: [Arithmetic, Operators, perform, addition, subtraction, multiplication, division, modulo, operations]
 ---
-
-# Arithmetic Operators
 
 > Use arithmetic operators to perform addition, subtraction, multiplication, division, and
   modulo operations.

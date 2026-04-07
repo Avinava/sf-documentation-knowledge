@@ -5,12 +5,10 @@ topic: canceled-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:01:57.845Z
+lastCollected: 2026-04-07T18:35:42.736Z
 estimatedTokens: 3107
-keywords: [Canceled, Transaction, Understand, key, considerations, billing, schedule]
+keywords: [Considerations, Canceled, Transaction, Understand, key, billing, schedule]
 ---
-
-# Canceled Transaction
 
 > Understand the required values and key considerations before you create a billing
     schedule for a canceled transaction.

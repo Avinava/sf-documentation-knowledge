@@ -5,12 +5,10 @@ topic: appointed-representative-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.455Z
+lastCollected: 2026-04-07T18:37:40.434Z
 estimatedTokens: 226
-keywords: [Appointed, Representative, Input, Person, member]
+keywords: [Appointed, Representative, Person, member]
 ---
-
-# Appointed Representative Input
 
 > Person who is the appointed representative for the
     member.

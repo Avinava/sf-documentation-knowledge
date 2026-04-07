@@ -5,12 +5,10 @@ topic: ocrdocumentscanresulthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.497Z
+lastCollected: 2026-04-07T18:39:49.950Z
 estimatedTokens: 272
-keywords: [OcrDocumentScanResultHistory, History, tracked, OcrDocumentScanResult]
+keywords: [OcrDocumentScanResultHistory, tracked, OcrDocumentScanResult]
 ---
-
-# OcrDocumentScanResultHistory
 
 > History for tracked fields of OcrDocumentScanResult.
 

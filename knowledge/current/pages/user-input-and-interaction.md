@@ -5,12 +5,10 @@ topic: user-input-and-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.698Z
+lastCollected: 2026-04-07T18:38:52.986Z
 estimatedTokens: 1587
-keywords: [User, Input, Interaction, <apex, input>, attribute, pass-through, HTML, attributes, mobile-friendly, forms, interfaces, efficient, take, advantage]
+keywords: [User, Interaction, <apex, input>, attribute, pass-through, HTML, attributes, mobile-friendly, forms, interfaces, efficient, take, advantage, native, mobile, browser, features, Choose, HTML5, Client-Side, Validation]
 ---
-
-# User Input and Interaction
 
 > Use <apex:input>, the type attribute, and pass-through HTML attributes to
         create mobile-friendly forms and user interfaces that are efficient and take advantage of

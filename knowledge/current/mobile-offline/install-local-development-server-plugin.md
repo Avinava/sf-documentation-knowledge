@@ -5,12 +5,10 @@ topic: install-local-development-server-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.985Z
+lastCollected: 2026-04-07T18:38:15.494Z
 estimatedTokens: 211
-keywords: [Install, Local, Development, Server, Plugin, Whether, you’re, debugging, component, iOS, Android, LWC, mobile]
+keywords: [Install, Local, Development, Server, Plugin, Whether, you’re, debugging, iOS, Android, LWC, mobile]
 ---
-
-# Install Local Development Server Plugin
 
 > Whether you’re debugging your component for iOS or Android, you must first install the
   LWC Development Server for mobile.

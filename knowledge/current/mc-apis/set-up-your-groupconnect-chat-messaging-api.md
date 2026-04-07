@@ -5,12 +5,10 @@ topic: set-up-your-groupconnect-chat-messaging-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.053Z
+lastCollected: 2026-04-07T18:40:20.284Z
 estimatedTokens: 385
-keywords: [GroupConnect, Chat, Messaging, API, account, provisioned, Prerequisites, Items]
+keywords: [Prerequisites, GroupConnect, Chat, Messaging, API, account, provisioned, Items]
 ---
-
-# Set Up Your GroupConnect Chat Messaging API
 
 > Your account must be provisioned for GroupConnect before you can use the GroupConnect Chat Messaging API.
 

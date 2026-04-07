@@ -5,12 +5,10 @@ topic: idpeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.625Z
+lastCollected: 2026-04-07T18:39:44.279Z
 estimatedTokens: 349
-keywords: [IdpEventLog, Identity, Provider, Event, Log, records, problems, successes, inbound, SAML, OpenID, Connect, authentication, requests, another]
+keywords: [IdpEventLog, Identity, Provider, Event, Log, records, problems, successes, inbound, SAML, OpenID, Connect, authentication, requests, another, app, outbound, responses, Salesforce, acting, API, 39.0]
 ---
-
-# IdpEventLog
 
 > Represents the Identity Provider Event Log. This log records both problems and
       successes with inbound SAML or OpenID Connect authentication requests from another app

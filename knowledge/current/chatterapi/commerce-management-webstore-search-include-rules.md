@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-include-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.118Z
+lastCollected: 2026-04-07T18:37:11.948Z
 estimatedTokens: 247
-keywords: [Commerce, Management, Webstore, Search, Include, Rules, retrieve, configurable]
+keywords: [Commerce, Management, Webstore, Search, Include, retrieve, configurable]
 ---
-
-# Commerce Management Webstore Search, Include Rules
 
 > Create or retrieve search include rules for a webstore. You can
       create up to 25 rules for a webstore. Search include rules are not configurable in the

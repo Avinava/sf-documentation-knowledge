@@ -5,12 +5,10 @@ topic: card-payment-method-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:30.085Z
+lastCollected: 2026-04-07T18:37:17.153Z
 estimatedTokens: 446
-keywords: [Card, Payment, Output]
+keywords: [Card, Payment]
 ---
-
-# Card Payment Method Output
 
 > Details about the card payment method.
 

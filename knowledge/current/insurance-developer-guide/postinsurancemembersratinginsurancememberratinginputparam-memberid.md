@@ -5,12 +5,10 @@ topic: postinsurancemembersratinginsurancememberratinginputparam-memberid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.584Z
+lastCollected: 2026-04-07T18:37:49.431Z
 estimatedTokens: 304
-keywords: [postInsuranceMembersRating, insuranceMemberRatingInputParam, memberId, Calculate, pricing, individual, members, group, census, support, plan, coverages, API, Version, Requires]
+keywords: [postInsuranceMembersRating, insuranceMemberRatingInputParam, memberId, Calculate, pricing, individual, members, group, census, support, plan, coverages, API, Requires, Chatter]
 ---
-
-# postInsuranceMembersRating(insuranceMemberRatingInputParam, memberId)
 
 > Calculate pricing for individual members of a group census, with the support for plan
   and individual coverages within the plan.

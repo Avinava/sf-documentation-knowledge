@@ -5,12 +5,10 @@ topic: fireoncallend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.048Z
+lastCollected: 2026-04-07T18:36:49.127Z
 estimatedTokens: 261
-keywords: [fireOnCallEnd, Fires, event, notifies, call, ended, send, interaction, log, custom, console, component, executes, fireOnCallBegin, API]
+keywords: [Arguments, fireOnCallEnd, Fires, event, notifies, call, ended, send, interaction, log, console, executes, fireOnCallBegin, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# fireOnCallEnd()
 
 > Fires an event that notifies a call has ended. Use to get information or send information between an interaction
                 log and a custom console component. This method executes when fireOnCallBegin() is called first. This method is only available in API version 31.0 or

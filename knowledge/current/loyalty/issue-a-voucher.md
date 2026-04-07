@@ -5,12 +5,10 @@ topic: issue-a-voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.314Z
+lastCollected: 2026-04-07T18:38:07.538Z
 estimatedTokens: 365
 keywords: [Issue, Voucher, new, loyalty, member, URL, Sample, JSON]
 ---
-
-# Issue a Voucher
 
 > Issue a new voucher to a loyalty member.
 

@@ -5,12 +5,10 @@ topic: call-salesforce-urls-within-a-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.840Z
+lastCollected: 2026-04-07T18:38:54.228Z
 estimatedTokens: 1257
-keywords: [Call, Salesforce, URLs, Package, serves, target, org, vary, configuration, build, packages, support, possible, URL, formats]
+keywords: [Call, Salesforce, URLs, Package, serves, target, org, vary, configuration, build, packages, support, possible, URL, formats, relative, whenever, functionality, requires, full, Apex, DomainCreator, corresponding, hostname, work, orgs, regardless, Domain, settings, Login, Logins, Generate, Hostnames, Part]
 ---
-
-# Call Salesforce URLs Within a Package
 
 > The URLs that Salesforce serves for a target org vary based on the org type and
                 configuration. To build packages that support all possible URL formats, use relative

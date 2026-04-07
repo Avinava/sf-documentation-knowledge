@@ -5,12 +5,10 @@ topic: game-rewards-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.690Z
+lastCollected: 2026-04-07T18:38:07.922Z
 estimatedTokens: 237
-keywords: [Game, Rewards, Output, representation, possible, reward]
+keywords: [Game, Rewards, possible, reward]
 ---
-
-# Game Rewards List
 
 > Output representation of the details of a possible game reward.
 

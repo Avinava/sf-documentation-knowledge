@@ -5,12 +5,10 @@ topic: import-records-from-csv-file-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.306Z
+lastCollected: 2026-04-07T18:38:12.590Z
 estimatedTokens: 424
-keywords: [Import, Records, CSV, File, Action, convert, data, uploaded, target, Special, Access, Rules, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Import, Records, CSV, File, Action, convert, uploaded, target, REST, HTTP]
 ---
-
-# Import Records from CSV File Action
 
 > Import and convert data from an uploaded CSV file into records of the
 			target object.

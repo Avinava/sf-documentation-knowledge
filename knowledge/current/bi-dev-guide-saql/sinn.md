@@ -5,12 +5,10 @@ topic: sinn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.159Z
+lastCollected: 2026-04-07T18:37:00.727Z
 estimatedTokens: 64
 keywords: [sin, sine, radians, any, real, numeric, range, -1e308, 1e308, passed, argument, function, foreach, statement]
 ---
-
-# sin(n)
 
 > Returns the sine value of radians value n. n can
   be any real numeric value in the range of -1e308 <= n <= 1e308. If

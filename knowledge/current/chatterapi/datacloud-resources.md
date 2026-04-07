@@ -5,12 +5,10 @@ topic: datacloud-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:26.325Z
+lastCollected: 2026-04-07T18:37:13.272Z
 estimatedTokens: 431
 keywords: [Datacloud, Resources, purchase, Data.com, contacts, companies, purchases, including, how, credits, add, selected, import, CRM]
 ---
-
-# Datacloud Resources
 
 > Information about Datacloud resources used to purchase
     Data.com contacts or companies. Use the Datacloud resources to

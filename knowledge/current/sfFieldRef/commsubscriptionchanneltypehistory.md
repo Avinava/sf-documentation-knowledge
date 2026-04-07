@@ -5,12 +5,10 @@ topic: commsubscriptionchanneltypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.096Z
+lastCollected: 2026-04-07T18:39:34.544Z
 estimatedTokens: 284
-keywords: [CommSubscriptionChannelTypeHistory, History, tracked, CommSubscriptionChannelType]
+keywords: [CommSubscriptionChannelTypeHistory, tracked, CommSubscriptionChannelType]
 ---
-
-# CommSubscriptionChannelTypeHistory
 
 > History for tracked fields of CommSubscriptionChannelType.
 

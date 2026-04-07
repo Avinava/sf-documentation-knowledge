@@ -5,12 +5,10 @@ topic: prvdvstsmpllmtdiscrepancy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.743Z
+lastCollected: 2026-04-07T18:38:01.621Z
 estimatedTokens: 1071
-keywords: [PrvdVstSmplLmtDiscrepancy, discrepancies, occur, samples, sample, shipment, requests, exceed, limit, API, version, 65.0, later, Calls, Associated]
+keywords: [PrvdVstSmplLmtDiscrepancy, discrepancies, occur, samples, sample, shipment, requests, exceed, limit, API, 65.0]
 ---
-
-# PrvdVstSmplLmtDiscrepancy
 
 > Represents discrepancies that occur when samples or sample shipment requests
          exceed a sample limit. This object is available in API version 65.0 and

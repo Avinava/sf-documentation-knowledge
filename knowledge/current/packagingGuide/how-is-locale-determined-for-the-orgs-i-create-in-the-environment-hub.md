@@ -5,12 +5,10 @@ topic: how-is-locale-determined-for-the-orgs-i-create-in-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.807Z
+lastCollected: 2026-04-07T18:38:46.755Z
 estimatedTokens: 93
 keywords: [How, locale, determined, orgs, Environment, Hub, Salesforce, user, determines]
 ---
-
-# How is locale determined for the orgs I create in the Environment Hub?
 
 > Your Salesforce user locale determines the default locale of orgs that you create.
 

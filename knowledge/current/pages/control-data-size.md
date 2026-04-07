@@ -5,12 +5,10 @@ topic: control-data-size
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.656Z
+lastCollected: 2026-04-07T18:38:48.604Z
 estimatedTokens: 587
-keywords: [Control, Data, Size, Visualforce, pages, 15-MB, standard, limit, smaller, load, faster, larger, minimize, times, amount]
+keywords: [Control, Size, Visualforce, pages, 15-MB, standard, limit, smaller, load, faster, larger, minimize, times, amount, displays, Filter, Query, Results, Pagination]
 ---
-
-# Control Data Size
 
 > Visualforce pages have a 15-MB standard response limit, and smaller pages load faster
     than larger pages. To minimize load times, limit the amount of data that each page

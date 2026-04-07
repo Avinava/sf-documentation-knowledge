@@ -5,12 +5,10 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.985Z
+lastCollected: 2026-04-07T18:36:28.525Z
 estimatedTokens: 618
-keywords: [PostTemplate, metadata, associated, approval, post, template, Approvals, Chatter, templates, customize, included, posts, appear, feeds, extends]
+keywords: [PostTemplate, metadata, approval, post, template, Approvals, Chatter, templates, customize, included, posts, appear, feeds, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PostTemplate
 
 > Represents the metadata associated with an approval post
             template for Approvals in Chatter. With approval post templates, you can customize the

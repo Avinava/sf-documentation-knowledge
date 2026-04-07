@@ -2,7 +2,7 @@
 domain: sfdx-setup
 name: Salesforce CLI Setup Guide
 documentCount: 42
-lastGenerated: 2026-04-07T09:06:39.193Z
+lastGenerated: 2026-04-07T18:40:44.327Z
 ---
 
 # Salesforce CLI Setup Guide — Knowledge Index

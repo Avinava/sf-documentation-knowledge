@@ -5,12 +5,10 @@ topic: get-apiv1insightcalculated-insightsci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.640Z
+lastCollected: 2026-04-07T18:35:51.498Z
 estimatedTokens: 523
-keywords: [api, insight, calculated-insights, ci-name, query, Calculated, Insights, Users, filter, selecting, different, dimensions, measures, filters, Examples]
+keywords: [Examples, api, insight, calculated-insights, ci-name, query, Calculated, Insights, Users, filter, selecting, different, dimensions, measures, filters, HTTP, Responses]
 ---
-
-# GET /api/v1/insight/calculated-insights/(ci-name)
 
 > Use this API to query your Calculated Insights. Users can filter by selecting different
   dimensions, measures, and filters.

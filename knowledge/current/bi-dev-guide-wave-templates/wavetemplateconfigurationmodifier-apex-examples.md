@@ -5,12 +5,10 @@ topic: wavetemplateconfigurationmodifier-apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.606Z
+lastCollected: 2026-04-07T18:37:02.193Z
 estimatedTokens: 267
 keywords: [WaveTemplateConfigurationModifier, Apex, Examples, include, setting, computed, questions, hiding, question, managing, working, array, variables]
 ---
-
-# WaveTemplateConfigurationModifier Apex Examples
 
 > Examples include setting computed values for questions, hiding a question, managing enum
   values, working with array type variables, and more.

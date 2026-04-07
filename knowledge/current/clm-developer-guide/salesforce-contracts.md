@@ -5,12 +5,10 @@ topic: salesforce-contracts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.597Z
+lastCollected: 2026-04-07T18:37:24.595Z
 estimatedTokens: 637
-keywords: [Salesforce, Contracts, next-generation, Contract, Lifecycle, Management, CLM, application, businesses, efficiently, collaboratively, manage, their, right, authoring]
+keywords: [Salesforce, Contracts, next-generation, Contract, Lifecycle, Management, CLM, application, businesses, efficiently, collaboratively, manage, their, right, authoring, negotiations, approval, execution, Documents, life, cycles, multiple, managed, centrally, providing, organizations, visibility, contracting, activities, highly, usable, configurable, extensible, platform, integrated, industry, specific, cases, functionality, centered, around, enriched, extended, support, new]
 ---
-
-# Salesforce Contracts
 
 > Salesforce Contracts is a next-generation Contract Lifecycle
       Management (CLM) application that enables businesses to efficiently and collaboratively manage

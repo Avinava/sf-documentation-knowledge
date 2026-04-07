@@ -5,12 +5,10 @@ topic: managed-content-media-source-node-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.236Z
+lastCollected: 2026-04-07T18:37:20.422Z
 estimatedTokens: 281
 keywords: [Managed, Content, Media, Source, Node]
 ---
-
-# Managed Content Media Source Node Value
 
 > Source of managed content media.
 

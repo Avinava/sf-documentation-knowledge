@@ -5,12 +5,10 @@ topic: contact-point-email-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.934Z
+lastCollected: 2026-04-07T18:35:52.844Z
 estimatedTokens: 1499
-keywords: [Contact, Point, Email, DMO, Data, Cloud, model, address, party, Provided, Sales, Service, Kits, API, Category]
+keywords: [Category, Relationships, Contact, Point, Email, DMO, Cloud, model, address, party, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---
-
-# Contact Point Email DMO
 
 > The Contact Point Email DMO is a Data Cloud data model object for the
 		email address of a party. Provided in both the Sales and Service Data Kits.

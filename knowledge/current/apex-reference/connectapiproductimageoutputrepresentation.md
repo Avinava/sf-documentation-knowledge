@@ -5,12 +5,10 @@ topic: connectapiproductimageoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.807Z
+lastCollected: 2026-04-07T18:36:11.077Z
 estimatedTokens: 113
 keywords: [product, image]
 ---
-
-# ConnectApi.ProductImageOutputRepresentation
 
 > Details about a product image.
 

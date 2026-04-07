@@ -5,13 +5,11 @@ topic: commercestorepricing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.377Z
+lastCollected: 2026-04-07T18:35:57.721Z
 estimatedTokens: 3049
 namespace: ConnectApi
-keywords: [CommerceStorePricing, buyer, price, product, getProductPrice, webstoreId, productId, effectiveAccountId, API, Version, Guest, Users, Requires, Chatter, Usage]
+keywords: [CommerceStorePricing, buyer, price, product, getProductPrice, webstoreId, productId, effectiveAccountId, API, Guest, Users, Requires, Chatter, productSellingModelIds, getProductPrices, productIds, currencyIsoCode, pricingInput]
 ---
-
-# CommerceStorePricing Class
 
 > Get the list and buyer price for a product.
 

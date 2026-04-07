@@ -5,12 +5,10 @@ topic: model-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.489Z
+lastCollected: 2026-04-07T18:36:58.986Z
 estimatedTokens: 132
 keywords: [Model, File, Resource, binary, stream, Einstein, Discovery, contents]
 ---
-
-# Model File Resource
 
 > Returns a binary stream of the Einstein Discovery model file contents.
 

@@ -5,12 +5,10 @@ topic: connectapicdpmlpredictsettingsinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.596Z
+lastCollected: 2026-04-07T18:36:04.945Z
 estimatedTokens: 233
-keywords: [ConnectApi.CdpMlPredictSettingsInput, Input, representation, model, settings, generate, prediction]
+keywords: [ConnectApi.CdpMlPredictSettingsInput, model, settings, generate, prediction]
 ---
-
-# ConnectApi.CdpMlPredictSettingsInput
 
 > Input representation for the model settings used to generate a prediction.
 

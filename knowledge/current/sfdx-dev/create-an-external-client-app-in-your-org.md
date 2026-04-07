@@ -5,12 +5,10 @@ topic: create-an-external-client-app-in-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.817Z
+lastCollected: 2026-04-07T18:40:07.759Z
 estimatedTokens: 1703
-keywords: [External, Client, App, Org, Salesforce, CLI, requires, you're, authorizing, packageable, framework, third-party, application, integrate, APIs]
+keywords: [External, Client, App, Org, Salesforce, CLI, requires, you're, authorizing, packageable, framework, third-party, application, integrate, APIs, security, protocols, provide, connected, authorize, login, web, command, extra, own, Setup, configure, settings, choice, jwt, Consumer, Key, Secret]
 ---
-
-# Create an External Client App in Your Org
 
 > Salesforce CLI requires an external client app in the org that you're authorizing. An
     external client app is a packageable framework that enables a third-party application

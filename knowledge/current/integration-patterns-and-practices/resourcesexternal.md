@@ -5,12 +5,10 @@ topic: resourcesexternal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.347Z
+lastCollected: 2026-04-07T18:37:53.649Z
 estimatedTokens: 276
 keywords: [Resources—External]
 ---
-
-# Resources—External
 
 # Resources—External
 

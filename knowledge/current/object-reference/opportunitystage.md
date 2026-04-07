@@ -5,12 +5,10 @@ topic: opportunitystage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.407Z
+lastCollected: 2026-04-07T18:38:36.584Z
 estimatedTokens: 946
-keywords: [OpportunityStage, stage, Opportunity, sales, pipeline, New, Lead, Negotiating, Pending, Closed, Calls, Usage]
+keywords: [OpportunityStage, stage, Opportunity, sales, pipeline, New, Lead, Negotiating, Pending, Closed]
 ---
-
-# OpportunityStage
 
 > Represents the stage of an Opportunity in the sales pipeline, such as New Lead, Negotiating, Pending, Closed, and so
   on.

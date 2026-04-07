@@ -5,12 +5,10 @@ topic: importdefinitionupdatetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.440Z
+lastCollected: 2026-04-07T18:40:17.619Z
 estimatedTokens: 316
-keywords: [ImportDefinitionUpdateType, how, import, definition, handles, new, data, process]
+keywords: [ImportDefinitionUpdateType, how, import, definition, handles, new, process]
 ---
-
-# ImportDefinitionUpdateType
 
 > The ImportDefinitionUpdateType object defines how the import definition handles new and existing data during the import process.
 

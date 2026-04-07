@@ -5,12 +5,10 @@ topic: quoteaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.344Z
+lastCollected: 2026-04-07T18:35:50.242Z
 estimatedTokens: 839
-keywords: [QuoteAction, sales, transaction, that’s, quoted, renewal, sale, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [QuoteAction, sales, transaction, that’s, quoted, renewal, sale, API, 59.0]
 ---
-
-# QuoteAction
 
 > Indicates the type of sales transaction that’s being quoted; for
          example, a renewal sale. This object is available in API version 59.0 and

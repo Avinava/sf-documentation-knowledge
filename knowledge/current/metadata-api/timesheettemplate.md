@@ -5,12 +5,10 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.682Z
+lastCollected: 2026-04-07T18:36:30.093Z
 estimatedTokens: 777
-keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [TimeSheetTemplate, TimeSheetTemplateAssignment, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# TimeSheetTemplate
 
 > Represents a template for creating time sheets in Field
     Service. This type extends the Metadata metadata type and inherits its 

@@ -5,12 +5,10 @@ topic: advanced-retrieves-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.388Z
+lastCollected: 2026-04-07T18:40:22.811Z
 estimatedTokens: 519
 keywords: [Advanced, Retrieves, via, WSProxy, perform, complex, including, ability, retrieve, SOAP, RetrieveOptions, Pagination]
 ---
-
-# Advanced Retrieves via WSProxy
 
 > You can perform more complex retrieves, including the ability to set other properties on the retrieve request, including SOAP RetrieveOptions.
 

@@ -5,12 +5,10 @@ topic: einstein-llm-additional-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.349Z
+lastCollected: 2026-04-07T18:37:08.157Z
 estimatedTokens: 455
-keywords: [Einstein, LLM, Additional, Configuration, Input, provider]
+keywords: [Einstein, LLM, Additional, Configuration, provider]
 ---
-
-# Einstein LLM Additional Configuration Input
 
 > Additional configuration information for the LLM provider.
 

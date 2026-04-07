@@ -5,12 +5,10 @@ topic: authenticate-api-calls-with-salesforce-scheduler-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.690Z
+lastCollected: 2026-04-07T18:39:21.552Z
 estimatedTokens: 262
-keywords: [Authenticate, API, Calls, Salesforce, Scheduler, APIs, OAuth—the, secure, SOAP, REST, call, authentication, method—to, access, token]
+keywords: [Authenticate, API, Salesforce, Scheduler, APIs, OAuth—the, secure, SOAP, REST, call, authentication, method—to, token]
 ---
-
-# Authenticate API Calls with Salesforce Scheduler APIs
 
 > Use OAuth—the most secure SOAP and REST API call authentication method—to
   get an access token.

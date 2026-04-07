@@ -5,12 +5,10 @@ topic: resolve-a-prompt-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.889Z
+lastCollected: 2026-04-07T18:36:19.112Z
 estimatedTokens: 415
 keywords: [Resolve, Prompt, Template, Call, Flex, Apex, Flow, Resources, Sales, Email, Generation, Summary]
 ---
-
-# Resolve a Prompt Template
 
 > Call a method to resolve a prompt
         template.

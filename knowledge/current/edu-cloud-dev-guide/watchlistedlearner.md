@@ -5,12 +5,10 @@ topic: watchlistedlearner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.805Z
+lastCollected: 2026-04-07T18:37:31.955Z
 estimatedTokens: 1234
-keywords: [WatchlistedLearner, learner, needs, monitored, support, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [WatchlistedLearner, learner, needs, monitored, support, API, 62.0]
 ---
-
-# WatchlistedLearner
 
 > Represents information for a learner that needs to be monitored for
          support. This object is available in API version 62.0 and later.

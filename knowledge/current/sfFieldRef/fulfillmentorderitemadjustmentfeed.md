@@ -5,12 +5,10 @@ topic: fulfillmentorderitemadjustmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.976Z
+lastCollected: 2026-04-07T18:39:41.589Z
 estimatedTokens: 368
-keywords: [FulfillmentOrderItemAdjustmentFeed, Feed, tracking, FulfillmentOrderItemAdjustment]
+keywords: [FulfillmentOrderItemAdjustmentFeed, FulfillmentOrderItemAdjustment]
 ---
-
-# FulfillmentOrderItemAdjustmentFeed
 
 > Feed tracking for FulfillmentOrderItemAdjustment.
 

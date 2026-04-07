@@ -5,12 +5,10 @@ topic: soap-api-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.117Z
+lastCollected: 2026-04-07T18:40:20.347Z
 estimatedTokens: 4726
-keywords: [SOAP, API, Best, Practices, broad, conceptual, Marketing, Cloud, understand, how, interact, Cloud's, application, accomplish, specific]
+keywords: [General, Planning, Security, SOAP, API, Best, Practices, broad, conceptual, Marketing, Cloud, understand, how, interact, Cloud's, application, accomplish, specific, tasks, Workflow, Sending, Email, Subscriber, Extension, Triggered, Send, Importing, via, Interaction, Standard, Users, Enterprise, Embedded, Architecture, Coding, Maintaining, Service, Level, Agreements, Monitoring, Retrieving, Connection, Failures, Timeouts, Give, User, Separate, Credentials, Restrict, Integration, Partner, Necessary, Functions, Strong, Passwords, Management, NET, Synchronous, Asynchronous, PartnerKey, PartnerClientKey, Items]
 ---
-
-# SOAP API Best Practices
 
 > This page contains a broad conceptual overview of the Marketing Cloud SOAP API you can use to understand how the SOAP API can be used to interact with Marketing Cloud's application and accomplish specific tasks.
 

@@ -5,12 +5,10 @@ topic: chart-data-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.828Z
+lastCollected: 2026-04-07T18:38:48.775Z
 estimatedTokens: 375
-keywords: [Chart, Data, provided, Visualforce, meet, specific, requirements, Every, element, collection, contain, referenced, <apex, chart>, component]
+keywords: [Chart, provided, Visualforce, meet, specific, requirements, Every, collection, contain, referenced, <apex, chart>, hierarchy, bound, source, aren’t, client-side, JavaScript, error, thrown, view, console, Firebug]
 ---
-
-# Chart Data Format
 
 > Data provided to a Visualforce
   chart must meet some specific requirements. Every element in the data collection must contain all

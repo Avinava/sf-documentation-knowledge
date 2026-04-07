@@ -5,12 +5,10 @@ topic: aiauthoringbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.039Z
+lastCollected: 2026-04-07T18:36:22.290Z
 estimatedTokens: 1159
-keywords: [AiAuthoringBundle, authoring, bundle, container, AI-related, content, Agentforce, agent, Script, file, associated, metadata, Parent, Directory, Structure]
+keywords: [AiAuthoringBundle, authoring, bundle, container, AI-related, content, Agentforce, agent, Script, file, metadata, Parent, Directory, Structure, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AiAuthoringBundle
 
 > Represents an AI authoring bundle, which is a container for AI-related authoring
     content. For example, an AI authoring bundle for an Agentforce agent contains an Agent Script

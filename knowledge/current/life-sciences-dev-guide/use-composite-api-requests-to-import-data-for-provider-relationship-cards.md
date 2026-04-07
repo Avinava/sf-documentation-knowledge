@@ -5,12 +5,10 @@ topic: use-composite-api-requests-to-import-data-for-provider-relationship-cards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:06.930Z
+lastCollected: 2026-04-07T18:37:56.366Z
 estimatedTokens: 441
-keywords: [Composite, API, Requests, Import, Data, Provider, Relationship, Cards, you’re, setting, show, practitioner, link, multiple, records]
+keywords: [Composite, API, Requests, Import, Provider, Relationship, Cards, you’re, setting, show, practitioner, link, multiple, records]
 ---
-
-# Use Composite API Requests to Import Data for Provider Relationship Cards
 
 > If you’re setting up provider relationship cards to show practitioner information,
         you can use Composite API requests to create and link multiple records.

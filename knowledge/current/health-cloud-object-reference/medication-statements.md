@@ -5,12 +5,10 @@ topic: medication-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.533Z
+lastCollected: 2026-04-07T18:37:44.879Z
 estimatedTokens: 255
 keywords: [Medication, Statements, resources, statement, patient]
 ---
-
-# Medication Statements
 
 > Use these resources to create a medication statement or update an
    existing medication statement for a patient.

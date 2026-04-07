@@ -5,12 +5,10 @@ topic: devicesynctransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.235Z
+lastCollected: 2026-04-07T18:37:59.920Z
 estimatedTokens: 1883
-keywords: [DeviceSyncTransaction, data, items, synchronize, mobile, device, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [DeviceSyncTransaction, items, synchronize, mobile, device, API, 65.0]
 ---
-
-# DeviceSyncTransaction
 
 > Represents a set of related data items to synchronize from a mobile
          device. This object is available in API version 65.0 and later.

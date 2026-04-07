@@ -5,12 +5,10 @@ topic: commerce-webstore-taxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.857Z
+lastCollected: 2026-04-07T18:37:12.737Z
 estimatedTokens: 310
 keywords: [Commerce, Webstore, Taxes, product, store, state, country, buyer, account, guest, profile]
 ---
-
-# Commerce Webstore Taxes
 
 > Get taxes for a product based on the store, state, country, and
       buyer account or guest profile ID.

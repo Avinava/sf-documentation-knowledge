@@ -5,12 +5,10 @@ topic: describing-tabs-using-schema-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.312Z
+lastCollected: 2026-04-07T18:36:17.540Z
 estimatedTokens: 226
-keywords: [Describing, Tabs, Schema, metadata, apps, their, Salesforce, user, executing, describe, call, Apex, detailed, tab, describeTabs]
+keywords: [Describing, Tabs, Schema, metadata, apps, their, Salesforce, user, executing, describe, call, Apex, detailed, tab, describeTabs, getTabs, Schema.Desc]
 ---
-
-# Describing Tabs Using Schema Methods
 
 > You can get metadata information about the apps and their tabs available in the
             Salesforce user interface by executing a describe call in Apex. Also, you can get more

@@ -5,12 +5,10 @@ topic: emailintegrationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.781Z
+lastCollected: 2026-04-07T18:36:25.228Z
 estimatedTokens: 1818
-keywords: [EmailIntegrationSettings, org’s, settings, Outlook, integration, Gmail, Salesforce, Inbox, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [EmailIntegrationSettings, org’s, settings, Outlook, integration, Gmail, Salesforce, Inbox, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EmailIntegrationSettings
 
 > Represents an org’s settings for the
       Outlook integration, Gmail integration, and Salesforce Inbox.

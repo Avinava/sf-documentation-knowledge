@@ -5,12 +5,10 @@ topic: consumption-traceabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.579Z
+lastCollected: 2026-04-07T18:35:45.588Z
 estimatedTokens: 144
-keywords: [Consumption, Traceabilities, Output, representation, overage, resource, drawdown]
+keywords: [Consumption, Traceabilities, overage, resource, drawdown]
 ---
-
-# Consumption Traceabilities
 
 > Output representation of the overage and resource drawdown details.
 

@@ -5,12 +5,10 @@ topic: backgroundoperation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.671Z
+lastCollected: 2026-04-07T18:38:26.642Z
 estimatedTokens: 1326
-keywords: [BackgroundOperation, background, operation, asynchronous, job, queue, API, version, 35.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [BackgroundOperation, background, operation, asynchronous, job, queue, API, 35.0]
 ---
-
-# BackgroundOperation
 
 > Represents a background operation in an asynchronous job queue.
 		This object is available in API version 35.0 and later.

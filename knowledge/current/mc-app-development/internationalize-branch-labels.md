@@ -5,12 +5,10 @@ topic: internationalize-branch-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.153Z
+lastCollected: 2026-04-07T18:40:21.432Z
 estimatedTokens: 233
-keywords: [Internationalize, Branch, Labels, Custom, split, activity, support, internationalization, Sample]
+keywords: [Sample, Internationalize, Branch, Labels, split, activity, support, internationalization]
 ---
-
-# Internationalize Branch Labels
 
 > Custom split activity branch labels support internationalization.
 

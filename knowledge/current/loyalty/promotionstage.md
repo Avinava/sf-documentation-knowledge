@@ -5,12 +5,10 @@ topic: promotionstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.391Z
+lastCollected: 2026-04-07T18:38:10.663Z
 estimatedTokens: 497
-keywords: [PromotionStage, stage, promotion, email, promotion's, target, audience, Promotions, Management, launch, sent, activated, API, version, 60.0]
+keywords: [PromotionStage, stage, promotion, email, promotion's, target, audience, Promotions, Management, launch, sent, activated, API, 60.0]
 ---
-
-# PromotionStage
 
 > Represents a stage when the promotion sends an email to the promotion's
          target audience. With Global Promotions Management, a promotion launch email is sent after

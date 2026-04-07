@@ -5,12 +5,10 @@ topic: enrichedfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.198Z
+lastCollected: 2026-04-07T18:36:32.667Z
 estimatedTokens: 746
-keywords: [EnrichedField, selected, Change, Data, Capture, Enrichment, channel, member, non-empty, enriched, added, event, changed, API, version]
+keywords: [EnrichedField, selected, Change, Capture, Enrichment, channel, member, non-empty, enriched, added, event, changed, API, 51.0, SOAP, REST, HTTP]
 ---
-
-# EnrichedField
 
 > Represents a field selected for Change Data Capture Enrichment for a
       channel and channel member. A non-empty enriched field is added to an update or delete change

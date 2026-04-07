@@ -5,12 +5,10 @@ topic: object-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.641Z
+lastCollected: 2026-04-07T18:37:56.083Z
 estimatedTokens: 87
-keywords: [Output, representation, target]
+keywords: [target]
 ---
-
-# Object Field
 
 > Output representation of of the target object field.
 

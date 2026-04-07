@@ -5,12 +5,10 @@ topic: modifying-the-dom
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.358Z
+lastCollected: 2026-04-07T18:38:04.514Z
 estimatedTokens: 281
-keywords: [Modifying, DOM, Document, Model, language-independent, representing, interacting, objects, HTML, XML, documents, It’s, know, how, modify]
+keywords: [Modifying, DOM, Document, Model, language-independent, representing, interacting, HTML, XML, documents, It’s, know, how, modify, safely, framework’s, rendering, service, doesn’t, stomp, changes, give, unexpected, results]
 ---
-
-# Modifying the DOM
 
 > The Document Object Model (DOM) is the language-independent model for representing and
     interacting with objects in HTML and XML documents. It’s important to know how to modify the DOM

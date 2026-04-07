@@ -5,12 +5,10 @@ topic: cgcsyncsyncreportlinksc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.158Z
+lastCollected: 2026-04-07T18:39:12.608Z
 estimatedTokens: 312
-keywords: [cgc_sync__Sync_Report_Links__c, conjunction, reports, logs, API, version, 53.0, later, cgc, _sync, _Report, _Links, Calls]
+keywords: [cgc_sync__Sync_Report_Links__c, conjunction, reports, logs, API, 53.0, cgc, _sync, _Report, _Links]
 ---
-
-# cgc_sync__Sync_Report_Links__c
 
 > Contains information about the conjunction object for reports and related logs. This
       object is available in API version 53.0 and later.

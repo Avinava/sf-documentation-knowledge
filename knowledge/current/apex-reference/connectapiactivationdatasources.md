@@ -5,12 +5,10 @@ topic: connectapiactivationdatasources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.728Z
+lastCollected: 2026-04-07T18:36:07.070Z
 estimatedTokens: 75
-keywords: [ConnectApi.ActivationDataSources, activation, data, sources, configuration, output]
+keywords: [ConnectApi.ActivationDataSources, activation, sources, configuration]
 ---
-
-# ConnectApi.ActivationDataSources
 
 > Represents the activation data sources configuration output.
 

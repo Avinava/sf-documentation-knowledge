@@ -5,12 +5,10 @@ topic: key-resources-for-developing-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.145Z
+lastCollected: 2026-04-07T18:37:33.511Z
 estimatedTokens: 1612
-keywords: [Key, Resources, Developing, LWR, Sites, Check, main, elements, site, Experience, Cloud, Code, Sample, Files, Lightning]
+keywords: [Apex, Key, Resources, Developing, LWR, Sites, Check, main, site, Experience, Cloud, Code, Sample, Files, Lightning, Web, Salesforce, User, API]
 ---
-
-# Key Resources for Developing LWR Sites
 
 > Check out these resources to learn more about the main elements you use when developing
         an LWR site in Experience Cloud.

@@ -5,13 +5,11 @@ topic: lxscheduler-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.800Z
+lastCollected: 2026-04-07T18:39:20.558Z
 estimatedTokens: 60
 namespace: LxScheduler
 keywords: [LxScheduler, classes, retrieving, service, resources, time, slots, appointment]
 ---
-
-# LxScheduler Namespace
 
 > The LxScheduler namespace provides an interface and
     classes for retrieving service resources and time slots to create an appointment.

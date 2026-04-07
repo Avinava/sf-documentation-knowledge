@@ -5,12 +5,10 @@ topic: datadetectpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:38.755Z
+lastCollected: 2026-04-07T18:38:29.637Z
 estimatedTokens: 531
-keywords: [DataDetectPolicy, sensitive, data, searched, scan, DataDetect, policies, apply, filters, select, specific, objects, scanned, API, version]
+keywords: [DataDetectPolicy, sensitive, searched, scan, DataDetect, policies, apply, filters, select, specific, scanned, API, 60.0]
 ---
-
-# DataDetectPolicy
 
 > Represents a set of parameters that specifies the types of sensitive data to
          be searched for in a data scan. DataDetect scan policies can also apply filters to a data

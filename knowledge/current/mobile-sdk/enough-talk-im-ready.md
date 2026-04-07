@@ -5,12 +5,10 @@ topic: enough-talk-im-ready
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.918Z
+lastCollected: 2026-04-07T18:40:26.231Z
 estimatedTokens: 141
-keywords: [Enough, Talk, I’m, Ready, you’d, rather, later, there, Quick, Start, topics, native, development, scenario]
+keywords: [Enough, Talk, I’m, Ready, you’d, rather, there, Quick, Start, topics, native, development, scenario]
 ---
-
-# Enough Talk; I’m Ready
 
 > If you’d rather read about the details later, there are Quick Start topics in this guide
       for each native development scenario.

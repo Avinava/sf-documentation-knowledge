@@ -5,12 +5,10 @@ topic: call-coaching
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.596Z
+lastCollected: 2026-04-07T18:37:11.380Z
 estimatedTokens: 87
 keywords: [Call, Coaching, status, Einstein, Conversation, Insights]
 ---
-
-# Call Coaching
 
 > Get the status of Einstein Conversation Insights.
 

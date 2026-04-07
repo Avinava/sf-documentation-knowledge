@@ -5,12 +5,10 @@ topic: contextusecasemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:38.428Z
+lastCollected: 2026-04-07T18:37:25.360Z
 estimatedTokens: 1025
-keywords: [ContextUseCaseMapping, setup, stores, configuration, context, service, Salesforce, Contracts, Parent, File, Suffix, Directory, Location, Version, Special, definition, mapping, definitions, invoke, APIs]
+keywords: [ContextUseCaseMapping, setup, stores, configuration, context, service, Salesforce, Contracts, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, definition, mapping, definitions, invoke, APIs, API, 61.0]
 ---
-
-# ContextUseCaseMapping
 
 > Represents the setup configuration details such as the context definition and
          mapping definitions used to invoke context service APIs. This object is available in

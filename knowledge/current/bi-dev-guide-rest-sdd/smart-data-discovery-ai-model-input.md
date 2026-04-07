@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.096Z
+lastCollected: 2026-04-07T18:36:58.612Z
 estimatedTokens: 571
-keywords: [Smart, Data, Discovery, Model, Input, Einstein]
+keywords: [Smart, Discovery, Model, Einstein]
 ---
-
-# Smart Data Discovery AI Model Input
 
 > The Einstein Discovery AI model to create or update.
 

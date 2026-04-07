@@ -5,12 +5,10 @@ topic: cgcloudpromotionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:21.092Z
+lastCollected: 2026-04-07T18:39:14.488Z
 estimatedTokens: 6339
-keywords: [cgcloud__Promotion__c, Promotion, activity, user, includes, definition, prices, time, segment, API, version, 54.0, later, cgcloud, _Promotion]
+keywords: [cgcloud__Promotion__c, Promotion, activity, user, includes, definition, prices, time, segment, API, 54.0, cgcloud, _Promotion]
 ---
-
-# cgcloud__Promotion__c
 
 > Promotion is an activity of a user that includes the definition of
          prices for a time segment. This object is available in API version 54.0 and later.

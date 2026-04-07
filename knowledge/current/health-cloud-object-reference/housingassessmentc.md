@@ -5,12 +5,10 @@ topic: housingassessmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.531Z
+lastCollected: 2026-04-07T18:37:43.696Z
 estimatedTokens: 562
-keywords: [HousingAssessment__c, settings, assessing, living, situation, individuals, API, version, 49.0, later, HousingAssessment, Calls]
+keywords: [HousingAssessment__c, settings, assessing, living, situation, individuals, API, 49.0, HousingAssessment]
 ---
-
-# HousingAssessment__c
 
 > Represents the settings for assessing the living situation of individuals.
     This object is available in API version 49.0 and later.

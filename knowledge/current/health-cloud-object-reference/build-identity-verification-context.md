@@ -5,12 +5,10 @@ topic: build-identity-verification-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.157Z
+lastCollected: 2026-04-07T18:37:41.202Z
 estimatedTokens: 211
 keywords: [Build, Identity, Verification, Context, perform]
 ---
-
-# Build Identity Verification Context
 
 > Build the context required to perform identity
       verification.

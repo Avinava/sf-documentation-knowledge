@@ -5,12 +5,10 @@ topic: canvas-app-user-flowsigned-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.834Z
+lastCollected: 2026-04-07T18:38:57.644Z
 estimatedTokens: 266
 keywords: [Canvas, App, User, Flow—Signed]
 ---
-
-# Canvas App User Flow—Signed Request
 
 # Canvas App User Flow—Signed Request
 

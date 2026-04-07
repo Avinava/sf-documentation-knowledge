@@ -5,12 +5,10 @@ topic: medical-inquiries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.699Z
+lastCollected: 2026-04-07T18:37:57.214Z
 estimatedTokens: 459
-keywords: [Medical, Inquiries, Capture, critical, questions, healthcare, professionals, adverse, events, product, quality, complaints, come, multiple, channels]
+keywords: [Medical, Inquiries, Capture, critical, questions, healthcare, professionals, adverse, events, product, quality, complaints, come, multiple, channels, face-to-face, visits, remote, engagements, contact, centers, require, quick, compliant, right, individuals, typically, experts, Science, Liaisons, Communication, Specialists, MSLs, skilled, answer, scientific, drug, interactions, off-label, clinical, work, center, environments, partner, resolve, including, incoming, patient, consumer, side, effects, reactions]
 ---
-
-# Medical Inquiries
 
 > Capture critical questions from healthcare professionals such as medical inquiries,
   adverse events, and product quality complaints with Medical Inquiries. Inquiries can come from

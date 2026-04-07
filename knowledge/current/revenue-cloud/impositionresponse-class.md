@@ -5,13 +5,11 @@ topic: impositionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.842Z
+lastCollected: 2026-04-07T18:35:40.664Z
 estimatedTokens: 949
 namespace: CommerceTax
 keywords: [ImpositionResponse, Stores, tax, impositions, external, engine, setId, setName, setSubType, subType, setType]
 ---
-
-# ImpositionResponse Class
 
 > Stores details of tax impositions from the external tax
     engine.

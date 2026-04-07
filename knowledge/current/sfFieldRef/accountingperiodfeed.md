@@ -5,12 +5,10 @@ topic: accountingperiodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.406Z
+lastCollected: 2026-04-07T18:39:24.357Z
 estimatedTokens: 389
-keywords: [AccountingPeriodFeed, Feed, tracking, AccountingPeriod]
+keywords: [AccountingPeriodFeed, AccountingPeriod]
 ---
-
-# AccountingPeriodFeed
 
 > Feed tracking for AccountingPeriod.
 

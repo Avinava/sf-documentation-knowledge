@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.375Z
+lastCollected: 2026-04-07T18:39:09.690Z
 estimatedTokens: 438
 keywords: [Bodies, Here’s, Referral, Marketing, API]
 ---
-
-# Response Bodies
 
 > Here’s a list of Referral Marketing API response bodies.
 

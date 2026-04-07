@@ -5,12 +5,10 @@ topic: visit-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.768Z
+lastCollected: 2026-04-07T18:37:57.288Z
 estimatedTokens: 291
-keywords: [Visit, Management, supports, call, planning, execution, process, Life, Sciences, Industry, users, engage, compliantly, accounts, various]
+keywords: [Visit, Management, supports, call, planning, execution, process, Life, Sciences, Industry, users, engage, compliantly, accounts, various, channels, face-to-face, phone, remote, integrated, intelligent, content, engagement, capabilities, sales, representatives, medical, teams, plan, execute, report, visits, healthcare, providers, organizations, entered, provider, typically, includes, product, messages, presentations, marketing, items, samples, compliance, requirements, regarding, sample, eligibility, limits, allocations, e-signature, capture]
 ---
-
-# Visit Management
 
 > Visit Management supports the call planning and execution process in the Life Sciences
   Industry. Field users can engage compliantly with accounts through various channels such as

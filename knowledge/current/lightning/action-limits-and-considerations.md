@@ -5,12 +5,10 @@ topic: action-limits-and-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.563Z
+lastCollected: 2026-04-07T18:38:03.613Z
 estimatedTokens: 511
-keywords: [Action, Limits, Considerations, Keep, mind, server-side, actions, Client, Payload, Data, Limit, Boxcar, Component, Lifecycle]
+keywords: [Action, Limits, Considerations, Keep, mind, server-side, actions, Client, Payload, Limit, Boxcar, Lifecycle]
 ---
-
-# Action Limits and Considerations
 
 > Keep the following limits and other considerations in mind when using server-side
   actions.

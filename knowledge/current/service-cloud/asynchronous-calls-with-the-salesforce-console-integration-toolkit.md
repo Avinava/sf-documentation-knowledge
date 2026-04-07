@@ -5,12 +5,10 @@ topic: asynchronous-calls-with-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.755Z
+lastCollected: 2026-04-07T18:36:48.807Z
 estimatedTokens: 134
-keywords: [Asynchronous, Calls, Salesforce, Console, Integration, Toolkit, lets, issue, allow, client-side, process, continue, instead, waiting, callback]
+keywords: [Asynchronous, Salesforce, Console, Integration, Toolkit, lets, issue, allow, client-side, process, continue, instead, waiting, callback, server, call, include, additional, API, referred, function, Once, result, ready, invokes]
 ---
-
-# Asynchronous Calls with the Salesforce Console Integration Toolkit
 
 > The Salesforce Console Integration Toolkit lets you
       issue asynchronous calls. Asynchronous calls allow the client-side process to continue instead

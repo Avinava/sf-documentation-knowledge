@@ -5,12 +5,10 @@ topic: medicinalingredient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.172Z
+lastCollected: 2026-04-07T18:37:43.352Z
 estimatedTokens: 1238
-keywords: [MedicinalIngredient, child, Medication, substances, drugs, ingredients, API, version, 52.0, later, Calls, Usage, Associated, Objects]
+keywords: [MedicinalIngredient, child, Medication, substances, drugs, ingredients, API, 52.0]
 ---
-
-# MedicinalIngredient
 
 > MedicinalIngredient is a child object of Medication that represents
          substances or drugs that are used as ingredients in the medication.  This object is

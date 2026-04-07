@@ -5,13 +5,11 @@ topic: filtervalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.905Z
+lastCollected: 2026-04-07T18:36:03.113Z
 estimatedTokens: 438
 namespace: Reports
 keywords: [FilterValue, filter, display, API, getLabel, getName]
 ---
-
-# FilterValue Class
 
 > Contains information about a filter value, such as the
 display name and API name.

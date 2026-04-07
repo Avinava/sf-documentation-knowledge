@@ -5,12 +5,10 @@ topic: custom-package-total-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.727Z
+lastCollected: 2026-04-07T18:37:27.730Z
 estimatedTokens: 166
-keywords: [Custom, Package, Total, Calculation, sample, JavaScript, script, Quote, Line, Calculator, calculate, price, components, store, Apex, calculates, quote, line, stores]
+keywords: [Javascript, Package, Total, Calculation, sample, script, Quote, Line, Calculator, calculate, price, store, Apex, calculates, quote, line, stores]
 ---
-
-# Custom Package Total Calculation
 
 > The sample Apex class calculates the total price for all components in a quote line
         and then stores that value in a custom field.

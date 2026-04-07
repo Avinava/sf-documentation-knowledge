@@ -6,13 +6,10 @@ topic: package-ids-and-aliases-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.946Z
+lastCollected: 2026-04-07T18:38:56.589Z
 estimatedTokens: 520
-keywords: [Package, IDs, Aliases, Second-Generation, Managed, Packages, lifecycle, versions, identified, alias, version, Salesforce, CLI, creates, stores]
+keywords: [Package, IDs, Aliases, Second-Generation, Managed, Packages, lifecycle, versions, identified, alias, Salesforce, CLI, creates, stores, packageAliases, sfdx-project.json, file, run, commands, write, scripts, automate, packaging, workflows, it’s, often, easier, instead]
 ---
-
-# Package IDs and Aliases for Second-Generation Managed
-  Packages
 
 > During the package lifecycle, packages and package versions are identified by an ID or
   package alias. When you create a second-generation managed package or package version, Salesforce

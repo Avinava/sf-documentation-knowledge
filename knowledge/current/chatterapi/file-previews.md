@@ -5,12 +5,10 @@ topic: file-previews
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.998Z
+lastCollected: 2026-04-07T18:37:13.958Z
 estimatedTokens: 197
 keywords: [File, Previews, file's, generate, pages, preview]
 ---
-
-# File Previews
 
 > Get information about a file's supported previews and generate up to
       500 pages in a file preview.

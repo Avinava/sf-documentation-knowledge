@@ -5,12 +5,10 @@ topic: platformapplicationpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.982Z
+lastCollected: 2026-04-07T18:40:18.164Z
 estimatedTokens: 434
 keywords: [PlatformApplicationPackage, Items]
 ---
-
-# PlatformApplicationPackage
 
 # PlatformApplicationPackage
 

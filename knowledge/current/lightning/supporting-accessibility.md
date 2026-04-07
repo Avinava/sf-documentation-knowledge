@@ -5,12 +5,10 @@ topic: supporting-accessibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.516Z
+lastCollected: 2026-04-07T18:38:02.437Z
 estimatedTokens: 254
-keywords: [Supporting, Accessibility, customizing, components, careful, preserve, code, ensures, aria, attributes]
+keywords: [Supporting, Accessibility, customizing, careful, preserve, code, ensures, aria, attributes]
 ---
-
-# Supporting Accessibility
 
 > When customizing components, be careful to preserve code that ensures accessibility, such
             as the aria attributes.

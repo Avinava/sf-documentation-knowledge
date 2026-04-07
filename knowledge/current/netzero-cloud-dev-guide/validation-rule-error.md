@@ -5,12 +5,10 @@ topic: validation-rule-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.860Z
+lastCollected: 2026-04-07T18:38:16.412Z
 estimatedTokens: 157
-keywords: [Validation, Rule, Error, Output, representation]
+keywords: [Validation, Rule, Error]
 ---
-
-# Validation Rule Error
 
 > Output representation of the validation rule.
 

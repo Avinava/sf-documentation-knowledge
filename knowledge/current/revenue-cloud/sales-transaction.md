@@ -5,12 +5,10 @@ topic: sales-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.146Z
+lastCollected: 2026-04-07T18:35:46.101Z
 estimatedTokens: 362
-keywords: [Sales, Transaction, Output, representation]
+keywords: [Sales, Transaction]
 ---
-
-# Sales Transaction
 
 > Output representation of the request to create a sales transaction.
 

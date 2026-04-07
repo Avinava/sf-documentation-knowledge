@@ -5,12 +5,10 @@ topic: message-segment-field-change-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.637Z
+lastCollected: 2026-04-07T18:37:20.821Z
 estimatedTokens: 179
-keywords: [Message, Segment, Change, inline, “Name”, “Description.”, Making, separate, possible, give, special, user, treatments, bold]
+keywords: [Message, Segment, Change, inline, “Name”, “Description.”, Making, separate, possible, give, user, treatments, bold]
 ---
-
-# Message Segment: Field Change Name
 
 > Represents an inline name of a field change, like “Name”
 or “Description.” Making this a separate segment makes

@@ -5,12 +5,10 @@ topic: filter-definition-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.720Z
+lastCollected: 2026-04-07T18:40:23.137Z
 estimatedTokens: 176
-keywords: [Filter, Definition, Functions, Server-side, JavaScript, allow, manipulate, data, filters, via, ways, Load]
+keywords: [Load, Filter, Definition, Functions, Server-side, JavaScript, allow, manipulate, filters, via, ways]
 ---
-
-# Filter Definition Functions
 
 > The Filter Definition Server-side JavaScript functions allow you to manipulate data filters via server-side JavaScript in these ways:
 

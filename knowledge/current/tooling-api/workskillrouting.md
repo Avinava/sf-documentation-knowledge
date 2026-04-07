@@ -5,12 +5,10 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.494Z
+lastCollected: 2026-04-07T18:36:34.948Z
 estimatedTokens: 548
-keywords: [WorkSkillRouting, setup, stores, WorkSkillRoutingAttribute, objects, route, work, item, agent, skills, necessary, take, API, version, 46.0]
+keywords: [WorkSkillRouting, Limitations, setup, stores, WorkSkillRoutingAttribute, route, work, item, agent, skills, necessary, take, API, 46.0, SOAP, REST, HTTP]
 ---
-
-# WorkSkillRouting
 
 > Represents a setup object that stores a set of
         WorkSkillRoutingAttribute objects used to route a work item to an agent who has the skills

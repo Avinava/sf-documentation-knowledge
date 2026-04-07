@@ -5,12 +5,10 @@ topic: archive-the-primary-version-of-an-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.543Z
+lastCollected: 2026-04-07T18:37:53.833Z
 estimatedTokens: 263
-keywords: [Archive, Primary, Version, Article, Archives, actions, defined, change, resource, publishStatus, Archived, schedule, date, archiving, archiveScheduleDate]
+keywords: [Archive, Primary, Article, Archives, actions, defined, change, resource, publishStatus, Archived, schedule, date, archiving, archiveScheduleDate, <date>]
 ---
-
-# Archive the Primary Version of an Article
 
 > Archives the primary version of an article. The actions are defined by the field change
   you request on the resource. To archive the primary version, use "publishStatus":"Archived". To schedule a date for archiving, use "archiveScheduleDate" : <date>.

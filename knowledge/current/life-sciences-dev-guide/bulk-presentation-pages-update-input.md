@@ -5,12 +5,10 @@ topic: bulk-presentation-pages-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.501Z
+lastCollected: 2026-04-07T18:37:54.822Z
 estimatedTokens: 528
-keywords: [Bulk, Presentation, Pages, Input, representation]
+keywords: [Bulk, Presentation, Pages]
 ---
-
-# Bulk Presentation Pages Update Input
 
 > Input representation for a presentation page update.
 

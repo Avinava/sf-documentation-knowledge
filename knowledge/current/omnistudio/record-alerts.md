@@ -5,12 +5,10 @@ topic: record-alerts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.792Z
+lastCollected: 2026-04-07T18:36:43.532Z
 estimatedTokens: 485
 keywords: [Record, Alerts, system, continuously, monitors, activities, Salesforce, records, generate, perform, action, snooze, time, dismiss]
 ---
-
-# Record Alerts
 
 > The Record Alerts system continuously monitors activities on
             Salesforce object records. As alerts generate, you can perform an action to snooze the

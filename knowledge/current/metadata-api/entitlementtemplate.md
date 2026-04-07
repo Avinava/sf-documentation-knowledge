@@ -5,12 +5,10 @@ topic: entitlementtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.007Z
+lastCollected: 2026-04-07T18:36:25.491Z
 estimatedTokens: 615
-keywords: [EntitlementTemplate, entitlement, template, templates, predefined, terms, customer, support, quickly, add, products, Web, phone, users, easily]
+keywords: [EntitlementTemplate, entitlement, template, templates, predefined, terms, customer, support, quickly, add, products, Web, phone, users, easily, entitlements, offered, customers, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Manifest]
 ---
-
-# EntitlementTemplate
 
 > Represents an entitlement template.
             Entitlement templates are predefined terms of customer support that you can quickly add

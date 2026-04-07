@@ -5,12 +5,10 @@ topic: upsert-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.358Z
+lastCollected: 2026-04-07T18:36:20.587Z
 estimatedTokens: 740
-keywords: [Upsert, Records, sObject, Collections, PATCH, either, external, UpsertResult, objects, choose, whether, roll, back, entire, error]
+keywords: [Upsert, Records, sObject, Collections, PATCH, either, external, UpsertResult, choose, whether, roll, back, entire, error, occurs, API]
 ---
-
-# Upsert Records Using sObject Collections
 
 > Use a PATCH request with sObject Collections to either create or update (upsert) up to
       200 records based on an external ID field. This method returns a list of UpsertResult objects.

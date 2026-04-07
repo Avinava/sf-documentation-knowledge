@@ -5,12 +5,10 @@ topic: personalization-recommender-rule-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.658Z
+lastCollected: 2026-04-07T18:37:21.768Z
 estimatedTokens: 100
-keywords: [Personalization, Recommender, Rule, Group, rules, logical, operator]
+keywords: [Personalization, Recommender, Rule, Group, logical, operator]
 ---
-
-# Personalization Recommender Rule Group
 
 > Represents a group of rules with a logical operator.
 

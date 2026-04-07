@@ -5,12 +5,10 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.763Z
+lastCollected: 2026-04-07T18:39:12.285Z
 estimatedTokens: 3238
-keywords: [Asset, Standard, custom, extend, Consumer, Goods, Cloud, represent, item, commercial, product, sold, company, competitor, customer]
+keywords: [Asset, Standard, extend, Consumer, Goods, Cloud, represent, item, commercial, product, sold, company, competitor, customer, purchased, API, 55.0]
 ---
-
-# Asset
 
 > Standard and custom fields extend the standard Asset object in
          Consumer Goods Cloud to represent an item of commercial value, such as a product sold by

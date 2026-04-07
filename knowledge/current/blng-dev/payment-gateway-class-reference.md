@@ -5,12 +5,10 @@ topic: payment-gateway-class-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.438Z
+lastCollected: 2026-04-07T18:37:02.988Z
 estimatedTokens: 273
 keywords: [Payment, Gateway, Review, classes, working, gateways, Salesforce, Billing]
 ---
-
-# Payment Gateway Class Reference
 
 > Review the classes and methods available when working with payment gateways in
   Salesforce Billing.

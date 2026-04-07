@@ -5,12 +5,10 @@ topic: applicationreview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.597Z
+lastCollected: 2026-04-07T18:37:30.667Z
 estimatedTokens: 1035
-keywords: [ApplicationReview, review, performed, against, application, API, version, 57.0, later, Calls]
+keywords: [ApplicationReview, review, performed, against, application, API, 57.0]
 ---
-
-# ApplicationReview
 
 > Represents a review performed against the specified application. This
       object is available in API version 57.0 and later.

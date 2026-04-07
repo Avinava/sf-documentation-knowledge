@@ -5,13 +5,11 @@ topic: selectoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.507Z
+lastCollected: 2026-04-07T18:38:48.457Z
 estimatedTokens: 493
 namespace: System
-keywords: [SelectOption, possible, Visualforce, selectCheckboxes, selectList, selectRadio, component, Instantiation]
+keywords: [Instantiation, SelectOption, possible, Visualforce, selectCheckboxes, selectList, selectRadio]
 ---
-
-# SelectOption Class
 
 > A SelectOption object specifies one of the possible values for a Visualforce selectCheckboxes, selectList, or selectRadio component.
 

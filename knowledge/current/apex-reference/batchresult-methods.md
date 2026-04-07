@@ -5,12 +5,10 @@ topic: batchresult-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.067Z
+lastCollected: 2026-04-07T18:36:07.409Z
 estimatedTokens: 309
 keywords: [BatchResult, instance]
 ---
-
-# BatchResult Methods
 
 > These are instance methods for BatchResult.
 

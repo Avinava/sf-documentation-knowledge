@@ -5,12 +5,10 @@ topic: composite-api-subrequest-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.074Z
+lastCollected: 2026-04-07T18:38:30.873Z
 estimatedTokens: 1420
-keywords: [Composite, API, Subrequest, Event, events, contain, subrequests, generated, collated, five, four, two, graph, version, 64.0]
+keywords: [Composite, API, Subrequest, Event, events, contain, subrequests, generated, collated, five, four, two, graph, 64.0]
 ---
-
-# Composite API Subrequest Event Type
 
 > Composite API subrequest events contain details about composite API subrequests. 
  One composite API subrequest event is generated for each subrequest or collated set of subrequests. For example, if a composite API request contains five subrequests and four of the subrequests are collated, then two composite API subrequest events are generated. This example also applies to composite graph API. This event type is available in API version 64.0 and later.

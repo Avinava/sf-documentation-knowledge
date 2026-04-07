@@ -5,12 +5,10 @@ topic: using-rest-request-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.210Z
+lastCollected: 2026-04-07T18:40:26.520Z
 estimatedTokens: 368
-keywords: [REST, Salesforce, offers, product-specific, APIs, relationship, Platform, Mobile, SDK, resources, configure, send, requests, cases, RestRequest]
+keywords: [REST, Salesforce, offers, product-specific, APIs, relationship, Platform, Mobile, SDK, resources, configure, send, requests, cases, RestRequest, directly, instead, relying]
 ---
-
-# Using REST Request Methods
 
 > Salesforce offers some product-specific REST APIs that have no relationship to Salesforce
             Platform APIs. You can use Mobile SDK resources to configure and send

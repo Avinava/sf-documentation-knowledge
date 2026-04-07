@@ -5,12 +5,10 @@ topic: cgcloudsegmentationruletemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.528Z
+lastCollected: 2026-04-07T18:39:14.925Z
 estimatedTokens: 1046
-keywords: [cgcloud__Segmentation_Rule_Template__c, configures, behavior, associated, segmentation, rules, API, version, 54.0, later, cgcloud, _Segmentation, _Rule, _Template, Calls]
+keywords: [cgcloud__Segmentation_Rule_Template__c, configures, behavior, segmentation, API, 54.0, cgcloud, _Segmentation, _Rule, _Template]
 ---
-
-# cgcloud__Segmentation_Rule_Template__c
 
 > This object contains information that configures the behavior for the
          associated segmentation rules. This object is available in API version 54.0 and later.

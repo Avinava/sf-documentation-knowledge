@@ -5,12 +5,10 @@ topic: territoryacctprodmsgscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.028Z
+lastCollected: 2026-04-07T18:38:01.930Z
 estimatedTokens: 1370
-keywords: [TerritoryAcctProdMsgScore, Stores, intelligent, product, message, score, territory, accounts, identify, relevant, deliver, their, visits, API, version]
+keywords: [TerritoryAcctProdMsgScore, Stores, intelligent, product, message, score, territory, accounts, identify, relevant, deliver, their, visits, API, 65.0]
 ---
-
-# TerritoryAcctProdMsgScore
 
 > Stores the intelligent product message score on the territory accounts to
          identify the most relevant message to deliver in their visits. This object is available in

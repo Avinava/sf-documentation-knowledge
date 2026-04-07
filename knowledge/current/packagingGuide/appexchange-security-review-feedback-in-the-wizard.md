@@ -5,12 +5,10 @@ topic: appexchange-security-review-feedback-in-the-wizard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.591Z
+lastCollected: 2026-04-07T18:38:47.531Z
 estimatedTokens: 376
-keywords: [AppExchange, Security, Review, Feedback, Wizard, progresses, teams, regularly, questions, updates, they, something, share, post, detailed]
+keywords: [AppExchange, Security, Review, Feedback, Wizard, progresses, teams, regularly, questions, updates, they, something, share, post, detailed, depends, stage, submission, verification, testing, Whenever, there’s, status, change, send, email, contact, letting, know, new]
 ---
-
-# AppExchange Security Review Feedback in the Wizard
 
 > As your security review progresses, the review teams regularly have questions and
   updates. When they have something to share with you, the teams post detailed feedback to the

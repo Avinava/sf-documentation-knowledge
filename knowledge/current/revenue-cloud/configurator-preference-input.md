@@ -5,12 +5,10 @@ topic: configurator-preference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:58.113Z
+lastCollected: 2026-04-07T18:35:42.998Z
 estimatedTokens: 207
-keywords: [Configurator, Preference, Input, representation, configuration, place, sales, transaction]
+keywords: [Configurator, Preference, configuration, place, sales, transaction]
 ---
-
-# Configurator Preference Input
 
 > Input representation of the configuration preference for the place sales transaction
     request.

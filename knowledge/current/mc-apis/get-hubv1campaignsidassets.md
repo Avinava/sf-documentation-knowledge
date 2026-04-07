@@ -5,12 +5,10 @@ topic: get-hubv1campaignsidassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.971Z
+lastCollected: 2026-04-07T18:40:17.121Z
 estimatedTokens: 301
-keywords: [hub, campaigns, assets, Retrieves, collection, campaign, **Overview**, Usage]
+keywords: [hub, campaigns, assets, Retrieves, collection, campaign, **Overview**]
 ---
-
-# GET /hub/v1/campaigns/{id}/assets
 
 > Retrieves a collection of campaign assets.
 

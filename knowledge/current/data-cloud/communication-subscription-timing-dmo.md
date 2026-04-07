@@ -5,12 +5,10 @@ topic: communication-subscription-timing-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.863Z
+lastCollected: 2026-04-07T18:35:52.770Z
 estimatedTokens: 676
-keywords: [Communication, Subscription, Timing, DMO, Data, Cloud, model, customer's, preferences, receiving, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Communication, Subscription, Timing, DMO, Cloud, model, customer's, preferences, receiving, API, Primary, Subject, Area, Key]
 ---
-
-# Communication Subscription Timing DMO
 
 > The Communication Subscription Timing DMO is a Data Cloud data 
       model object (DMO) for a customer's timing preferences for receiving a communication 

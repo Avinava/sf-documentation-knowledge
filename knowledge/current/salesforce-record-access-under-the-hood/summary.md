@@ -5,12 +5,10 @@ topic: summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.114Z
+lastCollected: 2026-04-07T18:39:19.804Z
 estimatedTokens: 285
-keywords: [Summary, simple, examples, scenarios, document, provide, glimpse, complex, data, processing, calculations, occur, under, hood, Salesforce]
+keywords: [Summary, simple, examples, scenarios, document, provide, glimpse, complex, processing, calculations, occur, under, hood, Salesforce, support, robust, record, mechanisms, imagine, complexity, increases, exponentially, large, organizations]
 ---
-
-# Summary
 
 > The simple examples and scenarios in this document provide a glimpse
 into the complex data processing and calculations that occur under

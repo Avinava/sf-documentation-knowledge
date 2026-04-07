@@ -5,13 +5,11 @@ topic: fueltypesustnuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.903Z
+lastCollected: 2026-04-07T18:39:41.527Z
 estimatedTokens: 309
 namespace: NamespacePrefix
 keywords: [FuelTypeSustnUom, mapping, additional, fuel, their, corresponding, unit, measure, defined, customer]
 ---
-
-# FuelTypeSustnUom
 
 > Represents a mapping between the additional fuel types and their
          corresponding unit of measure values defined by a customer.

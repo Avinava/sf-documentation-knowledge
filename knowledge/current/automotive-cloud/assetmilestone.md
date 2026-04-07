@@ -5,12 +5,10 @@ topic: assetmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.072Z
+lastCollected: 2026-04-07T18:36:52.507Z
 estimatedTokens: 1409
-keywords: [AssetMilestone, key, events, lifecycle, vehicle, asset, manufacturing, registration, resale, API, version, 56.0, later, Calls, Associated]
+keywords: [AssetMilestone, key, events, lifecycle, vehicle, asset, manufacturing, registration, resale, API, 56.0]
 ---
-
-# AssetMilestone
 
 > Represents the key events in the lifecycle of a vehicle asset, such as
          manufacturing, registration, or resale. This object is available in API version 56.0

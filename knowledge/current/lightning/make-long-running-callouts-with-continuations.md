@@ -5,12 +5,10 @@ topic: make-long-running-callouts-with-continuations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.590Z
+lastCollected: 2026-04-07T18:38:02.509Z
 estimatedTokens: 795
-keywords: [Long-Running, Callouts, Continuations, Continuation, Apex, external, web, service, Process, callback, preferred, way, manage, because, they]
+keywords: [Long-Running, Callouts, Continuations, Continuation, Apex, external, web, service, Process, callback, preferred, way, manage, because, they, provide, substantial, improvements, user, experience]
 ---
-
-# Make Long-Running Callouts with Continuations
 
 > Use the Continuation class in Apex to make a
     long-running request to an external web service. Process the response in a callback method.

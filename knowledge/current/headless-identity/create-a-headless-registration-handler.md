@@ -5,12 +5,10 @@ topic: create-a-headless-registration-handler
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.349Z
+lastCollected: 2026-04-07T18:37:39.281Z
 estimatedTokens: 259
 keywords: [Headless, Registration, Handler, Apex, configure, Experience, Cloud, settings, Login]
 ---
-
-# Create a Headless Registration Handler
 
 > Create an Apex class for your registration handler. You reference this Apex class when
   you configure Experience Cloud settings on the Login & Registration page.

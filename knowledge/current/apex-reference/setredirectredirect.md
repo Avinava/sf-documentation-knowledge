@@ -5,12 +5,10 @@ topic: setredirectredirect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.938Z
+lastCollected: 2026-04-07T18:35:59.214Z
 estimatedTokens: 324
-keywords: [setRedirect, redirect, PageReference, object's, attribute, performed, client, side, Usage]
+keywords: [setRedirect, redirect, PageReference, object's, attribute, performed, client, side]
 ---
-
-# setRedirect(redirect)
 
 > Sets the value of the PageReference object's redirect attribute. If set to true, a redirect is performed through
 a client side redirect.

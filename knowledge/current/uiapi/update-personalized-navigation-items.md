@@ -5,12 +5,10 @@ topic: update-personalized-navigation-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.928Z
+lastCollected: 2026-04-07T18:40:10.907Z
 estimatedTokens: 284
 keywords: [Personalized, Navigation, Items, Updates, order, user’s, tabs, adds, item]
 ---
-
-# Update Personalized Navigation Items
 
 > Updates the order of a user’s personalized navigation items (tabs)
       and adds a navigation item to the list in the order specified.

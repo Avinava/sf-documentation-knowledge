@@ -5,12 +5,10 @@ topic: configuring-integration-dimension-meta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.199Z
+lastCollected: 2026-04-07T18:39:11.780Z
 estimatedTokens: 726
 keywords: [Configuring, Integration, Dimension, Meta, RTR, report, configuration, records, export, CSVs]
 ---
-
-# Configuring Integration Dimension Meta
 
 > Create RTR report configuration records to export CSVs.
 

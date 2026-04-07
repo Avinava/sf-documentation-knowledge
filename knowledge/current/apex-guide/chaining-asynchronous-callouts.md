@@ -5,12 +5,10 @@ topic: chaining-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.994Z
+lastCollected: 2026-04-07T18:36:17.218Z
 estimatedTokens: 439
-keywords: [Chaining, Asynchronous, Callouts, order, matters, callout, conditional, another, chain, requests, means, made, previous, warranty, extension]
+keywords: [Chaining, Asynchronous, Callouts, order, matters, callout, conditional, another, chain, requests, means, made, previous, warranty, extension, service, expired, three]
 ---
-
-# Chaining Asynchronous Callouts
 
 > If the order of the callouts matters, or when a callout is conditional on the response
       of another callout, you can chain callout requests. Chaining callouts means that the next

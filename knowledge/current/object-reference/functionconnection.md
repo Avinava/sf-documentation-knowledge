@@ -5,12 +5,10 @@ topic: functionconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.190Z
+lastCollected: 2026-04-07T18:38:33.282Z
 estimatedTokens: 514
-keywords: [FunctionConnection, connection, org, Salesforce, Functions, API, version, 52.0, later, Calls, Usage]
+keywords: [FunctionConnection, connection, org, Salesforce, Functions, API, 52.0]
 ---
-
-# FunctionConnection
 
 > Represents a connection between an org and Salesforce Functions. This
       object is available in API version 52.0 and later.

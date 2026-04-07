@@ -5,12 +5,10 @@ topic: personalization-recommender-number-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.881Z
+lastCollected: 2026-04-07T18:37:09.601Z
 estimatedTokens: 185
-keywords: [Personalization, Recommender, Number, Predicate, Input]
+keywords: [Personalization, Recommender, Number, Predicate]
 ---
-
-# Personalization Recommender Number Predicate Input
 
 > Represents a predicate based on a number.
 

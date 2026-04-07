@@ -5,12 +5,10 @@ topic: cart-input-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.953Z
+lastCollected: 2026-04-07T18:38:07.171Z
 estimatedTokens: 433
-keywords: [Cart, Input, Map, representation, summary, whose, eligible, promotions, fetched]
+keywords: [Cart, Map, summary, whose, eligible, promotions, fetched]
 ---
-
-# Cart Input Map
 
 > Input representation of the summary of the cart whose eligible promotions are to be
       fetched.

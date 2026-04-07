@@ -5,12 +5,10 @@ topic: rebate-management-object-in-channel-partner-inventory-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.401Z
+lastCollected: 2026-04-07T18:37:06.091Z
 estimatedTokens: 172
-keywords: [Rebate, Management, Channel, Partner, Inventory, Tracking, access, standard, objects, transactions, processed, program]
+keywords: [Rebate, Management, Channel, Partner, Inventory, standard, transactions, processed, program]
 ---
-
-# Rebate Management Object in Channel Partner Inventory Tracking
 
 > Rebate Management provides access to a standard objects that you
                   can use in Channel Partner Inventory Tracking for the transactions that need to be

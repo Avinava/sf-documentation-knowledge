@@ -5,12 +5,10 @@ topic: validate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.703Z
+lastCollected: 2026-04-07T18:40:23.119Z
 estimatedTokens: 130
 keywords: [Validate, **Overview**, **Syntax**]
 ---
-
-# Validate
 
 # Validate
 

@@ -5,12 +5,10 @@ topic: cookiename-value-path-maxage-issecure-samesite
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:56.246Z
+lastCollected: 2026-04-07T18:38:48.204Z
 estimatedTokens: 540
 keywords: [Cookie, path, maxAge, isSecure, SameSite, Creates, new, instance, age, settings, security, cross-domain, behavior]
 ---
-
-# Cookie(name, value, path, maxAge, isSecure, SameSite)
 
 > Creates a new instance of the Cookie class using
   the specified name, value, path, and age, and settings for security and cross-domain

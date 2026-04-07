@@ -5,12 +5,10 @@ topic: group-by-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.348Z
+lastCollected: 2026-04-07T18:37:00.918Z
 estimatedTokens: 94
 keywords: [Group, Date, result, SAQL, query, DateTime, DateOnly]
 ---
-
-# Group By Date
 
 > You can group the result of your SAQL query by DateTime and DateOnly fields.
 

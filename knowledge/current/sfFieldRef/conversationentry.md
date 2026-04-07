@@ -5,12 +5,10 @@ topic: conversationentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.396Z
+lastCollected: 2026-04-07T18:39:35.845Z
 estimatedTokens: 577
-keywords: [ConversationEntry, message, event, voice, call, standard, enhanced, messaging, session, API, version, 43.0, later]
+keywords: [ConversationEntry, message, event, voice, call, standard, enhanced, messaging, session, API, 43.0]
 ---
-
-# ConversationEntry
 
 > Represents a message or event in a voice call or a standard or
          enhanced messaging session. This object is available in API version 43.0 and

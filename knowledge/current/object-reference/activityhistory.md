@@ -5,12 +5,10 @@ topic: activityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:34.017Z
+lastCollected: 2026-04-07T18:38:24.971Z
 estimatedTokens: 4088
-keywords: [ActivityHistory, read-only, closed, activities—past, events, tasks—related, includes, activities, contacts, phone, calls, organization, uses, Salesforce, CRM]
+keywords: [ActivityHistory, read-only, closed, activities—past, events, tasks—related, includes, activities, contacts, phone, organization, uses, Salesforce, CRM, Call, Center]
 ---
-
-# ActivityHistory
 
 > This read-only object is displayed in a related list of closed
    activities—past events and closed tasks—related to an object. It includes

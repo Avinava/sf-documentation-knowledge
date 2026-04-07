@@ -5,12 +5,10 @@ topic: refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:04.647Z
+lastCollected: 2026-04-07T18:39:59.311Z
 estimatedTokens: 800
-keywords: [Refund, made, against, payment, API, version, 48.0, later]
+keywords: [Refund, made, against, payment, API, 48.0]
 ---
-
-# Refund
 
 > Represents a refund made against a payment. This object is available
 		in API version 48.0 and later.

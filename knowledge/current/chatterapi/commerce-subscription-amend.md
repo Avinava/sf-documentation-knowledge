@@ -5,12 +5,10 @@ topic: commerce-subscription-amend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.596Z
+lastCollected: 2026-04-07T18:37:17.670Z
 estimatedTokens: 201
-keywords: [Commerce, Subscription, Amend, Representation]
+keywords: [Commerce, Subscription, Amend]
 ---
-
-# Commerce Subscription Amend
 
 > Representation for the Commerce subscription amend request.
 

@@ -5,12 +5,10 @@ topic: product-clause-variable-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.174Z
+lastCollected: 2026-04-07T18:37:51.127Z
 estimatedTokens: 179
-keywords: [Product, Clause, Variable, Mapping, Input, representation, insurance]
+keywords: [Product, Clause, Variable, Mapping, insurance]
 ---
-
-# Product Clause Variable Mapping Input
 
 > Input representation for mapping an insurance clause variable to an insurance product variable.
 

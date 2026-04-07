@@ -5,12 +5,10 @@ topic: indexes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.222Z
+lastCollected: 2026-04-07T18:39:17.904Z
 estimatedTokens: 2056
-keywords: [Indexes, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
+keywords: [Indexes, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations, Index, Tables, Standard, Indexed, Two-Column]
 ---
-
-# Indexes
 
 > Where possible, we changed noninclusive terms to align with our company
         value of Equality. We maintained certain terms to avoid any effect on customer

@@ -5,12 +5,10 @@ topic: csrbaseitemformat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.974Z
+lastCollected: 2026-04-07T18:38:11.244Z
 estimatedTokens: 115
-keywords: [CSRBaseItemFormat, Omnistudio, Data, Mapper, transforms, getCartItem, gives, items, cart, Sample, Input, Output]
+keywords: [CSRBaseItemFormat, Omnistudio, Mapper, transforms, getCartItem, gives, items, cart, Sample]
 ---
-
-# CSRBaseItemFormat
 
 > This Omnistudio Data Mapper transforms the getCartItem
     response and gives the details of the items in the cart.

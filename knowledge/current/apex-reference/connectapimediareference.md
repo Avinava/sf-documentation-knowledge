@@ -5,12 +5,10 @@ topic: connectapimediareference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.803Z
+lastCollected: 2026-04-07T18:36:10.109Z
 estimatedTokens: 178
 keywords: [ConnectApi.MediaReference, media]
 ---
-
-# ConnectApi.MediaReference
 
 > A media reference.
 

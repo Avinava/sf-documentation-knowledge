@@ -5,12 +5,10 @@ topic: dynamic-visualforce-bindings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.897Z
+lastCollected: 2026-04-07T18:38:51.138Z
 estimatedTokens: 917
-keywords: [Dynamic, Visualforce, Bindings, way, writing, generic, pages, display, records, necessarily, knowing, show, words, determined, run]
+keywords: [Dynamic, Visualforce, Bindings, way, writing, generic, pages, display, records, necessarily, knowing, show, words, determined, run, time, rather, compile, developer, design, Defining, Relationships]
 ---
-
-# Dynamic Visualforce Bindings
 
 > Dynamic Visualforce
     bindings are a way of writing generic Visualforce pages that display information

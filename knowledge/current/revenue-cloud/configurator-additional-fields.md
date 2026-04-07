@@ -5,12 +5,10 @@ topic: configurator-additional-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.418Z
+lastCollected: 2026-04-07T18:35:45.386Z
 estimatedTokens: 107
-keywords: [Configurator, Additional, Output, representation, product, configuration]
+keywords: [Configurator, Additional, product, configuration]
 ---
-
-# Configurator Additional Fields
 
 > Output representation of the additional fields of a product configuration.
 

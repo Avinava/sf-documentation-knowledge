@@ -5,12 +5,10 @@ topic: assign-permission-set-to-existing-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.819Z
+lastCollected: 2026-04-07T18:38:09.112Z
 estimatedTokens: 340
-keywords: [Assign, Permission, Users, admins, install, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, their, org, new]
+keywords: [Assign, Permission, Users, admins, install, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, their, org, new, automatically, assigned, Scanning, manage, capabilities, permissions, work]
 ---
-
-# Assign Permission Set to Existing Users
 
 > After admins install the Loyalty Management Receipt Scanner Kit unlocked package in
   their org, new users are automatically assigned the Receipt Scanning permission set. The Receipt

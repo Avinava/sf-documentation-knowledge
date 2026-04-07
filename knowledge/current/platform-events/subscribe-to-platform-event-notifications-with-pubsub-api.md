@@ -5,12 +5,10 @@ topic: subscribe-to-platform-event-notifications-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.574Z
+lastCollected: 2026-04-07T18:38:58.450Z
 estimatedTokens: 1052
-keywords: [Subscribe, Platform, Event, Notifications, Pub, Sub, API, messages, external, client, integrate, systems, Simplify, development, publish]
+keywords: [Subscribe, Platform, Event, Notifications, Pub, Sub, API, messages, external, client, integrate, systems, Simplify, development, publish, retrieve, schema, gRPC, HTTP, efficient, delivery, binary, Apache, Avro, control, volume, received, per, call, processing, speed]
 ---
-
-# Subscribe to Platform Event Notifications with Pub/Sub API
 
 > Use Pub/Sub API to subscribe to event messages in an external client to integrate your
   systems. Simplify your development by using one API to publish, subscribe, and retrieve the event

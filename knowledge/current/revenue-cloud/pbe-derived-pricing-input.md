@@ -5,12 +5,10 @@ topic: pbe-derived-pricing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.533Z
+lastCollected: 2026-04-07T18:35:43.440Z
 estimatedTokens: 155
-keywords: [PBE, Derived, Pricing, Input, representation, source, product, Price, Book, Entry]
+keywords: [PBE, Derived, Pricing, source, product, Price, Book, Entry]
 ---
-
-# PBE Derived Pricing Input
 
 > Input representation of the request to get the source product for the Price Book Entry
     (PBE) derived pricing.

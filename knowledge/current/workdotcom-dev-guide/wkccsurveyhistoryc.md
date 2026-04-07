@@ -5,12 +5,10 @@ topic: wkccsurveyhistoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.081Z
+lastCollected: 2026-04-07T18:40:14.107Z
 estimatedTokens: 581
-keywords: [wkcc__SurveyHistory__c, historical, data, specific, sending, survey, includes, started, sent, schedule, force, any, status, operation, history]
+keywords: [wkcc__SurveyHistory__c, historical, specific, sending, survey, includes, started, sent, schedule, force, any, status, operation, audit, trail, monitoring, troubleshooting, issues, API, 49.0, wkcc, _SurveyHistory]
 ---
-
-# wkcc__SurveyHistory__c
 
 > Represents historical data from a specific sending of a survey. The
       data includes the name of the survey, when it started to be sent out, the schedule in force

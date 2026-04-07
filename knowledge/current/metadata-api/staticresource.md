@@ -5,12 +5,10 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.470Z
+lastCollected: 2026-04-07T18:36:29.891Z
 estimatedTokens: 781
-keywords: [StaticResource, resource, file, often, code, library, ZIP, resources, allow, upload, content, Visualforce, including, archives, jar]
+keywords: [StaticResource, resource, file, often, code, library, ZIP, resources, allow, upload, content, Visualforce, including, archives, jar, files, images, style, sheets, JavaScript, Salesforce, org, can’t, host, apps, websites, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# StaticResource
 
 > Represents a static resource file, often a code
             library in a ZIP file. Static resources allow you to upload content that you can

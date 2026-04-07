@@ -5,12 +5,10 @@ topic: pricing-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.808Z
+lastCollected: 2026-04-07T18:35:44.815Z
 estimatedTokens: 534
 keywords: [Pricing, Waterfall, persisted, price, stores, process, logs, insights, every, step, Advanced]
 ---
-
-# Pricing Waterfall (GET)
 
 > Get the persisted price waterfall that stores the process logs.
       Price waterfall provides insights into every step of the pricing process.

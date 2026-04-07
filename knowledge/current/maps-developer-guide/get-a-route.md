@@ -5,12 +5,10 @@ topic: get-a-route
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.715Z
+lastCollected: 2026-04-07T18:38:10.979Z
 estimatedTokens: 521
-keywords: [Route, getRoute, Apex, two, waypoints, mode, transportation, travel, time, depends, appears, Salesforce, Maps, users, requested]
+keywords: [Route, getRoute, Apex, two, waypoints, mode, transportation, travel, time, depends, appears, Salesforce, Maps, users, requested, delivery, truck, driver, admin, doesn’t, optimize, Instead, finds, entered, sequence, Sample, Code]
 ---
-
-# Get a Route
 
 > The getRoute() Apex method
       returns a route between two or more waypoints for the specified mode of transportation.

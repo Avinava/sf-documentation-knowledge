@@ -5,12 +5,10 @@ topic: run-the-web-app-locally
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.762Z
+lastCollected: 2026-04-07T18:38:57.569Z
 estimatedTokens: 782
-keywords: [Run, Web, App, Locally, step, you’ll, package, Maven, Jetty, process, downloads, components, needed, including]
+keywords: [Run, Web, App, Locally, step, you’ll, package, Maven, Jetty, process, downloads, needed, including]
 ---
-
-# Run the Web App Locally
 
 > In this step, you’ll package the Web app using Maven and then run it locally
                 using Jetty. When you package the Web app, the process downloads all the components

@@ -5,12 +5,10 @@ topic: custom-branding-for-trialforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.817Z
+lastCollected: 2026-04-07T18:38:47.765Z
 estimatedTokens: 458
-keywords: [Custom, Branding, Trialforce, optionally, branded, login, site, emails, applying, company’s, look, feel, customers, immersed, brand]
+keywords: [Branding, Trialforce, optionally, branded, login, site, emails, applying, company’s, look, feel, customers, immersed, brand, signup, log, Apply, non-CRM, solutions, Don’t, extend, Salesforce, CRM, require, standard, Leads, Opportunities, Cases]
 ---
-
-# Custom Branding for Trialforce
 
 > If you use Trialforce, you can optionally set up a branded login site and emails. By
   applying your company’s look and feel to a login site and emails, customers are immersed in your

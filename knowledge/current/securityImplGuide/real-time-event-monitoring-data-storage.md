@@ -5,12 +5,10 @@ topic: real-time-event-monitoring-data-storage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.904Z
+lastCollected: 2026-04-07T18:39:22.817Z
 estimatedTokens: 1754
-keywords: [Real-Time, Event, Monitoring, Data, Storage, store, query, Salesforce, objects, events, big, ideal, storing, large, volumes]
+keywords: [Real-Time, Event, Monitoring, Storage, store, query, Salesforce, events, big, ideal, storing, large, volumes, six, months, stores, natively, reporting, uses, Threat, Detection, standard, SOQL]
 ---
-
-# Real-Time Event Monitoring Data Storage
 
 > With Real-Time Event Monitoring, you can store and query event data in Salesforce
     objects. Many of the storage events are Salesforce big objects, which are ideal for storing

@@ -5,12 +5,10 @@ topic: action-links-overview-authentication-and-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:36.829Z
+lastCollected: 2026-04-07T18:37:23.879Z
 estimatedTokens: 3410
-keywords: [Action, Links, Authentication, Security, Connect, REST, API, labels, errors, Workflow, Link, Templates, Context, Variables, Versioning]
+keywords: [Workflow, Authentication, Security, Versioning, Errors, Action, Links, Connect, REST, API, labels, Link, Templates, Context, Variables, Localized]
 ---
-
-# Action Links Overview, Authentication, and Security
 
 > Learn about Connect REST API action links security, authentication, labels, and
     errors.

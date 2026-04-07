@@ -5,12 +5,10 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.206Z
+lastCollected: 2026-04-07T18:36:23.508Z
 estimatedTokens: 1648
-keywords: [ApexClass, Apex, template, blueprint, objects, created, Classes, consist, user-defined, variables, exception, initialization, code, Calls, Declarative]
+keywords: [ApexClass, PackageVersion, Apex, template, blueprint, created, Classes, consist, user-defined, variables, exception, initialization, code, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ApexClass
 
 > Represents an Apex class. An Apex class is a template or
 			blueprint from which Apex objects are created. Classes consist of other classes,

@@ -5,12 +5,10 @@ topic: occupation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.906Z
+lastCollected: 2026-04-07T18:39:07.058Z
 estimatedTokens: 1141
-keywords: [Occupation, group, positions, engage, specialized, line, work, require, connected, skills, knowledge, qualifications, Registered, Nurses, Healthcare]
+keywords: [Occupation, group, positions, engage, specialized, line, work, require, connected, skills, knowledge, qualifications, Registered, Nurses, Healthcare, API, 62.0]
 ---
-
-# Occupation
 
 > Represents a group of positions that engage in a specialized line of
          work and require a connected set of skills, knowledge, or qualifications. For example, the

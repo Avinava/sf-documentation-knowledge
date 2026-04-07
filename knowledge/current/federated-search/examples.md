@@ -5,12 +5,10 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.544Z
+lastCollected: 2026-04-07T18:40:14.560Z
 estimatedTokens: 197
 keywords: [Examples, provided, uses, search, blog, posts, medical, records, basic, understanding, OpenSearch, specification, Atom, Results, RSS]
 ---
-
-# Examples
 
 > The provided example uses a search for blog posts and medical records. A basic
     understanding of the OpenSearch specification is required.

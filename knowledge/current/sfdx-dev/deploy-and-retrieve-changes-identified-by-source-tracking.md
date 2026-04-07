@@ -5,12 +5,10 @@ topic: deploy-and-retrieve-changes-identified-by-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.623Z
+lastCollected: 2026-04-07T18:40:08.583Z
 estimatedTokens: 616
-keywords: [Deploy, Retrieve, Changes, Identified, Source, Tracking, Salesforce, app, typically, low-code, pro-code, techniques, creating, custom, directly]
+keywords: [Deploy, Retrieve, Changes, Identified, Source, Salesforce, app, typically, low-code, pro-code, techniques, creating, directly, org, Setup, Apex, local, project, IDE, Code, work, identifies, keep, remote, metadata, sync]
 ---
-
-# Deploy and Retrieve Changes Identified by Source Tracking
 
 > When you create a Salesforce app, you typically use both low-code and pro-code
     techniques. An example of low-code is creating a custom object directly in an org using Setup.

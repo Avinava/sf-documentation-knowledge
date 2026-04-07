@@ -5,12 +5,10 @@ topic: data-object-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.370Z
+lastCollected: 2026-04-07T18:39:19.057Z
 estimatedTokens: 92
-keywords: [Data, Category, Output, Cloud, node]
+keywords: [Category, Cloud, node]
 ---
-
-# Data Object Category
 
 > The data object category for an Output Data Cloud node.
 

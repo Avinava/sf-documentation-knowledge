@@ -5,12 +5,10 @@ topic: personpublicprofileprefset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.651Z
+lastCollected: 2026-04-07T18:37:31.799Z
 estimatedTokens: 731
-keywords: [PersonPublicProfilePrefSet, user’s, preferences, data, included, their, directory, entry, well, they, show, API, version, 59.0, later]
+keywords: [PersonPublicProfilePrefSet, user’s, preferences, included, their, directory, entry, well, they, show, API, 59.0]
 ---
-
-# PersonPublicProfilePrefSet
 
 > Represents the user’s preferences for which data is included in their
          directory entry, as well as if they show up at all. This object is available in API

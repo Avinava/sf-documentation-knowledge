@@ -5,12 +5,10 @@ topic: deployment-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:02.050Z
+lastCollected: 2026-04-07T18:35:47.066Z
 estimatedTokens: 383
 keywords: [Deployment, Considerations, any, scenario, understand, dependencies, prerequisites, planned, changes]
 ---
-
-# Deployment Considerations
 
 > In any deployment scenario, you must understand all dependencies and prerequisites
     related to your planned changes.

@@ -5,12 +5,10 @@ topic: edit-a-feed-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.129Z
+lastCollected: 2026-04-07T18:37:24.177Z
 estimatedTokens: 350
-keywords: [Edit, Feed, Post, Chatter]
+keywords: [Edit, Post, Chatter]
 ---
-
-# Edit a Feed Post
 
 > Edit a feed post in Chatter.
 

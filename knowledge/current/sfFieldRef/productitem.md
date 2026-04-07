@@ -5,12 +5,10 @@ topic: productitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.249Z
+lastCollected: 2026-04-07T18:39:55.825Z
 estimatedTokens: 465
 keywords: [ProductItem, stock, particular, product, location, service, bolts, stored, main, warehouse]
 ---
-
-# ProductItem
 
 > Represents the stock of a particular product at a particular location
 			in field service, such as all bolts stored in your main warehouse.

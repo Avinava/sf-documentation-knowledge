@@ -5,12 +5,10 @@ topic: model-field-label-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.907Z
+lastCollected: 2026-04-07T18:36:59.402Z
 estimatedTokens: 116
-keywords: [Model, Label, Metrics, includes, data]
+keywords: [Model, Label, Metrics, includes]
 ---
-
-# Model Field Label Metrics
 
 > Model field information that includes label, value and metrics data.
 

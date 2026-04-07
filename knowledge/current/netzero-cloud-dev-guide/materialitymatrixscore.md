@@ -5,12 +5,10 @@ topic: materialitymatrixscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.334Z
+lastCollected: 2026-04-07T18:38:18.981Z
 estimatedTokens: 826
-keywords: [MaterialityMatrixScore, materiality, matrix, score, visualize, data, gathered, assessment, intake, process, API, version, 59.0, later, Calls]
+keywords: [MaterialityMatrixScore, materiality, matrix, score, visualize, gathered, assessment, intake, process, API, 59.0]
 ---
-
-# MaterialityMatrixScore
 
 > Represents the materiality matrix score used to visualize all the
          data gathered through materiality assessment intake process. This object is available

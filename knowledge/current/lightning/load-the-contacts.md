@@ -5,13 +5,11 @@ topic: load-the-contacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.066Z
+lastCollected: 2026-04-07T18:38:04.176Z
 estimatedTokens: 1551
 namespace: ContactController
-keywords: [Load, Contacts, Apex, controller, bridge, connects, components, Salesforce, data]
+keywords: [Load, Contacts, Apex, controller, bridge, connects, Salesforce]
 ---
-
-# Load the Contacts
 
 > Create an Apex controller and load your contacts. An Apex controller is the bridge
         that connects your components and your Salesforce data.

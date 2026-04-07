@@ -5,12 +5,10 @@ topic: interest-tag-update-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.710Z
+lastCollected: 2026-04-07T18:39:02.945Z
 estimatedTokens: 116
-keywords: [Interest, Tag, Output, representation]
+keywords: [Interest, Tag]
 ---
-
-# Interest Tag Update Output
 
 > Output representation of Interest Tag update request.
 

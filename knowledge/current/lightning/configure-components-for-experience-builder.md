@@ -5,12 +5,10 @@ topic: configure-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.937Z
+lastCollected: 2026-04-07T18:38:02.862Z
 estimatedTokens: 1063
-keywords: [Configure, Components, Experience, Builder, custom, Aura, drag, Lightning, pane, Add, New, Component]
+keywords: [Configure, Experience, Builder, Aura, drag, Lightning, pane, Add, New]
 ---
-
-# Configure Components for Experience Builder
 
 > Make your custom Aura components available to drag to the Lightning Components pane in
     Experience Builder.

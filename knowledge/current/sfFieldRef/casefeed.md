@@ -5,12 +5,10 @@ topic: casefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.927Z
+lastCollected: 2026-04-07T18:39:33.340Z
 estimatedTokens: 355
-keywords: [CaseFeed, Feed, tracking, Case]
+keywords: [CaseFeed, Case]
 ---
-
-# CaseFeed
 
 > Feed tracking for Case.
 

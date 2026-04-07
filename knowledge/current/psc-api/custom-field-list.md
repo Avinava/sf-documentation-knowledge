@@ -5,12 +5,9 @@ topic: custom-field-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.211Z
+lastCollected: 2026-04-07T18:39:02.419Z
 estimatedTokens: 69
-keywords: [Custom, Output, representation]
 ---
-
-# Custom Field List
 
 > Output representation of the list of the custom
     fields.

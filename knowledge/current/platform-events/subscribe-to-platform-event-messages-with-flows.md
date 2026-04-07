@@ -5,12 +5,10 @@ topic: subscribe-to-platform-event-messages-with-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.558Z
+lastCollected: 2026-04-07T18:38:58.425Z
 estimatedTokens: 1139
-keywords: [Subscribe, Platform, Event, Messages, Flows, Launch, resume, running, instances, interviews, received, Subscribed, receive, published, Apex]
+keywords: [Subscribe, Platform, Event, Messages, Flows, Launch, resume, running, instances, interviews, received, Subscribed, receive, published, Apex, APIs, processes, provide, autosubscription, mechanism, Flow, Message, Considerations]
 ---
-
-# Subscribe to Platform Event Messages with Flows
 
 > Launch flows or resume running instances of flows, called
       interviews, when platform event messages are received. Subscribed flows and interviews can

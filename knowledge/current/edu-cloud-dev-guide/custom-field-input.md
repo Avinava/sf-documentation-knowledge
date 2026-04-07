@@ -5,12 +5,10 @@ topic: custom-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.002Z
+lastCollected: 2026-04-07T18:37:29.110Z
 estimatedTokens: 92
-keywords: [Custom, Input, representation, course, offering]
+keywords: [course, offering]
 ---
-
-# Custom Field Input
 
 > Input representation of custom fields for the course offering.
 

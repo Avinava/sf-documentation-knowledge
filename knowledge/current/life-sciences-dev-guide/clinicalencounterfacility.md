@@ -5,12 +5,10 @@ topic: clinicalencounterfacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.036Z
+lastCollected: 2026-04-07T18:37:56.475Z
 estimatedTokens: 1075
-keywords: [ClinicalEncounterFacility, different, facilities, involved, encounter, time, spent, facilies, relevant, child, ClinicalEncounter, API, version, 51.0, later]
+keywords: [ClinicalEncounterFacility, different, facilities, involved, encounter, time, spent, facilies, relevant, child, ClinicalEncounter, API, 51.0]
 ---
-
-# ClinicalEncounterFacility
 
 > Represents information about the different facilities involved in an encounter,
       the time spent at those facilies, and other relevant details. This is a child object of

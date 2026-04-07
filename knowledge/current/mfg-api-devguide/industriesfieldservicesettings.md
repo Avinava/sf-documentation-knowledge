@@ -5,12 +5,10 @@ topic: industriesfieldservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.753Z
+lastCollected: 2026-04-07T18:38:13.078Z
 estimatedTokens: 399
-keywords: [IndustriesFieldServiceSettings, settings, enabling, Manufacturing, cloud, features, Industries, Services, Product, Service, Campaign, Management, File, Suffix, Directory]
+keywords: [IndustriesFieldServiceSettings, settings, enabling, Manufacturing, cloud, features, Industries, Services, Product, Service, Campaign, Management, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesFieldServiceSettings
 
 > Represents the settings for enabling Manufacturing
 			cloud features like Industries Field Services and Product Service Campaign

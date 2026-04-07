@@ -5,12 +5,10 @@ topic: namespaces-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.940Z
+lastCollected: 2026-04-07T18:38:56.583Z
 estimatedTokens: 677
-keywords: [Namespaces, Second-Generation, Managed, Packages, 1–15, character, alphanumeric, identifier, distinguishes, package, contents, customer’s, org, assigned, 2GP]
+keywords: [Namespaces, Second-Generation, Managed, Packages, 1–15, character, alphanumeric, identifier, distinguishes, package, contents, customer’s, org, assigned, 2GP, time, it’s, created, can’t, changed]
 ---
-
-# Namespaces for Second-Generation Managed Packages
 
 > A namespace is a 1–15 character alphanumeric identifier that distinguishes your package
     and its contents from other packages in your customer’s org. A namespace is assigned to a

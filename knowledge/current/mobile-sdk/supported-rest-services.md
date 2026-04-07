@@ -5,12 +5,10 @@ topic: supported-rest-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.201Z
+lastCollected: 2026-04-07T18:40:26.515Z
 estimatedTokens: 621
-keywords: [REST, Services, Mobile, SDK, APIs, support, standard, operations, offered, Salesforce, Platform, SOAP, operation, factory, creates]
+keywords: [Notification, Notifications, REST, Services, Mobile, SDK, APIs, support, standard, operations, offered, Salesforce, Platform, SOAP, operation, factory, creates, specifically, send, Status]
 ---
-
-# Supported REST Services
 
 > Mobile SDK REST APIs
             support the standard object operations offered by Salesforce Platform REST and SOAP

@@ -5,12 +5,10 @@ topic: using-apex-triggers-to-send-push-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.899Z
+lastCollected: 2026-04-07T18:39:09.222Z
 estimatedTokens: 517
-keywords: [Apex, Triggers, Send, Push, Notifications, registering, mobile, vendor, notification, service, creating, external, client, app, Sample]
+keywords: [Apex, Triggers, Send, Push, Notifications, registering, mobile, vendor, notification, service, creating, external, client, app, Sample, Trigger, Android, Payload]
 ---
-
-# Using Apex Triggers to Send Push Notifications
 
 > After registering with the mobile OS vendor for push notification service and
         creating a external client app, you can send push notifications to a mobile client app using

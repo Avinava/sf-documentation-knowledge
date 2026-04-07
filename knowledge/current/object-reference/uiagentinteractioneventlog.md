@@ -5,12 +5,10 @@ topic: uiagentinteractioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.231Z
+lastCollected: 2026-04-07T18:38:42.931Z
 estimatedTokens: 1649
-keywords: [UiAgentInteractionEventLog, log, tracks, client, side, interactions, events, Agentforce, panel, limited, Salesforce, Lightning, Experience, Mobile, Conversation]
+keywords: [UiAgentInteractionEventLog, log, tracks, client, side, interactions, events, Agentforce, panel, limited, Salesforce, Lightning, Experience, Mobile, Conversation, Preview, Builder, API, 65.0]
 ---
-
-# UiAgentInteractionEventLog
 
 > This log tracks client side interactions and events with the Agentforce
          panel. It is limited to Salesforce Lightning Experience, Salesforce Mobile, and

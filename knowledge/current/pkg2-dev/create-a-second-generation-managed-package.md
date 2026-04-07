@@ -5,12 +5,10 @@ topic: create-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.790Z
+lastCollected: 2026-04-07T18:38:56.359Z
 estimatedTokens: 543
-keywords: [Second-Generation, Managed, Package, top-level, container, holds, app, associated, you’re, ready, test, share, Salesforce, CLI, command]
+keywords: [Second-Generation, Managed, Package, top-level, container, holds, app, you’re, ready, test, share, Salesforce, CLI, command, Metadata, Limits, Packages]
 ---
-
-# Create a Second-Generation Managed Package
 
 > A package is a top-level container that holds important details about the app or
         package: the package name, description, and associated namespace. When you’re ready to test

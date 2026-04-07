@@ -5,12 +5,10 @@ topic: connectapicreatesocialnamedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.066Z
+lastCollected: 2026-04-07T18:36:08.457Z
 estimatedTokens: 148
 keywords: [ConnectApi.CreateSocialNamedCredential, Result, creating, named, credential, social, external, channel]
 ---
-
-# ConnectApi.CreateSocialNamedCredential
 
 > Result of a creating a named credential for a social external channel.
 

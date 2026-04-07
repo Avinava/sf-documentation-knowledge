@@ -5,12 +5,10 @@ topic: install-packages-with-the-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.819Z
+lastCollected: 2026-04-07T18:40:08.782Z
 estimatedTokens: 1076
 keywords: [Install, Packages, CLI, you’re, working, Salesforce, package, command, scratch, org, target, subscriber, Control, Installation, Timeouts]
 ---
-
-# Install Packages with the CLI
 
 > If you’re working with the Salesforce CLI, you can use the sf package install command to install packages in a scratch org or target subscriber
   org.

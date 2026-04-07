@@ -5,12 +5,10 @@ topic: syntax-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:03.450Z
+lastCollected: 2026-04-07T18:36:49.572Z
 estimatedTokens: 1117
-keywords: [Lightning, Console, JavaScript, API, file, web, component, controller, Aura, LWC, Components, Guidelines]
+keywords: [Lightning, Console, JavaScript, API, file, web, controller, Aura, LWC, Guidelines]
 ---
-
-# Syntax Syntax
 
 > Use Lightning Console JavaScript API methods in the JavaScript file of a Lightning
         web component or in the JavaScript controller of an Aura component.

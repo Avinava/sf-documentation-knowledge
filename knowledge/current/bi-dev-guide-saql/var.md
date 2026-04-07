@@ -5,12 +5,10 @@ topic: var
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.967Z
+lastCollected: 2026-04-07T18:37:00.489Z
 estimatedTokens: 95
-keywords: [var, variance, Accepts, measure, input, expressions, Calculate, Deal, Amount]
+keywords: [var, variance, Accepts, measure, expressions, Calculate, Deal, Amount]
 ---
-
-# var()
 
 > Returns the variance of the values in a field. Accepts measure fields as input but
             not expressions.

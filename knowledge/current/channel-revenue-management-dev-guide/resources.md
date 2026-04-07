@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.977Z
+lastCollected: 2026-04-07T18:37:05.679Z
 estimatedTokens: 96
 keywords: [Resources, Here’s, Common, Business, API, Rebate, Management, Stock, Rotation]
 ---
-
-# Resources
 
 > Here’s a list of Common Business API resources.
 

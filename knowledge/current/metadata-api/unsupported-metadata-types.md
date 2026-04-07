@@ -5,12 +5,10 @@ topic: unsupported-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.949Z
+lastCollected: 2026-04-07T18:36:30.323Z
 estimatedTokens: 393
 keywords: [Unsupported, Metadata, Salesforce, features, aren’t, API, can’t, retrieved, deployed, changes, manually, organizations]
 ---
-
-# Unsupported Metadata Types
 
 > Some Salesforce features have metadata types that aren’t available in Metadata
     API. These metadata types can’t be retrieved or deployed with Metadata API. To make changes to

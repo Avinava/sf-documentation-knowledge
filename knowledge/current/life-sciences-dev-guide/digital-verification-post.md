@@ -5,12 +5,10 @@ topic: digital-verification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.115Z
+lastCollected: 2026-04-07T18:37:55.559Z
 estimatedTokens: 305
 keywords: [Digital, Verification, POST, Perform, records, advanced, therapy, management]
 ---
-
-# Digital Verification (POST)
 
 > Perform verification for the digital verification records within advanced therapy
     management.

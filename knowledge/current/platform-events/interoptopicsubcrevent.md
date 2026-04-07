@@ -5,12 +5,10 @@ topic: interoptopicsubcrevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.300Z
+lastCollected: 2026-04-07T18:38:59.185Z
 estimatedTokens: 449
-keywords: [InteropTopicSubcrEvent, structure, interoperability, topic, subscription, event, that's, sent, publisher, Mulesoft, API, version, 64.0, later, Calls]
+keywords: [InteropTopicSubcrEvent, structure, interoperability, topic, subscription, event, that's, sent, publisher, Mulesoft, API, 64.0]
 ---
-
-# InteropTopicSubcrEvent
 
 > Represents the structure of the interoperability topic subscription event
          that's sent from the publisher to Mulesoft. This object is available in API version

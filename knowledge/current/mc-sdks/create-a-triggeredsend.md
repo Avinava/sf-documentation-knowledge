@@ -5,12 +5,10 @@ topic: create-a-triggeredsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.336Z
+lastCollected: 2026-04-07T18:40:24.778Z
 estimatedTokens: 1422
-keywords: [TriggeredSend, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, TriggeredSend, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a TriggeredSend
 
 > Use the Post method to create a new triggeredsend within a Marketing Cloud account.
 

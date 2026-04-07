@@ -5,12 +5,10 @@ topic: filter-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.077Z
+lastCollected: 2026-04-07T18:37:10.767Z
 estimatedTokens: 965
-keywords: [Filter, Feed, Elements, context, user’s, news, whose, parent, key, prefix, groups, user, member]
+keywords: [Filter, context, user’s, news, whose, parent, key, prefix, groups, user, member]
 ---
-
-# Filter Feed Elements
 
 > Feed elements from the context user’s
 news feed whose parent has the specified key prefix, such as the feed

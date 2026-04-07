@@ -5,12 +5,10 @@ topic: connectapiinsurancememberratingrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.651Z
+lastCollected: 2026-04-07T18:37:50.533Z
 estimatedTokens: 127
-keywords: [Output, representation, rating, results, individual, members]
+keywords: [rating, results, individual, members]
 ---
-
-# ConnectApi.InsuranceMemberRatingRepresentation
 
 > Output representation of the rating results for individual members.
 

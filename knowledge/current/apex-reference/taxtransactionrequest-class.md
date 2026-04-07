@@ -5,13 +5,11 @@ topic: taxtransactionrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.196Z
+lastCollected: 2026-04-07T18:36:02.411Z
 estimatedTokens: 4073
 namespace: CommerceTax
-keywords: [TaxTransactionRequest, Abstract, storing, customer, tax, calculation, estimation, requests, Usage, addresses, currencyIsoCode, customerDetails, documentCode, referenceDocumentCode, transactionDate]
+keywords: [TaxTransactionRequest, Abstract, storing, customer, tax, calculation, estimation, requests, addresses, currencyIsoCode, customerDetails, documentCode, referenceDocumentCode, transactionDate, effectiveDate, lineItems, referenceEntityId, sellerDetails, customTaxAttributes, equals, obj, hashCode, toString]
 ---
-
-# TaxTransactionRequest Class
 
 > Abstract class for storing customer details used in tax calculation
       and estimation requests.

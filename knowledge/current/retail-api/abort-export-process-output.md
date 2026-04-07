@@ -5,12 +5,10 @@ topic: abort-export-process-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.713Z
+lastCollected: 2026-04-07T18:39:11.230Z
 estimatedTokens: 24
-keywords: [Abort, Export, Process, Output, API]
+keywords: [Abort, Export, Process, API]
 ---
-
-# Abort Export Process Output
 
 > Response body for Abort Export Process API.
 

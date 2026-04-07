@@ -5,12 +5,10 @@ topic: user-conversation-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.107Z
+lastCollected: 2026-04-07T18:37:16.158Z
 estimatedTokens: 254
 keywords: [User, Conversation, Status, Change]
 ---
-
-# User Conversation Status
 
 > Change the status of a conversation.
 

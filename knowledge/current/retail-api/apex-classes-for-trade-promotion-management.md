@@ -5,12 +5,10 @@ topic: apex-classes-for-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.385Z
+lastCollected: 2026-04-07T18:39:10.872Z
 estimatedTokens: 2169
 keywords: [Apex, Classes, Trade, Promotion, Management]
 ---
-
-# Apex Classes for Trade Promotion Management
 
 > This section lists the Apex classes related to Trade Promotion
         Management.

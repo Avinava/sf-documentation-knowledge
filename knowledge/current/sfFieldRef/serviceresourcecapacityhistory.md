@@ -5,12 +5,10 @@ topic: serviceresourcecapacityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.807Z
+lastCollected: 2026-04-07T18:40:01.572Z
 estimatedTokens: 298
-keywords: [ServiceResourceCapacityHistory, history, changes, made, tracked, service, resource, capacity, record, API, version, 38.0, later]
+keywords: [ServiceResourceCapacityHistory, changes, made, tracked, service, resource, capacity, record, API, 38.0]
 ---
-
-# ServiceResourceCapacityHistory
 
 > Represents the history of changes made to tracked fields on a service
    resource capacity record. This object is available in API version 38.0 and

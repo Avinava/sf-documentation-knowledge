@@ -5,12 +5,10 @@ topic: transactionparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.801Z
+lastCollected: 2026-04-07T18:37:03.368Z
 estimatedTokens: 4373
-keywords: [TransactionParameter, Acts, container, store, calculation-specific, setRequestingInvoiceId, requestingInvoiceId, getRequestingInvoiceId, setCardCodeResponse, cardCodeResponse, getCardCodeResponse, setCardNumber, requestingCreditCardNumber, getCardNumber, setPayment]
+keywords: [TransactionParameter, Acts, container, store, calculation-specific, setRequestingInvoiceId, requestingInvoiceId, getRequestingInvoiceId, setCardCodeResponse, cardCodeResponse, getCardCodeResponse, setCardNumber, requestingCreditCardNumber, getCardNumber, setPayment, paymentInstance, getPayment, getMerchantId, setMerchantId, getGatewayId, getResponseValueByKey, setGateway, gateway, setPaymentMethod, paymentMethod, getPaymentMethod, setInvoice, invoice, getInvoice, setInputParameter, inputParameter, getInputParameter, setInvoiceLine, line, getInvoiceLine, setTransaction, transactionInstance, getTransaction, setAccount, accountInstance, getAccount, setRequestBody, requestBody, getRequestBody, setFirstName, firstName, getFirstName, setLastName, lastName, getLastName, setEmailId, emailId, getEmailId, setStreet, street, getStreet, setCity, city, getCity, setState, state, getState, setZipCode, zipCode, getZipCode, setCountry, country, getCountry, setPhone, phone, getPhone, setCurrencyId, currencyId, getCurrencyId, setAmount, amount, getAmount]
 ---
-
-# TransactionParameter Class
 
 > Acts as a container to store calculation-specific
     information.

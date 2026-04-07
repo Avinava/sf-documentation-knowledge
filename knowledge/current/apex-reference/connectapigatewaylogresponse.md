@@ -5,12 +5,10 @@ topic: connectapigatewaylogresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.105Z
+lastCollected: 2026-04-07T18:36:09.488Z
 estimatedTokens: 136
-keywords: [ConnectApi.GatewayLogResponse, Gateway, log, output]
+keywords: [ConnectApi.GatewayLogResponse, Gateway, log]
 ---
-
-# ConnectApi.GatewayLogResponse
 
 > Gateway log output.
 

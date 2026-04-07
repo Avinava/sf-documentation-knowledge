@@ -5,12 +5,10 @@ topic: insurance-sales-transaction-item-related-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.434Z
+lastCollected: 2026-04-07T18:37:52.619Z
 estimatedTokens: 101
-keywords: [Insurance, Sales, Transaction, Item, Output, representation]
+keywords: [Insurance, Sales, Transaction, Item]
 ---
-
-# Insurance Sales Transaction Item Related Object
 
 > Output representation for the details of the Insurance Sales Transaction Item Related
     Object.

@@ -2,7 +2,7 @@
 domain: bi-dev-guide-cli-reference
 name: Salesforce Analytics Plugin CLI Command Reference
 documentCount: 29
-lastGenerated: 2026-04-07T09:06:35.651Z
+lastGenerated: 2026-04-07T18:40:41.106Z
 ---
 
 # Salesforce Analytics Plugin CLI Command Reference — Knowledge Index

@@ -5,12 +5,10 @@ topic: use-the-locationservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.439Z
+lastCollected: 2026-04-07T18:38:15.972Z
 estimatedTokens: 863
-keywords: [LocationService, API, develop, Lightning, web, component, location-based, features, determine, current, location, Add, Test, Availability, Change]
+keywords: [LocationService, API, develop, Lightning, web, location-based, features, determine, current, location, Add, Test, Availability, Change, Updates]
 ---
-
-# Use the LocationService API
 
 > To develop a Lightning web component with location-based features, use the
         LocationService API to determine the current location.

@@ -5,12 +5,10 @@ topic: canceldeploy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.974Z
+lastCollected: 2026-04-07T18:36:23.261Z
 estimatedTokens: 1244
-keywords: [cancelDeploy, Cancels, deployment, hasn’t, completed, yet, Usage, Version, Permissions, Arguments, Sample, Code—Java]
+keywords: [Permissions, Arguments, cancelDeploy, Cancels, deployment, hasn’t, completed, yet, Sample, Code—Java]
 ---
-
-# cancelDeploy()
 
 > Cancels a deployment that hasn’t completed yet.
 

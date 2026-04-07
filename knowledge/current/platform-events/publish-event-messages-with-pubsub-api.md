@@ -5,12 +5,10 @@ topic: publish-event-messages-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.466Z
+lastCollected: 2026-04-07T18:38:58.327Z
 estimatedTokens: 656
-keywords: [Publish, Event, Messages, Pub, Sub, API, platform, external, app, final, results, Simplify, development, subscribe, retrieve]
+keywords: [Publish, Event, Messages, Pub, Sub, API, platform, external, app, final, results, Simplify, development, subscribe, retrieve, schema, gRPC, HTTP, efficient, publishing, binary, Apache, Avro]
 ---
-
-# Publish Event Messages with Pub/Sub API
 
 > Use Pub/Sub API to publish platform event messages from an external app and get final
   publish results. Simplify your development by using one API to publish, subscribe, and retrieve

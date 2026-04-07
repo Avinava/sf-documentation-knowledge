@@ -5,12 +5,10 @@ topic: focustab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.590Z
+lastCollected: 2026-04-07T18:36:49.744Z
 estimatedTokens: 456
-keywords: [focusTab, Lightning, Experience, Focuses, workspace, tab, subtab, works, console, apps, Arguments, LWC, Sample, Code, Aura]
+keywords: [Arguments, focusTab, Lightning, Experience, Focuses, workspace, tab, subtab, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# focusTab() for Lightning Experience
 
 > Focuses a workspace tab or subtab. This method works only in Lightning console
         apps.

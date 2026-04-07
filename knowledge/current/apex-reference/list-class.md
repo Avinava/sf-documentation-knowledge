@@ -5,13 +5,11 @@ topic: list-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.880Z
+lastCollected: 2026-04-07T18:36:14.182Z
 estimatedTokens: 5210
 namespace: System
-keywords: [collection, Usage, List<T>, listToCopy, setToCopy, add, listElement, index, addAll, fromList, fromSet, clear, clone, deepClone, preserveId]
+keywords: [collection, List<T>, listToCopy, setToCopy, add, listElement, index, addAll, fromList, fromSet, clear, clone, deepClone, preserveId, preserveReadonlyTimestamps, preserveAutonumber, equals, list2, getSObjectType, hashCode, indexOf, isEmpty, iterator, remove, size, sort, toString]
 ---
-
-# List Class
 
 > Contains methods for the List collection type.
 

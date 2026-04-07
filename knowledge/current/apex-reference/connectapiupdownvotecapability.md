@@ -5,12 +5,10 @@ topic: connectapiupdownvotecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.819Z
+lastCollected: 2026-04-07T18:36:12.104Z
 estimatedTokens: 252
-keywords: [ConnectApi.UpDownVoteCapability, feed, post, comment, capability, users, upvote, downvote]
+keywords: [ConnectApi.UpDownVoteCapability, post, comment, capability, users, upvote, downvote]
 ---
-
-# ConnectApi.UpDownVoteCapability
 
 > If a feed post or comment has this capability, users can upvote or
       downvote it.

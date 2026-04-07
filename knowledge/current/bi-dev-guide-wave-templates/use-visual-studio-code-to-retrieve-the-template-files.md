@@ -5,12 +5,10 @@ topic: use-visual-studio-code-to-retrieve-the-template-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.862Z
+lastCollected: 2026-04-07T18:37:02.419Z
 estimatedTokens: 223
-keywords: [Visual, Studio, Code, Retrieve, Template, Files, Pull, metadata, scratch, org, local, workspace, Command, Palette, Source]
+keywords: [Visual, Studio, Code, Retrieve, Template, Files, Pull, metadata, scratch, org, local, workspace, Command, Palette, Source, view, edit]
 ---
-
-# Use Visual Studio Code to Retrieve the Template Files
 
 > Pull the template metadata from the scratch org to your local workspace using the
   Command Palette Pull Source from Default Scratch Org. Use VS Code to view

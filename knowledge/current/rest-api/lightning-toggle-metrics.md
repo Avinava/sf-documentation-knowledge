@@ -5,12 +5,10 @@ topic: lightning-toggle-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.524Z
+lastCollected: 2026-04-07T18:36:20.756Z
 estimatedTokens: 180
-keywords: [Lightning, Toggle, Metrics, users, switched, Salesforce, Classic, Experience, resource, REST, API, version, 44.0, later]
+keywords: [Lightning, Toggle, Metrics, users, switched, Salesforce, Classic, Experience, resource, REST, API, 44.0]
 ---
-
-# Lightning Toggle Metrics
 
 > Returns details about users who switched between
    Salesforce Classic and Lightning Experience. This resource is available in REST API version

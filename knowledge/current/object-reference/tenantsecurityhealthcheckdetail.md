@@ -5,12 +5,10 @@ topic: tenantsecurityhealthcheckdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.678Z
+lastCollected: 2026-04-07T18:38:42.423Z
 estimatedTokens: 1135
-keywords: [TenantSecurityHealthCheckDetail, Stores, Health, Check, scores, connected, tenant, detail, Security, Center, displays, settings, tenants, place, risks]
+keywords: [TenantSecurityHealthCheckDetail, Stores, Health, Check, scores, connected, tenant, detail, Security, Center, displays, settings, tenants, place, risks, per, selected, date, subscribers, API, 53.0]
 ---
-
-# TenantSecurityHealthCheckDetail
 
 > Stores the details of Health Check scores for a connected tenant. The
          Health Check detail page in Security Center displays scores and settings for all your

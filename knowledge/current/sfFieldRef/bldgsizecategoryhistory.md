@@ -5,12 +5,10 @@ topic: bldgsizecategoryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.792Z
+lastCollected: 2026-04-07T18:39:29.917Z
 estimatedTokens: 267
-keywords: [BldgSizeCategoryHistory, History, tracked, BldgSizeCategory]
+keywords: [BldgSizeCategoryHistory, tracked, BldgSizeCategory]
 ---
-
-# BldgSizeCategoryHistory
 
 > History for tracked fields of BldgSizeCategory.
 

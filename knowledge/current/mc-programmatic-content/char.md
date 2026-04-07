@@ -5,12 +5,10 @@ topic: char
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.278Z
+lastCollected: 2026-04-07T18:40:21.555Z
 estimatedTokens: 296
-keywords: [Char, Function, Ordinal, ASCII, character, code, numeric, Number, times, repeat, **Overview**, **Syntax**, Usage]
+keywords: [Char, Function, Ordinal, ASCII, character, code, numeric, Number, times, repeat, **Overview**, **Syntax**]
 ---
-
-# Char
 
 > Char(1, 2)
 

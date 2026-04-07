@@ -5,12 +5,10 @@ topic: develop-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.784Z
+lastCollected: 2026-04-07T18:40:08.745Z
 estimatedTokens: 828
-keywords: [Develop, Unlocked, Packages, package, top-level, container, holds, app, associated]
+keywords: [Develop, Unlocked, Packages, package, top-level, container, holds, app]
 ---
-
-# Develop Unlocked Packages
 
 > A package is a top-level container that holds important details about the app or
         package: the package name, description, and associated namespace.

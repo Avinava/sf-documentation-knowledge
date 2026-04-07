@@ -5,12 +5,10 @@ topic: add-mobile-accessibility-for-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.531Z
+lastCollected: 2026-04-07T18:40:09.477Z
 estimatedTokens: 809
 keywords: [Add, Mobile, Accessibility, Chat, Provide, accessible, Embedded, experience, website, customers, Base, Code, Snippet, onBodyLoaded]
 ---
-
-# Add Mobile Accessibility for Chat
 
 > Provide an accessible Embedded Chat experience on your website for mobile
         customers.

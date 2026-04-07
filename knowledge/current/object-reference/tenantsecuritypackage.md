@@ -5,12 +5,10 @@ topic: tenantsecuritypackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.786Z
+lastCollected: 2026-04-07T18:38:42.523Z
 estimatedTokens: 1242
-keywords: [TenantSecurityPackage, Stores, managed, unmanaged, packages, added, updated, removed, tenant, Security, Center, identify, whether, new, installed]
+keywords: [TenantSecurityPackage, Stores, managed, unmanaged, packages, added, updated, removed, tenant, Security, Center, identify, whether, new, installed, upgraded, uninstalled, connected, tenants, subscribers, API, 53.0]
 ---
-
-# TenantSecurityPackage
 
 > Stores details about managed and unmanaged packages that are added, updated, or
       removed from a tenant in Security Center. Use this object to identify whether new packages are

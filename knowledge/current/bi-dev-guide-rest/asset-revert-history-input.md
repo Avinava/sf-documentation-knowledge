@@ -5,12 +5,10 @@ topic: asset-revert-history-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.199Z
+lastCollected: 2026-04-07T18:36:54.561Z
 estimatedTokens: 248
-keywords: [Asset, Revert, History, Input, Analytics]
+keywords: [Asset, Revert, Analytics]
 ---
-
-# Asset Revert History Input
 
 > The Analytics asset history to use for a revert request.
 

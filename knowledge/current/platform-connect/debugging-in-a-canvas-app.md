@@ -5,12 +5,10 @@ topic: debugging-in-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.570Z
+lastCollected: 2026-04-07T18:38:57.366Z
 estimatedTokens: 97
 keywords: [Debugging, Canvas, App, Chrome, Firefox, Safari, follow, steps]
 ---
-
-# Debugging in a Canvas App
 
 > You must use Chrome, Firefox, or Safari to follow these
 steps.

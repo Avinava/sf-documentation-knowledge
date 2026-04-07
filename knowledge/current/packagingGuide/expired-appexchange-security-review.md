@@ -5,12 +5,10 @@ topic: expired-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.581Z
+lastCollected: 2026-04-07T18:38:47.522Z
 estimatedTokens: 291
-keywords: [Expired, AppExchange, Security, Review, expires, reviewed, solution, longer, meets, criteria, distribution, that’s, linked, listing, remove]
+keywords: [Expired, AppExchange, Security, Review, expires, reviewed, solution, longer, meets, criteria, distribution, that’s, linked, listing, remove, relist]
 ---
-
-# Expired AppExchange Security Review
 
 > A security review expires when the reviewed solution no longer meets the criteria for
   distribution on AppExchange. If the expired review is for a solution that’s linked to a public

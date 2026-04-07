@@ -5,12 +5,10 @@ topic: files-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.058Z
+lastCollected: 2026-04-07T18:37:10.749Z
 estimatedTokens: 1219
-keywords: [Files, Feed, Items, posted, people, groups, context, user, follows, Flat]
+keywords: [Files, Items, posted, people, groups, context, user, follows, Flat]
 ---
-
-# Files Feed Items
 
 > Get feed items posted with files by people or groups that the
       context user follows.

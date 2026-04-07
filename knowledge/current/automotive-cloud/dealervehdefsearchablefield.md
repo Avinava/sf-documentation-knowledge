@@ -5,12 +5,10 @@ topic: dealervehdefsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:06.281Z
+lastCollected: 2026-04-07T18:36:52.704Z
 estimatedTokens: 1693
-keywords: [DealerVehDefSearchableField, dealerships, selling, servicing, vehicles, location-based, searches, Helps, customers, nearby, dealer, locations, vehicle-related, purchases, services]
+keywords: [DealerVehDefSearchableField, dealerships, selling, servicing, vehicles, location-based, searches, Helps, customers, nearby, dealer, locations, vehicle-related, purchases, services, API, 65.0]
 ---
-
-# DealerVehDefSearchableField
 
 > Represents information about dealerships selling and, or, servicing vehicles
          for location-based searches. Helps customers find nearby dealer locations for

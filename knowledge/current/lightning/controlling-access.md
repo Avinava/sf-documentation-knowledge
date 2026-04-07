@@ -5,12 +5,10 @@ topic: controlling-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.507Z
+lastCollected: 2026-04-07T18:38:02.432Z
 estimatedTokens: 1760
-keywords: [Controlling, Access, framework, control, applications, attributes, components, events, interfaces, via, system, attribute, whether, resource, outside]
+keywords: [Controlling, framework, control, applications, attributes, events, interfaces, via, system, attribute, whether, resource, outside, own, Violations, Anatomy, Check, Error, Message, Fixing, Errors, visible, Cannot]
 ---
-
-# Controlling Access
 
 > The framework enables you to control access to your applications, attributes,
     components, events, interfaces, and methods via the access

@@ -5,12 +5,10 @@ topic: common-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.000Z
+lastCollected: 2026-04-07T18:37:05.699Z
 estimatedTokens: 272
-keywords: [Common, Platform, Event, Batch, Management, jobs, Data, Processing, Engine, definitions, run, invocable, actions, Flows, BatchJobStatusChanged]
+keywords: [Common, Platform, Event, Batch, Management, jobs, Processing, Engine, definitions, run, invocable, actions, Flows, BatchJobStatusChanged, notify, subscribers, job, definition, processed, flow]
 ---
-
-# Common Platform Event
 
 > Batch Management jobs and Data Processing Engine definitions are run using invocable
    actions in Flows. Use the BatchJobStatusChanged event to notify subscribers after a Batch

@@ -5,12 +5,10 @@ topic: content-link-data-sync-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.124Z
+lastCollected: 2026-04-07T18:37:25.075Z
 estimatedTokens: 165
-keywords: [Content, Link, Data, Sync, Detail, Output, representation, requested, IDs]
+keywords: [Content, Link, Sync, Detail, requested, IDs]
 ---
-
-# Content Link Data Sync Detail
 
 > Output representation that contains content link details for the requested
     IDs.

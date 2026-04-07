@@ -5,12 +5,10 @@ topic: system-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.886Z
+lastCollected: 2026-04-07T18:37:57.429Z
 estimatedTokens: 623
-keywords: [System, Objects, core, functionality, Life, Sciences, Cloud, Commercial, Engagement, Integration, Job, Run, Trigger, Handlers, User]
+keywords: [System, core, functionality, Life, Sciences, Cloud, Commercial, Engagement, Integration, Job, Run, Trigger, Handlers, User, Device, Management]
 ---
-
-# System Objects
 
 > System objects are related to core system functionality used by Life Sciences Cloud for
   Commercial Engagement.

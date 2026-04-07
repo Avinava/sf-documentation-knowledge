@@ -5,13 +5,11 @@ topic: authorizationreversalresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.564Z
+lastCollected: 2026-04-07T18:36:01.796Z
 estimatedTokens: 2374
 namespace: CommercePayments
-keywords: [AuthorizationReversalResponse, sent, payment, gateway, authorization, reversal, service, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage]
+keywords: [AuthorizationReversalResponse, sent, payment, gateway, authorization, reversal, service, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setSalesforceResultCodeInfo, salesforceResultCodeInfo]
 ---
-
-# AuthorizationReversalResponse Class
 
 > Response sent by the payment gateway following a payment authorization
       reversal service.

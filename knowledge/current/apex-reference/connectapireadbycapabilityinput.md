@@ -5,12 +5,10 @@ topic: connectapireadbycapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.888Z
+lastCollected: 2026-04-07T18:36:06.235Z
 estimatedTokens: 256
-keywords: [ConnectApi.ReadByCapabilityInput, Mark, feed, elements, context, user]
+keywords: [ConnectApi.ReadByCapabilityInput, Mark, context, user]
 ---
-
-# ConnectApi.ReadByCapabilityInput
 
 > Mark feed elements as read by the
       context user.

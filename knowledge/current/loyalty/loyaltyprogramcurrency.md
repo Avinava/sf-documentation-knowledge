@@ -5,12 +5,10 @@ topic: loyaltyprogramcurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.061Z
+lastCollected: 2026-04-07T18:38:10.327Z
 estimatedTokens: 1226
-keywords: [LoyaltyProgramCurrency, qualifying, non-qualifying, currencies, associated, program, currency, engagement, member, it’s, tier, group, represent, points, earns]
+keywords: [LoyaltyProgramCurrency, qualifying, non-qualifying, currencies, program, currency, engagement, member, it’s, tier, group, represent, points, earns, redemption, API, 51.0]
 ---
-
-# LoyaltyProgramCurrency
 
 > Represents qualifying and non-qualifying currencies associated with the
       program. Qualifying currency represents the engagement of a member with the program and it’s

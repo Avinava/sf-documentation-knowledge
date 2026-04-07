@@ -5,12 +5,10 @@ topic: insurance-create-underwriting-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.241Z
+lastCollected: 2026-04-07T18:37:52.395Z
 estimatedTokens: 203
-keywords: [Insurance, Underwriting, Rules, Output, representation]
+keywords: [Insurance, Underwriting]
 ---
-
-# Insurance Create Underwriting Rules
 
 > Output representation details of insurance create underwriting rules request.
 

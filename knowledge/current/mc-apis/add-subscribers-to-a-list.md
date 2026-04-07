@@ -5,12 +5,10 @@ topic: add-subscribers-to-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.107Z
+lastCollected: 2026-04-07T18:40:15.129Z
 estimatedTokens: 2154
-keywords: [Add, Subscribers, adding, subscriber, publication, suppression, via, SOAP, API, document, Why, How, Sample, NET, Code]
+keywords: [Add, Subscribers, adding, subscriber, publication, suppression, via, SOAP, API, document, Why, How, Sample, NET, Code, Java, Axis2, PHP, Envelope, Items]
 ---
-
-# Add Subscribers to a List
 
 > This page contains information on adding subscribers to a subscriber, publication, or suppression list via the SOAP API. You can add subscribers to an existing list using the the information in this document.
 

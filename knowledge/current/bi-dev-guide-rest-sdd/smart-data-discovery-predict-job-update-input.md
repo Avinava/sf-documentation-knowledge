@@ -5,12 +5,10 @@ topic: smart-data-discovery-predict-job-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.292Z
+lastCollected: 2026-04-07T18:36:58.790Z
 estimatedTokens: 103
-keywords: [Smart, Data, Discovery, Predict, Job, Input, Einstein]
+keywords: [Smart, Discovery, Predict, Job, Einstein]
 ---
-
-# Smart Data Discovery Predict Job Update Input
 
 > The input to update a predict job for Einstein Discovery.
 

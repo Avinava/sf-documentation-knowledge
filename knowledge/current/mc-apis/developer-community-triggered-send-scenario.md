@@ -5,12 +5,10 @@ topic: developer-community-triggered-send-scenario
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.549Z
+lastCollected: 2026-04-07T18:40:16.692Z
 estimatedTokens: 2107
-keywords: [Developer, Community, Triggered, Send, Scenario, Jen, develops, software, Northern, Trail, Outfitters, latest, project, involves, working]
+keywords: [Scenario, Developer, Community, Triggered, Send, Jen, develops, software, Northern, Trail, Outfitters, latest, project, involves, working, team, develop, new, ecommerce, site, tasks, include, integrating, account, message, Understanding, Model, Creating, Starting, Definition, Handling, Errors, Exceptions, Retrieving, Scaling, Implementation, Email, Messages, Asynchronous, API, AMPscript, Items]
 ---
-
-# Developer Community Triggered Send Scenario
 
 > Jen develops software for Northern Trail Outfitters, and her latest project involves working with her team to develop a new ecommerce site. Her tasks include integrating the ecommerce site with the Northern Trail Outfitters account to send the following types of message:
 

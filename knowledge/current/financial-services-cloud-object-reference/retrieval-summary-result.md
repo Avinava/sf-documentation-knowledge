@@ -5,12 +5,10 @@ topic: retrieval-summary-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.633Z
+lastCollected: 2026-04-07T18:37:35.258Z
 estimatedTokens: 103
-keywords: [Retrieval, Summary, Result, Output, representation, definition, call]
+keywords: [Retrieval, Summary, Result, definition, call]
 ---
-
-# Retrieval Summary Result
 
 > Output representation of a retrieval summary definition call.
 

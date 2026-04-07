@@ -5,12 +5,10 @@ topic: salesforcecontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.737Z
+lastCollected: 2026-04-07T18:38:40.322Z
 estimatedTokens: 1453
-keywords: [SalesforceContract, Read-only, virtual, Account, App, contract, organization’s, Salesforce, subscription, Calls, Usage, Associated, Objects]
+keywords: [SalesforceContract, Read-only, virtual, Account, App, contract, organization’s, Salesforce, subscription]
 ---
-
-# SalesforceContract
 
 > Read-only virtual object used in the Your Account App.  Represents
       contract information related to your organization’s Salesforce subscription.

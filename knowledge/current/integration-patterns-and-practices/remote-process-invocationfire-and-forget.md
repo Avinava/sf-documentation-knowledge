@@ -6,13 +6,10 @@ topic: remote-process-invocationfire-and-forget
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.326Z
+lastCollected: 2026-04-07T18:37:53.627Z
 estimatedTokens: 7795
-keywords: [Remote, Process, Invocation—Fire, Forget, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, However]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Remote, Process, Invocation—Fire, Forget, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, However, isn’t, system, holds, processes, orders, captured, created]
 ---
-
-# Remote Process Invocation—Fire
-and Forget
 
 > You use Salesforce to track leads, manage your pipeline, create opportunities, and capture
     order details that convert leads to customers. However, Salesforce isn’t the system that

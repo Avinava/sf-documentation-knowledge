@@ -5,12 +5,10 @@ topic: set-up-authentication-for-developer-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.877Z
+lastCollected: 2026-04-07T18:36:51.180Z
 estimatedTokens: 265
-keywords: [Authentication, Developer, Testing, authorization, simple, recommended, code, quickly, However, recommend, OAuth, 2.0, production, environment, robust]
+keywords: [Authentication, Developer, Testing, authorization, simple, recommended, code, quickly, However, recommend, OAuth, 2.0, production, environment, robust, security, connected, app]
 ---
-
-# Set Up Authentication for Developer Testing
 
 > This
                 authorization method is simple to use and recommended for testing your code quickly.

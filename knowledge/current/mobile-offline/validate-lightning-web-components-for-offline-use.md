@@ -5,12 +5,10 @@ topic: validate-lightning-web-components-for-offline-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.767Z
+lastCollected: 2026-04-07T18:38:15.252Z
 estimatedTokens: 547
-keywords: [Validate, Lightning, Web, Components, Offline, Komaci, Analyzer, short, component, development, helps, ensure, code, dependencies, data]
+keywords: [Validate, Lightning, Web, Offline, Komaci, Analyzer, short, development, helps, ensure, code, dependencies, depends, primed, network, connection, making, limited, connectivity]
 ---
-
-# Validate Lightning Web Components for Offline Use
 
 > Use the Komaci Static Analyzer (or static analyzer for short) during component
   development to validate your Lightning web components for offline use. Using the static analyzer

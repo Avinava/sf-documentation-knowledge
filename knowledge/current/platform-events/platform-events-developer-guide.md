@@ -5,12 +5,10 @@ topic: platform-events-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.191Z
+lastCollected: 2026-04-07T18:38:58.000Z
 estimatedTokens: 948
-keywords: [Platform, Events, Developer, connect, business, processes, Salesforce, external, apps, exchange, real-time, event, data, secure, scalable]
+keywords: [Platform, Events, Developer, connect, business, processes, Salesforce, external, apps, exchange, real-time, event, secure, scalable, messages, contain, Publishers, publish, subscribers, receive, real, time, customize, published, define]
 ---
-
-# Platform Events Developer Guide
 
 > Use platform events to connect business processes in Salesforce and
       external apps through the exchange of real-time event data. Platform events are secure and

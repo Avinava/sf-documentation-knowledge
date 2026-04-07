@@ -5,12 +5,10 @@ topic: crbnemssnscopeallocval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.564Z
+lastCollected: 2026-04-07T18:38:18.070Z
 estimatedTokens: 994
-keywords: [CrbnEmssnScopeAllocVal, scope, allocation, fuel, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [CrbnEmssnScopeAllocVal, scope, allocation, fuel, API, 54.0]
 ---
-
-# CrbnEmssnScopeAllocVal
 
 > Represents the scope allocation by fuel type. This object is
       available in API version 54.0 and later.

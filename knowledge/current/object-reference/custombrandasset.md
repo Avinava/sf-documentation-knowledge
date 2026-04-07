@@ -5,12 +5,10 @@ topic: custombrandasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.377Z
+lastCollected: 2026-04-07T18:38:29.267Z
 estimatedTokens: 1584
-keywords: [CustomBrandAsset, branding, element, custom, scheme, color, logo, image, footer, text, apply, Experience, Cloud, site, org]
+keywords: [CustomBrandAsset, branding, scheme, color, logo, image, footer, text, apply, Experience, Cloud, site, org, Salesforce, mobile, app, API, 28.0]
 ---
-
-# CustomBrandAsset
 
 > Represents a branding element in a custom branding scheme. For
       example, a color, logo image, header image, or footer text. A CustomBrandAsset can apply

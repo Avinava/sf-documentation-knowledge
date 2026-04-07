@@ -5,12 +5,10 @@ topic: activity-summary-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.233Z
+lastCollected: 2026-04-07T18:38:47.204Z
 estimatedTokens: 481
-keywords: [Activity, Summary, AppExchange, Marketplace, Analytics, Check, listing’s, key, metrics, area, tab, helps, understand, how, customers]
+keywords: [Activity, Summary, AppExchange, Marketplace, Analytics, Check, listing’s, key, metrics, area, tab, helps, understand, how, customers, engage, listings, Track, sources, lead, events, top, searches, customer, engagements, chat, what's, working, Monitor, promotions, Co-Marketing, Performance, timeline, evaluate, tile, views, hovers, visitors, installs, Trend, indicators, show, metric, compared, previous, time, period, past, days, choose, another, fixed, define, date, range]
 ---
-
-# Activity Summary in AppExchange Marketplace Analytics
 
 > Check your listing’s key metrics in the activity summary area in AppExchange Marketplace
   Analytics. The Analytics

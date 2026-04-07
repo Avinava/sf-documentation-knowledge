@@ -5,12 +5,10 @@ topic: decision-matrix-row-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.283Z
+lastCollected: 2026-04-07T18:39:02.494Z
 estimatedTokens: 114
-keywords: [Decision, Matrix, Row, Output, Representation, version]
+keywords: [Decision, Matrix, Row]
 ---
-
-# Decision Matrix Row Output
 
 > Representation of the details of a row in a decision matrix
       version.

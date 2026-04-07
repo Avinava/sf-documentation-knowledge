@@ -5,13 +5,11 @@ topic: describelayoutcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.611Z
+lastCollected: 2026-04-07T18:36:02.818Z
 estimatedTokens: 675
 namespace: QuickAction
 keywords: [DescribeLayoutComponent, smallest, unit, layout—a, separator, getDisplayLines, getTabOrder, getType, getValue]
 ---
-
-# DescribeLayoutComponent Class
 
 > Represents the smallest unit in a layout—a field
 or a separator.

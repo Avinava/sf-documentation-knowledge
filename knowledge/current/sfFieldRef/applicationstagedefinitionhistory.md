@@ -5,12 +5,10 @@ topic: applicationstagedefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.630Z
+lastCollected: 2026-04-07T18:39:26.572Z
 estimatedTokens: 278
-keywords: [ApplicationStageDefinitionHistory, History, tracked, ApplicationStageDefinition]
+keywords: [ApplicationStageDefinitionHistory, tracked, ApplicationStageDefinition]
 ---
-
-# ApplicationStageDefinitionHistory
 
 > History for tracked fields of ApplicationStageDefinition.
 

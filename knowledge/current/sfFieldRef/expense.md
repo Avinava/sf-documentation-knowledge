@@ -5,12 +5,10 @@ topic: expense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.274Z
+lastCollected: 2026-04-07T18:39:39.891Z
 estimatedTokens: 545
-keywords: [Expense, linked, work, order, Service, resource, technicians, log, expenses, tools, travel, costs, API, version, 49.0]
+keywords: [Expense, linked, work, order, Service, resource, technicians, log, expenses, tools, travel, costs, API, 49.0]
 ---
-
-# Expense
 
 > Represents an expense linked to a work order. Service resource technicians can
       log expenses, such as tools or travel costs. This object is available in API version 49.0

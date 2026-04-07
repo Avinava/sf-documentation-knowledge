@@ -5,12 +5,10 @@ topic: fundingopportunityshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.476Z
+lastCollected: 2026-04-07T18:39:42.126Z
 estimatedTokens: 252
 keywords: [FundingOpportunityShare, Sharing, FundingOpportunity]
 ---
-
-# FundingOpportunityShare
 
 > Sharing for FundingOpportunity.
 

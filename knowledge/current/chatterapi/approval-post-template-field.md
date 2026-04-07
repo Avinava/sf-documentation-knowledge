@@ -5,12 +5,10 @@ topic: approval-post-template-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.677Z
+lastCollected: 2026-04-07T18:37:16.748Z
 estimatedTokens: 173
 keywords: [Approval, Post, Template]
 ---
-
-# Approval Post Template Field
 
 > Description of an approval post template field.
 

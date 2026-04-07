@@ -5,12 +5,10 @@ topic: connectapivotepage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.961Z
+lastCollected: 2026-04-07T18:36:12.246Z
 estimatedTokens: 388
-keywords: [ConnectApi.VotePage, upvotes, downvotes, feed, element, comment]
+keywords: [ConnectApi.VotePage, upvotes, downvotes, comment]
 ---
-
-# ConnectApi.VotePage
 
 > A page of upvotes or downvotes on a feed element or
     comment.

@@ -5,12 +5,10 @@ topic: aimodellanguage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.233Z
+lastCollected: 2026-04-07T18:38:25.178Z
 estimatedTokens: 432
-keywords: [AiModelLanguage, stores, language, generated, model, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [AiModelLanguage, stores, language, generated, model, API, 55.0]
 ---
-
-# AiModelLanguage
 
 > An object that stores language related information that is generated for each
          AI model.  This object is available in API version 55.0 and later.

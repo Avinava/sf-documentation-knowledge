@@ -5,12 +5,10 @@ topic: actionable-list-members-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.787Z
+lastCollected: 2026-04-07T18:36:38.442Z
 estimatedTokens: 270
 keywords: [Actionable, Members, Assignments, priority, OmniScript, key, assignee, Member]
 ---
-
-# Actionable List Members Assignments
 
 > Update the priority and OmniScript key in the Actionable List object and update the
     assignee in the Actionable List Member object.

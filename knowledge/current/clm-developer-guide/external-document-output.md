@@ -5,12 +5,10 @@ topic: external-document-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.295Z
+lastCollected: 2026-04-07T18:37:25.223Z
 estimatedTokens: 187
-keywords: [External, Document, Output, representation]
+keywords: [External, Document]
 ---
-
-# External Document Output
 
 > Output representation of the details of an external
     document.

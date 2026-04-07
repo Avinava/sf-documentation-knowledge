@@ -5,12 +5,10 @@ topic: time-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.321Z
+lastCollected: 2026-04-07T18:36:57.876Z
 estimatedTokens: 118
 keywords: [Time, Zone, something, happen, usually, relation, Analytics, schedule]
 ---
-
-# Time Zone
 
 > The time zone in which something should happen, usually in relation to an Analytics
   schedule.

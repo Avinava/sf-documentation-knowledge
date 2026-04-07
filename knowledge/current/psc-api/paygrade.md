@@ -5,12 +5,10 @@ topic: paygrade
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.070Z
+lastCollected: 2026-04-07T18:39:07.262Z
 estimatedTokens: 1047
-keywords: [PayGrade, range, positions, require, sufficiently, similar, responsibilities, competencies, associated, common, pay, band, API, version, 62.0]
+keywords: [PayGrade, range, positions, require, sufficiently, similar, responsibilities, competencies, common, pay, band, API, 62.0]
 ---
-
-# PayGrade
 
 > Represents a range of positions that require sufficiently similar
          responsibilities and competencies, and are associated with a common pay band. This

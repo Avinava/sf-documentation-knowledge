@@ -5,12 +5,10 @@ topic: quoteid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.246Z
+lastCollected: 2026-04-07T18:37:40.210Z
 estimatedTokens: 36
 keywords: [quoteId, patient's, quote]
 ---
-
-# quoteId
 
 > The ID of the patient's quote details.
 

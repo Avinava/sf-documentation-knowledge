@@ -5,12 +5,10 @@ topic: content-document-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.657Z
+lastCollected: 2026-04-07T18:37:54.976Z
 estimatedTokens: 197
-keywords: [Content, Document, Input, representation, documents, linked, care, record]
+keywords: [Content, Document, documents, linked, care, record]
 ---
-
-# Content Document Input
 
 > Input representation for documents linked to the care request
       record.

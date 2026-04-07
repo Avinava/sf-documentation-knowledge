@@ -5,12 +5,10 @@ topic: monitor-setup-changes-with-setup-audit-trail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.188Z
+lastCollected: 2026-04-07T18:39:22.075Z
 estimatedTokens: 2001
-keywords: [Monitor, Setup, Changes, Audit, Trail, tracks, recent, admins, history, especially, useful, there, multiple]
+keywords: [Monitor, Setup, Changes, Audit, Trail, tracks, recent, admins, especially, useful, there, multiple]
 ---
-
-# Monitor Setup Changes with Setup Audit Trail
 
 > Setup Audit Trail tracks the recent setup changes that you and other admins make. Audit
     history is especially useful when there are multiple admins.

@@ -5,12 +5,10 @@ topic: select-an-appexchange-listing-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.358Z
+lastCollected: 2026-04-07T18:38:46.221Z
 estimatedTokens: 708
-keywords: [Select, AppExchange, Listing, started, selecting, Partner, Console, selection, customize, guided, prompts, instructions, Builder, tool, edit]
+keywords: [Select, AppExchange, Listing, started, selecting, Partner, Console, selection, customize, guided, prompts, instructions, Builder, tool, edit, listings, determines, appears, AgentExchange, Salesforce, marketplace, Agentforce, solutions]
 ---
-
-# Select an AppExchange Listing Type
 
 > Get started on your listing by selecting a listing type in the Partner Console. Your
         selection is used to customize the guided prompts and instructions in Listing Builder, the

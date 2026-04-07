@@ -5,12 +5,10 @@ topic: finservfinancialaccounttransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.424Z
+lastCollected: 2026-04-07T18:37:37.202Z
 estimatedTokens: 953
-keywords: [FinServ_FinancialAccountTransaction__c, financial, account, transaction, FinServ, _FinancialAccountTransaction, Calls]
+keywords: [FinServ_FinancialAccountTransaction__c, financial, account, transaction, FinServ, _FinancialAccountTransaction]
 ---
-
-# FinServ_FinancialAccountTransaction__c
 
 > Represents information about a single financial account
          transaction.

@@ -5,12 +5,10 @@ topic: retries-and-callback-suspensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.668Z
+lastCollected: 2026-04-07T18:40:16.826Z
 estimatedTokens: 271
-keywords: [Retries, Callback, Suspensions, Event, Notification, Service, ENS, maximum, two, seconds, process, batch, HTTP, indicating, successful]
+keywords: [Retries, Callback, Suspensions, Event, Notification, Service, ENS, maximum, two, seconds, process, batch, HTTP, indicating, successful, processing]
 ---
-
-# Retries and Callback Suspensions
 
 > Your Event Notification Service (ENS) callback has a maximum of two seconds to process an event batch and return an HTTP 200, 201, 202, 203, or 204 response, indicating successful processing.
 

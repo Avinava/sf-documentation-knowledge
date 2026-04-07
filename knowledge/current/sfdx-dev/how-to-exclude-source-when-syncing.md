@@ -5,12 +5,10 @@ topic: how-to-exclude-source-when-syncing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.115Z
+lastCollected: 2026-04-07T18:40:08.072Z
 estimatedTokens: 2213
-keywords: [How, Exclude, Source, Syncing, metadata, local, file, system, target, org, often, files, want, Similarly, certain]
+keywords: [How, Exclude, Source, Syncing, metadata, local, file, system, target, org, often, files, want, Similarly, certain, converting, Salesforce, cases, individual, specific, directory, forceignore, Structure, Determine, Exact, Filename, Commands, Ignore, Remote, Changes, Yet, Synced, MetadataWithContent, Bundles, Groups, Characters, Put, Multiple, Project, Sample, Directories, Currently, Ignored]
 ---
-
-# How to Exclude Source When Syncing
 
 > When syncing metadata between your local file system and a target org, you often have
     source files you want to exclude. Similarly, you often want to exclude certain files when

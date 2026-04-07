@@ -5,12 +5,10 @@ topic: environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.630Z
+lastCollected: 2026-04-07T18:38:57.431Z
 estimatedTokens: 813
-keywords: [Environment, JSON-formatted, containing, context, canvas, app, Dimensions, Record, Version, there, any, Param]
+keywords: [Environment, JSON-formatted, containing, context, canvas, app, Dimensions, Record, there, any, Param]
 ---
-
-# Environment
 
 > The Environment object is a JSON-formatted object containing context information
                 about the canvas app environment. This object contains the Dimensions object, the Record object, the

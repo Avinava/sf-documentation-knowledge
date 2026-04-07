@@ -5,12 +5,10 @@ topic: product-category-path
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.905Z
+lastCollected: 2026-04-07T18:37:22.017Z
 estimatedTokens: 103
 keywords: [Product, Category, Path, categories]
 ---
-
-# Product Category Path
 
 > List of product categories in a path.
 

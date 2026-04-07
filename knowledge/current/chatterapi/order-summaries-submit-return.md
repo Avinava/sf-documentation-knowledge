@@ -5,12 +5,10 @@ topic: order-summaries-submit-return
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.678Z
+lastCollected: 2026-04-07T18:37:15.740Z
 estimatedTokens: 956
 keywords: [Order, Summaries, Submit, OrderItemSummaries, OrderSummary, corresponding, change, simple, creates, ReturnOrder]
 ---
-
-# Order Summaries, Submit Return
 
 > Return one or more OrderItemSummaries from an OrderSummary, and
       create a corresponding change order. This return is a simple return that creates a change

@@ -5,12 +5,10 @@ topic: serviceterritoryworktypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.023Z
+lastCollected: 2026-04-07T18:40:01.800Z
 estimatedTokens: 365
-keywords: [ServiceTerritoryWorkTypeFeed, Feed, tracking, ServiceTerritoryWorkType]
+keywords: [ServiceTerritoryWorkTypeFeed, ServiceTerritoryWorkType]
 ---
-
-# ServiceTerritoryWorkTypeFeed
 
 > Feed tracking for ServiceTerritoryWorkType.
 

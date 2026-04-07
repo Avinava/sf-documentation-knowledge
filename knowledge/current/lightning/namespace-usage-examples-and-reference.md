@@ -5,12 +5,10 @@ topic: namespace-usage-examples-and-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.635Z
+lastCollected: 2026-04-07T18:38:04.778Z
 estimatedTokens: 1114
-keywords: [Usage, Examples, topic, referencing, components, objects, Aura, code, Organizations, Prefix]
+keywords: [Examples, topic, referencing, Aura, code, Organizations, Prefix]
 ---
-
-# Namespace Usage Examples and Reference
 
 > This topic provides examples of referencing components, objects, fields, and so on, in
     Aura components code.

@@ -5,12 +5,10 @@ topic: array-variable-type-for-variablesjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.678Z
+lastCollected: 2026-04-07T18:37:02.256Z
 estimatedTokens: 79
-keywords: [Array, Variable, variables.json, ArrayType, wizard, question, accepts, multiple, selections, user, choices, Define, minimum, maximum, number]
+keywords: [Array, Variable, variables.json, ArrayType, wizard, question, accepts, multiple, selections, user, choices, Define, minimum, maximum, number, items, selected]
 ---
-
-# Array Variable Type for variables.json
 
 > Use an ArrayType variable to create a wizard
   question that accepts multiple selections. The user can make multiple choices from a list of

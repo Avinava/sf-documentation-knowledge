@@ -5,12 +5,10 @@ topic: get-a-list-of-updated-records-within-a-given-timeframe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.661Z
+lastCollected: 2026-04-07T18:36:19.883Z
 estimatedTokens: 193
 keywords: [Updated, Records, Timeframe, sObject, resource, modified, added, Specify, date, time, range, were]
 ---
-
-# Get a List of Updated Records Within a Given Timeframe
 
 > Use the sObject Get Updated resource to get a list of updated
             (modified or added) records for the specified object. Specify the date and time range

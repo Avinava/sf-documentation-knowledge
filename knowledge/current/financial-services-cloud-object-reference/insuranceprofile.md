@@ -5,12 +5,10 @@ topic: insuranceprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.117Z
+lastCollected: 2026-04-07T18:37:37.934Z
 estimatedTokens: 1483
-keywords: [InsuranceProfile, insurance-related, attributes, insured, member, Calls, Associated, Objects]
+keywords: [InsuranceProfile, insurance-related, attributes, insured, member]
 ---
-
-# InsuranceProfile
 
 > Represents the insurance-related attributes for the insured member.
 

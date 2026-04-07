@@ -5,12 +5,10 @@ topic: cancel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.041Z
+lastCollected: 2026-04-07T18:38:47.999Z
 estimatedTokens: 96
 keywords: [cancel, PageReference, original, known, home]
 ---
-
-# cancel()
 
 > Returns the PageReference of the original page, if known,
 or the home page.

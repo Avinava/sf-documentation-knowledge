@@ -5,12 +5,10 @@ topic: credential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.652Z
+lastCollected: 2026-04-07T18:37:14.690Z
 estimatedTokens: 1262
 keywords: [Credential, refresh, replace]
 ---
-
-# Credential
 
 > Get, create, refresh, update, replace, or delete a
     credential.

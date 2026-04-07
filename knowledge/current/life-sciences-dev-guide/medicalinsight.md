@@ -5,12 +5,10 @@ topic: medicalinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.077Z
+lastCollected: 2026-04-07T18:38:00.867Z
 estimatedTokens: 754
-keywords: [MedicalInsight, observed, heard, various, outlets, meetings, calls, research, inform, strategies, better, patient, care]
+keywords: [MedicalInsight, observed, heard, various, outlets, meetings, research, inform, strategies, better, patient, care]
 ---
-
-# MedicalInsight
 
 > Represents the important information observed or heard through various
          outlets like meetings, calls, or research, which is used to inform strategies for better

@@ -5,12 +5,10 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.734Z
+lastCollected: 2026-04-07T18:36:32.183Z
 estimatedTokens: 732
-keywords: [CustomApplication, custom, standard, application, tab, references, logo, includes, access, associated, Metadata, API, Tooling, version, 42.0]
+keywords: [CustomApplication, standard, application, tab, references, logo, includes, Metadata, API, Tooling, 42.0, SOAP, REST, HTTP]
 ---
-
-# CustomApplication
 
 > Represents a custom or standard application. An application is
         a list of tab references, a description, and a logo. It also includes access to the

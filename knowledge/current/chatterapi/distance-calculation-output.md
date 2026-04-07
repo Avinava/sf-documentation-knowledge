@@ -5,12 +5,10 @@ topic: distance-calculation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.319Z
+lastCollected: 2026-04-07T18:37:18.407Z
 estimatedTokens: 141
-keywords: [Distance, Calculation, Output, Shipping, data, inventory, locations]
+keywords: [Distance, Calculation, Shipping, inventory, locations]
 ---
-
-# Distance Calculation Output
 
 > Shipping distance data for a set of inventory
     locations.

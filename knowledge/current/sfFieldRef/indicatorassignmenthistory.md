@@ -5,12 +5,10 @@ topic: indicatorassignmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.865Z
+lastCollected: 2026-04-07T18:39:44.475Z
 estimatedTokens: 268
-keywords: [IndicatorAssignmentHistory, History, tracked, IndicatorAssignment]
+keywords: [IndicatorAssignmentHistory, tracked, IndicatorAssignment]
 ---
-
-# IndicatorAssignmentHistory
 
 > History for tracked fields of IndicatorAssignment.
 

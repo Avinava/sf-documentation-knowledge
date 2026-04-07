@@ -5,12 +5,10 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:48.856Z
+lastCollected: 2026-04-07T18:38:40.441Z
 estimatedTokens: 2105
-keywords: [SamlSsoConfig, SAML, Sign-On, configuration, Calls, Special, Access, Rules]
+keywords: [SamlSsoConfig, SAML, Sign-On, configuration]
 ---
-
-# SamlSsoConfig
 
 > Represents a SAML Single Sign-On configuration.
 

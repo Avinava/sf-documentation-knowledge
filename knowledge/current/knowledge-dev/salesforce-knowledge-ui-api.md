@@ -5,12 +5,10 @@ topic: salesforce-knowledge-ui-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.724Z
+lastCollected: 2026-04-07T18:37:54.018Z
 estimatedTokens: 326
-keywords: [Salesforce, Knowledge, API, Retrieve, data, metadata, records, help, build, Lightning, Experience, mobile, custom, web, app]
+keywords: [Salesforce, Knowledge, API, Retrieve, metadata, records, help, build, Lightning, Experience, mobile, web, app]
 ---
-
-# Salesforce Knowledge UI API
 
 > Retrieve and update data and metadata of Salesforce Knowledge records with the UI API
     to help build your Lightning Experience UI for your mobile or custom web app.

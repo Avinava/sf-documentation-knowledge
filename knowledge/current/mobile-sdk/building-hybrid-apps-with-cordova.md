@@ -5,12 +5,10 @@ topic: building-hybrid-apps-with-cordova
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.696Z
+lastCollected: 2026-04-07T18:40:26.036Z
 estimatedTokens: 126
-keywords: [Building, Hybrid, Apps, Cordova, Salesforce, Mobile, SDK, 11.1, container, uses, specific, version, Apache, platform, 7.0.1]
+keywords: [Building, Hybrid, Apps, Cordova, Salesforce, Mobile, SDK, 11.1, container, uses, specific, Apache, platform, 7.0.1, iOS, 12.0.1, Android, Architecturally, plug-in, simp]
 ---
-
-# Building Hybrid Apps With Cordova
 
 > Salesforce Mobile SDK
    11.1 provides a hybrid container that uses a specific

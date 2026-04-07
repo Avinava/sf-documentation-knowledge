@@ -5,12 +5,10 @@ topic: place-quote-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.729Z
+lastCollected: 2026-04-07T18:35:44.735Z
 estimatedTokens: 870
 keywords: [Place, Quote, POST, discover, price, products, services, Additionally, insert, line, item]
 ---
-
-# Place Quote (POST)
 
 > Create a quote to discover and price products and services.
       Additionally, insert, update, or delete a quote line item.

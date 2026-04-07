@@ -5,12 +5,10 @@ topic: tpmpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.322Z
+lastCollected: 2026-04-07T18:39:10.804Z
 estimatedTokens: 780
-keywords: [TPM_Promotion, rules, linked, TPM_Promotion.Promotion, output, entities, executed, generated, previous, TPM, _Promotion, resetPromotion, movePromotionTimeframe2, manageTacticProductFilterCopy2, manageParticipatingCustomersCopy2]
+keywords: [TPM_Promotion, linked, TPM_Promotion.Promotion, entities, executed, generated, previous, TPM, _Promotion, resetPromotion, movePromotionTimeframe2, manageTacticProductFilterCopy2, manageParticipatingCustomersCopy2, manageSubAccountsCopy2]
 ---
-
-# TPM_Promotion
 
 > These rules are linked to the TPM_Promotion and TPM_Promotion.Promotion output entities.
   The rules are executed based on the generated output of the previous rules.

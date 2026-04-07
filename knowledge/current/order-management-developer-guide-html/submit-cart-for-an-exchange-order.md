@@ -5,12 +5,10 @@ topic: submit-cart-for-an-exchange-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.581Z
+lastCollected: 2026-04-07T18:38:45.381Z
 estimatedTokens: 849
-keywords: [Submit, Cart, Exchange, Order, you’ve, previewed, it’s, almost, time, There, few, considerations, keep, mind, creating]
+keywords: [Submit, Cart, Exchange, Order, you’ve, previewed, it’s, almost, time, There, few, considerations, keep, mind, creating, API]
 ---
-
-# Submit Cart for an Exchange Order
 
 > After you’ve previewed the cart, it’s almost time to submit the exchange. There are a
     few considerations to keep in mind while creating the submit for the exchange.

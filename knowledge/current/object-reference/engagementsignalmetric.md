@@ -5,12 +5,10 @@ topic: engagementsignalmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.659Z
+lastCollected: 2026-04-07T18:38:30.477Z
 estimatedTokens: 521
-keywords: [EngagementSignalMetric, measurable, quantity, that’s, derived, engagement, signal, sum, revenue, count, clicks, track, user, tests, machine]
+keywords: [EngagementSignalMetric, measurable, quantity, that’s, derived, engagement, signal, sum, revenue, count, clicks, track, user, tests, machine, learning, model, training, attribution, configurations, API, 62.0]
 ---
-
-# EngagementSignalMetric
 
 > Represents a measurable quantity that’s derived from an engagement signal,
          such as the sum of revenue or a count of clicks. Use this object to track user engagement

@@ -5,12 +5,10 @@ topic: mass-updating-records-with-a-custom-list-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.785Z
+lastCollected: 2026-04-07T18:38:52.092Z
 estimatedTokens: 830
-keywords: [Mass, Updating, Records, Custom, Controller, pages, perform, updates, prototype, contained, StandardSetController]
+keywords: [Mass, Updating, Records, Controller, pages, perform, updates, prototype, contained, StandardSetController]
 ---
-
-# Mass Updating Records with a Custom List Controller
 
 > To create pages that perform mass updates, use the prototype object contained in the
             StandardSetController class.

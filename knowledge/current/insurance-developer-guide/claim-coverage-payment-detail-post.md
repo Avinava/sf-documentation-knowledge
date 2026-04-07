@@ -5,12 +5,10 @@ topic: claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.499Z
+lastCollected: 2026-04-07T18:37:51.534Z
 estimatedTokens: 612
-keywords: [Claim, Coverage, Payment, Detail, POST, record, generates, records, Insurance, Policy, Limit, Tracking, Adjustment, applicable]
+keywords: [Claim, Coverage, Payment, Detail, POST, record, generates, records, Insurance, Policy, Limit, Adjustment, applicable]
 ---
-
-# Claim Coverage Payment Detail (POST)
 
 > Create a claim coverage payment detail record. This also generates the related records
   for the Insurance Policy Limit Tracking and Claim Coverage Payment Adjustment records if

@@ -5,12 +5,10 @@ topic: create-contacts-and-users-from-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.949Z
+lastCollected: 2026-04-07T18:37:48.666Z
 estimatedTokens: 670
-keywords: [Contacts, Users, Group, Census, Members, Action, portal, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Contacts, Users, Group, Census, Members, Action, portal, REST, HTTP]
 ---
-
-# Create Contacts and Users from Group Census Members Action
 
 > Create contacts and portal users for group census or group census members.
 

@@ -5,12 +5,10 @@ topic: javascript-files-for-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.760Z
+lastCollected: 2026-04-07T18:40:26.091Z
 estimatedTokens: 250
 keywords: [JavaScript, Files, Hybrid, Apps, Mobile, SDK, uses, external, dependencies, various, features, Include]
 ---
-
-# JavaScript Files for Hybrid Apps
 
 > Mobile SDK uses the following
     external dependencies for various features of hybrid apps.

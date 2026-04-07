@@ -5,12 +5,10 @@ topic: feed-read-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.121Z
+lastCollected: 2026-04-07T18:37:19.240Z
 estimatedTokens: 944
-keywords: [Feed, Summary]
+keywords: [Summary]
 ---
-
-# Feed Read Summary
 
 > Summary of the feed that was read.
 

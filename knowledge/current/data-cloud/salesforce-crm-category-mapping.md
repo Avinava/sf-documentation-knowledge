@@ -5,12 +5,10 @@ topic: salesforce-crm-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.051Z
+lastCollected: 2026-04-07T18:35:52.980Z
 estimatedTokens: 273
-keywords: [Salesforce, CRM, Category, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, products, company]
+keywords: [Salesforce, CRM, Category, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, products, company, sells, DMO]
 ---
-
-# Salesforce CRM: Category Mapping
 
 > These data mappings are for the Category DLO found in the Loyalty Management bundle of
   the Salesforce CRM Connector for Data Cloud. A category of products that the company sells.

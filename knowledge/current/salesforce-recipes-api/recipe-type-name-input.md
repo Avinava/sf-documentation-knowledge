@@ -5,12 +5,10 @@ topic: recipe-type-name-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.909Z
+lastCollected: 2026-04-07T18:39:18.637Z
 estimatedTokens: 82
-keywords: [Recipe, Input, node]
+keywords: [Recipe, node]
 ---
-
-# Recipe Type Name Input
 
 > The name and type for a field in a recipe node.
 

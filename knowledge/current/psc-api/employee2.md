@@ -5,12 +5,10 @@ topic: employee2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.360Z
+lastCollected: 2026-04-07T18:39:06.448Z
 estimatedTokens: 949
-keywords: [Employee2, employee, company, organization, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [Employee2, employee, company, organization, API, 62.0]
 ---
-
-# Employee2
 
 > Represents an employee within a company or an organization. This object
       is available in API version 62.0 and later.

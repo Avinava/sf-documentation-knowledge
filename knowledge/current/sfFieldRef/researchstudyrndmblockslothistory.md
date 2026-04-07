@@ -5,12 +5,10 @@ topic: researchstudyrndmblockslothistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.452Z
+lastCollected: 2026-04-07T18:40:00.171Z
 estimatedTokens: 283
-keywords: [ResearchStudyRndmBlockSlotHistory, History, tracked, ResearchStudyRndmBlockSlot]
+keywords: [ResearchStudyRndmBlockSlotHistory, tracked, ResearchStudyRndmBlockSlot]
 ---
-
-# ResearchStudyRndmBlockSlotHistory
 
 > History for tracked fields of ResearchStudyRndmBlockSlot.
 

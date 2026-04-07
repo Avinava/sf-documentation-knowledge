@@ -5,12 +5,10 @@ topic: compound-field-considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:33.009Z
+lastCollected: 2026-04-07T18:38:23.882Z
 estimatedTokens: 1404
 keywords: [Compound, Considerations, Limitations, Address, geolocation, convenient, result, concise, clear, code, things, consider, apps]
 ---
-
-# Compound Field Considerations and Limitations
 
 > Address and geolocation compound fields are convenient and result in more concise,
     clear code. Here are some things to consider when using them in your apps.

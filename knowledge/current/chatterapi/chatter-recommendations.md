@@ -5,12 +5,10 @@ topic: chatter-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.425Z
+lastCollected: 2026-04-07T18:37:22.530Z
 estimatedTokens: 76
-keywords: [Chatter, Recommendations, custom]
+keywords: [Chatter, Recommendations]
 ---
-
-# Chatter Recommendations
 
 > A list of Chatter, custom, and static
     recommendations.

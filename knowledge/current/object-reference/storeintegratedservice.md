@@ -5,12 +5,10 @@ topic: storeintegratedservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.030Z
+lastCollected: 2026-04-07T18:38:41.783Z
 estimatedTokens: 416
-keywords: [StoreIntegratedService, association, integration, store, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [StoreIntegratedService, association, integration, store, API, 49.0]
 ---
-
-# StoreIntegratedService
 
 > Represents an association between an integration and a store. This object
     is available in API version 49.0 and later.

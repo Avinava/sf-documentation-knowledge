@@ -5,12 +5,10 @@ topic: assessmentquestionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:58.378Z
+lastCollected: 2026-04-07T18:36:44.135Z
 estimatedTokens: 1513
-keywords: [AssessmentQuestionVersion, Stores, question, versions, assessment, questions, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [AssessmentQuestionVersion, Stores, question, versions, assessment, questions, API, 55.0]
 ---
-
-# AssessmentQuestionVersion
 
 > Stores the question versions for the assessment questions. This
       object is available in API version 55.0 and later.

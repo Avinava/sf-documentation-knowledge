@@ -2,7 +2,7 @@
 domain: mc-programmatic-content
 name: Programmatic Marketing Content
 documentCount: 381
-lastGenerated: 2026-04-07T09:06:39.505Z
+lastGenerated: 2026-04-07T18:40:44.703Z
 ---
 
 # Programmatic Marketing Content — Knowledge Index
@@ -25,7 +25,7 @@ lastGenerated: 2026-04-07T09:06:39.505Z
       Ordinal
       Type
        |
-| [add-data-to-a-data-extension.md](./add-data-to-a-data-extension.md) | Add Data to a Data Extension | developer-guide | Add, Data, Extension |
+| [add-data-to-a-data-extension.md](./add-data-to-a-data-extension.md) | Add Data to a Data Extension | developer-guide | Add, Extension |
 | [add-subscribers-to-a-list.md](./add-subscribers-to-a-list.md) | Add Subscribers to a List | developer-guide | Add, Subscribers |
 | [addmscrmlistmember.md](./addmscrmlistmember.md) | AddMscrmListMember | concept | AddMscrmListMember(1, 2)
 
@@ -168,7 +168,7 @@ lastGenerated: 2026-04-07T09:06:39.505Z
     
       Ordi |
 | [built-in-block-helpers.md](./built-in-block-helpers.md) | Built-In Block Helpers | help-article | Built-In Block Helpers use block tags and the # prefix. |
-| [cancelsend.md](./cancelsend.md) | CancelSend | concept | CancelSend, **Overview**, **Syntax** |
+| [cancelsend.md](./cancelsend.md) | CancelSend | concept | CancelSend, Examples, **Overview** |
 | [change-social-content-slots-if-viewed-as-a-webpage.md](./change-social-content-slots-if-viewed-as-a-webpage.md) | Change Social Content Slots if Viewed As A Webpage | developer-guide | These examples require familiarity with HTML, Paste HTML Emails, and AMPscript. |
 | [char.md](./char.md) | Char | concept | Char(1, 2)
 
@@ -450,7 +450,7 @@ lastGenerated: 2026-04-07T09:06:39.505Z
   
     Function Properties
   |
-| [definitionremove.md](./definitionremove.md) | DefinitionRemove | concept | DefinitionRemove, **Overview**, **Syntax** |
+| [definitionremove.md](./definitionremove.md) | DefinitionRemove | concept | DefinitionRemove, Examples, **Overview** |
 | [definitionretrieve.md](./definitionretrieve.md) | DefinitionRetrieve | concept | DefinitionRetrieve(1)
 
 
@@ -1082,7 +1082,7 @@ lastGenerated: 2026-04-07T09:06:39.505Z
    
     
       Ordinal |
-| [logout.md](./logout.md) | Logout | concept | Logout, **Overview**, **Syntax** |
+| [logout.md](./logout.md) | Logout | concept | Logout, Examples, **Overview** |
 | [longsfid.md](./longsfid.md) | LongSFID | concept | LongSFID(1)
 
 

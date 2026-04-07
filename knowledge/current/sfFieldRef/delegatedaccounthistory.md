@@ -5,12 +5,10 @@ topic: delegatedaccounthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.079Z
+lastCollected: 2026-04-07T18:39:37.775Z
 estimatedTokens: 268
-keywords: [DelegatedAccountHistory, History, tracked, DelegatedAccount]
+keywords: [DelegatedAccountHistory, tracked, DelegatedAccount]
 ---
-
-# DelegatedAccountHistory
 
 > History for tracked fields of DelegatedAccount.
 

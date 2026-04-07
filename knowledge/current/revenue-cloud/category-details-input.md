@@ -5,12 +5,10 @@ topic: category-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:58.046Z
+lastCollected: 2026-04-07T18:35:42.926Z
 estimatedTokens: 871
-keywords: [Category, Input, representation]
+keywords: [Category]
 ---
-
-# Category Details Input
 
 > Input representation of the request to get category details.
 

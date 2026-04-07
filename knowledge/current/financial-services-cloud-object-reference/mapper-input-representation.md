@@ -5,12 +5,10 @@ topic: mapper-input-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.064Z
+lastCollected: 2026-04-07T18:37:34.614Z
 estimatedTokens: 80
-keywords: [Mapper, Input, Representation, POST]
+keywords: [Mapper, POST]
 ---
-
-# Mapper Input Representation
 
 > Represents the input representation for the Mapper POST
     method.

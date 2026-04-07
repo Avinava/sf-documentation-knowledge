@@ -5,12 +5,10 @@ topic: create-a-route
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.649Z
+lastCollected: 2026-04-07T18:38:10.906Z
 estimatedTokens: 431
-keywords: [Route, CreateRoute, Apex, creates, record, includes, waypoints, reps, access, Salesforce, Maps, doesn't, include, Allocations, Sample]
+keywords: [Allocations, Route, CreateRoute, Apex, creates, record, includes, waypoints, reps, Salesforce, Maps, doesn't, include, Sample, Code]
 ---
-
-# Create a Route
 
 > The CreateRoute() Apex method
       creates a record that includes a list of waypoints that reps access in Salesforce Maps. The

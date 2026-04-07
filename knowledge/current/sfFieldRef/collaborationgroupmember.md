@@ -5,12 +5,10 @@ topic: collaborationgroupmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.017Z
+lastCollected: 2026-04-07T18:39:34.455Z
 estimatedTokens: 346
-keywords: [CollaborationGroupMember, member, Chatter, group, API, version, 19.0, later]
+keywords: [CollaborationGroupMember, member, Chatter, group, API, 19.0]
 ---
-
-# CollaborationGroupMember
 
 > Represents a member of a Chatter group.
    This object is available in API version 19.0 and later.

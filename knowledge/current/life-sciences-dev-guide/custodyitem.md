@@ -5,12 +5,10 @@ topic: custodyitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.181Z
+lastCollected: 2026-04-07T18:37:59.861Z
 estimatedTokens: 1323
-keywords: [CustodyItem, item, custody, chain, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [CustodyItem, item, custody, chain, API, 59.0]
 ---
-
-# CustodyItem
 
 > Represents information about an item in the custody chain. This object
       is available in API version 59.0 and later.

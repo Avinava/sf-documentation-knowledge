@@ -5,12 +5,10 @@ topic: assessmentsavedsessionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.505Z
+lastCollected: 2026-04-07T18:39:27.493Z
 estimatedTokens: 273
-keywords: [AssessmentSavedSessionHistory, History, tracked, AssessmentSavedSession]
+keywords: [AssessmentSavedSessionHistory, tracked, AssessmentSavedSession]
 ---
-
-# AssessmentSavedSessionHistory
 
 > History for tracked fields of AssessmentSavedSession.
 

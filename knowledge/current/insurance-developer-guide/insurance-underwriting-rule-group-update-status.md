@@ -5,12 +5,10 @@ topic: insurance-underwriting-rule-group-update-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.465Z
+lastCollected: 2026-04-07T18:37:52.652Z
 estimatedTokens: 129
-keywords: [Insurance, Underwriting, Rule, Group, Status, Output, representation]
+keywords: [Insurance, Underwriting, Rule, Group, Status]
 ---
-
-# Insurance Underwriting Rule Group Update Status
 
 > Output representation of insurance underwriting rule group update status
     request.

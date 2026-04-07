@@ -5,12 +5,10 @@ topic: generateinsuranceclausesoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.712Z
+lastCollected: 2026-04-07T18:37:49.561Z
 estimatedTokens: 1858
-keywords: [GenerateInsuranceClausesOptions, options, generating, insurance, clauses, control, context, saving, manual, clause, generation, asynchronous, product, products, Usage]
+keywords: [GenerateInsuranceClausesOptions, options, generating, insurance, clauses, control, context, saving, manual, clause, generation, asynchronous, product, products, saveContext, generateManualClauses, generateClausesAsync]
 ---
-
-# GenerateInsuranceClausesOptions Class
 
 > Contains options for generating insurance clauses. Use this class to control context
     saving, manual clause generation, and asynchronous clause generation when generating product

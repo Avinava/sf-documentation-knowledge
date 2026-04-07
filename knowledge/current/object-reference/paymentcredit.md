@@ -5,12 +5,10 @@ topic: paymentcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.288Z
+lastCollected: 2026-04-07T18:38:37.590Z
 estimatedTokens: 1118
-keywords: [PaymentCredit, Tracks, amount, money, customer, store, credit, gift, card, another, It's, linked, original, payment, record]
+keywords: [PaymentCredit, Tracks, amount, money, customer, store, credit, gift, card, another, It's, linked, original, payment, record, includes, total, issued, API, 65.0]
 ---
-
-# PaymentCredit
 
 > Tracks the amount of money returned to the customer. The return can be a
          store credit, a gift card, or another type of credit. It's linked to the original payment

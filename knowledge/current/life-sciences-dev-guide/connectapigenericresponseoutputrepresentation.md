@@ -5,12 +5,10 @@ topic: connectapigenericresponseoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.378Z
+lastCollected: 2026-04-07T18:37:54.714Z
 estimatedTokens: 131
-keywords: [Output, representation, generic, Connect, API, call]
+keywords: [generic, Connect, API, call]
 ---
-
-# ConnectApi.GenericResponseOutputRepresentation
 
 > Output representation for a generic response from a Connect API
             call.

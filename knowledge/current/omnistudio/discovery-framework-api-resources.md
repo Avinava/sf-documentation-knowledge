@@ -5,12 +5,10 @@ topic: discovery-framework-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.261Z
+lastCollected: 2026-04-07T18:36:40.967Z
 estimatedTokens: 216
 keywords: [Discovery, Framework, API, Resources, Here’s, Document, Decision]
 ---
-
-# Discovery Framework API Resources
 
 > Here’s the list of the Discovery Framework Document Decision API
                 resources.

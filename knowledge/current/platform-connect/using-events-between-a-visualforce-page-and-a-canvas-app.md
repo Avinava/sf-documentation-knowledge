@@ -6,13 +6,10 @@ topic: using-events-between-a-visualforce-page-and-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.594Z
+lastCollected: 2026-04-07T18:38:57.397Z
 estimatedTokens: 1107
-keywords: [Events, Visualforce, Canvas, App, Lightning, Platform, smoothly, integrate, navigation, Salesforce, mobile, reside, JavaScript, library, framework]
+keywords: [Events, Visualforce, Canvas, App, Lightning, Platform, smoothly, integrate, navigation, Salesforce, mobile, reside, JavaScript, library, framework, call]
 ---
-
-# Using Events between a Visualforce Page and a Canvas
-    App
 
 > You can use Lightning Platform methods to smoothly integrate navigation between a canvas
         app and the Salesforce mobile app, without using Visualforce. The methods are events that

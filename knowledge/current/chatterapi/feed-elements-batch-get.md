@@ -5,12 +5,10 @@ topic: feed-elements-batch-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.566Z
+lastCollected: 2026-04-07T18:37:13.522Z
 estimatedTokens: 102
-keywords: [Feed, Elements, Batch, comma-separated, Errors, can’t, loaded, results]
+keywords: [Batch, comma-separated, Errors, can’t, loaded, results]
 ---
-
-# Feed Elements, Batch Get
 
 > Get information about a comma-separated
 list of up to 500 feed elements. Errors for feed elements that can’t

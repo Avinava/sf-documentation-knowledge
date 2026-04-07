@@ -5,12 +5,10 @@ topic: bulk-api-20-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.104Z
+lastCollected: 2026-04-07T18:36:33.504Z
 estimatedTokens: 426
-keywords: [Bulk, API, 2.0, Usage, query, MetadataComponentDependency, Tooling, retrieve, records, SOQL, queries, relationships, metadata, components, org]
+keywords: [Bulk, API, 2.0, query, MetadataComponentDependency, Tooling, retrieve, records, SOQL, queries, relationships, metadata, org, Additional]
 ---
-
-# Bulk API 2.0 Usage
 
 > Using Bulk API 2.0, you can query the MetadataComponentDependency Tooling API object and
   retrieve up to 100,000 records in a single query. Use SOQL queries to list the relationships

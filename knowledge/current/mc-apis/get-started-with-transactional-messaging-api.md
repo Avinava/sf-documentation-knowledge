@@ -5,12 +5,10 @@ topic: get-started-with-transactional-messaging-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.446Z
+lastCollected: 2026-04-07T18:40:20.698Z
 estimatedTokens: 1057
-keywords: [Started, Transactional, Messaging, API, Ensure, client, secret, stored, securely, Never, expose, side, via, JavaScript, store]
+keywords: [Started, Transactional, Messaging, API, Ensure, client, secret, stored, securely, Never, expose, side, via, JavaScript, store, mobile, application, Send, Email, Message, SMS]
 ---
-
-# Get Started with Transactional Messaging API
 
 > Ensure that your client ID and secret are stored securely. Never expose this information on the client side via JavaScript or store it in a mobile application.
 

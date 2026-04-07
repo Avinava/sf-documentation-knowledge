@@ -5,12 +5,10 @@ topic: blngbillingbatchjobc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.960Z
+lastCollected: 2026-04-07T18:37:03.496Z
 estimatedTokens: 554
-keywords: [blng__BillingBatchJob__c, scheduled, processing, job, triggers, recurring, invoice, batch, runs, payment, blng, _BillingBatchJob, Calls]
+keywords: [blng__BillingBatchJob__c, scheduled, processing, job, triggers, recurring, invoice, batch, runs, payment, blng, _BillingBatchJob]
 ---
-
-# blng__BillingBatchJob__c
 
 > Represents a scheduled processing job that triggers recurring invoice batch
          runs and payment batch runs.

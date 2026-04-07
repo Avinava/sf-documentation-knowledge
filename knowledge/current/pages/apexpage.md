@@ -5,12 +5,10 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.068Z
+lastCollected: 2026-04-07T18:38:50.330Z
 estimatedTokens: 3530
-keywords: [apex, Visualforce, pages, wrapped, inside, <apex, page>, component, tag, Attributes]
+keywords: [Attributes, apex, Visualforce, pages, wrapped, inside, <apex, page>, tag]
 ---
-
-# apex:page
 
 > A single Visualforce page. All pages must be wrapped inside a single <apex:page> component tag.
 

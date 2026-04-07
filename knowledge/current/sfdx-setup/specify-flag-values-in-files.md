@@ -5,12 +5,10 @@ topic: specify-flag-values-in-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.291Z
+lastCollected: 2026-04-07T18:40:09.234Z
 estimatedTokens: 996
-keywords: [Specify, Flag, Files, run, Salesforce, CLI, command, optionally, store, command's, local, text, rather, line, feature]
+keywords: [Specify, Flag, Files, run, Salesforce, CLI, command, optionally, store, command's, local, text, rather, line, feature, useful, flags, long, resulting, exceeds, maximum, length, terminal, prompt]
 ---
-
-# Specify Flag Values in Files
 
 > When you run a Salesforce CLI command, you can optionally store the command's flag values
     in local text files rather than specify the flag values at the command line. This feature is

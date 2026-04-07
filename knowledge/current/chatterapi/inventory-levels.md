@@ -5,12 +5,10 @@ topic: inventory-levels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.309Z
+lastCollected: 2026-04-07T18:37:14.274Z
 estimatedTokens: 421
 keywords: [Inventory, Levels, products, locations, location, groups, commerce, system]
 ---
-
-# Inventory Levels
 
 > Get information about inventory levels for products in
          locations and location groups in your commerce inventory system.

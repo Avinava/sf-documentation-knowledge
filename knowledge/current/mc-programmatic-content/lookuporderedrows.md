@@ -5,12 +5,10 @@ topic: lookuporderedrows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.224Z
+lastCollected: 2026-04-07T18:40:22.629Z
 estimatedTokens: 257
-keywords: [LookupOrderedRows, Function, Ordinal, data, extension, rows, numeric, Number, val, **Overview**, **Syntax**, Usage, want, retu, Examples]
+keywords: [LookupOrderedRows, Function, Ordinal, extension, rows, numeric, Number, val, **Overview**, **Syntax**, Examples, want, retu]
 ---
-
-# LookupOrderedRows
 
 > LookupOrderedRows(1, 2, 3, 4, 5)
 

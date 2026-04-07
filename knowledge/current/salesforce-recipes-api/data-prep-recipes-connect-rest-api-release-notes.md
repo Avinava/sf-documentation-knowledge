@@ -5,12 +5,10 @@ topic: data-prep-recipes-connect-rest-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:05:24.355Z
+lastCollected: 2026-04-07T18:39:18.035Z
 estimatedTokens: 176
-keywords: [Data, Prep, Recipes, Connect, REST, API, Release, Notes, Salesforce, recent, updates, changes]
+keywords: [Prep, Recipes, Connect, REST, API, Release, Notes, Salesforce, recent, updates, changes]
 ---
-
-# Data Prep Recipes Connect REST API Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   the Data Prep Recipes Connect REST API.

@@ -5,12 +5,10 @@ topic: donorgiftsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.731Z
+lastCollected: 2026-04-07T18:38:21.598Z
 estimatedTokens: 4790
-keywords: [DonorGiftSummary, gift, summaries, accounts, contacts, API, version, 59.0, later, Calls, Special, Access, Rules, 64.0, Associated, Objects]
+keywords: [DonorGiftSummary, gift, summaries, accounts, contacts, API, 59.0, 64.0]
 ---
-
-# DonorGiftSummary
 
 > Represents gift summaries for accounts and contacts. This object
       is available in API version 59.0 and later.

@@ -5,13 +5,11 @@ topic: namedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:54.995Z
+lastCollected: 2026-04-07T18:39:49.470Z
 estimatedTokens: 578
 namespace: NamespacePrefix
-keywords: [NamedCredential, named, credential, URL, callout, endpoint, authentication, definition, simplify, setup, authenticated, callouts, API, version, 33.0]
+keywords: [NamedCredential, named, credential, URL, callout, endpoint, authentication, definition, simplify, setup, authenticated, callouts, API, 33.0]
 ---
-
-# NamedCredential
 
 > Represents a named credential, which specifies the URL of a callout
 			endpoint and its required authentication parameters in one definition. A named

@@ -5,12 +5,10 @@ topic: expensetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.321Z
+lastCollected: 2026-04-07T18:38:00.024Z
 estimatedTokens: 851
-keywords: [ExpenseType, category, that's, classify, expense, occurs, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ExpenseType, category, that's, classify, expense, occurs, API, 65.0]
 ---
-
-# ExpenseType
 
 > The ExpenseType object is a category that's used to classify an expense that
          occurs. This object is available in API version 65.0 and later.

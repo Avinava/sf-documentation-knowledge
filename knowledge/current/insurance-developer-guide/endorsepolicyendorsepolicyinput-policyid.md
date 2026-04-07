@@ -5,12 +5,10 @@ topic: endorsepolicyendorsepolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.605Z
+lastCollected: 2026-04-07T18:37:49.451Z
 estimatedTokens: 296
-keywords: [EndorsePolicy, EndorsePolicyInput, policyId, Endorse, latest, version, insurance, policy, context, effective, date, include, additional, input, JSON]
+keywords: [EndorsePolicy, EndorsePolicyInput, policyId, Endorse, latest, insurance, policy, context, effective, date, include, additional, JSON, API, Requires, Chatter]
 ---
-
-# EndorsePolicy(EndorsePolicyInput, policyId)
 
 > Endorse the latest version of the insurance policy based on the context ID and effective
     date. You can also include other optional fields and additional details in the input

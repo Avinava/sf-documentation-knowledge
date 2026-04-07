@@ -5,12 +5,10 @@ topic: calculatetaxtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.859Z
+lastCollected: 2026-04-07T18:35:41.724Z
 estimatedTokens: 309
-keywords: [CalculateTaxType, whether, tax, calculation, estimated, actual, Usage]
+keywords: [CalculateTaxType, whether, tax, calculation, estimated, actual]
 ---
-
-# CalculateTaxType Enum
 
 > Shows whether a tax calculation request is for estimated or actual
       tax.

@@ -5,12 +5,10 @@ topic: folder-share-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.358Z
+lastCollected: 2026-04-07T18:37:19.508Z
 estimatedTokens: 76
 keywords: [Folder, Share, Link, shared]
 ---
-
-# Folder Share Link
 
 > A folder shared as a link.
 

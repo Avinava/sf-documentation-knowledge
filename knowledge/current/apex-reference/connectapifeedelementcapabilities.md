@@ -5,12 +5,10 @@ topic: connectapifeedelementcapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:23.787Z
+lastCollected: 2026-04-07T18:36:09.171Z
 estimatedTokens: 1534
-keywords: [ConnectApi.FeedElementCapabilities, container, capabilities, included, feed, element]
+keywords: [ConnectApi.FeedElementCapabilities, container, capabilities, included]
 ---
-
-# ConnectApi.FeedElementCapabilities
 
 > A container for all capabilities that
 can be included with a feed element.

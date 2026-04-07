@@ -5,12 +5,10 @@ topic: voice-root-email-address-accept-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.390Z
+lastCollected: 2026-04-07T18:37:16.461Z
 estimatedTokens: 220
-keywords: [Voice, Root, Email, Address, Accept, change, AWS, user, that's, associated, account, resource, Service, Cloud, Amazon]
+keywords: [Voice, Root, Email, Address, Accept, change, AWS, user, that's, account, resource, Service, Cloud, Amazon, Connect, partner, telephony, model]
 ---
-
-# Voice Root Email Address, Accept Update
 
 > Accept the email address change for the AWS root user that's associated
     with the Voice account. This resource applies to the Service Cloud Voice with Amazon Connect

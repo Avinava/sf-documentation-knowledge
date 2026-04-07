@@ -5,12 +5,10 @@ topic: pickticketproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.620Z
+lastCollected: 2026-04-07T18:39:54.193Z
 estimatedTokens: 411
 keywords: [PickTicketProduct, quantity, product, picked, part, PickTicket, include, quantities, multiple, FulfillmentOrders]
 ---
-
-# PickTicketProduct
 
 > Represents a quantity of a product to be picked as part of a PickTicket. It
          can include quantities for multiple FulfillmentOrders.

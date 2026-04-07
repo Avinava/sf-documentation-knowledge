@@ -5,12 +5,10 @@ topic: casestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.087Z
+lastCollected: 2026-04-07T18:39:33.496Z
 estimatedTokens: 288
 keywords: [CaseStatus, status, Case, New, Hold, Process]
 ---
-
-# CaseStatus
 
 > Represents the status of a Case, such as
    New, On Hold, or In Process.

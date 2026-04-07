@@ -5,12 +5,10 @@ topic: productcatalogfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.785Z
+lastCollected: 2026-04-07T18:39:55.350Z
 estimatedTokens: 360
-keywords: [ProductCatalogFeed, Feed, tracking, ProductCatalog]
+keywords: [ProductCatalogFeed, ProductCatalog]
 ---
-
-# ProductCatalogFeed
 
 > Feed tracking for ProductCatalog.
 

@@ -5,12 +5,10 @@ topic: annualemssninventoryextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.263Z
+lastCollected: 2026-04-07T18:38:17.780Z
 estimatedTokens: 2421
-keywords: [AnnualEmssnInventoryExtension, additional, company's, total, carbon, emissions, particular, year, metric, tonnes, CO2e, tCO2e, API, version, 65.0]
+keywords: [AnnualEmssnInventoryExtension, additional, company's, total, carbon, emissions, particular, year, metric, tonnes, CO2e, tCO2e, API, 65.0]
 ---
-
-# AnnualEmssnInventoryExtension
 
 > Represents additional information about a company's total carbon emissions
          for a particular year in metric tonnes of CO2e (tCO2e). This object is available in

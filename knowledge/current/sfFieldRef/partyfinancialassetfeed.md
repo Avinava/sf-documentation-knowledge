@@ -5,12 +5,10 @@ topic: partyfinancialassetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.637Z
+lastCollected: 2026-04-07T18:39:52.051Z
 estimatedTokens: 362
-keywords: [PartyFinancialAssetFeed, Feed, tracking, PartyFinancialAsset]
+keywords: [PartyFinancialAssetFeed, PartyFinancialAsset]
 ---
-
-# PartyFinancialAssetFeed
 
 > Feed tracking for PartyFinancialAsset.
 

@@ -5,12 +5,10 @@ topic: manage-data-in-data-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.651Z
+lastCollected: 2026-04-07T18:40:17.826Z
 estimatedTokens: 5569
-keywords: [Manage, Data, Extensions, managing, via, SOAP, API, Why, How, Sample, PHP, Code, Retrieve, NET, Java]
+keywords: [Retrieve, Upsert, Manage, Extensions, managing, via, SOAP, API, Why, How, Sample, PHP, Code, NET, Java, Axis, 1.4, Add, Items]
 ---
-
-# Manage Data in Data Extensions
 
 > This page contains information about managing data in data extensions via the SOAP API.
 

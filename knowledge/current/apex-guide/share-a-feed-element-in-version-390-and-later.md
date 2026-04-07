@@ -5,12 +5,10 @@ topic: share-a-feed-element-in-version-390-and-later
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.898Z
+lastCollected: 2026-04-07T18:36:19.120Z
 estimatedTokens: 87
-keywords: [Share, Feed, Element, Version, 39.0, Later, Call]
+keywords: [Share, 39.0, Call]
 ---
-
-# Share a Feed Element (in Version 39.0 and Later)
 
 > Call a method to share a feed element.
 

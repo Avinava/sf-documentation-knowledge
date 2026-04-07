@@ -5,13 +5,11 @@ topic: publicsectrsltn-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.575Z
+lastCollected: 2026-04-07T18:39:00.689Z
 estimatedTokens: 539
 namespace: PublicSectrSltn
 keywords: [PublicSectrSltn, classes, Sector, Solutions]
 ---
-
-# PublicSectrSltn Namespace
 
 > The
                 PublicSectrSltn namespace provides classes for Public

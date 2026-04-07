@@ -5,12 +5,10 @@ topic: 441000-441999-sms-triggered-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.822Z
+lastCollected: 2026-04-07T18:40:14.838Z
 estimatedTokens: 219
 keywords: [441000-441999, SMS, Triggered, Send, Definition]
 ---
-
-# 441000-441999 SMS Triggered Send Definition
 
 # 441000-441999 SMS Triggered Send Definition
 

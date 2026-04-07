@@ -5,12 +5,10 @@ topic: promotionsegmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.703Z
+lastCollected: 2026-04-07T18:39:57.289Z
 estimatedTokens: 265
-keywords: [PromotionSegmentHistory, History, tracked, PromotionSegment]
+keywords: [PromotionSegmentHistory, tracked, PromotionSegment]
 ---
-
-# PromotionSegmentHistory
 
 > History for tracked fields of PromotionSegment.
 

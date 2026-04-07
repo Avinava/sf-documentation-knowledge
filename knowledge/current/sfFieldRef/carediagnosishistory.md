@@ -5,12 +5,10 @@ topic: carediagnosishistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.379Z
+lastCollected: 2026-04-07T18:39:31.746Z
 estimatedTokens: 261
-keywords: [CareDiagnosisHistory, History, tracked, CareDiagnosis]
+keywords: [CareDiagnosisHistory, tracked, CareDiagnosis]
 ---
-
-# CareDiagnosisHistory
 
 > History for tracked fields of CareDiagnosis.
 

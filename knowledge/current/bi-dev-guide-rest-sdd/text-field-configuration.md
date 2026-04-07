@@ -5,12 +5,10 @@ topic: text-field-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.714Z
+lastCollected: 2026-04-07T18:37:00.218Z
 estimatedTokens: 77
 keywords: [Text, Configuration]
 ---
-
-# Text Field Configuration
 
 > The text field configuration.
 

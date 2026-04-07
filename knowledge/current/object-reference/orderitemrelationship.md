@@ -5,12 +5,10 @@ topic: orderitemrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.712Z
+lastCollected: 2026-04-07T18:38:36.962Z
 estimatedTokens: 1482
-keywords: [OrderItemRelationship, relationship, order, products, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [OrderItemRelationship, relationship, order, products, API, 58.0]
 ---
-
-# OrderItemRelationship
 
 > Describes a relationship between order products. This object is
       available in API version 58.0 and later.

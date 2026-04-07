@@ -5,12 +5,10 @@ topic: data-connector-ingest-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.546Z
+lastCollected: 2026-04-07T18:36:56.042Z
 estimatedTokens: 242
-keywords: [Data, Connector, Ingest, Resource, Triggers, Analytics, run, sync, API, equivalent, “Run, Now”, feature, URL, Formats]
+keywords: [Formats, Connector, Ingest, Resource, Triggers, Analytics, run, sync, API, equivalent, “Run, Now”, feature, URL, HTTP, POST]
 ---
-
-# Data Connector Ingest Resource
 
 > Triggers the Analytics connector to run a data sync. This API is the
       equivalent of the “Run Now” UI feature.

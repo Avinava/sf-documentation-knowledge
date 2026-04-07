@@ -5,12 +5,10 @@ topic: adpagelayouttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:21.840Z
+lastCollected: 2026-04-07T18:38:12.123Z
 estimatedTokens: 720
-keywords: [AdPageLayoutType, layouts, print, magazines, newspapers, screens, websites, applications, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [AdPageLayoutType, layouts, print, magazines, newspapers, screens, websites, applications, API, 57.0]
 ---
-
-# AdPageLayoutType
 
 > Represents layouts for print, such as magazines and newspapers, or for screens,
       websites, applications. This object is available in API version 57.0 and later.

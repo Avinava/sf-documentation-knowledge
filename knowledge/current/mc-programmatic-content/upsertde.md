@@ -5,12 +5,10 @@ topic: upsertde
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.135Z
+lastCollected: 2026-04-07T18:40:23.576Z
 estimatedTokens: 275
-keywords: [UpsertDE, Function, Ordinal, data, extension, array, containing, column, filter, **Overview**, **Syntax**, Examples, row, numeric, Number, columns, build, Usage]
+keywords: [UpsertDE, Examples, Function, Ordinal, extension, array, containing, column, filter, **Overview**, **Syntax**, row, numeric, Number, columns, build]
 ---
-
-# UpsertDE
 
 > UpsertDE(1, 2, 3, 4, 5)
 

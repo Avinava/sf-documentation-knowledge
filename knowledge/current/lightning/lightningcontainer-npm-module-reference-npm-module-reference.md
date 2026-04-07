@@ -6,13 +6,10 @@ topic: lightningcontainer-npm-module-reference-npm-module-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.445Z
+lastCollected: 2026-04-07T18:38:03.465Z
 estimatedTokens: 310
-keywords: [lightning, container, NPM, Module, included, JavaScript, code, send, receive, messages, custom, Aura, component]
+keywords: [lightning, container, NPM, Module, included, JavaScript, code, send, receive, messages, Aura]
 ---
-
-# lightning:container NPM Module Reference NPM Module
-  Reference
 
 > Use methods included in the lightning:container NPM module in your JavaScript code to
   send and receive messages to and from your custom Aura component.

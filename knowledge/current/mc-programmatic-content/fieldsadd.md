@@ -5,12 +5,10 @@ topic: fieldsadd
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.556Z
+lastCollected: 2026-04-07T18:40:22.983Z
 estimatedTokens: 151
 keywords: [Fields.Add, Function, Ordinal, containing, new, **Overview**, **Syntax**]
 ---
-
-# Fields.Add
 
 > Fields.Add(1)
 

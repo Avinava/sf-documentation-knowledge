@@ -5,12 +5,10 @@ topic: analyticsworkspaceasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.744Z
+lastCollected: 2026-04-07T18:39:25.709Z
 estimatedTokens: 396
-keywords: [AnalyticsWorkspaceAsset, Tableau, asset, workspace, API, version, 54.0, later]
+keywords: [AnalyticsWorkspaceAsset, Tableau, asset, workspace, API, 54.0]
 ---
-
-# AnalyticsWorkspaceAsset
 
 > Represents a Tableau Next asset in a workspace. This object is available in API version 54.0 and later.
 

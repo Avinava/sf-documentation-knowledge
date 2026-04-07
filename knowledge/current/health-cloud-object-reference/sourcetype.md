@@ -5,12 +5,10 @@ topic: sourcetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.269Z
+lastCollected: 2026-04-07T18:37:40.241Z
 estimatedTokens: 41
 keywords: [sourceType, source, Opportunity]
 ---
-
-# sourceType
 
 > The source reference type, for example,
         Opportunity.

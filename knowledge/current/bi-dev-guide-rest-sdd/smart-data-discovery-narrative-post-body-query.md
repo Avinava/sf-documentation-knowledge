@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-post-body-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.229Z
+lastCollected: 2026-04-07T18:36:59.719Z
 estimatedTokens: 119
-keywords: [Smart, Data, Discovery, Narrative, Post, Query, Einstein, story]
+keywords: [Smart, Discovery, Narrative, Post, Query, Einstein, story]
 ---
-
-# Smart Data Discovery Narrative Post Body Query
 
 > A query for narrative data of an Einstein Discovery story.
 

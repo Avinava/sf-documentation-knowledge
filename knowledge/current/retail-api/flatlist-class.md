@@ -5,13 +5,11 @@ topic: flatlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.251Z
+lastCollected: 2026-04-07T18:39:10.727Z
 estimatedTokens: 981
 namespace: CGCloud
-keywords: [FlatList, Real, Time, Reporting, RTR, report, component, extends, ReportComponent, Usage, getRows, rowTypeFilter, getColumns, getRowTypes]
+keywords: [FlatList, Real, Time, Reporting, RTR, report, extends, ReportComponent, getRows, rowTypeFilter, getColumns, getRowTypes]
 ---
-
-# FlatList Class
 
 > Represents a Real Time Reporting (RTR) report UI Flatlist
    component. This class extends the ReportComponent

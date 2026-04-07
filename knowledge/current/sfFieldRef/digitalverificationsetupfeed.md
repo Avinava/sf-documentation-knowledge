@@ -5,12 +5,10 @@ topic: digitalverificationsetupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:43.302Z
+lastCollected: 2026-04-07T18:39:38.015Z
 estimatedTokens: 393
-keywords: [DigitalVerificationSetupFeed, Feed, tracking, DigitalVerificationSetup]
+keywords: [DigitalVerificationSetupFeed, DigitalVerificationSetup]
 ---
-
-# DigitalVerificationSetupFeed
 
 > Feed tracking for DigitalVerificationSetup.
 

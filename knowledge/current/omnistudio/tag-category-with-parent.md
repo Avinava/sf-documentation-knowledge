@@ -5,12 +5,10 @@ topic: tag-category-with-parent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.865Z
+lastCollected: 2026-04-07T18:36:40.570Z
 estimatedTokens: 171
-keywords: [Tag, Category, Parent, Output, representation]
+keywords: [Tag, Category, Parent]
 ---
-
-# Tag Category with Parent
 
 > Output representation of a category with its parent
     category.

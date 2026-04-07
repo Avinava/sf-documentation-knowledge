@@ -5,12 +5,10 @@ topic: swap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.543Z
+lastCollected: 2026-04-07T18:39:23.475Z
 estimatedTokens: 147
 keywords: [swap, call, another, occurs, participant, hold, resumed, placed]
 ---
-
-# swap
 
 > Swap one call with another. When a call swap occurs,
             the participant on hold is resumed and the resumed participant is placed on

@@ -5,12 +5,10 @@ topic: apexoutputtext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.047Z
+lastCollected: 2026-04-07T18:38:50.306Z
 estimatedTokens: 939
-keywords: [apex, outputText, Displays, text, Visualforce, customize, appearance, <apex, outputText>, CSS, styles, case, generated, wrapped, HTML]
+keywords: [Attributes, apex, outputText, Displays, text, Visualforce, customize, appearance, <apex, outputText>, CSS, styles, case, generated, wrapped, HTML, <span>, tag, escape, rendered, sensitive, XML, characters, Basic, formatting, Date, Currency]
 ---
-
-# apex:outputText
 
 > Displays text on a Visualforce page. You can customize the appearance
 			of <apex:outputText>

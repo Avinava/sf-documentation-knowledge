@@ -5,12 +5,10 @@ topic: preventivecareagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.910Z
+lastCollected: 2026-04-07T18:39:54.467Z
 estimatedTokens: 363
 keywords: [PreventiveCareAgreement, payment, terms, contracts, Preventive, Care, Fee, Agreement]
 ---
-
-# PreventiveCareAgreement
 
 > Specifies the payment terms for contracts of Preventive Care Fee
          Agreement.

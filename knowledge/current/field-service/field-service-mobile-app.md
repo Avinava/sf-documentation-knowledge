@@ -5,12 +5,10 @@ topic: field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:00.955Z
+lastCollected: 2026-04-07T18:36:46.808Z
 estimatedTokens: 369
 keywords: [Service, Mobile, App, Configure, mobile-specific, features, deep, linking]
 ---
-
-# Field Service Mobile App
 
 > Configure mobile-specific features, such as deep linking, for the Field Service
   app.

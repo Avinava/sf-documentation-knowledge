@@ -5,12 +5,10 @@ topic: retrieverequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.856Z
+lastCollected: 2026-04-07T18:36:29.331Z
 estimatedTokens: 510
 keywords: [RetrieveRequest, retrieve, call, encapsulates, options, determining, packages, files, retrieved]
 ---
-
-# RetrieveRequest
 
 > The RetrieveRequest parameter specified on a 
   retrieve() call encapsulates options for determining which packages or files are 

@@ -5,12 +5,10 @@ topic: disputeitemmerchantalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.254Z
+lastCollected: 2026-04-07T18:37:37.029Z
 estimatedTokens: 1685
-keywords: [DisputeItemMerchantAlert, alert, sent, card, issuer, merchant, occurs, chargeback, prevention, vendor, Ethoca, Alerts™, transaction, that’s, disputed]
+keywords: [DisputeItemMerchantAlert, alert, sent, card, issuer, merchant, occurs, chargeback, prevention, vendor, Ethoca, Alerts™, transaction, that’s, disputed, API, 60.0]
 ---
-
-# DisputeItemMerchantAlert
 
 > Represents the alert sent by the card issuer to the merchant. The alert
          occurs through a chargeback prevention vendor like Ethoca Merchant Alerts™ for a

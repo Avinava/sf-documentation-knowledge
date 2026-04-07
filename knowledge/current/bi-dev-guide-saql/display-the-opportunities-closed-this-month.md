@@ -5,12 +5,10 @@ topic: display-the-opportunities-closed-this-month
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.031Z
+lastCollected: 2026-04-07T18:37:00.554Z
 estimatedTokens: 480
 keywords: [Display, Opportunities, Closed, Month, relative, date, ranges, filter, current]
 ---
-
-# Display the Opportunities Closed This Month
 
 > Use relative date ranges to filter opportunities closed in the current
         month.

@@ -5,12 +5,10 @@ topic: view-and-manage-an-events-subscribers-on-the-platform-events-detail-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.180Z
+lastCollected: 2026-04-07T18:38:57.990Z
 estimatedTokens: 1458
-keywords: [View, Manage, Event’s, Subscribers, Platform, Detail, triggers, flows, processes, subscribed, event, Subscriptions, Apex, Subscription, States]
+keywords: [View, Manage, Event’s, Subscribers, Platform, Detail, triggers, flows, processes, subscribed, event, Subscriptions, Apex, Subscription, States, Suspend, Resume, Trigger]
 ---
-
-# View and Manage an Event’s Subscribers on the Platform Event’s Detail Page
 
 > View the triggers, flows, and processes that are subscribed to a
     platform event in the Subscriptions related list. Manage subscriptions for Apex

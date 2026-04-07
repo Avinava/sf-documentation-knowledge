@@ -5,12 +5,10 @@ topic: connectapiconnectiondbschemacollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.914Z
+lastCollected: 2026-04-07T18:36:08.270Z
 estimatedTokens: 127
 keywords: [ConnectApi.ConnectionDbSchemaCollection, collection, database, schemas]
 ---
-
-# ConnectApi.ConnectionDbSchemaCollection
 
 > Represents a collection of database schemas.
 

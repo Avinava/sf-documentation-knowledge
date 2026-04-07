@@ -5,12 +5,10 @@ topic: financialdealproductfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.039Z
+lastCollected: 2026-04-07T18:39:40.650Z
 estimatedTokens: 301
-keywords: [FinancialDealProductFeed, Feed, tracking, FinancialDealProduct]
+keywords: [FinancialDealProductFeed, FinancialDealProduct]
 ---
-
-# FinancialDealProductFeed
 
 > Feed tracking for FinancialDealProduct.
 

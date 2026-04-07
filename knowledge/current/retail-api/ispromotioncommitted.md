@@ -5,12 +5,10 @@ topic: ispromotioncommitted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.786Z
+lastCollected: 2026-04-07T18:39:11.318Z
 estimatedTokens: 66
-keywords: [isPromotionCommitted, validates, promotion, Committed, phase, Input, Sample]
+keywords: [isPromotionCommitted, validates, promotion, Committed, phase, Sample]
 ---
-
-# isPromotionCommitted
 
 > This method validates if the given promotion is on Committed phase.
 

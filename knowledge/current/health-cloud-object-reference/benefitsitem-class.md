@@ -5,13 +5,11 @@ topic: benefitsitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.774Z
+lastCollected: 2026-04-07T18:37:39.720Z
 estimatedTokens: 841
 namespace: HealthCloudExt
 keywords: [BenefitsItem, Specific, service, covered, insurance, plan, benefitsCategory, benefitsItemLimit, inPlanNetworkIndicator, notes, serviceType, serviceTypeCode]
 ---
-
-# BenefitsItem Class
 
 > Specific service covered by the insurance
   plan.

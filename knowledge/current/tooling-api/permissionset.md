@@ -5,12 +5,10 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:48.524Z
+lastCollected: 2026-04-07T18:36:33.868Z
 estimatedTokens: 1020
-keywords: [PermissionSet, permissions, that’s, grant, access, users, changing, their, profile, reassigning, profiles, API, version, 28.0, later]
+keywords: [PermissionSet, permissions, that’s, grant, users, changing, their, profile, reassigning, profiles, API, 28.0, SOAP]
 ---
-
-# PermissionSet
 
 > Represents a set of permissions that’s used to grant more
             access to users without changing their profile or reassigning profiles. Available

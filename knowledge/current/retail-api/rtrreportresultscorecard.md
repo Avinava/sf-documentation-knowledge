@@ -5,13 +5,11 @@ topic: rtrreportresultscorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.107Z
+lastCollected: 2026-04-07T18:39:10.567Z
 estimatedTokens: 177
 namespace: The
-keywords: [RTRReportResult.ScoreCard, RTR, Report, ScoreCard, component, Implementation]
+keywords: [RTRReportResult.ScoreCard, RTR, Report, ScoreCard, Implementation]
 ---
-
-# RTRReportResult.ScoreCard
 
 > This class represents an RTR Report UI ScoreCard component.
 

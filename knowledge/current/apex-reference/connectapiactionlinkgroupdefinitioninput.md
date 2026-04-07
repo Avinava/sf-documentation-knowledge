@@ -5,12 +5,10 @@ topic: connectapiactionlinkgroupdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.122Z
+lastCollected: 2026-04-07T18:36:04.341Z
 estimatedTokens: 1243
 keywords: [definition, action, link, group, links, belong, mutually, exclusive, share, Define, standalone, actions, their, own]
 ---
-
-# ConnectApi.ActionLinkGroupDefinitionInput
 
 > The definition of an action link group. All action links must belong
       to a group. Action links in a group are mutually exclusive and share some properties. Define

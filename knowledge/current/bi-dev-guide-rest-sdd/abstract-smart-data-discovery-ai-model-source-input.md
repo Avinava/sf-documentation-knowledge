@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-ai-model-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.969Z
+lastCollected: 2026-04-07T18:36:58.495Z
 estimatedTokens: 228
-keywords: [Abstract, Smart, Data, Discovery, Model, Source, Input, base, Einstein]
+keywords: [Abstract, Smart, Discovery, Model, Source, base, Einstein]
 ---
-
-# Abstract Smart Data Discovery AI Model Source Input
 
 > The base source input for an Einstein Discovery AI model.
 

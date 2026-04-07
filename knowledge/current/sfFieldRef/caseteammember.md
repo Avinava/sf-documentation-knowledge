@@ -5,12 +5,10 @@ topic: caseteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:39.101Z
+lastCollected: 2026-04-07T18:39:33.509Z
 estimatedTokens: 309
 keywords: [CaseTeamMember, case, team, member, works, users, help, resolve]
 ---
-
-# CaseTeamMember
 
 > Represents a case team member, who
 				works with a team of other users to help resolve a case.

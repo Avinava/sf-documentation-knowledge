@@ -5,13 +5,11 @@ topic: calculationprocedurevariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.940Z
+lastCollected: 2026-04-07T18:39:31.251Z
 estimatedTokens: 444
 namespace: Namespace
-keywords: [CalculationProcedureVariable, variable, Expression, label, API, version, 53.0, later]
+keywords: [CalculationProcedureVariable, variable, Expression, label, API, 53.0]
 ---
-
-# CalculationProcedureVariable
 
 > Defines a variable in an Expression Set. The label for this object is
          Expression Set Variable. This object is available in API version 53.0 and later.

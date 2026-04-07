@@ -5,12 +5,10 @@ topic: checkout-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:30.374Z
+lastCollected: 2026-04-07T18:37:17.447Z
 estimatedTokens: 148
 keywords: [Checkout, Settings, Salesforce]
 ---
-
-# Checkout Settings
 
 > Settings for Salesforce Checkout.
 

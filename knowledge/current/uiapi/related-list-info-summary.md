@@ -5,12 +5,10 @@ topic: related-list-info-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.178Z
+lastCollected: 2026-04-07T18:40:12.184Z
 estimatedTokens: 349
 keywords: [Info, Summary]
 ---
-
-# Related List Info Summary
 
 > A summary of a related list for an object.
 

@@ -5,12 +5,10 @@ topic: mortgage-information-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.504Z
+lastCollected: 2026-04-07T18:37:35.118Z
 estimatedTokens: 2111
-keywords: [Mortgage, Output]
+keywords: [Mortgage]
 ---
-
-# Mortgage Information Output
 
 > Represents the output of the GET method.
 

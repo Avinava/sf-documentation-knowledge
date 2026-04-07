@@ -5,12 +5,10 @@ topic: output-data-cloud-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.773Z
+lastCollected: 2026-04-07T18:39:18.487Z
 estimatedTokens: 183
-keywords: [Output, Data, Cloud, Node, Input, recipe]
+keywords: [Cloud, Node, recipe]
 ---
-
-# Output Data Cloud Node Input
 
 > An output Data 360 node in a recipe.
 

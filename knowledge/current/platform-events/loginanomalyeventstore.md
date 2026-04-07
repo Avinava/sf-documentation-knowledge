@@ -5,12 +5,10 @@ topic: loginanomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.446Z
+lastCollected: 2026-04-07T18:38:59.331Z
 estimatedTokens: 895
-keywords: [LoginAnomalyEventStore, Stores, records, data, access, anomalies, caused, potentially, malicious, login, actions, API, version, 64.0, later]
+keywords: [LoginAnomalyEventStore, Stores, records, anomalies, caused, potentially, malicious, login, actions, API, 64.0]
 ---
-
-# LoginAnomalyEventStore
 
 > Stores the records of data access anomalies that are caused by potentially
          malicious login actions. This object is available in API version 64.0 and later.

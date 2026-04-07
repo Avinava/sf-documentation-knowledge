@@ -5,12 +5,10 @@ topic: scriptutilhttpresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.065Z
+lastCollected: 2026-04-07T18:40:23.505Z
 estimatedTokens: 288
 keywords: [Script.Util.HttpResponse, Function, Ordinal, **Overview**, **Syntax**, Additional]
 ---
-
-# Script.Util.HttpResponse
 
 > Script.Util.HttpResponse(1)
 

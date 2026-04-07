@@ -5,12 +5,10 @@ topic: finservlifeeventc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.267Z
+lastCollected: 2026-04-07T18:37:38.092Z
 estimatedTokens: 409
-keywords: [FinServ_LifeEvent__c, client’s, life, event, birth, marriage, FinServ, _LifeEvent, Calls]
+keywords: [FinServ_LifeEvent__c, client’s, life, event, birth, marriage, FinServ, _LifeEvent]
 ---
-
-# FinServ_LifeEvent__c
 
 > Represents a client’s life event, such as a birth or
         marriage.

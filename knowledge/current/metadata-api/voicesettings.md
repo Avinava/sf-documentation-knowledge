@@ -5,12 +5,10 @@ topic: voicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.412Z
+lastCollected: 2026-04-07T18:36:30.787Z
 estimatedTokens: 1236
-keywords: [VoiceSettings, org’s, Sales, Dialer, settings, call, recording, conferencing, voicemail, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [VoiceSettings, org’s, Sales, Dialer, settings, call, recording, conferencing, voicemail, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# VoiceSettings
 
 > Represents an org’s Sales Dialer settings,
             such as call recording, conferencing, and voicemail.

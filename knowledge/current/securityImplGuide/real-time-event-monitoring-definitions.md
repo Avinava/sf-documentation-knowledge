@@ -5,12 +5,10 @@ topic: real-time-event-monitoring-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.873Z
+lastCollected: 2026-04-07T18:39:22.790Z
 estimatedTokens: 242
 keywords: [Real-Time, Event, Monitoring, Definitions, Keep, terms, mind, working]
 ---
-
-# Real-Time Event Monitoring Definitions
 
 > Keep these terms in mind when working with Real-Time Event Monitoring.
 

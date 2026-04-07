@@ -5,12 +5,10 @@ topic: create-branded-emails
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.845Z
+lastCollected: 2026-04-07T18:38:47.798Z
 estimatedTokens: 363
 keywords: [Branded, Emails, customize, branding, sent, subscribers, new, trial, organizations]
 ---
-
-# Create Branded Emails
 
 > You can customize the branding of the emails sent to subscribers of new trial
         organizations.

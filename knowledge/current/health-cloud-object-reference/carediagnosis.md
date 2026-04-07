@@ -5,12 +5,10 @@ topic: carediagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.182Z
+lastCollected: 2026-04-07T18:37:45.655Z
 estimatedTokens: 2179
-keywords: [CareDiagnosis, diagnosis, including, code, care, diagnoses, associated, Calls, Objects]
+keywords: [CareDiagnosis, diagnosis, including, code, care, diagnoses]
 ---
-
-# CareDiagnosis
 
 > Represents the details of a diagnosis including code type, name, and
          description. One or more care diagnoses can be associated with a care

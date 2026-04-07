@@ -5,12 +5,10 @@ topic: e-signature-notification-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.364Z
+lastCollected: 2026-04-07T18:37:25.289Z
 estimatedTokens: 153
 keywords: [E-signature, Notification, Settings]
 ---
-
-# E-signature Notification Settings
 
 > E-signature notification settings.
 

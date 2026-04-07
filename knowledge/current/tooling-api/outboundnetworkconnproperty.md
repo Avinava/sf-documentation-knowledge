@@ -5,12 +5,10 @@ topic: outboundnetworkconnproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.314Z
+lastCollected: 2026-04-07T18:36:33.699Z
 estimatedTokens: 314
-keywords: [OutboundNetworkConnProperty, name-value, pair, outbound, network, connection, API, version, 49.0, later, SOAP, Calls, REST, HTTP]
+keywords: [OutboundNetworkConnProperty, name-value, pair, outbound, network, connection, API, 49.0, SOAP, REST, HTTP]
 ---
-
-# OutboundNetworkConnProperty
 
 > Represents a name-value pair that describes the properties
         of the outbound network connection. Available in API version 49.0 and later.

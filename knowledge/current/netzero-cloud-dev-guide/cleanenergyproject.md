@@ -5,12 +5,10 @@ topic: cleanenergyproject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.411Z
+lastCollected: 2026-04-07T18:38:17.923Z
 estimatedTokens: 2033
-keywords: [CleanEnergyProject, project, credits, company, purchase, claim, clean, energy, usage, API, version, 59.0, later, Calls, Associated]
+keywords: [CleanEnergyProject, project, credits, company, purchase, claim, clean, energy, API, 59.0]
 ---
-
-# CleanEnergyProject
 
 > Represents information about a project that provides credits a
          company can purchase to claim clean energy usage. This object is available in API

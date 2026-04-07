@@ -5,12 +5,10 @@ topic: billingmilestoneplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:35.406Z
+lastCollected: 2026-04-07T18:39:29.551Z
 estimatedTokens: 596
-keywords: [BillingMilestonePlanItem, specific, billing, milestone, plan, that’s, manage, track, completion, certain, deliverables, stages, API, version, 63.0]
+keywords: [BillingMilestonePlanItem, specific, billing, milestone, plan, that’s, manage, track, completion, certain, deliverables, stages, API, 63.0]
 ---
-
-# BillingMilestonePlanItem
 
 > Represents a specific billing milestone within the billing milestone
          plan that’s used to manage and track billing based on the completion of certain

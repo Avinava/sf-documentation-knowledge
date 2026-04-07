@@ -5,12 +5,10 @@ topic: medical-director-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.867Z
+lastCollected: 2026-04-07T18:37:55.233Z
 estimatedTokens: 72
-keywords: [Medical, Director, Input, reviewed]
+keywords: [Medical, Director, reviewed]
 ---
-
-# Medical Director Input
 
 > Name of the medical director who reviewed the request.
 

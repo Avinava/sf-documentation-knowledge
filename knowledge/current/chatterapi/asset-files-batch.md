@@ -5,12 +5,10 @@ topic: asset-files-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.940Z
+lastCollected: 2026-04-07T18:37:13.904Z
 estimatedTokens: 75
 keywords: [Asset, Files, Batch, comma-separated]
 ---
-
-# Asset Files, Batch
 
 > Get information about a comma-separated list of up to 100 asset
       files.

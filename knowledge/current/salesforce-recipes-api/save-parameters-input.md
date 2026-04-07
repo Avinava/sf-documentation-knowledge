@@ -5,12 +5,10 @@ topic: save-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.942Z
+lastCollected: 2026-04-07T18:39:18.667Z
 estimatedTokens: 136
-keywords: [Save, Input, node, recipe]
+keywords: [Save, node, recipe]
 ---
-
-# Save Parameters Input
 
 > The parameters for a save node in a recipe.
 

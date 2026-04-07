@@ -5,12 +5,10 @@ topic: adding-info-windows-to-markers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.477Z
+lastCollected: 2026-04-07T18:38:51.738Z
 estimatedTokens: 422
 keywords: [Adding, Info, Windows, Markers, allow, show, extra, map, appear, user, clicks, taps, marker]
 ---
-
-# Adding Info Windows to Markers
 
 > Info windows allow you to show extra details on a map. Info windows appear when a user
     clicks or taps the marker.

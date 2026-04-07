@@ -5,12 +5,10 @@ topic: cgcloudtactictemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.749Z
+lastCollected: 2026-04-07T18:39:15.224Z
 estimatedTokens: 2547
-keywords: [cgcloud__Tactic_Template__c, Template, behavior, tactic, API, version, 54.0, later, cgcloud, _Tactic, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Tactic_Template__c, Template, behavior, tactic, API, 54.0, cgcloud, _Tactic, _Template]
 ---
-
-# cgcloud__Tactic_Template__c
 
 > Template that controls the behavior of a tactic. This object is
       available in API version 54.0 and later.

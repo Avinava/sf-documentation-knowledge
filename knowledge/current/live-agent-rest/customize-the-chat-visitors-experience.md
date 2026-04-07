@@ -5,12 +5,10 @@ topic: customize-the-chat-visitors-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.342Z
+lastCollected: 2026-04-07T18:38:06.562Z
 estimatedTokens: 473
-keywords: [Customize, Chat, Visitors’, Experience, visitor, REST, API, resources, establish, custom, mobile, applications]
+keywords: [Customize, Chat, Visitors’, Experience, visitor, REST, API, resources, establish, mobile, applications]
 ---
-
-# Customize the Chat Visitors’ Experience
 
 > With the Chat visitor REST API resources, you can establish your chat
   visitors’ experience with Chat in custom mobile applications.

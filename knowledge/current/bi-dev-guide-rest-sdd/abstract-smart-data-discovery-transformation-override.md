@@ -5,12 +5,10 @@ topic: abstract-smart-data-discovery-transformation-override
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.797Z
+lastCollected: 2026-04-07T18:36:59.298Z
 estimatedTokens: 300
-keywords: [Abstract, Smart, Data, Discovery, Transformation, Override, base, Einstein, deploy, overrides]
+keywords: [Abstract, Smart, Discovery, Transformation, Override, base, Einstein, deploy, overrides]
 ---
-
-# Abstract Smart Data Discovery Transformation Override
 
 > The base Einstein Discovery transformation deploy overrides.
 

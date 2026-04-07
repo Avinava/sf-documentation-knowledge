@@ -5,12 +5,10 @@ topic: voice-root-email-address-update-start-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.372Z
+lastCollected: 2026-04-07T18:37:10.079Z
 estimatedTokens: 122
-keywords: [Voice, Root, Email, Address, Start, Input, process, change, AWS, user, that's, associated, account, Service, Cloud]
+keywords: [Voice, Root, Email, Address, Start, process, change, AWS, user, that's, account, Service, Cloud, Amazon, Connect, partner, telephony, model]
 ---
-
-# Voice Root Email Address Update Start Input
 
 > Start the process to change the email address of the AWS root user that's associated
     with the Voice account. This request applies to the Service Cloud Voice with Amazon Connect

@@ -5,12 +5,10 @@ topic: emissionsactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.313Z
+lastCollected: 2026-04-07T18:39:38.968Z
 estimatedTokens: 311
 keywords: [EmissionsActivity, company’s, emission, generating, activities, greenhouse, gas, categories, aggregate, emissions]
 ---
-
-# EmissionsActivity
 
 > Represents a company’s emission generating activities and the greenhouse gas categories that are used to aggregate emissions for these activities.
 

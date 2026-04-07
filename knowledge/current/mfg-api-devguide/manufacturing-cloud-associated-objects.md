@@ -5,12 +5,10 @@ topic: manufacturing-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.051Z
+lastCollected: 2026-04-07T18:38:13.319Z
 estimatedTokens: 162
-keywords: [Manufacturing, Cloud, Associated, Objects, standard, their]
+keywords: [Manufacturing, Cloud, standard, their]
 ---
-
-# Manufacturing Cloud Associated Objects
 
 > This section provides a list of objects associated to Manufacturing Cloud standard
   objects with their standard fields.

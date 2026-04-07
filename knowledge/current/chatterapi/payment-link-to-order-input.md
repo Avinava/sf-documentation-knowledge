@@ -5,12 +5,10 @@ topic: payment-link-to-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.726Z
+lastCollected: 2026-04-07T18:37:09.453Z
 estimatedTokens: 253
-keywords: [Payment, Link, Order, Input, that's, generate]
+keywords: [Payment, Link, Order, that's, generate]
 ---
-
-# Payment Link To Order Input
 
 > Payment link input that's used to generate the payment order.
 

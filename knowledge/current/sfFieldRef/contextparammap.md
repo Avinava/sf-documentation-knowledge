@@ -5,12 +5,10 @@ topic: contextparammap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.041Z
+lastCollected: 2026-04-07T18:39:35.500Z
 estimatedTokens: 300
-keywords: [ContextParamMap, context, data, Conversation, ConversationParticipant, API, version, 57.0, later]
+keywords: [ContextParamMap, context, Conversation, ConversationParticipant, API, 57.0]
 ---
-
-# ContextParamMap
 
 > Represents optional context data for a Conversation or a
          ConversationParticipant. This object is available in API version 57.0 and later.

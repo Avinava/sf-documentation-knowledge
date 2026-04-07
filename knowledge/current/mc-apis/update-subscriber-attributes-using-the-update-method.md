@@ -5,12 +5,10 @@ topic: update-subscriber-attributes-using-the-update-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.740Z
+lastCollected: 2026-04-07T18:40:21.010Z
 estimatedTokens: 4314
-keywords: [Subscriber, Attributes, updating, via, SOAP, API, Why, How, Sample, NET, Code, Java, Axis, 1.4, CXF]
+keywords: [Subscriber, Attributes, updating, via, SOAP, API, Why, How, Sample, NET, Code, Java, Axis, 1.4, CXF, PHP, Call]
 ---
-
-# Update Subscriber Attributes using the Update Method
 
 > This page contains information about updating subscriber attributes via the SOAP API using the Update method.
 

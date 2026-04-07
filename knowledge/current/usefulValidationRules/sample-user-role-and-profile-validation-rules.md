@@ -5,12 +5,10 @@ topic: sample-user-role-and-profile-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.571Z
+lastCollected: 2026-04-07T18:40:12.555Z
 estimatedTokens: 783
-keywords: [Sample, User, Role, Profile, Validation, Rules, Examples, how, validate, custom, Discount, Percent, Exceed, Role-Based, Limit]
+keywords: [Sample, User, Role, Profile, Validation, Examples, how, validate, Discount, Percent, Exceed, Role-Based, Limit, Expense, Amount, User's, Max, Allowed, Record, Owner, Change, Administrator, Opportunity, Close, Date, Back-Dated]
 ---
-
-# Sample User, Role, and Profile Validation Rules
 
 > Examples on how to validate custom user, role, and profile fields.
 

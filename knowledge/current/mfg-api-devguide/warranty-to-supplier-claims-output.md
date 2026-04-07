@@ -5,12 +5,10 @@ topic: warranty-to-supplier-claims-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.459Z
+lastCollected: 2026-04-07T18:38:12.758Z
 estimatedTokens: 93
-keywords: [Warranty, Supplier, Claims, Output, representation, recovery, created]
+keywords: [Warranty, Supplier, Claims, recovery, created]
 ---
-
-# Warranty To Supplier Claims Output
 
 > Output representation with the supplier recovery claims created from warranty claims.
 

@@ -5,12 +5,10 @@ topic: customize-chat-images-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.586Z
+lastCollected: 2026-04-07T18:40:27.739Z
 estimatedTokens: 1028
-keywords: [Customize, Chat, Images, Specify, custom, throughout]
+keywords: [Customize, Chat, Images, Specify, throughout]
 ---
-
-# Customize Chat Images with the
 
 > Specify custom images used throughout the chat UI.
 

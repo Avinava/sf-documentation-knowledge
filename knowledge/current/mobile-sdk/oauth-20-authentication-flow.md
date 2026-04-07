@@ -5,12 +5,10 @@ topic: oauth-20-authentication-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.454Z
+lastCollected: 2026-04-07T18:40:26.724Z
 estimatedTokens: 282
-keywords: [OAuth, 2.0, Authentication, Flow, depends, state, device, steps, assume, Salesforce, occurs, app, startup, Time, Authorization]
+keywords: [OAuth, 2.0, Authentication, Flow, depends, state, device, steps, assume, Salesforce, occurs, app, startup, Time, Authorization, Ongoing, PIN]
 ---
-
-# OAuth 2.0 Authentication Flow
 
 > The authentication flow depends on the state of authentication on the device. The following steps
    assume that Salesforce authentication occurs at app startup.

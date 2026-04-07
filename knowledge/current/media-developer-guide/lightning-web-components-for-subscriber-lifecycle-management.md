@@ -5,12 +5,10 @@ topic: lightning-web-components-for-subscriber-lifecycle-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.113Z
+lastCollected: 2026-04-07T18:38:11.384Z
 estimatedTokens: 2001
-keywords: [Lightning, Web, Components, Subscriber, Lifecycle, Management, uses, LWC, part, managed, package, can't, extended, changed]
+keywords: [Lightning, Web, Subscriber, Lifecycle, Management, uses, LWC, part, managed, package, can't, extended, changed]
 ---
-
-# Lightning Web Components for Subscriber Lifecycle Management
 
 > Subscriber Lifecycle Management uses Lightning Web
       Components (LWC). These LWC components are part of the managed package and can't be extended

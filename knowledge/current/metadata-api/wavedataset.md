@@ -5,12 +5,10 @@ topic: wavedataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.452Z
+lastCollected: 2026-04-07T18:36:30.843Z
 estimatedTokens: 467
-keywords: [WaveDataset, Analytics, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
+keywords: [WaveDataset, Analytics, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# WaveDataset
 
 > Represents the WaveDataset object in the Analytics
    application.

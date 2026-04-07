@@ -5,12 +5,10 @@ topic: airtravelenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.169Z
+lastCollected: 2026-04-07T18:38:17.695Z
 estimatedTokens: 4629
-keywords: [AirTravelEnrgyUse, energy, consumption, air, travel, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AirTravelEnrgyUse, energy, consumption, air, travel, API, 54.0]
 ---
-
-# AirTravelEnrgyUse
 
 > Represents the energy consumption related to air travel. This
       object is available in API version 54.0 and later.

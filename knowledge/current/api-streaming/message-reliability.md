@@ -5,12 +5,10 @@ topic: message-reliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.356Z
+lastCollected: 2026-04-07T18:36:51.700Z
 estimatedTokens: 523
-keywords: [Message, Reliability, clients, subscribed, API, version, 37.0, later, Streaming, reliable, delivery, enabling, replay, past, events]
+keywords: [Message, Reliability, clients, subscribed, API, 37.0, Streaming, reliable, delivery, enabling, replay, past, events, durable, 36.0, earlier, receive, messages, situations]
 ---
-
-# Message Reliability
 
 > For clients subscribed with API version 37.0 or later, Streaming API provides reliable
   message delivery by enabling you to replay past events through durable streaming. Clients

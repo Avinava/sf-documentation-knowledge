@@ -5,12 +5,10 @@ topic: shift-management-for-workcom-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.383Z
+lastCollected: 2026-04-07T18:40:14.396Z
 estimatedTokens: 3705
-keywords: [Shift, Management, Work.com, package, includes, several, custom, objects, described, requires, Workplace, Command, Center, builds, Service]
+keywords: [Shift, Management, Work.com, package, includes, several, described, requires, Workplace, Command, Center, builds, Service, capabilities, appointments, schedule, optimization, Standard]
 ---
-
-# Shift Management for Work.com Object Reference
 
 > The Shift Management package includes several custom objects and fields that are
     described in this section. Shift Management requires Workplace Command Center and it builds on

@@ -5,12 +5,10 @@ topic: personeducation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.584Z
+lastCollected: 2026-04-07T18:37:31.723Z
 estimatedTokens: 844
-keywords: [PersonEducation, academic, standing, applicant, API, version, 57.0, later, Calls]
+keywords: [PersonEducation, academic, standing, applicant, API, 57.0]
 ---
-
-# PersonEducation
 
 > Represents information about the academic standing of an applicant. This
       object is available in API version 57.0 and later.

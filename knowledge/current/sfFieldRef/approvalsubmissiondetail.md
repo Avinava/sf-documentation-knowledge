@@ -5,12 +5,10 @@ topic: approvalsubmissiondetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.808Z
+lastCollected: 2026-04-07T18:39:26.765Z
 estimatedTokens: 470
-keywords: [ApprovalSubmissionDetail, additional, operations, happening, approval, lifecycle, hold, any, that’s, already, captured, ApprovalSubmission, ApprovalWorkItem, entities, API]
+keywords: [ApprovalSubmissionDetail, additional, operations, happening, approval, lifecycle, hold, any, that’s, already, captured, ApprovalSubmission, ApprovalWorkItem, entities, API, 62.0]
 ---
-
-# ApprovalSubmissionDetail
 
 > ApprovalSubmissionDetail contains  additional information about operations
          happening during the approval lifecycle. It will not hold any information that’s already

@@ -5,12 +5,10 @@ topic: annual-emissions-inventory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.013Z
+lastCollected: 2026-04-07T18:38:16.576Z
 estimatedTokens: 10142
-keywords: [Annual, Emissions, Inventory, company's, total, carbon, particular, year, metric, tonnes, CO2e, tCO2e, sum, scope, greenhouse]
+keywords: [Annual, Emissions, Inventory, company's, total, carbon, particular, year, metric, tonnes, CO2e, tCO2e, sum, scope, greenhouse, gas, categories]
 ---
-
-# Annual Emissions Inventory
 
 > The Annual Emissions Inventory object represents information about a company's total
     carbon emissions for a particular year in metric tonnes of CO2e (tCO2e). These emissions are the

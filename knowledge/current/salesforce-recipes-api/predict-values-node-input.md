@@ -5,12 +5,10 @@ topic: predict-values-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.837Z
+lastCollected: 2026-04-07T18:39:18.561Z
 estimatedTokens: 123
-keywords: [Predict, Node, Input, missing, recipe]
+keywords: [Predict, Node, missing, recipe]
 ---
-
-# Predict Values Node Input
 
 > A predict missing values node in a recipe.
 

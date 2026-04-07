@@ -5,12 +5,10 @@ topic: cgcloudvisittemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.107Z
+lastCollected: 2026-04-07T18:39:15.625Z
 estimatedTokens: 3572
-keywords: [cgcloud__Visit_Template__c, Template, basic, call, behavior, API, version, 54.0, later, cgcloud, _Visit, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Visit_Template__c, Template, basic, call, behavior, API, 54.0, cgcloud, _Visit, _Template]
 ---
-
-# cgcloud__Visit_Template__c
 
 > Template that describes the basic call behavior. This object is
       available in API version 54.0 and later.

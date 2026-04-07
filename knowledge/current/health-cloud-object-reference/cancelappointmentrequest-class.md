@@ -5,12 +5,10 @@ topic: cancelappointmentrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.837Z
+lastCollected: 2026-04-07T18:37:39.783Z
 estimatedTokens: 1316
 keywords: [CancelAppointmentRequest, options, cancel, booked, appointment, appointmentId, appointmentType, cancelationReason, serviceType, slot, sourceFacilityId, sourcePatientId, sourcePractitionerId, sourceSystem]
 ---
-
-# CancelAppointmentRequest Class
 
 > Contains set of options to cancel the booked
     appointment.

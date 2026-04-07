@@ -5,12 +5,10 @@ topic: discovery-contributor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.392Z
+lastCollected: 2026-04-07T18:39:19.071Z
 estimatedTokens: 95
 keywords: [Discovery, Contributor, Einstein, prediction]
 ---
-
-# Discovery Contributor
 
 > The discovery information for an Einstein Discovery prediction field.
 

@@ -5,12 +5,10 @@ topic: connectapiinsurancememberratingdetailsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.118Z
+lastCollected: 2026-04-07T18:37:49.964Z
 estimatedTokens: 104
-keywords: [Input, representation, individual, member, rated]
+keywords: [individual, member, rated]
 ---
-
-# ConnectApi.InsuranceMemberRatingDetailsInputRepresentation
 
 > Input representation for the details of an individual member to be rated.
 

@@ -5,12 +5,10 @@ topic: knowledgecategorylist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.763Z
+lastCollected: 2026-04-07T18:38:49.968Z
 estimatedTokens: 439
-keywords: [knowledge, categoryList, loop, subset, category, hierarchy, total, number, categories, can't, exceed, descendents, phone, product, group]
+keywords: [Attributes, knowledge, categoryList, loop, subset, category, hierarchy, total, number, categories, can't, exceed, descendents, phone, product, group]
 ---
-
-# knowledge:categoryList
 
 > A loop on a subset of the category hierarchy. The total number of categories displayed in
 			a page can't exceed 500.

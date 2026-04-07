@@ -5,12 +5,10 @@ topic: syncing-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.222Z
+lastCollected: 2026-04-07T18:40:25.585Z
 estimatedTokens: 971
-keywords: [Syncing, Data, native, Mobile, Sync, apps, manager, easily, device, Salesforce, server, “up”—from, server—or, “down”—from]
+keywords: [Syncing, native, Mobile, Sync, apps, manager, easily, device, Salesforce, server, “up”—from, server—or, “down”—from]
 ---
-
-# Syncing Data
 
 > In native Mobile Sync apps, you
             can use the sync manager to sync data easily between the device and the Salesforce server. The sync

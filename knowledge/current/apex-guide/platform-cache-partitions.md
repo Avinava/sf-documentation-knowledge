@@ -5,12 +5,10 @@ topic: platform-cache-partitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:30.833Z
+lastCollected: 2026-04-07T18:36:16.059Z
 estimatedTokens: 1051
-keywords: [Platform, Cache, Partitions, improve, performance, applications, allow, distribute, space, way, works, best, Caching, data, designated]
+keywords: [Platform, Cache, Partitions, improve, performance, applications, allow, distribute, space, way, works, best, Caching, designated, ensures, it’s, overwritten, less-critical, Packaging]
 ---
-
-# Platform Cache Partitions
 
 > Use Platform Cache partitions to improve the performance of your applications.
     Partitions allow you to distribute cache space in the way that works best for your applications.

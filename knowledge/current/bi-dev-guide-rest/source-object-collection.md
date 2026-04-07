@@ -5,12 +5,10 @@ topic: source-object-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.186Z
+lastCollected: 2026-04-07T18:36:57.734Z
 estimatedTokens: 224
-keywords: [Source, Collection, objects, Analytics, data, connector]
+keywords: [Source, Collection, Analytics, connector]
 ---
-
-# Source Object Collection
 
 > A collection of source objects for an Analytics data connector.
 

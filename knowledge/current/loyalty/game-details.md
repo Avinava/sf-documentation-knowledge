@@ -5,12 +5,10 @@ topic: game-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.669Z
+lastCollected: 2026-04-07T18:38:07.905Z
 estimatedTokens: 279
-keywords: [Game, Output, representation, definition]
+keywords: [Game, definition]
 ---
-
-# Game Details
 
 > Output representation of the details of a game definition.
 

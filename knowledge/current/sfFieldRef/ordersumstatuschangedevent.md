@@ -5,12 +5,10 @@ topic: ordersumstatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.801Z
+lastCollected: 2026-04-07T18:39:51.211Z
 estimatedTokens: 250
 keywords: [OrderSumStatusChangedEvent, Notifies, subscribers, changes, status, order, summary, record, event, trigger, flows, workflow]
 ---
-
-# OrderSumStatusChangedEvent
 
 > Notifies subscribers of changes to the status of an order summary record. Use
       this event to trigger subscribers such as flows in your order workflow.

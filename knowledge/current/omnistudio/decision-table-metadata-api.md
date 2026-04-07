@@ -5,12 +5,10 @@ topic: decision-table-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.252Z
+lastCollected: 2026-04-07T18:36:40.958Z
 estimatedTokens: 213
 keywords: [Decision, Metadata, API, edit, activate]
 ---
-
-# Decision Table Metadata API
 
 > You can create, edit, and activate a decision table using a Metadata API.
 

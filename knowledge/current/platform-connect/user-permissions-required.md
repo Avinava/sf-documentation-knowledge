@@ -5,12 +5,10 @@ topic: user-permissions-required
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.587Z
+lastCollected: 2026-04-07T18:38:57.390Z
 estimatedTokens: 330
 keywords: [User, Permissions, certain, interact, canvas, apps]
 ---
-
-# User Permissions Required
 
 > You need certain user permissions to interact with canvas apps.
 

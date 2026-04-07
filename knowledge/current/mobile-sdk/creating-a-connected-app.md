@@ -5,12 +5,10 @@ topic: creating-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.991Z
+lastCollected: 2026-04-07T18:40:25.361Z
 estimatedTokens: 153
 keywords: [Creating, Connected, App, enable, mobile, connect, Salesforce, service, includes, consumer, key, prerequisite, development, scenarios]
 ---
-
-# Creating a Connected App
 
 > To enable your mobile app to connect to the Salesforce service, you need to create a
    connected app. The connected app includes a consumer key, a prerequisite to all development

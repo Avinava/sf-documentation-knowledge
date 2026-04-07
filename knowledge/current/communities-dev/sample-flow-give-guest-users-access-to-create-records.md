@@ -5,12 +5,10 @@ topic: sample-flow-give-guest-users-access-to-create-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.959Z
+lastCollected: 2026-04-07T18:37:26.916Z
 estimatedTokens: 679
-keywords: [Sample, Flow, Give, Guest, Users, Access, Records, user, enters, feedback, stores, custom, record, doesn’t, creation]
+keywords: [Sample, Flow, Give, Guest, Users, Records, user, enters, feedback, stores, record, doesn’t, creation, Configuration, Form, End, Screen]
 ---
-
-# Sample Flow: Give Guest Users Access to Create Records
 
 > In this sample flow, the guest user enters feedback and the flow stores it in a custom
     object record. The guest user doesn’t have access to read the record after creation.

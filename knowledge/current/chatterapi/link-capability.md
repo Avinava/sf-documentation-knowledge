@@ -5,12 +5,10 @@ topic: link-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.896Z
+lastCollected: 2026-04-07T18:37:20.061Z
 estimatedTokens: 140
-keywords: [Link, Capability, feed, element]
+keywords: [Link, Capability]
 ---
-
-# Link Capability
 
 > If a feed element has this capability, it has a link.
 

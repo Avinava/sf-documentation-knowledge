@@ -5,12 +5,10 @@ topic: change-a-lifecycle-managed-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.851Z
+lastCollected: 2026-04-07T18:37:23.895Z
 estimatedTokens: 350
 keywords: [Change, Lifecycle-Managed, Asset, Review, Connect, REST, API, amend, new, lifecycle, event]
 ---
-
-# Change a Lifecycle-Managed Asset
 
 > Review an example of using Connect REST API to amend an asset after a new lifecycle
   event.

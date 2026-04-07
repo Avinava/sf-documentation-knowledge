@@ -5,12 +5,10 @@ topic: fetch-active-ocr-templates-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.548Z
+lastCollected: 2026-04-07T18:39:03.726Z
 estimatedTokens: 289
-keywords: [Fetch, Active, OCR, Templates, Action, org, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Fetch, Active, OCR, Templates, Action, org, REST, HTTP]
 ---
-
-# Fetch Active OCR Templates Action
 
 > Fetch all the active OCR templates in an org.
 

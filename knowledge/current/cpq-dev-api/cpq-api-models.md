@@ -5,12 +5,10 @@ topic: cpq-api-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.295Z
+lastCollected: 2026-04-07T18:37:27.299Z
 estimatedTokens: 561
-keywords: [CPQ, API, Models, references, several, data, Salesforce, classes, model, org]
+keywords: [CPQ, API, Models, references, several, Salesforce, classes, model, org]
 ---
-
-# CPQ API Models
 
 > CPQ API references several CPQ data models. To use the Salesforce CPQ API, create
   classes for each data model in your org.

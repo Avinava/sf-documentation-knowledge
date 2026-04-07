@@ -5,12 +5,10 @@ topic: cgcloudaccountproductprofilec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.306Z
+lastCollected: 2026-04-07T18:39:12.747Z
 estimatedTokens: 1730
-keywords: [cgcloud__Account_Product_Profile__c, stores, statistical, profiles, indicate, distribution, weekly, data, customer, category, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Account_Product_Profile__c, stores, statistical, profiles, indicate, distribution, weekly, customer, category, API, 54.0, cgcloud, _Account, _Product, _Profile]
 ---
-
-# cgcloud__Account_Product_Profile__c
 
 > This object stores statistical profiles that indicate the
          distribution of weekly data between a customer and category. This object is available

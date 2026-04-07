@@ -5,12 +5,10 @@ topic: override-component-branding-in-lwr-sites-with-custom-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.920Z
+lastCollected: 2026-04-07T18:37:33.215Z
 estimatedTokens: 584
-keywords: [Override, Component, Branding, LWR, Sites, Custom, CSS, Occasionally, styling, hooks, insufficient, style, way, want, situation]
+keywords: [Override, Branding, LWR, Sites, CSS, Occasionally, styling, hooks, insufficient, style, way, want, situation, selectors, target, preapproved, “parts”, Instances, Parts]
 ---
-
-# Override Component Branding in LWR Sites with Custom CSS
 
 > Occasionally, styling hooks are insufficient to style a component exactly the way you
     want. In this situation, you can use CSS selectors to target and style preapproved “parts”

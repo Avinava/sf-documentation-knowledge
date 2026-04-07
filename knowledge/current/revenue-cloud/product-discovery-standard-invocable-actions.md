@@ -5,12 +5,10 @@ topic: product-discovery-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.857Z
+lastCollected: 2026-04-07T18:35:47.892Z
 estimatedTokens: 674
-keywords: [Product, Discovery, Standard, Invocable, Actions, retrieve, category, catalog, Additionally, execute, qualification, procedure, search, products, guided]
+keywords: [Product, Discovery, Standard, Invocable, Actions, retrieve, category, catalog, Additionally, execute, qualification, procedure, search, products, guided, selection]
 ---
-
-# Product Discovery Standard Invocable Actions
 
 > Use the standard invocable actions available with Product Discovery to find and retrieve
   product, category, and catalog details. Additionally, execute a qualification procedure, and

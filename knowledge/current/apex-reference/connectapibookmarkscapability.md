@@ -5,12 +5,10 @@ topic: connectapibookmarkscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.085Z
+lastCollected: 2026-04-07T18:36:07.427Z
 estimatedTokens: 195
-keywords: [ConnectApi.BookmarksCapability, feed, element, capability, context, user, bookmark]
+keywords: [ConnectApi.BookmarksCapability, capability, context, user, bookmark]
 ---
-
-# ConnectApi.BookmarksCapability
 
 > If a feed element has this capability, the context user can bookmark
       it.

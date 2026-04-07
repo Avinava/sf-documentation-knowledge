@@ -5,12 +5,10 @@ topic: patient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.657Z
+lastCollected: 2026-04-07T18:37:58.184Z
 estimatedTokens: 1619
-keywords: [Patient, FHIR, resource, maps, Account, Contact, objects, Salesforce​, Patients, modeled, Person, Accounts, V4​.0, Clinical, ​Data]
+keywords: [Patient, FHIR, resource, maps, Account, Contact, Salesforce​, Patients, modeled, Person, Accounts, V4​.0, Clinical, ​Data, Model, Mapping, Sample, Record, Diagram]
 ---
-
-# Patient
 
 > The Patient FHIR resource maps to the Account and Contact objects
     in Salesforce​. Patients are modeled using Person Accounts.

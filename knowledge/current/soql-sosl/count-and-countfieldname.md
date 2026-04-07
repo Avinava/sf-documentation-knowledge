@@ -5,12 +5,10 @@ topic: count-and-countfieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.015Z
+lastCollected: 2026-04-07T18:40:09.972Z
 estimatedTokens: 480
 keywords: [COUNT, fieldName, discover, number, rows, query, aggregate, function, SELECT, statement, SOQL]
 ---
-
-# COUNT() and COUNT(fieldName)
 
 > To discover the number of rows that a query returns, use the aggregate function
 			COUNT() in a SELECT statement of a SOQL query.

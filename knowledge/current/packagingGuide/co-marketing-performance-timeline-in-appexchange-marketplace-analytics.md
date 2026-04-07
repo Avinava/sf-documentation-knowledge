@@ -5,12 +5,10 @@ topic: co-marketing-performance-timeline-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.045Z
+lastCollected: 2026-04-07T18:38:47.011Z
 estimatedTokens: 636
-keywords: [Co-Marketing, Performance, Timeline, AppExchange, Marketplace, Analytics, how, Partner, Program, promotions, contribute, listing, activity, over, time]
+keywords: [Definitions, Co-Marketing, Performance, Timeline, AppExchange, Marketplace, Analytics, how, Partner, Program, promotions, contribute, listing, activity, over, time, visits, resulted, industry, promotion, purchased, quarter]
 ---
-
-# Co-Marketing Performance Timeline in AppExchange Marketplace Analytics
 
 > See how your Partner Co-Marketing Program promotions contribute to listing activity over
     time. For example, see how many listing visits resulted from the industry promotion that you

@@ -5,12 +5,10 @@ topic: getslotstatusrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.857Z
+lastCollected: 2026-04-07T18:37:39.803Z
 estimatedTokens: 595
 keywords: [GetSlotStatusRequest, options, retrieve, slot, status, slotId, slotSourceSystem, slotSourceSystemId]
 ---
-
-# GetSlotStatusRequest Class
 
 > Contains set of options to retrieve the slot status.
 

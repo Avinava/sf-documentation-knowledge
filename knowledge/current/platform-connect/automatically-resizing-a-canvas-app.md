@@ -5,12 +5,10 @@ topic: automatically-resizing-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.119Z
+lastCollected: 2026-04-07T18:38:56.829Z
 estimatedTokens: 204
-keywords: [Automatically, Resizing, Canvas, App, code, examples, show, how, call, autogrow, resize, content, change, size, you’re]
+keywords: [Automatically, Resizing, Canvas, App, code, examples, show, how, call, autogrow, resize, content, change, size, you’re, sure]
 ---
-
-# Automatically Resizing a Canvas App
 
 > The following code examples show how to call the autogrow method to resize a canvas app. Use this method when your
                 content will change size, but you’re not sure when.

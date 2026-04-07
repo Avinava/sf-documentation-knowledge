@@ -5,12 +5,10 @@ topic: learn-lightning-web-components-with-documentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.813Z
+lastCollected: 2026-04-07T18:38:15.300Z
 estimatedTokens: 660
-keywords: [Lightning, Web, Components, Documentation, Component, Developer, understand, framework, how, Salesforce]
+keywords: [Lightning, Web, Documentation, Developer, understand, framework, how, Salesforce]
 ---
-
-# Learn Lightning Web Components with Documentation
 
 > Use the Lightning Web Component Developer Guide to understand the Lightning Web
   Components framework and how to use it with Salesforce.

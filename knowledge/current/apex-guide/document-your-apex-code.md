@@ -5,12 +5,10 @@ topic: document-your-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.279Z
+lastCollected: 2026-04-07T18:36:17.508Z
 estimatedTokens: 311
-keywords: [Document, Apex, Code, ApexDoc, standardized, comment, easier, humans, documentation, generators, agents, understand, codebase, recommend, comments]
+keywords: [Document, Apex, Code, ApexDoc, standardized, comment, easier, humans, documentation, generators, agents, understand, codebase, recommend, comments, facilitate, collaboration, increase, long-term, maintainability, JavaDoc, standard, specifications, specialized, tags, guidelines, tailored, Salesforce, ecosystem]
 ---
-
-# Document Your Apex Code
 
 > ApexDoc is a standardized comment format that makes it easier for humans, documentation
   generators, and AI agents to understand your codebase. We recommend using ApexDoc comments to

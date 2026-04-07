@@ -5,12 +5,10 @@ topic: use-addsubscribertolist-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.927Z
+lastCollected: 2026-04-07T18:40:24.431Z
 estimatedTokens: 327
-keywords: [AddSubscriberToList, helper, add, subscriber, EmailAddress, SubscriberKey, new, subscribers, account, added, additional, Ruby, PHP, Python, CSharp]
+keywords: [Ruby, Python, CSharp, Java, AddSubscriberToList, helper, add, subscriber, EmailAddress, SubscriberKey, new, subscribers, account, added, additional, PHP]
 ---
-
-# Use AddSubscriberToList Method
 
 > Use the AddSubscriberToList helper method to add a subscriber to a list (EmailAddress, Lists, SubscriberKey). This method applies to new subscribers in an account or existing subscribers added to an additional list.
 

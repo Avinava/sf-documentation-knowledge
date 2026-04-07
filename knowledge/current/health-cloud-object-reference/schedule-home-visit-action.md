@@ -5,12 +5,10 @@ topic: schedule-home-visit-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.674Z
+lastCollected: 2026-04-07T18:37:39.622Z
 estimatedTokens: 276
-keywords: [Schedule, Home, Visit, Action, patient, assess, condition, scheduling, recurring, visits, care, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Schedule, Home, Visit, Action, patient, assess, condition, scheduling, recurring, visits, care, REST, HTTP]
 ---
-
-# Schedule Home Visit Action
 
 > Schedule a home visit for the patient to assess the condition before
 			scheduling the recurring visits for the patient care.

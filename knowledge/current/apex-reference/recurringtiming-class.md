@@ -5,13 +5,11 @@ topic: recurringtiming-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.454Z
+lastCollected: 2026-04-07T18:36:00.727Z
 estimatedTokens: 1963
 namespace: RichMessaging
 keywords: [RecurringTiming, payment, occurs, regular, basis, startDate, endDate, intervalCount, intervalUnit, endDateValue, intervalCountValue, intervalUnitValue, startDateValue, timingType]
 ---
-
-# RecurringTiming Class
 
 > Represents a payment that occurs on a regular basis.
 

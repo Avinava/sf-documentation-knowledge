@@ -5,12 +5,10 @@ topic: create-a-snippet-settings-file-for-an-experience-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.796Z
+lastCollected: 2026-04-07T18:40:09.735Z
 estimatedTokens: 1330
-keywords: [Snippet, Settings, File, Experience, Site, Take, snippet-only, extra, pre-chat, configuration, direct-to-button, routing, JavaScript, upload, resource]
+keywords: [Snippet, Settings, File, Experience, Site, Take, snippet-only, extra, pre-chat, configuration, direct-to-button, routing, JavaScript, upload, resource, Embedded, Chat, Resources, Updating]
 ---
-
-# Create a Snippet Settings File for an Experience Site
 
 > Take your snippet-only settings like extra pre-chat configuration or direct-to-button
     routing to your Experience site. Create a JavaScript file and upload it as a static resource

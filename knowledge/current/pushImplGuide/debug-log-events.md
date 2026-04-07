@@ -5,12 +5,10 @@ topic: debug-log-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.955Z
+lastCollected: 2026-04-07T18:39:09.277Z
 estimatedTokens: 180
-keywords: [Debug, Log, Events, mobile, push, notification, service, logs, useful, understand, monitoring, Apex]
+keywords: [Events, Debug, Log, mobile, push, notification, service, logs, useful, understand, monitoring, Apex]
 ---
-
-# Debug Log Events
 
 > The mobile push notification service logs events that are useful to understand when you
   are monitoring an Apex debug log.

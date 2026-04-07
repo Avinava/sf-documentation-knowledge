@@ -5,12 +5,10 @@ topic: headless-forgot-password-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:51.380Z
+lastCollected: 2026-04-07T18:37:39.314Z
 estimatedTokens: 492
-keywords: [Headless, Forgot, Password, users, log, register, they, able, reset, their, passwords, Here’s, high-level, how, Flow]
+keywords: [Headless, Forgot, Password, users, log, register, they, able, reset, their, passwords, Here’s, high-level, how, Flow, works, single-page, app]
 ---
-
-# Headless Forgot Password Overview
 
 > If your users can log in and register, they must also be able to reset their passwords.
   Here’s a high-level overview of how the Headless Forgot Password Flow works with a single-page

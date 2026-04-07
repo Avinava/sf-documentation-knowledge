@@ -5,12 +5,10 @@ topic: forecasting-user-access-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.439Z
+lastCollected: 2026-04-07T18:37:19.585Z
 estimatedTokens: 78
-keywords: [Forecasting, User, Access, Collection, forecast, representations]
+keywords: [Forecasting, User, Collection, forecast, representations]
 ---
-
-# Forecasting User Access Collection
 
 > A collection of forecast user access representations.
 

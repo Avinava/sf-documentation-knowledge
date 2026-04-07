@@ -5,12 +5,10 @@ topic: multirootrenewpolicyrenewpolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.644Z
+lastCollected: 2026-04-07T18:37:49.490Z
 estimatedTokens: 312
-keywords: [MultiRootRenewPolicy, RenewPolicyInput, policyId, Asynchronouly, renew, multi-root, insurance, policy, renewed, records, parent, associated, child, policies, priced]
+keywords: [MultiRootRenewPolicy, RenewPolicyInput, policyId, Asynchronouly, renew, multi-root, insurance, policy, renewed, records, parent, child, policies, priced, context, renewal, process, API, Requires, Chatter]
 ---
-
-# MultiRootRenewPolicy(RenewPolicyInput, policyId)
 
 > Asynchronouly renew a multi-root insurance policy, create renewed records for the parent
         policy and the associated child policies. Use the priced context ID for the renewal

@@ -5,12 +5,10 @@ topic: mfgprogramcpntfrcstfacthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.458Z
+lastCollected: 2026-04-07T18:39:48.934Z
 estimatedTokens: 191
-keywords: [MfgProgramCpntFrcstFactHistory, History, tracked, MfgProgramCpntFrcstFact]
+keywords: [MfgProgramCpntFrcstFactHistory, tracked, MfgProgramCpntFrcstFact]
 ---
-
-# MfgProgramCpntFrcstFactHistory
 
 > History for tracked fields of MfgProgramCpntFrcstFact.
 

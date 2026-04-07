@@ -5,12 +5,10 @@ topic: financial-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.177Z
+lastCollected: 2026-04-07T18:37:34.742Z
 estimatedTokens: 1252
-keywords: [Financial, Input, transaction]
+keywords: [Financial, transaction]
 ---
-
-# Financial Input
 
 > Input details for the financial transaction.
 

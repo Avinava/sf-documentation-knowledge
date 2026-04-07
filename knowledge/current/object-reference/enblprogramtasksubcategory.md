@@ -5,12 +5,10 @@ topic: enblprogramtasksubcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.627Z
+lastCollected: 2026-04-07T18:38:30.440Z
 estimatedTokens: 1027
-keywords: [EnblProgramTaskSubCategory, custom, exercise, Enablement, admin, adds, program, Builder, requires, corresponding, EnblProgramTaskDefinition, record, LearningItem, LearningItemType, records]
+keywords: [EnblProgramTaskSubCategory, exercise, Enablement, admin, adds, program, Builder, requires, corresponding, EnblProgramTaskDefinition, record, LearningItem, LearningItemType, records, users, take, Guidance, Center, API, 62.0]
 ---
-
-# EnblProgramTaskSubCategory
 
 > Represents a custom exercise type that an Enablement admin adds to an
          Enablement program in Program Builder. A custom exercise type also requires a corresponding

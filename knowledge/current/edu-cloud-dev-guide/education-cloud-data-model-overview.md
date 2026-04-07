@@ -5,12 +5,10 @@ topic: education-cloud-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:42.690Z
+lastCollected: 2026-04-07T18:37:29.765Z
 estimatedTokens: 280
-keywords: [Education, Cloud, Data, Model, objects, relationships]
+keywords: [Education, Cloud, Model, relationships]
 ---
-
-# Education Cloud Data Model Overview
 
 > Learn about the objects and relationships within the Education Cloud data
   model.

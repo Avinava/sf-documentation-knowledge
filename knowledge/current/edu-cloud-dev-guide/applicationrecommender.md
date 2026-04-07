@@ -5,12 +5,10 @@ topic: applicationrecommender
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.569Z
+lastCollected: 2026-04-07T18:37:30.639Z
 estimatedTokens: 868
-keywords: [ApplicationRecommender, junction, individual, application, recommender, API, version, 57.0, later, Calls]
+keywords: [ApplicationRecommender, junction, individual, application, recommender, API, 57.0]
 ---
-
-# ApplicationRecommender
 
 > Represents a junction between an individual application and the recommender
          of the application. This object is available in API version 57.0 and later.

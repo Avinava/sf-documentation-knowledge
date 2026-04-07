@@ -5,12 +5,10 @@ topic: cgcloudordertemplateorderpaymenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.746Z
+lastCollected: 2026-04-07T18:39:14.134Z
 estimatedTokens: 946
-keywords: [Holds, association, order, template, payment, API, version, 54.0, later, cgcloud, _Order, _Template, _Payment, Calls, Associated]
+keywords: [Holds, association, order, template, payment, API, 54.0, cgcloud, _Order, _Template, _Payment]
 ---
-
-# cgcloud__Order_Template_Order_Payment_Template__c
 
 > Holds the association details for the order template and the order
          payment template. This object is available in API version 54.0 and later.

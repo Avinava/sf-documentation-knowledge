@@ -5,12 +5,10 @@ topic: einstein-visit-task-recommendation-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.510Z
+lastCollected: 2026-04-07T18:39:12.041Z
 estimatedTokens: 501
-keywords: [Einstein, Visit, Task, Recommendation, Associated, Objects, standard, their]
+keywords: [Einstein, Visit, Task, Recommendation, standard, their]
 ---
-
-# Einstein Visit Task Recommendation Associated Objects
 
 > This section provides a list of objects associated to Einstein Visit Task
     Recommendation standard objects with their standard fields.

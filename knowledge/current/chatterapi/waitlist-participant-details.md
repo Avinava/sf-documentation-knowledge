@@ -5,12 +5,10 @@ topic: waitlist-participant-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.684Z
+lastCollected: 2026-04-07T18:37:23.746Z
 estimatedTokens: 95
-keywords: [Waitlist, Participant, Output, representation]
+keywords: [Waitlist, Participant]
 ---
-
-# Waitlist Participant Details
 
 > Output representation of the waitlist participant
     details.

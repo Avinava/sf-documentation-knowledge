@@ -5,13 +5,11 @@ topic: salerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.900Z
+lastCollected: 2026-04-07T18:36:02.118Z
 estimatedTokens: 1986
 namespace: CommercePayments
-keywords: [SaleRequest, Stores, sales, Usage, amount, accountId, comments, currencyIsoCode, paymentMethod, paymentMethodData, submittedByMerchant, equals, obj, hashCode, toString]
+keywords: [SaleRequest, Stores, sales, amount, accountId, comments, currencyIsoCode, paymentMethod, paymentMethodData, submittedByMerchant, equals, obj, hashCode, toString]
 ---
-
-# SaleRequest Class
 
 > Stores information about a sales request.
 

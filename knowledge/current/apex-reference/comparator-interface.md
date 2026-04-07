@@ -5,13 +5,11 @@ topic: comparator-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.941Z
+lastCollected: 2026-04-07T18:36:13.245Z
 estimatedTokens: 877
 namespace: System
-keywords: [Comparator, Implement, different, sort, orders, interface’s, compare, pass, List.sort, implementation, explicitly, handle, inputs, avoid, pointer]
+keywords: [Comparator, Implement, different, sort, orders, interface’s, compare, pass, List.sort, implementation, explicitly, handle, inputs, avoid, pointer, exception, var1, var2]
 ---
-
-# Comparator Interface
 
 > Implement different sort orders with the Comparator interface’s compare() method, and pass the Comparator as a parameter to List.sort(). Your implementation must explicitly handle null inputs
     in the compare() method to avoid a null pointer

@@ -5,12 +5,10 @@ topic: lightningusagebypagemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.244Z
+lastCollected: 2026-04-07T18:38:34.447Z
 estimatedTokens: 279
-keywords: [LightningUsageByPageMetrics, standard, pages, users, viewed, frequently, Lightning, Experience, API, version, 43.0, later, Calls, Special, Access]
+keywords: [LightningUsageByPageMetrics, standard, pages, users, viewed, frequently, Lightning, Experience, API, 43.0]
 ---
-
-# LightningUsageByPageMetrics
 
 > Represents standard pages users viewed most frequently in Lightning
 			Experience. This object is available in API version 43.0 and later.

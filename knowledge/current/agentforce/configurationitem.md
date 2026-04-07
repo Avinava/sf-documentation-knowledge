@@ -5,12 +5,10 @@ topic: configurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.187Z
+lastCollected: 2026-04-07T18:35:55.293Z
 estimatedTokens: 369
-keywords: [ConfigurationItem, record, core, Salesforce, system, refers, configuration, item, stored, external, API, version, 65.0, later, Calls]
+keywords: [ConfigurationItem, record, core, Salesforce, system, refers, configuration, item, stored, external, API, 65.0]
 ---
-
-# ConfigurationItem
 
 > Represents a record in the core Salesforce system that refers to a
          configuration item record stored in an external system. This object is available in

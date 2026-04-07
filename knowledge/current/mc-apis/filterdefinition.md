@@ -5,12 +5,10 @@ topic: filterdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.888Z
+lastCollected: 2026-04-07T18:40:17.039Z
 estimatedTokens: 576
-keywords: [FilterDefinition, audience, rules, filter, supports, subscriber, data, extensions, Items]
+keywords: [FilterDefinition, audience, filter, supports, subscriber, extensions, Items]
 ---
-
-# FilterDefinition
 
 > The FilterDefinition object defines an audience based on specified rules in a filter. This object supports both subscriber lists and data extensions.
 

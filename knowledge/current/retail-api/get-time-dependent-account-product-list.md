@@ -5,12 +5,10 @@ topic: get-time-dependent-account-product-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.547Z
+lastCollected: 2026-04-07T18:39:11.055Z
 estimatedTokens: 335
 keywords: [Time-Dependent, Account, Product, Retrieves, array, products]
 ---
-
-# Get Time-Dependent Account Product List
 
 > Retrieves an array of products from the time-dependent account
       product list.

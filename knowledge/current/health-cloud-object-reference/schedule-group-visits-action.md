@@ -5,12 +5,10 @@ topic: schedule-group-visits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.667Z
+lastCollected: 2026-04-07T18:37:39.616Z
 estimatedTokens: 766
-keywords: [Schedule, Group, Visits, Action, visiting, records, patient, home, bundling, scheduling, either, start-of-care, visit, series, recurring]
+keywords: [Inputs, Outputs, Schedule, Group, Visits, Action, visiting, records, patient, home, bundling, scheduling, either, start-of-care, visit, series, recurring, bundled, REST, HTTP]
 ---
-
-# Schedule Group Visits Action
 
 > Create visiting records for patient home visits by bundling them into a
    group and scheduling either a single start-of-care visit or a series of recurring visits

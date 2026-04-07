@@ -5,12 +5,10 @@ topic: personalizationschema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.520Z
+lastCollected: 2026-04-07T18:39:54.077Z
 estimatedTokens: 392
-keywords: [PersonalizationSchema, personalization, template, that’s, build, decision, API, version, 62.0, later]
+keywords: [PersonalizationSchema, personalization, template, that’s, build, decision, API, 62.0]
 ---
-
-# PersonalizationSchema
 
 > Represents a personalization response template that’s used when you build a
       personalization decision. Available in API version 62.0 and later.

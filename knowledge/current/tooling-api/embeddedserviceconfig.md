@@ -5,12 +5,10 @@ topic: embeddedserviceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.062Z
+lastCollected: 2026-04-07T18:36:32.534Z
 estimatedTokens: 1592
-keywords: [EmbeddedServiceConfig, setup, node, creating, Embedded, Service, deployment, API, version, 38.0, later, Calls, REST, HTTP]
+keywords: [EmbeddedServiceConfig, setup, node, creating, Embedded, Service, deployment, API, 38.0, REST, HTTP]
 ---
-
-# EmbeddedServiceConfig
 
 > Represents a setup node for creating an Embedded Service
             deployment. Available in API version 38.0 and later.

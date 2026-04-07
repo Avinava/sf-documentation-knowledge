@@ -5,13 +5,11 @@ topic: buyergroupresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.442Z
+lastCollected: 2026-04-07T18:35:59.723Z
 estimatedTokens: 1058
 namespace: CommerceBuyGrp
-keywords: [BuyerGroupResponse, retrieve, buyer, groups, associated, user, buyerGroupIds, getBuyerGroupIds, setBuyerGroupIds, setError, errorMessage, localizedErrorMessage]
+keywords: [BuyerGroupResponse, retrieve, buyer, groups, user, buyerGroupIds, getBuyerGroupIds, setBuyerGroupIds, setError, errorMessage, localizedErrorMessage]
 ---
-
-# BuyerGroupResponse Class
 
 > Contains constructors and methods to retrieve the buyer groups associated with a
     user.

@@ -5,12 +5,10 @@ topic: programrebatetypefilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.945Z
+lastCollected: 2026-04-07T18:37:06.646Z
 estimatedTokens: 536
-keywords: [ProgramRebateTypeFilter, definition, filters, transaction, journals, eligible, rebate, filter, rebates, data, processing, engines, API, version, 51.0]
+keywords: [ProgramRebateTypeFilter, definition, filters, transaction, journals, eligible, rebate, filter, rebates, processing, engines, API, 51.0]
 ---
-
-# ProgramRebateTypeFilter
 
 > The definition that filters the transaction journals eligible for a rebate
       type. This filter definition is used in the rebates data processing engines. This object

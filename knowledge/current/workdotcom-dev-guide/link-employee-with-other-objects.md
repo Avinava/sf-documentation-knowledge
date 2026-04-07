@@ -5,12 +5,10 @@ topic: link-employee-with-other-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.142Z
+lastCollected: 2026-04-07T18:40:14.176Z
 estimatedTokens: 328
-keywords: [Link, Employee, Objects, Connect]
+keywords: [Link, Employee, Connect]
 ---
-
-# Link Employee with Other Objects
 
 > Connect the Employee object to other objects.
 

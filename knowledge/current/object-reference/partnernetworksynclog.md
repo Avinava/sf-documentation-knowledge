@@ -5,12 +5,10 @@ topic: partnernetworksynclog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.196Z
+lastCollected: 2026-04-07T18:38:37.494Z
 estimatedTokens: 517
-keywords: [PartnerNetworkSyncLog, Org, Sync, Log, tab, Salesforce, administrators, track, replication, record, inserts, updates, performed, Organization, Connection]
+keywords: [PartnerNetworkSyncLog, Org, Sync, Log, tab, Salesforce, administrators, track, replication, record, inserts, updates, performed, Organization, Connection, Detail, displays, Log’s, twenty, recent, entries, link]
 ---
-
-# PartnerNetworkSyncLog
 
 > Represents the Org Sync Log tab in Salesforce, where Salesforce
 			administrators can track the replication of record inserts and updates being performed

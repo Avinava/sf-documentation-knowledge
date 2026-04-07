@@ -5,12 +5,10 @@ topic: externalaccounthierarchy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.052Z
+lastCollected: 2026-04-07T18:38:32.004Z
 estimatedTokens: 620
-keywords: [ExternalAccountHierarchy, external, account, hierarchy, works, role-based, allow, partner, customer, users, share, data, accounts, their, hierarchy.This]
+keywords: [ExternalAccountHierarchy, external, account, hierarchy, works, role-based, allow, partner, customer, users, share, accounts, their, hierarchy.This, API, 49.0]
 ---
-
-# ExternalAccountHierarchy
 
 > Represents the external account hierarchy, which works like a
          role-based hierarchy.  Use ExternalAccountHierarchy to allow partner and customer users to

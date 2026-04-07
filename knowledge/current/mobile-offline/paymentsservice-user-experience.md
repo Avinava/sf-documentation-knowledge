@@ -5,12 +5,10 @@ topic: paymentsservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.514Z
+lastCollected: 2026-04-07T18:38:16.052Z
 estimatedTokens: 156
-keywords: [PaymentsService, User, Experience, component, deliver, any, want, follow, common, flow, calls, Payment, Service]
+keywords: [PaymentsService, User, Experience, deliver, any, want, follow, common, flow, Payment, Service]
 ---
-
-# PaymentsService User Experience
 
 > Your component can deliver any user experience you want, but you must follow a common
     flow for any component that calls for a Payment Service.

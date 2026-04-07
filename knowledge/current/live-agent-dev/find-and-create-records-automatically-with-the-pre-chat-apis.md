@@ -5,12 +5,10 @@ topic: find-and-create-records-automatically-with-the-pre-chat-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.830Z
+lastCollected: 2026-04-07T18:38:06.069Z
 estimatedTokens: 692
 keywords: [Records, Automatically, Pre-Chat, APIs, API, search, customer, completes, form]
 ---
-
-# Find and Create Records Automatically with the Pre-Chat APIs
 
 > Use the Pre-Chat API to search for or create customer records
 automatically when a customer completes a pre-chat form.

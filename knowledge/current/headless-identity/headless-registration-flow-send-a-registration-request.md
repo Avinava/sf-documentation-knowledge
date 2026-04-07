@@ -5,12 +5,10 @@ topic: headless-registration-flow-send-a-registration-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.484Z
+lastCollected: 2026-04-07T18:37:39.421Z
 estimatedTokens: 745
 keywords: [Headless, Registration, Flow, Send, configure, start, API, walks, sending, Postman]
 ---
-
-# Headless Registration Flow: Send a Registration Request
 
 > To configure the Headless Registration Flow, start with a request to Headless
   Registration API. This example walks you through sending a request with Postman.

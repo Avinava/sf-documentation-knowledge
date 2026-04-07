@@ -5,12 +5,10 @@ topic: smart-data-discovery-sentiment-analysis-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.381Z
+lastCollected: 2026-04-07T18:36:58.878Z
 estimatedTokens: 106
-keywords: [Smart, Data, Discovery, Sentiment, Analysis, Transformation, Input]
+keywords: [Smart, Discovery, Sentiment, Analysis, Transformation]
 ---
-
-# Smart Data Discovery Sentiment Analysis Transformation Input
 
 > The input for a sentiment analysis transformation.
 

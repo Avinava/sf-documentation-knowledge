@@ -5,12 +5,10 @@ topic: authconfigproviders
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.529Z
+lastCollected: 2026-04-07T18:38:26.492Z
 estimatedTokens: 500
-keywords: [AuthConfigProviders, authentication, provider, that’s, configured, organization, child, AuthConfig, API, version, 32.0, later, Calls, Special, Access]
+keywords: [AuthConfigProviders, authentication, provider, that’s, configured, organization, child, AuthConfig, API, 32.0]
 ---
-
-# AuthConfigProviders
 
 > Represents an authentication provider that’s configured in an organization. AuthConfigProviders is a child of the AuthConfig object. This object is available in API
 		version 32.0 and later.

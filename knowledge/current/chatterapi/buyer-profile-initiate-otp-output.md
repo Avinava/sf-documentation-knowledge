@@ -5,12 +5,10 @@ topic: buyer-profile-initiate-otp-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.965Z
+lastCollected: 2026-04-07T18:37:17.031Z
 estimatedTokens: 325
-keywords: [Buyer, Profile, Initiate, OTP, Output]
+keywords: [Buyer, Profile, Initiate, OTP]
 ---
-
-# Buyer Profile Initiate OTP Output
 
 > Output details for the buyer profile OTP initiate request.
 

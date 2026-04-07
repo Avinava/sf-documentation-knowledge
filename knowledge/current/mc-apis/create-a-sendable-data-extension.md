@@ -5,12 +5,10 @@ topic: create-a-sendable-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.048Z
+lastCollected: 2026-04-07T18:40:16.193Z
 estimatedTokens: 6842
-keywords: [Sendable, Data, Extension, conjunction, publication, suppression, send, email, SMS, messages, subscribers, require, extensions, Why, How]
+keywords: [Sendable, Extension, conjunction, publication, suppression, send, email, SMS, messages, subscribers, require, extensions, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Create a Sendable Data Extension
 
 > Use a sendable data extension in conjunction with publication and suppression lists to send email and SMS messages to your subscribers. SMS messages require the use of data extensions and publication and suppression lists.
 

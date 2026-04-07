@@ -5,12 +5,10 @@ topic: permission-update-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.586Z
+lastCollected: 2026-04-07T18:38:31.462Z
 estimatedTokens: 801
-keywords: [Permission, Event, events, represent, changes, user, permissions, setup, entity, access, occur, profiles, tracks, clone, change]
+keywords: [Permission, Event, events, represent, changes, user, permissions, setup, entity, occur, profiles, tracks, clone, change, whether, session, activation, groups]
 ---
-
-# Permission Update Event Type
 
 > Permission update events represent changes to object, field, and user
          permissions and setup entity access that occur in profiles and permission sets. The event

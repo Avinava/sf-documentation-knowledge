@@ -5,12 +5,10 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:34.557Z
+lastCollected: 2026-04-07T18:38:25.449Z
 estimatedTokens: 1253
-keywords: [ApexPage, Visualforce, Calls, Usage]
+keywords: [ApexPage, Visualforce]
 ---
-
-# ApexPage
 
 > Represents a single Visualforce page.
 

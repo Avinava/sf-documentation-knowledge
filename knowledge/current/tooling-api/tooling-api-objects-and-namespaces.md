@@ -6,14 +6,11 @@ topic: tooling-api-objects-and-namespaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:46.048Z
+lastCollected: 2026-04-07T18:36:31.429Z
 estimatedTokens: 1105
 namespace: Used
-keywords: [Tooling, API, Objects, Namespaces, provide, programmatic, access, data, metadata, WSDL, includes, four, Quick-Reference, Tables, System]
+keywords: [Tooling, API, Namespaces, provide, programmatic, metadata, WSDL, includes, four, Quick-Reference, Tables, System, SOQL, Limitations]
 ---
-
-# Tooling API
-      Objects and Namespaces
 
 > Tooling API objects provide
     programmatic access to data and metadata. The Tooling API WSDL includes four namespaces.

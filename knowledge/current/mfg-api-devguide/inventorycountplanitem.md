@@ -5,12 +5,10 @@ topic: inventorycountplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.539Z
+lastCollected: 2026-04-07T18:38:13.854Z
 estimatedTokens: 634
-keywords: [InventoryCountPlanItem, product, inventory, plan, Count, Item, child, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [InventoryCountPlanItem, product, inventory, plan, Count, Item, child, API, 63.0]
 ---
-
-# InventoryCountPlanItem
 
 > Represents a product in an inventory plan. Inventory Count Plan Item is the
          child object of Inventory Count Plan. This object is available in API version 63.0 and

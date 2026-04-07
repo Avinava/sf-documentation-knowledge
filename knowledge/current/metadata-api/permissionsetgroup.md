@@ -5,12 +5,10 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.843Z
+lastCollected: 2026-04-07T18:36:28.382Z
 estimatedTokens: 845
-keywords: [PermissionSetGroup, group, permission, permissions, groups, organize, job, functions, tasks, package, needed, Declarative, Metadata, File, Suffix]
+keywords: [PermissionSetGroup, group, permission, permissions, groups, organize, job, functions, tasks, package, needed, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PermissionSetGroup
 
 > Represents a group of permission
                 sets and the permissions within them. Use permission set groups to

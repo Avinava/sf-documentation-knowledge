@@ -5,12 +5,10 @@ topic: salesforce-crm-knowledge-article-version-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.200Z
+lastCollected: 2026-04-07T18:35:53.143Z
 estimatedTokens: 661
-keywords: [Salesforce, CRM, Knowledge, Article, Version, Mapping, data, mappings, Knowledge_kav, DLO, found, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Knowledge, Article, Mapping, mappings, Knowledge_kav, DLO, found, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Knowledge Article Version Mapping
 
 > These data mappings are for the Knowledge_kav DLO found in the Knowledge bundle of the
   Salesforce CRM Connector for Data Cloud.

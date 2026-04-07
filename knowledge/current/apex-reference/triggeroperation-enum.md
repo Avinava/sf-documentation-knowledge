@@ -5,12 +5,10 @@ topic: triggeroperation-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.425Z
+lastCollected: 2026-04-07T18:36:12.722Z
 estimatedTokens: 89
-keywords: [TriggerOperation, System.TriggerOperation, associated, trigger, events]
+keywords: [TriggerOperation, System.TriggerOperation, trigger, events]
 ---
-
-# TriggerOperation Enum
 
 > System.TriggerOperation enum values are associated with trigger
       events.

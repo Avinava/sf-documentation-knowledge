@@ -5,12 +5,10 @@ topic: carebarrier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.765Z
+lastCollected: 2026-04-07T18:39:07.999Z
 estimatedTokens: 1482
-keywords: [CareBarrier, obstacle, circumstance, prevents, constituent, getting, care, services, API, version, 61.0, later, Calls, Special, Access]
+keywords: [CareBarrier, obstacle, circumstance, prevents, constituent, getting, care, services, API, 61.0]
 ---
-
-# CareBarrier
 
 > Represents an obstacle or circumstance that prevents a constituent
          from getting the required care or services. This object is available in API version

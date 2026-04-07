@@ -5,12 +5,10 @@ topic: connectapiorchestrationinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.994Z
+lastCollected: 2026-04-07T18:36:09.387Z
 estimatedTokens: 430
 keywords: [ConnectApi.OrchestrationInstance, Orchestration, instance]
 ---
-
-# ConnectApi.OrchestrationInstance
 
 > Orchestration instance.
 

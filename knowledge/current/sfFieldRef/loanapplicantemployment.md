@@ -5,12 +5,10 @@ topic: loanapplicantemployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.171Z
+lastCollected: 2026-04-07T18:39:46.690Z
 estimatedTokens: 794
-keywords: [LoanApplicantEmployment, borrower's, co-borrower's, current, past, employment, API, version, 47.0, later]
+keywords: [LoanApplicantEmployment, borrower's, co-borrower's, current, past, employment, API, 47.0]
 ---
-
-# LoanApplicantEmployment
 
 > Represents details about the borrower's or co-borrower's current and past
 			employment. This object is available in API version 47.0 and later.

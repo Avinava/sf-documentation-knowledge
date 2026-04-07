@@ -5,12 +5,10 @@ topic: enable-the-phone-book-for-outbound-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.530Z
+lastCollected: 2026-04-07T18:40:13.456Z
 estimatedTokens: 1008
-keywords: [Enable, Phone, Book, Outbound, Calls, reps, their, speed-dial, rep-to-rep, rep-to-queue, enabled, rep, view, queues, Omni-Channel]
+keywords: [Enable, Phone, Book, Outbound, reps, their, speed-dial, rep-to-rep, rep-to-queue, enabled, rep, view, queues, Omni-Channel, utility, place, call, destination, selects, queue, determines, contact, Test]
 ---
-
-# Enable the Phone Book for Outbound Calls
 
 > Enable the phone book so reps can use their speed-dial list to make rep-to-rep and
     rep-to-queue calls. When the phone book is enabled, a rep can view a list of reps and

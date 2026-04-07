@@ -5,12 +5,10 @@ topic: pass-nonstandard-pre-chat-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.740Z
+lastCollected: 2026-04-07T18:40:09.680Z
 estimatedTokens: 1113
-keywords: [Pass, Nonstandard, Pre-Chat, Further, control, experience, Embedded, Service, code, snippet, Two, relate, extraPrechatFormDetails, extraPrechatInfo, send]
+keywords: [Pass, Nonstandard, Pre-Chat, Further, control, experience, Embedded, Service, code, snippet, Two, relate, extraPrechatFormDetails, extraPrechatInfo, send, agent, org, beyond, what’s, shown, form]
 ---
-
-# Pass Nonstandard Pre-Chat Details
 
 > Further control the pre-chat experience using parameters in your Embedded
       Service code snippet. Two parameters relate to the pre-chat experience: extraPrechatFormDetails and extraPrechatInfo. With these parameters, you can send information to the agent and

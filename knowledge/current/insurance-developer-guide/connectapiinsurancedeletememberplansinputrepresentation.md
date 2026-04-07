@@ -5,12 +5,10 @@ topic: connectapiinsurancedeletememberplansinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.086Z
+lastCollected: 2026-04-07T18:37:49.924Z
 estimatedTokens: 79
-keywords: [Input, representation, deleting, member's, plans]
+keywords: [deleting, member's, plans]
 ---
-
-# ConnectApi.InsuranceDeleteMemberPlansInputRepresentation
 
 > Input representation for deleting a member's plans.
 

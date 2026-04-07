@@ -5,12 +5,10 @@ topic: retrieve-data-from-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.646Z
+lastCollected: 2026-04-07T18:40:18.845Z
 estimatedTokens: 3135
-keywords: [Retrieve, Data, Extension, Sample, NET, Code, Retrieving, Subscriber, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
+keywords: [Retrieve, Extension, Sample, NET, Code, Retrieving, Subscriber, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieve Data from a Data Extension
 
 # Retrieve Data from a Data Extension
 

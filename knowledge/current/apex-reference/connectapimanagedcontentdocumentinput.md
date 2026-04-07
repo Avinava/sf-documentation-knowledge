@@ -5,12 +5,10 @@ topic: connectapimanagedcontentdocumentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.346Z
+lastCollected: 2026-04-07T18:36:05.689Z
 estimatedTokens: 309
-keywords: [ConnectApi.ManagedContentDocumentInput, Input, representation, piece, managed, content]
+keywords: [ConnectApi.ManagedContentDocumentInput, piece, managed, content]
 ---
-
-# ConnectApi.ManagedContentDocumentInput
 
 > Input representation for a piece of managed content.
 

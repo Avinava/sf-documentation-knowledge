@@ -5,12 +5,10 @@ topic: test-harness-drafts-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.613Z
+lastCollected: 2026-04-07T18:38:15.097Z
 estimatedTokens: 607
 keywords: [Test, Harness, Drafts, Tab, app, developer-centric, tool, controlling, examining, contents, Offline, Queue, including, you’ve, created]
 ---
-
-# Test Harness Drafts Tab
 
 > The Drafts tab of the Test Harness app is a developer-centric tool for controlling and
   examining the contents of the Offline Queue, including drafts you’ve created while

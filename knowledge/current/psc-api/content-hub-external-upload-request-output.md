@@ -5,12 +5,10 @@ topic: content-hub-external-upload-request-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.189Z
+lastCollected: 2026-04-07T18:39:02.397Z
 estimatedTokens: 281
-keywords: [Content, Hub, External, Upload, Output, representation]
+keywords: [Content, Hub, External, Upload]
 ---
-
-# Content Hub External Upload Request Output
 
 > Output representation for Content Hub External Upload Request.
 

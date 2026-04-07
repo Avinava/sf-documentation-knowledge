@@ -5,12 +5,10 @@ topic: connectapirepositoryfiledetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.327Z
+lastCollected: 2026-04-07T18:36:11.610Z
 estimatedTokens: 66
 keywords: [ConnectApi.RepositoryFileDetail, detailed, repository, file]
 ---
-
-# ConnectApi.RepositoryFileDetail
 
 > A detailed description of a repository file.
 

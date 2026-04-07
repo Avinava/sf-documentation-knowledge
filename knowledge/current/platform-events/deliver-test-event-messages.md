@@ -5,12 +5,10 @@ topic: deliver-test-event-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.586Z
+lastCollected: 2026-04-07T18:38:58.464Z
 estimatedTokens: 1910
-keywords: [Deliver, Test, Event, Messages, Test.stopTest, statement, Alternatively, any, time, Test.getEventBus, Fail, Demand, Published, Asynchronous, Apex]
+keywords: [Deliver, Test, Event, Messages, Test.stopTest, statement, Alternatively, any, time, Test.getEventBus, Fail, Demand, Published, Asynchronous, Apex, Individually, Publishing, Publish, Callbacks]
 ---
-
-# Deliver Test Event Messages
 
 > Deliver test event messages after the Test.stopTest() statement. Alternatively, deliver test event messages at any
         time with the Test.getEventBus().deliver() method.

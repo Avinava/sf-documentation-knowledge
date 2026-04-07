@@ -5,12 +5,10 @@ topic: careprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.792Z
+lastCollected: 2026-04-07T18:37:59.400Z
 estimatedTokens: 1758
-keywords: [CareProgram, activities, patient, therapy, financial, assistance, education, wellness, fitness, plan, offered, participants, employer, insurer, Calls]
+keywords: [CareProgram, activities, patient, therapy, financial, assistance, education, wellness, fitness, plan, offered, participants, employer, insurer]
 ---
-
-# CareProgram
 
 > Represents a set of activities, such as a patient therapy, financial assistance, education, wellness, or fitness plan, offered to participants by an employer or
 		insurer.

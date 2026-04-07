@@ -5,12 +5,10 @@ topic: emailstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.385Z
+lastCollected: 2026-04-07T18:38:30.211Z
 estimatedTokens: 392
-keywords: [EmailStatus, status, email, sent, Calls, Special, Access, Rules]
+keywords: [EmailStatus, status, email, sent]
 ---
-
-# EmailStatus
 
 > Represents the status of email sent.
 

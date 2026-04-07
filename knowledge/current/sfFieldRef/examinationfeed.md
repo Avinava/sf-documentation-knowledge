@@ -5,12 +5,10 @@ topic: examinationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.248Z
+lastCollected: 2026-04-07T18:39:39.863Z
 estimatedTokens: 358
-keywords: [ExaminationFeed, Feed, tracking, Examination]
+keywords: [ExaminationFeed, Examination]
 ---
-
-# ExaminationFeed
 
 > Feed tracking for Examination.
 

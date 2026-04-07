@@ -5,12 +5,10 @@ topic: chasitortyping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.114Z
+lastCollected: 2026-04-07T18:38:06.372Z
 estimatedTokens: 120
 keywords: [ChasitorTyping, chat, visitor, typing, message, window]
 ---
-
-# ChasitorTyping
 
 > Indicates that a chat visitor is typing a message in the
 chat window.

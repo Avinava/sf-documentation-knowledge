@@ -5,12 +5,10 @@ topic: connectapipincapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.717Z
+lastCollected: 2026-04-07T18:36:06.078Z
 estimatedTokens: 139
-keywords: [ConnectApi.PinCapabilityInput, Pin, unpin, feed, element]
+keywords: [ConnectApi.PinCapabilityInput, Pin, unpin]
 ---
-
-# ConnectApi.PinCapabilityInput
 
 > Pin or unpin a feed element to a feed.
 

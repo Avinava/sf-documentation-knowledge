@@ -5,12 +5,10 @@ topic: cgcsyncsyncmessagetranslationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.907Z
+lastCollected: 2026-04-07T18:39:12.421Z
 estimatedTokens: 293
-keywords: [cgc_sync__Sync_Message_Translation__c, translated, sync, messages, API, version, 53.0, later, cgc, _sync, _Message, _Translation, Calls]
+keywords: [cgc_sync__Sync_Message_Translation__c, translated, sync, messages, API, 53.0, cgc, _sync, _Message, _Translation]
 ---
-
-# cgc_sync__Sync_Message_Translation__c
 
 > Contains translated sync messages. This object is available in API
       version 53.0 and later.

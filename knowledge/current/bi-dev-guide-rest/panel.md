@@ -5,12 +5,10 @@ topic: panel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.013Z
+lastCollected: 2026-04-07T18:36:57.521Z
 estimatedTokens: 84
 keywords: [Panel, column, layout, Analytics, template, wizard]
 ---
-
-# Panel
 
 > A panel in a column layout for an Analytics template wizard page.
 

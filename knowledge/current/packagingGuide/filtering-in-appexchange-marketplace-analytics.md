@@ -5,12 +5,10 @@ topic: filtering-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.140Z
+lastCollected: 2026-04-07T18:38:47.109Z
 estimatedTokens: 331
-keywords: [Filtering, AppExchange, Marketplace, Analytics, Apply, filters, focus, relevant, data, activity, summary, visualizations, Local, individual, visualization]
+keywords: [Filtering, AppExchange, Marketplace, Analytics, Apply, filters, focus, relevant, activity, summary, visualizations, Local, individual, visualization]
 ---
-
-# Filtering in AppExchange Marketplace Analytics
 
 > Apply filters in AppExchange Marketplace Analytics to focus on relevant data. Global
   filters apply to data in the activity summary and all visualizations. Local

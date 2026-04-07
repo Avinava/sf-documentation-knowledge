@@ -5,13 +5,11 @@ topic: calculationmatrixmigrationservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.162Z
+lastCollected: 2026-04-07T18:39:00.158Z
 estimatedTokens: 750
 namespace: BusinessRule
-keywords: [CalculationMatrixMigrationService, migrating, calculation, matrices, Vlocity, package, Business, Rules, Engine, decision, migrate, calculationMatrixIds, calculationMatrixId]
+keywords: [CalculationMatrixMigrationService, migrating, calculation, matrices, Vlocity, package, Business, Engine, decision, migrate, calculationMatrixIds, calculationMatrixId]
 ---
-
-# CalculationMatrixMigrationService Class
 
 > Contains methods for migrating calculation matrices from the Vlocity
       package to the Business Rules Engine as decision matrices.

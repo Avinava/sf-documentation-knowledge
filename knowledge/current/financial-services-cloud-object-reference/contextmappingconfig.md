@@ -5,12 +5,10 @@ topic: contextmappingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.075Z
+lastCollected: 2026-04-07T18:37:36.853Z
 estimatedTokens: 311
-keywords: [ContextMappingConfig, context, mapping, configurations, business, process, API, version, 65.0, later, Calls]
+keywords: [ContextMappingConfig, context, mapping, configurations, business, process, API, 65.0]
 ---
-
-# ContextMappingConfig
 
 > Represents the context mapping configurations for business process
          types. This object is available in API version 65.0 and later.

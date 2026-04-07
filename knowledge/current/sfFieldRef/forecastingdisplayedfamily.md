@@ -5,12 +5,10 @@ topic: forecastingdisplayedfamily
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.547Z
+lastCollected: 2026-04-07T18:39:41.216Z
 estimatedTokens: 314
-keywords: [ForecastingDisplayedFamily, Forecasts, Settings, admin, selects, product, families, users, forecast, Lightning, Experience, API, version, 40.0, later]
+keywords: [ForecastingDisplayedFamily, Forecasts, Settings, admin, selects, product, families, users, forecast, Lightning, Experience, API, 40.0]
 ---
-
-# ForecastingDisplayedFamily
 
 > Represents the table in Forecasts Settings where an admin selects the
 			product families that users can forecast on in Lightning Experience. This object is

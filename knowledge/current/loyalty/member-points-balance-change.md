@@ -5,12 +5,10 @@ topic: member-points-balance-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.833Z
+lastCollected: 2026-04-07T18:38:08.077Z
 estimatedTokens: 143
-keywords: [Member, Points, Balance, Change, Output, representation]
+keywords: [Member, Points, Balance, Change]
 ---
-
-# Member Points Balance Change
 
 > Output representation of the points balance change for a
     member.

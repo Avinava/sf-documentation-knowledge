@@ -5,12 +5,10 @@ topic: working-with-pushtopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.370Z
+lastCollected: 2026-04-07T18:36:51.710Z
 estimatedTokens: 533
-keywords: [Working, PushTopics, PushTopic, record, corresponds, channel, CometD, prefixed, topic, MyPushTopic, Bayeux, client, receive, streamed, events]
+keywords: [Working, PushTopics, PushTopic, record, corresponds, channel, CometD, prefixed, topic, MyPushTopic, Bayeux, client, receive, streamed, events, case-sensitive, subsc]
 ---
-
-# Working with PushTopics
 
 > Each PushTopic record that you create corresponds to a channel in CometD.
       The channel name is the name of the PushTopic prefixed with “/topic/”, for example, /topic/MyPushTopic. A Bayeux client can receive streamed events

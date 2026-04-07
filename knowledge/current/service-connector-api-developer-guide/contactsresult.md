@@ -5,12 +5,10 @@ topic: contactsresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.662Z
+lastCollected: 2026-04-07T18:39:23.593Z
 estimatedTokens: 169
 keywords: [ContactsResult, result, getting, Messaging, phone, contacts, Functions]
 ---
-
-# ContactsResult
 
 > Represents the result when getting a list of Messaging or
         phone contacts.

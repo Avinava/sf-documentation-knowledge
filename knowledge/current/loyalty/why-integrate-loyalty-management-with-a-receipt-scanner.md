@@ -5,12 +5,10 @@ topic: why-integrate-loyalty-management-with-a-receipt-scanner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.709Z
+lastCollected: 2026-04-07T18:38:09.036Z
 estimatedTokens: 258
-keywords: [Why, Integrate, Loyalty, Management, Receipt, Scanner, Brands, don’t, own, their, sales, channels, can’t, accurately, track]
+keywords: [Why, Integrate, Loyalty, Management, Receipt, Scanner, Brands, don’t, own, their, sales, channels, can’t, accurately, track, customer, purchases, made, third-party, stores, sites, scenarios, brand’s, program, needs, receipt-scanning, solution, scan, items, identify, eligible, reward, points, members]
 ---
-
-# Why Integrate Loyalty Management With a Receipt Scanner?
 
 > Brands that don’t own their sales channels can’t accurately track customer purchases made
     in on third-party stores or sites. In such scenarios, the brand’s loyalty program needs a

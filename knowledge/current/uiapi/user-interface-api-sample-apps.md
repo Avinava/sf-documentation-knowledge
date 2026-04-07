@@ -5,12 +5,10 @@ topic: user-interface-api-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.605Z
+lastCollected: 2026-04-07T18:40:10.578Z
 estimatedTokens: 131
 keywords: [User, API, Sample, Apps, We’ve, built, two, records, open-source, GitHub]
 ---
-
-# User Interface API Sample Apps
 
 > We’ve built two sample apps that use User Interface API to create, read, update, and
       delete records. The apps are open-source and available on GitHub.

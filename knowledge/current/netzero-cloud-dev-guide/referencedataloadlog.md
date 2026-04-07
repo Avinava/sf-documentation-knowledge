@@ -5,12 +5,10 @@ topic: referencedataloadlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.645Z
+lastCollected: 2026-04-07T18:38:19.330Z
 estimatedTokens: 1227
-keywords: [ReferenceDataLoadLog, history, loading, data, emissions, factors, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [ReferenceDataLoadLog, loading, emissions, factors, API, 60.0]
 ---
-
-# ReferenceDataLoadLog
 
 > Represents information about the history of loading reference data for emissions factors. This object is available in API version 60.0 and later.
 

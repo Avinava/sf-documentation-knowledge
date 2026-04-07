@@ -5,12 +5,10 @@ topic: prodtsvccmpndefptnrinv
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.704Z
+lastCollected: 2026-04-07T18:38:14.036Z
 estimatedTokens: 1034
-keywords: [ProdtSvcCmpnDefPtnrInv, partner-held, inventory, items, impacted, product, service, campaign, Stores, granular, status, unit, count, facilitating, simplified]
+keywords: [ProdtSvcCmpnDefPtnrInv, partner-held, inventory, items, impacted, product, service, campaign, Stores, granular, status, unit, count, facilitating, simplified, efficient, execution, API, 65.0]
 ---
-
-# ProdtSvcCmpnDefPtnrInv
 
 > Represents information about the partner-held inventory of the items that are
          impacted by a product service campaign. Stores the granular details, such as inventory

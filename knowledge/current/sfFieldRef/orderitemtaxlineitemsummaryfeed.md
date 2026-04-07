@@ -5,12 +5,10 @@ topic: orderitemtaxlineitemsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.726Z
+lastCollected: 2026-04-07T18:39:51.138Z
 estimatedTokens: 394
-keywords: [OrderItemTaxLineItemSummaryFeed, Feed, tracking, OrderItemTaxLineItemSummary]
+keywords: [OrderItemTaxLineItemSummaryFeed, OrderItemTaxLineItemSummary]
 ---
-
-# OrderItemTaxLineItemSummaryFeed
 
 > Feed tracking for OrderItemTaxLineItemSummary.
 

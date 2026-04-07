@@ -5,12 +5,10 @@ topic: use-the-with-sharing-without-sharing-and-inherited-sharing-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.304Z
+lastCollected: 2026-04-07T18:36:16.522Z
 estimatedTokens: 2250
-keywords: [sharing, inherited, Keywords, specify, whether, rules, enforced, keyword, run, mode, Omitted, Declarations, Implementation, Apex, Triggers]
+keywords: [sharing, inherited, Keywords, specify, whether, enforced, keyword, run, mode, Omitted, Declarations, Implementation, Apex, Triggers, Best, Practices]
 ---
-
-# Use the with sharing, without sharing, and inherited sharing Keywords
 
 > Use the with sharing or without sharing keywords on a class to specify whether
     sharing rules must be enforced. Use the inherited

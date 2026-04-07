@@ -5,12 +5,10 @@ topic: loyaltyprogrammbrpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.078Z
+lastCollected: 2026-04-07T18:38:10.347Z
 estimatedTokens: 751
-keywords: [LoyaltyProgramMbrPromotion, promotions, applied, loyalty, program, member, Tracks, enrollment, status, promotion, progress, API, version, 51.0, later]
+keywords: [LoyaltyProgramMbrPromotion, promotions, applied, loyalty, program, member, Tracks, enrollment, status, promotion, progress, API, 51.0]
 ---
-
-# LoyaltyProgramMbrPromotion
 
 > Represents details about the promotions to be applied for a loyalty program
       member. Tracks the enrollment status, promotion status, and progress for a promotion of a

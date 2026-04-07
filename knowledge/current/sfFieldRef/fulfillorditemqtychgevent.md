@@ -5,12 +5,10 @@ topic: fulfillorditemqtychgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.909Z
+lastCollected: 2026-04-07T18:39:41.533Z
 estimatedTokens: 267
-keywords: [FulfillOrdItemQtyChgEvent, Notifies, subscribers, changes, quantity, fulfillment, order, line, item, record, event, trigger, flows, processes, workflow]
+keywords: [FulfillOrdItemQtyChgEvent, Notifies, subscribers, changes, quantity, fulfillment, order, line, item, record, event, trigger, flows, processes, workflow, API, 53.0]
 ---
-
-# FulfillOrdItemQtyChgEvent
 
 > Notifies subscribers of changes to the quantity of a fulfillment order line
       item record. Use this event to trigger flows and processes in your order workflow. This

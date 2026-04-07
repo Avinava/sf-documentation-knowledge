@@ -5,12 +5,10 @@ topic: create-developer-hub-and-namespace-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.567Z
+lastCollected: 2026-04-07T18:40:13.491Z
 estimatedTokens: 811
 keywords: [Developer, Hub, Orgs, Linking, org, lets, Salesforce, Experience, develop, second-generation, package]
 ---
-
-# Create Developer Hub and Namespace Orgs
 
 > Linking a Developer Hub to a namespace org lets you use the Salesforce Developer
   Experience to develop a second-generation package.

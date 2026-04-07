@@ -5,12 +5,10 @@ topic: time-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.645Z
+lastCollected: 2026-04-07T18:36:55.011Z
 estimatedTokens: 137
-keywords: [Time, Input, something, happen, usually, relation, Analytics, schedule]
+keywords: [Time, something, happen, usually, relation, Analytics, schedule]
 ---
-
-# Time Input
 
 > The time at which something should happen, usually in relation to an Analytics
   schedule.

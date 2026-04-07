@@ -5,12 +5,10 @@ topic: internalorganizationunithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.006Z
+lastCollected: 2026-04-07T18:39:45.567Z
 estimatedTokens: 184
-keywords: [InternalOrganizationUnitHistory, History, tracked, InternalOrganizationUnit]
+keywords: [InternalOrganizationUnitHistory, tracked, InternalOrganizationUnit]
 ---
-
-# InternalOrganizationUnitHistory
 
 > History for tracked fields of InternalOrganizationUnit.
 

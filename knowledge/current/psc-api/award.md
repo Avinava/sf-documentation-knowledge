@@ -5,12 +5,10 @@ topic: award
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.699Z
+lastCollected: 2026-04-07T18:39:07.922Z
 estimatedTokens: 1192
-keywords: [Award, person's, organization's, professional, awards, Calls, Associated, Objects]
+keywords: [Award, person's, organization's, professional, awards]
 ---
-
-# Award
 
 > Represents a person's or organization's professional awards.
 

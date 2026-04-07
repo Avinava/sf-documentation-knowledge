@@ -5,12 +5,10 @@ topic: abstract-story-narrative-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.824Z
+lastCollected: 2026-04-07T18:36:59.325Z
 estimatedTokens: 169
-keywords: [Abstract, Story, Narrative, Element, base]
+keywords: [Abstract, Story, Narrative, base]
 ---
-
-# Abstract Story Narrative Element
 
 > The base story narrative element.
 

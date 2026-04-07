@@ -5,12 +5,10 @@ topic: onagentstatechanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.257Z
+lastCollected: 2026-04-07T18:36:50.463Z
 estimatedTokens: 232
-keywords: [onAgentStateChanged, Registers, function, call, agents, change, their, Chat, status, Online, Away, API, version, 29.0, later]
+keywords: [Arguments, onAgentStateChanged, Registers, function, call, agents, change, their, Chat, status, Online, Away, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# onAgentStateChanged()
 
 > Registers a function to call when agents change their Chat status, such as from
         Online to Away. Available in API version 29.0 or

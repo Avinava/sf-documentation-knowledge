@@ -5,12 +5,10 @@ topic: java-client
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.872Z
+lastCollected: 2026-04-07T18:38:57.686Z
 estimatedTokens: 265
-keywords: [Java, Client, sample, uses, Pub, Sub, API, publish, subscribe, platform, events, event, messages, gRPC, HTTP]
+keywords: [Java, Client, sample, uses, Pub, Sub, API, publish, subscribe, platform, events, event, messages, gRPC, HTTP, efficient, delivery, binary, Apache, Avro]
 ---
-
-# Java Client
 
 > The sample Java client uses Pub/Sub API to publish and subscribe to platform events.
   Pub/Sub API provides a single interface to publish and subscribe to event messages. Based on gRPC

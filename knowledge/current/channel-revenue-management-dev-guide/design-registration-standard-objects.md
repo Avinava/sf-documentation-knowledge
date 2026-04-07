@@ -5,12 +5,10 @@ topic: design-registration-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.168Z
+lastCollected: 2026-04-07T18:37:05.864Z
 estimatedTokens: 610
-keywords: [Design, Registration, Standard, Objects, data, model, enable, partners, register, designs, capture, key, sales, vendor, portal]
+keywords: [Design, Registration, Standard, model, enable, partners, register, designs, capture, key, sales, vendor, portal, facilitate, submission, allow, channel, managers, approve, contributions, enhance, visibility]
 ---
-
-# Design Registration Standard Objects
 
 > Design Registration data model provides objects and fields to enable partners to
     register designs and capture key sales details through a vendor portal. Use these objects to

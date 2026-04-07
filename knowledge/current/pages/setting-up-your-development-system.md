@@ -5,12 +5,10 @@ topic: setting-up-your-development-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.511Z
+lastCollected: 2026-04-07T18:38:51.779Z
 estimatedTokens: 607
-keywords: [Setting, Development, System, Salesforce, several, different, tools, ways, write, edit, view, code, Choosing, Editor, Viewing]
+keywords: [Setting, Development, System, Salesforce, several, different, tools, ways, write, edit, view, code, Choosing, Editor, Viewing, Visualforce]
 ---
-
-# Setting Up Your Development System
 
 > Salesforce provides several different tools and ways to write, edit, and view your
   code.

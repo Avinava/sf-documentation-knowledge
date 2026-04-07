@@ -5,12 +5,10 @@ topic: processinstanceworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.173Z
+lastCollected: 2026-04-07T18:38:38.562Z
 estimatedTokens: 1034
-keywords: [ProcessInstanceWorkitem, user’s, pending, approval, Calls, Usage]
+keywords: [ProcessInstanceWorkitem, user’s, pending, approval]
 ---
-
-# ProcessInstanceWorkitem
 
 > Represents a user’s pending approval request.
 

@@ -5,12 +5,10 @@ topic: setagentconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.533Z
+lastCollected: 2026-04-07T18:39:23.465Z
 estimatedTokens: 365
 keywords: [setAgentConfig, configuration, rep, Examples, include, Omni-Channel, widget, loads, user, saves, their, settings]
 ---
-
-# setAgentConfig
 
 > Set configuration information for the rep. Examples of when
         this method is called include when the Omni-Channel widget loads and when the user saves

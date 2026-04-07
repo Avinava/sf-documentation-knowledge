@@ -5,12 +5,10 @@ topic: disputemgmthelper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.369Z
+lastCollected: 2026-04-07T18:37:33.797Z
 estimatedTokens: 199
-keywords: [DisputeMgmtHelper, callable, provide, data, helper, functions, Transaction, Dispute, Management, OmniScript, raising, creating, merchant, alert]
+keywords: [DisputeMgmtHelper, callable, provide, helper, functions, Transaction, Dispute, Management, OmniScript, raising, creating, merchant, alert]
 ---
-
-# DisputeMgmtHelper Class
 
 > Use the callable DisputeMgmtHelper class to provide data helper
       functions for use in the Transaction Dispute Management OmniScript, such as raising a dispute

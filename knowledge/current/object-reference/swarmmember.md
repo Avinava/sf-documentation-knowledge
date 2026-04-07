@@ -5,12 +5,10 @@ topic: swarmmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.270Z
+lastCollected: 2026-04-07T18:38:42.072Z
 estimatedTokens: 1090
-keywords: [SwarmMember, Salesforce, member, agent, swarm, API, version, 55.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [SwarmMember, Salesforce, member, agent, swarm, API, 55.0]
 ---
-
-# SwarmMember
 
 > Represents a Salesforce member, such as an agent, of a swarm. This
       object is available in API version 55.0 and later.

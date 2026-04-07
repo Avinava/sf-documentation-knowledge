@@ -5,13 +5,11 @@ topic: connectapi-enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.965Z
+lastCollected: 2026-04-07T18:37:34.499Z
 estimatedTokens: 226
 namespace: ConnectApi
 keywords: [ConnectApi, Enums, specific, Industries, features]
 ---
-
-# ConnectApi Enums
 
 > Enums specific to the ConnectApi namespace and
     Industries features.

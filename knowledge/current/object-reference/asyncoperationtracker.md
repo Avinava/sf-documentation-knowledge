@@ -5,12 +5,10 @@ topic: asyncoperationtracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.331Z
+lastCollected: 2026-04-07T18:38:26.279Z
 estimatedTokens: 2722
-keywords: [AsyncOperationTracker, status, asynchronous, initiated, Quote, Order, CreditMemo, objects, API, version, 61.0, later, Calls, Associated]
+keywords: [AsyncOperationTracker, status, asynchronous, initiated, Quote, Order, CreditMemo, API, 61.0]
 ---
-
-# AsyncOperationTracker
 
 > Represents the status of an asynchronous request initiated from the Quote,
          Order, and CreditMemo objects. This object is available in API version 61.0 and later.

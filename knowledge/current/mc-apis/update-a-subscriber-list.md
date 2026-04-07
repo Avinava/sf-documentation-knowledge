@@ -5,12 +5,10 @@ topic: update-a-subscriber-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.726Z
+lastCollected: 2026-04-07T18:40:20.990Z
 estimatedTokens: 744
 keywords: [Subscriber, sure, current, possible, call, Why, How, Sample, NET, Code, Items]
 ---
-
-# Update a Subscriber List
 
 > You can make sure the information on your subscriber list is as current as possible using the Update call.
 

@@ -5,12 +5,10 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.388Z
+lastCollected: 2026-04-07T18:38:52.698Z
 estimatedTokens: 102
-keywords: [$Profile, merge, referencing, current, user’s, profile, license, Usage]
+keywords: [$Profile, merge, referencing, current, user’s, profile, license]
 ---
-
-# $Profile
 
 > A global merge field type to use when referencing information about the current
   user’s profile. Use profile merge fields to reference information about the user’s

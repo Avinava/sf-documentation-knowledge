@@ -5,12 +5,10 @@ topic: contenthubrepository
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.694Z
+lastCollected: 2026-04-07T18:38:28.609Z
 estimatedTokens: 364
-keywords: [ContentHubRepository, Files, Connect, external, data, source, Microsoft, SharePoint, OneDrive, Business, API, version, 33.0, later, Special]
+keywords: [ContentHubRepository, Files, Connect, external, source, Microsoft, SharePoint, OneDrive, Business, API, 33.0]
 ---
-
-# ContentHubRepository
 
 > Represents a Files Connect external data source such as Microsoft
 			SharePoint or OneDrive for Business. This object is available in API version 33.0

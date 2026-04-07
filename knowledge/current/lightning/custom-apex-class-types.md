@@ -5,12 +5,10 @@ topic: custom-apex-class-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.755Z
+lastCollected: 2026-04-07T18:38:04.903Z
 estimatedTokens: 1118
-keywords: [Custom, Apex, Aura, component, attribute, correspond, held, standard, Map, classes, copy, needed, instances, Data, Objects]
+keywords: [Apex, Aura, attribute, correspond, held, standard, Map, classes, copy, needed, instances]
 ---
-
-# Custom Apex Class Types
 
 > An Aura component attribute type can correspond to values held in an Apex
         class. An attribute type can be a custom Apex class, a List standard Apex class, or a Map standard Apex class. To use values held in other standard Apex classes, first create a custom Apex class, and then copy the needed values from instances of the standard class into your custom class.

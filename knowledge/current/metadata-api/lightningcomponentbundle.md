@@ -5,12 +5,10 @@ topic: lightningcomponentbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.676Z
+lastCollected: 2026-04-07T18:36:27.149Z
 estimatedTokens: 1581
-keywords: [LightningComponentBundle, Lightning, web, component, bundle, resources, Special, Access, Rules, Capabilities, LwcResources, LwcResource, Targets, Declarative, Metadata]
+keywords: [LightningComponentBundle, Capabilities, LwcResources, LwcResource, Targets, Lightning, web, bundle, resources, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# LightningComponentBundle
 
 > Represents a Lightning web component bundle. A
       bundle contains Lightning web component resources.

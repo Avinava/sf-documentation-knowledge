@@ -5,12 +5,10 @@ topic: message-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.033Z
+lastCollected: 2026-04-07T18:38:47.990Z
 estimatedTokens: 207
 keywords: [Message, instance]
 ---
-
-# Message Methods
 
 > The following are methods for Message. All are instance methods.
 

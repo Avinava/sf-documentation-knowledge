@@ -5,12 +5,10 @@ topic: responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.685Z
+lastCollected: 2026-04-07T18:37:52.899Z
 estimatedTokens: 1193
 keywords: [Responses, bodies, Insurance, Brokerage, APIs, insurance, claim, group, benefits, Policy, Product, Administration, Quoting]
 ---
-
-# Responses
 
 > Learn more about the available response bodies of insurance group benefits
   APIs.

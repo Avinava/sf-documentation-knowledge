@@ -5,12 +5,10 @@ topic: receipt-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.313Z
+lastCollected: 2026-04-07T18:38:09.608Z
 estimatedTokens: 296
-keywords: [Receipt, Upload, scan, scanning, app, uses, optical, character, recognition, interpret, receipts, unlocked, package, API, uploads]
+keywords: [Resource, Receipt, Upload, scan, scanning, app, uses, optical, character, recognition, interpret, receipts, unlocked, package, API, uploads, image, Amazon, bucket, Rest, Sample]
 ---
-
-# Receipt Upload
 
 > Upload and scan a receipt with a receipt scanning app that uses optical character
   recognition to read and interpret receipts. For the unlocked package, this API uploads the image

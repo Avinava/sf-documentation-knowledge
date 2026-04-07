@@ -5,12 +5,10 @@ topic: add-subscribers-to-a-lock-and-publish-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.112Z
+lastCollected: 2026-04-07T18:40:15.138Z
 estimatedTokens: 1206
 keywords: [Add, Subscribers, Lock, Publish, Account, adding, Why, How, Sample, SOAP, Envelope, Items]
 ---
-
-# Add Subscribers to a Lock and Publish Account
 
 > This page contains information  about adding subscribers to a lock and publish account.
 

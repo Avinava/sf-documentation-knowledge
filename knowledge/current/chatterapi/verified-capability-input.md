@@ -5,12 +5,10 @@ topic: verified-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.821Z
+lastCollected: 2026-04-07T18:37:10.519Z
 estimatedTokens: 291
-keywords: [Verified, Capability, Input, Mark, comment, unverified]
+keywords: [Verified, Capability, Mark, comment, unverified]
 ---
-
-# Verified Capability Input
 
 > Mark a comment as verified or unverified.
 

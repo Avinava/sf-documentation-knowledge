@@ -5,12 +5,10 @@ topic: fulfillment-group-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.475Z
+lastCollected: 2026-04-07T18:37:19.622Z
 estimatedTokens: 354
-keywords: [Fulfillment, Group, Output, FulfillmentOrder, orders, multiple, OrderDeliveryGroupSummaries, created, failed, data, input, resubmit]
+keywords: [Fulfillment, Group, FulfillmentOrder, orders, multiple, OrderDeliveryGroupSummaries, created, failed, resubmit]
 ---
-
-# Fulfillment Group Output
 
 > Information about one FulfillmentOrder from a request to create
       fulfillment orders from multiple OrderDeliveryGroupSummaries. If the FulfillmentOrder was

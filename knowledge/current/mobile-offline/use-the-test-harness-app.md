@@ -5,12 +5,10 @@ topic: use-the-test-harness-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.595Z
+lastCollected: 2026-04-07T18:38:15.072Z
 estimatedTokens: 162
 keywords: [Test, Harness, App, how, perform, common, testing, debugging, actions]
 ---
-
-# Use the Test Harness App
 
 > Learn how to use the Test Harness to perform common testing and debugging
   actions.

@@ -5,12 +5,10 @@ topic: use-eslint-rules-in-visual-studio-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.538Z
+lastCollected: 2026-04-07T18:38:15.019Z
 estimatedTokens: 429
-keywords: [ESLint, Rules, Visual, Studio, Code, warnings, against, Lightning, web, components, violates, map, distortions, affect, popup]
+keywords: [ESLint, Visual, Studio, Code, warnings, against, Lightning, web, violates, map, distortions, affect, popup, rule, violation, includes, link, documentation]
 ---
-
-# Use ESLint Rules in Visual Studio Code
 
 > The ESLint rules for warnings against Lightning web components are displayed in Visual
   Studio (VS) Code where your code violates them. The rules map to distortions that affect your

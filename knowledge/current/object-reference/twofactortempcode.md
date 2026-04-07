@@ -5,12 +5,10 @@ topic: twofactortempcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.212Z
+lastCollected: 2026-04-07T18:38:42.909Z
 estimatedTokens: 310
-keywords: [TwoFactorTempCode, Stores, user’s, temporary, verification, code, confirming, their, identity, logging, API, version, 37.0, later, Calls]
+keywords: [TwoFactorTempCode, Stores, user’s, temporary, verification, code, confirming, their, identity, logging, API, 37.0]
 ---
-
-# TwoFactorTempCode
 
 > Stores information about a user’s temporary verification code for
 			confirming their identity when logging in. This object is available in API version

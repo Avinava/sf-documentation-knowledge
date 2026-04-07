@@ -5,12 +5,10 @@ topic: pardot-business-unit-context-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.452Z
+lastCollected: 2026-04-07T18:37:21.570Z
 estimatedTokens: 153
-keywords: [Pardot, Business, Unit, Context, Output]
+keywords: [Pardot, Business, Unit, Context]
 ---
-
-# Pardot Business Unit Context Output
 
 > Pardot business unit context.
 

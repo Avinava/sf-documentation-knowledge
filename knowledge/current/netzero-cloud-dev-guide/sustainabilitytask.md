@@ -5,12 +5,10 @@ topic: sustainabilitytask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.187Z
+lastCollected: 2026-04-07T18:38:19.862Z
 estimatedTokens: 715
-keywords: [SustainabilityTask, tasks, sustainability, stakeholder, task, group, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [SustainabilityTask, tasks, sustainability, stakeholder, task, group, API, 64.0]
 ---
-
-# SustainabilityTask
 
 > Represents the tasks that the sustainability stakeholder does for a
          sustainability task group. This object is available in API version 64.0 and later.

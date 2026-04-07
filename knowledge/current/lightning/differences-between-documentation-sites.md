@@ -5,12 +5,10 @@ topic: differences-between-documentation-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.806Z
+lastCollected: 2026-04-07T18:38:02.732Z
 estimatedTokens: 287
-keywords: [Differences, Documentation, Sites, Here’s, breakdown, Component, Library, developer]
+keywords: [Differences, Documentation, Sites, Here’s, breakdown, Library, developer]
 ---
-
-# Differences Between Documentation Sites
 
 > Here’s a breakdown of the differences between the Component Library and the reference
         section of this developer guide.

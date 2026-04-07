@@ -5,12 +5,10 @@ topic: securitiesholdinghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.350Z
+lastCollected: 2026-04-07T18:40:01.106Z
 estimatedTokens: 266
-keywords: [SecuritiesHoldingHistory, History, tracked, SecuritiesHolding]
+keywords: [SecuritiesHoldingHistory, tracked, SecuritiesHolding]
 ---
-
-# SecuritiesHoldingHistory
 
 > History for tracked fields of SecuritiesHolding.
 

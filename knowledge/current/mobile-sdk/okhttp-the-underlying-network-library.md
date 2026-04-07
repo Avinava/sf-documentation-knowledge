@@ -5,12 +5,10 @@ topic: okhttp-the-underlying-network-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.563Z
+lastCollected: 2026-04-07T18:40:24.971Z
 estimatedTokens: 262
-keywords: [OkHttp, Underlying, Network, Library, Beginning, Mobile, SDK, 4.2, Android, REST, system, uses, v3.2.0, open-source, external]
+keywords: [OkHttp, Underlying, Network, Library, Beginning, Mobile, SDK, 4.2, Android, REST, system, uses, v3.2.0, open-source, external, Square, Open, Source, architecture, replaces, Google, Volley, past, releases, result, longer, WrappedRestRequest]
 ---
-
-# OkHttp: The Underlying Network Library
 
 > Beginning with Mobile SDK 4.2, the Android REST request system
    uses OkHttp (v3.2.0), an open-source external library from Square Open Source, as its underlying

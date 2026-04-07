@@ -5,12 +5,10 @@ topic: maintenanceplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:53.472Z
+lastCollected: 2026-04-07T18:39:47.866Z
 estimatedTokens: 692
 keywords: [MaintenancePlan, preventive, maintenance, schedule, assets, service]
 ---
-
-# MaintenancePlan
 
 > Represents a preventive maintenance schedule for one or more assets in field
 		service.

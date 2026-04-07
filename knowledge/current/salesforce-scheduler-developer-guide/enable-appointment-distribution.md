@@ -5,12 +5,10 @@ topic: enable-appointment-distribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.678Z
+lastCollected: 2026-04-07T18:39:21.534Z
 estimatedTokens: 200
-keywords: [Enable, Appointment, Distribution, resource, selection, territories, relatively, large, numbers, resources, easier, setting, show, short, least-consumed]
+keywords: [Enable, Appointment, Distribution, resource, selection, territories, relatively, large, numbers, resources, easier, setting, show, short, least-consumed, pool]
 ---
-
-# Enable Appointment Distribution
 
 > Make resource selection for territories with relatively large numbers of resources
       easier by setting Appointment Distribution to show only a short list of least-consumed

@@ -5,12 +5,10 @@ topic: gift-campaign-default-designations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.139Z
+lastCollected: 2026-04-07T18:37:29.254Z
 estimatedTokens: 119
-keywords: [Gift, Campaign, Designations, associated]
+keywords: [Gift, Campaign, Designations]
 ---
-
-# Gift Campaign Default Designations
 
 > Get default designations associated with a gift campaign.
 

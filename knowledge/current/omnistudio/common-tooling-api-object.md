@@ -5,12 +5,10 @@ topic: common-tooling-api-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:50.625Z
+lastCollected: 2026-04-07T18:36:36.169Z
 estimatedTokens: 255
-keywords: [Common, Tooling, API, BatchJobDefinition, shared, Data, Processing, Engine, Batch, Management]
+keywords: [Common, Tooling, API, BatchJobDefinition, shared, Processing, Engine, Batch, Management]
 ---
-
-# Common Tooling API Object
 
 > BatchJobDefinition is a common Tooling API object that is shared between Data
       Processing Engine and Batch Management.

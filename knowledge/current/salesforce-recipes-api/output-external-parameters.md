@@ -5,12 +5,10 @@ topic: output-external-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.687Z
+lastCollected: 2026-04-07T18:39:19.368Z
 estimatedTokens: 234
-keywords: [Output, External, node, recipe]
+keywords: [External, node, recipe]
 ---
-
-# Output External Parameters
 
 > The parameters for an output external node in a recipe.
 

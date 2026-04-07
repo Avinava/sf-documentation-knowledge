@@ -5,12 +5,10 @@ topic: snapshot-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.795Z
+lastCollected: 2026-04-07T18:35:46.789Z
 estimatedTokens: 176
-keywords: [Snapshot, Deployment, Output, representation]
+keywords: [Snapshot, Deployment]
 ---
-
-# Snapshot Deployment
 
 > Output representation of the snapshot deployment.
 

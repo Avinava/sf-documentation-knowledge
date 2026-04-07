@@ -5,12 +5,10 @@ topic: connectapiindividualmemberinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.754Z
+lastCollected: 2026-04-07T18:38:06.970Z
 estimatedTokens: 626
-keywords: [ConnectApi.IndividualMemberInput, Input, representation, individual, member]
+keywords: [ConnectApi.IndividualMemberInput, individual, member]
 ---
-
-# ConnectApi.IndividualMemberInput
 
 > Input representation of the individual member create
     request.

@@ -5,12 +5,10 @@ topic: partyprofileparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.640Z
+lastCollected: 2026-04-07T18:37:38.507Z
 estimatedTokens: 1026
-keywords: [PartyProfileParticipant, profile, participant, party, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [PartyProfileParticipant, profile, participant, party, API, 61.0]
 ---
-
-# PartyProfileParticipant
 
 > Represents information about the profile participant of a party.
       This object is available in API version 61.0 and later.

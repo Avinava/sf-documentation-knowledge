@@ -5,12 +5,10 @@ topic: enhance-the-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.016Z
+lastCollected: 2026-04-07T18:39:17.686Z
 estimatedTokens: 784
-keywords: [Enhance, User, Experience, Actions, Recommendations, component, gives, agents, clear, steps, follow, Help, productive, fine-tuning, how]
+keywords: [Enhance, User, Experience, Actions, Recommendations, gives, agents, clear, steps, follow, Help, productive, fine-tuning, how, they]
 ---
-
-# Enhance the User Experience
 
 > The Actions & Recommendations component gives your agents a clear set of steps to
     follow. Help your agents be more productive by fine-tuning how they use the list.

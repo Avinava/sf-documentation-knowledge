@@ -5,12 +5,10 @@ topic: introduction-to-accounting-subledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:07.643Z
+lastCollected: 2026-04-07T18:39:00.764Z
 estimatedTokens: 437
-keywords: [Introduction, Accounting, Subledger, Give, teams, neatly, packaged, financial, CRM, data, record-keeping]
+keywords: [Introduction, Accounting, Subledger, Give, teams, neatly, packaged, financial, CRM, record-keeping]
 ---
-
-# Introduction to Accounting Subledger
 
 > Give accounting teams neatly packaged financial CRM data for record-keeping.
 

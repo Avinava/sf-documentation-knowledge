@@ -6,13 +6,10 @@ topic: grain-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.766Z
+lastCollected: 2026-04-07T18:36:54.138Z
 estimatedTokens: 807
 keywords: [grain, Step, tables, groupings, dataset, display, columns]
 ---
-
-# grain Step Type
-        Properties
 
 > Use the grain step type for a values table.
         Values tables have no groupings, just a list of dataset fields to display as columns in the

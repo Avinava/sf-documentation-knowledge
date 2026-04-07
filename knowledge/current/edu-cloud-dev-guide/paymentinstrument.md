@@ -5,12 +5,10 @@ topic: paymentinstrument
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:43.315Z
+lastCollected: 2026-04-07T18:37:30.377Z
 estimatedTokens: 1254
-keywords: [PaymentInstrument, Payment, Instrument, transaction, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PaymentInstrument, Payment, Instrument, transaction, API, 60.0]
 ---
-
-# PaymentInstrument
 
 > Represents the details related to the Payment Instrument used to
          complete the transaction. This object is available in API version 60.0 and

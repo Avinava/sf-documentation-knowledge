@@ -5,12 +5,10 @@ topic: connectapieditcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.356Z
+lastCollected: 2026-04-07T18:36:08.788Z
 estimatedTokens: 387
-keywords: [ConnectApi.EditCapability, feed, element, comment, capability, users, permission, edit]
+keywords: [ConnectApi.EditCapability, comment, capability, users, permission, edit]
 ---
-
-# ConnectApi.EditCapability
 
 > If a feed element or comment has this capability, users who have
             permission can edit it.

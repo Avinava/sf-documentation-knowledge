@@ -5,12 +5,10 @@ topic: quoterecipientgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.595Z
+lastCollected: 2026-04-07T18:37:26.496Z
 estimatedTokens: 444
-keywords: [QuoteRecipientGroup, recipient, group, offers, products, configuration, added, includes, reusing, groups, add, remove, recipients, API, version]
+keywords: [QuoteRecipientGroup, recipient, group, offers, products, configuration, added, includes, reusing, groups, add, remove, recipients, API, 64.0]
 ---
-
-# QuoteRecipientGroup
 
 > Represents a recipient group for which offers or products with the same
          configuration are being added. This also includes reusing these groups to add or remove

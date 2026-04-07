@@ -5,12 +5,10 @@ topic: embeddedservicedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:44.291Z
+lastCollected: 2026-04-07T18:39:38.954Z
 estimatedTokens: 747
-keywords: [EmbeddedServiceDetail, metadata, catalog, underlying, Embedded, Service, setup, objects, defined, EmbeddedServiceConfig, deployment, guest, users, don’t, direct]
+keywords: [EmbeddedServiceDetail, metadata, catalog, underlying, Embedded, Service, setup, defined, EmbeddedServiceConfig, deployment, guest, users, don’t, direct, API, 39.0]
 ---
-
-# EmbeddedServiceDetail
 
 > Represents a metadata catalog object that exposes fields from the
 			underlying Embedded Service setup objects defined in each EmbeddedServiceConfig

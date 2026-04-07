@@ -5,12 +5,10 @@ topic: fiscalyearsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.138Z
+lastCollected: 2026-04-07T18:39:40.745Z
 estimatedTokens: 370
-keywords: [FiscalYearSettings, Settings, define, custom, standard, fiscal, year, organization, parent-child, relationship, Period]
+keywords: [FiscalYearSettings, Settings, define, standard, fiscal, year, organization, parent-child, relationship, Period]
 ---
-
-# FiscalYearSettings
 
 > Settings to define a custom or standard fiscal year for your
    organization. This object has a parent-child relationship with the Period

@@ -5,12 +5,10 @@ topic: adavailabilityjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.564Z
+lastCollected: 2026-04-07T18:38:11.862Z
 estimatedTokens: 635
-keywords: [AdAvailabilityJob, batch, job, populate, data, aggregate, tables, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [AdAvailabilityJob, batch, job, populate, aggregate, tables, API, 59.0]
 ---
-
-# AdAvailabilityJob
 
 > Represents the batch job details that populate data in other
          aggregate tables. This object is available in API version 59.0 and later.

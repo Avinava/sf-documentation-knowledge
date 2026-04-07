@@ -5,12 +5,10 @@ topic: merchantaccounthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.288Z
+lastCollected: 2026-04-07T18:39:48.744Z
 estimatedTokens: 261
-keywords: [MerchantAccountHistory, History, tracked, MerchantAccount]
+keywords: [MerchantAccountHistory, tracked, MerchantAccount]
 ---
-
-# MerchantAccountHistory
 
 > History for tracked fields of MerchantAccount.
 

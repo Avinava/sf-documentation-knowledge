@@ -5,12 +5,10 @@ topic: lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.403Z
+lastCollected: 2026-04-07T18:36:49.515Z
 estimatedTokens: 1375
-keywords: [Lightning, Console, JavaScript, API, apps, allow, users, quickly, they, edits, viewing, multiple, records, screen, gives]
+keywords: [Lightning, Console, JavaScript, API, apps, allow, users, quickly, they, edits, viewing, multiple, records, screen, gives, programmatic, fully, integrate, Aura, web, extending, meet, business, needs]
 ---
-
-# Lightning Console JavaScript API
 
 > Lightning console apps allow users to quickly find the information they need, and make
     edits while viewing multiple records on one screen. The Lightning Console JavaScript API gives

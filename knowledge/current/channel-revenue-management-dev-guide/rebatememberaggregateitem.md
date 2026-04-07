@@ -5,12 +5,10 @@ topic: rebatememberaggregateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.040Z
+lastCollected: 2026-04-07T18:37:06.745Z
 estimatedTokens: 718
-keywords: [RebateMemberAggregateItem, junction, rebate, member, product, aggregate, transaction, journal, API, version, 54.0, later, Calls]
+keywords: [RebateMemberAggregateItem, junction, rebate, member, product, aggregate, transaction, journal, API, 54.0]
 ---
-
-# RebateMemberAggregateItem
 
 > Represents a junction between a rebate member product aggregate and a
          transaction journal. This object is available in API version 54.0 and later.

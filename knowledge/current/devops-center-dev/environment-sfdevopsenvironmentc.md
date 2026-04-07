@@ -5,12 +5,10 @@ topic: environment-sfdevopsenvironmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.569Z
+lastCollected: 2026-04-07T18:37:28.583Z
 estimatedTokens: 1633
-keywords: [Environment, sf_devops__Environment__c, connection, DevOps, Center, currently, Salesforce, org, Developers, development, environments, their, work, pipeline, stage]
+keywords: [Environment, sf_devops__Environment__c, connection, DevOps, Center, currently, Salesforce, org, Developers, development, environments, their, work, pipeline, stage, orgs, installed, _devops, _Environment]
 ---
-
-# Environment (sf_devops__Environment__c)
 
 > Represents a connection from DevOps Center to an environment, which currently
          can be only a Salesforce org. Developers use development environments to do their work.

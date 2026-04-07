@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-object-state-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.945Z
+lastCollected: 2026-04-07T18:35:47.981Z
 estimatedTokens: 133
-keywords: [Transaction, Management, State, Standard, custom, extend, Transition, API, version, 60.0, later]
+keywords: [Transaction, Management, State, Standard, extend, Transition, API, 60.0]
 ---
-
-# Transaction Management Fields on Object State Value
 
 > Standard and custom fields extend the standard Object State Transition object
          for use in Transaction Management This object is available in API version 60.0 and

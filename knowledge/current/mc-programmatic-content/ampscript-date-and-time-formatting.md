@@ -5,12 +5,10 @@ topic: ampscript-date-and-time-formatting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.784Z
+lastCollected: 2026-04-07T18:40:22.150Z
 estimatedTokens: 981
-keywords: [AMPscript, Date, Time, Formatting, assumes, datatype, en-US, UTC, output, several, different, formats, depending, needs]
+keywords: [AMPscript, Date, Time, Formatting, assumes, datatype, en-US, UTC, several, different, formats, depending, needs]
 ---
-
-# AMPscript Date and Time Formatting
 
 > AMPscript assumes all date datatype values use en-US or UTC formatting. You can output several different date and time formats with AMPscript, depending on your needs.
 

@@ -5,12 +5,10 @@ topic: persontrait
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.661Z
+lastCollected: 2026-04-07T18:37:31.809Z
 estimatedTokens: 905
-keywords: [PersonTrait, traits, person, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [PersonTrait, traits, person, API, 64.0]
 ---
-
-# PersonTrait
 
 > Represents the traits of a person. This object is available in API
       version 64.0 and later.

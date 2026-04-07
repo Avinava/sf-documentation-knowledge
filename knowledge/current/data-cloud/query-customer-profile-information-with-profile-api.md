@@ -5,12 +5,10 @@ topic: query-customer-profile-information-with-profile-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.717Z
+lastCollected: 2026-04-07T18:35:51.578Z
 estimatedTokens: 1702
-keywords: [Query, Customer, Profile, API, Data, Cloud, calls, look, search, included, external, web, mobile, apps, Key]
+keywords: [Troubleshooting, Query, Customer, Profile, API, Cloud, look, search, included, external, web, mobile, apps, Key, Call, Connected, App, Setup, Acquire, Exchange, Token]
 ---
-
-# Query Customer Profile Information with Profile API
 
 > Data Cloud Profile API calls are used to look up and search customer
     profile information. These API calls can be included in your external web or mobile apps to look

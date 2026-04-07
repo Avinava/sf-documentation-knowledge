@@ -5,13 +5,11 @@ topic: declaring-a-remote-method-with-interface-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.430Z
+lastCollected: 2026-04-07T18:38:51.689Z
 estimatedTokens: 443
 namespace: RemoteController
-keywords: [Declaring, Remote, declare, @RemoteAction, instead, restricted, concrete, classes, package, provider, associated, subscriber, orgs, call, Visualforce]
+keywords: [Declaring, Remote, declare, @RemoteAction, instead, restricted, concrete, classes, package, provider, subscriber, orgs, call, Visualforce, pages, pass, their, own, implements, packaged]
 ---
-
-# Declaring a Remote Method with Interface Parameters
 
 > You can declare @RemoteAction methods with interface parameters and return
         types, instead of being restricted to concrete classes. With interface

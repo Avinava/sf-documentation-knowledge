@@ -5,12 +5,10 @@ topic: recommendation-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.837Z
+lastCollected: 2026-04-07T18:39:19.528Z
 estimatedTokens: 117
 keywords: [Recommendation, Node, recipe]
 ---
-
-# Recommendation Node
 
 > A recommendation node in a recipe.
 

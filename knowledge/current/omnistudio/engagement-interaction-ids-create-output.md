@@ -5,12 +5,10 @@ topic: engagement-interaction-ids-create-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.757Z
+lastCollected: 2026-04-07T18:36:39.479Z
 estimatedTokens: 129
-keywords: [Engagement, Interaction, IDs, Output, representation, creating]
+keywords: [Engagement, Interaction, IDs, creating]
 ---
-
-# Engagement Interaction IDs Create Output
 
 > Output representation of creating an engagement
     interaction.

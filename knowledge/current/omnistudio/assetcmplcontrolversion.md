@@ -5,12 +5,10 @@ topic: assetcmplcontrolversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.422Z
+lastCollected: 2026-04-07T18:36:44.180Z
 estimatedTokens: 334
-keywords: [AssetCmplControlVersion, association, Asset, Compliance, Control, Version, API, 66.0, later, Calls]
+keywords: [AssetCmplControlVersion, association, Asset, Compliance, Control, API, 66.0]
 ---
-
-# AssetCmplControlVersion
 
 > Represents an association between an Asset and a Compliance Control
          Version. This object is available in API version 66.0 and later.

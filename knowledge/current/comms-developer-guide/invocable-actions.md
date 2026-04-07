@@ -5,12 +5,10 @@ topic: invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.433Z
+lastCollected: 2026-04-07T18:37:26.348Z
 estimatedTokens: 227
-keywords: [Invocable, Actions, standard, custom, add, functionality, applications, Choose, posting, Chatter, sending, email, company’s, needs]
+keywords: [Invocable, Actions, standard, add, functionality, applications, Choose, posting, Chatter, sending, email, company’s, needs]
 ---
-
-# Invocable Actions
 
 > Represents standard and custom invocable actions. Use actions to add more
       functionality to your applications. Choose from standard actions, such as posting to Chatter

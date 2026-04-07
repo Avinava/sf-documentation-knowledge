@@ -5,12 +5,10 @@ topic: identityverificationprocdtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.726Z
+lastCollected: 2026-04-07T18:39:06.846Z
 estimatedTokens: 1381
-keywords: [IdentityVerificationProcDtl, configure, search, function, well, minimum, number, verifiers, identity, verification, process, API, version, 54.0, later]
+keywords: [IdentityVerificationProcDtl, configure, search, function, well, minimum, number, verifiers, identity, verification, process, API, 54.0, SOAP, REST]
 ---
-
-# IdentityVerificationProcDtl
 
 > Used to configure the search function as well as the minimum number
          of verifiers for the identity verification process. This object is available in API

@@ -5,12 +5,10 @@ topic: assign-permission-sets-to-channel-order-app-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.706Z
+lastCollected: 2026-04-07T18:38:46.574Z
 estimatedTokens: 244
-keywords: [Assign, Permission, Channel, Order, App, Users, you’re, upgrading, COA, later, give, team, members, access, User]
+keywords: [Assign, Permission, Channel, Order, App, Users, you’re, upgrading, COA, give, team, members, User, submit, manage, customer, orders, Admin, full, app’s, features, including, ability, connection, Salesforce]
 ---
-
-# Assign Permission Sets to Channel Order App Users
 
 > If you’re upgrading to Channel Order App (COA) v2 and later, assign permission sets to
   give team members access to the app. Assign the COA User permission set to users who submit and

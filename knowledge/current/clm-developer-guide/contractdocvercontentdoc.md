@@ -5,12 +5,10 @@ topic: contractdocvercontentdoc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.550Z
+lastCollected: 2026-04-07T18:37:25.476Z
 estimatedTokens: 1026
-keywords: [ContractDocVerContentDoc, Associates, contract, document, version, content, API, 56.0, later, Calls, Associated, Objects]
+keywords: [ContractDocVerContentDoc, Associates, contract, document, content, API, 56.0]
 ---
-
-# ContractDocVerContentDoc
 
 > Associates a contract document version with a content document. This object is
       available in API version 56.0 and later.

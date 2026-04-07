@@ -6,13 +6,10 @@ topic: using-maven-to-update-libraries-in-android-apps-libraries-in-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.699Z
+lastCollected: 2026-04-07T18:40:25.096Z
 estimatedTokens: 557
-keywords: [Maven, Libraries, Android, Apps, Beginning, Mobile, SDK, 9.2.0, native, Central, consume, library, add, line, dependencies]
+keywords: [Maven, Libraries, Android, Apps, Beginning, Mobile, SDK, 9.2.0, native, Central, consume, library, add, line, dependencies, app’s, build.gradle, file]
 ---
-
-# Using Maven to Update  Libraries in Android Apps Libraries in Android
-   Apps
 
 > Beginning in Mobile SDK 9.2.0, native
   Android libraries are available at Maven Central. To consume a Mobile SDK library, you add a

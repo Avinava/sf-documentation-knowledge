@@ -5,12 +5,10 @@ topic: limit-multivalue-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.548Z
+lastCollected: 2026-04-07T18:37:01.145Z
 estimatedTokens: 1181
 keywords: [Limit, Multivalue, cause, poor, performance, behavior, group-by, foreach, statements, possible, write, query, referenced, filters]
 ---
-
-# Limit Multivalue Fields
 
 > Multivalue fields can cause poor performance. The behavior of these fields is undefined
   for group-by and foreach

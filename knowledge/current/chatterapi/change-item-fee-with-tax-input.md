@@ -5,12 +5,10 @@ topic: change-item-fee-with-tax-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.869Z
+lastCollected: 2026-04-07T18:37:07.595Z
 estimatedTokens: 258
-keywords: [Change, Item, Fee, Tax, Input, including, taxes]
+keywords: [Change, Item, Fee, Tax, including, taxes]
 ---
-
-# Change Item Fee With Tax Input
 
 > Change item fee, including taxes.
 

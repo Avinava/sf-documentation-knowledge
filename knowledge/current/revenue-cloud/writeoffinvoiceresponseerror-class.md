@@ -5,13 +5,11 @@ topic: writeoffinvoiceresponseerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.527Z
+lastCollected: 2026-04-07T18:35:40.320Z
 estimatedTokens: 809
 namespace: InvoiceWriteOff
-keywords: [WriteOffInvoiceResponseError, store, error, that's, associated, write, off, posted, invoice, errorCode, errorMessage]
+keywords: [WriteOffInvoiceResponseError, store, error, that's, write, off, posted, invoice, errorCode, errorMessage]
 ---
-
-# WriteOffInvoiceResponseError Class
 
 > Contains properties to store the error response that's associated with a request to write
     off a posted invoice.

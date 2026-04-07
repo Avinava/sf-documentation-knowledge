@@ -5,12 +5,10 @@ topic: financialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.301Z
+lastCollected: 2026-04-07T18:36:52.726Z
 estimatedTokens: 1843
-keywords: [FinancialAccount, financing, option, automotive, loan, lease, customer, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [FinancialAccount, financing, option, automotive, loan, lease, customer, API, 60.0]
 ---
-
-# FinancialAccount
 
 > Represents a financing option, such as an automotive loan or lease related to
          a customer. This object is available in API version 60.0 and later.

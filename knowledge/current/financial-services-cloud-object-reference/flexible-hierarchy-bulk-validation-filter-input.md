@@ -5,12 +5,10 @@ topic: flexible-hierarchy-bulk-validation-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.141Z
+lastCollected: 2026-04-07T18:37:34.701Z
 estimatedTokens: 148
-keywords: [Flexible, Hierarchy, Bulk, Validation, Filter, Input, representation, criterion]
+keywords: [Flexible, Hierarchy, Bulk, Validation, Filter, criterion]
 ---
-
-# Flexible Hierarchy Bulk Validation Filter Input
 
 > Input representation for a filter criterion used in bulk
         validation.

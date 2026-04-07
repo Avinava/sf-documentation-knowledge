@@ -5,12 +5,10 @@ topic: connectapiactionlinkdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.629Z
+lastCollected: 2026-04-07T18:36:06.978Z
 estimatedTokens: 1428
-keywords: [ConnectApi.ActionLinkDefinition, definition, action, link, sensitive, third, party, OAuth, bearer, token, reason, calls, made, Apex, created]
+keywords: [ConnectApi.ActionLinkDefinition, definition, action, link, sensitive, third, party, OAuth, bearer, token, reason, made, Apex, created, modify, addition, user, making, call, View, permission]
 ---
-
-# ConnectApi.ActionLinkDefinition
 
 > The definition of an action link. Action link definition can be
       sensitive to a third party (for example, OAuth bearer token headers). For this reason, only

@@ -5,12 +5,10 @@ topic: user-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.172Z
+lastCollected: 2026-04-07T18:37:16.225Z
 estimatedTokens: 994
 keywords: [User, Photo, post, crop]
 ---
-
-# User Photo
 
 > Get, post, and crop a user photo.
 

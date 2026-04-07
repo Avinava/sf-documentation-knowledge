@@ -5,13 +5,11 @@ topic: permissionsetlicensedefinition-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.669Z
+lastCollected: 2026-04-07T18:38:38.015Z
 estimatedTokens: 1384
 namespace: BlockNamespaceAccess
-keywords: [PermissionSetLicenseDefinition, Developer, Preview, definition, custom, permission, license, entitles, features, package, API, version, 54.0, later, Calls]
+keywords: [PermissionSetLicenseDefinition, Developer, Preview, definition, permission, license, entitles, features, package, API, 54.0]
 ---
-
-# PermissionSetLicenseDefinition (Developer Preview)
 
 > Represents the definition of a custom permission set license, which entitles
          specified features in a package. This object is available in API version 54.0 and

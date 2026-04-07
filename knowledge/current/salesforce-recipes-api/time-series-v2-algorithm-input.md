@@ -5,12 +5,10 @@ topic: time-series-v2-algorithm-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.091Z
+lastCollected: 2026-04-07T18:39:18.803Z
 estimatedTokens: 104
-keywords: [Time, Series, Algorithm, Input, version, node, recipe]
+keywords: [Time, Series, Algorithm, node, recipe]
 ---
-
-# Time Series V2 Algorithm Input
 
 > The algorithm for a time series version 2 node in a recipe.
 

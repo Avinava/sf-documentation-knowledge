@@ -5,12 +5,10 @@ topic: device-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.515Z
+lastCollected: 2026-04-07T18:35:53.470Z
 estimatedTokens: 749
-keywords: [Device, DMO, data, model, Cloud, specific, electronic, unit, want, track, signals, refrigerator, watch, car, API]
+keywords: [Category, Relationships, Device, DMO, model, Cloud, specific, electronic, unit, want, track, signals, refrigerator, watch, car, API, Primary, Subject, Area, Key]
 ---
-
-# Device DMO
 
 > The Device data model object (DMO) is a Data Cloud DMO for a specific
 		electronic unit that you want to track signals from, for example, a refrigerator, watch, or

@@ -5,12 +5,10 @@ topic: connectapiserviceappointmentresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.305Z
+lastCollected: 2026-04-07T18:39:20.003Z
 estimatedTokens: 101
 keywords: [ConnectApi.ServiceAppointmentResult, result, service, appointment]
 ---
-
-# ConnectApi.ServiceAppointmentResult
 
 > Contains result of the service appointment.
 

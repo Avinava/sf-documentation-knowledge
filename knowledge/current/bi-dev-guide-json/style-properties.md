@@ -5,12 +5,10 @@ topic: style-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.670Z
+lastCollected: 2026-04-07T18:36:54.036Z
 estimatedTokens: 526
 keywords: [style, key, dashboard, cell, spacing, grid, well, dashboard’s, background, color, image]
 ---
-
-# style Properties
 
 > The style key contains the dashboard properties,
     like cell spacing in the grid, as well as the dashboard’s background color or image.

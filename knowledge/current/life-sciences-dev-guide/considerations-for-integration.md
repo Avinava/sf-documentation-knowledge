@@ -5,12 +5,10 @@ topic: considerations-for-integration
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:08.758Z
+lastCollected: 2026-04-07T18:37:58.284Z
 estimatedTokens: 1051
-keywords: [Considerations, Integration, Salesforce, implementation, FHIR, resources, differs, specification, Built, core, platform, FHIR-aligned, clinical, data, model]
+keywords: [Considerations, Integration, Salesforce, implementation, FHIR, resources, differs, specification, Built, core, platform, FHIR-aligned, clinical, model, comes, mappings, help, integrate]
 ---
-
-# Considerations for Integration
 
 > The Salesforce implementation of FHIR resources differs from the FHIR specification.
   Built on the core Salesforce platform, the FHIR-aligned clinical data model comes with field

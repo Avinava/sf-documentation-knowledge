@@ -5,12 +5,10 @@ topic: watchlist-item-metadata-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.693Z
+lastCollected: 2026-04-07T18:36:55.077Z
 estimatedTokens: 307
-keywords: [Watchlist, Item, Metadata, Input, Analytics]
+keywords: [Watchlist, Item, Metadata, Analytics]
 ---
-
-# Watchlist Item Metadata Input
 
 > The metadata for an Analytics watchlist item.
 

@@ -5,12 +5,10 @@ topic: party-expense-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.304Z
+lastCollected: 2026-04-07T18:35:54.346Z
 estimatedTokens: 537
-keywords: [Party, Expense, DMO, incurred, individual, account, API, version, later, Category, Primary, Subject, Area, Key, Label]
+keywords: [Category, Relationships, Party, Expense, DMO, incurred, individual, account, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Party Expense DMO
 
 > Represents the expense incurred by an individual or account. This DMO is available in
       API version 61 and later.

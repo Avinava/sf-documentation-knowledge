@@ -5,12 +5,10 @@ topic: eventrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:39.815Z
+lastCollected: 2026-04-07T18:38:30.632Z
 estimatedTokens: 3074
-keywords: [EventRelation, person, user, lead, contact, resource, conference, room, invited, event, lets, add, remove, invitees, API]
+keywords: [EventRelation, person, user, lead, contact, resource, conference, room, invited, event, lets, add, remove, invitees, API, manage, invitees’, responses, invitations, Shared, Activities, enabled, represent, support, triggers, workflow, validation]
 ---
-
-# EventRelation
 
 > Represents a person (a user, lead,
                 or contact) or a resource (such as a conference room) invited to an event. This

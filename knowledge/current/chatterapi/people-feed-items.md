@@ -5,12 +5,10 @@ topic: people-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.254Z
+lastCollected: 2026-04-07T18:37:10.929Z
 estimatedTokens: 1216
-keywords: [People, Feed, Items, context, user, follows, Flat]
+keywords: [People, Items, context, user, follows, Flat]
 ---
-
-# People Feed Items
 
 > Get the feed items from the people the context user
     follows.

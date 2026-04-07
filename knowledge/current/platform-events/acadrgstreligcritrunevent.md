@@ -5,12 +5,10 @@ topic: acadrgstreligcritrunevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.632Z
+lastCollected: 2026-04-07T18:38:58.520Z
 estimatedTokens: 351
-keywords: [AcadRgstrEligCritRunEvent, resources, run, eligibility, criteria, expression, calculation, academic, term, enrollment, registration, timeline, API, version, 65.0]
+keywords: [AcadRgstrEligCritRunEvent, resources, run, eligibility, criteria, expression, calculation, academic, term, enrollment, registration, timeline, API, 65.0]
 ---
-
-# AcadRgstrEligCritRunEvent
 
 > Represents the resources required to run an eligibility criteria (expression
          set) calculation on an academic term enrollment for an academic term registration

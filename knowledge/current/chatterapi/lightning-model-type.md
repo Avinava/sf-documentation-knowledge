@@ -5,12 +5,10 @@ topic: lightning-model-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:32.816Z
+lastCollected: 2026-04-07T18:37:19.970Z
 estimatedTokens: 372
 keywords: [Lightning, Model]
 ---
-
-# Lightning Model Type
 
 > Details about lightning model types.
 

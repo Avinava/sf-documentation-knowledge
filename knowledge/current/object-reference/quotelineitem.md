@@ -5,12 +5,10 @@ topic: quotelineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:48.050Z
+lastCollected: 2026-04-07T18:38:39.614Z
 estimatedTokens: 7440
-keywords: [QuoteLineItem, quote, line, item, member, Product2, products, associated, along, items, API, version, 18.0, later, Calls]
+keywords: [QuoteLineItem, quote, line, item, member, Product2, products, along, items, API, 18.0]
 ---
-
-# QuoteLineItem
 
 > Represents a quote line item, which is a member of the list of Product2
    products associated with a quote, along with other information about those line items on that

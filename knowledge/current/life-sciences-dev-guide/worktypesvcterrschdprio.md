@@ -5,12 +5,10 @@ topic: worktypesvcterrschdprio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.277Z
+lastCollected: 2026-04-07T18:38:02.184Z
 estimatedTokens: 1292
-keywords: [WorkTypeSvcTerrSchdPrio, priority, combination, service, territory, work, procedure, fetching, appointment, slots, API, version, 59.0, later, Calls]
+keywords: [WorkTypeSvcTerrSchdPrio, priority, combination, service, territory, work, procedure, fetching, appointment, slots, API, 59.0]
 ---
-
-# WorkTypeSvcTerrSchdPrio
 
 > Represents the priority of the combination of the service territory, work
          type, and work procedure while fetching appointment slots. This object is available in

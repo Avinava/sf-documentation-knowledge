@@ -5,12 +5,10 @@ topic: learnerprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.230Z
+lastCollected: 2026-04-07T18:37:31.355Z
 estimatedTokens: 1340
-keywords: [LearnerProgram, Learning, Program, Plan, that's, created, learner, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearnerProgram, Learning, Program, Plan, that's, created, learner, API, 57.0]
 ---
-
-# LearnerProgram
 
 > Represents details of a Learning Program Plan that's created for a
          learner. This object is available in API version 57.0 and later.

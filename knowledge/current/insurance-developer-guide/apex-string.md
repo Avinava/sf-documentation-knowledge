@@ -5,12 +5,10 @@ topic: apex-string
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.020Z
+lastCollected: 2026-04-07T18:37:50.958Z
 estimatedTokens: 82
-keywords: [Apex, Input, representation, key-value, pair]
+keywords: [Apex, key-value, pair]
 ---
-
-# Apex String
 
 > Input representation for a key-value pair.
 

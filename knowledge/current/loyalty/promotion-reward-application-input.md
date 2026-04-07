@@ -5,12 +5,10 @@ topic: promotion-reward-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.154Z
+lastCollected: 2026-04-07T18:38:07.371Z
 estimatedTokens: 252
-keywords: [Promotion, Reward, Application, Input, transaction, journals, includes, created, promotions, applied, along, rewards, any, aren't, everything]
+keywords: [Promotion, Reward, Application, transaction, journals, includes, created, promotions, applied, along, rewards, any, aren't, everything, rolled, back, partial]
 ---
-
-# Promotion Reward Application Input
 
 > The details required to create transaction journals. The request includes a list of
     transaction journals, which are to be created. It includes the list of promotions applied along

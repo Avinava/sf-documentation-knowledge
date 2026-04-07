@@ -5,12 +5,10 @@ topic: applicationformevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.542Z
+lastCollected: 2026-04-07T18:39:05.544Z
 estimatedTokens: 1313
-keywords: [ApplicationFormEvaluation, verification, initiated, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ApplicationFormEvaluation, verification, initiated, API, 62.0]
 ---
-
-# ApplicationFormEvaluation
 
 > Represents the details of the information verification initiated for
          an object. This object is available in API version 62.0 and later.

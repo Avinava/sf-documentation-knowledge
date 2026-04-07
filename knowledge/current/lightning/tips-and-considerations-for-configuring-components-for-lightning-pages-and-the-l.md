@@ -6,13 +6,10 @@ topic: tips-and-considerations-for-configuring-components-for-lightning-pages-an
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.922Z
+lastCollected: 2026-04-07T18:38:02.850Z
 estimatedTokens: 1194
-keywords: [Tips, Considerations, Configuring, Components, Lightning, Pages, App, Builder, Keep, guidelines, mind, creating, component, bundles, Attributes]
+keywords: [Attributes, Limitations, Tips, Considerations, Configuring, Lightning, Pages, App, Builder, Keep, guidelines, mind, creating, bundles]
 ---
-
-# Tips and Considerations for Configuring Components for Lightning Pages and the Lightning
-    App Builder
 
 > Keep these guidelines in mind when creating components and component bundles for
     Lightning pages and the Lightning App Builder.

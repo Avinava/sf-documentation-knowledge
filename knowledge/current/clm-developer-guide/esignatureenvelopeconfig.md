@@ -5,12 +5,10 @@ topic: esignatureenvelopeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.482Z
+lastCollected: 2026-04-07T18:37:25.408Z
 estimatedTokens: 647
-keywords: [ESignatureEnvelopeConfig, notification-specific, settings, integrating, external, eSignature, providers, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 56.0, later, Calls]
+keywords: [ESignatureEnvelopeConfig, notification-specific, settings, integrating, external, eSignature, providers, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 56.0]
 ---
-
-# ESignatureEnvelopeConfig
 
 > The notification-specific settings for integrating with external eSignature providers. This object is available in API version 56.0 and later.
 

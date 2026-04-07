@@ -5,12 +5,10 @@ topic: upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.232Z
+lastCollected: 2026-04-07T18:40:27.420Z
 estimatedTokens: 259
-keywords: [Upsert, Updates, inserts, external, data, iOS, Android]
+keywords: [Upsert, Android, Updates, inserts, external, iOS]
 ---
-
-# Upsert
 
 > Updates or inserts an object from external data.
 

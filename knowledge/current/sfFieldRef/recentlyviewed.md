@@ -5,12 +5,10 @@ topic: recentlyviewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.221Z
+lastCollected: 2026-04-07T18:39:58.872Z
 estimatedTokens: 386
-keywords: [RecentlyViewed, records, views, current, user, recently, viewed, referenced, viewing, record, API, version, 29.0, later]
+keywords: [RecentlyViewed, records, views, current, user, recently, viewed, referenced, viewing, record, API, 29.0]
 ---
-
-# RecentlyViewed
 
 > Represents records or list views that the current user has recently
    viewed or referenced (by viewing a related record). List views are available in API version 29.0

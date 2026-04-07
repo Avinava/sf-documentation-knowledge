@@ -5,13 +5,11 @@ topic: describequickactiondefaultvalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.645Z
+lastCollected: 2026-04-07T18:36:02.853Z
 estimatedTokens: 375
 namespace: QuickAction
-keywords: [DescribeQuickActionDefaultValue, quick, action, Usage, getDefaultValue, getField]
+keywords: [DescribeQuickActionDefaultValue, quick, action, getDefaultValue, getField]
 ---
-
-# DescribeQuickActionDefaultValue Class
 
 > Returns a default value for a quick action.
 

@@ -5,12 +5,10 @@ topic: outboundengagementtmplview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.314Z
+lastCollected: 2026-04-07T18:39:09.629Z
 estimatedTokens: 626
-keywords: [OutboundEngagementTmplView, outbound, engagement, template, API, version, 65.0, later, Calls]
+keywords: [OutboundEngagementTmplView, outbound, engagement, template, API, 65.0]
 ---
-
-# OutboundEngagementTmplView
 
 > Represents the details of an outbound engagement template. This object
       is available in API version 65.0 and later.

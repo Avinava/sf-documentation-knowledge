@@ -5,12 +5,10 @@ topic: chatterextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.144Z
+lastCollected: 2026-04-07T18:36:23.444Z
 estimatedTokens: 780
-keywords: [ChatterExtension, metadata, describe, Rich, Publisher, App, that’s, integrated, Chatter, Retrieving, Version, Wildcard, Support, Manifest, File]
+keywords: [ChatterExtension, metadata, describe, Rich, Publisher, App, that’s, integrated, Chatter, Retrieving, Wildcard, Support, Manifest, File]
 ---
-
-# ChatterExtension
 
 > Represents the metadata used to describe a Rich
             Publisher App that’s integrated with the Chatter publisher.

@@ -5,12 +5,10 @@ topic: experience-model-property-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.445Z
+lastCollected: 2026-04-07T18:37:13.398Z
 estimatedTokens: 224
 keywords: [Experience, Model]
 ---
-
-# Experience Model Property Type
 
 > Get an experience model property type.
 

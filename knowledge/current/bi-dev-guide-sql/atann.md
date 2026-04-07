@@ -5,12 +5,10 @@ topic: atann
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.228Z
+lastCollected: 2026-04-07T18:37:01.836Z
 estimatedTokens: 82
 keywords: [atan, arctan, radians, any, real, number, range, -1e308, 1e308, passed, argument]
 ---
-
-# atan(n)
 
 > Returns the arctan value of radians value n. n can be
   any real number in the range of -1e308 <= n <= 1e308. If null is

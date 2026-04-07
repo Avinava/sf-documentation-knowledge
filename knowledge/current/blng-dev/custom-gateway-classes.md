@@ -5,12 +5,10 @@ topic: custom-gateway-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.497Z
+lastCollected: 2026-04-07T18:37:03.060Z
 estimatedTokens: 372
-keywords: [Custom, Gateway, Classes, Salesforce, Billing, three, users, customize, integrate, their, chosen, payment]
+keywords: [Gateway, Classes, Salesforce, Billing, three, users, customize, integrate, their, chosen, payment]
 ---
-
-# Custom Gateway Classes
 
 > Salesforce Billing provides three classes that users can customize to integrate with
   their chosen payment gateway.

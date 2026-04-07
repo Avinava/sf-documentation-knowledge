@@ -5,12 +5,10 @@ topic: procedure-plan-option-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.727Z
+lastCollected: 2026-04-07T18:35:43.603Z
 estimatedTokens: 429
-keywords: [Procedure, Plan, Option, Input, representation]
+keywords: [Procedure, Plan, Option]
 ---
-
-# Procedure Plan Option Input
 
 > Input representation of the details of a procedure plan option.
 

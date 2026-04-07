@@ -5,12 +5,10 @@ topic: recipe-configuration-fiscal-offset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.863Z
+lastCollected: 2026-04-07T18:39:18.584Z
 estimatedTokens: 137
-keywords: [Recipe, Configuration, Fiscal, Offset, Input, data, prep]
+keywords: [Recipe, Configuration, Fiscal, Offset, prep]
 ---
-
-# Recipe Configuration Fiscal Offset Input
 
 > The data prep recipe fiscal offset configuration data.
 

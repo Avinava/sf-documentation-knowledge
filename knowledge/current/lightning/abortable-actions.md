@@ -5,12 +5,10 @@ topic: abortable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.529Z
+lastCollected: 2026-04-07T18:38:03.578Z
 estimatedTokens: 716
-keywords: [Abortable, Actions, Mark, action, potentially, it's, queued, sent, server, queue, component, created, longer, cmp.isValid, automatically]
+keywords: [Abortable, Actions, Mark, action, potentially, it's, queued, sent, server, queue, created, longer, cmp.isValid, automatically, destroyed, marked, invalid, framework, unrendered, Marking]
 ---
-
-# Abortable Actions
 
 > Mark an action as abortable to make it potentially abortable
             while it's queued to be sent to the server. An abortable action in the queue is not sent

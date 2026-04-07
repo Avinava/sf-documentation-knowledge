@@ -5,12 +5,10 @@ topic: scoping-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.809Z
+lastCollected: 2026-04-07T18:39:21.672Z
 estimatedTokens: 1171
-keywords: [Scoping, Rules, let, control, records, users, criteria, select, different, Salesforce, org, they, focus, matter, custom]
+keywords: [Scoping, let, control, records, users, criteria, select, different, Salesforce, org, they, focus, matter, account, case, contact, event, lead, opportunity, task, standard, edit, Tooling, Metadata, API, Setup, How, Affect, User, Applied, Configure]
 ---
-
-# Scoping Rules
 
 > Scoping rules let you control the records that your users see based on criteria that you
   select. You can set up scoping rules for different users in your Salesforce org so that they can

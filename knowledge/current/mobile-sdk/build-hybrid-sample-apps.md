@@ -5,12 +5,10 @@ topic: build-hybrid-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.815Z
+lastCollected: 2026-04-07T18:40:26.139Z
 estimatedTokens: 621
-keywords: [Build, Hybrid, Sample, Apps, samples, directory, SalesforceMobileSDK-Shared, repository, forcehybrid, Cordova, command, line, hybrid_local, hybrid_remote, app]
+keywords: [Build, Hybrid, Sample, Apps, samples, directory, SalesforceMobileSDK-Shared, repository, forcehybrid, Cordova, command, line, hybrid_local, hybrid_remote, app, add, web, assets—HTML, JavaScript, CSS, files—and, bootconfig.json, file]
 ---
-
-# Build Hybrid Sample Apps
 
 > To build hybrid apps from the samples
       directory of the SalesforceMobileSDK-Shared

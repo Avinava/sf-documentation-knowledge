@@ -5,12 +5,10 @@ topic: decision-table-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.343Z
+lastCollected: 2026-04-07T18:39:03.527Z
 estimatedTokens: 982
-keywords: [Decision, Actions, Invoke, REST, HTTP, Dataset, Link, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Decision, Actions, Invoke, REST, HTTP, Dataset, Link]
 ---
-
-# Decision Table Actions
 
 > Invoke a decision table.
 

@@ -6,13 +6,10 @@ topic: grantmaking-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:31.954Z
+lastCollected: 2026-04-07T18:38:22.929Z
 estimatedTokens: 1979
-keywords: [Grantmaking, data, model, objects, calculate, manage, grants, organization, **Grantmaking, Reference**]
+keywords: [Grantmaking, model, calculate, manage, grants, organization, **Grantmaking, Reference**]
 ---
-
-# Grantmaking Object
-  Reference
 
 > The Grantmaking data model provides objects and fields to calculate
   and manage grants for your organization.

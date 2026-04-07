@@ -5,12 +5,10 @@ topic: set-default-licensing-for-your-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.329Z
+lastCollected: 2026-04-07T18:38:46.185Z
 estimatedTokens: 892
-keywords: [Licensing, Managed, Package, License, Management, App, LMA, register, receive, record, time, customer, installs, AppExchange, solution]
+keywords: [Licensing, Managed, Package, License, Management, App, LMA, register, receive, record, time, customer, installs, AppExchange, solution, licenses, track, who's, how, long]
 ---
-
-# Set Default Licensing for Your Managed Package
 
 > If you set up the License Management App (LMA) and register your managed package, you
     receive a license record each time a customer installs your AppExchange solution. You can use

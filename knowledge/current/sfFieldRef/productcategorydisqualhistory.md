@@ -5,12 +5,10 @@ topic: productcategorydisqualhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.831Z
+lastCollected: 2026-04-07T18:39:55.399Z
 estimatedTokens: 277
-keywords: [ProductCategoryDisqualHistory, History, tracked, ProductCategoryDisqual]
+keywords: [ProductCategoryDisqualHistory, tracked, ProductCategoryDisqual]
 ---
-
-# ProductCategoryDisqualHistory
 
 > History for tracked fields of ProductCategoryDisqual.
 

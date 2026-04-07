@@ -5,12 +5,10 @@ topic: chatter-stream-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.592Z
+lastCollected: 2026-04-07T18:37:08.431Z
 estimatedTokens: 285
-keywords: [Chatter, Stream, Input, feed]
+keywords: [Chatter, Stream]
 ---
-
-# Chatter Stream Input
 
 > Chatter feed stream input.
 

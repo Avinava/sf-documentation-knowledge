@@ -5,12 +5,10 @@ topic: cgcloudjobtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.376Z
+lastCollected: 2026-04-07T18:39:13.789Z
 estimatedTokens: 1295
-keywords: [cgcloud__Job_Template__c, Stores, whether, job, considered, either, task, question, product, survey, any, capturing, orders, API, version]
+keywords: [cgcloud__Job_Template__c, Stores, whether, job, considered, either, task, question, product, survey, any, capturing, orders, API, 54.0, cgcloud, _Job, _Template]
 ---
-
-# cgcloud__Job_Template__c
 
 > Stores whether a job is to be considered as either a task, a question, a
          product related question (survey), or any other object related job like capturing

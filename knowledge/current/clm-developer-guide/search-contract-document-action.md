@@ -5,12 +5,10 @@ topic: search-contract-document-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.484Z
+lastCollected: 2026-04-07T18:37:24.487Z
 estimatedTokens: 300
-keywords: [Search, Contract, Document, Action, latest, version, user's, query, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Search, Contract, Document, Action, latest, user's, query, REST, HTTP]
 ---
-
-# Search Contract Document Action
 
 > Search the latest contract document version based on the user's
             query.

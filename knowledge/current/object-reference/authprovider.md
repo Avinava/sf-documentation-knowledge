@@ -5,12 +5,10 @@ topic: authprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:35.584Z
+lastCollected: 2026-04-07T18:38:26.548Z
 estimatedTokens: 3085
-keywords: [AuthProvider, authentication, provider, auth, lets, users, log, Salesforce, org, external, service, Facebook, Google, GitHub, API]
+keywords: [AuthProvider, authentication, provider, auth, lets, users, log, Salesforce, org, external, service, Facebook, Google, GitHub, API, 27.0]
 ---
-
-# AuthProvider
 
 > Represents an authentication provider (auth provider). An auth provider
 			lets users log in to your Salesforce org from an external service provider, such as

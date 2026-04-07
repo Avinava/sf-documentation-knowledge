@@ -5,12 +5,10 @@ topic: create-a-first-generation-managed-package-using-a-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.817Z
+lastCollected: 2026-04-07T18:38:53.116Z
 estimatedTokens: 1759
-keywords: [First-Generation, Managed, Package, goal, build, app, distribute, AppExchange, packages, Packaging, container, fill, metadata, holds, features]
+keywords: [First-Generation, Managed, Package, goal, build, app, distribute, AppExchange, packages, Packaging, container, fill, metadata, holds, features, customizations, schema, include, different, library]
 ---
-
-# Create a First-Generation Managed Package Using a UI
 
 > If your goal is to build an app and distribute it on AppExchange, you use managed
   packages to do both. Packaging is the container that you fill with metadata, and it holds the set

@@ -5,12 +5,10 @@ topic: batch-operation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.700Z
+lastCollected: 2026-04-07T18:40:10.678Z
 estimatedTokens: 150
-keywords: [Batch, Operation, Input, record, data]
+keywords: [Batch, Operation, record]
 ---
-
-# Batch Operation Input
 
 > Represents the operation type and record data to create, update, and delete in a
     batch.

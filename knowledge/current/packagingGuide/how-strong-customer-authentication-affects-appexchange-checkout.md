@@ -5,12 +5,10 @@ topic: how-strong-customer-authentication-affects-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.070Z
+lastCollected: 2026-04-07T18:38:45.909Z
 estimatedTokens: 593
-keywords: [How, Strong, Customer, Authentication, Affects, AppExchange, Checkout, SCA, automatically, integrated, payment, experience, European, customers, initial]
+keywords: [How, Strong, Customer, Authentication, Affects, AppExchange, Checkout, SCA, automatically, integrated, payment, experience, European, customers, initial, purchase, recurring, payments]
 ---
-
-# How Strong Customer Authentication Affects AppExchange Checkout
 
 > Strong customer authentication (SCA) is automatically integrated into the Checkout
         payment experience for European customers. Learn how SCA affects the initial purchase and

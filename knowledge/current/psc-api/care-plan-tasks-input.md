@@ -5,12 +5,10 @@ topic: care-plan-tasks-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.815Z
+lastCollected: 2026-04-07T18:39:00.941Z
 estimatedTokens: 132
-keywords: [Care, Plan, Tasks, Input, representation]
+keywords: [Care, Plan, Tasks]
 ---
-
-# Care Plan Tasks Input
 
 > Input representation of the care plan tasks.
 

@@ -5,12 +5,10 @@ topic: anchor-tag-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.487Z
+lastCollected: 2026-04-07T18:38:05.698Z
 estimatedTokens: 487
-keywords: [Anchor, Tag, <a>, Don’t, hard, code, dynamically, generate, Salesforce, URLs, href, attribute, events, force, navigateToSObject]
+keywords: [Anchor, Tag, <a>, Don’t, hard, code, dynamically, generate, Salesforce, URLs, href, attribute, events, force, navigateToSObject, navigateToURL, instead, Avoid, Navigation, Service]
 ---
-
-# Anchor Tag:  <a>
 
 > Don’t hard code or dynamically generate Salesforce URLs in the href attribute of an <a>
   tag. Use events, such as force:navigateToSObject or force:navigateToURL, instead.

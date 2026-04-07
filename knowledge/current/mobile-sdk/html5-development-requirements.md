@@ -5,12 +5,10 @@ topic: html5-development-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.678Z
+lastCollected: 2026-04-07T18:40:26.020Z
 estimatedTokens: 104
 keywords: [HTML5, Development, Requirements, you’re, planning, write, browser-based, Salesforce, application, don’t, Mobile, SDK]
 ---
-
-# HTML5 Development Requirements
 
 > If you’re planning to write a browser-based HTML5 Salesforce application, you
    don’t need Salesforce Mobile SDK.

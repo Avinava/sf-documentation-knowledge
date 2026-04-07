@@ -5,12 +5,10 @@ topic: auramethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.505Z
+lastCollected: 2026-04-07T18:38:05.717Z
 estimatedTokens: 937
-keywords: [aura, <aura, method>, define, part, component's, API, directly, call, component’s, client-side, controller, instead, firing, handling]
+keywords: [aura, <aura, method>, define, part, component's, API, directly, call, component’s, client-side, controller, instead, firing, handling, event, simplifies, code, needed, parent, child, Declaring, Creating, Handler, Action, Returning]
 ---
-
-# aura:method
 
 > Use <aura:method> to
             define a method as part of a component's API. This enables you to directly call a method

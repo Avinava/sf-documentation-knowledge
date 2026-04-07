@@ -5,12 +5,10 @@ topic: leadshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.017Z
+lastCollected: 2026-04-07T18:38:34.210Z
 estimatedTokens: 1037
-keywords: [LeadShare, sharing, entry, Lead, Calls, Special, Access, Rules, Usage]
+keywords: [LeadShare, sharing, entry, Lead]
 ---
-
-# LeadShare
 
 > Represents a sharing entry on a Lead.
 

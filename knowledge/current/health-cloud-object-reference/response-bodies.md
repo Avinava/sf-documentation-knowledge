@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.346Z
+lastCollected: 2026-04-07T18:37:43.510Z
 estimatedTokens: 5698
 keywords: [Bodies, resource, either, JSON, XML]
 ---
-
-# Response Bodies
 
 > A resource can return a response body in either JSON or XML format.
 

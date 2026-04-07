@@ -5,13 +5,11 @@ topic: request-url-template-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.565Z
+lastCollected: 2026-04-07T18:40:14.587Z
 estimatedTokens: 989
 namespace: Parameter
 keywords: [URL, Template, URL-encoded, sent, via, HTTPS, includes, Salesforce, federated, search, connector, OpenSearch]
 ---
-
-# Request: URL Template Parameters
 
 > All URL template parameters are URL-encoded and sent via an HTTPS GET method. This list
   includes all template parameters used by the Salesforce federated search connector.

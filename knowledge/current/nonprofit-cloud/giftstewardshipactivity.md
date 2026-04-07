@@ -5,12 +5,10 @@ topic: giftstewardshipactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.435Z
+lastCollected: 2026-04-07T18:38:21.269Z
 estimatedTokens: 1175
-keywords: [GiftStewardshipActivity, activity, carried, part, gift, stewardship, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [GiftStewardshipActivity, activity, carried, part, gift, stewardship, API, 65.0]
 ---
-
-# GiftStewardshipActivity
 
 > Represents an activity carried out as part of gift stewardship. This
       object is available in API version 65.0 and later.

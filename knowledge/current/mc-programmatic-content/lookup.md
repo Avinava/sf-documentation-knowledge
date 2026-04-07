@@ -5,12 +5,10 @@ topic: lookup
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.219Z
+lastCollected: 2026-04-07T18:40:22.620Z
 estimatedTokens: 192
-keywords: [Lookup, Function, Ordinal, data, extension, column, val, **Overview**, **Syntax**, Usage, retrieve, array, Requi]
+keywords: [Lookup, Function, Ordinal, extension, column, val, **Overview**, **Syntax**, retrieve, array, Requi]
 ---
-
-# Lookup
 
 > Lookup(1, 2, 3, 4)
 

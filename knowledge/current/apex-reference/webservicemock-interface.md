@@ -5,13 +5,11 @@ topic: webservicemock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.250Z
+lastCollected: 2026-04-07T18:36:13.552Z
 estimatedTokens: 879
 namespace: System
-keywords: [WebServiceMock, sending, fake, responses, testing, Web, service, callouts, auto-generated, WSDL, Usage, doInvoke, stub, soapRequest, responseMap]
+keywords: [WebServiceMock, sending, fake, responses, testing, Web, service, callouts, auto-generated, WSDL, doInvoke, stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace, responseName, responseType]
 ---
-
-# WebServiceMock Interface
 
 > Enables sending fake responses when testing
 Web service callouts of a class auto-generated from a WSDL.

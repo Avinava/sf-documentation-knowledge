@@ -5,13 +5,11 @@ topic: connect-rest-api-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.050Z
+lastCollected: 2026-04-07T18:37:24.097Z
 estimatedTokens: 834
 namespace: ConnectApi
-keywords: [Connect, REST, API, Developer, Integrate, mobile, apps, intranet, sites, third-party, web, applications, Salesforce, Responses, localized]
+keywords: [Connect, REST, API, Developer, Integrate, mobile, apps, intranet, sites, third-party, web, applications, Salesforce, Responses, localized, structured, presentation, filtered, contain, app, needs]
 ---
-
-# Connect REST API Developer Guide
 
 > Integrate mobile apps, intranet sites, and third-party web applications with
                 Salesforce using Connect REST API. Responses are localized, structured for

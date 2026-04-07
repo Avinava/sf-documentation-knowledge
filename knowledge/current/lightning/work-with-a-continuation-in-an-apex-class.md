@@ -5,12 +5,10 @@ topic: work-with-a-continuation-in-an-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.598Z
+lastCollected: 2026-04-07T18:38:02.517Z
 estimatedTokens: 727
 keywords: [Work, Continuation, Apex]
 ---
-
-# Work with a Continuation in an Apex Class
 
 > To work with a continuation in an Apex class, use the Apex Continuation object.
 

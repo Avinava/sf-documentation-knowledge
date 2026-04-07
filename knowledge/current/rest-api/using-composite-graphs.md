@@ -5,12 +5,10 @@ topic: using-composite-graphs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:35.297Z
+lastCollected: 2026-04-07T18:36:20.513Z
 estimatedTokens: 1717
-keywords: [Composite, Graphs, provide, enhanced, way, perform, requests, execute, series, REST, API, call, Defining, JSON, Accounts]
+keywords: [Composite, Graphs, provide, enhanced, way, perform, requests, execute, series, REST, API, call, Defining, JSON, Accounts, Contacts, Campaigns, Opportunities, Leads, CampaignMembers, Graph, Resource, Depth, AllOrNone, Best, Practices, Submitting, Job]
 ---
-
-# Using Composite Graphs
 
 > Composite graphs provide an enhanced way to perform composite requests, which execute
 		a series of REST API requests in a single call.

@@ -5,12 +5,10 @@ topic: analytics-asset-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.183Z
+lastCollected: 2026-04-07T18:36:54.545Z
 estimatedTokens: 89
-keywords: [Analytics, Asset, Filter, Input, Analtyics, collection]
+keywords: [Analytics, Asset, Filter, Analtyics, collection]
 ---
-
-# Analytics Asset Filter Input
 
 > A filter for the Analtyics asset collection parameters.
 

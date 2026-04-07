@@ -5,12 +5,10 @@ topic: applicationstagedefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.616Z
+lastCollected: 2026-04-07T18:39:26.565Z
 estimatedTokens: 394
-keywords: [ApplicationStageDefinitionFeed, Feed, tracking, ApplicationStageDefinition]
+keywords: [ApplicationStageDefinitionFeed, ApplicationStageDefinition]
 ---
-
-# ApplicationStageDefinitionFeed
 
 > Feed tracking for ApplicationStageDefinition.
 

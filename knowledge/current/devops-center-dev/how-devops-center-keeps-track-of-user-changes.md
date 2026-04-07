@@ -5,12 +5,10 @@ topic: how-devops-center-keeps-track-of-user-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.471Z
+lastCollected: 2026-04-07T18:37:28.491Z
 estimatedTokens: 1772
-keywords: [How, DevOps, Center, Keeps, Track, User, Changes, connected, development, environment, tracks, tracking, later, commit, source]
+keywords: [How, DevOps, Center, Keeps, Track, User, Changes, connected, development, environment, tracks, commit, source, control, repository, review, Org, Remote, Determine, Work, Item, Submit, Happens, Status, Changed, Never]
 ---
-
-# How DevOps Center Keeps Track of User Changes
 
 > When a DevOps Center user is connected to a development environment, it tracks the changes the user makes to the environment. This tracking allows DevOps Center to later commit the changes to the source control repository for review.
 

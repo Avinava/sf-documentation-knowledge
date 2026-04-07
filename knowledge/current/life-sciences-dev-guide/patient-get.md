@@ -5,12 +5,10 @@ topic: patient-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.690Z
+lastCollected: 2026-04-07T18:37:56.124Z
 estimatedTokens: 655
-keywords: [Patient, Output, representation, record]
+keywords: [Patient, record]
 ---
-
-# Patient Get
 
 > Output representation of details of a patient record.
 

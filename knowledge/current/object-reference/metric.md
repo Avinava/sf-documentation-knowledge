@@ -5,12 +5,10 @@ topic: metric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.466Z
+lastCollected: 2026-04-07T18:38:35.713Z
 estimatedTokens: 1408
-keywords: [Metric, components, goal, current, Calls, Associated, Objects]
+keywords: [Metric, goal, current]
 ---
-
-# Metric
 
 > The Metric object
 			represents the components of a goal metric such as its name, metric type, and current

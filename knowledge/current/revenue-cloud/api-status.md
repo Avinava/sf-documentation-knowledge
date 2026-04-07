@@ -5,12 +5,10 @@ topic: api-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.187Z
+lastCollected: 2026-04-07T18:35:45.167Z
 estimatedTokens: 108
-keywords: [API, Status, Output, representation]
+keywords: [API, Status]
 ---
-
-# API Status
 
 > Output representation of the API status.
 

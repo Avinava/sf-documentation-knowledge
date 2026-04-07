@@ -5,12 +5,10 @@ topic: restclient-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.524Z
+lastCollected: 2026-04-07T18:40:24.934Z
 estimatedTokens: 448
 keywords: [RestClient, implies, Android, app’s, liaison, Salesforce, REST, API, sendSync, sendAsync]
 ---
-
-# RestClient Class
 
 > As its name implies, the RestClient class is an Android
       app’s liaison to the Salesforce REST API.

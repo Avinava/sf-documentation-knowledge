@@ -5,12 +5,10 @@ topic: opportunityscoresettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.626Z
+lastCollected: 2026-04-07T18:36:28.160Z
 estimatedTokens: 627
-keywords: [OpportunityScoreSettings, org’s, Einstein, Opportunity, Scoring, settings, whether, enabled, helps, determine, likelihood, won, extends, Metadata, inherits]
+keywords: [OpportunityScoreSettings, org’s, Einstein, Opportunity, Scoring, settings, whether, enabled, helps, determine, likelihood, won, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# OpportunityScoreSettings
 
 > Represents an org’s Einstein Opportunity
 			Scoring settings, such as whether or not Einstein Opportunity Scoring is enabled.

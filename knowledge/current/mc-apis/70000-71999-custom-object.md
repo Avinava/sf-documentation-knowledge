@@ -5,12 +5,10 @@ topic: 70000-71999-custom-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.876Z
+lastCollected: 2026-04-07T18:40:14.895Z
 estimatedTokens: 104
-keywords: [70000-71999, Custom]
+keywords: [70000-71999]
 ---
-
-# 70000-71999 Custom Object
 
 # 70000-71999 Custom Object
 

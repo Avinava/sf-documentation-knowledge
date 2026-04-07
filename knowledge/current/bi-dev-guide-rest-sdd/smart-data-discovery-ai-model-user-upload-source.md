@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-user-upload-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.030Z
+lastCollected: 2026-04-07T18:36:59.521Z
 estimatedTokens: 92
-keywords: [Smart, Data, Discovery, Model, User, Upload, Source]
+keywords: [Smart, Discovery, Model, User, Upload, Source]
 ---
-
-# Smart Data Discovery AI Model User Upload Source
 
 > The user upload source for an AI model.
 

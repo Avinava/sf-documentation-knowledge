@@ -5,12 +5,10 @@ topic: omnitrackingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.618Z
+lastCollected: 2026-04-07T18:38:59.550Z
 estimatedTokens: 638
-keywords: [OmniTrackingEvent, Notifies, subscribers, user, interaction, FlexCard, OmniScript, that's, tracked, OmniAnalytics, API, version, 60.0, later, Calls]
+keywords: [OmniTrackingEvent, Notifies, subscribers, user, interaction, FlexCard, OmniScript, that's, tracked, OmniAnalytics, API, 60.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# OmniTrackingEvent
 
 > Notifies subscribers about a user interaction with a FlexCard or OmniScript
          that's tracked for OmniAnalytics. This object is available in API version 60.0 and

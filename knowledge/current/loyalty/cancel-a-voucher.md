@@ -5,12 +5,10 @@ topic: cancel-a-voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.199Z
+lastCollected: 2026-04-07T18:38:07.426Z
 estimatedTokens: 419
 keywords: [Cancel, Voucher, Change, status, canceled, URL, Sample, JSON, Requests]
 ---
-
-# Cancel a Voucher
 
 > Change the status of a voucher to canceled.
 

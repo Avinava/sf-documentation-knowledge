@@ -5,12 +5,10 @@ topic: get-messagingv1messagedefinitionsendskeykeydeliveryrecords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.708Z
+lastCollected: 2026-04-07T18:40:17.886Z
 estimatedTokens: 558
-keywords: [messaging, messageDefinitionSends, key, deliveryRecords, delivery, email, sent, **Overview**, Usage]
+keywords: [messaging, messageDefinitionSends, key, deliveryRecords, delivery, email, sent, **Overview**]
 ---
-
-# GET /messaging/v1/messageDefinitionSends/key:{key}/deliveryRecords
 
 > Gets the delivery details of an email sent using the MessageDefinitionSends.
 

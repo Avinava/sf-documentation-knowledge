@@ -5,12 +5,10 @@ topic: fields-on-event-and-task-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.747Z
+lastCollected: 2026-04-07T18:37:43.926Z
 estimatedTokens: 986
-keywords: [Event, Task, Activity, Custom, extend, standard, objects, represent, individual’s, activities]
+keywords: [Event, Task, Activity, extend, standard, represent, individual’s, activities]
 ---
-
-# Fields on Event and Task (Activity)
 
 > Custom fields extend the standard Event and Task objects to represent information
       about an individual’s activities.

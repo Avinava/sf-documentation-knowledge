@@ -5,12 +5,10 @@ topic: set-up-single-sign-on
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.731Z
+lastCollected: 2026-04-07T18:40:13.657Z
 estimatedTokens: 824
 keywords: [Sign-On, SSO, solution, Connected, App, Salesforce, Identity, Provider, IdP, Perform, Headless]
 ---
-
-# Set Up Single Sign-On
 
 > Set up single sign-on (SSO) for your solution.
 

@@ -5,12 +5,10 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.588Z
+lastCollected: 2026-04-07T18:36:26.079Z
 estimatedTokens: 609
-keywords: [FieldSet, grouping, describing, user's, middle, business, title, Version, FieldSetItem, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+keywords: [FieldSet, FieldSetItem, grouping, describing, user's, middle, business, title, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, File]
 ---
-
-# FieldSet
 
 > Represents a field set. A field set is a grouping of
             fields. For example, you could have a field set that contains fields describing a user's

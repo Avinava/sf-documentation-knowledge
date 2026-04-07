@@ -5,12 +5,10 @@ topic: commerce-subscription-renewal-initiation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.163Z
+lastCollected: 2026-04-07T18:37:11.996Z
 estimatedTokens: 637
 keywords: [Commerce, Subscription, Renewal, Initiation, Renew, active, API, registered, shoppers]
 ---
-
-# Commerce Subscription Renewal Initiation
 
 > Renew an active Commerce subscription. This API is available only
     to registered shoppers.

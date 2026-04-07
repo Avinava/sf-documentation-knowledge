@@ -5,12 +5,10 @@ topic: livechatdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.809Z
+lastCollected: 2026-04-07T18:36:27.315Z
 estimatedTokens: 848
-keywords: [LiveChatDeployment, configuration, settings, specific, Chat, deployment, branding, image, whether, transcripts, automatically, saved, File, Suffix, Directory]
+keywords: [LiveChatDeployment, LiveChatDeploymentDomainWhiteList, configuration, settings, specific, Chat, deployment, branding, image, whether, transcripts, automatically, saved, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LiveChatDeployment
 
 > Represents the configuration settings for a
             specific Chat deployment, such as the branding image for the deployment and whether or

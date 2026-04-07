@@ -6,13 +6,10 @@ topic: picking-a-path-based-on-which-api-you-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.126Z
+lastCollected: 2026-04-07T18:39:16.709Z
 estimatedTokens: 849
 keywords: [Picking, Path, API, steps, setting, development, environment, depend, Salesforce, want]
 ---
-
-# Picking a Path Based on Which API You
-Use
 
 > The next steps for setting up your development environment depend on which Salesforce API
   you want to use.

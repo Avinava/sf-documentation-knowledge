@@ -5,12 +5,10 @@ topic: priceprotectexeclineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.963Z
+lastCollected: 2026-04-07T18:38:38.329Z
 estimatedTokens: 1412
-keywords: [PriceProtectExecLineItem, line, item, created, part, Price, Protection, Execution, API, version, 63.0, later, Calls]
+keywords: [PriceProtectExecLineItem, line, item, created, part, Price, Protection, Execution, API, 63.0]
 ---
-
-# PriceProtectExecLineItem
 
 > Represents a line item created as part of a Price Protection Execution.
       This object is available in API version 63.0 and later.

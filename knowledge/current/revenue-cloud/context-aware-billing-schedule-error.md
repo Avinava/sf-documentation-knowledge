@@ -5,12 +5,10 @@ topic: context-aware-billing-schedule-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.585Z
+lastCollected: 2026-04-07T18:35:45.593Z
 estimatedTokens: 133
-keywords: [Context-Aware, Billing, Schedule, Error, Output, representation, generation]
+keywords: [Context-Aware, Billing, Schedule, Error, generation]
 ---
-
-# Context-Aware Billing Schedule Error
 
 > Output representation of the error response related to the generation of the billing
     schedule.

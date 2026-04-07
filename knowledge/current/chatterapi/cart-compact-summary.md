@@ -5,12 +5,10 @@ topic: cart-compact-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.265Z
+lastCollected: 2026-04-07T18:37:17.335Z
 estimatedTokens: 164
 keywords: [Cart, Compact, Summary, Includes, subset, including, total, unique, product, counts]
 ---
-
-# Cart Compact Summary
 
 > A compact cart summary for an existing cart. Includes a subset of fields from the cart
     summary, including the total and unique product counts.

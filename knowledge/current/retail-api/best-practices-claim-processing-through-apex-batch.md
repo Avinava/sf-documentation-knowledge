@@ -5,12 +5,10 @@ topic: best-practices-claim-processing-through-apex-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:22.748Z
+lastCollected: 2026-04-07T18:39:16.289Z
 estimatedTokens: 731
-keywords: [Best, Practices, Claim, Processing, Apex, Batch, processes, Consumer, Goods, Cloud, Trade, Promotion, Management, TPM, user]
+keywords: [Best, Practices, Claim, Processing, Apex, Batch, processes, Consumer, Goods, Cloud, Trade, Promotion, Management, TPM, user, Considerations, Define, Scope, Manipulating, Claims, Calculating]
 ---
-
-# Best Practices: Claim Processing Through Apex Batch
 
 > Claim processes in Consumer Goods Cloud Trade Promotion Management (TPM) is done through
   user interface.

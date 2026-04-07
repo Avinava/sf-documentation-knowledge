@@ -5,12 +5,10 @@ topic: configure-parallel-subscriptions-for-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.343Z
+lastCollected: 2026-04-07T18:38:58.199Z
 estimatedTokens: 1900
-keywords: [Configure, Parallel, Subscriptions, Apex, Trigger, Referencing, multiple-step, three, partitions, custom, partition, key, verify, Setup, Step]
+keywords: [Configure, Parallel, Subscriptions, Apex, Trigger, Referencing, multiple-step, three, partitions, partition, key, verify, Setup, Step, Debug, Logs, Publish, Events, Monitor]
 ---
-
-# Configure Parallel Subscriptions for an Apex Trigger
 
 > Referencing this multiple-step example, configure an Apex trigger with three partitions
   and a custom field partition key. Then verify the trigger parallel subscriptions in

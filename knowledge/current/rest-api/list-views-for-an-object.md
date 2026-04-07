@@ -5,12 +5,10 @@ topic: list-views-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.625Z
+lastCollected: 2026-04-07T18:36:20.858Z
 estimatedTokens: 111
-keywords: [Views, sObject, including, basic, view, resource, REST, API, version, 32.0, later]
+keywords: [Views, sObject, including, basic, view, resource, REST, API, 32.0]
 ---
-
-# List Views for an Object
 
 > Returns the list of list views for the specified sObject, including the ID and other
     basic information about each list view. This resource is available in REST API version 32.0 and

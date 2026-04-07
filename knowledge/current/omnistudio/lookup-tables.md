@@ -5,13 +5,11 @@ topic: lookup-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:56.495Z
+lastCollected: 2026-04-07T18:36:42.199Z
 estimatedTokens: 736
 namespace: BusinessRule
-keywords: [Lookup, Tables, Business, Rules, Engine, two, tables—decision, matrices, decision, developer, resources, integration, Flows, Omniscripts, any]
+keywords: [Lookup, Tables, Business, Engine, two, tables—decision, matrices, decision, developer, resources, integration, Flows, Omniscripts, any, third-party, tools]
 ---
-
-# Lookup Tables
 
 > Business Rules Engine has two types of lookup tables—decision matrices and decision
         tables. Learn more about the developer resources of lookup tables for integration with

@@ -5,12 +5,10 @@ topic: giftentryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.046Z
+lastCollected: 2026-04-07T18:39:42.687Z
 estimatedTokens: 256
-keywords: [GiftEntryHistory, History, tracked, GiftEntry]
+keywords: [GiftEntryHistory, tracked, GiftEntry]
 ---
-
-# GiftEntryHistory
 
 > History for tracked fields of GiftEntry.
 

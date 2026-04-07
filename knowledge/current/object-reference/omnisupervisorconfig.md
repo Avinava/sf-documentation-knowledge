@@ -5,12 +5,10 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.109Z
+lastCollected: 2026-04-07T18:38:36.289Z
 estimatedTokens: 788
-keywords: [OmniSupervisorConfig, Command, Center, Service, configuration, assigned, group, supervisors, API, version, 41.0, later, Calls, Special, Access]
+keywords: [OmniSupervisorConfig, Command, Center, Service, configuration, assigned, group, supervisors, API, 41.0]
 ---
-
-# OmniSupervisorConfig
 
 > Represents the Command Center for Service configuration for an assigned
    group of supervisors. This object is available in API version 41.0 and later.

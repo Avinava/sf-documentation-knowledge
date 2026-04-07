@@ -5,12 +5,10 @@ topic: sessionid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.243Z
+lastCollected: 2026-04-07T18:38:06.481Z
 estimatedTokens: 256
 keywords: [SessionId, Establishes, new, Chat, session, every]
 ---
-
-# SessionId
 
 > Establishes a new Chat session. The SessionId
     request is required as the first request to create every Chat session.

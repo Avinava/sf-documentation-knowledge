@@ -5,12 +5,10 @@ topic: opportunitysplittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.397Z
+lastCollected: 2026-04-07T18:38:36.575Z
 estimatedTokens: 939
-keywords: [OpportunitySplitType, unique, labels, behavior, split, API, version, 28.0, later, Calls]
+keywords: [OpportunitySplitType, unique, labels, behavior, split, API, 28.0]
 ---
-
-# OpportunitySplitType
 
 > OpportunitySplitType provides unique labels and behavior for each
       split type.

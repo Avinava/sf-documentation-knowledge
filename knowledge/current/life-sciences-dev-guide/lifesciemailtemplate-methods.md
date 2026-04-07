@@ -5,12 +5,10 @@ topic: lifesciemailtemplate-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.289Z
+lastCollected: 2026-04-07T18:37:54.616Z
 estimatedTokens: 145
 keywords: [LifeSciEmailTemplate, Life, Sciences, Cloud]
 ---
-
-# LifeSciEmailTemplate Methods
 
 > These are the LifeSciEmailTemplate methods
         for Life Sciences Cloud.

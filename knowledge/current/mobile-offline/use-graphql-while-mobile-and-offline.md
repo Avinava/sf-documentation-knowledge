@@ -5,12 +5,10 @@ topic: use-graphql-while-mobile-and-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.320Z
+lastCollected: 2026-04-07T18:38:15.845Z
 estimatedTokens: 925
-keywords: [GraphQL, Mobile, Offline, often, shortened, GQL, flexible, powerful, query, language, accessing, record, data, think, modern]
+keywords: [GraphQL, Mobile, Offline, often, shortened, GQL, flexible, powerful, query, language, accessing, record, think, modern, equivalent, SQL, relational, databases, Getting, Started]
 ---
-
-# Use GraphQL While Mobile and Offline
 
 > GraphQL, often shortened to GQL, is a flexible, powerful query language for accessing
   record and other data. You can think of GraphQL as a modern equivalent of SQL, the query language

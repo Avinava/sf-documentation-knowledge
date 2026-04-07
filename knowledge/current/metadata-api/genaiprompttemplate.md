@@ -5,12 +5,10 @@ topic: genaiprompttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:41.082Z
+lastCollected: 2026-04-07T18:36:26.526Z
 estimatedTokens: 1880
-keywords: [GenAiPromptTemplate, definition, prompt, template, including, objects, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
+keywords: [GenAiPromptTemplate, GenAiPromptTemplateVersion, GenAiPromptTemplateGenerationConfig, GenAiPromptTemplateInput, GenAiPromptTemplateDataProvider, GenAiPromptTemplateDataProviderParam, definition, prompt, template, including, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# GenAiPromptTemplate
 
 > Represents the definition of a prompt template, including
       its related objects and fields.

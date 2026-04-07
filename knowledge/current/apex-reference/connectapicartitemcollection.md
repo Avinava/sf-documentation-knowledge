@@ -5,12 +5,10 @@ topic: connectapicartitemcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.277Z
+lastCollected: 2026-04-07T18:36:07.642Z
 estimatedTokens: 442
 keywords: [ConnectApi.CartItemCollection, collection, items, cart]
 ---
-
-# ConnectApi.CartItemCollection
 
 > A collection of items in a cart.
 

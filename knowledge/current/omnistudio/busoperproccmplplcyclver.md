@@ -5,12 +5,10 @@ topic: busoperproccmplplcyclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.543Z
+lastCollected: 2026-04-07T18:36:44.308Z
 estimatedTokens: 589
-keywords: [BusOperProcCmplPlcyClVer, junction, Business, Operations, Process, Compliance, Policy, Clause, Version, objects, API, 65.0, later, Calls, Associated]
+keywords: [BusOperProcCmplPlcyClVer, junction, Business, Operations, Process, Compliance, Policy, Clause, API, 65.0]
 ---
-
-# BusOperProcCmplPlcyClVer
 
 > Represents a junction between the Business Operations Process and Compliance
          Policy Clause Version objects. This object is available in API version 65.0 and later.

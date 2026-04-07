@@ -5,12 +5,10 @@ topic: connectapirefundinstructionshintoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.262Z
+lastCollected: 2026-04-07T18:36:11.555Z
 estimatedTokens: 160
 keywords: [Instructions, showing, sequence, credits, refunds, were, issued, customer]
 ---
-
-# ConnectApi.RefundInstructionsHintOutputRepresentation
 
 > Instructions showing the sequence in which credits and refunds were issued to the
     customer.

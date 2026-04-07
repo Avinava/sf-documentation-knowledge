@@ -5,13 +5,11 @@ topic: referencedrefundrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.842Z
+lastCollected: 2026-04-07T18:36:02.062Z
 estimatedTokens: 846
 namespace: CommercePayments
-keywords: [ReferencedRefundRequest, Access, referenced, refund, requests, Extends, RefundRequest, amount, paymentId, accountId]
+keywords: [ReferencedRefundRequest, PaymentId, referenced, refund, requests, Extends, RefundRequest, amount, accountId]
 ---
-
-# ReferencedRefundRequest
 
 > Access information about the referenced refund requests. Extends the
         RefundRequest class.

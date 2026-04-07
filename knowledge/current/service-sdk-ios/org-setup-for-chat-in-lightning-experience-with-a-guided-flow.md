@@ -5,12 +5,10 @@ topic: org-setup-for-chat-in-lightning-experience-with-a-guided-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.958Z
+lastCollected: 2026-04-07T18:40:28.086Z
 estimatedTokens: 1940
 keywords: [Org, Setup, Chat, Lightning, Experience, Guided, Flow, add]
 ---
-
-# Org Setup for Chat in Lightning Experience with a Guided Flow
 
 > Use the guided setup flow in Lightning Experience to add chat to your
         org.

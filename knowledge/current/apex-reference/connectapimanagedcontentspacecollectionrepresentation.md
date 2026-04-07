@@ -5,12 +5,10 @@ topic: connectapimanagedcontentspacecollectionrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:24.674Z
+lastCollected: 2026-04-07T18:36:09.998Z
 estimatedTokens: 145
 keywords: [Collection, managed, content, spaces]
 ---
-
-# ConnectApi.ManagedContentSpaceCollectionRepresentation
 
 > Collection of managed content spaces.
 

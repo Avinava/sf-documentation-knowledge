@@ -5,12 +5,10 @@ topic: applicantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.200Z
+lastCollected: 2026-04-07T18:39:26.149Z
 estimatedTokens: 357
-keywords: [ApplicantFeed, Feed, tracking, Applicant]
+keywords: [ApplicantFeed, Applicant]
 ---
-
-# ApplicantFeed
 
 > Feed tracking for Applicant.
 

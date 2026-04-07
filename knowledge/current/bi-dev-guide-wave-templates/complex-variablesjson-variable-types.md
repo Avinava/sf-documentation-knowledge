@@ -6,13 +6,10 @@ topic: complex-variablesjson-variable-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.721Z
+lastCollected: 2026-04-07T18:37:02.292Z
 estimatedTokens: 1434
-keywords: [Complex, variables.json, Variable, unique, Salesforce, sobject, sobjectField, query, org, access, data, objects, Scroll, right, view]
+keywords: [SobjectType, SobjectFieldType, ConnectorType, DatasetType, DatasetDimensionType, DatasetMeasureType, DatasetDateType, DatasetAnyField, DateTimeType, ObjectType, DataLakeObjectType, DataLakeObjectFieldType, DataModelObjectType, DataModelObjectFieldType, CalculatedInsightType, CalculatedInsightFieldType, Complex, variables.json, Variable, unique, Salesforce, sobject, sobjectField, query, org, Scroll, right, view, Examples, appear, below, chart, DatasetAnyType, Generated, Overrides]
 ---
-
-# Complex variables.json Variable
-      Types
 
 > Complex variable types are unique to Salesforce, for example, sobject, sobjectField. Use them
   to query the org for access to data from Salesforce objects. Scroll to the right to view example

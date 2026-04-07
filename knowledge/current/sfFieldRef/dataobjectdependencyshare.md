@@ -5,12 +5,10 @@ topic: dataobjectdependencyshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.735Z
+lastCollected: 2026-04-07T18:39:37.382Z
 estimatedTokens: 253
 keywords: [DataObjectDependencyShare, Sharing, DataObjectDependency]
 ---
-
-# DataObjectDependencyShare
 
 > Sharing for DataObjectDependency.
 

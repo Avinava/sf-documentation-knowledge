@@ -5,12 +5,10 @@ topic: mfgprogramforecastfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.657Z
+lastCollected: 2026-04-07T18:38:13.984Z
 estimatedTokens: 1052
-keywords: [MfgProgramForecastFact, generated, manufacturing, program, forecast, records, API, version, 55.0, later, Calls]
+keywords: [MfgProgramForecastFact, generated, manufacturing, program, forecast, records, API, 55.0]
 ---
-
-# MfgProgramForecastFact
 
 > Represents information about the generated manufacturing program forecast
          records. This object is available in API version 55.0 and later.

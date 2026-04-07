@@ -5,12 +5,10 @@ topic: connectapireplyintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.312Z
+lastCollected: 2026-04-07T18:36:11.595Z
 estimatedTokens: 113
 keywords: [ConnectApi.ReplyIntent, Reply, intent, social, post]
 ---
-
-# ConnectApi.ReplyIntent
 
 > Reply intent for a social post.
 

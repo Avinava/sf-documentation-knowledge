@@ -5,13 +5,11 @@ topic: transfermemberpointstogroupsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.712Z
+lastCollected: 2026-04-07T18:38:06.921Z
 estimatedTokens: 123
 namespace: LoyaltyManagement
-keywords: [TransferMemberPointsToGroupsInput, transfer, points, individual, member, corporate, member's, associated, group]
+keywords: [TransferMemberPointsToGroupsInput, transfer, points, individual, member, corporate, member's, group]
 ---
-
-# TransferMemberPointsToGroupsInput Class
 
 > Use this class to transfer points from an individual member or a
       corporate member to the member's associated group.

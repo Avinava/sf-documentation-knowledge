@@ -5,12 +5,10 @@ topic: syncing-up
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.266Z
+lastCollected: 2026-04-07T18:40:25.627Z
 estimatedTokens: 2310
-keywords: [Syncing, apply, local, changes, server, “sync, up”, data, SmartStore, soup, They, look, created, updated, deleted]
+keywords: [Syncing, apply, local, changes, server, “sync, up”, SmartStore, soup, They, look, created, updated, deleted, records, replicate, iOS, SFMobileSyncSyncManager, Android, SyncManager, Specifying, Merge, Modes]
 ---
-
-# Syncing Up
 
 > To apply local changes on the server, use one of the “sync up” methods. These methods
             update the server with data from the given SmartStore soup.

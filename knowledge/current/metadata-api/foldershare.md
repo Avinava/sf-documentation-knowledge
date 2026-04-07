@@ -5,12 +5,10 @@ topic: foldershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.795Z
+lastCollected: 2026-04-07T18:36:26.256Z
 estimatedTokens: 1178
-keywords: [FolderShare, settings, enhanced, analytics, folder, sharing, Users, control, access, reports, dashboards, giving, others, Viewer, Editor]
+keywords: [FolderShare, settings, enhanced, analytics, folder, sharing, Users, control, reports, dashboards, giving, others, Viewer, Editor, Manager, report, dashboard, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# FolderShare
 
 > Represents the settings for enhanced analytics folder sharing.
     Users can control access to reports or dashboards by giving others Viewer, Editor, or Manager

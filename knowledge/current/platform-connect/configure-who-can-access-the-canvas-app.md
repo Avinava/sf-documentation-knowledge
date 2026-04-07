@@ -5,12 +5,10 @@ topic: configure-who-can-access-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.722Z
+lastCollected: 2026-04-07T18:38:57.528Z
 estimatedTokens: 324
-keywords: [Configure, Access, Canvas, App, specific, users, policies, profiles, corresponding, external, client, connected]
+keywords: [Configure, Canvas, App, specific, users, policies, profiles, corresponding, external, client, connected]
 ---
-
-# Configure Who Can Access the Canvas App
 
 > To configure access for specific users, update the policies and profiles for the
   corresponding external client app or connected app.

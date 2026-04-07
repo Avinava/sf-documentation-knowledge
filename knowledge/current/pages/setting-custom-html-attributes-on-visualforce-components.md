@@ -5,12 +5,10 @@ topic: setting-custom-html-attributes-on-visualforce-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.241Z
+lastCollected: 2026-04-07T18:38:51.488Z
 estimatedTokens: 887
-keywords: [Setting, Custom, HTML, Attributes, Visualforce, Components, add, arbitrary, “passed, through”, rendered, useful, JavaScript, frameworks, jQuery]
+keywords: [Setting, HTML, Attributes, Visualforce, add, arbitrary, “passed, through”, rendered, useful, JavaScript, frameworks, jQuery, Mobile, AngularJS, Knockout, data-*, hooks, activate, framework, functions]
 ---
-
-# Setting Custom HTML Attributes on Visualforce Components
 
 > You can add arbitrary attributes
         to many Visualforce components that

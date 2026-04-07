@@ -5,12 +5,10 @@ topic: ui-telemetry-resource-timing-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.827Z
+lastCollected: 2026-04-07T18:38:31.700Z
 estimatedTokens: 3068
-keywords: [Telemetry, Resource, Timing, Event, events, capture, network, performance, metrics, loading, application’s, resources, includes, requests, initiated]
+keywords: [Telemetry, Resource, Timing, Event, events, capture, network, performance, metrics, loading, application’s, resources, includes, requests, initiated, either, Fetch, API, XMLHttpRequest, 61.0]
 ---
-
-# UI Telemetry Resource Timing Event
 
 > UI Telemetry Resource Timing events capture
          network performance metrics related to loading an application’s

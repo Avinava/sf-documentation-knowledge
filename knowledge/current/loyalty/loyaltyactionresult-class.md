@@ -5,13 +5,11 @@ topic: loyaltyactionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.612Z
+lastCollected: 2026-04-07T18:38:06.822Z
 estimatedTokens: 472
 namespace: LoyaltyManagement
 keywords: [LoyaltyActionResult, result, loyalty, action, getErrors, isSuccess]
 ---
-
-# LoyaltyActionResult Class
 
 > A class that contains the result returned by a loyalty
     action.

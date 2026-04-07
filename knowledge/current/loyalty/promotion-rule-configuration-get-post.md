@@ -5,12 +5,10 @@ topic: promotion-rule-configuration-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.401Z
+lastCollected: 2026-04-07T18:38:07.633Z
 estimatedTokens: 518
-keywords: [Promotion, Rule, Configuration, POST, fetch, configiration, API, how, works, combining, eligibility, criteria, customers, rewards, logic]
+keywords: [Promotion, Rule, Configuration, POST, fetch, configiration, API, how, works, combining, eligibility, criteria, customers, rewards, logic, receive, target, audience, receives, reward, template, driven, behavior, contain, multiple, ordered, priority]
 ---
-
-# Promotion Rule Configuration (GET, POST)
 
 > Create the rule configuration or fetch the rule configiration details for a given
     promotion ID. This API defines how a promotion works by combining eligibility criteria (what

@@ -5,12 +5,10 @@ topic: list-scope-related-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.839Z
+lastCollected: 2026-04-07T18:40:11.844Z
 estimatedTokens: 120
 keywords: [Scope, Entity]
 ---
-
-# List Scope Related Entity
 
 > List scope related entity.
 

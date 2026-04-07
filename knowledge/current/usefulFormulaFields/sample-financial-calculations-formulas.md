@@ -5,12 +5,10 @@ topic: sample-financial-calculations-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.357Z
+lastCollected: 2026-04-07T18:40:12.374Z
 estimatedTokens: 482
-keywords: [Sample, Financial, Calculations, Formulas, Compound, Interest, Continuous, Consultant, Cost, Gross, Margin, Percent, Payment, Due, Indicator]
+keywords: [Sample, Financial, Calculations, Formulas, Compound, Interest, Continuous, Consultant, Cost, Gross, Margin, Percent, Payment, Due, Indicator, Status]
 ---
-
-# Sample Financial Calculations Formulas
 
 > Use these formulas for financial calculations.
 

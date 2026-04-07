@@ -5,12 +5,10 @@ topic: authorize-an-org-using-a-browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:12.870Z
+lastCollected: 2026-04-07T18:40:07.813Z
 estimatedTokens: 1448
 keywords: [Authorize, Org, Browser, running, CLI, command, entering, credentials, automatically, opens, That’s]
 ---
-
-# Authorize an Org Using a Browser
 
 > Authorize an org with a browser by running a CLI command and entering your credentials
     in the browser that automatically opens. That’s it!

@@ -5,12 +5,10 @@ topic: pending-order-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.686Z
+lastCollected: 2026-04-07T18:37:15.748Z
 estimatedTokens: 432
-keywords: [Pending, Order, Summaries, summary, graphs, High, Scale, Orders, feature, active, B2C, Commerce, connection, isn’t, Created]
+keywords: [Pending, Order, Summaries, summary, graphs, High, Scale, Orders, feature, active, B2C, Commerce, connection, isn’t, Created, queued, automatic, processing, ingested, provided, JSON, references, person, accounts, business]
 ---
-
-# Pending Order Summaries
 
 > Create pending order summaries from order summary graphs. The High
       Scale Orders feature must be active, but a B2C Commerce connection isn’t required. Created

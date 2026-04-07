@@ -5,12 +5,10 @@ topic: finservfinancialgoalc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.500Z
+lastCollected: 2026-04-07T18:37:37.281Z
 estimatedTokens: 752
-keywords: [FinServ_FinancialGoal__c, Financial, Goal, installed, Services, Cloud, Salesforce, org, install, Managed, Package, client’s, college, funds, major]
+keywords: [FinServ_FinancialGoal__c, Financial, Goal, installed, Services, Cloud, Salesforce, org, install, Managed, Package, client’s, college, funds, major, purchase, FinServ, _FinancialGoal]
 ---
-
-# FinServ_FinancialGoal__c
 
 > This Financial Goal object is installed in your Financial Services
    Cloud Salesforce org when you install the Financial Services Cloud Managed Package. It represents

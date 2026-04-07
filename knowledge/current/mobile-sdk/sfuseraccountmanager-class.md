@@ -5,12 +5,10 @@ topic: sfuseraccountmanager-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.382Z
+lastCollected: 2026-04-07T18:40:26.690Z
 estimatedTokens: 1113
-keywords: [SFUserAccountManager, access, authenticated, accounts, add, new, log, switch]
+keywords: [SFUserAccountManager, authenticated, accounts, add, new, log, switch]
 ---
-
-# SFUserAccountManager Class
 
 > The SFUserAccountManager class provides methods to access authenticated accounts, add new
 accounts, log out accounts, and switch between accounts.

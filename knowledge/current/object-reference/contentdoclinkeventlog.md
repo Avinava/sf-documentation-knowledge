@@ -5,12 +5,10 @@ topic: contentdoclinkeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.594Z
+lastCollected: 2026-04-07T18:38:28.493Z
 estimatedTokens: 478
-keywords: [ContentDocLinkEventLog, Content, Document, Link, events, contain, sharing, documents, API, version, 65.0, later, Calls, Special, Access]
+keywords: [ContentDocLinkEventLog, Content, Document, Link, events, contain, sharing, documents, API, 65.0]
 ---
-
-# ContentDocLinkEventLog
 
 > Content Document Link events contain sharing information for content
          documents. This object is available in API version 65.0 and later.

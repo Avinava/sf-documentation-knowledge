@@ -5,12 +5,10 @@ topic: resourcedetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.092Z
+lastCollected: 2026-04-07T18:37:40.059Z
 estimatedTokens: 334
-keywords: [ResourceDetails, home, visit, manual, scheduling, appointments, Once, scheduler, selected, recommended, resources, along, time, slot, schedule]
+keywords: [ResourceDetails, home, visit, manual, scheduling, appointments, Once, scheduler, selected, recommended, resources, along, time, slot, schedule, appointment, Apex]
 ---
-
-# ResourceDetails Class
 
 > Represents the home visit details for manual scheduling of appointments. Once the
         scheduler has selected the recommended resources along with the time slot, it will schedule

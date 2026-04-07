@@ -5,12 +5,10 @@ topic: floorn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.253Z
+lastCollected: 2026-04-07T18:37:01.864Z
 estimatedTokens: 124
 keywords: [floor, nearest, equal, lesser, any, real, numeric, range, -1.797e308<=, 1.797e308]
 ---
-
-# floor(n)
 
 > Returns the nearest integer of equal or lesser value to n. n can be any real numeric
   value in the range of -1.797e308<= n <= 1.797e308.

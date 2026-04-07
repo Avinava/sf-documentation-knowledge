@@ -5,13 +5,11 @@ topic: apexpages-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.257Z
+lastCollected: 2026-04-07T18:36:13.566Z
 estimatedTokens: 1186
 namespace: ApexPages
-keywords: [ApexPages, add, check, messages, associated, current, well, Usage, addMessage, message, addMessages, exceptionThrown, currentPage, getMessages, hasMessages]
+keywords: [ApexPages, add, check, messages, current, well, addMessage, message, addMessages, exceptionThrown, currentPage, getMessages, hasMessages, severity]
 ---
-
-# ApexPages Class
 
 > Use ApexPages to add and check for messages
   associated with the current page, as well as to reference the current page.

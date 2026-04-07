@@ -5,13 +5,11 @@ topic: taxengineprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.056Z
+lastCollected: 2026-04-07T18:40:03.781Z
 estimatedTokens: 440
 namespace: NamespacePrefix
-keywords: [TaxEngineProvider, general, service, manages, tax, engine, adapter, Apex, Salesforce, engine’s, prefix, providers, one-to-many, relationship, engines]
+keywords: [TaxEngineProvider, general, service, manages, tax, engine, adapter, Apex, Salesforce, engine’s, prefix, providers, one-to-many, relationship, engines, record, specific, configuration, assigned, multiple, order, items, API, 55.0]
 ---
-
-# TaxEngineProvider
 
 > Represents general information about a service that manages a tax engine,
          such as the ID of the tax adapter Apex class in Salesforce, and the engine’s namespace

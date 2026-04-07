@@ -5,12 +5,10 @@ topic: connectapifulfillmentorderinvoiceoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.095Z
+lastCollected: 2026-04-07T18:36:09.478Z
 estimatedTokens: 98
 keywords: [created, invoice]
 ---
-
-# ConnectApi.FulfillmentOrderInvoiceOutputRepresentation
 
 > ID of the created invoice.
 

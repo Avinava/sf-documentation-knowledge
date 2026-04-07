@@ -5,12 +5,10 @@ topic: filetrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.860Z
+lastCollected: 2026-04-07T18:40:17.012Z
 estimatedTokens: 635
 keywords: [FileTrigger, Items]
 ---
-
-# FileTrigger
 
 # FileTrigger
 

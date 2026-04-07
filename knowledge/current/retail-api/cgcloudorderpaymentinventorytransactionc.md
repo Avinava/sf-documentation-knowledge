@@ -5,12 +5,10 @@ topic: cgcloudorderpaymentinventorytransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.652Z
+lastCollected: 2026-04-07T18:39:14.047Z
 estimatedTokens: 1107
-keywords: [Holds, association, order, payment, template, inventory, transaction, API, version, 54.0, later, cgcloud, _Order, _Payment, _Inventory]
+keywords: [Holds, association, order, payment, template, inventory, transaction, API, 54.0, cgcloud, _Order, _Payment, _Inventory, _Transaction]
 ---
-
-# cgcloud__Order_Payment_Inventory_Transaction__c
 
 > Holds the association details for the order payment template, the
          inventory template, and the inventory transaction template. This object is available

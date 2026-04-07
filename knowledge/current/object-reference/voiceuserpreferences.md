@@ -5,12 +5,10 @@ topic: voiceuserpreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.465Z
+lastCollected: 2026-04-07T18:38:44.280Z
 estimatedTokens: 465
-keywords: [VoiceUserPreferences, number, user, displays, making, outbound, calls, API, version, 41.0, later, Special, Access, Rules, Associated]
+keywords: [VoiceUserPreferences, number, user, displays, making, outbound, API, 41.0]
 ---
-
-# VoiceUserPreferences
 
 > Represents the number the user displays when making outbound
 			calls. This object is available in API version 41.0 and later.

@@ -5,12 +5,10 @@ topic: billingbatchscheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.697Z
+lastCollected: 2026-04-07T18:38:26.671Z
 estimatedTokens: 1684
-keywords: [BillingBatchScheduler, scheduled, processing, job, triggers, recurring, invoice, batch, runs, payment, Subscription, Management, API, version, 55.0]
+keywords: [BillingBatchScheduler, scheduled, processing, job, triggers, recurring, invoice, batch, runs, payment, Subscription, Management, API, 55.0]
 ---
-
-# BillingBatchScheduler
 
 > Represents a scheduled processing job that triggers recurring invoice batch
          runs and payment batch runs in Subscription Management. This object is available in

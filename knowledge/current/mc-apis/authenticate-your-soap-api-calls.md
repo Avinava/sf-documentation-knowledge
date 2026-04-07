@@ -5,12 +5,10 @@ topic: authenticate-your-soap-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.374Z
+lastCollected: 2026-04-07T18:40:15.448Z
 estimatedTokens: 588
-keywords: [Authenticate, SOAP, API, Calls, step, API-based, integration, authenticating, OAuth, access, token, authentication, secure, way, Marketing]
+keywords: [Authenticate, SOAP, API, step, API-based, integration, authenticating, OAuth, token, authentication, secure, way, Marketing, Cloud, username, password, UsernameToken, acce]
 ---
-
-# Authenticate Your SOAP API Calls
 
 > The first step in an API-based integration is authenticating your calls. OAuth access token authentication is the most secure way to authenticate SOAP API calls. You can also use a Marketing Cloud username and password to authenticate your calls. UsernameToken authentication is not as secure as acce
 

@@ -5,12 +5,10 @@ topic: post-pushv1messagebatchmessageidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.025Z
+lastCollected: 2026-04-07T18:40:18.214Z
 estimatedTokens: 1379
-keywords: [POST, push, messageBatch, messageid, send, unique, messages, devices, API, call, batch, include, maximum, subscriber, key]
+keywords: [POST, push, messageBatch, messageid, send, unique, messages, devices, API, call, batch, include, maximum, subscriber, key, device, token, depending, uses, **Overview**]
 ---
-
-# POST /push/v1/messageBatch/{messageid}/send
 
 > Sends unique messages to devices within the same API call. Each batch can include a maximum of 5000 subscriber key or device token values, depending on which value the call uses.
 

@@ -5,12 +5,10 @@ topic: stnryassetcrbnftprnthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.127Z
+lastCollected: 2026-04-07T18:40:02.809Z
 estimatedTokens: 276
-keywords: [StnryAssetCrbnFtprntHistory, History, tracked, StnryAssetCrbnFtprnt]
+keywords: [StnryAssetCrbnFtprntHistory, tracked, StnryAssetCrbnFtprnt]
 ---
-
-# StnryAssetCrbnFtprntHistory
 
 > History for tracked fields of StnryAssetCrbnFtprnt.
 

@@ -5,12 +5,10 @@ topic: connectapiusercapabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.848Z
+lastCollected: 2026-04-07T18:36:12.126Z
 estimatedTokens: 308
-keywords: [ConnectApi.UserCapabilities, Capabilities, associated, user, profile]
+keywords: [ConnectApi.UserCapabilities, Capabilities, user, profile]
 ---
-
-# ConnectApi.UserCapabilities
 
 > Capabilities associated with a user profile.
 

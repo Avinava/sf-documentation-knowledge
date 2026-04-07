@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationverify
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.594Z
+lastCollected: 2026-04-07T18:40:16.737Z
 estimatedTokens: 197
-keywords: [POST, messaging, domainverification, verify, Checks, whether, domain, already, exists, **Overview**, Usage, Marketing, Cloud, Permissions]
+keywords: [POST, messaging, domainverification, verify, Checks, whether, domain, already, exists, **Overview**, Marketing, Cloud, Permissions]
 ---
-
-# POST /messaging/v1/domainverification/verify
 
 > Checks whether a domain already exists.
 

@@ -5,12 +5,10 @@ topic: integrationinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.137Z
+lastCollected: 2026-04-07T18:36:03.350Z
 estimatedTokens: 577
-keywords: [IntegrationInfo, B2B, Commerce, Checkout, uses, map, requests, responses, necessary, metadata, context, Usage, integrationId, jobId, siteLanguage]
+keywords: [IntegrationInfo, B2B, Commerce, Checkout, uses, map, requests, responses, necessary, metadata, context, integrationId, jobId, siteLanguage]
 ---
-
-# IntegrationInfo Class
 
 > Provides the values that B2B Commerce Checkout uses to map requests to
       responses, necessary metadata, and context.

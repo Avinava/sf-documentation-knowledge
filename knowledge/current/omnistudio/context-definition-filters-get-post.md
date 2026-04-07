@@ -5,12 +5,10 @@ topic: context-definition-filters-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.239Z
+lastCollected: 2026-04-07T18:36:37.841Z
 estimatedTokens: 301
-keywords: [Context, Definition, Filters, POST, associated, specific, criteria, conditions, refine, limit, data, operations]
+keywords: [Context, Definition, Filters, POST, specific, criteria, conditions, refine, limit, operations]
 ---
-
-# Context Definition Filters (GET, POST)
 
 > Create or get context filters associated with a specific context definition. Context
     filters are criteria or conditions that refine or limit data operations based on specific

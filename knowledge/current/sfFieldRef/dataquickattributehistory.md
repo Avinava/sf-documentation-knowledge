@@ -5,12 +5,10 @@ topic: dataquickattributehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.793Z
+lastCollected: 2026-04-07T18:39:37.427Z
 estimatedTokens: 266
-keywords: [DataQuickAttributeHistory, History, tracked, DataQuickAttribute]
+keywords: [DataQuickAttributeHistory, tracked, DataQuickAttribute]
 ---
-
-# DataQuickAttributeHistory
 
 > History for tracked fields of DataQuickAttribute.
 

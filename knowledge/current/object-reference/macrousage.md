@@ -5,12 +5,10 @@ topic: macrousage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.161Z
+lastCollected: 2026-04-07T18:38:35.405Z
 estimatedTokens: 904
-keywords: [MacroUsage, macro, usage, record, including, how, they, API, version, 47.0, later, Calls, Special, Access, Rules]
+keywords: [MacroUsage, macro, record, including, how, they, API, 47.0]
 ---
-
-# MacroUsage
 
 > Represents macro usage on a record, including which macro was used,
 			who used it, and how they used it. This object is available in API version 47.0 and

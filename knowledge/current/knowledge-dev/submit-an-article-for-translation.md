@@ -5,12 +5,10 @@ topic: submit-an-article-for-translation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.639Z
+lastCollected: 2026-04-07T18:37:53.929Z
 estimatedTokens: 262
 keywords: [Submit, Article, Translation, Submits, multiple, languages, blocks, translations, inactive]
 ---
-
-# Submit an Article for Translation
 
 > Submits an article for translation for multiple languages and blocks
    translations for inactive languages.

@@ -5,12 +5,10 @@ topic: empuserprovisionprocesserr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.448Z
+lastCollected: 2026-04-07T18:39:39.102Z
 estimatedTokens: 392
-keywords: [EmpUserProvisionProcessErr, employee-user, provisioning, process, error, API, version, 52.0, later]
+keywords: [EmpUserProvisionProcessErr, employee-user, provisioning, process, error, API, 52.0]
 ---
-
-# EmpUserProvisionProcessErr
 
 > Represents an employee-user provisioning process error. This object is
       available in API version 52.0 and later.

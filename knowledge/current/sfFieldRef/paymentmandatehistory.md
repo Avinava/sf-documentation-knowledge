@@ -5,12 +5,10 @@ topic: paymentmandatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.528Z
+lastCollected: 2026-04-07T18:39:53.044Z
 estimatedTokens: 262
-keywords: [PaymentMandateHistory, History, tracked, PaymentMandate]
+keywords: [PaymentMandateHistory, tracked, PaymentMandate]
 ---
-
-# PaymentMandateHistory
 
 > History for tracked fields of PaymentMandate.
 

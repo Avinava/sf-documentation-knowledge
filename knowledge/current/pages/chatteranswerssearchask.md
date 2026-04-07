@@ -5,12 +5,10 @@ topic: chatteranswerssearchask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.279Z
+lastCollected: 2026-04-07T18:38:49.357Z
 estimatedTokens: 281
-keywords: [chatteranswers, searchask, Search, bar, button, lets, users, questions, articles, ask, zone, Chatter, Answers, components, customized]
+keywords: [Attributes, chatteranswers, searchask, Search, bar, button, lets, users, questions, articles, ask, zone, Chatter, Answers, customized, experience, displays]
 ---
-
-# chatteranswers:searchask
 
 > Search bar and button that lets users search for questions and articles and ask questions within a zone. Use with other Chatter Answers components to create a customized experience for your Chatter Answers users.
 

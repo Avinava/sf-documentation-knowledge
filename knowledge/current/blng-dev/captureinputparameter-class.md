@@ -5,12 +5,10 @@ topic: captureinputparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.668Z
+lastCollected: 2026-04-07T18:37:03.235Z
 estimatedTokens: 689
 keywords: [CaptureInputParameter, Receives, payment, authorization, record, capture, amount, additional, Salesforce, Billing, setPaymentAuthorization, paymentAuthorization, getPaymentAuthorization, setAmount, getAmount]
 ---
-
-# CaptureInputParameter Class
 
 > Receives the payment authorization record, payment capture amount, and
       an optional list of additional parameters from Salesforce Billing.

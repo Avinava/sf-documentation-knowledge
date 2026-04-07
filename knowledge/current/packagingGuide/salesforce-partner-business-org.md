@@ -5,12 +5,10 @@ topic: salesforce-partner-business-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.270Z
+lastCollected: 2026-04-07T18:38:46.120Z
 estimatedTokens: 980
-keywords: [Salesforce, Partner, Business, Org, PBO, tools, manage, AppExchange, ISV, OEM, consulting, practice, internal-use, production, comes]
+keywords: [Salesforce, Partner, Business, Org, PBO, tools, manage, AppExchange, ISV, OEM, consulting, practice, internal-use, production, comes, two, Sales, Service, Cloud, Enterprise, Edition, licenses, pre, installed, provisioned, join, Community]
 ---
-
-# Salesforce Partner Business Org
 
 > A Salesforce Partner Business Org (PBO) contains tools to set up and manage your
   AppExchange ISV or OEM business, or your consulting practice. This internal-use production org

@@ -5,12 +5,10 @@ topic: webcartadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.568Z
+lastCollected: 2026-04-07T18:38:44.384Z
 estimatedTokens: 946
-keywords: [WebCartAdjustmentGroup, Group, price, adjustments, cart, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [WebCartAdjustmentGroup, Group, price, adjustments, cart, API, 52.0]
 ---
-
-# WebCartAdjustmentGroup
 
 > Group of price adjustments for a cart. This object is available in API
   version 52.0 and later.

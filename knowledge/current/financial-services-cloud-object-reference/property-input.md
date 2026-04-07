@@ -5,12 +5,10 @@ topic: property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.216Z
+lastCollected: 2026-04-07T18:37:34.785Z
 estimatedTokens: 464
-keywords: [Input, loan, application, finances]
+keywords: [loan, application, finances]
 ---
-
-# Property Input
 
 > Represents details of the property the loan application
       finances.

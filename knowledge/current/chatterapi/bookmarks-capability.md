@@ -5,12 +5,10 @@ topic: bookmarks-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.875Z
+lastCollected: 2026-04-07T18:37:16.939Z
 estimatedTokens: 148
-keywords: [Bookmarks, Capability, feed, element, context, user, bookmark]
+keywords: [Bookmarks, Capability, context, user, bookmark]
 ---
-
-# Bookmarks Capability
 
 > If a feed element has this capability,
  the context user can bookmark it.

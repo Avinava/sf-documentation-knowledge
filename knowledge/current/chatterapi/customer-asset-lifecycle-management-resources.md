@@ -5,12 +5,10 @@ topic: customer-asset-lifecycle-management-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:24.547Z
+lastCollected: 2026-04-07T18:37:11.325Z
 estimatedTokens: 215
-keywords: [Customer, Asset, Lifecycle, Management, Resources, Generate, cancel, change, lifecycle-managed, assets, sales, account, reps, view, Lightning]
+keywords: [Customer, Asset, Lifecycle, Management, Resources, Generate, cancel, change, lifecycle-managed, assets, sales, account, reps, view, Lightning, Experience]
 ---
-
-# Customer Asset Lifecycle Management Resources
 
 > Generate, cancel, and change lifecycle-managed assets for sales and account reps to view
   in Lightning Experience.

@@ -5,12 +5,10 @@ topic: userlistview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.349Z
+lastCollected: 2026-04-07T18:40:05.190Z
 estimatedTokens: 311
-keywords: [UserListView, customizations, user, made, view, API, version, 32.0, later]
+keywords: [UserListView, customizations, user, made, view, API, 32.0]
 ---
-
-# UserListView
 
 > Represents the customizations a user made to a list view. This
   object is available in API version 32.0 and later.

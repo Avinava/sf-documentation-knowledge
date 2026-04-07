@@ -5,12 +5,10 @@ topic: allornoneheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.119Z
+lastCollected: 2026-04-07T18:36:22.376Z
 estimatedTokens: 496
-keywords: [AllOrNoneHeader, whether, roll, back, metadata, changes, records, call, result, failures, Version, Calls, Usage, Sample, Code—Java]
+keywords: [AllOrNoneHeader, whether, roll, back, metadata, changes, records, call, result, failures, Sample, Code—Java]
 ---
-
-# AllOrNoneHeader
 
 > Indicates whether to roll back all metadata changes when some of the records in a call
         result in failures.

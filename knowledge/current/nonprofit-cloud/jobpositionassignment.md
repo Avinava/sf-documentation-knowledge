@@ -5,12 +5,10 @@ topic: jobpositionassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.366Z
+lastCollected: 2026-04-07T18:38:23.260Z
 estimatedTokens: 1309
-keywords: [JobPositionAssignment, assignment, person, specific, JobPositionShift, day, API, version, 64.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [JobPositionAssignment, assignment, person, specific, JobPositionShift, day, API, 64.0]
 ---
-
-# JobPositionAssignment
 
 > Represents the assignment of a person to a specific JobPositionShift
          on a specific day. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: rules-application-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.657Z
+lastCollected: 2026-04-07T18:35:46.629Z
 estimatedTokens: 117
-keywords: [Rules, Application, Error, Output, representation, failure]
+keywords: [Application, Error, failure]
 ---
-
-# Rules Application Error
 
 > Output representation of the error details for rules application failure.
 

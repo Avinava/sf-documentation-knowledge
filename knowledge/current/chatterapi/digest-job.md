@@ -5,12 +5,10 @@ topic: digest-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.288Z
+lastCollected: 2026-04-07T18:37:18.374Z
 estimatedTokens: 116
 keywords: [Digest, Job, successfully, enqueued, API]
 ---
-
-# Digest Job
 
 > Represents a successfully enqueued API digest job
     request.

@@ -5,12 +5,10 @@ topic: dismissalertvar1
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.851Z
+lastCollected: 2026-04-07T18:37:34.370Z
 estimatedTokens: 113
 keywords: [dismissAlert, var1, dismiss, record, alert]
 ---
-
-# dismissAlert(var1)
 
 > Use this method to dismiss the record alert.
 

@@ -5,12 +5,10 @@ topic: researchstudyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.371Z
+lastCollected: 2026-04-07T18:40:00.087Z
 estimatedTokens: 387
-keywords: [ResearchStudyFeed, Feed, tracking, ResearchStudy]
+keywords: [ResearchStudyFeed, ResearchStudy]
 ---
-
-# ResearchStudyFeed
 
 > Feed tracking for ResearchStudy.
 

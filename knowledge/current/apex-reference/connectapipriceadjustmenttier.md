@@ -5,12 +5,10 @@ topic: connectapipriceadjustmenttier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.630Z
+lastCollected: 2026-04-07T18:36:10.900Z
 estimatedTokens: 217
 keywords: [ConnectApi.PriceAdjustmentTier, Price, adjustment, tier]
 ---
-
-# ConnectApi.PriceAdjustmentTier
 
 > Price adjustment tier.
 

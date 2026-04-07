@@ -5,12 +5,10 @@ topic: rowsremove
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.594Z
+lastCollected: 2026-04-07T18:40:23.027Z
 estimatedTokens: 147
 keywords: [Rows.Remove, Function, Ordinal, filter, row, **Overview**, **Syntax**]
 ---
-
-# Rows.Remove
 
 > Rows.Remove(1, 2)
 

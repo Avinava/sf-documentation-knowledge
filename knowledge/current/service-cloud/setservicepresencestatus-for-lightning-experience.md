@@ -5,12 +5,10 @@ topic: setservicepresencestatus-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.979Z
+lastCollected: 2026-04-07T18:36:50.174Z
 estimatedTokens: 283
-keywords: [setServicePresenceStatus, Lightning, Experience, agent's, presence, status, particular, agent, already, logged, log, removes, calls, Arguments, Sample]
+keywords: [Arguments, setServicePresenceStatus, Lightning, Experience, agent's, presence, status, particular, agent, already, logged, log, removes, Sample, Code]
 ---
-
-# setServicePresenceStatus for Lightning Experience
 
 > Sets an agent's presence status to a status with a particular ID. If the specified
         agent is not already logged in, we log in the agent with the presence status. This method

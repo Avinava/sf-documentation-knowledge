@@ -5,12 +5,10 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.477Z
+lastCollected: 2026-04-07T18:38:25.380Z
 estimatedTokens: 865
-keywords: [ApexClass, Apex, Calls, Usage]
+keywords: [ApexClass, Apex]
 ---
-
-# ApexClass
 
 > Represents an Apex class.
 

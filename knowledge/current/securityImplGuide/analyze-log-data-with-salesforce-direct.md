@@ -5,12 +5,10 @@ topic: analyze-log-data-with-salesforce-direct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.647Z
+lastCollected: 2026-04-07T18:39:22.535Z
 estimatedTokens: 468
-keywords: [Analyze, Log, Data, Salesforce, Direct, Transform, clear, insightful, visualizations, Explore, Event, Objects, CRM, Analytics, variety]
+keywords: [Analyze, Log, Salesforce, Direct, Transform, clear, insightful, visualizations, Explore, Event, CRM, Analytics, variety, engaging, chart]
 ---
-
-# Analyze Log Data with Salesforce Direct
 
 > Transform your log data into clear, insightful visualizations. Explore Event Log Objects
   in CRM Analytics with Salesforce Direct using a variety of engaging chart types.

@@ -5,12 +5,10 @@ topic: data-virtualization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.240Z
+lastCollected: 2026-04-07T18:37:53.535Z
 estimatedTokens: 4663
-keywords: [Data, Virtualization, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, However, isn’t, system]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Virtualization, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, However, isn’t, system, processes, orders, managed, external, remote, sales, reps, want, view]
 ---
-
-# Data Virtualization
 
 > You use Salesforce to track leads, manage your pipeline, create opportunities, and capture
     order details that convert leads to customers. However, Salesforce isn’t the system that

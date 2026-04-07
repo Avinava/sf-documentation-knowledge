@@ -5,12 +5,10 @@ topic: data-mapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:11.801Z
+lastCollected: 2026-04-07T18:39:04.822Z
 estimatedTokens: 389
-keywords: [Data, Mapper, mapping, tool, transform, write, Salesforce, Omnistudio, time-efficient, easier, maintain, processing, Mappers, typically, supply]
+keywords: [Mapper, mapping, tool, transform, write, Salesforce, Omnistudio, time-efficient, easier, maintain, processing, Mappers, typically, supply, Omniscripts, Integration, Procedures, Flexcards, Apex, classes, updates]
 ---
-
-# Data Mapper
 
 > The Data Mapper is a mapping tool that you use to read, transform, and write Salesforce
     data. Omnistudio Data Mapper is time-efficient and easier to maintain for data processing. Data

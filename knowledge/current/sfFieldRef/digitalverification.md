@@ -5,12 +5,10 @@ topic: digitalverification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.268Z
+lastCollected: 2026-04-07T18:39:37.985Z
 estimatedTokens: 489
-keywords: [DigitalVerification, Stores, verification, record, API, version, 60.0, later]
+keywords: [DigitalVerification, Stores, verification, record, API, 60.0]
 ---
-
-# DigitalVerification
 
 > Stores information about the verification of a related record. This
       object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: renewpolicyrenewpolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.663Z
+lastCollected: 2026-04-07T18:37:49.515Z
 estimatedTokens: 253
-keywords: [RenewPolicy, RenewPolicyInput, policyId, context, policy, renew, Modify, renewal, date, add, additional, input, JSON, API, Version]
+keywords: [RenewPolicy, RenewPolicyInput, policyId, context, policy, renew, Modify, renewal, date, add, additional, JSON, API, Requires, Chatter]
 ---
-
-# RenewPolicy(RenewPolicyInput, policyId)
 
 > Use the context ID of an existing policy to renew a policy. Modify the renewal date, and
     add optional fields and additional information in the input JSON.

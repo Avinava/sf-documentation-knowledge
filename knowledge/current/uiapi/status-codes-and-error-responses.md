@@ -5,12 +5,10 @@ topic: status-codes-and-error-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.513Z
+lastCollected: 2026-04-07T18:40:10.488Z
 estimatedTokens: 493
 keywords: [Status, Codes, Error, Responses, HTTP, code, isn’t, successful, message, appropriate, occurred]
 ---
-
-# Status Codes and Error Responses
 
 > The response header contains an HTTP status code. If the response isn’t successful, the
     response body contains an error message, and if appropriate, information about the field or

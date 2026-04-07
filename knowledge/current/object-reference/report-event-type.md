@@ -5,12 +5,10 @@ topic: report-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.642Z
+lastCollected: 2026-04-07T18:38:31.523Z
 estimatedTokens: 2910
 keywords: [Report, Event, events, contain, happened, user, ran, includes, activity, that's, Export, plus, reports, exported, Formatted]
 ---
-
-# Report Event Type
 
 > Report events contain information about what happened when a user ran
          a report. This event type includes all activity that's in the Report Export event type,

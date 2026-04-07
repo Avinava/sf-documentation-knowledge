@@ -5,12 +5,10 @@ topic: assettimesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.224Z
+lastCollected: 2026-04-07T18:37:32.387Z
 estimatedTokens: 284
-keywords: [AssetTimesheet, junction, asset, time, sheet, entry, records, vehicles, heavy, equipment, technician, job, API, version, 66.0]
+keywords: [AssetTimesheet, junction, asset, time, sheet, entry, records, vehicles, heavy, equipment, technician, job, API, 66.0]
 ---
-
-# AssetTimesheet
 
 > Represents a junction between an asset and a time sheet or time sheet entry that records all
          vehicles and heavy equipment used by a technician during a job. This object is available in API version 66.0 and later.

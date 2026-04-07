@@ -5,12 +5,10 @@ topic: rules-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.865Z
+lastCollected: 2026-04-07T18:35:43.771Z
 estimatedTokens: 150
-keywords: [Rules, Application, Input, representation, applying, payments, credits, invoices]
+keywords: [Application, applying, payments, credits, invoices]
 ---
-
-# Rules Application Input
 
 > Input representation for applying payments and credits to invoices based on rules.
 

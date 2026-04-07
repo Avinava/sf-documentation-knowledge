@@ -5,12 +5,10 @@ topic: batchjobpartfailedrecordfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.854Z
+lastCollected: 2026-04-07T18:39:28.951Z
 estimatedTokens: 365
-keywords: [BatchJobPartFailedRecordFeed, Feed, tracking, BatchJobPartFailedRecord]
+keywords: [BatchJobPartFailedRecordFeed, BatchJobPartFailedRecord]
 ---
-
-# BatchJobPartFailedRecordFeed
 
 > Feed tracking for BatchJobPartFailedRecord.
 

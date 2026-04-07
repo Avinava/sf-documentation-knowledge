@@ -5,12 +5,10 @@ topic: string-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.772Z
+lastCollected: 2026-04-07T18:40:24.240Z
 estimatedTokens: 78
-keywords: [Utility, Functions, process, transform, Load]
+keywords: [Load, Utility, Functions, process, transform]
 ---
-
-# String Utility Functions
 
 > Use these functions to process and transform string values.
 

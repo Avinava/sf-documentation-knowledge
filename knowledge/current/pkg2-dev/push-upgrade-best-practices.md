@@ -5,12 +5,10 @@ topic: push-upgrade-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:03.575Z
+lastCollected: 2026-04-07T18:38:56.114Z
 estimatedTokens: 916
-keywords: [Push, Upgrade, Best, Practices, powerful, features, provide, partners, Pushing, proper, planning, preparation, result, significant, customer]
+keywords: [Push, Upgrade, Best, Practices, powerful, features, provide, partners, Pushing, proper, planning, preparation, result, significant, customer, satisfaction, issues, consider, Plan, Test, Communicate, Stagger, Upgrades, Focus, Trust]
 ---
-
-# Push Upgrade Best Practices
 
 > Push Upgrade is one of the most powerful features we provide to our partners. Pushing
       an upgrade without proper planning and preparation can result in significant customer

@@ -5,12 +5,10 @@ topic: connectapitrackedchangeattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.423Z
+lastCollected: 2026-04-07T18:36:06.771Z
 estimatedTokens: 174
-keywords: [ConnectApi.TrackedChangeAttachment, Tracked, change, attachment, feed, item]
+keywords: [ConnectApi.TrackedChangeAttachment, Tracked, change, attachment, item]
 ---
-
-# ConnectApi.TrackedChangeAttachment
 
 > Tracked change attachment to a feed item.
 

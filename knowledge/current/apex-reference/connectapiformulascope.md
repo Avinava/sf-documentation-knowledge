@@ -5,12 +5,10 @@ topic: connectapiformulascope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.081Z
+lastCollected: 2026-04-07T18:36:09.464Z
 estimatedTokens: 162
 keywords: [ConnectApi.FormulaScope, Formula, scope, target]
 ---
-
-# ConnectApi.FormulaScope
 
 > Formula scope for a target.
 

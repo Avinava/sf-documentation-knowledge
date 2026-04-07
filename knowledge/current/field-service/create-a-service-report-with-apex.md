@@ -5,12 +5,10 @@ topic: create-a-service-report-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:00.817Z
+lastCollected: 2026-04-07T18:36:46.672Z
 estimatedTokens: 774
-keywords: [Service, Report, Apex, action, work, orders, order, line, items, appointments, code, shown, creates, two, signatures]
+keywords: [Limitations, Service, Report, Apex, action, work, orders, order, line, items, appointments, code, shown, creates, two, signatures, making, callout, createServiceReport, REST, API, resource, Descriptions]
 ---
-
-# Create a Service Report with Apex
 
 > The Create Service Report action on work orders, work order line items, and service
   appointments can also be called using Apex code. The code example shown creates a service report

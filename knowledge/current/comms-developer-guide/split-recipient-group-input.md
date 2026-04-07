@@ -5,12 +5,10 @@ topic: split-recipient-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.183Z
+lastCollected: 2026-04-07T18:37:26.092Z
 estimatedTokens: 98
-keywords: [Split, Recipient, Group, Input, representation, quote, line, item]
+keywords: [Split, Recipient, Group, quote, line, item]
 ---
-
-# Split Recipient Group Input
 
 > Input representation of the quote line item to split them from a
       recipient group.

@@ -5,12 +5,10 @@ topic: connectapiinsurancegetmemberplansoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.594Z
+lastCollected: 2026-04-07T18:37:50.465Z
 estimatedTokens: 157
-keywords: [Output, representation, eligible, plans, member]
+keywords: [eligible, plans, member]
 ---
-
-# ConnectApi.InsuranceGetMemberPlansOutputRepresentation
 
 > Output representation of eligible plans for a single member.
 

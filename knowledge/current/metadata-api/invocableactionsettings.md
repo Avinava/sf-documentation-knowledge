@@ -5,12 +5,10 @@ topic: invocableactionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.486Z
+lastCollected: 2026-04-07T18:36:26.912Z
 estimatedTokens: 608
-keywords: [InvocableActionSettings, org’s, invocable, action, settings, whether, partial, save, allowed.This, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [InvocableActionSettings, org’s, invocable, action, settings, whether, partial, save, allowed.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# InvocableActionSettings
 
 > Represents the org’s invocable action
       settings, such as whether partial save is allowed.This type extends the Metadata metadata type and inherits its fullName field.

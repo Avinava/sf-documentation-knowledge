@@ -5,12 +5,10 @@ topic: lens-file-metadata-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.784Z
+lastCollected: 2026-04-07T18:36:56.324Z
 estimatedTokens: 349
-keywords: [Lens, File, Metadata, Resource, creates, API, URL, Formats, Version, HTTP, POST]
+keywords: [Formats, Lens, File, Metadata, Resource, creates, API, URL, HTTP, POST]
 ---
-
-# Lens File Metadata Resource
 
 > Returns or creates the lens file metadata with the specified ID or
       API name.

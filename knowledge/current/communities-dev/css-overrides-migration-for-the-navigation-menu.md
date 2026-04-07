@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-navigation-menu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.833Z
+lastCollected: 2026-04-07T18:37:26.768Z
 estimatedTokens: 1803
-keywords: [CSS, Overrides, Migration, Navigation, Menu, plan, continue, custom, migrate, forward, template, Full, Mobile, Curtain, Home]
+keywords: [Submenus, CSS, Overrides, Migration, Navigation, Menu, plan, continue, migrate, forward, template, Full, Mobile, Curtain, Home, Item, Link, Toggle, Button, Top-Level, Items, Current, Links, Submenu, Active, Trigger, Icon]
 ---
-
-# CSS Overrides Migration for the Navigation Menu
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

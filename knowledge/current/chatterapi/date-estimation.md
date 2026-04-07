@@ -5,12 +5,10 @@ topic: date-estimation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.231Z
+lastCollected: 2026-04-07T18:37:18.323Z
 estimatedTokens: 78
 keywords: [Date, Estimation, product, delivery]
 ---
-
-# Date Estimation
 
 > Date estimation for product delivery.
 

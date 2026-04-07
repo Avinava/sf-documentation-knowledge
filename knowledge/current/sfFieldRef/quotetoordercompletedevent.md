@@ -5,12 +5,10 @@ topic: quotetoordercompletedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.592Z
+lastCollected: 2026-04-07T18:39:58.254Z
 estimatedTokens: 322
-keywords: [QuoteToOrderCompletedEvent, Notifies, subscribers, actions, standard, createOrderFromQuote, REST, successful, event, Order, record, isn’t, errors, associated, API]
+keywords: [QuoteToOrderCompletedEvent, Notifies, subscribers, actions, standard, createOrderFromQuote, REST, successful, event, Order, record, isn’t, errors, API, 56.0]
 ---
-
-# QuoteToOrderCompletedEvent
 
 > Notifies subscribers when the /actions/standard/createOrderFromQuote REST request is complete. If the
 			request is successful, use this event to learn about the Order record. If the request

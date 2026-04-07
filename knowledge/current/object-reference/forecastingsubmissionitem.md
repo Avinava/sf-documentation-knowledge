@@ -5,12 +5,10 @@ topic: forecastingsubmissionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.026Z
+lastCollected: 2026-04-07T18:38:33.094Z
 estimatedTokens: 561
-keywords: [ForecastingSubmissionItem, forecast, category, submitted, API, version, 62.0, later, Calls]
+keywords: [ForecastingSubmissionItem, forecast, category, submitted, API, 62.0]
 ---
-
-# ForecastingSubmissionItem
 
 > Represents the values for each forecast category in a submitted
          forecast. This object is available in API version 62.0 and later.

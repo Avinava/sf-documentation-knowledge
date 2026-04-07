@@ -5,12 +5,10 @@ topic: user-conversations-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.139Z
+lastCollected: 2026-04-07T18:37:16.185Z
 estimatedTokens: 517
 keywords: [User, Conversations, General, context, search, across]
 ---
-
-# User Conversations, General
 
 > Get private conversations for the context user and
             search across private conversations.

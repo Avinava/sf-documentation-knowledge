@@ -5,12 +5,10 @@ topic: object-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.216Z
+lastCollected: 2026-04-07T18:38:24.107Z
 estimatedTokens: 385
-keywords: [Groups, Objects, grouped, any, number, ways, data, stored, how, it's, licenses, access]
+keywords: [Groups, grouped, any, number, ways, stored, how, it's, licenses]
 ---
-
-# Object Groups
 
 > Objects can be grouped in any number of ways. Object groups are based on where data
         is stored, how it's used, and which licenses are required to access it.

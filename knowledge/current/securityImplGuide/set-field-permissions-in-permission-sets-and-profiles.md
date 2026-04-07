@@ -5,12 +5,10 @@ topic: set-field-permissions-in-permission-sets-and-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.259Z
+lastCollected: 2026-04-07T18:39:23.193Z
 estimatedTokens: 626
-keywords: [Permissions, Permission, Profiles, specify, access, level]
+keywords: [Permissions, Permission, Profiles, specify, level]
 ---
-
-# Set Field Permissions in Permission Sets and Profiles
 
 > Field permissions specify the access level for each field in an object.
 

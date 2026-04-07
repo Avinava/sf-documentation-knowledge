@@ -5,13 +5,11 @@ topic: reportscopeinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.800Z
+lastCollected: 2026-04-07T18:36:03.005Z
 estimatedTokens: 492
 namespace: Reports
 keywords: [ReportScopeInfo, possible, scope, choose, depend, report, opportunity, reports, opportunities, team’s, getDefaultValue, getValues]
 ---
-
-# ReportScopeInfo Class
 
 > Contains information about possible scope values that you can choose.
       Scope values depend on the report type. For example, you can set the scope for opportunity

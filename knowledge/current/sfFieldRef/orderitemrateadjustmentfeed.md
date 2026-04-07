@@ -5,12 +5,10 @@ topic: orderitemrateadjustmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.571Z
+lastCollected: 2026-04-07T18:39:50.982Z
 estimatedTokens: 392
-keywords: [OrderItemRateAdjustmentFeed, Feed, tracking, OrderItemRateAdjustment]
+keywords: [OrderItemRateAdjustmentFeed, OrderItemRateAdjustment]
 ---
-
-# OrderItemRateAdjustmentFeed
 
 > Feed tracking for OrderItemRateAdjustment.
 

@@ -5,12 +5,10 @@ topic: macro
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.379Z
+lastCollected: 2026-04-07T18:39:47.786Z
 estimatedTokens: 414
-keywords: [Macro, instructions, tells, system, perform, tasks, API, version, 32.0, later]
+keywords: [Macro, instructions, tells, system, perform, tasks, API, 32.0]
 ---
-
-# Macro
 
 > Represents a macro, which is a set of instructions that tells the
 			system to perform one or more tasks. This object is available in API version 32.0

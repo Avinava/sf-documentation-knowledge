@@ -5,12 +5,10 @@ topic: embed-flows-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.130Z
+lastCollected: 2026-04-07T18:38:51.369Z
 estimatedTokens: 1072
-keywords: [Embed, Flows, Visualforce, Pages, customize, flow’s, look, feel, enhance, functionality, org, enabled, sites, portals, deliver]
+keywords: [Embed, Flows, Visualforce, Pages, customize, flow’s, look, feel, enhance, functionality, org, enabled, sites, portals, deliver, flow, Salesforce, site, portal, Experience, Cloud, Setting, Variable, finishLocation, Attribute]
 ---
-
-# Embed Flows in Visualforce Pages
 
 > To customize a flow’s look and feel or enhance its functionality, embed it in a
         Visualforce page. If your org has flows enabled for sites and portals, use the Visualforce

@@ -5,12 +5,10 @@ topic: medtherapystmtreviewissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.789Z
+lastCollected: 2026-04-07T18:39:48.222Z
 estimatedTokens: 365
-keywords: [MedTherapyStmtReviewIssue, junction, Medication, Therapy, Statement, Review, Clinical, Detected, Issue, objects]
+keywords: [MedTherapyStmtReviewIssue, junction, Medication, Therapy, Statement, Review, Clinical, Detected, Issue]
 ---
-
-# MedTherapyStmtReviewIssue
 
 > Represents a junction object between the Medication Therapy Statement Review
          and Clinical Detected Issue objects.

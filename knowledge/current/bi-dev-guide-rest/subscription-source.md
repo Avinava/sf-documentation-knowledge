@@ -5,12 +5,10 @@ topic: subscription-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.227Z
+lastCollected: 2026-04-07T18:36:57.777Z
 estimatedTokens: 216
 keywords: [Subscription, Source, base, Analytics]
 ---
-
-# Subscription Source
 
 > The base Analytics subscription source.
 

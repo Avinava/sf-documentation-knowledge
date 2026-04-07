@@ -5,12 +5,10 @@ topic: configure-response-code-metadata-in-your-payment-gateway-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.462Z
+lastCollected: 2026-04-07T18:37:03.022Z
 estimatedTokens: 651
-keywords: [Configure, Code, Metadata, Payment, Gateway, Package, packages, require, custom, file, communicate, Salesforce, Billing, uses, store]
+keywords: [Configure, Code, Metadata, Payment, Gateway, Package, packages, require, file, communicate, Salesforce, Billing, uses, store, sent, evaluates, package’s, convert, transaction’s, Status]
 ---
-
-# Configure Response Code Metadata in Your Payment Gateway Package
 
 > Payment gateway packages require a custom metadata type file to communicate with
         Salesforce Billing. The custom metadata type defines the custom object and fields that the

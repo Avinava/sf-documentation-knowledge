@@ -5,12 +5,10 @@ topic: paymentcart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.099Z
+lastCollected: 2026-04-07T18:39:07.303Z
 estimatedTokens: 947
-keywords: [PaymentCart, payment, cart, collects, items, processing, group, multiple, invoices, together, batch, tracks, total, amount, status]
+keywords: [PaymentCart, payment, cart, collects, items, processing, group, multiple, invoices, together, batch, tracks, total, amount, status, API, 66.0]
 ---
-
-# PaymentCart
 
 > Represents a payment cart that collects payment items before processing. Use
          this object to group multiple payment items (such as invoices) together for batch payment

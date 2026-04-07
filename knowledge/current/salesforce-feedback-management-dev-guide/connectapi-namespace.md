@@ -5,13 +5,11 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.555Z
+lastCollected: 2026-04-07T18:39:17.193Z
 estimatedTokens: 232
 namespace: ConnectApi
 keywords: [ConnectApi, Connect, Apex, classes, creating, surveys]
 ---
-
-# ConnectApi Namespace
 
 > The ConnectApi namespace (also called Connect in
         Apex) provides classes for creating surveys.

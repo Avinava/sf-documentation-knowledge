@@ -5,12 +5,10 @@ topic: tenantsecurityconfigagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.552Z
+lastCollected: 2026-04-07T18:38:42.314Z
 estimatedTokens: 497
-keywords: [TenantSecurityConfigAgent, Stores, metric, implemented, Agentforce, Agents, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityConfigAgent, Stores, metric, implemented, Agentforce, Agents, API, 65.0]
 ---
-
-# TenantSecurityConfigAgent
 
 > Stores metric details related to implemented Agentforce Agents This
       object is available in API version 65.0 and later.

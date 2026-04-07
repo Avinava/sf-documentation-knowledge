@@ -5,12 +5,10 @@ topic: revenue-recognition-service-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.416Z
+lastCollected: 2026-04-07T18:37:02.966Z
 estimatedTokens: 264
-keywords: [Revenue, Recognition, Service, Developer, Salesforce, Billing, API, lets, run, any, triggers, process, builders, REST, calls]
+keywords: [Revenue, Recognition, Service, Developer, Salesforce, Billing, API, lets, run, any, triggers, process, builders, REST, uses, treatments, distribution, schedule, transaction, hierarchy]
 ---
-
-# Revenue Recognition Service Developer Guide
 
 > Salesforce Billing Revenue Recognition API lets you run revenue recognition for any
     Salesforce object in response to triggers, process builders, and REST API calls. The service

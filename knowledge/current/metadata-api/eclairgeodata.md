@@ -5,12 +5,10 @@ topic: eclairgeodata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.714Z
+lastCollected: 2026-04-07T18:36:25.170Z
 estimatedTokens: 696
-keywords: [EclairGeoData, Analytics, custom, map, chart, maps, user-defined, uploaded, standard, accessed, File, Suffix, Directory, Location, Version]
+keywords: [EclairGeoData, EclairMap, Analytics, map, chart, maps, user-defined, uploaded, standard, accessed, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EclairGeoData
 
 > Represents an Analytics custom map chart. Custom maps
       are user-defined maps that are uploaded to Analytics and are used just as standard maps are.

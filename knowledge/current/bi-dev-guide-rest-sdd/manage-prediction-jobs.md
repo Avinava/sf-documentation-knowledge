@@ -5,12 +5,10 @@ topic: manage-prediction-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:11.890Z
+lastCollected: 2026-04-07T18:36:58.425Z
 estimatedTokens: 400
-keywords: [Manage, Prediction, Jobs, Einstein, Service, REST, API, endpoints, run, bulk, scoring, enable, score, predictions, multiple]
+keywords: [Manage, Prediction, Jobs, Einstein, Service, REST, API, endpoints, run, bulk, scoring, enable, score, predictions, multiple, records, time, deploying, updated, model, refresh, scores, historical, how, well, performs, segment, haven’t, reached, terminal, state, Job]
 ---
-
-# Manage Prediction Jobs
 
 > The Einstein Prediction Service provides REST API endpoints to run bulk scoring jobs
     for a prediction. Bulk scoring jobs enable you to score predictions on multiple records at a

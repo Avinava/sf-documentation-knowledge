@@ -5,12 +5,10 @@ topic: getname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.986Z
+lastCollected: 2026-04-07T18:35:59.262Z
 estimatedTokens: 83
-keywords: [getName, Retrieves, canvas, app, Usage]
+keywords: [getName, Retrieves, canvas, app]
 ---
-
-# getName()
 
 > Retrieves the name of the canvas app.
 

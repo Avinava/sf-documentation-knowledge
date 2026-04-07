@@ -5,12 +5,10 @@ topic: persnlbatchdecision
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.293Z
+lastCollected: 2026-04-07T18:38:24.180Z
 estimatedTokens: 612
-keywords: [PersnlBatchDecision, batch, personalization, delivers, decisions, content, recommendations, customer, segment, API, version, 64.0, later, Calls, Usage]
+keywords: [PersnlBatchDecision, batch, personalization, delivers, decisions, content, recommendations, customer, segment, API, 64.0]
 ---
-
-# PersnlBatchDecision
 
 > Represents a batch personalization that delivers personalization decisions (content or recommendations) to a customer segment. Available in API version 64.0 and later.
 

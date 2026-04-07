@@ -5,13 +5,11 @@ topic: unlockresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.119Z
+lastCollected: 2026-04-07T18:35:59.401Z
 estimatedTokens: 910
 namespace: Approval
-keywords: [UnlockResult, result, record, unlock, System.Approval.unlock, Usage, getErrors, getId, isSuccess]
+keywords: [UnlockResult, result, record, unlock, System.Approval.unlock, getErrors, getId, isSuccess]
 ---
-
-# UnlockResult Class
 
 > The result of a record unlock, returned by a System.Approval.unlock() method.
 

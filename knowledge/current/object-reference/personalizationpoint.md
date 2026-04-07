@@ -5,12 +5,10 @@ topic: personalizationpoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.325Z
+lastCollected: 2026-04-07T18:38:24.208Z
 estimatedTokens: 1430
-keywords: [PersonalizationPoint, specific, touch, point, experience, personalization, decision, made, connects, data, space, profile, graph, template, deliver]
+keywords: [PersonalizationPoint, specific, touch, point, experience, personalization, decision, made, connects, space, profile, graph, template, deliver, personalized, content, time, customer, journey, API, 62.0]
 ---
-
-# PersonalizationPoint
 
 > Represents a specific touch point in an experience where a personalization decision
       can be made. It connects a data space, profile data graph, personalization type, and response

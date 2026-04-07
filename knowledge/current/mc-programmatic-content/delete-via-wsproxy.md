@@ -5,12 +5,10 @@ topic: delete-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.411Z
+lastCollected: 2026-04-07T18:40:22.830Z
 estimatedTokens: 225
-keywords: [via, WSProxy, item, several, items, call, deleteItem, deleteBatch, functions, Data, Extension]
+keywords: [via, WSProxy, item, several, items, call, deleteItem, deleteBatch, functions, Extension]
 ---
-
-# Delete via WSProxy
 
 > To delete a single item or several items of the same type in a single call, use the deleteItem and deleteBatch functions.
 

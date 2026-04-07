@@ -5,12 +5,10 @@ topic: ratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.675Z
+lastCollected: 2026-04-07T18:39:58.336Z
 estimatedTokens: 350
-keywords: [RateCard, rules, rate, consumption, group, resources, product, Usage, resource, billed, user, consumes, their, allowance, time]
+keywords: [RateCard, rate, consumption, group, resources, product, resource, billed, user, consumes, their, allowance, time, period, API, 62.0]
 ---
-
-# RateCard
 
 > Represents the rules used to rate the consumption of a group of
          resources within a product. Usage of a resource is billed at a specified rate if the user

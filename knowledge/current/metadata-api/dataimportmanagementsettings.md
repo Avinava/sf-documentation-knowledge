@@ -5,12 +5,10 @@ topic: dataimportmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.032Z
+lastCollected: 2026-04-07T18:36:24.372Z
 estimatedTokens: 694
-keywords: [DataImportManagementSettings, org's, contact, leads, import, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special]
+keywords: [DataImportManagementSettings, org's, contact, leads, import, settings, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# DataImportManagementSettings
 
 > Represents an org's contact and leads import
 			settings.

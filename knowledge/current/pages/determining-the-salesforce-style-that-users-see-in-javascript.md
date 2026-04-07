@@ -5,12 +5,10 @@ topic: determining-the-salesforce-style-that-users-see-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.094Z
+lastCollected: 2026-04-07T18:38:52.400Z
 estimatedTokens: 391
-keywords: [Determining, Salesforce, Style, Users, JavaScript, lot, pages, apps, identifying, theme, user, sees, code, current, experience]
+keywords: [Determining, Salesforce, Style, Users, JavaScript, lot, pages, apps, identifying, theme, user, sees, code, current, experience, context, correctly, manage, navigation]
 ---
-
-# Determining the Salesforce Style That Users See in JavaScript
 
 > If you use a lot of JavaScript in your pages and apps, identifying the Salesforce theme
   that a user sees in JavaScript code is important. Identifying the current user experience context

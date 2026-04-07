@@ -5,13 +5,11 @@ topic: loyaltyresources-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.641Z
+lastCollected: 2026-04-07T18:38:06.852Z
 estimatedTokens: 3847
 namespace: LoyaltyManagement
-keywords: [LoyaltyResources, executes, loyalty, action, result, changeTier, changeTierList, creditPoints, creditPointsList, debitPoints, debitPointsList, getLoyaltyPromotionBasedOnSalesforceCDP, loyaltyPromotionInputList, getLoyaltyPromotions, getPointsBalance]
+keywords: [LoyaltyResources, executes, loyalty, action, result, changeTier, changeTierList, creditPoints, creditPointsList, debitPoints, debitPointsList, getLoyaltyPromotionBasedOnSalesforceCDP, loyaltyPromotionInputList, getLoyaltyPromotions, getPointsBalance, memberPointBalanceList, getTier, memberTierList, issueVoucher, issueVoucherList, transferMemberPointsToGroups, transferMemberPointsToGroupsList, updateCumulativeUsageCompletedInputList]
 ---
-
-# LoyaltyResources Class
 
 > A class that executes a loyalty action and returns a result.
 

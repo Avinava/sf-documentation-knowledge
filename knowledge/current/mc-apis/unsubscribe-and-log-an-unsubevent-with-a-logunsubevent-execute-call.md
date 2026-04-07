@@ -5,12 +5,10 @@ topic: unsubscribe-and-log-an-unsubevent-with-a-logunsubevent-execute-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.581Z
+lastCollected: 2026-04-07T18:40:20.830Z
 estimatedTokens: 3507
-keywords: [Unsubscribe, Log, UnsubEvent, LogUnsubEvent, Execute, Call, SOAP, API, subscriber, Why, How, theLogUnsubEvent, Context, Job, Unsub]
+keywords: [Unsubscribe, Log, UnsubEvent, LogUnsubEvent, Execute, Call, SOAP, API, subscriber, Why, How, theLogUnsubEvent, Context, Job, Unsub, Reason, Error, Codes, Sample, Code, NET, Including, ClientID, Enterprise, 2.0, Accounts, PHP, Messages, Items]
 ---
-
-# Unsubscribe and Log an UnsubEvent with a LogUnsubEvent Execute Call
 
 > This page contains information about using the SOAP API to unsubscribe a subscriber.
 

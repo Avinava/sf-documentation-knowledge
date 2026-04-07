@@ -5,12 +5,10 @@ topic: care-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.364Z
+lastCollected: 2026-04-07T18:37:55.882Z
 estimatedTokens: 5188
-keywords: [Care, general, care-related, including, member, admission, date, decision, reason, contain, multiple, diagnoses, services, drugs, requests]
+keywords: [Care, general, care-related, including, member, admission, date, decision, reason, contain, multiple, diagnoses, services, drugs, requests, include, prior, authorizations, notifications, concurrent, review, admissions, appeals, complaints, grievances]
 ---
-
-# Care Request
 
 > The general details of a care-related request including member
       information, admission date, decision reason, and so on. A single request can contain multiple

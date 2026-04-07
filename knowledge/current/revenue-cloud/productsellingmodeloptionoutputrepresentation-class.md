@@ -5,12 +5,10 @@ topic: productsellingmodeloptionoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.417Z
+lastCollected: 2026-04-07T18:35:41.275Z
 estimatedTokens: 884
 keywords: [selling, model, option, product, how, sold, subscription, one-time, usage-based, productId, productSellingModel, productSellingModelId]
 ---
-
-# ProductSellingModelOptionOutputRepresentation Class
 
 > Represents a selling model option available for a product, which defines how the product can be sold (such as subscription, one-time, or usage-based).
 

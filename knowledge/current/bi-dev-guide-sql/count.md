@@ -5,12 +5,10 @@ topic: count
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.885Z
+lastCollected: 2026-04-07T18:37:01.498Z
 estimatedTokens: 31
 keywords: [count, number, rows, match, condition, column]
 ---
-
-# count()
 
 > Returns the number of rows that match a specified condition in a column.
 

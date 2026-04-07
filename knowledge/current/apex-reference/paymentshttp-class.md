@@ -5,13 +5,11 @@ topic: paymentshttp-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.805Z
+lastCollected: 2026-04-07T18:36:02.025Z
 estimatedTokens: 528
 namespace: CommercePayments
-keywords: [PaymentsHttp, HTTP, start, interaction, payment, gateway, Usage, send]
+keywords: [PaymentsHttp, HTTP, start, interaction, payment, gateway, send]
 ---
-
-# PaymentsHttp Class
 
 > Makes
       an HTTP request to start the interaction with the payment gateway.

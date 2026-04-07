@@ -5,12 +5,10 @@ topic: subscription-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.833Z
+lastCollected: 2026-04-07T18:37:05.543Z
 estimatedTokens: 1427
-keywords: [Subscription, Channels, channel, stream, change, events, correspond, entities, subscribe, receive, event, notifications, record, undelete, operations]
+keywords: [Subscription, Channels, channel, stream, change, events, correspond, entities, subscribe, receive, event, notifications, record, undelete, operations, Capture, predefined, standard, own, corresponds, want, case-sensitive]
 ---
-
-# Subscription Channels
 
 > A subscription channel is a stream of change events that correspond to one or more
     entities. You can subscribe to a channel to receive change event notifications for record

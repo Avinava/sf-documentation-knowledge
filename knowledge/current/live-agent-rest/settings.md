@@ -5,12 +5,10 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.249Z
+lastCollected: 2026-04-07T18:38:06.486Z
 estimatedTokens: 301
-keywords: [Settings, Retrieves, Chat, deployment, that’s, associated, session, establish, visitor’s]
+keywords: [Settings, Retrieves, Chat, deployment, that’s, session, establish, visitor’s]
 ---
-
-# Settings
 
 > Retrieves all settings information about the Chat deployment
 that’s associated with your chat session. The Settings

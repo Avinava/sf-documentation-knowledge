@@ -5,12 +5,10 @@ topic: skillleveldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.752Z
+lastCollected: 2026-04-07T18:38:41.477Z
 estimatedTokens: 661
-keywords: [SkillLevelDefinition, skill, acquired, completing, enablement, site, myTrailhead, modules, API, version, 51.0, later, Calls, Special, Access]
+keywords: [SkillLevelDefinition, skill, acquired, completing, enablement, site, myTrailhead, modules, API, 51.0]
 ---
-
-# SkillLevelDefinition
 
 > Represents a skill which can be acquired by completing enablement site
          (myTrailhead) modules. This object is available in API version 51.0 and later.

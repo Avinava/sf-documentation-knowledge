@@ -5,12 +5,10 @@ topic: methods-for-console-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.430Z
+lastCollected: 2026-04-07T18:38:45.247Z
 estimatedTokens: 1361
-keywords: [Console, Events, JavaScript, executed, certain, occur, user, closes, tab, addition, standard, there, few, specific, Omni-Channel]
+keywords: [Console, Events, JavaScript, executed, certain, occur, user, closes, tab, addition, standard, there, few, specific, Omni-Channel, apply, Salesforce, Classic, channel]
 ---
-
-# Methods for Console Events
 
 > JavaScript can be executed when certain types of events occur in a console, such as
     when a user closes a tab. In addition to the standard methods for console events, there are a

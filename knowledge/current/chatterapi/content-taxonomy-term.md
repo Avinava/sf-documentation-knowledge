@@ -5,12 +5,10 @@ topic: content-taxonomy-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.108Z
+lastCollected: 2026-04-07T18:37:13.043Z
 estimatedTokens: 471
 keywords: [Content, Taxonomy, Term]
 ---
-
-# Content Taxonomy, Term
 
 > Get, update, or delete a term within a content taxonomy.
 

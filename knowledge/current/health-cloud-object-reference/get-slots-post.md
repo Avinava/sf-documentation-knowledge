@@ -5,12 +5,10 @@ topic: get-slots-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.423Z
+lastCollected: 2026-04-07T18:37:40.402Z
 estimatedTokens: 577
-keywords: [Slots, POST, associated, provider, asset]
+keywords: [Slots, POST, provider, asset]
 ---
-
-# Get Slots (POST)
 
 > Get slots associated with the provider or asset.
 

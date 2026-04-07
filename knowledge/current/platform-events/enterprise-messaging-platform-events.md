@@ -5,12 +5,10 @@ topic: enterprise-messaging-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.206Z
+lastCollected: 2026-04-07T18:38:58.020Z
 estimatedTokens: 2584
-keywords: [Enterprise, Messaging, Platform, Events, Salesforce, offers, benefits, event-driven, software, architectures, event, messages, notifications, apps, send]
+keywords: [Enterprise, Messaging, Platform, Events, Salesforce, offers, benefits, event-driven, software, architectures, event, messages, notifications, apps, send, receive, take, further, action, simplify, process, communicating, changes, responding, writing, complex, logic, Publishers, subscribers, communicate, listen, carry, actions, Standard, High-Volume, sObjects, Permissions, Transactions, Retention, Bus, Order]
 ---
-
-# Enterprise Messaging Platform Events
 
 > The Salesforce enterprise messaging platform offers the benefits of
       event-driven software architectures. Platform events are the event messages (or notifications)

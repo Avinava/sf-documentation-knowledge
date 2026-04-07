@@ -5,12 +5,10 @@ topic: generate-account-statement-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.463Z
+lastCollected: 2026-04-07T18:35:44.450Z
 estimatedTokens: 543
-keywords: [Generate, Account, Statement, POST, comprehensive, financial, statements, transaction, history, balance]
+keywords: [Generate, Account, Statement, POST, comprehensive, financial, statements, transaction, balance]
 ---
-
-# Generate Account Statement (POST)
 
 > Generate comprehensive financial statements with transaction history
       and balance information.

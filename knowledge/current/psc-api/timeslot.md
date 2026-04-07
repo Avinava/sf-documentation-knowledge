@@ -5,12 +5,10 @@ topic: timeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.287Z
+lastCollected: 2026-04-07T18:39:08.571Z
 estimatedTokens: 1026
-keywords: [TimeSlot, range, time, day, week, provider, practitioner, offers, service, Operating, hours, consist, slots, Calls, Special]
+keywords: [TimeSlot, range, time, day, week, provider, practitioner, offers, service, Operating, hours, consist, slots]
 ---
-
-# TimeSlot
 
 > Represents a range of time on a specified day of the week during which
    a provider or practitioner offers service. Operating hours consist of one or more time slots.

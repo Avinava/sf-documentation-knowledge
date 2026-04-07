@@ -5,12 +5,10 @@ topic: entity-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.472Z
+lastCollected: 2026-04-07T18:38:14.947Z
 estimatedTokens: 449
-keywords: [Entity, Support, LWC, Offline, uses, UI-API, access, data, supports, long, standard, entities, custom]
+keywords: [Entity, Support, LWC, Offline, uses, UI-API, supports, long, standard, entities]
 ---
-
-# Entity Support
 
 > LWC Offline uses
   the UI-API to access entity data. The UI-API supports a long list of standard entities, and all

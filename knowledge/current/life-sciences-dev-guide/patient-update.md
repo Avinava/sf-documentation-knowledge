@@ -5,12 +5,10 @@ topic: patient-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.696Z
+lastCollected: 2026-04-07T18:37:56.135Z
 estimatedTokens: 211
-keywords: [Patient, Output, representation, result, FHIR, resource, updated]
+keywords: [Patient, result, FHIR, resource, updated]
 ---
-
-# Patient Update
 
 > Output representation of result after a Patient FHIR resource is
       updated.

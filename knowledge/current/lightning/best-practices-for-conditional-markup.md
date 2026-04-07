@@ -5,12 +5,10 @@ topic: best-practices-for-conditional-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:12.840Z
+lastCollected: 2026-04-07T18:38:02.770Z
 estimatedTokens: 588
-keywords: [Best, Practices, Conditional, Markup, <aura, if>, tag, preferred, approach, conditionally, display, there, alternatives, Consider, performance]
+keywords: [Best, Practices, Conditional, Markup, <aura, if>, tag, preferred, approach, conditionally, display, there, alternatives, Consider, performance, cost, code, maintainability, design, choice, depends, case, Toggle, Visibility, CSS, Dynamically, JavaScript]
 ---
-
-# Best Practices for Conditional Markup
 
 > Using the <aura:if> tag is the preferred
         approach to conditionally display markup but there are alternatives. Consider the

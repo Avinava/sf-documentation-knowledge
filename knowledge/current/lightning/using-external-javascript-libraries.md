@@ -5,12 +5,10 @@ topic: using-external-javascript-libraries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.401Z
+lastCollected: 2026-04-07T18:38:04.556Z
 estimatedTokens: 1687
-keywords: [External, JavaScript, Libraries, library, upload, resource, <ltng, require>, tag, cmp, app, markup, Client-Side, Controller, Troubleshooting]
+keywords: [External, JavaScript, Libraries, library, upload, resource, <ltng, require>, tag, cmp, app, markup, Client-Side, Controller, Troubleshooting, Errors, ltng, require]
 ---
-
-# Using External JavaScript Libraries
 
 > To reference a JavaScript library, upload it as a static resource and use a <ltng:require> tag in your .cmp or
       .app markup.

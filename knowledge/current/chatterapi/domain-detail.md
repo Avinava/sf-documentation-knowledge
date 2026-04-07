@@ -5,12 +5,10 @@ topic: domain-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.205Z
+lastCollected: 2026-04-07T18:37:13.147Z
 estimatedTokens: 111
-keywords: [Domain, Detail, custom, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
+keywords: [Domain, Detail, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
 ---
-
-# Domain Detail
 
 > Get information about a custom domain. A custom domain is a domain that you own, such
     as https://www.example.com, that serves content from your Experience Cloud

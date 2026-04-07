@@ -5,12 +5,10 @@ topic: user-profile-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.184Z
+lastCollected: 2026-04-07T18:37:16.235Z
 estimatedTokens: 573
 keywords: [User, Profile, context, user's, Chatter]
 ---
-
-# User Profile Information
 
 > Information about the context or specified user's
          Chatter profile.

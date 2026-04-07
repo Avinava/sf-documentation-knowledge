@@ -5,12 +5,10 @@ topic: claim-coverage-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.371Z
+lastCollected: 2026-04-07T18:37:51.391Z
 estimatedTokens: 156
-keywords: [Claim, Coverage, Input, representation, updating]
+keywords: [Claim, Coverage, updating]
 ---
-
-# Claim Coverage Update Input
 
 > Input representation for updating a claim coverage.
 

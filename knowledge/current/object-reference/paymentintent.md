@@ -5,12 +5,10 @@ topic: paymentintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.396Z
+lastCollected: 2026-04-07T18:38:37.713Z
 estimatedTokens: 3459
-keywords: [PaymentIntent, data, temporarily, stored, transaction’s, lifecycle, identify, buyer, merchant, amount, sending, timestamp, API, version, 58.0]
+keywords: [PaymentIntent, temporarily, stored, transaction’s, lifecycle, identify, buyer, merchant, amount, sending, timestamp, API, 58.0]
 ---
-
-# PaymentIntent
 
 > Represents data temporarily stored during a transaction’s lifecycle
          that can identify the buyer, the merchant, and the amount the buyer is sending to the

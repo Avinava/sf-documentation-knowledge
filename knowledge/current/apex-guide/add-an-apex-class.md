@@ -5,12 +5,10 @@ topic: add-an-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.046Z
+lastCollected: 2026-04-07T18:36:18.277Z
 estimatedTokens: 946
 keywords: [Add, Apex, step, updating, book, price, trigger, you’ll, adding]
 ---
-
-# Add an Apex Class
 
 > In this step, you add an Apex class that contains a method for updating the book
         price. This method is called by the trigger that you’ll be adding in the next

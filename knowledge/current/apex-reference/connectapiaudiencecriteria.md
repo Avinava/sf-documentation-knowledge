@@ -5,12 +5,10 @@ topic: connectapiaudiencecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.914Z
+lastCollected: 2026-04-07T18:36:07.258Z
 estimatedTokens: 264
-keywords: [ConnectApi.AudienceCriteria, Custom, recommendation, audience, criteria]
+keywords: [ConnectApi.AudienceCriteria, recommendation, audience, criteria]
 ---
-
-# ConnectApi.AudienceCriteria
 
 > Custom recommendation audience criteria.
 

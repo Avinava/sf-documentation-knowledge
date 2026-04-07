@@ -5,12 +5,10 @@ topic: loyaltymembercurrencyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.770Z
+lastCollected: 2026-04-07T18:39:47.247Z
 estimatedTokens: 271
-keywords: [LoyaltyMemberCurrencyHistory, History, tracked, LoyaltyMemberCurrency]
+keywords: [LoyaltyMemberCurrencyHistory, tracked, LoyaltyMemberCurrency]
 ---
-
-# LoyaltyMemberCurrencyHistory
 
 > History for tracked fields of LoyaltyMemberCurrency.
 

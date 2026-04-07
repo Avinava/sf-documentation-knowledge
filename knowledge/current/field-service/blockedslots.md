@@ -5,12 +5,10 @@ topic: blockedslots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.443Z
+lastCollected: 2026-04-07T18:36:46.280Z
 estimatedTokens: 77
 keywords: [blockedSlots, total, number, potential, blocked, slots, getAppointmentInsights]
 ---
-
-# blockedSlots
 
 > The total number of potential blocked slots returned by the getAppointmentInsights method.
 

@@ -5,12 +5,10 @@ topic: record-rollup-result-last-updated-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.300Z
+lastCollected: 2026-04-07T18:38:21.094Z
 estimatedTokens: 181
 keywords: [Record, Rollup, Result, Updated, results]
 ---
-
-# Record Rollup Result Last Updated Details
 
 > Represents the last updated information of the record rollup results.
 

@@ -5,12 +5,10 @@ topic: search-for-metadata-elements-of-a-translated-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.611Z
+lastCollected: 2026-04-07T18:37:53.899Z
 estimatedTokens: 89
-keywords: [Search, Metadata, Elements, Translated, Version, Searches, article]
+keywords: [Search, Metadata, Translated, Searches, article]
 ---
-
-# Search for Metadata Elements of a Translated Version
 
 > Searches for metadata elements of a translated version of an article.
 

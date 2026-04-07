@@ -5,12 +5,10 @@ topic: cgcloudaccountextensionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.233Z
+lastCollected: 2026-04-07T18:39:12.668Z
 estimatedTokens: 3994
-keywords: [cgcloud__Account_Extension__c, records, account, roles, further, product-related, attributes, API, version, 54.0, later, cgcloud, _Account, _Extension, Calls]
+keywords: [cgcloud__Account_Extension__c, records, account, roles, further, product-related, attributes, API, 54.0, cgcloud, _Account, _Extension]
 ---
-
-# cgcloud__Account_Extension__c
 
 > This object records account roles and further product-related
          attributes. This object is available in API version 54.0 and later.

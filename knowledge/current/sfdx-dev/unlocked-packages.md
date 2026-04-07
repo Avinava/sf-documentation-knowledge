@@ -5,12 +5,10 @@ topic: unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.862Z
+lastCollected: 2026-04-07T18:40:08.812Z
 estimatedTokens: 1452
-keywords: [Unlocked, Packages, Salesforce, offers, different, especially, suited, internal, business, apps, Unless, plan, distribute, app, AppExchange]
+keywords: [Unlocked, Packages, Salesforce, offers, different, especially, suited, internal, business, apps, Unless, plan, distribute, app, AppExchange, package, right, cases, organize, metadata, extend, you’ve, purchased, new]
 ---
-
-# Unlocked Packages
 
 > Salesforce offers different types of packages, and unlocked packages are especially
   suited for internal business apps. Unless you plan to distribute an app on AppExchange, an

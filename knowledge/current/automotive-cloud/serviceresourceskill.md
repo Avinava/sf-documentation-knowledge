@@ -5,12 +5,10 @@ topic: serviceresourceskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.757Z
+lastCollected: 2026-04-07T18:36:53.133Z
 estimatedTokens: 672
-keywords: [ServiceResourceSkill, association, skill, service, resource, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ServiceResourceSkill, association, skill, service, resource, API, 58.0]
 ---
-
-# ServiceResourceSkill
 
 > Represents the association between a skill and a service resource. This
       object is available in API version 58.0 and later.

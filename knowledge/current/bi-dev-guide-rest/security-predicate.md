@@ -5,12 +5,10 @@ topic: security-predicate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.119Z
+lastCollected: 2026-04-07T18:36:57.658Z
 estimatedTokens: 93
 keywords: [Security, Predicate, Analytics, dataset]
 ---
-
-# Security Predicate
 
 > The security predicate for an Analytics dataset.
 

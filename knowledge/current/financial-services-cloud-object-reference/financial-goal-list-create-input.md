@@ -5,12 +5,10 @@ topic: financial-goal-list-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.114Z
+lastCollected: 2026-04-07T18:37:34.670Z
 estimatedTokens: 103
-keywords: [Financial, Goal, Input, creating, multiple, goals, members]
+keywords: [Financial, Goal, creating, multiple, goals, members]
 ---
-
-# Financial Goal List Create Input
 
 > Input for creating multiple financial goals with goal members.
 

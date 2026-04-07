@@ -5,12 +5,10 @@ topic: contactownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.404Z
+lastCollected: 2026-04-07T18:38:28.304Z
 estimatedTokens: 873
-keywords: [ContactOwnerSharingRule, rules, sharing, contact, User, owner, Calls, Usage]
+keywords: [ContactOwnerSharingRule, sharing, contact, User, owner]
 ---
-
-# ContactOwnerSharingRule
 
 > Represents the rules for sharing a contact with a User other than the
       owner.

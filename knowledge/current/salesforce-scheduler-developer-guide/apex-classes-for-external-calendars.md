@@ -5,12 +5,10 @@ topic: apex-classes-for-external-calendars
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.753Z
+lastCollected: 2026-04-07T18:39:20.507Z
 estimatedTokens: 557
 keywords: [Apex, Classes, External, Calendars, LxScheduler, integrating, Salesforce, Scheduler, determine, availability, service, resources]
 ---
-
-# Apex Classes for External Calendars
 
 > The LxScheduler namespace provides an interface and classes for
       integrating Salesforce Scheduler with external calendars and determine the availability of

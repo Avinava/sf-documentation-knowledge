@@ -5,12 +5,10 @@ topic: frcstcustmzowneradjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.797Z
+lastCollected: 2026-04-07T18:39:41.436Z
 estimatedTokens: 472
-keywords: [FrcstCustmzOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, consumption, API, version, 63.0, later, different, ForecastingOwnerAdjustment, users’]
+keywords: [FrcstCustmzOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, consumption, API, 63.0, different, ForecastingOwnerAdjustment, users’, adjustments, pipeline, forecasts]
 ---
-
-# FrcstCustmzOwnerAdjustment
 
 > Represents an individual forecast user’s adjustment of their own consumption
          forecast.  Available in API version 63.0 and later. This object is different from the

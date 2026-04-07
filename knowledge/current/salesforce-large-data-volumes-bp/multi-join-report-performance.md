@@ -5,12 +5,10 @@ topic: multi-join-report-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.185Z
+lastCollected: 2026-04-07T18:39:17.860Z
 estimatedTokens: 189
-keywords: [Multi-Join, Report, Performance, customer, created, four, objects, Accounts, Sales, Orders, 2.3, million, Account, Ownership, 1.2]
+keywords: [Situation, Solution, Multi-Join, Report, Performance, customer, created, four, Accounts, Sales, Orders, 2.3, million, Account, Ownership, 1.2, had, little, filtering, needed, optimized]
 ---
-
-# Multi-Join Report Performance
 
 > The customer created a report
 that used four related objects: Accounts (314,000), Sales Orders (769,000),

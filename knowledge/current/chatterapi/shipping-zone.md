@@ -5,12 +5,10 @@ topic: shipping-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.983Z
+lastCollected: 2026-04-07T18:37:23.099Z
 estimatedTokens: 136
-keywords: [Shipping, Zone, Output, representation, rate, area]
+keywords: [Shipping, Zone, rate, area]
 ---
-
-# Shipping Zone
 
 > Output representation of the shipping rate area.
 

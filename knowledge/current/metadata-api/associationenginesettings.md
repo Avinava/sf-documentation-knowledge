@@ -5,12 +5,10 @@ topic: associationenginesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.458Z
+lastCollected: 2026-04-07T18:36:22.706Z
 estimatedTokens: 539
-keywords: [AssociationEngineSettings, record, association, builder, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, Access, File, Suffix]
+keywords: [AssociationEngineSettings, record, association, builder, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support]
 ---
-
-# AssociationEngineSettings
 
 > Represents the record association builder settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 

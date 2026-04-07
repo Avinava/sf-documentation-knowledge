@@ -6,13 +6,10 @@ topic: install-and-set-up-the-feature-management-app-in-your-license-management-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.504Z
+lastCollected: 2026-04-07T18:38:53.816Z
 estimatedTokens: 356
 keywords: [Install, Feature, Management, App, License, Org, FMA, LMO, add, tab, view, adjust, layout, licenses, display]
 ---
-
-# Install and Set Up the Feature Management App in Your License
-            Management Org
 
 > Install the FMA in your LMO. Then add the Feature Parameters tab to your default
         view, and adjust your page layout for licenses to display related lists for your feature

@@ -5,12 +5,10 @@ topic: provide-test-drives-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.955Z
+lastCollected: 2026-04-07T18:38:46.913Z
 estimatedTokens: 248
 keywords: [Provide, Test, Drives, AppExchange, Listing, Partner, Console, connect, drive, org]
 ---
-
-# Provide Test Drives on Your AppExchange Listing
 
 > To make test drives available on your AppExchange listing, go to the AppExchange Partner
   Console and connect your test drive org to the listing.

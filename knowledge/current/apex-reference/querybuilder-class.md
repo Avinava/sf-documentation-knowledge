@@ -5,12 +5,10 @@ topic: querybuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.268Z
+lastCollected: 2026-04-07T18:36:03.485Z
 estimatedTokens: 1309
-keywords: [QueryBuilder, constructing, well-formed, SAQL, queries, pass, CRM, Analytics, Usage, Examples, load, datasetID, datasetVersionID, count, projection]
+keywords: [Examples, QueryBuilder, constructing, well-formed, SAQL, queries, pass, CRM, Analytics, load, datasetID, datasetVersionID, count, projection, union, unionNodes, cogroup, cogroupNodes, groups]
 ---
-
-# QueryBuilder Class
 
 > The QueryBuilder class provides methods for constructing well-formed
       SAQL queries to pass to CRM Analytics.

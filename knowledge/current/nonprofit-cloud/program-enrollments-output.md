@@ -5,12 +5,10 @@ topic: program-enrollments-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.284Z
+lastCollected: 2026-04-07T18:38:21.075Z
 estimatedTokens: 112
-keywords: [Program, Enrollments, Output, representation, enroll, participants]
+keywords: [Program, Enrollments, enroll, participants]
 ---
-
-# Program Enrollments Output
 
 > Output representation of the request to enroll or update participants
       in a program.

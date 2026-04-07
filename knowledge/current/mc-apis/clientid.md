@@ -5,12 +5,10 @@ topic: clientid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.570Z
+lastCollected: 2026-04-07T18:40:15.677Z
 estimatedTokens: 370
 keywords: [ClientID, owner, subaccount, imply, ownership, Send, Client, email, attributed]
 ---
-
-# ClientID
 
 > The ClientID object contains the ID of the owner of a subaccount. Use this object to set imply ownership of an object to a subaccount. For example, the Send object contains a Client property that enables the email send to be attributed to subaccount. If no ClientID is specified, the email send is at
 

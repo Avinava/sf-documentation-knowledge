@@ -5,12 +5,10 @@ topic: idempotency-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.577Z
+lastCollected: 2026-04-07T18:36:16.796Z
 estimatedTokens: 245
-keywords: [Idempotency, Guidelines, ability, payment, gateway, recognize, duplicate, requests, submitted, either, error, maliciously, process, accordingly, working]
+keywords: [Idempotency, Guidelines, ability, payment, gateway, recognize, duplicate, requests, submitted, either, error, maliciously, process, accordingly, working, idempotent, consider]
 ---
-
-# Idempotency Guidelines
 
 > Idempotency represents the ability of a payment gateway to recognize duplicate requests
     submitted either in error or maliciously, and then process the duplicate requests accordingly.

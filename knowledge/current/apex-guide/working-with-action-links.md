@@ -5,12 +5,10 @@ topic: working-with-action-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.925Z
+lastCollected: 2026-04-07T18:36:19.146Z
 estimatedTokens: 1057
-keywords: [Working, Action, Links, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
+keywords: [Workflow, Working, Action, Links, link, button, Clicking, take, user, Web, initiate, file, download, invoke, API, call, Salesforce, external, server, includes, URL, HTTP, include, OAuth, token, authentication, integrate, third-party, services, users, drive, productivity, accelerate, innovation]
 ---
-
-# Working with Action Links
 
 > An action link is a button on a feed element. Clicking an action link can take a user
     to a Web page, initiate a file download, or invoke an API call to Salesforce or to an external

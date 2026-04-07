@@ -5,12 +5,10 @@ topic: commerceentitlementpolicyshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.121Z
+lastCollected: 2026-04-07T18:38:28.044Z
 estimatedTokens: 674
-keywords: [CommerceEntitlementPolicyShare, entitlement, rule, sharing, products, prices, users, owner, API, version, 49.0, later, Calls, Special, Access]
+keywords: [CommerceEntitlementPolicyShare, entitlement, rule, sharing, products, prices, users, owner, API, 49.0]
 ---
-
-# CommerceEntitlementPolicyShare
 
 > Represents the entitlement rule for sharing products and prices with users
       other than the owner. This object is available in API version 49.0 and later.

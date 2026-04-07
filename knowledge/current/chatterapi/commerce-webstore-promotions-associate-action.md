@@ -5,12 +5,10 @@ topic: commerce-webstore-promotions-associate-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.739Z
+lastCollected: 2026-04-07T18:37:12.629Z
 estimatedTokens: 507
-keywords: [Commerce, Webstore, Promotions, Associate, Action, associated, price, adjustments, cart, items, highest, priority, eligible, processed]
+keywords: [Commerce, Webstore, Promotions, Associate, Action, price, adjustments, cart, items, highest, priority, eligible, processed]
 ---
-
-# Commerce Webstore Promotions, Associate Action
 
 > Gets the associated promotions and price adjustments for a cart and its
       items. Only the 50 highest priority eligible promotions are processed.

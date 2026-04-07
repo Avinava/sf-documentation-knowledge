@@ -5,12 +5,10 @@ topic: structuring-and-organizing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.043Z
+lastCollected: 2026-04-07T18:37:02.584Z
 estimatedTokens: 387
-keywords: [Structuring, Organizing, Rules, template-to-app-rules.json, followed, template]
+keywords: [Structuring, Organizing, template-to-app-rules.json, followed, template]
 ---
-
-# Structuring and Organizing Rules
 
 > The rules section of template-to-app-rules.json
         defines the rules followed by the template.

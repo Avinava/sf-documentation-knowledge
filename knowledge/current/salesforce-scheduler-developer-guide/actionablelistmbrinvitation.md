@@ -5,12 +5,10 @@ topic: actionablelistmbrinvitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.859Z
+lastCollected: 2026-04-07T18:39:20.617Z
 estimatedTokens: 661
-keywords: [ActionableListMbrInvitation, relationship, Actionable, Member, Appointment, Invitation, API, version, 59.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ActionableListMbrInvitation, relationship, Actionable, Member, Appointment, Invitation, API, 59.0]
 ---
-
-# ActionableListMbrInvitation
 
 > Represents a relationship between an Actionable List Member and an
          Appointment Invitation. This object is available in API version 59.0 and

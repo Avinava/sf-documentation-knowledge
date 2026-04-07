@@ -5,12 +5,10 @@ topic: productfeefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.197Z
+lastCollected: 2026-04-07T18:39:55.770Z
 estimatedTokens: 358
-keywords: [ProductFeeFeed, Feed, tracking, ProductFee]
+keywords: [ProductFeeFeed, ProductFee]
 ---
-
-# ProductFeeFeed
 
 > Feed tracking for ProductFee.
 

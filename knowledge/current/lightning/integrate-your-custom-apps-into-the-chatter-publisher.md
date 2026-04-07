@@ -5,12 +5,10 @@ topic: integrate-your-custom-apps-into-the-chatter-publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.171Z
+lastCollected: 2026-04-07T18:38:03.165Z
 estimatedTokens: 1561
-keywords: [Integrate, Custom, Apps, Chatter, Publisher, Rich, API, developers, attach, any, payload, feed, item, uses, Lightning]
+keywords: [Integrate, Apps, Chatter, Publisher, Rich, API, developers, attach, any, payload, item, uses, Lightning, composition, rendering, provide, two, interfaces, event, assist, integration, package, upload, AppExchange, Experience, Builder, site, admin, selector, choosing, five, add, App, Integrated, Post, Composer, Renderer, New, ChatterExtension, Entity, Select, Embed]
 ---
-
-# Integrate Your Custom Apps into the Chatter Publisher
 
 > Use the Chatter Rich Publisher Apps API to integrate your custom apps into the
         Chatter publisher. The Rich Publisher Apps API enables developers to attach any custom

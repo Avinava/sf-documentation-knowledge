@@ -5,12 +5,10 @@ topic: using-javascript-libraries-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.344Z
+lastCollected: 2026-04-07T18:38:51.598Z
 estimatedTokens: 363
-keywords: [JavaScript, Libraries, Visualforce, include, pages, take, advantage, functionality, provided, best, way, creating, resource, including, library]
+keywords: [JavaScript, Libraries, Visualforce, include, pages, take, advantage, functionality, provided, best, way, creating, resource, including, library, adding, <apex, includeScript>]
 ---
-
-# Using JavaScript Libraries with Visualforce
 
 > You can include JavaScript libraries in your Visualforce pages to take advantage of
     functionality provided by these libraries. The best way to include JavaScript libraries is by

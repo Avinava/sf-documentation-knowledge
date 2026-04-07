@@ -5,12 +5,10 @@ topic: applicantapplicantrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.467Z
+lastCollected: 2026-04-07T18:37:36.210Z
 estimatedTokens: 1826
-keywords: [ApplicantApplicantRelation, relationship, applicants, applicant, either, business, entity, individual, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [ApplicantApplicantRelation, relationship, applicants, applicant, either, business, entity, individual, API, 61.0]
 ---
-
-# ApplicantApplicantRelation
 
 > Represents the relationship between applicants, where an applicant can be
          either a business entity or an individual. This object is available in API version

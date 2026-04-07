@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.943Z
+lastCollected: 2026-04-07T18:38:11.206Z
 estimatedTokens: 144
-keywords: [REST, access, Media, Cloud, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Media, Cloud, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Media Cloud APIs using REST endpoints. These REST APIs follow similar
     conventions as Connect REST APIs.

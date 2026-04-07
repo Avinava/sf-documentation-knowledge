@@ -5,12 +5,10 @@ topic: cgcloudtacticfundc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.699Z
+lastCollected: 2026-04-07T18:39:15.162Z
 estimatedTokens: 1559
-keywords: [cgcloud__Tactic_Fund__c, stores, relationship, Fund, Payment, Tactic, junction, objects, API, version, 54.0, later, cgcloud, _Tactic, _Fund]
+keywords: [cgcloud__Tactic_Fund__c, stores, relationship, Fund, Payment, Tactic, junction, API, 54.0, cgcloud, _Tactic, _Fund]
 ---
-
-# cgcloud__Tactic_Fund__c
 
 > This object stores the relationship between the Fund and Payment
          Tactic junction objects. This object is available in API version 54.0 and later.

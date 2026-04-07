@@ -5,12 +5,10 @@ topic: omnisupervisorconfigaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.116Z
+lastCollected: 2026-04-07T18:38:36.296Z
 estimatedTokens: 448
-keywords: [OmniSupervisorConfigAction, actions, supervisors, Command, Center, Service, configuration, API, version, 56.0, later, Calls, Special, Access, Rules]
+keywords: [OmniSupervisorConfigAction, actions, supervisors, Command, Center, Service, configuration, API, 56.0]
 ---
-
-# OmniSupervisorConfigAction
 
 > Represents the actions available to the supervisors of a Command Center for
          Service configuration. This object is available in API version 56.0 and later.

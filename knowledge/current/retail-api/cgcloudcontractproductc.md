@@ -5,12 +5,10 @@ topic: cgcloudcontractproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.781Z
+lastCollected: 2026-04-07T18:39:13.195Z
 estimatedTokens: 1084
-keywords: [cgcloud__Contract_Product__c, Stores, relationship, customer, contract, product, capture, product-specific, agreements, included, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Contract_Product__c, Stores, relationship, customer, contract, product, capture, product-specific, agreements, included, API, 54.0, cgcloud, _Contract, _Product]
 ---
-
-# cgcloud__Contract_Product__c
 
 > Stores the details of the relationship between a customer contract
          and a product. With this object, you can capture product-specific agreements that are

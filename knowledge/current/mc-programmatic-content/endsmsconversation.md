@@ -5,12 +5,10 @@ topic: endsmsconversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.338Z
+lastCollected: 2026-04-07T18:40:21.618Z
 estimatedTokens: 219
-keywords: [EndSmsConversation, Function, Ordinal, Short, code, SMS, communication, mobile, number, end, conversation, **Overview**, **Syntax**, Usage]
+keywords: [EndSmsConversation, Function, Ordinal, Short, code, SMS, communication, mobile, number, end, conversation, **Overview**, **Syntax**]
 ---
-
-# EndSmsConversation
 
 > EndSmsConversation(1, 2)
 

@@ -5,12 +5,10 @@ topic: create-a-scratch-org-based-on-a-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.564Z
+lastCollected: 2026-04-07T18:40:08.516Z
 estimatedTokens: 1062
-keywords: [Scratch, Org, Snapshot, belong, Dev, Hub, you’re, recommend, definition, file, references, although, directly, --snapshot, flag]
+keywords: [Scratch, Org, Snapshot, belong, Dev, Hub, you’re, recommend, definition, file, references, although, directly, --snapshot, flag, Changing, deleting, effect, Add, Settings, Override, Determine, Release, Resulting, Error, Codes]
 ---
-
-# Create a Scratch Org Based on a Snapshot
 
 > The snapshot must belong to the Dev Hub that you’re using to create the scratch org. We
     recommend that you create a scratch org definition file that references the snapshot, although

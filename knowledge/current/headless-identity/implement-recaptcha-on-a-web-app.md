@@ -5,12 +5,10 @@ topic: implement-recaptcha-on-a-web-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.518Z
+lastCollected: 2026-04-07T18:37:39.458Z
 estimatedTokens: 532
-keywords: [Implement, reCAPTCHA, Web, App, Headless, Registration, Flow, Forgot, Password, configure, least, two, security, settings, Experience]
+keywords: [Implement, reCAPTCHA, Web, App, Headless, Registration, Flow, Forgot, Password, configure, least, two, security, settings, Experience, Cloud, Login, add, requirements, requests, Identity, APIs, require, send, token, issued, internal, integration, user, single-page, apps, because, can’t, keep, user’s, browser, recommend, instead, Requiring, helps, filter, invalid, bots, work, API, Postman, collection]
 ---
-
-# Implement reCAPTCHA on a Web App
 
 > For the Headless Registration Flow and the Headless Forgot Password Flow, you must
   configure at least one of two security settings on the Experience Cloud Login & Registration

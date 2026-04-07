@@ -5,12 +5,10 @@ topic: content-link-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.634Z
+lastCollected: 2026-04-07T18:37:24.629Z
 estimatedTokens: 134
-keywords: [Content, Link, Input, representation, synchronize, token, data, document, sObjects, individual, corresponding, new, updated]
+keywords: [Content, Link, synchronize, token, document, sObjects, individual, corresponding, new, updated]
 ---
-
-# Content Link Details Input
 
 > Input representation of the request to synchronize content token data from a document to
     sObjects. It specifies the ID of an individual content link and its corresponding new value to

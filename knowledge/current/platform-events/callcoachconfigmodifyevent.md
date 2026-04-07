@@ -5,12 +5,10 @@ topic: callcoachconfigmodifyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.928Z
+lastCollected: 2026-04-07T18:38:58.784Z
 estimatedTokens: 368
-keywords: [CallCoachConfigModifyEvent, Notifies, subscribers, Conversation, Insights, configuration, change, API, version, 49.0, later, Calls, Subscription, Channel, Event]
+keywords: [CallCoachConfigModifyEvent, Notifies, subscribers, Conversation, Insights, configuration, change, API, 49.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# CallCoachConfigModifyEvent
 
 > Notifies subscribers of a Conversation Insights configuration
 			change. This object is available in API version 49.0 and later.

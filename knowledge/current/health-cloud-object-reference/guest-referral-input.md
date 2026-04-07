@@ -5,12 +5,10 @@ topic: guest-referral-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.894Z
+lastCollected: 2026-04-07T18:37:40.885Z
 estimatedTokens: 413
-keywords: [Guest, Referral, Input, representation, patient, record, user’s]
+keywords: [Guest, Referral, patient, record, user’s]
 ---
-
-# Guest Referral Input
 
 > Input representation of the request to create a patient referral record based on a guest
     user’s input.

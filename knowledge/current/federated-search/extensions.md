@@ -5,12 +5,10 @@ topic: extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.552Z
+lastCollected: 2026-04-07T18:40:14.575Z
 estimatedTokens: 1292
-keywords: [Extensions, API, follows, OpenSearch, specification, Salesforce, declared, support, Salesforce-specific, search, features, Federated, http, salesforce.com, federatedsearch]
+keywords: [Extensions, API, follows, OpenSearch, specification, Salesforce, declared, support, Salesforce-specific, search, features, Federated, http, salesforce.com, federatedsearch, 1.0, denoted, sfdc, prefix, attribute]
 ---
-
-# Extensions
 
 > This API follows the OpenSearch specification with more Salesforce extensions declared.
   The Salesforce extensions support Salesforce-specific search features, and use the Salesforce

@@ -5,12 +5,10 @@ topic: retrieve-more-email-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.588Z
+lastCollected: 2026-04-07T18:40:18.787Z
 estimatedTokens: 783
-keywords: [Retrieve, Email, Attributes, receiving, Why, How, Sample, NET, Code, Result, SOAP, Envelope, Items]
+keywords: [Result, Retrieve, Email, Attributes, receiving, Why, How, Sample, NET, Code, SOAP, Envelope, Items]
 ---
-
-# Retrieve More Email Attributes
 
 > This page contains information  about receiving more email attributes.
 

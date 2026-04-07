@@ -5,12 +5,10 @@ topic: creation-of-surveys-by-using-salesforce-feedback-management-response-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.533Z
+lastCollected: 2026-04-07T18:39:17.175Z
 estimatedTokens: 479
 keywords: [Creation, Surveys, Salesforce, Feedback, Management, APIs, how]
 ---
-
-# Creation of Surveys by Using Salesforce Feedback Management Response APIs
 
 > Learn how you can create surveys using the Salesforce Feedback Management Response
     APIs.

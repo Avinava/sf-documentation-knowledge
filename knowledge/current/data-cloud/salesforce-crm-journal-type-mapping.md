@@ -5,12 +5,10 @@ topic: salesforce-crm-journal-type-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.185Z
+lastCollected: 2026-04-07T18:35:53.121Z
 estimatedTokens: 259
-keywords: [Salesforce, CRM, Journal, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, categorize, transaction]
+keywords: [Salesforce, CRM, Journal, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, categorize, transaction, journals, members, activities, rewarded, DMO]
 ---
-
-# Salesforce CRM: Journal Type Mapping
 
 > These data mappings are for the Journal type DLO found in the Loyalty Management bundle
   of the Salesforce CRM Connector for Data Cloud. A journal type is used to categorize transaction

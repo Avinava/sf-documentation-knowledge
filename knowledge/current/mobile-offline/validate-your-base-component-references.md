@@ -5,12 +5,10 @@ topic: validate-your-base-component-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.549Z
+lastCollected: 2026-04-07T18:38:16.084Z
 estimatedTokens: 1289
-keywords: [Validate, Base, Component, References, components, help, develop, apps, quickly, However, designed, mobile, environments, SLDS, Linter]
+keywords: [Validate, Base, References, help, develop, apps, quickly, However, designed, mobile, environments, SLDS, Linter, Validator, Code, determine, readiness, Mobile-Ready, Work, Install, Enable, Disable, Resolve, Warnings]
 ---
-
-# Validate Your Base Component References
 
 > Base components help you develop apps
     quickly. However, not all base components are designed for mobile environments. SLDS Linter or

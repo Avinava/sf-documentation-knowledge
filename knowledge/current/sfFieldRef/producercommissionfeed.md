@@ -5,12 +5,10 @@ topic: producercommissionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.624Z
+lastCollected: 2026-04-07T18:39:55.185Z
 estimatedTokens: 362
-keywords: [ProducerCommissionFeed, Feed, tracking, ProducerCommission]
+keywords: [ProducerCommissionFeed, ProducerCommission]
 ---
-
-# ProducerCommissionFeed
 
 > Feed tracking for ProducerCommission.
 

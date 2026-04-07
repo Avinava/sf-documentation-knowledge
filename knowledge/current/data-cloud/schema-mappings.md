@@ -5,12 +5,10 @@ topic: schema-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.532Z
+lastCollected: 2026-04-07T18:35:51.383Z
 estimatedTokens: 260
 keywords: [Schema, Mappings, collection, event, definitions, standard, ecommerce, cases, review, descriptions, definition]
 ---
-
-# Schema Mappings
 
 > A schema is a collection of event definitions. Use these standard schema mappings for
   ecommerce use cases and review the descriptions of each event definition.

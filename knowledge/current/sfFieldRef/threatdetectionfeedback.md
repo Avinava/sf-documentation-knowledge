@@ -5,12 +5,10 @@ topic: threatdetectionfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.269Z
+lastCollected: 2026-04-07T18:40:04.000Z
 estimatedTokens: 450
-keywords: [ThreatDetectionFeedback, feedback, provided, user, Threat, Detection, event, occurred, org, whether, malicious, suspicious, unknown, associated, storage]
+keywords: [ThreatDetectionFeedback, feedback, provided, user, Threat, Detection, event, occurred, org, whether, malicious, suspicious, unknown, storage, events, ApiAnomalyEventStore, CredentialStuffingEventStore, ReportAnomalyEventStore, SessionHijackingEventStore, API, 49.0]
 ---
-
-# ThreatDetectionFeedback
 
 > Represents feedback provided by a user about a Threat Detection event that occurred in your org. The feedback specifies whether the event was malicious, suspicious, not
 		a threat, or unknown. Each ThreatDetectionFeedback object is associated with one of these Threat Detection storage events: ApiAnomalyEventStore, CredentialStuffingEventStore,

@@ -6,13 +6,10 @@ topic: using-to-access-salesforce-objects-to-access-salesforce-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.113Z
+lastCollected: 2026-04-07T18:40:25.479Z
 estimatedTokens: 293
-keywords: [Access, Salesforce, Objects, Mobile, Sync, customers, whose, devices, lost, connectivity, continue, working, data, restored, synchronizes]
+keywords: [Salesforce, Mobile, Sync, customers, whose, devices, lost, connectivity, continue, working, restored, synchronizes, any, changes, made, local, SmartStore, records, corresponding, server]
 ---
-
-# Using  to Access Salesforce Objects to Access Salesforce
-  Objects
 
 > Mobile Sync enables mobile customers whose devices have lost connectivity to continue working on Salesforce data. When
       connectivity is restored, Mobile Sync synchronizes any

@@ -5,12 +5,10 @@ topic: ios-native-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.119Z
+lastCollected: 2026-04-07T18:40:26.423Z
 estimatedTokens: 468
 keywords: [iOS, Native, Quick, Start, help, setup, installation, check, Mobile, SDK, Developer, Tools, Trailhead]
 ---
-
-# iOS Native Quick Start
 
 > For help with setup and installation, check out Set Up
                 Your Mobile SDK Developer Tools in Trailhead.

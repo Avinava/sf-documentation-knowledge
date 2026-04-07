@@ -5,12 +5,10 @@ topic: telemetryactiondefstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.687Z
+lastCollected: 2026-04-07T18:36:52.067Z
 estimatedTokens: 589
-keywords: [TelemetryActionDefStep, step, action, telemetry, signal, definition, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, API, version, 65.0, later, Calls]
+keywords: [TelemetryActionDefStep, step, action, telemetry, signal, definition, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, API, 65.0]
 ---
-
-# TelemetryActionDefStep
 
 > Represents a step in the action for a telemetry signal
 			definition.

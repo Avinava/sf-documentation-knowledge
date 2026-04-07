@@ -5,12 +5,10 @@ topic: envelope-email-notification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.692Z
+lastCollected: 2026-04-07T18:37:24.673Z
 estimatedTokens: 104
-keywords: [Envelope, Email, Notification, Input]
+keywords: [Envelope, Email, Notification]
 ---
-
-# Envelope Email Notification Input
 
 > Input to get email notification details.
 

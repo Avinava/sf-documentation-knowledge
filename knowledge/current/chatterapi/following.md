@@ -5,12 +5,10 @@ topic: following
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.119Z
+lastCollected: 2026-04-07T18:37:16.167Z
 estimatedTokens: 732
 keywords: [people, groups, records, topics, files, user, follow]
 ---
-
-# Following
 
 > Returns a list of people, groups, records, topics, and
    files that the specified user is following. Also used to follow records.

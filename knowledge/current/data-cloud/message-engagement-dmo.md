@@ -5,12 +5,10 @@ topic: message-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.206Z
+lastCollected: 2026-04-07T18:35:54.242Z
 estimatedTokens: 2406
-keywords: [Message, Engagement, DMO, Data, Cloud, model, user’s, marketing, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Message, Engagement, DMO, Cloud, model, user’s, marketing, API, Primary, Subject, Area, Key]
 ---
-
-# Message Engagement DMO
 
 > The Message Engagement DMO is a Data Cloud data model object (DMO) for a
       user’s engagement with a marketing message.

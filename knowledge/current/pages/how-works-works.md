@@ -5,12 +5,10 @@ topic: how-works-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.812Z
+lastCollected: 2026-04-07T18:38:48.759Z
 estimatedTokens: 148
-keywords: [How, Works, Visualforce, chart, defined, series, charting, components, linked, data, source, graphed]
+keywords: [How, Works, Visualforce, chart, defined, series, charting, linked, source, graphed]
 ---
-
-# How  Works Works
 
 > A Visualforce chart is defined
   using a series of charting components, which are then linked to a data source to be graphed on the

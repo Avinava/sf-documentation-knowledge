@@ -5,12 +5,10 @@ topic: named-query-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.651Z
+lastCollected: 2026-04-07T18:36:20.891Z
 estimatedTokens: 356
 keywords: [Named, Query, API, it’s, REST, call, endpoint, appear, URI]
 ---
-
-# Named Query API
 
 > When you create a Named Query API, it’s available as a REST API call. The name of
         the Named Query API defines the endpoint, while parameters appear as URI query parameters.

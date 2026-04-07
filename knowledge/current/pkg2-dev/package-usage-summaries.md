@@ -5,12 +5,10 @@ topic: package-usage-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.446Z
+lastCollected: 2026-04-07T18:38:54.826Z
 estimatedTokens: 386
-keywords: [Package, Usage, Summaries, provide, high-level, metrics, calendar, month, Discover, how, users, access, operations, they, perform]
+keywords: [Package, Summaries, provide, high-level, metrics, calendar, month, Discover, how, users, operations, they, perform]
 ---
-
-# Package Usage Summaries
 
 > Package usage summaries provide high-level metrics by calendar month. Discover how many
   users access your package and which operations they perform.

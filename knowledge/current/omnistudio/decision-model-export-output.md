@@ -5,12 +5,10 @@ topic: decision-model-export-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.583Z
+lastCollected: 2026-04-07T18:36:39.276Z
 estimatedTokens: 149
-keywords: [Decision, Model, Export, Output, representation, completed, DMN, Notation]
+keywords: [Decision, Model, Export, completed, DMN, Notation]
 ---
-
-# Decision Model Export Output
 
 > Output representation of a completed DMN (Decision Model Notation)
       export request.

@@ -5,12 +5,10 @@ topic: network-data-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.797Z
+lastCollected: 2026-04-07T18:37:14.844Z
 estimatedTokens: 170
-keywords: [Network, Data, Category, record, Experience, Cloud, site]
+keywords: [Network, Category, record, Experience, Cloud, site]
 ---
-
-# Network Data Category
 
 > Category network.
 

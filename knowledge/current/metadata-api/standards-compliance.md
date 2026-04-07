@@ -5,12 +5,10 @@ topic: standards-compliance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.448Z
+lastCollected: 2026-04-07T18:36:29.870Z
 estimatedTokens: 122
 keywords: [Standards, Compliance, Metadata, API, implemented, comply, specifications]
 ---
-
-# Standards Compliance
 
 > Metadata API is implemented to comply with the following specifications:
 

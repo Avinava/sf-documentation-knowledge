@@ -5,12 +5,10 @@ topic: annual-emissions-inventory-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.019Z
+lastCollected: 2026-04-07T18:38:16.586Z
 estimatedTokens: 599
 keywords: [Annual, Emissions, Inventory, Extension, additional, company's, total, carbon, particular, year, metric, tonnes, CO2e, tCO2e]
 ---
-
-# Annual Emissions Inventory Extension
 
 > The Annual Emissions Inventory object represents additional information about a
         company's total carbon emissions for a particular year in metric tonnes of CO2e

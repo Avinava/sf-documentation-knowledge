@@ -5,12 +5,10 @@ topic: visualforce-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.232Z
+lastCollected: 2026-04-07T18:40:12.238Z
 estimatedTokens: 261
-keywords: [Visualforce, Layout, Component, record]
+keywords: [Visualforce, Layout, record]
 ---
-
-# Visualforce Layout Component
 
 > A Visualforce component on a record layout page.
 

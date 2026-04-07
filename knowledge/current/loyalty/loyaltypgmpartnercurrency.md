@@ -5,12 +5,10 @@ topic: loyaltypgmpartnercurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.994Z
+lastCollected: 2026-04-07T18:38:10.269Z
 estimatedTokens: 648
-keywords: [LoyaltyPgmPartnerCurrency, junction, loyalty, program, partner, currency, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyPgmPartnerCurrency, junction, loyalty, program, partner, currency, API, 55.0]
 ---
-
-# LoyaltyPgmPartnerCurrency
 
 > Represents a junction between a loyalty program partner and a loyalty program
          currency. This object is available in API version 55.0 and later.

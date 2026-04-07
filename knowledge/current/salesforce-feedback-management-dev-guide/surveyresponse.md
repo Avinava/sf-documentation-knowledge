@@ -5,12 +5,10 @@ topic: surveyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.714Z
+lastCollected: 2026-04-07T18:39:17.372Z
 estimatedTokens: 1561
-keywords: [SurveyResponse, participant’s, survey, status, location, completed, Calls, Associated, Objects]
+keywords: [SurveyResponse, participant’s, survey, status, location, completed]
 ---
-
-# SurveyResponse
 
 > Represents information about a participant’s response to a survey,
 			such as the status of the response, the participant’s location, and when the survey was

@@ -5,12 +5,10 @@ topic: connectapipaymentmethodtokenizationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.712Z
+lastCollected: 2026-04-07T18:36:06.067Z
 estimatedTokens: 285
-keywords: [Payment, tokenization, input, consumed, service]
+keywords: [Payment, tokenization, consumed, service]
 ---
-
-# ConnectApi.PaymentMethodTokenizationRequest
 
 > Payment method tokenization input consumed by the payment tokenization
       service.

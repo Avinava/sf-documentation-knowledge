@@ -5,12 +5,10 @@ topic: permissionseteventstore-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.438Z
+lastCollected: 2026-04-07T18:39:22.329Z
 estimatedTokens: 321
 keywords: [PermissionSetEventStore, Policies, Permission, event, monitor, users, assigned, critical, permissions, Policy, Glance]
 ---
-
-# PermissionSetEventStore Policies
 
 > Permission set event policies monitor when users are assigned critical permissions in a
   permission set.

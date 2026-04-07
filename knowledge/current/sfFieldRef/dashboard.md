@@ -5,13 +5,11 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.355Z
+lastCollected: 2026-04-07T18:39:36.952Z
 estimatedTokens: 604
 namespace: NamespacePrefix
-keywords: [Dashboard, data, custom, reports, visual, components, Access, read-only, API, version, 20.0, later]
+keywords: [Dashboard, reports, visual, read-only, API, 20.0]
 ---
-
-# Dashboard
 
 > Represents a dashboard, which shows data from custom reports as visual
 			components. Access is read-only. This object is available in API version 20.0 and

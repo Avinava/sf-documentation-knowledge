@@ -5,12 +5,10 @@ topic: 33000-33999-smstriggeredsend-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.711Z
+lastCollected: 2026-04-07T18:40:14.712Z
 estimatedTokens: 703
 keywords: [33000-33999, SMSTriggeredSend]
 ---
-
-# 33000-33999 SMSTriggeredSend Object
 
 # 33000-33999 SMSTriggeredSend Object
 

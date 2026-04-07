@@ -5,12 +5,10 @@ topic: get-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.144Z
+lastCollected: 2026-04-07T18:36:21.385Z
 estimatedTokens: 202
-keywords: [sObject, Quick, Actions, specific, object’s, well, resource, REST, API, version, 28.0, later]
+keywords: [sObject, Quick, Actions, specific, object’s, well, resource, REST, API, 28.0]
 ---
-
-# Get sObject Quick Actions
 
 > Returns a specific object’s actions as well as global actions. This resource is
   available in REST API version 28.0 and later.

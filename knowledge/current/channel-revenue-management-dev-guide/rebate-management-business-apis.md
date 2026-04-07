@@ -5,12 +5,10 @@ topic: rebate-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.380Z
+lastCollected: 2026-04-07T18:37:06.076Z
 estimatedTokens: 260
 keywords: [Rebate, Management, Business, APIs, REST, endpoints, follow, similar, conventions, Connect]
 ---
-
-# Rebate Management Business APIs
 
 > Rebate Management Business APIs use REST endpoints. These REST APIs follow similar
     conventions as Connect REST APIs.

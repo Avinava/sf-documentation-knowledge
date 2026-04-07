@@ -5,12 +5,10 @@ topic: datacloud-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.266Z
+lastCollected: 2026-04-07T18:37:08.071Z
 estimatedTokens: 259
-keywords: [Datacloud, Order, Input, Data.com, identification, numbers, purchase, contacts, companies, specific, user]
+keywords: [Datacloud, Order, Data.com, identification, numbers, purchase, contacts, companies, specific, user]
 ---
-
-# Datacloud Order Input
 
 > A list of Data.com identification numbers that are used to purchase
       contacts or companies by a specific user type.

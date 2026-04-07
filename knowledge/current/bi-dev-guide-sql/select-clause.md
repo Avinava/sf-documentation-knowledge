@@ -5,12 +5,10 @@ topic: select-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.365Z
+lastCollected: 2026-04-07T18:37:01.972Z
 estimatedTokens: 1736
 keywords: [SELECT, Clause, retrieves, columns]
 ---
-
-# SELECT Clause
 
 > The SELECT clause retrieves columns from a
   table.

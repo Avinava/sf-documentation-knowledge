@@ -5,12 +5,10 @@ topic: interactionrelatedaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.230Z
+lastCollected: 2026-04-07T18:37:38.056Z
 estimatedTokens: 906
-keywords: [InteractionRelatedAccount, junction, interaction, account, that's, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [InteractionRelatedAccount, junction, interaction, account, that's, API, 57.0]
 ---
-
-# InteractionRelatedAccount
 
 > Represents a junction between an interaction and account that's related to
          that interaction. This object is available in API version 57.0 and later.

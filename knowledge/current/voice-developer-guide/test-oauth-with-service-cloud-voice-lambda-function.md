@@ -5,12 +5,10 @@ topic: test-oauth-with-service-cloud-voice-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.972Z
+lastCollected: 2026-04-07T18:40:12.912Z
 estimatedTokens: 167
 keywords: [Test, OAuth, Service, Cloud, Voice, Lambda, Function, InvokeSalesforceRestApiFunction, event]
 ---
-
-# Test OAuth with Service Cloud Voice Lambda Function
 
 > To test that you have OAuth set up for the InvokeSalesforceRestApiFunction Lambda function, create a test event.
 

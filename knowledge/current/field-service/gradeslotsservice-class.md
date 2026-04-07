@@ -5,13 +5,11 @@ topic: gradeslotsservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.561Z
+lastCollected: 2026-04-07T18:36:46.408Z
 estimatedTokens: 1253
 namespace: FSL
-keywords: [GradeSlotsService, results, shown, Candidates, quick, action, evaluate, possible, slots, service, appointment, scheduled, Usage, schedulingPolicyId, serviceAppointmentId]
+keywords: [GradeSlotsService, results, shown, Candidates, quick, action, evaluate, possible, slots, service, appointment, scheduled, schedulingPolicyId, serviceAppointmentId, getGradedMatrix, _ResultsInUserTimeZone]
 ---
-
-# GradeSlotsService Class
 
 > Represents the results shown in the Candidates quick action. Use
             the GradeSlotsService class to evaluate all

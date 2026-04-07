@@ -5,12 +5,10 @@ topic: commerce-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.142Z
+lastCollected: 2026-04-07T18:37:11.973Z
 estimatedTokens: 473
 keywords: [Commerce, Subscriptions, Retrieve, collection, API, registered, shoppers]
 ---
-
-# Commerce Subscriptions
 
 > Retrieve a collection of Commerce subscriptions. This API is
     available only to registered shoppers.

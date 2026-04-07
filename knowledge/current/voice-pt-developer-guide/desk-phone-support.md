@@ -5,12 +5,10 @@ topic: desk-phone-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.325Z
+lastCollected: 2026-04-07T18:40:13.258Z
 estimatedTokens: 1964
-keywords: [Desk, Phone, Support, telephony, provider, supports, phones, reps, outbound, calls, answer, inbound, their, decline, initiate]
+keywords: [Desk, Phone, Support, telephony, provider, supports, phones, reps, outbound, answer, inbound, their, decline, initiate, transfers, softphone, enabled, deskphone, enable, Omni-Channel, utility, Test, Device, Selection, API, Publish, Event, Accept, Call, Disable, Dynamically, Start, Programmatically]
 ---
-
-# Desk Phone Support
 
 > If the telephony provider supports desk phones, reps can make outbound calls or answer
     inbound calls from their desk phone. Reps can also decline calls and initiate transfers from

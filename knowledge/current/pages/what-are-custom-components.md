@@ -5,12 +5,10 @@ topic: what-are-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.890Z
+lastCollected: 2026-04-07T18:38:48.841Z
 estimatedTokens: 505
-keywords: [Custom, Components, Similar, way, encapsulate, piece, code, reuse, several, times, program, common, design, pattern, component]
+keywords: [Similar, way, encapsulate, piece, code, reuse, several, times, program, common, design, pattern, Visualforce, pages]
 ---
-
-# What are Custom Components?
 
 > Similar to the way you can encapsulate a piece
 of code in a method and then reuse that method several times in a

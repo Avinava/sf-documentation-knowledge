@@ -5,12 +5,10 @@ topic: enable-voicemail-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.850Z
+lastCollected: 2026-04-07T18:40:12.799Z
 estimatedTokens: 3521
-keywords: [Enable, Voicemail, Support, Configure, route, recordings, transcriptions, reps, play, back, routed, any, time, Prerequisites, Step]
+keywords: [Prerequisites, Enable, Voicemail, Support, Configure, route, recordings, transcriptions, reps, play, back, routed, any, time, Step, Add, VoiceMailAudioProcessingFunction, Lambda, Function, Amazon, EventBridge, Rule, VoiceMailTranscribeFunction, VoiceMailPackagingFunction, Subflow, Connect, Process]
 ---
-
-# Enable Voicemail Support
 
 > Configure voicemail support to route voicemail recordings and transcriptions to reps.
     Reps can play back the recordings and transcriptions routed to them at any time.

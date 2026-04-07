@@ -5,12 +5,10 @@ topic: product-selling-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.083Z
+lastCollected: 2026-04-07T18:37:22.192Z
 estimatedTokens: 435
 keywords: [Product, Selling, Model, Commerce, subscriptions]
 ---
-
-# Product Selling Model
 
 > Product selling model for Commerce subscriptions.
 

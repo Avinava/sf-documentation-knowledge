@@ -5,13 +5,11 @@ topic: layoutsection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.131Z
+lastCollected: 2026-04-07T18:36:00.412Z
 estimatedTokens: 1218
 namespace: Metadata
-keywords: [LayoutSection, layout, Custom, Links, Usage, customLabel, detailHeading, editHeading, label, layoutColumns, style, clone]
+keywords: [LayoutSection, layout, Links, customLabel, detailHeading, editHeading, label, layoutColumns, style, clone]
 ---
-
-# LayoutSection Class
 
 > Represents a section of a page layout, such as the Custom Links
       section.

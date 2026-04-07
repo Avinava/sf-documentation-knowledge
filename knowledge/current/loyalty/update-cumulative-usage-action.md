@@ -5,12 +5,10 @@ topic: update-cumulative-usage-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.104Z
+lastCollected: 2026-04-07T18:38:08.363Z
 estimatedTokens: 212
-keywords: [Cumulative, Usage, Action, Output, representation]
+keywords: [Cumulative, Action]
 ---
-
-# Update Cumulative Usage Action
 
 > Output representation of the update cumulative usage action
     type.

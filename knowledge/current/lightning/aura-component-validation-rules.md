@@ -5,12 +5,10 @@ topic: aura-component-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.761Z
+lastCollected: 2026-04-07T18:38:02.693Z
 estimatedTokens: 1139
-keywords: [Aura, Component, Validation, Rules, built, code, validations, cover, restrictions, under, Lightning, Locker, correct, APIs, number]
+keywords: [Aura, Validation, built, code, validations, cover, restrictions, under, Lightning, Locker, correct, APIs, number, best, practices, writing, rule, triggered, points, area, issue]
 ---
-
-# Aura Component Validation Rules
 
 > Rules built into Aura component code validations cover restrictions under Lightning
     Locker, correct use of Lightning APIs, and a number of best practices for writing Aura component

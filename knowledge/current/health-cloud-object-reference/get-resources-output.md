@@ -5,12 +5,10 @@ topic: get-resources-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.725Z
+lastCollected: 2026-04-07T18:37:41.847Z
 estimatedTokens: 152
-keywords: [Resources, Output, containing, results, resource, search]
+keywords: [Resources, containing, results, resource, search]
 ---
-
-# Get Resources Output
 
 > The response body containing the results of the resource search.
 

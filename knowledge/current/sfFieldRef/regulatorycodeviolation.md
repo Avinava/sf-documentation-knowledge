@@ -5,12 +5,10 @@ topic: regulatorycodeviolation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.831Z
+lastCollected: 2026-04-07T18:39:59.498Z
 estimatedTokens: 585
-keywords: [RegulatoryCodeViolation, transactional, violation, data, identified, inspection, entity, ties, question, violated, reason, regulatory, code, API, version]
+keywords: [RegulatoryCodeViolation, transactional, violation, identified, inspection, entity, ties, question, violated, reason, regulatory, code, API, 49.0]
 ---
-
-# RegulatoryCodeViolation
 
 > Represents the transactional violation data that has been identified during an inspection. This entity ties the inspection question that is violated, violation
 		reason and the regulatory code details. This object is available in API version 49.0 and later.

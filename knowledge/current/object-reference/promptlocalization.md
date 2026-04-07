@@ -5,12 +5,10 @@ topic: promptlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:47.742Z
+lastCollected: 2026-04-07T18:38:39.252Z
 estimatedTokens: 846
-keywords: [PromptLocalization, translated, label, record, in-app, guidance, Translation, Workbench, enabled, org, API, version, 48.0, later, Calls]
+keywords: [PromptLocalization, translated, label, record, in-app, guidance, Translation, Workbench, enabled, org, API, 48.0, Prompts, Walkthroughs, Managed, Packages]
 ---
-
-# PromptLocalization
 
 > Represents the translated value of a label for record details about
          in-app guidance when the Translation Workbench is enabled for your org. Available in

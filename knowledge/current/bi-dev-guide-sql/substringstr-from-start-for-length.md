@@ -6,13 +6,10 @@ topic: substringstr-from-start-for-length
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.435Z
+lastCollected: 2026-04-07T18:37:02.043Z
 estimatedTokens: 320
 keywords: [substring, str, start, length, begins, character, position]
 ---
-
-# substring(str FROM start
-   FOR length)
 
 > Returns a substring from string str that begins with the character at
   the start position.

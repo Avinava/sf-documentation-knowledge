@@ -5,12 +5,10 @@ topic: calculationmatrixrowfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.833Z
+lastCollected: 2026-04-07T18:39:31.122Z
 estimatedTokens: 363
-keywords: [CalculationMatrixRowFeed, Feed, tracking, CalculationMatrixRow]
+keywords: [CalculationMatrixRowFeed, CalculationMatrixRow]
 ---
-
-# CalculationMatrixRowFeed
 
 > Feed tracking for CalculationMatrixRow.
 

@@ -5,12 +5,10 @@ topic: objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.644Z
+lastCollected: 2026-04-07T18:38:57.450Z
 estimatedTokens: 213
-keywords: [Objects, Canvas, SDK, enable, communication, app, Salesforce]
+keywords: [Canvas, SDK, enable, communication, app, Salesforce]
 ---
-
-# Objects
 
 > Canvas provides an SDK that contains objects that enable communication
 between your canvas app and Salesforce.

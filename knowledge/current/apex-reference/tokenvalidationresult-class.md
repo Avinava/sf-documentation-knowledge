@@ -5,13 +5,11 @@ topic: tokenvalidationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.389Z
+lastCollected: 2026-04-07T18:35:59.670Z
 estimatedTokens: 3056
 namespace: Auth
-keywords: [TokenValidationResult, describe, result, token, validation, performed, exchange, handler, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, OAuth, 2.0, flow, Usage, isValid]
+keywords: [TokenValidationResult, describe, result, token, validation, performed, exchange, handler, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, OAuth, 2.0, flow, isValid, userData, tokenType, customErrorMsg, getCustomErrorMessage, getData, getToken, getTokenType, getUserData]
 ---
-
-# TokenValidationResult Class
 
 > Contains methods that describe the result of the token validation performed by a token
         exchange handler using the validateIncomingToken method

@@ -5,12 +5,10 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.426Z
+lastCollected: 2026-04-07T18:36:31.840Z
 estimatedTokens: 1310
-keywords: [ApexTrigger, saved, copy, Apex, trigger, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls]
+keywords: [ApexTrigger, saved, copy, Apex, trigger, uses, cached, unless, unavailable, API, 28.0, SOAP, REST, HTTP]
 ---
-
-# ApexTrigger
 
 > Represents the saved copy of an Apex trigger. ApexTrigger uses the
       cached version of the class unless one is unavailable. Available from API version 28.0 or

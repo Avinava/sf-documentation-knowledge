@@ -5,12 +5,10 @@ topic: subscription-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.602Z
+lastCollected: 2026-04-07T18:36:54.968Z
 estimatedTokens: 276
-keywords: [Subscription, Input, Analytics]
+keywords: [Subscription, Analytics]
 ---
-
-# Subscription Input
 
 > An Analytics subscription.
 

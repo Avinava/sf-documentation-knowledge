@@ -5,12 +5,10 @@ topic: manage-enterprise-20-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.665Z
+lastCollected: 2026-04-07T18:40:17.845Z
 estimatedTokens: 13213
-keywords: [Manage, Enterprise, 2.0, Accounts, managing, business, units, users, roles, permission, inside, account, SOAP, API, several]
+keywords: [Users, Roles, Manage, Enterprise, 2.0, Accounts, managing, business, units, permission, inside, account, SOAP, API, several, aspects, including, mass, provisioning, administration, multiple, user, AccountUser, Role, Unit, Status, Subscriber, Triggered, Sample, Code, NET, New, Predefined, Permissions, Remove, Envelope, Add, Contained, Retrieve, Unsubscribed, Subscribers, Level, Creating, Extension, Email, PHP, Retrieving, Results, Send, Updating, Filter, Items]
 ---
-
-# Manage Enterprise 2.0 Accounts
 
 > This page contains information about managing business units, users, roles, and permission sets inside an Enterprise 2.0 account using the SOAP API. You can manage several aspects of the account with the SOAP API, including the mass provisioning and administration of multiple business units and user
 

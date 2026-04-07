@@ -5,12 +5,10 @@ topic: changerequestconflict
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.097Z
+lastCollected: 2026-04-07T18:35:55.199Z
 estimatedTokens: 1496
-keywords: [ChangeRequestConflict, conflict, change, scheduled, activities, events, requests, planned, deployment, period, API, version, 66.0, later, Calls]
+keywords: [ChangeRequestConflict, conflict, change, scheduled, activities, events, requests, planned, deployment, period, API, 66.0]
 ---
-
-# ChangeRequestConflict
 
 > Represents the details related to a conflict between a change request and
          other scheduled activities, such as scheduled events or other change requests that are

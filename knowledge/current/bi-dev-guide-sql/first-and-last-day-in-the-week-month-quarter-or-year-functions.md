@@ -5,12 +5,10 @@ topic: first-and-last-day-in-the-week-month-quarter-or-year-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.015Z
+lastCollected: 2026-04-07T18:37:01.626Z
 estimatedTokens: 1453
-keywords: [Day, Week, Month, Quarter, Year, Functions, standard, fiscal, calendars, accept, DateTime, DateOnly, legacy, input, They]
+keywords: [Day, Week, Month, Quarter, Year, Functions, standard, fiscal, calendars, accept, DateTime, DateOnly, legacy, They]
 ---
-
-# First and Last Day in the Week, Month, Quarter or Year Functions
 
 > Use the following functions to find the first and last week, month, quarter, or year for
   both standard and fiscal calendars. These functions accept DateTime, DateOnly, and legacy input values. They

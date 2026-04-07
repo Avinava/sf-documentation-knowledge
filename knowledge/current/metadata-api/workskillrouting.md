@@ -5,12 +5,10 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.602Z
+lastCollected: 2026-04-07T18:36:30.995Z
 estimatedTokens: 857
-keywords: [WorkSkillRouting, setup, stores, WorkSkillRoutingAttribute, objects, route, work, item, agent, skills, necessary, take, extends, Metadata, inherits]
+keywords: [WorkSkillRouting, WorkSkillRoutingAttribute, setup, stores, route, work, item, agent, skills, necessary, take, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# WorkSkillRouting
 
 > Represents a setup object that stores a set of
       WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who

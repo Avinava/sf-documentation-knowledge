@@ -5,12 +5,10 @@ topic: notifyforfields-set-to-select
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.168Z
+lastCollected: 2026-04-07T18:36:51.488Z
 estimatedTokens: 443
-keywords: [NotifyForFields, Select, PushTopic.NotifyForFields, change, any, record, long, referenced, query, clause, causes, Streaming, API, matching, logic]
+keywords: [NotifyForFields, Select, PushTopic.NotifyForFields, change, any, record, long, referenced, query, clause, causes, Streaming, API, matching, logic, evaluate, determine, whether, generate]
 ---
-
-# NotifyForFields Set to Select
 
 > When you set the value of PushTopic.NotifyForFields to Select, a change to any field value in the record, as
             long as that field is referenced in the query SELECT clause, causes the Streaming API

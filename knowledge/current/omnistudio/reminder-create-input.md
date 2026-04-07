@@ -5,12 +5,10 @@ topic: reminder-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.872Z
+lastCollected: 2026-04-07T18:36:37.398Z
 estimatedTokens: 367
-keywords: [Reminder, Input, representation, definition, configure, reminders, along, channel]
+keywords: [Reminder, definition, configure, reminders, along, channel]
 ---
-
-# Reminder Create Input
 
 > Input representation of a reminder definition to configure reminders along with the
     reminder channel.

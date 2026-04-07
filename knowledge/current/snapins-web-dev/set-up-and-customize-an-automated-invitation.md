@@ -5,12 +5,10 @@ topic: set-up-and-customize-an-automated-invitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.595Z
+lastCollected: 2026-04-07T18:40:09.543Z
 estimatedTokens: 1056
-keywords: [Customize, Automated, Invitation, Connect, chat, Embedded, Service, deployment, proactively, invite, customers, start, agent, slide, fade]
+keywords: [Customize, Automated, Invitation, Connect, chat, Embedded, Service, deployment, proactively, invite, customers, start, agent, slide, fade, appear, anywhere, criteria, selected, setup, own, HTML, CSS, match, company’s, branding, Upgrade, code, snippet, 4.0, invitations]
 ---
-
-# Set Up and Customize an Automated Invitation
 
 > Connect an automated chat invitation with your Embedded Service deployment to proactively
         invite your customers to start a chat with an agent. Your invitation can slide, fade, or

@@ -5,12 +5,10 @@ topic: case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.571Z
+lastCollected: 2026-04-07T18:38:27.571Z
 estimatedTokens: 4300
-keywords: [Case, customer, issue, problem, Calls, Usage, Assignment, Rules, Separating, Accounts, Contacts, Cases, _case, Java, Associated]
+keywords: [Case, customer, issue, problem, Assignment, Separating, Accounts, Contacts, Cases, _case, Java]
 ---
-
-# Case
 
 > Represents a case, which is a customer issue or
 		problem.

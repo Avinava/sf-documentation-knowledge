@@ -5,12 +5,10 @@ topic: usage-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.297Z
+lastCollected: 2026-04-07T18:35:47.329Z
 estimatedTokens: 670
-keywords: [Usage, Management, Objects, deployment, sequence, API, lookup, Revenue, Cloud]
+keywords: [Management, deployment, sequence, API, lookup, Revenue, Cloud]
 ---
-
-# Usage Management Objects
 
 > This table provides the deployment sequence, object types, API names, and lookup fields
     for Usage Management objects in Revenue Cloud.

@@ -5,12 +5,10 @@ topic: recordalertinfo-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.828Z
+lastCollected: 2026-04-07T18:37:34.344Z
 estimatedTokens: 640
 keywords: [RecordAlertInfo]
 ---
-
-# RecordAlertInfo Properties
 
 > The following are properties for RecordAlertInfo.
 

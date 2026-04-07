@@ -5,12 +5,10 @@ topic: applnstagesectiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.635Z
+lastCollected: 2026-04-07T18:37:30.711Z
 estimatedTokens: 359
-keywords: [ApplnStageSectionDefinition, junction, application, stage, definition, API, version, 59.0, later, Calls]
+keywords: [ApplnStageSectionDefinition, junction, application, stage, definition, API, 59.0]
 ---
-
-# ApplnStageSectionDefinition
 
 > Represents a junction between an application stage definition and application
          section definition. This object is available in API version 59.0 and later.

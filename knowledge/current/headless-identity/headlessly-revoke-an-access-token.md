@@ -5,12 +5,10 @@ topic: headlessly-revoke-an-access-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.501Z
+lastCollected: 2026-04-07T18:37:39.439Z
 estimatedTokens: 244
-keywords: [Headlessly, Revoke, Access, Token, log, headless, app, walks, revoking, Postman]
+keywords: [Headlessly, Revoke, Token, log, headless, app, walks, revoking, Postman]
 ---
-
-# Headlessly Revoke an Access Token
 
 > To log out of your headless app, you can revoke the access token. This example walks you
   through headlessly revoking a token with Postman.

@@ -5,12 +5,10 @@ topic: copy-promotion-wizard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.041Z
+lastCollected: 2026-04-07T18:39:11.595Z
 estimatedTokens: 334
-keywords: [Copy, Promotion, Wizard, Invocable, Actions, support, Data, Source, providers, CopyPromotion]
+keywords: [Copy, Promotion, Wizard, Invocable, Actions, support, Source, providers, CopyPromotion]
 ---
-
-# Copy Promotion Wizard Invocable Actions
 
 > This class contains support for Data Source providers used in the CopyPromotion
   wizard.

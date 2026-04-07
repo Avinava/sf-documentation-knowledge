@@ -5,12 +5,10 @@ topic: fulfillmentplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.034Z
+lastCollected: 2026-04-07T18:39:41.645Z
 estimatedTokens: 335
-keywords: [FulfillmentPlan, steps, created, fulfill, order, API, version, 61.0, later]
+keywords: [FulfillmentPlan, steps, created, fulfill, order, API, 61.0]
 ---
-
-# FulfillmentPlan
 
 > Represents a set of steps to be created to fulfill the order.
       This object is available in API version 61.0 and later.

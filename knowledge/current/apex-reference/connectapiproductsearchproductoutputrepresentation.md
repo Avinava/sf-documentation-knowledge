@@ -5,12 +5,10 @@ topic: connectapiproductsearchproductoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.897Z
+lastCollected: 2026-04-07T18:36:11.160Z
 estimatedTokens: 164
 keywords: [Product, found, search]
 ---
-
-# ConnectApi.ProductSearchProductOutputRepresentation
 
 > Product found by a product search.
 

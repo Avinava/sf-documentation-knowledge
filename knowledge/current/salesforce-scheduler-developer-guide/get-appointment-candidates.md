@@ -5,12 +5,10 @@ topic: get-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.696Z
+lastCollected: 2026-04-07T18:39:20.443Z
 estimatedTokens: 1594
-keywords: [Appointment, Candidates, service, resources, work, group, territories, Examples, resource, employee, organization, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store]
+keywords: [Examples, Appointment, Candidates, service, resources, work, group, territories, resource, employee, organization, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store, specialist, attends, appointments, clients, getAppointmentCandidates, REST, API, fetch, territory, selected, previous, step]
 ---
-
-# Get Appointment Candidates
 
 > Returns a list of service resources (appointment candidates) based on work type group
     or work type and service territories.

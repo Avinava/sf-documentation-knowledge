@@ -5,12 +5,10 @@ topic: wkcclocationwellnessaggregationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.045Z
+lastCollected: 2026-04-07T18:40:14.067Z
 estimatedTokens: 596
-keywords: [wkcc__LocationWellnessAggregation__c, Aggregates, wellness, counts, location, status, employees, directly, linked, orgs, Workplace, Command, Center, version, 4.2]
+keywords: [wkcc__LocationWellnessAggregation__c, Aggregates, wellness, counts, location, status, employees, directly, linked, orgs, Workplace, Command, Center, 4.2, installed, wkcc, _LocationWellnessAggregation]
 ---
-
-# wkcc__LocationWellnessAggregation__c
 
 > Aggregates wellness counts by location and status of employees directly linked
       to a location. This object is available in orgs that have Workplace Command Center

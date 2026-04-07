@@ -5,12 +5,10 @@ topic: rebatepayoutadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.989Z
+lastCollected: 2026-04-07T18:39:58.646Z
 estimatedTokens: 317
 keywords: [RebatePayoutAdjustment, Rebate, amount, adjustment, needs, manually, added, subtracted, calculated]
 ---
-
-# RebatePayoutAdjustment
 
 > Rebate amount adjustment that needs to be given manually. An adjustment is an
       amount added or subtracted to the calculated rebate amount.

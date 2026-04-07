@@ -5,12 +5,10 @@ topic: top-appexchange-searches-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.221Z
+lastCollected: 2026-04-07T18:38:47.186Z
 estimatedTokens: 557
-keywords: [Top, AppExchange, Searches, Marketplace, Analytics, search, terms, result, activity, listing, resulted, installs, solution, Definitions]
+keywords: [Definitions, Top, AppExchange, Searches, Marketplace, Analytics, search, terms, result, activity, listing, resulted, installs, solution]
 ---
-
-# Top AppExchange Searches in AppExchange Marketplace Analytics
 
 > See the 10 AppExchange search terms that result in the most activity on your listing. For
     example, see the search terms that resulted in the most installs of your solution.

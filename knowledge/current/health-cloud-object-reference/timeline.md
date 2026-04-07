@@ -5,12 +5,10 @@ topic: timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.205Z
+lastCollected: 2026-04-07T18:37:42.343Z
 estimatedTokens: 117
-keywords: [Timeline, configure, chronological, view, records, multiple, objects]
+keywords: [Timeline, configure, chronological, view, records, multiple]
 ---
-
-# Timeline
 
 > Use Timeline to configure a chronological view of records from multiple
   objects.

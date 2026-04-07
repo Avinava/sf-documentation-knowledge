@@ -5,12 +5,10 @@ topic: insurance-plans-eligibility-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.381Z
+lastCollected: 2026-04-07T18:37:52.567Z
 estimatedTokens: 190
-keywords: [Insurance, Plans, Eligibility, Output, representation, plan, check]
+keywords: [Insurance, Plans, Eligibility, plan, check]
 ---
-
-# Insurance Plans Eligibility Details
 
 > Output representation of the plan eligibility check for an.
 

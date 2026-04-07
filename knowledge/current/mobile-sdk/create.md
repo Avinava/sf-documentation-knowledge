@@ -5,12 +5,10 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.079Z
+lastCollected: 2026-04-07T18:40:27.301Z
 estimatedTokens: 153
-keywords: [Creates, record, iOS, Android]
+keywords: [Android, Creates, record, iOS]
 ---
-
-# Create
 
 > Creates a record of the specified object type.
 

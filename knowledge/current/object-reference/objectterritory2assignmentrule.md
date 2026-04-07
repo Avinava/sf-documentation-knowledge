@@ -5,12 +5,10 @@ topic: objectterritory2assignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.080Z
+lastCollected: 2026-04-07T18:38:36.258Z
 estimatedTokens: 697
-keywords: [ObjectTerritory2AssignmentRule, territory, assignment, rule, that’s, associated, Account, ObjectTerritory2AssignmentRuleItem, created, deleted, BooleanFilter, corresponding, Sales, Territories, enabled]
+keywords: [ObjectTerritory2AssignmentRule, territory, assignment, rule, that’s, Account, ObjectTerritory2AssignmentRuleItem, created, deleted, BooleanFilter, corresponding, Sales, Territories, enabled]
 ---
-
-# ObjectTerritory2AssignmentRule
 
 > Represents a territory assignment rule that’s associated with an
    object, such as Account. ObjectTerritory2AssignmentRuleItem can be created or deleted if the

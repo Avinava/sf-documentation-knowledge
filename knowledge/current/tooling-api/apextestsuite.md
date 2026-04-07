@@ -5,12 +5,10 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.410Z
+lastCollected: 2026-04-07T18:36:31.823Z
 estimatedTokens: 369
-keywords: [ApexTestSuite, suite, Apex, classes, include, test, run, TestSuiteMembership, associates, ens, Tooling, API, version, 36.0, later]
+keywords: [ApexTestSuite, suite, Apex, classes, include, test, run, TestSuiteMembership, associates, ens, Tooling, API, 36.0, mns, 38.0, SOAP, REST, HTTP]
 ---
-
-# ApexTestSuite
 
 > Represents a suite of Apex classes to include in a test run. A
    TestSuiteMembership object associates each class with the suite. Available in the ens namespace in Tooling API

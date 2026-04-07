@@ -5,12 +5,10 @@ topic: interest-tag-and-category-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.266Z
+lastCollected: 2026-04-07T18:39:01.411Z
 estimatedTokens: 206
-keywords: [Interest, Tag, Category, Item, Input, representation, creating, categories, tags, simultaneously]
+keywords: [Interest, Tag, Category, Item, creating, categories, tags, simultaneously]
 ---
-
-# Interest Tag and Category Item Input
 
 > Input representation for creating categories and interest tags
          simultaneously.

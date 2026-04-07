@@ -5,12 +5,10 @@ topic: queuing-of-server-side-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.574Z
+lastCollected: 2026-04-07T18:38:03.624Z
 estimatedTokens: 677
-keywords: [Queuing, Server-Side, Actions, framework, queues, sending, server, grouped, together, batches, sent, process, reduce, network, traffic]
+keywords: [Queuing, Server-Side, Actions, framework, queues, sending, server, grouped, together, batches, sent, process, reduce, network, traffic, batching, multiple, fewer, efficient, requests]
 ---
-
-# Queuing of Server-Side Actions
 
 > The framework queues up actions before sending them to the server. Actions are grouped
             together into batches, and then sent to the server together. This process enables the

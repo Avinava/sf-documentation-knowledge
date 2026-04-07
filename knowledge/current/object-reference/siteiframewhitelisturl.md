@@ -5,12 +5,10 @@ topic: siteiframewhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.729Z
+lastCollected: 2026-04-07T18:38:41.446Z
 estimatedTokens: 313
-keywords: [SiteIframeWhitelistUrl, external, domains, allow, frame, Salesforce, site, Experience, Cloud, pages, API, version, 44.0, later, Calls]
+keywords: [SiteIframeWhitelistUrl, external, domains, allow, frame, Salesforce, site, Experience, Cloud, pages, API, 44.0]
 ---
-
-# SiteIframeWhitelistUrl
 
 > Represents a list of external domains that you allow to frame your
 			Salesforce site or Experience Cloud site pages. This object is available in API

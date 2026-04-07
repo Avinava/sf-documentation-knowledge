@@ -5,12 +5,10 @@ topic: post-contactsv1contactsidcontactidpreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.077Z
+lastCollected: 2026-04-07T18:40:15.102Z
 estimatedTokens: 384
-keywords: [POST, contacts, contactId, Preferences, Adds, consent, management, contact, records, data, protection, privacy, concerns, **Overview**, Usage]
+keywords: [POST, contacts, contactId, Preferences, Adds, consent, management, contact, records, protection, privacy, concerns, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# POST /contacts/v1/contacts/id:{contactId}/Preferences
 
 > Adds consent management information to contact records by contact ID for data protection and privacy concerns.
 

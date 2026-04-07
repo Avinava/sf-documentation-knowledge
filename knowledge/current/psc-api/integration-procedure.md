@@ -5,12 +5,10 @@ topic: integration-procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:11.821Z
+lastCollected: 2026-04-07T18:39:04.841Z
 estimatedTokens: 230
-keywords: [Integration, Procedure, procedures, write, data, Salesforce, external, systems, REST, API, calls, Apex, classes, Omniscript, source]
+keywords: [Integration, Procedure, procedures, write, Salesforce, external, systems, REST, API, Apex, classes, Omniscript, source, Flexcard, handle, multiple, sources]
 ---
-
-# Integration Procedure
 
 > Integration procedures can read and write data from Salesforce and external systems by
     using the REST API calls and Apex classes. An Integration Procedure can be called from an

@@ -5,12 +5,10 @@ topic: usageimpactgroupfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.691Z
+lastCollected: 2026-04-07T18:37:32.954Z
 estimatedTokens: 794
-keywords: [UsageImpactGroupFactor, junction, Usage, Impact, Group, version, Factor, API, 58.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [UsageImpactGroupFactor, junction, Impact, Group, Factor, API, 58.0]
 ---
-
-# UsageImpactGroupFactor
 
 > Represents a junction between an Usage Impact Group version and Usage
          Impact Factor. This object is available in API version 58.0 and later.

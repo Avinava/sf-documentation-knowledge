@@ -5,12 +5,10 @@ topic: use-saql-in-the-crm-analytics-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:13.748Z
+lastCollected: 2026-04-07T18:37:00.258Z
 estimatedTokens: 496
 keywords: [SAQL, CRM, Analytics, Dashboard, Studio, user, modify, queries, write, new, ones, Writing, easiest, way, started]
 ---
-
-# Use SAQL in the CRM Analytics Dashboard
 
 > Use the CRM Analytics Studio user interface to modify existing SAQL queries or write
     new ones. Writing SAQL queries in the user interface is the easiest way to get

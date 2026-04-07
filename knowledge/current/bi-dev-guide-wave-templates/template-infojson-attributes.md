@@ -5,12 +5,10 @@ topic: template-infojson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:16.091Z
+lastCollected: 2026-04-07T18:37:02.633Z
 estimatedTokens: 3446
 keywords: [template-info.json, Attributes, file, main, template, includes, references, downstream, app]
 ---
-
-# template-info.json Attributes
 
 > The template-info.json file is the main file that
     describes the template. It includes or references all the information required to create a

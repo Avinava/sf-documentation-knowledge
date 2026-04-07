@@ -5,12 +5,10 @@ topic: use-the-mobileconnect-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.779Z
+lastCollected: 2026-04-07T18:40:21.045Z
 estimatedTokens: 1936
-keywords: [MobileConnect, API, Delivery, outbound, SMS, message, application, requires, active, short, code, keyword, subscription, assists, marketers]
+keywords: [MessageList, MobileConnect, API, Delivery, outbound, SMS, message, application, requires, active, short, code, keyword, subscription, assists, marketers, developers, creation, subscriptions, Opt-In, template, Subscribe, Mobile, Numbers, QueueMO, Confirm, Status, Trigger, Messages, App, messageContact, Deliver, On-Demand, Content, Text, STOCK, Case, Common, REST, APIs]
 ---
-
-# Use the MobileConnect API
 
 > Delivery of an outbound SMS message through the MobileConnect application requires an active short code and keyword subscription. MobileConnect assists marketers and developers with the creation of message subscriptions through the SMS Opt-In template.
 

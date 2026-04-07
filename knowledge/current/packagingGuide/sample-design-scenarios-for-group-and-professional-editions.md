@@ -5,12 +5,10 @@ topic: sample-design-scenarios-for-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.764Z
+lastCollected: 2026-04-07T18:38:46.642Z
 estimatedTokens: 707
 keywords: [Sample, Design, Scenarios, Group, Professional, Editions, help, understand, how, build]
 ---
-
-# Sample Design Scenarios for Group and Professional Editions
 
 > Here are some scenarios to help you understand when and how to build for Group and Professional
    Editions.

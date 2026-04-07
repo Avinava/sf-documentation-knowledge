@@ -5,12 +5,10 @@ topic: perform-a-file-transfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.927Z
+lastCollected: 2026-04-07T18:40:18.112Z
 estimatedTokens: 533
 keywords: [Perform, File, Transfer, performing, activity, via, SOAP, API, Why, How, Sample, Envelope, Items]
 ---
-
-# Perform a File Transfer
 
 > This page contains information about performing a file transfer activity via the SOAP API.
 

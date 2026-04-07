@@ -6,13 +6,10 @@ topic: customize-login-self-registration-and-password-management-for-your-experi
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.904Z
+lastCollected: 2026-04-07T18:40:25.268Z
 estimatedTokens: 429
 keywords: [Customize, Login, Self-Registration, Password, Management, Experience, Cloud, Site, Configure, standard, logout, options, behavior, Apex, Visualforce]
 ---
-
-# Customize Login, Self-Registration, and Password Management for Your
-            Experience Cloud Site
 
 > Configure the standard login, logout, password management, and self-registration
         options for your Experience Cloud site, or customize the behavior with Apex and

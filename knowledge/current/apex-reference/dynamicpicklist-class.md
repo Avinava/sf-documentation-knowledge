@@ -5,13 +5,11 @@ topic: dynamicpicklist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.209Z
+lastCollected: 2026-04-07T18:36:01.463Z
 estimatedTokens: 1086
 namespace: VisualEditor
-keywords: [DynamicPickList, abstract, display, picklist, Lightning, component, Usage, clone, getDefaultValue, getLabel, attributeValue, getValues, isValid]
+keywords: [DynamicPickList, abstract, display, picklist, Lightning, clone, getDefaultValue, getLabel, attributeValue, getValues, isValid]
 ---
-
-# DynamicPickList Class
 
 > An abstract class, used to display the values of a picklist in a Lightning component on a Lightning page.
 

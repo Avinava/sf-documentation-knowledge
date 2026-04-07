@@ -5,12 +5,10 @@ topic: use-apex-and-soql-for-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.783Z
+lastCollected: 2026-04-07T18:37:33.059Z
 estimatedTokens: 523
-keywords: [Apex, SOQL, Search, theme, layout, component, user, results]
+keywords: [Apex, SOQL, Search, theme, layout, user, results]
 ---
-
-# Use Apex and SOQL for Search
 
 > Create a theme layout search component that sends the user to a search results
     page.

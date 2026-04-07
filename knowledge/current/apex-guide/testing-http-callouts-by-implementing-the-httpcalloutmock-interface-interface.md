@@ -5,12 +5,10 @@ topic: testing-http-callouts-by-implementing-the-httpcalloutmock-interface-inter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.445Z
+lastCollected: 2026-04-07T18:36:16.668Z
 estimatedTokens: 622
-keywords: [Testing, HTTP, Callouts, Implementing, HttpCalloutMock, Provide, implementation, specify, sent, respond, Apex, runtime, calls, send, callout]
+keywords: [Testing, HTTP, Callouts, Implementing, HttpCalloutMock, Provide, implementation, specify, sent, respond, Apex, runtime, send, callout]
 ---
-
-# Testing HTTP Callouts by Implementing the  HttpCalloutMock Interface Interface
 
 > Provide an implementation for the HttpCalloutMock interface to specify the response sent in the respond method, which the Apex runtime calls to
                 send a response for a callout.

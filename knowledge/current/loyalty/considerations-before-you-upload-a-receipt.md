@@ -5,12 +5,10 @@ topic: considerations-before-you-upload-a-receipt
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:18.833Z
+lastCollected: 2026-04-07T18:38:09.128Z
 estimatedTokens: 307
 keywords: [Considerations, Upload, Receipt, Members, receipts, products, purchased, third-party, stores, rewards, eligible, purchases]
 ---
-
-# Considerations Before You Upload a Receipt
 
 > Members can upload receipts of products purchased at third-party stores, and get rewards
     for eligible purchases.

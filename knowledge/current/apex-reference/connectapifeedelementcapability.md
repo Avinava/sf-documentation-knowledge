@@ -5,12 +5,10 @@ topic: connectapifeedelementcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:23.799Z
+lastCollected: 2026-04-07T18:36:09.183Z
 estimatedTokens: 2364
-keywords: [ConnectApi.FeedElementCapability, feed, element, capability, characteristics]
+keywords: [ConnectApi.FeedElementCapability, capability, characteristics]
 ---
-
-# ConnectApi.FeedElementCapability
 
 > A feed element capability, which defines
 the characteristics of a feed element.

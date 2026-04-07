@@ -5,12 +5,10 @@ topic: cart-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.215Z
+lastCollected: 2026-04-07T18:37:17.290Z
 estimatedTokens: 300
-keywords: [Cart, Output, contents]
+keywords: [Cart, contents]
 ---
-
-# Cart Output
 
 > Cart and its contents.
 

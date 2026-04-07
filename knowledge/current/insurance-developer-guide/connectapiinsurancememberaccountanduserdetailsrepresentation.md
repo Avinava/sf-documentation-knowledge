@@ -5,12 +5,10 @@ topic: connectapiinsurancememberaccountanduserdetailsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.641Z
+lastCollected: 2026-04-07T18:37:50.516Z
 estimatedTokens: 156
-keywords: [Output, representation, maps, source, group, census, member, IDs, newly, created, person, account, portal, user]
+keywords: [maps, source, group, census, member, IDs, newly, created, person, account, portal, user]
 ---
-
-# ConnectApi.InsuranceMemberAccountAndUserDetailsRepresentation
 
 > Output representation that maps a source group census member to the IDs of the newly created person account and portal user.
 

@@ -5,12 +5,10 @@ topic: financial-goal-funding-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.449Z
+lastCollected: 2026-04-07T18:37:35.059Z
 estimatedTokens: 76
-keywords: [Financial, Goal, Funding, Output]
+keywords: [Financial, Goal, Funding]
 ---
-
-# Financial Goal Funding Output
 
 > Output for Financial Goal funding.
 

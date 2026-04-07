@@ -5,12 +5,10 @@ topic: blnglegalentityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.171Z
+lastCollected: 2026-04-07T18:37:03.685Z
 estimatedTokens: 884
-keywords: [blng__LegalEntity__c, way, organization, structured, legal, entity, comprise, blng, _LegalEntity, Calls]
+keywords: [blng__LegalEntity__c, way, organization, structured, legal, entity, comprise, blng, _LegalEntity]
 ---
-
-# blng__LegalEntity__c
 
 > Represents the way an organization is structured. An organization can be a single
       legal entity or it can comprise more than one legal entity.

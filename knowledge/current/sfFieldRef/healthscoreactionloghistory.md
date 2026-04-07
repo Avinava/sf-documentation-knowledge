@@ -5,12 +5,10 @@ topic: healthscoreactionloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.970Z
+lastCollected: 2026-04-07T18:39:43.582Z
 estimatedTokens: 179
-keywords: [HealthScoreActionLogHistory, History, tracked, HealthScoreActionLog]
+keywords: [HealthScoreActionLogHistory, tracked, HealthScoreActionLog]
 ---
-
-# HealthScoreActionLogHistory
 
 > History for tracked fields of HealthScoreActionLog.
 

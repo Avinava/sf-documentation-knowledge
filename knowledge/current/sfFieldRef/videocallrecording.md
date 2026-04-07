@@ -5,12 +5,10 @@ topic: videocallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.951Z
+lastCollected: 2026-04-07T18:40:05.831Z
 estimatedTokens: 460
 keywords: [VideoCallRecording, recording, video, call, voice, transcript]
 ---
-
-# VideoCallRecording
 
 > Represents a recording from a video call, such as a video recording, a voice
       recording, or a transcript.

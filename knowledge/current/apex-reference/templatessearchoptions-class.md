@@ -5,13 +5,11 @@ topic: templatessearchoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.245Z
+lastCollected: 2026-04-07T18:36:01.499Z
 estimatedTokens: 719
 namespace: Wave
-keywords: [TemplatesSearchOptions, filter, template, collection, Usage, filterGroup, options]
+keywords: [TemplatesSearchOptions, filter, template, collection, filterGroup, options]
 ---
-
-# TemplatesSearchOptions Class
 
 > The TemplatesSearchOptions class provides optional properties to
       filter the template collection.

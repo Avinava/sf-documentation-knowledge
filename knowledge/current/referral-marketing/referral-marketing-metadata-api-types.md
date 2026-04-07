@@ -5,12 +5,10 @@ topic: referral-marketing-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.484Z
+lastCollected: 2026-04-07T18:39:09.816Z
 estimatedTokens: 424
-keywords: [Referral, Marketing, Metadata, API, access, feature, settings, customize, user]
+keywords: [Referral, Marketing, Metadata, API, feature, settings, customize, user]
 ---
-
-# Referral Marketing Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
   customize in the user interface.

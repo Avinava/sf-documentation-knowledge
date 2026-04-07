@@ -5,12 +5,10 @@ topic: load-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.608Z
+lastCollected: 2026-04-07T18:39:19.291Z
 estimatedTokens: 243
 keywords: [Load, node, recipe]
 ---
-
-# Load Parameters
 
 > The parameters for a load node in a recipe.
 

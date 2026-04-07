@@ -5,12 +5,10 @@ topic: promotionlimitusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.319Z
+lastCollected: 2026-04-07T18:38:10.588Z
 estimatedTokens: 490
-keywords: [PromotionLimitUsage, total, usage, promotion, limit, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PromotionLimitUsage, total, promotion, limit, API, 60.0]
 ---
-
-# PromotionLimitUsage
 
 > Represents information about the total usage of a promotion
          limit. This object is available in API version 60.0 and later.

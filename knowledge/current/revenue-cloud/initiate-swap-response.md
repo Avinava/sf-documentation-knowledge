@@ -5,12 +5,10 @@ topic: initiate-swap-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.915Z
+lastCollected: 2026-04-07T18:35:45.913Z
 estimatedTokens: 109
-keywords: [Initiate, Swap, Output, representation, action, includes, sales, transaction, creates]
+keywords: [Initiate, Swap, action, includes, sales, transaction, creates]
 ---
-
-# Initiate Swap Response
 
 > Output representation of the request to initiate a swap action. The response includes the
     ID of the sales transaction that the swap action creates.

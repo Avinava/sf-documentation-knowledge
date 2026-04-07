@@ -5,12 +5,10 @@ topic: files-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.047Z
+lastCollected: 2026-04-07T18:37:10.738Z
 estimatedTokens: 1316
-keywords: [Files, Feed, Resources, containing, elements, contain, posted, people, groups, context, user, follows, URL]
+keywords: [Files, Resources, containing, contain, posted, people, groups, context, user, follows, URL]
 ---
-
-# Files Feed Resources
 
 > A feed containing all the feed elements that contain files
    posted by people or groups that the context user follows.

@@ -5,12 +5,10 @@ topic: workbadgedefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.793Z
+lastCollected: 2026-04-07T18:40:06.689Z
 estimatedTokens: 259
-keywords: [WorkBadgeDefinitionHistory, History, tracked, WorkBadgeDefinition]
+keywords: [WorkBadgeDefinitionHistory, tracked, WorkBadgeDefinition]
 ---
-
-# WorkBadgeDefinitionHistory
 
 > History for tracked fields of WorkBadgeDefinition.
 

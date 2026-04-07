@@ -5,12 +5,10 @@ topic: ocrtemplatesampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.560Z
+lastCollected: 2026-04-07T18:39:50.007Z
 estimatedTokens: 222
 keywords: [OcrTemplateSampleDocument, relationship, OCR, template, sample, document]
 ---
-
-# OcrTemplateSampleDocument
 
 > Represents a relationship between an OCR template and an OCR sample
       document.

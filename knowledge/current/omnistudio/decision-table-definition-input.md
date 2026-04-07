@@ -5,12 +5,10 @@ topic: decision-table-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:51.255Z
+lastCollected: 2026-04-07T18:36:36.804Z
 estimatedTokens: 1128
-keywords: [Decision, Definition, Input, representation]
+keywords: [Decision, Definition]
 ---
-
-# Decision Table Definition Input
 
 > Input representation of a decision table
       definition.

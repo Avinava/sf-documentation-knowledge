@@ -5,12 +5,10 @@ topic: manage-user-passwords
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.515Z
+lastCollected: 2026-04-07T18:39:22.411Z
 estimatedTokens: 196
-keywords: [Manage, User, Passwords, Salesforce, users, unique, username, password, they, enter, login, admin, configure, several, settings]
+keywords: [Manage, User, Passwords, Salesforce, users, unique, username, password, they, enter, login, admin, configure, several, settings, ensure, strong, secure]
 ---
-
-# Manage User Passwords
 
 > Salesforce provides each of your users with a unique username and password that they
   enter at each login. As an admin, you can configure several settings to ensure that your users'

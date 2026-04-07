@@ -5,12 +5,10 @@ topic: getagentworkload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.142Z
+lastCollected: 2026-04-07T18:36:49.212Z
 estimatedTokens: 322
-keywords: [getAgentWorkload, API, version, 35.0, later, retrieve, agent’s, currently, assigned, workload, rerouting, work, agents, Arguments, Sample]
+keywords: [Arguments, getAgentWorkload, API, 35.0, retrieve, agent’s, currently, assigned, workload, rerouting, work, agents, Sample, Code–Visualforce]
 ---
-
-# getAgentWorkload
 
 > In API version 35.0 and later, we can retrieve an agent’s currently assigned
         workload. Use this method for rerouting work to available agents.

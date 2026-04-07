@@ -5,12 +5,10 @@ topic: picklist-values-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.001Z
+lastCollected: 2026-04-07T18:40:12.006Z
 estimatedTokens: 321
 keywords: [Picklist, Collection, picklists, record]
 ---
-
-# Picklist Values Collection
 
 > A collection of picklist values for all the picklists of a specified
       record type.

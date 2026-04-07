@@ -5,12 +5,10 @@ topic: text-classifications-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.284Z
+lastCollected: 2026-04-07T18:37:23.395Z
 estimatedTokens: 104
 keywords: [Text, Classifications, Result]
 ---
-
-# Text Classifications Result
 
 > Text classifications result.
 

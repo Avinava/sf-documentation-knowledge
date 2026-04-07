@@ -5,12 +5,10 @@ topic: context-definition-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.367Z
+lastCollected: 2026-04-07T18:36:39.031Z
 estimatedTokens: 294
-keywords: [Context, Definition, Version, Output, representation]
+keywords: [Context, Definition]
 ---
-
-# Context Definition Version
 
 > Output representation of context definition version.
 

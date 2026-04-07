@@ -5,12 +5,10 @@ topic: einstein-conversation-insights-call-coaching
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.519Z
+lastCollected: 2026-04-07T18:40:13.446Z
 estimatedTokens: 630
 keywords: [Einstein, Conversation, Insights, Call, Coaching, Provide, support, Service, Cloud, Voice, reps]
 ---
-
-# Einstein Conversation Insights (Call Coaching)
 
 > Provide support for Einstein Conversation Insights to Service Cloud Voice
   reps.

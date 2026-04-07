@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-count-from-date-interval-setti
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.379Z
+lastCollected: 2026-04-07T18:36:59.866Z
 estimatedTokens: 224
-keywords: [Smart, Data, Discovery, Projected, Predictions, Count, Date, Interval, Setting, settings, Einstein, projection]
+keywords: [Smart, Discovery, Projected, Predictions, Count, Date, Interval, Setting, settings, Einstein, projection]
 ---
-
-# Smart Data Discovery Projected Predictions Count From Date Interval Setting
 
 > The settings for an Einstein Discovery count from date based projection interval.
 

@@ -5,12 +5,10 @@ topic: medicationadministrationdtlfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.842Z
+lastCollected: 2026-04-07T18:39:48.284Z
 estimatedTokens: 366
-keywords: [MedicationAdministrationDtlFeed, Feed, tracking, MedicationAdministrationDtl]
+keywords: [MedicationAdministrationDtlFeed, MedicationAdministrationDtl]
 ---
-
-# MedicationAdministrationDtlFeed
 
 > Feed tracking for MedicationAdministrationDtl.
 

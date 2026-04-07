@@ -5,12 +5,10 @@ topic: ptnrinvrecon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.001Z
+lastCollected: 2026-04-07T18:37:06.704Z
 estimatedTokens: 509
-keywords: [PtnrInvRecon, reconciliation, partner's, reported, inventory, calculated, unsold, specific, date, API, version, 64.0, later, Calls]
+keywords: [PtnrInvRecon, reconciliation, partner's, reported, inventory, calculated, unsold, specific, date, API, 64.0]
 ---
-
-# PtnrInvRecon
 
 > Represents the reconciliation of a partner's reported inventory with the
          partner's calculated unsold inventory on a specific date. This object is available in

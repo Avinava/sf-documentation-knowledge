@@ -5,12 +5,10 @@ topic: workspace-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.962Z
+lastCollected: 2026-04-07T18:38:15.468Z
 estimatedTokens: 381
 keywords: [Workspace, Setup, development, environment, project, develop, LWC, connect, Salesforce]
 ---
-
-# Workspace Setup
 
 > Set up your development environment, create a project to develop your LWC in, and
     connect your project to Salesforce.

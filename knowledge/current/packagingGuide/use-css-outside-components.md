@@ -5,12 +5,10 @@ topic: use-css-outside-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.421Z
+lastCollected: 2026-04-07T18:38:47.384Z
 estimatedTokens: 223
-keywords: [CSS, Outside, Components, Salesforce, Platform, tries, ensure, isolated, sandbox, isolation, can’t, always, guaranteed, breach, occurs]
+keywords: [CSS, Outside, Salesforce, Platform, tries, ensure, isolated, sandbox, isolation, can’t, always, guaranteed, breach, occurs, steal, clicks, another, otherwise, interfere, component’s, intended, prevent, abuse, don’t, directives, known, incompatible, style]
 ---
-
-# Use CSS Outside Components
 
 > The Salesforce Platform tries to ensure that each namespace is an isolated sandbox, but
     isolation can’t always be guaranteed. Where a namespace isolation breach occurs, one component

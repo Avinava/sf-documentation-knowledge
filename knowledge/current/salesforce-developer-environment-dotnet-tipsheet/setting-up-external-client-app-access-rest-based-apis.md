@@ -5,12 +5,10 @@ topic: setting-up-external-client-app-access-rest-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.060Z
+lastCollected: 2026-04-07T18:39:16.628Z
 estimatedTokens: 289
-keywords: [Setting, External, Client, App, Access, REST-Based, APIs, Because, Salesforce, REST, OAuth, authentication, integrate, application]
+keywords: [Setting, External, Client, App, REST-Based, APIs, Because, Salesforce, REST, OAuth, authentication, integrate, application]
 ---
-
-# Setting Up External Client App Access (REST-Based APIs)
 
 > Because Salesforce REST APIs use OAuth authentication, create an external client app to
         integrate your application with Salesforce.

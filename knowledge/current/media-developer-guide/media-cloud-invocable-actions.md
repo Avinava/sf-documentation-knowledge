@@ -5,12 +5,10 @@ topic: media-cloud-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.951Z
+lastCollected: 2026-04-07T18:38:11.214Z
 estimatedTokens: 218
-keywords: [Media, Cloud, Invocable, Actions, Integrate, workflows, automate, content, processing, standard, custom]
+keywords: [Media, Cloud, Invocable, Actions, Integrate, workflows, automate, content, processing, standard]
 ---
-
-# Media Cloud Invocable Actions
 
 > Integrate workflows and automate content processing using Media
    Cloud standard and custom invocable actions.

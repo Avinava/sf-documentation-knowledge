@@ -5,12 +5,10 @@ topic: cms-delivery-channel-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.397Z
+lastCollected: 2026-04-07T18:37:14.359Z
 estimatedTokens: 593
 keywords: [CMS, Delivery, Channel, Query, published, managed, content, versions]
 ---
-
-# CMS Delivery, Channel Query
 
 > Get published managed content versions for a
     channel.

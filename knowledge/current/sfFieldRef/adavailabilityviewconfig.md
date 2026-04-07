@@ -5,12 +5,10 @@ topic: adavailabilityviewconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.969Z
+lastCollected: 2026-04-07T18:39:24.876Z
 estimatedTokens: 467
-keywords: [AdAvailabilityViewConfig, configuration, storing, configurations, filters, legend, colors, active, calender, view, corresponding, pivots, media, API, version]
+keywords: [AdAvailabilityViewConfig, configuration, storing, configurations, filters, legend, colors, active, calender, view, corresponding, pivots, media, API, 59.0]
 ---
-
-# AdAvailabilityViewConfig
 
 > Represents configuration table for storing configurations, filters, and
          legend colors active in the calender view for corresponding pivots and media types.

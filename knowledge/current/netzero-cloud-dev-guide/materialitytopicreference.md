@@ -5,12 +5,10 @@ topic: materialitytopicreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.389Z
+lastCollected: 2026-04-07T18:38:19.041Z
 estimatedTokens: 731
-keywords: [MaterialityTopicReference, two, topics, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [MaterialityTopicReference, two, topics, API, 62.0]
 ---
-
-# MaterialityTopicReference
 
 > Represents a reference object with information about two related topics.
       This object is available in API version 62.0 and later.

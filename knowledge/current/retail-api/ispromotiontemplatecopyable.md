@@ -5,12 +5,10 @@ topic: ispromotiontemplatecopyable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.764Z
+lastCollected: 2026-04-07T18:39:11.299Z
 estimatedTokens: 72
-keywords: [IsPromotionTemplateCopyable, validates, promotion, template, copied, Input, Sample]
+keywords: [IsPromotionTemplateCopyable, validates, promotion, template, copied, Sample]
 ---
-
-# IsPromotionTemplateCopyable
 
 > This method validates the given promotion has a promotion template that can be copied.
 

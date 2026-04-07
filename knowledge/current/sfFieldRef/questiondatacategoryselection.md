@@ -5,12 +5,10 @@ topic: questiondatacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.159Z
+lastCollected: 2026-04-07T18:39:57.771Z
 estimatedTokens: 232
-keywords: [QuestionDataCategorySelection, data, category, selection, classifies, question]
+keywords: [QuestionDataCategorySelection, category, selection, classifies, question]
 ---
-
-# QuestionDataCategorySelection
 
 > A data category selection represents a data
                 category that classifies a question.

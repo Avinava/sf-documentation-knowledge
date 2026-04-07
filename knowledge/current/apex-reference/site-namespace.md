@@ -5,13 +5,11 @@ topic: site-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.797Z
+lastCollected: 2026-04-07T18:36:15.108Z
 estimatedTokens: 112
 namespace: Site
 keywords: [Site, rewriting, Sites, URLs]
 ---
-
-# Site Namespace
 
 > The Site namespace
 provides an interface for rewriting Sites URLs.

@@ -5,12 +5,10 @@ topic: recommendation-action-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:54.573Z
+lastCollected: 2026-04-07T18:36:40.303Z
 estimatedTokens: 126
 keywords: [Recommendation, Action, passed, flow, user’s, acceptance, rejection]
 ---
-
-# Recommendation Action Parameters
 
 > Specifies the details of the parameters that are passed to the flow
       action based on the user’s acceptance or rejection of the recommendation.

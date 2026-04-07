@@ -5,12 +5,10 @@ topic: 14000-14099-subscriber-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.626Z
+lastCollected: 2026-04-07T18:40:14.643Z
 estimatedTokens: 312
 keywords: [14000-14099, Subscriber, Validation]
 ---
-
-# 14000-14099 Subscriber Validation
 
 # 14000-14099 Subscriber Validation
 

@@ -5,12 +5,10 @@ topic: sdk-manager-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.327Z
+lastCollected: 2026-04-07T18:40:27.507Z
 estimatedTokens: 1440
-keywords: [SDK, Manager, Classes, Mobile, apps, SalesforceManager, subclasses, initialize, call, initializeSDK, initialization, AppDelegate, normally, don’t, outside]
+keywords: [SDK, Manager, Classes, Mobile, apps, SalesforceManager, subclasses, initialize, call, initializeSDK, initialization, AppDelegate, normally, don’t, outside, cre, Swift, Objective-C, Application, Launch, Flow, Auth, Helper]
 ---
-
-# SDK Manager Classes
 
 > All Mobile SDK apps use SalesforceManager or one of its subclasses to initialize Mobile SDK.
       To use one of these classes, you call its initializeSDK

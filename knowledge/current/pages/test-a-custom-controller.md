@@ -5,12 +5,10 @@ topic: test-a-custom-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.685Z
+lastCollected: 2026-04-07T18:38:50.919Z
 estimatedTokens: 578
-keywords: [Test, Custom, Controller, ensure, error-free, code, execute, Apex, unit, tests, every, extension, write, verify, whether]
+keywords: [Test, Controller, ensure, error-free, code, execute, Apex, unit, tests, every, extension, write, verify, whether, particular, piece, works, properly, take, arguments, commit, database, flagged, @isTest, annotation, definition]
 ---
-
-# Test a Custom Controller
 
 > To ensure error-free code, create and execute Apex unit tests for
         every custom controller and controller extension that you write. Unit

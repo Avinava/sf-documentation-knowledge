@@ -5,12 +5,10 @@ topic: partnerfundallocationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.284Z
+lastCollected: 2026-04-07T18:39:51.698Z
 estimatedTokens: 391
-keywords: [PartnerFundAllocationFeed, Feed, tracking, PartnerFundAllocation]
+keywords: [PartnerFundAllocationFeed, PartnerFundAllocation]
 ---
-
-# PartnerFundAllocationFeed
 
 > Feed tracking for PartnerFundAllocation.
 

@@ -5,12 +5,10 @@ topic: global-product-import
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.554Z
+lastCollected: 2026-04-07T18:37:19.703Z
 estimatedTokens: 1126
 keywords: [Product, Import, job]
 ---
-
-# Global Product Import
 
 > Information about a global product import job.
 

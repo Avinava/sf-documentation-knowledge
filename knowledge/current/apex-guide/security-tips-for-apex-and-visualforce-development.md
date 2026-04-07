@@ -5,12 +5,10 @@ topic: security-tips-for-apex-and-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.500Z
+lastCollected: 2026-04-07T18:36:19.717Z
 estimatedTokens: 796
-keywords: [Security, Tips, Apex, Visualforce, Development, powerful, combination, pages, Lightning, Platform, developers, provide, custom, functionality, business]
+keywords: [Security, Tips, Apex, Visualforce, Development, powerful, combination, pages, Lightning, Platform, developers, provide, functionality, business, logic, Salesforce, new, standalone, product, running, inside, any, programming, language, Understanding, Open, Redirects, Resources]
 ---
-
-# Security Tips for Apex and Visualforce Development
 
 > The powerful combination of Apex and Visualforce pages allows Lightning Platform developers to
     provide custom functionality and business logic to Salesforce or to create a new standalone

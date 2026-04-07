@@ -5,12 +5,10 @@ topic: apexcomponentmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.284Z
+lastCollected: 2026-04-07T18:36:31.657Z
 estimatedTokens: 1108
-keywords: [ApexComponentMember, working, copy, Visualforce, component, editing, saving, compiling, MetadataContainer, SOAP, API, Calls, Special, Access, Rules]
+keywords: [ApexComponentMember, working, copy, Visualforce, editing, saving, compiling, MetadataContainer, SOAP, API, REST, HTTP]
 ---
-
-# ApexComponentMember
 
 > Represents the working copy of a Visualforce component for editing,
    saving, or compiling in a MetadataContainer.

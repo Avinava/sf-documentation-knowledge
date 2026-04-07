@@ -5,13 +5,11 @@ topic: dataretrieval-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.571Z
+lastCollected: 2026-04-07T18:39:00.684Z
 estimatedTokens: 759
 namespace: DataRetrieval
 keywords: [DataRetrieval, classes, store, record, conversation, transcripts, customers, agents]
 ---
-
-# DataRetrieval Namespace
 
 > The DataRetrieval namespace provides classes to store
     the record details and conversation transcripts between customers and agents.

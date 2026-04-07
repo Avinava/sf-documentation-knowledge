@@ -5,12 +5,10 @@ topic: update-a-dynamic-list-of-fields-within-a-single-data-extension-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.838Z
+lastCollected: 2026-04-07T18:40:24.326Z
 estimatedTokens: 679
-keywords: [Dynamic, Data, Extension, Record, contain, great, deal, requiring, updates, subscribers, subscription, center, However, may, want]
+keywords: [Dynamic, Extension, Record, contain, great, deal, requiring, updates, subscribers, subscription, center, However, may, want, display, every, subscriber, others, procedure, creates]
 ---
-
-# Update a Dynamic List of Fields within a Single Data Extension Record
 
 > A data extension can contain a great deal of information requiring updates from subscribers, such as data from a subscription center. However, you may not want to display all available fields to every subscriber, and some subscribers may see more fields than others. This procedure creates calls that
 

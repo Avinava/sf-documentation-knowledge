@@ -5,12 +5,10 @@ topic: transcribe-longer-calls-with-contact-lens
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.632Z
+lastCollected: 2026-04-07T18:40:12.607Z
 estimatedTokens: 611
-keywords: [Transcribe, Longer, Calls, Contact, Lens, minutes, Amazon, call, transcribed, due, Lambda, function, limitation, trigger, real-time]
+keywords: [Transcribe, Longer, Contact, Lens, minutes, Amazon, call, transcribed, due, Lambda, function, limitation, trigger, real-time, transcription, enable, Connect, flow]
 ---
-
-# Transcribe Longer Calls with Contact Lens
 
 > Use Contact Lens to transcribe calls that are longer than 15 minutes. If you use Amazon
   Transcribe, only the first 15 minutes of a call are transcribed due to a Lambda function

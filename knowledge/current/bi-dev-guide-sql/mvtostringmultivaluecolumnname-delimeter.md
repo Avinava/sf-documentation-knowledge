@@ -6,13 +6,10 @@ topic: mvtostringmultivaluecolumnname-delimeter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.416Z
+lastCollected: 2026-04-07T18:37:02.023Z
 estimatedTokens: 693
-keywords: [mv_to_string, multivalue_column_name, delimeter, Converts, multivalue, _to, _string, _column, _name, Simple, Custom, Grouping]
+keywords: [mv_to_string, multivalue_column_name, delimeter, Converts, multivalue, _to, _string, _column, _name, Simple, Grouping]
 ---
-
-# mv_to_string(multivalue_column_name,
-    [delimeter])
 
 > Converts multivalue fields to string fields.
 

@@ -5,12 +5,10 @@ topic: clone-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.251Z
+lastCollected: 2026-04-07T18:35:44.209Z
 estimatedTokens: 407
 keywords: [Clone, Sales, Transaction, POST, quote, order, line, item, record, records, configurations]
 ---
-
-# Clone Sales Transaction (POST)
 
 > Create a clone of a sales transaction, such as a quote or an order.
       You can also clone a quote line item or an order item record with its related records and

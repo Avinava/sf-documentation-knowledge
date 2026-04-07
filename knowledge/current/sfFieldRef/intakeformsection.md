@@ -5,12 +5,10 @@ topic: intakeformsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.849Z
+lastCollected: 2026-04-07T18:39:45.409Z
 estimatedTokens: 322
-keywords: [IntakeFormSection, intake, form, job, application, complaint, referral, API, version, 63.0, later]
+keywords: [IntakeFormSection, intake, form, job, application, complaint, referral, API, 63.0]
 ---
-
-# IntakeFormSection
 
 > Represents a section of an intake form such as a job application, a
          complaint, or a referral. This object is available in API version 63.0 and

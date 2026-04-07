@@ -5,12 +5,10 @@ topic: connectapireadbycapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.107Z
+lastCollected: 2026-04-07T18:36:11.391Z
 estimatedTokens: 254
-keywords: [ConnectApi.ReadByCapability, feed, element, capability, context, user, mark]
+keywords: [ConnectApi.ReadByCapability, capability, context, user, mark]
 ---
-
-# ConnectApi.ReadByCapability
 
 > If a feed element has this capability, the context user can mark it as
         read.

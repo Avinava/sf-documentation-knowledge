@@ -5,12 +5,10 @@ topic: connectapicalculatetaxresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.143Z
+lastCollected: 2026-04-07T18:36:07.509Z
 estimatedTokens: 337
 keywords: [ConnectApi.CalculateTaxResponse, results, tax, calculation]
 ---
-
-# ConnectApi.CalculateTaxResponse
 
 > Shows the results of a tax calculation request.
 

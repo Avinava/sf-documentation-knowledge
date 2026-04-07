@@ -6,13 +6,10 @@ topic: integration-procedures-for-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.016Z
+lastCollected: 2026-04-07T18:37:32.186Z
 estimatedTokens: 315
 keywords: [Integration, Procedures, Enterprise, Sales, Management, Every, org, includes, number]
 ---
-
-# Integration Procedures for Enterprise Sales
-                        Management
 
 > Every Enterprise Sales Management org includes a
                       number of Integration Procedures that are used by Enterprise

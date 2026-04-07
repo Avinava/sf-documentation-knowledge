@@ -5,12 +5,10 @@ topic: product-requirement-specification-item-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.417Z
+lastCollected: 2026-04-07T18:38:12.711Z
 estimatedTokens: 504
-keywords: [Product, Requirement, Specification, Item, Output, representation, items, version]
+keywords: [Product, Requirement, Specification, Item, items]
 ---
-
-# Product Requirement Specification Item Output
 
 > Output representation of the list of items for this specification version.
 

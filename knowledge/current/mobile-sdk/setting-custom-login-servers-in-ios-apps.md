@@ -5,12 +5,10 @@ topic: setting-custom-login-servers-in-ios-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.432Z
+lastCollected: 2026-04-07T18:40:26.708Z
 estimatedTokens: 776
-keywords: [Setting, Custom, Login, Servers, iOS, Apps, special, cases—for, you’re, Salesforce, partner, Trialforce—you, redirect, user’s, requests]
+keywords: [Setting, Login, Servers, iOS, Apps, cases—for, you’re, Salesforce, partner, Trialforce—you, redirect, user’s, requests, URI]
 ---
-
-# Setting Custom Login Servers in iOS Apps
 
 > For special cases—for example, if you’re a Salesforce partner using
     Trialforce—you can redirect your user’s login requests to a custom login URI.

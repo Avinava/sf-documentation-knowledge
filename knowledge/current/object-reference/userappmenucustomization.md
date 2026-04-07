@@ -5,12 +5,10 @@ topic: userappmenucustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.688Z
+lastCollected: 2026-04-07T18:38:43.453Z
 estimatedTokens: 552
-keywords: [UserAppMenuCustomization, individual, user’s, settings, items, app, menu, Launcher, API, version, 35.0, later, Calls, Usage, Associated]
+keywords: [UserAppMenuCustomization, individual, user’s, settings, items, app, menu, Launcher, API, 35.0]
 ---
-
-# UserAppMenuCustomization
 
 > Represents an individual user’s settings for items in the app menu or
 			App Launcher. This object is available in API version 35.0 and

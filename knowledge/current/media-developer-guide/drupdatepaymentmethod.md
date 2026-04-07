@@ -5,12 +5,10 @@ topic: drupdatepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.067Z
+lastCollected: 2026-04-07T18:38:11.333Z
 estimatedTokens: 135
-keywords: [DRUpdatePaymentMethod, Omnistudio, Data, Mapper, updates, payment, account, Sample, Input, Output]
+keywords: [DRUpdatePaymentMethod, Omnistudio, Mapper, updates, payment, account, Sample]
 ---
-
-# DRUpdatePaymentMethod
 
 > This Omnistudio Data Mapper updates the payment method
     details for an account.

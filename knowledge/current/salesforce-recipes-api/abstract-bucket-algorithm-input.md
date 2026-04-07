@@ -5,12 +5,10 @@ topic: abstract-bucket-algorithm-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.359Z
+lastCollected: 2026-04-07T18:39:18.040Z
 estimatedTokens: 144
-keywords: [Abstract, Bucket, Algorithm, Input, base, recipe]
+keywords: [Abstract, Bucket, Algorithm, base, recipe]
 ---
-
-# Abstract Bucket Algorithm Input
 
 > The base bucket algorithm for a recipe.
 

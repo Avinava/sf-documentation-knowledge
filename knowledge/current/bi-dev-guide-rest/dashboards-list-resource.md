@@ -5,12 +5,10 @@ topic: dashboards-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.469Z
+lastCollected: 2026-04-07T18:36:55.943Z
 estimatedTokens: 931
-keywords: [Dashboards, Resource, Analytics, dashboard, creates, URL, Formats, Version, Postman, Components, HTTP, POST]
+keywords: [Formats, Dashboards, Resource, Analytics, dashboard, creates, URL, Postman, HTTP, POST]
 ---
-
-# Dashboards List Resource
 
 > Returns a list of Analytics
       dashboard or creates a dashboard.

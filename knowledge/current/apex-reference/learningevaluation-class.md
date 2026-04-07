@@ -5,12 +5,10 @@ topic: learningevaluation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.153Z
+lastCollected: 2026-04-07T18:36:03.367Z
 estimatedTokens: 1177
-keywords: [LearningEvaluation, retrieve, evaluate, learning, item, Usage, getDetails, getLearningItemId, setDetails, setLearningItemId, learningItemId]
+keywords: [LearningEvaluation, retrieve, evaluate, learning, item, getDetails, getLearningItemId, setDetails, setLearningItemId, learningItemId]
 ---
-
-# LearningEvaluation Class
 
 > Contains methods to retrieve and update details that are required to evaluate a
         learning item.

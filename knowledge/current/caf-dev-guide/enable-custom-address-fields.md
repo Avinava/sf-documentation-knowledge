@@ -5,12 +5,10 @@ topic: enable-custom-address-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.085Z
+lastCollected: 2026-04-07T18:37:04.789Z
 estimatedTokens: 492
-keywords: [Enable, Custom, Address, review, feature, limitations, configure, State, Country, Territory, picklists]
+keywords: [Enable, Address, review, feature, limitations, configure, State, Country, Territory, picklists]
 ---
-
-# Enable Custom Address Fields
 
 > After you review the feature limitations and configure the State and Country/Territory
     picklists, enable the Custom Address Fields feature.

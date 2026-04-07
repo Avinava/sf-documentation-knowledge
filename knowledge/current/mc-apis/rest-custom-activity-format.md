@@ -5,12 +5,10 @@ topic: rest-custom-activity-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.377Z
+lastCollected: 2026-04-07T18:40:18.585Z
 estimatedTokens: 887
-keywords: [REST, Custom, Activity, extend, Journey, Builder, functionality, works, posting, bodies, external, endpoints, #journey-specification-format, Specification, Helpful]
+keywords: [REST, Activity, extend, Journey, Builder, functionality, works, posting, bodies, external, endpoints, #journey-specification-format, Specification, Helpful, Hints, Compatibility, Sample, Items]
 ---
-
-# REST (Custom) Activity Format
 
 > The REST activity can be used to extend Journey Builder functionality. It works by posting request bodies to external endpoints.
 

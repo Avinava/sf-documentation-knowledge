@@ -5,12 +5,10 @@ topic: datadetectjobsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.747Z
+lastCollected: 2026-04-07T18:38:29.630Z
 estimatedTokens: 940
-keywords: [DataDetectJobSession, run, DataDetect, scan, policy, that's, triggered, manually, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [DataDetectJobSession, run, DataDetect, scan, policy, that's, triggered, manually, API, 63.0]
 ---
-
-# DataDetectJobSession
 
 > Represents a run of a DataDetect scan policy that's triggered manually.
       This object is available in API version 63.0 and later.

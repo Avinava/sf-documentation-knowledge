@@ -5,12 +5,10 @@ topic: return-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.722Z
+lastCollected: 2026-04-07T18:37:15.779Z
 estimatedTokens: 427
 keywords: [Orders, ReturnOrder, ReturnOrderLineItems, items, belonging, OrderSummary]
 ---
-
-# Return Orders
 
 > Create a ReturnOrder and ReturnOrderLineItems for items belonging to
       an OrderSummary.

@@ -5,12 +5,10 @@ topic: workthanks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.311Z
+lastCollected: 2026-04-07T18:40:07.231Z
 estimatedTokens: 298
 keywords: [WorkThanks, source, message, thanks, post]
 ---
-
-# WorkThanks
 
 > Represents the source and message of a thanks post.
 

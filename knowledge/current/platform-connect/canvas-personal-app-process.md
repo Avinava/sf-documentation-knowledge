@@ -5,12 +5,10 @@ topic: canvas-personal-app-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.540Z
+lastCollected: 2026-04-07T18:38:57.338Z
 estimatedTokens: 799
-keywords: [Canvas, Personal, App, Process, Creating, similar, any, However, distribute, directly, end, users, install, via, link]
+keywords: [Canvas, Personal, App, Process, Creating, similar, any, However, distribute, directly, end, users, install, via, link, provide, integrating, their, Salesforce, installed, run, right, Chatter, tab]
 ---
-
-# Canvas Personal App Process
 
 > Creating a canvas personal app is similar to creating any canvas app. However, you
     distribute a canvas personal app directly to end users, who install it via a link that you

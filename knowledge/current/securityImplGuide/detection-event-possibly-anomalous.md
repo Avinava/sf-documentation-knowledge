@@ -5,12 +5,10 @@ topic: detection-event-possibly-anomalous
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.813Z
+lastCollected: 2026-04-07T18:39:22.716Z
 estimatedTokens: 579
-keywords: [Detection, Event, Possibly, Anomalous, Rob, recently, joined, company, customer, success, representative, Jan, Rob’s, account, generate]
+keywords: [Detection, Event, Possibly, Anomalous, Rob, recently, joined, company, customer, success, representative, Jan, Rob’s, account, generate, report, Tony, org’s, Salesforce, admin, noticed, ReportAnomalyEvent, generation, activity]
 ---
-
-# Detection Event Possibly Anomalous
 
 > Rob recently joined the company as a customer success representative. On Jan 15, 2019, Rob’s account was used to generate a report. Tony, the org’s Salesforce admin, noticed a ReportAnomalyEvent about this report generation activity.
 

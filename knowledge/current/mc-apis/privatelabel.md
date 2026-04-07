@@ -5,12 +5,10 @@ topic: privatelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.135Z
+lastCollected: 2026-04-07T18:40:18.338Z
 estimatedTokens: 205
 keywords: [PrivateLabel, regarding, Brand, Builder, settings]
 ---
-
-# PrivateLabel
 
 > The PrivateLabel object contains information regarding Brand Builder settings.
 

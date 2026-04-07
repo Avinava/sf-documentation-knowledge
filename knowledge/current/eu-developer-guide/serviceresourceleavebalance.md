@@ -5,12 +5,10 @@ topic: serviceresourceleavebalance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.605Z
+lastCollected: 2026-04-07T18:37:32.860Z
 estimatedTokens: 289
-keywords: [ServiceResourceLeaveBalance, Stores, leave, balances, service, resources, API, version, 64.0, later, Calls]
+keywords: [ServiceResourceLeaveBalance, Stores, leave, balances, service, resources, API, 64.0]
 ---
-
-# ServiceResourceLeaveBalance
 
 > Stores the leave balances for service resources. This object is available in API version 64.0 and
       later.

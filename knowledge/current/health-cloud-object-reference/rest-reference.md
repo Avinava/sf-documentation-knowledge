@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.239Z
+lastCollected: 2026-04-07T18:37:42.380Z
 estimatedTokens: 482
-keywords: [REST, access, Health, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Health, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Health Cloud Business APIs using REST endpoints. These REST APIs follow
   similar conventions as Connect REST APIs.

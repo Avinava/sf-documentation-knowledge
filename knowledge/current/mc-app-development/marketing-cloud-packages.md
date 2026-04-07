@@ -5,12 +5,10 @@ topic: marketing-cloud-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.111Z
+lastCollected: 2026-04-07T18:40:21.389Z
 estimatedTokens: 667
-keywords: [Marketing, Cloud, Packages, package, container, functionality, something, small, individual, component, large, apps, creating, administer, distribute]
+keywords: [Marketing, Cloud, Packages, package, container, functionality, something, small, individual, large, apps, creating, administer, distribute, users, business, units, account, API, Integration, App, Journey, Builder, Activity, Entry, Source, Content, Block, Items]
 ---
-
-# Marketing Cloud Packages
 
 > A package is a container of functionality for something as small as an individual component or as large as a set of related apps. After creating a package, you can administer and distribute it to other users and business units within your account.
 

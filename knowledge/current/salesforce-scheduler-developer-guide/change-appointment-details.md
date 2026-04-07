@@ -5,12 +5,10 @@ topic: change-appointment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.533Z
+lastCollected: 2026-04-07T18:39:21.359Z
 estimatedTokens: 367
-keywords: [Change, Appointment, explains, how, show, either, engagement, channel, service, resources, time, slots, user, chooses, Depending, requirement, choose]
+keywords: [Change, Appointment, explains, how, show, either, engagement, channel, service, resources, time, slots, user, chooses, Depending, requirement, choose, two, options]
 ---
-
-# Change Appointment Details
 
 > This section explains how you can show either the engagement channel
       types, service resources, or time slots page based on what the user chooses to change for the

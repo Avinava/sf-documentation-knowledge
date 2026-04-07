@@ -5,12 +5,10 @@ topic: googledoc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.312Z
+lastCollected: 2026-04-07T18:38:33.450Z
 estimatedTokens: 309
-keywords: [GoogleDoc, link, Google, Document, API, version, 14.0, later, Calls, Special, Access, Rules]
+keywords: [GoogleDoc, link, Google, Document, API, 14.0]
 ---
-
-# GoogleDoc
 
 > Represents a link to a Google Document. This object is available
     in API version 14.0 and later.

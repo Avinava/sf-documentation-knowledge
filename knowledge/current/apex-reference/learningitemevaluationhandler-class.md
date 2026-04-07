@@ -5,12 +5,10 @@ topic: learningitemevaluationhandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.167Z
+lastCollected: 2026-04-07T18:36:03.382Z
 estimatedTokens: 705
-keywords: [LearningItemEvaluationHandler, customize, evaluation, process, learning, item, Usage, evaluate, learningEvaluation]
+keywords: [LearningItemEvaluationHandler, customize, evaluation, process, learning, item, evaluate, learningEvaluation]
 ---
-
-# LearningItemEvaluationHandler Class
 
 > Contains methods to customize the evaluation process of a learning item.
 

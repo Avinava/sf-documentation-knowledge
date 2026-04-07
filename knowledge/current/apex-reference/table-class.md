@@ -5,13 +5,11 @@ topic: table-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.660Z
+lastCollected: 2026-04-07T18:35:59.942Z
 estimatedTokens: 2286
 namespace: DataSource
-keywords: [columns, Usage, labelPlural, labelSingular, nameColumn]
+keywords: [columns, labelPlural, labelSingular, nameColumn]
 ---
-
-# Table Class
 
 > List of table columns.
 

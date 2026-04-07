@@ -5,12 +5,10 @@ topic: contact-point-phone-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.435Z
+lastCollected: 2026-04-07T18:35:51.288Z
 estimatedTokens: 420
-keywords: [Contact, Point, Phone, Schema, capture, profile, data, map, individual, streams]
+keywords: [Contact, Point, Phone, Schema, capture, profile, map, individual, streams]
 ---
-
-# Contact Point Phone Schema
 
 > Use the contact point phone schema to capture profile data to map to individual data
     streams.

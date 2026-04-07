@@ -5,12 +5,10 @@ topic: html-tags-added-or-modified-by-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.247Z
+lastCollected: 2026-04-07T18:38:51.501Z
 estimatedTokens: 677
 keywords: [HTML, Tags, Added, Modified, Visualforce, automatically, adds, ensure, result, XML, document, relax, override, behavior]
 ---
-
-# HTML Tags Added or Modified by Visualforce
 
 > By default, Visualforce
   automatically adds required HTML tags to a page to ensure the result is a valid HTML (and XML)

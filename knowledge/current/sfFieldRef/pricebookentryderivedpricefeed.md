@@ -5,12 +5,10 @@ topic: pricebookentryderivedpricefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.004Z
+lastCollected: 2026-04-07T18:39:54.555Z
 estimatedTokens: 394
-keywords: [PriceBookEntryDerivedPriceFeed, Feed, tracking, PriceBookEntryDerivedPrice]
+keywords: [PriceBookEntryDerivedPriceFeed, PriceBookEntryDerivedPrice]
 ---
-
-# PriceBookEntryDerivedPriceFeed
 
 > Feed tracking for PriceBookEntryDerivedPrice.
 

@@ -5,12 +5,10 @@ topic: suppressionlistdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.362Z
+lastCollected: 2026-04-07T18:40:20.605Z
 estimatedTokens: 432
 keywords: [SuppressionListData, address, stored, suppression, Items]
 ---
-
-# SuppressionListData
 
 > The SuppressionListData object contains a single address stored on a suppression list.
 

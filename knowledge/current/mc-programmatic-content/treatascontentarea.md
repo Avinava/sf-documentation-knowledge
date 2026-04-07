@@ -5,12 +5,10 @@ topic: treatascontentarea
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.826Z
+lastCollected: 2026-04-07T18:40:24.314Z
 estimatedTokens: 442
-keywords: [TreatAsContentArea, Function, Ordinal, Key, identify, content, second, distinct, text, HTML, versions, **Overview**, **Syntax**, Usage]
+keywords: [TreatAsContentArea, Function, Ordinal, Key, identify, content, second, distinct, text, HTML, versions, **Overview**, **Syntax**]
 ---
-
-# TreatAsContentArea
 
 > TreatAsContentArea(1, 2, 3)
 

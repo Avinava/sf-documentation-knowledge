@@ -5,12 +5,10 @@ topic: cgcloudproductassortmentstorec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.962Z
+lastCollected: 2026-04-07T18:39:14.351Z
 estimatedTokens: 899
-keywords: [cgcloud__Product_Assortment_Store__c, holds, customers, stores, Product, assortment, authorization, store, assignment, taken, trade, org, hierarchy, batch, process]
+keywords: [cgcloud__Product_Assortment_Store__c, holds, customers, stores, Product, assortment, authorization, store, assignment, taken, trade, org, hierarchy, batch, process, listing, finding, API, 54.0, cgcloud, _Product, _Assortment, _Store]
 ---
-
-# cgcloud__Product_Assortment_Store__c
 
 > The object holds the customers (stores) for which the Product
          assortment (authorization list) is valid. The store assignment is taken from the trade org

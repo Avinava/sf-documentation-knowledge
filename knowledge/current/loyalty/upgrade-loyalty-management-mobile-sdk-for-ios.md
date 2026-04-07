@@ -5,12 +5,10 @@ topic: upgrade-loyalty-management-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.459Z
+lastCollected: 2026-04-07T18:38:09.766Z
 estimatedTokens: 254
-keywords: [Upgrade, Loyalty, Management, Mobile, SDK, iOS, major, clone, import, latest, version, minor, incremental, patch, updates]
+keywords: [Upgrade, Loyalty, Management, Mobile, SDK, iOS, major, clone, import, latest, minor, incremental, patch, updates, package]
 ---
-
-# Upgrade Loyalty Management Mobile SDK for iOS
 
 > For a major upgrade, clone and import the latest version of the SDK. For minor or
   incremental patch updates, update the Loyalty Management Mobile SDK to the latest package

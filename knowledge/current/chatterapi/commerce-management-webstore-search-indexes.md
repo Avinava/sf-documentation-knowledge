@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-indexes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.815Z
+lastCollected: 2026-04-07T18:37:12.694Z
 estimatedTokens: 208
 keywords: [Commerce, Management, Webstore, Search, Indexes, index, product, catalog]
 ---
-
-# Commerce Management Webstore Search, Indexes
 
 > Get indexes and create an index of a product
     catalog.

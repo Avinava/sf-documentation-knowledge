@@ -5,12 +5,10 @@ topic: benefitscheduleassignmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.136Z
+lastCollected: 2026-04-07T18:39:29.246Z
 estimatedTokens: 276
-keywords: [BenefitScheduleAssignmentHistory, History, tracked, BenefitScheduleAssignment]
+keywords: [BenefitScheduleAssignmentHistory, tracked, BenefitScheduleAssignment]
 ---
-
-# BenefitScheduleAssignmentHistory
 
 > History for tracked fields of BenefitScheduleAssignment.
 

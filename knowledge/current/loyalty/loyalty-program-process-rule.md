@@ -5,12 +5,10 @@ topic: loyalty-program-process-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.746Z
+lastCollected: 2026-04-07T18:38:07.982Z
 estimatedTokens: 541
-keywords: [Loyalty, Program, Process, Rule, Output, representation, rules]
+keywords: [Loyalty, Program, Process, Rule]
 ---
-
-# Loyalty Program Process Rule
 
 > Output representation of the loyalty program process
         rules.

@@ -5,12 +5,10 @@ topic: order-delivery-group-summary-lookup-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.176Z
+lastCollected: 2026-04-07T18:37:21.324Z
 estimatedTokens: 193
-keywords: [Order, Delivery, Group, Summary, Lookup, Output]
+keywords: [Order, Delivery, Group, Summary, Lookup]
 ---
-
-# Order Delivery Group Summary Lookup Output
 
 > Order delivery group summary lookup output.
 

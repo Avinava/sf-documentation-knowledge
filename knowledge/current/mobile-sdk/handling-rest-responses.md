@@ -5,12 +5,10 @@ topic: handling-rest-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.170Z
+lastCollected: 2026-04-07T18:40:26.476Z
 estimatedTokens: 1428
 keywords: [Handling, REST, Responses, Currently, modern, efficient, approach, Combine, publisher, explained, Requests, Swift, Delegate, Protocol, Implementing]
 ---
-
-# Handling REST Responses
 
 > Currently, the most modern and efficient approach is to use a Combine publisher, as explained in Handling REST Requests.
 

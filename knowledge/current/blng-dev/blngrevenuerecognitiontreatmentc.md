@@ -5,12 +5,10 @@ topic: blngrevenuerecognitiontreatmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.482Z
+lastCollected: 2026-04-07T18:37:04.087Z
 estimatedTokens: 1548
-keywords: [blng__RevenueRecognitionTreatment__c, how, revenue, product, recognized, blng, _RevenueRecognitionTreatment, Calls]
+keywords: [blng__RevenueRecognitionTreatment__c, how, revenue, product, recognized, blng, _RevenueRecognitionTreatment]
 ---
-
-# blng__RevenueRecognitionTreatment__c
 
 > Represents how and where the revenue of a product is
       recognized.

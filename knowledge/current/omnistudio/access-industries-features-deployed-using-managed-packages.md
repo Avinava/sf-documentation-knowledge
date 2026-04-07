@@ -5,12 +5,10 @@ topic: access-industries-features-deployed-using-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:57.845Z
+lastCollected: 2026-04-07T18:36:43.585Z
 estimatedTokens: 263
-keywords: [Access, Industries, Features, Deployed, Managed, Packages, org, records, Apex, REST]
+keywords: [Industries, Features, Deployed, Managed, Packages, org, records, Apex, REST]
 ---
-
-# Access Industries Features Deployed Using Managed Packages
 
 > Some of the features of Industries are deployed in your org using managed packages. To
   access records of features that are deployed using managed packages, you must use Apex REST

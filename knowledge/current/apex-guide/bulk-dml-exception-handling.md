@@ -5,12 +5,10 @@ topic: bulk-dml-exception-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.215Z
+lastCollected: 2026-04-07T18:36:17.443Z
 estimatedTokens: 756
 keywords: [Bulk, DML, Exception, Handling]
 ---
-
-# Bulk DML Exception Handling
 
 # Bulk DML Exception Handling
 

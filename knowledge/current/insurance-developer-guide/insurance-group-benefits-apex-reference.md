@@ -5,13 +5,11 @@ topic: insurance-group-benefits-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.813Z
+lastCollected: 2026-04-07T18:37:53.034Z
 estimatedTokens: 176
 namespace: ConnectApi
-keywords: [Insurance, Group, Benefits, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements]
+keywords: [Insurance, Group, Benefits, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, grouped]
 ---
-
-# Insurance Group Benefits Apex Reference
 
 > Apex is a strongly typed, object-oriented programming language that allows developers
     to execute flow and transaction control statements on the Salesforce Platform server, in

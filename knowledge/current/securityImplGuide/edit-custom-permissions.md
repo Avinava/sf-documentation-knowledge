@@ -5,12 +5,10 @@ topic: edit-custom-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.266Z
+lastCollected: 2026-04-07T18:39:22.160Z
 estimatedTokens: 288
-keywords: [Edit, Custom, Permissions, give, users, access, processes, apps]
+keywords: [Edit, Permissions, give, users, processes, apps]
 ---
-
-# Edit Custom Permissions
 
 > Edit custom permissions that give users access to custom processes or apps.
 

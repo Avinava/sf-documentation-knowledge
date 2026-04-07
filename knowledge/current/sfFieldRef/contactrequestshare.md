@@ -5,12 +5,10 @@ topic: contactrequestshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.728Z
+lastCollected: 2026-04-07T18:39:35.174Z
 estimatedTokens: 280
-keywords: [ContactRequestShare, access, levels, ContactRequest, explanation, level, API, version, 45.0, later]
+keywords: [ContactRequestShare, levels, ContactRequest, explanation, level, API, 45.0]
 ---
-
-# ContactRequestShare
 
 > Represents a list of access levels to a ContactRequest with an
 			explanation of the access level. This object is available in API version 45.0 and

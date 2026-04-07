@@ -5,12 +5,10 @@ topic: salesforce-pricing-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.224Z
+lastCollected: 2026-04-07T18:35:47.255Z
 estimatedTokens: 953
 keywords: [Salesforce, Pricing, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---
-
-# Salesforce Pricing Metadata
 
 > This table provides the metadata deployment reference for Salesforce Pricing in Revenue
     Cloud, including setup paths and configuration details.

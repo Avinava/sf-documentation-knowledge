@@ -5,12 +5,10 @@ topic: view-all-and-modify-all-permissions-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:29.287Z
+lastCollected: 2026-04-07T18:39:23.221Z
 estimatedTokens: 906
-keywords: [“View, All”, “Modify, Permissions, ignore, sharing, rules, settings, allowing, administrators, grant, access, records, associated, across]
+keywords: [Considerations, “View, All”, “Modify, Permissions, ignore, sharing, settings, allowing, administrators, grant, records, across, organization, better, alternatives, Data”]
 ---
-
-# “View All” and “Modify All” Permissions Overview
 
 > The “View All” and “Modify All” permissions ignore sharing rules and settings, allowing
     administrators to grant access to records associated with a given object across the

@@ -5,12 +5,10 @@ topic: using-lightning-web-components-in-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:30.767Z
+lastCollected: 2026-04-07T18:40:26.097Z
 estimatedTokens: 955
-keywords: [Lightning, Web, Components, Hybrid, Apps, Salesforce, orgs, developers, admins, build, sophisticated, work, well, Mobile, SDK]
+keywords: [Lightning, Web, Hybrid, Apps, Salesforce, orgs, developers, admins, build, sophisticated, work, well, Mobile, SDK, long, run, Visualforce, pages, views, However, until, recently, technical, hurdles, made, difficult, LWCs, 8.2, introduces, solution, now, host, remote, applications, Interacting, Native, Features, Considerations]
 ---
-
-# Using Lightning Web Components in Hybrid Apps
 
 > In Salesforce orgs, developers and admins use Lightning web components to build
   sophisticated web controls that work well with other Salesforce controls. Mobile SDK has long

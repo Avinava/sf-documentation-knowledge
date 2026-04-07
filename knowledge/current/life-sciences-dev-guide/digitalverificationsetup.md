@@ -5,12 +5,10 @@ topic: digitalverificationsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:10.292Z
+lastCollected: 2026-04-07T18:37:59.997Z
 estimatedTokens: 943
-keywords: [DigitalVerificationSetup, Stores, digital, verification, setup, number, signatures, needed, record, action, that's, API, version, 60.0, later]
+keywords: [DigitalVerificationSetup, Stores, digital, verification, setup, number, signatures, needed, record, action, that's, API, 60.0]
 ---
-
-# DigitalVerificationSetup
 
 > Stores information about a digital verification setup, such as the number of
       signatures needed and the record action that's related to the verification. This object is

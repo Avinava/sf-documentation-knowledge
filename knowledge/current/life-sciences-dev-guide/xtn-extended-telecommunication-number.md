@@ -5,12 +5,10 @@ topic: xtn---extended-telecommunication-number
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.040Z
+lastCollected: 2026-04-07T18:37:58.561Z
 estimatedTokens: 320
-keywords: [XTN, Extended, Telecommunication, Number, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [XTN, Extended, Telecommunication, Number, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# XTN - Extended Telecommunication Number
 
 > The Extended Telecommunication Number (XTN) HL7 segment maps to the ContactPointPhone object in Salesforce.
 

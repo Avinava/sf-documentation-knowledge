@@ -5,12 +5,10 @@ topic: fundingawardrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.272Z
+lastCollected: 2026-04-07T18:39:41.952Z
 estimatedTokens: 465
-keywords: [FundingAwardRequirement, deliverable, milestone, needed, award, either, approved, closed, API, version, 57.0, later]
+keywords: [FundingAwardRequirement, deliverable, milestone, needed, award, either, approved, closed, API, 57.0]
 ---
-
-# FundingAwardRequirement
 
 > Represents a deliverable or milestone that is needed for the award to either be approved or closed. This object is available in API version 57.0 and later.
 

@@ -5,12 +5,10 @@ topic: tagdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.285Z
+lastCollected: 2026-04-07T18:38:42.088Z
 estimatedTokens: 579
-keywords: [TagDefinition, attributes, child, Tag, objects, Calls, Special, Access, Rules, Usage]
+keywords: [TagDefinition, attributes, child, Tag]
 ---
-
-# TagDefinition
 
 > Defines the attributes of child Tag objects.
 

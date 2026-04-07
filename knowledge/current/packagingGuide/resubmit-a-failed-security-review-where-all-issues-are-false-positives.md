@@ -5,12 +5,10 @@ topic: resubmit-a-failed-security-review-where-all-issues-are-false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.731Z
+lastCollected: 2026-04-07T18:38:47.685Z
 estimatedTokens: 364
-keywords: [Resubmit, Failed, Security, Review, Issues, Positives, receive, results, AppExchange, determine, identified, add, false-positives, document, There’s]
+keywords: [Resubmit, Failed, Security, Review, Issues, Positives, receive, results, AppExchange, determine, identified, add, false-positives, document, There’s, fee, evaluate, documentation]
 ---
-
-# Resubmit a Failed Security Review Where All Issues Are False Positives
 
 > If you receive the results of an AppExchange security review and you determine that
         all of the issues that we identified are false positives, add a false-positives document to

@@ -5,12 +5,10 @@ topic: record-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.589Z
+lastCollected: 2026-04-07T18:35:46.561Z
 estimatedTokens: 106
-keywords: [Record, Output, representation, including]
+keywords: [Record, including]
 ---
-
-# Record Details
 
 > Output representation of the record details including ID and name.
 

@@ -5,12 +5,10 @@ topic: create-ramp-deal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.191Z
+lastCollected: 2026-04-07T18:35:43.072Z
 estimatedTokens: 294
-keywords: [Ramp, Deal, Input, representation]
+keywords: [Ramp, Deal]
 ---
-
-# Create Ramp Deal Input
 
 > Input representation of the request to create a ramp deal.
 

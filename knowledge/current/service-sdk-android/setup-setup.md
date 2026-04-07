@@ -5,12 +5,10 @@ topic: setup-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.747Z
+lastCollected: 2026-04-07T18:40:27.888Z
 estimatedTokens: 847
 keywords: [Setup, SDK, start, Service, Cloud, features, mobile, app]
 ---
-
-# Setup Setup
 
 > Set up the SDK to start using Service Cloud features in your mobile app.
 

@@ -5,12 +5,10 @@ topic: single-sign-on
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.162Z
+lastCollected: 2026-04-07T18:39:23.098Z
 estimatedTokens: 577
-keywords: [Sign-On, SSO, authentication, users, access, multiple, applications, login, credentials, log, org, they, automatically, apps, App]
+keywords: [Sign-On, SSO, authentication, users, multiple, applications, login, credentials, log, org, they, automatically, apps, App, Launcher, Salesforce, trust, third-party, identity, provider, authenticate, configure, rely, Resources]
 ---
-
-# Single Sign-On
 
 > Single sign-on (SSO) is an authentication method that enables users to access multiple
   applications with one login and one set of credentials. For example, after users log in to your

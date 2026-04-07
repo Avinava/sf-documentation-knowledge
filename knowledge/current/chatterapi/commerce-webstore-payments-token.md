@@ -5,12 +5,10 @@ topic: commerce-webstore-payments-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.863Z
+lastCollected: 2026-04-07T18:37:12.752Z
 estimatedTokens: 241
 keywords: [Commerce, Webstore, Payments, Token, Tokenize, payment, store, checkout]
 ---
-
-# Commerce Webstore Payments Token
 
 > Tokenize a payment for a Commerce store checkout.
 

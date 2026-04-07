@@ -5,12 +5,10 @@ topic: request-a-follow-up-security-review-for-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.623Z
+lastCollected: 2026-04-07T18:38:47.578Z
 estimatedTokens: 470
-keywords: [Follow-Up, Security, Review, Managed, Package, AppExchange, Partner, Console, either, changed, code, fix, vulnerabilities, discovered, previous]
+keywords: [Follow-Up, Security, Review, Managed, Package, AppExchange, Partner, Console, either, changed, code, fix, vulnerabilities, discovered, previous, fixed, determined, others, positives, start, new, Solutions, wizard, Submit, remediated, solution, false-positives, documentation, There’s, fee, retest]
 ---
-
-# Request a Follow-Up Security Review for a Managed Package
 
 > Request a follow-up review for your managed package in the AppExchange Partner Console
         when you have either changed code to fix security vulnerabilities discovered in a previous review

@@ -5,12 +5,10 @@ topic: lowercase
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.413Z
+lastCollected: 2026-04-07T18:40:21.694Z
 estimatedTokens: 89
-keywords: [Lowercase, Function, Ordinal, **Overview**, **Syntax**, Usage]
+keywords: [Lowercase, Function, Ordinal, **Overview**, **Syntax**]
 ---
-
-# Lowercase
 
 > Lowercase(1)
 

@@ -5,12 +5,10 @@ topic: managed-content-node-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.241Z
+lastCollected: 2026-04-07T18:37:20.428Z
 estimatedTokens: 162
 keywords: [Managed, Content, Node]
 ---
-
-# Managed Content Node Type
 
 > Managed content node type.
 

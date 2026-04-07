@@ -5,12 +5,10 @@ topic: commerce-extension-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.470Z
+lastCollected: 2026-04-07T18:37:13.424Z
 estimatedTokens: 507
 keywords: [Commerce, Extension, Mappings, provider, associate, webstore]
 ---
-
-# Commerce Extension Mappings
 
 > Get and set extension provider mappings, which associate an extension provider with a
     webstore.

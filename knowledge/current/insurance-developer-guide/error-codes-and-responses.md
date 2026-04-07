@@ -5,12 +5,10 @@ topic: error-codes-and-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.791Z
+lastCollected: 2026-04-07T18:37:53.010Z
 estimatedTokens: 442
-keywords: [Error, Codes, Responses, Insurance, APIs, may, encounter, messages, under, certain, conditions, family, Policy, Administration, Quoting]
+keywords: [Error, Codes, Responses, Insurance, APIs, may, encounter, messages, under, certain, conditions, family, Policy, Administration, Quoting, potential, specific]
 ---
-
-# Error Codes and Responses
 
 > When using the Insurance APIs, you may encounter error codes and messages under certain
     conditions. For each family in Insurance, such as Insurance Policy Administration and Quoting,

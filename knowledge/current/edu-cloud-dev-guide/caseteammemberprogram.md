@@ -5,12 +5,10 @@ topic: caseteammemberprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.731Z
+lastCollected: 2026-04-07T18:37:30.796Z
 estimatedTokens: 456
-keywords: [CaseTeamMemberProgram, mapping, Case, Team, Member, Program, API, version, 59.0, later, Calls]
+keywords: [CaseTeamMemberProgram, mapping, Case, Team, Member, Program, API, 59.0]
 ---
-
-# CaseTeamMemberProgram
 
 > Represents mapping information between Case Team Member and Program.
       This object is available in API version 59.0 and later.

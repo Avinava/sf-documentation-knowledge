@@ -5,12 +5,10 @@ topic: composite-promotion-qualifier-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.174Z
+lastCollected: 2026-04-07T18:37:09.894Z
 estimatedTokens: 291
-keywords: [Composite, Promotion, Qualifier, Input, representation]
+keywords: [Composite, Promotion, Qualifier]
 ---
-
-# Composite Promotion Qualifier Input
 
 > Input representation of the promotion qualifier.
 

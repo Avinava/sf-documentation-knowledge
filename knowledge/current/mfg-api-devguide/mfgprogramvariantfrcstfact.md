@@ -5,12 +5,10 @@ topic: mfgprogramvariantfrcstfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.685Z
+lastCollected: 2026-04-07T18:38:14.012Z
 estimatedTokens: 901
-keywords: [MfgProgramVariantFrcstFact, generated, manufacturing, program, product, variant, forecast, records, API, version, 55.0, later, Calls]
+keywords: [MfgProgramVariantFrcstFact, generated, manufacturing, program, product, variant, forecast, records, API, 55.0]
 ---
-
-# MfgProgramVariantFrcstFact
 
 > Represents information about the generated manufacturing program product
          variant forecast records. This object is available in API version 55.0 and later.

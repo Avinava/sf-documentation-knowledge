@@ -5,12 +5,10 @@ topic: healthcarefacilitynetwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.247Z
+lastCollected: 2026-04-07T18:37:46.859Z
 estimatedTokens: 1788
-keywords: [HealthcareFacilityNetwork, junction, identifying, insurance, network, location, business, entity, part, participation, records, stored, Calls, Associated, Objects]
+keywords: [HealthcareFacilityNetwork, junction, identifying, insurance, network, location, business, entity, part, participation, records, stored]
 ---
-
-# HealthcareFacilityNetwork
 
 > Represents a junction object identifying the insurance network that a
 			location or business entity is a part of. Network participation records are also stored

@@ -5,12 +5,10 @@ topic: buyer-profile-verification-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.982Z
+lastCollected: 2026-04-07T18:37:17.044Z
 estimatedTokens: 240
 keywords: [Buyer, Profile, Verification]
 ---
-
-# Buyer Profile Verification Response
 
 > Response details for the buyer profile verification request.
 

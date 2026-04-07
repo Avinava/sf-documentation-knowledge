@@ -5,12 +5,10 @@ topic: timing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.938Z
+lastCollected: 2026-04-07T18:37:58.452Z
 estimatedTokens: 796
-keywords: [Timing, FHIR, resource, maps, ActivityTiming​, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [Timing, FHIR, resource, maps, ActivityTiming​, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# Timing
 
 > The Timing FHIR resource maps to the ActivityTiming​ object in Salesforce.
 

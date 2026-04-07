@@ -5,12 +5,10 @@ topic: manage-knowledge-with-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.700Z
+lastCollected: 2026-04-07T18:37:53.993Z
 estimatedTokens: 1905
-keywords: [Manage, Knowledge, REST, APIs, provide, programmatic, access, actions, perform, base, article, translations]
+keywords: [Manage, Knowledge, REST, APIs, provide, programmatic, actions, perform, base, article, translations]
 ---
-
-# Manage Knowledge with REST APIs
 
 > REST APIs provide programmatic access to many actions you can perform on your Knowledge
   base, an article, and its translations.

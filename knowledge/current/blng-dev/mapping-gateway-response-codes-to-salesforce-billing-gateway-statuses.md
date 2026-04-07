@@ -5,12 +5,10 @@ topic: mapping-gateway-response-codes-to-salesforce-billing-gateway-statuses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.544Z
+lastCollected: 2026-04-07T18:37:03.110Z
 estimatedTokens: 1150
-keywords: [Mapping, Gateway, Codes, Salesforce, Billing, Statuses, Payment, gateways, operations, categorizes, seven, Status, transaction, record, lets]
+keywords: [Mapping, Gateway, Codes, Salesforce, Billing, Statuses, Payment, gateways, operations, categorizes, seven, Status, transaction, record, lets, know, result, call, whether, correct, anything, configure, package, metadata, maps, chosen, gateway’s]
 ---
-
-# Mapping Gateway Response Codes to Salesforce Billing Gateway Statuses
 
 > Payment gateways have many response codes for payment operations. Salesforce Billing
   categorizes these codes into one of seven Gateway Status field values on your payment transaction

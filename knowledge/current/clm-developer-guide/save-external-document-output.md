@@ -5,12 +5,10 @@ topic: save-external-document-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.393Z
+lastCollected: 2026-04-07T18:37:25.327Z
 estimatedTokens: 125
-keywords: [Save, External, Document, Output, representation, operation]
+keywords: [Save, External, Document, operation]
 ---
-
-# Save External Document Output
 
 > Output representation for save external document
     operation.

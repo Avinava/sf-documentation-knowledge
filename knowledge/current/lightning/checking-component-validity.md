@@ -5,12 +5,10 @@ topic: checking-component-validity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.326Z
+lastCollected: 2026-04-07T18:38:04.479Z
 estimatedTokens: 926
-keywords: [Checking, Component, Validity, navigate, elsewhere, asynchronous, code, executing, framework, unrenders, destroys, made, longer, cmp.isValid, call]
+keywords: [Checking, Validity, navigate, elsewhere, asynchronous, code, executing, framework, unrenders, destroys, made, longer, cmp.isValid, call, invalid, Inside, Lifecycle, Outside]
 ---
-
-# Checking Component Validity
 
 > If you navigate elsewhere in the UI while asynchronous code is executing, the framework
   unrenders and destroys the component that made the asynchronous request. You can still have a

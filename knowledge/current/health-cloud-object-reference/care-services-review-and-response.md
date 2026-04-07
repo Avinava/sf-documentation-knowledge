@@ -5,12 +5,10 @@ topic: care-services-review-and-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.252Z
+lastCollected: 2026-04-07T18:37:42.393Z
 estimatedTokens: 909
-keywords: [Care, Services, Review, RESTful, APIs, support, data, elements, ANSI, X12, Health, referred, Authorization, they, enable]
+keywords: [Care, Services, Review, RESTful, APIs, support, ANSI, X12, Health, referred, Authorization, they, enable, payer, organizations, electronically, receive, prior, requests, referral, providers, users, healthcare, payers, plan, sponsors, entities, involved, clearinghouses]
 ---
-
-# Care Services Review and Response
 
 > These RESTful APIs support data elements required for ANSI X12 278 format Health Care
   Services Review and Response. Also referred to as ANSI 278 Authorization APIs, they enable payer

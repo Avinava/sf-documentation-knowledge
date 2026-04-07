@@ -5,12 +5,10 @@ topic: reference-apex-maps-and-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.012Z
+lastCollected: 2026-04-07T18:38:51.244Z
 estimatedTokens: 413
-keywords: [Apex, Maps, Visualforce, pages, dynamic, bindings, Map, data, their, markup, Unresolved, References]
+keywords: [Apex, Maps, Visualforce, pages, dynamic, bindings, Map, their, markup, Unresolved, References]
 ---
-
-# Reference Apex Maps and Lists
 
 > Visualforce pages that use dynamic bindings can reference the Apex Map and List
         data types in their markup.

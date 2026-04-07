@@ -5,12 +5,10 @@ topic: post-platformv1key
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.859Z
+lastCollected: 2026-04-07T18:40:15.983Z
 estimatedTokens: 640
-keywords: [POST, platform, key, Creates, imports, encryption, bring, own, BYOK, TDE, Data, Rest, prerequisite, feature, **Overview**]
+keywords: [POST, platform, key, Creates, imports, encryption, bring, own, BYOK, TDE, Rest, prerequisite, feature, **Overview**]
 ---
-
-# POST /platform/v1/key
 
 > Creates or imports an encryption key for bring your own key (BYOK) for TDE. Data at Rest Encryption is a prerequisite for this feature.
 

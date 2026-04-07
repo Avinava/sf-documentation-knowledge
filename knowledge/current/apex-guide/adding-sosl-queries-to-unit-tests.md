@@ -5,12 +5,10 @@ topic: adding-sosl-queries-to-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.309Z
+lastCollected: 2026-04-07T18:36:18.538Z
 estimatedTokens: 522
-keywords: [Adding, SOSL, Queries, Unit, Tests, ensure, test, always, behave, predictable, way, any, Salesforce, Search, Language]
+keywords: [Adding, SOSL, Queries, Unit, Tests, ensure, test, always, behave, predictable, way, any, Salesforce, Search, Language, query, added, Apex, empty, results, executes, want, lis]
 ---
-
-# Adding SOSL Queries to Unit Tests
 
 > To ensure that test methods always behave in a predictable way, any Salesforce Object
          Search Language (SOSL) query that is added to an Apex test method returns an empty set of

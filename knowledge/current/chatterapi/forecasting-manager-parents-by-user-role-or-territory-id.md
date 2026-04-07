@@ -5,12 +5,10 @@ topic: forecasting-manager-parents-by-user-role-or-territory-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.090Z
+lastCollected: 2026-04-07T18:37:14.056Z
 estimatedTokens: 349
 keywords: [Forecasting, Manager, Parents, User, Role, Territory, managers, territories, context, forecast, hierarchy]
 ---
-
-# Forecasting Manager Parents by User Role or Territory ID
 
 > Get a list of managers or territories between the context user and a
       specified user or territory in the forecast hierarchy.

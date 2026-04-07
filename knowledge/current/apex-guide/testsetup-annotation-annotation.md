@@ -5,12 +5,10 @@ topic: testsetup-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.127Z
+lastCollected: 2026-04-07T18:36:16.339Z
 estimatedTokens: 545
 keywords: [TestSetup, Annotation, defined, @TestSetup, creating, common, test, records]
 ---
-
-# TestSetup Annotation Annotation
 
 > Methods defined with the @TestSetup annotation
         are used for creating common test records that are available for all test methods in the

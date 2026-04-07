@@ -5,12 +5,10 @@ topic: surveyengagementcontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.063Z
+lastCollected: 2026-04-07T18:38:41.822Z
 estimatedTokens: 472
-keywords: [SurveyEngagementContext, context, survey, invitation, sent, received, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [SurveyEngagementContext, context, survey, invitation, sent, received, API, 49.0]
 ---
-
-# SurveyEngagementContext
 
 > Represents the context based on which a survey invitation was sent or a survey
       response was received. This object is available in API version 49.0 and later.

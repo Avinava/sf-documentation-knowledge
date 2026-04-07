@@ -5,12 +5,10 @@ topic: connectapifulfillmentorderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.100Z
+lastCollected: 2026-04-07T18:36:09.483Z
 estimatedTokens: 111
 keywords: [IDs, created, FulfillmentOrders]
 ---
-
-# ConnectApi.FulfillmentOrderOutputRepresentation
 
 > A list of IDs of the created FulfillmentOrders.
 

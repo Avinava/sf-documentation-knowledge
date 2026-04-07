@@ -5,12 +5,10 @@ topic: create-commitment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.950Z
+lastCollected: 2026-04-07T18:37:29.054Z
 estimatedTokens: 129
-keywords: [Commitment, Input, representation, commitments]
+keywords: [Commitment, commitments]
 ---
-
-# Create Commitment Input
 
 > Input representation of the request to create commitments.
 

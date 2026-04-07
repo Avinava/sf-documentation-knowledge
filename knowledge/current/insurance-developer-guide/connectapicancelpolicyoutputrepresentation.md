@@ -5,12 +5,10 @@ topic: connectapicancelpolicyoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.318Z
+lastCollected: 2026-04-07T18:37:50.153Z
 estimatedTokens: 145
-keywords: [Output, representation, cancel, policy, impacted, versions, refund, associated, cancellation]
+keywords: [cancel, policy, impacted, versions, refund, cancellation]
 ---
-
-# ConnectApi.CancelPolicyOutputRepresentation
 
 > Output representation details of cancel policy, such as impacted policy versions and
     refund associated with the cancellation.

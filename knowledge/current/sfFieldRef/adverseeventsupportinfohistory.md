@@ -5,12 +5,10 @@ topic: adverseeventsupportinfohistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.422Z
+lastCollected: 2026-04-07T18:39:25.350Z
 estimatedTokens: 279
-keywords: [AdverseEventSupportInfoHistory, History, tracked, AdverseEventSupportInfo]
+keywords: [AdverseEventSupportInfoHistory, tracked, AdverseEventSupportInfo]
 ---
-
-# AdverseEventSupportInfoHistory
 
 > History for tracked fields of AdverseEventSupportInfo.
 

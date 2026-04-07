@@ -5,12 +5,10 @@ topic: post-interactionv1events
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.007Z
+lastCollected: 2026-04-07T18:40:18.195Z
 estimatedTokens: 307
-keywords: [POST, interaction, events, Fires, entry, event, initiates, journey, UTF-8, characters, payload, Rest, API, change, Content-Type]
+keywords: [POST, interaction, events, Fires, entry, event, initiates, journey, UTF-8, characters, payload, Rest, API, change, Content-Type, application, json, charset=UTF-8, **Overview**]
 ---
-
-# POST /interaction/v1/events
 
 > Fires the entry event that initiates the journey. If you use UTF-8 characters in a payload for the Rest API, change the Content-Type header to: application/json; charset=UTF-8.
 

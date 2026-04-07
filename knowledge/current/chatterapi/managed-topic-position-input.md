@@ -5,12 +5,10 @@ topic: managed-topic-position-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.260Z
+lastCollected: 2026-04-07T18:37:09.033Z
 estimatedTokens: 172
-keywords: [Managed, Topic, Position, Input, relative]
+keywords: [Managed, Topic, Position, relative]
 ---
-
-# Managed Topic Position Input
 
 > The relative position of a managed topic.
 

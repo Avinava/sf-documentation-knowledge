@@ -5,12 +5,10 @@ topic: calcprocsteprelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.112Z
+lastCollected: 2026-04-07T18:38:27.089Z
 estimatedTokens: 770
-keywords: [CalcProcStepRelationship, parent-child, relationship, two, Expression, Steps, Version, label, Step, API, 53.0, later, Calls, Special, Access]
+keywords: [CalcProcStepRelationship, parent-child, relationship, two, Expression, Steps, label, Step, API, 53.0]
 ---
-
-# CalcProcStepRelationship
 
 > Defines a parent-child relationship between two Expression Set Steps in an
          Expression Set Version. The label for this object is Expression Set Step Relationship.

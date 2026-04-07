@@ -5,12 +5,10 @@ topic: fschouseholdservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.393Z
+lastCollected: 2026-04-07T18:37:33.825Z
 estimatedTokens: 214
-keywords: [FSCHouseholdService, callable, accept, Person, Account, corresponding, member, Household, members, Usage]
+keywords: [FSCHouseholdService, callable, accept, Person, Account, corresponding, member, Household, members]
 ---
-
-# FSCHouseholdService Class
 
 > Use the callable FSCHouseholdService class to accept a Person Account ID corresponding to
     a member of a Household and return the other Household members.

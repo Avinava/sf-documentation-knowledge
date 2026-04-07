@@ -5,12 +5,10 @@ topic: deploy-a-sample-project-to-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.916Z
+lastCollected: 2026-04-07T18:36:51.216Z
 estimatedTokens: 954
-keywords: [Deploy, Sample, Project, Org, Salesforce, CLI, copy, components]
+keywords: [Deploy, Sample, Project, Org, Salesforce, CLI, copy]
 ---
-
-# Deploy a Sample Project to Your Org
 
 > Use the Salesforce CLI to copy all project components to your org.
 

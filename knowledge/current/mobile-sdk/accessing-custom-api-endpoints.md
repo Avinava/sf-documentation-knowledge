@@ -5,12 +5,10 @@ topic: accessing-custom-api-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.082Z
+lastCollected: 2026-04-07T18:40:25.448Z
 estimatedTokens: 188
-keywords: [Accessing, Custom, API, Endpoints, Mobile, SDK, 2.1, Sync, expands, scope, let, work, any, REST, Previously]
+keywords: [Accessing, API, Endpoints, Mobile, SDK, 2.1, Sync, expands, scope, let, work, any, REST, Previously, perform, basic, operations, sObjects, Salesforce, Platform, Now, Apex, Chatter, Files]
 ---
-
-# Accessing Custom API Endpoints
 
 > In Mobile SDK 2.1, Mobile Sync expands its scope to let you work with any REST API. Previously, you
 could only perform basic operations on sObjects with the Salesforce Platform API. Now you can use

@@ -5,12 +5,10 @@ topic: prevent-secure-coding-violations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.372Z
+lastCollected: 2026-04-07T18:38:47.353Z
 estimatedTokens: 1585
-keywords: [Prevent, Secure, Coding, Violations, solutions, listed, AppExchange, adhere, security, requirements, likely, appear, why, they, pose]
+keywords: [Prevent, Secure, Coding, Violations, solutions, listed, AppExchange, adhere, security, requirements, likely, appear, why, they, pose, risks, how, solution, helps, avoid]
 ---
-
-# Prevent Secure Coding Violations
 
 > All solutions listed on AppExchange must adhere to these AppExchange security
   requirements. Learn which violations are most likely to appear in AppExchange solutions, why they

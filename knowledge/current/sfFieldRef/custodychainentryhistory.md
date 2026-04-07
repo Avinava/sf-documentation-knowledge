@@ -5,12 +5,10 @@ topic: custodychainentryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.126Z
+lastCollected: 2026-04-07T18:39:36.688Z
 estimatedTokens: 266
-keywords: [CustodyChainEntryHistory, History, tracked, CustodyChainEntry]
+keywords: [CustodyChainEntryHistory, tracked, CustodyChainEntry]
 ---
-
-# CustodyChainEntryHistory
 
 > History for tracked fields of CustodyChainEntry.
 

@@ -5,12 +5,10 @@ topic: guidance-for-package-version-numbering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.768Z
+lastCollected: 2026-04-07T18:40:07.706Z
 estimatedTokens: 932
-keywords: [Guidance, Package, Version, Numbering, versions, evolve, managed, release, subsequent, breaking, users, Every, fixed, snapshot, contents]
+keywords: [Guidance, Package, Numbering, versions, evolve, managed, release, subsequent, breaking, users, Every, fixed, snapshot, contents, metadata, How, Specify, Number, Keyword, Enforce, Unique, Build, Numbers, CLI, Flag, Override, Happens, Promote, Determine, Whether, New, Major, Minor, Patch]
 ---
-
-# Guidance for Package Version Numbering
 
 > Use package versions to evolve your managed package, and release subsequent package
   versions without breaking existing package users. Every package version is a fixed snapshot of the

@@ -5,12 +5,10 @@ topic: cgcloudproductcategorysharec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.985Z
+lastCollected: 2026-04-07T18:39:14.381Z
 estimatedTokens: 1396
-keywords: [cgcloud__Product_Category_Share__c, business, product, categories, brands, user, manages, API, version, 54.0, later, cgcloud, _Product, _Category, _Share]
+keywords: [cgcloud__Product_Category_Share__c, business, product, categories, brands, user, manages, API, 54.0, cgcloud, _Product, _Category, _Share]
 ---
-
-# cgcloud__Product_Category_Share__c
 
 > This business class contains the product categories or brands that a
          user manages. This object is available in API version 54.0 and later.

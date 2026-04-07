@@ -5,12 +5,10 @@ topic: salesforce-mobile-app-custom-icons
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.399Z
+lastCollected: 2026-04-07T18:38:57.201Z
 estimatedTokens: 575
-keywords: [Salesforce, Mobile, App, Custom, Icons, help, distinguish, don’t, customize, icon, you’ll, puzzle-piece]
+keywords: [Salesforce, Mobile, App, Icons, help, distinguish, don’t, customize, icon, you’ll, puzzle-piece]
 ---
-
-# Salesforce Mobile App Custom Icons
 
 > Custom icons help distinguish your app in the Salesforce mobile app. If you
         don’t customize the icon for your app, you’ll get the default puzzle-piece

@@ -5,12 +5,10 @@ topic: documenttemplatecontentdochistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.835Z
+lastCollected: 2026-04-07T18:39:38.516Z
 estimatedTokens: 281
-keywords: [DocumentTemplateContentDocHistory, History, tracked, DocumentTemplateContentDoc]
+keywords: [DocumentTemplateContentDocHistory, tracked, DocumentTemplateContentDoc]
 ---
-
-# DocumentTemplateContentDocHistory
 
 > History for tracked fields of DocumentTemplateContentDoc.
 

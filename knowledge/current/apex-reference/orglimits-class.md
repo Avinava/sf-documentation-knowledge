@@ -5,13 +5,11 @@ topic: orglimits-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.974Z
+lastCollected: 2026-04-07T18:36:01.183Z
 estimatedTokens: 656
 namespace: System
-keywords: [OrgLimits, provide, map, OrgLimit, instances, Salesforce, org, SOAP, API, requests, Bulk, Streaming, limits, Usage, getAll]
+keywords: [OrgLimits, provide, map, OrgLimit, instances, Salesforce, org, SOAP, API, requests, Bulk, Streaming, limits, getAll, getMap]
 ---
-
-# OrgLimits Class
 
 > Contains methods that provide a list or map of all OrgLimit
       instances for Salesforce your org, such as SOAP API requests, Bulk API requests, and Streaming

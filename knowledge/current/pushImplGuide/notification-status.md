@@ -5,12 +5,10 @@ topic: notification-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.889Z
+lastCollected: 2026-04-07T18:39:09.211Z
 estimatedTokens: 191
 keywords: [Notification, Status, notifications, context, user]
 ---
-
-# Notification Status
 
 > Status of notifications for the context user.
 

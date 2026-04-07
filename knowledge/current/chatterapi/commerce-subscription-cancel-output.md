@@ -5,12 +5,10 @@ topic: commerce-subscription-cancel-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.608Z
+lastCollected: 2026-04-07T18:37:17.687Z
 estimatedTokens: 91
-keywords: [Commerce, Subscription, Cancel, Output, Representation, cancellation]
+keywords: [Commerce, Subscription, Cancel, cancellation]
 ---
-
-# Commerce Subscription Cancel Output
 
 > Representation for the Commerce subscription cancellation request.
 

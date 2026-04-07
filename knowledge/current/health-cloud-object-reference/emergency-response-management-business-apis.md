@@ -5,12 +5,10 @@ topic: emergency-response-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.392Z
+lastCollected: 2026-04-07T18:37:42.536Z
 estimatedTokens: 145
-keywords: [Emergency, Management, Business, APIs, building, integrations, creating, custom, components, wrap, complex, logic, executing, multiple, tasks]
+keywords: [Emergency, Management, Business, APIs, building, integrations, creating, wrap, complex, logic, executing, multiple, tasks, API, call, They, aim, fulfill, cases, specific, healthcare, industry, loading, contact, encounters, system]
 ---
-
-# Emergency Response Management Business APIs
 
 > Use Business APIs for building integrations or for creating custom UI components. The
       APIs wrap complex business logic by executing multiple tasks within a single API call. They

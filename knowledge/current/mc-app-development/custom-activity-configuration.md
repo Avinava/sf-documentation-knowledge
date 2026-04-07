@@ -5,12 +5,10 @@ topic: custom-activity-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.991Z
+lastCollected: 2026-04-07T18:40:21.267Z
 estimatedTokens: 2092
-keywords: [Custom, Activity, Configuration, prefix, easily, identify, categorize, activities, Sales, Cloud, configured, config.json, Definition, Structure, JSON]
+keywords: [Activity, Configuration, prefix, easily, identify, categorize, activities, Sales, Cloud, configured, config.json, Definition, Structure, JSON]
 ---
-
-# Custom Activity Configuration
 
 > The prefix allows you to easily
           identify and categorize custom activities. For example, the prefix for Sales

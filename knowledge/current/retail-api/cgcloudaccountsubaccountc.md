@@ -5,12 +5,10 @@ topic: cgcloudaccountsubaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.395Z
+lastCollected: 2026-04-07T18:39:12.822Z
 estimatedTokens: 1101
-keywords: [cgcloud__Account_Sub_Account__c, account, sub-account, relationship, API, version, 54.0, later, cgcloud, _Account, _Sub, Calls, Associated, Objects]
+keywords: [cgcloud__Account_Sub_Account__c, account, sub-account, relationship, API, 54.0, cgcloud, _Account, _Sub]
 ---
-
-# cgcloud__Account_Sub_Account__c
 
 > Defines the account to sub-account relationship. This object is
       available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: connectapicreatepolicylimitsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.413Z
+lastCollected: 2026-04-07T18:37:50.243Z
 estimatedTokens: 107
-keywords: [Output, representation, created, insurance, policy, limit, records]
+keywords: [created, insurance, policy, limit, records]
 ---
-
-# ConnectApi.CreatePolicyLimitsRepresentation
 
 > Output representation of the created insurance policy limit records.
 

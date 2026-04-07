@@ -5,12 +5,10 @@ topic: vpls360ticket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.370Z
+lastCollected: 2026-04-07T18:38:11.710Z
 estimatedTokens: 107
-keywords: [VPLS360_ticket, Integration, Procedure, cases, associated, particular, account, VPLS360, _ticket, Sample, Input, Output, Calls]
+keywords: [VPLS360_ticket, Integration, Procedure, cases, particular, account, VPLS360, _ticket, Sample]
 ---
-
-# VPLS360_ticket
 
 > This Integration Procedure shows details of the cases
     associated with a particular account.

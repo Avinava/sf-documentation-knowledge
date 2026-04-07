@@ -5,12 +5,10 @@ topic: get-smsv1queuemohistorytokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.160Z
+lastCollected: 2026-04-07T18:40:17.313Z
 estimatedTokens: 288
-keywords: [sms, queueMO, history, tokenId, Retrieves, tracking, queued, **Overview**, Usage]
+keywords: [sms, queueMO, tokenId, Retrieves, queued, **Overview**]
 ---
-
-# GET /sms/v1/queueMO/history/{tokenId}
 
 > Retrieves the tracking history of a queued MO.
 

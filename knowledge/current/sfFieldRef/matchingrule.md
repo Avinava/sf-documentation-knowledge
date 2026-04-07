@@ -5,13 +5,11 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.672Z
+lastCollected: 2026-04-07T18:39:48.098Z
 estimatedTokens: 402
 namespace: NamespacePrefix
-keywords: [MatchingRule, matching, rule, identify, duplicate, records, API, version, 33.0, later]
+keywords: [MatchingRule, matching, rule, identify, duplicate, records, API, 33.0]
 ---
-
-# MatchingRule
 
 > Represents a matching rule that is used to identify duplicate
    records.

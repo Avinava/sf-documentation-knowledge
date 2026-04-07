@@ -5,12 +5,10 @@ topic: transfer-a-second-generation-managed-package-to-a-different-dev-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.652Z
+lastCollected: 2026-04-07T18:38:56.204Z
 estimatedTokens: 1883
-keywords: [Transfer, Second-Generation, Managed, Package, Different, Dev, Hub, ownership, 2GP, org, another, transfers, occur, either, internally]
+keywords: [Transfer, Second-Generation, Managed, Package, Different, Dev, Hub, ownership, 2GP, org, another, transfers, occur, either, internally, two, orgs, company, owns, externally, Salesforce, Partner, ISV, change, way, sell, External, Customers, Prepare, Process, Impact, IDs, Project, File, Transferred]
 ---
-
-# Transfer a Second-Generation Managed Package to a Different Dev Hub
 
 > You can transfer the ownership of a second-generation managed package (managed 2GP) from
     one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs

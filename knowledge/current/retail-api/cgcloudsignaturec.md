@@ -5,12 +5,10 @@ topic: cgcloudsignaturec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.551Z
+lastCollected: 2026-04-07T18:39:14.975Z
 estimatedTokens: 1143
-keywords: [cgcloud__Signature__c, stores, attributes, signatures, API, version, 54.0, later, cgcloud, _Signature, Calls, Associated, Objects]
+keywords: [cgcloud__Signature__c, stores, attributes, signatures, API, 54.0, cgcloud, _Signature]
 ---
-
-# cgcloud__Signature__c
 
 > This object stores the attributes for signatures. This object is
       available in API version 54.0 and later.

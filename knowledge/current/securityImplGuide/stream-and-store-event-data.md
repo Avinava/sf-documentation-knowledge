@@ -5,12 +5,10 @@ topic: stream-and-store-event-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.883Z
+lastCollected: 2026-04-07T18:39:22.795Z
 estimatedTokens: 555
-keywords: [Stream, Store, Event, Data, Explore, how, objects, Real-Time, Monitoring]
+keywords: [Stream, Store, Event, Explore, how, Real-Time, Monitoring]
 ---
-
-# Stream and Store Event Data
 
 > Explore how you can use the objects in Real-Time Event Monitoring to stream and store
     event data.

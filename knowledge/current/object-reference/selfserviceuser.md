@@ -5,12 +5,10 @@ topic: selfserviceuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.081Z
+lastCollected: 2026-04-07T18:38:40.687Z
 estimatedTokens: 1120
-keywords: [SelfServiceUser, Contact, enabled, organization’s, Self-Service, portal, obtain, online, support, Calls, Special, Access, Rules, Usage]
+keywords: [SelfServiceUser, Contact, enabled, organization’s, Self-Service, portal, obtain, online, support]
 ---
-
-# SelfServiceUser
 
 > Represents a Contact who has been enabled to use your
    organization’s Self-Service portal, where he or she can obtain online

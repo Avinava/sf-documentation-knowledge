@@ -5,12 +5,10 @@ topic: personalization-engagement-signals-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.167Z
+lastCollected: 2026-04-07T18:37:15.218Z
 estimatedTokens: 144
 keywords: [Personalization, Engagement, Signals, Resources, signal, metrics, compound]
 ---
-
-# Personalization Engagement Signals Resources
 
 > Get, create, and delete engagement signals. Create and delete engagement signal
     metrics. Get, create, and delete compound metrics.

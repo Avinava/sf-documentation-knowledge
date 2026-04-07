@@ -5,12 +5,10 @@ topic: security-coverage-dataset-version-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.847Z
+lastCollected: 2026-04-07T18:36:56.394Z
 estimatedTokens: 353
-keywords: [Security, Coverage, Dataset, Version, Resource, sharing, inheritance, particular, source, objects, listed, local, org, there, orgs]
+keywords: [Formats, Security, Coverage, Dataset, Resource, sharing, inheritance, particular, source, listed, local, org, there, orgs, external, sources, URL, Postman, HTTP]
 ---
-
-# Security Coverage Dataset Version Resource
 
 > Returns the security coverage (sharing inheritance) for a particular dataset
     version. The source objects listed are local to the org (there are no objects from

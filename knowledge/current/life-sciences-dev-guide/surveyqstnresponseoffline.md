@@ -5,12 +5,10 @@ topic: surveyqstnresponseoffline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.970Z
+lastCollected: 2026-04-07T18:38:01.863Z
 estimatedTokens: 544
-keywords: [SurveyQstnResponseOffline, participant’s, answer, specific, survey, question, offline, staging, environments, API, version, 65.0, later, Calls]
+keywords: [SurveyQstnResponseOffline, participant’s, answer, specific, survey, question, offline, staging, environments, API, 65.0]
 ---
-
-# SurveyQstnResponseOffline
 
 > Represents a participant’s answer to a specific survey question, for both offline and
       staging environments. This object is available in API version 65.0 and later.

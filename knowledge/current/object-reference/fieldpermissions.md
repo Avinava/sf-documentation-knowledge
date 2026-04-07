@@ -5,12 +5,10 @@ topic: fieldpermissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.379Z
+lastCollected: 2026-04-07T18:38:32.361Z
 estimatedTokens: 2291
-keywords: [FieldPermissions, enabled, permissions, parent, PermissionSet, API, version, 24.0, later, Calls, Special, Access, Rules, Usage, Working]
+keywords: [FieldPermissions, enabled, permissions, parent, PermissionSet, API, 24.0, Working, Activity, Nesting, Muting]
 ---
-
-# FieldPermissions
 
 > Represents the enabled field permissions for the
             parent PermissionSet.

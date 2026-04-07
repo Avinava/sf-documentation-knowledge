@@ -5,12 +5,10 @@ topic: search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.930Z
+lastCollected: 2026-04-07T18:37:54.226Z
 estimatedTokens: 135
-keywords: [Search, Executes, SOSL, URL-encoded, search, text, organization's, data, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Search, Executes, SOSL, URL-encoded, Arguments, Fault, search, text, organization's, Sample, Code—Java, Code—C#]
 ---
-
-# Search
 
 > Executes a text search in your organization's data.
 

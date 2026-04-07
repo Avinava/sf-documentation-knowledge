@@ -5,12 +5,10 @@ topic: workercompcoverageclasshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.593Z
+lastCollected: 2026-04-07T18:40:07.532Z
 estimatedTokens: 278
-keywords: [WorkerCompCoverageClassHistory, History, tracked, WorkerCompCoverageClass]
+keywords: [WorkerCompCoverageClassHistory, tracked, WorkerCompCoverageClass]
 ---
-
-# WorkerCompCoverageClassHistory
 
 > History for tracked fields of WorkerCompCoverageClass.
 

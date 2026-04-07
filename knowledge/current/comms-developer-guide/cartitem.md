@@ -5,12 +5,10 @@ topic: cartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.513Z
+lastCollected: 2026-04-07T18:37:26.424Z
 estimatedTokens: 974
-keywords: [CartItem, row, item, web, cart, that's, active, store, built, B2B, Commerce, B2C, API, version, 66.0]
+keywords: [CartItem, row, item, web, cart, that's, active, store, built, B2B, Commerce, B2C, API, 66.0]
 ---
-
-# CartItem
 
 > Each row represents an item in a web cart that's active in a store built with
          B2B Commerce or B2C Commerce This object is available in API version 66.0 and later.

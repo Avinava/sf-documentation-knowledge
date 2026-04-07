@@ -5,12 +5,10 @@ topic: data-extension-update-activity-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.218Z
+lastCollected: 2026-04-07T18:40:16.357Z
 estimatedTokens: 380
-keywords: [Data, Extension, Activity, modify, contact, model, attribute, runtime, cannot, custom, #journey-specification-format, Journey, Specification, Sample, Items]
+keywords: [Extension, Activity, modify, contact, model, attribute, runtime, cannot, #journey-specification-format, Journey, Specification, Sample, Items]
 ---
-
-# Data Extension Update Activity Format
 
 > The data extension update activity is used to modify the contact model attribute and data extension values at runtime. This activity type cannot be used in a custom activity.
 

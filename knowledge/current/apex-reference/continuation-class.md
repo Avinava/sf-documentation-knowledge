@@ -5,13 +5,11 @@ topic: continuation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.695Z
+lastCollected: 2026-04-07T18:36:00.981Z
 estimatedTokens: 1903
 namespace: System
-keywords: [Continuation, callouts, asynchronously, SOAP, REST, Web, service, timeout, continuationMethod, Usage, state, addHttpRequest, getRequests, getResponse, requestLabel]
+keywords: [Continuation, callouts, asynchronously, SOAP, REST, Web, service, timeout, continuationMethod, state, addHttpRequest, getRequests, getResponse, requestLabel]
 ---
-
-# Continuation Class
 
 > Use the Continuation class to
       make callouts asynchronously to a SOAP or REST Web service.

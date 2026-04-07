@@ -5,12 +5,10 @@ topic: analytics-asset-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.894Z
+lastCollected: 2026-04-07T18:36:55.317Z
 estimatedTokens: 78
-keywords: [Analytics, Asset, Resource, URL, Formats, Version, HTTP]
+keywords: [Formats, Analytics, Asset, Resource, URL, HTTP]
 ---
-
-# Analytics Asset Resource
 
 > Returns an Analytics asset by ID.
 

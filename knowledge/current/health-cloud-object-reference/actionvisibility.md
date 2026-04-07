@@ -5,12 +5,10 @@ topic: actionvisibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.934Z
+lastCollected: 2026-04-07T18:37:45.332Z
 estimatedTokens: 788
-keywords: [ActionVisibility, serves, junction, connect, Account, Contact, objects, define, visibility, rules, actions, Dynamic, Unified, Health, Scoring]
+keywords: [ActionVisibility, serves, junction, connect, Account, Contact, define, visibility, actions, Dynamic, Unified, Health, Scoring, API, 55.0]
 ---
-
-# ActionVisibility
 
 > This object serves as a junction to connect Account or Contact to other
          objects so that information in those other object can be used to define visibility rules

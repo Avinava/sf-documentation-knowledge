@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.804Z
+lastCollected: 2026-04-07T18:36:35.275Z
 estimatedTokens: 235
-keywords: [REST, access, Accelerator, APIs, endpoints, follow, similar, conventions, Connect, Common, Business, Context, Service, Decision, Digital, Lending, give, users, seamless, API]
+keywords: [REST, Accelerator, APIs, endpoints, follow, similar, conventions, Connect, Common, Business, Context, Service, Decision, Digital, Lending, give, users, seamless, API, experience, creating, modifying, loan, applications, Intelligent, Form, Reader, Group, Membership, Households, Document, Interest, Tags, Omnistudio, Record, Alerts, Scheduled, Reminders, endpoint, follows, Rollup, Definitions, Stage, Management]
 ---
-
-# REST Reference
 
 > You can access Omnistudio APIs using REST endpoints. These REST APIs follow similar
     conventions as Connect REST APIs.

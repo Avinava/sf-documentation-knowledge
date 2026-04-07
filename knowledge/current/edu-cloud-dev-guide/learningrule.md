@@ -5,12 +5,10 @@ topic: learningrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.426Z
+lastCollected: 2026-04-07T18:37:31.567Z
 estimatedTokens: 674
-keywords: [LearningRule, junction, Learning, Rule, Expression, objects, extensible, API, version, 65.0, later, Calls, Associated]
+keywords: [LearningRule, junction, Learning, Rule, Expression, extensible, API, 65.0]
 ---
-
-# LearningRule
 
 > Represents a junction between the Learning and Rule (Expression Set) objects
          for an extensible rule on a learning. This object is available in API version 65.0 and

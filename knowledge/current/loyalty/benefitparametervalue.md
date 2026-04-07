@@ -5,12 +5,10 @@ topic: benefitparametervalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.615Z
+lastCollected: 2026-04-07T18:38:09.926Z
 estimatedTokens: 364
-keywords: [BenefitParameterValue, runtime, that's, executing, flow, benefit, action, API, version, 52.0, later, Calls]
+keywords: [BenefitParameterValue, runtime, that's, executing, flow, benefit, action, API, 52.0]
 ---
-
-# BenefitParameterValue
 
 > Represents the runtime value of a parameter that's used when executing a flow
          for benefit action. This object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: commerce-payment-method-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.736Z
+lastCollected: 2026-04-07T18:35:52.629Z
 estimatedTokens: 173
-keywords: [Commerce, Payment, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO, refers]
+keywords: [Commerce, Payment, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, refers, buyer, compensate, seller, purchased, good, service, DLO]
 ---
-
-# Commerce: Payment Method Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Payment Method data refers to the method for a

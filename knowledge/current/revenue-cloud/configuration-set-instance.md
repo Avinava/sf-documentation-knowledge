@@ -5,12 +5,10 @@ topic: configuration-set-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.767Z
+lastCollected: 2026-04-07T18:35:46.724Z
 estimatedTokens: 329
-keywords: [Configuration, Instance, Output, representation, context, session]
+keywords: [Configuration, Instance, context, session]
 ---
-
-# Configuration Set Instance
 
 > Output representation of the details of the context or session that are returned with a
     set configuration request.

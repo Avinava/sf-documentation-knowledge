@@ -5,12 +5,10 @@ topic: chat-visualforce-components-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.054Z
+lastCollected: 2026-04-07T18:38:06.303Z
 estimatedTokens: 459
-keywords: [Chat, Visualforce, Components, Code, Sample, test, preview, how, help, customize, windows]
+keywords: [Chat, Visualforce, Code, Sample, test, preview, how, help, customize, windows]
 ---
-
-# Chat Visualforce Components Code Sample
 
 > Use this code sample to test and preview how Visualforce components
 can help you customize your chat windows.

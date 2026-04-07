@@ -5,12 +5,10 @@ topic: inventory-visibility-product-transfer-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.798Z
+lastCollected: 2026-04-07T18:36:52.217Z
 estimatedTokens: 287
 keywords: [Inventory, Visibility, Product, Transfer, Action, results, vehicle, search, actions, configuration, defined, admin]
 ---
-
-# Inventory Visibility Product Transfer Action
 
 > Returns the results for vehicle inventory transfer action search
       based on the inventory visibility actions configuration defined by the admin.

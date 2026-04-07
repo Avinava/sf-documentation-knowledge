@@ -5,12 +5,10 @@ topic: social-status-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.083Z
+lastCollected: 2026-04-07T18:37:23.200Z
 estimatedTokens: 109
 keywords: [Social, Status, Webstore, Meta, Config, entity, creation]
 ---
-
-# Social Status Response
 
 > Status response for Webstore Meta Config entity creation.
 

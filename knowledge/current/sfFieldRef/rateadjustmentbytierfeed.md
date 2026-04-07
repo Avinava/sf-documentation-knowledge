@@ -5,12 +5,10 @@ topic: rateadjustmentbytierfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.653Z
+lastCollected: 2026-04-07T18:39:58.319Z
 estimatedTokens: 391
-keywords: [RateAdjustmentByTierFeed, Feed, tracking, RateAdjustmentByTier]
+keywords: [RateAdjustmentByTierFeed, RateAdjustmentByTier]
 ---
-
-# RateAdjustmentByTierFeed
 
 > Feed tracking for RateAdjustmentByTier.
 

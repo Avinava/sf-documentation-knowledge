@@ -5,12 +5,10 @@ topic: environmenthubmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.744Z
+lastCollected: 2026-04-07T18:38:30.557Z
 estimatedTokens: 1143
-keywords: [EnvironmentHubMember, member, organization, Environment, Hub, API, version, 29.0, later, Calls, Usage]
+keywords: [EnvironmentHubMember, member, organization, Environment, Hub, API, 29.0]
 ---
-
-# EnvironmentHubMember
 
 > Represents a member organization in the
     Environment Hub.

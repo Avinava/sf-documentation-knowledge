@@ -5,12 +5,10 @@ topic: monitor-geofence-regions-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.290Z
+lastCollected: 2026-04-07T18:38:15.812Z
 estimatedTokens: 726
-keywords: [Monitor, Geofence, Regions, Mobile, Device, Lightning, web, component, device’s, location, features, determine, user’s, current, proximity]
+keywords: [Monitor, Geofence, Regions, Mobile, Device, Lightning, web, device’s, location, features, determine, user’s, current, proximity, areas, may, interest, perform, location-related, tasks, longitude, latitude, radius, define, around]
 ---
-
-# Monitor Geofence Regions on a Mobile Device
 
 > A Lightning web component can use a mobile device’s location features to determine a
     user’s current location to the user’s proximity to areas that may be of interest, or to perform

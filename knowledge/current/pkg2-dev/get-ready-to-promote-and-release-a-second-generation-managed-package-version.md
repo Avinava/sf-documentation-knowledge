@@ -5,12 +5,10 @@ topic: get-ready-to-promote-and-release-a-second-generation-managed-package-vers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.840Z
+lastCollected: 2026-04-07T18:38:56.449Z
 estimatedTokens: 774
-keywords: [Ready, Promote, Release, Second-Generation, Managed, Package, Version, now, it’s, likely, you’ve, already, created, different, versions]
+keywords: [Ready, Promote, Release, Second-Generation, Managed, Package, now, it’s, likely, you’ve, already, created, different, versions, 2GP, tested, you're, distribute, promoting, step]
 ---
-
-# Get Ready to Promote and Release a Second-Generation Managed Package Version
 
 > By now it’s likely that you’ve already created many different versions of your managed
   2GP package and tested them. When you have a package version that you're ready to distribute,

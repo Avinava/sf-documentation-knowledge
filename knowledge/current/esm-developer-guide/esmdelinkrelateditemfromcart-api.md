@@ -5,12 +5,10 @@ topic: esmdelinkrelateditemfromcart-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.974Z
+lastCollected: 2026-04-07T18:37:32.147Z
 estimatedTokens: 60
 keywords: [ESM_DelinkRelatedItemFromCart, API, Delink, quote, item, product, another, QuoteLineItemRelationship, Sobject, ESM, _DelinkRelatedItemFromCart, URI, HTTP]
 ---
-
-# ESM_DelinkRelatedItemFromCart API
 
 > Delink a related quote item (product) from another item of the same quote (from QuoteLineItemRelationship Sobject).
 

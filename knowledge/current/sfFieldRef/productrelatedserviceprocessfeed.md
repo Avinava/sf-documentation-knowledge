@@ -5,12 +5,10 @@ topic: productrelatedserviceprocessfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.491Z
+lastCollected: 2026-04-07T18:39:56.063Z
 estimatedTokens: 367
-keywords: [ProductRelatedServiceProcessFeed, Feed, tracking, ProductRelatedServiceProcess]
+keywords: [ProductRelatedServiceProcessFeed, ProductRelatedServiceProcess]
 ---
-
-# ProductRelatedServiceProcessFeed
 
 > Feed tracking for ProductRelatedServiceProcess.
 

@@ -5,12 +5,10 @@ topic: update-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.126Z
+lastCollected: 2026-04-07T18:40:24.596Z
 estimatedTokens: 439
-keywords: [Data, Extension, Patch, Specify, unique, identifier, props, order, identify, updated, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Extension, Patch, Specify, unique, identifier, props, order, identify, updated, PHP]
 ---
-
-# Update a Data Extension
 
 > Use the Patch method to update an existing data extension. Specify a unique identifier in the props property in order to identify which data extension will be updated:
 

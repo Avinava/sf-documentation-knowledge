@@ -5,12 +5,10 @@ topic: managing-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.560Z
+lastCollected: 2026-04-07T18:40:25.938Z
 estimatedTokens: 219
-keywords: [Managing, Requests, SalesforceNetwork, library, iOS, two, primary, objects, SFNetworkEngine, SFNetworkOperation, SFRestRequest, internally, uses, server, call]
+keywords: [Managing, Requests, SalesforceNetwork, library, iOS, two, primary, SFNetworkEngine, SFNetworkOperation, SFRestRequest, internally, uses, server, call, Examples, Canceling]
 ---
-
-# Managing Requests
 
 > The SalesforceNetwork library for iOS defines two primary
          objects, SFNetworkEngine and SFNetworkOperation. SFRestRequest internally uses a SFNetworkOperation object to make each server call.

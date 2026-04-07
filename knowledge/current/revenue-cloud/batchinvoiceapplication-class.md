@@ -5,13 +5,11 @@ topic: batchinvoiceapplication-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.447Z
+lastCollected: 2026-04-07T18:35:40.228Z
 estimatedTokens: 410
 namespace: ConnectApi
-keywords: [BatchInvoiceApplication, batch, invoices, Draft, Posted, status, credit, memo, application, triggerInvoiceBatchDraftToPosted, invoiceBatchRunId, API, Version, Requires, Chatter]
+keywords: [BatchInvoiceApplication, batch, invoices, Draft, Posted, status, credit, memo, application, triggerInvoiceBatchDraftToPosted, invoiceBatchRunId, API, Requires, Chatter]
 ---
-
-# BatchInvoiceApplication Class
 
 > Update a batch of invoices from Draft to Posted status for a credit memo application. by
   using the BatchInvoiceApplication class.

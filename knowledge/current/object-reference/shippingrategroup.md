@@ -5,12 +5,10 @@ topic: shippingrategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.642Z
+lastCollected: 2026-04-07T18:38:41.311Z
 estimatedTokens: 201
-keywords: [ShippingRateGroup, shipping, rates, destination, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [ShippingRateGroup, shipping, rates, destination, API, 59.0]
 ---
-
-# ShippingRateGroup
 
 > Available shipping rates based on shipping destination. This object is
       available in API version 59.0 and later.

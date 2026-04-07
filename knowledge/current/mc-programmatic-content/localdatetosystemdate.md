@@ -5,12 +5,10 @@ topic: localdatetosystemdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.408Z
+lastCollected: 2026-04-07T18:40:21.689Z
 estimatedTokens: 165
-keywords: [LocalDateToSystemDate, Function, Ordinal, Local, time, convert, **Overview**, **Syntax**, Usage, datetime, date-time, date]
+keywords: [LocalDateToSystemDate, Function, Ordinal, Local, time, convert, **Overview**, **Syntax**, datetime, date-time, date]
 ---
-
-# LocalDateToSystemDate
 
 > LocalDateToSystemDate(1)
 

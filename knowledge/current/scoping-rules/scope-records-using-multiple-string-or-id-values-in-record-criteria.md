@@ -5,12 +5,10 @@ topic: scope-records-using-multiple-string-or-id-values-in-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.845Z
+lastCollected: 2026-04-07T18:39:21.713Z
 estimatedTokens: 211
-keywords: [Scope, Records, Multiple, Record, Criteria, scoping, rule, active, users, they, whose, Name__c, matches, rule’s, strings]
+keywords: [Scope, Records, Multiple, Record, Criteria, scoping, rule, active, users, they, whose, Name__c, matches, rule’s, strings, separated, comma, Double-quotes, specify, inside, quotes, isn’t, considered, delimiter, Tooling, API, Metadata]
 ---
-
-# Scope Records Using Multiple String or ID Values in Record Criteria
 
 > This scoping rule allows active users to scope the records they see to records whose
   Name__c field matches the rule’s record criteria value. The record criteria contains strings

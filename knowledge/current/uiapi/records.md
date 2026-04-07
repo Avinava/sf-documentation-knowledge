@@ -5,12 +5,10 @@ topic: records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.252Z
+lastCollected: 2026-04-07T18:40:11.244Z
 estimatedTokens: 1640
-keywords: [Records, resources, metadata, data, objects, easy, build, Salesforce]
+keywords: [Records, resources, metadata, easy, build, Salesforce]
 ---
-
-# Records
 
 > Use these resources to get metadata and data about objects and
       records. These resources make it easy to build Salesforce UI.

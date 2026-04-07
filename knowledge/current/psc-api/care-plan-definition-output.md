@@ -5,12 +5,10 @@ topic: care-plan-definition-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.115Z
+lastCollected: 2026-04-07T18:39:02.331Z
 estimatedTokens: 226
-keywords: [Care, Plan, Definition, Output, representation, record, goal, benefits]
+keywords: [Care, Plan, Definition, record, goal, benefits]
 ---
-
-# Care Plan Definition Output
 
 > Output representation of the care plan definition record and its
       related goal definition and benefits.

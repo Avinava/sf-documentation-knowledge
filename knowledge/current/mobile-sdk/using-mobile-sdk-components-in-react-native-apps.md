@@ -6,13 +6,10 @@ topic: using-mobile-sdk-components-in-react-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.950Z
+lastCollected: 2026-04-07T18:40:27.175Z
 estimatedTokens: 222
-keywords: [Mobile, SDK, Components, React, Native, Apps, access, libraries, JavaScript, bridges, execute, code, instructions]
+keywords: [Mobile, SDK, React, Native, Apps, libraries, JavaScript, bridges, execute, code, instructions]
 ---
-
-# Using Mobile SDK
-  Components in React Native Apps
 
 > React Native apps access the same Mobile SDK libraries as Mobile SDK native apps. For
   React Native, Mobile SDK

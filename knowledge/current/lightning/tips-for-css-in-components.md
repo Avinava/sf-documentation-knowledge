@@ -5,12 +5,10 @@ topic: tips-for-css-in-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.121Z
+lastCollected: 2026-04-07T18:38:03.112Z
 estimatedTokens: 336
-keywords: [Tips, CSS, Components, configuring, plan, Lightning, pages, App, Builder, Experience]
+keywords: [Tips, CSS, configuring, plan, Lightning, pages, App, Builder, Experience]
 ---
-
-# Tips for CSS in Components
 
 > Here are some tips for configuring the CSS for components that you plan to use in
     Lightning pages, the Lightning App Builder, or the Experience Builder.

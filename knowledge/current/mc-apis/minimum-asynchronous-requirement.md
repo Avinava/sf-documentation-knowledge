@@ -5,12 +5,10 @@ topic: minimum-asynchronous-requirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.237Z
+lastCollected: 2026-04-07T18:40:15.286Z
 estimatedTokens: 44
 keywords: [Minimum, Asynchronous, Requirement, API, call, identify, wrappers, PHP, SOAP, Envelope]
 ---
-
-# Minimum Asynchronous Requirement
 
 > To make an asynchronous API call, identify it as asynchronous using one of these wrappers.
 

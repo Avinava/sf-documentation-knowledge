@@ -5,12 +5,10 @@ topic: timeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.714Z
+lastCollected: 2026-04-07T18:37:01.322Z
 estimatedTokens: 2423
-keywords: [timeseries, Uses, data, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, Usage]
+keywords: [Tips, timeseries, Uses, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, How, Tourists, Visit, Year, Range, 95%, Accuracy, Seasonal]
 ---
-
-# timeseries
 
 > Uses existing data to predict future data points. The timeseries statement must follow a projection statement in your query. Perform
         any filtering pre-projection or after the timeseries

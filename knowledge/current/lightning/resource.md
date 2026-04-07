@@ -5,12 +5,10 @@ topic: resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:14.177Z
+lastCollected: 2026-04-07T18:38:04.306Z
 estimatedTokens: 1009
-keywords: [$Resource, provider, lets, images, style, sheets, JavaScript, code, you’ve, uploaded, resources, Component, Markup, Considerations]
+keywords: [$Resource, provider, lets, images, style, sheets, JavaScript, code, you’ve, uploaded, resources, Markup, Considerations]
 ---
-
-# $Resource
 
 > The $Resource global value
       provider lets you reference images, style sheets, and JavaScript code you’ve uploaded in

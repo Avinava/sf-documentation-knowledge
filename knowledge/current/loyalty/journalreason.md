@@ -5,12 +5,10 @@ topic: journalreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:19.773Z
+lastCollected: 2026-04-07T18:38:10.089Z
 estimatedTokens: 499
-keywords: [JournalReason, view, reason, action, created, transaction, journal, API, version, 51.0, later, Calls]
+keywords: [JournalReason, view, reason, action, created, transaction, journal, API, 51.0]
 ---
-
-# JournalReason
 
 > Represents a view that specifies the reason for the action that created a
       transaction journal. This object is available in API version 51.0 and later.

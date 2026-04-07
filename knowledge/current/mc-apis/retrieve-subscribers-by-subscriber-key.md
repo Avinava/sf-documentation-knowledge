@@ -5,12 +5,10 @@ topic: retrieve-subscribers-by-subscriber-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.665Z
+lastCollected: 2026-04-07T18:40:18.868Z
 estimatedTokens: 1932
-keywords: [Retrieve, Subscribers, Subscriber, Key, retrieving, account, subaccount, via, pull, back, view, gives, Sample, NET, Code]
+keywords: [Retrieve, Subscribers, Subscriber, Key, retrieving, account, subaccount, via, pull, back, view, gives, Sample, NET, Code, PHP, Ruby, Rails, Java, Axis2, SOAP, Envelope, Items]
 ---
-
-# Retrieve Subscribers by Subscriber Key
 
 > This page contains information about retrieving subscribers from an account or subaccount via the subscriber key. By retrieving subscribers from an account or subaccount using the subscriber key, you can pull back a complete view of all of the subscribers within that account. That view gives you the
 

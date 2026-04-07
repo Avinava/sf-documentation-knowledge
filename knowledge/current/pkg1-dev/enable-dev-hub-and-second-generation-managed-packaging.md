@@ -5,12 +5,10 @@ topic: enable-dev-hub-and-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.076Z
+lastCollected: 2026-04-07T18:38:54.494Z
 estimatedTokens: 590
 keywords: [Enable, Dev, Hub, Second-Generation, Managed, Packaging, lets, manage, packages, scratch, orgs, designated, place, 2GP, namespaces]
 ---
-
-# Enable Dev Hub and Second-Generation Managed Packaging
 
 > The Dev Hub lets you create and manage second-generation managed packages and scratch
   orgs. Your Dev Hub is the designated place to find and manage all your managed 2GP packages,

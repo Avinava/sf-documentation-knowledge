@@ -5,12 +5,10 @@ topic: regulationverregclausever
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.429Z
+lastCollected: 2026-04-07T18:36:45.202Z
 estimatedTokens: 621
-keywords: [RegulationVerRegClauseVer, junction, Regulation, Version, Clause, API, 65.0, later, Calls, Associated, Objects]
+keywords: [RegulationVerRegClauseVer, junction, Regulation, Clause, API, 65.0]
 ---
-
-# RegulationVerRegClauseVer
 
 > Represents a junction between a Regulation Version and a Regulation Clause
          Version. This object is available in API version 65.0 and later.

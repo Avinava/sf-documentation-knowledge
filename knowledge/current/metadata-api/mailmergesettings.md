@@ -5,12 +5,10 @@ topic: mailmergesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.878Z
+lastCollected: 2026-04-07T18:36:27.415Z
 estimatedTokens: 599
-keywords: [MailMergeSettings, settings, Extended, Mail, Merge, functionality, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [MailMergeSettings, settings, Extended, Mail, Merge, functionality, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# MailMergeSettings
 
 > Represents the settings for Extended Mail Merge
       functionality.

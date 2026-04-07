@@ -5,12 +5,10 @@ topic: add-subscribers-to-an-on-your-behalf-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.116Z
+lastCollected: 2026-04-07T18:40:15.143Z
 estimatedTokens: 1641
-keywords: [Add, Subscribers, On-Your-Behalf, Account, accounts, allow, send, email, central, administrator, user, Adding, level, ensures, messages]
+keywords: [Add, Subscribers, On-Your-Behalf, Account, accounts, allow, send, email, central, administrator, user, Adding, level, ensures, messages, admin, creates, sent, appropriate, Sample, NET, Code, SOAP, Envelope, Items]
 ---
-
-# Add Subscribers to an On-Your-Behalf Account
 
 > On-Your-Behalf accounts allow you to send email from a central administrator account to subscribers with the From information of the On-Your-Behalf user. Adding subscribers at the On-Your-Behalf level ensures that the messages the admin creates are only sent to the appropriate subscribers.
 

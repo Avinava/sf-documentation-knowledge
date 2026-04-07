@@ -5,12 +5,10 @@ topic: apex-class-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.190Z
+lastCollected: 2026-04-07T18:36:16.400Z
 estimatedTokens: 1534
-keywords: [Apex, Definition, Avoid, standard, Doing, causes, unexpected, results, objects, Salesforce, Versioned, Behavior, Changes]
+keywords: [Apex, Definition, Avoid, standard, Doing, causes, unexpected, results, Salesforce, Versioned, Behavior, Changes]
 ---
-
-# Apex Class Definition
 
 > Avoid using standard object names for class names. Doing so
 causes unexpected results. For a list of standard objects, see Object Reference for Salesforce.

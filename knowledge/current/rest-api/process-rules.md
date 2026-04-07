@@ -5,12 +5,10 @@ topic: process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.755Z
+lastCollected: 2026-04-07T18:36:20.993Z
 estimatedTokens: 558
-keywords: [Process, Rules, Accesses, active, workflow, retrieve, records, HEAD, HTTP, POST, trigger]
+keywords: [Process, Accesses, active, workflow, retrieve, records, HEAD, HTTP, POST, trigger]
 ---
-
-# Process Rules
 
 > Accesses a list of all active workflow rules. Use the GET
             method to retrieve records or fields. Use the HEAD method to retrieve information in

@@ -5,12 +5,10 @@ topic: carepreauthitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.864Z
+lastCollected: 2026-04-07T18:39:32.234Z
 estimatedTokens: 264
-keywords: [CarePreauthItemHistory, History, tracked, CarePreauthItem]
+keywords: [CarePreauthItemHistory, tracked, CarePreauthItem]
 ---
-
-# CarePreauthItemHistory
 
 > History for tracked fields of CarePreauthItem.
 

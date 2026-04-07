@@ -5,12 +5,10 @@ topic: catalogedapiversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.089Z
+lastCollected: 2026-04-07T18:36:23.384Z
 estimatedTokens: 315
-keywords: [CatalogedApiVersion, version, API, consumable, Salesforce, Catalog, Parent, File, Suffix, Directory, Location, Special, Access, Rules, Declarative]
+keywords: [CatalogedApiVersion, API, consumable, Salesforce, Catalog, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# CatalogedApiVersion
 
 > Represents a version of an API that is consumable in Salesforce
 			using API Catalog.

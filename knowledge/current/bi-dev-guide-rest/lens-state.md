@@ -5,12 +5,10 @@ topic: lens-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.861Z
+lastCollected: 2026-04-07T18:36:57.375Z
 estimatedTokens: 2926
-keywords: [Lens, State, Analytics, lenses, Bar​Lens​Visualization​Options, Dot​Lens​Visualization​Options, Heat​Map​Lens​Visualization​Options, Matrix​Lens​Visualization​Options, Pie​Lens​Visualization​Options, Pivot​Table​Lens​Visualization​Options, Scatter​Lens​Visualization​Options, Stacked​Bar​Lens​Visualization​Options, Table​Lens​Visualization​Options, Time​Lens​Visualization​Options, Values​Table​Lens​Visualization​Options]
+keywords: [Query, Lens, State, Analytics, lenses, Bar​Lens​Visualization​Options, Dot​Lens​Visualization​Options, Heat​Map​Lens​Visualization​Options, Matrix​Lens​Visualization​Options, Pie​Lens​Visualization​Options, Pivot​Table​Lens​Visualization​Options, Scatter​Lens​Visualization​Options, Stacked​Bar​Lens​Visualization​Options, Table​Lens​Visualization​Options, Time​Lens​Visualization​Options, Values​Table​Lens​Visualization​Options, Compact​Form​Filter, Compact​Form​Source, Compact​Form​Column]
 ---
-
-# Lens State
 
 > The state for an Analytics lenses.
 

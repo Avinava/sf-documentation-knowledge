@@ -5,12 +5,10 @@ topic: business-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.017Z
+lastCollected: 2026-04-07T18:38:26.997Z
 estimatedTokens: 767
-keywords: [Business, Process, Processes, track, separate, sales, lead, support, solution, lifecycles, displaying, different, picklist, according, user’s]
+keywords: [Business, Process, Processes, track, separate, sales, lead, support, solution, lifecycles, displaying, different, picklist, according, user’s, profile]
 ---
-
-# Business Process
 
 > Represents a business process. Business Processes track separate sales, lead, support, and solution lifecycles by displaying different picklist values according to each user’s profile.
 

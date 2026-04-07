@@ -5,12 +5,10 @@ topic: use-the-mobile-toolset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.685Z
+lastCollected: 2026-04-07T18:38:15.170Z
 estimatedTokens: 1918
-keywords: [mobile, Toolset, tools, assist, creating, Lightning, web, components, integrate, device-native, capabilities, calendar, access, contact, document]
+keywords: [mobile, Toolset, tools, assist, creating, Lightning, web, integrate, device-native, capabilities, calendar, contact, document, scanning, Service, LWC, Tool, _mobile, _lwc, _calendar, Contacts, _contacts, Scanner, _document, _scanner, Geofencing, _geofencing, NFC, _nfc, Payments, _payments, App, Review, _app, _review, Space, Capture, _ar, _space, _capture]
 ---
-
-# Use the mobile Toolset
 
 > The mobile toolset contains tools to assist in
       creating Lightning web components that integrate with device-native capabilities such as

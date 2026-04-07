@@ -5,12 +5,10 @@ topic: dataintegrationrecordpurchasepermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.854Z
+lastCollected: 2026-04-07T18:36:32.303Z
 estimatedTokens: 291
-keywords: [DataIntegrationRecordPurchasePermission, Lightning, Data, purchase, credits, Salesforce, admin, granted, users, Tooling, API, version, 42.0, later, SOAP]
+keywords: [DataIntegrationRecordPurchasePermission, Lightning, purchase, credits, Salesforce, admin, granted, users, Tooling, API, 42.0, SOAP, REST, HTTP]
 ---
-
-# DataIntegrationRecordPurchasePermission
 
 > Represents Lightning Data purchase credits
         that a Salesforce admin has granted to users. Available in Tooling API version 42.0 and

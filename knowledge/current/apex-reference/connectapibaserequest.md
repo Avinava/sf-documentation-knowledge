@@ -5,12 +5,10 @@ topic: connectapibaserequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.223Z
+lastCollected: 2026-04-07T18:36:05.560Z
 estimatedTokens: 453
 keywords: [ConnectApi.BaseRequest, Base, making, payment, gateway]
 ---
-
-# ConnectApi.BaseRequest
 
 > Base parameters for making a request to the payment
     gateway.

@@ -5,12 +5,10 @@ topic: getheaders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.901Z
+lastCollected: 2026-04-07T18:35:59.170Z
 estimatedTokens: 243
-keywords: [getHeaders, map, key, Usage]
+keywords: [getHeaders, map, key]
 ---
-
-# getHeaders()
 
 > Returns a map of the request headers, where the key string contains the name of the
   header, and the value string contains the value of the header.

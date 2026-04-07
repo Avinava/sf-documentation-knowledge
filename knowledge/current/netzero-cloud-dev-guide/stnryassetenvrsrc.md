@@ -5,12 +5,10 @@ topic: stnryassetenvrsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.042Z
+lastCollected: 2026-04-07T18:38:19.710Z
 estimatedTokens: 3546
-keywords: [StnryAssetEnvrSrc, assets, stationary, nature, energy, recorded, source, greenhouse, gas, emissions, API, version, 54.0, later, Calls]
+keywords: [StnryAssetEnvrSrc, assets, stationary, nature, energy, recorded, source, greenhouse, gas, emissions, API, 54.0]
 ---
-
-# StnryAssetEnvrSrc
 
 > Represents assets that are stationary in nature, use energy that can
          be recorded, and are the source of greenhouse gas emissions. This object is available

@@ -5,12 +5,10 @@ topic: timelineobjectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.332Z
+lastCollected: 2026-04-07T18:36:46.176Z
 estimatedTokens: 1036
-keywords: [TimelineObjectDefinition, timeline, configurations, API, version, 55.0, later, SOAP, Calls, REST, Associated, Objects]
+keywords: [TimelineObjectDefinition, timeline, configurations, API, 55.0, SOAP, REST]
 ---
-
-# TimelineObjectDefinition
 
 > Represents the timeline configurations. This object is available
       in API version 55.0 and later.

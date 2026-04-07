@@ -5,12 +5,10 @@ topic: coveragebenefititem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.985Z
+lastCollected: 2026-04-07T18:37:46.575Z
 estimatedTokens: 1486
-keywords: [CoverageBenefitItem, Specific, service, covered, insurance, plan, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [CoverageBenefitItem, Specific, service, covered, insurance, plan, API, 53.0]
 ---
-
-# CoverageBenefitItem
 
 > Specific service covered by the insurance plan. This object is available in API version 53.0 and later.
 

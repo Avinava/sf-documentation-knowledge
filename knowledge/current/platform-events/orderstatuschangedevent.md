@@ -5,12 +5,10 @@ topic: orderstatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.628Z
+lastCollected: 2026-04-07T18:38:59.562Z
 estimatedTokens: 891
-keywords: [OrderStatusChangedEvent, Notifies, subscribers, changes, status, order, record, event, trigger, flows, processes, workflow, API, version, 51.0]
+keywords: [OrderStatusChangedEvent, Notifies, subscribers, changes, status, order, record, event, trigger, flows, processes, workflow, API, 51.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# OrderStatusChangedEvent
 
 > Notifies subscribers of changes to the status of an order record.
 			Use this event to trigger flows and processes in your order workflow. This object

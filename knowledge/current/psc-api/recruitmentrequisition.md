@@ -5,12 +5,10 @@ topic: recruitmentrequisition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.368Z
+lastCollected: 2026-04-07T18:39:07.588Z
 estimatedTokens: 1472
-keywords: [RecruitmentRequisition, formal, recruit, position, provider, vacancy, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [RecruitmentRequisition, formal, recruit, position, provider, vacancy, API, 62.0]
 ---
-
-# RecruitmentRequisition
 
 > Represents a formal request to recruit for a position or a provider
          vacancy. This object is available in API version 62.0 and later.

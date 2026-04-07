@@ -5,12 +5,10 @@ topic: data-mapper-clear-cache-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.883Z
+lastCollected: 2026-04-07T18:39:01.013Z
 estimatedTokens: 214
-keywords: [Data, Mapper, Clear, Cache, Input, representation, mappers]
+keywords: [Mapper, Clear, Cache, mappers]
 ---
-
-# Data Mapper Clear Cache Input
 
 > Input representation of the details to clear the cache of the data mappers.
 

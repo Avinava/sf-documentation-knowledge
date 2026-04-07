@@ -5,12 +5,10 @@ topic: encrypt-record-ids-for-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.871Z
+lastCollected: 2026-04-07T18:37:26.814Z
 estimatedTokens: 725
-keywords: [Encrypt, Record, IDs, Guest, Users, security, reasons, don’t, allow, look, records, unless, want, user, creates]
+keywords: [Encrypt, Record, IDs, Guest, Users, security, reasons, don’t, allow, look, records, unless, want, user, creates, wants, encrypted, uses, combination, creation, timestamp, current, acts, unique, identifier, creator, date, Apex, code, handles, requires, submit, decrypts, identifiers, retrieves, updates, requested]
 ---
-
-# Encrypt Record IDs for Guest Users
 
 > For security reasons, don’t allow guest users to look up records by record ID unless you
     want the record to be public. When a guest user creates a record and wants to access it later,

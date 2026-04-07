@@ -5,12 +5,10 @@ topic: appformproductcollateralfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.141Z
+lastCollected: 2026-04-07T18:39:26.090Z
 estimatedTokens: 365
-keywords: [AppFormProductCollateralFeed, Feed, tracking, AppFormProductCollateral]
+keywords: [AppFormProductCollateralFeed, AppFormProductCollateral]
 ---
-
-# AppFormProductCollateralFeed
 
 > Feed tracking for AppFormProductCollateral.
 

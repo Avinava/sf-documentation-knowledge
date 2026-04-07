@@ -5,12 +5,10 @@ topic: crbnemssnscopeallochistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.799Z
+lastCollected: 2026-04-07T18:39:36.341Z
 estimatedTokens: 275
-keywords: [CrbnEmssnScopeAllocHistory, History, tracked, CrbnEmssnScopeAlloc]
+keywords: [CrbnEmssnScopeAllocHistory, tracked, CrbnEmssnScopeAlloc]
 ---
-
-# CrbnEmssnScopeAllocHistory
 
 > History for tracked fields of CrbnEmssnScopeAlloc.
 

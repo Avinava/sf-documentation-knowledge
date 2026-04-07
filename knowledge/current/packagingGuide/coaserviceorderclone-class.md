@@ -5,12 +5,10 @@ topic: coaserviceorderclone-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.841Z
+lastCollected: 2026-04-07T18:38:45.663Z
 estimatedTokens: 531
-keywords: [COA_ServiceOrderClone, Clone, order, org, Channel, App, COA, installed, _ServiceOrderClone, Usage]
+keywords: [COA_ServiceOrderClone, Clone, order, org, Channel, App, COA, installed, _ServiceOrderClone]
 ---
-
-# COA_ServiceOrderClone Class
 
 > Clone an existing order in the org where the Channel Order App (COA) is
     installed.

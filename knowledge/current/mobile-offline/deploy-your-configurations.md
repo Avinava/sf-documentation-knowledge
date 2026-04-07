@@ -5,12 +5,10 @@ topic: deploy-your-configurations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.726Z
+lastCollected: 2026-04-07T18:38:15.211Z
 estimatedTokens: 329
-keywords: [Deploy, Configurations, run, quick, action, Lightning, web, component, relevant, code, artifacts, org, Components, actions, deployed]
+keywords: [Deploy, Configurations, run, quick, action, Lightning, web, relevant, code, artifacts, org, actions, deployed, Onboarding, Wizard, manually, Visual, Studio]
 ---
-
-# Deploy Your Configurations
 
 > Before you can run a quick action based on a Lightning web component, you need to
     deploy the relevant code artifacts to your org. Components and quick actions can be deployed

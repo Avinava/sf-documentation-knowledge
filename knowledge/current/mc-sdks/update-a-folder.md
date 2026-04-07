@@ -5,12 +5,10 @@ topic: update-a-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.197Z
+lastCollected: 2026-04-07T18:40:24.653Z
 estimatedTokens: 380
-keywords: [Folder, Patch, Specify, unique, identifier, props, identify, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Folder, Patch, Specify, unique, identifier, props, identify, PHP]
 ---
-
-# Update a Folder
 
 > Use the Patch method to update an existing folder. Specify a unique identifier in the props property to identify the folder to update:
 

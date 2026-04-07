@@ -5,12 +5,10 @@ topic: develop-a-custom-block-widget
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.014Z
+lastCollected: 2026-04-07T18:40:21.291Z
 estimatedTokens: 541
-keywords: [Develop, Custom, Block, Widget, offer, Content, Builder, SDK, GitHub, URL, Test, Register, App, Exchange, Items]
+keywords: [Develop, Block, Widget, offer, Content, Builder, SDK, GitHub, URL, Test, Register, App, Exchange, Items]
 ---
-
-# Develop a Custom Block Widget
 
 > To develop and offer a custom block, you need the following:
 

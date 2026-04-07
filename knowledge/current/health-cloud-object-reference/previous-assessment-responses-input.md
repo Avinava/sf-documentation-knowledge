@@ -5,12 +5,10 @@ topic: previous-assessment-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.954Z
+lastCollected: 2026-04-07T18:37:40.950Z
 estimatedTokens: 220
-keywords: [Previous, Assessment, Responses, Input, representation, fetch, past, Discovery, Framework, MCG, assessments]
+keywords: [Previous, Assessment, Responses, fetch, past, Discovery, Framework, MCG, assessments]
 ---
-
-# Previous Assessment Responses Input
 
 > The request representation to fetch past assessment responses for both Discovery Framework and MCG assessments.
 

@@ -5,12 +5,10 @@ topic: getcaseidfromemailthreadidemailthreadid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.831Z
+lastCollected: 2026-04-07T18:35:59.101Z
 estimatedTokens: 260
-keywords: [getCaseIdFromEmailThreadId, emailThreadId, case, corresponding, email, thread, Deprecated, getCaseIdFromEmailHeaders, EmailMessages.getRecordIdFromEmail, instead, Usage]
+keywords: [getCaseIdFromEmailThreadId, emailThreadId, case, corresponding, email, thread, Deprecated, getCaseIdFromEmailHeaders, EmailMessages.getRecordIdFromEmail, instead]
 ---
-
-# getCaseIdFromEmailThreadId(emailThreadId)
 
 > Returns the case ID corresponding to the specified email thread ID.
    (Deprecated. Use getCaseIdFromEmailHeaders and EmailMessages.getRecordIdFromEmail

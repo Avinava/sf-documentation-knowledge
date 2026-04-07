@@ -5,12 +5,10 @@ topic: constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.530Z
+lastCollected: 2026-04-07T18:40:14.542Z
 estimatedTokens: 305
-keywords: [Constraints, Because, API, follows, OpenSearch, specification, requires, elements, additional, Salesforce, extensions, External, search, providers, conform]
+keywords: [Constraints, Because, API, follows, OpenSearch, specification, requires, additional, Salesforce, extensions, External, search, providers, conform, remain, fully, compliant, queried, any, client, URL, endpoint, supports, Atom, RSS, results, UTF-encoding, However, there, limitations]
 ---
-
-# Constraints
 
 > Because this API follows the OpenSearch specification, the API requires the same
   elements as the OpenSearch specification with additional optional Salesforce extensions. External

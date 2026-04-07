@@ -5,12 +5,10 @@ topic: show-accessibility-details-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.289Z
+lastCollected: 2026-04-07T18:38:46.148Z
 estimatedTokens: 353
-keywords: [Show, Accessibility, AppExchange, Listing, built, solution, mind, tell, customers, adding, Accessible, badge, add, provide, link]
+keywords: [Show, Accessibility, AppExchange, Listing, built, solution, mind, tell, customers, adding, Accessible, badge, add, provide, link, solution’s, conformance, report, copy, Web, Content, Guidelines, WCAG, 2.1]
 ---
-
-# Show Accessibility Details on Your AppExchange Listing
 
 > If you built your AppExchange solution with accessibility in mind, tell customers by
   adding the Accessible Solution badge to your listing. When you add the badge to your listing, you

@@ -5,12 +5,10 @@ topic: soql-operation-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:46.078Z
+lastCollected: 2026-04-07T18:36:31.450Z
 estimatedTokens: 642
-keywords: [SOQL, Operation, Limitations, Tooling, API, objects, apply, any, Metadata, Catalog, query, Custom, entities, ones, explicitly]
+keywords: [SOQL, Operation, Limitations, Tooling, API, apply, any, Metadata, Catalog, query, entities, ones, explicitly, listed, Queries, Scratch, Orgs]
 ---
-
-# SOQL Operation Limitations
 
 > Some Tooling API objects have SOQL limitations. These limitations apply to any Metadata Catalog query, which applies to all Custom Metadata Types and Metadata Catalog entities, not only the ones explicitly listed.
 

@@ -5,12 +5,10 @@ topic: wkccsurveyschedulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.093Z
+lastCollected: 2026-04-07T18:40:14.121Z
 estimatedTokens: 1360
-keywords: [wkcc__SurveySchedule__c, survey, schedule, org, including, selected, email, template, filter, criteria, API, version, 49.0, later, wkcc]
+keywords: [wkcc__SurveySchedule__c, survey, schedule, org, including, selected, email, template, filter, criteria, API, 49.0, wkcc, _SurveySchedule]
 ---
-
-# wkcc__SurveySchedule__c
 
 > Represents the details of a survey schedule in the org, including the selected
       survey, email template, and filter criteria. This object is available in API version 49.0

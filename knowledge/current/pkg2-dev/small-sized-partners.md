@@ -5,12 +5,10 @@ topic: small-sized-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.590Z
+lastCollected: 2026-04-07T18:38:54.990Z
 estimatedTokens: 713
-keywords: [Small-Sized, Partners, manageable, subscriber, bases, two, managed, packages, small, partner’s, total, daily, usage, data, across]
+keywords: [Small-Sized, Partners, manageable, subscriber, bases, two, managed, packages, small, partner’s, total, daily, across, less, queries, well, under, 15-minute, processing, time, limit]
 ---
-
-# Small-Sized Partners
 
 > Small-sized partners have manageable subscriber bases and one or two managed packages. A
   small partner’s total daily usage data across all managed packages is 5 GB or less. Also, small

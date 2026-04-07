@@ -5,12 +5,10 @@ topic: query-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.812Z
+lastCollected: 2026-04-07T18:36:56.350Z
 estimatedTokens: 500
 keywords: [Query, Resource, Executes, written, Salesforce, Analytics, Language, SAQL, SQL, CRM, Postman]
 ---
-
-# Query Resource
 
 > Executes a query written in Salesforce Analytics Query Language
       (SAQL) or SQL for CRM Analytics.

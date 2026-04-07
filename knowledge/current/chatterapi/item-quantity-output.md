@@ -5,12 +5,10 @@ topic: item-quantity-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.772Z
+lastCollected: 2026-04-07T18:37:19.929Z
 estimatedTokens: 106
-keywords: [Item, Quantity, Output, specific]
+keywords: [Item, Quantity, specific]
 ---
-
-# Item Quantity Output
 
 > The quantity for a specific item.
 

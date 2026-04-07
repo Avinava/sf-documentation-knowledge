@@ -5,12 +5,10 @@ topic: perform-survey-sentiment-analysis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.178Z
+lastCollected: 2026-04-07T18:39:16.774Z
 estimatedTokens: 488
-keywords: [Perform, Survey, Sentiment, Analysis, Result, records, insights, sentiments, underlying, responses, save, SentimentAnalysisResult, Special, Access, Rules]
+keywords: [Inputs, Outputs, Perform, Survey, Sentiment, Analysis, Result, records, insights, sentiments, underlying, responses, save, SentimentAnalysisResult, REST, HTTP]
 ---
-
-# Perform Survey Sentiment Analysis
 
 > Create or update the AI Sentiment Result records. You can get
     insights into the sentiments underlying survey responses and save the sentiment analysis in the

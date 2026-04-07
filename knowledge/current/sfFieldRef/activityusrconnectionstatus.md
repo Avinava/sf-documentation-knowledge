@@ -5,12 +5,10 @@ topic: activityusrconnectionstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.949Z
+lastCollected: 2026-04-07T18:39:24.854Z
 estimatedTokens: 422
-keywords: [ActivityUsrConnectionStatus, status, email, connections, Einstein, Activity, Capture, users, whether, accepted, terms, service, emails, API, version]
+keywords: [ActivityUsrConnectionStatus, status, email, connections, Einstein, Activity, Capture, users, whether, accepted, terms, service, emails, API, 54.0]
 ---
-
-# ActivityUsrConnectionStatus
 
 > Represents the status of the email connections for Einstein Activity Capture
          users. You can also see whether users accepted the required terms of service to capture

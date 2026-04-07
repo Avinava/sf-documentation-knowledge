@@ -5,12 +5,10 @@ topic: display-flow-stages-by-wrapping-a-progress-indicator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.339Z
+lastCollected: 2026-04-07T18:38:03.355Z
 estimatedTokens: 712
-keywords: [Display, Flow, Stages, Wrapping, Progress, Indicator, you’re, tracking, runtime, creating, custom, component, wraps, lightning, flow’s]
+keywords: [Display, Flow, Stages, Wrapping, Progress, Indicator, you’re, runtime, creating, wraps, lightning, flow’s, active, current, stage, screens, pass, component's, onstatuschange, action]
 ---
-
-# Display Flow Stages by Wrapping a Progress Indicator
 
 > If you’re tracking stages in your flow, display them at runtime by creating a
                 custom component that wraps a progress indicator with the lightning:flow component. Use the progress

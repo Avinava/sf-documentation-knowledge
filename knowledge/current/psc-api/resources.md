@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.088Z
+lastCollected: 2026-04-07T18:39:03.317Z
 estimatedTokens: 149
-keywords: [Resources, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Identity, Verification, Intelligent, Document, Reader, Interest, Tags, Lookup, known]
+keywords: [Resources, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Identity, Verification, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure, Matrix, Mapper, Integration, Sector, Solutions, Record, Alerts, resource, Rollup, Definitions, Business, Service, Process, Studio, retrieve, processes]
 ---
-
-# Resources
 
 > Here’s a list of Public Sector Solutions API resources.
 

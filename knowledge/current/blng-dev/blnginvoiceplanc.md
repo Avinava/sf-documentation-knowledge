@@ -5,12 +5,10 @@ topic: blnginvoiceplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.119Z
+lastCollected: 2026-04-07T18:37:03.637Z
 estimatedTokens: 675
-keywords: [blng__InvoicePlan__c, billing, schedules, customizable, frequencies, invoice, plan, non-standard, intervals, skipping, traditional, monthly, quarterly, cycles, instance]
+keywords: [blng__InvoicePlan__c, billing, schedules, customizable, frequencies, invoice, plan, non-standard, intervals, skipping, traditional, monthly, quarterly, cycles, instance, payment, occurs, ten, days, sale, second, two, months, blng, _InvoicePlan]
 ---
-
-# blng__InvoicePlan__c
 
 > Provides billing schedules with customizable billing frequencies. The invoice plan
       allows for non-standard billing intervals, skipping traditional monthly or quarterly cycles.

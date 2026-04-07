@@ -5,12 +5,10 @@ topic: request-to-join-a-private-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.352Z
+lastCollected: 2026-04-07T18:37:24.367Z
 estimatedTokens: 168
 keywords: [Join, Group, Chatter]
 ---
-
-# Request to Join a Private Group
 
 > Make a request to join a private Chatter group.
 

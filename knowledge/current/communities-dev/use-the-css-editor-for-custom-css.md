@@ -5,12 +5,10 @@ topic: use-the-css-editor-for-custom-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.686Z
+lastCollected: 2026-04-07T18:37:26.622Z
 estimatedTokens: 880
-keywords: [CSS, Editor, Custom, Experience, Builder, style, elements, across, Aura, site, option, suitable, you’re, familiar, want]
+keywords: [CSS, Editor, Experience, Builder, style, across, Aura, site, option, suitable, you’re, familiar, want, minor, modifications, template]
 ---
-
-# Use the CSS Editor for Custom CSS
 
 > Use the CSS Editor in Experience Builder to create custom CSS to style elements across
     your Aura site. This option is suitable if you’re familiar with CSS and want to make only minor

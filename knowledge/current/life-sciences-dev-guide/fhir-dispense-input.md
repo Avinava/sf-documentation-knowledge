@@ -5,12 +5,10 @@ topic: fhir-dispense-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.752Z
+lastCollected: 2026-04-07T18:37:55.086Z
 estimatedTokens: 78
-keywords: [FHIR, Dispense, Input, representation]
+keywords: [FHIR, Dispense]
 ---
-
-# FHIR Dispense Input
 
 > The input representation of FHIR Dispense.
 

@@ -5,12 +5,10 @@ topic: paymentmandate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.697Z
+lastCollected: 2026-04-07T18:37:38.564Z
 estimatedTokens: 2211
-keywords: [PaymentMandate, payment, mandates, customer, their, bank, financial, institution, authorize, third, party, collect, payments, account, API]
+keywords: [PaymentMandate, payment, mandates, customer, their, bank, financial, institution, authorize, third, party, collect, payments, account, API, 61.0]
 ---
-
-# PaymentMandate
 
 > Represents information about the payment mandates given by a customer
          to their bank or financial institution to authorize a third party to collect payments from

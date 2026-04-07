@@ -6,13 +6,10 @@ topic: allow-metadata-save-operations-to-complete-with-returned-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.506Z
+lastCollected: 2026-04-07T18:36:34.960Z
 estimatedTokens: 209
-keywords: [Allow, Metadata, Save, Operations, Warnings, operation, generates, behavior, Tooling, API, fail, returning, objects, WSDLs, indicate]
+keywords: [Allow, Metadata, Save, Operations, Warnings, operation, generates, behavior, Tooling, API, fail, returning, WSDLs, indicate, want, error-free, successfully, any]
 ---
-
-# Allow Metadata Save Operations to Complete with Returned
-  Warnings
 
 > When a metadata save operation generates warnings, the default behavior of Tooling API
   is to fail the operation without returning the warnings. For objects in both the Tooling API and

@@ -5,12 +5,10 @@ topic: stnryassetenvsrccnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.492Z
+lastCollected: 2026-04-07T18:38:20.168Z
 estimatedTokens: 712
-keywords: [StnryAssetEnvSrcCnfg, setup, mapping, Stationary, Asset, Environmental, Source, record, internal, enums, primarily, calculations, across, different, API]
+keywords: [StnryAssetEnvSrcCnfg, setup, mapping, Stationary, Asset, Environmental, Source, record, internal, enums, primarily, calculations, across, different, API, 54.0, SOAP, REST]
 ---
-
-# StnryAssetEnvSrcCnfg
 
 > Represents the setup object that contains the mapping between the Stationary
          Asset Environmental Source record type and internal enums. You can primarily use this

@@ -5,12 +5,10 @@ topic: programenrollmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.283Z
+lastCollected: 2026-04-07T18:39:56.834Z
 estimatedTokens: 251
 keywords: [ProgramEnrollmentShare, Sharing, ProgramEnrollment]
 ---
-
-# ProgramEnrollmentShare
 
 > Sharing for ProgramEnrollment.
 

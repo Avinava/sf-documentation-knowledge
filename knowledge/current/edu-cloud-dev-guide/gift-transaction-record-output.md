@@ -5,12 +5,10 @@ topic: gift-transaction-record-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.486Z
+lastCollected: 2026-04-07T18:37:29.566Z
 estimatedTokens: 197
-keywords: [Gift, Transaction, Record, Output, representation]
+keywords: [Gift, Transaction, Record]
 ---
-
-# Gift Transaction Record Output
 
 > Output representation of a gift transaction record.
 

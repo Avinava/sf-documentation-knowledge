@@ -5,13 +5,11 @@ topic: renewassetssummary-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.037Z
+lastCollected: 2026-04-07T18:35:41.879Z
 estimatedTokens: 213
 namespace: Retrieve
 keywords: [renew_assets_summary, Retrieve, renewable, assets, renewal, opportunities, renew, _assets, _summary]
 ---
-
-# renew_assets_summary Namespace
 
 > Retrieve details about renewable assets to create renewal opportunities.
 

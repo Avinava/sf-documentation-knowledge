@@ -5,12 +5,10 @@ topic: endchat-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.565Z
+lastCollected: 2026-04-07T18:36:49.715Z
 estimatedTokens: 165
-keywords: [endChat, Lightning, Experience, Ends, chat, agent, currently, engaged, works, console, apps, Arguments, argumentObj, Sample, Code]
+keywords: [Arguments, endChat, Lightning, Experience, Ends, chat, agent, currently, engaged, works, console, apps, argumentObj, Sample, Code]
 ---
-
-# endChat() for Lightning Experience
 
 > Ends a chat in which an agent is currently engaged. This method works only in
    Lightning console apps.

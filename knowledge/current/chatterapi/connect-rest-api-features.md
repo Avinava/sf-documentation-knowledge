@@ -5,12 +5,10 @@ topic: connect-rest-api-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.808Z
+lastCollected: 2026-04-07T18:37:23.860Z
 estimatedTokens: 537
 keywords: [Connect, REST, API, Features, resources, work]
 ---
-
-# Connect REST API Features
 
 > Find the resources to work with Connect REST API features.
 

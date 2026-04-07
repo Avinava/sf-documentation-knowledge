@@ -5,12 +5,10 @@ topic: apexactionregion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.976Z
+lastCollected: 2026-04-07T18:38:48.922Z
 estimatedTokens: 628
-keywords: [apex, actionRegion, area, Visualforce, demarcates, components, processed, Force.com, server, AJAX, generated, Attributes]
+keywords: [Attributes, apex, actionRegion, area, Visualforce, demarcates, processed, Force.com, server, AJAX, generated]
 ---
-
-# apex:actionRegion
 
 > An area of a Visualforce page that demarcates which components
 		should be processed by the Force.com server when an AJAX request is

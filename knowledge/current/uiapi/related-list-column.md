@@ -5,12 +5,10 @@ topic: related-list-column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.140Z
+lastCollected: 2026-04-07T18:40:12.151Z
 estimatedTokens: 414
 keywords: [Column]
 ---
-
-# Related List Column
 
 > A column in a related list.
 

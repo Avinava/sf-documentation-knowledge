@@ -5,12 +5,10 @@ topic: extend-journey-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.103Z
+lastCollected: 2026-04-07T18:40:21.381Z
 estimatedTokens: 191
-keywords: [Extend, Journey, Builder, includes, numerous, useful, out-of-the-box, components, marketers, developers, canvas, Items]
+keywords: [Extend, Journey, Builder, includes, numerous, useful, out-of-the-box, marketers, developers, canvas, Items]
 ---
-
-# Extend Journey Builder
 
 > Journey Builder includes numerous useful out-of-the-box journey components for marketers and developers who use the Journey Builder canvas.
 

@@ -5,12 +5,10 @@ topic: orc---common-order-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.449Z
+lastCollected: 2026-04-07T18:37:44.780Z
 estimatedTokens: 481
-keywords: [ORC, Common, Order, Segment, HL7, maps, primarily, ClinicalServiceRequest, MedicationRequest, objects, Salesforce, V2.3, Clinical, Data, Model]
+keywords: [ORC, Common, Order, Segment, HL7, maps, primarily, ClinicalServiceRequest, MedicationRequest, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# ORC - Common Order Segment
 
 > The Common Order Segment (ORC) HL7 segment maps primarily to the ClinicalServiceRequest and MedicationRequest objects in Salesforce.
 

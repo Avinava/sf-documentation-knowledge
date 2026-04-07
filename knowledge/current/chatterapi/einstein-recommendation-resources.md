@@ -5,12 +5,10 @@ topic: einstein-recommendation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.374Z
+lastCollected: 2026-04-07T18:37:13.325Z
 estimatedTokens: 115
 keywords: [Einstein, Recommendation, Resources, runtime, metrics, Article, Reply, Recommendations]
 ---
-
-# Einstein Recommendation Resources
 
 > Get runtime metrics for Einstein Article and Einstein Reply
     Recommendations.

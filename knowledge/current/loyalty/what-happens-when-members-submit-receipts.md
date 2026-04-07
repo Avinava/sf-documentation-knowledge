@@ -5,12 +5,10 @@ topic: what-happens-when-members-submit-receipts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.795Z
+lastCollected: 2026-04-07T18:38:09.091Z
 estimatedTokens: 293
 keywords: [Happens, Members, Submit, Receipts, they, view, submitted, line, items, rewarded, their, loyalty, management, mobile, app]
 ---
-
-# What Happens When Members Submit Receipts
 
 > After members submit receipts, they can view the submitted receipts and the line items
   for which they are rewarded from their loyalty management mobile app.

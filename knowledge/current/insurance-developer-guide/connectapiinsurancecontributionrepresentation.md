@@ -5,12 +5,10 @@ topic: connectapiinsurancecontributionrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.573Z
+lastCollected: 2026-04-07T18:37:50.436Z
 estimatedTokens: 139
-keywords: [Output, representation, contribution, individual, rating]
+keywords: [contribution, individual, rating]
 ---
-
-# ConnectApi.InsuranceContributionRepresentation
 
 > Output representation of contribution information in individual rating.
 

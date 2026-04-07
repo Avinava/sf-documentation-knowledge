@@ -5,12 +5,10 @@ topic: isobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.455Z
+lastCollected: 2026-04-07T18:38:05.664Z
 estimatedTokens: 103
-keywords: [isObject, Checks, whether, DOM, element, native, browser, XMLHttpRequest, falsey, array, error, function, number]
+keywords: [isObject, Checks, whether, DOM, native, browser, XMLHttpRequest, falsey, array, error, function, number]
 ---
-
-# isObject()
 
 > Checks whether the specified object is a valid object. A valid object
    is not a DOM element, is not a native browser class (XMLHttpRequest) is not falsey, and is not an array, error, function string or a

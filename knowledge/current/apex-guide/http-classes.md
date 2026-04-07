@@ -5,12 +5,10 @@ topic: http-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.424Z
+lastCollected: 2026-04-07T18:36:16.643Z
 estimatedTokens: 1171
-keywords: [HTTP, Classes, expose, functionality, Considerations]
+keywords: [Considerations, HTTP, Classes, expose, functionality]
 ---
-
-# HTTP Classes
 
 > These classes expose the HTTP request and response functionality.
 

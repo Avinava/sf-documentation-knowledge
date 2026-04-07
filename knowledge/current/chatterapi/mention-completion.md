@@ -5,12 +5,10 @@ topic: mention-completion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.537Z
+lastCollected: 2026-04-07T18:37:20.721Z
 estimatedTokens: 469
 keywords: [Mention, Completion, record, @mention, user, group]
 ---
-
-# Mention Completion
 
 > Information about a record that could be used to @mention a user or group.
 

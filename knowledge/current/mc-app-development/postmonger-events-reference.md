@@ -5,12 +5,10 @@ topic: postmonger-events-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.215Z
+lastCollected: 2026-04-07T18:40:21.490Z
 estimatedTokens: 2292
-keywords: [Postmonger, Events, any, custom, journey, component, loads, file, app, acts, mediator, configuration, iframe, Builder, Broadcast]
+keywords: [Postmonger, Events, any, journey, loads, file, app, acts, mediator, configuration, iframe, Builder, Broadcast, Activity, Items]
 ---
-
-# Postmonger Events Reference
 
 > Postmonger is required for use with any custom journey component. It loads from a custom .js file in your app and acts as a mediator between your configuration app in the iframe and Journey Builder.
 

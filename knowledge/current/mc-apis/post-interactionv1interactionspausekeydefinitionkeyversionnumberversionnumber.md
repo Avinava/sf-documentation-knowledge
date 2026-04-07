@@ -5,12 +5,10 @@ topic: post-interactionv1interactionspausekeydefinitionkeyversionnumberversionnu
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.958Z
+lastCollected: 2026-04-07T18:40:14.980Z
 estimatedTokens: 676
-keywords: [POST, interaction, interactions, pause, key, definitionKey, versionNumber=, versionNumber, Pauses, running, journey, matches, **Overview**, Usage, Errors]
+keywords: [POST, interaction, interactions, pause, key, definitionKey, versionNumber=, versionNumber, Pauses, running, journey, matches, **Overview**, Errors]
 ---
-
-# POST /interaction/v1/interactions/pause/key:{definitionKey}?versionNumber={versionNumber}
 
 > Pauses the running journey that matches the specified definitionKey.
 

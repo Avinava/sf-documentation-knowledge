@@ -5,12 +5,10 @@ topic: journey-builder-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.533Z
+lastCollected: 2026-04-07T18:40:17.715Z
 estimatedTokens: 401
-keywords: [Journey, Builder, API, Marketers, event-driven, responsive, campaigns, distribute, across, any, channel, online, offline, time, frequency]
+keywords: [Journey, Builder, API, Marketers, event-driven, responsive, campaigns, distribute, across, any, channel, online, offline, time, frequency, designing, individualized, customer, communication, plans, top, robust, marketing, engine, Built, Extend, Builder's, Capabilities, Items]
 ---
-
-# Journey Builder API
 
 > Marketers use Journey Builder to create event-driven, responsive campaigns to distribute across any channel (online and offline), at any time, at any frequency. Journey Builder provides an interface for designing individualized customer communication plans on top of a robust marketing engine. Built 
 

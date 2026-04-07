@@ -5,12 +5,10 @@ topic: checking-csv-export-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.146Z
+lastCollected: 2026-04-07T18:39:11.748Z
 estimatedTokens: 63
 keywords: [Checking, CSV, Export, Status, step, check]
 ---
-
-# Checking CSV Export Status
 
 > The next step is to check the status of this
         export.

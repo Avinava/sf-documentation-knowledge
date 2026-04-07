@@ -5,12 +5,10 @@ topic: getservicepresencestatusid-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.704Z
+lastCollected: 2026-04-07T18:36:49.875Z
 estimatedTokens: 143
 keywords: [getServicePresenceStatusId, Lightning, Experience, Retrieves, agent’s, current, presence, status, Sample, Code]
 ---
-
-# getServicePresenceStatusId for Lightning Experience
 
 > Retrieves an agent’s current presence status.
 

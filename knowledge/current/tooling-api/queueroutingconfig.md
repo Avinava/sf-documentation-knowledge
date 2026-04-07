@@ -5,12 +5,10 @@ topic: queueroutingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.737Z
+lastCollected: 2026-04-07T18:36:34.061Z
 estimatedTokens: 1030
-keywords: [QueueRoutingConfig, configuration, settings, determine, how, work, items, routed, agents, API, version, 65.0, later, SOAP, Calls]
+keywords: [QueueRoutingConfig, configuration, settings, determine, how, work, items, routed, agents, API, 65.0, SOAP, REST]
 ---
-
-# QueueRoutingConfig
 
 > Represents configuration settings that determine how work items are routed to
          agents. This object is available in API version 65.0 and later.

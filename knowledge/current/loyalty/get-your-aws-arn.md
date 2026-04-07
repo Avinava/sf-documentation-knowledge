@@ -5,12 +5,10 @@ topic: get-your-aws-arn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.828Z
+lastCollected: 2026-04-07T18:38:09.123Z
 estimatedTokens: 226
-keywords: [AWS, ARN, Identity, Access, Management, IAM, role, created, policy, attached, copy, unique, identifiers, resources, Amazon]
+keywords: [AWS, ARN, Identity, Management, IAM, role, created, policy, attached, copy, unique, identifiers, resources, Amazon, Resource, API, gateway]
 ---
-
-# Get Your AWS ARN
 
 > After the Identity and Access Management (IAM) role is created, and a policy is attached
   to the role, you can copy the unique identifiers of AWS resources, Amazon Resource Names (ARN).

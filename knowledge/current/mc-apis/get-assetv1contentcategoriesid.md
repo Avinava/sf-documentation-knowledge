@@ -5,12 +5,10 @@ topic: get-assetv1contentcategoriesid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.989Z
+lastCollected: 2026-04-07T18:40:17.139Z
 estimatedTokens: 182
 keywords: [asset, content, categories, Builder, category, **Overview**]
 ---
-
-# GET /asset/v1/content/categories/{id}
 
 > Returns one Content Builder category by ID.
 

@@ -5,12 +5,10 @@ topic: assign-a-permission-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.925Z
+lastCollected: 2026-04-07T18:36:51.225Z
 estimatedTokens: 85
 keywords: [Assign, Permission]
 ---
-
-# Assign a Permission Set
 
 # Assign a Permission Set
 

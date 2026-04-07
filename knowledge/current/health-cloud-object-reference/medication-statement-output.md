@@ -5,12 +5,10 @@ topic: medication-statement-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.752Z
+lastCollected: 2026-04-07T18:37:41.875Z
 estimatedTokens: 185
-keywords: [Medication, Statement, Output, representation]
+keywords: [Medication, Statement]
 ---
-
-# Medication Statement Output
 
 > Output representation of the medication statement create
     request.

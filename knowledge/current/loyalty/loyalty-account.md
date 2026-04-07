@@ -5,12 +5,10 @@ topic: loyalty-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.717Z
+lastCollected: 2026-04-07T18:38:07.958Z
 estimatedTokens: 96
-keywords: [Loyalty, Account, program, member's, associated, record]
+keywords: [Loyalty, Account, program, member's, record]
 ---
-
-# Loyalty Account
 
 > Represents the details of the loyalty program member's associated
       account record.

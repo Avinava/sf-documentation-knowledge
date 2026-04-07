@@ -5,12 +5,10 @@ topic: dashboard-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.478Z
+lastCollected: 2026-04-07T18:36:55.957Z
 estimatedTokens: 371
-keywords: [Dashboard, Resource, deletes, updates, API, URL, Formats, Version, Postman, Components, HTTP, PATCH]
+keywords: [Formats, Dashboard, Resource, deletes, updates, API, URL, Postman, HTTP, PATCH]
 ---
-
-# Dashboard Resource
 
 > Returns, deletes, or updates the dashboard with the specified ID or
       API name.

@@ -5,12 +5,10 @@ topic: applicationrendermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:32.565Z
+lastCollected: 2026-04-07T18:38:23.460Z
 estimatedTokens: 872
-keywords: [ApplicationRenderMethod, how, part, application, rendered, Grantmaking, API, version, 61.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ApplicationRenderMethod, how, part, application, rendered, Grantmaking, API, 61.0]
 ---
-
-# ApplicationRenderMethod
 
 > Represents how a part of an application can be rendered. This object is
       available in Grantmaking API version 61.0 and later.

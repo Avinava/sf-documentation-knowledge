@@ -5,12 +5,10 @@ topic: managed-content-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.394Z
+lastCollected: 2026-04-07T18:37:20.581Z
 estimatedTokens: 162
 keywords: [Managed, Content]
 ---
-
-# Managed Content Type
 
 > Managed content type.
 

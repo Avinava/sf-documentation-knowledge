@@ -5,12 +5,10 @@ topic: data-processing-engine-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:02.094Z
+lastCollected: 2026-04-07T18:35:47.118Z
 estimatedTokens: 204
-keywords: [Data, Processing, Engine, Additional, know, deployment, Revenue, Cloud, Considerations]
+keywords: [Processing, Engine, Additional, know, deployment, Revenue, Cloud, Considerations]
 ---
-
-# Data Processing Engine Additional Information
 
 > Get to know additional deployment information for Data Processing Engine in Revenue
     Cloud.

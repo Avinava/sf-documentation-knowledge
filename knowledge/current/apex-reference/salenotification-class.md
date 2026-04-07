@@ -5,13 +5,11 @@ topic: salenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.883Z
+lastCollected: 2026-04-07T18:36:02.101Z
 estimatedTokens: 2850
 namespace: SaleNotification
-keywords: [SaleNotification, payment, gateway, notification, sale, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate]
+keywords: [SaleNotification, payment, gateway, notification, sale, adapter, creates, store, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setId, setRetryCategory, retryCategory, setRetryDecision, retryDecision, setSalesforceResultCodeInfo, salesforceResultCodeInfo, setStatus, status]
 ---
-
-# SaleNotification Class
 
 > When a payment gateway sends a notification for a sale payment, the
       payment gateway adapter creates the SaleNotification

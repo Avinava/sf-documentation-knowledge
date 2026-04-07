@@ -5,12 +5,10 @@ topic: preference-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.604Z
+lastCollected: 2026-04-07T18:35:42.490Z
 estimatedTokens: 170
 keywords: [Preference, Rule, encourages, constraint, solver, satisfy, condition, doesn't, enforce, can't, met]
 ---
-
-# Preference Rule
 
 > The preference rule encourages the constraint solver to satisfy the condition, but
     doesn't enforce it if the condition can't be met.

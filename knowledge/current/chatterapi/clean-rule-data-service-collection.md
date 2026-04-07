@@ -5,12 +5,10 @@ topic: clean-rule-data-service-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.393Z
+lastCollected: 2026-04-07T18:37:17.466Z
 estimatedTokens: 104
-keywords: [Clean, Rule, Data, Service, Collection, services, associated, active, integration, rules, organization]
+keywords: [Clean, Rule, Service, Collection, services, active, integration, organization]
 ---
-
-# Clean Rule Data Service Collection
 
 > Data services associated with all active data integration rules in
       an organization.

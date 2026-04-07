@@ -5,12 +5,10 @@ topic: personlifeeventhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.477Z
+lastCollected: 2026-04-07T18:39:54.016Z
 estimatedTokens: 264
-keywords: [PersonLifeEventHistory, History, tracked, PersonLifeEvent]
+keywords: [PersonLifeEventHistory, tracked, PersonLifeEvent]
 ---
-
-# PersonLifeEventHistory
 
 > History for tracked fields of PersonLifeEvent.
 

@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-index-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.810Z
+lastCollected: 2026-04-07T18:37:12.690Z
 estimatedTokens: 169
 keywords: [Commerce, Management, Webstore, Search, Index, Logs]
 ---
-
-# Commerce Management Webstore Search, Index Logs
 
 > Get search index logs for a webstore.
 

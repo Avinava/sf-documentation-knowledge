@@ -5,12 +5,10 @@ topic: post-auth-gateway-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.703Z
+lastCollected: 2026-04-07T18:37:21.815Z
 estimatedTokens: 339
 keywords: [Post, Auth, Gateway, authorization, payment]
 ---
-
-# Post Auth Gateway Response
 
 > Post authorization payment gateway response.
 

@@ -5,12 +5,10 @@ topic: restrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.538Z
+lastCollected: 2026-04-07T18:40:24.947Z
 estimatedTokens: 1475
-keywords: [RestRequest, natively, handles, standard, Salesforce, data, operations, offered, REST, API, SOAP, creates, formats, requests, app]
+keywords: [RestRequest, natively, handles, standard, Salesforce, operations, offered, REST, API, SOAP, creates, formats, requests, app, implemented, Mobile, SDK, serves, factory, specialized]
 ---
-
-# RestRequest Class
 
 > The RestRequest class natively handles the standard
          Salesforce data operations offered by the Salesforce REST API and SOAP API. It creates and

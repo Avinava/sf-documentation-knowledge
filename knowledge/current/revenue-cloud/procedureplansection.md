@@ -5,12 +5,10 @@ topic: procedureplansection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.041Z
+lastCollected: 2026-04-07T18:35:50.902Z
 estimatedTokens: 594
-keywords: [ProcedurePlanSection, various, procedure, setup, sections, plan, definition, further, determined, rule-based, criteria, selected, lookup, API, version]
+keywords: [ProcedurePlanSection, various, procedure, setup, sections, plan, definition, further, determined, rule-based, criteria, selected, lookup, API, 62.0, SOAP, REST]
 ---
-
-# ProcedurePlanSection
 
 > Represents various procedure setup sections for a procedure plan
          definition. Each section enables the setup of a procedure of a type that can be further

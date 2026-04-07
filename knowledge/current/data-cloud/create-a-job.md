@@ -5,12 +5,10 @@ topic: create-a-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.285Z
+lastCollected: 2026-04-07T18:35:51.143Z
 estimatedTokens: 436
-keywords: [Job, Creates, bulk, operation, loading, data, Cloud, org]
+keywords: [Job, Creates, bulk, operation, loading, Cloud, org]
 ---
-
-# Create a Job
 
 > Creates a job that represents the bulk operation for loading data into the Data Cloud org.
 

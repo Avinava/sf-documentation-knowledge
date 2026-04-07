@@ -5,12 +5,10 @@ topic: messagingconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.334Z
+lastCollected: 2026-04-07T18:39:48.791Z
 estimatedTokens: 335
-keywords: [MessagingConfiguration, Messaging, configuration, API, version, 47.0, later]
+keywords: [MessagingConfiguration, Messaging, configuration, API, 47.0]
 ---
-
-# MessagingConfiguration
 
 > Represents the details for a Messaging configuration. This
       object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: file-share-link-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.626Z
+lastCollected: 2026-04-07T18:37:08.467Z
 estimatedTokens: 166
-keywords: [File, Share, Link, Input]
+keywords: [File, Share, Link]
 ---
-
-# File Share Link Input
 
 > File share link input.
 

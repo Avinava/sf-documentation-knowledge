@@ -5,12 +5,10 @@ topic: cluster-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.519Z
+lastCollected: 2026-04-07T18:39:18.205Z
 estimatedTokens: 117
-keywords: [Cluster, Node, Input, recipe]
+keywords: [Cluster, Node, recipe]
 ---
-
-# Cluster Node Input
 
 > A cluster node in a recipe.
 

@@ -5,12 +5,10 @@ topic: build-the-resource-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.937Z
+lastCollected: 2026-04-07T18:37:23.980Z
 estimatedTokens: 451
-keywords: [Build, Resource, URL, Access, Connect, REST, API, resources, URI, company's, instance, combined, version, Experience, Cloud]
+keywords: [Build, Resource, URL, Connect, REST, API, resources, URI, company's, instance, combined, Experience, Cloud, site]
 ---
-
-# Build the Resource URL
 
 > Access Connect REST API resources by using the URI for your company's instance,
       combined with version and Experience Cloud site information, and the URI for the

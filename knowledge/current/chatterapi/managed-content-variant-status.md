@@ -5,12 +5,10 @@ topic: managed-content-variant-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.448Z
+lastCollected: 2026-04-07T18:37:20.634Z
 estimatedTokens: 196
 keywords: [Managed, Content, Variant, Status, variant's, authoring, space]
 ---
-
-# Managed Content Variant Status
 
 > Information about a managed content variant's status in the authoring
       space.

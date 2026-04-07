@@ -5,12 +5,10 @@ topic: sales-marketing-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.001Z
+lastCollected: 2026-04-07T18:39:16.545Z
 estimatedTokens: 54
-keywords: [Sales, Marketing, Dashboards, easy, people, various, roles, gauge, state, campaigns, leads, opportunities, their, organization, teams]
+keywords: [Sales, Marketing, Dashboards, easy, people, various, roles, gauge, state, campaigns, leads, opportunities, their, organization, teams, themselves]
 ---
-
-# Sales & Marketing Dashboards
 
 > These dashboards make it easy for people in various sales and marketing
 roles to gauge the state of campaigns, leads, and opportunities for

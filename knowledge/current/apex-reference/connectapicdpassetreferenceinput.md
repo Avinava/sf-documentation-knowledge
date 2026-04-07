@@ -5,12 +5,10 @@ topic: connectapicdpassetreferenceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.522Z
+lastCollected: 2026-04-07T18:36:04.863Z
 estimatedTokens: 118
 keywords: [ConnectApi.CdpAssetReferenceInput, Refernce, model, asset, prediction]
 ---
-
-# ConnectApi.CdpAssetReferenceInput
 
 > Refernce to the model asset to use for the prediction request.
 

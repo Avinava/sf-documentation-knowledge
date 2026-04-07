@@ -5,12 +5,10 @@ topic: assessmentquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:48.158Z
+lastCollected: 2026-04-07T18:37:35.848Z
 estimatedTokens: 1402
-keywords: [AssessmentQuestion, container, stores, questions, assessment, Parent, File, Suffix, Directory, Location, Version, AssessmentQuestionVersion​​, Declarative, Metadata, Sample]
+keywords: [AssessmentQuestion, container, stores, questions, assessment, Parent, File, Suffix, Directory, Location, AssessmentQuestionVersion​​, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AssessmentQuestion
 
 > Represents the container object that stores the questions
 			required for an assessment.

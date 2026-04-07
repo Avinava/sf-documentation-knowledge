@@ -5,12 +5,10 @@ topic: regulatorytrxnfeeitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.902Z
+lastCollected: 2026-04-07T18:39:59.566Z
 estimatedTokens: 363
-keywords: [RegulatoryTrxnFeeItemFeed, Feed, tracking, RegulatoryTrxnFeeItem]
+keywords: [RegulatoryTrxnFeeItemFeed, RegulatoryTrxnFeeItem]
 ---
-
-# RegulatoryTrxnFeeItemFeed
 
 > Feed tracking for RegulatoryTrxnFeeItem.
 

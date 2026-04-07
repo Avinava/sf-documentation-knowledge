@@ -5,13 +5,11 @@ topic: oauthtoken-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.346Z
+lastCollected: 2026-04-07T18:35:59.627Z
 estimatedTokens: 714
 namespace: Auth
-keywords: [OauthToken, revoke, OAuth, access, tokens, refresh, supports, opaque, JSON, Web, Token, JWT, -based, including, guest]
+keywords: [OauthToken, revoke, OAuth, tokens, refresh, supports, opaque, JSON, Web, Token, JWT, -based, including, guest, named, user, JWT-based, revokeToken, authToken]
 ---
-
-# OauthToken Class
 
 > Contains a method to revoke OAuth access tokens and refresh tokens. This method supports
     opaque tokens and JSON Web Token (JWT)-based access tokens, including guest and named user

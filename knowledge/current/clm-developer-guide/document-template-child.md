@@ -5,12 +5,10 @@ topic: document-template-child
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.248Z
+lastCollected: 2026-04-07T18:37:25.182Z
 estimatedTokens: 142
-keywords: [Document, Template, Child, Output, representation, record]
+keywords: [Document, Template, Child, record]
 ---
-
-# Document Template Child
 
 > Output representation of the document template child record.
 

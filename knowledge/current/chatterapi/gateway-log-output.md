@@ -5,12 +5,10 @@ topic: gateway-log-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.494Z
+lastCollected: 2026-04-07T18:37:19.648Z
 estimatedTokens: 169
-keywords: [Gateway, Log, Output, representation]
+keywords: [Gateway, Log]
 ---
-
-# Gateway Log Output
 
 > Gateway log output representation.
 

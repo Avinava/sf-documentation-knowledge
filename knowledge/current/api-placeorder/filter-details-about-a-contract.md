@@ -5,12 +5,10 @@ topic: filter-details-about-a-contract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.777Z
+lastCollected: 2026-04-07T18:36:51.061Z
 estimatedTokens: 136
 keywords: [Filter, Contract, Here’s, Contract-based, Orders, resource, query, contract’s, activated]
 ---
-
-# Filter Details About a Contract
 
 > Here’s an example of a GET request using the Contract-based Orders resource to query a given contract’s activated orders.
 

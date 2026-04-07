@@ -5,12 +5,10 @@ topic: busregauthtypedependencyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.329Z
+lastCollected: 2026-04-07T18:39:30.528Z
 estimatedTokens: 287
-keywords: [BusRegAuthTypeDependencyHistory, History, tracked, BusRegAuthTypeDependency]
+keywords: [BusRegAuthTypeDependencyHistory, tracked, BusRegAuthTypeDependency]
 ---
-
-# BusRegAuthTypeDependencyHistory
 
 > History for tracked fields of BusRegAuthTypeDependency.
 

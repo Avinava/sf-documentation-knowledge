@@ -5,12 +5,10 @@ topic: customize-colors-with-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.579Z
+lastCollected: 2026-04-07T18:40:27.733Z
 estimatedTokens: 794
 keywords: [Customize, Colors, look, feel, specifying, throughout]
 ---
-
-# Customize Colors with the
 
 > You can customize the look and feel of the interface by specifying the colors used
   throughout the UI.

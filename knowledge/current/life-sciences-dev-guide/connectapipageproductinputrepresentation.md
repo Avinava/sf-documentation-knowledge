@@ -5,12 +5,10 @@ topic: connectapipageproductinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.367Z
+lastCollected: 2026-04-07T18:37:54.698Z
 estimatedTokens: 94
-keywords: [Input, representation, creating, deleting, product, guidance, associations, presentation]
+keywords: [creating, deleting, product, guidance, associations, presentation]
 ---
-
-# ConnectApi.PageProductInputRepresentation
 
 > Input representation for creating or deleting product guidance
             associations on a presentation page.

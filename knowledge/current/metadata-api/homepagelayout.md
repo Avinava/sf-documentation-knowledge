@@ -5,12 +5,10 @@ topic: homepagelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.193Z
+lastCollected: 2026-04-07T18:36:26.631Z
 estimatedTokens: 740
-keywords: [HomePageLayout, metadata, associated, home, layout, customize, layouts, assign, users, their, user, profile, File, Suffix, Directory]
+keywords: [HomePageLayout, metadata, home, layout, customize, layouts, assign, users, their, user, profile, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# HomePageLayout
 
 > Represents the metadata associated with a home page
             layout. You can customize home page layouts and assign the layouts to users based on

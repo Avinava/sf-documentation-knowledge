@@ -5,12 +5,10 @@ topic: connectapistandalonecreditmemoinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.642Z
+lastCollected: 2026-04-07T18:35:41.518Z
 estimatedTokens: 437
-keywords: [Input, representation, standalone, credit, memo]
+keywords: [standalone, credit, memo]
 ---
-
-# ConnectApi.StandaloneCreditMemoInputRequest
 
 > Input representation of the details required to create a standalone credit
     memo.

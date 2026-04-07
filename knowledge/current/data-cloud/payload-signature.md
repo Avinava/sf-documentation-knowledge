@@ -5,12 +5,10 @@ topic: payload-signature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.704Z
+lastCollected: 2026-04-07T18:35:51.564Z
 estimatedTokens: 74
 keywords: [Payload, Payload-based, validates, requests, sent, webhook, system, Salesforce]
 ---
-
-# Payload Signature
 
 > Payload-based signature validates the payload requests sent to your webhook system from
   Salesforce.

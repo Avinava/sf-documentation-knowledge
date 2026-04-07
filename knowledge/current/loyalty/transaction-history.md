@@ -5,12 +5,10 @@ topic: transaction-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.434Z
+lastCollected: 2026-04-07T18:38:07.666Z
 estimatedTokens: 396
-keywords: [Transaction, History, journals, loyalty, member, belonging, program, Obtain, either, accrual, redemption, journal, records, Retrieve, member’s, asynchronously, requesting, data, API, Resource]
+keywords: [Transaction, journals, loyalty, member, belonging, program, Obtain, either, accrual, redemption, journal, records, Resource, Retrieve, member’s, asynchronously, requesting, API, Sample]
 ---
-
-# Transaction History
 
 > Retrieve member’s transaction history, while asynchronously requesting data from the
   Transaction History API.

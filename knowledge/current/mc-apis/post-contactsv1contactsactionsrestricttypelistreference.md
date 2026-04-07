@@ -5,12 +5,10 @@ topic: post-contactsv1contactsactionsrestricttypelistreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.411Z
+lastCollected: 2026-04-07T18:40:18.611Z
 estimatedTokens: 344
 keywords: [POST, contacts, actions, restrict?type=listReference, Restricts, processing, identified, listReference, operation, runs, asynchronously, OperationID, check, status, **Overview**]
 ---
-
-# POST /contacts/v1/contacts/actions/restrict?type=listReference
 
 > Restricts processing for contacts identified by listReference values in the request. This operation runs asynchronously. Use the OperationID value returned to check the status of the delete.
 

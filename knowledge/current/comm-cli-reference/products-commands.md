@@ -5,12 +5,10 @@ topic: products-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.923Z
+lastCollected: 2026-04-07T18:37:25.835Z
 estimatedTokens: 537
-keywords: [products, Commands, Prepare, product, data, files, import, commerce, Examples, Command]
+keywords: [products, Commands, Prepare, product, files, import, commerce, Examples, Command]
 ---
-
-# products Commands
 
 > Prepare product data files for import.
 

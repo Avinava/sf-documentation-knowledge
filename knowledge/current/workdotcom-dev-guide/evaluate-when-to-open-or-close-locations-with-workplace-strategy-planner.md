@@ -5,12 +5,10 @@ topic: evaluate-when-to-open-or-close-locations-with-workplace-strategy-planner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.400Z
+lastCollected: 2026-04-07T18:40:14.412Z
 estimatedTokens: 271
-keywords: [Evaluate, Open, Close, Locations, Workplace, Strategy, Planner, add, business, priorities, operating, guidelines, COVID-19, data, Work.com]
+keywords: [Evaluate, Open, Close, Locations, Workplace, Strategy, Planner, add, business, priorities, operating, guidelines, COVID-19, Work.com, org, thresholds, metrics, current, risk, levels, dashboard, visualize, place, help, decisions]
 ---
-
-# Evaluate When to Open or Close Locations with Workplace Strategy Planner
 
 > With Workplace Strategy Planner, add business priorities, operating guidelines, and
   COVID-19 public data to your Work.com org. Set thresholds on metrics to evaluate current risk

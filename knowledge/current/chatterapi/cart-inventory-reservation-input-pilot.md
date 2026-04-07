@@ -5,12 +5,10 @@ topic: cart-inventory-reservation-input-pilot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.798Z
+lastCollected: 2026-04-07T18:37:07.520Z
 estimatedTokens: 254
-keywords: [Cart, Inventory, Reservation, Input, Pilot, representation]
+keywords: [Cart, Inventory, Reservation, Pilot]
 ---
-
-# Cart Inventory Reservation Input (Pilot)
 
 > Input representation to create or update a
     reservation.

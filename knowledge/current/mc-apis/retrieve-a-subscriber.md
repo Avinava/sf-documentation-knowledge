@@ -5,12 +5,10 @@ topic: retrieve-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.521Z
+lastCollected: 2026-04-07T18:40:18.720Z
 estimatedTokens: 463
-keywords: [Retrieve, Subscriber, scenario, how, account, primary, key, whether, email, address, Diagram, Objects, Referenced, Code, Sample, retrieving, via, SOAP, API, Why]
+keywords: [Diagram, Retrieve, Subscriber, scenario, how, account, primary, key, whether, email, address, Referenced, Code, Sample, Links, Case, Center, Items, retrieving, via, SOAP, API, Why, How, NET, PHP, Subscribers, Java, Axis, 1.4, Envelope]
 ---
-
-# Retrieve a Subscriber
 
 > This page contains information  about retrieving a subscriber via the SOAP API.
 

@@ -5,12 +5,10 @@ topic: globalvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.128Z
+lastCollected: 2026-04-07T18:36:26.569Z
 estimatedTokens: 706
-keywords: [GlobalValueSet, metadata, picklist, shared, custom, isn’t, itself, contrast, ValueSet, extends, inherits, fullName, File, Suffix, Directory]
+keywords: [GlobalValueSet, metadata, picklist, shared, isn’t, itself, contrast, ValueSet, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GlobalValueSet
 
 > Represents the metadata for a global picklist value set,
       which is the set of shared values that custom picklist fields can use. A global value set

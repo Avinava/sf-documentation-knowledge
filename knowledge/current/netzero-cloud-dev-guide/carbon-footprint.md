@@ -5,12 +5,10 @@ topic: carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.034Z
+lastCollected: 2026-04-07T18:38:16.602Z
 estimatedTokens: 550
-keywords: [Carbon, Footprint, calculate, organization, Net, Zero, Cloud, employs, energy, usage, records, asset, business, activity, usually]
+keywords: [Carbon, Footprint, calculate, organization, Net, Zero, Cloud, employs, energy, records, asset, business, activity, usually, calendar, fiscal, year, you’re, missing, reporting, period, fill, gaps, manually, estimates, provided, app]
 ---
-
-# Carbon Footprint
 
 > To calculate the carbon footprint of an organization, Net Zero Cloud employs energy
     usage records for an asset or a business activity, usually for the calendar or fiscal year. If

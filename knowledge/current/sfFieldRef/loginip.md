@@ -5,12 +5,10 @@ topic: loginip
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.704Z
+lastCollected: 2026-04-07T18:39:47.177Z
 estimatedTokens: 236
-keywords: [LoginIp, validated, address, version, 28.0, later]
+keywords: [LoginIp, validated, address, 28.0]
 ---
-
-# LoginIp
 
 > Represents a validated IP address. This object is available in
   version 28.0 and later.

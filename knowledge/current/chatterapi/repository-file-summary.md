@@ -5,12 +5,10 @@ topic: repository-file-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.676Z
+lastCollected: 2026-04-07T18:37:22.793Z
 estimatedTokens: 716
 keywords: [Repository, File, Summary]
 ---
-
-# Repository File Summary
 
 > Description of a repository file.
 

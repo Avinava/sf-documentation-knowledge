@@ -5,12 +5,10 @@ topic: flexible-hierarchy-filters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.152Z
+lastCollected: 2026-04-07T18:37:34.714Z
 estimatedTokens: 225
-keywords: [Flexible, Hierarchy, Filters, Input, representation, filter, conditions, expression, bulk, validation]
+keywords: [Flexible, Hierarchy, Filters, filter, conditions, expression, bulk, validation]
 ---
-
-# Flexible Hierarchy Filters Input
 
 > Input representation for filter conditions and expression used in
         bulk validation.

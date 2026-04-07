@@ -5,12 +5,10 @@ topic: contractdocversionsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.563Z
+lastCollected: 2026-04-07T18:37:25.489Z
 estimatedTokens: 1206
-keywords: [ContractDocVersionSection, Tracks, contract, document, sections, lifecycle, stages, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [ContractDocVersionSection, Tracks, contract, document, sections, lifecycle, stages, API, 56.0]
 ---
-
-# ContractDocVersionSection
 
 > Tracks contract document sections through contract lifecycle stages. This object is
       available in API version 56.0 and later.

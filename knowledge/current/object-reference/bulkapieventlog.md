@@ -5,12 +5,10 @@ topic: bulkapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.961Z
+lastCollected: 2026-04-07T18:38:26.940Z
 estimatedTokens: 892
-keywords: [BulkApiEventLog, Bulk, API, event, logs, contain, requests, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [BulkApiEventLog, Bulk, API, event, logs, contain, requests, 61.0]
 ---
-
-# BulkApiEventLog
 
 > Bulk API event logs contain details about Bulk API requests. This object
       is available in API version

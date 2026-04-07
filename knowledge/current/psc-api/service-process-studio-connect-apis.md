@@ -5,12 +5,10 @@ topic: service-process-studio-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.280Z
+lastCollected: 2026-04-07T18:39:05.274Z
 estimatedTokens: 194
-keywords: [Service, Process, Studio, Connect, APIs, API, extended, Case, includes, custom, data, customer, fee, reversal, address]
+keywords: [Service, Process, Studio, Connect, APIs, API, extended, Case, includes, customer, fee, reversal, address]
 ---
-
-# Service Process Studio Connect APIs
 
 > Use the Service Process Studio Connect API to create an extended Case object that
     includes custom data about a customer request such as a fee reversal or address

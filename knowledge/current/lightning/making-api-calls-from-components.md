@@ -5,12 +5,10 @@ topic: making-api-calls-from-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.229Z
+lastCollected: 2026-04-07T18:38:04.361Z
 estimatedTokens: 527
-keywords: [Making, API, Calls, Components, can’t, third-party, APIs, client-side, code, Add, remote, site, Trusted, URL, Content]
+keywords: [Making, API, can’t, third-party, APIs, client-side, code, Add, remote, site, Trusted, URL, Content, Security, Policy, CSP, directives, allow, load, assets, requests, site’s, domain]
 ---
-
-# Making API Calls from Components
 
 > By default, you can’t make calls to third-party APIs from client-side code. Add a remote
   site as a Trusted URL with Content Security Policy (CSP) directives to allow client-side component

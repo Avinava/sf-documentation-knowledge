@@ -5,12 +5,10 @@ topic: daily-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.296Z
+lastCollected: 2026-04-07T18:36:54.655Z
 estimatedTokens: 73
-keywords: [Daily, Schedule, Input, Specify, Analytics, asset]
+keywords: [Daily, Schedule, Specify, Analytics, asset]
 ---
-
-# Daily Schedule Input
 
 > Specify a daily schedule for an Analytics asset.
 

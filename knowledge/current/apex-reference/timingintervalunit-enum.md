@@ -5,12 +5,10 @@ topic: timingintervalunit-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.343Z
+lastCollected: 2026-04-07T18:36:12.637Z
 estimatedTokens: 90
 keywords: [TimingIntervalUnit, enumerated, timing, interval]
 ---
-
-# TimingIntervalUnit Enum
 
 > Represents an enumerated type that describes the timing interval.
 

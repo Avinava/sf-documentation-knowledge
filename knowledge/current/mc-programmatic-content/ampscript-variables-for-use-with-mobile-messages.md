@@ -5,12 +5,10 @@ topic: ampscript-variables-for-use-with-mobile-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.245Z
+lastCollected: 2026-04-07T18:40:22.659Z
 estimatedTokens: 1038
-keywords: [AMPscript, Variables, Mobile, Messages, sent, via, MobileConnect, apply, cannot, include, email, landing, pages, functionality, functions]
+keywords: [Arguments, Examples, AMPscript, Variables, Mobile, Messages, sent, via, MobileConnect, apply, cannot, include, email, landing, pages, functionality, functions, specific, keywords, media, URLs, MMS, _CONTENT, _URL, MSG, NOUN, Sample, Items]
 ---
-
-# AMPscript Variables for Use with Mobile Messages
 
 > Use these variables with mobile messages sent via MobileConnect. These variables apply only to mobile messages. You cannot include them in email messages, landing pages, or other functionality. These functions return specific values that apply only to mobile messages, such as keywords or media URLs.
 

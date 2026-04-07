@@ -5,12 +5,10 @@ topic: allocate-carbon-credits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.972Z
+lastCollected: 2026-04-07T18:38:16.535Z
 estimatedTokens: 394
 keywords: [Allocate, Carbon, Credits, offset, unavoidable, emissions]
 ---
-
-# Allocate Carbon Credits
 
 > Allocate carbon credits to offset the unavoidable emissions.
 

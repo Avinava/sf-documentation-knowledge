@@ -5,12 +5,10 @@ topic: code-analyzer-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:54.158Z
+lastCollected: 2026-04-07T18:35:38.949Z
 estimatedTokens: 6757
-keywords: [code-analyzer, Commands, Output, current, state, configuration, Code, Analyzer, config, Examples, Flags, rules, run]
+keywords: [Flags, code-analyzer, Commands, current, state, configuration, Code, Analyzer, config, Examples, run]
 ---
-
-# code-analyzer Commands
 
 > Output the current state of configuration for Code Analyzer.
 

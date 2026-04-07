@@ -5,12 +5,10 @@ topic: unbundled-promotions-a-deeper-look
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.455Z
+lastCollected: 2026-04-07T18:37:28.476Z
 estimatedTokens: 2715
-keywords: [Unbundled, Promotions, Deeper, Look, Now, know, main, custom, objects, involved, promotion, let’s, step, different, phases]
+keywords: [Unbundled, Promotions, Deeper, Look, Now, know, main, involved, promotion, let’s, step, different, phases, check, status, phase, State, Succeeds, Fails, Variation, Multiple, Work, Items, Externally, Merged, Change]
 ---
-
-# Unbundled Promotions: A Deeper Look
 
 > Now that we know the main custom objects involved in an unbundled promotion, let’s step
   through the different phases of the promotion and check the status of these objects at each phase.

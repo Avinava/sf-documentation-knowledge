@@ -5,12 +5,10 @@ topic: giftdefaultsoftcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.848Z
+lastCollected: 2026-04-07T18:38:21.720Z
 estimatedTokens: 1013
-keywords: [GiftDefaultSoftCredit, allocation, soft, credits, gift, commitment, transactions, created, recurrence, engine, credited, constituents, influenced, API, version]
+keywords: [GiftDefaultSoftCredit, allocation, soft, credits, gift, commitment, transactions, created, recurrence, engine, credited, constituents, influenced, API, 62.0]
 ---
-
-# GiftDefaultSoftCredit
 
 > Represents the default allocation for soft credits on gift commitment
          transactions that are created by a recurrence engine and credited to constituents who

@@ -5,12 +5,10 @@ topic: apexoutputfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.995Z
+lastCollected: 2026-04-07T18:38:50.247Z
 estimatedTokens: 800
-keywords: [apex, outputField, read-only, display, label, Salesforce, <apex, outputField>, component, respects, attributes, associated, including, how, it’s]
+keywords: [Attributes, apex, outputField, read-only, display, label, Salesforce, <apex, outputField>, respects, including, how, it’s, user, currency, appropriat]
 ---
-
-# apex:outputField
 
 > A read-only display of a label and value for a field on a Salesforce object. An <apex:outputField> component respects the
 			attributes of the associated field, including how it’s displayed to the user. For

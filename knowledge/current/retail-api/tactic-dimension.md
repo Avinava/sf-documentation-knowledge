@@ -5,12 +5,10 @@ topic: tactic-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.368Z
+lastCollected: 2026-04-07T18:39:11.899Z
 estimatedTokens: 201
 keywords: [Tactic, Dimension, configure, integration, exports, sales, org, CSV, executed, meta, JSON]
 ---
-
-# Tactic Dimension
 
 > You must configure the tactic dimension for integration exports for each sales org on
   which CSV exports is executed.

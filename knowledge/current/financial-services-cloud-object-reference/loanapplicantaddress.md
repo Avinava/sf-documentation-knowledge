@@ -5,12 +5,10 @@ topic: loanapplicantaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.295Z
+lastCollected: 2026-04-07T18:37:38.127Z
 estimatedTokens: 1190
-keywords: [LoanApplicantAddress, borrower's, co-borrower's, current, address, API, version, XX.0, later, Calls, Associated, Objects]
+keywords: [LoanApplicantAddress, borrower's, co-borrower's, current, address, API, XX.0]
 ---
-
-# LoanApplicantAddress
 
 > Represents borrower's or co-borrower's current address information.
 		This object is available in API version XX.0 and later.

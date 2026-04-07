@@ -5,12 +5,10 @@ topic: billing-fields-on-billingaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.338Z
+lastCollected: 2026-04-07T18:35:42.207Z
 estimatedTokens: 1437
-keywords: [Billing, BillingAccount, Standard, extend, represent, suspension, date, resumption, API, version, 63.0, later, Calls, Special, Access]
+keywords: [Billing, BillingAccount, Standard, extend, represent, suspension, date, resumption, API, 63.0]
 ---
-
-# Billing Fields on BillingAccount
 
 > Standard fields extend the BillingAccount object for use in Billing
          to represent information about the billing suspension date and the billing resumption

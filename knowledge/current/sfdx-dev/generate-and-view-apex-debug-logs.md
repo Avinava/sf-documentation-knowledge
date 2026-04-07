@@ -5,12 +5,10 @@ topic: generate-and-view-apex-debug-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.105Z
+lastCollected: 2026-04-07T18:40:08.062Z
 estimatedTokens: 300
-keywords: [Generate, View, Apex, Debug, Logs, record, database, operations, system, processes, errors, occur, executing, transaction, running]
+keywords: [Generate, View, Apex, Debug, Logs, record, database, operations, system, processes, errors, occur, executing, transaction, running, unit, tests, any, authenticated, org, Enable, Log, Salesforce, Extensions, Code, CLI]
 ---
-
-# Generate and View Apex Debug Logs
 
 > Apex debug logs can record database operations, system processes, and errors that occur
   when executing a transaction or running unit tests in any authenticated org. Enable the Debug Log

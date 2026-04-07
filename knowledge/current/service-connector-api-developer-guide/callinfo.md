@@ -5,12 +5,10 @@ topic: callinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.618Z
+lastCollected: 2026-04-07T18:39:23.549Z
 estimatedTokens: 1064
-keywords: [CallInfo, call, whether, softphone, control, buttons, enabled, key, pairs, JSON, sent, start, ongoing, Objects]
+keywords: [CallInfo, call, whether, softphone, control, buttons, enabled, key, pairs, JSON, sent, start, ongoing]
 ---
-
-# CallInfo
 
 > Represents information about a call such as whether it is a
         softphone call, call control buttons are enabled and so on, using key value pairs in a JSON

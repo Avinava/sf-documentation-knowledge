@@ -5,12 +5,10 @@ topic: post-draft-invoice-batch-run-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.221Z
+lastCollected: 2026-04-07T18:35:39.998Z
 estimatedTokens: 347
-keywords: [Post, Draft, Invoice, Batch, Run, Action, status, invoices, Posted, credit, memo, application, Special, Access, Rules]
+keywords: [Inputs, Outputs, Post, Draft, Invoice, Batch, Run, Action, status, invoices, Posted, credit, memo, application, REST, HTTP]
 ---
-
-# Post Draft Invoice Batch Run Action
 
 > Update the status of a batch of invoices from Draft to Posted
 			for a credit memo application.

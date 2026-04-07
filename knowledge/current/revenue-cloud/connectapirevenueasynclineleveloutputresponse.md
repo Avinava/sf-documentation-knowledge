@@ -5,12 +5,10 @@ topic: connectapirevenueasynclineleveloutputresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.758Z
+lastCollected: 2026-04-07T18:35:41.627Z
 estimatedTokens: 209
-keywords: [Output, representation, result, API, async, line, level, operations]
+keywords: [result, API, async, line, level, operations]
 ---
-
-# ConnectApi.RevenueAsyncLineLevelOutputResponse
 
 > Output representation of the result of the API request for the async line level
     operations.

@@ -5,12 +5,10 @@ topic: search-result-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.944Z
+lastCollected: 2026-04-07T18:37:42.099Z
 estimatedTokens: 108
-keywords: [Search, Result, Output, representation]
+keywords: [Search, Result]
 ---
-
-# Search Result Header
 
 > Output representation of the search result header.
 

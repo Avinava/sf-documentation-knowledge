@@ -5,12 +5,10 @@ topic: asyncresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.471Z
+lastCollected: 2026-04-07T18:36:22.719Z
 estimatedTokens: 2688
-keywords: [AsyncResult, deployment, retrieval, API, version, 28.0, earlier, status, any, asynchronous, metadata, call, 31.0, Later, Versions]
+keywords: [AsyncResult, deployment, retrieval, API, 28.0, earlier, status, any, asynchronous, metadata, call, 31.0, Versions, 29.0, 30.0]
 ---
-
-# AsyncResult
 
 > Contains the ID of a deployment or retrieval. In API version 28.0 and earlier,
         contains status information of any asynchronous metadata call.

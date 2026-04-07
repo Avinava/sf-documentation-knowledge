@@ -5,12 +5,10 @@ topic: trended-report-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.651Z
+lastCollected: 2026-04-07T18:36:55.017Z
 estimatedTokens: 324
-keywords: [Trended, Report, Input, Analytics]
+keywords: [Trended, Report, Analytics]
 ---
-
-# Trended Report Input
 
 > An Analytics trended report.
 

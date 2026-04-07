@@ -5,12 +5,10 @@ topic: motifs-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.640Z
+lastCollected: 2026-04-07T18:37:14.677Z
 estimatedTokens: 549
-keywords: [Motifs, Resources, URLs, small, medium, large, motif, icons, Records, different, depending, record, include, type’s, base]
+keywords: [Motifs, Resources, URLs, small, medium, large, motif, icons, Records, different, depending, record, include, type’s, base, color, Resource, Batch]
 ---
-
-# Motifs Resources
 
 > Returns URLs for sets of small, medium, and large
          motif icons. Records have different sets of motif icons depending on the record type. The

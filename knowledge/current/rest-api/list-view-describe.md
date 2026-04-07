@@ -5,12 +5,10 @@ topic: list-view-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.613Z
+lastCollected: 2026-04-07T18:36:20.846Z
 estimatedTokens: 109
 keywords: [View, Describe, detailed, including, columns, SOQL, query]
 ---
-
-# List View Describe
 
 > Returns detailed information about a list view, including the ID, the columns, and the
     SOQL query.

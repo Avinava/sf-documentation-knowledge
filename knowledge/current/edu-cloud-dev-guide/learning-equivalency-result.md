@@ -5,12 +5,10 @@ topic: learning-equivalency-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.544Z
+lastCollected: 2026-04-07T18:37:29.623Z
 estimatedTokens: 92
-keywords: [Learning, Equivalency, Result, Output, representation]
+keywords: [Learning, Equivalency, Result]
 ---
-
-# Learning Equivalency Result
 
 > Output representation of the response for learning equivalency.
 

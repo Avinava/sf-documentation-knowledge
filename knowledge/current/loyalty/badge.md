@@ -5,12 +5,10 @@ topic: badge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.540Z
+lastCollected: 2026-04-07T18:38:07.772Z
 estimatedTokens: 141
-keywords: [Badge, Output, representation, assigned, member]
+keywords: [Badge, assigned, member]
 ---
-
-# Badge
 
 > Output representation of the badge assigned to a member.
 

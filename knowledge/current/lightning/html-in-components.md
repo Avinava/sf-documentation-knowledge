@@ -5,12 +5,10 @@ topic: html-in-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.151Z
+lastCollected: 2026-04-07T18:38:03.148Z
 estimatedTokens: 493
-keywords: [HTML, Components, tag, treated, first-class, component, framework, translated, <aura, html>, allowing, enjoy, rights, privileges, any]
+keywords: [HTML, tag, treated, first-class, framework, translated, <aura, html>, allowing, enjoy, rights, privileges, any, Unescaping]
 ---
-
-# HTML in Components
 
 > An HTML tag is treated as a first-class component by the framework.
       Each HTML tag is translated into an <aura:html>

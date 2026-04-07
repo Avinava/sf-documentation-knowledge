@@ -5,12 +5,10 @@ topic: introduction-to-salesforce-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.796Z
+lastCollected: 2026-04-07T18:39:20.554Z
 estimatedTokens: 473
-keywords: [Introduction, Salesforce, Scheduler, formerly, known, Lightning, gives, tools, developer, resources, simplify, appointment, scheduling, personalized, experience]
+keywords: [Introduction, Salesforce, Scheduler, formerly, known, Lightning, gives, tools, developer, resources, simplify, appointment, scheduling, personalized, experience, customer, appointments—in, person, phone, video—with, right, place, time]
 ---
-
-# Introduction to Salesforce Scheduler
 
 > Salesforce Scheduler (formerly known as Lightning Scheduler) gives you the tools and
     developer resources you need to simplify appointment scheduling in Salesforce. Create a

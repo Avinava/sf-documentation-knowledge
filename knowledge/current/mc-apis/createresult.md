@@ -5,12 +5,10 @@ topic: createresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.944Z
+lastCollected: 2026-04-07T18:40:16.085Z
 estimatedTokens: 478
-keywords: [CreateResult, results, objects, order, acted, upon, array, per, input, APIObject, Items, holds]
+keywords: [CreateResult, results, order, acted, upon, array, per, APIObject, Items, holds]
 ---
-
-# CreateResult
 
 > The CreateResult object contains the results of each object in a Create request. The objects are returned in the order acted upon: first in, first out. This array contains one CreateResult object per input APIObject.
 

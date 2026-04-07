@@ -5,12 +5,10 @@ topic: analytics-app-setting-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.157Z
+lastCollected: 2026-04-07T18:36:54.523Z
 estimatedTokens: 137
-keywords: [Analytics, App, Setting, Collection, Input, settings]
+keywords: [Analytics, App, Setting, Collection, settings]
 ---
-
-# Analytics App Setting Collection Input
 
 > The collection of Analytics app settings.
 

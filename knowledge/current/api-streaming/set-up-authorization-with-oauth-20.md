@@ -5,12 +5,10 @@ topic: set-up-authorization-with-oauth-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.885Z
+lastCollected: 2026-04-07T18:36:51.189Z
 estimatedTokens: 837
-keywords: [Authorization, OAuth, 2.0, Setting, requires, configuration, user, locations, any, steps, unfamiliar, consult, REST, API, Developer]
+keywords: [Authorization, OAuth, 2.0, Setting, requires, configuration, user, locations, any, steps, unfamiliar, consult, REST, API, Developer, documentation]
 ---
-
-# Set Up Authorization with OAuth 2.0
 
 > Setting up OAuth 2.0 requires some configuration in the user interface and in other
                 locations. If any of the steps are unfamiliar, you can consult the REST API Developer Guide or OAuth 2.0 documentation.

@@ -5,13 +5,11 @@ topic: esignatureconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.017Z
+lastCollected: 2026-04-07T18:39:38.693Z
 estimatedTokens: 334
 namespace: NamespacePrefix
-keywords: [ESignatureConfig, settings, integrating, external, eSignature, providers, API, version, 56.0, later]
+keywords: [ESignatureConfig, settings, integrating, external, eSignature, providers, API, 56.0]
 ---
-
-# ESignatureConfig
 
 > The settings for integrating with external eSignature providers. This object is available in API version 56.0 and later.
 

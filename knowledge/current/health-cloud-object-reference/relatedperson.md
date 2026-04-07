@@ -5,12 +5,10 @@ topic: relatedperson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.356Z
+lastCollected: 2026-04-07T18:37:44.673Z
 estimatedTokens: 799
-keywords: [RelatedPerson, FHIR, resource, maps, Account, Contact, objects, Salesforce, connected, person, person’s, ContactContactRelation__c, object​, V4​.0, Clinical]
+keywords: [RelatedPerson, FHIR, resource, maps, Account, Contact, Salesforce, connected, person, person’s, ContactContactRelation__c, object​, V4​.0, Clinical, ​Data, Model, Mapping]
 ---
-
-# RelatedPerson
 
 > The relatedPerson FHIR resource maps to the
       Account and Contact

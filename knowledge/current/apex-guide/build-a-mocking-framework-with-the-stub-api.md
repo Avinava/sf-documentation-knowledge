@@ -5,13 +5,11 @@ topic: build-a-mocking-framework-with-the-stub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.369Z
+lastCollected: 2026-04-07T18:36:18.598Z
 estimatedTokens: 1346
 namespace: StubProvider
-keywords: [Build, Mocking, Framework, Stub, API, Apex, implementing, benefits, streamline, improve, testing, help, faster, reliable, tests]
+keywords: [Build, Mocking, Framework, Stub, API, Apex, implementing, benefits, streamline, improve, testing, help, faster, reliable, tests, test, classes, isolation, unit, Building, beneficial, because, generated, runtime, dynamically, don’t, package, deploy, own, built, someone, else, Implement, StubProvider, Instantiate, Invoke, Limitations]
 ---
-
-# Build a Mocking Framework with the Stub API
 
 > Apex provides a stub API for implementing a mocking framework. A mocking framework
         has many benefits. It can streamline and improve testing and help you create faster, more

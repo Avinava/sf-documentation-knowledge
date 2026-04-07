@@ -5,12 +5,10 @@ topic: basemokeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.472Z
+lastCollected: 2026-04-07T18:40:15.567Z
 estimatedTokens: 401
 keywords: [BaseMOKeyword, keyword, account, usually, HELP, action, SMS, actions, correctly]
 ---
-
-# BaseMOKeyword
 
 > The BaseMOKeyword object defines the default keyword in an account. This object usually defines the HELP action within an account and is used when no other SMS keyword actions are correctly specified.
 

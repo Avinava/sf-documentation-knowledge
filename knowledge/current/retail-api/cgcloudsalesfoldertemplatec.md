@@ -5,12 +5,10 @@ topic: cgcloudsalesfoldertemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.429Z
+lastCollected: 2026-04-07T18:39:14.826Z
 estimatedTokens: 1391
-keywords: [cgcloud__Sales_Folder_Template__c, attributes, associated, Sales, Folder, Template, API, version, 54.0, later, cgcloud, _Sales, _Folder, _Template, Calls]
+keywords: [cgcloud__Sales_Folder_Template__c, attributes, Sales, Folder, Template, API, 54.0, cgcloud, _Sales, _Folder, _Template]
 ---
-
-# cgcloud__Sales_Folder_Template__c
 
 > This object contains the attributes that are associated with the
          Sales Folder Template. This object is available in API version 54.0 and later.

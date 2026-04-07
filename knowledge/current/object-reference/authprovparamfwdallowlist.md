@@ -5,12 +5,10 @@ topic: authprovparamfwdallowlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.594Z
+lastCollected: 2026-04-07T18:38:26.559Z
 estimatedTokens: 287
-keywords: [AuthProvParamFwdAllowlist, allowlisted, URL, forwarded, authentication, provider, client, configuration, URLs, authorization, add, custom, functionality, providers, allowlist]
+keywords: [AuthProvParamFwdAllowlist, allowlisted, URL, forwarded, authentication, provider, client, configuration, URLs, authorization, add, functionality, providers, allowlist, ui_locales, send, user's, language, preference, Salesforce, third-party, provider's, login, API, 62..0]
 ---
-
-# AuthProvParamFwdAllowlist
 
 > Represents an allowlisted URL parameter that can be forwarded from
          authentication provider client configuration URLs to the authorization URL. Use this type

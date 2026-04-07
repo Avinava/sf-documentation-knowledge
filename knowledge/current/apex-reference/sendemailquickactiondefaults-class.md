@@ -5,13 +5,11 @@ topic: sendemailquickactiondefaults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.351Z
+lastCollected: 2026-04-07T18:36:00.624Z
 estimatedTokens: 1180
 namespace: QuickAction
-keywords: [SendEmailQuickActionDefaults, Apex, address, original, email’s, email, message, provided, reply, action, invoked, feed, item, specify, settings]
+keywords: [SendEmailQuickActionDefaults, Apex, address, original, email’s, email, message, provided, reply, action, invoked, item, specify, settings, templates, override, standard, rendered, getFromAddressList, getInReplyToId, setIgnoreTemplateSubject, useOriginalSubject, setInsertTemplateBody, keepOriginalBodyContent, setTemplateId, templateId]
 ---
-
-# SendEmailQuickActionDefaults Class
 
 > Represents an Apex class that provides: the From address list; the
       original email’s email message ID, provided that the reply action was invoked on the email

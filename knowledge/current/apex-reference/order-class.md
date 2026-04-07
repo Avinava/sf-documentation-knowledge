@@ -5,13 +5,11 @@ topic: order-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.601Z
+lastCollected: 2026-04-07T18:35:59.883Z
 estimatedTokens: 1132
 namespace: DataSource
-keywords: [Order, how, sort, rows, result, Equivalent, statement, SOQL, query, Usage, columnName, direction, tableName]
+keywords: [Order, how, sort, rows, result, Equivalent, statement, SOQL, query, columnName, direction, tableName]
 ---
-
-# Order Class
 
 > Contains details about how to sort the rows in the result set.
       Equivalent to an ORDER BY statement in a SOQL

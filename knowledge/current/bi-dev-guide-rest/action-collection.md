@@ -5,12 +5,10 @@ topic: action-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.023Z
+lastCollected: 2026-04-07T18:36:56.586Z
 estimatedTokens: 132
 keywords: [Action, Collection, Salesforce, actions, user]
 ---
-
-# Action Collection
 
 > A collection of Salesforce actions available to the user.
 

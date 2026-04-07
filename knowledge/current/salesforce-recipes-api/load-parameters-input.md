@@ -5,12 +5,10 @@ topic: load-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.722Z
+lastCollected: 2026-04-07T18:39:18.437Z
 estimatedTokens: 246
-keywords: [Load, Input, node, recipe]
+keywords: [Load, node, recipe]
 ---
-
-# Load Parameters Input
 
 > The parameters for a load node in a recipe.
 

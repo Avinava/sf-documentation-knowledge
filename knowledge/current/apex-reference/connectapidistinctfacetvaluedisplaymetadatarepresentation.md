@@ -5,12 +5,10 @@ topic: connectapidistinctfacetvaluedisplaymetadatarepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.320Z
+lastCollected: 2026-04-07T18:36:08.744Z
 estimatedTokens: 78
-keywords: [Display, metadata, representation, distinct, facet]
+keywords: [Display, metadata, distinct, facet]
 ---
-
-# ConnectApi.DistinctFacetValueDisplayMetadataRepresentation
 
 > Display metadata representation for a distinct facet value.
 

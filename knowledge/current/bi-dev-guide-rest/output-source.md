@@ -5,12 +5,10 @@ topic: output-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.985Z
+lastCollected: 2026-04-07T18:36:57.494Z
 estimatedTokens: 176
-keywords: [Output, Source, Analytics, replicated, dataset, known, connected]
+keywords: [Source, Analytics, replicated, dataset, known, connected]
 ---
-
-# Output Source
 
 > The output source for an Analytics replicated dataset, also known as a connected
   object.

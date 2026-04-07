@@ -5,12 +5,10 @@ topic: connect-the-channel-order-app-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.565Z
+lastCollected: 2026-04-07T18:38:46.434Z
 estimatedTokens: 367
-keywords: [Connect, Channel, Order, App, Salesforce, receive, service, credentials, COA, import, product, catalog, task, COA’s, guided]
+keywords: [Connect, Channel, Order, App, Salesforce, receive, service, credentials, COA, import, product, catalog, task, COA’s, guided, onboarding, experience]
 ---
-
-# Connect the Channel Order App to Salesforce
 
 > After you receive your service order credentials, connect the Channel Order App (COA) to
         Salesforce and import your product catalog. Complete this task using the COA’s guided

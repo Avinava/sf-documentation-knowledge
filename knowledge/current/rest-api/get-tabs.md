@@ -5,12 +5,10 @@ topic: get-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.340Z
+lastCollected: 2026-04-07T18:36:21.585Z
 estimatedTokens: 144
-keywords: [Tabs, tabs—including, Lightning, tabs—available, current, user, regardless, whether, chosen, hide, via, tab, customization, feature, resource]
+keywords: [Tabs, tabs—including, Lightning, tabs—available, current, user, regardless, whether, chosen, hide, via, tab, customization, feature, resource, REST, API, 31.0]
 ---
-
-# Get Tabs
 
 > Gets a list of all tabs—including Lightning page tabs—available to the
 		current user, regardless of whether the user has chosen to hide tabs via the All Tabs

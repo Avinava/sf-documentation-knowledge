@@ -5,12 +5,10 @@ topic: creating-an-email-attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.077Z
+lastCollected: 2026-04-07T18:38:51.316Z
 estimatedTokens: 647
-keywords: [Creating, Email, Attachment, want, add, few, lines, code, custom, controller, attachments, Blob, file, Apex, Messaging.EmailFileAttachment]
+keywords: [Creating, Email, Attachment, want, add, few, lines, code, controller, attachments, Blob, file, Apex, Messaging.EmailFileAttachment, define, Adding, PDF, Defining, Sending]
 ---
-
-# Creating an Email Attachment
 
 > If you want to add an attachment to your email, you will need to add only a few lines of
             code to your custom controller. Email attachments are Blob file types. To create an attachment, you need to use the Apex Messaging.EmailFileAttachment class. You must define

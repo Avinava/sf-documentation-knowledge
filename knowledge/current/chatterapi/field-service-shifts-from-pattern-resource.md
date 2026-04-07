@@ -5,12 +5,10 @@ topic: field-service-shifts-from-pattern-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.914Z
+lastCollected: 2026-04-07T18:37:13.877Z
 estimatedTokens: 419
 keywords: [Service, Shifts, Pattern, Resource, Preview]
 ---
-
-# Field Service Shifts from Pattern Resource
 
 > Preview and create up to 2,000 shifts from a
     pattern.

@@ -5,12 +5,10 @@ topic: order-delivery-group-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.164Z
+lastCollected: 2026-04-07T18:37:21.313Z
 estimatedTokens: 137
 keywords: [Order, Delivery, Group, Summary]
 ---
-
-# Order Delivery Group Summary
 
 > Order delivery group summary.
 

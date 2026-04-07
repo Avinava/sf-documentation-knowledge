@@ -5,12 +5,10 @@ topic: managed-content-search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.290Z
+lastCollected: 2026-04-07T18:37:20.483Z
 estimatedTokens: 175
 keywords: [Managed, Content, Search, Result]
 ---
-
-# Managed Content Search Result
 
 > A managed content search result.
 

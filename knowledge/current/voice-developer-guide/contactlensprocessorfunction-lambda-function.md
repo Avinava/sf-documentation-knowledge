@@ -5,12 +5,10 @@ topic: contactlensprocessorfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.904Z
+lastCollected: 2026-04-07T18:40:12.848Z
 estimatedTokens: 990
-keywords: [ContactLensProcessorFunction, Lambda, Function, processes, real-time, transcripts, intelligence, signals, generated, Contact, Lens, Amazon, Connect, Salesforce, invoked]
+keywords: [ContactLensProcessorFunction, Lambda, Function, processes, real-time, transcripts, intelligence, signals, generated, Contact, Lens, Amazon, Connect, Salesforce, invoked, ContactLensConsumerFunction, events]
 ---
-
-# ContactLensProcessorFunction Lambda Function
 
 > This Lambda function processes real-time transcripts and intelligence
       signals generated from Contact Lens for Amazon Connect and sends them to Salesforce. This

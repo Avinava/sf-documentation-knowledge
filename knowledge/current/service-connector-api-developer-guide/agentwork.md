@@ -5,12 +5,10 @@ topic: agentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.586Z
+lastCollected: 2026-04-07T18:39:23.522Z
 estimatedTokens: 217
 keywords: [AgentWork, record, Functions]
 ---
-
-# AgentWork
 
 > Represents information about the AgentWork
         record.

@@ -5,12 +5,10 @@ topic: comment-capabilities-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.975Z
+lastCollected: 2026-04-07T18:37:07.688Z
 estimatedTokens: 148
-keywords: [Comment, Capabilities, Input]
+keywords: [Comment, Capabilities]
 ---
-
-# Comment Capabilities Input
 
 > Comment capabilities input.
 

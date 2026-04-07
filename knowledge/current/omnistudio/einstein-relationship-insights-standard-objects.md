@@ -5,12 +5,10 @@ topic: einstein-relationship-insights-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.476Z
+lastCollected: 2026-04-07T18:36:41.170Z
 estimatedTokens: 179
-keywords: [Einstein, Relationship, Insights, Standard, Objects, view, result, sentiment, analysis]
+keywords: [Einstein, Relationship, Insights, Standard, view, result, sentiment, analysis]
 ---
-
-# Einstein Relationship Insights Standard Objects
 
 > Use the standard objects to view the result of the sentiment analysis.
 

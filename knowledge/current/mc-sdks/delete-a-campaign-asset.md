@@ -5,12 +5,10 @@ topic: delete-a-campaign-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.951Z
+lastCollected: 2026-04-07T18:40:24.452Z
 estimatedTokens: 424
-keywords: [Campaign, Asset, Specify, unique, identifier, props, order, identify, assetId, specfic, Ruby, PHP, CSharp, Python, Java]
+keywords: [Ruby, CSharp, Python, Java, Campaign, Asset, Specify, unique, identifier, props, order, identify, assetId, specfic, PHP]
 ---
-
-# Delete a Campaign Asset
 
 > Use the Delete method to delete a campaign asset. Specify the unique identifier id in the props properties in order to identify which campaign the asset is related to and the unique identifier assetId to identify the specfic asset:
 

@@ -5,12 +5,10 @@ topic: context-tag-data-leaner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.435Z
+lastCollected: 2026-04-07T18:36:39.101Z
 estimatedTokens: 244
-keywords: [Context, Tag, Data, Leaner, Output, representation, stores, metadata, reconstruct, index, references, instead, full, path, strings]
+keywords: [Context, Tag, Leaner, stores, metadata, reconstruct, index, references, instead, full, path, strings]
 ---
-
-# Context Tag Data Leaner
 
 > Output representation of the leaner context tag data. It stores only the metadata
     required to reconstruct tag values and the index references instead of full path

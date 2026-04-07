@@ -5,12 +5,10 @@ topic: economicperformancesum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.042Z
+lastCollected: 2026-04-07T18:39:38.717Z
 estimatedTokens: 412
 keywords: [EconomicPerformanceSum, statistics, direct, economic, generated, distributed, organization, income, expenses]
 ---
-
-# EconomicPerformanceSum
 
 > Represents statistics about the direct economic value generated and
          distributed by an organization or the related income and expenses.

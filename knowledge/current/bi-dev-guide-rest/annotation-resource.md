@@ -5,12 +5,10 @@ topic: annotation-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.918Z
+lastCollected: 2026-04-07T18:36:55.337Z
 estimatedTokens: 121
 keywords: [Annotation, Resource, asset's, annotations, updates]
 ---
-
-# Annotation Resource
 
 > Returns an asset's annotations and updates an
     annotation.

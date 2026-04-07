@@ -5,12 +5,10 @@ topic: continuous-integration-using-jenkins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.937Z
+lastCollected: 2026-04-07T18:40:07.880Z
 estimatedTokens: 528
-keywords: [Continuous, Integration, Jenkins, open-source, extensible, automation, server, implementing, delivery, easily, integrate, Salesforce, framework, automate, testing]
+keywords: [Continuous, Integration, Jenkins, open-source, extensible, automation, server, implementing, delivery, easily, integrate, Salesforce, framework, automate, testing, applications, against, scratch, orgs]
 ---
-
-# Continuous Integration Using Jenkins
 
 > Jenkins is an open-source, extensible automation server for implementing continuous
   integration and continuous delivery. You can easily integrate Salesforce DX into the Jenkins

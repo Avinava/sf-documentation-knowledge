@@ -5,12 +5,10 @@ topic: inspolicytransactiondetailfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.414Z
+lastCollected: 2026-04-07T18:39:44.987Z
 estimatedTokens: 366
-keywords: [InsPolicyTransactionDetailFeed, Feed, tracking, InsPolicyTransactionDetail]
+keywords: [InsPolicyTransactionDetailFeed, InsPolicyTransactionDetail]
 ---
-
-# InsPolicyTransactionDetailFeed
 
 > Feed tracking for InsPolicyTransactionDetail.
 

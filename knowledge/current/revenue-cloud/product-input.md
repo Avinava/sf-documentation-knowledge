@@ -5,12 +5,10 @@ topic: product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:58.770Z
+lastCollected: 2026-04-07T18:35:43.650Z
 estimatedTokens: 1121
-keywords: [Product, Input, representation, catalog]
+keywords: [Product, catalog]
 ---
-
-# Product Input
 
 > Input representation of a product in the catalog.
 

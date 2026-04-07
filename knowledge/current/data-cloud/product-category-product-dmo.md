@@ -5,12 +5,10 @@ topic: product-category-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.431Z
+lastCollected: 2026-04-07T18:35:54.484Z
 estimatedTokens: 715
-keywords: [Product, Category, DMO, data, model, Cloud, identify, how, products, assigned, categories, Northern, Trail, Outfitters, specific]
+keywords: [Category, Relationships, Product, DMO, model, Cloud, identify, how, products, assigned, categories, Northern, Trail, Outfitters, specific, running, shoe, API, Primary, Subject, Area, Key]
 ---
-
-# Product Category Product DMO
 
 > The Product Category Product data model object (DMO) is a Data Cloud
       DMO used to identify how products are assigned to categories. For example, Northern Trail

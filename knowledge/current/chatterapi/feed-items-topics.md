@@ -5,12 +5,10 @@ topic: feed-items-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.523Z
+lastCollected: 2026-04-07T18:37:13.480Z
 estimatedTokens: 625
-keywords: [Feed-Items, Topics, Add, topic, feed, item, Remove]
+keywords: [Feed-Items, Topics, Add, topic, item, Remove]
 ---
-
-# Feed-Items Topics
 
 > Add a topic to a feed item. Remove a topic from a
          feed item.

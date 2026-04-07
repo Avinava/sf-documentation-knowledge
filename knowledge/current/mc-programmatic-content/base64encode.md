@@ -5,12 +5,10 @@ topic: base64encode
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.273Z
+lastCollected: 2026-04-07T18:40:21.549Z
 estimatedTokens: 184
-keywords: [Base64Encode, Function, Ordinal, TLocation, text, encrypt, either, variable, data, extension, via, Lookup, AMPscript, **Overview**, **Syntax**, encode, Character, decoding, ASCII, UTF-8]
+keywords: [Base64Encode, Function, Ordinal, TLocation, text, encrypt, either, variable, extension, via, Lookup, AMPscript, **Overview**, **Syntax**, encode, Character, decoding, ASCII, UTF-8, Base64encode, Text]
 ---
-
-# Base64Encode
 
 > Base64Encode(1)
 

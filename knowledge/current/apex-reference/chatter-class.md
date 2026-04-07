@@ -5,13 +5,11 @@ topic: chatter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.019Z
+lastCollected: 2026-04-07T18:35:57.294Z
 estimatedTokens: 2506
 namespace: ConnectApi
-keywords: [Chatter, Submit, daily, weekly, email, digest, job, deleteSubscription, communityId, subscriptionId, API, Version, Requires, Usage, getFollowers]
+keywords: [Chatter, Submit, daily, weekly, email, digest, job, deleteSubscription, communityId, subscriptionId, API, Requires, getFollowers, recordId, pageParam, pageSize, getSubscription, submitDigestJob, period]
 ---
-
-# Chatter Class
 
 > Submit a daily or weekly Chatter email digest job.
 

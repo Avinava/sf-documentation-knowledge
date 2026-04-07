@@ -5,12 +5,10 @@ topic: blngfinancebookc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.988Z
+lastCollected: 2026-04-07T18:37:03.521Z
 estimatedTokens: 610
-keywords: [blng__FinanceBook__c, storage, financial, transactions, reporting, recordkeeping, blng, _FinanceBook, Calls]
+keywords: [blng__FinanceBook__c, storage, financial, transactions, reporting, recordkeeping, blng, _FinanceBook]
 ---
-
-# blng__FinanceBook__c
 
 > Represents the storage of financial transactions for reporting and
          recordkeeping.

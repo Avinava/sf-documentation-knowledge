@@ -5,13 +5,11 @@ topic: authrequestresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.378Z
+lastCollected: 2026-04-07T18:36:00.651Z
 estimatedTokens: 965
 namespace: RichMessaging
 keywords: [AuthRequestResult, result, handling, authorization, redirectPageReference, resultStatus, expirationDateTime]
 ---
-
-# AuthRequestResult Class
 
 > This class contains  the result from handling the authorization request
     response.

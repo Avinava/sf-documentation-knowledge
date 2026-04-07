@@ -5,12 +5,10 @@ topic: tenantsecurityapianomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.530Z
+lastCollected: 2026-04-07T18:38:42.295Z
 estimatedTokens: 1658
-keywords: [TenantSecurityApiAnomaly, Stores, detected, anomalies, how, users, typically, API, calls, Fore, Threat, Detection, Security, Center, subscribers]
+keywords: [TenantSecurityApiAnomaly, Stores, detected, anomalies, how, users, typically, API, Fore, Threat, Detection, Security, Center, subscribers, 53.0]
 ---
-
-# TenantSecurityApiAnomaly
 
 > Stores detected anomalies in how users typically make API calls. Fore
          more information, see Threat Detection. This object is available to

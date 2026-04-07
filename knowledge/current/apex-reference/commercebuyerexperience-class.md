@@ -5,13 +5,11 @@ topic: commercebuyerexperience-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.148Z
+lastCollected: 2026-04-07T18:35:57.478Z
 estimatedTokens: 34548
 namespace: ConnectApi
-keywords: [CommerceBuyerExperience, Add, order, cart, webstore, summary, addOrderToCart, webstoreId, orderSummaryId, orderToCartInput, API, Version, Requires, Chatter, effectiveAccountId]
+keywords: [CommerceBuyerExperience, Add, order, cart, webstore, summary, addOrderToCart, webstoreId, orderSummaryId, orderToCartInput, API, Requires, Chatter, effectiveAccountId, calculateAdjustmentAggregates, orderSummaryIds, createCommerceAccountAddress, accountId, addressInput, deleteCommerceAccountAddress, addressId, getCommerceAccountAddress, defaultOnly, addressType, pageToken, pageSize, sortOrder, excludeUnsupportedCountries, getOrderDeliveryGroupSummaries, pageParam, sortParam, getOrderItemSummaries, orderDeliveryGroupSummaryId, includeAdjustmentDetails, getOrderItemSummaryAdjustments, getOrderShipmentItems, shipmentId, getOrderShipments, getOrderSummaries, earliestDate, latestDate, ownerScoped, getOrderSummary, getOrderSummaryAdjustments, lookupOrderSummary, excludeLineItems, excludeDeliveryGroups, excludeAdjustmentAggregates, excludeAdjustments, deliveryGroupId, orderSummaryLookupInput, Developer, Preview, Guest, Users, updateCommerceAccountAddress]
 ---
-
-# CommerceBuyerExperience Class
 
 > Add an order to a cart using a webstore order
     summary.

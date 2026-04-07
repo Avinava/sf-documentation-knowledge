@@ -5,12 +5,10 @@ topic: requesting-a-signed-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.194Z
+lastCollected: 2026-04-07T18:38:56.959Z
 estimatedTokens: 1049
-keywords: [Requesting, Signed, canvas, app, authentication, demand, SDK, ask, Salesforce, resend, loaded, send, new, useful, refreshing]
+keywords: [Requesting, Signed, canvas, app, authentication, demand, SDK, ask, Salesforce, resend, loaded, send, new, useful, refreshing, expired, session, getting, redirected, refreshSignedRequest, Obtain, repost]
 ---
-
-# Requesting a Signed Request
 
 > If your canvas
 app is set to use signed request for authentication, you can request

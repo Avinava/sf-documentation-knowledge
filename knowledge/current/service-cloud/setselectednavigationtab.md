@@ -5,12 +5,10 @@ topic: setselectednavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.641Z
+lastCollected: 2026-04-07T18:36:50.906Z
 estimatedTokens: 205
-keywords: [setSelectedNavigationTab, navigation, tab, specific, URL, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, setSelectedNavigationTab, navigation, tab, specific, URL, API, 31.0, Sample, Code–Visualforce]
 ---
-
-# setSelectedNavigationTab()
 
 > Sets the navigation tab with a specific ID or
             URL. This method is only available in API version 31.0 or later.

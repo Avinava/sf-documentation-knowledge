@@ -5,12 +5,10 @@ topic: processinstancehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:47.143Z
+lastCollected: 2026-04-07T18:38:38.529Z
 estimatedTokens: 1894
-keywords: [ProcessInstanceHistory, read-only, steps, pending, approval, requests, associated, process, ProcessInstance, Calls, Usage]
+keywords: [ProcessInstanceHistory, read-only, steps, pending, approval, requests, process, ProcessInstance]
 ---
-
-# ProcessInstanceHistory
 
 > This read-only object shows all steps and pending approval requests associated with an approval process (ProcessInstance).
 

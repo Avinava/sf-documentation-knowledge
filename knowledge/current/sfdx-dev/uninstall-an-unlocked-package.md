@@ -5,12 +5,10 @@ topic: uninstall-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.856Z
+lastCollected: 2026-04-07T18:40:08.806Z
 estimatedTokens: 799
-keywords: [Uninstall, Unlocked, Package, org, Salesforce, CLI, Setup, packages, components, well, any, deprecated, previously, associated, deleted]
+keywords: [Uninstall, Unlocked, Package, org, Salesforce, CLI, Setup, packages, well, any, deprecated, previously, deleted, Considerations, Uninstalling]
 ---
-
-# Uninstall an Unlocked Package
 
 > You can uninstall a package from an org using Salesforce CLI or from the Setup UI. When
     you uninstall unlocked packages, all components in the package, as well as any deprecated

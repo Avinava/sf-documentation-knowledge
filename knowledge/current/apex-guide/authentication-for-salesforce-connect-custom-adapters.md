@@ -5,12 +5,10 @@ topic: authentication-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.759Z
+lastCollected: 2026-04-07T18:36:16.941Z
 estimatedTokens: 519
-keywords: [Authentication, Salesforce, Connect, Custom, Adapters, DataSource.Provider, declares, credentials, authenticate, external, system]
+keywords: [Authentication, Salesforce, Connect, Adapters, DataSource.Provider, declares, credentials, authenticate, external, system]
 ---
-
-# Authentication for Salesforce Connect Custom Adapters
 
 > Your DataSource.Provider class declares what
         types of credentials can be used to authenticate to the external system.

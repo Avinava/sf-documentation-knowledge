@@ -5,12 +5,10 @@ topic: return-headers-for-embedded-service-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.443Z
+lastCollected: 2026-04-07T18:36:20.668Z
 estimatedTokens: 161
-keywords: [Embedded, Service, Configuration, Describe, resource, gives, chance, ahead, time, retrieving, content, logged, account, owns, EmbeddedServiceConfigDeveloperName]
+keywords: [Embedded, Service, Configuration, Describe, resource, gives, chance, ahead, time, retrieving, content, logged, account, owns, EmbeddedServiceConfigDeveloperName, querying, REST, API, 45.0]
 ---
-
-# Return Headers for Embedded Service Configuration
 
 > Returns only the headers from a GET request to the Embedded Service Configuration
   Describe resource. This gives you a chance to see header values ahead of time before retrieving

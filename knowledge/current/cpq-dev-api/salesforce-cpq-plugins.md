@@ -5,12 +5,10 @@ topic: salesforce-cpq-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.528Z
+lastCollected: 2026-04-07T18:37:27.531Z
 estimatedTokens: 885
 keywords: [Salesforce, CPQ, Plugins, let, add, customized, functionality, features, package]
 ---
-
-# Salesforce CPQ Plugins
 
 > Salesforce CPQ plugins let you add customized functionality to features within the
   Salesforce CPQ package.

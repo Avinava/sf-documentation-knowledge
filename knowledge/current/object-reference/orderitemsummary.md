@@ -5,12 +5,10 @@ topic: orderitemsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.742Z
+lastCollected: 2026-04-07T18:38:37.002Z
 estimatedTokens: 5445
-keywords: [OrderItemSummary, current, state, product, charge, OrderSummary, Corresponds, order, item, objects, consisting, original, any, change, applicable]
+keywords: [OrderItemSummary, current, state, product, charge, OrderSummary, Corresponds, order, item, consisting, original, any, change, applicable, API, 48.0]
 ---
-
-# OrderItemSummary
 
 > Represents the current properties and state of a product or charge on an
       OrderSummary. Corresponds to one or more order item objects, consisting of an original object

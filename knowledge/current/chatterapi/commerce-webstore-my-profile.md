@@ -5,12 +5,10 @@ topic: commerce-webstore-my-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.541Z
+lastCollected: 2026-04-07T18:37:12.425Z
 estimatedTokens: 567
-keywords: [Commerce, Webstore, Profile, Retrieve, buyer's, account, buyer, API, retrieves, updates, registered, buyer’s, identifying, user’s, logged-in]
+keywords: [Commerce, Webstore, Profile, Retrieve, buyer's, account, buyer, API, retrieves, updates, registered, buyer’s, identifying, user’s, logged-in, context]
 ---
-
-# Commerce Webstore My Profile
 
 > Retrieve the buyer's account details. Update buyer account
       details. The API retrieves or updates the registered buyer’s details by identifying the

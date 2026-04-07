@@ -5,12 +5,10 @@ topic: custom-domain-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.244Z
+lastCollected: 2026-04-07T18:37:13.187Z
 estimatedTokens: 365
-keywords: [Custom, Domain, Resources, domains, org, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
+keywords: [Domain, Resources, domains, org, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
 ---
-
-# Custom Domain Resources
 
 > Get information about the custom domains in your org. A custom domain is a domain that
     you own, such as https://www.example.com, that serves content from your

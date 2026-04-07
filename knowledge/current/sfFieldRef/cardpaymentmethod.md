@@ -5,12 +5,10 @@ topic: cardpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:37.160Z
+lastCollected: 2026-04-07T18:39:31.496Z
 estimatedTokens: 1025
-keywords: [CardPaymentMethod, credit, card, debit, payment, implements, PaymentMethod, API, version, 48.0, later]
+keywords: [CardPaymentMethod, credit, card, debit, payment, implements, PaymentMethod, API, 48.0]
 ---
-
-# CardPaymentMethod
 
 > Represents a credit card or debit card payment method, which implements the
 			PaymentMethod object. This object  is available in API version 48.0 and later.

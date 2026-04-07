@@ -5,12 +5,10 @@ topic: contractlineitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.230Z
+lastCollected: 2026-04-07T18:39:35.688Z
 estimatedTokens: 361
-keywords: [ContractLineItemFeed, Feed, tracking, ContractLineItem]
+keywords: [ContractLineItemFeed, ContractLineItem]
 ---
-
-# ContractLineItemFeed
 
 > Feed tracking for ContractLineItem.
 

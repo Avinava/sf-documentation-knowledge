@@ -6,13 +6,10 @@ topic: dynamic-references-to-static-resources-using-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.997Z
+lastCollected: 2026-04-07T18:38:51.235Z
 estimatedTokens: 1024
 keywords: [Dynamic, References, Resources, $Resource, useful, providing, support, themes, visual, preferences]
 ---
-
-# Dynamic References to Static Resources
-Using  $Resource
 
 > Dynamic references to static resources can be very useful
 for providing support for themes or other visual preferences.

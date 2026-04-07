@@ -5,12 +5,10 @@ topic: verificationpolicy-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.156Z
+lastCollected: 2026-04-07T18:36:12.445Z
 estimatedTokens: 256
-keywords: [VerificationPolicy, Auth.VerificationPolicy, identity, verification, policy, Usage]
+keywords: [VerificationPolicy, Auth.VerificationPolicy, identity, verification, policy]
 ---
-
-# VerificationPolicy Enum
 
 > The Auth.VerificationPolicy
       enum contains an identity verification policy value used by the SessionManagement.generateVerificationUrl method.

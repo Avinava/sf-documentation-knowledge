@@ -5,12 +5,10 @@ topic: event-definition-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.722Z
+lastCollected: 2026-04-07T18:40:16.878Z
 estimatedTokens: 352
-keywords: [Event, Definition, definitions, define, data, schema, created, API, key, uses, route, events, appropriate, journeys, Acme-MovieRented]
+keywords: [Event, Definition, definitions, define, schema, created, API, key, uses, route, events, appropriate, journeys, Acme-MovieRented, Items]
 ---
-
-# Event Definition Overview
 
 > Event definitions define the name and a data schema for an event. When an event definition is created, the API defines the event definition key. The API then uses the event definition key to route events to the appropriate journeys. For example, an event definition has the key "Acme-MovieRented". Tw
 

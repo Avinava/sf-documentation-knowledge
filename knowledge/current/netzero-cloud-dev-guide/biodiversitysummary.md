@@ -5,12 +5,10 @@ topic: biodiversitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.337Z
+lastCollected: 2026-04-07T18:38:17.858Z
 estimatedTokens: 1397
-keywords: [BiodiversitySummary, biodiversity, company, discloses, part, ESRS, ecosystems, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [BiodiversitySummary, biodiversity, company, discloses, part, ESRS, ecosystems, API, 65.0]
 ---
-
-# BiodiversitySummary
 
 > Represents the biodiversity information that a company discloses as part of
          ESRS E4 - Biodiversity and ecosystems. This object is available in API version 65.0

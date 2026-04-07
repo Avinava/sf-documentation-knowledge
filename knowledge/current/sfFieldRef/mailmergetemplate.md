@@ -5,12 +5,10 @@ topic: mailmergetemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.432Z
+lastCollected: 2026-04-07T18:39:47.834Z
 estimatedTokens: 449
 keywords: [MailmergeTemplate, mail, merge, template, Microsoft, Word, document, performing, merges, organization]
 ---
-
-# MailmergeTemplate
 
 > Represents a mail merge template (a Microsoft Word document) used for
    performing mail merges for your organization.

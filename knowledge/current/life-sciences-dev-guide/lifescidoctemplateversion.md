@@ -5,12 +5,10 @@ topic: lifescidoctemplateversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.792Z
+lastCollected: 2026-04-07T18:38:00.564Z
 estimatedTokens: 511
-keywords: [LifeSciDocTemplateVersion, Stores, version-specific, template, Calls]
+keywords: [LifeSciDocTemplateVersion, Stores, version-specific, template]
 ---
-
-# LifeSciDocTemplateVersion
 
 > Stores version-specific template information.
 

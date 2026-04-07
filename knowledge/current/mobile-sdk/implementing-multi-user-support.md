@@ -5,12 +5,10 @@ topic: implementing-multi-user-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.357Z
+lastCollected: 2026-04-07T18:40:26.661Z
 estimatedTokens: 1040
-keywords: [Implementing, Multi-User, Support, Mobile, SDK, APIs, enabling, native, Android, iOS, hybrid, apps, Push, Notifications, Tasks]
+keywords: [Implementing, Multi-User, Support, Mobile, SDK, APIs, enabling, native, Android, iOS, hybrid, apps, Push, Notifications, Tasks, SmartStore, Account, Management]
 ---
-
-# Implementing Multi-User Support
 
 > Mobile SDK provides APIs for enabling multi-user support in native Android,
 native iOS, and hybrid apps.

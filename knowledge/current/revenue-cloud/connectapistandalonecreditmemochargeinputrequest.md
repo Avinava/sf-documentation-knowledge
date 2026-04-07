@@ -5,12 +5,10 @@ topic: connectapistandalonecreditmemochargeinputrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.650Z
+lastCollected: 2026-04-07T18:35:41.526Z
 estimatedTokens: 454
-keywords: [Input, representation, charge, lines, credit, memo]
+keywords: [charge, lines, credit, memo]
 ---
-
-# ConnectApi.StandaloneCreditMemoChargeInputRequest
 
 > Input representation of the details of the charge lines of a credit memo.
 

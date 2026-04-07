@@ -5,12 +5,10 @@ topic: cartitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.511Z
+lastCollected: 2026-04-07T18:38:27.506Z
 estimatedTokens: 1246
-keywords: [CartItemAttribute, attributes, associated, cart, item, stored, key-value, pairs, derived, product, carried, forward, order, checkout, API]
+keywords: [CartItemAttribute, attributes, cart, item, stored, key-value, pairs, derived, product, carried, forward, order, checkout, API, 66.0]
 ---
-
-# CartItemAttribute
 
 > Represents the attributes associated with a cart item, stored as
          key-value pairs. These attributes are derived from the product and carried forward to

@@ -5,12 +5,10 @@ topic: sessionhijackingeventstorefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.063Z
+lastCollected: 2026-04-07T18:40:01.838Z
 estimatedTokens: 366
-keywords: [SessionHijackingEventStoreFeed, Feed, tracking, SessionHijackingEventStore]
+keywords: [SessionHijackingEventStoreFeed, SessionHijackingEventStore]
 ---
-
-# SessionHijackingEventStoreFeed
 
 > Feed tracking for SessionHijackingEventStore.
 

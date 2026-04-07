@@ -5,12 +5,10 @@ topic: createworkingcart-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.953Z
+lastCollected: 2026-04-07T18:37:32.119Z
 estimatedTokens: 80
 keywords: [create_WorkingCart, API, working, cart, quote, sales, _WorkingCart, URI, HTTP]
 ---
-
-# create_WorkingCart API
 
 > Create a working cart quote based on a sales quote.
 

@@ -5,12 +5,10 @@ topic: context-node-id-get-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.276Z
+lastCollected: 2026-04-07T18:36:37.888Z
 estimatedTokens: 106
 keywords: [Context, Node, Query]
 ---
-
-# Context Node Id (GET, DELETE)
 
 > Query and delete a context node using an Id.
 

@@ -5,12 +5,10 @@ topic: files-connect-permission-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.142Z
+lastCollected: 2026-04-07T18:37:07.943Z
 estimatedTokens: 153
-keywords: [Files, Connect, Permission, Input]
+keywords: [Files, Connect, Permission]
 ---
-
-# Files Connect Permission Input
 
 > A permission.
 

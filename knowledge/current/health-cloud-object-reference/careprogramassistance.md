@@ -5,12 +5,10 @@ topic: careprogramassistance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.397Z
+lastCollected: 2026-04-07T18:37:45.895Z
 estimatedTokens: 419
-keywords: [CareProgramAssistance, junction, Care, Program, objects, API, version, 61.0, later, Calls]
+keywords: [CareProgramAssistance, junction, Care, Program, API, 61.0]
 ---
-
-# CareProgramAssistance
 
 > Represents a junction between Care Program and Program objects. This
       object is available in API version 61.0 and later.

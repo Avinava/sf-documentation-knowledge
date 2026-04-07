@@ -5,12 +5,10 @@ topic: maintenanceassetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.449Z
+lastCollected: 2026-04-07T18:39:47.849Z
 estimatedTokens: 361
-keywords: [MaintenanceAssetFeed, Feed, tracking, MaintenanceAsset]
+keywords: [MaintenanceAssetFeed, MaintenanceAsset]
 ---
-
-# MaintenanceAssetFeed
 
 > Feed tracking for MaintenanceAsset.
 

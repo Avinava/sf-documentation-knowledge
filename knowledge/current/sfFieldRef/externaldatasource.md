@@ -5,13 +5,11 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.597Z
+lastCollected: 2026-04-07T18:39:40.233Z
 estimatedTokens: 508
 namespace: NamespacePrefix
-keywords: [ExternalDataSource, external, data, source, connection, integration, content, stored, outside, Salesforce, org, API, version, 27.0, later]
+keywords: [ExternalDataSource, external, source, connection, integration, content, stored, outside, Salesforce, org, API, 27.0]
 ---
-
-# ExternalDataSource
 
 > Represents an external data source, which defines connection details
       for integration with data and content that are stored outside the Salesforce org. This

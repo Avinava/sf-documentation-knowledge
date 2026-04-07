@@ -5,12 +5,10 @@ topic: connectapiinsurancegroupplaninputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.091Z
+lastCollected: 2026-04-07T18:37:49.934Z
 estimatedTokens: 107
-keywords: [Input, representation, contract, group, plan]
+keywords: [contract, group, plan]
 ---
-
-# ConnectApi.InsuranceGroupPlanInputRepresentation
 
 > Input representation for a contract group plan.
 

@@ -5,12 +5,10 @@ topic: groundtravelenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.178Z
+lastCollected: 2026-04-07T18:38:18.774Z
 estimatedTokens: 2110
-keywords: [GroundTravelEnrgyUse, energy, consumption, ground, travel, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [GroundTravelEnrgyUse, energy, consumption, ground, travel, API, 54.0]
 ---
-
-# GroundTravelEnrgyUse
 
 > Represents the energy consumption related to ground travel. This
       object is available in API version 54.0 and later.

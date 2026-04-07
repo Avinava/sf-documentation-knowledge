@@ -5,12 +5,10 @@ topic: careperformerhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.579Z
+lastCollected: 2026-04-07T18:39:31.939Z
 estimatedTokens: 261
-keywords: [CarePerformerHistory, History, tracked, CarePerformer]
+keywords: [CarePerformerHistory, tracked, CarePerformer]
 ---
-
-# CarePerformerHistory
 
 > History for tracked fields of CarePerformer.
 

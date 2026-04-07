@@ -5,12 +5,10 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.922Z
+lastCollected: 2026-04-07T18:36:28.461Z
 estimatedTokens: 1890
-keywords: [PlatformEventChannel, channel, subscribe, order, receive, stream, events, API, version, 46.0, earlier, standard, change, data, capture]
+keywords: [PlatformEventChannel, PlatformEventChannelSelectedEntity, channel, subscribe, order, receive, stream, events, API, 46.0, earlier, standard, change, capture, 47.0, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, Upgrading]
 ---
-
-# PlatformEventChannel
 
 > Represents a channel that you can subscribe to in order
             to receive a stream of events. In API version 46.0 and earlier, it is the default

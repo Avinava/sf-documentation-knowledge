@@ -5,12 +5,10 @@ topic: abstract-story-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:12.829Z
+lastCollected: 2026-04-07T18:36:59.330Z
 estimatedTokens: 178
 keywords: [Abstract, Story, Source, base, Einstein, Discovery, analysis]
 ---
-
-# Abstract Story Source
 
 > The base Einstein Discovery analysis source.
 

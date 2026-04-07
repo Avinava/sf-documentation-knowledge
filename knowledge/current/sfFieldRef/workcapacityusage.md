@@ -5,12 +5,10 @@ topic: workcapacityusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.872Z
+lastCollected: 2026-04-07T18:40:06.770Z
 estimatedTokens: 681
-keywords: [WorkCapacityUsage, capacity, usage, specific, service, territory, workstream, whole, period, API, version, 59.0, later]
+keywords: [WorkCapacityUsage, capacity, specific, service, territory, workstream, whole, period, API, 59.0]
 ---
-
-# WorkCapacityUsage
 
 > Represents the capacity usage in a specific service territory for a
 			workstream or for the whole service territory in a given period. This object is

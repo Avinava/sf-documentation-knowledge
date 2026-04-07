@@ -5,12 +5,10 @@ topic: performance-considerations-of-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.618Z
+lastCollected: 2026-04-07T18:40:08.578Z
 estimatedTokens: 310
-keywords: [Performance, Considerations, Source, Tracking, performs, extra, functions, determine, changes, tracked, components, running, queries, waiting, SourceMember]
+keywords: [Performance, Considerations, Source, performs, extra, functions, determine, changes, tracked, running, queries, waiting, SourceMember, Tooling, API, updated, deployment, commands, take, little, longer, run, working, medium-to-large, sized, projects, you’re, small, don’t, notice, any, slowdown]
 ---
-
-# Performance Considerations of Source Tracking
 
 > Source tracking performs extra functions to determine changes to source tracked
   components, such as running more queries and waiting for the SourceMember Tooling API object to be

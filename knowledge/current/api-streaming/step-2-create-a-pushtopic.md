@@ -5,12 +5,10 @@ topic: step-2-create-a-pushtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.954Z
+lastCollected: 2026-04-07T18:36:51.262Z
 estimatedTokens: 548
 keywords: [Step, PushTopic, Developer, Console, record, SOQL, query, Event, notifications, generated, updates, match]
 ---
-
-# Step 2: Create a PushTopic
 
 > Use the Developer Console to create the PushTopic record that contains a SOQL query.
     Event notifications are generated for updates that match the query.

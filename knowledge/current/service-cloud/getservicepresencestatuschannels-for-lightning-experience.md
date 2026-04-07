@@ -5,12 +5,10 @@ topic: getservicepresencestatuschannels-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.699Z
+lastCollected: 2026-04-07T18:36:49.869Z
 estimatedTokens: 132
-keywords: [getServicePresenceStatusChannels, Lightning, Experience, Retrieves, service, channels, associated, Omni-Channel, user’s, current, presence, status, Sample, Code]
+keywords: [getServicePresenceStatusChannels, Lightning, Experience, Retrieves, service, channels, Omni-Channel, user’s, current, presence, status, Sample, Code]
 ---
-
-# getServicePresenceStatusChannels for Lightning Experience
 
 > Retrieves the service channels that are associated with an Omni-Channel user’s
         current presence status.

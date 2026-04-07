@@ -5,12 +5,10 @@ topic: fhir-address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.544Z
+lastCollected: 2026-04-07T18:37:55.990Z
 estimatedTokens: 322
-keywords: [FHIR, Address, output, representation]
+keywords: [FHIR, Address]
 ---
-
-# FHIR Address
 
 > The output representation of the FHIR address values.
 

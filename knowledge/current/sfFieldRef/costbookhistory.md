@@ -5,12 +5,10 @@ topic: costbookhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.472Z
+lastCollected: 2026-04-07T18:39:35.928Z
 estimatedTokens: 254
-keywords: [CostBookHistory, History, tracked, CostBook]
+keywords: [CostBookHistory, tracked, CostBook]
 ---
-
-# CostBookHistory
 
 > History for tracked fields of CostBook.
 

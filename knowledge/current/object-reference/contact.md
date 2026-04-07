@@ -5,12 +5,10 @@ topic: contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.311Z
+lastCollected: 2026-04-07T18:38:28.224Z
 estimatedTokens: 6507
-keywords: [Contact, person, associated, account, Calls, Special, Access, Rules, Usage, Objects]
+keywords: [Contact, person, account]
 ---
-
-# Contact
 
 > Represents a contact, which is a person associated with an
 			account.

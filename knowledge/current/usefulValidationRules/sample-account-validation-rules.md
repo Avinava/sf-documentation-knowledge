@@ -5,12 +5,10 @@ topic: sample-account-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.414Z
+lastCollected: 2026-04-07T18:40:12.433Z
 estimatedTokens: 422
-keywords: [Sample, Account, Validation, Rules, rule, examples, numeric, numbers, number, length, annual, revenue, range]
+keywords: [Sample, Account, Validation, rule, examples, numeric, numbers, number, length, annual, revenue, range]
 ---
-
-# Sample Account Validation Rules
 
 > Validation rule examples for numeric account numbers, account number length, and
       annual revenue range.

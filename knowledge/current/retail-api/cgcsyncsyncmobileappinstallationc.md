@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappinstallationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.033Z
+lastCollected: 2026-04-07T18:39:12.506Z
 estimatedTokens: 3545
-keywords: [user, whom, deployment, package, distributed, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Installation, Calls]
+keywords: [user, whom, deployment, package, distributed, API, 53.0, cgc, _sync, _Mobile, _App, _Installation]
 ---
-
-# cgc_sync__Sync_Mobile_App_Installation__c
 
 > Contains information about the user to whom the deployment package is to be
          distributed. This object is available in API version 53.0 and later.

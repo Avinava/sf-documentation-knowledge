@@ -5,12 +5,10 @@ topic: fulfillment-orders-create-invoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.562Z
+lastCollected: 2026-04-07T18:37:15.625Z
 estimatedTokens: 520
 keywords: [Fulfillment, Orders, Invoice, FulfillmentOrder, doesn’t]
 ---
-
-# Fulfillment Orders, Create Invoice
 
 > Create an invoice for a FulfillmentOrder that doesn’t have
     one.

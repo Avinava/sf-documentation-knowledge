@@ -5,12 +5,10 @@ topic: family-policy-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.066Z
+lastCollected: 2026-04-07T18:37:52.205Z
 estimatedTokens: 103
-keywords: [Family, Policy, Output, representation, individual, group]
+keywords: [Family, Policy, individual, group]
 ---
-
-# Family Policy Details
 
 > Output representation for individual group policy information.
 

@@ -5,12 +5,10 @@ topic: insurance-claims-developer-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:03.641Z
+lastCollected: 2026-04-07T18:37:52.841Z
 estimatedTokens: 412
-keywords: [Insurance, Claims, Developer, Journey, how, effectively, Connect, APIs, along, associated, invocable, actions, automate, end-to-end, processing]
+keywords: [Insurance, Claims, Developer, Journey, how, effectively, Connect, APIs, along, invocable, actions, automate, end-to-end, processing, workflows, initial, coverage, verification, final, payment, settlement, cancellation, Salesforce, Flows, Omniscripts]
 ---
-
-# Insurance Claims Developer Journey
 
 > Learn how to effectively use the Insurance Claims Connect APIs, along with the
     associated invocable actions, to automate end-to-end claims processing workflows, from initial

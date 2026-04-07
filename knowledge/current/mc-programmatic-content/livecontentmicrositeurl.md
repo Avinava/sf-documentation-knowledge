@@ -5,12 +5,10 @@ topic: livecontentmicrositeurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.209Z
+lastCollected: 2026-04-07T18:40:22.603Z
 estimatedTokens: 151
-keywords: [LiveContentMicrositeURL, Function, Ordinal, Content, time, argument, coupon, live, con, **Overview**, **Syntax**, Usage]
+keywords: [LiveContentMicrositeURL, Function, Ordinal, Content, time, argument, coupon, live, con, **Overview**, **Syntax**]
 ---
-
-# LiveContentMicrositeURL
 
 > LiveContentMicrositeURL(1, 2)
 

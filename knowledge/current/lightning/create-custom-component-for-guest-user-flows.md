@@ -5,12 +5,10 @@ topic: create-custom-component-for-guest-user-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.992Z
+lastCollected: 2026-04-07T18:38:02.957Z
 estimatedTokens: 402
-keywords: [Custom, Component, Guest, User, Flows, Allow, Experience, Cloud, users, provide, alternative, registration, screens, complex, decision]
+keywords: [Guest, User, Flows, Allow, Experience, Cloud, users, provide, alternative, registration, screens, complex, decision, trees, conditional, forms, gather, uses, Site, API, “Site, Class”, Salesforce, Apex, Developer, Aura]
 ---
-
-# Create Custom Component for Guest User Flows
 
 > Allow flows for your Experience Cloud guest users to provide alternative user
         registration screens, complex decision trees, and conditional forms to gather user

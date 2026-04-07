@@ -5,12 +5,10 @@ topic: partyprofileaddressfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.025Z
+lastCollected: 2026-04-07T18:39:52.484Z
 estimatedTokens: 362
-keywords: [PartyProfileAddressFeed, Feed, tracking, PartyProfileAddress]
+keywords: [PartyProfileAddressFeed, PartyProfileAddress]
 ---
-
-# PartyProfileAddressFeed
 
 > Feed tracking for PartyProfileAddress.
 

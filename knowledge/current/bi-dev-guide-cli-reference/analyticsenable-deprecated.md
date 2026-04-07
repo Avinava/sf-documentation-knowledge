@@ -5,12 +5,10 @@ topic: analyticsenable-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.355Z
+lastCollected: 2026-04-07T18:36:53.712Z
 estimatedTokens: 740
 keywords: [analytics, enable, Deprecated, Examples, Command]
 ---
-
-# analytics:enable (Deprecated)
 
 > Enable Analytics.
 

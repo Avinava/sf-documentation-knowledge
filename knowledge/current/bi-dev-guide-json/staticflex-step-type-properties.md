@@ -6,13 +6,10 @@ topic: staticflex-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.794Z
+lastCollected: 2026-04-07T18:36:54.161Z
 estimatedTokens: 737
-keywords: [staticflex, Step, manually, define, own, data, populate, toggle, widget, provide, binding, possible, filters, groups, measures]
+keywords: [staticflex, Step, manually, define, own, populate, toggle, widget, provide, binding, possible, filters, groups, measures, sort, order, limits]
 ---
-
-# staticflex Step Type
-            Properties
 
 > Use the staticflex step type to manually define
         your own set of data. For example, you can use this step to populate a list of static values

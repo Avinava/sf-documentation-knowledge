@@ -5,12 +5,10 @@ topic: merchantaccountevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.316Z
+lastCollected: 2026-04-07T18:38:35.563Z
 estimatedTokens: 434
-keywords: [MerchantAccountEvent, merchant, account, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API]
+keywords: [MerchantAccountEvent, merchant, account, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API, 59.0]
 ---
-
-# MerchantAccountEvent
 
 > Represents a merchant account platform event. Subscribe to these events so
          you can listen and respond to them when they’re published. For example, create a Salesforce

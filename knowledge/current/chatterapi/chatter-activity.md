@@ -5,12 +5,10 @@ topic: chatter-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.528Z
+lastCollected: 2026-04-07T18:37:16.607Z
 estimatedTokens: 249
 keywords: [Chatter, Activity, number, posts, comments, made, likes, upvotes, received, user]
 ---
-
-# Chatter Activity
 
 > Chatter activity, such as the number of posts and comments made, and comments,
                 likes, and upvotes received, for a user.

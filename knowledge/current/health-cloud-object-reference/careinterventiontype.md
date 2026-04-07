@@ -5,12 +5,10 @@ topic: careinterventiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.233Z
+lastCollected: 2026-04-07T18:37:45.715Z
 estimatedTokens: 924
-keywords: [CareInterventionType, standard, defined, interventions, maintained, organization, API, version, 45.0, later, Calls, Associated, Objects]
+keywords: [CareInterventionType, standard, defined, interventions, maintained, organization, API, 45.0]
 ---
-
-# CareInterventionType
 
 > Represents the standard, defined list of interventions maintained by
          an organization. Available in API version 45.0 and later.

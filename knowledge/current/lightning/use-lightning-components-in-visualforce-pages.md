@@ -5,12 +5,10 @@ topic: use-lightning-components-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.433Z
+lastCollected: 2026-04-07T18:38:03.453Z
 estimatedTokens: 1385
-keywords: [Lightning, Components, Visualforce, Pages, Add, Aura, combine, features, solutions, Implement, new, functionality, JavaScript, Library, App]
+keywords: [Limitations, Lightning, Visualforce, Pages, Add, Aura, combine, features, solutions, Implement, new, functionality, JavaScript, Library, App, Creating, Browser, Third-Party, Cookies]
 ---
-
-# Use Lightning Components in Visualforce Pages
 
 > Add Aura components to your Visualforce pages to combine features that
       use both solutions. Implement new functionality using Aura components and then use it with

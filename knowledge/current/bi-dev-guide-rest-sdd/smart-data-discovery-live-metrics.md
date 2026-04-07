@@ -5,12 +5,10 @@ topic: smart-data-discovery-live-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.127Z
+lastCollected: 2026-04-07T18:36:59.617Z
 estimatedTokens: 226
-keywords: [Smart, Data, Discovery, Live, Metrics, categorized, Einstein]
+keywords: [Smart, Discovery, Live, Metrics, categorized, Einstein]
 ---
-
-# Smart Data Discovery Live Metrics
 
 > The categorized live AI Einstein Discovery metrics.
 

@@ -5,12 +5,10 @@ topic: omniprocessomniasmttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.974Z
+lastCollected: 2026-04-07T18:39:07.161Z
 estimatedTokens: 398
-keywords: [OmniProcessOmniAsmtTask, junction, omni, process, assessment, task, API, version, 63.0, later, Calls]
+keywords: [OmniProcessOmniAsmtTask, junction, omni, process, assessment, task, API, 63.0]
 ---
-
-# OmniProcessOmniAsmtTask
 
 > Represents a junction between an omni process and an omni assessment
          task. This object is available in API version 63.0 and later.

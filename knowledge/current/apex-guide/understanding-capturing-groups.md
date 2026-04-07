@@ -5,12 +5,10 @@ topic: understanding-capturing-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.374Z
+lastCollected: 2026-04-07T18:36:16.595Z
 estimatedTokens: 200
-keywords: [Understanding, Capturing, Groups, matching, operation, substring, input, matches, pattern, saved, substrings]
+keywords: [Understanding, Capturing, Groups, matching, operation, substring, matches, pattern, saved, substrings]
 ---
-
-# Understanding Capturing Groups
 
 > During a matching operation, each substring of the input string
 that matches the pattern is saved. These matching substrings are called capturing groups.

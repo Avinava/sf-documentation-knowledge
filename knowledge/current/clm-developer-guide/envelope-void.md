@@ -5,12 +5,10 @@ topic: envelope-void
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.283Z
+lastCollected: 2026-04-07T18:37:25.212Z
 estimatedTokens: 165
 keywords: [Envelope]
 ---
-
-# Envelope Void
 
 > Void envelope related details.
 

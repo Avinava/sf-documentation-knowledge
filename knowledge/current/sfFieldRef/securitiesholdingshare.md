@@ -5,12 +5,10 @@ topic: securitiesholdingshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.356Z
+lastCollected: 2026-04-07T18:40:01.112Z
 estimatedTokens: 251
 keywords: [SecuritiesHoldingShare, Sharing, SecuritiesHolding]
 ---
-
-# SecuritiesHoldingShare
 
 > Sharing for SecuritiesHolding.
 

@@ -5,12 +5,10 @@ topic: survey-selection-question-response-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.354Z
+lastCollected: 2026-04-07T18:39:16.977Z
 estimatedTokens: 157
-keywords: [Survey, Selection, Question, Input, representation, rating, multiple]
+keywords: [Survey, Selection, Question, rating, multiple]
 ---
-
-# Survey Selection Question Response Input
 
 > Input representation of the details of the response to a boolean,
       rating, single selection, or a multiple selection question on the survey

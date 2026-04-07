@@ -5,12 +5,10 @@ topic: where-is-salesforce-cli-installed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.440Z
+lastCollected: 2026-04-07T18:40:09.389Z
 estimatedTokens: 218
 keywords: [Salesforce, CLI, Installed, troubleshooting, installation, problems, it's, often, useful, know, directories]
 ---
-
-# Where is Salesforce CLI Installed?
 
 > When troubleshooting installation problems, it's often useful to know which directories Salesforce CLI is installed in.
 

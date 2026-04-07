@@ -5,12 +5,10 @@ topic: set-your-internal-organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.214Z
+lastCollected: 2026-04-07T18:39:22.106Z
 estimatedTokens: 1198
-keywords: [Internal, Organization-Wide, Sharing, Defaults, baseline, access, users, records, separately, different, objects]
+keywords: [Internal, Organization-Wide, Sharing, Defaults, baseline, users, records, separately, different]
 ---
-
-# Set Your Internal Organization-Wide Sharing Defaults
 
 > Internal organization-wide sharing defaults set the baseline access for your internal
       users for your records. You can set the defaults separately for different objects.

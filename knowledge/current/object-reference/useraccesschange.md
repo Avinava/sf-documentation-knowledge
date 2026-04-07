@@ -5,12 +5,10 @@ topic: useraccesschange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.656Z
+lastCollected: 2026-04-07T18:38:43.421Z
 estimatedTokens: 170
-keywords: [UserAccessChange, change, user, access, API, version, 57.0, later, Calls, Special, Rules]
+keywords: [UserAccessChange, change, user, API, 57.0]
 ---
-
-# UserAccessChange
 
 > Represents a change related to user access. This object is
       available in API version 57.0 and later.

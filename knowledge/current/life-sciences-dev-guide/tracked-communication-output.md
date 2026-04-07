@@ -5,12 +5,10 @@ topic: tracked-communication-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.769Z
+lastCollected: 2026-04-07T18:37:56.212Z
 estimatedTokens: 482
-keywords: [Tracked, Communication, Output, representation, communications, care]
+keywords: [Tracked, Communication, communications, care]
 ---
-
-# Tracked Communication Output
 
 > Output representation of tracked communications for a care
       request.

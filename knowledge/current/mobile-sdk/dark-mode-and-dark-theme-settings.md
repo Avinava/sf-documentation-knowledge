@@ -5,12 +5,10 @@ topic: dark-mode-and-dark-theme-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.426Z
+lastCollected: 2026-04-07T18:40:27.590Z
 estimatedTokens: 644
-keywords: [Dark, Mode, Theme, Settings, color, schemes, recently, become, popular, user, interfaces, because, they, reduce, eye]
+keywords: [Android, Dark, Mode, Theme, Settings, color, schemes, recently, become, popular, user, interfaces, because, they, reduce, eye, strain, improve, screen, readability, iOS, now, support, respectively, their, latest, versions, keep, sync, developments, Mobile, SDK, 8.0, adds, options, native]
 ---
-
-# Dark Mode and Dark Theme Settings
 
 > Dark color schemes have recently become popular in user interfaces because they
     can

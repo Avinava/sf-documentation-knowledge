@@ -5,12 +5,10 @@ topic: pass-variables-from-ampscript-to-server-side-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.839Z
+lastCollected: 2026-04-07T18:40:23.259Z
 estimatedTokens: 115
 keywords: [Pass, Variables, AMPscript, Server-Side, JavaScript, Work, Variable, functions, allow, perform, actions]
 ---
-
-# Pass Variables from AMPscript to Server-Side JavaScript
 
 > Work with variables from AMPscript using the Variable server-side JavaScript functions. These functions allow you to perform these actions:
 

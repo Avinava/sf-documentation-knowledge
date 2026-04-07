@@ -5,12 +5,10 @@ topic: billingschedulecreatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.481Z
+lastCollected: 2026-04-07T18:39:29.629Z
 estimatedTokens: 248
-keywords: [BillingScheduleCreatedEvent, Notifies, subscribers, actions, API, version, 55.0, later]
+keywords: [BillingScheduleCreatedEvent, Notifies, subscribers, actions, API, 55.0]
 ---
-
-# BillingScheduleCreatedEvent
 
 > Notifies subscribers when the /actions/standardCreateBillingScheduleFromOrderItem request is
 			complete. This object is available in API version 55.0 and later.

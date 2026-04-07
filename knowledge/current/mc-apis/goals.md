@@ -5,12 +5,10 @@ topic: goals
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.327Z
+lastCollected: 2026-04-07T18:40:17.496Z
 estimatedTokens: 727
-keywords: [Goals, goal, measure, effectiveness, associated, journey, evaluated, via, their, criteria, filter, XML, Specification, Helpful, Hints]
+keywords: [Goals, goal, measure, effectiveness, journey, evaluated, via, their, criteria, filter, XML, Specification, Helpful, Hints, Sample, Items]
 ---
-
-# Goals
 
 > The goal object is used to measure the effectiveness of an associated journey. Goals are only evaluated via their criteria or filter XML.
 

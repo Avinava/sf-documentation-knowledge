@@ -5,12 +5,10 @@ topic: analyticsvizfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.718Z
+lastCollected: 2026-04-07T18:39:25.686Z
 estimatedTokens: 423
-keywords: [AnalyticsVizField, Tableau, viusalization, API, version, 65.0, later]
+keywords: [AnalyticsVizField, Tableau, viusalization, API, 65.0]
 ---
-
-# AnalyticsVizField
 
 > Represents a Tableau Next viusalization field. This object is available in API version 65.0 and later.
 

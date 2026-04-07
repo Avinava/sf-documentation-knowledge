@@ -239,14 +239,52 @@ export class GraphQuery {
       this.idfTable.set(stemmedWord, Math.log(docCount / df));
     }
 
+    // ── Pass 2: Index keyword labels against their parent document nodes ──
+    // This bridges the gap: keywords extracted from headings (e.g. "FlowLoop")
+    // are stored as keyword nodes connected via tagged_with edges, but searchNodes()
+    // only searched node labels. By indexing keyword words against the source doc,
+    // searching "FlowLoop" now resolves directly to the document.
+    let keywordTermsIndexed = 0;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
+      if (attrs.type !== "tagged_with") return;
+      const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
+      const kwLabel = targetAttrs.label?.toLowerCase();
+      if (!kwLabel) return;
+
+      const words = kwLabel.split(/[\s_\-.]+/);
+      for (const word of words) {
+        if (word.length < 3) continue;
+        const stemmed = stem(word);
+
+        // Add to label index: stemmed word → document node ID
+        if (!this.labelIndex.has(stemmed)) {
+          this.labelIndex.set(stemmed, new Set());
+        }
+        if (!this.labelIndex.get(stemmed)!.has(source)) {
+          this.labelIndex.get(stemmed)!.add(source);
+          keywordTermsIndexed++;
+        }
+
+        // Add to trigram index for fuzzy matching
+        for (const tri of trigrams(stemmed)) {
+          if (!this.trigramIndex.has(tri)) {
+            this.trigramIndex.set(tri, new Set());
+          }
+          this.trigramIndex.get(tri)!.add(stemmed);
+        }
+      }
+    });
+
     log.info(
       {
         labelTerms: this.labelIndex.size,
         trigrams: this.trigramIndex.size,
         keywords: this.keywordIndex.size,
+        keywordTermsIndexed,
         docs: docCount,
       },
-      "Search indices built (stemmed + trigram + IDF)",
+      "Search indices built (stemmed + trigram + IDF + keyword folding)",
     );
   }
 

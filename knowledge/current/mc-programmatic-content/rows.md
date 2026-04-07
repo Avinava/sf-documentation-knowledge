@@ -5,12 +5,10 @@ topic: rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.578Z
+lastCollected: 2026-04-07T18:40:23.005Z
 estimatedTokens: 37
 keywords: [Rows, **Syntax**]
 ---
-
-# Rows
 
 # Rows
 

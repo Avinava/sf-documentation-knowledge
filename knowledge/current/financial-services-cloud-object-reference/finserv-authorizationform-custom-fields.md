@@ -5,12 +5,10 @@ topic: finserv-authorizationform-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.655Z
+lastCollected: 2026-04-07T18:37:36.428Z
 estimatedTokens: 467
-keywords: [FinServ, AuthorizationForm, Custom, specific, version, effective, dates, form, associated, consent, privacy, policy, terms, conditions, API]
+keywords: [FinServ, AuthorizationForm, specific, effective, dates, form, consent, privacy, policy, terms, conditions, API, 53.0]
 ---
-
-# FinServ AuthorizationForm Custom Fields
 
 > Represents the specific version and effective dates of a form that is
          associated with consent, such as a privacy policy or terms and conditions. This object

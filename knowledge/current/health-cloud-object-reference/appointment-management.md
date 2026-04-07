@@ -5,12 +5,10 @@ topic: appointment-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.220Z
+lastCollected: 2026-04-07T18:37:42.359Z
 estimatedTokens: 377
 keywords: [Appointment, Management, Book, cancel, patient]
 ---
-
-# Appointment Management
 
 > Book, cancel or update an appointment for a patient.
 

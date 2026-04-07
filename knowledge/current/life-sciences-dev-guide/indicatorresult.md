@@ -5,12 +5,10 @@ topic: indicatorresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:10.611Z
+lastCollected: 2026-04-07T18:38:00.365Z
 estimatedTokens: 958
-keywords: [IndicatorResult, result, indicator, assignment, time, period, track, performance, API, version, 59.0, later, Calls, Special, Access]
+keywords: [IndicatorResult, result, indicator, assignment, time, period, track, performance, API, 59.0]
 ---
-
-# IndicatorResult
 
 > Represents the result of an indicator assignment for the specified
          time period that can be used to track the performance of the indicator. This object is

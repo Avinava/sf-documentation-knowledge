@@ -5,13 +5,11 @@ topic: reporttypecolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.071Z
+lastCollected: 2026-04-07T18:36:03.286Z
 estimatedTokens: 950
 namespace: Reports
-keywords: [ReportTypeColumn, detailed, report, metadata, including, data, display, filter, getDataType, getFilterValues, getFilterable, getLabel, getName]
+keywords: [ReportTypeColumn, detailed, report, metadata, including, display, filter, getDataType, getFilterValues, getFilterable, getLabel, getName]
 ---
-
-# ReportTypeColumn Class
 
 > Contains detailed report type metadata about a field, including
 data type, display name, and filter values.

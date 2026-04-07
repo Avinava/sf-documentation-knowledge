@@ -6,13 +6,10 @@ topic: measure-listing-performance-with-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.215Z
+lastCollected: 2026-04-07T18:38:47.180Z
 estimatedTokens: 386
-keywords: [Measure, Listing, Performance, AppExchange, Marketplace, Analytics, Fine-tune, business, strategy, exploring, metrics, trends, search, data]
+keywords: [Measure, Listing, Performance, AppExchange, Marketplace, Analytics, Fine-tune, business, strategy, exploring, metrics, trends, search]
 ---
-
-# Measure Listing Performance with AppExchange Marketplace
-  Analytics
 
 > Fine-tune your AppExchange business strategy by exploring metrics, trends, and search
   data for your listing.

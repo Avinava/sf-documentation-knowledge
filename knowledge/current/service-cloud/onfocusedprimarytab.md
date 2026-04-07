@@ -5,12 +5,10 @@ topic: onfocusedprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.367Z
+lastCollected: 2026-04-07T18:36:50.607Z
 estimatedTokens: 210
-keywords: [onFocusedPrimaryTab, Registers, function, call, focus, browser, changes, different, primary, tab, API, version, 25.0, later, Arguments]
+keywords: [Arguments, onFocusedPrimaryTab, Registers, function, call, focus, browser, changes, different, primary, tab, API, 25.0, Sample, Code–Visualforce, Event, Handler]
 ---
-
-# onFocusedPrimaryTab()
 
 > Registers a function to call when the focus of the
             browser changes to a different primary tab. This method is only available in API version 25.0 or

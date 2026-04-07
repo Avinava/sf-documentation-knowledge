@@ -5,13 +5,11 @@ topic: queueableduplicatesignature-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.993Z
+lastCollected: 2026-04-07T18:36:01.197Z
 estimatedTokens: 339
 namespace: System
 keywords: [QueueableDuplicateSignature, AsyncOptions, store, queueable, job, DuplicateSignature, toString]
 ---
-
-# QueueableDuplicateSignature Class
 
 > Used in the AsyncOptions class to store the
         queueable job signature in the DuplicateSignature

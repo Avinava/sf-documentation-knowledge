@@ -5,13 +5,11 @@ topic: mentions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.079Z
+lastCollected: 2026-04-07T18:35:58.347Z
 estimatedTokens: 3927
 namespace: ConnectApi
-keywords: [Mentions, Access, mention, “@”, character, followed, user, group, mentioned, they, receive, notification, getMentionCompletions, communityId, contextId]
+keywords: [Mentions, mention, “@”, character, followed, user, group, mentioned, they, receive, notification, getMentionCompletions, communityId, contextId, API, Requires, Chatter, pageParam, pageSize, getMentionValidations, parentId, recordIds, visibility, Test, setTestGetMentionCompletions, result]
 ---
-
-# Mentions Class
 
 > Access information about mentions. A mention is an “@”
 character followed by a user or group name. When a user or group is

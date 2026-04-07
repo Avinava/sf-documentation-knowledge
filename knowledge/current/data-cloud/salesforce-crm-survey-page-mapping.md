@@ -5,12 +5,10 @@ topic: salesforce-crm-survey-page-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.536Z
+lastCollected: 2026-04-07T18:35:52.409Z
 estimatedTokens: 314
-keywords: [Salesforce, CRM, Survey, Mapping, data, mappings, SurveyPage, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, Survey, Mapping, mappings, SurveyPage, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Survey Page Mapping
 
 > These data mappings are for the SurveyPage DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

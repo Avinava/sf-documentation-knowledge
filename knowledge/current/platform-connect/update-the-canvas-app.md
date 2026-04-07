@@ -5,12 +5,10 @@ topic: update-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.798Z
+lastCollected: 2026-04-07T18:38:57.610Z
 estimatedTokens: 918
 keywords: [Canvas, App, step, run, “hello, world”, that’s, now, running, Heroku]
 ---
-
-# Update the Canvas App
 
 > In this step, you update the canvas app to run the “hello world” app
     that’s now running on Heroku.

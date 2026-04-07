@@ -5,12 +5,10 @@ topic: feeditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.283Z
+lastCollected: 2026-04-07T18:38:32.251Z
 estimatedTokens: 6190
-keywords: [FeedItem, entry, feed, changes, record, including, text, posts, link, content, API, version, 21.0, later, replaces]
+keywords: [FeedItem, entry, changes, record, including, text, posts, link, content, API, 21.0, replaces, FeedPost]
 ---
-
-# FeedItem
 
 > FeedItem represents an entry in the feed, such as changes in a record feed, including
     text posts, link posts, and content posts. This object is available in API version 21.0 and

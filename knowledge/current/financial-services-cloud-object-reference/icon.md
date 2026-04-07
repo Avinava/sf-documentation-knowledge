@@ -5,12 +5,10 @@ topic: icon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.936Z
+lastCollected: 2026-04-07T18:37:35.597Z
 estimatedTokens: 322
-keywords: [Icon, mapping, custom, icons, objects.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
+keywords: [Icon, mapping, icons, objects.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# Icon
 
 > Represents the mapping of custom icons to objects.This type extends the Metadata metadata type and inherits its
                         fullName field.

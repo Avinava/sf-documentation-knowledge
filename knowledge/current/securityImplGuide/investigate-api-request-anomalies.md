@@ -5,12 +5,10 @@ topic: investigate-api-request-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.743Z
+lastCollected: 2026-04-07T18:39:22.632Z
 estimatedTokens: 754
-keywords: [Investigate, API, Anomalies, It's, often, necessary, further, anomaly, either, determine, data, breach, occurred, rule, benign]
+keywords: [Investigate, API, Anomalies, It's, often, necessary, further, anomaly, either, determine, breach, occurred, rule, benign]
 ---
-
-# Investigate API Request Anomalies
 
 > It's often necessary to further investigate an API request anomaly to either determine
     if a data breach occurred or to rule it out as benign.

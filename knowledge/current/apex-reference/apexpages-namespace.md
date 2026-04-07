@@ -5,13 +5,11 @@ topic: apexpages-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.646Z
+lastCollected: 2026-04-07T18:36:14.960Z
 estimatedTokens: 555
 namespace: ApexPages
 keywords: [ApexPages, classes, Visualforce, controllers]
 ---
-
-# ApexPages Namespace
 
 > The ApexPages namespace
 provides classes used in Visualforce controllers.

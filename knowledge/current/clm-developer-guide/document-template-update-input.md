@@ -5,12 +5,10 @@ topic: document-template-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.680Z
+lastCollected: 2026-04-07T18:37:24.663Z
 estimatedTokens: 623
-keywords: [Document, Template, Input, representation]
+keywords: [Document, Template]
 ---
-
-# Document Template Update Input
 
 > Input representation to update a document template.
 

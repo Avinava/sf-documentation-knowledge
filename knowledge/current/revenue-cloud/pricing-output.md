@@ -5,12 +5,10 @@ topic: pricing-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:00.610Z
+lastCollected: 2026-04-07T18:35:45.614Z
 estimatedTokens: 381
-keywords: [Pricing, Output, representation, Salesforce]
+keywords: [Pricing, Salesforce]
 ---
-
-# Pricing Output
 
 > Output representation of a Salesforce pricing request.
 

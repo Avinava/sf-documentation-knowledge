@@ -5,12 +5,10 @@ topic: referral-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.414Z
+lastCollected: 2026-04-07T18:39:09.729Z
 estimatedTokens: 516
 keywords: [Referral, Mobile, SDK, Android, Clone, import, integrate, program, feature, app]
 ---
-
-# Referral Mobile SDK for Android
 
 > Clone and import the Referral Mobile Android SDK to integrate the referral program
     feature in a mobile app.

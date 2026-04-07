@@ -5,12 +5,10 @@ topic: supplierproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:29.114Z
+lastCollected: 2026-04-07T18:38:19.788Z
 estimatedTokens: 1062
-keywords: [SupplierProduct, that's, track, products, purchased, supplier, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [SupplierProduct, that's, track, products, purchased, supplier, API, 56.0]
 ---
-
-# SupplierProduct
 
 > Represents information that's used to track the products that are purchased
          from a supplier. This object is available in API version 56.0 and later.

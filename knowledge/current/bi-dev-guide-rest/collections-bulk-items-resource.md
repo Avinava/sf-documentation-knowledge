@@ -5,12 +5,10 @@ topic: collections-bulk-items-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.033Z
+lastCollected: 2026-04-07T18:36:55.464Z
 estimatedTokens: 215
-keywords: [Collections, Bulk, Items, Resource, Add, collection, URL, Formats, Version, HTTP, POST]
+keywords: [Formats, Collections, Bulk, Items, Resource, Add, collection, URL, HTTP, POST]
 ---
-
-# Collections Bulk Items Resource
 
 > Add items in bulk to the collection.
 

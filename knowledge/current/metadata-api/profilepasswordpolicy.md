@@ -5,12 +5,10 @@ topic: profilepasswordpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.182Z
+lastCollected: 2026-04-07T18:36:28.692Z
 estimatedTokens: 908
-keywords: [ProfilePasswordPolicy, profile’s, password, policies, Profile, override, org-wide, users, retrieve, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [ProfilePasswordPolicy, profile’s, password, policies, Profile, override, org-wide, users, retrieve, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ProfilePasswordPolicy
 
 > Represents a profile’s password policies. Profile
     password policies override org-wide password policies for that profile’s users. Use

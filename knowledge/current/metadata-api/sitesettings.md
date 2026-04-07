@@ -5,12 +5,10 @@ topic: sitesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.362Z
+lastCollected: 2026-04-07T18:36:29.782Z
 estimatedTokens: 1282
-keywords: [SiteSettings, settings, Experience, Cloud, sites, Salesforce, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [SiteSettings, settings, Experience, Cloud, sites, Salesforce, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SiteSettings
 
 > Represents the settings for Experience Cloud sites and for
 				Salesforce Sites.

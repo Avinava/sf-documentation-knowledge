@@ -5,12 +5,10 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:10.161Z
+lastCollected: 2026-04-07T18:40:04.982Z
 estimatedTokens: 4228
 keywords: [User, organization]
 ---
-
-# User
 
 > Represents a user in your organization.
 

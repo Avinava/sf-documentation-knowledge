@@ -5,12 +5,10 @@ topic: executecalloutrequestid-payload-devname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.457Z
+lastCollected: 2026-04-07T18:37:33.910Z
 estimatedTokens: 260
-keywords: [executeCallout, requestId, payload, devName, Calls, provider, defiled, Integration, Definition, record, referenced, Industries, SendApex, Async, invocable]
+keywords: [executeCallout, requestId, payload, devName, provider, defiled, Integration, Definition, record, referenced, Industries, SendApex, Async, invocable, action]
 ---
-
-# executeCallout(requestId, payload, devName)
 
 > Calls the provider class defiled in the Integration Definition record
       referenced by the devName parameter. The Industries: SendApex Async Request invocable action

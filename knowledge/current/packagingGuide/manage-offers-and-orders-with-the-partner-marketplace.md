@@ -5,12 +5,10 @@ topic: manage-offers-and-orders-with-the-partner-marketplace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.294Z
+lastCollected: 2026-04-07T18:38:47.266Z
 estimatedTokens: 736
-keywords: [Manage, Offers, Orders, Partner, Marketplace, delivers, buying, experience, powered, entirely, Salesforce, several, major, benefits, you—our]
+keywords: [Manage, Offers, Orders, Partner, Marketplace, delivers, buying, experience, powered, entirely, Salesforce, several, major, benefits, you—our, partners, customers, cohesive, purchasing, billing, journey, orchestrated, Platform, means, fewer, manual, steps, everyone, Automating, selling, creates, opportunities, teams, shift, focus, administration, innovation, team, efficiency, often, translates, directly, growth, provisioning, payment, collection, simultaneously, reduce, operational, overhead, minimize, liability, Best, unlocks, new, revenue, potential, wider, range, pricing, models, compelling, customer, including, options, consumption-based, permission, licenses]
 ---
-
-# Manage Offers and Orders with the Partner Marketplace
 
 > The Partner Marketplace delivers a complete buying experience powered entirely by
     Salesforce. It offers several major benefits for you—our partners and your customers. Customers

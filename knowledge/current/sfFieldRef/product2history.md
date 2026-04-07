@@ -5,12 +5,10 @@ topic: product2history
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.687Z
+lastCollected: 2026-04-07T18:39:55.248Z
 estimatedTokens: 253
-keywords: [Product2History, History, tracked, Product2]
+keywords: [Product2History, tracked, Product2]
 ---
-
-# Product2History
 
 > History for tracked fields of Product2.
 

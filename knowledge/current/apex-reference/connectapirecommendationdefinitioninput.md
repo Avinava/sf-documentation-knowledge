@@ -5,12 +5,10 @@ topic: connectapirecommendationdefinitioninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.901Z
+lastCollected: 2026-04-07T18:36:06.248Z
 estimatedTokens: 340
-keywords: [custom, recommendation, definition]
+keywords: [recommendation, definition]
 ---
-
-# ConnectApi.RecommendationDefinitionInput
 
 > A custom recommendation definition.
 

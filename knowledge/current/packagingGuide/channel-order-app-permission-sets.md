@@ -5,12 +5,10 @@ topic: channel-order-app-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.633Z
+lastCollected: 2026-04-07T18:38:46.505Z
 estimatedTokens: 249
-keywords: [Channel, Order, App, Permission, control, access, COA, User, Admin, determine, how, users, interact, objects, features]
+keywords: [Channel, Order, App, Permission, control, COA, User, Admin, determine, how, users, interact, features, assign, correct, user’s, role, team]
 ---
-
-# Channel Order App Permission Sets
 
 > You control access to the Channel Order App (COA) with the COA User and COA Admin user
     permission sets. The permission sets determine how users can interact with objects and features

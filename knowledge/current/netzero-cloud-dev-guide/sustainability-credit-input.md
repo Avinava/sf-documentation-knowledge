@@ -5,12 +5,10 @@ topic: sustainability-credit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.647Z
+lastCollected: 2026-04-07T18:38:16.195Z
 estimatedTokens: 400
-keywords: [Sustainability, Credit, Input, representation, associated, carbon, project]
+keywords: [Sustainability, Credit, carbon, project]
 ---
-
-# Sustainability Credit Input
 
 > Input representation of the sustainability credit associated with the
       carbon credit project.

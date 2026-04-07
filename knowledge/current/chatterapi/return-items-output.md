@@ -5,12 +5,10 @@ topic: return-items-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.745Z
+lastCollected: 2026-04-07T18:37:22.859Z
 estimatedTokens: 364
-keywords: [Items, Output, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created]
+keywords: [Items, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created, represent, remaining, quantities]
 ---
-
-# Return Items Output
 
 > Output of Return Items. Includes the ID of the generated change
       order for items and delivery charges being returned, as well as the ID of the generated change

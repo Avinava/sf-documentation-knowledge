@@ -5,12 +5,10 @@ topic: adavailabilityviewconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.575Z
+lastCollected: 2026-04-07T18:38:11.873Z
 estimatedTokens: 857
-keywords: [AdAvailabilityViewConfig, configuration, decides, how, Media, Cloud-specific, pages, org, API, version, 59.0, later, Calls, Special, Access]
+keywords: [AdAvailabilityViewConfig, configuration, decides, how, Media, Cloud-specific, pages, org, API, 59.0]
 ---
-
-# AdAvailabilityViewConfig
 
 > Represents a configuration that decides how and what type of
          information is displayed on Media Cloud-specific pages in the org. This object is

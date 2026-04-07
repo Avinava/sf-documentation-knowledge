@@ -5,12 +5,10 @@ topic: formula-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.545Z
+lastCollected: 2026-04-07T18:39:19.230Z
 estimatedTokens: 186
 keywords: [Formula, node, recipe]
 ---
-
-# Formula Parameters
 
 > The parameters for a formula node in a recipe.
 

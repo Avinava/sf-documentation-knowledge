@@ -5,12 +5,10 @@ topic: environment-hub-sso-user-mapping-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:31.624Z
+lastCollected: 2026-04-07T18:37:18.713Z
 estimatedTokens: 307
 keywords: [Environment, Hub, SSO, User, Mapping, Validation, Results, validating, potential, member, org]
 ---
-
-# Environment Hub SSO User Mapping Validation
 
 > Results from validating a potential SSO user mapping between a user
       in an Environment Hub and a user in a hub member org.

@@ -5,12 +5,10 @@ topic: change-events-for-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.814Z
+lastCollected: 2026-04-07T18:37:05.527Z
 estimatedTokens: 828
 keywords: [Change, Events, Users, user, email, preferences, include, enabled, their, disabled, included, event, payload]
 ---
-
-# Change Events for Users
 
 > The user and email preferences in change events include only the preferences that
     are enabled (set to true) without their Boolean values. Preferences that are disabled (set to

@@ -5,12 +5,10 @@ topic: cgcloudorganizationsettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:20.795Z
+lastCollected: 2026-04-07T18:39:14.182Z
 estimatedTokens: 877
-keywords: [cgcloud__Organization_Setting__c, disables, role, hierarchy, call, module, API, version, 54.0, later, cgcloud, _Organization, _Setting, Calls, Associated]
+keywords: [cgcloud__Organization_Setting__c, disables, role, hierarchy, call, module, API, 54.0, cgcloud, _Organization, _Setting]
 ---
-
-# cgcloud__Organization_Setting__c
 
 > This object enables or disables the role hierarchy in a call
          module. This object is available in API version 54.0 and later.

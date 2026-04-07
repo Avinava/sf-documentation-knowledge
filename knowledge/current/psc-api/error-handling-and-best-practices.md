@@ -5,12 +5,10 @@ topic: error-handling-and-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:11.963Z
+lastCollected: 2026-04-07T18:39:04.971Z
 estimatedTokens: 214
-keywords: [Error, Handling, Best, Practices, user, cancels, upload, occurs, process, LWC, call, abort, file, API, clean]
+keywords: [Error, Handling, Best, Practices, user, cancels, upload, occurs, process, LWC, call, abort, file, API, clean, any, partially, uploaded]
 ---
-
-# Error Handling and Best Practices
 
 > If a user cancels the upload or an error occurs during the process, the LWC should call
   the abort file upload API to clean up any partially uploaded data in S3.

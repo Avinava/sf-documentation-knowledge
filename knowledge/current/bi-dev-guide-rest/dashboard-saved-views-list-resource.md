@@ -5,12 +5,10 @@ topic: dashboard-saved-views-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.505Z
+lastCollected: 2026-04-07T18:36:55.987Z
 estimatedTokens: 361
-keywords: [Dashboard, Saved, Views, Resource, creates, view, URL, Formats, Version, Components, HTTP, POST]
+keywords: [Formats, Dashboard, Saved, Views, Resource, creates, view, URL, HTTP, POST]
 ---
-
-# Dashboard Saved Views List Resource
 
 > Returns a list of dashboard saved views or creates a single
       view.

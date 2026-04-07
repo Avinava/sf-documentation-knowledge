@@ -5,12 +5,10 @@ topic: conversions-that-generate-a-gap-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.499Z
+lastCollected: 2026-04-07T18:37:05.236Z
 estimatedTokens: 219
 keywords: [Conversions, Generate, Gap, Event, generated, affected, records, Picklist, change, message, including, record, IDs, GAP_UPDATE]
 ---
-
-# Conversions That Generate a Gap Event
 
 > A gap event is generated for all the affected records for some field conversions from
   Picklist. The change event header of the gap event message contains information about the records,

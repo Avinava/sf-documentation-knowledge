@@ -5,12 +5,10 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.846Z
+lastCollected: 2026-04-07T18:36:23.121Z
 estimatedTokens: 2331
-keywords: [BrandingSet, definition, branding, Experience, Builder, site, org's, Lightning, theme, File, Suffix, Directory, Location, Version, Special]
+keywords: [BrandingSet, BrandingSetProperty, definition, branding, Experience, Builder, site, org's, Lightning, theme, File, Suffix, Directory, Location, Themes, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# BrandingSet
 
 > Represents the definition of a set of branding properties
             for an Experience Builder site or for your org's Lightning Experience

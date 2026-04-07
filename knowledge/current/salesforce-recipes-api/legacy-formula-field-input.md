@@ -5,12 +5,10 @@ topic: legacy-formula-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.686Z
+lastCollected: 2026-04-07T18:39:18.385Z
 estimatedTokens: 96
-keywords: [Legacy, Formula, Input]
+keywords: [Legacy, Formula]
 ---
-
-# Legacy Formula Field Input
 
 > A legacy formula field for a formula.
 

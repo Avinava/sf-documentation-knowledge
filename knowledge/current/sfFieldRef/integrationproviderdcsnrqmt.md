@@ -5,12 +5,10 @@ topic: integrationproviderdcsnrqmt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.922Z
+lastCollected: 2026-04-07T18:39:45.483Z
 estimatedTokens: 337
-keywords: [IntegrationProviderDcsnRqmt, decision, requirement, integration, provider, records, API, version, 61.0, later]
+keywords: [IntegrationProviderDcsnRqmt, decision, requirement, integration, provider, records, API, 61.0]
 ---
-
-# IntegrationProviderDcsnRqmt
 
 > Represents a decision requirement used to create integration provider
          records. This object is available in API version 61.0 and later.

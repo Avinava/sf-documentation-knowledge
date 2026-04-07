@@ -5,12 +5,10 @@ topic: settablink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.674Z
+lastCollected: 2026-04-07T18:36:50.957Z
 estimatedTokens: 221
-keywords: [setTabLink, console, tab’s, URL, attribute, location, content, generate, secure, URLs, users, navigate, tabs, displaying, outside]
+keywords: [Arguments, setTabLink, console, tab’s, URL, attribute, location, content, generate, secure, URLs, users, navigate, tabs, displaying, outside, Salesforce, domain.This, API, 28.0, Sample, Code–Visualforce]
 ---
-
-# setTabLink()
 
 > Sets a console tab’s URL attribute to the location of
             the tab’s content. Use this method to generate secure console URLs when users

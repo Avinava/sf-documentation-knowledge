@@ -5,12 +5,10 @@ topic: feed-elements-capability-media-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.747Z
+lastCollected: 2026-04-07T18:37:13.702Z
 estimatedTokens: 200
-keywords: [Feed, Elements, Capability, Media, References, Access, element]
+keywords: [Capability, Media, References]
 ---
-
-# Feed Elements Capability, Media References
 
 > Access the media references capability of a feed
     element.

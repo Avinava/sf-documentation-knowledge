@@ -5,12 +5,10 @@ topic: continuation-callout-summary-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.139Z
+lastCollected: 2026-04-07T18:38:30.934Z
 estimatedTokens: 1233
-keywords: [Continuation, Callout, Summary, Event, events, contain, asynchronous, callouts, performed, transaction, their, status, codes, execution, times]
+keywords: [Continuation, Callout, Summary, Event, events, contain, asynchronous, callouts, performed, transaction, their, status, codes, execution, times, URL, endpoint, destinations, EventLogFile, API, 43.0]
 ---
-
-# Continuation Callout Summary Event Type
 
 > Continuation Callout Summary events contain information about all of
    the asynchronous callouts performed during a transaction, their response status codes, execution

@@ -5,12 +5,10 @@ topic: general-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.677Z
+lastCollected: 2026-04-07T18:37:57.195Z
 estimatedTokens: 272
-keywords: [General, Events, enable, users, log, manage, various, non-customer, activities, Planner, tool, easily, view, their, schedules]
+keywords: [General, Events, enable, users, log, manage, various, non-customer, activities, Planner, tool, easily, view, their, schedules, add, employees, Event, team, collaborations]
 ---
-
-# General Events
 
 > General Events enable users to log and manage various non-customer related activities.
   With the Planner tool, users can easily create, view, and manage General Events in their

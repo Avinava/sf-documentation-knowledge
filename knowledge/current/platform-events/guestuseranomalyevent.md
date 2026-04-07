@@ -5,12 +5,10 @@ topic: guestuseranomalyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.226Z
+lastCollected: 2026-04-07T18:38:59.109Z
 estimatedTokens: 1211
-keywords: [GuestUserAnomalyEvent, Tracks, data, access, anomalies, caused, guest, user, permission, misconfiguration, API, version, 60.0, later, Calls]
+keywords: [GuestUserAnomalyEvent, Tracks, anomalies, caused, guest, user, permission, misconfiguration, API, 60.0, Subscribers, Event, Delivery, Allocation, Enforced]
 ---
-
-# GuestUserAnomalyEvent
 
 > Tracks data access anomalies that are caused by guest user permission
          misconfiguration. This object is available in API version 60.0 and later.

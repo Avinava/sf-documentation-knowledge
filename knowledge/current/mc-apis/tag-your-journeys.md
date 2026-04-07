@@ -5,12 +5,10 @@ topic: tag-your-journeys
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.537Z
+lastCollected: 2026-04-07T18:40:17.720Z
 estimatedTokens: 269
-keywords: [Tag, Journeys, add, tags, help, identify, categorize, journey, multiple, associated, via, API, original, definition, unique]
+keywords: [Tag, Journeys, add, tags, help, identify, categorize, journey, multiple, via, API, original, definition, unique, Items]
 ---
-
-# Tag your Journeys
 
 > You can add tags to journeys to help identify and categorize them. A journey can have multiple tags, and a tag can be associated with multiple journeys. To add tags to journeys via the API, you need the object ID, or original definition ID, for each journey, and the unique tag names.
 

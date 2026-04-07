@@ -5,12 +5,10 @@ topic: sql-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.337Z
+lastCollected: 2026-04-07T18:37:28.369Z
 estimatedTokens: 480
-keywords: [SQL, Configuration, running, Data, Loader, batch, mode, command, line, SqlConfig, accessing, specific, database, Query, Bean]
+keywords: [SQL, Configuration, running, Loader, batch, mode, command, line, SqlConfig, accessing, specific, database, Query, Bean, Insert]
 ---
-
-# SQL Configuration
 
 > When running Data Loader in batch mode from the command line, the
         SqlConfig class contains configuration parameters for accessing

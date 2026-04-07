@@ -5,12 +5,10 @@ topic: generate-events-using-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.089Z
+lastCollected: 2026-04-07T18:36:51.410Z
 estimatedTokens: 524
 keywords: [Generate, Events, REST, Streaming, Channel, Push, API, resource, event, notifications, subscribers]
 ---
-
-# Generate Events Using REST
 
 > Use the Streaming Channel Push REST API resource to generate event notifications to
         channel subscribers.

@@ -5,12 +5,10 @@ topic: change-event-message-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.615Z
+lastCollected: 2026-04-07T18:37:05.364Z
 estimatedTokens: 1091
-keywords: [Change, Event, Message, Structure, record, API, Version, Schema, Pub, Sub]
+keywords: [Change, Event, Message, Structure, record, API, Schema, Pub, Sub]
 ---
-
-# Change Event Message Structure
 
 > A change event message contains header fields and record fields.
 

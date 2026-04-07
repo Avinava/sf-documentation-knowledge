@@ -5,13 +5,11 @@ topic: namespaceregistryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.017Z
+lastCollected: 2026-04-07T18:39:49.491Z
 estimatedTokens: 266
 namespace: NamespaceRegistryId
-keywords: [NamespaceRegistryHistory, History, tracked, NamespaceRegistry]
+keywords: [NamespaceRegistryHistory, tracked, NamespaceRegistry]
 ---
-
-# NamespaceRegistryHistory
 
 > History for tracked fields of NamespaceRegistry.
 

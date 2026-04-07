@@ -5,12 +5,10 @@ topic: files-connect-item-type-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.840Z
+lastCollected: 2026-04-07T18:37:17.908Z
 estimatedTokens: 164
-keywords: [Files, Connect, Item, Detail, Detailed, associated, repository, folder]
+keywords: [Files, Connect, Item, Detail, Detailed, repository, folder]
 ---
-
-# Files Connect Item Type Detail
 
 > Detailed information about an item type associated with a repository
       folder.

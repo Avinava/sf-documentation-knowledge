@@ -5,13 +5,11 @@ topic: flatlistrow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.256Z
+lastCollected: 2026-04-07T18:39:10.732Z
 estimatedTokens: 374
 namespace: CGCloud
-keywords: [FlatListRow, Real, Time, Reporting, RTR, report, Flatlist, component, rows, getColumnValue, columnName]
+keywords: [FlatListRow, Real, Time, Reporting, RTR, report, Flatlist, rows, getColumnValue, columnName]
 ---
-
-# FlatListRow Class
 
 > Represents a Real Time Reporting (RTR) report UI Flatlist component
       single rows.

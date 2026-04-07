@@ -5,12 +5,10 @@ topic: forecastingsourcedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.678Z
+lastCollected: 2026-04-07T18:36:33.133Z
 estimatedTokens: 838
-keywords: [ForecastingSourceDefinition, measure, date, hierarchy, forecast, uses, project, sales, API, version, 52.0, later, SOAP, Calls, REST]
+keywords: [ForecastingSourceDefinition, measure, date, hierarchy, forecast, uses, project, sales, API, 52.0, SOAP, REST]
 ---
-
-# ForecastingSourceDefinition
 
 > Represents the object, measure, date type, and hierarchy that a forecast uses
          to project sales. This object is available in API version 52.0 and later.

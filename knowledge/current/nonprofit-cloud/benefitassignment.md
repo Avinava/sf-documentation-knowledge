@@ -5,12 +5,10 @@ topic: benefitassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.295Z
+lastCollected: 2026-04-07T18:38:22.317Z
 estimatedTokens: 1025
-keywords: [BenefitAssignment, enrollment, individual, benefit, Program, Management, API, version, 57.0, later, Calls]
+keywords: [BenefitAssignment, enrollment, individual, benefit, Program, Management, API, 57.0]
 ---
-
-# BenefitAssignment
 
 > Represents the enrollment information of an individual to a
          benefit. This object is available with Program Management in API version 57.0 and

@@ -5,12 +5,10 @@ topic: additionalfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.251Z
+lastCollected: 2026-04-07T18:39:00.309Z
 estimatedTokens: 359
 keywords: [AdditionalField, created, updated, target, fieldName, fieldValue]
 ---
-
-# AdditionalField Class
 
 > This class contains the details of the fields that are created or updated in the target
     object.

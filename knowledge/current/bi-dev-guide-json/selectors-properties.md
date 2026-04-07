@@ -5,12 +5,10 @@ topic: selectors-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.661Z
+lastCollected: 2026-04-07T18:36:54.028Z
 estimatedTokens: 278
 keywords: [selectors, key, layout, specify, designer, grid, settings, background, requirements, devices]
 ---
-
-# selectors Properties
 
 > The selectors key contains layout properties that
     specify the layout name, designer grid settings, background settings, and requirements for

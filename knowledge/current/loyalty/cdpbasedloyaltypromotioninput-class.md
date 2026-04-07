@@ -5,13 +5,11 @@ topic: cdpbasedloyaltypromotioninput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.491Z
+lastCollected: 2026-04-07T18:38:06.708Z
 estimatedTokens: 120
 namespace: LoyaltyManagement
 keywords: [CdpBasedLoyaltyPromotionInput, retrieve, promotions, eligible, member, member’s, market, segment]
 ---
-
-# CdpBasedLoyaltyPromotionInput Class
 
 > Use this class to retrieve promotions that are eligible for a member
       based on the member’s market segment.

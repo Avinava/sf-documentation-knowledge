@@ -5,12 +5,10 @@ topic: clause-versions-bulk-update-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.137Z
+lastCollected: 2026-04-07T18:36:37.765Z
 estimatedTokens: 336
-keywords: [Clause, Versions, Bulk, POST, Asynchronously, status, regulation, version, policy, API, supports, updating, maximum, clauses, time]
+keywords: [Clause, Versions, Bulk, POST, Asynchronously, status, regulation, policy, API, supports, updating, maximum, clauses, time]
 ---
-
-# Clause Versions Bulk Update (POST)
 
 > Asynchronously bulk update the status for all the clause versions of the specified
     regulation version or policy version. This API supports bulk updating a maximum of 10,000

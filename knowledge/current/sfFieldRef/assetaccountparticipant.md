@@ -5,12 +5,10 @@ topic: assetaccountparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.697Z
+lastCollected: 2026-04-07T18:39:27.686Z
 estimatedTokens: 410
-keywords: [AssetAccountParticipant, junction, Asset, Account, objects, describing, association, participating, API, version, 56.0, later]
+keywords: [AssetAccountParticipant, junction, Asset, Account, describing, association, participating, API, 56.0]
 ---
-
-# AssetAccountParticipant
 
 > Represents a junction between the Asset and Account objects describing the
          association between a participating account and an asset. This object is available in

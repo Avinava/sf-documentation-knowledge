@@ -5,12 +5,10 @@ topic: procedure-plan-evaluation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.719Z
+lastCollected: 2026-04-07T18:35:43.596Z
 estimatedTokens: 441
-keywords: [Procedure, Plan, Evaluation, Input, representation, evaluate, definition]
+keywords: [Procedure, Plan, Evaluation, evaluate, definition]
 ---
-
-# Procedure Plan Evaluation Input
 
 > Input representation of the details used to evaluate a procedure plan
     definition.

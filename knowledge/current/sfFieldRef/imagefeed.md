@@ -5,12 +5,10 @@ topic: imagefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.648Z
+lastCollected: 2026-04-07T18:39:44.309Z
 estimatedTokens: 355
-keywords: [ImageFeed, Feed, tracking, Image]
+keywords: [ImageFeed, Image]
 ---
-
-# ImageFeed
 
 > Feed tracking for Image.
 

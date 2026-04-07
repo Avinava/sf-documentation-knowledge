@@ -5,12 +5,10 @@ topic: custodyitemrgltycodevio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.341Z
+lastCollected: 2026-04-07T18:39:06.425Z
 estimatedTokens: 822
-keywords: [CustodyItemRgltyCodeVio, junction, custody, item, regulatory, code, violation, laws, regulations, associated, API, version, 59.0, later, Calls]
+keywords: [CustodyItemRgltyCodeVio, junction, custody, item, regulatory, code, violation, laws, regulations, API, 59.0]
 ---
-
-# CustodyItemRgltyCodeVio
 
 > Represents a junction between a custody item and the related
          regulatory code violation. The violation can be related to laws, regulations, or code that

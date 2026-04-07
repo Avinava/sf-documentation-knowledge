@@ -5,12 +5,10 @@ topic: scope3emssnsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.744Z
+lastCollected: 2026-04-07T18:38:19.450Z
 estimatedTokens: 2445
-keywords: [Scope3EmssnSrc, scope, activities, source, greenhouse, gas, emissions, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [Scope3EmssnSrc, scope, activities, source, greenhouse, gas, emissions, API, 54.0]
 ---
-
-# Scope3EmssnSrc
 
 > Represents scope 3 activities that are the source of greenhouse gas
          emissions. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.366Z
+lastCollected: 2026-04-07T18:39:09.682Z
 estimatedTokens: 345
 keywords: [Bodies, Here’s, Referral, Marketing, API]
 ---
-
-# Request Bodies
 
 > Here’s a list of Referral Marketing API request bodies.
 

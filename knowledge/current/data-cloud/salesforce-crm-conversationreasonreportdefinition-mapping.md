@@ -5,12 +5,10 @@ topic: salesforce-crm-conversationreasonreportdefinition-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.229Z
+lastCollected: 2026-04-07T18:35:52.030Z
 estimatedTokens: 363
-keywords: [Salesforce, CRM, ConversationReasonReportDefinition, Mapping, data, mappings, ConvReasonReportDefinition, DLO, Connector, found, Services, bundle, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, ConversationReasonReportDefinition, Mapping, mappings, ConvReasonReportDefinition, DLO, Connector, found, Services, bundle, Cloud, DMO]
 ---
-
-# Salesforce CRM: ConversationReasonReportDefinition Mapping
 
 > These data mappings are for the ConvReasonReportDefinition DLO used with the Salesforce
   CRM Connector found in the Services bundle of the Salesforce CRM Connector for Data Cloud.

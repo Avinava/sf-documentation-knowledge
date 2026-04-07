@@ -5,12 +5,10 @@ topic: rule-filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.015Z
+lastCollected: 2026-04-07T18:38:08.267Z
 estimatedTokens: 264
-keywords: [Rule, Filter, Criteria, Output, representation, promotion]
+keywords: [Rule, Filter, Criteria, promotion]
 ---
-
-# Rule Filter Criteria
 
 > Output representation of the details of a promotion rule filter criteria.
 

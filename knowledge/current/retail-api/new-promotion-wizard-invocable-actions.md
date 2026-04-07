@@ -5,12 +5,10 @@ topic: new-promotion-wizard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.049Z
+lastCollected: 2026-04-07T18:39:11.605Z
 estimatedTokens: 516
-keywords: [New, Promotion, Wizard, Invocable, Actions, support, Data, Source, providers, NewPromotion]
+keywords: [New, Promotion, Wizard, Invocable, Actions, support, Source, providers, NewPromotion]
 ---
-
-# New Promotion Wizard Invocable Actions
 
 > This class contains support for Data Source providers used in the NewPromotion
   wizard.

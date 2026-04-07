@@ -5,12 +5,10 @@ topic: endorse-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.029Z
+lastCollected: 2026-04-07T18:37:48.753Z
 estimatedTokens: 194
-keywords: [Endorse, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs]
+keywords: [Inputs, Outputs, Endorse, Insurance, Policy, Action, user, represent, REST, HTTP]
 ---
-
-# Endorse Insurance Policy Action
 
 > Endorse an insurance policy by using a set of user inputs that represent policy
         details.

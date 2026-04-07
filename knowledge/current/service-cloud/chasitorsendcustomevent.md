@@ -5,12 +5,10 @@ topic: chasitorsendcustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.807Z
+lastCollected: 2026-04-07T18:36:48.863Z
 estimatedTokens: 131
-keywords: [chasitor.sendCustomEvent, custom, event, agent, console, currently, chatting, customer, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, chasitor.sendCustomEvent, event, agent, console, currently, chatting, customer, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# chasitor.sendCustomEvent()
 
 > Sends a custom event to the agent console of the agent who is currently chatting with
         a customer. Available in API version 29.0 or

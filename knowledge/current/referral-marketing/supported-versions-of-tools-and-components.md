@@ -5,12 +5,10 @@ topic: supported-versions-of-tools-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.480Z
+lastCollected: 2026-04-07T18:39:09.794Z
 estimatedTokens: 253
-keywords: [Versions, Tools, Components, Referral, Mobile, SDK, works, iOS, 15.0+, Android, 8.0+, Install]
+keywords: [Android, Versions, Tools, Referral, Mobile, SDK, works, iOS, 15.0+, 8.0+, Install]
 ---
-
-# Supported Versions of Tools and Components
 
 > The Referral Mobile SDK works on iOS 15.0+ and Android 8.0+ versions. Install the tools
   and components required to set up the Referral Mobile SDK.

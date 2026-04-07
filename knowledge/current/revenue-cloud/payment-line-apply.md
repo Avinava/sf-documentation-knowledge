@@ -5,12 +5,10 @@ topic: payment-line-apply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.080Z
+lastCollected: 2026-04-07T18:35:46.040Z
 estimatedTokens: 120
-keywords: [Payment, Line, Apply, Output, representation, applied, include, record, date]
+keywords: [Payment, Line, Apply, applied, include, record, date]
 ---
-
-# Payment Line Apply
 
 > Output representation of the details of the applied payment line. The details include the
     ID of the payment record and date when the payment line was applied.

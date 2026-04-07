@@ -6,13 +6,10 @@ topic: send-multiple-requests-using-composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.271Z
+lastCollected: 2026-04-07T18:36:20.486Z
 estimatedTokens: 1082
-keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, call, output, input, subsequent, bodies, HTTP, statuses]
+keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, call, subsequent, bodies, HTTP, statuses, entire, counts, toward, limits]
 ---
-
-# Send Multiple Requests
-      Using Composite
 
 > Executes a series of REST API requests in a single call. You can use
       the output of one request as the input to a subsequent request. The response bodies and HTTP

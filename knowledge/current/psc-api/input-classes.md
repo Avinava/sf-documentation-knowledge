@@ -5,12 +5,10 @@ topic: input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.171Z
+lastCollected: 2026-04-07T18:39:03.400Z
 estimatedTokens: 107
-keywords: [Input, Classes, Decision, Apex, Record, Alerts, Engagements]
+keywords: [Classes, Decision, Apex, Record, Alerts, Engagements]
 ---
-
-# Input Classes
 
 > These are Record Alerts Apex input classes.
 

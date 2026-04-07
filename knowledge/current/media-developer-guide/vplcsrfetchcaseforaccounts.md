@@ -5,12 +5,10 @@ topic: vplcsrfetchcaseforaccounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.292Z
+lastCollected: 2026-04-07T18:38:11.617Z
 estimatedTokens: 96
-keywords: [VPL_CSRFetchcaseforAccounts, Integration, Procedure, fetches, cases, registered, agent, console, particular, customer, VPL, _CSRFetchcaseforAccounts, Sample, Input, Output]
+keywords: [VPL_CSRFetchcaseforAccounts, Integration, Procedure, fetches, cases, registered, agent, console, particular, customer, VPL, _CSRFetchcaseforAccounts, Sample]
 ---
-
-# VPL_CSRFetchcaseforAccounts
 
 > This Integration Procedure fetches the cases registered in
     the agent console for a particular customer.

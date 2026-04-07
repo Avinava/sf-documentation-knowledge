@@ -5,12 +5,10 @@ topic: change-chart-colors-for-dimension-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.201Z
+lastCollected: 2026-04-07T18:37:02.741Z
 estimatedTokens: 529
-keywords: [Change, Chart, Colors, Dimension, customize, stacked, bar, column, waterfall, specify, measure, two, groups, color, donut]
+keywords: [Change, Chart, Colors, Dimension, customize, stacked, bar, column, waterfall, specify, measure, two, groups, color, donut, funnel, treemap, pyramid, line, timeline, charts]
 ---
-
-# Change Chart Colors for Dimension Values
 
 > You can customize the colors of dimension values in a stacked bar, stacked column, or
     stacked waterfall chart. If you specify one measure and two groups, you can also customize the

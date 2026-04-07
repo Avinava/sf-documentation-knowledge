@@ -5,12 +5,10 @@ topic: hl7-v23-segments-supported-in-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.060Z
+lastCollected: 2026-04-07T18:37:58.582Z
 estimatedTokens: 717
-keywords: [HL7, v2.3, Segments, Salesforce, Standard, Objects, support]
+keywords: [HL7, v2.3, Segments, Salesforce, Standard, support]
 ---
-
-# HL7 v2.3 Segments Supported in Salesforce Standard Objects
 
 > Salesforce Standard objects support the following segments in HL7 v2.3.
 

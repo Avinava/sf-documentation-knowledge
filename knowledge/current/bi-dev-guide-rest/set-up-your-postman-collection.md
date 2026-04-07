@@ -5,12 +5,10 @@ topic: set-up-your-postman-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.773Z
+lastCollected: 2026-04-07T18:36:58.322Z
 estimatedTokens: 574
 keywords: [Postman, Collection, work, Salesforce, CRM, Analytics, Connect, API, Workspace, Fork, Authorize, Org]
 ---
-
-# Set Up Your Postman Collection
 
 > Set up Postman to work with the Salesforce CRM Analytics Connect API
     collection.

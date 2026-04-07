@@ -5,12 +5,10 @@ topic: create-financial-records-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.679Z
+lastCollected: 2026-04-07T18:37:35.302Z
 estimatedTokens: 327
-keywords: [Financial, Records, Actions, Creates, person, accounts, contacts, assets, liabilities, residential, loan, application, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Financial, Records, Actions, Creates, person, accounts, contacts, assets, liabilities, residential, loan, application, REST, HTTP]
 ---
-
-# Create Financial Records Actions
 
 > Creates person accounts, contacts, financial accounts, properties,
    assets, and liabilities from a residential loan application.

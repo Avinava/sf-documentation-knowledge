@@ -5,12 +5,10 @@ topic: access-a-mobile-devices-biometrics-capabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.141Z
+lastCollected: 2026-04-07T18:38:15.655Z
 estimatedTokens: 680
-keywords: [Access, Mobile, Device’s, Biometrics, Capabilities, Lightning, web, component, functionality, prompt, user, confirm, their, identity, biometrics-related]
+keywords: [Mobile, Device’s, Biometrics, Capabilities, Lightning, web, functionality, prompt, user, confirm, their, identity, biometrics-related, actions, occur, result, invoked]
 ---
-
-# Access a Mobile Device’s Biometrics Capabilities
 
 > A Lightning web component can use a device’s biometrics functionality to prompt a user
     to confirm their identity. When these biometrics-related actions occur, the result is returned

@@ -5,12 +5,10 @@ topic: organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.952Z
+lastCollected: 2026-04-07T18:38:37.233Z
 estimatedTokens: 4995
-keywords: [Organization, key, configuration, Calls, Special, Access, Rules, Usage]
+keywords: [Organization, key, configuration]
 ---
-
-# Organization
 
 > Represents key configuration information for an
 		organization.

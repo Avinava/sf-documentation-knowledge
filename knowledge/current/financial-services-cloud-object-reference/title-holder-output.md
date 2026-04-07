@@ -5,12 +5,10 @@ topic: title-holder-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.584Z
+lastCollected: 2026-04-07T18:37:35.202Z
 estimatedTokens: 464
-keywords: [Title, Holder, Output, borrowers, applying, hold, loan, application, finances]
+keywords: [Title, Holder, borrowers, applying, hold, loan, application, finances]
 ---
-
-# Title Holder Output
 
 > Represents details of borrowers who are applying to hold title to
       the property the loan application finances.

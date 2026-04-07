@@ -5,12 +5,10 @@ topic: knowledgefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.740Z
+lastCollected: 2026-04-07T18:38:33.919Z
 estimatedTokens: 1858
-keywords: [Knowledge__Feed, feed, knowledge, article, API, version, 39.0, later, _Feed, Calls, Special, Access, Rules]
+keywords: [Knowledge__Feed, knowledge, article, API, 39.0, _Feed]
 ---
-
-# Knowledge__Feed
 
 > Represents the feed for a knowledge article. This object is available in
     API version 39.0 and later.

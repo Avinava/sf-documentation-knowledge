@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-activities-purge-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.080Z
+lastCollected: 2026-04-07T18:37:11.905Z
 estimatedTokens: 166
 keywords: [Commerce, Einstein, Webstore, Activities, Purge, Status, activity, job, store]
 ---
-
-# Commerce Einstein Webstore Activities, Purge Status
 
 > Get the status of a Commerce Einstein activity purge job for a
       store.

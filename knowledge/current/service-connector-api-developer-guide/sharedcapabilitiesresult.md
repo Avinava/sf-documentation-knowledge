@@ -5,12 +5,10 @@ topic: sharedcapabilitiesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.768Z
+lastCollected: 2026-04-07T18:39:23.704Z
 estimatedTokens: 541
 keywords: [SharedCapabilitiesResult, result, rep, capabilities, shared, across, partner, telephony, Messaging, Functions]
 ---
-
-# SharedCapabilitiesResult
 
 > Represents the result type for the rep capabilities that
         are shared across partner telephony and Messaging.

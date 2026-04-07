@@ -5,12 +5,10 @@ topic: transactional-send-subscriber-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.475Z
+lastCollected: 2026-04-07T18:40:20.725Z
 estimatedTokens: 3740
-keywords: [Transactional, Send, Subscriber, Error, Codes, code, occurs, message, can't, delivered, due, incorrect, email, address, user]
+keywords: [Transactional, Send, Subscriber, Error, Codes, code, occurs, message, can't, delivered, due, incorrect, email, address, user, setup]
 ---
-
-# Transactional Send Subscriber Error Codes
 
 > A subscriber error code occurs when a message can't be delivered due to an incorrect email address or other incorrect user setup.
 

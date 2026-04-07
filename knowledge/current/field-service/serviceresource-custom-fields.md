@@ -5,12 +5,10 @@ topic: serviceresource-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:00.751Z
+lastCollected: 2026-04-07T18:36:46.603Z
 estimatedTokens: 779
-keywords: [ServiceResource, Custom, associated, service, technician, crew, Calls, Special, Access, Rules]
+keywords: [ServiceResource, service, technician, crew]
 ---
-
-# ServiceResource Custom Fields
 
 > Custom fields associated with a field service technician or crew in Field
          Service.

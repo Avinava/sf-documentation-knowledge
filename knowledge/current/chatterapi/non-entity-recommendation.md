@@ -5,12 +5,10 @@ topic: non-entity-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.856Z
+lastCollected: 2026-04-07T18:37:21.043Z
 estimatedTokens: 235
 keywords: [Non-Entity, Recommendation, non-Salesforce, entity, application]
 ---
-
-# Non-Entity Recommendation
 
 > A recommendation for a non-Salesforce entity, such as an
       application.

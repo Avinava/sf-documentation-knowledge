@@ -5,12 +5,10 @@ topic: purchaser-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.723Z
+lastCollected: 2026-04-07T18:37:43.903Z
 estimatedTokens: 125
 keywords: [Purchaser, Group, subset, company, may, individual, employee, groups, different, regions, country, separate, options, insurance, plans]
 ---
-
-# Purchaser Group
 
 > A purchaser group is a subset of the purchaser. For example, your company may have
 		individual employee groups in different regions of the country. Each purchaser group can

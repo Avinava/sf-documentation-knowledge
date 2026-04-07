@@ -5,12 +5,10 @@ topic: careservicevisit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.757Z
+lastCollected: 2026-04-07T18:37:46.319Z
 estimatedTokens: 2220
-keywords: [CareServiceVisit, Associates, service, referral, ClinicalServiceRequest, visit, ServiceAppointment, that’s, part, API, version, 58.0, later, Calls, Associated]
+keywords: [CareServiceVisit, Associates, service, referral, ClinicalServiceRequest, visit, ServiceAppointment, that’s, part, API, 58.0]
 ---
-
-# CareServiceVisit
 
 > Associates a service request or a referral request (ClinicalServiceRequest)
          with a visit (ServiceAppointment) that’s part of that service or referral. This object

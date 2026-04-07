@@ -5,13 +5,11 @@ topic: getappointmentcandidatesinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.425Z
+lastCollected: 2026-04-07T18:36:02.633Z
 estimatedTokens: 817
 namespace: LxScheduler
-keywords: [GetAppointmentCandidatesInput, service, resources, appointment, candidates, work, group, territories, Usage]
+keywords: [GetAppointmentCandidatesInput, service, resources, appointment, candidates, work, group, territories]
 ---
-
-# GetAppointmentCandidatesInput Class
 
 > Contains information about the available service resources
       (appointment candidates) based on work type group and service territories.

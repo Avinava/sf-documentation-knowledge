@@ -2,7 +2,7 @@
 domain: appExchangeInstallGuide
 name: Application Installation Guide
 documentCount: 8
-lastGenerated: 2026-04-07T09:06:35.617Z
+lastGenerated: 2026-04-07T18:40:41.076Z
 ---
 
 # Application Installation Guide — Knowledge Index

@@ -5,12 +5,10 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:43.741Z
+lastCollected: 2026-04-07T18:36:29.217Z
 estimatedTokens: 10419
-keywords: [Report, custom, metadata, supports, reports, standard, aren’t, Declarative, File, Suffix, Directory, Location, Retrieving, Version, ReportAggregateFilter]
+keywords: [Report, ReportAggregateFilter, ReportAggregate, ReportBlockInfo, ReportAggregateReference, ReportBucketField, ReportBucketFieldValue, ReportGrouping, ReportHistoricalSelector, CustomDetailFormulas, ReportCustomDetailFormulaDatatype, SortOrder, UserDateGranularity, ReportSummaryType, ReportColorRange, ReportColumn, ReportFilter, ReportFilterItem, ReportFormat, ReportFormattingRule, ReportFormattingSummaryType, ReportFormattingRuleValue, ReportParam, ReportAggregateDatatype, ReportChart, ChartType, ChartPosition, ChartSummary, ChartAxis, ReportChartSize, ChartRangeType, ReportTimeFrameFilter, ReportCrossFilter, UserDateInterval, metadata, supports, reports, standard, aren’t, Declarative, File, Suffix, Directory, Location, Retrieving, Sample, Definition, Joined, Wildcard, Support, Manifest]
 ---
-
-# Report
 
 > Represents a custom report. This metadata type only
         supports custom reports; standard reports aren’t supported.

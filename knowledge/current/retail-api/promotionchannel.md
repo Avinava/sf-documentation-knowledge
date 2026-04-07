@@ -5,12 +5,10 @@ topic: promotionchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.319Z
+lastCollected: 2026-04-07T18:39:15.849Z
 estimatedTokens: 670
-keywords: [PromotionChannel, Associate, promotion, store, group, account, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [PromotionChannel, Associate, promotion, store, group, account, API, 47.0]
 ---
-
-# PromotionChannel
 
 > Associate a promotion with a store, store group, or an account. This
     object is available in API version 47.0 and later.

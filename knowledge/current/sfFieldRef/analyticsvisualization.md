@@ -5,13 +5,11 @@ topic: analyticsvisualization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.710Z
+lastCollected: 2026-04-07T18:39:25.672Z
 estimatedTokens: 441
 namespace: NamespacePrefix
-keywords: [AnalyticsVisualization, Tableau, viusalization, API, version, 64.0, later]
+keywords: [AnalyticsVisualization, Tableau, viusalization, API, 64.0]
 ---
-
-# AnalyticsVisualization
 
 > Represents a Tableau Next viusalization. This object is available in API version 64.0 and later.
 

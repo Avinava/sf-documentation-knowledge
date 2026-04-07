@@ -5,12 +5,10 @@ topic: statechangeresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.788Z
+lastCollected: 2026-04-07T18:39:23.719Z
 estimatedTokens: 97
 keywords: [StateChangeResult, Amazon, Connect, change, rep’s, vendor-side, state]
 ---
-
-# StateChangeResult
 
 > For Amazon Connect, represents a change in the rep’s vendor-side state.
 

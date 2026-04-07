@@ -5,12 +5,10 @@ topic: remove-bundle-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.125Z
+lastCollected: 2026-04-07T18:36:46.996Z
 estimatedTokens: 1901
-keywords: [Remove, Bundle, Members, Removes, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, version]
+keywords: [Remove, Bundle, Members, Removes, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---
-
-# Remove Bundle Members
 
 > Removes one or more service appointments from an existing bundle. This resource accepts
   service appointment IDs. This API is not supported in Gov Cloud. This endpoint is available in

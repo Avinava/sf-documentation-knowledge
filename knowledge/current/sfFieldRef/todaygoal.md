@@ -5,12 +5,10 @@ topic: todaygoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.398Z
+lastCollected: 2026-04-07T18:40:04.131Z
 estimatedTokens: 306
-keywords: [TodayGoal, quarterly, sales, goal, performance, chart, API, version, 35.0, later]
+keywords: [TodayGoal, quarterly, sales, goal, performance, chart, API, 35.0]
 ---
-
-# TodayGoal
 
 > Sets the quarterly sales goal on the performance chart. This object is available in API version 35.0 and later.
 

@@ -5,12 +5,10 @@ topic: assetstateperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.225Z
+lastCollected: 2026-04-07T18:38:26.173Z
 estimatedTokens: 1365
-keywords: [AssetStatePeriod, time, span, asset, quantity, amount, monthly, recurring, revenue, MRR, state, periods, there, changes, actions]
+keywords: [AssetStatePeriod, time, span, asset, quantity, amount, monthly, recurring, revenue, MRR, state, periods, there, changes, actions, lifecycle, dashboard, pages, show, current, period, can’t, edited, API, 50.0]
 ---
-
-# AssetStatePeriod
 
 > Represents a time span when an asset has the same quantity, amount, and
          monthly recurring revenue (MRR). An asset has as many asset state periods as there are

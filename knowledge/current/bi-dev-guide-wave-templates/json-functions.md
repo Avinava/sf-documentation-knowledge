@@ -5,12 +5,10 @@ topic: json-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.904Z
+lastCollected: 2026-04-07T18:37:02.453Z
 estimatedTokens: 296
-keywords: [json, Functions, rules, manipulate, runtime, paths, dashboard, link, widget, links, Function, searchPaths, searchValues]
+keywords: [json, Functions, manipulate, runtime, paths, dashboard, link, widget, links, Function, searchPaths, searchValues]
 ---
-
-# json Functions
 
 > Use json functions in rules to manipulate JSON at runtime. For example, find all the
     JSON paths in a dashboard that have a link widget and update the links at runtime.

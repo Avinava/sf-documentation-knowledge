@@ -5,12 +5,10 @@ topic: output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.620Z
+lastCollected: 2026-04-07T18:38:08.951Z
 estimatedTokens: 582
-keywords: [Output, Classes, Loyalty, Management, Apex]
+keywords: [Classes, Loyalty, Management, Apex]
 ---
-
-# Output Classes
 
 > These are Loyalty Management Apex output classes.
 

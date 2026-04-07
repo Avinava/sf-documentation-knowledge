@@ -2,7 +2,7 @@
 domain: salesforce-developer-environment-tipsheet
 name: Setting Up Your Java Developer Environment
 documentCount: 11
-lastGenerated: 2026-04-07T09:06:38.381Z
+lastGenerated: 2026-04-07T18:40:43.452Z
 ---
 
 # Setting Up Your Java Developer Environment — Knowledge Index

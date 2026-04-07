@@ -5,12 +5,10 @@ topic: lead-and-license-records-in-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.865Z
+lastCollected: 2026-04-07T18:38:55.318Z
 estimatedTokens: 483
 keywords: [Lead, License, Records, Management, App, time, customer, installs, managed, package, LMA, creates]
 ---
-
-# Lead and License Records in the License Management App
 
 > Each time a customer installs your managed package, the License Management App (LMA)
   creates lead and license records.

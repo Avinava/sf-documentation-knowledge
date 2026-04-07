@@ -5,12 +5,10 @@ topic: assetwarrantyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.940Z
+lastCollected: 2026-04-07T18:39:27.923Z
 estimatedTokens: 359
-keywords: [AssetWarrantyFeed, Feed, tracking, AssetWarranty]
+keywords: [AssetWarrantyFeed, AssetWarranty]
 ---
-
-# AssetWarrantyFeed
 
 > Feed tracking for AssetWarranty.
 

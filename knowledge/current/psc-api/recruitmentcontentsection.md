@@ -5,12 +5,10 @@ topic: recruitmentcontentsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.334Z
+lastCollected: 2026-04-07T18:39:07.551Z
 estimatedTokens: 1207
-keywords: [RecruitmentContentSection, content, want, include, recruitment, posting, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [RecruitmentContentSection, content, want, include, recruitment, posting, API, 62.0]
 ---
-
-# RecruitmentContentSection
 
 > Represents the content that you want to include in a section of a
          recruitment posting. This object is available in API version 62.0 and

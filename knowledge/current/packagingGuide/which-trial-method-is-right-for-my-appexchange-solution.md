@@ -5,12 +5,10 @@ topic: which-trial-method-is-right-for-my-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.916Z
+lastCollected: 2026-04-07T18:38:47.875Z
 estimatedTokens: 614
-keywords: [Trial, Right, AppExchange, Solution, step, offering, trials, pick, delivery, provide, listing, test, drives, Trialforce, orgs]
+keywords: [Trial, Right, AppExchange, Solution, step, offering, trials, pick, delivery, provide, listing, test, drives, Trialforce, orgs, website, SignupRequest, API, differences, decide, options, work, best, business]
 ---
-
-# Which Trial Method Is Right for My AppExchange Solution?
 
 > The first step to offering trials of your AppExchange solution is to pick a delivery
     method. You can provide trials on your AppExchange listing using test drives or Trialforce orgs,

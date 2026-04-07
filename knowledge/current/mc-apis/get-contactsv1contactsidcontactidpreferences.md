@@ -5,12 +5,10 @@ topic: get-contactsv1contactsidcontactidpreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.000Z
+lastCollected: 2026-04-07T18:40:17.150Z
 estimatedTokens: 314
-keywords: [contacts, contactId, Preferences, Retrieves, consent, management, contact, records, data, protection, privacy, concerns, requests, display, reserved]
+keywords: [contacts, contactId, Preferences, Retrieves, consent, management, contact, records, protection, privacy, concerns, requests, display, reserved, future, don't, perform, any, actions, time, documented, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# GET /contacts/v1/contacts/id:{contactId}/Preferences
 
 > Retrieves consent management information from contact records by contact ID for data protection and privacy concerns. GET requests might display values that are reserved for future use and don't perform any actions at this time. Use only the parameters documented here.
 

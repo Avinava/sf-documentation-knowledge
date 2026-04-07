@@ -5,12 +5,10 @@ topic: using-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.392Z
+lastCollected: 2026-04-07T18:38:04.547Z
 estimatedTokens: 1910
 keywords: [JavaScript, client-side, code, entry, point, framework, Expressions]
 ---
-
-# Using JavaScript
 
 > Use JavaScript for client-side code. The $A
         namespace is the entry point for using the framework in JavaScript code.

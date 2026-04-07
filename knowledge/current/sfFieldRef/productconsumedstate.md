@@ -5,12 +5,10 @@ topic: productconsumedstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.109Z
+lastCollected: 2026-04-07T18:39:55.676Z
 estimatedTokens: 328
-keywords: [ProductConsumedState, status, item, inventory, work, order, line, Service, API, version, 57.0, later]
+keywords: [ProductConsumedState, status, item, inventory, work, order, line, Service, API, 57.0]
 ---
-
-# ProductConsumedState
 
 > Represents the status of an item from your inventory that was used to
          complete a work order or work order line item in Field Service. This object is

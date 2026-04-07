@@ -5,12 +5,10 @@ topic: referencing-an-existing-page-with-apexinclude
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.152Z
+lastCollected: 2026-04-07T18:38:52.458Z
 estimatedTokens: 418
-keywords: [Referencing, <apex, include>, duplicating, components, Custom, better, suited, reusable, segments, code]
+keywords: [Referencing, <apex, include>, duplicating, better, suited, reusable, segments, code]
 ---
-
-# Referencing an Existing Page with  <apex:include>
 
 > You should not use <apex:include> if you are only duplicating components. Custom
 components are better suited for reusable segments of code.

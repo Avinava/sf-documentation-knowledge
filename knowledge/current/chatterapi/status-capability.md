@@ -5,12 +5,10 @@ topic: status-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.078Z
+lastCollected: 2026-04-07T18:37:23.195Z
 estimatedTokens: 314
-keywords: [Status, Capability, feed, post, comment, determines, visibility]
+keywords: [Status, Capability, post, comment, determines, visibility]
 ---
-
-# Status Capability
 
 > If a feed post or comment has this capability, it has a status that determines its
     visibility.

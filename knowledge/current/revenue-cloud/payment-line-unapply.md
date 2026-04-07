@@ -5,12 +5,10 @@ topic: payment-line-unapply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.085Z
+lastCollected: 2026-04-07T18:35:46.046Z
 estimatedTokens: 132
-keywords: [Payment, Line, Unapply, Output, representation, reversed, application, include, record, date]
+keywords: [Payment, Line, Unapply, reversed, application, include, record, date]
 ---
-
-# Payment Line Unapply
 
 > Output representation of the details of the reversed payment line application. The
     details include the ID of the payment line record and date when the payment line application was

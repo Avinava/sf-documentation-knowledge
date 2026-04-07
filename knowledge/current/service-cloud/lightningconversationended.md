@@ -5,12 +5,10 @@ topic: lightningconversationended
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.925Z
+lastCollected: 2026-04-07T18:36:48.991Z
 estimatedTokens: 195
-keywords: [lightning__conversationEnded, Messaging, event, triggered, active, chat, ends, agent, leaves, conference, Enhanced, channels, work, session, Conversation]
+keywords: [lightning__conversationEnded, Messaging, event, triggered, active, chat, ends, agent, leaves, conference, Enhanced, channels, work, session, Conversation, visible, lightning, _conversationEnded, LWC, Sample, Code, Aura]
 ---
-
-# lightning__conversationEnded
 
 > Messaging event triggered when an active
             chat ends or an agent leaves a chat conference. This event is also triggered when using

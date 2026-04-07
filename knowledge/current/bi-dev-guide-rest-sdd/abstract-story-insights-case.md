@@ -5,12 +5,10 @@ topic: abstract-story-insights-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.819Z
+lastCollected: 2026-04-07T18:36:59.320Z
 estimatedTokens: 216
 keywords: [Abstract, Story, Insights, Case, base]
 ---
-
-# Abstract Story Insights Case
 
 > The base story insights case.
 

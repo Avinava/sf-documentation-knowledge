@@ -5,12 +5,10 @@ topic: push-package-upgrades-to-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.983Z
+lastCollected: 2026-04-07T18:38:54.392Z
 estimatedTokens: 822
-keywords: [Push, Package, Upgrades, Subscribers, upgrade, automatically, upgrading, customers, newer, version, feature, ensure, latest, any, number]
+keywords: [Push, Package, Upgrades, Subscribers, upgrade, automatically, upgrading, customers, newer, feature, ensure, latest, any, number, organizations, installed, managed]
 ---
-
-# Push Package Upgrades to Subscribers
 
 > A push upgrade is a method of automatically upgrading your customers to a newer
       version of your package. This feature can be used to ensure that all your customers are on the

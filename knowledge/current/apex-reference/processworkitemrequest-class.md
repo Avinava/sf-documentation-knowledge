@@ -5,13 +5,11 @@ topic: processworkitemrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.799Z
+lastCollected: 2026-04-07T18:35:59.075Z
 estimatedTokens: 1139
 namespace: Approval
-keywords: [ProcessWorkitemRequest, processing, approval, submitted, Usage, Inherited, getAction, getWorkitemId, setAction, actionType, setWorkitemId]
+keywords: [ProcessWorkitemRequest, processing, approval, submitted, Inherited, getAction, getWorkitemId, setAction, actionType, setWorkitemId]
 ---
-
-# ProcessWorkitemRequest Class
 
 > Use the ProcessWorkitemRequest class for
     processing an approval request after it is submitted.

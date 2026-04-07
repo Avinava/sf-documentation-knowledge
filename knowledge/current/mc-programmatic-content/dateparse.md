@@ -5,12 +5,10 @@ topic: dateparse
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.304Z
+lastCollected: 2026-04-07T18:40:21.588Z
 estimatedTokens: 155
-keywords: [DateParse, Function, Ordinal, date, derive, DateTime, Determines, whether, system, UTC, valu, **Overview**, **Syntax**, Usage]
+keywords: [DateParse, Function, Ordinal, date, derive, DateTime, Determines, whether, system, UTC, valu, **Overview**, **Syntax**]
 ---
-
-# DateParse
 
 > DateParse(1, 2)
 

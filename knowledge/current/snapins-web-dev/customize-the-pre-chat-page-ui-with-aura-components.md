@@ -5,12 +5,10 @@ topic: customize-the-pre-chat-page-ui-with-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.649Z
+lastCollected: 2026-04-07T18:40:09.594Z
 estimatedTokens: 714
-keywords: [Customize, Pre-Chat, Aura, Components, layout, buttons, images, validation, any, part, user, custom, component]
+keywords: [Customize, Pre-Chat, Aura, layout, buttons, images, validation, any, part, user]
 ---
-
-# Customize the Pre-Chat Page UI with Aura Components
 
 > Customize the fields, layout, buttons, images, validation, or any other part of the
         user interface for pre-chat using a custom Aura component.

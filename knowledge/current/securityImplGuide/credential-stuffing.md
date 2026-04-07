@@ -5,12 +5,10 @@ topic: credential-stuffing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.698Z
+lastCollected: 2026-04-07T18:39:22.589Z
 estimatedTokens: 507
-keywords: [Credential, Stuffing, cyber, attack, uses, stolen, account, credentials, It’s, known, “password, spraying”, “credential, spills”, Attackers]
+keywords: [Credential, Stuffing, cyber, attack, uses, stolen, account, credentials, It’s, known, “password, spraying”, “credential, spills”, Attackers, obtain, large, numbers, usernames, passwords, breaches, attacks, They, gain, unauthorized, user, accounts, large-scale, automated, login, requests, against, web, application, Salesforce]
 ---
-
-# Credential Stuffing
 
 > Credential stuffing is a type of cyber attack that uses stolen account credentials. It’s
     also known as “password spraying” or “credential spills”. Attackers obtain large numbers of

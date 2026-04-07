@@ -5,12 +5,10 @@ topic: mobsecuritycertpinconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.610Z
+lastCollected: 2026-04-07T18:38:35.876Z
 estimatedTokens: 810
-keywords: [MobSecurityCertPinConfig, Configuration, mobile, security, certificate, pinning, Salesforce, app, Enhanced, API, version, 53.0, later, Calls, Special]
+keywords: [MobSecurityCertPinConfig, Configuration, mobile, security, certificate, pinning, Salesforce, app, Enhanced, API, 53.0]
 ---
-
-# MobSecurityCertPinConfig
 
 > Configuration of mobile security certificate pinning on the
          Salesforce mobile app with Enhanced Mobile Security. This object is available in API

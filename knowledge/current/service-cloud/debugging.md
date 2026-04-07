@@ -5,12 +5,10 @@ topic: debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.389Z
+lastCollected: 2026-04-07T18:36:49.497Z
 estimatedTokens: 668
-keywords: [Debugging, browser’s, console, JavaScript, error, messages, debug, Lightning, pages, built, API, several, recommendations, code, Enable]
+keywords: [Debugging, browser’s, console, JavaScript, error, messages, debug, Lightning, pages, built, API, several, recommendations, code, Enable, Mode, Disable, Caching, Chrome, DevTools, Formatters, Follow, Standard, Practices]
 ---
-
-# Debugging
 
 > Use your browser’s console and JavaScript error messages to debug Lightning pages built
   with the Lightning Console JavaScript API. Here are several recommendations on debugging your

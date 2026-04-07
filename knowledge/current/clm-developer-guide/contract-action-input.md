@@ -5,12 +5,10 @@ topic: contract-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.647Z
+lastCollected: 2026-04-07T18:37:24.641Z
 estimatedTokens: 204
-keywords: [Contract, Action, Input]
+keywords: [Contract, Action]
 ---
-
-# Contract Action Input
 
 > Input to get action details for the contract.
 

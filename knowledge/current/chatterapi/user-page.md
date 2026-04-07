@@ -5,12 +5,10 @@ topic: user-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.558Z
+lastCollected: 2026-04-07T18:37:23.642Z
 estimatedTokens: 222
 keywords: [User, Chatter, users]
 ---
-
-# User Page
 
 > Page of Chatter users.
 

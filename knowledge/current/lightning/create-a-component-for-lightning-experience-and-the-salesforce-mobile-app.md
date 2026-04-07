@@ -6,13 +6,10 @@ topic: create-a-component-for-lightning-experience-and-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.047Z
+lastCollected: 2026-04-07T18:38:04.152Z
 estimatedTokens: 589
-keywords: [Component, Lightning, Experience, Salesforce, Mobile, App, Explore, how, custom, loads, contact, data, interacts]
+keywords: [Lightning, Experience, Salesforce, Mobile, App, Explore, how, loads, contact, interacts]
 ---
-
-# Create a Component for Lightning Experience and the Salesforce Mobile
-   App
 
 > Explore how to create a custom UI that loads contact data and interacts with Lightning
   Experience and the Salesforce mobile app.

@@ -5,12 +5,10 @@ topic: developing-a-native-ios-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.985Z
+lastCollected: 2026-04-07T18:40:26.296Z
 estimatedTokens: 275
-keywords: [Developing, Native, iOS, App, Mobile, SDK, requires, proficient, choose, write, apps, Swift, Objective-C, though, highly]
+keywords: [Developing, Native, iOS, App, Mobile, SDK, requires, proficient, choose, write, apps, Swift, Objective-C, though, highly, recommend, familiar, application, development, principles, frameworks, you’re, newbie]
 ---
-
-# Developing a Native iOS App
 
 > Mobile SDK for native iOS requires you to be proficient in the iOS SDK. You can choose to write
       your apps in Swift or Objective-C, though we highly recommend using Swift. You also need to be

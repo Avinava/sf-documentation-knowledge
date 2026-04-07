@@ -5,12 +5,10 @@ topic: salestrxndecompositionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.566Z
+lastCollected: 2026-04-07T18:35:50.457Z
 estimatedTokens: 364
-keywords: [SalesTrxnDecompositionEvent, Notifies, decomposition, process, status, changes, API, version, 66.0, later, Calls, Subscribers, Streaming, Subscription, Channel]
+keywords: [SalesTrxnDecompositionEvent, Notifies, decomposition, process, status, changes, API, 66.0, Subscribers, Streaming, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# SalesTrxnDecompositionEvent
 
 > Notifies when the decomposition process status changes. This object is
       available in API version 66.0 and later.

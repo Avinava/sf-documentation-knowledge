@@ -5,12 +5,10 @@ topic: appmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.318Z
+lastCollected: 2026-04-07T18:36:22.572Z
 estimatedTokens: 26
 keywords: [AppMenu, app, menu, Salesforce, mobile, navigation, Reserved, future]
 ---
-
-# AppMenu
 
 > Represents the app menu or the Salesforce mobile navigation
          menu. Reserved for future use.

@@ -5,12 +5,10 @@ topic: template-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.286Z
+lastCollected: 2026-04-07T18:36:57.836Z
 estimatedTokens: 198
 keywords: [Template, Options, action, performed, templated, Analytics, app]
 ---
-
-# Template Options
 
 > The template options used on the last action performed on a templated Analytics
   app.

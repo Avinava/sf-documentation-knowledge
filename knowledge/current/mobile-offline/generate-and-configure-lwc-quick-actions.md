@@ -5,12 +5,10 @@ topic: generate-and-configure-lwc-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.741Z
+lastCollected: 2026-04-07T18:38:15.226Z
 estimatedTokens: 191
 keywords: [Generate, Configure, LWC, Quick, Actions, Onboarding, Wizard, missing, sObjects, configured, landing, template, selection]
 ---
-
-# Generate and Configure LWC Quick Actions
 
 > The Onboarding Wizard can generate missing LWC quick actions based on the sObjects that
   are configured in your landing page template selection.

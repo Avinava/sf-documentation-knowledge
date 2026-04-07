@@ -5,12 +5,10 @@ topic: user-recommendations-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.349Z
+lastCollected: 2026-04-07T18:37:16.414Z
 estimatedTokens: 804
-keywords: [User, Recommendations, General, Chatter, group, file, record, topic, article, context, custom]
+keywords: [User, Recommendations, General, Chatter, group, file, record, topic, article, context]
 ---
-
-# User Recommendations, General
 
 > Get the Chatter recommendations, such as user, group,
             file, record, topic, and article recommendations, for the context user. Also get custom

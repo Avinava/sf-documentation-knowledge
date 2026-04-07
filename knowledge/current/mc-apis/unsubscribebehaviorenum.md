@@ -5,12 +5,10 @@ topic: unsubscribebehaviorenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.564Z
+lastCollected: 2026-04-07T18:40:20.818Z
 estimatedTokens: 132
 keywords: [UnsubscribeBehaviorEnum, whether, unsubscribe, applied, enterprise, business, unit]
 ---
-
-# UnsubscribeBehaviorEnum
 
 > The UnsubscribeBehaviorEnum object indicates whether an unsubscribe request is applied to an enterprise or a business unit of that enterprise.
 

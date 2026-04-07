@@ -5,12 +5,10 @@ topic: api-field-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.943Z
+lastCollected: 2026-04-07T18:38:23.818Z
 estimatedTokens: 439
-keywords: [API, objects, represent, analogous, columns, database]
+keywords: [API, represent, analogous, columns, database]
 ---
-
-# API Field Properties
 
 > Fields on objects represent the details of each object and are analogous to columns in a
       database table. Each field on each object has one or more of the following properties:

@@ -5,12 +5,10 @@ topic: cx---extended-composite-id-with-check-digit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.954Z
+lastCollected: 2026-04-07T18:37:58.468Z
 estimatedTokens: 192
-keywords: [Extended, Composite, Check, Digit, HL7, segment, maps, Identifier, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [Extended, Composite, Check, Digit, HL7, segment, maps, Identifier, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# CX - Extended Composite ID With Check Digit
 
 > The Extended Composite ID With Check Digit (CX) HL7 segment maps to the Identifier object in Salesforce.
 

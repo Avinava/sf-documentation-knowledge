@@ -5,12 +5,10 @@ topic: inspectionassessmentindhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.451Z
+lastCollected: 2026-04-07T18:39:45.016Z
 estimatedTokens: 277
-keywords: [InspectionAssessmentIndHistory, History, tracked, InspectionAssessmentInd]
+keywords: [InspectionAssessmentIndHistory, tracked, InspectionAssessmentInd]
 ---
-
-# InspectionAssessmentIndHistory
 
 > History for tracked fields of InspectionAssessmentInd.
 

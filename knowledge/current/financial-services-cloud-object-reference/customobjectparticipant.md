@@ -5,12 +5,10 @@ topic: customobjectparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:49.167Z
+lastCollected: 2026-04-07T18:37:36.945Z
 estimatedTokens: 1428
-keywords: [CustomObjectParticipant, participant, context, custom, record, API, version, 55.0, later, Calls, Associated, Objects]
+keywords: [CustomObjectParticipant, participant, context, record, API, 55.0]
 ---
-
-# CustomObjectParticipant
 
 > Represents information about a participant in the context of a custom object
          record. This object is available in API version 55.0 and later.

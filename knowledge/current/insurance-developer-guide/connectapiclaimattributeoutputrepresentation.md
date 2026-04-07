@@ -5,12 +5,10 @@ topic: connectapiclaimattributeoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.323Z
+lastCollected: 2026-04-07T18:37:50.158Z
 estimatedTokens: 74
-keywords: [Output, representation, claim, attribute]
+keywords: [claim, attribute]
 ---
-
-# ConnectApi.ClaimAttributeOutputRepresentation
 
 > Output representation for a claim attribute.
 

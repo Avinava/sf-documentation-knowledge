@@ -5,12 +5,10 @@ topic: cgcloudautonumbersequencec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.512Z
+lastCollected: 2026-04-07T18:39:12.936Z
 estimatedTokens: 833
-keywords: [cgcloud__Auto_Number_Sequence__c, Stores, numbered, index, transaction, log, record, API, version, 54.0, later, cgcloud, _Auto, _Number, _Sequence]
+keywords: [cgcloud__Auto_Number_Sequence__c, Stores, numbered, index, transaction, log, record, API, 54.0, cgcloud, _Auto, _Number, _Sequence]
 ---
-
-# cgcloud__Auto_Number_Sequence__c
 
 > Stores information about the numbered index of the next transaction
          log record. This object is available in API version 54.0 and later.

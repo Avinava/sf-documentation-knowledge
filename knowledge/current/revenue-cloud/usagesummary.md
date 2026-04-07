@@ -5,12 +5,10 @@ topic: usagesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.927Z
+lastCollected: 2026-04-07T18:35:50.802Z
 estimatedTokens: 1459
-keywords: [UsageSummary, aggregation, entries, transaction, journal, usage, entitlement, period, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [UsageSummary, aggregation, entries, transaction, journal, entitlement, period, API, 63.0]
 ---
-
-# UsageSummary
 
 > Represents the aggregation of the entries in the transaction journal
          for a usage entitlement for a specified period. This object is available in API

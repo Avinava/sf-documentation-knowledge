@@ -5,12 +5,10 @@ topic: social-post-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.039Z
+lastCollected: 2026-04-07T18:37:23.156Z
 estimatedTokens: 152
 keywords: [Social, Post, Status]
 ---
-
-# Social Post Status
 
 > The status of a social post.
 

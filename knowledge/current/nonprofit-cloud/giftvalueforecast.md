@@ -5,12 +5,10 @@ topic: giftvalueforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.444Z
+lastCollected: 2026-04-07T18:38:21.280Z
 estimatedTokens: 867
-keywords: [GiftValueForecast, past, current, projected, monetary, gift, API, version, 64.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [GiftValueForecast, past, current, projected, monetary, gift, API, 64.0]
 ---
-
-# GiftValueForecast
 
 > The past, current, and projected monetary value of a gift. This object
       is available in API version 64.0 and later.

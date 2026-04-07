@@ -5,12 +5,10 @@ topic: binding-object-resource-policy-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.342Z
+lastCollected: 2026-04-07T18:35:45.311Z
 estimatedTokens: 255
-keywords: [Binding, Resource, Policy, Detail, Output, representation, usage]
+keywords: [Binding, Resource, Policy, Detail]
 ---
-
-# Binding Object Resource Policy Detail
 
 > Output representation of the details of a usage resource policy.
 

@@ -5,12 +5,10 @@ topic: wkfslterritoryparentupdateevte
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.358Z
+lastCollected: 2026-04-07T18:40:14.370Z
 estimatedTokens: 202
-keywords: [wkfsl__Territory_Parent_Update_Evt__e, event, triggered, parent, territory, service, updated, territories, copied, location, records, setup, triggers, link, API]
+keywords: [wkfsl__Territory_Parent_Update_Evt__e, event, triggered, parent, territory, service, updated, territories, copied, location, records, setup, triggers, link, API, 48.0, wkfsl, _Territory, _Parent, _Update, _Evt]
 ---
-
-# wkfsl__Territory_Parent_Update_Evt__e
 
 > This event is triggered when the parent territory field on the service
       territory is updated. When service territories are copied from location records during setup,

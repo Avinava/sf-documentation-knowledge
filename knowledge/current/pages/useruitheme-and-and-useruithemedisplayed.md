@@ -5,12 +5,10 @@ topic: useruitheme-and-and-useruithemedisplayed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.433Z
+lastCollected: 2026-04-07T18:38:52.741Z
 estimatedTokens: 337
-keywords: [$User.UITheme, $User.UIThemeDisplayed, merge, identify, Salesforce, look, feel, user, sees, Web, Usage]
+keywords: [$User.UITheme, $User.UIThemeDisplayed, merge, identify, Salesforce, look, feel, user, sees, Web]
 ---
-
-# $User.UITheme and and $User.UIThemeDisplayed
 
 > These global merge fields identify the Salesforce look and feel a user sees on a given
     Web page.

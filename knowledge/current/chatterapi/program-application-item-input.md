@@ -5,12 +5,10 @@ topic: program-application-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.066Z
+lastCollected: 2026-04-07T18:37:09.787Z
 estimatedTokens: 97
-keywords: [Program, Application, Item, Input, representation, customer]
+keywords: [Program, Application, Item, customer]
 ---
-
-# Program Application Item Input
 
 > Input representation of the item for a customer program
       application.

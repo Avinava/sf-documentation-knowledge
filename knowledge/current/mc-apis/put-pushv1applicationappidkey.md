@@ -5,12 +5,10 @@ topic: put-pushv1applicationappidkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.591Z
+lastCollected: 2026-04-07T18:40:20.841Z
 estimatedTokens: 242
-keywords: [PUT, push, application, appId, key, Updates, custom, associated, app, **Overview**, Usage]
+keywords: [PUT, push, application, appId, key, Updates, app, **Overview**]
 ---
-
-# PUT /push/v1/application/{appId}/key
 
 > Updates information on all custom key values associated with an app.
 

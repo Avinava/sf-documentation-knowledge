@@ -5,12 +5,10 @@ topic: personalization-recommender-base-predicate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.610Z
+lastCollected: 2026-04-07T18:37:21.720Z
 estimatedTokens: 124
-keywords: [Personalization, Recommender, Base, Predicate, representation, rule]
+keywords: [Personalization, Recommender, Base, Predicate, rule]
 ---
-
-# Personalization Recommender Base Predicate
 
 > The base representation for a recommender rule predicate.
 

@@ -5,12 +5,10 @@ topic: club-member-benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.570Z
+lastCollected: 2026-04-07T18:38:07.808Z
 estimatedTokens: 203
-keywords: [Club, Member, Benefits, output]
+keywords: [Club, Member, Benefits]
 ---
-
-# Club Member Benefits
 
 > Represents the output for Club Member Benefits.
 

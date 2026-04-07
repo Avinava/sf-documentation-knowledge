@@ -5,12 +5,10 @@ topic: customize-the-online-offline-and-loading-chat-text
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.756Z
+lastCollected: 2026-04-07T18:40:09.696Z
 estimatedTokens: 780
-keywords: [Customize, Online, Offline, Loading, Chat, Text, that’s, customers, window, there, agents, aren’t, connecting, agent, recommend]
+keywords: [Customize, Online, Offline, Loading, Chat, Text, that’s, customers, window, there, agents, aren’t, connecting, agent, recommend, customizing, labels, Embedded, Service, setup, settings, override, support]
 ---
-
-# Customize the Online, Offline, and Loading Chat Text
 
 > Set the text that’s displayed to your customers in the chat window when
       there are agents available, when there aren’t agents available, and when the chat is

@@ -5,13 +5,11 @@ topic: emailmergefieldservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.699Z
+lastCollected: 2026-04-07T18:35:58.030Z
 estimatedTokens: 429
 namespace: ConnectApi
-keywords: [EmailMergeFieldService, Extract, merge, put, email, template, mail, custom, link, formula, incorporate, record, getMergeFields, objectApiNames, API]
+keywords: [EmailMergeFieldService, Extract, merge, put, email, template, mail, link, formula, incorporate, record, getMergeFields, objectApiNames, API, Requires, Chatter]
 ---
-
-# EmailMergeFieldService Class
 
 > Extract a list of merge fields for an object. A merge field is a field you can put in an
   email template, mail merge template, custom link, or formula to incorporate values from a

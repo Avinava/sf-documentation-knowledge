@@ -5,12 +5,10 @@ topic: like-intents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.886Z
+lastCollected: 2026-04-07T18:37:20.044Z
 estimatedTokens: 109
 keywords: [Intents, social, post]
 ---
-
-# Like Intents
 
 > List of like intents for a social post.
 

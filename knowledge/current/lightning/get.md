@@ -5,12 +5,10 @@ topic: get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.189Z
+lastCollected: 2026-04-07T18:38:05.386Z
 estimatedTokens: 60
 keywords: [referenced, cmp.get, v.attr, attr, attribute, provider]
 ---
-
-# get()
 
 > Returns a value from the specified global value provider using
    property syntax.

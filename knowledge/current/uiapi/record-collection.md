@@ -5,12 +5,10 @@ topic: record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.034Z
+lastCollected: 2026-04-07T18:40:12.039Z
 estimatedTokens: 416
 keywords: [Record, Collection, paginated, bodies]
 ---
-
-# Record Collection
 
 > A paginated collection of Record response bodies.
 

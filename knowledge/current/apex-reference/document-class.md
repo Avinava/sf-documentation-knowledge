@@ -5,13 +5,11 @@ topic: document-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.859Z
+lastCollected: 2026-04-07T18:36:04.068Z
 estimatedTokens: 1236
 namespace: Dom
-keywords: [Document, process, XML, content, parse, nested, that’s, nodes, deep, Usage, createRootElement, prefix, getRootElement, load, toXmlString]
+keywords: [Document, process, XML, content, parse, nested, that’s, nodes, deep, createRootElement, prefix, getRootElement, load, toXmlString]
 ---
-
-# Document Class
 
 > Use the Document
     class to process XML content. You can parse nested XML content that’s up to 50 nodes

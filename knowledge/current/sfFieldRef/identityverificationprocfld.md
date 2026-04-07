@@ -5,13 +5,11 @@ topic: identityverificationprocfld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.618Z
+lastCollected: 2026-04-07T18:39:44.272Z
 estimatedTokens: 436
 namespace: NamespacePrefix
-keywords: [IdentityVerificationProcFld, configure, questions, criteria, verifying, identity, caller, API, version, 54.0, later]
+keywords: [IdentityVerificationProcFld, configure, questions, criteria, verifying, identity, caller, API, 54.0]
 ---
-
-# IdentityVerificationProcFld
 
 > Used to configure the questions or criteria for verifying the
          identity of a caller. Available in API version 54.0 and later.

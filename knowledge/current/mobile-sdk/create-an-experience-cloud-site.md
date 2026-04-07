@@ -5,12 +5,10 @@ topic: create-an-experience-cloud-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.959Z
+lastCollected: 2026-04-07T18:40:25.327Z
 estimatedTokens: 304
 keywords: [Experience, Cloud, Site, login, URL]
 ---
-
-# Create an Experience Cloud Site
 
 > Create an Experience Cloud site and a site login URL.
 

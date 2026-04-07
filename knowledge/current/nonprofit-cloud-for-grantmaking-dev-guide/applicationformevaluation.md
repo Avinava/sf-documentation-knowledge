@@ -5,12 +5,10 @@ topic: applicationformevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.555Z
+lastCollected: 2026-04-07T18:38:23.451Z
 estimatedTokens: 763
-keywords: [ApplicationFormEvaluation, evaluation, performed, application, form, Grantmaking, API, version, 66.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ApplicationFormEvaluation, evaluation, performed, application, form, Grantmaking, API, 66.0]
 ---
-
-# ApplicationFormEvaluation
 
 > Represents the details of the evaluation performed for an application
          form. This object is available in Grantmaking API version 66.0 and later.

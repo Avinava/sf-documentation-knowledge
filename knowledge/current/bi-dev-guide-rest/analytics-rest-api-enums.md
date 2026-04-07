@@ -5,12 +5,10 @@ topic: analytics-rest-api-enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.124Z
+lastCollected: 2026-04-07T18:36:54.493Z
 estimatedTokens: 4498
 keywords: [Analytics, REST, API, Enums, specific, wave]
 ---
-
-# Analytics REST API Enums
 
 > Enums specific to the /wave namespace
 

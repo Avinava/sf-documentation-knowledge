@@ -5,12 +5,10 @@ topic: product-validation-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.466Z
+lastCollected: 2026-04-07T18:35:46.430Z
 estimatedTokens: 121
-keywords: [Product, Validation, Result, Output, representation, specific]
+keywords: [Product, Validation, Result, specific]
 ---
-
-# Product Validation Result
 
 > Output representation of the validation result for a specific product.
 

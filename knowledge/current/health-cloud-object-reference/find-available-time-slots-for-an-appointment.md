@@ -5,12 +5,10 @@ topic: find-available-time-slots-for-an-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.784Z
+lastCollected: 2026-04-07T18:37:43.964Z
 estimatedTokens: 651
-keywords: [Time, Slots, Appointment, call, center, agent, wants, schedule, step, providers, match, patient’s, needs, gathers, selection]
+keywords: [Identifier, CodeableConcept, Coding, Time, Slots, Appointment, call, center, agent, wants, schedule, step, providers, match, patient’s, needs, gathers, selection, criteria, initiates, search, obtain, Multiple, Source, Systems, Codes, Error]
 ---
-
-# Find Available Time Slots for an Appointment
 
 > When a call center agent wants to schedule an appointment, the first step is to find
     the available time slots for providers who match the patient’s needs. The call center agent

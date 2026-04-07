@@ -5,12 +5,10 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.279Z
+lastCollected: 2026-04-07T18:38:52.589Z
 estimatedTokens: 359
-keywords: [$Asset, merge, referencing, images, assets, part, Lightning, Design, System, Usage]
+keywords: [$Asset, merge, referencing, images, assets, part, Lightning, Design, System]
 ---
-
-# $Asset
 
 > A global merge field to use when referencing images and other assets that are part of
     the Lightning Design System.

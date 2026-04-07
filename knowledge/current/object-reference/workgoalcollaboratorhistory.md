@@ -5,12 +5,10 @@ topic: workgoalcollaboratorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.911Z
+lastCollected: 2026-04-07T18:38:44.716Z
 estimatedTokens: 398
-keywords: [WorkGoalCollaboratorHistory, history, changes, WorkGoalCollaborator, Access, read-only, Calls]
+keywords: [WorkGoalCollaboratorHistory, changes, WorkGoalCollaborator, read-only]
 ---
-
-# WorkGoalCollaboratorHistory
 
 > Represents the history of changes to the values in the fields in
 				a WorkGoalCollaborator object. Access is read-only.

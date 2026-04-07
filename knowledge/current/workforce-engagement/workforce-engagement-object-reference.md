@@ -5,12 +5,10 @@ topic: workforce-engagement-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.514Z
+lastCollected: 2026-04-07T18:40:14.526Z
 estimatedTokens: 1746
-keywords: [Workforce, Engagement, enable, gain, access, suite, standard, Salesforce, objects, Workload, Histories, Intelligent, Forecasts, Capacity, Plans]
+keywords: [Workforce, Engagement, enable, gain, suite, standard, Salesforce, Workload, Histories, Intelligent, Forecasts, Capacity, Plans, Shift, Creation, Scheduling, Agent, Empowerment]
 ---
-
-# Workforce Engagement Object Reference
 
 > When you enable Workforce Engagement, you gain access to a suite of standard Salesforce
     objects.

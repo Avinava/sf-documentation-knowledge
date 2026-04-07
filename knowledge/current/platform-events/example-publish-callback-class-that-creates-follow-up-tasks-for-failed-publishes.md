@@ -5,12 +5,10 @@ topic: example-publish-callback-class-that-creates-follow-up-tasks-for-failed-pu
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.393Z
+lastCollected: 2026-04-07T18:38:58.249Z
 estimatedTokens: 67
-keywords: [Publish, Callback, Creates, Follow-Up, Tasks, Failed, Publishes, task, event, publishing, fails, onFailure, inserted, includes, number]
+keywords: [Publish, Callback, Creates, Follow-Up, Tasks, Failed, Publishes, task, event, publishing, fails, onFailure, inserted, includes, number, events, UUIDs]
 ---
-
-# Example: Publish Callback Class That Creates Follow-Up Tasks for Failed Publishes
 
 > This publish callback class creates a task when event publishing fails in the onFailure method. The inserted task includes the number
         of failed events and the event UUIDs.

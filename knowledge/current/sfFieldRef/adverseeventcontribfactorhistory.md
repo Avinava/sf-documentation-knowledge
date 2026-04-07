@@ -5,12 +5,10 @@ topic: adverseeventcontribfactorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.308Z
+lastCollected: 2026-04-07T18:39:25.209Z
 estimatedTokens: 279
-keywords: [AdverseEventContribFactorHistory, History, tracked, AdverseEventContribFactor]
+keywords: [AdverseEventContribFactorHistory, tracked, AdverseEventContribFactor]
 ---
-
-# AdverseEventContribFactorHistory
 
 > History for tracked fields of AdverseEventContribFactor.
 

@@ -5,12 +5,10 @@ topic: cgcloudorderpaymenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.672Z
+lastCollected: 2026-04-07T18:39:14.061Z
 estimatedTokens: 1921
-keywords: [cgcloud__Order_Payment_Template__c, Holds, attributes, order, payment, template, API, version, 54.0, later, cgcloud, _Order, _Payment, _Template, Calls]
+keywords: [cgcloud__Order_Payment_Template__c, Holds, attributes, order, payment, template, API, 54.0, cgcloud, _Order, _Payment, _Template]
 ---
-
-# cgcloud__Order_Payment_Template__c
 
 > Holds the attributes of the order payment template. This object
       is available in API version 54.0 and later.

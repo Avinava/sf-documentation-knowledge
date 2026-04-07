@@ -5,12 +5,10 @@ topic: getagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.129Z
+lastCollected: 2026-04-07T18:36:49.199Z
 estimatedTokens: 229
-keywords: [getAgentInput, text, currently, agent’s, input, area, chat, log, specific, key, API, version, 29.0, later, Arguments]
+keywords: [Arguments, getAgentInput, text, currently, agent’s, area, chat, log, specific, key, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# getAgentInput()
 
 > Returns the string of text which is currently in the agent’s text input area
         in the chat log of a chat with a specific chat key. Available in API version 29.0 or

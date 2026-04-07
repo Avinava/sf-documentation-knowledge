@@ -5,12 +5,10 @@ topic: paymentgatewaystatus-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.855Z
+lastCollected: 2026-04-07T18:37:03.425Z
 estimatedTokens: 452
-keywords: [PaymentGatewayStatus, populate, TransactionResult, gateway, Usage, PopulateGatewayStatus, Implementation]
+keywords: [PaymentGatewayStatus, populate, TransactionResult, gateway, PopulateGatewayStatus, Implementation]
 ---
-
-# PaymentGatewayStatus Interface
 
 > Interface to populate the TransactionResult value object from the
       gateway response.

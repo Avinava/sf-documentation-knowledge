@@ -5,12 +5,10 @@ topic: visitedparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.089Z
+lastCollected: 2026-04-07T18:40:05.973Z
 estimatedTokens: 333
-keywords: [VisitedParty, contact, person, account, that’s, visited, API, version, 49.0, later]
+keywords: [VisitedParty, contact, person, account, that’s, visited, API, 49.0]
 ---
-
-# VisitedParty
 
 > Represents the contact person at the account that’s being visited. This
     object is available in API version 49.0 and later.

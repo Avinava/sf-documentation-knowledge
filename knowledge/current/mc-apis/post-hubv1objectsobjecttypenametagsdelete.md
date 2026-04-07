@@ -5,12 +5,10 @@ topic: post-hubv1objectsobjecttypenametagsdelete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.442Z
+lastCollected: 2026-04-07T18:40:16.583Z
 estimatedTokens: 377
-keywords: [POST, hub, objects, objectTypeName, tags, resource, multiple, tag, associations, time, **Overview**, Usage, Items]
+keywords: [POST, hub, objectTypeName, tags, resource, multiple, tag, associations, time, **Overview**, Items]
 ---
-
-# POST /hub/v1/objects/{objectTypeName}/tags/delete
 
 > Use this resource to delete multiple tag associations at one time.
 

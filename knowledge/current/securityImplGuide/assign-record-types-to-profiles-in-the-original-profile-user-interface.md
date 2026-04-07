@@ -5,12 +5,10 @@ topic: assign-record-types-to-profiles-in-the-original-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.193Z
+lastCollected: 2026-04-07T18:39:22.086Z
 estimatedTokens: 655
 keywords: [Assign, Record, Profiles, Original, Profile, User, include, picklist, add]
 ---
-
-# Assign Record Types to Profiles in the Original Profile User Interface
 
 > After you create record types and include picklist values in them, add record types to
   user profiles.

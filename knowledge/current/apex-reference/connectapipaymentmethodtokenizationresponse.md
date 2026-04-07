@@ -5,12 +5,10 @@ topic: connectapipaymentmethodtokenizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.494Z
+lastCollected: 2026-04-07T18:36:10.770Z
 estimatedTokens: 208
-keywords: [Payment, tokenization, output, representation]
+keywords: [Payment, tokenization]
 ---
-
-# ConnectApi.PaymentMethodTokenizationResponse
 
 > Payment method tokenization output representation.
 

@@ -5,12 +5,10 @@ topic: packaging-considerations-for-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:16.257Z
+lastCollected: 2026-04-07T18:37:02.823Z
 estimatedTokens: 448
-keywords: [Packaging, Considerations, XMD, Standard, User, file, custom, formatting, dataset, CRM, Analytics]
+keywords: [Packaging, Considerations, XMD, Standard, User, file, formatting, dataset, CRM, Analytics]
 ---
-
-# Packaging Considerations for XMD
 
 > The Standard User XMD file defines custom formatting for dataset fields and values in
   CRM Analytics.

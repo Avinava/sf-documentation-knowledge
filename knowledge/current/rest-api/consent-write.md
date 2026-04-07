@@ -5,12 +5,10 @@ topic: consent-write
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.415Z
+lastCollected: 2026-04-07T18:36:20.643Z
 estimatedTokens: 1400
-keywords: [Consent, Write, users, store, preferences, different, locations, API, across, multiple, records, call, helping, sync, populate]
+keywords: [Security, Consent, Write, users, store, preferences, different, locations, API, across, multiple, records, call, helping, sync, populate, new, model, resource, REST, 48.0]
 ---
-
-# Consent Write
 
 > Your users can store consent preferences in different locations. The Consent Write API
     can update and write consent across multiple records through a single API call, helping you sync

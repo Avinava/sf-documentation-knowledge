@@ -5,12 +5,10 @@ topic: getengagedchats
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.196Z
+lastCollected: 2026-04-07T18:36:49.267Z
 estimatedTokens: 191
-keywords: [getEngagedChats, chat, keys, chats, agent, currently, engaged, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getEngagedChats, chat, keys, chats, agent, currently, engaged, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# getEngagedChats()
 
 > Returns the chat keys of the chats in which the agent is currently engaged. Available in API version 29.0 or
             later.

@@ -5,12 +5,10 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.475Z
+lastCollected: 2026-04-07T18:38:26.435Z
 estimatedTokens: 662
-keywords: [Audience, defined, criteria, assigned, targeting, Experience, Cloud, site, API, version, 44.0, later, Calls]
+keywords: [Audience, defined, criteria, assigned, targeting, Experience, Cloud, site, API, 44.0]
 ---
-
-# Audience
 
 > Represents an audience that is defined by criteria and can be assigned and used
       for targeting in an Experience Cloud site. This object is available in API version 44.0

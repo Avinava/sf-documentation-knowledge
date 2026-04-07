@@ -5,12 +5,10 @@ topic: edit-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.380Z
+lastCollected: 2026-04-07T18:37:18.475Z
 estimatedTokens: 416
-keywords: [Edit, Capability, feed, element, comment, edited, users, permission]
+keywords: [Edit, Capability, comment, edited, users, permission]
 ---
-
-# Edit Capability
 
 > If a feed element or comment has this capability, it can be edited by
       users who have permission.

@@ -5,12 +5,10 @@ topic: associate-actions-to-records-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.074Z
+lastCollected: 2026-04-07T18:39:17.751Z
 estimatedTokens: 395
-keywords: [Associate, Actions, Records, Apex, want, control, how, trigger, creation, RecordAction, exposed, standard, DML, operation, undelete]
+keywords: [Associate, Actions, Records, Apex, want, control, how, trigger, creation, RecordAction, exposed, standard, DML, operation, undelete, provide, error, handling]
 ---
-
-# Associate Actions to Records with Apex
 
 > If you want to control how you trigger the creation of a RecordAction, you can use
         Apex to associate actions to records. The RecordAction object is exposed as a standard

@@ -5,12 +5,10 @@ topic: from-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.150Z
+lastCollected: 2026-04-07T18:37:01.764Z
 estimatedTokens: 230
 keywords: [Clause, function, query, CRM, Analytics, SQL, supports, can’t, select, multiple, tables]
 ---
-
-# FROM Clause
 
 > The FROM clause defines which table or table
   function to query. CRM Analytics SQL supports using FROM with

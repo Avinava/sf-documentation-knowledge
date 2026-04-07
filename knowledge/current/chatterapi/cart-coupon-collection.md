@@ -5,12 +5,10 @@ topic: cart-coupon-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.102Z
+lastCollected: 2026-04-07T18:37:17.176Z
 estimatedTokens: 292
-keywords: [Cart, Coupon, Collection, coupons, associated]
+keywords: [Cart, Coupon, Collection, coupons]
 ---
-
-# Cart Coupon Collection
 
 > Collection of coupons associated with the cart.
 

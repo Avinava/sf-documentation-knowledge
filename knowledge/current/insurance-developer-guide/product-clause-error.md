@@ -5,12 +5,10 @@ topic: product-clause-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.407Z
+lastCollected: 2026-04-07T18:37:52.591Z
 estimatedTokens: 103
-keywords: [Product, Clause, Error, Output, representation, occurred, operation]
+keywords: [Product, Clause, Error, occurred, operation]
 ---
-
-# Product Clause Error
 
 > Output representation of an error that occurred during the product clause
   operation.

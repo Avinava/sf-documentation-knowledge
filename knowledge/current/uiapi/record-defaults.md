@@ -5,12 +5,10 @@ topic: record-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.040Z
+lastCollected: 2026-04-07T18:40:12.044Z
 estimatedTokens: 332
-keywords: [Record, Defaults, data, needed, clone, POST, ui-api, records]
+keywords: [Record, Defaults, needed, clone, POST, ui-api, records]
 ---
-
-# Record Defaults
 
 > The default information and data needed to create or clone a record.
       Use these values in a request to POST

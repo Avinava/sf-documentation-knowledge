@@ -5,12 +5,10 @@ topic: get-platformv1ens-callbacks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.924Z
+lastCollected: 2026-04-07T18:40:17.074Z
 estimatedTokens: 274
-keywords: [platform, ens-callbacks, Retrieves, registered, callbacks, **Overview**, Usage, HTTP, Responses]
+keywords: [platform, ens-callbacks, Retrieves, registered, callbacks, **Overview**, HTTP, Responses]
 ---
-
-# GET /platform/v1/ens-callbacks
 
 > Retrieves details about all registered callbacks.
 

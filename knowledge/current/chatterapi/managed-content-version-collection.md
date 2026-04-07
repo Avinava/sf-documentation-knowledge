@@ -5,12 +5,10 @@ topic: managed-content-version-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.462Z
+lastCollected: 2026-04-07T18:37:20.646Z
 estimatedTokens: 203
-keywords: [Managed, Content, Version, Collection, versions]
+keywords: [Managed, Content, Collection, versions]
 ---
-
-# Managed Content Version Collection
 
 > Collection of managed content versions.
 

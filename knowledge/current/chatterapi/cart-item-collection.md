@@ -5,12 +5,10 @@ topic: cart-item-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.155Z
+lastCollected: 2026-04-07T18:37:17.230Z
 estimatedTokens: 487
 keywords: [Cart, Item, Collection, items]
 ---
-
-# Cart Item Collection
 
 > A collection of items in a cart.
 

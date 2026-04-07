@@ -6,13 +6,10 @@ topic: adding-mobile-sync-to-existing-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.162Z
+lastCollected: 2026-04-07T18:40:25.525Z
 estimatedTokens: 271
 keywords: [Adding, Mobile, Sync, Android, Apps, steps, show, how, add, project, hybrid, native, created, SDK, 4.0]
 ---
-
-# Adding Mobile Sync to Existing Android
-        Apps
 
 > The following steps show you how to add Mobile Sync to an existing
                 Android project (hybrid or native) created with Mobile SDK 4.0 or

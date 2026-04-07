@@ -5,12 +5,10 @@ topic: surveyquestionchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.103Z
+lastCollected: 2026-04-07T18:38:41.869Z
 estimatedTokens: 588
-keywords: [SurveyQuestionChoice, answer, choice, participant, select, survey, question, Calls, Associated, Objects]
+keywords: [SurveyQuestionChoice, answer, choice, participant, select, survey, question]
 ---
-
-# SurveyQuestionChoice
 
 > Represents an answer choice that a participant can select for a
          survey question.

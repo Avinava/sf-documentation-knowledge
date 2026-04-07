@@ -5,12 +5,10 @@ topic: show-pledge-1-details-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.339Z
+lastCollected: 2026-04-07T18:38:46.196Z
 estimatedTokens: 309
-keywords: [Show, Pledge, AppExchange, Listing, company, member, movement, let, customers, know, adding, badge, members, commit, giving]
+keywords: [Show, Pledge, AppExchange, Listing, company, member, movement, let, customers, know, adding, badge, members, commit, giving, percentage, their, product, profit, equity, time, nonprofit, causes, charities]
 ---
-
-# Show Pledge 1% Details on Your AppExchange Listing
 
 > If your company is a member of the Pledge 1% movement, let customers know by adding the
   Pledge 1% badge to your listing. Pledge 1% members commit to giving a percentage of their product,

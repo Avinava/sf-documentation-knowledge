@@ -5,12 +5,10 @@ topic: api-detection-event-isnt-anomalous
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.801Z
+lastCollected: 2026-04-07T18:39:22.696Z
 estimatedTokens: 529
 keywords: [API, Detection, Event, Isn’t, Anomalous, Jason, developer, uses, APIs, query, Account, Sunday, retrieves, records]
 ---
-
-# API Detection Event Isn’t Anomalous
 
 > Jason, a developer, uses APIs to query an Account object on a Sunday. He retrieves
     10,000 records.

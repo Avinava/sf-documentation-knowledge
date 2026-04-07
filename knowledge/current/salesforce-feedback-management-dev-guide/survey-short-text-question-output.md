@@ -5,12 +5,10 @@ topic: survey-short-text-question-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.468Z
+lastCollected: 2026-04-07T18:39:17.105Z
 estimatedTokens: 246
-keywords: [Survey, Short-Text, Question, Output, representation]
+keywords: [Survey, Short-Text, Question]
 ---
-
-# Survey Short-Text Question Output
 
 > Output representation of the details of the short-text question on the
       survey page.

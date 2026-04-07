@@ -5,13 +5,11 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.060Z
+lastCollected: 2026-04-07T18:39:59.733Z
 estimatedTokens: 413
 namespace: NamespacePrefix
-keywords: [Report, data, meets, certain, criteria, organized, way, Access, read-only, API, version, 20.0, later]
+keywords: [Report, meets, certain, criteria, organized, way, read-only, API, 20.0]
 ---
-
-# Report
 
 > Represents a report, a set of data that meets certain criteria,
 			displayed in an organized way. Access is read-only. This object is available in API

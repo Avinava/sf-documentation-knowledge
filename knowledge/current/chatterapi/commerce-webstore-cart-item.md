@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.362Z
+lastCollected: 2026-04-07T18:37:12.224Z
 estimatedTokens: 1264
 keywords: [Commerce, Webstore, Cart, Item]
 ---
-
-# Commerce Webstore Cart Item
 
 > Update or delete an item in a cart.
 

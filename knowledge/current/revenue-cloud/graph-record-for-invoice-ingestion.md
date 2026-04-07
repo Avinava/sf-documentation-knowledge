@@ -5,12 +5,10 @@ topic: graph-record-for-invoice-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:58.383Z
+lastCollected: 2026-04-07T18:35:43.274Z
 estimatedTokens: 3457
-keywords: [Graph, Record, Invoice, Ingestion, that’s, part, structure, representing, relationships, among, different, objects, contain, attributes, references]
+keywords: [Graph, Record, Invoice, Ingestion, that’s, part, structure, representing, relationships, among, different, contain, attributes, references, records, Account, Contact, Line, Tax, Shipping, Address, Billing]
 ---
-
-# Graph Record for Invoice Ingestion
 
 > A Graph record is an object that’s a part of the graph structure,
       representing both the fields and relationships among different objects. Each record in the

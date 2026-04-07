@@ -5,12 +5,10 @@ topic: processrequestrequesttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.513Z
+lastCollected: 2026-04-07T18:35:41.366Z
 estimatedTokens: 211
 keywords: [processRequest, requestType, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse]
 ---
-
-# processRequest(requestType)
 
 > The processRequest method takes
       an instance of TaxEngineContext class and returns a

@@ -5,12 +5,10 @@ topic: intelligent-document-reader-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.570Z
+lastCollected: 2026-04-07T18:39:03.751Z
 estimatedTokens: 600
-keywords: [Intelligent, Document, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically]
+keywords: [Intelligent, Document, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically, extract, documents, specify, kind, form, you’re, getting, map, appropriate, Resources]
 ---
-
-# Intelligent Document Reader Business APIs
 
 > Use the Intelligent Document Reader Business APIs to read the mapping
       details of the extracted text that is stored in a Salesforce object. Intelligent Document

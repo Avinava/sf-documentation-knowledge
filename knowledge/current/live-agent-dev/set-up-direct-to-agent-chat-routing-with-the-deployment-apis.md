@@ -5,12 +5,10 @@ topic: set-up-direct-to-agent-chat-routing-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.980Z
+lastCollected: 2026-04-07T18:38:06.223Z
 estimatedTokens: 519
-keywords: [Direct-to-Agent, Chat, Routing, Deployment, APIs, route, chats, originate, specific, button, invite, agent, editing, few, API]
+keywords: [Direct-to-Agent, Chat, Routing, Deployment, APIs, route, chats, originate, specific, button, invite, agent, editing, few, API, fallback, another, queue, isn’t]
 ---
-
-# Set Up Direct-to-Agent Chat Routing with the Deployment APIs
 
 > You can route chats that originate from a specific button or invite to a specific agent
     by editing a few parameters in the Chat Deployment API. You can set chats to fallback to another

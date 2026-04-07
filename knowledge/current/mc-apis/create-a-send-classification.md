@@ -5,12 +5,10 @@ topic: create-a-send-classification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.035Z
+lastCollected: 2026-04-07T18:40:16.179Z
 estimatedTokens: 1163
-keywords: [Send, Classification, specify, sender, profile, delivery, CAN-SPAM, email, message, via, SOAP, API, includes, physical, address]
+keywords: [Send, Classification, specify, sender, profile, delivery, CAN-SPAM, email, message, via, SOAP, API, includes, physical, address, sent, Why, How, Sample, NET, Code, PHP, Items]
 ---
-
-# Create a Send Classification
 
 > You can use a send classification to specify the sender profile, delivery profile, and CAN-SPAM classification for an email message you send via the SOAP API. This includes the From information, physical address, and other information required before an email can be sent.
 

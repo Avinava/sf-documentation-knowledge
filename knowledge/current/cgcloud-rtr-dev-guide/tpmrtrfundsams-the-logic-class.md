@@ -5,12 +5,10 @@ topic: tpmrtrfundsams-the-logic-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.296Z
+lastCollected: 2026-04-07T18:37:05.018Z
 estimatedTokens: 158
 keywords: [TPM_RTRFunds_AMS, Logic, RTRSalesforceMonthlyMeasures, datasource, execute, base, classes, every, report, TPM, _RTRFunds, _AMS]
 ---
-
-# TPM_RTRFunds_AMS (The Logic Class)
 
 > Use RTRSalesforceMonthlyMeasures as the datasource to execute the base classes by every
     report.

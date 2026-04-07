@@ -5,12 +5,10 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.798Z
+lastCollected: 2026-04-07T18:39:12.315Z
 estimatedTokens: 1227
-keywords: [TimeSheet, schedule, assignee's, time, Consumer, Goods, Cloud, API, v65.0, later, sheets, composed, sheet, entries, typically]
+keywords: [TimeSheet, schedule, assignee's, time, Consumer, Goods, Cloud, API, v65.0, sheets, composed, sheet, entries, typically, track, individual, tasks]
 ---
-
-# TimeSheet
 
 > Represents a schedule of an assignee's time in Consumer Goods Cloud. This object is
 		available in API v65.0 and later. Time sheets are composed of time sheet entries, which

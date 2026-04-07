@@ -5,12 +5,10 @@ topic: create-insurance-rating-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.966Z
+lastCollected: 2026-04-07T18:37:48.683Z
 estimatedTokens: 507
-keywords: [Insurance, Rating, Action, runtime, context, quote, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Insurance, Rating, Action, runtime, context, quote, REST, HTTP]
 ---
-
-# Create Insurance Rating Action
 
 > Create a runtime context that contains the details to create a
       quote.

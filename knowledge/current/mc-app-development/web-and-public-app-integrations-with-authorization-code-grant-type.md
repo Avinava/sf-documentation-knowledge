@@ -5,12 +5,10 @@ topic: web-and-public-app-integrations-with-authorization-code-grant-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.139Z
+lastCollected: 2026-04-07T18:40:21.412Z
 estimatedTokens: 743
-keywords: [Web, App, Integrations, Authorization, Code, Grant, allow, applications, integrate, Marketing, Cloud, behalf, end, user, intersection]
+keywords: [Web, App, Integrations, Authorization, Code, Grant, allow, applications, integrate, Marketing, Cloud, behalf, end, user, intersection, app’s, user’s, permissions, can’t, securely, store, client, secret]
 ---
-
-# Web and Public App Integrations with Authorization Code Grant Type
 
 > Web app and public app integrations allow applications to integrate with Marketing Cloud on behalf of an end user, using the intersection of the app’s and user’s permissions. A public app can’t securely store a client secret, but a web app can.
 

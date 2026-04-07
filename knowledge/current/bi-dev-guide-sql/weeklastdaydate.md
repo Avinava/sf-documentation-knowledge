@@ -5,12 +5,10 @@ topic: weeklastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.121Z
+lastCollected: 2026-04-07T18:37:01.734Z
 estimatedTokens: 172
-keywords: [week_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Saturday, week, _last, _day]
+keywords: [week_last_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, Saturday, week, _last, _day]
 ---
-
-# week_last_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date  object as input. Returns an object of the same type that
   corresponds to the last day (Saturday) of the week that contains the specified date.

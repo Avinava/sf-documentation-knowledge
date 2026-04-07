@@ -5,12 +5,10 @@ topic: tagcategoryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.930Z
+lastCollected: 2026-04-07T18:40:03.657Z
 estimatedTokens: 258
-keywords: [TagCategoryHistory, History, tracked, TagCategory]
+keywords: [TagCategoryHistory, tracked, TagCategory]
 ---
-
-# TagCategoryHistory
 
 > History for tracked fields of TagCategory.
 

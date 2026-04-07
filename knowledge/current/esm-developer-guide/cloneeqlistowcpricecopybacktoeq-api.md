@@ -5,12 +5,10 @@ topic: cloneeqlistowcpricecopybacktoeq-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.915Z
+lastCollected: 2026-04-07T18:37:32.084Z
 estimatedTokens: 95
-keywords: [CloneEQLIsToWC_PriceCopyBackToEQ, API, Clone, enterprise, quote, line, items, QLIs, working, cart, apply, pricing, copy, back, CloneEQLIsToWC]
+keywords: [CloneEQLIsToWC_PriceCopyBackToEQ, API, Clone, enterprise, quote, line, items, QLIs, working, cart, apply, pricing, copy, back, CloneEQLIsToWC, _PriceCopyBackToEQ, URI, HTTP]
 ---
-
-# CloneEQLIsToWC_PriceCopyBackToEQ API
 
 > Clone enterprise quote line items (QLIs) to working cart, apply pricing, and copy back to the enterprise quote.
 

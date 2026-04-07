@@ -5,12 +5,10 @@ topic: accessing-data-with-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.783Z
+lastCollected: 2026-04-07T18:38:51.018Z
 estimatedTokens: 1159
-keywords: [Accessing, Data, Controllers, record, <apex, pageBlockTable>, assigns, acc, variable, constructs, new, row, defined, column>, component]
+keywords: [Accessing, Controllers, record, <apex, pageBlockTable>, assigns, acc, variable, constructs, new, row, defined, column>, uses, represent, Records, Expression, IDs]
 ---
-
-# Accessing Data with List Controllers
 
 > For each record in the list, <apex:pageBlockTable>
       assigns the record to the acc variable. Then, <apex:pageBlockTable> constructs a new row in the table,

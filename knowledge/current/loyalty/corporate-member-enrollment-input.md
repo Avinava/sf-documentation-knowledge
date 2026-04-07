@@ -5,12 +5,10 @@ topic: corporate-member-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.985Z
+lastCollected: 2026-04-07T18:38:07.199Z
 estimatedTokens: 610
-keywords: [Corporate, Member, Enrollment, Input, representation, creating, business, account, Loyalty, Program, record]
+keywords: [Corporate, Member, Enrollment, creating, business, account, Loyalty, Program, record]
 ---
-
-# Corporate Member Enrollment Input
 
 > Input representation for creating a business account and a
             Corporate type Loyalty Program Member record for the member.

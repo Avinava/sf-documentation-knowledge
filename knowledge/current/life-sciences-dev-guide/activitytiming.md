@@ -5,12 +5,10 @@ topic: activitytiming
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.374Z
+lastCollected: 2026-04-07T18:37:56.807Z
 estimatedTokens: 2176
-keywords: [ActivityTiming, detailed, activity, that’s, repeated, regular, intervals, over, period, time, API, version, 52.0, later, Calls]
+keywords: [ActivityTiming, detailed, activity, that’s, repeated, regular, intervals, over, period, time, API, 52.0]
 ---
-
-# ActivityTiming
 
 > Represents detailed information about an activity that’s repeated in regular
          intervals over a period of time. This object is available in API version 52.0 and

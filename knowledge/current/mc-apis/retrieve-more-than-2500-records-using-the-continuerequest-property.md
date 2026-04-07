@@ -5,12 +5,10 @@ topic: retrieve-more-than-2500-records-using-the-continuerequest-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.762Z
+lastCollected: 2026-04-07T18:40:15.883Z
 estimatedTokens: 475
 keywords: [Retrieve, Records, ContinueRequest, retrieving, part, call, Why, How, Sample, NET, Code, PHP]
 ---
-
-# Retrieve More than 2500 Records Using the ContinueRequest Property
 
 > This page contains information about retrieving more records using ContinueRequest as part of the Retrieve method call.
 

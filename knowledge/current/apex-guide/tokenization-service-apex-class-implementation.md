@@ -5,12 +5,10 @@ topic: tokenization-service-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.636Z
+lastCollected: 2026-04-07T18:36:16.854Z
 estimatedTokens: 1068
-keywords: [Tokenization, Service, Apex, Implementation, hide, sensitive, customer, payment, data, uses, PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, CardPaymentMethodRequest, Implement, classes]
+keywords: [Tokenization, Service, Apex, Implementation, hide, sensitive, customer, payment, uses, PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, CardPaymentMethodRequest, Implement, classes, gateway, adapter, Encryption, Tokenized, Implementing]
 ---
-
-# Tokenization Service Apex Class Implementation
 
 > Use the tokenization service to hide sensitive customer payment method data. The
   Tokenization service uses PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, and CardPaymentMethodRequest. Implement these classes in your payment gateway

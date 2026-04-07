@@ -5,12 +5,10 @@ topic: up-down-vote-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.419Z
+lastCollected: 2026-04-07T18:37:23.530Z
 estimatedTokens: 214
-keywords: [Down, Vote, Capability, feed, post, comment, users, upvote, downvote]
+keywords: [Down, Vote, Capability, post, comment, users, upvote, downvote]
 ---
-
-# Up Down Vote Capability
 
 > If a feed post or comment has this capability, users can upvote or downvote
     it.

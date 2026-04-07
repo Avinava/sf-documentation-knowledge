@@ -5,12 +5,10 @@ topic: sitemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.855Z
+lastCollected: 2026-04-07T18:35:51.711Z
 estimatedTokens: 2372
-keywords: [Sitemap, Salesforce, Interactions, SDK, ability, extract, data, navigation, share, capture, logic, across, multiple, pages, separate]
+keywords: [Sitemap, GlobalPageConfig, DefaultPageConfig, PageConfig, Salesforce, Interactions, SDK, ability, extract, navigation, share, capture, logic, across, multiple, pages, separate, web, presentation]
 ---
-
-# Sitemap
 
 > Salesforce Interactions SDK Sitemap provides the ability to extract data during page
     navigation. Also, the sitemap can share data capture logic across multiple pages, and it can

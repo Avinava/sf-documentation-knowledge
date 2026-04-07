@@ -5,12 +5,10 @@ topic: revenuemanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.553Z
+lastCollected: 2026-04-07T18:35:47.589Z
 estimatedTokens: 1552
-keywords: [RevenueManagementSettings, configuration, settings, Revenue, Cloud, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules]
+keywords: [RevenueManagementSettings, configuration, settings, Revenue, Cloud, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# RevenueManagementSettings
 
 > Represents the configuration settings to set up Revenue Cloud.
 

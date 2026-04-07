@@ -5,12 +5,10 @@ topic: lightningtypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.730Z
+lastCollected: 2026-04-07T18:36:27.219Z
 estimatedTokens: 1456
-keywords: [LightningTypeBundle, custom, Lightning, override, user, customized, appearance, business, requirements, Deploy, bundle, organization, implement, overrides, Parent]
+keywords: [LightningTypeBundle, LightningTypeBundleResource, Lightning, override, user, customized, appearance, business, requirements, Deploy, bundle, organization, implement, overrides, Parent, File, Structure, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LightningTypeBundle
 
 > Represents a custom Lightning type. Use this type to
 			override the default user interface to create a customized appearance based on your

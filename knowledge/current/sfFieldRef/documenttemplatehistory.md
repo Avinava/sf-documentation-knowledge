@@ -5,12 +5,10 @@ topic: documenttemplatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.857Z
+lastCollected: 2026-04-07T18:39:38.530Z
 estimatedTokens: 265
-keywords: [DocumentTemplateHistory, History, tracked, DocumentTemplate]
+keywords: [DocumentTemplateHistory, tracked, DocumentTemplate]
 ---
-
-# DocumentTemplateHistory
 
 > History for tracked fields of DocumentTemplate.
 

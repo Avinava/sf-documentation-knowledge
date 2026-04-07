@@ -5,12 +5,10 @@ topic: clause-generation-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.871Z
+lastCollected: 2026-04-07T18:37:50.775Z
 estimatedTokens: 158
-keywords: [Clause, Generation, Options, Input, representation]
+keywords: [Clause, Generation, Options]
 ---
-
-# Clause Generation Options Input
 
 > Input representation for clause generation options.
 

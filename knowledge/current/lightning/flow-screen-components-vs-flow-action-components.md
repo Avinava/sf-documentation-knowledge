@@ -5,12 +5,10 @@ topic: flow-screen-components-vs-flow-action-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.079Z
+lastCollected: 2026-04-07T18:38:03.048Z
 estimatedTokens: 288
-keywords: [Flow, Screen, Components, Action, Aura, component, screens, choosing, interfaces, consider, purpose, serves]
+keywords: [Flow, Screen, Action, Aura, screens, choosing, interfaces, consider, purpose, serves]
 ---
-
-# Flow Screen Components vs. Flow Action Components
 
 > You can make your Aura component available in flow screens or as a flow action. When
   choosing between the flow interfaces, consider what purpose the component serves in the

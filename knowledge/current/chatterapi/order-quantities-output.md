@@ -5,12 +5,10 @@ topic: order-quantities-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.253Z
+lastCollected: 2026-04-07T18:37:21.393Z
 estimatedTokens: 91
-keywords: [Order, Quantities, Output, groupings, items]
+keywords: [Order, Quantities, groupings, items]
 ---
-
-# Order Quantities Output
 
 > Output groupings of items in an order.
 

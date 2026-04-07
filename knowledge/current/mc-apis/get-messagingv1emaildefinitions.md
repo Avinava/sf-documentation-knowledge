@@ -5,12 +5,10 @@ topic: get-messagingv1emaildefinitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.023Z
+lastCollected: 2026-04-07T18:40:17.172Z
 estimatedTokens: 380
-keywords: [messaging, email, definitions, send, **Overview**, Usage, HTTP, Responses]
+keywords: [messaging, email, definitions, send, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/email/definitions
 
 > Gets a list of send definitions.
 

@@ -5,12 +5,10 @@ topic: resourceabsence-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.721Z
+lastCollected: 2026-04-07T18:36:46.573Z
 estimatedTokens: 1562
-keywords: [ResourceAbsence, Custom, associated, time, period, service, resource, unavailable, work, Calls, Special, Access, Rules, Internal]
+keywords: [ResourceAbsence, time, period, service, resource, unavailable, work, Internal]
 ---
-
-# ResourceAbsence Custom Fields
 
 > Custom fields associated with a time period in which a service resource is
          unavailable to work in Field Service.

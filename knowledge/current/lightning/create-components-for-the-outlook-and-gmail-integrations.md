@@ -5,12 +5,10 @@ topic: create-components-for-the-outlook-and-gmail-integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.881Z
+lastCollected: 2026-04-07T18:38:02.809Z
 estimatedTokens: 574
-keywords: [Components, Outlook, Gmail, Integrations, custom, Aura, add, email, application, pane]
+keywords: [Outlook, Gmail, Integrations, Aura, add, email, application, pane]
 ---
-
-# Create Components for the Outlook and Gmail Integrations
 
 > Create custom Aura components that are available to add to the email application
     pane for the Outlook and Gmail integrations.

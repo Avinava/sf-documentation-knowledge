@@ -5,12 +5,10 @@ topic: analyticsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.171Z
+lastCollected: 2026-04-07T18:36:22.427Z
 estimatedTokens: 1023
-keywords: [AnalyticSnapshot, reporting, snapshot, lets, report, historical, data, Authorized, users, save, tabular, summary, results, custom, map]
+keywords: [AnalyticSnapshot, AnalyticSnapshotMapping, ReportJobSourceTypes, reporting, snapshot, lets, report, historical, Authorized, users, save, tabular, summary, results, map, corresponding, target, They, schedule, run, load, object's, report's, snapshots, enable, work, similarly, how, records, Salesforce, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AnalyticSnapshot
 
 > Represents a reporting snapshot. A reporting
             snapshot lets you report on historical data. Authorized users can save tabular or

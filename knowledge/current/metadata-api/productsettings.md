@@ -5,12 +5,10 @@ topic: productsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.072Z
+lastCollected: 2026-04-07T18:36:28.611Z
 estimatedTokens: 618
-keywords: [ProductSettings, organization, preferences, quantity, schedules, revenue, active, flag, interaction, prices, extends, Metadata, inherits, fullName, File]
+keywords: [ProductSettings, organization, preferences, quantity, schedules, revenue, active, flag, interaction, prices, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ProductSettings
 
 > Represents organization preferences for quantity
             schedules, revenue schedules, and active flag interaction with prices. This type extends the Metadata metadata type and inherits its fullName field.

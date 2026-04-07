@@ -5,12 +5,10 @@ topic: apexunexpectedexcpeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.707Z
+lastCollected: 2026-04-07T18:38:25.628Z
 estimatedTokens: 683
-keywords: [ApexUnexpectedExcpEventLog, Apex, Unexpected, Excp, Event, Log, captures, exceptions, code, execution, API, version, 61.0, later, Calls]
+keywords: [ApexUnexpectedExcpEventLog, Apex, Unexpected, Excp, Event, Log, captures, exceptions, code, execution, API, 61.0]
 ---
-
-# ApexUnexpectedExcpEventLog
 
 > Apex Unexpected Excp Event Log captures information about unexpected
          exceptions in Apex code execution. This object is available in API version 61.0 and

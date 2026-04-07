@@ -5,12 +5,10 @@ topic: emssnrdctncommitmentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.583Z
+lastCollected: 2026-04-07T18:39:39.236Z
 estimatedTokens: 253
 keywords: [EmssnRdctnCommitmentShare, Sharing, EmssnRdctnCommitment]
 ---
-
-# EmssnRdctnCommitmentShare
 
 > Sharing for EmssnRdctnCommitment.
 

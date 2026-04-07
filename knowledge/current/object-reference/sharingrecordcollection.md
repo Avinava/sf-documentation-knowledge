@@ -5,12 +5,10 @@ topic: sharingrecordcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.428Z
+lastCollected: 2026-04-07T18:38:41.085Z
 estimatedTokens: 424
-keywords: [SharingRecordCollection, collection, records, API, version, 51.0, later, Calls]
+keywords: [SharingRecordCollection, collection, records, API, 51.0]
 ---
-
-# SharingRecordCollection
 
 > Represents a collection of records. This object is available in API version 51.0 and later.
 

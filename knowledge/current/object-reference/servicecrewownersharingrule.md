@@ -5,12 +5,10 @@ topic: servicecrewownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.222Z
+lastCollected: 2026-04-07T18:38:40.820Z
 estimatedTokens: 666
-keywords: [ServiceCrewOwnerSharingRule, rules, sharing, service, crew, user, records, owner, anyone, above, role, hierarchy, Calls, Special, Access]
+keywords: [ServiceCrewOwnerSharingRule, sharing, service, crew, user, records, owner, anyone, above, role, hierarchy]
 ---
-
-# ServiceCrewOwnerSharingRule
 
 > Represents the rules for sharing a service crew with user records
 			other than the owner or anyone above the owner in the role hierarchy.

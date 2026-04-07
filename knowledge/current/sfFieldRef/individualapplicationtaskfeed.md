@@ -5,12 +5,10 @@ topic: individualapplicationtaskfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.072Z
+lastCollected: 2026-04-07T18:39:44.652Z
 estimatedTokens: 393
-keywords: [IndividualApplicationTaskFeed, Feed, tracking, IndividualApplicationTask]
+keywords: [IndividualApplicationTaskFeed, IndividualApplicationTask]
 ---
-
-# IndividualApplicationTaskFeed
 
 > Feed tracking for IndividualApplicationTask.
 

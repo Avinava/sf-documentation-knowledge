@@ -5,12 +5,10 @@ topic: sobject-tree-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.378Z
+lastCollected: 2026-04-07T18:36:21.618Z
 estimatedTokens: 191
 keywords: [sObject, Tree, result]
 ---
-
-# sObject Tree Response Body
 
 > Describes the result of an sObject Tree
   request.

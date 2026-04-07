@@ -5,12 +5,10 @@ topic: mutetoggleresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.706Z
+lastCollected: 2026-04-07T18:39:23.642Z
 estimatedTokens: 313
 keywords: [MuteToggleResult, result, toggling, mute, state, call, Functions]
 ---
-
-# MuteToggleResult
 
 > Represents the result when toggling the mute state for a
         call.

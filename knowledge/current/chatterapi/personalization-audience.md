@@ -5,12 +5,10 @@ topic: personalization-audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.120Z
+lastCollected: 2026-04-07T18:37:15.171Z
 estimatedTokens: 512
 keywords: [Personalization, Audience]
 ---
-
-# Personalization Audience
 
 > Get, update, and delete an audience.
 

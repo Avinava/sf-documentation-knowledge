@@ -5,12 +5,10 @@ topic: define-and-deploy-custom-big-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:32.981Z
+lastCollected: 2026-04-07T18:38:23.854Z
 estimatedTokens: 1909
-keywords: [Define, Deploy, Custom, Big, Objects, Metadata, API, Setup, view, add, you’ve, deployed, can’t, edit, index]
+keywords: [Define, Deploy, Big, Metadata, API, Setup, view, add, you’ve, deployed, can’t, edit, index, change, start, over, new, Salesforce, Help, Naming, Conventions, CustomObject, CustomField, IndexField, Files, Deployment]
 ---
-
-# Define and Deploy Custom Big Objects
 
 > You can define custom big objects with Metadata API or in Setup. After you define and
         deploy a big object, you can view it or add fields in Setup. After you’ve deployed a big

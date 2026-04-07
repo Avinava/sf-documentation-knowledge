@@ -5,12 +5,10 @@ topic: remote-methods-and-inheritance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.424Z
+lastCollected: 2026-04-07T18:38:51.682Z
 estimatedTokens: 158
-keywords: [Remote, Inheritance, call, actions, Apex, controller, inherited, @RemoteAction, looked, Visualforce, inspects, controller’s, hierarchy, finds, ancestor]
+keywords: [Remote, Inheritance, call, actions, Apex, controller, inherited, @RemoteAction, looked, Visualforce, inspects, controller’s, hierarchy, finds, ancestor, classes]
 ---
-
-# Remote Methods and Inheritance
 
 > You can call remote actions on your Apex controller that are inherited methods. When
         a @RemoteAction method is looked up or called, Visualforce inspects the page

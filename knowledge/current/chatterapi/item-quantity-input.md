@@ -5,12 +5,10 @@ topic: item-quantity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.947Z
+lastCollected: 2026-04-07T18:37:08.764Z
 estimatedTokens: 92
-keywords: [Item, Quantity, Input, representation]
+keywords: [Item, Quantity]
 ---
-
-# Item Quantity Input
 
 > Input representation of an item and its quantity.
 

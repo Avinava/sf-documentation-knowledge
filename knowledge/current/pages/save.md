@@ -5,12 +5,10 @@ topic: save
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.079Z
+lastCollected: 2026-04-07T18:38:48.044Z
 estimatedTokens: 97
 keywords: [save, Saves, changes, updated, PageReference, Inserts, new, records, updates, changed, operation, finished, original, known, home]
 ---
-
-# save()
 
 > Inserts new records or updates existing records that have
 been changed. After this operation is finished, it returns a PageReference

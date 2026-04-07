@@ -5,12 +5,10 @@ topic: connectapifulfillmentgroupinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.196Z
+lastCollected: 2026-04-07T18:36:05.528Z
 estimatedTokens: 567
 keywords: [OrderItemSummaries, fulfilled, together, fulfillment, location, handle, defined, FulfillmentOrder, “Warehouse”, “Retail, Store.”, assigned, group]
 ---
-
-# ConnectApi.FulfillmentGroupInputRepresentation
 
 > A list of OrderItemSummaries to be fulfilled together, and the
       fulfillment location to handle them. The fulfillment type is one of the values defined for the

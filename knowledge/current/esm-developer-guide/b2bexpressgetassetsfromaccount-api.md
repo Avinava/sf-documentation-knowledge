@@ -5,12 +5,10 @@ topic: b2bexpressgetassetsfromaccount-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.882Z
+lastCollected: 2026-04-07T18:37:32.042Z
 estimatedTokens: 115
 keywords: [b2bExpress_getAssetsFromAccount, API, child, assets, account, root, asset, size, b2bExpress, _getAssetsFromAccount, URI, HTTP]
 ---
-
-# b2bExpress_getAssetsFromAccount API
 
 > Get child assets for a given account ID, root asset ID, and page size.
 

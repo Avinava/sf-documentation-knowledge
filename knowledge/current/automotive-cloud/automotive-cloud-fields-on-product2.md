@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.631Z
+lastCollected: 2026-04-07T18:36:53.040Z
 estimatedTokens: 1128
 keywords: [Automotive, Cloud, Product2, Standard, extend, represent, vehicle, models, parts, accessories]
 ---
-
-# Automotive Cloud Fields on Product2
 
 > Standard fields extend the Product2 object for use in Automotive Cloud to
          represent information about vehicle models, parts, and accessories.

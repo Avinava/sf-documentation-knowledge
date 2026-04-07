@@ -5,12 +5,10 @@ topic: get-catalogs-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.031Z
+lastCollected: 2026-04-07T18:35:39.810Z
 estimatedTokens: 467
-keywords: [Catalogs, Action, catalog, records, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Catalogs, Action, catalog, records, REST, HTTP]
 ---
-
-# Get Catalogs Action
 
 > Get a list of catalog records.
 

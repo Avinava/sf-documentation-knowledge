@@ -5,12 +5,10 @@ topic: workreporthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.196Z
+lastCollected: 2026-04-07T18:40:07.116Z
 estimatedTokens: 257
-keywords: [WorkReportHistory, History, tracked, WorkReport]
+keywords: [WorkReportHistory, tracked, WorkReport]
 ---
-
-# WorkReportHistory
 
 > History for tracked fields of WorkReport.
 

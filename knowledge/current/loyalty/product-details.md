@@ -5,12 +5,10 @@ topic: product-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.103Z
+lastCollected: 2026-04-07T18:38:07.317Z
 estimatedTokens: 149
-keywords: [Product, input, representation, specific, associated, recommended, promotion]
+keywords: [Product, specific, recommended, promotion]
 ---
-
-# Product Details
 
 > The details of a product associated with the recommended promotion.
 

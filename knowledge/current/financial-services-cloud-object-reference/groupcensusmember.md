@@ -5,12 +5,10 @@ topic: groupcensusmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.655Z
+lastCollected: 2026-04-07T18:37:37.457Z
 estimatedTokens: 2308
-keywords: [GroupCensusMember, personal, member, employee, association, their, dependents, estimate, insurance, plan, cost, group, enrollment, process, retrieve]
+keywords: [GroupCensusMember, personal, member, employee, association, their, dependents, estimate, insurance, plan, cost, group, enrollment, process, retrieve, dependent, Child, GroupCensus, API, 55.0]
 ---
-
-# GroupCensusMember
 
 > Represents personal information about a member, for example employee or association member, or their dependents. GroupCensusMember is used to estimate the insurance plan cost for the group. This object is also used in the enrollment process to retrieve the member and dependent details. Child object of GroupCensus. This object is available in API version 55.0 and later.
 

@@ -5,12 +5,10 @@ topic: partyfinancialassetrelahistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.692Z
+lastCollected: 2026-04-07T18:39:52.106Z
 estimatedTokens: 278
-keywords: [PartyFinancialAssetRelaHistory, History, tracked, PartyFinancialAssetRela]
+keywords: [PartyFinancialAssetRelaHistory, tracked, PartyFinancialAssetRela]
 ---
-
-# PartyFinancialAssetRelaHistory
 
 > History for tracked fields of PartyFinancialAssetRela.
 

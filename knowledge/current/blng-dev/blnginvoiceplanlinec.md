@@ -5,12 +5,10 @@ topic: blnginvoiceplanlinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.135Z
+lastCollected: 2026-04-07T18:37:03.652Z
 estimatedTokens: 816
-keywords: [blng__InvoicePlanLine__c, custom, behavior, invoice, transaction, plan, lines, blng, _InvoicePlanLine, Calls]
+keywords: [blng__InvoicePlanLine__c, behavior, invoice, transaction, plan, lines, blng, _InvoicePlanLine]
 ---
-
-# blng__InvoicePlanLine__c
 
 > Represents the custom behavior for a single invoice transaction. An invoice
          plan contains the invoice plan lines.

@@ -5,12 +5,10 @@ topic: recommendationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.155Z
+lastCollected: 2026-04-07T18:38:39.728Z
 estimatedTokens: 869
-keywords: [RecommendationResponse, user, responses, presented, offer, recommendation, Einstein, Best, Action, API, version, 51.0, later, Calls, Special]
+keywords: [RecommendationResponse, user, responses, presented, offer, recommendation, Einstein, Best, Action, API, 51.0]
 ---
-
-# RecommendationResponse
 
 > Represents the user responses to a presented offer or recommendation
          for Einstein Next Best Action. This object is available in API

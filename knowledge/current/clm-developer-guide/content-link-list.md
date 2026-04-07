@@ -5,12 +5,10 @@ topic: content-link-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.141Z
+lastCollected: 2026-04-07T18:37:25.091Z
 estimatedTokens: 131
-keywords: [Content, Link, Output, representation, data, IDs]
+keywords: [Content, Link, IDs]
 ---
-
-# Content Link List
 
 > Output representation of the content data for the specified reference IDs.
 

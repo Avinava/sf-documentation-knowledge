@@ -5,12 +5,10 @@ topic: benefit-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.955Z
+lastCollected: 2026-04-07T18:39:04.964Z
 estimatedTokens: 156
-keywords: [Benefit, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Benefit, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Benefit Management Data Model
 
 > Learn about the objects and relationships used for  benefit management in Public Sector
   Solutions.

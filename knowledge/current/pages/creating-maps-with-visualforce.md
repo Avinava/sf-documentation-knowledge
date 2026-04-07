@@ -5,12 +5,10 @@ topic: creating-maps-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.450Z
+lastCollected: 2026-04-07T18:38:51.716Z
 estimatedTokens: 990
-keywords: [Creating, Maps, Visualforce, communicate, clearly, mere, location, data, mapping, components, simple, third-party, services, interactive, JavaScript-based]
+keywords: [Creating, Maps, Visualforce, communicate, clearly, mere, location, mapping, simple, third-party, services, interactive, JavaScript-based, zooming, panning, markers, Salesforce, standalone, map, pages, insert, layouts, mobile, app]
 ---
-
-# Creating Maps with Visualforce
 
 > Maps communicate information more clearly than mere
    location data. Visualforce mapping

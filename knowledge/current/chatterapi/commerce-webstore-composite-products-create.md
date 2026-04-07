@@ -6,13 +6,10 @@ topic: commerce-webstore-composite-products-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.009Z
+lastCollected: 2026-04-07T18:37:11.833Z
 estimatedTokens: 779
 keywords: [Commerce, Webstore, Composite, Products, Add, product, store, associate, category, media, records]
 ---
-
-# Commerce
-    Webstore Composite Products, Create
 
 > Add a product to your store and associate it with the specified
       category and media records.

@@ -5,12 +5,10 @@ topic: salesforce-knowledge-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.663Z
+lastCollected: 2026-04-07T18:37:53.953Z
 estimatedTokens: 576
-keywords: [Salesforce, Knowledge, Metadata, API, manage, articles, layouts, data, categories]
+keywords: [Salesforce, Knowledge, Metadata, API, manage, articles, layouts, categories]
 ---
-
-# Salesforce Knowledge Metadata API
 
 > You can manage articles, page layouts, and data categories with the Metadata
   API.

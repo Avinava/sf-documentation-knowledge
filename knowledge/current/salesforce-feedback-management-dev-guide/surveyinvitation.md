@@ -5,12 +5,10 @@ topic: surveyinvitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.639Z
+lastCollected: 2026-04-07T18:39:17.283Z
 estimatedTokens: 1307
-keywords: [SurveyInvitation, invitation, sent, participant, survey, Calls, Associated, Objects]
+keywords: [SurveyInvitation, invitation, sent, participant, survey]
 ---
-
-# SurveyInvitation
 
 > Represents the invitation sent to a participant to complete the
 			survey.

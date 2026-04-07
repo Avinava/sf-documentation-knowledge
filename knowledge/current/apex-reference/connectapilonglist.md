@@ -5,12 +5,10 @@ topic: connectapilonglist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.323Z
+lastCollected: 2026-04-07T18:36:05.667Z
 estimatedTokens: 94
 keywords: [ConnectApi.LongList, long]
 ---
-
-# ConnectApi.LongList
 
 > List of long values.
 

@@ -5,12 +5,10 @@ topic: subscribersunsubscribe
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.825Z
+lastCollected: 2026-04-07T18:40:23.245Z
 estimatedTokens: 146
 keywords: [Subscribers.Unsubscribe, Function, Ordinal, Attribute, containing, Email, address, subscriber, JSON, EmailAddress, SubscriberKey, subscri, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Unsubscribe
 
 > Subscribers.Unsubscribe(1)
 

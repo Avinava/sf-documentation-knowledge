@@ -5,12 +5,10 @@ topic: create-flow-local-actions-using-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.968Z
+lastCollected: 2026-04-07T18:38:02.921Z
 estimatedTokens: 830
-keywords: [Flow, Local, Actions, Aura, Components, execute, client-side, logic, build, modify, custom, flows, data, third-party, systems]
+keywords: [Flow, Local, Actions, Aura, execute, client-side, logic, build, modify, flows, third-party, systems, going, Salesforce, server, open, URL, another, browser, tab, Once, configure, component’s, markup, controller, design, resource, it’s, Builder, Core, Action]
 ---
-
-# Create Flow Local Actions Using Aura Components
 
 > To execute client-side logic in your flow, build or modify custom Aura components to use
   as local actions in flows. For example, get data from third-party systems without going through

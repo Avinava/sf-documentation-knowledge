@@ -5,12 +5,10 @@ topic: connectapiinsurancecommissionprocessinginputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.067Z
+lastCollected: 2026-04-07T18:37:49.896Z
 estimatedTokens: 113
-keywords: [Input, representation, insurance, commission, processing, resource, includes, commissionStatementIds, process, data]
+keywords: [insurance, commission, processing, resource, includes, commissionStatementIds, process]
 ---
-
-# ConnectApi.InsuranceCommissionProcessingInputRepresentation
 
 > Input representation details of the insurance commission processing resource. The input
     includes the commissionStatementIds property required to

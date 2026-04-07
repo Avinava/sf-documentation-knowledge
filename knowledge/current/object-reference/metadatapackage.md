@@ -5,12 +5,10 @@ topic: metadatapackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.442Z
+lastCollected: 2026-04-07T18:38:35.689Z
 estimatedTokens: 382
-keywords: [MetadataPackage, package, developed, org, you’re, logged, unlocked, unmanaged, first-generation, second-generation, managed, packages, Calls, Usage]
+keywords: [MetadataPackage, package, developed, org, you’re, logged, unlocked, unmanaged, first-generation, second-generation, managed, packages]
 ---
-
-# MetadataPackage
 
 > Represents a  package that has been developed in the org you’re logged
 			in to. Applies to unlocked, unmanaged, first-generation, and second-generation managed

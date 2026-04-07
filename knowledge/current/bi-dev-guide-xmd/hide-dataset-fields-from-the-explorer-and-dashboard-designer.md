@@ -6,13 +6,10 @@ topic: hide-dataset-fields-from-the-explorer-and-dashboard-designer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.310Z
+lastCollected: 2026-04-07T18:37:02.872Z
 estimatedTokens: 495
 keywords: [Hide, Dataset, Explorer, Dashboard, Designer, users, can’t, select, building, queries, dashboards]
 ---
-
-# Hide Dataset Fields from the Explorer and Dashboard
-    Designer
 
 > By default, all dataset fields are available in the UI. But you can hide fields so that
     users can’t select them when building queries and dashboards.

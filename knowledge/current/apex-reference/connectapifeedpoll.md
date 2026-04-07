@@ -5,12 +5,10 @@ topic: connectapifeedpoll
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.290Z
+lastCollected: 2026-04-07T18:36:06.643Z
 estimatedTokens: 261
-keywords: [ConnectApi.FeedPoll, Attachment, ConnectApi.FeedItem, objects, PollPost]
+keywords: [ConnectApi.FeedPoll, Attachment, ConnectApi.FeedItem, PollPost]
 ---
-
-# ConnectApi.FeedPoll
 
 > Attachment of ConnectApi.FeedItem objects where
     the type property is PollPost.

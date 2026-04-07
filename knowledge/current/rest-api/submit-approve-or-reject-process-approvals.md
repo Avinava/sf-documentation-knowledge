@@ -5,12 +5,10 @@ topic: submit-approve-or-reject-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.728Z
+lastCollected: 2026-04-07T18:36:20.970Z
 estimatedTokens: 925
-keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, entity, supports, approval, defined, Records, approved, rejected]
+keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, entity, supports, approval, defined, Records, approved, rejected, current, user, assigned, approver, resource, REST, API, 30.0]
 ---
-
-# Submit, Approve, or Reject Process Approvals
 
 > Submits a particular record both if its entity supports
       an approval process and the entity has a defined approval process. Records can be approved and

@@ -5,12 +5,10 @@ topic: eventstagedinviteeemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.949Z
+lastCollected: 2026-04-07T18:38:31.870Z
 estimatedTokens: 563
-keywords: [EventStagedInviteeEmail, relationship, event, email, address, invited, doesn’t, match, user, contact, lead, record, Data, unmatched, represented]
+keywords: [EventStagedInviteeEmail, relationship, event, email, address, invited, doesn’t, match, user, contact, lead, record, unmatched, represented, StagedInviteeEmail, event-related, invitee's, attendance, API, 66.0]
 ---
-
-# EventStagedInviteeEmail
 
 > Represents the relationship between an event and an email address invited to
          the event that doesn’t match to a user, contact, or lead record. Data about the unmatched

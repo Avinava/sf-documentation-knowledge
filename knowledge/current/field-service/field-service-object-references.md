@@ -5,12 +5,10 @@ topic: field-service-object-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.007Z
+lastCollected: 2026-04-07T18:36:46.874Z
 estimatedTokens: 207
-keywords: [Service, References, standard, custom, Salesforce, objects]
+keywords: [Service, References, standard, Salesforce]
 ---
-
-# Field Service Object References
 
 > Object reference for standard and custom Salesforce objects used in Field
   Service.

@@ -5,13 +5,11 @@ topic: scratchorginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.021Z
+lastCollected: 2026-04-07T18:38:40.609Z
 estimatedTokens: 2829
 namespace: Type
-keywords: [ScratchOrgInfo, scratch, org, audit, log, keep, creation, deletion, API, version, 41.0, later, Calls, Associated, Objects]
+keywords: [ScratchOrgInfo, scratch, org, audit, log, keep, creation, deletion, API, 41.0]
 ---
-
-# ScratchOrgInfo
 
 > Represents a scratch org and its audit log. Use this object to
 			create a scratch org and keep a log of its creation and deletion. This object is

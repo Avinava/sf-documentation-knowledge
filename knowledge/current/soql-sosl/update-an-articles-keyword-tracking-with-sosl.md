@@ -5,12 +5,10 @@ topic: update-an-articles-keyword-tracking-with-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.384Z
+lastCollected: 2026-04-07T18:40:10.349Z
 estimatedTokens: 227
-keywords: [Article’s, Keyword, Tracking, SOSL, Track, keywords, Salesforce, Knowledge, article, searches, clause, query, language, attribute, search]
+keywords: [Article’s, Keyword, SOSL, Track, keywords, Salesforce, Knowledge, article, searches, clause, query, language, attribute, search, locale]
 ---
-
-# Update an Article’s Keyword Tracking with SOSL
 
 > Track keywords that are used in Salesforce Knowledge  article searches with the UPDATE TRACKING optional clause on a SOSL query. You can use the
   language attribute to search by locale.

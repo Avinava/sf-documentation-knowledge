@@ -5,12 +5,10 @@ topic: contentsourcefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.895Z
+lastCollected: 2026-04-07T18:39:35.356Z
 estimatedTokens: 359
-keywords: [ContentSourceFeed, Feed, tracking, ContentSource]
+keywords: [ContentSourceFeed, ContentSource]
 ---
-
-# ContentSourceFeed
 
 > Feed tracking for ContentSource.
 

@@ -5,12 +5,10 @@ topic: group-census-group-class-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.298Z
+lastCollected: 2026-04-07T18:37:52.465Z
 estimatedTokens: 525
-keywords: [Group, Census, Summary, Output, representation, data, aggregated]
+keywords: [Group, Census, Summary, aggregated]
 ---
-
-# Group Census Group Class Summary
 
 > Output representation of census summary data aggregated by group class.
 

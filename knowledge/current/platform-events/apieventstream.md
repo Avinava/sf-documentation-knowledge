@@ -5,12 +5,10 @@ topic: apieventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.746Z
+lastCollected: 2026-04-07T18:38:58.628Z
 estimatedTokens: 2787
-keywords: [ApiEventStream, Tracks, user-initiated, read-only, API, calls, query, queryMore, count, Captures, requests, SOAP, Bulk, Enterprise, Partner]
+keywords: [ApiEventStream, Tracks, user-initiated, read-only, API, query, queryMore, count, Captures, requests, SOAP, Bulk, Enterprise, Partner, WSDLs, Tooling, originating, Salesforce, mobile, app, aren’t, captured, 46.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# ApiEventStream
 
 > Tracks these user-initiated read-only API calls: query(), queryMore(), and count(). Captures
 			API requests through SOAP API and Bulk API for the Enterprise and Partner WSDLs. Tooling

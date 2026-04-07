@@ -5,12 +5,10 @@ topic: internalorganizationunitshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.013Z
+lastCollected: 2026-04-07T18:39:45.573Z
 estimatedTokens: 164
 keywords: [InternalOrganizationUnitShare, Sharing, InternalOrganizationUnit]
 ---
-
-# InternalOrganizationUnitShare
 
 > Sharing for InternalOrganizationUnit.
 

@@ -5,12 +5,10 @@ topic: error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.189Z
+lastCollected: 2026-04-07T18:38:20.946Z
 estimatedTokens: 98
-keywords: [Error, Output, representation, errors, encountered, API]
+keywords: [Error, errors, encountered, API]
 ---
-
-# Error Details
 
 > Output representation of the errors encountered during an API request.
 

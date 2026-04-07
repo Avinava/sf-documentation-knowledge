@@ -5,12 +5,10 @@ topic: salesforce-crm-financial-account-role-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.146Z
+lastCollected: 2026-04-07T18:35:53.080Z
 estimatedTokens: 284
-keywords: [Salesforce, CRM, Financial, Account, Role, Mappings, data, FinancialAccountRole, DLO, found, Services, Cloud, bundle, Connector, Usage]
+keywords: [Salesforce, CRM, Financial, Account, Role, Mappings, FinancialAccountRole, DLO, found, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Financial Account Role Mappings
 
 > These data mappings are for the FinancialAccountRole DLO found in Financial Services
   Cloud  bundle of the Salesforce CRM Connector for Data Cloud.

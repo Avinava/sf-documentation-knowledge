@@ -5,12 +5,10 @@ topic: shopping-cart-event-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.564Z
+lastCollected: 2026-04-07T18:35:54.625Z
 estimatedTokens: 339
-keywords: [Shopping, Cart, Event, DMO, Data, Cloud, model, customer, interacts, commerce, site’s, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Shopping, Cart, Event, DMO, Cloud, model, customer, interacts, commerce, site’s, API, Primary, Subject, Area, Key]
 ---
-
-# Shopping Cart Event Type DMO
 
 > The Shopping Cart Event Type DMO is a Data Cloud data model object (DMO)
       for when a customer interacts with a commerce site’s shopping cart.

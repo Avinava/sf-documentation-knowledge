@@ -5,12 +5,10 @@ topic: loyaltyprogrammembermergeshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.149Z
+lastCollected: 2026-04-07T18:39:47.575Z
 estimatedTokens: 255
 keywords: [LoyaltyProgramMemberMergeShare, Sharing, LoyaltyProgramMemberMerge]
 ---
-
-# LoyaltyProgramMemberMergeShare
 
 > Sharing for LoyaltyProgramMemberMerge.
 

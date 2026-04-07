@@ -5,12 +5,10 @@ topic: between-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.949Z
+lastCollected: 2026-04-07T18:37:01.562Z
 estimatedTokens: 907
-keywords: [Operator, check, whether, fall, range, accepts, numeric, date, data, aggregate, window, math, functions, TIMESTAMP, EXTRACT]
+keywords: [Operator, check, whether, fall, range, accepts, numeric, date, aggregate, window, math, functions, TIMESTAMP, EXTRACT, Asymmetric, Symmetric]
 ---
-
-# BETWEEN Operator
 
 > Use BETWEEN to check whether values fall within a
   given range. BETWEEN accepts numeric, string, and date data

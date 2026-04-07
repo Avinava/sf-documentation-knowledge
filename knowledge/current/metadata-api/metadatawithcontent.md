@@ -5,12 +5,10 @@ topic: metadatawithcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.074Z
+lastCollected: 2026-04-07T18:36:27.594Z
 estimatedTokens: 472
-keywords: [MetadataWithContent, base, metadata, contain, content, documents, email, templates, extends, can’t, edit, Version, Wildcard, Support, Manifest]
+keywords: [MetadataWithContent, base, metadata, contain, content, documents, email, templates, extends, can’t, edit, Wildcard, Support, Manifest, File]
 ---
-
-# MetadataWithContent
 
 > MetadataWithContent is the base type for all
    metadata types that contain content, such as documents or email templates. It extends

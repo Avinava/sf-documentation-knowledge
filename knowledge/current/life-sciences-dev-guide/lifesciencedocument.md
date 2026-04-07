@@ -5,12 +5,10 @@ topic: lifesciencedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.872Z
+lastCollected: 2026-04-07T18:38:00.651Z
 estimatedTokens: 901
-keywords: [LifeScienceDocument, signed, document, stores, Calls]
+keywords: [LifeScienceDocument, signed, document, stores]
 ---
-
-# LifeScienceDocument
 
 > Represents a signed document and stores document fields.
 

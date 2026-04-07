@@ -5,12 +5,10 @@ topic: userdefinedlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:10.248Z
+lastCollected: 2026-04-07T18:40:05.084Z
 estimatedTokens: 350
-keywords: [UserDefinedLabel, label, created, user, help, organize, track, records, API, version, 61.0, later]
+keywords: [UserDefinedLabel, label, created, user, help, organize, track, records, API, 61.0]
 ---
-
-# UserDefinedLabel
 
 > Represents a label created by a user to help organize, track, and
          find records. This object is available in API version 61.0 and later.

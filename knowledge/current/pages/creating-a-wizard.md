@@ -5,12 +5,10 @@ topic: creating-a-wizard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.844Z
+lastCollected: 2026-04-07T18:38:52.157Z
 estimatedTokens: 1999
-keywords: [Creating, Wizard, Visualforce, markup, custom, three-step, users, opportunity, time, contact, account, role, Controller, Step, Two]
+keywords: [Creating, Wizard, Visualforce, markup, three-step, users, opportunity, time, contact, account, role, Controller, Step, Two, Three]
 ---
-
-# Creating a Wizard
 
 > Use Visualforce markup to create a custom, three-step wizard that
     allows users to create an opportunity at the same time as a related contact,

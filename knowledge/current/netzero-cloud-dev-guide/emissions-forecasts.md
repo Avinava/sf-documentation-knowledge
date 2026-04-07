@@ -5,12 +5,10 @@ topic: emissions-forecasts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.132Z
+lastCollected: 2026-04-07T18:38:16.704Z
 estimatedTokens: 4754
-keywords: [Emissions, Forecasts, forecast, past, present, predict, how, business, grow, future, Generate, carbon, footprint, commitment, targets]
+keywords: [Measures, Emissions, Forecasts, forecast, past, present, predict, how, business, grow, future, Generate, carbon, footprint, commitment, targets, defined, period, formulas, calculate, per, requirements, company, Activities, Activity, Metric, Calculations, Different, Levels, Adjust, intensity, reduction, percentage, planned, programs, Manually, Forecasting, Calculation, Logic, Stationary, Assets]
 ---
-
-# Emissions Forecasts
 
 > You can forecast emissions based on your past and present emissions and predict how your
   business will grow in the future. Generate forecasts for your emissions based on your carbon

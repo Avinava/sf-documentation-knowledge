@@ -5,12 +5,10 @@ topic: surveys-for-unauthenticated-participants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.563Z
+lastCollected: 2026-04-07T18:39:17.201Z
 estimatedTokens: 522
 keywords: [Surveys, Unauthenticated, Participants, Salesforce, Feedback, Management, SFM, unAuth, APIs, survey, invitations, enable, responses]
 ---
-
-# Surveys for Unauthenticated Participants
 
 > Use Salesforce Feedback Management (SFM) unAuth Response APIs to create survey
     invitations and to enable survey responses from unauthenticated participants.

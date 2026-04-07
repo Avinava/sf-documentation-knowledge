@@ -5,12 +5,10 @@ topic: add-the-service-sdk-frameworks-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.864Z
+lastCollected: 2026-04-07T18:40:27.992Z
 estimatedTokens: 645
 keywords: [Add, Service, SDK, Frameworks, Manually, embedding, appropriate]
 ---
-
-# Add the Service SDK Frameworks Manually
 
 > Add the SDK frameworks by manually embedding the appropriate frameworks.
 

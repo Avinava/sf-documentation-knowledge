@@ -5,12 +5,10 @@ topic: use-the-generation-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.653Z
+lastCollected: 2026-04-07T18:38:15.133Z
 estimatedTokens: 531
-keywords: [Generation, Workflow, divided, three, phases, Plan, Template, Selection, Setup, Design, Iterate]
+keywords: [Plan, Generation, Workflow, divided, three, phases, Template, Selection, Setup, Design, Iterate]
 ---
-
-# Use the Generation Workflow
 
 > The workflow is divided into three phases: Plan, Template Selection and Setup, and
     Design and Iterate.

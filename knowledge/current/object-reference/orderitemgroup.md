@@ -5,12 +5,10 @@ topic: orderitemgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.683Z
+lastCollected: 2026-04-07T18:38:36.928Z
 estimatedTokens: 425
-keywords: [OrderItemGroup, Stores, group, line, items, order, aggregated, subtotal, parent-child, relationship, API, version, 62.0, later, Calls]
+keywords: [OrderItemGroup, Stores, group, line, items, order, aggregated, subtotal, parent-child, relationship, API, 62.0]
 ---
-
-# OrderItemGroup
 
 > Stores the group information for line items in an order. It also stores the
          aggregated line field information (subtotal). It contains a parent-child relationship to

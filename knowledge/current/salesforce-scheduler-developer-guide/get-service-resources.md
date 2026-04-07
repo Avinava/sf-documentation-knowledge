@@ -5,12 +5,10 @@ topic: get-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.413Z
+lastCollected: 2026-04-07T18:39:21.227Z
 estimatedTokens: 453
-keywords: [Service, Resources, resource, employee, organization, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store, specialist, Retrieve, selected, work, group, territory]
+keywords: [Service, Resources, resource, employee, organization, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store, specialist, attends, appointments, clients, Retrieve, selected, work, group, territory]
 ---
-
-# Get Service Resources
 
 > Retrieve the available service resources based on the selected work
       type group or work type, and service territory.

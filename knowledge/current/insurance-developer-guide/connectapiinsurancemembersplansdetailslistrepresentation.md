@@ -5,12 +5,10 @@ topic: connectapiinsurancemembersplansdetailslistrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.665Z
+lastCollected: 2026-04-07T18:37:50.545Z
 estimatedTokens: 94
 keywords: [wrapper, members, their, eligible, plans]
 ---
-
-# ConnectApi.InsuranceMembersPlansDetailsListRepresentation
 
 > A wrapper for a list of members and their eligible plans.
 

@@ -5,13 +5,11 @@ topic: addressrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.472Z
+lastCollected: 2026-04-07T18:36:01.708Z
 estimatedTokens: 1978
 namespace: CommercePayments
-keywords: [AddressRequest, address, data, sent, gateway, adapter, service, call, Usage, street, city, state, country, postalCode, companyName]
+keywords: [AddressRequest, address, sent, gateway, adapter, service, call, street, city, state, country, postalCode, companyName, equals, obj, hashCode, toString]
 ---
-
-# AddressRequest Class
 
 > Contains address request data that is sent to a gateway adapter during
       a service call.

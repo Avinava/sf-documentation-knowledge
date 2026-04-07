@@ -5,12 +5,10 @@ topic: apexextlcallouteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.533Z
+lastCollected: 2026-04-07T18:38:25.425Z
 estimatedTokens: 944
-keywords: [ApexExtlCalloutEventLog, Apex, Extl, Callout, EventLog, represent, external, data, callouts, via, custom, adapters, Salesforce, Connect, API]
+keywords: [ApexExtlCalloutEventLog, Apex, Extl, Callout, EventLog, represent, external, callouts, via, adapters, Salesforce, Connect, API, 61.0]
 ---
-
-# ApexExtlCalloutEventLog
 
 > Apex Extl Callout EventLog represent external data callouts via custom
          adapters for Salesforce Connect. This object is available in API version 61.0 and

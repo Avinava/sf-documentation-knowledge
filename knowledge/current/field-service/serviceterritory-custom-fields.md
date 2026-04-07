@@ -5,12 +5,10 @@ topic: serviceterritory-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:00.765Z
+lastCollected: 2026-04-07T18:36:46.618Z
 estimatedTokens: 793
-keywords: [ServiceTerritory, Custom, associated, geographic, functional, region, service, work, performed, Calls, Special, Access, Rules, Internal]
+keywords: [ServiceTerritory, geographic, functional, region, service, work, performed, Internal]
 ---
-
-# ServiceTerritory Custom Fields
 
 > Custom fields associated with a geographic or functional region in which
          field service work can be performed in Field Service.

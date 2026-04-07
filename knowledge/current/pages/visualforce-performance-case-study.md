@@ -5,12 +5,10 @@ topic: visualforce-performance-case-study
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.642Z
+lastCollected: 2026-04-07T18:38:48.590Z
 estimatedTokens: 301
-keywords: [Visualforce, Performance, Case, Study, understand, how, optimizations, work, together, examine, ways, reduce, load, time, large]
+keywords: [Visualforce, Performance, Case, Study, understand, how, optimizations, work, together, examine, ways, reduce, load, time, large, grid, complex, hierarchy]
 ---
-
-# Visualforce Performance Case Study
 
 > To understand how Visualforce performance optimizations work together, examine ways to
     reduce the load time of a page with a large data grid and a complex object

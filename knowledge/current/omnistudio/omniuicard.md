@@ -5,12 +5,10 @@ topic: omniuicard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.235Z
+lastCollected: 2026-04-07T18:36:44.972Z
 estimatedTokens: 65
 keywords: [OmniUiCard, internal]
 ---
-
-# OmniUiCard
 
 > For internal use only.
 

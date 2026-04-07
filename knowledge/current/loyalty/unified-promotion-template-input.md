@@ -5,12 +5,10 @@ topic: unified-promotion-template-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.173Z
+lastCollected: 2026-04-07T18:38:07.401Z
 estimatedTokens: 314
-keywords: [Unified, Promotion, Template, Input, representation]
+keywords: [Unified, Promotion, Template]
 ---
-
-# Unified Promotion Template Input
 
 > Input representation of the unified promotion template.
 

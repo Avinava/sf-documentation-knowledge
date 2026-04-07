@@ -5,12 +5,10 @@ topic: financetransactionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.871Z
+lastCollected: 2026-04-07T18:39:40.502Z
 estimatedTokens: 252
 keywords: [FinanceTransactionShare, Sharing, FinanceTransaction]
 ---
-
-# FinanceTransactionShare
 
 > Sharing for FinanceTransaction.
 

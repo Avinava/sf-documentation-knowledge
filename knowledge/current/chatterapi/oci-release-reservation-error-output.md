@@ -5,12 +5,10 @@ topic: oci-release-reservation-error-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.072Z
+lastCollected: 2026-04-07T18:37:21.225Z
 estimatedTokens: 123
-keywords: [OCI, Release, Reservation, Error, Output, inventory]
+keywords: [OCI, Release, Reservation, Error, inventory]
 ---
-
-# OCI Release Reservation Error Output
 
 > Response to a request to release one inventory
     reservation.

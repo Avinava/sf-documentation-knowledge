@@ -5,12 +5,10 @@ topic: lifesciemailtmplsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.833Z
+lastCollected: 2026-04-07T18:38:00.616Z
 estimatedTokens: 1256
-keywords: [LifeSciEmailTmplSnapshot, Stores, different, versions, email, template, tracking, purposes, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LifeSciEmailTmplSnapshot, Stores, different, versions, email, template, purposes, API, 65.0]
 ---
-
-# LifeSciEmailTmplSnapshot
 
 > Stores the different versions of an email template for tracking
          purposes. This object is available in API version 65.0 and later.

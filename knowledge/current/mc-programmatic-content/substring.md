@@ -5,12 +5,10 @@ topic: substring
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.502Z
+lastCollected: 2026-04-07T18:40:21.794Z
 estimatedTokens: 164
-keywords: [Substring, Function, Ordinal, Initial, numeric, Character, position, begin, Maximum, **Overview**, **Syntax**, Usage]
+keywords: [Substring, Function, Ordinal, Initial, numeric, Character, position, begin, Maximum, **Overview**, **Syntax**]
 ---
-
-# Substring
 
 > Substring(1, 2, 3)
 

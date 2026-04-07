@@ -5,12 +5,10 @@ topic: managed-content-channel-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.063Z
+lastCollected: 2026-04-07T18:37:20.252Z
 estimatedTokens: 465
 keywords: [Managed, Content, Channel, Summary]
 ---
-
-# Managed Content Channel Summary
 
 > Managed content channel.
 

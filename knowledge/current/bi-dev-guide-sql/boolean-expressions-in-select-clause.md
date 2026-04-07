@@ -5,12 +5,10 @@ topic: boolean-expressions-in-select-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.955Z
+lastCollected: 2026-04-07T18:37:01.568Z
 estimatedTokens: 204
 keywords: [Expressions, SELECT, Clause, expression, logical, statement, either]
 ---
-
-# Boolean Expressions in SELECT Clause
 
 > A boolean expression is a logical statement that returns either
    true or

@@ -5,12 +5,10 @@ topic: ocr-sampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.812Z
+lastCollected: 2026-04-07T18:39:03.930Z
 estimatedTokens: 96
-keywords: [OCR, SampleDocument, Output, representation, sample, document, associated, template]
+keywords: [OCR, SampleDocument, sample, document, template]
 ---
-
-# OCR SampleDocument
 
 > Output representation of the OCR sample document associated with the
    OCR template.

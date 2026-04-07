@@ -5,12 +5,10 @@ topic: program-rebate-type-validation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.095Z
+lastCollected: 2026-04-07T18:37:05.795Z
 estimatedTokens: 220
-keywords: [Program, Rebate, Validation, POST, Validates, setup, configuration, applicable, rules, specific]
+keywords: [Program, Rebate, Validation, POST, Validates, setup, configuration, applicable, specific]
 ---
-
-# Program Rebate Type Validation (POST)
 
 > Validates the setup, configuration, and applicable rules of a specific program rebate
     type.

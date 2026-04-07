@@ -5,12 +5,10 @@ topic: workercompcoverageclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.575Z
+lastCollected: 2026-04-07T18:40:07.518Z
 estimatedTokens: 418
-keywords: [WorkerCompCoverageClass, compensation, coverage, worker, belongs, API, version, 60.0, later]
+keywords: [WorkerCompCoverageClass, compensation, coverage, worker, belongs, API, 60.0]
 ---
-
-# WorkerCompCoverageClass
 
 > Represents the compensation coverage class that a worker belongs to.
       This object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: billingtreatmentitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.571Z
+lastCollected: 2026-04-07T18:39:29.728Z
 estimatedTokens: 270
-keywords: [BillingTreatmentItemHistory, History, tracked, BillingTreatmentItem]
+keywords: [BillingTreatmentItemHistory, tracked, BillingTreatmentItem]
 ---
-
-# BillingTreatmentItemHistory
 
 > History for tracked fields of BillingTreatmentItem.
 

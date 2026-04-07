@@ -5,12 +5,10 @@ topic: enable-the-authorization-code-and-credentials-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.365Z
+lastCollected: 2026-04-07T18:37:39.297Z
 estimatedTokens: 243
 keywords: [Enable, Authorization, Code, Credentials, Flow, foundation, headless, login, registration, org-wide, level]
 ---
-
-# Enable the Authorization Code and Credentials Flow
 
 > The Authorization Code and Credentials Flow is the foundation of headless login and
     headless registration. Enable this flow at an org-wide level.

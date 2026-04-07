@@ -5,12 +5,10 @@ topic: before-you-begin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.755Z
+lastCollected: 2026-04-07T18:37:26.705Z
 estimatedTokens: 904
-keywords: [Begin, developing, custom, Experience, Builder, sites, ensure, you’re, familiar, Lightning, Resources, Development, Cloud]
+keywords: [Begin, developing, Experience, Builder, sites, ensure, you’re, familiar, Lightning, Resources, Development, Cloud]
 ---
-
-# Before You Begin
 
 > Before you begin developing custom Experience Builder sites, ensure that you’re
     familiar with developing in Lightning.

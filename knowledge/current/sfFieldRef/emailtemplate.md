@@ -5,13 +5,11 @@ topic: emailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.252Z
+lastCollected: 2026-04-07T18:39:38.922Z
 estimatedTokens: 571
 namespace: NamespacePrefix
 keywords: [EmailTemplate, template, email, mass, Sales, Engagement, first-generation, managed, packages]
 ---
-
-# EmailTemplate
 
 > Represents a template for an email, mass email, list email, or Sales Engagement
    email. Supported in first-generation managed packages

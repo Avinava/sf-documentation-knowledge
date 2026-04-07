@@ -5,13 +5,11 @@ topic: using-the-system-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.360Z
+lastCollected: 2026-04-07T18:36:16.576Z
 estimatedTokens: 690
 namespace: System
 keywords: [System, Apex, means, omit, creating, new, instance, calling, because, built-in, URL, statements, Disambiguation]
 ---
-
-# Using the System Namespace
 
 > The System namespace is
 the default namespace in Apex. This means that you can omit the namespace when creating a new

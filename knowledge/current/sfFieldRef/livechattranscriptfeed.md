@@ -5,12 +5,10 @@ topic: livechattranscriptfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.971Z
+lastCollected: 2026-04-07T18:39:46.528Z
 estimatedTokens: 362
-keywords: [LiveChatTranscriptFeed, Feed, tracking, LiveChatTranscript]
+keywords: [LiveChatTranscriptFeed, LiveChatTranscript]
 ---
-
-# LiveChatTranscriptFeed
 
 > Feed tracking for LiveChatTranscript.
 

@@ -5,12 +5,10 @@ topic: dashboard-snapshot-item-data-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.467Z
+lastCollected: 2026-04-07T18:36:56.990Z
 estimatedTokens: 145
-keywords: [Dashboard, Snapshot, Item, Data, Row, Analytics]
+keywords: [Dashboard, Snapshot, Item, Row, Analytics]
 ---
-
-# Dashboard Snapshot Item Data Row
 
 > An Analytics dashboard snapshot item data row.
 

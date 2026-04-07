@@ -5,12 +5,10 @@ topic: posted-invoice-write-off-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.001Z
+lastCollected: 2026-04-07T18:35:47.018Z
 estimatedTokens: 112
-keywords: [Posted, Invoice, Write-Off, Error, Output, representation, that's, associated, write, off]
+keywords: [Posted, Invoice, Write-Off, Error, that's, write, off]
 ---
-
-# Posted Invoice Write-Off Error
 
 > Output representation of the error response that's associated with a request to write off
     a posted invoice.

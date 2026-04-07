@@ -5,12 +5,10 @@ topic: contactshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.734Z
+lastCollected: 2026-04-07T18:39:35.180Z
 estimatedTokens: 289
-keywords: [ContactShare, access, levels, Contact, along, explanation, level, record, because, own, ContactAccessLevel, RowCause, Owner]
+keywords: [ContactShare, levels, Contact, along, explanation, level, record, because, own, ContactAccessLevel, RowCause, Owner]
 ---
-
-# ContactShare
 
 > Represents a list of access levels to a Contact along with an
       explanation of the access level. For example, if you have access to a record because you own

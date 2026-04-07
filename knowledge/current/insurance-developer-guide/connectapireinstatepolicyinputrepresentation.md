@@ -5,12 +5,10 @@ topic: connectapireinstatepolicyinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.238Z
+lastCollected: 2026-04-07T18:37:50.077Z
 estimatedTokens: 318
-keywords: [Input, representation, reinstating, insurance, policy]
+keywords: [reinstating, insurance, policy]
 ---
-
-# ConnectApi.ReinstatePolicyInputRepresentation
 
 > Input representation for reinstating an insurance policy.
 

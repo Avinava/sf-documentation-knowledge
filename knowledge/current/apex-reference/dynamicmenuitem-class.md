@@ -5,12 +5,10 @@ topic: dynamicmenuitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.418Z
+lastCollected: 2026-04-07T18:36:02.626Z
 estimatedTokens: 1772
-keywords: [DynamicMenuItem, define, hold, dynamic, menu, item, identifiers, labels, summaries, sorting, logic, bots, present, context-aware, user-relevant]
+keywords: [EntityId, EntityIdValue, EntityName, EntityNameValue, Label, LabelValue, SummaryTextWithFormula, SummaryTextWithFormulaValue, DynamicMenuItem, define, hold, dynamic, menu, item, identifiers, labels, summaries, sorting, logic, bots, present, context-aware, user-relevant, choices, dynamically, conversations, sortByDate, sortByDateValue]
 ---
-
-# DynamicMenuItem Class
 
 > Contains properties to define and hold the details for a single dynamic menu item Each
     item contains information related to an object, such as identifiers, labels, summaries, and

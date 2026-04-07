@@ -5,12 +5,10 @@ topic: patch-messagingv1smsdefinitionsdefinitionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.667Z
+lastCollected: 2026-04-07T18:40:20.928Z
 estimatedTokens: 696
-keywords: [PATCH, messaging, sms, definitions, definitionKey, Updates, specific, message, definition, take, two, minutes, outbound, messages, reflect]
+keywords: [PATCH, messaging, sms, definitions, definitionKey, Updates, specific, message, definition, take, two, minutes, outbound, messages, reflect, changes, **Overview**, HTTP, Responses]
 ---
-
-# PATCH /messaging/v1/sms/definitions/{definitionKey}
 
 > Updates a specific message definition. It can take up to two minutes for outbound messages to reflect the changes.
 

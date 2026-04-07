@@ -5,12 +5,10 @@ topic: productitemtransactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.288Z
+lastCollected: 2026-04-07T18:39:55.860Z
 estimatedTokens: 364
-keywords: [ProductItemTransactionFeed, Feed, tracking, ProductItemTransaction]
+keywords: [ProductItemTransactionFeed, ProductItemTransaction]
 ---
-
-# ProductItemTransactionFeed
 
 > Feed tracking for ProductItemTransaction.
 

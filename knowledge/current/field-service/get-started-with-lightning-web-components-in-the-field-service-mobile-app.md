@@ -5,12 +5,10 @@ topic: get-started-with-lightning-web-components-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:02.603Z
+lastCollected: 2026-04-07T18:36:48.632Z
 estimatedTokens: 894
-keywords: [Started, Lightning, Web, Components, Service, Mobile, App, how, LWCs, offer, versatile, efficient, framework, meet, needs]
+keywords: [Started, Lightning, Web, Service, Mobile, App, how, LWCs, offer, versatile, efficient, framework, meet, needs, operations, enhancing, user, interfaces, extending, functionality]
 ---
-
-# Get Started with Lightning Web Components in the Field Service Mobile App
 
 > Learn how to create and use Lightning web components (LWCs) in the Field Service mobile
   app. LWCs offer a versatile and efficient framework to meet the needs of your Field Service

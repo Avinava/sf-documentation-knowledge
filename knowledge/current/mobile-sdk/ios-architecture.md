@@ -5,12 +5,10 @@ topic: ios-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.310Z
+lastCollected: 2026-04-07T18:40:27.492Z
 estimatedTokens: 335
-keywords: [iOS, Architecture, forceios, native, apps, CocoaPods, incorporates, modules, app, specify, clone, SalesforceMobileSDK-iOS, git, repo, project]
+keywords: [iOS, Architecture, forceios, native, apps, CocoaPods, incorporates, modules, app, specify, clone, SalesforceMobileSDK-iOS, git, repo, project, uses, dynamic, libraries]
 ---
-
-# iOS Architecture
 
 > If you use forceios to create native apps, CocoaPods incorporates the required modules based on
       the app type you specify. If you create native apps with a clone of the

@@ -5,12 +5,10 @@ topic: currentpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.222Z
+lastCollected: 2026-04-07T18:38:48.174Z
 estimatedTokens: 119
-keywords: [currentPage, current, page's, PageReference, $CurrentPage, merge, referencing, Visualforce, Usage]
+keywords: [currentPage, current, page's, PageReference, $CurrentPage, merge, referencing, Visualforce]
 ---
-
-# currentPage()
 
 > A global merge field type to use when referencing the current Visualforce page or page
   request.

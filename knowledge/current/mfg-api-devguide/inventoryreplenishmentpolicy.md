@@ -5,12 +5,10 @@ topic: inventoryreplenishmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.581Z
+lastCollected: 2026-04-07T18:38:13.897Z
 estimatedTokens: 1018
-keywords: [InventoryReplenishmentPolicy, policy, replenishing, inventory, quantity, reaches, minimum, level, API, version, 63.0, later, Calls, Special, Access]
+keywords: [InventoryReplenishmentPolicy, policy, replenishing, inventory, quantity, reaches, minimum, level, API, 63.0]
 ---
-
-# InventoryReplenishmentPolicy
 
 > Represents a policy for replenishing inventory when the inventory quantity
          reaches a minimum level. This object is available in API version 63.0 and

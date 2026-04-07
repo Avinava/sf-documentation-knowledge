@@ -5,12 +5,10 @@ topic: aggregate-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.231Z
+lastCollected: 2026-04-07T18:39:18.920Z
 estimatedTokens: 115
-keywords: [Aggregate, Node, data, recipe]
+keywords: [Aggregate, Node, recipe]
 ---
-
-# Aggregate Node
 
 > An aggregate data node in a recipe.
 

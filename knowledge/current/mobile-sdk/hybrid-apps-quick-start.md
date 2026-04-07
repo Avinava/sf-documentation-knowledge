@@ -5,12 +5,10 @@ topic: hybrid-apps-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.013Z
+lastCollected: 2026-04-07T18:40:25.382Z
 estimatedTokens: 868
 keywords: [Hybrid, Apps, Quick, Start, give, ease, JavaScript, HTML5, development, leveraging, Salesforce, Mobile, SDK]
 ---
-
-# Hybrid Apps Quick Start
 
 > Hybrid apps give you the ease of JavaScript and HTML5 development while leveraging
     Salesforce Mobile SDK

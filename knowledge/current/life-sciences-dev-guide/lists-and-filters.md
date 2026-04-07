@@ -5,12 +5,10 @@ topic: lists-and-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.695Z
+lastCollected: 2026-04-07T18:37:57.210Z
 estimatedTokens: 254
-keywords: [Filters, Quickly, identify, target, group, accounts, manually-curated, remain, fixed, Users, add, remove, individually, Dynamic, apply]
+keywords: [Filters, Quickly, identify, target, group, accounts, manually-curated, remain, fixed, Users, add, remove, individually, Dynamic, apply, updates, user, pre-defined, criteria, show, sortable, relevant, associate, tailored, actions, saving, time, efforts, removing, repetitive, manual, streamline, workflows, enabling, interact, act]
 ---
-
-# Lists and Filters
 
 > Quickly identify a target group of accounts by using Lists and Filters. Static lists are
   manually-curated lists of accounts that remain fixed. Users can add or remove accounts

@@ -5,12 +5,10 @@ topic: aura-component-continuations-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.604Z
+lastCollected: 2026-04-07T18:38:02.529Z
 estimatedTokens: 274
-keywords: [Aura, Component, Continuations, Here’s, markup, button, starts, process, calling, continuation]
+keywords: [Aura, Continuations, Here’s, markup, button, starts, process, calling, continuation]
 ---
-
-# Aura Component Continuations Example
 
 > Here’s the markup for a component with a button that starts the process of calling a
   continuation.

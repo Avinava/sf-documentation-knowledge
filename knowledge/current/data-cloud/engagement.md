@@ -5,12 +5,10 @@ topic: engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.537Z
+lastCollected: 2026-04-07T18:35:51.393Z
 estimatedTokens: 488
-keywords: [Engagement, Descriptions, how, Data, Cloud, Module, Mobile, SDK, events, map, event, definition, recommended, schema]
+keywords: [Engagement, Descriptions, how, Cloud, Module, Mobile, SDK, events, map, event, definition, recommended, schema]
 ---
-
-# Engagement
 
 > Descriptions for how the Data Cloud Module for Engagement Mobile SDK events
   map to each engagement event definition from the recommended mobile schema.

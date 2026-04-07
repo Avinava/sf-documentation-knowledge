@@ -5,12 +5,10 @@ topic: rgltycoderegclausever
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.762Z
+lastCollected: 2026-04-07T18:37:31.909Z
 estimatedTokens: 463
-keywords: [RgltyCodeRegClauseVer, junction, Regulatory, Code, Regulation, Clause, Version, objects, API, 63.0, later, Calls]
+keywords: [RgltyCodeRegClauseVer, junction, Regulatory, Code, Regulation, Clause, API, 63.0]
 ---
-
-# RgltyCodeRegClauseVer
 
 > Represents a junction between Regulatory Code and Regulation Clause Version
          objects. This object is available in API version 63.0 and later.

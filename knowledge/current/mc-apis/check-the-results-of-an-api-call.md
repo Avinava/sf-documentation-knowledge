@@ -5,12 +5,10 @@ topic: check-the-results-of-an-api-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.551Z
+lastCollected: 2026-04-07T18:40:15.651Z
 estimatedTokens: 396
 keywords: [Check, Results, API, Call, checking, Why, How, Sample, NET, Code]
 ---
-
-# Check the Results of an API Call
 
 > This page contains information  about checking the results of an API call.
 

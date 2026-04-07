@@ -5,12 +5,10 @@ topic: trainingcourseparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.500Z
+lastCollected: 2026-04-07T18:40:04.234Z
 estimatedTokens: 396
-keywords: [TrainingCourseParticipant, trainings, completed, person, API, version, 49.0, later]
+keywords: [TrainingCourseParticipant, trainings, completed, person, API, 49.0]
 ---
-
-# TrainingCourseParticipant
 
 > Represents the trainings completed by a person. This object is available
     in API version 49.0 and later.

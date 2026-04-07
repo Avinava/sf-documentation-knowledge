@@ -5,12 +5,10 @@ topic: formulary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.330Z
+lastCollected: 2026-04-07T18:38:00.035Z
 estimatedTokens: 865
-keywords: [Formulary, covered, payer's, health, insurance, plan, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [Formulary, covered, payer's, health, insurance, plan, API, 65.0]
 ---
-
-# Formulary
 
 > Represents the details of the formulary covered by the payer's health
          insurance plan. This object is available in API version 65.0 and later.

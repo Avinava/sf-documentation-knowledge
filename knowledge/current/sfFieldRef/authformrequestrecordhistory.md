@@ -5,12 +5,10 @@ topic: authformrequestrecordhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.456Z
+lastCollected: 2026-04-07T18:39:28.529Z
 estimatedTokens: 276
-keywords: [AuthFormRequestRecordHistory, History, tracked, AuthFormRequestRecord]
+keywords: [AuthFormRequestRecordHistory, tracked, AuthFormRequestRecord]
 ---
-
-# AuthFormRequestRecordHistory
 
 > History for tracked fields of AuthFormRequestRecord.
 

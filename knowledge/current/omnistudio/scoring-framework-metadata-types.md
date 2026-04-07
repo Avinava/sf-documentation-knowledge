@@ -5,12 +5,10 @@ topic: scoring-framework-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.912Z
+lastCollected: 2026-04-07T18:36:43.641Z
 estimatedTokens: 188
 keywords: [Scoring, Framework, Metadata, define, machine, learning, model, that’s, generate, scores, predictive, cases]
 ---
-
-# Scoring Framework Metadata Types
 
 > Use the Scoring Framework metadata types to define the machine learning
    model that’s used to generate scores for your predictive use cases.

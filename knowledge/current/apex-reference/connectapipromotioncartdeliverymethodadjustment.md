@@ -5,12 +5,10 @@ topic: connectapipromotioncartdeliverymethodadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.233Z
+lastCollected: 2026-04-07T18:36:07.601Z
 estimatedTokens: 170
 keywords: [Adjustment, cart, delivery, promotion]
 ---
-
-# ConnectApi.PromotionCartDeliveryMethodAdjustment
 
 > Adjustment for a cart delivery method in a promotion.
 

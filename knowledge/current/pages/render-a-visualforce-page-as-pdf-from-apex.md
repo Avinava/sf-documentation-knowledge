@@ -5,12 +5,10 @@ topic: render-a-visualforce-page-as-pdf-from-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.556Z
+lastCollected: 2026-04-07T18:38:51.856Z
 estimatedTokens: 1208
-keywords: [Render, Visualforce, PDF, Apex, PageReference.getContentAsPDF, data, code, convert, email, attachment, document, Chatter, post]
+keywords: [Render, Visualforce, PDF, Apex, PageReference.getContentAsPDF, code, convert, email, attachment, document, Chatter, post]
 ---
-
-# Render a Visualforce Page as PDF from Apex
 
 > You can use the PageReference.getContentAsPDF() method in Apex to render a Visualforce page as
         PDF data. Then use Apex code to convert that PDF data to an email attachment, a document, a

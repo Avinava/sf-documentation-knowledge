@@ -5,12 +5,10 @@ topic: webstorepricebook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.706Z
+lastCollected: 2026-04-07T18:40:06.603Z
 estimatedTokens: 290
 keywords: [WebStorePricebook, store, price, book, Lightning, B2B, Commerce]
 ---
-
-# WebStorePricebook
 
 > Represents a store price book used in Lightning B2B Commerce.
 

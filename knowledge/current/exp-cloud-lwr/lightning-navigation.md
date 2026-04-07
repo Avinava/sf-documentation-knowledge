@@ -5,12 +5,10 @@ topic: lightning-navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.061Z
+lastCollected: 2026-04-07T18:37:33.397Z
 estimatedTokens: 656
-keywords: [Lightning, Navigation, API, navigate, different, pages, site, generate, URLs, routes, current, pageReference, Limitations]
+keywords: [Limitations, Lightning, Navigation, API, navigate, different, pages, site, generate, URLs, routes, current, pageReference]
 ---
-
-# Lightning Navigation
 
 > Use the lightning/navigation API to navigate
     to different pages within your site, generate URLs to different routes, and get the current

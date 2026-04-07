@@ -5,12 +5,10 @@ topic: getaccountsets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.751Z
+lastCollected: 2026-04-07T18:39:11.285Z
 estimatedTokens: 152
-keywords: [getAccountSets, account, target, promotion, timeframe, calculated, difference, days, original, date, new, Input, Sample, period, defined, input]
+keywords: [getAccountSets, account, target, promotion, timeframe, calculated, difference, days, original, date, new, Sample, period, defined]
 ---
-
-# getAccountSets
 
 > This method returns the list of account sets valid for the target promotion. Target
   promotion timeframe is calculated by the difference in days between the original promotion date

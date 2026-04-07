@@ -5,12 +5,10 @@ topic: generic-object-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.037Z
+lastCollected: 2026-04-07T18:36:39.720Z
 estimatedTokens: 73
-keywords: [Generic, Output, attributes]
+keywords: [Generic, attributes]
 ---
-
-# Generic Object Output
 
 > Output for generic object attributes.
 

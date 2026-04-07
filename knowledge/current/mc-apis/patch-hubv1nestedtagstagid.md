@@ -5,12 +5,10 @@ topic: patch-hubv1nestedtagstagid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.875Z
+lastCollected: 2026-04-07T18:40:18.061Z
 estimatedTokens: 529
-keywords: [PATCH, hub, nestedtags, tagId, Updates, tag, Provide, changed, **Overview**, Usage]
+keywords: [PATCH, hub, nestedtags, tagId, Updates, tag, Provide, changed, **Overview**]
 ---
-
-# PATCH /hub/v1/nestedtags/{tagId}
 
 > Updates an existing tag. Provide only the tag fields to be changed.
 

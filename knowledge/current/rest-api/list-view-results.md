@@ -5,12 +5,10 @@ topic: list-view-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.620Z
+lastCollected: 2026-04-07T18:36:20.854Z
 estimatedTokens: 171
-keywords: [View, Results, Executes, SOQL, query, resulting, data, presentation, resource, REST, API, version, 32.0, later]
+keywords: [View, Results, Executes, SOQL, query, resulting, presentation, resource, REST, API, 32.0]
 ---
-
-# List View Results
 
 > Executes the SOQL query for the list view and returns the resulting data and
     presentation information. This resource is available in REST API version 32.0 and

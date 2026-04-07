@@ -5,12 +5,10 @@ topic: basic-navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.217Z
+lastCollected: 2026-04-07T18:38:03.222Z
 estimatedTokens: 988
-keywords: [Basic, Navigation, pageReference, JavaScript, URL, instead, parsing, creating, directly, approach, helps, avoid, broken, Salesforce, changes]
+keywords: [Basic, Navigation, pageReference, JavaScript, URL, instead, parsing, creating, directly, approach, helps, avoid, broken, Salesforce, changes, formats, future]
 ---
-
-# Basic Navigation
 
 > The pageReference JavaScript object represents
     a URL for a page. You can use a pageReference instead of

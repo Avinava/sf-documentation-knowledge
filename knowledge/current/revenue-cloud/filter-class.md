@@ -5,12 +5,10 @@ topic: filter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.209Z
+lastCollected: 2026-04-07T18:35:41.075Z
 estimatedTokens: 429
 keywords: [Filter, criteria, store, records]
 ---
-
-# Filter Class
 
 > Contains the criteria property to store the details of a filter criteria, which is used
     to filter records.

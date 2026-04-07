@@ -5,12 +5,10 @@ topic: debuglevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.926Z
+lastCollected: 2026-04-07T18:36:32.382Z
 estimatedTokens: 1138
-keywords: [DebugLevel, log, category, levels, assign, TraceFlag, Multiple, trace, flags, debug, level, SOAP, API, Calls, REST]
+keywords: [DebugLevel, log, category, levels, assign, TraceFlag, Multiple, trace, flags, debug, level, SOAP, API, REST, HTTP]
 ---
-
-# DebugLevel
 
 > Represents a set of log category levels to assign to a TraceFlag object. Multiple trace flags can use a debug
          level.

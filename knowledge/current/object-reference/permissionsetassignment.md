@@ -5,12 +5,10 @@ topic: permissionsetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.622Z
+lastCollected: 2026-04-07T18:38:37.960Z
 estimatedTokens: 1285
-keywords: [PermissionSetAssignment, user’s, assignment, permission, group, API, version, 22.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [PermissionSetAssignment, user’s, assignment, permission, group, API, 22.0]
 ---
-
-# PermissionSetAssignment
 
 > Represents a user’s assignment to a permission set or permission set
    group. This object is available in API version 22.0 and later.

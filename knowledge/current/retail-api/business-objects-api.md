@@ -5,12 +5,10 @@ topic: business-objects-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:17.342Z
+lastCollected: 2026-04-07T18:39:10.826Z
 estimatedTokens: 834
-keywords: [Business, Objects, API, feature, designed, facilitate, integrations, external, systems, processes, TPM, SObjects, Installing, Base, Configurations]
+keywords: [Business, API, feature, designed, facilitate, integrations, external, systems, processes, TPM, SObjects, Installing, Base, Configurations, Process]
 ---
-
-# Business Objects API
 
 > Business Object API is a feature designed to facilitate integrations of external
         systems and processes with TPM related SObjects.

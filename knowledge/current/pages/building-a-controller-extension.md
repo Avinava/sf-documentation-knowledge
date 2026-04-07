@@ -5,12 +5,10 @@ topic: building-a-controller-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.694Z
+lastCollected: 2026-04-07T18:38:50.927Z
 estimatedTokens: 693
-keywords: [Building, Controller, Extension, any, Apex, containing, argument, ApexPages.StandardController, CustomControllerName, custom, want, extend]
+keywords: [Building, Controller, Extension, any, Apex, containing, argument, ApexPages.StandardController, CustomControllerName, want, extend]
 ---
-
-# Building a Controller Extension
 
 > A controller extension is any Apex class containing a constructor that takes a single
             argument of type ApexPages.StandardController

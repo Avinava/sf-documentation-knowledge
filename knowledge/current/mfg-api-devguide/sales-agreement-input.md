@@ -5,12 +5,10 @@ topic: sales-agreement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.342Z
+lastCollected: 2026-04-07T18:38:12.633Z
 estimatedTokens: 189
-keywords: [Sales, Agreement, Input, representation, convert, source]
+keywords: [Sales, Agreement, convert, source]
 ---
-
-# Sales Agreement Input
 
 > Input representation to convert a source object to a sales
             agreement.

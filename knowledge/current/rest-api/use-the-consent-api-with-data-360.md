@@ -5,12 +5,10 @@ topic: use-the-consent-api-with-data-360
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.405Z
+lastCollected: 2026-04-07T18:36:20.629Z
 estimatedTokens: 1624
-keywords: [Consent, API, Data, supports, write, profile, Contact, Salesforce, Representative, consumer, rights, guidance, Permissions, Actions]
+keywords: [Consent, API, supports, write, profile, Contact, Salesforce, Representative, consumer, rights, guidance, Permissions, Actions]
 ---
-
-# Use the Consent API with Data 360
 
 > The Consent API supports Data 360. Use the Consent API to read and
 		write to the Data 360 profile. Contact your Salesforce Representative for

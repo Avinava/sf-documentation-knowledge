@@ -5,12 +5,10 @@ topic: add-column-to-a-data-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.102Z
+lastCollected: 2026-04-07T18:40:15.123Z
 estimatedTokens: 826
-keywords: [Add, Column, Data, Extension, adding, new, Why, How, Sample, Java, Code, Axis, 1.4, PHP, SOAP]
+keywords: [Add, Column, Extension, adding, new, Why, How, Sample, Java, Code, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Add Column to a Data Extension
 
 > This page contains information  about adding a new column to an existing data extension.
 

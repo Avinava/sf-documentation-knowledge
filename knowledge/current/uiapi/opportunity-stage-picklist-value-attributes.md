@@ -5,12 +5,10 @@ topic: opportunity-stage-picklist-value-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.971Z
+lastCollected: 2026-04-07T18:40:11.976Z
 estimatedTokens: 368
 keywords: [Opportunity, Stage, Picklist, Attributes, Additional, stages]
 ---
-
-# Opportunity Stage Picklist Value Attributes
 
 > Additional picklist value attributes for opportunity stages.
 

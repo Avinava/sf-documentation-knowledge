@@ -5,12 +5,10 @@ topic: pushtopic-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:05.187Z
+lastCollected: 2026-04-07T18:36:51.509Z
 estimatedTokens: 239
 keywords: [PushTopic, Considerations, Keep, mind, subscribing, events]
 ---
-
-# PushTopic Considerations
 
 > Keep in mind these considerations when subscribing to PushTopic events.
 

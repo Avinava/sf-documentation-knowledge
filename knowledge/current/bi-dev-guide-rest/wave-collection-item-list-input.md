@@ -5,12 +5,10 @@ topic: wave-collection-item-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.718Z
+lastCollected: 2026-04-07T18:36:55.111Z
 estimatedTokens: 138
-keywords: [Wave, Collection, Item, Input, items, Analytics, resources]
+keywords: [Wave, Collection, Item, items, Analytics, resources]
 ---
-
-# Wave Collection Item List Input
 
 > A list of items in a collection of Analytics resources.
 

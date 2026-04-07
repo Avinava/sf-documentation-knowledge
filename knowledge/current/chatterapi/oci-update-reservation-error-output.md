@@ -5,12 +5,10 @@ topic: oci-update-reservation-error-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.111Z
+lastCollected: 2026-04-07T18:37:21.262Z
 estimatedTokens: 95
-keywords: [OCI, Reservation, Error, Output, attempt, Omnichannel, Inventory]
+keywords: [OCI, Reservation, Error, attempt, Omnichannel, Inventory]
 ---
-
-# OCI Update Reservation Error Output
 
 > Error returned from an attempt to update an Omnichannel Inventory
     reservation.

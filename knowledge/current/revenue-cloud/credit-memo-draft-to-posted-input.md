@@ -5,12 +5,10 @@ topic: credit-memo-draft-to-posted-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.236Z
+lastCollected: 2026-04-07T18:35:43.120Z
 estimatedTokens: 172
-keywords: [Credit, Memo, Draft, Posted, Input, representation, post]
+keywords: [Credit, Memo, Draft, Posted, post]
 ---
-
-# Credit Memo Draft to Posted Input
 
 > Input representation of the request to post a draft credit memo.
 

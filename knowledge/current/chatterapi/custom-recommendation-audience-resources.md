@@ -5,12 +5,10 @@ topic: custom-recommendation-audience-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.322Z
+lastCollected: 2026-04-07T18:37:15.370Z
 estimatedTokens: 451
-keywords: [Custom, Recommendation, Audience, Resources, Target, specific, audiences, recommendations]
+keywords: [Recommendation, Audience, Resources, Target, specific, audiences, recommendations]
 ---
-
-# Custom Recommendation Audience Resources
 
 > Target specific audiences for your custom recommendations. Use these resources to get
     information about, create, update, and delete recommendation audiences.

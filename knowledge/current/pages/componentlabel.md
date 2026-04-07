@@ -5,12 +5,10 @@ topic: componentlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.305Z
+lastCollected: 2026-04-07T18:38:52.615Z
 estimatedTokens: 68
-keywords: [$ComponentLabel, merge, referencing, label, inputField, component, Visualforce, associated, message, Usage]
+keywords: [$ComponentLabel, merge, referencing, label, inputField, Visualforce, message]
 ---
-
-# $ComponentLabel
 
 > A global merge field to use when referencing the label of an inputField component on a Visualforce page that is associated with
    a message.

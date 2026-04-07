@@ -5,12 +5,10 @@ topic: date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.041Z
+lastCollected: 2026-04-07T18:37:00.572Z
 estimatedTokens: 248
-keywords: [date, filter, function, year, month, day, dimension, input, Usage]
+keywords: [date, filter, function, year, month, day, dimension]
 ---
-
-# date()
 
 > Returns a date that can be used in a filter. This function takes a year, a month, and
         a day dimension as input.

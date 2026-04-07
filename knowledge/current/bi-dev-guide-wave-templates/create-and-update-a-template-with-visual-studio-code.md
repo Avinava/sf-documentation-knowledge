@@ -5,12 +5,10 @@ topic: create-and-update-a-template-with-visual-studio-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.744Z
+lastCollected: 2026-04-07T18:37:02.311Z
 estimatedTokens: 136
 keywords: [Template, Visual, Studio, Code, Microsoft]
 ---
-
-# Create and Update a Template with Visual Studio Code
 
 > Use Microsoft Visual Studio (VS) code to create and update a template.
 

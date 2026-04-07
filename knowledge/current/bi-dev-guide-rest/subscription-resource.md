@@ -5,12 +5,10 @@ topic: subscription-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.869Z
+lastCollected: 2026-04-07T18:36:56.417Z
 estimatedTokens: 228
 keywords: [Subscription, Resource, Retrieve]
 ---
-
-# Subscription Resource
 
 > Retrieve, update, or delete a subscription.
 

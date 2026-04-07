@@ -5,12 +5,10 @@ topic: combinedattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.097Z
+lastCollected: 2026-04-07T18:38:28.021Z
 estimatedTokens: 1586
-keywords: [CombinedAttachment, read-only, notes, attachments, Google, Docs, documents, uploaded, libraries, Salesforce, CRM, content, files, added, Chatter]
+keywords: [CombinedAttachment, read-only, notes, attachments, Google, Docs, documents, uploaded, libraries, Salesforce, CRM, content, files, added, Chatter, record]
 ---
-
-# CombinedAttachment
 
 > This read-only object contains all notes, attachments, Google Docs, documents uploaded
   to libraries in Salesforce CRM content, and files added to Chatter that are associated with a

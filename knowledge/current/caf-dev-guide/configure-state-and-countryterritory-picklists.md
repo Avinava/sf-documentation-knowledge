@@ -5,12 +5,10 @@ topic: configure-state-and-countryterritory-picklists
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.032Z
+lastCollected: 2026-04-07T18:37:04.732Z
 estimatedTokens: 587
-keywords: [Configure, State, Country, Territory, Picklists, Custom, Address, uses, enable]
+keywords: [Configure, State, Country, Territory, Picklists, Address, uses, enable]
 ---
-
-# Configure State and Country/Territory Picklists
 
 > Custom Address Fields uses picklists for the State and Country address fields. Before
     you enable custom address fields, configure State and Country/Territory picklists.

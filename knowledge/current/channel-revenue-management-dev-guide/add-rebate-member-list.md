@@ -5,12 +5,10 @@ topic: add-rebate-member-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.313Z
+lastCollected: 2026-04-07T18:37:06.005Z
 estimatedTokens: 302
-keywords: [Add, Rebate, Member, members, program, accounts, account, view, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Add, Rebate, Member, members, program, accounts, account, view, REST, HTTP]
 ---
-
-# Add Rebate Member List
 
 > Add a list of members to a rebate program. The list of rebate members
          is based on the accounts in the specified account list view.

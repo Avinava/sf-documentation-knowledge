@@ -5,12 +5,10 @@ topic: preferencecenterapexhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.196Z
+lastCollected: 2026-04-07T18:36:13.494Z
 estimatedTokens: 1005
-keywords: [PreferenceCenterApexHandler, Pass, data, organization, form, Preference, Manager, load, loadParams, formData, validationResult, submit]
+keywords: [PreferenceCenterApexHandler, Pass, organization, form, Preference, Manager, load, loadParams, formData, validationResult, submit]
 ---
-
-# PreferenceCenterApexHandler Interface
 
 > Pass data between your organization and a form in Preference
       Manager.

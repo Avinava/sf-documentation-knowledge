@@ -5,12 +5,10 @@ topic: setdisabledisdisabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.422Z
+lastCollected: 2026-04-07T18:38:48.380Z
 estimatedTokens: 98
-keywords: [setDisabled, isDisabled, SelectOption, object's, attribute, Usage]
+keywords: [setDisabled, isDisabled, SelectOption, object's, attribute]
 ---
-
-# setDisabled(isDisabled)
 
 > Sets the value of the SelectOption object's isDisabled attribute.
 

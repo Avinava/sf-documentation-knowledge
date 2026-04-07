@@ -5,12 +5,10 @@ topic: connectapibusinessobjectivessummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.137Z
+lastCollected: 2026-04-07T18:36:07.502Z
 estimatedTokens: 83
 keywords: [summaries, business, objectives, goals]
 ---
-
-# ConnectApi.BusinessObjectivesSummaryOutputRepresentation
 
 > List of summaries for business objectives, or goals.
 

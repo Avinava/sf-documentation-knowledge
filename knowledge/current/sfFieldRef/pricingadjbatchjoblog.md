@@ -5,12 +5,10 @@ topic: pricingadjbatchjoblog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.121Z
+lastCollected: 2026-04-07T18:39:54.672Z
 estimatedTokens: 385
-keywords: [PricingAdjBatchJobLog, report, failed, adjustment, requests, along, error, message, reason, failure, API, version, 62.0, later]
+keywords: [PricingAdjBatchJobLog, report, failed, adjustment, requests, along, error, message, reason, failure, API, 62.0]
 ---
-
-# PricingAdjBatchJobLog
 
 > Represents the report that contains a list of failed adjustment requests
          along with an error message that describes the reason for failure. This object is

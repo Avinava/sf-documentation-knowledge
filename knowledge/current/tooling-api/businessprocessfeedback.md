@@ -5,12 +5,10 @@ topic: businessprocessfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.537Z
+lastCollected: 2026-04-07T18:36:31.967Z
 estimatedTokens: 260
-keywords: [BusinessProcessFeedback, survey, question, associated, stage, customer, lifecycle, map, API, version, 51.0, later, SOAP, Calls, REST]
+keywords: [BusinessProcessFeedback, survey, question, stage, customer, lifecycle, map, API, 51.0, SOAP, REST]
 ---
-
-# BusinessProcessFeedback
 
 > Represents information about the survey and the question associated with each
       stage in a customer lifecycle map. This object is available in API version 51.0 and

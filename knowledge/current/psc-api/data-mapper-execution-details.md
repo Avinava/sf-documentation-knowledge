@@ -5,12 +5,10 @@ topic: data-mapper-execution-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.225Z
+lastCollected: 2026-04-07T18:39:02.434Z
 estimatedTokens: 174
-keywords: [Data, Mapper, Execution, Output, representation]
+keywords: [Mapper, Execution]
 ---
-
-# Data Mapper Execution Details
 
 > Output representation of the execution details of a data mapper.
 

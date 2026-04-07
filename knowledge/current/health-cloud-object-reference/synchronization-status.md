@@ -5,12 +5,10 @@ topic: synchronization-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.238Z
+lastCollected: 2026-04-07T18:37:41.293Z
 estimatedTokens: 182
 keywords: [Synchronization, Status, Fetch, score, category]
 ---
-
-# Synchronization Status
 
 > Fetch the synchronization status for a given score
     category.

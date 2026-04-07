@@ -5,12 +5,10 @@ topic: refreshing-pods-pods
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.107Z
+lastCollected: 2026-04-07T18:40:26.412Z
 estimatedTokens: 138
 keywords: [Refreshing, Pods, CocoaPods, caches, repos, stored, locally, machine, pod, repo, sync, forceios, manually]
 ---
-
-# Refreshing  Pods Pods
 
 > CocoaPods caches its pods in repos stored locally on your machine. If the pod repo gets
   out of sync with forceios, you can manually update it.

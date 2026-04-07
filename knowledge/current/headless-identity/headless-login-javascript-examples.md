@@ -5,12 +5,10 @@ topic: headless-login-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.411Z
+lastCollected: 2026-04-07T18:37:39.351Z
 estimatedTokens: 212
 keywords: [Headless, Login, JavaScript, Examples, high-level, understand, how, implement, single-page, app, Authorization, Token, Exchange]
 ---
-
-# Headless Login JavaScript Examples
 
 > Use these high-level examples to understand how to implement headless login for a
     single-page app.

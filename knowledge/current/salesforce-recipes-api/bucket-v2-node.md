@@ -5,12 +5,10 @@ topic: bucket-v2-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.333Z
+lastCollected: 2026-04-07T18:39:19.019Z
 estimatedTokens: 125
-keywords: [Bucket, Node, version, recipe, improved, functionality]
+keywords: [Bucket, Node, recipe, improved, functionality]
 ---
-
-# Bucket V2 Node
 
 > A version 2 bucket node in a recipe, with improved functionality.
 

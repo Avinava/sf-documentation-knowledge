@@ -5,12 +5,10 @@ topic: using-the-salesforce-lightning-design-system-in-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.750Z
+lastCollected: 2026-04-07T18:38:02.681Z
 estimatedTokens: 605
-keywords: [Salesforce, Lightning, Design, System, Apps, SLDS, look, feel, that’s, consistent, Experience, styles, give, custom, stand-alone]
+keywords: [Salesforce, Lightning, Design, System, Apps, SLDS, look, feel, that’s, consistent, Experience, styles, give, stand-alone, applications, having, reverse-engineer, Resource]
 ---
-
-# Using the Salesforce Lightning Design System in Apps
 
 > The Salesforce Lightning Design System (SLDS) provides a look and
       feel that’s consistent with Lightning Experience. Use Lightning Design System styles to give your custom stand-alone Lightning applications

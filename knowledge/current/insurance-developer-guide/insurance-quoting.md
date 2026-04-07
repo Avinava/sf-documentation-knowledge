@@ -5,12 +5,10 @@ topic: insurance-quoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.105Z
+lastCollected: 2026-04-07T18:37:53.382Z
 estimatedTokens: 440
 keywords: [Insurance, Quoting, developer, resources, configure, quotes, quote, line, items]
 ---
-
-# Insurance Quoting
 
 > Use the Insurance Quoting developer resources to create, update, configure, and delete
   quotes and quote line items.

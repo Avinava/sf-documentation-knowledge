@@ -5,12 +5,10 @@ topic: how-is-record-type-access-specified
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.631Z
+lastCollected: 2026-04-07T18:39:22.519Z
 estimatedTokens: 729
-keywords: [How, Record, Access, Assign, users, their, profiles, permission, groups, combination, assignment, behaves, differently]
+keywords: [How, Record, Assign, users, their, profiles, permission, groups, combination, assignment, behaves, differently]
 ---
-
-# How Is Record Type Access Specified?
 
 > Assign record types to users in their profiles or permission sets (or permission set
     groups), or a combination of these. Record type assignment behaves differently in profiles and

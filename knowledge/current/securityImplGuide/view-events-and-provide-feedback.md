@@ -5,12 +5,10 @@ topic: view-events-and-provide-feedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.687Z
+lastCollected: 2026-04-07T18:39:22.578Z
 estimatedTokens: 766
-keywords: [View, Events, Provide, Feedback, recent, Threat, Detection, app, Salesforce, stored, their, corresponding, storage, objects, ReportAnomalyEventStore]
+keywords: [View, Events, Provide, Feedback, recent, Threat, Detection, app, Salesforce, stored, their, corresponding, storage, ReportAnomalyEventStore, SessionHijackingEventStore, CredentialStuffingEventStore, Associate, particular, event, record, severity, Malicious]
 ---
-
-# View Events and Provide Feedback
 
 > View recent or all Threat Detection events using the Threat Detection app in the
     Salesforce UI. The displayed events are stored in their corresponding storage objects:

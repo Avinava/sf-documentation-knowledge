@@ -5,12 +5,10 @@ topic: scratch-orgs-and-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.853Z
+lastCollected: 2026-04-07T18:38:53.165Z
 estimatedTokens: 648
-keywords: [Scratch, Orgs, Package, Development, temporary, Salesforce, intended, automation, They, enable, source-driven, deployments, code, metadata, org]
+keywords: [Scratch, Orgs, Package, Development, temporary, Salesforce, intended, automation, They, enable, source-driven, deployments, code, metadata, org, fully, configurable, allowing, developers, emulate, different, editions, various, features, preferences, Cloud]
 ---
-
-# Scratch Orgs and Package Development
 
 > Scratch orgs are temporary Salesforce orgs intended for development and automation. They
         enable source-driven deployments of Salesforce code and metadata. A scratch org is fully

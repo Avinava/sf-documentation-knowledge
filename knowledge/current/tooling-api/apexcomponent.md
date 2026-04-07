@@ -5,12 +5,10 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.275Z
+lastCollected: 2026-04-07T18:36:31.649Z
 estimatedTokens: 388
-keywords: [ApexComponent, saved, copy, Visualforce, component, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls]
+keywords: [ApexComponent, saved, copy, Visualforce, uses, cached, unless, unavailable, API, 28.0, SOAP, REST, HTTP]
 ---
-
-# ApexComponent
 
 > Represents the saved copy of a Visualforce component. ApexComponent
       uses the cached version of the class unless one is unavailable. Available from API

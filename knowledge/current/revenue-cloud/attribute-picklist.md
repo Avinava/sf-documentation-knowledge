@@ -5,12 +5,10 @@ topic: attribute-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.229Z
+lastCollected: 2026-04-07T18:35:45.208Z
 estimatedTokens: 190
-keywords: [Attribute, Picklist, Output, representation]
+keywords: [Attribute, Picklist]
 ---
-
-# Attribute Picklist
 
 > Output representation of the attribute picklist.
 

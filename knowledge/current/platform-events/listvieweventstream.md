@@ -5,12 +5,10 @@ topic: listvieweventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.423Z
+lastCollected: 2026-04-07T18:38:59.310Z
 estimatedTokens: 3481
-keywords: [ListViewEventStream, Tracks, actions, views, Lightning, Experience, Salesforce, Classic, API, event, captures, user, runs, exports, view]
+keywords: [ListViewEventStream, Tracks, actions, views, Lightning, Experience, Salesforce, Classic, API, event, captures, user, runs, exports, view, doesn’t, capture, events, Setup, entities, 46.0, Subscribers, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# ListViewEventStream
 
 > Tracks actions related to list views in Lightning Experience,
          Salesforce Classic, or the API. For example, the event captures when a user runs or exports

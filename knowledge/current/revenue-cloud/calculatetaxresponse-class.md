@@ -5,13 +5,11 @@ topic: calculatetaxresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.809Z
+lastCollected: 2026-04-07T18:35:40.626Z
 estimatedTokens: 3527
 namespace: CommerceTax
-keywords: [CalculateTaxResponse, tax, transaction, external, engine, Extends, AbstractTransactionResponse, top-level, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode, setDescription]
+keywords: [CalculateTaxResponse, tax, transaction, external, engine, Extends, AbstractTransactionResponse, top-level, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode, setDescription, dscptn, setDocumentCode, documentCode, setEffectiveDate, effectiveDate, setLineItems, lineItems, setReferenceDocumentCode, referenceDocumentCode, setReferenceEntityId, referenceEntityId, setStatus, status, setStatusDescription, statusDescription, setTaxTransactionId, taxTrxnId, setTaxTransactionType, taxTransactionType, setTaxType, taxType, setTransactionDate, transactionDate]
 ---
-
-# CalculateTaxResponse Class
 
 > Sets
             the values of the tax transaction following a response from the external tax engine.

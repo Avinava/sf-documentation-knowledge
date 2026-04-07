@@ -5,12 +5,10 @@ topic: variable-map-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.061Z
+lastCollected: 2026-04-07T18:39:03.295Z
 estimatedTokens: 84
-keywords: [Variable, Map, Output, representation, input, variables, expression, version]
+keywords: [Variable, Map, variables, expression]
 ---
-
-# Variable Map Output
 
 > Output representation of the input variables in an expression set
       version.

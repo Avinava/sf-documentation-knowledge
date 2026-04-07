@@ -5,12 +5,10 @@ topic: rebatepartnerspecialprctrm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.072Z
+lastCollected: 2026-04-07T18:37:06.778Z
 estimatedTokens: 938
-keywords: [RebatePartnerSpecialPrcTrm, special, pricing, term, ship, debit, program, API, version, 58.0, later, Calls]
+keywords: [RebatePartnerSpecialPrcTrm, pricing, term, ship, debit, program, API, 58.0]
 ---
-
-# RebatePartnerSpecialPrcTrm
 
 > Represents information about the special pricing term for a ship and
          debit program. This object is available in API version 58.0 and later.

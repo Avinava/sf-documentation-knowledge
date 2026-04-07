@@ -5,12 +5,10 @@ topic: connectapiendorsepolicyinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.910Z
+lastCollected: 2026-04-07T18:37:49.787Z
 estimatedTokens: 343
-keywords: [Input, representation, endorse, policy, Context, quote, that’s, endorsement, date, endorsed, version, effective, passed]
+keywords: [endorse, policy, Context, quote, that’s, endorsement, date, endorsed, effective, passed]
 ---
-
-# ConnectApi.EndorsePolicyInputRepresentation
 
 > Input representation of the request to endorse a policy. Context ID of the quote that’s
     used for endorsement and date that the endorsed policy version is effective from must be passed

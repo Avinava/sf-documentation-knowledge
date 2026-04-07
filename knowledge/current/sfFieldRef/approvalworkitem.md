@@ -5,12 +5,10 @@ topic: approvalworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.856Z
+lastCollected: 2026-04-07T18:39:26.816Z
 estimatedTokens: 484
-keywords: [ApprovalWorkItem, run-time, step, approval, workflow, assignees, their, decisions, regarding, object's, master-detail, relationship, ApprovalSubmission, API, version]
+keywords: [ApprovalWorkItem, run-time, step, approval, workflow, assignees, their, decisions, regarding, object's, master-detail, relationship, ApprovalSubmission, API, 61.0]
 ---
-
-# ApprovalWorkItem
 
 > Contains run-time information about each step in an approval workflow, such as
          assignees and their decisions regarding the object's approval. Has a master-detail

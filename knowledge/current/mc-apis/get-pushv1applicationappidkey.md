@@ -5,12 +5,10 @@ topic: get-pushv1applicationappidkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.445Z
+lastCollected: 2026-04-07T18:40:18.648Z
 estimatedTokens: 239
-keywords: [push, application, appId, key, Retrieves, custom, associated, app, **Overview**, Usage]
+keywords: [push, application, appId, key, Retrieves, app, **Overview**]
 ---
-
-# GET /push/v1/application/{appId}/key
 
 > Retrieves all custom key values associated with an app.
 

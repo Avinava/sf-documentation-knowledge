@@ -5,13 +5,11 @@ topic: runtimeindustriescpq-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.046Z
+lastCollected: 2026-04-07T18:35:41.888Z
 estimatedTokens: 4663
 namespace: The
-keywords: [runtime_industries_cpq, classes, search, products, manage, catalogs, categories, runtime, _industries, _cpq, Usage]
+keywords: [runtime_industries_cpq, classes, search, products, manage, catalogs, categories, runtime, _industries, _cpq]
 ---
-
-# runtime_industries_cpq Namespace
 
 > The runtime_industries_cpq namespace provides classes and methods to search products or
     to manage products, catalogs, and categories.

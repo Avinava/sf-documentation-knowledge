@@ -5,12 +5,10 @@ topic: output-d360-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.764Z
+lastCollected: 2026-04-07T18:39:18.478Z
 estimatedTokens: 146
-keywords: [Output, D360, Input, node, recipe]
+keywords: [D360, node, recipe]
 ---
-
-# Output D360 Parameters Input
 
 > The parameters for an output D360 node in a recipe.
 

@@ -5,12 +5,10 @@ topic: privacyhold
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.994Z
+lastCollected: 2026-04-07T18:38:38.359Z
 estimatedTokens: 698
-keywords: [PrivacyHold, Privacy, Hold, record, preserved, masking, deletion, Data, Management, policies, Center, API, version, 59.0, later]
+keywords: [PrivacyHold, Privacy, Hold, record, preserved, masking, deletion, Management, policies, Center, API, 59.0]
 ---
-
-# PrivacyHold
 
 > Represents a Privacy Hold that indicates that a record should be
          preserved from masking or deletion by Data Management policies in Privacy Center. This

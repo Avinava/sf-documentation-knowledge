@@ -5,12 +5,10 @@ topic: networkfeedresponsemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.127Z
+lastCollected: 2026-04-07T18:39:49.613Z
 estimatedTokens: 475
-keywords: [NetworkFeedResponseMetric, stores, date, time, question, posts, captures, creation, answer, marked, best, API, version, 51.0, later]
+keywords: [NetworkFeedResponseMetric, stores, date, time, question, posts, captures, creation, answer, marked, best, API, 51.0]
 ---
-
-# NetworkFeedResponseMetric
 
 > Represents an object that stores the date and time values of question posts. It
       captures information for question creation, answer creation, and when an answer is marked as

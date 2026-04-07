@@ -5,12 +5,10 @@ topic: actions-in-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.519Z
+lastCollected: 2026-04-07T18:37:02.127Z
 estimatedTokens: 286
-keywords: [Actions, Rules, define, rule, constants, easier, perform, any, action]
+keywords: [Actions, define, rule, constants, easier, perform, any, action]
 ---
-
-# Actions in Rules
 
 > Actions define what a rule does. Use constants to make it easier to perform any
   action.

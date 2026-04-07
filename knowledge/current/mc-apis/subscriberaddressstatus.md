@@ -5,12 +5,10 @@ topic: subscriberaddressstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.276Z
+lastCollected: 2026-04-07T18:40:20.513Z
 estimatedTokens: 116
 keywords: [SubscriberAddressStatus, status, subscriber's, address, statuses]
 ---
-
-# SubscriberAddressStatus
 
 > The SubscriberAddressStatus object defines the valid status values for a subscriber's address.
 

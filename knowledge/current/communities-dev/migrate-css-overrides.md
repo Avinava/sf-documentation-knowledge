@@ -5,12 +5,10 @@ topic: migrate-css-overrides
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.782Z
+lastCollected: 2026-04-07T18:37:26.735Z
 estimatedTokens: 1053
-keywords: [Migrate, CSS, Overrides, Spring, ’17, Winter, ’19, selectors, several, Experience, Builder, components, were, updated, haven’t]
+keywords: [Migrate, CSS, Overrides, Spring, ’17, Winter, ’19, selectors, several, Experience, Builder, were, updated, haven’t, template, since, site, uses, override, Theme, panel, styles, new]
 ---
-
-# Migrate CSS Overrides
 
 > Between Spring ’17 and Winter ’19, the CSS selectors of several Experience Builder
     components were updated. If you haven’t updated your template since then, and your site uses

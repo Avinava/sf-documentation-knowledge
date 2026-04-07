@@ -5,12 +5,10 @@ topic: casecomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.909Z
+lastCollected: 2026-04-07T18:39:33.326Z
 estimatedTokens: 297
-keywords: [CaseComment, comment, additional, associated, Case]
+keywords: [CaseComment, comment, additional, Case]
 ---
-
-# CaseComment
 
 > Represents a comment that provides additional information about the
 			associated Case.

@@ -5,12 +5,10 @@ topic: task
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:19.028Z
+lastCollected: 2026-04-07T18:40:14.046Z
 estimatedTokens: 1599
-keywords: [Task, Work.com, uses, standard, custom, tasks, Operations, Feed, Command, Center, Employee, Service, transition, plan, managed]
+keywords: [Task, Work.com, uses, standard, tasks, Operations, Command, Center, Employee, Service, transition, plan, managed, packages, product, install, indicated, Record, Sharing]
 ---
-
-# Task
 
 > Work.com uses the Task standard object and custom fields to list tasks in the
       Operations Feed for Command Center. Employee Service uses the Task standard object and custom

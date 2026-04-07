@@ -5,12 +5,10 @@ topic: vplupdateinteractiontopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.322Z
+lastCollected: 2026-04-07T18:38:11.652Z
 estimatedTokens: 94
-keywords: [VPL_UpdateInteractionTopics, Integration, Procedure, interaction, topics, VPL, _UpdateInteractionTopics, Sample, Input, Output, Calls]
+keywords: [VPL_UpdateInteractionTopics, Integration, Procedure, interaction, topics, VPL, _UpdateInteractionTopics, Sample]
 ---
-
-# VPL_UpdateInteractionTopics
 
 > This Integration Procedure is used to update interaction
       topics.

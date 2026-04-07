@@ -5,12 +5,10 @@ topic: cookie-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.250Z
+lastCollected: 2026-04-07T18:38:48.209Z
 estimatedTokens: 143
 keywords: [Cookie]
 ---
-
-# Cookie Constructors
 
 > The following are constructors for Cookie.
 

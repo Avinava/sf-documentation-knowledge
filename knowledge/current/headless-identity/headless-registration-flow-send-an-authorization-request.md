@@ -5,12 +5,10 @@ topic: headless-registration-flow-send-an-authorization-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.490Z
+lastCollected: 2026-04-07T18:37:39.428Z
 estimatedTokens: 759
 keywords: [Headless, Registration, Flow, Send, Authorization, API, initialize, Code, Credentials, log, user, part, call, Login]
 ---
-
-# Headless Registration Flow: Send an Authorization Request
 
 > After you send a registration request to Headless Registration API, initialize the
     Authorization Code and Credentials Flow to complete the registration and log the user in. For

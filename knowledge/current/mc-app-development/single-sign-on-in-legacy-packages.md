@@ -5,12 +5,10 @@ topic: single-sign-on-in-legacy-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.180Z
+lastCollected: 2026-04-07T18:40:21.459Z
 estimatedTokens: 399
 keywords: [Sign-On, Legacy, Packages, August, Marketing, Cloud, removed, ability, new, enhanced, Client, Libraries]
 ---
-
-# Single Sign-On in Legacy Packages
 
 > As of August 1, 2019, Marketing Cloud has removed the ability to create legacy packages. All new packages are enhanced packages.
 

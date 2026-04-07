@@ -5,12 +5,10 @@ topic: mobilesecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.180Z
+lastCollected: 2026-04-07T18:36:27.716Z
 estimatedTokens: 1128
-keywords: [MobileSecurityPolicy, mobile, app, security, policy, Salesforce, Enhanced, enabled, full, Enable, Configure, Policies, Parent, File, Suffix]
+keywords: [MobileSecurityPolicy, mobile, app, security, policy, Salesforce, Enhanced, enabled, full, Enable, Configure, Policies, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MobileSecurityPolicy
 
 > Represents a mobile app security policy on
 			the Salesforce mobile app with Enhanced Mobile App Security enabled.

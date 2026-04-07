@@ -5,12 +5,10 @@ topic: commerce-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.493Z
+lastCollected: 2026-04-07T18:37:13.444Z
 estimatedTokens: 89
 keywords: [Commerce, Extensions, collection, org]
 ---
-
-# Commerce Extensions
 
 > Get a collection of Commerce extensions available for your org.
 

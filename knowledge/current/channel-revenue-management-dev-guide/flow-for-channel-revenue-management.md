@@ -5,12 +5,10 @@ topic: flow-for-channel-revenue-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.045Z
+lastCollected: 2026-04-07T18:37:05.747Z
 estimatedTokens: 292
-keywords: [Flow, Channel, Revenue, Management, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
+keywords: [FlowActionCall, Flow, Channel, Revenue, Management, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Channel Revenue Management
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

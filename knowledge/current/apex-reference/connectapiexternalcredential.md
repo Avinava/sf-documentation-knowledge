@@ -5,13 +5,11 @@ topic: connectapiexternalcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.676Z
+lastCollected: 2026-04-07T18:36:09.071Z
 estimatedTokens: 791
 namespace: String
-keywords: [ConnectApi.ExternalCredential, External, credential, including, named, credentials, principals, associated, status, principal]
+keywords: [ConnectApi.ExternalCredential, External, credential, including, named, credentials, principals, status, principal]
 ---
-
-# ConnectApi.ExternalCredential
 
 > External credential, including the named credentials and principals
       associated with it and the type and status of each principal.

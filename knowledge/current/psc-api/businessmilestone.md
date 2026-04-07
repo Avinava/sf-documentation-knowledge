@@ -5,12 +5,10 @@ topic: businessmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.754Z
+lastCollected: 2026-04-07T18:39:07.988Z
 estimatedTokens: 1111
-keywords: [BusinessMilestone, milestones, business, acquisition, market, listing, expansion, Calls, Associated, Objects]
+keywords: [BusinessMilestone, milestones, business, acquisition, market, listing, expansion]
 ---
-
-# BusinessMilestone
 
 > Represents the milestones of a business, such as acquisition, market
 			listing, and expansion.

@@ -5,12 +5,10 @@ topic: unable-to-work-after-failed-org-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.690Z
+lastCollected: 2026-04-07T18:40:08.650Z
 estimatedTokens: 280
-keywords: [Unable, Work, Failed, Org, Authorization, Sometimes, try, authorize, Dev, Hub, scratch, Salesforce, CLI, IDE, don’t]
+keywords: [Windows, Unable, Work, Failed, Org, Authorization, Sometimes, try, authorize, Dev, Hub, scratch, Salesforce, CLI, IDE, don’t, successfully, log, port, remains, open, stray, process, can’t, proceed, end, manually, macOS, Linux]
 ---
-
-# Unable to Work After Failed Org Authorization
 
 > Sometimes you try to authorize a Dev Hub org or a scratch org using the Salesforce CLI or
     an IDE, but you don’t successfully log in to the org. The port remains open for the stray

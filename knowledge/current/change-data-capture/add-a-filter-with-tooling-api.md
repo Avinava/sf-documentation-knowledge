@@ -5,12 +5,10 @@ topic: add-a-filter-with-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.579Z
+lastCollected: 2026-04-07T18:37:05.314Z
 estimatedTokens: 867
-keywords: [Add, Filter, Tooling, API, channel, member, version, 56.0, later]
+keywords: [Add, Filter, Tooling, API, channel, member, 56.0]
 ---
-
-# Add a Filter with Tooling API
 
 > Create a channel and channel member in Tooling API using API version 56.0 or
     later.

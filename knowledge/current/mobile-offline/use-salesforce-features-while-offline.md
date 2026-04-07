@@ -5,12 +5,10 @@ topic: use-salesforce-features-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.989Z
+lastCollected: 2026-04-07T18:38:15.501Z
 estimatedTokens: 536
-keywords: [Salesforce, Features, Offline, Although, LWC, intended, “just, work”, there, nuances, additional, considerations, chapter, how, effectively]
+keywords: [Salesforce, Features, Offline, Although, LWC, intended, “just, work”, there, nuances, additional, considerations, chapter, how, effectively, LWCs, offline-ready]
 ---
-
-# Use Salesforce Features While Offline
 
 > Although LWC Offline is intended to “just work” when you use features while offline,
   there are nuances and additional considerations for using some features while offline. This

@@ -5,12 +5,10 @@ topic: managed-content-space-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.195Z
+lastCollected: 2026-04-07T18:37:08.972Z
 estimatedTokens: 217
-keywords: [Managed, Content, Space, Input]
+keywords: [Managed, Content, Space]
 ---
-
-# Managed Content Space Input
 
 > Create a managed content space.
 

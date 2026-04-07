@@ -5,12 +5,10 @@ topic: apexpieseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.228Z
+lastCollected: 2026-04-07T18:38:50.502Z
 estimatedTokens: 764
-keywords: [apex, pieSeries, data, series, rendered, wedges, Visualforce, pie, chart, minimum, specify, collection, label, pairs, wedge]
+keywords: [Attributes, apex, pieSeries, series, rendered, wedges, Visualforce, pie, chart, minimum, specify, collection, label, pairs, wedge]
 ---
-
-# apex:pieSeries
 
 > A data series to be rendered as wedges in a Visualforce pie chart. At a minimum you must specify the fields in the data collection to use as label and value pairs for each pie wedge.
 

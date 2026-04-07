@@ -5,12 +5,10 @@ topic: authenticatedemployeeid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.568Z
+lastCollected: 2026-04-07T18:40:21.888Z
 estimatedTokens: 110
-keywords: [AuthenticatedEmployeeID, **Overview**, **Syntax**, Usage]
+keywords: [AuthenticatedEmployeeID, **Overview**, **Syntax**]
 ---
-
-# AuthenticatedEmployeeID
 
 > AuthenticatedEmployeeID()
 

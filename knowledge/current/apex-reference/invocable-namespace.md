@@ -5,13 +5,11 @@ topic: invocable-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.721Z
+lastCollected: 2026-04-07T18:36:15.034Z
 estimatedTokens: 198
 namespace: Invocable
 keywords: [Invocable, classes, calling, actions, Apex]
 ---
-
-# Invocable Namespace
 
 > The Invocable namespace provides classes for calling
     invocable actions from Apex.

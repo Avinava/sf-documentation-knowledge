@@ -6,13 +6,10 @@ topic: considerations-for-defining-and-publishing-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:04.930Z
+lastCollected: 2026-04-07T18:38:57.750Z
 estimatedTokens: 1230
 keywords: [Considerations, Defining, Publishing, Platform, Events, Take]
 ---
-
-# Considerations for Defining and Publishing Platform
-    Events
 
 > Take note of the considerations when defining and publishing
       platform events.

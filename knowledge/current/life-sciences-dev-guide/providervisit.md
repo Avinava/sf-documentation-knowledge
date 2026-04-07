@@ -5,12 +5,10 @@ topic: providervisit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.617Z
+lastCollected: 2026-04-07T18:38:01.483Z
 estimatedTokens: 3137
-keywords: [ProviderVisit, user's, visit, health, care, provider, sales, representative, visiting, discuss, product, usage, efficacy, enhance, adoption]
+keywords: [ProviderVisit, user's, visit, health, care, provider, sales, representative, visiting, discuss, product, efficacy, enhance, adoption, API, 65.0]
 ---
-
-# ProviderVisit
 
 > Represents the details of a field user's visit to a health care provider. For
          example, a sales representative visiting a health care provider to discuss product usage

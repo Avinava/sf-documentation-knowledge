@@ -5,12 +5,10 @@ topic: understanding-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:41.453Z
+lastCollected: 2026-04-07T18:36:26.882Z
 estimatedTokens: 1146
-keywords: [Understanding, Metadata, API, data, understand, how, Salesforce, contrast, business, includes, records, directly, correspond, company’s, address]
+keywords: [Understanding, Metadata, API, understand, how, Salesforce, contrast, business, includes, records, directly, correspond, company’s, address, account, product, Salesfor, Functionality]
 ---
-
-# Understanding Metadata API
 
 > Metadata is data that describes other data. To understand how Salesforce defines metadata,
         contrast business data with Salesforce metadata. Business data includes the records that

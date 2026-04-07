@@ -5,12 +5,10 @@ topic: accessing-private-test-class-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.382Z
+lastCollected: 2026-04-07T18:36:18.611Z
 estimatedTokens: 396
-keywords: [Accessing, Test, Members, defined, separate, they, present, problem, having, access, member, variable, calling, Because, aren’t]
+keywords: [Accessing, Test, Members, defined, separate, they, present, problem, having, member, variable, calling, Because, aren’t, visible]
 ---
-
-# Accessing Private Test Class Members
 
 > Test methods are defined in a test class, separate from the class they test. This can
             present a problem when having to access a private class member variable from the test

@@ -5,12 +5,10 @@ topic: install-a-cli-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.346Z
+lastCollected: 2026-04-07T18:40:09.287Z
 estimatedTokens: 372
-keywords: [Install, CLI, Plugin, extend, functionality, core, Salesforce, installing, commands, grouped, npm, package, come, variety, providers]
+keywords: [Install, CLI, Plugin, extend, functionality, core, Salesforce, installing, commands, grouped, npm, package, come, variety, providers, third, party, yourself, installs, work, similarly]
 ---
-
-# Install a CLI Plugin
 
 > You can extend the functionality of the core Salesforce CLI by installing a plugin,
     which is a set of CLI commands that are grouped in an npm package. The plugin can come from a

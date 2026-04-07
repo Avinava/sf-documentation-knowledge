@@ -5,12 +5,10 @@ topic: generatedwastefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.744Z
+lastCollected: 2026-04-07T18:39:42.378Z
 estimatedTokens: 360
-keywords: [GeneratedWasteFeed, Feed, tracking, GeneratedWaste]
+keywords: [GeneratedWasteFeed, GeneratedWaste]
 ---
-
-# GeneratedWasteFeed
 
 > Feed tracking for GeneratedWaste.
 

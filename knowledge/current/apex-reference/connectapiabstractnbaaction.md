@@ -5,12 +5,10 @@ topic: connectapiabstractnbaaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.535Z
+lastCollected: 2026-04-07T18:36:06.889Z
 estimatedTokens: 189
 keywords: [ConnectApi.AbstractNBAAction, recommended, action, recommendation, strategy]
 ---
-
-# ConnectApi.AbstractNBAAction
 
 > A recommended action of recommendation strategy.
 

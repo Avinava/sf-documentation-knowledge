@@ -5,12 +5,10 @@ topic: context-attribute-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.254Z
+lastCollected: 2026-04-07T18:36:38.911Z
 estimatedTokens: 277
-keywords: [Context, Attribute, Output, representation]
+keywords: [Context, Attribute]
 ---
-
-# Context Attribute Output
 
 > Output representation of the context attribute.
 

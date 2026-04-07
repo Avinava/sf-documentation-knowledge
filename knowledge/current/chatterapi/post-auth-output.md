@@ -5,12 +5,10 @@ topic: post-auth-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.708Z
+lastCollected: 2026-04-07T18:37:21.821Z
 estimatedTokens: 287
-keywords: [Post, Auth, Output, Payment, authorization]
+keywords: [Post, Auth, Payment, authorization]
 ---
-
-# Post Auth Output
 
 > Payment post authorization output.
 

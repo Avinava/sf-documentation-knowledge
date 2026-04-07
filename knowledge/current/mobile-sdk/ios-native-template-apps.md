@@ -5,12 +5,10 @@ topic: ios-native-template-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.023Z
+lastCollected: 2026-04-07T18:40:26.333Z
 estimatedTokens: 741
 keywords: [iOS, Native, Template, Apps, Mobile, SDK, 9.0, updates, Swift, standards, maintains, Objective-C, previous, release, Templates]
 ---
-
-# iOS Native Template Apps
 
 > Mobile SDK 9.0
     updates its default Swift template to iOS 14 standards and maintains its Objective-C template

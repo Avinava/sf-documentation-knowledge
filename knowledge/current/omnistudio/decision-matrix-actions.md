@@ -5,12 +5,10 @@ topic: decision-matrix-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.659Z
+lastCollected: 2026-04-07T18:36:35.126Z
 estimatedTokens: 304
-keywords: [Decision, Matrix, Actions, Invoke, flow, user-defined, look, output, inputs, provide, REST, HTTP, Outputs, Usage]
+keywords: [Inputs, Outputs, Decision, Matrix, Actions, Invoke, flow, user-defined, look, provide, REST, HTTP]
 ---
-
-# Decision Matrix Actions
 
 > Invoke a decision matrix in a flow with the Decision Matrix
       Actions. A decision matrix is a user-defined table where you can look up an output based

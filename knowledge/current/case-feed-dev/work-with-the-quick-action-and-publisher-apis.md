@@ -5,12 +5,10 @@ topic: work-with-the-quick-action-and-publisher-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.217Z
+lastCollected: 2026-04-07T18:37:04.934Z
 estimatedTokens: 395
-keywords: [Work, Quick, Action, Publisher, APIs, Lightning, JavaScript, API, Salesforce, Classic, let, interact, actions, you’re, building]
+keywords: [Work, Quick, Action, Publisher, APIs, Lightning, JavaScript, API, Salesforce, Classic, let, interact, actions, you’re, building, Aura, Experience, record, writing, Visualforce, pages, any, apps, feed-enabled]
 ---
-
-# Work with the Quick Action and Publisher APIs
 
 > The Lightning Quick Action JavaScript API and the Salesforce Classic Publisher
   JavaScript API both let you interact with actions. If you’re building out Aura components in

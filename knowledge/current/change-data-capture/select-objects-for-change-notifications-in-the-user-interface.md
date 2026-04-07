@@ -5,12 +5,10 @@ topic: select-objects-for-change-notifications-in-the-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.736Z
+lastCollected: 2026-04-07T18:37:05.454Z
 estimatedTokens: 648
-keywords: [Select, Objects, Change, Notifications, User, receive, standard, channel, record, changes, custom, you’re, interested, Data, Capture]
+keywords: [Select, Change, Notifications, User, receive, standard, channel, record, changes, you’re, interested, Capture]
 ---
-
-# Select Objects for Change Notifications in the User Interface
 
 > To receive notifications on the default standard channel for record
       changes, select the custom objects and supported standard objects that you’re interested in on

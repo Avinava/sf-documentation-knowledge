@@ -5,13 +5,11 @@ topic: rtrreportresultmockscorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.026Z
+lastCollected: 2026-04-07T18:39:10.484Z
 estimatedTokens: 191
 namespace: The
 keywords: [RTRReportResult.MockScoreCard, mock, responses, unit, test, execution, Implementation]
 ---
-
-# RTRReportResult.MockScoreCard
 
 > This class is used to create mock responses for the unit test execution.
 

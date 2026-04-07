@@ -5,13 +5,11 @@ topic: memberpointbalanceinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.658Z
+lastCollected: 2026-04-07T18:38:06.865Z
 estimatedTokens: 1007
 namespace: LoyaltyManagement
 keywords: [MemberPointBalanceInputBuilder, build, instance, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setProgramCurrencyName, programCurrencyName, setProgramName, programName]
 ---
-
-# MemberPointBalanceInputBuilder Class
 
 > Contains methods to build an instance of the LoyaltyManagement.MemberPointsBalanceInput
     class.

@@ -5,12 +5,10 @@ topic: summary-of-send-using-jobid
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.322Z
+lastCollected: 2026-04-07T18:40:20.563Z
 estimatedTokens: 1644
-keywords: [Summary, Send, JobId, retrieving, tracking, email, Why, Retrieve, How, Sample, NET, Code, Java, Axis, 1.4]
+keywords: [Summary, Send, JobId, retrieving, email, Why, Retrieve, How, Sample, NET, Code, Java, Axis, 1.4, PHP]
 ---
-
-# Summary of Send Using JobId
 
 > This page contains information  about retrieving a summary of tracking information for an email send using the JobID of the send.
 

@@ -5,12 +5,10 @@ topic: updatemscrmrecords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.858Z
+lastCollected: 2026-04-07T18:40:24.356Z
 estimatedTokens: 270
-keywords: [UpdateMscrmRecords, Function, Ordinal, Microsoft, Dynamics, CRM, entity, receiving, updated, records, Comma-separated, **Overview**, **Syntax**, Usage]
+keywords: [UpdateMscrmRecords, Function, Ordinal, Microsoft, Dynamics, CRM, entity, receiving, updated, records, Comma-separated, **Overview**, **Syntax**]
 ---
-
-# UpdateMscrmRecords
 
 > UpdateMscrmRecords(1, 2, 3, 4)
 

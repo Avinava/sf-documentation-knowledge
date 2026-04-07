@@ -5,12 +5,10 @@ topic: learningequivalency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.314Z
+lastCollected: 2026-04-07T18:37:31.442Z
 estimatedTokens: 896
-keywords: [LearningEquivalency, equivalency, external, internal, learnings, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [LearningEquivalency, equivalency, external, internal, learnings, API, 65.0]
 ---
-
-# LearningEquivalency
 
 > Represents the details of the equivalency between external and internal
          learnings. This object is available in API version 65.0 and later.

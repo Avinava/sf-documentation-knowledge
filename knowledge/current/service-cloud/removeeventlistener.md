@@ -5,12 +5,10 @@ topic: removeeventlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.472Z
+lastCollected: 2026-04-07T18:36:50.729Z
 estimatedTokens: 260
-keywords: [removeEventListener, Removes, listener, custom, event, standard, API, version, 25.0, later, 30.0, Arguments, Sample, Code, Later–Visualforce]
+keywords: [Arguments, removeEventListener, Removes, listener, event, standard, API, 25.0, 30.0, Sample, Code, Later–Visualforce]
 ---
-
-# removeEventListener()
 
 > Removes a listener for a custom event type or a
             standard event type. This method removes a listener for custom event types in API

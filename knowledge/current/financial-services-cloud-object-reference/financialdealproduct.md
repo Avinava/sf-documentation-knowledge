@@ -5,12 +5,10 @@ topic: financialdealproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.491Z
+lastCollected: 2026-04-07T18:37:37.272Z
 estimatedTokens: 1113
-keywords: [FinancialDealProduct, products, services, offered, bank, deal, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [FinancialDealProduct, products, services, offered, bank, deal, API, 52.0]
 ---
-
-# FinancialDealProduct
 
 > Represents the products (services) offered by the bank in the deal.
 		This object is available in API version 52.0 and later.

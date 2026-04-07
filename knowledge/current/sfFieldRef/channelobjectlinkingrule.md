@@ -5,13 +5,11 @@ topic: channelobjectlinkingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.262Z
+lastCollected: 2026-04-07T18:39:33.672Z
 estimatedTokens: 457
 namespace: NamespacePrefix
-keywords: [ChannelObjectLinkingRule, rule, linking, channel, interaction, Lead, Contact, API, version, 47.0, later]
+keywords: [ChannelObjectLinkingRule, rule, linking, channel, interaction, Lead, Contact, API, 47.0]
 ---
-
-# ChannelObjectLinkingRule
 
 > Represents a rule for linking a channel interaction with an object (such as
       Lead or Contact). This object is available in API version 47.0 and later.

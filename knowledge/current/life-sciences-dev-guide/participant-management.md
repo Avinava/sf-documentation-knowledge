@@ -5,12 +5,10 @@ topic: participant-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.986Z
+lastCollected: 2026-04-07T18:37:57.541Z
 estimatedTokens: 669
-keywords: [Participant, Management, data, model, helps, streamline, recruitment, enrollment, processes, clinical, trials, advanced, digital, solutions, store]
+keywords: [Participant, Management, model, helps, streamline, recruitment, enrollment, processes, clinical, trials, advanced, digital, solutions, store, trial, representing, care, programs, research, studies, It’s, USCDI, FHIR, R4-aligned, system's, interoperability, compliance, managing, efficiently]
 ---
-
-# Participant Management
 
 > Participant Management data model helps you to streamline the recruitment and enrollment
   processes in clinical trials with advanced digital solutions. With this data model, you can store

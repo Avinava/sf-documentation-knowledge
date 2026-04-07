@@ -5,12 +5,10 @@ topic: adverseevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:08.713Z
+lastCollected: 2026-04-07T18:37:58.240Z
 estimatedTokens: 1505
-keywords: [AdverseEvent, FHIR, resource, maps, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [AdverseEvent, FHIR, resource, maps, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# AdverseEvent
 
 > The AdverseEvent FHIR resource maps to the
       AdverseEvent objects in Salesforce.

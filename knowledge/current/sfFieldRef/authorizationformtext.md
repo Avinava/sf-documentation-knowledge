@@ -5,12 +5,10 @@ topic: authorizationformtext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.633Z
+lastCollected: 2026-04-07T18:39:28.708Z
 estimatedTokens: 471
-keywords: [AuthorizationFormText, authorization, form’s, text, language, settings, API, version, 46.0, later]
+keywords: [AuthorizationFormText, authorization, form’s, text, language, settings, API, 46.0]
 ---
-
-# AuthorizationFormText
 
 > Represents an authorization form’s text and language settings.
 		This object is available in API version 46.0 and later.

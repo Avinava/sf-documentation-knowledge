@@ -5,12 +5,10 @@ topic: redeem-voucher-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.125Z
+lastCollected: 2026-04-07T18:39:09.443Z
 estimatedTokens: 461
 keywords: [Redeem, Voucher, POST, advocate, their, referred, friend]
 ---
-
-# Redeem Voucher (POST)
 
 > Redeem a voucher for an advocate or their referred friend.
 

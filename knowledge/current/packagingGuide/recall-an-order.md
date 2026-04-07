@@ -5,12 +5,10 @@ topic: recall-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.638Z
+lastCollected: 2026-04-07T18:38:46.512Z
 estimatedTokens: 252
-keywords: [Recall, Order, don’t, want, Salesforce, process, submitted, becomes, read-only, can’t, edit, resubmit, cases, hours, submitting]
+keywords: [Recall, Order, don’t, want, Salesforce, process, submitted, becomes, read-only, can’t, edit, resubmit, cases, hours, submitting, Near, end, month, window, recalling, minutes]
 ---
-
-# Recall an Order
 
 > If you don’t want Salesforce to process an order that you submitted, recall it. After you
     recall an order, it becomes read-only, and you can’t edit or resubmit it. In most cases, you can

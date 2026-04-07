@@ -5,13 +5,11 @@ topic: amountdetailsresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.774Z
+lastCollected: 2026-04-07T18:35:40.594Z
 estimatedTokens: 1003
 namespace: CommerceTax
 keywords: [AmountDetailsResponse, tax, amount, external, engine, setExemptAmount, exemptAmount, setTaxAmount, taxAmount, setTotalAmount, totalAmount, setTotalAmountWithTax, totalAmtWithTax]
 ---
-
-# AmountDetailsResponse Class
 
 > Sets tax amount fields based on a response from the external tax
       engine.

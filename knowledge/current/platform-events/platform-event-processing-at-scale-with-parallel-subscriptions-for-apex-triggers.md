@@ -5,12 +5,10 @@ topic: platform-event-processing-at-scale-with-parallel-subscriptions-for-apex-t
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.300Z
+lastCollected: 2026-04-07T18:38:58.113Z
 estimatedTokens: 1411
-keywords: [Platform, Event, Processing, Scale, Parallel, Subscriptions, Apex, Triggers, speed, trigger, process, events, simultaneously, instead, stream]
+keywords: [Platform, Event, Processing, Scale, Parallel, Subscriptions, Apex, Triggers, speed, trigger, process, events, simultaneously, instead, stream, handle, high, volumes, high-volume, standard, change, How, Work, Setup]
 ---
-
-# Platform Event Processing at Scale with Parallel Subscriptions for Apex Triggers
 
 > To speed up platform event processing in an Apex trigger, use parallel subscriptions to
   process events simultaneously instead of in a single stream. With parallel subscriptions, you can

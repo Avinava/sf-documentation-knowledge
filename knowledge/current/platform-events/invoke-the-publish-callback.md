@@ -5,12 +5,10 @@ topic: invoke-the-publish-callback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.409Z
+lastCollected: 2026-04-07T18:38:58.261Z
 estimatedTokens: 293
 keywords: [Invoke, Publish, Callback, system, final, result, pass, instance, second, EventBus.publish, call, Status, Code]
 ---
-
-# Invoke the Publish Callback
 
 > To have the system invoke the callback when the final publish result is available, pass
   in an instance of the callback class as the second parameter in the EventBus.publish call.

@@ -5,12 +5,10 @@ topic: balanceadjustmentrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.725Z
+lastCollected: 2026-04-07T18:39:28.819Z
 estimatedTokens: 436
-keywords: [BalanceAdjustmentRequest, financial, adjustment, backend, billing, system, Adjustments, requests, either, debit, credit, amounts, Often, give, customer]
+keywords: [BalanceAdjustmentRequest, financial, adjustment, backend, billing, system, Adjustments, requests, either, debit, credit, amounts, Often, give, customer, goodwill, gesture, API, 62.0]
 ---
-
-# BalanceAdjustmentRequest
 
 > The request to create a financial adjustment in a backend billing system.
          Adjustments requests can be for either debit or credit amounts. Often used to give the

@@ -5,12 +5,10 @@ topic: setup-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:46.071Z
+lastCollected: 2026-04-07T18:36:31.444Z
 estimatedTokens: 4982
-keywords: [Setup, Objects, interact, metadata, declarative, development, own, version, restrict, amount, data, push, app, mobile, phone]
+keywords: [Setup, interact, metadata, declarative, development, own, restrict, amount, push, app, mobile, phone]
 ---
-
-# Setup Objects
 
 > Use setup objects to interact with metadata for declarative development. For example,
         you can create your own version of Setup, or restrict the amount of data required to push to

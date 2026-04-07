@@ -5,12 +5,10 @@ topic: groundtravelemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.420Z
+lastCollected: 2026-04-07T18:39:42.993Z
 estimatedTokens: 485
 keywords: [GroundTravelEmssnFctr, emissions, factors, scope, ground, travel]
 ---
-
-# GroundTravelEmssnFctr
 
 > Represents the emissions factors for scope 3 ground travel.
 

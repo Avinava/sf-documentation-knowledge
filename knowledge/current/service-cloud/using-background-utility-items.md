@@ -5,12 +5,10 @@ topic: using-background-utility-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:03.413Z
+lastCollected: 2026-04-07T18:36:49.526Z
 estimatedTokens: 391
-keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, component, fires, responds, events, rendering, bar]
+keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, fires, responds, events, rendering, bar]
 ---
-
-# Using Background Utility Items
 
 > Implement the lightning:backgroundUtilityItem
         interface to create a component that fires and responds to events without rendering in the

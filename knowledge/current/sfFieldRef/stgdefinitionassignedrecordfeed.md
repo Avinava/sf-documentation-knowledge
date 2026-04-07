@@ -5,12 +5,10 @@ topic: stgdefinitionassignedrecordfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.043Z
+lastCollected: 2026-04-07T18:40:02.726Z
 estimatedTokens: 394
-keywords: [StgDefinitionAssignedRecordFeed, Feed, tracking, StgDefinitionAssignedRecord]
+keywords: [StgDefinitionAssignedRecordFeed, StgDefinitionAssignedRecord]
 ---
-
-# StgDefinitionAssignedRecordFeed
 
 > Feed tracking for StgDefinitionAssignedRecord.
 

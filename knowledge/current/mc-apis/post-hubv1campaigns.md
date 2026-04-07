@@ -5,12 +5,10 @@ topic: post-hubv1campaigns
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.798Z
+lastCollected: 2026-04-07T18:40:15.917Z
 estimatedTokens: 313
-keywords: [POST, hub, campaigns, **Overview**, Usage]
+keywords: [POST, hub, campaigns, **Overview**]
 ---
-
-# POST /hub/v1/campaigns
 
 # POST /hub/v1/campaigns
 

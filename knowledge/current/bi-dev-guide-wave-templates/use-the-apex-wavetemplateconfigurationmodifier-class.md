@@ -5,12 +5,10 @@ topic: use-the-apex-wavetemplateconfigurationmodifier-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.563Z
+lastCollected: 2026-04-07T18:37:02.172Z
 estimatedTokens: 935
-keywords: [Apex, WaveTemplateConfigurationModifier, checks, org’s, data, simplify, app, creation, modify, template, configuration, wizard, accordingly]
+keywords: [Apex, WaveTemplateConfigurationModifier, checks, org’s, simplify, app, creation, modify, template, configuration, wizard, accordingly]
 ---
-
-# Use the Apex WaveTemplateConfigurationModifier Class
 
 > The WaveTemplateConfigurationModifier class checks
   an org’s data. Also, to simplify app creation, it can modify the template configuration wizard

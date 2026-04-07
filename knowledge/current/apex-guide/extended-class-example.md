@@ -5,12 +5,10 @@ topic: extended-class-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.242Z
+lastCollected: 2026-04-07T18:36:16.467Z
 estimatedTokens: 592
 keywords: [Extended, showing, features, Apex, classes, keywords, concepts, introduced, explained, detail, throughout, chapter]
 ---
-
-# Extended Class Example
 
 > The following is an extended example of a class, showing all the
 features of Apex classes. The keywords and concepts introduced in the example are

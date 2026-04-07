@@ -5,12 +5,10 @@ topic: attrpicklistexcludedvaluefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.070Z
+lastCollected: 2026-04-07T18:39:28.094Z
 estimatedTokens: 365
-keywords: [AttrPicklistExcludedValueFeed, Feed, tracking, AttrPicklistExcludedValue]
+keywords: [AttrPicklistExcludedValueFeed, AttrPicklistExcludedValue]
 ---
-
-# AttrPicklistExcludedValueFeed
 
 > Feed tracking for AttrPicklistExcludedValue.
 

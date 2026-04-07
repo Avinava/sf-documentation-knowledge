@@ -5,12 +5,10 @@ topic: skilltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.453Z
+lastCollected: 2026-04-07T18:37:48.069Z
 estimatedTokens: 330
-keywords: [SkillType, broader, category, skill, belongs, API, version, 58.0, later, Calls, Usage]
+keywords: [SkillType, broader, category, skill, belongs, API, 58.0]
 ---
-
-# SkillType
 
 > Represents the broader type or category that a skill belongs to. This
       object is available in API version 58.0 and later.

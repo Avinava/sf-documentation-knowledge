@@ -5,12 +5,10 @@ topic: subscription-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.677Z
+lastCollected: 2026-04-07T18:40:16.835Z
 estimatedTokens: 335
-keywords: [Subscription, Filters, Event, Notification, Service, filter, notifications, sent, associated, callback, expressed, name=value, pairs, Filtering, Data]
+keywords: [Subscription, Filters, Event, Notification, Service, filter, notifications, sent, callback, expressed, name=value, pairs, Filtering, Items]
 ---
-
-# Subscription Filters
 
 > Your Event Notification Service subscription can filter the notifications that are sent to the associated callback. Filters are expressed as a list of one or more name=value pairs on the subscription.
 

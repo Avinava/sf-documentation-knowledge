@@ -5,12 +5,10 @@ topic: component-event-propagation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.007Z
+lastCollected: 2026-04-07T18:38:04.107Z
 estimatedTokens: 577
-keywords: [Component, Event, Propagation, framework, supports, capture, bubble, phases, events, similar, DOM, handling, patterns, provide, opportunity]
+keywords: [Event, Propagation, framework, supports, capture, bubble, phases, events, similar, DOM, handling, patterns, provide, opportunity, interested, interact, potentially, control, behavior, subsequent, handlers]
 ---
-
-# Component Event Propagation
 
 > The framework supports capture and
         bubble phases for the propagation of component events. These phases are similar

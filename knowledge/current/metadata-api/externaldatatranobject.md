@@ -5,12 +5,10 @@ topic: externaldatatranobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.337Z
+lastCollected: 2026-04-07T18:36:25.837Z
 estimatedTokens: 1741
-keywords: [ExternalDataTranObject, definition, Data, schema, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [ExternalDataTranObject, ExternalDataTranField, MktDataTranField, definition, schema, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# ExternalDataTranObject
 
 > Represents a definition of a Data 360 schema object. This type extends the Metadata metadata type and inherits its
         fullName field.

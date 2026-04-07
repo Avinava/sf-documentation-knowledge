@@ -5,12 +5,10 @@ topic: step-4-packaging-components-for-customer-organizations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.997Z
+lastCollected: 2026-04-07T18:39:09.315Z
 estimatedTokens: 192
-keywords: [Step, Packaging, Components, Customer, Organizations, distribute, Apex, triggers, external, client, app, customers, partners, managed, package]
+keywords: [Step, Packaging, Customer, Organizations, distribute, Apex, triggers, external, client, app, customers, partners, managed, package]
 ---
-
-# Step 4. Packaging Components for Customer Organizations
 
 > To distribute the Apex triggers and the external client app to customers, partners can
   create a managed package.

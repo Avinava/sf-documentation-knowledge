@@ -5,13 +5,11 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.575Z
+lastCollected: 2026-04-07T18:39:38.281Z
 estimatedTokens: 480
 namespace: NamespacePrefix
 keywords: [Document, file, user, uploaded, Unlike, Attachment, records, documents, attached, parent]
 ---
-
-# Document
 
 > Represents a file that a user has uploaded. Unlike Attachment records,
    documents are not attached to a parent object.

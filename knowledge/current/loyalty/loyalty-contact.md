@@ -5,12 +5,10 @@ topic: loyalty-contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.722Z
+lastCollected: 2026-04-07T18:38:07.963Z
 estimatedTokens: 140
-keywords: [Loyalty, Contact, program, member's, associated, record]
+keywords: [Loyalty, Contact, program, member's, record]
 ---
-
-# Loyalty Contact
 
 > Represents the details of the loyalty program member's associated
       contact record.

@@ -5,12 +5,10 @@ topic: post-pushv1messagecontactmessageidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.048Z
+lastCollected: 2026-04-07T18:40:18.238Z
 estimatedTokens: 1018
-keywords: [POST, push, messageContact, messageId, send, message, mobile, devices, push-enabled, app, **Overview**, Usage]
+keywords: [POST, push, messageContact, messageId, send, message, mobile, devices, push-enabled, app, **Overview**]
 ---
-
-# POST /push/v1/messageContact/{messageId}/send
 
 > Sends a message to the specified mobile devices of a push-enabled app.
 

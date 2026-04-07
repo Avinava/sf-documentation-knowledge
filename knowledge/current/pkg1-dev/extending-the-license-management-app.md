@@ -5,12 +5,10 @@ topic: extending-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.582Z
+lastCollected: 2026-04-07T18:38:53.897Z
 estimatedTokens: 475
-keywords: [Extending, License, Management, App, LMA, managed, package, customize, extend, addition, manage, leads, licenses, partners, integrate]
+keywords: [Extending, License, Management, App, LMA, managed, package, customize, extend, addition, manage, leads, licenses, partners, integrate, their, business, processes]
 ---
-
-# Extending the License Management App
 
 > The License Management App (LMA) is a managed package that you can customize and extend.
   In addition to using the LMA to manage leads and licenses, many partners also integrate it into

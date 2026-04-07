@@ -5,12 +5,10 @@ topic: dataobjectmetadatachgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.742Z
+lastCollected: 2026-04-07T18:39:37.390Z
 estimatedTokens: 329
-keywords: [DataObjectMetadataChgEvent, Notifies, subscribers, metadata, change, Data, Cloud, objects, Lake, Model, Calculated, Insight, API, version, 53.0]
+keywords: [DataObjectMetadataChgEvent, Notifies, subscribers, metadata, change, Cloud, Lake, Model, Calculated, Insight, API, 53.0]
 ---
-
-# DataObjectMetadataChgEvent
 
 > Notifies subscribers of a metadata change within Data Cloud for these
 			objects: Data Lake, Data Model, and Calculated Insight. This object is available in

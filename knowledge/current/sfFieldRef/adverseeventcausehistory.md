@@ -5,12 +5,10 @@ topic: adverseeventcausehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.286Z
+lastCollected: 2026-04-07T18:39:25.187Z
 estimatedTokens: 266
-keywords: [AdverseEventCauseHistory, History, tracked, AdverseEventCause]
+keywords: [AdverseEventCauseHistory, tracked, AdverseEventCause]
 ---
-
-# AdverseEventCauseHistory
 
 > History for tracked fields of AdverseEventCause.
 

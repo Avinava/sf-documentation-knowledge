@@ -5,12 +5,10 @@ topic: pricebook2history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.934Z
+lastCollected: 2026-04-07T18:38:38.292Z
 estimatedTokens: 602
-keywords: [Pricebook2History, historical, changes, made, standard, associated, Pricebook2, any, custom, history, tracking, enabled, API, version, later]
+keywords: [Pricebook2History, historical, changes, made, standard, Pricebook2, any, enabled, API]
 ---
-
-# Pricebook2History
 
 > Represents historical information
     about changes that have been made to the standard fields of the associated Pricebook2, or to any

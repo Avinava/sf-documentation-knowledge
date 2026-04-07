@@ -5,12 +5,10 @@ topic: sustainabilitytaskgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.196Z
+lastCollected: 2026-04-07T18:38:19.872Z
 estimatedTokens: 866
-keywords: [SustainabilityTaskGroup, group, sustainability, tasks, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [SustainabilityTaskGroup, group, sustainability, tasks, API, 64.0]
 ---
-
-# SustainabilityTaskGroup
 
 > Represents the group of sustainability tasks. This object is available
       in API version 64.0 and later.

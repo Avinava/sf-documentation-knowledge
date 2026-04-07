@@ -5,12 +5,10 @@ topic: userhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.336Z
+lastCollected: 2026-04-07T18:40:05.172Z
 estimatedTokens: 249
-keywords: [UserHistory, History, tracked, User]
+keywords: [UserHistory, tracked, User]
 ---
-
-# UserHistory
 
 > History for tracked fields of User.
 

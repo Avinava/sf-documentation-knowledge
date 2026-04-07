@@ -5,12 +5,10 @@ topic: prodtattrscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.572Z
+lastCollected: 2026-04-07T18:39:55.134Z
 estimatedTokens: 320
-keywords: [ProdtAttrScope, scope, definition, product, attribute, claims, processing, API, version, 65.0, later]
+keywords: [ProdtAttrScope, scope, definition, product, attribute, claims, processing, API, 65.0]
 ---
-
-# ProdtAttrScope
 
 > Represents the scope definition for a product attribute so that it can be
          used during claims processing. This object is available in API version 65.0 and later.

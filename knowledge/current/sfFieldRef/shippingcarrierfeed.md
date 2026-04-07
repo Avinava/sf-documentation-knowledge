@@ -5,12 +5,10 @@ topic: shippingcarrierfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.455Z
+lastCollected: 2026-04-07T18:40:02.153Z
 estimatedTokens: 360
-keywords: [ShippingCarrierFeed, Feed, tracking, ShippingCarrier]
+keywords: [ShippingCarrierFeed, ShippingCarrier]
 ---
-
-# ShippingCarrierFeed
 
 > Feed tracking for ShippingCarrier.
 

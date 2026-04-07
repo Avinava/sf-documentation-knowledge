@@ -5,12 +5,10 @@ topic: care-plan-definitions-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.729Z
+lastCollected: 2026-04-07T18:39:01.875Z
 estimatedTokens: 167
 keywords: [Care, Plan, Definitions, Retrieve, definition, record, goal, benefits]
 ---
-
-# Care Plan Definitions (GET)
 
 > Retrieve details about a specified definition record that is related
       to goal definition and the benefits of a care plan.

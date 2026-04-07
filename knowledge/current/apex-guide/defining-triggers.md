@@ -5,12 +5,10 @@ topic: defining-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.519Z
+lastCollected: 2026-04-07T18:36:18.737Z
 estimatedTokens: 1581
-keywords: [Defining, Triggers, Trigger, code, stored, metadata, under, they, associated, Apex, Editor]
+keywords: [Defining, Triggers, Trigger, code, stored, metadata, under, they, Apex, Editor]
 ---
-
-# Defining Triggers
 
 > Trigger code is stored as metadata under the object with which they are
     associated.

@@ -5,12 +5,10 @@ topic: common-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:24.873Z
+lastCollected: 2026-04-07T18:38:15.364Z
 estimatedTokens: 931
-keywords: [Common, Navigation, Actions, aren’t, specific, Salesforce, Depending, situation, LWC, service, special, cases, standard, JavaScript, code]
+keywords: [Common, Navigation, Actions, aren’t, specific, Salesforce, Depending, situation, LWC, service, cases, standard, JavaScript, code, techniques, Open, Arbitrary, URL, Close, Modal, Quick, Action, Panel, Back]
 ---
-
-# Common Navigation Actions
 
 > These common navigation actions aren’t specific to Salesforce. Depending on your
     situation, use the LWC navigation service, or in some special cases use standard JavaScript code

@@ -5,12 +5,10 @@ topic: liveagentclientchatlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.844Z
+lastCollected: 2026-04-07T18:38:50.066Z
 estimatedTokens: 645
-keywords: [liveAgent, clientChatLog, area, chat, window, displays, transcript, visitor, Attributes]
+keywords: [Attributes, liveAgent, clientChatLog, area, chat, window, displays, transcript, visitor]
 ---
-
-# liveAgent:clientChatLog
 
 > The area in a chat window that displays the chat transcript to a visitor.
 

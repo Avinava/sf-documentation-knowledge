@@ -5,12 +5,10 @@ topic: retrieve-campaign-asset-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.958Z
+lastCollected: 2026-04-07T18:40:24.459Z
 estimatedTokens: 634
-keywords: [Retrieve, Campaign, Asset, assets, Ruby, PHP, Python, CSharp, Java, Filter, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Campaign, Asset, assets, PHP, Filter, Requests]
 ---
-
-# Retrieve Campaign Asset Details
 
 > Use the Get method to return information about existing campaign assets.
 

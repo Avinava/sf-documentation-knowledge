@@ -5,12 +5,10 @@ topic: create-routes-from-visit-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.750Z
+lastCollected: 2026-04-07T18:38:11.013Z
 estimatedTokens: 789
-keywords: [Routes, Visit, Plan, StartAdvancedOptimizationForVisitPlan, Apex, creates, users, assigned, Salesforce, Maps, Advanced, leverage, planning, custom, workflow]
+keywords: [Routes, Visit, Plan, StartAdvancedOptimizationForVisitPlan, Apex, creates, users, assigned, Salesforce, Maps, Advanced, leverage, planning, workflow, app, retail, execution, generate, reps, automatically, having, click, manually, Sample, Code]
 ---
-
-# Create Routes from Visit Plan
 
 > The StartAdvancedOptimizationForVisitPlan() Apex method creates routes for all
             users assigned to a Salesforce Maps Advanced visit plan. Use this method to leverage

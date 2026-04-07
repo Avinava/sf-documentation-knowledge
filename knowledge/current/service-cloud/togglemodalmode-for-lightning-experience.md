@@ -5,12 +5,10 @@ topic: togglemodalmode-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.985Z
+lastCollected: 2026-04-07T18:36:50.180Z
 estimatedTokens: 275
-keywords: [toggleModalMode, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, isn’t, Web]
+keywords: [Arguments, toggleModalMode, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, isn’t, Web, LWC, Aura, Sample, Code]
 ---
-
-# toggleModalMode() for Lightning Experience
 
 > Toggles modal mode for a utility. While in modal mode, an overlay blocks users from
   using the console while the utility panel is visible. This method isn’t supported for Lightning

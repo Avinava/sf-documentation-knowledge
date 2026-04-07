@@ -5,12 +5,10 @@ topic: decision-table-parameter-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.356Z
+lastCollected: 2026-04-07T18:39:02.572Z
 estimatedTokens: 410
-keywords: [Decision, Output, representation]
+keywords: [Decision]
 ---
-
-# Decision Table Parameter Output
 
 > Output representation of a decision table parameter.
 

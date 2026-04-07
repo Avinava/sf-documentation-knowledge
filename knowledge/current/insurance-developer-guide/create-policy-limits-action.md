@@ -5,12 +5,10 @@ topic: create-policy-limits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.994Z
+lastCollected: 2026-04-07T18:37:48.708Z
 estimatedTokens: 217
-keywords: [Policy, Limits, Action, insurance, limit, records, coverage, root, attributes, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Policy, Limits, Action, insurance, limit, records, coverage, root, attributes, REST, HTTP]
 ---
-
-# Create Policy Limits Action
 
 > Create insurance policy limit records for policy coverage and root
   attributes.

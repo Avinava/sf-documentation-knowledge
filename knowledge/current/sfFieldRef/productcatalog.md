@@ -5,12 +5,10 @@ topic: productcatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.777Z
+lastCollected: 2026-04-07T18:39:55.343Z
 estimatedTokens: 393
-keywords: [ProductCatalog, container, holds, Product, Category, hierarchy, API, version, 55.0, later]
+keywords: [ProductCatalog, container, holds, Product, Category, hierarchy, API, 55.0]
 ---
-
-# ProductCatalog
 
 > The container that holds a Product Category hierarchy. This object is available in API version 55.0 and later.
 

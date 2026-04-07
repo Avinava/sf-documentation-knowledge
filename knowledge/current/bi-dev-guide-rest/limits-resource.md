@@ -5,12 +5,10 @@ topic: limits-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.802Z
+lastCollected: 2026-04-07T18:36:56.344Z
 estimatedTokens: 877
 keywords: [Limits, Resource, Analytics, Salesforce, org, Postman]
 ---
-
-# Limits Resource
 
 > The Analytics limits for the Salesforce org.
 

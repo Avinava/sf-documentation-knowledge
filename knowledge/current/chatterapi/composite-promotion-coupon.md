@@ -5,12 +5,10 @@ topic: composite-promotion-coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.739Z
+lastCollected: 2026-04-07T18:37:17.808Z
 estimatedTokens: 233
-keywords: [Composite, Promotion, Coupon, Output, representation]
+keywords: [Composite, Promotion, Coupon]
 ---
-
-# Composite Promotion Coupon
 
 > Output representation of a promotion coupon.
 

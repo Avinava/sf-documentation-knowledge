@@ -5,12 +5,10 @@ topic: outcomeactivityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.128Z
+lastCollected: 2026-04-07T18:39:51.543Z
 estimatedTokens: 263
-keywords: [OutcomeActivityHistory, History, tracked, OutcomeActivity]
+keywords: [OutcomeActivityHistory, tracked, OutcomeActivity]
 ---
-
-# OutcomeActivityHistory
 
 > History for tracked fields of OutcomeActivity.
 

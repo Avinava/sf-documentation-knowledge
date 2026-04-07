@@ -5,12 +5,10 @@ topic: input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.943Z
+lastCollected: 2026-04-07T18:37:57.486Z
 estimatedTokens: 208
-keywords: [Input, Classes, Apex, Life, Sciences, Cloud]
+keywords: [Classes, Apex, Life, Sciences, Cloud]
 ---
-
-# Input Classes
 
 > These are the Apex input classes for Life Sciences Cloud.
 

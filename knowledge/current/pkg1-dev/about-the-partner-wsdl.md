@@ -5,12 +5,10 @@ topic: about-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.867Z
+lastCollected: 2026-04-07T18:38:54.262Z
 estimatedTokens: 237
-keywords: [Partner, WSDL, Web, Services, client, applications, metadata-driven, dynamic, nature, It’s, particularly—but, exclusively—useful, Salesforce, partners, building]
+keywords: [Partner, WSDL, Web, Services, client, applications, metadata-driven, dynamic, nature, It’s, particularly—but, exclusively—useful, Salesforce, partners, building, multiple, organizations]
 ---
-
-# About the Partner WSDL
 
 > The Partner Web Services WSDL is used for client applications that are metadata-driven
   and dynamic in nature. It’s particularly—but not exclusively—useful to

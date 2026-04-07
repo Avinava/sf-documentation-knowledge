@@ -5,12 +5,10 @@ topic: mfgprogramtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.584Z
+lastCollected: 2026-04-07T18:38:12.912Z
 estimatedTokens: 886
-keywords: [MfgProgramTemplate, definition, program, program-based, business, known, Manufacturing, manufacturers, drive, their, models, forecasting, tools, manage, end-to-end, templates, associated, manufacturing, API, version]
+keywords: [MfgProgramTemplate, MfgProgramTemplateItem, definition, program, program-based, business, known, Manufacturing, manufacturers, drive, their, models, forecasting, tools, manage, end-to-end, sales, process, efficiently, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest, templates, manufacturing, API, 55.0]
 ---
-
-# MfgProgramTemplate
 
 > Represents a definition of a program to create a
 			program-based business. A program-based business, also known as a Manufacturing Program,

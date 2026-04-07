@@ -5,12 +5,10 @@ topic: pass-the-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.629Z
+lastCollected: 2026-04-07T18:38:47.584Z
 estimatedTokens: 628
 keywords: [Pass, AppExchange, Security, Review, Effective, Date, August, Salesforce, nothing, trust, customers, requires, how, prepare]
 ---
-
-# Pass the AppExchange Security Review
 
 > [Effective Date: August 9, 2023] At Salesforce, nothing is more important than the
     trust of our customers. Trust requires security. Learn how to prepare for and pass the

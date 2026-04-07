@@ -5,12 +5,10 @@ topic: customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:36.532Z
+lastCollected: 2026-04-07T18:36:21.779Z
 estimatedTokens: 7294
-keywords: [CustomField, metadata, associated, custom, definitions, standard, external, objects, Declarative, File, Suffix, Directory, Location, Retrieving, Deploying]
+keywords: [CustomField, MktDataModelFieldAttributes, MktDataLakeFieldAttributes, LookupFilter, FilterItem, metadata, definitions, standard, external, Declarative, File, Suffix, Directory, Location, Retrieving, Deploying, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomField
 
 > Represents the metadata associated with a field. Use
             this metadata type to create, update, or delete custom field definitions on standard,

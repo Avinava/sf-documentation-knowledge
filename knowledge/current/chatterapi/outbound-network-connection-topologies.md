@@ -5,12 +5,10 @@ topic: outbound-network-connection-topologies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.427Z
+lastCollected: 2026-04-07T18:37:21.547Z
 estimatedTokens: 83
 keywords: [Outbound, Network, Connection, Topologies]
 ---
-
-# Outbound Network Connection Topologies
 
 > Outbound network connection topologies.
 

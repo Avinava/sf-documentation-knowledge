@@ -5,12 +5,10 @@ topic: emoji-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.528Z
+lastCollected: 2026-04-07T18:37:18.623Z
 estimatedTokens: 97
 keywords: [Emoji, Collection]
 ---
-
-# Emoji Collection
 
 > A collection of emoji.
 

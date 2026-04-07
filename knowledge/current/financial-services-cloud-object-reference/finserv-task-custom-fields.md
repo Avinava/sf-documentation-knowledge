@@ -5,12 +5,10 @@ topic: finserv-task-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.896Z
+lastCollected: 2026-04-07T18:37:35.548Z
 estimatedTokens: 234
-keywords: [FinServ, Task, Custom, associated, client, extend, standard, Financial, Services, Cloud]
+keywords: [FinServ, Task, client, extend, standard, Financial, Services, Cloud]
 ---
-
-# FinServ Task Custom Fields
 
 > Represents a task associated with a client. Custom fields extend the
    standard Task object for use in Financial Services Cloud.

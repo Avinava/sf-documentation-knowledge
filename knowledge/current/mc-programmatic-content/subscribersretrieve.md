@@ -5,12 +5,10 @@ topic: subscribersretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.816Z
+lastCollected: 2026-04-07T18:40:23.229Z
 estimatedTokens: 160
 keywords: [Subscribers.Retrieve, Function, Ordinal, Criteria, search, subscribers, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Retrieve
 
 > Subscribers.Retrieve(1)
 

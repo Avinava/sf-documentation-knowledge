@@ -5,12 +5,10 @@ topic: refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.602Z
+lastCollected: 2026-04-07T18:37:52.798Z
 estimatedTokens: 109
-keywords: [Refund, Output, representation]
+keywords: [Refund]
 ---
-
-# Refund
 
 > Output representation of refund details.
 

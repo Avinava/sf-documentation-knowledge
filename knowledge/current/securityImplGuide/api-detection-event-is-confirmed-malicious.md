@@ -5,12 +5,10 @@ topic: api-detection-event-is-confirmed-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.788Z
+lastCollected: 2026-04-07T18:39:22.681Z
 estimatedTokens: 660
-keywords: [API, Detection, Event, Confirmed, Malicious, Alan, Salesforce, user, employs, query, Opportunity, extracts, million, records, It’s]
+keywords: [API, Detection, Event, Confirmed, Malicious, Alan, Salesforce, user, employs, query, Opportunity, extracts, million, records, It’s, time, queries, uses, address, log]
 ---
-
-# API Detection Event Is Confirmed Malicious
 
 > Alan, a Salesforce user, employs an API to query the Opportunity object and extracts 10
     million records. It’s the first time that Alan queries the Opportunity object and uses this IP

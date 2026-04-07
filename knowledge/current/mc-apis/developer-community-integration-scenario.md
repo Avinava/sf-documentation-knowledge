@@ -5,12 +5,10 @@ topic: developer-community-integration-scenario
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.543Z
+lastCollected: 2026-04-07T18:40:16.686Z
 estimatedTokens: 1683
-keywords: [Developer, Community, Integration, Scenario, Owen, manages, CRM, system, Northern, Trail, Outfitters, part, duties, include, planning]
+keywords: [Scenario, Scaling, Developer, Community, Integration, Owen, manages, CRM, system, Northern, Trail, Outfitters, part, duties, include, planning, new, Marketing, Cloud, account, wishes, database, record, staff, wants, Understanding, Model, Creating, Import, Definition, Manipulating, Extracting, Handling, Errors, Exceptions, Items]
 ---
-
-# Developer Community Integration Scenario
 
 > Owen manages an existing CRM system for Northern Trail Outfitters, and part of his duties include planning an integration with a new Marketing Cloud account. While Northern Trail Outfitters wishes to use the CRM as the database of record, the marketing staff wants to use information from that CRM to
 

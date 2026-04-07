@@ -5,12 +5,10 @@ topic: topic-opt-out
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.386Z
+lastCollected: 2026-04-07T18:37:23.496Z
 estimatedTokens: 219
 keywords: [Topic, Opt, “opt, out”, user, doesn’t, want, identified, knowledgeable]
 ---
-
-# Topic Opt Out
 
 > An “opt out” from a topic. Indicates that
 a user doesn’t want to be identified as knowledgeable about

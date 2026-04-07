@@ -5,12 +5,10 @@ topic: set-your-external-organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.015Z
+lastCollected: 2026-04-07T18:39:22.941Z
 estimatedTokens: 1018
-keywords: [External, Organization-Wide, Sharing, Defaults, enable, different, access, level, users]
+keywords: [External, Organization-Wide, Sharing, Defaults, enable, different, level, users]
 ---
-
-# Set Your External Organization-Wide Sharing Defaults
 
 > External organization-wide defaults enable you to set a different default access level
   for external users.

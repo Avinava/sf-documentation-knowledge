@@ -5,12 +5,10 @@ topic: inscontributionplngroupcls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.790Z
+lastCollected: 2026-04-07T18:37:37.591Z
 estimatedTokens: 1105
-keywords: [InsContributionPlnGroupCls, junction, employee, group, their, contribution, towards, insurance, API, version, later, Calls, Associated, Objects]
+keywords: [InsContributionPlnGroupCls, junction, employee, group, their, contribution, towards, insurance, API]
 ---
-
-# InsContributionPlnGroupCls
 
 > Represents a junction between employee group class and their contribution towards
          their insurance. This object is available in API version 61 and later.

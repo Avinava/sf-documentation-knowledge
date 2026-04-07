@@ -5,12 +5,10 @@ topic: customer-community-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.900Z
+lastCollected: 2026-04-07T18:37:24.865Z
 estimatedTokens: 358
-keywords: [Customer, Community, Resources, Manage, document, control, users, Salesforce's, Contract, Lifecycle, Management, CLM, securely, access, recent]
+keywords: [Customer, Community, Resources, Manage, document, control, users, Salesforce's, Contract, Lifecycle, Management, CLM, securely, recent, versions, resource, streamline, sharing, external, reviews, digital, signing, ensuring, granted, latest, relevant, compliance, user's, account, status]
 ---
-
-# Customer Community Resources
 
 > Manage document control for Customer Community (CC) users by using
       Salesforce's

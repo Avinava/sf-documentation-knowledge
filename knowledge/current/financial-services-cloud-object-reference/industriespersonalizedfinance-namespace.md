@@ -5,13 +5,11 @@ topic: industriespersonalizedfinance-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.959Z
+lastCollected: 2026-04-07T18:37:34.491Z
 estimatedTokens: 273
 namespace: The
-keywords: [industriespersonalizedfinance, classes, provide, data, helper, functions, personalized, finance]
+keywords: [industriespersonalizedfinance, classes, provide, helper, functions, personalized, finance]
 ---
-
-# industriespersonalizedfinance Namespace
 
 > The industriespersonalizedfinance namespace
     classes provide data helper functions for use in personalized finance.

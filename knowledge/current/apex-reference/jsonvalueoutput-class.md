@@ -5,13 +5,11 @@ topic: jsonvalueoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.324Z
+lastCollected: 2026-04-07T18:35:59.601Z
 estimatedTokens: 2149
 namespace: Auth
-keywords: [JsonValueOutput, Stores, output, User, Data, JSON, invocable, action, access, Flow, Builder, Usage, stringValue, booleanValue, integerValue]
+keywords: [JsonValueOutput, Stores, User, JSON, invocable, action, Flow, Builder, stringValue, booleanValue, integerValue, doubleValue, jsonStringValue, jsonArrayValue]
 ---
-
-# JsonValueOutput Class
 
 > Stores the output of the Get User Data from JSON String invocable action, which you can
     access in Flow Builder..

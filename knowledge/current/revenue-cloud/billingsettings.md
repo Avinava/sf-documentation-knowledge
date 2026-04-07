@@ -5,12 +5,10 @@ topic: billingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.416Z
+lastCollected: 2026-04-07T18:35:47.450Z
 estimatedTokens: 2514
-keywords: [BillingSettings, settings, Salesforce, Billing, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules, Declarative]
+keywords: [BillingSettings, settings, Salesforce, Billing, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# BillingSettings
 
 > Represents the settings for Salesforce
 		Billing.

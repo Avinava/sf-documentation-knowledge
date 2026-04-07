@@ -5,12 +5,10 @@ topic: product-catalog-management-fields-on-product-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.749Z
+lastCollected: 2026-04-07T18:35:47.772Z
 estimatedTokens: 227
-keywords: [Product, Catalog, Management, Category, Standard, custom, extend]
+keywords: [Product, Catalog, Management, Category, Standard, extend]
 ---
-
-# Product Catalog Management Fields on Product Category
 
 > Standard and custom fields extend the standard Product Category
          object for use in Product Catalog Management.

@@ -5,12 +5,10 @@ topic: inspolicybillinginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.855Z
+lastCollected: 2026-04-07T18:37:37.656Z
 estimatedTokens: 944
-keywords: [InsPolicyBillingInfo, Stores, billing, supports, workflows, integration, downstream, financial, systems, API, version, 66.0, later, Calls]
+keywords: [InsPolicyBillingInfo, Stores, billing, supports, workflows, integration, downstream, financial, systems, API, 66.0]
 ---
-
-# InsPolicyBillingInfo
 
 > Stores information related to billing and supports billing workflows and
          integration with downstream financial systems. This object is available in API version

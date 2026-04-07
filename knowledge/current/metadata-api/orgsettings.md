@@ -5,12 +5,10 @@ topic: orgsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.682Z
+lastCollected: 2026-04-07T18:36:28.218Z
 estimatedTokens: 748
-keywords: [OrgSettings, settings, org-wide, functionality, isn’t, associated, any, specific, feature.This, extends, Metadata, inherits, fullName, File, Suffix]
+keywords: [OrgSettings, settings, org-wide, functionality, isn’t, any, specific, feature.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# OrgSettings
 
 > Represents the settings for org-wide functionality that
       isn’t associated with any specific feature.This type extends the Metadata metadata type and inherits its fullName field.

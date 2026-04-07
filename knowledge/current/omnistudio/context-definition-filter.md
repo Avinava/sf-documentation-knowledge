@@ -5,12 +5,10 @@ topic: context-definition-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.301Z
+lastCollected: 2026-04-07T18:36:38.962Z
 estimatedTokens: 450
-keywords: [Context, Definition, Filter, Output, representation]
+keywords: [Context, Definition, Filter]
 ---
-
-# Context Definition Filter
 
 > Output representation details of a context definition filter.
 

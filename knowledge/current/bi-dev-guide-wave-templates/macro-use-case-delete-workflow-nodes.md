@@ -5,12 +5,10 @@ topic: macro-use-case-delete-workflow-nodes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.033Z
+lastCollected: 2026-04-07T18:37:02.574Z
 estimatedTokens: 54
 keywords: [Macro, Case, Workflow, Nodes, multiple, having, write, actions]
 ---
-
-# Macro Use Case: Delete Workflow Nodes
 
 > Use this macro to delete multiple nodes from the workflow without having to write
     multiple actions.

@@ -5,12 +5,10 @@ topic: documentclauseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.675Z
+lastCollected: 2026-04-07T18:39:38.370Z
 estimatedTokens: 159
 keywords: [DocumentClauseShare, Sharing, DocumentClause]
 ---
-
-# DocumentClauseShare
 
 > Sharing for DocumentClause.
 

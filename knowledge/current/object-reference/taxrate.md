@@ -5,12 +5,10 @@ topic: taxrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.414Z
+lastCollected: 2026-04-07T18:38:42.228Z
 estimatedTokens: 1084
-keywords: [TaxRate, tax, rate, code, country, API, version, 56.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [TaxRate, tax, rate, code, country, API, 56.0]
 ---
-
-# TaxRate
 
 > Represents a tax rate for a tax code and country. This object is
       available in API version 56.0 and later.

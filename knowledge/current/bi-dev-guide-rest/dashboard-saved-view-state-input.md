@@ -5,12 +5,10 @@ topic: dashboard-saved-view-state-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.336Z
+lastCollected: 2026-04-07T18:36:54.694Z
 estimatedTokens: 236
-keywords: [Dashboard, Saved, View, State, Input, Analytics]
+keywords: [Dashboard, Saved, View, State, Analytics]
 ---
-
-# Dashboard Saved View State Input
 
 > The state for an Analytics dashboard saved view.
 

@@ -5,12 +5,10 @@ topic: chasitorinit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.093Z
+lastCollected: 2026-04-07T18:38:06.347Z
 estimatedTokens: 163
 keywords: [ChasitorInit, Initiates, new, chat, visitor, session, always, POST]
 ---
-
-# ChasitorInit
 
 > Initiates a new chat visitor session. The ChasitorInit request is always required as the first POST request in a new chat
   session.

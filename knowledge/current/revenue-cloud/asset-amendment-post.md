@@ -5,12 +5,10 @@ topic: asset-amendment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.168Z
+lastCollected: 2026-04-07T18:35:44.116Z
 estimatedTokens: 357
 keywords: [Asset, Amendment, POST, Initiate, execute, quote, order]
 ---
-
-# Asset Amendment (POST)
 
 > Initiate and execute the amendment of a quote or an
     order.

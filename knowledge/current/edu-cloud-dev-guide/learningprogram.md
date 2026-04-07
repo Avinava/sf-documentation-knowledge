@@ -5,12 +5,10 @@ topic: learningprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.392Z
+lastCollected: 2026-04-07T18:37:31.530Z
 estimatedTokens: 1407
-keywords: [LearningProgram, trainings, program, that’s, obtain, credential, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearningProgram, trainings, program, that’s, obtain, credential, API, 57.0]
 ---
-
-# LearningProgram
 
 > Represents information about one or more trainings in a program that’s
          required to obtain a credential.  This object is available in API version 57.0 and

@@ -5,12 +5,10 @@ topic: istravelinventoryincluded
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.202Z
+lastCollected: 2026-04-07T18:37:40.173Z
 estimatedTokens: 50
 keywords: [isTravelInventoryIncluded, product, travel, inventory, record]
 ---
-
-# isTravelInventoryIncluded
 
 > Indicates if the product is travel inventory record
         type.

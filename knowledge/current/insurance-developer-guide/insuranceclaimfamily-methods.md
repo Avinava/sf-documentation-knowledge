@@ -5,12 +5,10 @@ topic: insuranceclaimfamily-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.482Z
+lastCollected: 2026-04-07T18:37:49.321Z
 estimatedTokens: 1218
 keywords: [InsuranceClaimFamily]
 ---
-
-# InsuranceClaimFamily Methods
 
 > These methods are for InsuranceClaimFamily. All
   methods are static.

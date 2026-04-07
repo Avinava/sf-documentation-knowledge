@@ -5,12 +5,10 @@ topic: product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.445Z
+lastCollected: 2026-04-07T18:35:46.412Z
 estimatedTokens: 242
-keywords: [Product, Selling, Model, Option, Output, representation, definition]
+keywords: [Product, Selling, Model, Option, definition]
 ---
-
-# Product Selling Model Option
 
 > Output representation of the definition of the product selling model option.
 

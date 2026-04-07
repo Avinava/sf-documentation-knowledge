@@ -5,12 +5,10 @@ topic: document-attachment-downloads-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.188Z
+lastCollected: 2026-04-07T18:38:30.983Z
 estimatedTokens: 719
 keywords: [Document, Attachment, Downloads, Event, events, contain]
 ---
-
-# Document Attachment Downloads Event Type
 
 > Document Attachment Downloads events contain details of document and
          attachment downloads.

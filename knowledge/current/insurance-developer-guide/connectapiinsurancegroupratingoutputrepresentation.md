@@ -5,12 +5,10 @@ topic: connectapiinsurancegroupratingoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.623Z
+lastCollected: 2026-04-07T18:37:50.494Z
 estimatedTokens: 111
-keywords: [Output, representation, group, benefits, rating, process]
+keywords: [group, benefits, rating, process]
 ---
-
-# ConnectApi.InsuranceGroupRatingOutputRepresentation
 
 > Output representation for the group benefits rating process.
 

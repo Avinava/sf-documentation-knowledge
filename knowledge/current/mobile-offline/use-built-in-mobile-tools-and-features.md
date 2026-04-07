@@ -5,12 +5,10 @@ topic: use-built-in-mobile-tools-and-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.561Z
+lastCollected: 2026-04-07T18:38:16.102Z
 estimatedTokens: 1056
 keywords: [Built-In, Mobile, Tools, Features, write, code, users, devices, configure, environment, mobile-ready]
 ---
-
-# Use Built-In Mobile Tools and Features
 
 > Before you write code for your users on mobile devices, configure your environment and
     use built-in mobile-ready tools and features.

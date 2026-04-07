@@ -5,12 +5,10 @@ topic: message-segment-text
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.674Z
+lastCollected: 2026-04-07T18:37:20.865Z
 estimatedTokens: 183
 keywords: [Message, Segment, Text, plain, inline]
 ---
-
-# Message Segment: Text
 
 > Represents plain inline text.
 

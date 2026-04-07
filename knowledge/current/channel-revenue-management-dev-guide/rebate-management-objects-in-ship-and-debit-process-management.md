@@ -5,12 +5,10 @@ topic: rebate-management-objects-in-ship-and-debit-process-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.435Z
+lastCollected: 2026-04-07T18:37:06.135Z
 estimatedTokens: 660
-keywords: [Rebate, Management, Objects, Ship, Debit, Process, access, standard, manage, end-to-end, programs]
+keywords: [Rebate, Management, Ship, Debit, Process, standard, manage, end-to-end, programs]
 ---
-
-# Rebate Management Objects in Ship and Debit Process Management
 
 > Rebate Management provides access to standard objects that you can
                   use in Ship and Debit Process Management to create and manage end-to-end ship and

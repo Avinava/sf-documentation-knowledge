@@ -5,12 +5,10 @@ topic: cgcloudjoblistc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.365Z
+lastCollected: 2026-04-07T18:39:13.779Z
 estimatedTokens: 1453
-keywords: [cgcloud__Job_List__c, Stores, job, generated, non-standard, definition, API, version, 54.0, later, cgcloud, _Job, _List, Calls, Associated]
+keywords: [cgcloud__Job_List__c, Stores, job, generated, non-standard, definition, API, 54.0, cgcloud, _Job, _List]
 ---
-
-# cgcloud__Job_List__c
 
 > Stores the job lists that are generated from non-standard job
          definition lists. This object is available in API version 54.0 and later.

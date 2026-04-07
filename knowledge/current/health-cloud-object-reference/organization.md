@@ -5,12 +5,10 @@ topic: organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.289Z
+lastCollected: 2026-04-07T18:37:44.560Z
 estimatedTokens: 761
 keywords: [Organization, FHIR, resource, maps, primarily, Account, Salesforce​, V4​.0, Clinical, ​Data, Model, Mapping]
 ---
-
-# Organization
 
 > The Organization FHIR resource maps primarily to
     the Account object in Salesforce​.

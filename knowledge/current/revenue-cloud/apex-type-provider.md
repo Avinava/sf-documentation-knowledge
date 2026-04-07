@@ -5,12 +5,10 @@ topic: apex-type-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.313Z
+lastCollected: 2026-04-07T18:35:47.346Z
 estimatedTokens: 1170
-keywords: [Apex, Provider, Implement, custom, integration, logic, via, requires, Developer, adapter, Implementation, Error, Handling, Advanced, Definition]
+keywords: [Apex, Provider, Implement, integration, logic, via, requires, Developer, adapter, Implementation, Error, Handling, Advanced, Definition, Configuration, Log, Records]
 ---
-
-# Apex Type Provider
 
 > Implement custom integration logic via Apex by using the Apex Type Provider. This
     provider requires an Apex Integration Developer to implement a custom Apex adapter

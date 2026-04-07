@@ -5,12 +5,10 @@ topic: commerce-webstore-search-boost-and-bury-rules-manage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.786Z
+lastCollected: 2026-04-07T18:37:12.675Z
 estimatedTokens: 173
-keywords: [Commerce, Webstore, Search, Boost, Bury, Rules, Manage, rule]
+keywords: [Commerce, Webstore, Search, Boost, Bury, Manage, rule]
 ---
-
-# Commerce Webstore Search Boost and Bury Rules, Manage
 
 > Get a boost and bury rule. Delete a boost and bury
     rule.

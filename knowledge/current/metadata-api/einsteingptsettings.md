@@ -5,12 +5,10 @@ topic: einsteingptsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.755Z
+lastCollected: 2026-04-07T18:36:25.202Z
 estimatedTokens: 626
-keywords: [EinsteinGptSettings, settings, Einstein, Generative, features, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [EinsteinGptSettings, settings, Einstein, Generative, features, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# EinsteinGptSettings
 
 > Represents settings for Einstein Generative
       AI features in an org.

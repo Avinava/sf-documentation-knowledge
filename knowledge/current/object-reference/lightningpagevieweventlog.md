@@ -5,12 +5,10 @@ topic: lightningpagevieweventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.196Z
+lastCollected: 2026-04-07T18:38:34.402Z
 estimatedTokens: 2447
-keywords: [LightningPageViewEventLog, Lightning, View, event, logs, represent, occurred, Experience, Salesforce, mobile, app, log, tracks, user, visited]
+keywords: [LightningPageViewEventLog, Lightning, View, event, logs, represent, occurred, Experience, Salesforce, mobile, app, log, tracks, user, visited, how, long, spent, load, time, API, 61.0]
 ---
-
-# LightningPageViewEventLog
 
 > Lightning Page View event logs represent information about the page on which
          the event occurred in Lightning Experience and the Salesforce mobile app. A Lightning Page

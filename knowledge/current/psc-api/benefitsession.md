@@ -5,12 +5,10 @@ topic: benefitsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.936Z
+lastCollected: 2026-04-07T18:39:05.922Z
 estimatedTokens: 823
-keywords: [BenefitSession, instance, planned, benefit, delivery, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [BenefitSession, instance, planned, benefit, delivery, API, 58.0]
 ---
-
-# BenefitSession
 
 > Represents information about an instance of a planned benefit
          delivery This object is available in API version 58.0 and later.

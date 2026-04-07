@@ -5,12 +5,10 @@ topic: scorerangeclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.848Z
+lastCollected: 2026-04-07T18:37:48.534Z
 estimatedTokens: 419
-keywords: [ScoreRangeClassification, different, score, ranges, category, how, scores, classified, interpreted, API, version, 55.0, later, SOAP, Calls]
+keywords: [ScoreRangeClassification, different, score, ranges, category, how, scores, classified, interpreted, API, 55.0, SOAP, REST]
 ---
-
-# ScoreRangeClassification
 
 > Represents the different score ranges of a score category and how scores in
          those ranges are classified or interpreted. This object is available in API version

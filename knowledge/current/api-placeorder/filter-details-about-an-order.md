@@ -5,12 +5,10 @@ topic: filter-details-about-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:04.782Z
+lastCollected: 2026-04-07T18:36:51.066Z
 estimatedTokens: 126
 keywords: [Filter, Order, Here’s, resource, query, products, certain, start, date]
 ---
-
-# Filter Details About an Order
 
 > Here’s an example of a GET request using the Order resource to query details for order products with a certain start date
       for a given order.

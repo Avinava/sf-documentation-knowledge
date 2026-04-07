@@ -5,12 +5,10 @@ topic: calendar
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:36.212Z
+lastCollected: 2026-04-07T18:38:27.199Z
 estimatedTokens: 412
-keywords: [Calendar, user, resource, holiday, API, version, 45.0, later, Calls, Special, Access, Rules]
+keywords: [Calendar, user, resource, holiday, API, 45.0]
 ---
-
-# Calendar
 
 > Represents a calendar. This can be a default user calendar, public
          calendar, resource calendar, or holiday calendar. This object is available in API

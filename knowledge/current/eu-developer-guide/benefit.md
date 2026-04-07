@@ -5,12 +5,10 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.168Z
+lastCollected: 2026-04-07T18:37:32.333Z
 estimatedTokens: 923
-keywords: [Benefit, benefits, associated, program, Management, API, version, 57.0, later]
+keywords: [Benefit, benefits, program, Management, API, 57.0]
 ---
-
-# Benefit
 
 > Represents information about benefits associated with a program.
       This object is available with Program Management in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: contextdefinitionsync
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.869Z
+lastCollected: 2026-04-07T18:36:45.636Z
 estimatedTokens: 394
-keywords: [ContextDefinitionSync, Stores, sync, operation, custom, definition, standard, API, version, 62.0, later, SOAP, Calls, REST]
+keywords: [ContextDefinitionSync, Stores, sync, operation, definition, standard, API, 62.0, SOAP, REST]
 ---
-
-# ContextDefinitionSync
 
 > Stores information for the sync operation of the custom definition
          with the standard definition. This object is available in API version 62.0 and

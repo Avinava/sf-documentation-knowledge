@@ -5,12 +5,10 @@ topic: interactionparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.222Z
+lastCollected: 2026-04-07T18:37:38.048Z
 estimatedTokens: 932
-keywords: [InteractionParticipant, user, Group, whom, interaction, shared, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [InteractionParticipant, user, Group, whom, interaction, shared, API, 52.0]
 ---
-
-# InteractionParticipant
 
 > Represents a user or User Group with whom the interaction is shared.
 		This object is available in API version 52.0 and later.

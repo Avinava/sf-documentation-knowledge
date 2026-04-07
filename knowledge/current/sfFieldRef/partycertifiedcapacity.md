@@ -5,12 +5,10 @@ topic: partycertifiedcapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.429Z
+lastCollected: 2026-04-07T18:39:51.844Z
 estimatedTokens: 372
-keywords: [PartyCertifiedCapacity, captured, certificate, capacity, party's, work, timeline, recovery, API, version, 60.0, later]
+keywords: [PartyCertifiedCapacity, captured, certificate, capacity, party's, work, timeline, recovery, API, 60.0]
 ---
-
-# PartyCertifiedCapacity
 
 > Represents the information captured from the certificate of capacity, such as
          the party's capacity to work, a timeline for recovery, and return to work. This object

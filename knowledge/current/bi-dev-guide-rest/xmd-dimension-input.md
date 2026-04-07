@@ -5,12 +5,10 @@ topic: xmd-dimension-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.853Z
+lastCollected: 2026-04-07T18:36:55.267Z
 estimatedTokens: 368
-keywords: [Xmd, Dimension, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Dimension, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Dimension Input
 
 > The extended metadata (Xmd) for a dimension in an Analytics dataset.
 

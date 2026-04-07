@@ -5,12 +5,10 @@ topic: broadcasttopicgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.925Z
+lastCollected: 2026-04-07T18:38:26.898Z
 estimatedTokens: 561
-keywords: [BroadcastTopicGroup, junction, relates, group, alert, broadcast, topic, API, version, 57.0, later, Calls, Special, Access, Rules]
+keywords: [BroadcastTopicGroup, junction, relates, group, alert, broadcast, topic, API, 57.0]
 ---
-
-# BroadcastTopicGroup
 
 > Represents a junction object that relates a group to an alert type broadcast
          topic. The broadcast sends the alert to this group. This object is available in API

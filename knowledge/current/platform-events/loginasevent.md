@@ -5,12 +5,10 @@ topic: loginasevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.461Z
+lastCollected: 2026-04-07T18:38:59.346Z
 estimatedTokens: 2229
-keywords: [LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience, Cloud]
+keywords: [LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience, Cloud, sites, big, stores, LoginAsEventStream, API, 46.0, Standard, SOQL]
 ---
-
-# LoginAsEvent
 
 > LoginAsEvent tracks when an admin logs in as another user in your
 			org. In Real-Time Event Monitoring, it captures events for org admins and Experience

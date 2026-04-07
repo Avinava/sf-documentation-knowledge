@@ -5,12 +5,10 @@ topic: enable-unlocked-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.126Z
+lastCollected: 2026-04-07T18:40:09.077Z
 estimatedTokens: 218
 keywords: [Enable, Unlocked, Packaging, org, develop, packages, work, scratch, orgs, sandboxes]
 ---
-
-# Enable Unlocked Packaging
 
 > Enable packaging in your org so you can develop unlocked packages. You can work with the
   packages in scratch orgs and sandboxes.

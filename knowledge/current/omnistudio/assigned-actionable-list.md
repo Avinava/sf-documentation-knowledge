@@ -5,12 +5,10 @@ topic: assigned-actionable-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.086Z
+lastCollected: 2026-04-07T18:36:38.742Z
 estimatedTokens: 229
-keywords: [Assigned, Actionable, Output, representation]
+keywords: [Assigned, Actionable]
 ---
-
-# Assigned Actionable List
 
 > Output representation of the assigned actionable list
     request.

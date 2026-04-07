@@ -5,12 +5,10 @@ topic: customize-chat-buttons-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.757Z
+lastCollected: 2026-04-07T18:38:05.998Z
 estimatedTokens: 738
 keywords: [Customize, Chat, Buttons, Deployment, APIs, how, chats, start, customers]
 ---
-
-# Customize Chat Buttons with the Deployment APIs
 
 > Customize your chat buttons and set how chats start for your customers.
 

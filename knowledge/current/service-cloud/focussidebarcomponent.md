@@ -5,12 +5,10 @@ topic: focussidebarcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.096Z
+lastCollected: 2026-04-07T18:36:49.160Z
 estimatedTokens: 345
-keywords: [focusSidebarComponent, Focuses, browser, sidebar, component, focus, tab, accordion, style, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, focusSidebarComponent, Focuses, browser, sidebar, focus, tab, accordion, style, Sample, Code–Visualforce]
 ---
-
-# focusSidebarComponent()
 
 > Focuses the browser on a sidebar component. Use
             this method to focus on a component with the tab or accordion sidebar style.

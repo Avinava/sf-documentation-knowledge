@@ -5,12 +5,10 @@ topic: livechattranscriptskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.992Z
+lastCollected: 2026-04-07T18:39:46.556Z
 estimatedTokens: 321
-keywords: [LiveChatTranscriptSkill, join, LiveChatTranscript, Skill, API, version, 25.0, later]
+keywords: [LiveChatTranscriptSkill, join, LiveChatTranscript, Skill, API, 25.0]
 ---
-
-# LiveChatTranscriptSkill
 
 > Represents a join between LiveChatTranscript and Skill. This
   object is available in API version 25.0 and later.

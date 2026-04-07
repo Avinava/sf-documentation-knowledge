@@ -5,12 +5,10 @@ topic: writing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.608Z
+lastCollected: 2026-04-07T18:36:18.831Z
 estimatedTokens: 467
-keywords: [Writing, Apex, Java, Salesforce, add, interact, data, Lightning, Platform, persistence, layer, uses, classes, variables, if-else]
+keywords: [Writing, Apex, Java, Salesforce, add, interact, Lightning, Platform, persistence, layer, uses, classes, variables, if-else, statements, execute, condition, block, code, repeatedly]
 ---
-
-# Writing Apex
 
 > Apex is like Java for Salesforce. It enables you to add and interact with data in the
         Lightning Platform persistence layer. It uses classes, data types, variables, and if-else

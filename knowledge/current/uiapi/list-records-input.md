@@ -5,12 +5,10 @@ topic: list-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.765Z
+lastCollected: 2026-04-07T18:40:10.742Z
 estimatedTokens: 550
-keywords: [Records, Input, Record, data, query, view]
+keywords: [Records, Record, query, view]
 ---
-
-# List Records Input
 
 > Record data to query for a list view.
 

@@ -5,12 +5,10 @@ topic: setcustomconsolecomponentwidth
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.619Z
+lastCollected: 2026-04-07T18:36:50.894Z
 estimatedTokens: 241
-keywords: [setCustomConsoleComponentWidth, window, width, application-level, custom, console, component, that’s, API, version, 32.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, setCustomConsoleComponentWidth, window, width, application-level, console, that’s, API, 32.0, Sample, Code–Visualforce]
 ---
-
-# setCustomConsoleComponentWidth()
 
 > Sets the window width of an
    application-level custom console component that’s on a page. This method is available in API

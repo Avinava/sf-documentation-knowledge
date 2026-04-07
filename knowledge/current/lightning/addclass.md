@@ -5,12 +5,10 @@ topic: addclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.427Z
+lastCollected: 2026-04-07T18:38:05.636Z
 estimatedTokens: 65
-keywords: [addClass, Adds, CSS, component, Sample, Code]
+keywords: [addClass, Adds, CSS, Sample, Code]
 ---
-
-# addClass()
 
 > Adds a CSS class to a component.
 

@@ -5,12 +5,10 @@ topic: commerce-extension-provider-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.587Z
+lastCollected: 2026-04-07T18:37:16.660Z
 estimatedTokens: 151
 keywords: [Commerce, Extension, Provider, Apex]
 ---
-
-# Commerce Extension Provider Apex Class
 
 > Apex class for a Commerce extension provider.
 

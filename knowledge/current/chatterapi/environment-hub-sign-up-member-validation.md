@@ -5,12 +5,10 @@ topic: environment-hub-sign-up-member-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.414Z
+lastCollected: 2026-04-07T18:37:13.365Z
 estimatedTokens: 241
-keywords: [Environment, Hub, Sign-up, Member, Validation, Validates, input, initiate, org, results]
+keywords: [Environment, Hub, Sign-up, Member, Validation, Validates, initiate, org, results]
 ---
-
-# Environment Hub Sign-up Member Validation
 
 > Validates the input parameters used to initiate an org sign-up in
       the Environment Hub.

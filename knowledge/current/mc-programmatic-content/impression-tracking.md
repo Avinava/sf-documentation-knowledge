@@ -5,12 +5,10 @@ topic: impression-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.118Z
+lastCollected: 2026-04-07T18:40:22.513Z
 estimatedTokens: 376
-keywords: [Impression, Tracking, lets, define, region, email, measure, performance, contain, dynamic, content, links, images]
+keywords: [Impression, lets, define, region, email, measure, performance, contain, dynamic, content, links, images]
 ---
-
-# Impression Tracking
 
 > Impression tracking lets you define a region within your email to measure the performance of that region. The region you define can contain dynamic content. or you define the region to contain links and images in your static content.
 

@@ -5,12 +5,10 @@ topic: metadatapackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.137Z
+lastCollected: 2026-04-07T18:36:33.534Z
 estimatedTokens: 823
-keywords: [MetadataPackageVersion, package, version, managed, unmanaged, uploaded, org, you’re, logged, Tooling, API, 38.0, later, SOAP, Calls]
+keywords: [MetadataPackageVersion, package, managed, unmanaged, uploaded, org, you’re, logged, Tooling, API, 38.0, SOAP, REST, HTTP]
 ---
-
-# MetadataPackageVersion
 
 > Represents a package version
             (managed or unmanaged) that has been uploaded from the org you’re logged in to.

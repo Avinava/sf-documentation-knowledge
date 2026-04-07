@@ -5,12 +5,10 @@ topic: loyaltyledgertraceability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.819Z
+lastCollected: 2026-04-07T18:38:10.137Z
 estimatedTokens: 1017
-keywords: [LoyaltyLedgerTraceability, tracker, loyalty, ledger, debit, consumes, points, linked, credit, member, redemption, accrual, cancellation, API, version]
+keywords: [LoyaltyLedgerTraceability, tracker, loyalty, ledger, debit, consumes, points, linked, credit, member, redemption, accrual, cancellation, API, 62.0]
 ---
-
-# LoyaltyLedgerTraceability
 
 > Represents a tracker for the loyalty ledger. The debit ledger consumes points
          from the linked credit ledger for a member redemption or an accrual cancellation. This

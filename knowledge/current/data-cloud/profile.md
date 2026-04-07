@@ -5,12 +5,10 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.545Z
+lastCollected: 2026-04-07T18:35:51.400Z
 estimatedTokens: 436
-keywords: [Profile, Descriptions, how, Data, Cloud, Module, Engagement, Mobile, SDK, changes, map, event, definition, recommended, schema]
+keywords: [Profile, Descriptions, how, Cloud, Module, Engagement, Mobile, SDK, changes, map, event, definition, recommended, schema]
 ---
-
-# Profile
 
 > Descriptions for how the Data Cloud Module for the Engagement Mobile SDK
   profile changes map to each profile event definition in the recommended mobile schema within

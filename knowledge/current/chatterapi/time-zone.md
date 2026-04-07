@@ -5,12 +5,10 @@ topic: time-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.299Z
+lastCollected: 2026-04-07T18:37:23.409Z
 estimatedTokens: 139
 keywords: [Time, Zone, User's, selected, user’s, personal, settings, Salesforce, doesn’t, reflect, device's, current, location]
 ---
-
-# Time Zone
 
 > User's time zone as selected in the user’s personal settings in Salesforce. This value
     doesn’t reflect a device's current location.

@@ -5,12 +5,10 @@ topic: headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.870Z
+lastCollected: 2026-04-07T18:36:20.091Z
 estimatedTokens: 879
-keywords: [REST, API, supports, several, standard, custom, HTTP, including]
+keywords: [REST, API, supports, several, standard, HTTP, including]
 ---
-
-# Headers
 
 > REST API supports several standard and custom HTTP headers, including both request
             headers and response headers.

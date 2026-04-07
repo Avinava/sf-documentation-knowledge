@@ -5,12 +5,10 @@ topic: partyphilanthropicrsrchprfl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.867Z
+lastCollected: 2026-04-07T18:37:29.940Z
 estimatedTokens: 1104
-keywords: [PartyPhilanthropicRsrchPrfl, Captures, associated, contact, organization, many-to-one, relationship, Serves, pivot, point, research, person, API, version, 64.0]
+keywords: [PartyPhilanthropicRsrchPrfl, Captures, contact, organization, many-to-one, relationship, Serves, pivot, point, research, person, API, 64.0]
 ---
-
-# PartyPhilanthropicRsrchPrfl
 
 > Captures information associated with a contact or an organization in a
          many-to-one relationship. Serves as a pivot point for research on the person or

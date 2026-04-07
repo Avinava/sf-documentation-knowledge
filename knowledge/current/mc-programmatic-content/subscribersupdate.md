@@ -5,12 +5,10 @@ topic: subscribersupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.830Z
+lastCollected: 2026-04-07T18:40:23.250Z
 estimatedTokens: 181
 keywords: [Subscribers.Update, Function, Ordinal, Attribute, containing, Email, address, subscriber, JSON, EmailAddress, SubscriberKey, subscribe, **Overview**, **Syntax**]
 ---
-
-# Subscribers.Update
 
 > Subscribers.Update(1, 2)
 

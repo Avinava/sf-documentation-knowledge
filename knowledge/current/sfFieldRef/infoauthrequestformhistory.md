@@ -5,12 +5,10 @@ topic: infoauthrequestformhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.210Z
+lastCollected: 2026-04-07T18:39:44.775Z
 estimatedTokens: 274
-keywords: [InfoAuthRequestFormHistory, History, tracked, InfoAuthRequestForm]
+keywords: [InfoAuthRequestFormHistory, tracked, InfoAuthRequestForm]
 ---
-
-# InfoAuthRequestFormHistory
 
 > History for tracked fields of InfoAuthRequestForm.
 

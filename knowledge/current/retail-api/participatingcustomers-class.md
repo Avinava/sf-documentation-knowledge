@@ -5,12 +5,10 @@ topic: participatingcustomers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.131Z
+lastCollected: 2026-04-07T18:39:10.605Z
 estimatedTokens: 1387
-keywords: [ParticipatingCustomers, APEX, programmatic, access, TPM, Promotion, Participating, Customers, Push, process, _ParticipatingCustomers, toGenericObject, API, Version, ParticipatingCustomer]
+keywords: [ParticipatingCustomers, APEX, programmatic, TPM, Promotion, Participating, Customers, Push, process, _ParticipatingCustomers, toGenericObject, API, ParticipatingCustomer, addParticipatingCustomer, List<ParticipatingCustomer>, getParticipatingCustomers, removeParticipatingCustomer, toJSON, load, clear]
 ---
-
-# ParticipatingCustomers Class
 
 > This APEX class provides programmatic access to the TPM Promotion Participating
   Customers List used in the Promotion Push process.

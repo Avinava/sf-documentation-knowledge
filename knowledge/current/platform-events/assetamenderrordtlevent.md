@@ -5,12 +5,10 @@ topic: assetamenderrordtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.811Z
+lastCollected: 2026-04-07T18:38:58.666Z
 estimatedTokens: 234
-keywords: [AssetAmendErrorDtlEvent, errors, occurred, processing, asset-management, assets, collection, actions, initiate-amend-quantity, included, AssetAmendInitiatedEvent, message, can’t, subscribe, directly]
+keywords: [AssetAmendErrorDtlEvent, errors, occurred, processing, asset-management, assets, collection, actions, initiate-amend-quantity, included, AssetAmendInitiatedEvent, message, can’t, subscribe, directly, API, 56.0, Event, Delivery, Allocation, Enforced]
 ---
-
-# AssetAmendErrorDtlEvent
 
 > Contains information about errors that occurred during the processing of an
             /asset-management/assets/collection/actions/initiate-amend-quantity

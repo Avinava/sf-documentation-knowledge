@@ -5,12 +5,10 @@ topic: workplace-strategy-planner-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.405Z
+lastCollected: 2026-04-07T18:40:14.416Z
 estimatedTokens: 358
-keywords: [Workplace, Strategy, Planner, package, includes, several, custom, objects, described, requires, Command, Center, builds, standard, Employee]
+keywords: [Workplace, Strategy, Planner, package, includes, several, described, requires, Command, Center, builds, standard, Employee, Location, Address]
 ---
-
-# Workplace Strategy Planner Object Reference
 
 > The Workplace Strategy Planner package includes several custom objects and fields that
     are described in this section. Workplace Strategy Planner requires Workplace Command Center and

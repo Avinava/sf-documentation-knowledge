@@ -5,12 +5,10 @@ topic: chatteractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.905Z
+lastCollected: 2026-04-07T18:38:27.834Z
 estimatedTokens: 848
-keywords: [ChatterActivity, number, posts, comments, made, user, likes, received, API, version, 23.0, later, Calls, Usage]
+keywords: [ChatterActivity, number, posts, comments, made, user, likes, received, API, 23.0]
 ---
-
-# ChatterActivity
 
 > ChatterActivity represents the number of
     posts and comments made by a user and the number of comments and likes on posts and comments

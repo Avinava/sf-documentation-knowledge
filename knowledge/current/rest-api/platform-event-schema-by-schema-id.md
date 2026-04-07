@@ -5,12 +5,10 @@ topic: platform-event-schema-by-schema-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.452Z
+lastCollected: 2026-04-07T18:36:20.678Z
 estimatedTokens: 1274
-keywords: [Platform, Event, Schema, definition, JSON, resource, REST, API, version, 40.0, later, Examples, 43.0, 42.0, Earlier]
+keywords: [Platform, Event, Schema, definition, JSON, resource, REST, API, 40.0, Examples, 43.0, 42.0, Earlier, Apache, Avro]
 ---
-
-# Platform Event Schema by Schema ID
 
 > Gets the definition of a platform event in JSON format for a schema
 			ID. This resource is available in REST API version 40.0 and later.

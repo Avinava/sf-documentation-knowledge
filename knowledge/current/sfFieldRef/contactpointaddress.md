@@ -5,12 +5,10 @@ topic: contactpointaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.586Z
+lastCollected: 2026-04-07T18:39:35.023Z
 estimatedTokens: 646
-keywords: [ContactPointAddress, contact’s, billing, shipping, address, associated, individual, person, account, API, version, 49.0, later]
+keywords: [ContactPointAddress, contact’s, billing, shipping, address, individual, person, account, API, 49.0]
 ---
-
-# ContactPointAddress
 
 > Represents a contact’s billing or shipping address, which is
          associated with an individual or person account. This object is available in API

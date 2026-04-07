@@ -5,12 +5,10 @@ topic: conversation-participant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.955Z
+lastCollected: 2026-04-07T18:37:18.023Z
 estimatedTokens: 136
 keywords: [Conversation, Participant]
 ---
-
-# Conversation Participant
 
 > Participant in the conversation.
 

@@ -5,13 +5,11 @@ topic: comparable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.029Z
+lastCollected: 2026-04-07T18:36:04.251Z
 estimatedTokens: 655
 namespace: System
-keywords: [Comparable, Adds, sorting, support, contain, non-primitive, user-defined, implementation, explicitly, handle, inputs, compareTo, avoid, pointer, exception]
+keywords: [Comparable, Adds, sorting, support, contain, non-primitive, user-defined, implementation, explicitly, handle, inputs, compareTo, avoid, pointer, exception, objectToCompareTo]
 ---
-
-# Comparable Interface
 
 > Adds sorting support for Lists that contain non-primitive
             types, that is, Lists of user-defined types. Your implementation must explicitly handle

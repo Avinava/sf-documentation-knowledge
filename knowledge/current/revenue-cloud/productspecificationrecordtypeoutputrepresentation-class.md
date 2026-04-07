@@ -5,12 +5,10 @@ topic: productspecificationrecordtypeoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.429Z
+lastCollected: 2026-04-07T18:35:41.286Z
 estimatedTokens: 452
-keywords: [record, product, specification, store, data, isCommercial]
+keywords: [record, product, specification, store, isCommercial]
 ---
-
-# ProductSpecificationRecordTypeOutputRepresentation Class
 
 > Represents the record type information for a product specification, which defines the type of record used to store product specification data.
 

@@ -5,12 +5,10 @@ topic: create-an-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.129Z
+lastCollected: 2026-04-07T18:40:16.264Z
 estimatedTokens: 310
-keywords: [Email, scenario, how, message, SOAP, API, instance, including, either, HTML, text-only, content, provided, Diagram, Objects, Why, How, Sample, NET, Code]
+keywords: [Diagram, Email, scenario, how, message, SOAP, API, instance, including, either, HTML, text-only, content, provided, Referenced, Items, Why, How, Sample, NET, Code, Java, Axis, 1.4, PHP, Ruby, Rails, Envelope]
 ---
-
-# Create an Email
 
 > This page contains information  about using the SOAP API to create an email message.
 

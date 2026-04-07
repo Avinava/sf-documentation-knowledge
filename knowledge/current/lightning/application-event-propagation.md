@@ -5,12 +5,10 @@ topic: application-event-propagation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.938Z
+lastCollected: 2026-04-07T18:38:04.036Z
 estimatedTokens: 1175
-keywords: [Application, Event, Propagation, framework, supports, capture, bubble, phases, events, similar, DOM, handling, patterns, provide, opportunity]
+keywords: [Application, Event, Propagation, framework, supports, capture, bubble, phases, events, similar, DOM, handling, patterns, provide, opportunity, interested, interact, potentially, control, behavior, subsequent, handlers, phase, preserves, framework’s, original]
 ---
-
-# Application Event Propagation
 
 > The framework supports capture,
         bubble, and default phases for the propagation of application

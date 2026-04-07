@@ -5,12 +5,10 @@ topic: explicitly-resizing-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.204Z
+lastCollected: 2026-04-07T18:38:56.965Z
 estimatedTokens: 177
-keywords: [Explicitly, Resizing, Canvas, App, code, how, call, resize, don’t, specify, height, width, parent, window, attempts]
+keywords: [Explicitly, Resizing, Canvas, App, code, how, call, resize, don’t, specify, height, width, parent, window, attempts, determine, content, iFrame, accordingly]
 ---
-
-# Explicitly Resizing a Canvas App
 
 > The following code example shows how to call the resize method to resize a canvas app.
 If you don’t specify the height and width parameters, the parent

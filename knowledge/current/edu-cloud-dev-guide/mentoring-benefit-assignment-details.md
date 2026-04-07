@@ -5,12 +5,10 @@ topic: mentoring-benefit-assignment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.609Z
+lastCollected: 2026-04-07T18:37:29.684Z
 estimatedTokens: 692
-keywords: [Mentoring, Benefit, Assignment, Output, representation, record, that’s, updated, provider]
+keywords: [Mentoring, Benefit, Assignment, record, that’s, updated, provider]
 ---
-
-# Mentoring Benefit Assignment Details
 
 > Output representation of the benefit assignment record that’s updated with provider
     details.

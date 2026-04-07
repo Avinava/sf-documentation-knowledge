@@ -5,12 +5,10 @@ topic: restriction-rule-example-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.051Z
+lastCollected: 2026-04-07T18:39:22.977Z
 estimatedTokens: 1250
-keywords: [Restriction, Rule, Scenarios, Refer, sample, rules, fulfill, different, access, requirements, Allow, Users, Record, Records, They]
+keywords: [Restriction, Rule, Scenarios, Refer, sample, fulfill, different, requirements, Allow, Users, Record, Records, They, Own, Owned, Role, Profile, External, Object's, Provide, User, Multiple, Criteria]
 ---
-
-# Restriction Rule Example Scenarios
 
 > Refer to these sample restriction rules, which fulfill different access
   requirements.

@@ -6,13 +6,10 @@ topic: redeemprogramname-membershipnumber-vouchercode-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.475Z
+lastCollected: 2026-04-07T18:38:06.693Z
 estimatedTokens: 382
-keywords: [redeem, programName, membershipNumber, voucherCode, amount, partial, voucher, program, member, status, updated, redeemed, date, current, API]
+keywords: [redeem, programName, membershipNumber, voucherCode, amount, partial, voucher, program, member, status, updated, redeemed, date, current, API, Requires, Chatter]
 ---
-
-# redeem(programName, membershipNumber,
-        voucherCode, amount)
 
 > Redeem partial value of a voucher for a program member. The status of
       the voucher gets updated to redeemed and the use date gets updated to the current

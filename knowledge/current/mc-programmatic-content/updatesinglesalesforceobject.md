@@ -5,12 +5,10 @@ topic: updatesinglesalesforceobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.868Z
+lastCollected: 2026-04-07T18:40:24.362Z
 estimatedTokens: 298
-keywords: [UpdateSingleSalesforceObject, Function, Ordinal, Lead, CustomObject, upd, **Overview**, **Syntax**, Usage]
+keywords: [UpdateSingleSalesforceObject, Function, Ordinal, Lead, CustomObject, upd, **Overview**, **Syntax**]
 ---
-
-# UpdateSingleSalesforceObject
 
 > UpdateSingleSalesforceObject(1, 2, 3, 4)
 

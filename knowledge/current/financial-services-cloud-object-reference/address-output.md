@@ -5,12 +5,10 @@ topic: address-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.332Z
+lastCollected: 2026-04-07T18:37:34.921Z
 estimatedTokens: 121
-keywords: [Address, Output]
+keywords: [Address]
 ---
-
-# Address Output
 
 > Represents address details.
 

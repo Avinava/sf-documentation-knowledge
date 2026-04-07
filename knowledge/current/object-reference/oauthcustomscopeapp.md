@@ -5,12 +5,10 @@ topic: oauthcustomscopeapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.991Z
+lastCollected: 2026-04-07T18:38:36.181Z
 estimatedTokens: 209
-keywords: [OauthCustomScopeApp, connected, app, custom, scope, assigned, API, version, 49.0, later, Calls]
+keywords: [OauthCustomScopeApp, connected, app, scope, assigned, API, 49.0]
 ---
-
-# OauthCustomScopeApp
 
 > Represents the name of the connected app to which the custom scope is
       assigned. This object is available in API version 49.0 and later.

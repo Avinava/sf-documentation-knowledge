@@ -5,12 +5,10 @@ topic: content-transfer-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.129Z
+lastCollected: 2026-04-07T18:38:30.925Z
 estimatedTokens: 961
 keywords: [Content, Transfer, Event, events, contain, downloads, uploads, previews, includes, performed, files, attachments, records]
 ---
-
-# Content Transfer Event Type
 
 > Content Transfer events contain information about content transfer
          events, such as downloads, uploads, and previews. This information includes events

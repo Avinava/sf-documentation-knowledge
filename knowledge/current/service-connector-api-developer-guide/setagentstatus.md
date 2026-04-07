@@ -5,12 +5,10 @@ topic: setagentstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.538Z
+lastCollected: 2026-04-07T18:39:23.470Z
 estimatedTokens: 185
 keywords: [setAgentStatus, status, rep]
 ---
-
-# setAgentStatus
 
 > Set status information for the rep.
 

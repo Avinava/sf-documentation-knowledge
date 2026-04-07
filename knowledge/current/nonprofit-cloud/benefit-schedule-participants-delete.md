@@ -5,12 +5,10 @@ topic: benefit-schedule-participants-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.069Z
+lastCollected: 2026-04-07T18:38:20.817Z
 estimatedTokens: 483
 keywords: [Benefit, Schedule, Participants, Remove, asynchronously]
 ---
-
-# Benefit Schedule Participants (DELETE)
 
 > Remove participants from a benefit schedule asynchronously.
 

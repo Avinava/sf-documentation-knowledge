@@ -5,12 +5,10 @@ topic: minimize-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.082Z
+lastCollected: 2026-04-07T18:36:50.283Z
 estimatedTokens: 221
-keywords: [minimize, Lightning, Experience, Minimizes, utility, Web, Components, LWC, Arguments, Sample, Code]
+keywords: [Arguments, minimize, Lightning, Experience, Minimizes, utility, Web, LWC, Sample, Code]
 ---
-
-# minimize() for Lightning Experience
 
 > Minimizes a utility. This method is available for Lightning Web Components (LWC)
   only.

@@ -5,12 +5,10 @@ topic: encrypt-from-the-command-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.251Z
+lastCollected: 2026-04-07T18:37:28.288Z
 estimatedTokens: 327
-keywords: [Encrypt, Command, Line, Data, Loader, offers, encryption, utility, secure, passwords, configuration, files, handle, directly, transit]
+keywords: [Encrypt, Command, Line, Loader, offers, encryption, utility, secure, passwords, configuration, files, handle, directly, transit, encrypted, connection, HTTPS]
 ---
-
-# Encrypt from the Command Line
 
 > Data Loader offers an encryption utility to secure passwords specified in configuration
     files. While Data Loader does not handle encryption directly, data in transit is encrypted when

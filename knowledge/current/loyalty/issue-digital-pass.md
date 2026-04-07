@@ -5,12 +5,10 @@ topic: issue-digital-pass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.489Z
+lastCollected: 2026-04-07T18:38:08.797Z
 estimatedTokens: 1014
-keywords: [Issue, Digital, Pass, action, issues, party, configured, template, Loyalty, Gift, Card, input, depend, trigger, issuance]
+keywords: [Inputs, Outputs, Examples, Issue, Digital, Pass, action, issues, party, configured, template, Loyalty, Gift, Card, depend, trigger, issuance, corresponding, invocable, REST, HTTP]
 ---
-
-# Issue Digital Pass
 
 > This action issues a digital pass to a specified party based on the
       configured digital pass template. The digital pass template can be of type Loyalty or Gift

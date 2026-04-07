@@ -5,12 +5,10 @@ topic: collection-upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.067Z
+lastCollected: 2026-04-07T18:40:27.290Z
 estimatedTokens: 359
-keywords: [Collection, Upsert, Updates, inserts, objects, external, data, iOS, Android, React, Native]
+keywords: [Android, Collection, Upsert, Updates, inserts, external, iOS, React, Native]
 ---
-
-# Collection Upsert
 
 > Updates or inserts a collection of objects from external data.
 

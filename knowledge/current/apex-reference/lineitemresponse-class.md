@@ -5,13 +5,11 @@ topic: lineitemresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.064Z
+lastCollected: 2026-04-07T18:36:02.281Z
 estimatedTokens: 2991
 namespace: CommerceTax
-keywords: [LineItemResponse, stores, line, items, tax, engine, calculated, setAddresses, addresses, setAmountDetails, amountDetails, setCustomTaxAttributes, customTaxAttributes, setEffectiveDate, effectiveDate]
+keywords: [LineItemResponse, stores, line, items, tax, engine, calculated, setAddresses, addresses, setAmountDetails, amountDetails, setCustomTaxAttributes, customTaxAttributes, setEffectiveDate, effectiveDate, setIsTaxable, isTaxable, setLineNumber, lineNumber, setProductCode, productCode, setQuantity, quantity, setTaxCode, taxCode, setTaxes, taxes]
 ---
-
-# LineItemResponse Class
 
 > Response class that stores details of a list of one or more line
             items on which the tax engine has calculated tax.

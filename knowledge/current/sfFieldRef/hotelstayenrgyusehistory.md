@@ -5,12 +5,10 @@ topic: hotelstayenrgyusehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.476Z
+lastCollected: 2026-04-07T18:39:44.121Z
 estimatedTokens: 267
-keywords: [HotelStayEnrgyUseHistory, History, tracked, HotelStayEnrgyUse]
+keywords: [HotelStayEnrgyUseHistory, tracked, HotelStayEnrgyUse]
 ---
-
-# HotelStayEnrgyUseHistory
 
 > History for tracked fields of HotelStayEnrgyUse.
 

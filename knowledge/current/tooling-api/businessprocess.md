@@ -5,12 +5,10 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.511Z
+lastCollected: 2026-04-07T18:36:31.944Z
 estimatedTokens: 346
-keywords: [BusinessProcess, business, process, SOAP, Calls, REST, HTTP, Special, Access, Rules]
+keywords: [BusinessProcess, business, process, SOAP, REST, HTTP]
 ---
-
-# BusinessProcess
 
 > Represents a business
         process.

@@ -5,12 +5,10 @@ topic: question-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.995Z
+lastCollected: 2026-04-07T18:37:40.993Z
 estimatedTokens: 102
-keywords: [Question, Responses, Input, assessment]
+keywords: [Question, Responses, assessment]
 ---
-
-# Question Responses Input
 
 > Input for assessment question responses.
 

@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions-date-interval-setting-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.346Z
+lastCollected: 2026-04-07T18:36:58.844Z
 estimatedTokens: 177
-keywords: [Smart, Data, Discovery, Projected, Predictions, Date, Interval, Setting, Input, settings, Einstein]
+keywords: [Smart, Discovery, Projected, Predictions, Date, Interval, Setting, settings, Einstein]
 ---
-
-# Smart Data Discovery Projected Predictions Date Interval Setting Input
 
 > The input for settings for an Einstein Discovery date interval.
 

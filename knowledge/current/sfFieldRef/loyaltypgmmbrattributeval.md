@@ -5,12 +5,10 @@ topic: loyaltypgmmbrattributeval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.878Z
+lastCollected: 2026-04-07T18:39:47.359Z
 estimatedTokens: 411
 keywords: [LoyaltyPgmMbrAttributeVal, reached, loyalty, program, member, engagement, attribute]
 ---
-
-# LoyaltyPgmMbrAttributeVal
 
 > Represents information about the value reached by a loyalty program member
          for an engagement attribute.

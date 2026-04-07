@@ -5,12 +5,10 @@ topic: vpls360updatebillingshippingaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.533Z
+lastCollected: 2026-04-07T18:38:11.827Z
 estimatedTokens: 165
-keywords: [VPLS360UpdateBillingShippingAddress, Integration, Procedure, process, Google, API, address, record, Account, Contact, Sample, Input, Output, Calls]
+keywords: [VPLS360UpdateBillingShippingAddress, Integration, Procedure, process, Google, API, address, record, Account, Contact, Sample]
 ---
-
-# VPLS360UpdateBillingShippingAddress
 
 > This Integration Procedure is used to process the Google
         API address record and update the Account and Contact Address fields.

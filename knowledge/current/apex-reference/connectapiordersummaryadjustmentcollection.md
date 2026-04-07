@@ -5,12 +5,10 @@ topic: connectapiordersummaryadjustmentcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.369Z
+lastCollected: 2026-04-07T18:36:10.654Z
 estimatedTokens: 75
 keywords: [Collection, adjustments, order, summary]
 ---
-
-# ConnectApi.OrderSummaryAdjustmentCollection
 
 > Collection of adjustments for an order summary.
 

@@ -5,12 +5,10 @@ topic: issuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.705Z
+lastCollected: 2026-04-07T18:38:45.497Z
 estimatedTokens: 45
 keywords: [isSuccess, success, clone, operation, order, successfully, recalled, edit, edited, recall, submit, submitted]
 ---
-
-# isSuccess
 
 > Indicates the success of the submit operation. If true, the order was successfully
     submitted.

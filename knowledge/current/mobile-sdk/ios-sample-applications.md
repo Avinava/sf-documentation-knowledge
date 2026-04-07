@@ -5,12 +5,10 @@ topic: ios-sample-applications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.215Z
+lastCollected: 2026-04-07T18:40:26.524Z
 estimatedTokens: 222
-keywords: [iOS, Sample, Applications, native, app, forceios, itself, application, though, limited, scope, apps, demonstrate, functionality, examine]
+keywords: [iOS, Sample, Applications, native, app, forceios, itself, application, though, limited, scope, apps, demonstrate, functionality, examine, work, own]
 ---
-
-# iOS Sample Applications
 
 > A native app you create with forceios is itself a sample application, though limited in scope.
       The native iOS sample apps demonstrate more functionality you can examine and work into your

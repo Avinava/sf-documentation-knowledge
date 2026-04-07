@@ -5,12 +5,10 @@ topic: soap-api-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.128Z
+lastCollected: 2026-04-07T18:40:15.155Z
 estimatedTokens: 332
-keywords: [SOAP, API, Performance, increase, smaller, load, increments, Unless, near, real-time, data, avoid, retrieve, event, tracking]
+keywords: [SOAP, API, Performance, increase, smaller, load, increments, Unless, near, real-time, avoid, retrieve, event, Instead, recommend, approaches, Error, Responses, Batch, Size]
 ---
-
-# SOAP API Performance
 
 > You can increase SOAP API performance with smaller API load increments. Unless you need near real-time data, avoid using the API to retrieve event or tracking data. Instead, we recommend one of these approaches.
 

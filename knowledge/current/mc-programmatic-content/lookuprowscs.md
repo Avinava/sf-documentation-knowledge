@@ -5,12 +5,10 @@ topic: lookuprowscs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.240Z
+lastCollected: 2026-04-07T18:40:22.653Z
 estimatedTokens: 295
-keywords: [LookupRowsCS, Function, Ordinal, data, extension, rows, Column, identify, **Overview**, **Syntax**, Usage]
+keywords: [LookupRowsCS, Function, Ordinal, extension, rows, Column, identify, **Overview**, **Syntax**]
 ---
-
-# LookupRowsCS
 
 > LookupRowsCS(1, 2, 3)
 

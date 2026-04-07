@@ -5,12 +5,10 @@ topic: primitive-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.073Z
+lastCollected: 2026-04-07T18:38:23.944Z
 estimatedTokens: 1786
-keywords: [Primitive, Data, API, uses]
+keywords: [Primitive, API, uses]
 ---
-
-# Primitive Data Types
 
 > The API uses the following primitive data types:
 

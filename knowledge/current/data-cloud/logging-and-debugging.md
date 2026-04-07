@@ -5,12 +5,10 @@ topic: logging-and-debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.487Z
+lastCollected: 2026-04-07T18:35:51.339Z
 estimatedTokens: 414
-keywords: [Logging, Debugging, yet, critical, SDK, feature, mobile, application, developer, select, verbosity, Data, Cloud, Module, Engagement]
+keywords: [Logging, Debugging, yet, critical, SDK, feature, mobile, application, developer, select, verbosity, Cloud, Module, Engagement, SDK’s, disabled, enabled, setLogger, iOS, setLogging, Android, SFMCSdk, instance, Define, desired, level, destination, Enabling, results, log, capture, native, unified, system, Levels, State]
 ---
-
-# Logging and Debugging
 
 > Logging is optional, yet critical, SDK feature that allows the mobile application
     developer to select the verbosity of the Data Cloud Module for the Engagement Mobile SDK’s

@@ -5,12 +5,10 @@ topic: cdp-python-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.777Z
+lastCollected: 2026-04-07T18:35:51.634Z
 estimatedTokens: 1485
-keywords: [CDP, Python, Connector, Unlock, extend, Data, Cloud, uses, Query, API, extracts, fetch, Pandas, DataFrames, environment]
+keywords: [Prerequisites, CDP, Python, Connector, Unlock, extend, Cloud, uses, Query, API, extracts, fetch, Pandas, DataFrames, environment, visual, models, perform, powerful, analytical, operations, build, machine, learning, well]
 ---
-
-# CDP Python Connector
 
 > Unlock and extend the value of Data Cloud data with the CDP Python
     Connector. The connector uses the Query API and extracts data from Data Cloud

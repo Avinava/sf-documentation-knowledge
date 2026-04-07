@@ -5,12 +5,10 @@ topic: run-program-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.511Z
+lastCollected: 2026-04-07T18:38:08.825Z
 estimatedTokens: 554
-keywords: [Run, Program, Process, action, custom, actions, associated, loyalty, processes, trigger, active, corresponding, invocable, REST, HTTP]
+keywords: [Inputs, Outputs, Examples, Run, Program, Process, action, actions, loyalty, processes, trigger, active, corresponding, invocable, REST, HTTP]
 ---
-
-# Run Program Process
 
 > This action lists custom actions associated with all the available
       loyalty program processes. You can trigger an active loyalty program process using its

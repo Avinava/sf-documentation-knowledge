@@ -5,12 +5,10 @@ topic: displaying-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.765Z
+lastCollected: 2026-04-07T18:38:51.000Z
 estimatedTokens: 454
-keywords: [Displaying, Record, Visualforce, pages, Salesforce, API, version, equal, greater, 20.0, support, let, offer, different, business]
+keywords: [Displaying, Record, Visualforce, pages, Salesforce, API, equal, greater, 20.0, support, let, offer, different, business, processes, picklist, layouts, users]
 ---
-
-# Displaying Record Types
 
 > Visualforce pages with a Salesforce API version equal to or greater than 20.0 support record
       types. Record types let you offer different business processes, picklist values, and page

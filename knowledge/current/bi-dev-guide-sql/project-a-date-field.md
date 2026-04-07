@@ -5,12 +5,10 @@ topic: project-a-date-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.101Z
+lastCollected: 2026-04-07T18:37:01.710Z
 estimatedTokens: 76
 keywords: [Project, Date, DateTime, EXTRACT, function, SELECT, statement]
 ---
-
-# Project a Date Field
 
 > To project a date field of type DateTime, use the
    EXTRACT() function on the date field in the SELECT statement.

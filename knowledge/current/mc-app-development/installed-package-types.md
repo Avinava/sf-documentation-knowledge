@@ -5,12 +5,10 @@ topic: installed-package-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.127Z
+lastCollected: 2026-04-07T18:40:21.401Z
 estimatedTokens: 746
-keywords: [Installed, Package, Marketing, Cloud, two, packages, enhanced, functionality, legacy, Various, easy, tell, whether, you’re, looking]
+keywords: [General, Installed, Package, Marketing, Cloud, two, packages, enhanced, functionality, legacy, Various, easy, tell, whether, you’re, looking, banner, top, indicating, it’s, Comparing, API, Integration, App, Items]
 ---
-
-# Installed Package Types
 
 > Marketing Cloud has two types of installed packages: packages with enhanced functionality and packages with legacy functionality. Various details make it easy to tell whether you’re looking at a legacy package or enhanced package. All legacy packages have a banner at the top indicating that it’s a l
 

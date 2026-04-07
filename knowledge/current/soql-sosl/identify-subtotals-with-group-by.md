@@ -5,12 +5,10 @@ topic: identify-subtotals-with-group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.128Z
+lastCollected: 2026-04-07T18:40:10.096Z
 estimatedTokens: 717
 keywords: [Identify, Subtotals, GROUP, ROLLUP, CUBE, clause, SOQL, query, add, whether, row, subtotal, GROUPING, fieldName, function]
 ---
-
-# Identify Subtotals with  GROUP BY
 
 > When you use the GROUP BY ROLLUP or GROUP BY CUBE clause in a SOQL query to add the
 		subtotals, you can identify whether the row is a subtotal for a field using the GROUPING(fieldName) function.

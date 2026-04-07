@@ -5,12 +5,10 @@ topic: suggestedassessmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.526Z
+lastCollected: 2026-04-07T18:36:45.284Z
 estimatedTokens: 636
-keywords: [SuggestedAssessmentReason, Stores, reasons, suggested, assessment, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [SuggestedAssessmentReason, Stores, reasons, suggested, assessment, API, 60.0]
 ---
-
-# SuggestedAssessmentReason
 
 > Stores the reasons for a suggested assessment. This object is available
       in API version 60.0 and later.

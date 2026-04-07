@@ -5,12 +5,10 @@ topic: partyfinclliabaddlbrwr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.789Z
+lastCollected: 2026-04-07T18:39:52.207Z
 estimatedTokens: 368
-keywords: [PartyFinclLiabAddlBrwr, additional, party, associated, financial, liability, API, version, 61.0, later]
+keywords: [PartyFinclLiabAddlBrwr, additional, party, financial, liability, API, 61.0]
 ---
-
-# PartyFinclLiabAddlBrwr
 
 > Represents information about an additional party associated with a
          financial liability. This object is available in API version 61.0 and

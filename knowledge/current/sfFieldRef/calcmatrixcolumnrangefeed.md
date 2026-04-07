@@ -5,12 +5,10 @@ topic: calcmatrixcolumnrangefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.709Z
+lastCollected: 2026-04-07T18:39:30.986Z
 estimatedTokens: 363
-keywords: [CalcMatrixColumnRangeFeed, Feed, tracking, CalcMatrixColumnRange]
+keywords: [CalcMatrixColumnRangeFeed, CalcMatrixColumnRange]
 ---
-
-# CalcMatrixColumnRangeFeed
 
 > Feed tracking for CalcMatrixColumnRange.
 

@@ -5,12 +5,10 @@ topic: financialgoalparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.529Z
+lastCollected: 2026-04-07T18:37:37.312Z
 estimatedTokens: 249
-keywords: [FinancialGoalParty, junction, financial, goal, person, account, API, version, 59.0, later, Calls]
+keywords: [FinancialGoalParty, junction, financial, goal, person, account, API, 59.0]
 ---
-
-# FinancialGoalParty
 
 > Represents a junction between the financial goal and the person account.
       This object is available in API version 59.0 and later.

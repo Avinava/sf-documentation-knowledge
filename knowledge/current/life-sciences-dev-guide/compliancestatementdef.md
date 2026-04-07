@@ -5,12 +5,10 @@ topic: compliancestatementdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.076Z
+lastCollected: 2026-04-07T18:37:59.741Z
 estimatedTokens: 967
-keywords: [ComplianceStatementDef, ensure, adherence, regulatory, requirements, health, care, provider, engagements, Stores, essential, compliance, that's, across, multiple]
+keywords: [ComplianceStatementDef, ensure, adherence, regulatory, requirements, health, care, provider, engagements, Stores, essential, compliance, that's, across, multiple, cases, including, visits, consent, capture, statements, configured, require, acknowledgement, purely, informational, Their, intended, audience, vary, accounts, engaged, end, user, themselves]
 ---
-
-# ComplianceStatementDef
 
 > Used to ensure adherence to regulatory requirements during health care
          provider engagements. Stores essential compliance information that's displayed across

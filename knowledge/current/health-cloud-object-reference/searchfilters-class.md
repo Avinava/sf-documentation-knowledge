@@ -5,12 +5,10 @@ topic: searchfilters-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.927Z
+lastCollected: 2026-04-07T18:37:39.882Z
 estimatedTokens: 988
-keywords: [SearchFilters, data, filters, applied, object-based, search, searchFilterList, isSetSearchFilterList]
+keywords: [SearchFilters, filters, applied, object-based, search, searchFilterList, isSetSearchFilterList]
 ---
-
-# SearchFilters Class
 
 > Contains a list of data filters to be applied for object-based
       search.

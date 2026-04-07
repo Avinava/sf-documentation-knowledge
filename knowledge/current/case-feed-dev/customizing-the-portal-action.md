@@ -5,12 +5,10 @@ topic: customizing-the-portal-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.202Z
+lastCollected: 2026-04-07T18:37:04.922Z
 estimatedTokens: 842
-keywords: [Customizing, Portal, Action, Wellness, Group, healthcare, company, support, agents, three, tiers, wanted, customize, reduce, amount]
+keywords: [Customizing, Portal, Action, Wellness, Group, healthcare, company, support, agents, three, tiers, wanted, customize, reduce, amount, standard, text, greetings, closings, had, replying, customers, help, increase, agents’, efficie, portalPublisher, Attributes, Case, Code, Sample]
 ---
-
-# Customizing the Portal Action
 
 > The Wellness Group is a healthcare
 company with 300 support agents in three tiers of support. Wellness

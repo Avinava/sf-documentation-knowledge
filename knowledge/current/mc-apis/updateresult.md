@@ -5,12 +5,10 @@ topic: updateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.709Z
+lastCollected: 2026-04-07T18:40:20.973Z
 estimatedTokens: 366
-keywords: [UpdateResult, results, objects, order, acted, upon, array, per, input, APIObject]
+keywords: [UpdateResult, results, order, acted, upon, array, per, APIObject]
 ---
-
-# UpdateResult
 
 > The UpdateResult object contains results of each object in an Update request. The objects are returned in the order acted upon: first in, first out. This array contains one UpdateResult object per input APIObject.
 

@@ -5,12 +5,10 @@ topic: connectapicdpsegmentoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.663Z
+lastCollected: 2026-04-07T18:36:08.032Z
 estimatedTokens: 449
 keywords: [ConnectApi.CdpSegmentOutput, Segment]
 ---
-
-# ConnectApi.CdpSegmentOutput
 
 > Segment.
 

@@ -5,12 +5,10 @@ topic: interesttaggingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.444Z
+lastCollected: 2026-04-07T18:36:26.872Z
 estimatedTokens: 724
-keywords: [InterestTaggingSettings, settings, Interest, Tags, users, add, client, records, capture, needs, interests, prospecting, opportunities, Parent, Manifest]
+keywords: [InterestTaggingSettings, settings, Interest, Tags, users, add, client, records, capture, needs, interests, prospecting, opportunities, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# InterestTaggingSettings
 
 > Represents settings for Interest Tags, which your users
 			can add to client records to capture client needs, interests, and prospecting

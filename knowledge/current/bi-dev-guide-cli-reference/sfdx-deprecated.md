@@ -5,12 +5,10 @@ topic: sfdx-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.113Z
+lastCollected: 2026-04-07T18:36:53.470Z
 estimatedTokens: 1152
 keywords: [sfdx, Deprecated, sfdx-style, commands, analytics, plug-in]
 ---
-
-# sfdx (Deprecated)
 
 > This section contains information about the deprecated sfdx-style commands for the analytics
         plug-in.

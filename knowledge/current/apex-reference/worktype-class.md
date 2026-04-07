@@ -5,13 +5,11 @@ topic: worktype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.536Z
+lastCollected: 2026-04-07T18:36:02.743Z
 estimatedTokens: 154
 namespace: LxScheduler
-keywords: [WorkType, work, performed, Usage]
+keywords: [WorkType, work, performed]
 ---
-
-# WorkType Class
 
 > Contains information about the type of work to be
     performed.

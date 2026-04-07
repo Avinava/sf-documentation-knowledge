@@ -5,12 +5,10 @@ topic: record-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.066Z
+lastCollected: 2026-04-07T18:40:12.076Z
 estimatedTokens: 722
 keywords: [Record, Layout]
 ---
-
-# Record Layout
 
 > The layout information for a record.
 

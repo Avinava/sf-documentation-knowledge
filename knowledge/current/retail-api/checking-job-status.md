@@ -5,12 +5,10 @@ topic: checking-job-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.152Z
+lastCollected: 2026-04-07T18:39:11.754Z
 estimatedTokens: 229
-keywords: [Checking, Job, Status, CSV, Export, API, scheduled, uses, csvGuid, input, Path, Query, Sample, Queued, Ready]
+keywords: [Checking, Job, Status, CSV, Export, API, scheduled, uses, csvGuid, Path, Query, Sample, Queued, Ready]
 ---
-
-# Checking Job Status
 
 > Use the CSV Export Job Status API to get the status of the scheduled export. The API uses
     the csvGuid of the scheduled export as an input parameter.

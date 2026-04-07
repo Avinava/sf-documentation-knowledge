@@ -5,12 +5,10 @@ topic: eligible-promotions-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.356Z
+lastCollected: 2026-04-07T18:35:43.246Z
 estimatedTokens: 162
-keywords: [Eligible, Promotions, Input, representation, line, items, includes, accept, item, IDs, sales, transaction]
+keywords: [Eligible, Promotions, line, items, includes, accept, item, IDs, sales, transaction]
 ---
-
-# Eligible Promotions Input
 
 > Input representation of the request to get eligible promotions for line items. This
     representation includes the details to accept line item IDs and a sales transaction

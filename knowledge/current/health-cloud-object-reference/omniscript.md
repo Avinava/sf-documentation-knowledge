@@ -5,12 +5,10 @@ topic: omniscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.310Z
+lastCollected: 2026-04-07T18:37:41.384Z
 estimatedTokens: 240
 keywords: [Omniscript, discovery, framework, structure, stored, OmniProcess]
 ---
-
-# Omniscript
 
 > Get the discovery framework structure stored as OmniProcess.
 

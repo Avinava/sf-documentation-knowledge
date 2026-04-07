@@ -5,12 +5,10 @@ topic: cgcloudpackagesettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:20.801Z
+lastCollected: 2026-04-07T18:39:14.189Z
 estimatedTokens: 850
-keywords: [cgcloud__Package_Setting__c, custom, setting, helps, manage, dynamic, namespaces, API, version, 54.0, later, cgcloud, _Package, _Setting, Calls]
+keywords: [cgcloud__Package_Setting__c, setting, helps, manage, dynamic, namespaces, API, 54.0, cgcloud, _Package, _Setting]
 ---
-
-# cgcloud__Package_Setting__c
 
 > This is a custom setting that helps you manage dynamic
          namespaces. This object is available in API version 54.0 and later.

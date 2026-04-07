@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-activities-export-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.211Z
+lastCollected: 2026-04-07T18:37:12.047Z
 estimatedTokens: 99
 keywords: [Commerce, Einstein, Webstore, Activities, Export, Status, activity, job, store]
 ---
-
-# Commerce Einstein Webstore Activities, Export Status
 
 > Get the status of a Commerce Einstein activity export job for a
   store.

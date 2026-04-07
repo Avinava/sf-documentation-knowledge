@@ -5,12 +5,10 @@ topic: accessing-rest-api-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.769Z
+lastCollected: 2026-04-07T18:38:46.661Z
 estimatedTokens: 635
-keywords: [Accessing, REST, API, Group, Professional, Editions, Lightning, Platform, powerful, convenient, simple, interacting, qualified, partner, enable]
+keywords: [Accessing, REST, API, Group, Professional, Editions, Lightning, Platform, powerful, convenient, simple, interacting, qualified, partner, enable, application, orgs]
 ---
-
-# Accessing REST API in Group and Professional Editions
 
 > The Lightning Platform REST API provides you with a powerful, convenient, and simple
           API for interacting with Lightning Platform. As a qualified partner, you can request that

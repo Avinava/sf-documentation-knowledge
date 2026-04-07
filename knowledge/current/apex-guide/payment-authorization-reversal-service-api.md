@@ -5,12 +5,10 @@ topic: payment-authorization-reversal-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.611Z
+lastCollected: 2026-04-07T18:36:16.826Z
 estimatedTokens: 885
-keywords: [Payment, Authorization, Reversal, Service, API, transaction, negates, releasing, hold, funds, customer’s, provide, users, ability, reverse]
+keywords: [Payment, Authorization, Reversal, Service, API, transaction, negates, releasing, hold, funds, customer’s, provide, users, ability, reverse, outstanding, Sample]
 ---
-
-# Payment Authorization Reversal Service API
 
 > An authorization reversal is a transaction that negates an authorization by releasing
     the hold on funds in a customer’s payment method. Use the authorization reversal service to

@@ -5,12 +5,10 @@ topic: generic-batch-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.779Z
+lastCollected: 2026-04-07T18:37:08.600Z
 estimatedTokens: 422
-keywords: [Generic, Batch, Collection, Input]
+keywords: [Generic, Batch, Collection]
 ---
-
-# Generic Batch Collection Input
 
 > Generic batch collection input.
 

@@ -5,12 +5,10 @@ topic: generalledgeracctasgntrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.648Z
+lastCollected: 2026-04-07T18:39:42.289Z
 estimatedTokens: 459
-keywords: [GeneralLedgerAcctAsgntRule, rule, general, ledger, accounts, assigned, transaction, journals, created, billing, transactions, API, version, 63.0, later]
+keywords: [GeneralLedgerAcctAsgntRule, rule, general, ledger, accounts, assigned, transaction, journals, created, billing, transactions, API, 63.0]
 ---
-
-# GeneralLedgerAcctAsgntRule
 
 > Represents information about the rule based on which general ledger accounts are
          assigned to transaction journals that are created for billing transactions. This

@@ -5,12 +5,10 @@ topic: read-quote-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.378Z
+lastCollected: 2026-04-07T18:37:27.381Z
 estimatedTokens: 201
 keywords: [Quote, API, reads, CPQ, REST, Examples, Apex]
 ---
-
-# Read Quote API
 
 > The Read Quote API reads a quote from a CPQ quote ID.
 

@@ -5,12 +5,10 @@ topic: referralrecordtypemapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.766Z
+lastCollected: 2026-04-07T18:37:35.404Z
 estimatedTokens: 242
-keywords: [ReferralRecordTypeMapper, Maps, new, custom, record, Lead, represent, referral, standard, Financial, Services, Cloud, Calls]
+keywords: [ReferralRecordTypeMapper, Maps, new, record, Lead, represent, referral, standard, Financial, Services, Cloud]
 ---
-
-# ReferralRecordTypeMapper
 
 > Maps a new custom record type on the Lead object, used to represent a
    new type of referral, to the standard Referral record type from Financial Services

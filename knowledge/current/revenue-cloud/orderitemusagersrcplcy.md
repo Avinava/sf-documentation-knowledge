@@ -5,12 +5,10 @@ topic: orderitemusagersrcplcy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.643Z
+lastCollected: 2026-04-07T18:35:49.602Z
 estimatedTokens: 854
-keywords: [OrderItemUsageRsrcPlcy, policies, usage, resource, that's, associated, product, added, order, item, API, version, 65.0, later, Calls]
+keywords: [OrderItemUsageRsrcPlcy, policies, resource, that's, product, added, order, item, API, 65.0]
 ---
-
-# OrderItemUsageRsrcPlcy
 
 > Represents the policies that are used for the usage resource that's
          associated with the usage product added in the order item. This object is available in

@@ -5,12 +5,10 @@ topic: sequenceassignedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.589Z
+lastCollected: 2026-04-07T18:35:50.480Z
 estimatedTokens: 504
-keywords: [SequenceAssignedEvent, notification, customers, assignment, sequence, target, record, process, initiated, sequences, actions, assign, API, version, 65.0]
+keywords: [SequenceAssignedEvent, notification, customers, assignment, sequence, target, record, process, initiated, sequences, actions, assign, API, 65.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# SequenceAssignedEvent
 
 > Represents the notification to customers about the assignment of a sequence
          to a target record. This process is initiated by the /sequences/actions/assign request. This object is available in API

@@ -5,12 +5,10 @@ topic: voice-connector-api-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.339Z
+lastCollected: 2026-04-07T18:39:23.271Z
 estimatedTokens: 1247
 keywords: [Voice, Connector, API, apply, telephony, CCaaS, vendor, systems]
 ---
-
-# Voice Connector API Methods
 
 > The Voice Connector API methods apply to telephony or CCaaS vendor
             systems.

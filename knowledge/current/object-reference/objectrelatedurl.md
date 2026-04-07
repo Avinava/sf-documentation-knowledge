@@ -5,12 +5,10 @@ topic: objectrelatedurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.072Z
+lastCollected: 2026-04-07T18:38:36.251Z
 estimatedTokens: 904
-keywords: [ObjectRelatedUrl, URL, slug, Product, Category, B2B, Commerce, D2C, LWR, site, custom, account, contact, enhanced, Experience]
+keywords: [ObjectRelatedUrl, URL, slug, Product, Category, B2B, Commerce, D2C, LWR, site, account, contact, enhanced, Experience, Cloud, API, 57.0]
 ---
-
-# ObjectRelatedUrl
 
 > Represents a URL slug for a Product or Category page on a B2B Commerce or D2C
          Commerce LWR site, or a custom object, account, or contact page on an enhanced LWR

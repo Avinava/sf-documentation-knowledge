@@ -5,12 +5,10 @@ topic: salesforce-billing-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.874Z
+lastCollected: 2026-04-07T18:37:03.443Z
 estimatedTokens: 380
-keywords: [Salesforce, Billing, Standard, Objects, access, orgs, managed, package, provisioned]
+keywords: [Salesforce, Billing, Standard, orgs, managed, package, provisioned]
 ---
-
-# Salesforce Billing Standard Objects
 
 > Salesforce Billing provides access to some standard objects. These objects are
                   available only in Salesforce orgs where the Salesforce Billing managed package is

@@ -5,12 +5,10 @@ topic: duplicate-rule-filter-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.629Z
+lastCollected: 2026-04-07T18:40:11.636Z
 estimatedTokens: 216
 keywords: [Duplicate, Rule, Filter, Item, condition, specify, movies, were, produced, United, States]
 ---
-
-# Duplicate Rule Filter Item
 
 > A filter, or condition, for a duplicate rule. For example, a
       condition can specify that this rule applies only to movies that were produced in the United

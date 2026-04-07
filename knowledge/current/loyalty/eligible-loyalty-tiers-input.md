@@ -5,12 +5,10 @@ topic: eligible-loyalty-tiers-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.011Z
+lastCollected: 2026-04-07T18:38:07.231Z
 estimatedTokens: 133
-keywords: [Eligible, Loyalty, Tiers, Input, representation, program, tier, whose, members, promotion]
+keywords: [Eligible, Loyalty, Tiers, program, tier, whose, members, promotion]
 ---
-
-# Eligible Loyalty Tiers Input
 
 > Input representation of the loyalty program tier whose members are eligible for the
     promotion.

@@ -5,12 +5,10 @@ topic: benefit-schedule-participants-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.926Z
+lastCollected: 2026-04-07T18:38:20.668Z
 estimatedTokens: 211
 keywords: [Benefit, Schedule, Participants, POST, Asynchronously, add]
 ---
-
-# Benefit Schedule Participants (POST)
 
 > Asynchronously add participants to a benefit
     schedule.

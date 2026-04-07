@@ -5,12 +5,10 @@ topic: patients-get-post-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.082Z
+lastCollected: 2026-04-07T18:37:55.518Z
 estimatedTokens: 1082
-keywords: [Patients, POST, PUT, Retrieve, FHIR, patient, resource, record, rather, making, multiple, separate, calls, objects, Salesforce]
+keywords: [Patients, POST, PUT, Retrieve, FHIR, patient, resource, record, rather, making, multiple, separate, Salesforce]
 ---
-
-# Patients (GET, POST, PUT)
 
 > Retrieve the FHIR patient resource record details. Create or update
       a patient record rather than making multiple separate calls to the objects in

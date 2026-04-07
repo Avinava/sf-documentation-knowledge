@@ -5,12 +5,10 @@ topic: purchaserplanshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.121Z
+lastCollected: 2026-04-07T18:39:57.725Z
 estimatedTokens: 249
 keywords: [PurchaserPlanShare, Sharing, PurchaserPlan]
 ---
-
-# PurchaserPlanShare
 
 > Sharing for PurchaserPlan.
 

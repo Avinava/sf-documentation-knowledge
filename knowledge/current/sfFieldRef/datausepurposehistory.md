@@ -5,12 +5,10 @@ topic: datausepurposehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.884Z
+lastCollected: 2026-04-07T18:39:37.537Z
 estimatedTokens: 263
-keywords: [DataUsePurposeHistory, History, tracked, DataUsePurpose]
+keywords: [DataUsePurposeHistory, tracked, DataUsePurpose]
 ---
-
-# DataUsePurposeHistory
 
 > History for tracked fields of DataUsePurpose.
 

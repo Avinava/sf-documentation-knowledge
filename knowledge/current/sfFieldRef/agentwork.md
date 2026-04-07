@@ -5,12 +5,10 @@ topic: agentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.494Z
+lastCollected: 2026-04-07T18:39:25.431Z
 estimatedTokens: 956
-keywords: [AgentWork, work, assignment, that’s, routed, agent, transferred, another, new, record, created, API, version, 32.0, later]
+keywords: [AgentWork, work, assignment, that’s, routed, agent, transferred, another, new, record, created, API, 32.0]
 ---
-
-# AgentWork
 
 > Represents a work assignment that’s been routed to an agent. If the
 			work is transferred to another agent, a new AgentWork record is created. This object is

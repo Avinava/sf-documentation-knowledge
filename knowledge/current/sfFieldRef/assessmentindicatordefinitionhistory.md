@@ -5,12 +5,10 @@ topic: assessmentindicatordefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.277Z
+lastCollected: 2026-04-07T18:39:27.244Z
 estimatedTokens: 281
-keywords: [AssessmentIndicatorDefinitionHistory, History, tracked, AssessmentIndicatorDefinition]
+keywords: [AssessmentIndicatorDefinitionHistory, tracked, AssessmentIndicatorDefinition]
 ---
-
-# AssessmentIndicatorDefinitionHistory
 
 > History for tracked fields of AssessmentIndicatorDefinition.
 

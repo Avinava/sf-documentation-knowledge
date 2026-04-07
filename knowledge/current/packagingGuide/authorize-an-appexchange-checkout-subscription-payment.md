@@ -5,12 +5,10 @@ topic: authorize-an-appexchange-checkout-subscription-payment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.061Z
+lastCollected: 2026-04-07T18:38:45.899Z
 estimatedTokens: 475
-keywords: [Authorize, AppExchange, Checkout, Subscription, Payment, regions, require, strong, customer, authentication, SCA, customer’s, bank, credit, card]
+keywords: [Authorize, AppExchange, Checkout, Subscription, Payment, regions, require, strong, customer, authentication, SCA, customer’s, bank, credit, card, issuer, may, payments, periodically, authorization, check, Stripe, dashboard, prompt, they, log, However, provide, customers, self-service, instructions, authorizing]
 ---
-
-# Authorize an AppExchange Checkout Subscription Payment
 
 > In regions that require strong customer authentication (SCA), a customer’s bank or
   credit card issuer may require the customer to authorize Checkout subscription payments

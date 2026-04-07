@@ -5,12 +5,10 @@ topic: referralsrepository
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.435Z
+lastCollected: 2026-04-07T18:39:09.750Z
 estimatedTokens: 1024
-keywords: [ReferralsRepository, invokes, manages, referral-related, REST, API, requests, interact, Salesforce, Referral, Marketing, APIs, manage, operations, enrollNewCustomerAsAdvocateOfPromotion]
+keywords: [ReferralsRepository, invokes, manages, referral-related, REST, API, requests, interact, Salesforce, Referral, Marketing, APIs, manage, operations, enrollNewCustomerAsAdvocateOfPromotion, enrollExistingAdvocateToNewPromotion, sendReferrals]
 ---
-
-# ReferralsRepository
 
 > The ReferralsRepository interface invokes and
     manages referral-related REST API requests. Use this class to interact with the Salesforce

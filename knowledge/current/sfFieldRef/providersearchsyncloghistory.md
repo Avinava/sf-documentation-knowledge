@@ -5,12 +5,10 @@ topic: providersearchsyncloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.935Z
+lastCollected: 2026-04-07T18:39:57.530Z
 estimatedTokens: 272
-keywords: [ProviderSearchSyncLogHistory, History, tracked, ProviderSearchSyncLog]
+keywords: [ProviderSearchSyncLogHistory, tracked, ProviderSearchSyncLog]
 ---
-
-# ProviderSearchSyncLogHistory
 
 > History for tracked fields of ProviderSearchSyncLog.
 

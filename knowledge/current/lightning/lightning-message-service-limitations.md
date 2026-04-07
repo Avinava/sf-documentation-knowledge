@@ -5,12 +5,10 @@ topic: lightning-message-service-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.597Z
+lastCollected: 2026-04-07T18:38:04.733Z
 estimatedTokens: 799
 keywords: [Lightning, Message, Service, Limitations, Keep, mind, working]
 ---
-
-# Lightning Message Service Limitations
 
 > Keep the following in mind when working with Lightning message service.
 

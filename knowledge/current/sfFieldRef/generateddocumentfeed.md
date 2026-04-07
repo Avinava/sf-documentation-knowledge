@@ -5,12 +5,10 @@ topic: generateddocumentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.678Z
+lastCollected: 2026-04-07T18:39:42.312Z
 estimatedTokens: 361
-keywords: [GeneratedDocumentFeed, Feed, tracking, GeneratedDocument]
+keywords: [GeneratedDocumentFeed, GeneratedDocument]
 ---
-
-# GeneratedDocumentFeed
 
 > Feed tracking for GeneratedDocument.
 

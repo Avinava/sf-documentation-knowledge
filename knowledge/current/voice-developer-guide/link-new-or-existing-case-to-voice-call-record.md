@@ -5,12 +5,10 @@ topic: link-new-or-existing-case-to-voice-call-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.751Z
+lastCollected: 2026-04-07T18:40:12.719Z
 estimatedTokens: 2820
-keywords: [Link, New, Case, Voice, Call, Record, how, take, caller’s, inputs, interactive, IVR, system, pass, Salesforce]
+keywords: [Prerequisites, Link, New, Case, Voice, Call, Record, how, take, caller’s, inputs, interactive, IVR, system, pass, Salesforce, records, walks, linking, modify, accounts, leads, Step, Install, Package, Add, Activate, Flow, Import, “SCVCB, RouteToAgent”, Contact, Case”, Test]
 ---
-
-# Link New or Existing Case to Voice Call Record
 
 > This example shows how to take a caller’s inputs into the
       interactive voice response (IVR) system, pass them to Salesforce, and use them to create or

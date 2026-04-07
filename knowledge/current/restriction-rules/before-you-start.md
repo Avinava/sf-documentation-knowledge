@@ -5,12 +5,10 @@ topic: before-you-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:16.933Z
+lastCollected: 2026-04-07T18:39:10.385Z
 estimatedTokens: 362
 keywords: [Start, restriction, rule, sure, needed, permissions, tools]
 ---
-
-# Before You Start
 
 > Before you create the restriction rule, make sure you have the needed permissions and
   tools.

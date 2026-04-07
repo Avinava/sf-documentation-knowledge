@@ -5,12 +5,10 @@ topic: product-return-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.035Z
+lastCollected: 2026-04-07T18:37:22.144Z
 estimatedTokens: 94
 keywords: [Product, Rate, units, divided, sold]
 ---
-
-# Product Return Rate
 
 > Return rate of a product (units returned divided by units sold).
 

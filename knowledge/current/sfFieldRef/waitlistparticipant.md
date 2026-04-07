@@ -5,12 +5,10 @@ topic: waitlistparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.407Z
+lastCollected: 2026-04-07T18:40:06.304Z
 estimatedTokens: 383
-keywords: [WaitlistParticipant, customer, added, waitlist, API, version, 58.0, later]
+keywords: [WaitlistParticipant, customer, added, waitlist, API, 58.0]
 ---
-
-# WaitlistParticipant
 
 > Represents a customer who is added to a waitlist. This object is
       available in API version 58.0 and later.

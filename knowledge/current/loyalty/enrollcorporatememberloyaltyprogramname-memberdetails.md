@@ -5,12 +5,10 @@ topic: enrollcorporatememberloyaltyprogramname-memberdetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.447Z
+lastCollected: 2026-04-07T18:38:06.659Z
 estimatedTokens: 418
-keywords: [enrollCorporateMember, loyaltyProgramName, memberDetails, Enroll, corporate, members, loyalty, program, API, Version, Requires, Chatter]
+keywords: [enrollCorporateMember, loyaltyProgramName, memberDetails, Enroll, corporate, members, loyalty, program, API, Requires, Chatter]
 ---
-
-# enrollCorporateMember(loyaltyProgramName, memberDetails)
 
 > Enroll corporate members in a loyalty program.
 

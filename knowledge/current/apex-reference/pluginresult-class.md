@@ -5,13 +5,11 @@ topic: pluginresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.324Z
+lastCollected: 2026-04-07T18:36:00.595Z
 estimatedTokens: 495
 namespace: Tip
-keywords: [PluginResult, output, implements, Process.Plugin, flow, outputParameters]
+keywords: [PluginResult, implements, Process.Plugin, flow, outputParameters]
 ---
-
-# PluginResult Class
 
 > Returns output parameters from the class that implements
 the Process.Plugin interface

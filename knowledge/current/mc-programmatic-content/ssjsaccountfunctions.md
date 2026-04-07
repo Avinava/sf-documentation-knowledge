@@ -5,9 +5,9 @@ topic: ssjsaccountfunctions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.436Z
+lastCollected: 2026-04-07T18:40:22.859Z
 estimatedTokens: 136
-keywords: [ssjs_accountFunctions, Account, Server-side, JavaScript, functions, access, modify, accounts, Marking, Cloud, Load, Initialization]
+keywords: [Load, Initialization, ssjs_accountFunctions, Account, Server-side, JavaScript, functions, modify, accounts, Marking, Cloud]
 ---
 
 # ssjs_accountFunctions

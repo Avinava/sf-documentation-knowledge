@@ -5,12 +5,10 @@ topic: product-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:35.007Z
+lastCollected: 2026-04-07T18:37:22.117Z
 estimatedTokens: 546
 keywords: [Product, summary, prices, selected, product’s, image]
 ---
-
-# Product Overview
 
 > Overview of a product, with summary information about prices, selected
       fields, and the product’s default image.

@@ -5,12 +5,10 @@ topic: serviceterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.770Z
+lastCollected: 2026-04-07T18:36:53.145Z
 estimatedTokens: 1491
-keywords: [ServiceTerritory, dealer, location, service, resources, located, appointments, performed, API, version, 58.0, later, Calls, Special, Access]
+keywords: [ServiceTerritory, dealer, location, service, resources, located, appointments, performed, API, 58.0]
 ---
-
-# ServiceTerritory
 
 > Represents a dealer location where  service  resources are located and
          service appointments are performed. This object is available in API version 58.0 and

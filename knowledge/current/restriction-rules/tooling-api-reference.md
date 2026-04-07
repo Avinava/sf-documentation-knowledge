@@ -5,12 +5,10 @@ topic: tooling-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.967Z
+lastCollected: 2026-04-07T18:39:10.420Z
 estimatedTokens: 171
-keywords: [Tooling, API, RestrictionRule, restriction, rules]
+keywords: [Tooling, API, RestrictionRule, restriction]
 ---
-
-# Tooling API Reference
 
 > This section provides more information on the RestrictionRule Tooling API object used to
   create restriction rules.

@@ -5,12 +5,10 @@ topic: work-with-individual-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.029Z
+lastCollected: 2026-04-07T18:40:07.974Z
 estimatedTokens: 879
-keywords: [Work, Individual, Records, Everyone’s, process, unique, don’t, always, data, teammates, want, modify, quickly, record, commands]
+keywords: [Work, Individual, Records, Everyone’s, process, unique, don’t, always, teammates, want, modify, quickly, record, commands, specify, directly, command, line, any, CSV, JSON, files, standard, Salesforce, Tooling, API]
 ---
-
-# Work With Individual Records
 
 > Everyone’s process is unique, and you don’t always need the same data as your teammates.
     When you want to create, modify, or delete individual records quickly, use the data record commands, such as data

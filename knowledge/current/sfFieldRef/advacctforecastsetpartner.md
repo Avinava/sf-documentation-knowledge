@@ -5,12 +5,10 @@ topic: advacctforecastsetpartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.137Z
+lastCollected: 2026-04-07T18:39:25.041Z
 estimatedTokens: 343
-keywords: [AdvAcctForecastSetPartner, junction, advanced, account, forecast, API, version, 53.0, later]
+keywords: [AdvAcctForecastSetPartner, junction, advanced, account, forecast, API, 53.0]
 ---
-
-# AdvAcctForecastSetPartner
 
 > Represents a junction between an advanced account forecast set and an
          account. This object is available in API version 53.0 and later.

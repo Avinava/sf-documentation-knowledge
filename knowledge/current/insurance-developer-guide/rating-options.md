@@ -5,12 +5,10 @@ topic: rating-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.586Z
+lastCollected: 2026-04-07T18:37:52.782Z
 estimatedTokens: 186
-keywords: [Rating, Options, Output, representation]
+keywords: [Rating, Options]
 ---
-
-# Rating Options
 
 > Output representation of the rating options that are returned in the
   response.

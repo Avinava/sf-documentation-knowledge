@@ -5,12 +5,10 @@ topic: warning-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.914Z
+lastCollected: 2026-04-07T18:36:20.129Z
 estimatedTokens: 78
-keywords: [there, warnings, deprecated, version, API]
+keywords: [there, warnings, deprecated, API]
 ---
-
-# Warning Header
 
 > This header is returned if there are warnings, such as the use of a deprecated version of the API.
 

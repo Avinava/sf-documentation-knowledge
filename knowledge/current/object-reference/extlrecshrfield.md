@@ -5,12 +5,10 @@ topic: extlrecshrfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.170Z
+lastCollected: 2026-04-07T18:38:32.125Z
 estimatedTokens: 625
-keywords: [ExtlRecShrField, imported, exported, updated, external, record, share, Partner, Connect, API, version, 63.0, later, Calls, Special]
+keywords: [ExtlRecShrField, imported, exported, updated, external, record, share, Partner, Connect, API, 63.0]
 ---
-
-# ExtlRecShrField
 
 > Represents an imported, exported, or updated external record share
          field for Partner Connect. This object is available in API version 63.0 and

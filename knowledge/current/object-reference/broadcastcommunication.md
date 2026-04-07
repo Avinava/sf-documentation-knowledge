@@ -5,12 +5,10 @@ topic: broadcastcommunication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.902Z
+lastCollected: 2026-04-07T18:38:26.882Z
 estimatedTokens: 1332
-keywords: [BroadcastCommunication, broadcast, communication, incident, API, version, 56.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [BroadcastCommunication, broadcast, communication, incident, API, 56.0]
 ---
-
-# BroadcastCommunication
 
 > Represents a broadcast communication related to an incident. This object
       is available in API version 56.0 and later.

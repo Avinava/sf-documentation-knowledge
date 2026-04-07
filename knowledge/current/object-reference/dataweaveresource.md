@@ -5,12 +5,10 @@ topic: dataweaveresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.909Z
+lastCollected: 2026-04-07T18:38:29.792Z
 estimatedTokens: 697
-keywords: [DataWeaveResource, DataWeaveScriptResource, generated, DataWeave, scripts, API, version, 58.0, later, Calls, Usage]
+keywords: [DataWeaveResource, DataWeaveScriptResource, generated, DataWeave, scripts, API, 58.0]
 ---
-
-# DataWeaveResource
 
 > Represents the DataWeaveScriptResource class that is generated for all
          DataWeave scripts. This object is available in API version 58.0 and later.

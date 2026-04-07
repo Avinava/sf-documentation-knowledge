@@ -5,12 +5,10 @@ topic: optimize-lists-and-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.710Z
+lastCollected: 2026-04-07T18:38:48.657Z
 estimatedTokens: 609
-keywords: [Optimize, Tables, improve, performance, Visualforce, pages, limit, amount, data, per, reduce, number, editable, implement, pagination]
+keywords: [Optimize, Tables, improve, performance, Visualforce, pages, limit, amount, per, reduce, number, editable, implement, pagination, replace, <apex, pageBlockTable>, HTML, Avoid, Grids, Possible, Consider]
 ---
-
-# Optimize Lists and Tables
 
 > To improve the performance of Visualforce pages with lists and tables, limit the amount
     of data displayed per page and reduce the number of editable fields per table. You can also

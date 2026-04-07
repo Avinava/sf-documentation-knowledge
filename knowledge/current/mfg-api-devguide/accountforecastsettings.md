@@ -5,12 +5,10 @@ topic: accountforecastsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:22.601Z
+lastCollected: 2026-04-07T18:38:12.931Z
 estimatedTokens: 2595
-keywords: [AccountForecastSettings, settings, define, generation, account, forecasts, their, display, account’s, record, periods, forecast, edited, formula, definitions]
+keywords: [AccountForecastSettings, AccountForecastFormula, ObjectMapping, ObjectMappingField, ListView, settings, define, generation, account, forecasts, their, display, account’s, record, periods, forecast, edited, formula, definitions, calculations, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 47.0, SOAP, REST, HTTP]
 ---
-
-# AccountForecastSettings
 
 > Represents settings that define the
       generation of account forecasts and their display on the account’s record page. These settings

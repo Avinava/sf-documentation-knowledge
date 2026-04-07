@@ -5,12 +5,10 @@ topic: opportunity-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.267Z
+lastCollected: 2026-04-07T18:35:54.306Z
 estimatedTokens: 867
-keywords: [Opportunity, Product, DMO, Data, Cloud, model, connecting, allowing, many-to-many, relationship, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Opportunity, Product, DMO, Cloud, model, connecting, allowing, many-to-many, relationship, API, Primary, Subject, Area, Key]
 ---
-
-# Opportunity Product DMO
 
 > The Opportunity Product DMO is a Data Cloud data model object (DMO) for
       connecting an opportunity to the product that it represents, allowing for a many-to-many

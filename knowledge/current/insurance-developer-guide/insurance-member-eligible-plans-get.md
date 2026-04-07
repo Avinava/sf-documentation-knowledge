@@ -5,12 +5,10 @@ topic: insurance-member-eligible-plans-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.565Z
+lastCollected: 2026-04-07T18:37:51.609Z
 estimatedTokens: 255
 keywords: [Insurance, Member, Eligible, Plans, contract, group, census, their, dependents]
 ---
-
-# Insurance Member Eligible Plans (GET)
 
 > Get the contract group plans for which a group census member and their dependents are
   eligible.

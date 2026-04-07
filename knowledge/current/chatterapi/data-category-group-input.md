@@ -5,12 +5,10 @@ topic: data-category-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.243Z
+lastCollected: 2026-04-07T18:37:08.045Z
 estimatedTokens: 140
-keywords: [Data, Category, Group, Input]
+keywords: [Category, Group]
 ---
-
-# Data Category Group Input
 
 > Data category group.
 

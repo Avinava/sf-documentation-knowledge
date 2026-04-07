@@ -5,12 +5,10 @@ topic: assetactionsrcpriceadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.275Z
+lastCollected: 2026-04-07T18:35:48.323Z
 estimatedTokens: 508
-keywords: [AssetActionSrcPriceAdjustment, row, junction, asset, calculated, price, adjustment, that's, applied, API, version, 66.0, later, Calls]
+keywords: [AssetActionSrcPriceAdjustment, row, junction, asset, calculated, price, adjustment, that's, applied, API, 66.0]
 ---
-
-# AssetActionSrcPriceAdjustment
 
 > Each row represents a junction between an asset and the calculated price
          adjustment that's applied to an asset. This object is available in API version 66.0

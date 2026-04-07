@@ -5,12 +5,10 @@ topic: recipe-configuration-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.854Z
+lastCollected: 2026-04-07T18:39:18.574Z
 estimatedTokens: 88
-keywords: [Recipe, Configuration, Collection, Input, data, prep, configurations]
+keywords: [Recipe, Configuration, Collection, prep, configurations]
 ---
-
-# Recipe Configuration Collection Input
 
 > A collection of data prep recipe configurations.
 

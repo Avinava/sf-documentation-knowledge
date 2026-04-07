@@ -5,12 +5,10 @@ topic: communicationchanneltemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.554Z
+lastCollected: 2026-04-07T18:39:09.922Z
 estimatedTokens: 514
-keywords: [CommunicationChannelTemplate, template, different, communication, channels, API, version, 63.0, later, B2C, referral, programs, Calls]
+keywords: [CommunicationChannelTemplate, template, different, communication, channels, API, 63.0, B2C, referral, programs]
 ---
-
-# CommunicationChannelTemplate
 
 > Represents the template for different communication channels. This
       object is available in API version 63.0 and later. This object is available only for B2C

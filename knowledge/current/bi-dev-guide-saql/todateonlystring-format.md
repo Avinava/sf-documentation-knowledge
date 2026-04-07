@@ -6,13 +6,10 @@ topic: todateonlystring-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.305Z
+lastCollected: 2026-04-07T18:37:00.867Z
 estimatedTokens: 166
 keywords: [toDateOnly, Converts, date, DateOnly, any]
 ---
-
-# toDateOnly(string,
-   format)
 
 > Converts a date in string format to a DateOnly
   type. format specifies the date format and can be any valid date

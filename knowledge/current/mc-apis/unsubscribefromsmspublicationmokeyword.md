@@ -5,12 +5,10 @@ topic: unsubscribefromsmspublicationmokeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.570Z
+lastCollected: 2026-04-07T18:40:20.823Z
 estimatedTokens: 581
 keywords: [UnsubscribeFromSMSPublicationMOKeyword, keyword, subscriber, unsubscribe, SMS, publication, Items]
 ---
-
-# UnsubscribeFromSMSPublicationMOKeyword
 
 > The UnsubscribeFromSMSPublicationMOKeyword object defines keyword used by a subscriber to unsubscribe from an SMS publication list.
 

@@ -5,12 +5,10 @@ topic: connectapiverifypolicycoverageoutputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.776Z
+lastCollected: 2026-04-07T18:37:50.672Z
 estimatedTokens: 117
-keywords: [Invocable, action, output, representation, verify, policy, coverage]
+keywords: [Invocable, action, verify, policy, coverage]
 ---
-
-# ConnectApi.VerifyPolicyCoverageOutputRep
 
 > Invocable action output representation for verify policy coverage.
 

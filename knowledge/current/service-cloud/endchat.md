@@ -5,12 +5,10 @@ topic: endchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.856Z
+lastCollected: 2026-04-07T18:36:48.919Z
 estimatedTokens: 176
-keywords: [endChat, Ends, chat, agent, currently, engaged, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, endChat, Ends, chat, agent, currently, engaged, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# endChat()
 
 > Ends a chat in which an agent is currently engaged. Available in API version 29.0 or
             later.

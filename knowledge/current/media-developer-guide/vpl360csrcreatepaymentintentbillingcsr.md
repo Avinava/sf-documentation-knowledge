@@ -5,12 +5,10 @@ topic: vpl360csrcreatepaymentintentbillingcsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.232Z
+lastCollected: 2026-04-07T18:38:11.549Z
 estimatedTokens: 174
-keywords: [VPL360CSR_CreatePaymentIntentBillingCSR, Integration, Procedure, creates, payment, intent, billing, amount, debited, VPL360CSR, _CreatePaymentIntentBillingCSR, Sample, Input, Output, Calls]
+keywords: [VPL360CSR_CreatePaymentIntentBillingCSR, Integration, Procedure, creates, payment, intent, billing, amount, debited, VPL360CSR, _CreatePaymentIntentBillingCSR, Sample]
 ---
-
-# VPL360CSR_CreatePaymentIntentBillingCSR
 
 > This Integration Procedure creates payment intent and
         billing with the amount to be debited from the payment method.

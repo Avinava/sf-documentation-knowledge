@@ -5,12 +5,10 @@ topic: quotelineiteminsproductclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.188Z
+lastCollected: 2026-04-07T18:37:53.483Z
 estimatedTokens: 689
-keywords: [QuoteLineItemInsProductClause, clauses, associated, products, applicable, specific, quote, line, item, auto, insurance, ABC, includes, Free, Look]
+keywords: [QuoteLineItemInsProductClause, clauses, products, applicable, specific, quote, line, item, auto, insurance, ABC, includes, Free, Look, clause, Excluded, Driver, two, records, API, 65.0]
 ---
-
-# QuoteLineItemInsProductClause
 
 > Represents all clauses associated with the products that are applicable to a
          specific quote line item. For example, if auto insurance quote "ABC" includes both a Free

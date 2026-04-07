@@ -5,12 +5,10 @@ topic: emailcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.148Z
+lastCollected: 2026-04-07T18:39:38.820Z
 estimatedTokens: 621
 keywords: [EmailContent, marketing, email, asset, Account, Engagement]
 ---
-
-# EmailContent
 
 > Represents a marketing email asset for use with Account
 			Engagement.

@@ -7,14 +7,10 @@ topic: example-adobe-analytics-and-lightning-locker-in-aura-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.038Z
+lastCollected: 2026-04-07T18:37:27.008Z
 estimatedTokens: 850
-keywords: [Adobe, Analytics, Lightning, Locker, Aura, Sites, Because, interacts, components, site, produce, unexpected, results, recommended, workaround]
+keywords: [Adobe, Analytics, Lightning, Locker, Aura, Sites, Because, interacts, site, produce, unexpected, results, recommended, workaround, isolate, JavaScript, Events, head, markup, interact, responsible, loading, referencing, resource, directly, Include, Implement, Additional]
 ---
-
-# Example: Adobe Analytics and Lightning Locker in
-    Aura
-    Sites
 
 > Because Adobe Analytics interacts with components in your
     Aura

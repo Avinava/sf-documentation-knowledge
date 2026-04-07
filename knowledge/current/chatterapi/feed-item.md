@@ -5,12 +5,10 @@ topic: feed-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:31.988Z
+lastCollected: 2026-04-07T18:37:19.085Z
 estimatedTokens: 2894
-keywords: [Feed, Item, made, elements, element]
+keywords: [Item, made]
 ---
-
-# Feed Item
 
 > A feed is made up of feed elements. A feed item is a type of feed element.
 

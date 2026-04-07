@@ -5,12 +5,10 @@ topic: code-modifications-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.912Z
+lastCollected: 2026-04-07T18:40:27.133Z
 estimatedTokens: 1336
-keywords: [Code, Modifications, iOS, handle, notifications, apps, register, AppDelegate, provided, template, Swift, add, extension, decrypt, incoming]
+keywords: [Code, Modifications, iOS, handle, notifications, apps, register, AppDelegate, provided, template, Swift, add, extension, decrypt, incoming, Notification, Builder, Registering, Receive, Implementing, Decryption, Push, Registration, Manually]
 ---
-
-# Code Modifications (iOS)
 
 > To handle notifications in iOS apps, you register in the AppDelegate class using the provided template code. In Swift apps, you must
         add an extension to decrypt incoming Notification Builder notifications.

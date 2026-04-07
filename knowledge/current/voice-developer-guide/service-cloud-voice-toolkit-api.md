@@ -5,12 +5,10 @@ topic: service-cloud-voice-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.060Z
+lastCollected: 2026-04-07T18:40:13.001Z
 estimatedTokens: 566
-keywords: [Service, Cloud, Voice, Toolkit, API, collection, front-end, event, listeners, interacting, product, Lightning, components, built, Web]
+keywords: [Service, Cloud, Voice, Toolkit, API, collection, front-end, event, listeners, interacting, product, Lightning, built, Web, framework, Aura]
 ---
-
-# Service Cloud Voice Toolkit API
 
 > Service Cloud Voice Toolkit API is a collection of front-end event listeners and API
   methods for interacting with the Service Cloud Voice product. The API is available for Lightning

@@ -5,12 +5,10 @@ topic: replay-active-calls-on-refresh
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.353Z
+lastCollected: 2026-04-07T18:40:13.290Z
 estimatedTokens: 640
-keywords: [Replay, Active, Calls, Refresh, rep, refreshes, Salesforce, middle, call, getActiveCalls, restore, state, VoiceCall, record, attempt]
+keywords: [Replay, Active, Refresh, rep, refreshes, Salesforce, middle, call, getActiveCalls, restore, state, VoiceCall, record, attempt, payload]
 ---
-
-# Replay Active Calls on Refresh
 
 > When a rep refreshes the Salesforce page in the middle of a call, getActiveCalls() is called to restore the state of the VoiceCall
     record page and to attempt to replay the call with the same payload.

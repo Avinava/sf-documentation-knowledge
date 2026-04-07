@@ -5,12 +5,10 @@ topic: referencedataloadlogshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.556Z
+lastCollected: 2026-04-07T18:39:59.216Z
 estimatedTokens: 253
 keywords: [ReferenceDataLoadLogShare, Sharing, ReferenceDataLoadLog]
 ---
-
-# ReferenceDataLoadLogShare
 
 > Sharing for ReferenceDataLoadLog.
 

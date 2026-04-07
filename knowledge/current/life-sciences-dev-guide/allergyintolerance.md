@@ -5,12 +5,10 @@ topic: allergyintolerance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.949Z
+lastCollected: 2026-04-07T18:37:56.386Z
 estimatedTokens: 1732
-keywords: [AllergyIntolerance, clinical, assessment, patient’s, allergy, intolerance, API, version, 51.0, later, Calls, Additional, Objects, Associated, Allergy​Intolerance, FHIR, resource, maps, PatientHealthReaction, objects]
+keywords: [AllergyIntolerance, clinical, assessment, patient’s, allergy, intolerance, API, 51.0, Additional, Allergy​Intolerance, FHIR, resource, maps, PatientHealthReaction, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# AllergyIntolerance
 
 > Represents a clinical assessment of a patient’s allergy or intolerance.
     This object is available in API version 51.0 and later.

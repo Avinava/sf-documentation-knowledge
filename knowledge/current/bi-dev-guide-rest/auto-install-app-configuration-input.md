@@ -5,12 +5,10 @@ topic: auto-install-app-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.208Z
+lastCollected: 2026-04-07T18:36:54.569Z
 estimatedTokens: 489
-keywords: [Auto-Install, App, Configuration, Input]
+keywords: [Auto-Install, App, Configuration]
 ---
-
-# Auto-Install App Configuration Input
 
 > The configuration for an auto-install app.
 

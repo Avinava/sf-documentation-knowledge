@@ -5,12 +5,10 @@ topic: warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.981Z
+lastCollected: 2026-04-07T18:35:46.995Z
 estimatedTokens: 139
-keywords: [Warnings, Output, representation, group, messages, code]
+keywords: [Warnings, group, messages, code]
 ---
-
-# Warnings
 
 > Output representation of a group of warning messages with the same warning
     code.

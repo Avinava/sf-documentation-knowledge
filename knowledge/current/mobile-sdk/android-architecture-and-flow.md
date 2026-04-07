@@ -5,12 +5,10 @@ topic: android-architecture-and-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.778Z
+lastCollected: 2026-04-07T18:40:25.171Z
 estimatedTokens: 405
-keywords: [Android, Architecture, Flow, kick, off, identity, provider, user, open, either, client, app, implementation, differs, depending]
+keywords: [Android, Architecture, Flow, kick, off, identity, provider, user, open, either, client, app, implementation, differs, depending, side, initiates, Initiated]
 ---
-
-# Android Architecture and Flow
 
 > To kick off the identity provider flow, a user can open either an identity provider or
   an identity provider client app. In Android, the implementation differs depending on which side

@@ -5,12 +5,10 @@ topic: messagingchannelusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.352Z
+lastCollected: 2026-04-07T18:38:35.600Z
 estimatedTokens: 1581
-keywords: [MessagingChannelUsage, status, enhanced, Messaging, channel, application, Unified, API, version, 60.0, later, Calls]
+keywords: [MessagingChannelUsage, status, enhanced, Messaging, channel, application, Unified, API, 60.0]
 ---
-
-# MessagingChannelUsage
 
 > Represents the status of an enhanced Messaging channel or of an application
          in a Unified Messaging channel. This object is available in API version 60.0 and

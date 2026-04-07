@@ -5,12 +5,10 @@ topic: cart-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.806Z
+lastCollected: 2026-04-07T18:37:07.528Z
 estimatedTokens: 455
-keywords: [Cart, Item, Input]
+keywords: [Cart, Item]
 ---
-
-# Cart Item Input
 
 > An item in a cart.
 

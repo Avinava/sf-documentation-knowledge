@@ -6,13 +6,10 @@ topic: salesforce-external-data-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.181Z
+lastCollected: 2026-04-07T18:38:24.069Z
 estimatedTokens: 137
-keywords: [Salesforce, External, Data, Objects, store, outside, access, org, Cloud, Zero, Copy]
+keywords: [Salesforce, External, store, outside, org, Cloud, Zero, Copy]
 ---
-
-# Salesforce External
-        Data Objects
 
 > You can store data outside Salesforce and still access in your org or Data
         Cloud.

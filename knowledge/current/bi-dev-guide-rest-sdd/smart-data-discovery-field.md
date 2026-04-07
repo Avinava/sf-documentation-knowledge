@@ -5,12 +5,10 @@ topic: smart-data-discovery-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.070Z
+lastCollected: 2026-04-07T18:36:59.555Z
 estimatedTokens: 137
-keywords: [Smart, Data, Discovery, Einstein]
+keywords: [Smart, Discovery, Einstein]
 ---
-
-# Smart Data Discovery Field
 
 > An Einstein Discovery field.
 

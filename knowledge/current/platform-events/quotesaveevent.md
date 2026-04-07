@@ -5,12 +5,10 @@ topic: quotesaveevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.742Z
+lastCollected: 2026-04-07T18:38:59.683Z
 estimatedTokens: 532
-keywords: [QuoteSaveEvent, Notifies, subscribers, process, started, actions, standard, successful, event, updated, quote, isn't, errors, how, fix]
+keywords: [QuoteSaveEvent, Notifies, subscribers, process, started, actions, standard, successful, event, updated, quote, isn't, errors, how, fix, API, 58.0, Subscription, Channel]
 ---
-
-# QuoteSaveEvent
 
 > Notifies subscribers that the process started by the /actions/standard/quotesaveevent request is complete.
 			If the process is successful, use this event to learn about the updated quote. If the

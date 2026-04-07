@@ -5,12 +5,10 @@ topic: disallow-use-of-caller-and-and-callee-no-caller-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.668Z
+lastCollected: 2026-04-07T18:38:05.891Z
 estimatedTokens: 121
-keywords: [Disallow, caller, callee, no-caller, Prevent, arguments.caller, arguments.callee, forbidden, ECMAScript, later, strict, mode, enabled, under, Lightning]
+keywords: [Disallow, caller, callee, no-caller, Prevent, arguments.caller, arguments.callee, forbidden, ECMAScript, strict, mode, enabled, under, Lightning, Locker]
 ---
-
-# Disallow Use of  caller and and callee ( ( no-caller ) )
 
 > Prevent the use of arguments.caller and arguments.callee. These
    are also forbidden in ECMAScript 5 and later when in strict mode, which is enabled under

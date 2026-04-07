@@ -5,12 +5,10 @@ topic: connectapicontenthubpermissiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.992Z
+lastCollected: 2026-04-07T18:36:08.352Z
 estimatedTokens: 123
 keywords: [ConnectApi.ContentHubPermissionType, permission]
 ---
-
-# ConnectApi.ContentHubPermissionType
 
 > A permission type.
 

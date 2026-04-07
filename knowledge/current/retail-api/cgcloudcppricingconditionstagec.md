@@ -5,12 +5,10 @@ topic: cgcloudcppricingconditionstagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.920Z
+lastCollected: 2026-04-07T18:39:13.331Z
 estimatedTokens: 2130
-keywords: [cgcloud__CP_Pricing_Condition_Stage__c, Staging, conditions, complex, pricing, uses, API, version, 54.0, later, cgcloud, _CP, _Pricing, _Condition, _Stage]
+keywords: [cgcloud__CP_Pricing_Condition_Stage__c, Staging, conditions, complex, pricing, uses, API, 54.0, cgcloud, _CP, _Pricing, _Condition, _Stage]
 ---
-
-# cgcloud__CP_Pricing_Condition_Stage__c
 
 > Staging table for conditions that complex pricing uses. This
       object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: lens-state-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.446Z
+lastCollected: 2026-04-07T18:36:54.803Z
 estimatedTokens: 1303
-keywords: [Lens, State, Input, Analytics, Query​Input, Compact​Form​Filter​Input, Compact​Form​Source​Input, Compact​Form​Column​Input, Lens​Visualization​Options​Input]
+keywords: [Lens, State, Analytics, Query​Input, Compact​Form​Filter​Input, Compact​Form​Source​Input, Compact​Form​Column​Input, Lens​Visualization​Options​Input]
 ---
-
-# Lens State Input
 
 > The state for an Analytics lens.
 

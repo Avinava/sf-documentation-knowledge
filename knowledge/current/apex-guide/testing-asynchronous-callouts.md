@@ -5,12 +5,10 @@ topic: testing-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.036Z
+lastCollected: 2026-04-07T18:36:17.255Z
 estimatedTokens: 456
-keywords: [Testing, Asynchronous, Callouts, Write, tests, test, controller, meet, code, coverage, requirements, deploying, packaging, Apex, Because]
+keywords: [Testing, Asynchronous, Callouts, Write, tests, test, controller, meet, code, coverage, requirements, deploying, packaging, Apex, Because, don’t, support, making, simulate, callout, requests, responses, you’re, simulating, doesn’t, sent, external, service, mock]
 ---
-
-# Testing Asynchronous Callouts
 
 > Write tests to test your controller and meet code coverage requirements for deploying
         or packaging Apex. Because Apex tests don’t support making callouts, you can simulate

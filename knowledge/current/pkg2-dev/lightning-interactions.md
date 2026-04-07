@@ -5,12 +5,10 @@ topic: lightning-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.535Z
+lastCollected: 2026-04-07T18:38:54.929Z
 estimatedTokens: 965
-keywords: [Lightning, Interactions, record, package, usage, log, custom_entity_type, LightningComponent, LightningPage, interaction, packaged, component, User, View]
+keywords: [Lightning, Interactions, record, package, log, custom_entity_type, LightningComponent, LightningPage, interaction, packaged, User, View]
 ---
-
-# Lightning Interactions
 
 > Each record in your package usage log that has a custom_entity_type of LightningComponent or
    LightningPage describes an interaction with your packaged

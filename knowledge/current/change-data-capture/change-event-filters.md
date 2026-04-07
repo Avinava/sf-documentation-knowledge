@@ -5,12 +5,10 @@ topic: change-event-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.585Z
+lastCollected: 2026-04-07T18:37:05.326Z
 estimatedTokens: 861
-keywords: [Change, Event, Filters, Filter, stream, events, adding, expression, channel, member, contain, Salesforce, entity, part, ChangeEventHeader]
+keywords: [Change, Event, Filters, Filter, stream, events, adding, expression, channel, member, contain, Salesforce, entity, part, ChangeEventHeader, capture, members, own, Auto-Enrichment, Filtered]
 ---
-
-# Change Event Filters
 
 > Filter a stream of change events by adding a filter expression on a channel
                 member. A filter expression can contain Salesforce entity fields and event header

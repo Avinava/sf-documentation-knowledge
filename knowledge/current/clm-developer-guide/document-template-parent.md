@@ -5,12 +5,10 @@ topic: document-template-parent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.260Z
+lastCollected: 2026-04-07T18:37:25.192Z
 estimatedTokens: 286
-keywords: [Document, Template, Parent, Output, representation, record]
+keywords: [Document, Template, Parent, record]
 ---
-
-# Document Template Parent
 
 > Output representation of the document template parent record.
 

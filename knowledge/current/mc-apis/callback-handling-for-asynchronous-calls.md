@@ -5,12 +5,10 @@ topic: callback-handling-for-asynchronous-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.265Z
+lastCollected: 2026-04-07T18:40:15.329Z
 estimatedTokens: 581
-keywords: [Callback, Handling, Asynchronous, Calls, Marketing, Cloud, recommends, HTTPPost, results, API, requests, rather, receiving, email, Reduce]
+keywords: [Callback, Handling, Asynchronous, Marketing, Cloud, recommends, HTTPPost, results, API, requests, rather, receiving, email, Reduce, Number, Callbacks, Sample, SOAP, Envelope, Retrieve, ResultMessage, HTTP, POST, Items]
 ---
-
-# Callback Handling for Asynchronous Calls
 
 > Marketing Cloud recommends using an HTTPPost callback to return the results of asynchronous API requests, rather than receiving the results in an email.
 

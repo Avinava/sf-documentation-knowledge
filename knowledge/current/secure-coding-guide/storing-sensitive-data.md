@@ -5,12 +5,10 @@ topic: storing-sensitive-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.146Z
+lastCollected: 2026-04-07T18:39:22.035Z
 estimatedTokens: 3950
-keywords: [Storing, Sensitive, Data, Understand, how, employ, robust, encryption, access, secure, storage, solutions, protect, Hardcoded, Secrets]
+keywords: [Storing, Sensitive, Understand, how, employ, robust, encryption, secure, storage, solutions, protect, Hardcoded, Secrets, Debug, Logs, Info, URL, Salesforce, Integrations, Sample, Vulnerability, Application, Vulnerable, Test, General, Guidance]
 ---
-
-# Storing Sensitive Data
 
 > Understand sensitive data and learn how to employ robust encryption, access controls,
         and secure storage solutions to protect it.

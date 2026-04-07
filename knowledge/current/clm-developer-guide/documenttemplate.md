@@ -5,13 +5,11 @@ topic: documenttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.463Z
+lastCollected: 2026-04-07T18:37:25.387Z
 estimatedTokens: 1812
 namespace: Type
-keywords: [DocumentTemplate, document, template, definitions, enable, dynamic, generation, templates, Salesforce, organizations, Parent, File, Suffix, Directory, Location, API, version, 56.0, later, Calls]
+keywords: [DocumentTemplate, document, template, definitions, enable, dynamic, generation, templates, Salesforce, organizations, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 56.0]
 ---
-
-# DocumentTemplate
 
 > Represents information about dynamic document generation. This
       object is available in API version 56.0 and later.

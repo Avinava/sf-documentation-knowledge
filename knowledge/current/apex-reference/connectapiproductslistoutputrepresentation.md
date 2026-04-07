@@ -5,12 +5,10 @@ topic: connectapiproductslistoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.816Z
+lastCollected: 2026-04-07T18:36:11.082Z
 estimatedTokens: 77
-keywords: [Output, representation, products, product, data, along, expand]
+keywords: [products, product, along, expand]
 ---
-
-# ConnectApi.ProductsListOutputRepresentation
 
 > Output representation of products with product data along with expand
       details.

@@ -5,12 +5,10 @@ topic: mini-tutorial-conflict-detection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.060Z
+lastCollected: 2026-04-07T18:40:25.428Z
 estimatedTokens: 531
-keywords: [Mini-Tutorial, Conflict, Detection, demonstrates, how, merge, modes, affect, save, operations, under, various, circumstances, form, extended]
+keywords: [Mini-Tutorial, Conflict, Detection, demonstrates, how, merge, modes, affect, save, operations, under, various, circumstances, form, extended, HTML, context]
 ---
-
-# Mini-Tutorial: Conflict Detection
 
 > The following mini-tutorial demonstrates how merge modes
 affect save operations under various circumstances. It takes the form

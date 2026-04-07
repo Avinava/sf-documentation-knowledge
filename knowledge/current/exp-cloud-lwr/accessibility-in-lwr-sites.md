@@ -5,12 +5,10 @@ topic: accessibility-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.202Z
+lastCollected: 2026-04-07T18:37:33.582Z
 estimatedTokens: 414
 keywords: [Accessibility, LWR, Sites, Experience, Cloud, include, several, features, best, practices, screen, reader, support, navigation]
 ---
-
-# Accessibility in LWR Sites
 
 > LWR sites in Experience Cloud include several important accessibility features and best
   practices, such as screen reader support and F6 navigation.

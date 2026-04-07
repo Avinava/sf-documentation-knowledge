@@ -5,12 +5,10 @@ topic: refresh-the-channel-order-apps-connection-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.643Z
+lastCollected: 2026-04-07T18:38:46.518Z
 estimatedTokens: 238
-keywords: [Refresh, Channel, Order, App’s, Connection, Salesforce, you’re, upgrading, App, COA, later, production, refreshes, submit, orders]
+keywords: [Refresh, Channel, Order, App’s, Connection, Salesforce, you’re, upgrading, App, COA, production, refreshes, submit, orders]
 ---
-
-# Refresh the Channel Order App’s Connection to Salesforce
 
 > If you’re upgrading the Channel Order App (COA) to v2 or later, refresh your production
     connection to Salesforce. After your connection refreshes, you can submit orders to

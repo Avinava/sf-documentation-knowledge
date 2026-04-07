@@ -5,12 +5,10 @@ topic: line-item-details-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.379Z
+lastCollected: 2026-04-07T18:35:46.344Z
 estimatedTokens: 134
-keywords: [Line, Item, Output, representation, pricing, process, execution, items]
+keywords: [Line, Item, pricing, process, execution, items]
 ---
-
-# Line Item Details Response
 
 > Output representation of the pricing process execution details for the line
     items.

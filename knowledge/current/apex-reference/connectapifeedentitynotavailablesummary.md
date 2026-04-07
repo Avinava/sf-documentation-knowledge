@@ -5,12 +5,10 @@ topic: connectapifeedentitynotavailablesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.822Z
+lastCollected: 2026-04-07T18:36:09.206Z
 estimatedTokens: 78
-keywords: [summary, feed, entity, isn’t]
+keywords: [summary, entity, isn’t]
 ---
-
-# ConnectApi.FeedEntityNotAvailableSummary
 
 > A summary when the feed entity isn’t available.
 

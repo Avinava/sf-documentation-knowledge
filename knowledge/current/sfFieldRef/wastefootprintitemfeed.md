@@ -5,12 +5,10 @@ topic: wastefootprintitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.550Z
+lastCollected: 2026-04-07T18:40:06.462Z
 estimatedTokens: 362
-keywords: [WasteFootprintItemFeed, Feed, tracking, WasteFootprintItem]
+keywords: [WasteFootprintItemFeed, WasteFootprintItem]
 ---
-
-# WasteFootprintItemFeed
 
 > Feed tracking for WasteFootprintItem.
 

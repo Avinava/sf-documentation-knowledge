@@ -5,12 +5,10 @@ topic: financial-services-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.330Z
+lastCollected: 2026-04-07T18:37:36.059Z
 estimatedTokens: 214
-keywords: [Financial, Services, Cloud, Associated, Objects, subtopics, provide, their, standard]
+keywords: [Financial, Services, Cloud, subtopics, provide, their, standard]
 ---
-
-# Financial Services Cloud Associated Objects
 
 > This section and its subtopics provide a list of associated objects and their
         standard fields.

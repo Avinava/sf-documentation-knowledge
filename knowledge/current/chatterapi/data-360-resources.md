@@ -5,12 +5,10 @@ topic: data-360-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.252Z
+lastCollected: 2026-04-07T18:37:13.196Z
 estimatedTokens: 111
-keywords: [Data, Resources, Salesforce, Connect, REST, API, build, custom, solutions, top, take, advantage, uniform, implementation, testing]
+keywords: [Resources, Salesforce, Connect, REST, API, build, solutions, top, take, advantage, uniform, implementation, testing, practices]
 ---
-
-# Data 360 Resources
 
 > Use Salesforce Data 360 Connect REST API to build custom solutions on top of Data 360
       and take advantage of uniform implementation and testing practices.

@@ -5,12 +5,10 @@ topic: merged-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.857Z
+lastCollected: 2026-04-07T18:37:05.560Z
 estimatedTokens: 671
 keywords: [Merged, Change, Events, efficiency, sometimes, transaction, event, occurred, multiple, records, second]
 ---
-
-# Merged Change Events
 
 > For efficiency, sometimes change events for one transaction are merged into one event if
   the same change occurred in multiple records of the same object type during one second.

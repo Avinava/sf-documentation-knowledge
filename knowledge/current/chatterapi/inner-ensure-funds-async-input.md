@@ -5,12 +5,10 @@ topic: inner-ensure-funds-async-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.898Z
+lastCollected: 2026-04-07T18:37:08.708Z
 estimatedTokens: 475
-keywords: [Inner, Ensure, Funds, Async, Input, Invoice, associated, OrderSummary]
+keywords: [Inner, Ensure, Funds, Async, Invoice, OrderSummary]
 ---
-
-# Inner Ensure Funds Async Input
 
 > ID of an Invoice and ID of the associated
     OrderSummary.

@@ -5,12 +5,10 @@ topic: documentclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.645Z
+lastCollected: 2026-04-07T18:39:38.350Z
 estimatedTokens: 264
-keywords: [DocumentClause, clause, associated, multiple, documents]
+keywords: [DocumentClause, clause, multiple, documents]
 ---
-
-# DocumentClause
 
 > Represents a clause that can be associated with multiple documents.
 

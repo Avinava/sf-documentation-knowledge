@@ -5,12 +5,10 @@ topic: topics-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.373Z
+lastCollected: 2026-04-07T18:37:11.113Z
 estimatedTokens: 432
-keywords: [Topics, Feed, Items, topic]
+keywords: [Topics, Items, topic]
 ---
-
-# Topics Feed Items
 
 > Get feed items for a topic.
 

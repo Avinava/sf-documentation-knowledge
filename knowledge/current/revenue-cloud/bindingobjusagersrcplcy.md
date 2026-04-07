@@ -5,12 +5,10 @@ topic: bindingobjusagersrcplcy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.772Z
+lastCollected: 2026-04-07T18:35:48.756Z
 estimatedTokens: 848
-keywords: [BindingObjUsageRsrcPlcy, policies, usage, resource, that's, associated, asset, binding, API, version, 65.0, later, Calls]
+keywords: [BindingObjUsageRsrcPlcy, policies, resource, that's, asset, binding, API, 65.0]
 ---
-
-# BindingObjUsageRsrcPlcy
 
 > Represents the policies that are used for the usage resource that's
          associated with an asset or a binding object. This object is available in API version

@@ -5,13 +5,11 @@ topic: commercebuygrp-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.676Z
+lastCollected: 2026-04-07T18:36:14.989Z
 estimatedTokens: 502
 namespace: CommerceBuyGrp
-keywords: [CommerceBuyGrp, classes, retrieving, buyer, groups, associated, user]
+keywords: [CommerceBuyGrp, classes, retrieving, buyer, groups, user]
 ---
-
-# CommerceBuyGrp Namespace
 
 > The CommerceBuyGrp namespace provides classes and
     methods for retrieving information about the buyer groups associated with a user.

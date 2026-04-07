@@ -5,12 +5,10 @@ topic: forecasting-user-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.064Z
+lastCollected: 2026-04-07T18:37:14.030Z
 estimatedTokens: 251
-keywords: [Forecasting, User, Access, whether, context, view, user’s, forecast, another]
+keywords: [Forecasting, User, whether, context, view, user’s, forecast, another]
 ---
-
-# Forecasting User Access
 
 > Indicates whether the context user has access to view a specified
       user’s forecast.

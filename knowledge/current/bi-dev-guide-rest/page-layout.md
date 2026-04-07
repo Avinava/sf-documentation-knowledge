@@ -5,12 +5,10 @@ topic: page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:10.997Z
+lastCollected: 2026-04-07T18:36:57.506Z
 estimatedTokens: 343
 keywords: [Layout, definition, Analytics, template]
 ---
-
-# Page Layout
 
 > The page layout definition for an Analytics template.
 

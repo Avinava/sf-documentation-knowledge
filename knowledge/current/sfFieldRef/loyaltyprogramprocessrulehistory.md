@@ -5,12 +5,10 @@ topic: loyaltyprogramprocessrulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.237Z
+lastCollected: 2026-04-07T18:39:47.651Z
 estimatedTokens: 271
-keywords: [LoyaltyProgramProcessRuleHistory, History, tracked, LoyaltyProgramProcessRule]
+keywords: [LoyaltyProgramProcessRuleHistory, tracked, LoyaltyProgramProcessRule]
 ---
-
-# LoyaltyProgramProcessRuleHistory
 
 > History for tracked fields of LoyaltyProgramProcessRule.
 

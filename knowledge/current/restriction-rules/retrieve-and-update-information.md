@@ -5,12 +5,10 @@ topic: retrieve-and-update-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.937Z
+lastCollected: 2026-04-07T18:39:10.390Z
 estimatedTokens: 244
-keywords: [Retrieve, deploy, calls, move, metadata, XML, files, Salesforce, organization, local, file, system, PATCH, restriction, rules]
+keywords: [Retrieve, deploy, move, metadata, XML, files, Salesforce, organization, local, file, system, PATCH, restriction]
 ---
-
-# Retrieve and Update Information
 
 > Use the GET, PATCH, and DELETE methods to retrieve, update, and delete restriction
   rules.

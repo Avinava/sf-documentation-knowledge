@@ -5,12 +5,10 @@ topic: connecting-to-the-soap-api-using-wcf
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.666Z
+lastCollected: 2026-04-07T18:40:15.775Z
 estimatedTokens: 1659
-keywords: [Connecting, SOAP, API, WCF, development, environment, systems, Marketing, Cloud, standards, Why, Connect, How, Web.config, File]
+keywords: [Connecting, SOAP, API, WCF, development, environment, systems, Marketing, Cloud, standards, Why, Connect, How, Web.config, File, Sample, Code, New, Subscriber, Email, Message, Items]
 ---
-
-# Connecting to the SOAP API using WCF
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API using the WCF standards.
 

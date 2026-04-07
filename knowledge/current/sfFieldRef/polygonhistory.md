@@ -5,12 +5,10 @@ topic: polygonhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.822Z
+lastCollected: 2026-04-07T18:39:54.372Z
 estimatedTokens: 253
-keywords: [PolygonHistory, History, tracked, Polygon]
+keywords: [PolygonHistory, tracked, Polygon]
 ---
-
-# PolygonHistory
 
 > History for tracked fields of Polygon.
 

@@ -5,12 +5,10 @@ topic: data-change-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.661Z
+lastCollected: 2026-04-07T18:37:57.176Z
 estimatedTokens: 199
-keywords: [Data, Change, Requests, organizations, implement, configurable, validation, processes, tailored, their, specific, business, needs, Validate, changes]
+keywords: [Change, Requests, organizations, implement, configurable, validation, processes, tailored, their, specific, business, needs, Validate, changes, configure, profile, record, support, controlled, synchronization, externally, managed, domains]
 ---
-
-# Data Change Requests
 
 > With Data Change Requests, organizations can implement configurable data validation
   processes that are tailored to their specific business needs. Validate data changes by objects and

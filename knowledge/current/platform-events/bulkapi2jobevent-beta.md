@@ -5,12 +5,10 @@ topic: bulkapi2jobevent-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.891Z
+lastCollected: 2026-04-07T18:38:58.748Z
 estimatedTokens: 478
-keywords: [BulkApi2JobEvent, Beta, Notifies, subscribers, changes, status, Bulk, API, 2.0, query, jobs, URLs, downloading, partial, results]
+keywords: [BulkApi2JobEvent, Beta, Notifies, subscribers, changes, status, Bulk, API, 2.0, query, jobs, URLs, downloading, partial, results, 63.0, Streaming, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# BulkApi2JobEvent (Beta)
 
 > Notifies subscribers of changes to the status of Bulk API 2.0 query jobs and provides URLs for downloading partial results.
 		This object is available in API version 63.0 and

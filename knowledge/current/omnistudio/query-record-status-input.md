@@ -5,12 +5,10 @@ topic: query-record-status-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.810Z
+lastCollected: 2026-04-07T18:36:37.336Z
 estimatedTokens: 98
-keywords: [Query, Record, Status, Input, representation, error, messages, data, records]
+keywords: [Query, Record, Status, error, messages, records]
 ---
-
-# Query Record Status Input
 
 > Input representation of status and related error messages of query data
     records.

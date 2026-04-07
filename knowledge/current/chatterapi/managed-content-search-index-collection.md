@@ -5,12 +5,10 @@ topic: managed-content-search-index-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.285Z
+lastCollected: 2026-04-07T18:37:20.478Z
 estimatedTokens: 94
 keywords: [Managed, Content, Search, Index, Collection, indexes, channel]
 ---
-
-# Managed Content Search Index Collection
 
 > Collection of search indexes for a channel.
 

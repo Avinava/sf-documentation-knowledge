@@ -5,12 +5,10 @@ topic: sitedomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.698Z
+lastCollected: 2026-04-07T18:38:41.397Z
 estimatedTokens: 485
-keywords: [SiteDomain, read-only, one-to-many, replacement, Site.TopLevelDomain, API, version, 21.0, deprecated, 26.0, later, Domain, DomainSite, objects, instead]
+keywords: [SiteDomain, read-only, one-to-many, replacement, Site.TopLevelDomain, API, 21.0, deprecated, 26.0, Domain, DomainSite, instead]
 ---
-
-# SiteDomain
 
 > SiteDomain is a read-only object, and a one-to-many replacement for the
   Site.TopLevelDomain field. This object is available in API version 21.0, and has been

@@ -5,12 +5,10 @@ topic: applicationformproductproposal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.551Z
+lastCollected: 2026-04-07T18:37:36.311Z
 estimatedTokens: 884
-keywords: [ApplicationFormProductProposal, proposal, presented, financial, institution, applicant, interest, rate, monthly, payment, validity, dates, total, API, version]
+keywords: [ApplicationFormProductProposal, proposal, presented, financial, institution, applicant, interest, rate, monthly, payment, validity, dates, total, API, 61.0, Digital, Lending, permission]
 ---
-
-# ApplicationFormProductProposal
 
 > Represents the proposal presented by the financial institution to the
          applicant with details of interest rate, monthly payment, validity dates, and total

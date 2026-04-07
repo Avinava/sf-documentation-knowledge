@@ -5,12 +5,10 @@ topic: composite-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.073Z
+lastCollected: 2026-04-07T18:40:27.296Z
 estimatedTokens: 446
-keywords: [Composite, RestRequest, execute, iOS, Android]
+keywords: [Android, Composite, RestRequest, execute, iOS]
 ---
-
-# Composite Request
 
 > Returns a RestRequest object that you then use to
         execute the composite request.

@@ -5,12 +5,10 @@ topic: disclosuredefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.886Z
+lastCollected: 2026-04-07T18:38:16.440Z
 estimatedTokens: 962
-keywords: [DisclosureDefinitionVersion, version, disclosure, definition, Parent, File, Suffix, Directory, Location, Special, Access, Rules, Declarative, Metadata, Sample, API, 57.0, later, Calls, SOAP]
+keywords: [DisclosureDefinitionVersion, disclosure, definition, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest, API, 57.0, SOAP, REST]
 ---
-
-# DisclosureDefinitionVersion
 
 > Represents the version information about the disclosure
          definition. This object is available in API version 57.0 and later.

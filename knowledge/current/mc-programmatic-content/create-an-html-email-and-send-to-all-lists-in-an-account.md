@@ -5,12 +5,10 @@ topic: create-an-html-email-and-send-to-all-lists-in-an-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.524Z
+lastCollected: 2026-04-07T18:40:22.957Z
 estimatedTokens: 438
-keywords: [HTML, Email, Send, Account, sample, server-side, JavaScript, demonstrates, how, message, inside, Salesforce, Marketing, Cloud, include]
+keywords: [HTML, Email, Send, Account, sample, server-side, JavaScript, demonstrates, how, message, inside, Salesforce, Marketing, Cloud, include, code, landing, application]
 ---
-
-# Create an HTML Email and Send to All Lists in an Account
 
 > This sample server-side JavaScript demonstrates how to create an HTML email and send that message to all lists inside of an Salesforce Marketing Cloud account. You can include this code in a landing page or application.
 

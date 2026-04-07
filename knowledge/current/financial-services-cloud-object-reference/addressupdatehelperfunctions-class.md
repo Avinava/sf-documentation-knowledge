@@ -5,12 +5,10 @@ topic: addressupdatehelperfunctions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.417Z
+lastCollected: 2026-04-07T18:37:33.855Z
 estimatedTokens: 229
-keywords: [AddressUpdateHelperFunctions, callable, data, conversion, functions, Change, Address, OmniScript, Usage]
+keywords: [AddressUpdateHelperFunctions, callable, conversion, functions, Change, Address, OmniScript]
 ---
-
-# AddressUpdateHelperFunctions Class
 
 > The callable AddressUpdateHelperFunctions class provides data
   conversion functions for use in the Change Address OmniScript.

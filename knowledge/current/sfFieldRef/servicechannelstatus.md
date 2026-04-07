@@ -5,12 +5,10 @@ topic: servicechannelstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.604Z
+lastCollected: 2026-04-07T18:40:01.369Z
 estimatedTokens: 300
-keywords: [ServiceChannelStatus, status, that’s, associated, specific, service, channel, API, version, 32.0, later]
+keywords: [ServiceChannelStatus, status, that’s, specific, service, channel, API, 32.0]
 ---
-
-# ServiceChannelStatus
 
 > Represents the status that’s associated with a specific service
    channel. This object is available in API version 32.0 and later.

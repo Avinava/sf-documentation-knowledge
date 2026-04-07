@@ -5,12 +5,10 @@ topic: validation-rules-and-custom-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.883Z
+lastCollected: 2026-04-07T18:38:51.124Z
 estimatedTokens: 302
-keywords: [Validation, Rules, Custom, Controllers, user, enters, data, Visualforce, uses, controller, causes, rule, error, standard, location]
+keywords: [Validation, Controllers, user, enters, Visualforce, uses, controller, causes, rule, error, standard, location, <apex, inputFie]
 ---
-
-# Validation Rules and Custom Controllers
 
 > If a user enters data on a Visualforce page that uses a custom controller, and that data causes a validation
 rule error, the error can be displayed on the Visualforce page. Like a page that uses a standard controller, if the validation

@@ -5,12 +5,10 @@ topic: discovery-contributor-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.562Z
+lastCollected: 2026-04-07T18:39:18.246Z
 estimatedTokens: 97
-keywords: [Discovery, Contributor, Input, Einstein, prediction]
+keywords: [Discovery, Contributor, Einstein, prediction]
 ---
-
-# Discovery Contributor Input
 
 > The discovery contributor for an Einstein Discovery prediction field.
 

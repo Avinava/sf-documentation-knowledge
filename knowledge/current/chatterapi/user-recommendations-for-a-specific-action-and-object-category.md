@@ -5,12 +5,10 @@ topic: user-recommendations-for-a-specific-action-and-object-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.218Z
+lastCollected: 2026-04-07T18:37:16.290Z
 estimatedTokens: 1158
-keywords: [User, Recommendations, Specific, Action, Category, Chatter, custom, context]
+keywords: [User, Recommendations, Specific, Action, Category, Chatter, context]
 ---
-
-# User Recommendations for a Specific Action and Object Category
 
 > Get the Chatter, custom, and static
                         recommendations for the specified action and object category for the context

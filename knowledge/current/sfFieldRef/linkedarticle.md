@@ -5,12 +5,10 @@ topic: linkedarticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.747Z
+lastCollected: 2026-04-07T18:39:46.297Z
 estimatedTokens: 377
-keywords: [LinkedArticle, knowledge, article, attached, work, order, line, item, API, version, 37.0, later]
+keywords: [LinkedArticle, knowledge, article, attached, work, order, line, item, API, 37.0]
 ---
-
-# LinkedArticle
 
 > Represents a knowledge article that is attached to a work order,
 			work order line item, or work type. This object is available in API version 37.0

@@ -5,12 +5,10 @@ topic: files-connect-item-type-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.846Z
+lastCollected: 2026-04-07T18:37:17.914Z
 estimatedTokens: 260
-keywords: [Files, Connect, Item, Summary, associated, repository, folder]
+keywords: [Files, Connect, Item, Summary, repository, folder]
 ---
-
-# Files Connect Item Type Summary
 
 > Summary information about an item type associated with a repository
       folder.

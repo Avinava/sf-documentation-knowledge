@@ -5,12 +5,10 @@ topic: requirements-for-the-service-chat-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.906Z
+lastCollected: 2026-04-07T18:40:28.050Z
 estimatedTokens: 615
 keywords: [Requirements, Service, Chat, SDK, iOS, Salesforce, org, development, mobile, app]
 ---
-
-# Requirements for the Service Chat SDK for iOS
 
 > The Salesforce org, SDK development, and mobile app requirements
       for using the Service Chat SDK.

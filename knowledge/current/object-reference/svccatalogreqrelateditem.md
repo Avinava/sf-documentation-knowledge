@@ -5,12 +5,10 @@ topic: svccatalogreqrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.232Z
+lastCollected: 2026-04-07T18:38:42.034Z
 estimatedTokens: 625
-keywords: [SvcCatalogReqRelatedItem, item, Service, Catalog, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [SvcCatalogReqRelatedItem, item, Service, Catalog, API, 53.0]
 ---
-
-# SvcCatalogReqRelatedItem
 
 > Represents an item related to a Service Catalog Request. This object is
       available in API version 53.0 and later.

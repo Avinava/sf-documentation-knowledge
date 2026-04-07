@@ -5,12 +5,10 @@ topic: emailsenddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.633Z
+lastCollected: 2026-04-07T18:40:16.778Z
 estimatedTokens: 2348
 keywords: [EmailSendDefinition, message, sender, profile, delivery, audience]
 ---
-
-# EmailSendDefinition
 
 > The EmailSendDefinition object contains the message information, sender profile, delivery profile, and audience information.
 

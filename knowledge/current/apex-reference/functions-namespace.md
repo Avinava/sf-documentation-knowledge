@@ -5,13 +5,11 @@ topic: functions-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.937Z
+lastCollected: 2026-04-07T18:36:15.247Z
 estimatedTokens: 663
 namespace: The
 keywords: [Functions, classes, invoke, manage, Salesforce]
 ---
-
-# Functions Namespace
 
 > The Functions namespace provides classes and methods used to invoke and manage Salesforce
     Functions.

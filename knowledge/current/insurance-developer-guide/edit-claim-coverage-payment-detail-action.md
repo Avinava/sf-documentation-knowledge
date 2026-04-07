@@ -5,12 +5,10 @@ topic: edit-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.023Z
+lastCollected: 2026-04-07T18:37:48.747Z
 estimatedTokens: 249
-keywords: [Edit, Claim, Coverage, Payment, Detail, Action, Modify, record, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Edit, Claim, Coverage, Payment, Detail, Action, Modify, record, REST, HTTP]
 ---
-
-# Edit Claim Coverage Payment Detail Action
 
 > Modify a claim coverage payment detail record.
 

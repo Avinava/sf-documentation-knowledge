@@ -5,12 +5,10 @@ topic: group-maintenance-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.087Z
+lastCollected: 2026-04-07T18:39:19.784Z
 estimatedTokens: 1242
-keywords: [Group, Maintenance, Tables, Sharing, rows, grant, access, users, groups, data, belongs, resides, store, membership, every]
+keywords: [Group, Maintenance, Tables, Sharing, rows, grant, users, groups, belongs, resides, store, membership, every, Salesforce, including, system-defined]
 ---
-
-# Group Maintenance Tables
 
 > Sharing rows grant access to users and groups, but the data that specifies who belongs to
       each group resides in the Group Maintenance tables. These tables store membership data for

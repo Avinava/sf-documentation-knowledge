@@ -5,12 +5,10 @@ topic: supplierproductfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.464Z
+lastCollected: 2026-04-07T18:40:03.153Z
 estimatedTokens: 360
-keywords: [SupplierProductFeed, Feed, tracking, SupplierProduct]
+keywords: [SupplierProductFeed, SupplierProduct]
 ---
-
-# SupplierProductFeed
 
 > Feed tracking for SupplierProduct.
 

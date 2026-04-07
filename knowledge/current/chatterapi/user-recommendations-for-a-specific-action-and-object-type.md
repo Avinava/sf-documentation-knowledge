@@ -5,12 +5,10 @@ topic: user-recommendations-for-a-specific-action-and-object-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.224Z
+lastCollected: 2026-04-07T18:37:16.297Z
 estimatedTokens: 292
 keywords: [User, Recommendations, Specific, Action, Chatter, recommendation, context]
 ---
-
-# User Recommendations for a Specific Action and Object Type
 
 > Get the static Chatter recommendation for the specified action and
       object type for the context user. Also used to delete a static

@@ -5,13 +5,11 @@ topic: sessionmanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.377Z
+lastCollected: 2026-04-07T18:35:59.652Z
 estimatedTokens: 7493
 namespace: Auth
-keywords: [SessionManagement, Finishes, Domain, Login, Discovery, process, finishLoginDiscovery, userId, Usage, finishLoginFlow, startUrl, generateVerificationUrl, policy, destinationUrl, getCurrentSession]
+keywords: [SessionManagement, Finishes, Domain, Login, Discovery, process, finishLoginDiscovery, userId, finishLoginFlow, startUrl, generateVerificationUrl, policy, destinationUrl, getCurrentSession, getLightningLoginEligibility, getQrCode, getRequiredSessionLevelForProfile, profileId, ignoreForConcurrentSessionLimit, sessions, inOrgNetworkRange, ipAddress, isIpAllowedForProfile, setSessionLevel, level, validateTotpTokenForKey, sharedKey, totpCode, totpSharedKey, validateTotpTokenForUser, verifyDeviceFlow, userCode]
 ---
-
-# SessionManagement Class
 
 > Finishes the My Domain Login Discovery login
     process.

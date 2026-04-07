@@ -5,12 +5,10 @@ topic: survey-response-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.933Z
+lastCollected: 2026-04-07T18:39:17.593Z
 estimatedTokens: 340
-keywords: [survey-response, PATCH, Listed, error, codes, code, messages, associated, Salesforce, Feedback, Management, SFM, unAuth, APIs, resource]
+keywords: [survey-response, PATCH, Listed, error, codes, code, messages, Salesforce, Feedback, Management, SFM, unAuth, APIs, resource, Responses]
 ---
-
-# survey-response (PATCH)
 
 > Listed are the error codes and error code messages associated with the Salesforce
   Feedback Management (SFM) unAuth Response APIs for the survey-response PATCH resource.

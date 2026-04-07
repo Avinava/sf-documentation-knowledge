@@ -5,12 +5,10 @@ topic: creating-a-static-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.969Z
+lastCollected: 2026-04-07T18:38:52.285Z
 estimatedTokens: 788
-keywords: [Creating, Resource, resources, upload, content, Visualforce, including, archives, zip, jar, files, images, style, sheets, JavaScript]
+keywords: [Creating, Resource, resources, upload, content, Visualforce, including, archives, zip, jar, files, images, style, sheets, JavaScript, org, can’t, host, apps, websites]
 ---
-
-# Creating a Static Resource
 
 > You can use static resources to upload content that you can
         reference in a Visualforce page, including archives (such as .zip and

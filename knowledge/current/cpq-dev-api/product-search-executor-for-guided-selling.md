@@ -5,12 +5,10 @@ topic: product-search-executor-for-guided-selling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.537Z
+lastCollected: 2026-04-07T18:37:27.545Z
 estimatedTokens: 255
-keywords: [Product, Search, Executor, Guided, Selling, plugin, filters, results, prompt, sales, rep’s, input, consists, Visualforce, controller]
+keywords: [Product, Search, Executor, Guided, Selling, plugin, filters, results, prompt, sales, rep’s, consists, Visualforce, controller, associate, specific, quote, process, configuration, It’s, useful, want, add, extra, level, filtering, beyond, reps, control]
 ---
-
-# Product Search Executor for Guided Selling
 
 > A Product Search Executor plugin filters the results of a guided selling prompt after
         a sales rep’s input. It consists of a Visualforce controller and Visualforce page, which you

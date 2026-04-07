@@ -5,12 +5,10 @@ topic: exposing-data-with-webservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.600Z
+lastCollected: 2026-04-07T18:36:18.823Z
 estimatedTokens: 482
-keywords: [Exposing, Data, Webservice, Invoking, custom, always, uses, system, context, Consequently, current, user's, credentials, any, user]
+keywords: [Exposing, Webservice, Invoking, always, uses, system, context, Consequently, current, user's, credentials, any, user, their, full, power, regardless, permissions, field-level, security, sharing, Developers, expose]
 ---
-
-# Exposing Data with Webservice Methods
 
 > Invoking a custom webservice method always uses system
    context. Consequently, the current user's credentials are not used, and any user who has access

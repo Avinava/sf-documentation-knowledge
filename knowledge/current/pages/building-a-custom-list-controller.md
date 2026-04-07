@@ -5,12 +5,10 @@ topic: building-a-custom-list-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.891Z
+lastCollected: 2026-04-07T18:38:51.132Z
 estimatedTokens: 278
-keywords: [Building, Custom, Controller, similar, standard, controllers, implement, Apex, logic, define, show, act, records]
+keywords: [Building, Controller, similar, standard, controllers, implement, Apex, logic, define, show, act, records]
 ---
-
-# Building a Custom List Controller
 
 > A custom list controller is similar to a standard list controller. Custom list
             controllers can implement Apex logic that you define to show or act on a set of

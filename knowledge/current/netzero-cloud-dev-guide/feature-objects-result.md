@@ -5,12 +5,10 @@ topic: feature-objects-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.776Z
+lastCollected: 2026-04-07T18:38:16.329Z
 estimatedTokens: 186
-keywords: [Feature, Objects, Result, Output, representation, fetch]
+keywords: [Feature, Result, fetch]
 ---
-
-# Feature Objects Result
 
 > Output representation of the fetch feature object
     request.

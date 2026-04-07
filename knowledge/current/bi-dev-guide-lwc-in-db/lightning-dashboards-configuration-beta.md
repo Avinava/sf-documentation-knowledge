@@ -5,12 +5,10 @@ topic: lightning-dashboards-configuration-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.937Z
+lastCollected: 2026-04-07T18:36:54.308Z
 estimatedTokens: 584
-keywords: [Lightning, Dashboards, Configuration, Beta, provide, flexible, way, visualize, data, include, standard, components, charts, tables, gauges]
+keywords: [Lightning, Dashboards, Configuration, Beta, provide, flexible, way, visualize, include, standard, charts, tables, gauges, However, extend, their, capabilities, adding, Web, LWC]
 ---
-
-# Lightning Dashboards Configuration (Beta)
 
 > Lightning dashboards provide a flexible way to visualize your data. By default,
   dashboards include standard components such as charts, tables, and gauges. However, you can extend

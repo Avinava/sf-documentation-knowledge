@@ -5,12 +5,10 @@ topic: creating-an-ios-project-with-forceios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.033Z
+lastCollected: 2026-04-07T18:40:26.343Z
 estimatedTokens: 1318
-keywords: [Creating, iOS, Project, Forceios, Application, Interactively, Script, Mode, App, Template, Checking, Version, Running, New, How]
+keywords: [Creating, iOS, Project, Forceios, Application, Interactively, Script, Mode, App, Template, Checking, Running, New, How, Generates, Apps]
 ---
-
-# Creating an iOS Project with Forceios
 
 # Creating an iOS Project with Forceios
 

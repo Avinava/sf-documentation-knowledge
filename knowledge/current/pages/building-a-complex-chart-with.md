@@ -5,12 +5,10 @@ topic: building-a-complex-chart-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.803Z
+lastCollected: 2026-04-07T18:38:48.745Z
 estimatedTokens: 1322
-keywords: [Building, Complex, Chart, Visualforce, charting, assemble, variety, components, multiple, data, end, result, quite, sophisticated, attention]
+keywords: [Building, Complex, Chart, Visualforce, charting, assemble, variety, multiple, end, result, quite, sophisticated, attention, getting, Controller, Creating, Simple, Line, Adding, Second, Series, Bar, Axis, Legend, Labels, Tips]
 ---
-
-# Building a Complex Chart with
 
 > Use Visualforce charting to assemble a variety of chart components into a complex
 chart that represents multiple sets of related data. The end result

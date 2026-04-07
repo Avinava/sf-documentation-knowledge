@@ -5,12 +5,10 @@ topic: delete-event-monitoring-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.847Z
+lastCollected: 2026-04-07T18:36:20.065Z
 estimatedTokens: 782
-keywords: [Event, Monitoring, Data, log, files, contain, user’s, Deleting, helps, comply, protection, privacy, regulations, others, access]
+keywords: [Event, Monitoring, log, files, contain, user’s, Deleting, helps, comply, protection, privacy, regulations, others, can’t, individual, rows, logs, Instead, entire, file, user, activity]
 ---
-
-# Delete Event Monitoring Data
 
 > You can delete event log files that contain a user’s log data. Deleting log files
         helps you comply with data protection and privacy regulations and controls the information

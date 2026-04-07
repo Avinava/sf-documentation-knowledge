@@ -5,12 +5,10 @@ topic: oci-release-reservation-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.562Z
+lastCollected: 2026-04-07T18:37:09.297Z
 estimatedTokens: 294
-keywords: [OCI, Release, Reservation, Input, inventory]
+keywords: [OCI, Release, Reservation, inventory]
 ---
-
-# OCI Release Reservation Single Input
 
 > A single inventory reservation to release.
 

@@ -5,12 +5,10 @@ topic: selectoptionvalue-label
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.397Z
+lastCollected: 2026-04-07T18:38:48.352Z
 estimatedTokens: 99
 keywords: [SelectOption, label, Creates, new, instance]
 ---
-
-# SelectOption(value, label)
 
 > Creates a new instance of the SelectOption class using the specified value and label.
 

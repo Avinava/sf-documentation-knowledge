@@ -5,12 +5,10 @@ topic: content-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.706Z
+lastCollected: 2026-04-07T18:40:10.683Z
 estimatedTokens: 320
-keywords: [Content, Input, Upload, file, new, version]
+keywords: [Content, Upload, file, new]
 ---
-
-# Content Input
 
 > Upload a file or a new file version.
 

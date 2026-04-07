@@ -5,12 +5,10 @@ topic: agent-work-skill-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.172Z
+lastCollected: 2026-04-07T18:35:51.983Z
 estimatedTokens: 518
-keywords: [Agent, Work, Skill, DMO, Data, Cloud, model, route, assignment, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Agent, Work, Skill, DMO, Cloud, model, route, assignment, API, Primary, Subject, Area, Key]
 ---
-
-# Agent Work Skill DMO
 
 > The Agent Work Skill DMO is a Data Cloud data model object (DMO) for a
       for a skill used to route a work assignment to an agent.

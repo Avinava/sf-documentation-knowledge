@@ -5,12 +5,10 @@ topic: connectapiengagementinteractioncreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.254Z
+lastCollected: 2026-04-07T18:36:35.762Z
 estimatedTokens: 849
-keywords: [Input, representation, engagement, interaction, record]
+keywords: [engagement, interaction, record]
 ---
-
-# ConnectApi.EngagementInteractionCreateInput
 
 > Input representation to create an engagement interaction
     record.

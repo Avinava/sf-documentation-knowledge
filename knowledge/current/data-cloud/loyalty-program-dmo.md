@@ -5,12 +5,10 @@ topic: loyalty-program-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.963Z
+lastCollected: 2026-04-07T18:35:53.987Z
 estimatedTokens: 740
-keywords: [Loyalty, Program, DMO, Data, Cloud, model, strategy, designed, encourage, customers, continue, loyal, business, associated, API]
+keywords: [Category, Relationships, Loyalty, Program, DMO, Cloud, model, strategy, designed, encourage, customers, continue, loyal, business, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Program DMO
 
 > The Loyalty Program DMO is a Data Cloud data model object (DMO) for a
       strategy designed to encourage customers to continue to be loyal to the business associated

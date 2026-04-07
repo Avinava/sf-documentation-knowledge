@@ -5,12 +5,10 @@ topic: renew-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.863Z
+lastCollected: 2026-04-07T18:37:51.942Z
 estimatedTokens: 387
-keywords: [Renew, Insurance, Policy, POST, context, Modify, renewal, date, add, additional, input, JSON]
+keywords: [Renew, Insurance, Policy, POST, context, Modify, renewal, date, add, additional, JSON]
 ---
-
-# Renew Insurance Policy (POST)
 
 > Use the context ID of an existing policy to renew a policy. Modify the renewal date and
     also add optional fields and additional information in the input JSON.

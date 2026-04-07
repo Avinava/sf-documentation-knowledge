@@ -5,12 +5,10 @@ topic: rest-api-v1-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.786Z
+lastCollected: 2026-04-07T18:40:20.015Z
 estimatedTokens: 280750
 keywords: [REST, API, https, address]
 ---
-
-# REST API v1 Reference
 
 > https://YOUR_SUBDOMAIN.rest.marketingcloudapis.com/address/v1
 

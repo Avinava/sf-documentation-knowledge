@@ -5,12 +5,10 @@ topic: knowledgearticlerenderertoolbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.751Z
+lastCollected: 2026-04-07T18:38:49.950Z
 estimatedTokens: 295
-keywords: [knowledge, articleRendererToolbar, Displays, toolbar, article, includes, voting, stars, Chatter, feed, language, picklist, panel, Ext, versions]
+keywords: [Attributes, knowledge, articleRendererToolbar, Displays, toolbar, article, includes, voting, stars, Chatter, language, picklist, panel, Ext, versions, less, included, pages, renderer]
 ---
-
-# knowledge:articleRendererToolbar
 
 > Displays a header toolbar for an article. This toolbar includes voting stars, a Chatter feed, a language picklist and a properties panel. Ext JS versions less than 3 should not be included on pages that use this component.
 

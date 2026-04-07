@@ -5,12 +5,10 @@ topic: document-reader-mappings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.677Z
+lastCollected: 2026-04-07T18:39:03.816Z
 estimatedTokens: 621
-keywords: [Document, Reader, Mappings, POST, Retrieve, keys, extracted, Salesforce, respect, template, Permission, Usage]
+keywords: [Permission, Document, Reader, Mappings, POST, Retrieve, keys, extracted, Salesforce, respect, template]
 ---
-
-# Document Reader Mappings (POST)
 
 > Retrieve the mappings between the values of the keys extracted from
    the document to the Salesforce object fields with respect to a given template.

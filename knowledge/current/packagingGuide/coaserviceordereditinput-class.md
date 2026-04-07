@@ -5,12 +5,10 @@ topic: coaserviceordereditinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.859Z
+lastCollected: 2026-04-07T18:38:45.684Z
 estimatedTokens: 156
-keywords: [COA_ServiceOrderEditInput, Wrapper, input, passed, edit, operation, COA, _ServiceOrderEditInput]
+keywords: [COA_ServiceOrderEditInput, Wrapper, passed, edit, operation, COA, _ServiceOrderEditInput]
 ---
-
-# COA_ServiceOrderEditInput Class
 
 > Wrapper class for input parameters passed to the edit operation.
 

@@ -5,12 +5,10 @@ topic: searchableobjdatasyncinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.672Z
+lastCollected: 2026-04-07T18:39:04.705Z
 estimatedTokens: 929
-keywords: [SearchableObjDataSyncInfo, Retrieve, deploy, view, searchable, data, sync, criteria-based, search, filter, Parent, File, Suffix, Directory, Location, synchronization, frequency, status, date, time]
+keywords: [SearchableObjDataSyncInfo, Retrieve, deploy, view, searchable, sync, criteria-based, search, filter, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, synchronization, frequency, status, date, time, API, 58.0, SOAP, REST]
 ---
-
-# SearchableObjDataSyncInfo
 
 > Retrieve, deploy, update , create, and view searchable
 			object data sync information for criteria-based search and filter.

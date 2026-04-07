@@ -5,12 +5,10 @@ topic: perform-a-query-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.931Z
+lastCollected: 2026-04-07T18:40:18.117Z
 estimatedTokens: 953
-keywords: [Perform, Query, Activity, performing, SQL, SOAP, API, Why, How, Queries, Sample, Envelope, Checking, Status, Asynchronous]
+keywords: [Perform, Query, Activity, performing, SQL, SOAP, API, Why, How, Queries, Sample, Envelope, Checking, Status, Asynchronous, Result, Items]
 ---
-
-# Perform a Query Activity
 
 > This page contains information about performing an SQL query activity using the SOAP API.
 

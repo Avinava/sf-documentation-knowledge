@@ -5,12 +5,10 @@ topic: connectapimoderationcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.856Z
+lastCollected: 2026-04-07T18:36:10.157Z
 estimatedTokens: 204
-keywords: [ConnectApi.ModerationCapability, feed, element, capability, users, Experience, Cloud, site, flag, moderation]
+keywords: [ConnectApi.ModerationCapability, capability, users, Experience, Cloud, site, flag, moderation]
 ---
-
-# ConnectApi.ModerationCapability
 
 > If a feed element has this capability, users in an Experience Cloud
    site can flag it for moderation.

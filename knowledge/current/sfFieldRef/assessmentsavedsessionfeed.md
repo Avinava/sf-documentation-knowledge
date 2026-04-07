@@ -5,12 +5,10 @@ topic: assessmentsavedsessionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.499Z
+lastCollected: 2026-04-07T18:39:27.486Z
 estimatedTokens: 392
-keywords: [AssessmentSavedSessionFeed, Feed, tracking, AssessmentSavedSession]
+keywords: [AssessmentSavedSessionFeed, AssessmentSavedSession]
 ---
-
-# AssessmentSavedSessionFeed
 
 > Feed tracking for AssessmentSavedSession.
 

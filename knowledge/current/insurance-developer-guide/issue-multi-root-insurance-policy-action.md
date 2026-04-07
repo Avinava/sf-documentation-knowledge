@@ -5,12 +5,10 @@ topic: issue-multi-root-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.140Z
+lastCollected: 2026-04-07T18:37:48.875Z
 estimatedTokens: 288
-keywords: [Issue, Multi-Root, Insurance, Policy, Action, new, along, associated, child, policies, asynchronously, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Issue, Multi-Root, Insurance, Policy, Action, new, along, child, policies, asynchronously, REST, HTTP]
 ---
-
-# Issue Multi-Root Insurance Policy Action
 
 > Create a new multi-root insurance policy along with its associated
             child policies asynchronously.

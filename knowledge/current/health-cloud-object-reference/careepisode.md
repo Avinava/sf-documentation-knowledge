@@ -5,12 +5,10 @@ topic: careepisode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.465Z
+lastCollected: 2026-04-07T18:37:47.057Z
 estimatedTokens: 1232
-keywords: [CareEpisode, Records, interaction, patient, healthcare, provider, period, receives, services, provide, EpisodeOfCare, FHIR, resource, API, version]
+keywords: [CareEpisode, Records, interaction, patient, healthcare, provider, period, receives, services, provide, EpisodeOfCare, FHIR, resource, API, 57.0]
 ---
-
-# CareEpisode
 
 > Records details of the interaction between a patient and a healthcare
          provider for the period during which the patient receives healthcare services from the

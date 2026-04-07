@@ -5,12 +5,10 @@ topic: orderaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.242Z
+lastCollected: 2026-04-07T18:39:50.643Z
 estimatedTokens: 310
-keywords: [OrderAction, order, new, sale, cancellation, API, version, 55.0, later]
+keywords: [OrderAction, order, new, sale, cancellation, API, 55.0]
 ---
-
-# OrderAction
 
 > Indicates the type of order, such as a new sale or a cancellation. This
       object is available in API version 55.0 and later.

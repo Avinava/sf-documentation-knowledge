@@ -5,12 +5,10 @@ topic: xmd-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.674Z
+lastCollected: 2026-04-07T18:36:58.231Z
 estimatedTokens: 132
 keywords: [Xmd, Organization, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Organization
 
 > The extended metadata (Xmd) for an organization in an Analytics dataset.
 

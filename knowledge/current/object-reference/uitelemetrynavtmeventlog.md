@@ -5,12 +5,10 @@ topic: uitelemetrynavtmeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.281Z
+lastCollected: 2026-04-07T18:38:42.974Z
 estimatedTokens: 3595
-keywords: [UiTelemetryNavTmEventLog, Telemetry, Navigation, Timing, events, capture, network, performance, metrics, event, extends, Resource, includes, requests, initiated]
+keywords: [UiTelemetryNavTmEventLog, Telemetry, Navigation, Timing, events, capture, network, performance, metrics, event, extends, Resource, includes, requests, initiated, either, Fetch, API, XMLHttpRequest, 64.0]
 ---
-
-# UiTelemetryNavTmEventLog
 
 > UI Telemetry Navigation Timing events capture network performance
          metrics related to page navigation. The event extends from the UI

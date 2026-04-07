@@ -5,12 +5,10 @@ topic: attach-a-policy-to-the-iam-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.874Z
+lastCollected: 2026-04-07T18:38:09.169Z
 estimatedTokens: 509
-keywords: [Attach, Policy, IAM, Role, Identity, Access, Management, bucket, Policies, define, actions, roles, users]
+keywords: [Attach, Policy, IAM, Role, Identity, Management, bucket, Policies, define, actions, roles, users]
 ---
-
-# Attach a Policy to the IAM Role
 
 > After you create an Identity and Access Management (IAM) role for your S3 bucket, create
   a policy and attach the policy to the IAM role. Policies define the actions for IAM roles and

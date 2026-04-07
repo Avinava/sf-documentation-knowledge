@@ -5,12 +5,10 @@ topic: query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.046Z
+lastCollected: 2026-04-07T18:36:57.570Z
 estimatedTokens: 226
 keywords: [Query, written, SAQL, compact, form]
 ---
-
-# Query
 
 > A query written in SAQL or compact form.
 

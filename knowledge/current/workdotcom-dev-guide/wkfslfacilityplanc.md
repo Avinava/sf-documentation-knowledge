@@ -5,12 +5,10 @@ topic: wkfslfacilityplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.326Z
+lastCollected: 2026-04-07T18:40:14.336Z
 estimatedTokens: 1160
-keywords: [wkfsl__Facility_Plan__c, facility, plan, help, manage, sites, buildings, maximum, occupancy, arrival, window, start, end, times, interval]
+keywords: [wkfsl__Facility_Plan__c, facility, plan, help, manage, sites, buildings, maximum, occupancy, arrival, window, start, end, times, interval, location, installed, part, Shift, Management, managed, package, API, 48.0, wkfsl, _Facility, _Plan]
 ---
-
-# wkfsl__Facility_Plan__c
 
 > Represents the facility plan to help you manage your sites and buildings. This
       object has information such as maximum occupancy, arrival window start and end times, and

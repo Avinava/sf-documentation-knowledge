@@ -5,12 +5,10 @@ topic: connectapicontactpointconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.920Z
+lastCollected: 2026-04-07T18:36:08.282Z
 estimatedTokens: 248
-keywords: [ConnectApi.ContactPointConfig, activation, contact, point, configuration, output]
+keywords: [ConnectApi.ContactPointConfig, activation, contact, point, configuration]
 ---
-
-# ConnectApi.ContactPointConfig
 
 > Represents an activation contact point configuration output.
 

@@ -5,12 +5,10 @@ topic: sfrestapi-querybuilder-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.160Z
+lastCollected: 2026-04-07T18:40:26.458Z
 estimatedTokens: 1187
-keywords: [SFRestAPI, QueryBuilder, Category, you’re, unsure, correct, SOQL, query, SOSL, search, help, build, strings, basic, conditions]
+keywords: [SFRestAPI, QueryBuilder, Category, you’re, unsure, correct, SOQL, query, SOSL, search, help, build, strings, basic, conditions, specify, formatted, pass, Sanitizing]
 ---
-
-# SFRestAPI (QueryBuilder) Category
 
 > If you’re unsure of the correct syntax for a SOQL query or a SOSL search, you can get help
       from the SFRestAPI (QueryBuilder) category methods. These

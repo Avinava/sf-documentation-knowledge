@@ -5,12 +5,10 @@ topic: commission-processing-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.197Z
+lastCollected: 2026-04-07T18:37:52.344Z
 estimatedTokens: 130
-keywords: [Commission, Processing, Output, representation]
+keywords: [Commission, Processing]
 ---
-
-# Commission Processing Details
 
 > Output representation details of the commission processing.
 

@@ -5,12 +5,10 @@ topic: streaming-api-notifications-sent-in-reverse-order-within-a-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.347Z
+lastCollected: 2026-04-07T18:36:51.689Z
 estimatedTokens: 193
 keywords: [Streaming, API, Notifications, Sent, Reverse, Order, Transaction, general, event, delivered, record, changes, exception, triggers, multiple]
 ---
-
-# Streaming API Notifications Sent in Reverse Order Within a Transaction
 
 > In general, event notifications are delivered in the order of record changes. One
   exception is that when a record triggers multiple notifications within the same transaction, the

@@ -5,12 +5,10 @@ topic: giftactuarialentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.801Z
+lastCollected: 2026-04-07T18:37:29.873Z
 estimatedTokens: 1374
-keywords: [GiftActuarialEntry, foundational, data, calculating, future, planned, gift, including, life, expectancy, discount, rates, API, version, 65.0]
+keywords: [GiftActuarialEntry, foundational, calculating, future, planned, gift, including, life, expectancy, discount, rates, API, 65.0]
 ---
-
-# GiftActuarialEntry
 
 > Represents the foundational data for calculating the future value of a
          planned gift, including life expectancy and discount rates. This object is available

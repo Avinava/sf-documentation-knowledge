@@ -5,12 +5,10 @@ topic: list-share-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.934Z
+lastCollected: 2026-04-07T18:37:20.095Z
 estimatedTokens: 109
-keywords: [Share, Collection, Current, potential, shares, associated]
+keywords: [Share, Collection, Current, potential, shares]
 ---
-
-# List Share Collection
 
 > Current and potential shares associated with a list.
 

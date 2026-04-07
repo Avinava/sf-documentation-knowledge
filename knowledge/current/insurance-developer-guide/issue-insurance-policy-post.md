@@ -5,12 +5,10 @@ topic: issue-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.770Z
+lastCollected: 2026-04-07T18:37:51.842Z
 estimatedTokens: 410
-keywords: [Issue, Insurance, Policy, POST, context, provided, input, JSON, generate, new]
+keywords: [Issue, Insurance, Policy, POST, context, provided, JSON, generate, new]
 ---
-
-# Issue Insurance Policy (POST)
 
 > Use the context ID provided in the input JSON to generate a new insurance policy.
 

@@ -5,12 +5,10 @@ topic: setabortable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.116Z
+lastCollected: 2026-04-07T18:38:05.308Z
 estimatedTokens: 257
-keywords: [setAbortable, action, abortable, component, actions, sent, server, automatically, destroyed, marked, invalid, framework, unrendered, always, regardless]
+keywords: [setAbortable, action, abortable, actions, sent, server, automatically, destroyed, marked, invalid, framework, unrendered, always, regardless, validity]
 ---
-
-# setAbortable()
 
 > Sets an action as abortable. If the component is not valid, abortable
    actions are not sent to the server. A component is automatically destroyed and marked invalid by

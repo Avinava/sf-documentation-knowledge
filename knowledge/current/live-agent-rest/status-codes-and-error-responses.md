@@ -5,12 +5,10 @@ topic: status-codes-and-error-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.317Z
+lastCollected: 2026-04-07T18:38:06.539Z
 estimatedTokens: 725
 keywords: [Status, Codes, Error, Responses, code, indicate, whether, successful]
 ---
-
-# Status Codes and Error Responses
 
 > Each request returns a status code or error response to indicate whether the request was
   successful.

@@ -5,12 +5,10 @@ topic: referralhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.589Z
+lastCollected: 2026-04-07T18:39:59.250Z
 estimatedTokens: 254
-keywords: [ReferralHistory, History, tracked, Referral]
+keywords: [ReferralHistory, tracked, Referral]
 ---
-
-# ReferralHistory
 
 > History for tracked fields of Referral.
 

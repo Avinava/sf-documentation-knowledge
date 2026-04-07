@@ -5,12 +5,10 @@ topic: standardcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.461Z
+lastCollected: 2026-04-07T18:37:48.078Z
 estimatedTokens: 982
-keywords: [StandardCareFeeAgreement, payment, terms, contracts, Standard, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
+keywords: [StandardCareFeeAgreement, payment, terms, contracts, Standard, Care, Fee, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# StandardCareFeeAgreement
 
 > Specifies the payment terms for contracts of Standard Care Fee Agreement
          type. This object is available in API version 54.0 and later with the Provider Network

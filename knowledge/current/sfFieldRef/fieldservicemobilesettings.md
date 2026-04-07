@@ -5,12 +5,10 @@ topic: fieldservicemobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:45.788Z
+lastCollected: 2026-04-07T18:39:40.444Z
 estimatedTokens: 1387
-keywords: [FieldServiceMobileSettings, configuration, settings, control, Service, iOS, Android, mobile, app, experience, API, version, 38.0, later]
+keywords: [FieldServiceMobileSettings, configuration, settings, control, Service, iOS, Android, mobile, app, experience, API, 38.0]
 ---
-
-# FieldServiceMobileSettings
 
 > Represents a configuration of settings that control the Field
 			Service iOS and Android mobile app experience. This object is available in API

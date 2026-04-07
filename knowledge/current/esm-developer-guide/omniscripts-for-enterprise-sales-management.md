@@ -5,12 +5,10 @@ topic: omniscripts-for-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.037Z
+lastCollected: 2026-04-07T18:37:32.213Z
 estimatedTokens: 504
 keywords: [Omniscripts, Enterprise, Sales, Management, uses, implement, key, business, processes, quote, generate, proposal, document]
 ---
-
-# Omniscripts for Enterprise Sales Management
 
 > Enterprise Sales Management uses Omniscripts to implement
       key business processes, such as to create a quote or generate a proposal document.

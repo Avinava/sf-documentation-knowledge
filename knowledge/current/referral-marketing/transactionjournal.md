@@ -5,12 +5,10 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.812Z
+lastCollected: 2026-04-07T18:39:10.255Z
 estimatedTokens: 1389
-keywords: [TransactionJournal, advocate, their, referred, party's, activity, API, version, 49.0, later, Calls]
+keywords: [TransactionJournal, advocate, their, referred, party's, activity, API, 49.0]
 ---
-
-# TransactionJournal
 
 > Represents the details of an advocate or their referred party's
          activity. This object is available in API version 49.0 and later.

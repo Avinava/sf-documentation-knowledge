@@ -5,12 +5,10 @@ topic: ai-accelerator-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.826Z
+lastCollected: 2026-04-07T18:36:35.297Z
 estimatedTokens: 186
-keywords: [Accelerator, Metadata, machine, learning, case, Define, models, feature, extractors, objects, saving, prediction, results]
+keywords: [Accelerator, Metadata, machine, learning, case, Define, models, feature, extractors, saving, prediction, results]
 ---
-
-# AI Accelerator Metadata Types
 
 > Use the AI Accelerator metadata types to set up your machine learning
    use case. Define machine learning models, feature extractors, and the objects and fields for

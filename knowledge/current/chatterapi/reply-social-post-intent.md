@@ -5,12 +5,10 @@ topic: reply-social-post-intent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.651Z
+lastCollected: 2026-04-07T18:37:22.752Z
 estimatedTokens: 124
 keywords: [Reply, Social, Post, Intent]
 ---
-
-# Reply Social Post Intent
 
 > Reply intent for a social post.
 

@@ -5,12 +5,10 @@ topic: get-lookup-field-suggestions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.135Z
+lastCollected: 2026-04-07T18:40:11.129Z
 estimatedTokens: 1691
-keywords: [Lookup, Suggestions, user, edits, resource, search, display, recently, matches, matching, any, match, searchable, specify, filter]
+keywords: [Lookup, Suggestions, user, edits, resource, search, display, recently, matches, matching, any, match, searchable, specify, filter, bindings, dependent, lookups]
 ---
-
-# Get Lookup Field Suggestions
 
 > When a user edits a lookup field, use this resource to search for
       and display suggestions. You can search for most recently used matches, for matching names, or

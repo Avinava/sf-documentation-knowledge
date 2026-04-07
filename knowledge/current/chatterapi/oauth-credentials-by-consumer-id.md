@@ -5,12 +5,10 @@ topic: oauth-credentials-by-consumer-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.197Z
+lastCollected: 2026-04-07T18:37:13.139Z
 estimatedTokens: 242
 keywords: [OAuth, Credentials, Consumer, key, secret, specific, providing]
 ---
-
-# OAuth Credentials by Consumer ID
 
 > Get the OAuth key, secret, or both for a specific OAuth consumer by
       providing the consumer ID.

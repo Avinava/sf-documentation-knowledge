@@ -5,12 +5,10 @@ topic: program-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:31.507Z
+lastCollected: 2026-04-07T18:38:22.490Z
 estimatedTokens: 402
 keywords: [Program, Management, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Program Management Business APIs
 
 > Program Management Business APIs are RESTful APIs that are sometimes available as Apex
     classes and methods.

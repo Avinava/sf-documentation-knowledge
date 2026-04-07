@@ -5,12 +5,10 @@ topic: connectapistatuscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.599Z
+lastCollected: 2026-04-07T18:36:11.887Z
 estimatedTokens: 356
-keywords: [ConnectApi.StatusCapability, feed, post, comment, capability, status, determines, visibility]
+keywords: [ConnectApi.StatusCapability, post, comment, capability, status, determines, visibility]
 ---
-
-# ConnectApi.StatusCapability
 
 > If a feed post or comment has this capability, it has a status that
       determines its visibility.

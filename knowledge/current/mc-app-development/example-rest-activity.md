@@ -5,12 +5,10 @@ topic: example-rest-activity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.069Z
+lastCollected: 2026-04-07T18:40:21.344Z
 estimatedTokens: 2905
-keywords: [REST, Activity, Every, custom, index.html, root, endpoint, config.json, customActivity.js, Sample, Items]
+keywords: [REST, Activity, Every, index.html, root, endpoint, config.json, customActivity.js, Sample, Items]
 ---
-
-# Example REST Activity
 
 > Every custom activity must have an index.html in the root of its endpoint.
 

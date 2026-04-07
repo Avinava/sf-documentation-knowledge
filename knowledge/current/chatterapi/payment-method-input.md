@@ -5,12 +5,10 @@ topic: payment-method-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.733Z
+lastCollected: 2026-04-07T18:37:09.459Z
 estimatedTokens: 162
-keywords: [Payment, Input, consumed, gateway]
+keywords: [Payment, consumed, gateway]
 ---
-
-# Payment Method Input
 
 > Payment method input consumed by the payment
     gateway.

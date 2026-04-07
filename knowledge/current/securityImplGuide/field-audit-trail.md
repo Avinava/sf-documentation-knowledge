@@ -5,12 +5,10 @@ topic: field-audit-trail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.467Z
+lastCollected: 2026-04-07T18:39:22.362Z
 estimatedTokens: 1261
-keywords: [Audit, Trail, Define, policy, retain, archived, history, data, Comply, industry, regulations, capability, retention, tracking, don’t]
+keywords: [Audit, Trail, Define, policy, retain, archived, Comply, industry, regulations, capability, retention, don’t, count, against, storage, limits]
 ---
-
-# Field Audit Trail
 
 > Define a policy to retain archived field history data. Comply with industry regulations
     related to audit capability and data retention. Field history tracking data and Field Audit

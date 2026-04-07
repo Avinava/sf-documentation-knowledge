@@ -5,12 +5,10 @@ topic: case-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.966Z
+lastCollected: 2026-04-07T18:37:01.574Z
 estimatedTokens: 262
-keywords: [CASE, Statements, express, logic, statement, always, pair, CRM, Analytics, supports, simple, searched, forms, expressions, SELECT]
+keywords: [CASE, Statements, express, logic, statement, always, pair, CRM, Analytics, supports, simple, searched, forms, expressions, SELECT, two, formats, Form]
 ---
-
-# CASE Statements
 
 > Use case statements to express if/then logic. A case statement always has a pair of
    WHERE and THEN

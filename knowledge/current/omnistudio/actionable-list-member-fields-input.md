@@ -5,12 +5,10 @@ topic: actionable-list-member-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.763Z
+lastCollected: 2026-04-07T18:36:36.311Z
 estimatedTokens: 84
-keywords: [Actionable, Member, Input, representation, updating, record]
+keywords: [Actionable, Member, updating, record]
 ---
-
-# Actionable List Member Fields Input
 
 > Input representation for updating an actionable list member record.
 

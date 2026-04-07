@@ -5,12 +5,10 @@ topic: careplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.129Z
+lastCollected: 2026-04-07T18:37:44.369Z
 estimatedTokens: 2340
-keywords: [Care​Plan, FHIR, resource, maps, Care​Plan​, Care​PlanDetail​, Care​Plan​Activity, Care​PlanActivityDetail​, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping, CarePlan, Stores, care, plan, associated]
+keywords: [Care​Plan, FHIR, resource, maps, Care​Plan​, Care​PlanDetail​, Care​Plan​Activity, Care​PlanActivityDetail​, Salesforce, V4.0, Clinical, Model, Mapping, CarePlan, Stores, care, plan, medication, therapy, review, plans, assign, tasks, patients, part, reviews, API, 56.0, created, help, improve, patient, member’s, health]
 ---
-
-# Care​Plan
 
 > The Care​Plan FHIR resource maps to the Care​Plan​, Care​PlanDetail​, Care​Plan​Activity, and Care​PlanActivityDetail​ objects in Salesforce.
 

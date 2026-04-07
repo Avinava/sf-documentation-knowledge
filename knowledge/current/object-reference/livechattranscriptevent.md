@@ -5,12 +5,10 @@ topic: livechattranscriptevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.883Z
+lastCollected: 2026-04-07T18:38:35.126Z
 estimatedTokens: 1443
-keywords: [LiveChatTranscriptEvent, Captures, specific, events, occur, over, lifetime, chat, API, version, 24.0, later, Calls, Usage, Associated]
+keywords: [LiveChatTranscriptEvent, Captures, specific, events, occur, over, lifetime, chat, API, 24.0]
 ---
-
-# LiveChatTranscriptEvent
 
 > Captures specific events that occur over the lifetime of a chat.
   This object is available in API version 24.0 and later.

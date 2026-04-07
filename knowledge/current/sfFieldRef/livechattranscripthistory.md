@@ -5,12 +5,10 @@ topic: livechattranscripthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.978Z
+lastCollected: 2026-04-07T18:39:46.536Z
 estimatedTokens: 265
-keywords: [LiveChatTranscriptHistory, History, tracked, LiveChatTranscript]
+keywords: [LiveChatTranscriptHistory, tracked, LiveChatTranscript]
 ---
-
-# LiveChatTranscriptHistory
 
 > History for tracked fields of LiveChatTranscript.
 

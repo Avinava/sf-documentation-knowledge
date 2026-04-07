@@ -6,13 +6,10 @@ topic: apex-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.758Z
+lastCollected: 2026-04-07T18:36:54.130Z
 estimatedTokens: 1402
-keywords: [apex, Step, include, custom, functionality, dashboard, access, Salesforce, platform, features, aren’t, inherently, Analytics, pull, data]
+keywords: [apex, Step, include, functionality, dashboard, Salesforce, platform, features, aren’t, inherently, Analytics, pull, any, API, manipulate, classes, apply, simple, case, statements, complex, machine, learning, harness, AppExchange, things, integrating, Twitter, Analytics—all, way, familiar, Allow, External, Website]
 ---
-
-# apex Step Type
-        Properties
 
 > Use to include custom Apex functionality in a dashboard to access Salesforce platform
         features that aren’t inherently supported in Analytics. For example, pull in data using

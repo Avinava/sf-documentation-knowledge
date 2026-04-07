@@ -5,12 +5,10 @@ topic: nfcservice-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.483Z
+lastCollected: 2026-04-07T18:38:16.014Z
 estimatedTokens: 107
-keywords: [NFCService, User, Experience, component, deliver, any, desire, there’s, common, flow, interacts, NFCs]
+keywords: [NFCService, User, Experience, deliver, any, desire, there’s, common, flow, interacts, NFCs]
 ---
-
-# NFCService User Experience
 
 > Your component can deliver any user experience you desire, but there’s a common flow
     for any component that interacts with NFCs.

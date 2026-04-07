@@ -5,12 +5,10 @@ topic: apiobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.142Z
+lastCollected: 2026-04-07T18:40:15.170Z
 estimatedTokens: 388
-keywords: [APIObject, SOAP, API, base, objects, inherit]
+keywords: [APIObject, SOAP, API, base, inherit]
 ---
-
-# APIObject
 
 > The APIObject is the object from which all SOAP API base objects inherit. The APIObject allows all base objects to:
 

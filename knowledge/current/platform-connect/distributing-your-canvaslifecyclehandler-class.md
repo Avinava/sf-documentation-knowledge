@@ -5,12 +5,10 @@ topic: distributing-your-canvaslifecyclehandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.459Z
+lastCollected: 2026-04-07T18:38:57.258Z
 estimatedTokens: 201
 keywords: [Distributing, CanvasLifecycleHandler, package, distribute, canvas, app, sure, include]
 ---
-
-# Distributing Your CanvasLifecycleHandler Class
 
 > If you package and distribute your canvas app, make sure to include your
   CanvasLifecycleHandler class in your package.

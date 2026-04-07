@@ -5,12 +5,10 @@ topic: bot-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.896Z
+lastCollected: 2026-04-07T18:37:16.954Z
 estimatedTokens: 104
-keywords: [Bot, Info, associated, conversation, application]
+keywords: [Bot, Info, conversation, application]
 ---
-
-# Bot Info
 
 > Information about the bot associated with the conversation
       application.

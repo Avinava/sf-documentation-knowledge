@@ -5,12 +5,10 @@ topic: data-binding-between-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.112Z
+lastCollected: 2026-04-07T18:38:04.231Z
 estimatedTokens: 1947
-keywords: [Data, Binding, Components, add, component, markup, expression, initialize, attribute, container, There, two, forms, exhibit, different]
+keywords: [Binding, add, markup, expression, initialize, attribute, container, There, two, forms, exhibit, different, behaviors, Unbound, Expressions, Bound, Change, Handlers]
 ---
-
-# Data Binding Between Components
 
 > When you add a component in markup, you can use an expression to initialize attribute
       values in the component based on attribute values of the container component. There are two

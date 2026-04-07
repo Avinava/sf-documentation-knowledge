@@ -5,12 +5,10 @@ topic: creating-a-custom-controller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.697Z
+lastCollected: 2026-04-07T18:38:52.004Z
 estimatedTokens: 427
-keywords: [Creating, Custom, Controller, simply, Apex, code, though, ineffective]
+keywords: [Creating, Controller, simply, Apex, code, though, ineffective]
 ---
-
-# Creating a Custom Controller Class
 
 > A custom controller is simply an Apex class. For example, the following code is a valid,
             though ineffective, controller class:

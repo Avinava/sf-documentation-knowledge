@@ -5,12 +5,10 @@ topic: tenantsecuritytenantinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.850Z
+lastCollected: 2026-04-07T18:38:42.580Z
 estimatedTokens: 1001
-keywords: [TenantSecurityTenantInfo, Stores, changes, tenant, history, API, version, 56.0, later, Calls, Special, Access, Rules, Usage, Associated]
+keywords: [TenantSecurityTenantInfo, Stores, changes, tenant, API, 56.0]
 ---
-
-# TenantSecurityTenantInfo
 
 > Stores information on changes related to the tenant history. This object
       is available in API version 56.0 and later.

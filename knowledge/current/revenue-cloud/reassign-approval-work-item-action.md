@@ -5,12 +5,10 @@ topic: reassign-approval-work-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.234Z
+lastCollected: 2026-04-07T18:35:40.012Z
 estimatedTokens: 334
-keywords: [Reassign, Approval, Work, Item, Action, hasn't, completed, add, comments, why, admin, reassigned, REST, HTTP, Inputs]
+keywords: [Inputs, Outputs, Reassign, Approval, Work, Item, Action, hasn't, completed, add, comments, why, admin, reassigned, REST, HTTP]
 ---
-
-# Reassign Approval Work Item Action
 
 > Reassign an approval work item that hasn't been completed. You can
             also add comments about why the approval admin reassigned the approval work

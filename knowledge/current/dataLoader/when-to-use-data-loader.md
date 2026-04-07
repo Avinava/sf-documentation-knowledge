@@ -5,12 +5,10 @@ topic: when-to-use-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.383Z
+lastCollected: 2026-04-07T18:37:28.420Z
 estimatedTokens: 381
-keywords: [Data, Loader, complements, web-based, import, wizards, accessible, Setup, menu, online, application, Wizard]
+keywords: [Loader, complements, web-based, import, wizards, accessible, Setup, menu, online, application, Wizard]
 ---
-
-# When to Use Data Loader
 
 > Data Loader complements the web-based import wizards that are accessible from the
         Setup menu in the online application.

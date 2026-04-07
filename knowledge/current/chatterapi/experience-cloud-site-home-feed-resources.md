@@ -5,12 +5,10 @@ topic: experience-cloud-site-home-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.922Z
+lastCollected: 2026-04-07T18:37:10.615Z
 estimatedTokens: 1480
-keywords: [Experience, Cloud, Site, Home, Feed, Resources, containing, elements, comments, URL]
+keywords: [Experience, Cloud, Site, Home, Resources, containing, comments, URL]
 ---
-
-# Experience Cloud Site Home Feed Resources
 
 > The feed containing feed elements and comments from the
          Experience Cloud site home.

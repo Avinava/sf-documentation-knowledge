@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-searchable-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.767Z
+lastCollected: 2026-04-07T18:37:12.658Z
 estimatedTokens: 170
 keywords: [Commerce, Management, Webstore, Search, Searchable, Attributes]
 ---
-
-# Commerce Management Webstore Search, Searchable Attributes
 
 > Get and update searchable attributes.
 

@@ -5,12 +5,10 @@ topic: api-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.944Z
+lastCollected: 2026-04-07T18:38:06.190Z
 estimatedTokens: 585
-keywords: [API, Versions, Different, Chat’s, APIs, begin, developing, Deployment, Pre-Chat, sure, you’re, correct, version, number, code]
+keywords: [API, Versions, Different, Chat’s, APIs, begin, developing, Deployment, Pre-Chat, sure, you’re, correct, number, code]
 ---
-
-# API Versions
 
 > Different methods and parameters are available in different versions of Chat’s
     APIs. Before you begin developing with the Deployment API or the Pre-Chat API, make sure

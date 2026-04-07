@@ -5,12 +5,10 @@ topic: activationplatform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.903Z
+lastCollected: 2026-04-07T18:36:22.100Z
 estimatedTokens: 1090
-keywords: [ActivationPlatform, configuration, platform, delivery, schedule, output, destination, folder, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [ActivationPlatform, configuration, platform, delivery, schedule, destination, folder, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ActivationPlatform
 
 > Represents the ActivationPlatform configuration, such as
 			platform name, delivery schedule, output format, and destination folder.

@@ -5,12 +5,10 @@ topic: field-audit-trail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.256Z
+lastCollected: 2026-04-07T18:37:33.653Z
 estimatedTokens: 1491
-keywords: [Audit, Trail, extends, capabilities, History, Tracking, keep, data, indefinitely, maintain, comprehensive, historical, record, changes, tracked]
+keywords: [Audit, Trail, extends, capabilities, keep, indefinitely, maintain, comprehensive, historical, record, changes, tracked, per, ensure, integrity, compliance, industry, standards, don’t, count, against, storage, limits]
 ---
-
-# Field Audit Trail
 
 > Field Audit Trail extends the capabilities of Field History Tracking, so you can keep
     field history data indefinitely. Use Field Audit Trail to maintain a comprehensive historical

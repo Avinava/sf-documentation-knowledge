@@ -5,12 +5,10 @@ topic: serviceresourcepreferencehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.847Z
+lastCollected: 2026-04-07T18:40:01.607Z
 estimatedTokens: 276
-keywords: [ServiceResourcePreferenceHistory, History, tracked, ServiceResourcePreference]
+keywords: [ServiceResourcePreferenceHistory, tracked, ServiceResourcePreference]
 ---
-
-# ServiceResourcePreferenceHistory
 
 > History for tracked fields of ServiceResourcePreference.
 

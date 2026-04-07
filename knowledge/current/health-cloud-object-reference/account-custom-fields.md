@@ -5,12 +5,10 @@ topic: account-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.386Z
+lastCollected: 2026-04-07T18:37:42.530Z
 estimatedTokens: 327
-keywords: [Account, Custom, extend, standard, Emergency, Management]
+keywords: [Account, extend, standard, Emergency, Management]
 ---
-
-# Account Custom Fields
 
 > Custom fields extend the standard Account object for use in Emergency Response
       Management.

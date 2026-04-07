@@ -5,12 +5,10 @@ topic: about-sync-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.424Z
+lastCollected: 2026-04-07T18:40:25.793Z
 estimatedTokens: 698
-keywords: [Sync, Targets, configure, data, transfers, Salesforce, cloud, local, database, mobile, device, SDK, 5.1, enhances, capabilities]
+keywords: [Sync, Targets, configure, transfers, Salesforce, cloud, local, database, mobile, device, SDK, 5.1, enhances, capabilities, give, developers, control, over, two-way, synchronization, Decentralizing, Manager, Tasks, Power]
 ---
-
-# About Sync Targets
 
 > Sync targets configure data transfers between the Salesforce cloud and a local database
   on a mobile device. Mobile SDK 5.1 enhances the

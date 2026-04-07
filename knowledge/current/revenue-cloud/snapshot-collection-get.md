@@ -5,12 +5,10 @@ topic: snapshot-collection-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.997Z
+lastCollected: 2026-04-07T18:35:45.020Z
 estimatedTokens: 183
 keywords: [Snapshot, Collection, Retrieve, created, snapshots, indexes]
 ---
-
-# Snapshot Collection (GET)
 
 > Retrieve the created snapshots and snapshot indexes.
 

@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-user-preferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.446Z
+lastCollected: 2026-04-07T18:40:11.439Z
 estimatedTokens: 162
 keywords: [Batch, User, Preferences]
 ---
-
-# Get a Batch of Related List User Preferences
 
 > Returns a batch of user preferences for a related list.
 

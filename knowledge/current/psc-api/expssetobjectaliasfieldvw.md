@@ -5,12 +5,10 @@ topic: expssetobjectaliasfieldvw
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.510Z
+lastCollected: 2026-04-07T18:39:06.627Z
 estimatedTokens: 1229
-keywords: [ExpsSetObjectAliasFieldVw, virtual, consolidated, view, source, alias, their, aliases, expression, check, permission, level, access, underlying, associated]
+keywords: [ExpsSetObjectAliasFieldVw, virtual, consolidated, view, source, alias, their, aliases, expression, check, permission, level, underlying, API, 56.0]
 ---
-
-# ExpsSetObjectAliasFieldVw
 
 > Represents the virtual object that provides a consolidated view of
          source object and its alias, and the source object fields and their aliases that are used

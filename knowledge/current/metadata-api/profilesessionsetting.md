@@ -5,12 +5,10 @@ topic: profilesessionsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.202Z
+lastCollected: 2026-04-07T18:36:28.708Z
 estimatedTokens: 776
-keywords: [ProfileSessionSetting, profile’s, session, settings, retrieve, profile, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [ProfileSessionSetting, SessionSecurityLevel, profile’s, session, settings, retrieve, profile, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ProfileSessionSetting
 
 > Represents a profile’s session settings. Use
     ProfileSessionSetting to retrieve the session settings for a given profile. This type extends the 

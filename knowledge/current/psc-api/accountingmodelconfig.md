@@ -5,12 +5,10 @@ topic: accountingmodelconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.223Z
+lastCollected: 2026-04-07T18:39:04.343Z
 estimatedTokens: 1070
-keywords: [AccountingModelConfig, mapping, financial, data, model, logical, configuration, generation, Transaction, Journal, records, Parent, File, Suffix, Directory, settings, accounting, models, Subledger, include]
+keywords: [AccountingModelConfig, mapping, financial, model, logical, configuration, generation, Transaction, Journal, records, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, settings, accounting, models, Subledger, include, how, API, 57.0]
 ---
-
-# AccountingModelConfig
 
 > Represents the mapping of the financial data model to a
 			logical data model and configuration for the generation of Transaction Journal

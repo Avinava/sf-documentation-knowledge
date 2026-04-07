@@ -5,12 +5,10 @@ topic: insurance-add-member-plans-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.015Z
+lastCollected: 2026-04-07T18:37:50.947Z
 estimatedTokens: 89
-keywords: [Insurance, Add, Member, Plans, Input, representation, adding, census]
+keywords: [Insurance, Add, Member, Plans, adding, census]
 ---
-
-# Insurance Add Member Plans Input
 
 > Input representation for adding plans to a census member.
 

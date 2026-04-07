@@ -5,12 +5,10 @@ topic: personalization-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:24.553Z
+lastCollected: 2026-04-07T18:37:11.332Z
 estimatedTokens: 412
 keywords: [Personalization, Resources, assigned, audiences, match, user, context, audience, batch, IDs, targets, include, target]
 ---
-
-# Personalization Resources
 
 > Get a list of assigned audiences that match the user context. Get audience information
       for a batch of audience IDs. Create, get, update, and delete an audience. Get a list of

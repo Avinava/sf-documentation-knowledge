@@ -5,12 +5,10 @@ topic: hybrid-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.350Z
+lastCollected: 2026-04-07T18:40:26.655Z
 estimatedTokens: 221
 keywords: [Hybrid, APIs, apps, enable, multi-user, support, Mobile, SDK, JavaScript, reside, SFAccountManagerPlugin, Cordova-based, module]
 ---
-
-# Hybrid APIs
 
 > Hybrid apps can enable multi-user support through Mobile SDK JavaScript APIs. These APIs reside in the SFAccountManagerPlugin Cordova-based
 module.

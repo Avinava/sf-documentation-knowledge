@@ -5,12 +5,10 @@ topic: productavailabilityprojection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.312Z
+lastCollected: 2026-04-07T18:38:01.103Z
 estimatedTokens: 770
-keywords: [ProductAvailabilityProjection, projected, product, quantity, inventory, location, various, points, time, Records, automatically, created, Intelligent, Sales, API]
+keywords: [ProductAvailabilityProjection, projected, product, quantity, inventory, location, various, points, time, Records, automatically, created, Intelligent, Sales, API, 55.0]
 ---
-
-# ProductAvailabilityProjection
 
 > Represents the projected product quantity available at an inventory location
          at various points in time. Records for this object are automatically created by Intelligent

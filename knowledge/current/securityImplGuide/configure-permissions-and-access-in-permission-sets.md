@@ -5,12 +5,10 @@ topic: configure-permissions-and-access-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.588Z
+lastCollected: 2026-04-07T18:39:22.475Z
 estimatedTokens: 1072
-keywords: [Configure, Permissions, Access, Permission, user, well, feature, settings]
+keywords: [Configure, Permissions, Permission, user, well, feature, settings]
 ---
-
-# Configure Permissions and Access in Permission Sets
 
 > Configure object, field, and user permissions as well as other access and feature
   settings in permission sets.

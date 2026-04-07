@@ -5,12 +5,10 @@ topic: personalization-recommender-sort-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.926Z
+lastCollected: 2026-04-07T18:37:09.649Z
 estimatedTokens: 142
-keywords: [Personalization, Recommender, Sort, Criteria, Input, rule-based, recommenders]
+keywords: [Personalization, Recommender, Sort, Criteria, rule-based, recommenders]
 ---
-
-# Personalization Recommender Sort Criteria Input
 
 > Defines the sort criteria for rule-based recommenders.
 

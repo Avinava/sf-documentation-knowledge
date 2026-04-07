@@ -5,12 +5,10 @@ topic: cancel-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.766Z
+lastCollected: 2026-04-07T18:37:43.940Z
 estimatedTokens: 355
 keywords: [Cancel, Appointment, Codes]
 ---
-
-# Cancel Appointment
 
 # Cancel Appointment
 

@@ -5,12 +5,10 @@ topic: setcustomvariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.746Z
+lastCollected: 2026-04-07T18:38:05.986Z
 estimatedTokens: 224
-keywords: [setCustomVariable, customized, criteria, sending, rules, met, order, automated, invitation, sent, customers, Usage]
+keywords: [setCustomVariable, customized, criteria, sending, met, order, automated, invitation, sent, customers]
 ---
-
-# setCustomVariable
 
 > Use the setCustomVariable method to create customized criteria in your sending rules that
 must be met in order for your automated invitation to be sent to customers.

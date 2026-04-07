@@ -5,12 +5,10 @@ topic: isbetween
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.028Z
+lastCollected: 2026-04-07T18:38:05.194Z
 estimatedTokens: 218
 keywords: [isBetween, Checks, date, fromDate, toDate, match, inclusive, Sample, Code]
 ---
-
-# isBetween()
 
 > Checks if date is between
     fromDate and toDate, where the match is inclusive.

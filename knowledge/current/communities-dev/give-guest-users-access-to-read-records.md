@@ -5,12 +5,10 @@ topic: give-guest-users-access-to-read-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.743Z
+lastCollected: 2026-04-07T18:37:26.687Z
 estimatedTokens: 1996
-keywords: [Give, Guest, Users, Access, Records, allow, record, data, expose, Review, guidelines, design, implementation, necessary, compromising]
+keywords: [Give, Guest, Users, Records, allow, record, expose, Review, guidelines, design, implementation, necessary, compromising, How, Treat, Sensitive, Sharing, Encrypted, IDs, Selection, Lightning, Code, Samples, Flow]
 ---
-
-# Give Guest Users Access to Read Records
 
 > When you allow guest users access to read record data, you expose your data to the
     public. Review our guidelines, and design your implementation to allow the necessary access to

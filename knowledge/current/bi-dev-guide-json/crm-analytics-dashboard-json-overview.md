@@ -5,12 +5,10 @@ topic: crm-analytics-dashboard-json-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:07.679Z
+lastCollected: 2026-04-07T18:36:54.046Z
 estimatedTokens: 160
-keywords: [CRM, Analytics, Dashboard, JSON, easiest, way, build, designer, However, needed, further, customize, dashboards, editing, their]
+keywords: [CRM, Analytics, Dashboard, JSON, easiest, way, build, designer, However, needed, further, customize, dashboards, editing, their, files, how, they, interact]
 ---
-
-# CRM Analytics Dashboard JSON Overview
 
 > The easiest way to build a dashboard in CRM Analytics is to use the dashboard designer.
   However, if needed, you can further customize dashboards by editing their JSON files. The JSON

@@ -5,12 +5,10 @@ topic: apexactionstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.991Z
+lastCollected: 2026-04-07T18:38:48.935Z
 estimatedTokens: 1419
-keywords: [apex, actionStatus, component, displays, status, AJAX, either, progress, Attributes, Facets]
+keywords: [Attributes, Facets, apex, actionStatus, displays, status, AJAX, either, progress]
 ---
-
-# apex:actionStatus
 
 > A component that displays the status of an AJAX update request. An AJAX request can either be in progress or complete.
 

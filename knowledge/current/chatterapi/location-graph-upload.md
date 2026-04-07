@@ -5,12 +5,10 @@ topic: location-graph-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.921Z
+lastCollected: 2026-04-07T18:37:14.969Z
 estimatedTokens: 319
-keywords: [Location, Graph, Upload, Asynchonously, inventory, group, data, Omnichannel, check, status, jobs]
+keywords: [Location, Graph, Upload, Asynchonously, inventory, group, Omnichannel, check, status, jobs]
 ---
-
-# Location Graph, Upload
 
 > Asynchonously upload inventory location and location group data to
       Omnichannel Inventory and check the status of upload jobs.

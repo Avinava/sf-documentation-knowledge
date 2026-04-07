@@ -5,12 +5,10 @@ topic: activity-reminder-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.424Z
+lastCollected: 2026-04-07T18:37:07.132Z
 estimatedTokens: 120
-keywords: [Activity, Reminder, Input, Salesforce, Classic]
+keywords: [Activity, Reminder, Salesforce, Classic]
 ---
-
-# Activity Reminder Input
 
 > Activity reminder details in Salesforce Classic.
 

@@ -5,12 +5,10 @@ topic: loginaseventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.474Z
+lastCollected: 2026-04-07T18:38:59.364Z
 estimatedTokens: 1885
-keywords: [LoginAsEventStream, LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience]
+keywords: [LoginAsEventStream, LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience, Cloud, site, API, 46.0, Subscribers, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# LoginAsEventStream
 
 > LoginAsEvent tracks when an admin logs in as another user in your
          org. In Real-Time Event Monitoring, it captures events for org admins and Experience Cloud

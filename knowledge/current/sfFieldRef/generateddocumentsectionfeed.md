@@ -5,12 +5,10 @@ topic: generateddocumentsectionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.704Z
+lastCollected: 2026-04-07T18:39:42.343Z
 estimatedTokens: 365
-keywords: [GeneratedDocumentSectionFeed, Feed, tracking, GeneratedDocumentSection]
+keywords: [GeneratedDocumentSectionFeed, GeneratedDocumentSection]
 ---
-
-# GeneratedDocumentSectionFeed
 
 > Feed tracking for GeneratedDocumentSection.
 

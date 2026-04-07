@@ -5,12 +5,10 @@ topic: create-custom-theme-layout-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.962Z
+lastCollected: 2026-04-07T18:38:02.892Z
 estimatedTokens: 1225
-keywords: [Custom, Theme, Layout, Components, Experience, Builder, transform, appearance, overall, structure, pages, Customer, Service, template, Add]
+keywords: [Theme, Layout, Experience, Builder, transform, appearance, overall, structure, pages, Customer, Service, template, Add, Design, Resource, Include, CSS, Avoid, Overlapping, Issues]
 ---
-
-# Create Custom Theme Layout Components for Experience Builder
 
 > Create a custom theme layout to transform the appearance and overall structure of the
     pages in the Customer Service template.

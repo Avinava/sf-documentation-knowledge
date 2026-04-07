@@ -5,12 +5,10 @@ topic: feed-elements-capability-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.676Z
+lastCollected: 2026-04-07T18:37:13.640Z
 estimatedTokens: 197
-keywords: [Feed, Elements, Capability, Content, Access, element]
+keywords: [Capability, Content]
 ---
-
-# Feed Elements Capability, Content
 
 > Access the content capability of a feed element.
 

@@ -5,12 +5,10 @@ topic: productsellingmodeloutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.424Z
+lastCollected: 2026-04-07T18:35:41.281Z
 estimatedTokens: 1089
 keywords: [ProductSellingModelOutputRepresentation, product, selling, model, how, sold, including, pricing, term, status, pricingTerm, pricingTermUnit, sellingModelType]
 ---
-
-# ProductSellingModelOutputRepresentation Class
 
 > Represents a product selling model that defines how a product is sold, including the selling model type, pricing term, and status.
 

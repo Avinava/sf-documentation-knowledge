@@ -5,12 +5,10 @@ topic: getfilterid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.128Z
+lastCollected: 2026-04-07T18:38:48.078Z
 estimatedTokens: 277
 keywords: [getFilterId, filter, currently, context]
 ---
-
-# getFilterId()
 
 > Returns the ID of the filter that is currently in context.
 

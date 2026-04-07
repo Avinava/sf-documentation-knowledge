@@ -5,12 +5,10 @@ topic: connectapiexternalmanagedaccountaddressoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.718Z
+lastCollected: 2026-04-07T18:36:09.113Z
 estimatedTokens: 256
 keywords: [shipping, address, externally, managed, account]
 ---
-
-# ConnectApi.ExternalManagedAccountAddressOutput
 
 > Default shipping address for an externally managed
     account.

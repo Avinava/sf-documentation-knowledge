@@ -5,12 +5,10 @@ topic: cms-searchable-content-types-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.453Z
+lastCollected: 2026-04-07T18:37:14.413Z
 estimatedTokens: 417
 keywords: [CMS, Searchable, Content, Channel, status, managed]
 ---
-
-# CMS Searchable Content Types, Channel
 
 > Get or update the searchable status for managed content types in a
       channel.

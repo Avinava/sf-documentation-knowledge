@@ -5,12 +5,10 @@ topic: promotionsegmentbuyergrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.688Z
+lastCollected: 2026-04-07T18:39:57.269Z
 estimatedTokens: 278
-keywords: [PromotionSegmentBuyerGroupHistory, History, tracked, PromotionSegmentBuyerGroup]
+keywords: [PromotionSegmentBuyerGroupHistory, tracked, PromotionSegmentBuyerGroup]
 ---
-
-# PromotionSegmentBuyerGroupHistory
 
 > History for tracked fields of PromotionSegmentBuyerGroup.
 

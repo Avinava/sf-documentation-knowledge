@@ -5,12 +5,10 @@ topic: introduction-to-marketing-cloud-platform-sdks
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.229Z
+lastCollected: 2026-04-07T18:40:24.686Z
 estimatedTokens: 533
-keywords: [Introduction, Marketing, Cloud, Platform, SDKs, documentation, MobilePush, review, Content, Builder, SDK, Extend, Support, Items]
+keywords: [Support, Introduction, Marketing, Cloud, Platform, SDKs, documentation, MobilePush, review, Content, Builder, SDK, Extend, Items]
 ---
-
-# Introduction to Marketing Cloud Platform SDKs
 
 > This documentation applies to the Marketing Cloud platform SDKs. For MobilePush SDKs, review MobilePush SDKs. For the Content Builder SDK, review Extend Content Builder.
 

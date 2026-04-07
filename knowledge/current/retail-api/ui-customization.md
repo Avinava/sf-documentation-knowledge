@@ -5,12 +5,10 @@ topic: ui-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.867Z
+lastCollected: 2026-04-07T18:39:16.413Z
 estimatedTokens: 466
-keywords: [Customization, managed, packages, provided, components, replaceable, custom, implementations, requirements, suited, implementation, Add, Package, Component, Card]
+keywords: [Customization, managed, packages, provided, replaceable, implementations, requirements, suited, implementation, Add, Package, Card, New, SObjects, TPM, Reactive, changes]
 ---
-
-# UI Customization
 
 > All managed packages provided UI components are replaceable by custom implementations if
         the default requirements are not  suited for your implementation.

@@ -5,12 +5,10 @@ topic: cgcloudaccountmanagerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.245Z
+lastCollected: 2026-04-07T18:39:12.683Z
 estimatedTokens: 1272
-keywords: [cgcloud__Account_Manager__c, stores, users, manage, specific, accounts, particular, function, ManagementType, API, version, 54.0, later, cgcloud, _Account]
+keywords: [cgcloud__Account_Manager__c, stores, users, manage, specific, accounts, particular, function, ManagementType, API, 54.0, cgcloud, _Account, _Manager]
 ---
-
-# cgcloud__Account_Manager__c
 
 > This object stores the details of users who manage specific accounts
          in a particular function (ManagementType). This object is available in API version

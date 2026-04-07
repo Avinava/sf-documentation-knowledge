@@ -5,12 +5,10 @@ topic: preview-changes-identified-by-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.634Z
+lastCollected: 2026-04-07T18:40:08.594Z
 estimatedTokens: 647
-keywords: [Preview, Changes, Identified, Source, Tracking, local, project, target, org, navigate, directory, want, run, commands, display]
+keywords: [Preview, Changes, Identified, Source, local, project, target, org, navigate, directory, want, run, commands, display, either, deploy, retrieve]
 ---
-
-# Preview Changes Identified by Source Tracking
 
 > To see changes between your local project and target org, navigate to the project
   directory for which you want to see changes. Then run one of the preview commands, which display

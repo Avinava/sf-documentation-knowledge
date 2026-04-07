@@ -5,12 +5,10 @@ topic: locationshippingcarriermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:52.554Z
+lastCollected: 2026-04-07T18:39:47.032Z
 estimatedTokens: 415
-keywords: [LocationShippingCarrierMethod, shipping, carrier, services, associated, location, group, assignment, different, specific, flexibility, customization, process, API, version]
+keywords: [LocationShippingCarrierMethod, shipping, carrier, services, location, group, assignment, different, specific, flexibility, customization, process, API, 61.0]
 ---
-
-# LocationShippingCarrierMethod
 
 > The available shipping carrier services associated with a location or
       location group. Allows the assignment of different shipping methods to a specific location and

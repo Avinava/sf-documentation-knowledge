@@ -5,12 +5,10 @@ topic: deploy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:39.288Z
+lastCollected: 2026-04-07T18:36:24.676Z
 estimatedTokens: 5154
-keywords: [deploy, Uses, file, representations, components, Salesforce, org, Usage, Check, Status, Deployment, Cancel, Permissions, Arguments, DeployOptions]
+keywords: [Permissions, Arguments, DeployOptions, deploy, Uses, file, representations, Salesforce, org, Check, Status, Deployment, Cancel, Sample, Code—Java]
 ---
-
-# deploy()
 
 > Uses file representations of components to create, update, or delete those components
         in a Salesforce org.

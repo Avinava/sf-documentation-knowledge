@@ -5,12 +5,10 @@ topic: managed-content-channel-target-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.070Z
+lastCollected: 2026-04-07T18:37:20.258Z
 estimatedTokens: 168
-keywords: [Managed, Content, Channel, Target, Summary, site, associated]
+keywords: [Managed, Content, Channel, Target, Summary, site]
 ---
-
-# Managed Content Channel Target Summary
 
 > Target site associated with the channel.
 

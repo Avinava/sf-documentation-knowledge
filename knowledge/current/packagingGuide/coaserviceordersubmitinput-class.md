@@ -5,12 +5,10 @@ topic: coaserviceordersubmitinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.889Z
+lastCollected: 2026-04-07T18:38:45.715Z
 estimatedTokens: 158
-keywords: [COA_ServiceOrderSubmitInput, Wrapper, input, passed, submit, operation, COA, _ServiceOrderSubmitInput]
+keywords: [COA_ServiceOrderSubmitInput, Wrapper, passed, submit, operation, COA, _ServiceOrderSubmitInput]
 ---
-
-# COA_ServiceOrderSubmitInput Class
 
 > Wrapper class for input parameters passed to the submit operation.
 

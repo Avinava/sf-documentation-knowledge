@@ -5,13 +5,11 @@ topic: organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.990Z
+lastCollected: 2026-04-07T18:39:51.404Z
 estimatedTokens: 1038
 namespace: NamespacePrefix
 keywords: [Organization, key, configuration]
 ---
-
-# Organization
 
 > Represents key configuration information for an
 		organization.

@@ -2,7 +2,7 @@
 domain: soql-sosl
 name: SOQL and SOSL Reference
 documentCount: 86
-lastGenerated: 2026-04-07T09:06:39.216Z
+lastGenerated: 2026-04-07T18:40:44.355Z
 ---
 
 # SOQL and SOSL Reference — Knowledge Index

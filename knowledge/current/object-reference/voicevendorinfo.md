@@ -5,12 +5,10 @@ topic: voicevendorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.472Z
+lastCollected: 2026-04-07T18:38:44.292Z
 estimatedTokens: 333
-keywords: [VoiceVendorInfo, Service, Cloud, Voice, Sales, Dialer, provider’s, vendor, Calls, Special, Access, Rules]
+keywords: [VoiceVendorInfo, Service, Cloud, Voice, Sales, Dialer, provider’s, vendor]
 ---
-
-# VoiceVendorInfo
 
 > Represents information about the Service Cloud Voice or Sales Dialer provider’s vendor.
 

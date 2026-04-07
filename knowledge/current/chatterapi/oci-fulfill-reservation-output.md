@@ -5,12 +5,10 @@ topic: oci-fulfill-reservation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.017Z
+lastCollected: 2026-04-07T18:37:21.176Z
 estimatedTokens: 114
-keywords: [OCI, Fulfill, Reservation, Output, inventory, reservations]
+keywords: [OCI, Fulfill, Reservation, inventory, reservations]
 ---
-
-# OCI Fulfill Reservation Output
 
 > Response to a request to fulfill one or more inventory
       reservations.

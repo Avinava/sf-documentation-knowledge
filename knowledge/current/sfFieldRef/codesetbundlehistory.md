@@ -5,12 +5,10 @@ topic: codesetbundlehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.962Z
+lastCollected: 2026-04-07T18:39:34.398Z
 estimatedTokens: 261
-keywords: [CodeSetBundleHistory, History, tracked, CodeSetBundle]
+keywords: [CodeSetBundleHistory, tracked, CodeSetBundle]
 ---
-
-# CodeSetBundleHistory
 
 > History for tracked fields of CodeSetBundle.
 

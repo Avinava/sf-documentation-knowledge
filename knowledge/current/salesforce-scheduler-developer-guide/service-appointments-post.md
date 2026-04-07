@@ -5,12 +5,10 @@ topic: service-appointments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.847Z
+lastCollected: 2026-04-07T18:39:20.604Z
 estimatedTokens: 264
 keywords: [Service, Appointments, POST, error, codes, code, messages, Salesforce, Scheduler, API, service-appointments, resource]
 ---
-
-# Service Appointments (POST)
 
 > Contains the error codes and error code messages related with Salesforce Scheduler
       API for the service-appointments (POST)

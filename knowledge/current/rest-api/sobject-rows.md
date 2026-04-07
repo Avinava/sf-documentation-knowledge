@@ -5,12 +5,10 @@ topic: sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.198Z
+lastCollected: 2026-04-07T18:36:21.437Z
 estimatedTokens: 495
 keywords: [sObject, Rows, Accesses, records, record, Retrieves, updates, deletes, HTTP, retrieve, specific, PATCH]
 ---
-
-# sObject Rows
 
 > Accesses records based on a specified object and record
 			ID. Retrieves, updates, or deletes records based on the HTTP method. Use the GET method

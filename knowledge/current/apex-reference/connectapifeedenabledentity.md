@@ -5,12 +5,10 @@ topic: connectapifeedenabledentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.813Z
+lastCollected: 2026-04-07T18:36:09.197Z
 estimatedTokens: 157
-keywords: [ConnectApi.FeedEnabledEntity, entity, feeds, associated]
+keywords: [ConnectApi.FeedEnabledEntity, entity, feeds]
 ---
-
-# ConnectApi.FeedEnabledEntity
 
 > An entity that can have feeds associated with it.
 

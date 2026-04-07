@@ -5,12 +5,10 @@ topic: debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.841Z
+lastCollected: 2026-04-07T18:38:03.930Z
 estimatedTokens: 304
 keywords: [Debugging, There, few, basic, tools, techniques, help, debug, applications]
 ---
-
-# Debugging
 
 > There are a few basic tools and techniques that can help you to debug
   applications.

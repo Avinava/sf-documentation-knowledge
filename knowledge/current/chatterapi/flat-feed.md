@@ -5,12 +5,10 @@ topic: flat-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.274Z
+lastCollected: 2026-04-07T18:37:19.417Z
 estimatedTokens: 103
-keywords: [Flat, Feed]
+keywords: [Flat]
 ---
-
-# Flat Feed
 
 > Flat feed.
 

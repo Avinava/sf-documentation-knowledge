@@ -5,12 +5,10 @@ topic: connectapitaxdetailsresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.686Z
+lastCollected: 2026-04-07T18:36:11.967Z
 estimatedTokens: 221
-keywords: [ConnectApi.TaxDetailsResponse, Tax, line, item, output]
+keywords: [ConnectApi.TaxDetailsResponse, Tax, line, item]
 ---
-
-# ConnectApi.TaxDetailsResponse
 
 > Tax details for each line item in a tax line item
     output.

@@ -5,12 +5,10 @@ topic: create-a-salesforce-dx-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.721Z
+lastCollected: 2026-04-07T18:40:13.651Z
 estimatedTokens: 3137
-keywords: [Salesforce, Project, Allow, Service, Cloud, Voice, communicate, telephony, provider, package, you’re, creating, includes, connector, contact]
+keywords: [Salesforce, Project, Allow, Service, Cloud, Voice, communicate, telephony, provider, package, you’re, creating, includes, connector, contact, center, settings, metadata]
 ---
-
-# Create a Salesforce DX Project
 
 > Allow Service Cloud Voice to communicate with your telephony provider. The package
   you’re creating includes a connector, contact center, settings metadata, and more.

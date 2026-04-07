@@ -5,12 +5,10 @@ topic: topicassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.417Z
+lastCollected: 2026-04-07T18:40:04.150Z
 estimatedTokens: 289
-keywords: [TopicAssignment, assignment, topic, specific, feed, item, record, file, API, version, 28.0, later]
+keywords: [TopicAssignment, assignment, topic, specific, item, record, file, API, 28.0]
 ---
-
-# TopicAssignment
 
 > Represents the assignment of a topic to a specific feed item, record,
    or file. This object is available in API version

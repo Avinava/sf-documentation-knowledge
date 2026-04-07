@@ -5,12 +5,10 @@ topic: care-request-reviewer-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.651Z
+lastCollected: 2026-04-07T18:37:40.634Z
 estimatedTokens: 265
-keywords: [Care, Reviewer, Input, general, item, drug, diagnosis, associated]
+keywords: [Care, Reviewer, general, item, drug, diagnosis]
 ---
-
-# Care Request Reviewer Input
 
 > The general details of the care request, care request item, care
       request drug, or care diagnosis associated with the care request reviewer.

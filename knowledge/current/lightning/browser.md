@@ -5,12 +5,10 @@ topic: browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.085Z
+lastCollected: 2026-04-07T18:38:04.207Z
 estimatedTokens: 426
 keywords: [$Browser, provider, hardware, operating, system, browser, accessing, application]
 ---
-
-# $Browser
 
 > The $Browser global value
             provider returns information about the hardware and operating system of the browser

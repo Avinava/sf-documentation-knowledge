@@ -5,13 +5,11 @@ topic: headlessuserdiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.809Z
+lastCollected: 2026-04-07T18:36:13.106Z
 estimatedTokens: 1974
 namespace: Auth
-keywords: [HeadlessUserDiscoveryHandler, headless, user, discovery, handler, implement, login, passwordless, forgot, password, flows, Usage, discoverUserFromLoginHint, networkId, loginHint]
+keywords: [HeadlessUserDiscoveryHandler, headless, user, discovery, handler, implement, login, passwordless, forgot, password, flows, discoverUserFromLoginHint, networkId, loginHint, verificationAction, customDataJson, requestAttributes, Implementation]
 ---
-
-# HeadlessUserDiscoveryHandler Interface
 
 > Use this interface to create a headless user discovery handler that you implement during
     headless login, passwordless login, and forgot password flows.

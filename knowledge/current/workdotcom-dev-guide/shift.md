@@ -5,12 +5,10 @@ topic: shift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.314Z
+lastCollected: 2026-04-07T18:40:14.324Z
 estimatedTokens: 420
-keywords: [Shift, service, resource, scheduling, Salesforce, standard, employee’s, availability, their, preferences, constraints, Shifts, created, resources, employees]
+keywords: [Shift, service, resource, scheduling, Salesforce, standard, employee’s, availability, their, preferences, constraints, Shifts, created, resources, employees, included, facility, plan, planner, API, 46.0]
 ---
-
-# Shift
 
 > Represents a shift for service resource scheduling. Shift is a Salesforce
       standard object that represents an employee’s availability based on their preferences and

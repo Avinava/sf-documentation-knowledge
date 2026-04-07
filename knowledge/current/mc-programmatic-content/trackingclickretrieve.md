@@ -5,12 +5,10 @@ topic: trackingclickretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.471Z
+lastCollected: 2026-04-07T18:40:23.904Z
 estimatedTokens: 147
-keywords: [Tracking.ClickRetrieve, Function, Ordinal, Criteria, filter, tracking, results, **Overview**, **Syntax**]
+keywords: [Tracking.ClickRetrieve, Function, Ordinal, Criteria, filter, results, **Overview**, **Syntax**]
 ---
-
-# Tracking.ClickRetrieve
 
 > Tracking.ClickRetrieve(1)
 

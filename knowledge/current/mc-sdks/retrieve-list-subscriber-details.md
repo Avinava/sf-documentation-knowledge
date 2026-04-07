@@ -5,12 +5,10 @@ topic: retrieve-list-subscriber-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.265Z
+lastCollected: 2026-04-07T18:40:24.713Z
 estimatedTokens: 976
-keywords: [Retrieve, Subscriber, subscribers, Ruby, PHP, Python, CSharp, Java, Streamline, Usage, Filter, Requests]
+keywords: [Ruby, Python, CSharp, Java, Retrieve, Subscriber, subscribers, PHP, Streamline, Filter, Requests]
 ---
-
-# Retrieve List Subscriber Details
 
 > Use the Get method to return information about existing list subscribers.
 

@@ -5,12 +5,10 @@ topic: log-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.845Z
+lastCollected: 2026-04-07T18:38:03.934Z
 estimatedTokens: 67
-keywords: [Log, Messages, help, debug, client-side, code, write, output, JavaScript, console, web, browser, console.log, supports]
+keywords: [Log, Messages, help, debug, client-side, code, write, JavaScript, console, web, browser, console.log, supports]
 ---
-
-# Log Messages
 
 > To help debug your client-side code, you can write output to the JavaScript console of
       a web browser using console.log() if your browser

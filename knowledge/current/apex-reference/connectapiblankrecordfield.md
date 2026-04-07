@@ -5,12 +5,10 @@ topic: connectapiblankrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.071Z
+lastCollected: 2026-04-07T18:36:07.413Z
 estimatedTokens: 61
 keywords: [ConnectApi.BlankRecordField, Record, place, holder, grid]
 ---
-
-# ConnectApi.BlankRecordField
 
 > Record field displayed as a place holder in a grid of fields.
 

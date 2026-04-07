@@ -5,12 +5,10 @@ topic: retrieving-account-object-using-the-customerkey-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.584Z
+lastCollected: 2026-04-07T18:40:18.782Z
 estimatedTokens: 1922
-keywords: [Retrieving, Account, CustomerKey, Attribute, Why, Retrieve, How, Sample, NET, Code, Java, Axis, 1.4, PHP, SOAP]
+keywords: [Retrieving, Account, CustomerKey, Attribute, Why, Retrieve, How, Sample, NET, Code, Java, Axis, 1.4, PHP, SOAP, Envelope]
 ---
-
-# Retrieving Account Object Using The CustomerKey Attribute
 
 > This page contains information  about retrieving the Account object using the CustomerKey attribute.
 

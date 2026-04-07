@@ -5,12 +5,10 @@ topic: voicevendorline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.303Z
+lastCollected: 2026-04-07T18:40:06.198Z
 estimatedTokens: 388
 keywords: [VoiceVendorLine, user’s, phone, number, reserved, vendor]
 ---
-
-# VoiceVendorLine
 
 > Represents a user’s phone number reserved with the
 		vendor.

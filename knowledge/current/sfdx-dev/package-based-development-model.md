@@ -5,12 +5,10 @@ topic: package-based-development-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.895Z
+lastCollected: 2026-04-07T18:40:08.845Z
 estimatedTokens: 362
-keywords: [Package-Based, Development, Model, demonstrate, power, unlocked, packages, here’s, how, packaging, works, traditional, production, orgs, metadata]
+keywords: [Package-Based, Development, Model, demonstrate, power, unlocked, packages, here’s, how, packaging, works, traditional, production, orgs, metadata, traditionally, contained, two, buckets, managed, installed, AppExchange, unpackaged]
 ---
-
-# Package-Based Development Model
 
 > To demonstrate the power of unlocked packages, here’s how packaging works in the
   traditional development model. For most production orgs, metadata traditionally is contained in

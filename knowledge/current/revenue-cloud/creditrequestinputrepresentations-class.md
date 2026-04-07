@@ -5,13 +5,11 @@ topic: creditrequestinputrepresentations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.550Z
+lastCollected: 2026-04-07T18:35:40.343Z
 estimatedTokens: 2149
 namespace: IssueCreditMemo
 keywords: [CreditRequestInputRepresentations, credit, invoice, dispute, identifiers, total, amount, category, line-level, issuing, memo, invoiceId, creditAmount, disputeId, creditLineRequestInputRepresentations]
 ---
-
-# CreditRequestInputRepresentations Class
 
 > Represents a credit request for an invoice. Contains invoice and dispute identifiers, total credit amount, category, and line-level credit details for issuing a credit memo.
 

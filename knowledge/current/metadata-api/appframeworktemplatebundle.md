@@ -5,12 +5,10 @@ topic: appframeworktemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.314Z
+lastCollected: 2026-04-07T18:36:22.568Z
 estimatedTokens: 733
-keywords: [AppFrameworkTemplateBundle, app, framework, template, bundle, templates, Data, Tableau, assets, Parent, File, Suffix, Directory, Location, Version]
+keywords: [AppFrameworkTemplateBundle, app, framework, template, bundle, templates, Tableau, assets, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AppFrameworkTemplateBundle
 
 > Represents the app framework template bundle. Use these
       templates for Data 360 and Tableau Next assets.

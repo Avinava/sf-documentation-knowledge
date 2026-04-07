@@ -5,12 +5,10 @@ topic: commerce-fulfillment-order-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:07.622Z
+lastCollected: 2026-04-07T18:35:52.505Z
 estimatedTokens: 832
-keywords: [Commerce, Fulfillment, Order, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
+keywords: [Commerce, Fulfillment, Order, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, how, sales, delivered, customer, delivers, warehouse, fills, process, DLO]
 ---
-
-# Commerce: Fulfillment Order Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Fulfillment Order data is information about how a

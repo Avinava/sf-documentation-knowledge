@@ -5,12 +5,10 @@ topic: connectapibotversionactivationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.095Z
+lastCollected: 2026-04-07T18:36:07.436Z
 estimatedTokens: 102
-keywords: [ConnectApi.BotVersionActivationInfo, Success, failure, bot, version, activation]
+keywords: [ConnectApi.BotVersionActivationInfo, Success, failure, bot, activation]
 ---
-
-# ConnectApi.BotVersionActivationInfo
 
 > Success or failure information of the bot version activation.
 

@@ -5,12 +5,10 @@ topic: insurance-add-member-plans
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.161Z
+lastCollected: 2026-04-07T18:37:52.298Z
 estimatedTokens: 162
-keywords: [Insurance, Add, Member, Plans, Output, representation, operation]
+keywords: [Insurance, Add, Member, Plans, operation]
 ---
-
-# Insurance Add Member Plans
 
 > Output representation for the add member plans operation.
 

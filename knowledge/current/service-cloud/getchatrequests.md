@@ -5,12 +5,10 @@ topic: getchatrequests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.157Z
+lastCollected: 2026-04-07T18:36:49.226Z
 estimatedTokens: 192
-keywords: [getChatRequests, chat, keys, requests, assigned, agent, API, version, 29.0, later, Arguments, Sample, Code–Visualforce]
+keywords: [Arguments, getChatRequests, chat, keys, requests, assigned, agent, API, 29.0, Sample, Code–Visualforce]
 ---
-
-# getChatRequests()
 
 > Returns the chat keys of the chat requests that have been assigned to an agent. Available in API version 29.0 or
             later.

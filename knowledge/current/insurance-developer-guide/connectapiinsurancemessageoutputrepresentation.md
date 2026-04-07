@@ -5,12 +5,10 @@ topic: connectapiinsurancemessageoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.676Z
+lastCollected: 2026-04-07T18:37:50.550Z
 estimatedTokens: 76
-keywords: [Output, representation, insurance, message]
+keywords: [insurance, message]
 ---
-
-# ConnectApi.InsuranceMessageOutputRepresentation
 
 > Output representation of insurance message.
 

@@ -5,12 +5,10 @@ topic: alias-notation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.809Z
+lastCollected: 2026-04-07T18:40:09.748Z
 estimatedTokens: 125
 keywords: [Alias, Notation, SELECT, queries]
 ---
-
-# Alias Notation
 
 > You can use alias notation in SELECT queries.
 

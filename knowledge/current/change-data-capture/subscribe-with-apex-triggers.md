@@ -5,12 +5,10 @@ topic: subscribe-with-apex-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.825Z
+lastCollected: 2026-04-07T18:37:05.537Z
 estimatedTokens: 536
-keywords: [Subscribe, Apex, Triggers, capture, process, change, events, Lightning, Platform, event, run, asynchronously, database, transaction, completed]
+keywords: [Subscribe, Apex, Triggers, capture, process, change, events, Lightning, Platform, event, run, asynchronously, database, transaction, completed, Perform, resource-intensive, business, logic, trigger, implement, transaction-based, decoupling, processing, changes, help, reduce, time]
 ---
-
-# Subscribe with Apex Triggers
 
 > With Apex triggers, you can capture and process change events on the Lightning Platform.
   Change event triggers run asynchronously after the database transaction is completed. Perform

@@ -5,12 +5,10 @@ topic: edit-an-online-version-of-a-primary-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.575Z
+lastCollected: 2026-04-07T18:37:53.862Z
 estimatedTokens: 97
-keywords: [Edit, Online, Version, Primary, Article, Creates, draft, copy, unpublish]
+keywords: [Edit, Online, Primary, Article, Creates, draft, copy, unpublish]
 ---
-
-# Edit an Online Version of a Primary Article
 
 > Creates a draft copy of the online version of a primary article. This does not unpublish
   the online version.

@@ -5,13 +5,11 @@ topic: massemailmessage-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.391Z
+lastCollected: 2026-04-07T18:36:03.612Z
 estimatedTokens: 1417
 namespace: Messaging
-keywords: [MassEmailMessage, sending, mass, email, Usage, setDescription, setTargetObjectIds, targetObjectIds, setWhatIds, whatIds]
+keywords: [MassEmailMessage, sending, mass, email, setDescription, setTargetObjectIds, targetObjectIds, setWhatIds, whatIds]
 ---
-
-# MassEmailMessage Class
 
 > Contains methods for sending mass email.
 

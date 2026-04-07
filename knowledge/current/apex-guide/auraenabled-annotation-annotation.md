@@ -5,12 +5,10 @@ topic: auraenabled-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.001Z
+lastCollected: 2026-04-07T18:36:16.221Z
 estimatedTokens: 356
-keywords: [AuraEnabled, Annotation, @AuraEnabled, client-side, server-side, access, Apex, controller, Providing, Lightning, components, web, Aura, Versioned, Behavior]
+keywords: [AuraEnabled, Annotation, @AuraEnabled, client-side, server-side, Apex, controller, Providing, Lightning, web, Aura, Versioned, Behavior, Changes]
 ---
-
-# AuraEnabled Annotation Annotation
 
 > The @AuraEnabled
                 annotation enables client-side and server-side access to an Apex controller method.

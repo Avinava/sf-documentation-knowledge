@@ -5,12 +5,10 @@ topic: considerations-for-installing-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:41.179Z
+lastCollected: 2026-04-07T18:37:28.218Z
 estimatedTokens: 1173
-keywords: [Considerations, Installing, Data, Loader, download, install, understand, installation, login, release, own, operating, systems, hardware, requirements]
+keywords: [Considerations, Installing, Loader, download, install, understand, installation, login, release, own, operating, systems, hardware, requirements, System, Windows, macOS]
 ---
-
-# Considerations for Installing Data Loader
 
 > Before you download and install Data Loader, understand the installation and login
       considerations. Each release of Data Loader has its own list of supported operating systems

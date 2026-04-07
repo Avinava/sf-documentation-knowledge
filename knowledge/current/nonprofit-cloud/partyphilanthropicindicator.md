@@ -5,12 +5,10 @@ topic: partyphilanthropicindicator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.995Z
+lastCollected: 2026-04-07T18:38:22.964Z
 estimatedTokens: 1848
-keywords: [PartyPhilanthropicIndicator, unconfirmed, soft, indication, highlights, person's, wealth, growth, potential, API, version, 63.0, later, Calls, Associated]
+keywords: [PartyPhilanthropicIndicator, unconfirmed, soft, indication, highlights, person's, wealth, growth, potential, API, 63.0]
 ---
-
-# PartyPhilanthropicIndicator
 
 > Represents an unconfirmed or soft indication that highlights a person's
          wealth or growth potential. This object is available in API version 63.0 and later.

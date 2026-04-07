@@ -5,12 +5,10 @@ topic: oauth-20-web-server-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.544Z
+lastCollected: 2026-04-07T18:40:26.803Z
 estimatedTokens: 405
-keywords: [OAuth, 2.0, Web, Server, Flow, Beginning, Mobile, SDK, 11.0, authentication, Upon, upgrading, any, changes, client]
+keywords: [OAuth, 2.0, Web, Server, Flow, Beginning, Mobile, SDK, 11.0, authentication, Upon, upgrading, any, changes, client, application, However, sure, “Require, Secret, Flow”, checkbox, deselected, connected, app, Opting, User-Agent]
 ---
-
-# OAuth 2.0 Web Server Flow
 
 > Beginning in Mobile SDK 11.0, OAuth 2.0 Web Server Flow is the default authentication
     flow. Upon upgrading to Mobile SDK 11.0, you do not need to make any changes in your client

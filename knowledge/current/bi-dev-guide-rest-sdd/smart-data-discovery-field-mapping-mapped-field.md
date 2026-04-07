@@ -5,12 +5,10 @@ topic: smart-data-discovery-field-mapping-mapped-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.086Z
+lastCollected: 2026-04-07T18:36:59.576Z
 estimatedTokens: 108
-keywords: [Smart, Data, Discovery, Mapping, Mapped]
+keywords: [Smart, Discovery, Mapping, Mapped]
 ---
-
-# Smart Data Discovery Field Mapping Mapped Field
 
 > A mapped field in a field mapping.
 

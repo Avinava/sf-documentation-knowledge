@@ -5,12 +5,10 @@ topic: insurance-product-clause-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.710Z
+lastCollected: 2026-04-07T18:37:51.774Z
 estimatedTokens: 297
 keywords: [Insurance, Product, Clause, PATCH, root]
 ---
-
-# Insurance Product Clause (PATCH)
 
 > Update an existing product clause for a root product.
 

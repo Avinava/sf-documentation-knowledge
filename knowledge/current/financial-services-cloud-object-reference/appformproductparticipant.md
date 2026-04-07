@@ -5,12 +5,10 @@ topic: appformproductparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.435Z
+lastCollected: 2026-04-07T18:37:36.171Z
 estimatedTokens: 1059
-keywords: [AppFormProductParticipant, application, form, product, participant, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [AppFormProductParticipant, application, form, product, participant, API, 61.0]
 ---
-
-# AppFormProductParticipant
 
 > Represents information about the application form product
          participant. This object is available in API version 61.0 and later.

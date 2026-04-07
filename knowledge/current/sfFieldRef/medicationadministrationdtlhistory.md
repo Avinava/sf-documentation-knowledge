@@ -5,12 +5,10 @@ topic: medicationadministrationdtlhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.849Z
+lastCollected: 2026-04-07T18:39:48.296Z
 estimatedTokens: 280
-keywords: [MedicationAdministrationDtlHistory, History, tracked, MedicationAdministrationDtl]
+keywords: [MedicationAdministrationDtlHistory, tracked, MedicationAdministrationDtl]
 ---
-
-# MedicationAdministrationDtlHistory
 
 > History for tracked fields of MedicationAdministrationDtl.
 

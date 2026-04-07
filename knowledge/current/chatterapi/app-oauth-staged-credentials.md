@@ -5,12 +5,10 @@ topic: app-oauth-staged-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.604Z
+lastCollected: 2026-04-07T18:37:16.680Z
 estimatedTokens: 305
 keywords: [App, Oauth, Staged, Credentials, consumer's, primary, days, unless, they're, deleted]
 ---
-
-# App Oauth Staged Credentials
 
 > Information about an OAuth consumer's primary and staged credentials. Staged credentials
     are valid for 30 days unless they're deleted before then.

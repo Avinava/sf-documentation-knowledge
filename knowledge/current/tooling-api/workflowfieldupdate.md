@@ -5,12 +5,10 @@ topic: workflowfieldupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.458Z
+lastCollected: 2026-04-07T18:36:34.909Z
 estimatedTokens: 656
-keywords: [WorkflowFieldUpdate, workflow, SOAP, Calls, REST, HTTP]
+keywords: [WorkflowFieldUpdate, workflow, SOAP, REST, HTTP]
 ---
-
-# WorkflowFieldUpdate
 
 > Represents a workflow field
             update.

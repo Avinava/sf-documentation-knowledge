@@ -5,12 +5,10 @@ topic: care-plan-template-benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.166Z
+lastCollected: 2026-04-07T18:39:02.366Z
 estimatedTokens: 128
-keywords: [Care, Plan, Template, Benefit, Output, representation]
+keywords: [Care, Plan, Template, Benefit]
 ---
-
-# Care Plan Template Benefit
 
 > Output representation of the care plan template
   benefit.

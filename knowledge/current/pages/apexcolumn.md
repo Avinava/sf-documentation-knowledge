@@ -5,12 +5,10 @@ topic: apexcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.311Z
+lastCollected: 2026-04-07T18:38:49.400Z
 estimatedTokens: 2973
-keywords: [apex, column, <apex, column>, component, always, child, dataTable>, pageBlockTable>, Attributes, Facets]
+keywords: [Attributes, Facets, apex, column, <apex, column>, always, child, dataTable>, pageBlockTable>]
 ---
-
-# apex:column
 
 > A single column in a table. An <apex:column> component must always be a child of an <apex:dataTable> or <apex:pageBlockTable> component.
 

@@ -5,12 +5,10 @@ topic: connectapilocationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.313Z
+lastCollected: 2026-04-07T18:36:05.656Z
 estimatedTokens: 113
-keywords: [ConnectApi.LocationInputRepresentation, Inventory, location, data, calculate, shipping, distance]
+keywords: [ConnectApi.LocationInputRepresentation, Inventory, location, calculate, shipping, distance]
 ---
-
-# ConnectApi.LocationInputRepresentation
 
 > Inventory location data used to calculate shipping
     distance.

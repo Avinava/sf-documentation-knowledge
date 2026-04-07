@@ -5,12 +5,10 @@ topic: knowledgeka
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.749Z
+lastCollected: 2026-04-07T18:38:33.928Z
 estimatedTokens: 798
-keywords: [Knowledge__ka, access, concrete, Knowledge, article, parent, versions, API, version, 39.0, later, _ka, Calls, Special, Rules]
+keywords: [Knowledge__ka, concrete, Knowledge, article, parent, versions, API, 39.0, _ka]
 ---
-
-# Knowledge__ka
 
 > Provides access to the concrete object that represents a Knowledge article,
 			the parent object for article versions. This object is available in API version

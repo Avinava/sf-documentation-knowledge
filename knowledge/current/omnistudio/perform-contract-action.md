@@ -5,12 +5,10 @@ topic: perform-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.725Z
+lastCollected: 2026-04-07T18:36:35.195Z
 estimatedTokens: 249
-keywords: [Perform, Contract, Action, actions, status, REST, HTTP, Inputs, Output, Usage]
+keywords: [Inputs, Perform, Contract, Action, actions, status, REST, HTTP]
 ---
-
-# Perform Contract Action
 
 > Perform actions on a contract based on its status.
 

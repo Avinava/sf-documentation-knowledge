@@ -5,12 +5,10 @@ topic: wavetemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.478Z
+lastCollected: 2026-04-07T18:36:30.865Z
 estimatedTokens: 644
-keywords: [WaveTemplateBundle, Analytics, template, bundle, apps, definition, resources.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [WaveTemplateBundle, Analytics, template, bundle, apps, definition, resources.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# WaveTemplateBundle
 
 > Represents an Analytics template bundle, which can be
       used to create Analytics apps. A bundle contains an Analytics template definition and all its

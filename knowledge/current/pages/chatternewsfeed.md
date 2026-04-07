@@ -5,12 +5,10 @@ topic: chatternewsfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.193Z
+lastCollected: 2026-04-07T18:38:49.199Z
 estimatedTokens: 266
-keywords: [chatter, newsfeed, Displays, current, user, components, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included]
+keywords: [Attributes, chatter, newsfeed, Displays, current, user, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included]
 ---
-
-# chatter:newsfeed
 
 > Displays the Chatter NewsFeed for the current user. Note that Chatter components are unavailable for Visualforce pages on Force.com sites. Ext JS versions less than 3 should not be included on pages that use this component.
 

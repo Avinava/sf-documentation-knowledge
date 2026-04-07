@@ -5,12 +5,10 @@ topic: connected-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.804Z
+lastCollected: 2026-04-07T18:38:53.102Z
 estimatedTokens: 711
-keywords: [Connected, Apps, app, framework, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect]
+keywords: [Connected, Apps, app, framework, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect, authenticate, authorize, provide, sign-on, SSO, integrated, run, customer, success, platform, platforms, devices, SaaS, subscriptions, log, mobile, org, you’re, Resources]
 ---
-
-# Connected Apps
 
 > A connected app is a framework that enables an external application to integrate with
     Salesforce using APIs and standard protocols, such as SAML, OAuth, and OpenID Connect. Connected

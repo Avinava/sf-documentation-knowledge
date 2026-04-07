@@ -5,12 +5,10 @@ topic: servicesetupassistantsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.205Z
+lastCollected: 2026-04-07T18:36:29.618Z
 estimatedTokens: 617
-keywords: [ServiceSetupAssistantSettings, organization’s, Service, Setup, Assistant, settings, basic, console, app, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [ServiceSetupAssistantSettings, organization’s, Service, Setup, Assistant, settings, basic, console, app, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ServiceSetupAssistantSettings
 
 > Represents an organization’s Service Setup Assistant settings. The Service Setup
       Assistant can be used to set up a basic service console app.

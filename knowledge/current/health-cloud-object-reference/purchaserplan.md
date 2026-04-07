@@ -5,12 +5,10 @@ topic: purchaserplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.186Z
+lastCollected: 2026-04-07T18:37:47.807Z
 estimatedTokens: 1336
-keywords: [PurchaserPlan, payer, plan, purchaser, members, members’, dependents, Calls, Associated, Objects]
+keywords: [PurchaserPlan, payer, plan, purchaser, members, members’, dependents]
 ---
-
-# PurchaserPlan
 
 > Represents the payer plan that a purchaser makes available to its
 			members and members’ dependents.

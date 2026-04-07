@@ -5,12 +5,10 @@ topic: ordersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.883Z
+lastCollected: 2026-04-07T18:38:37.161Z
 estimatedTokens: 6636
-keywords: [OrderSummary, current, state, order, Corresponds, objects, consisting, original, any, change, applicable, API, version, 48.0, later]
+keywords: [OrderSummary, current, state, order, Corresponds, consisting, original, any, change, applicable, API, 48.0]
 ---
-
-# OrderSummary
 
 > Represents the current properties and state of an order. Corresponds to one or
       more order objects, consisting of an original object and any change objects applicable to

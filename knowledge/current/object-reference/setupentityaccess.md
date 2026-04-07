@@ -5,12 +5,10 @@ topic: setupentityaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.414Z
+lastCollected: 2026-04-07T18:38:41.069Z
 estimatedTokens: 1172
-keywords: [SetupEntityAccess, enabled, setup, entity, access, settings, Apex, classes, parent, PermissionSet, API, version, 25.0, later, Calls]
+keywords: [SetupEntityAccess, enabled, setup, entity, settings, Apex, classes, parent, PermissionSet, API, 25.0]
 ---
-
-# SetupEntityAccess
 
 > Represents the enabled setup entity access settings (such as for Apex
          classes) for the parent PermissionSet. This object is available in API version 25.0

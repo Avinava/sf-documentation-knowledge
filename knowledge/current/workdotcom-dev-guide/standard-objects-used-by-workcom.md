@@ -5,12 +5,10 @@ topic: standard-objects-used-by-workcom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.120Z
+lastCollected: 2026-04-07T18:40:14.150Z
 estimatedTokens: 495
-keywords: [Standard, Objects, Work.com, data, model, includes, several, Salesforce]
+keywords: [Standard, Work.com, model, includes, several, Salesforce]
 ---
-
-# Standard Objects Used by Work.com
 
 > The Work.com data model includes several standard Salesforce objects.
 

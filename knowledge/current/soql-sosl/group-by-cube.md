@@ -5,12 +5,10 @@ topic: group-by-cube
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:15.119Z
+lastCollected: 2026-04-07T18:40:10.076Z
 estimatedTokens: 1084
-keywords: [GROUP, CUBE, clause, SOQL, query, add, subtotals, combinations, grouped, results, action, useful, compiling, cross-tabular, reports]
+keywords: [GROUP, CUBE, clause, SOQL, query, add, subtotals, combinations, grouped, results, action, useful, compiling, cross-tabular, reports, calculate, sum, average, another, aggregate, function, two, horizontally, vertically]
 ---
-
-# GROUP BY CUBE
 
 > Use the GROUP BY CUBE clause in a SOQL query to
         add subtotals for all combinations of a grouped field in the query results. This action is

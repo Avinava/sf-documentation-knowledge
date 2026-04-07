@@ -5,12 +5,10 @@ topic: notifications-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.123Z
+lastCollected: 2026-04-07T18:40:27.342Z
 estimatedTokens: 154
-keywords: [Notifications, Status, current, user’s, including, unread, unseen, count, iOS, Android]
+keywords: [Android, Notifications, Status, current, user’s, including, unread, unseen, count, iOS]
 ---
-
-# Notifications Status
 
 > Get the status of the current user’s notifications, including unread and unseen
         count.

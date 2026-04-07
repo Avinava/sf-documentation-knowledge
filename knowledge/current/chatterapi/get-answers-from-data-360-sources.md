@@ -5,12 +5,10 @@ topic: get-answers-from-data-360-sources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.193Z
+lastCollected: 2026-04-07T18:37:24.241Z
 estimatedTokens: 224
-keywords: [Answers, Data, Sources, Search, model, natural, language, query, answer]
+keywords: [Answers, Sources, Search, model, natural, language, query, answer]
 ---
-
-# Get Answers From Data 360 Sources
 
 > Search a data model object using a natural language query and return an
     answer.

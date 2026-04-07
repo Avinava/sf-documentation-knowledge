@@ -5,12 +5,10 @@ topic: salesforce-contracts-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.601Z
+lastCollected: 2026-04-07T18:37:24.599Z
 estimatedTokens: 86
 keywords: [Salesforce, Contracts, Standard, Invocable, Actions, search, contract, documents, versions]
 ---
-
-# Salesforce Contracts Standard Invocable Actions
 
 > Use standard invocable actions to search contract documents and versions.
 

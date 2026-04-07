@@ -5,12 +5,10 @@ topic: marketing-executive-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.006Z
+lastCollected: 2026-04-07T18:39:16.550Z
 estimatedTokens: 509
 keywords: [Marketing, Executive, Dashboard, executives, directors, VPs, they, creating, efficient, campaigns, generating, converting, leads, Highlights, Tips]
 ---
-
-# Marketing Executive Dashboard
 
 > Marketing executives, such as directors and VPs, can use this dashboard
 to find out if they are creating efficient campaigns and generating

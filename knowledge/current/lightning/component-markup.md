@@ -5,12 +5,10 @@ topic: component-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.190Z
+lastCollected: 2026-04-07T18:38:03.191Z
 estimatedTokens: 343
-keywords: [Component, Markup, resources, contain, cmp, suffix, text, references, components, declares, metadata]
+keywords: [Markup, resources, contain, cmp, suffix, text, references, declares, metadata]
 ---
-
-# Component Markup
 
 > Component resources contain markup
         and have a .cmp suffix. The markup can contain text or references to

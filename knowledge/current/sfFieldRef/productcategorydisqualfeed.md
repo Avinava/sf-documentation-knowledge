@@ -5,12 +5,10 @@ topic: productcategorydisqualfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.825Z
+lastCollected: 2026-04-07T18:39:55.392Z
 estimatedTokens: 364
-keywords: [ProductCategoryDisqualFeed, Feed, tracking, ProductCategoryDisqual]
+keywords: [ProductCategoryDisqualFeed, ProductCategoryDisqual]
 ---
-
-# ProductCategoryDisqualFeed
 
 > Feed tracking for ProductCategoryDisqual.
 

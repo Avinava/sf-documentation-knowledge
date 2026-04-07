@@ -5,12 +5,10 @@ topic: lifescistagepath
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:11.056Z
+lastCollected: 2026-04-07T18:38:00.845Z
 estimatedTokens: 571
-keywords: [LifeSciStagePath, steps, associated, workflow, path, step, API, version, 65.0, later, Calls]
+keywords: [LifeSciStagePath, steps, workflow, path, step, API, 65.0]
 ---
-
-# LifeSciStagePath
 
 > Represents information about the steps associated with a workflow and the
          path from one step in the workflow to the next. This object is available in API

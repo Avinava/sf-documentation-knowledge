@@ -5,12 +5,10 @@ topic: journalsubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:19.780Z
+lastCollected: 2026-04-07T18:38:10.096Z
 estimatedTokens: 604
-keywords: [JournalSubType, subcategory, transaction, journal, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [JournalSubType, subcategory, transaction, journal, API, 51.0]
 ---
-
-# JournalSubType
 
 > Represents the subcategory of transaction journal. This object is
     available in API version 51.0 and later.

@@ -5,12 +5,10 @@ topic: adverseevntresultingeffect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.429Z
+lastCollected: 2026-04-07T18:39:25.358Z
 estimatedTokens: 291
-keywords: [AdverseEvntResultingEffect, Effect, subject, due, event, API, version, 61.0, later]
+keywords: [AdverseEvntResultingEffect, Effect, subject, due, event, API, 61.0]
 ---
-
-# AdverseEvntResultingEffect
 
 > Effect on the subject due to this event. This object is available in API
       version 61.0 and later.

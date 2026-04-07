@@ -5,12 +5,10 @@ topic: setauthorizationexpirationdateauthexpdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.970Z
+lastCollected: 2026-04-07T18:36:04.194Z
 estimatedTokens: 103
 keywords: [setAuthorizationExpirationDate, authExpDate, expiration, date, authorization]
 ---
-
-# setAuthorizationExpirationDate(authExpDate)
 
 > Sets the expiration date of the authorization
     request.

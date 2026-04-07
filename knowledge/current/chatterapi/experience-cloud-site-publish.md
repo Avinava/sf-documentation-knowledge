@@ -5,12 +5,10 @@ topic: experience-cloud-site-publish
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.975Z
+lastCollected: 2026-04-07T18:37:12.872Z
 estimatedTokens: 116
 keywords: [Experience, Cloud, Site, Publish]
 ---
-
-# Experience Cloud Site, Publish
 
 > Publish an Experience Cloud site.
 

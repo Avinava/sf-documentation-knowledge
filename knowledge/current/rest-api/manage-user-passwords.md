@@ -5,12 +5,10 @@ topic: manage-user-passwords
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.800Z
+lastCollected: 2026-04-07T18:36:20.025Z
 estimatedTokens: 560
 keywords: [Manage, User, Passwords, sObject, Password, resource, reset, HTTP, expiration, status, POST]
 ---
-
-# Manage User Passwords
 
 > Use the sObject User Password resource to set, reset, or get information about a
             user password. Use the HTTP GET method to get password expiration status, the HTTP POST

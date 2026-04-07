@@ -5,12 +5,10 @@ topic: using-the-lightning-design-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.121Z
+lastCollected: 2026-04-07T18:38:52.423Z
 estimatedTokens: 862
-keywords: [Lightning, Design, System, <apex, slds>, element, incorporate, Visualforce, pages, align, styling, Experience, component, streamlined, alternative]
+keywords: [Lightning, Design, System, <apex, slds>, incorporate, Visualforce, pages, align, styling, Experience, streamlined, alternative, uploading, resource]
 ---
-
-# Using the Lightning Design System
 
 > Use the <apex:slds> element
     to incorporate the Lightning Design System in your Visualforce pages and align them with the

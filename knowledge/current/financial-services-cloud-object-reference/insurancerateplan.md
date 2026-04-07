@@ -5,12 +5,10 @@ topic: insurancerateplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:50.126Z
+lastCollected: 2026-04-07T18:37:37.944Z
 estimatedTokens: 1254
-keywords: [InsuranceRatePlan, rate, plan, employee's, insurance, API, version, later, Calls, Associated, Objects]
+keywords: [InsuranceRatePlan, rate, plan, employee's, insurance, API]
 ---
-
-# InsuranceRatePlan
 
 > Represents a rate plan for an employee's insurance. This object is available
       in API version 61 and later.

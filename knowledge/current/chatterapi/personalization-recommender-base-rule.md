@@ -5,12 +5,10 @@ topic: personalization-recommender-base-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.615Z
+lastCollected: 2026-04-07T18:37:21.725Z
 estimatedTokens: 339
-keywords: [Personalization, Recommender, Base, Rule, representation]
+keywords: [Personalization, Recommender, Base, Rule]
 ---
-
-# Personalization Recommender Base Rule
 
 > The base representation for a recommender rule.
 

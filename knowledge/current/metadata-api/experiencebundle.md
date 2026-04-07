@@ -5,12 +5,10 @@ topic: experiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.134Z
+lastCollected: 2026-04-07T18:36:25.621Z
 estimatedTokens: 8326
-keywords: [ExperienceBundle, text-based, code, structure, settings, site, components, pages, branding, themes, Experience, Builder, Developers, quickly, deploy]
+keywords: [ExperienceBundle, ExperienceResources, ExperienceResource, text-based, code, structure, settings, site, pages, branding, themes, Experience, Builder, Developers, quickly, deploy, sites, programmatically, their, preferred, development, tools, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Folders, Bundled, Definitions, brandingSets, Folder, config, routes, variations, views, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExperienceBundle
 
 > Represents a text-based code structure of the settings and site components, such as
     pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly

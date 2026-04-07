@@ -5,12 +5,10 @@ topic: configure-default-package-versions-for-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.848Z
+lastCollected: 2026-04-07T18:38:53.152Z
 estimatedTokens: 1071
-keywords: [Configure, Package, Versions, API, Calls, specify, enterprise, partner]
+keywords: [Configure, Package, Versions, API, specify, enterprise, partner]
 ---
-
-# Configure Default Package Versions for API Calls
 
 > You can specify the default package versions for enterprise API and partner API
     calls.

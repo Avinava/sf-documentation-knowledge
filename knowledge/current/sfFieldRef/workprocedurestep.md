@@ -5,12 +5,10 @@ topic: workprocedurestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.133Z
+lastCollected: 2026-04-07T18:40:07.049Z
 estimatedTokens: 325
 keywords: [WorkProcedureStep, Represent, work, that's, part, procedure]
 ---
-
-# WorkProcedureStep
 
 > Represent information about the work type that's a part of a work
          procedure.

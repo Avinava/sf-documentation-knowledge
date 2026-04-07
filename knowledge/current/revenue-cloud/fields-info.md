@@ -5,12 +5,10 @@ topic: fields-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.829Z
+lastCollected: 2026-04-07T18:35:45.827Z
 estimatedTokens: 226
-keywords: [Info, Output, representation, metadata]
+keywords: [Info, metadata]
 ---
-
-# Fields Info
 
 > Output representation of the metadata fields in an object.
 

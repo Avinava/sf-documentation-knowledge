@@ -5,12 +5,10 @@ topic: categorynode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.163Z
+lastCollected: 2026-04-07T18:39:33.573Z
 estimatedTokens: 276
 keywords: [CategoryNode, tree, Solution, categories]
 ---
-
-# CategoryNode
 
 > Represents a tree of Solution categories.
 

@@ -5,12 +5,10 @@ topic: user-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.950Z
+lastCollected: 2026-04-07T18:35:51.791Z
 estimatedTokens: 398
-keywords: [User, Data, Track, profile, associated, interaction, Salesforce, Interactions, Web, SDK]
+keywords: [User, Track, profile, interaction, Salesforce, Interactions, Web, SDK]
 ---
-
-# User Data
 
 > Track profile data for a user with or without an associated interaction using Salesforce
         Interactions Web SDK.

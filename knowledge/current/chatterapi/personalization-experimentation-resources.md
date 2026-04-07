@@ -5,12 +5,10 @@ topic: personalization-experimentation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.198Z
+lastCollected: 2026-04-07T18:37:15.244Z
 estimatedTokens: 145
 keywords: [Personalization, Experimentation, Resources, manage, retrieve, experiments]
 ---
-
-# Personalization Experimentation Resources
 
 > Create, manage, and retrieve personalization experiments.
 

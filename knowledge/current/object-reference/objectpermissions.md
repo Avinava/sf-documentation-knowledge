@@ -5,12 +5,10 @@ topic: objectpermissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.059Z
+lastCollected: 2026-04-07T18:38:36.243Z
 estimatedTokens: 1547
-keywords: [ObjectPermissions, enabled, permissions, parent, PermissionSet, API, version, 24.0, later, Calls, Special, Access, Rules, Permission, Dependencies]
+keywords: [ObjectPermissions, enabled, permissions, parent, PermissionSet, API, 24.0, Permission, Dependencies, Determining, “Modify, Data”, Nesting]
 ---
-
-# ObjectPermissions
 
 > Represents the enabled object permissions for
             the parent PermissionSet.

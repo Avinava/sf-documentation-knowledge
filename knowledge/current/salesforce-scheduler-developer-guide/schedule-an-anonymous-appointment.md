@@ -5,12 +5,10 @@ topic: schedule-an-anonymous-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.746Z
+lastCollected: 2026-04-07T18:39:21.606Z
 estimatedTokens: 831
-keywords: [Schedule, Anonymous, Appointment, Build, scheduling, application, Salesforce, Scheduler, APIs, book, assigning, service, resources, automatically, Account]
+keywords: [Schedule, Anonymous, Appointment, Build, scheduling, application, Salesforce, Scheduler, APIs, book, assigning, service, resources, automatically, Account, users, guest, don’t, always, know, resource, sometimes, they, care, they’re, assigned, assign, time, slot, user, selects, protect, users’, privacy, hide, their, review]
 ---
-
-# Schedule an Anonymous Appointment
 
 > Build a scheduling application using Salesforce Scheduler APIs to book an anonymous
    appointment by assigning service resources automatically. Account users and guest users don’t

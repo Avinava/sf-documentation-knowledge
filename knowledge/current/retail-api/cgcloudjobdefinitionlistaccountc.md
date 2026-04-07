@@ -5,12 +5,10 @@ topic: cgcloudjobdefinitionlistaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.274Z
+lastCollected: 2026-04-07T18:39:13.683Z
 estimatedTokens: 1045
-keywords: [cgcloud__Job_Definition_List_Account__c, Stores, relationship, job, definition, customer, API, version, 54.0, later, cgcloud, _Job, _Definition, _List, _Account]
+keywords: [cgcloud__Job_Definition_List_Account__c, Stores, relationship, job, definition, customer, API, 54.0, cgcloud, _Job, _Definition, _List, _Account]
 ---
-
-# cgcloud__Job_Definition_List_Account__c
 
 > Stores the details of the relationship between job definition list
          and customer. This object is available in API version 54.0 and later.

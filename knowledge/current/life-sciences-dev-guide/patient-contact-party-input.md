@@ -5,12 +5,10 @@ topic: patient-contact-party-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.904Z
+lastCollected: 2026-04-07T18:37:55.274Z
 estimatedTokens: 338
-keywords: [Patient, Contact, Party, Input, representation]
+keywords: [Patient, Contact, Party]
 ---
-
-# Patient Contact Party Input
 
 > The input representation of the patient contact
     party.

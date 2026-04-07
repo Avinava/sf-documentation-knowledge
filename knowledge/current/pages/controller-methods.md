@@ -5,12 +5,10 @@ topic: controller-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.734Z
+lastCollected: 2026-04-07T18:38:50.968Z
 estimatedTokens: 1762
-keywords: [Controller, sample, Build, Custom, controller's, save, action, <apex, commandButton>, tag, examples, discussed, Defining, Getter, Setter]
+keywords: [Controller, sample, Build, controller's, save, action, <apex, commandButton>, tag, examples, discussed, Defining, Getter, Setter, Getting, Setting, Extension]
 ---
-
-# Controller Methods
 
 > For example, in the sample page in Build a Custom Controller, the controller's save method is called by the action parameter of the <apex:commandButton> tag. Other examples of
                 action methods are discussed in Defining Action Methods.

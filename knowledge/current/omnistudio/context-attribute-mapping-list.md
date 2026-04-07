@@ -5,12 +5,10 @@ topic: context-attribute-mapping-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.270Z
+lastCollected: 2026-04-07T18:36:38.932Z
 estimatedTokens: 135
-keywords: [Context, Attribute, Mapping, Output, representation, mappings]
+keywords: [Context, Attribute, Mapping, mappings]
 ---
-
-# Context Attribute Mapping List
 
 > Output representation of list of context attribute mappings.
 

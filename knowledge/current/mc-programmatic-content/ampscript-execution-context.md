@@ -5,12 +5,10 @@ topic: ampscript-execution-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.849Z
+lastCollected: 2026-04-07T18:40:22.219Z
 estimatedTokens: 669
-keywords: [AMPscript, Execution, Context, Marketing, Cloud, process, content, landing, pages, Web, Collect, Smart, Capture, Call, via]
+keywords: [AMPscript, Execution, Context, Marketing, Cloud, process, content, landing, pages, Web, Collect, Smart, Capture, Call, via, contextual, function, determines, how, system, processes, Specification]
 ---
-
-# AMPscript Execution Context
 
 > The Marketing Cloud can process content from landing pages, Web Collect, and Smart Capture. Call that content via a contextual AMPscript function. The execution context of the function determines how the system processes the context.
 

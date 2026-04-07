@@ -5,12 +5,10 @@ topic: provider-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.126Z
+lastCollected: 2026-04-07T18:37:55.574Z
 estimatedTokens: 289
-keywords: [Provider, Search, Healthcare, providers, accounts, free-text, input, either, internal, Salesforce, data, external, system, API, account]
+keywords: [Provider, Search, Healthcare, providers, accounts, free-text, either, internal, Salesforce, external, system, API, account, including, matching, contact, point, addresses]
 ---
-
-# Provider Search
 
 > Search for Healthcare providers and accounts based on a free-text input, either from
         internal Salesforce data or an external system. This API returns account information,

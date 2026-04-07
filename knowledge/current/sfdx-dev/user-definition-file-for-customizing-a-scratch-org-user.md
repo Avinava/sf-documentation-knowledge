@@ -5,12 +5,10 @@ topic: user-definition-file-for-customizing-a-scratch-org-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.491Z
+lastCollected: 2026-04-07T18:40:08.444Z
 estimatedTokens: 743
 keywords: [User, Definition, File, Customizing, Scratch, Org, customize, new, rather, generated]
 ---
-
-# User Definition File for Customizing a Scratch Org User
 
 > To customize a new scratch org user, rather than use the default and generated values,
   create a definition file.

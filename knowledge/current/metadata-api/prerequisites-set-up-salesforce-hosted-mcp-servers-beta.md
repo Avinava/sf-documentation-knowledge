@@ -5,12 +5,10 @@ topic: prerequisites-set-up-salesforce-hosted-mcp-servers-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.018Z
+lastCollected: 2026-04-07T18:36:27.534Z
 estimatedTokens: 960
-keywords: [Prerequisites, Salesforce, Hosted, MCP, Servers, Beta, API, Context, server, Enable, External, Client, App, Log, Target]
+keywords: [Prerequisites, Salesforce, Hosted, MCP, Servers, Beta, API, Context, server, Enable, External, Client, App, Log, Target, Org]
 ---
-
-# Prerequisites: Set Up Salesforce Hosted MCP Servers (Beta)
 
 > The Salesforce API Context MCP server is one of many Salesforce Hosted MCP Servers. To
     use the Salesforce API Context MCP server, you must first set up the Salesforce Hosted MCP

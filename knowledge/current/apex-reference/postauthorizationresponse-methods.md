@@ -5,12 +5,10 @@ topic: postauthorizationresponse-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.953Z
+lastCollected: 2026-04-07T18:36:04.170Z
 estimatedTokens: 1049
 keywords: [PostAuthorizationResponse]
 ---
-
-# PostAuthorizationResponse Methods
 
 > Lists the methods for the PostAuthorizationResponse.
 

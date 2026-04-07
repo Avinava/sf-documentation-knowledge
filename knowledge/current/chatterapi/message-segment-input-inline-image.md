@@ -5,12 +5,10 @@ topic: message-segment-input-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.890Z
+lastCollected: 2026-04-07T18:37:08.701Z
 estimatedTokens: 152
-keywords: [Message, Segment, Input, Inline, Image]
+keywords: [Message, Segment, Inline, Image]
 ---
-
-# Message Segment Input: Inline Image
 
 > Inline image segment input.
 

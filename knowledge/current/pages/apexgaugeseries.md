@@ -5,12 +5,10 @@ topic: apexgaugeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.522Z
+lastCollected: 2026-04-07T18:38:49.657Z
 estimatedTokens: 793
-keywords: [apex, gaugeSeries, data, series, progress, along, specific, metric, minimum, specify, collection, label, pair, gauge, level]
+keywords: [Attributes, apex, gaugeSeries, series, progress, along, specific, metric, minimum, specify, collection, label, pair, gauge, level, shown, readability, chart, benefits, meaningful, maximum]
 ---
-
-# apex:gaugeSeries
 
 > A data series that shows progress along a specific metric. At a minimum you must specify the fields in the data collection to use as label and value pair for the gauge level to be shown. The readability of a gauge chart benefits when you specify meaningful values for the minimum and maximum along th
 

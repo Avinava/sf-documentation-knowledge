@@ -5,12 +5,10 @@ topic: academicorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.442Z
+lastCollected: 2026-04-07T18:37:30.502Z
 estimatedTokens: 742
-keywords: [AcademicOrder, junction, academic, interval, term, order, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [AcademicOrder, junction, academic, interval, term, order, API, 66.0]
 ---
-
-# AcademicOrder
 
 > Represents a junction between an academic interval, such as an academic term,
          and an order. This object is available in API version 66.0 and later.

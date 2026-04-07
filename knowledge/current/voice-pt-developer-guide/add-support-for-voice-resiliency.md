@@ -5,12 +5,10 @@ topic: add-support-for-voice-resiliency
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.814Z
+lastCollected: 2026-04-07T18:40:13.737Z
 estimatedTokens: 359
-keywords: [Add, Support, Voice, Resiliency, ensures, calls, number, conversations, over, limit, background, service, affected]
+keywords: [Add, Support, Voice, Resiliency, ensures, number, conversations, over, limit, background, service, affected]
 ---
-
-# Add Support for Voice Resiliency
 
 > Voice resiliency ensures that calls can still go through when the number of conversations
         is over limit or when the background service is affected.

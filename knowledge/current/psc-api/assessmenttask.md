@@ -5,12 +5,10 @@ topic: assessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.763Z
+lastCollected: 2026-04-07T18:39:05.759Z
 estimatedTokens: 659
-keywords: [AssessmentTask, Perform, tasks, inspections, capture, API, version, 47.0, later, Calls]
+keywords: [AssessmentTask, Perform, tasks, inspections, capture, API, 47.0]
 ---
-
-# AssessmentTask
 
 > Perform tasks in inspections to capture information. This object is
     available in API version 47.0 and later.

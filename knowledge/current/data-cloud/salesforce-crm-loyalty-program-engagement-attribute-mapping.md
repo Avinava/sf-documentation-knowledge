@@ -5,12 +5,10 @@ topic: salesforce-crm-loyalty-program-engagement-attribute-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.271Z
+lastCollected: 2026-04-07T18:35:53.212Z
 estimatedTokens: 523
-keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Mapping, data, mappings, DLO, found, Management, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, track, member’s, long-term, behavior, cumulative, monthly, spend, number, times, member, logged, company’s, shopping, app, DMO]
 ---
-
-# Salesforce CRM: Loyalty Program Engagement Attribute Mapping
 
 > These data mappings are for the Loyalty Program Engagement Attribute DLO found in the
   Loyalty Management bundle of the Salesforce CRM Connector for Data Cloud. An engagement attribute

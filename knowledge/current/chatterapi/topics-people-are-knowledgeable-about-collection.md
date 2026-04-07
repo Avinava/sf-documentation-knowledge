@@ -5,12 +5,10 @@ topic: topics-people-are-knowledgeable-about-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.370Z
+lastCollected: 2026-04-07T18:37:23.486Z
 estimatedTokens: 219
 keywords: [Topics, People, Knowledgeable, Collection, bodies]
 ---
-
-# Topics People Are Knowledgeable About Collection
 
 > A collection of topics people are knowledgeable about response
 bodies.

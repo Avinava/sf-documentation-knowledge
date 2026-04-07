@@ -5,12 +5,10 @@ topic: insurance-update-member-plans-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.230Z
+lastCollected: 2026-04-07T18:37:51.186Z
 estimatedTokens: 117
-keywords: [Insurance, Member, Plans, Input, representation, updating, associated, census]
+keywords: [Insurance, Member, Plans, updating, census]
 ---
-
-# Insurance Update Member Plans Input
 
 > Input representation for updating the plans that are associated with a census
     member.

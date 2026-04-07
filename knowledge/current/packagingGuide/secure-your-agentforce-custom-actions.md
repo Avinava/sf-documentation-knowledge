@@ -5,12 +5,10 @@ topic: secure-your-agentforce-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.325Z
+lastCollected: 2026-04-07T18:38:47.301Z
 estimatedTokens: 3781
-keywords: [Secure, Agentforce, Custom, Actions, enable, agents, carry, specialized, tasks, data, retrieval, integration, external, systems, take]
+keywords: [Logging, Secure, Agentforce, Actions, enable, agents, carry, specialized, tasks, retrieval, integration, external, systems, take, various, forms, including, autolaunched, flows, invocable, Apex, classes, prompt, templates, solution, includes, action, adhere, requirements, Classification, Authentication, Authorization, Generic, User, Inputs, Service, Generating, Content, Prompts, Generated, Safety, Restricted, Functionality, Third-Party, Integrations, Confirmation, Modification, Invocation]
 ---
-
-# Secure Your Agentforce Custom Actions
 
 > Agentforce custom actions enable agents to carry out specialized tasks like data
     retrieval or integration with external systems. These actions can take various forms, including

@@ -5,12 +5,10 @@ topic: carepreauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.771Z
+lastCollected: 2026-04-07T18:37:59.336Z
 estimatedTokens: 1234
-keywords: [CarePreauth, preauthorizations, care, under, member’s, plan, Calls, Associated, Objects]
+keywords: [CarePreauth, preauthorizations, care, under, member’s, plan]
 ---
-
-# CarePreauth
 
 > Represents the details of preauthorizations for care under a
 			member’s plan.

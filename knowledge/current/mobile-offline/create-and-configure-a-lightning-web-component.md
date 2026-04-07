@@ -5,12 +5,10 @@ topic: create-and-configure-a-lightning-web-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.939Z
+lastCollected: 2026-04-07T18:38:15.443Z
 estimatedTokens: 1925
-keywords: [Configure, Lightning, Web, Component, you’ll, basic, named, demoLWCAction, displays, “Hello, World!”, message, screen, Deploy, Salesforce]
+keywords: [Configure, Lightning, Web, you’ll, basic, named, demoLWCAction, displays, “Hello, World!”, message, screen, Deploy, Salesforce, Verify, Deployed, Org, Quick, Action, Add, Layout, Clear, Cached, Metadata, Run, Mobile, App]
 ---
-
-# Create and Configure a Lightning Web Component
 
 > In this section, you’ll create a basic component named demoLWCAction that displays a “Hello World!” message on the screen.
 

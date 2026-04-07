@@ -5,12 +5,10 @@ topic: caserelatedissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.664Z
+lastCollected: 2026-04-07T18:38:27.639Z
 estimatedTokens: 807
-keywords: [CaseRelatedIssue, acts, junction, customer, issue, Case, Incident, Problem, associated, service, failure, API, version, 53.0, later]
+keywords: [CaseRelatedIssue, acts, junction, customer, issue, Case, Incident, Problem, service, failure, API, 53.0]
 ---
-
-# CaseRelatedIssue
 
 > This object acts as a junction between a customer issue (Case) and the
          Incident or Problem that represents an associated service failure. This object is

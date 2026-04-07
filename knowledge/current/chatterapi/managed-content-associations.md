@@ -5,12 +5,10 @@ topic: managed-content-associations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.022Z
+lastCollected: 2026-04-07T18:37:20.190Z
 estimatedTokens: 118
-keywords: [Managed, Content, Associations, topics, associated]
+keywords: [Managed, Content, Associations, topics]
 ---
-
-# Managed Content Associations
 
 > Content topics associated with managed content.
 

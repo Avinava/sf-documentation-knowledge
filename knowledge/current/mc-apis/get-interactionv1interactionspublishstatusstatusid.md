@@ -5,12 +5,10 @@ topic: get-interactionv1interactionspublishstatusstatusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.150Z
+lastCollected: 2026-04-07T18:40:17.303Z
 estimatedTokens: 271
-keywords: [interaction, interactions, publishStatus, statusId, Checks, status, publication, **Overview**, Usage, Possible, Statuses, Journey, Builder]
+keywords: [interaction, interactions, publishStatus, statusId, Checks, status, publication, **Overview**, Possible, Statuses, Journey, Builder]
 ---
-
-# GET /interaction/v1/interactions/publishStatus/{statusId}
 
 > Checks the status of a publication.
 

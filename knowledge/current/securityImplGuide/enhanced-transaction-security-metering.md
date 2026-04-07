@@ -6,13 +6,10 @@ topic: enhanced-transaction-security-metering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.363Z
+lastCollected: 2026-04-07T18:39:22.253Z
 estimatedTokens: 534
-keywords: [Enhanced, Transaction, Security, Metering, uses, resource, help, prevent, malicious, unintentional, monopolization, shared, multi-tenant, platform, resources]
+keywords: [Enhanced, Transaction, Security, Metering, uses, resource, help, prevent, malicious, unintentional, monopolization, shared, multi-tenant, platform, resources, prevents, policy, evaluations, too, adversely, affecting, Salesforce, org, Bypass, Metering-Related, Blocking]
 ---
-
-# Enhanced
-  Transaction Security Metering
 
 > Transaction Security uses resource metering to help
    prevent malicious or unintentional monopolization of shared, multi-tenant platform resources.

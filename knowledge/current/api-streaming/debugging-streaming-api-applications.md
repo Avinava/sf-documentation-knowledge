@@ -5,12 +5,10 @@ topic: debugging-streaming-api-applications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:04.856Z
+lastCollected: 2026-04-07T18:36:51.152Z
 estimatedTokens: 242
-keywords: [Debugging, Streaming, API, Applications, able, requests, responses, debug, Because, stateful, proxy, tool, application, report, contents]
+keywords: [Debugging, Streaming, API, Applications, able, requests, responses, debug, Because, stateful, proxy, tool, application, report, contents, results, Burp]
 ---
-
-# Debugging Streaming API Applications
 
 > You must be able to see all of the requests and responses to debug Streaming API
       applications. Because Streaming API applications are stateful, you need to use a proxy tool to

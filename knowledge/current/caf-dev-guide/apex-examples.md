@@ -5,12 +5,10 @@ topic: apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.038Z
+lastCollected: 2026-04-07T18:37:04.739Z
 estimatedTokens: 1105
-keywords: [Apex, Examples, code, Custom, Address, record, data, Insert]
+keywords: [Apex, Examples, code, Address, record, Insert]
 ---
-
-# Apex Examples
 
 > Apex code examples for Custom Address Fields. The examples create a record with custom
     address data, update the custom address on an existing record, and delete a record that contains

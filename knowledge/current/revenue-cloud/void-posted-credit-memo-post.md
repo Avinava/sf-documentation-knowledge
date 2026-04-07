@@ -5,12 +5,10 @@ topic: void-posted-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:00.120Z
+lastCollected: 2026-04-07T18:35:45.118Z
 estimatedTokens: 230
 keywords: [Posted, Credit, Memo, POST, state]
 ---
-
-# Void Posted Credit Memo (POST)
 
 > Void a credit memo in posted state.
 

@@ -5,12 +5,10 @@ topic: multirootissuepolicyissuepolicyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.627Z
+lastCollected: 2026-04-07T18:37:49.478Z
 estimatedTokens: 250
-keywords: [MultiRootIssuePolicy, IssuePolicyInput, Asynchronously, multi-root, insurance, policy, along, child, policies, API, Version, Requires, Chatter]
+keywords: [MultiRootIssuePolicy, IssuePolicyInput, Asynchronously, multi-root, insurance, policy, along, child, policies, API, Requires, Chatter]
 ---
-
-# MultiRootIssuePolicy(IssuePolicyInput)
 
 > Asynchronously create a multi-root insurance policy along with its child
         policies.

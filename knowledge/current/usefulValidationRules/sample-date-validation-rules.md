@@ -5,12 +5,10 @@ topic: sample-date-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.476Z
+lastCollected: 2026-04-07T18:40:12.499Z
 estimatedTokens: 988
-keywords: [Sample, Date, Validation, Rules, Examples, how, validate, custom, weekday, Saturday, Sunday, current, month, year, Weekend]
+keywords: [Sample, Date, Validation, Examples, how, validate, weekday, Saturday, Sunday, current, month, year, Weekend, Day, Today, Cannot, Greater, End, Begin, Expiration, Close]
 ---
-
-# Sample Date Validation Rules
 
 > Examples for date validation rules. For example, how to validate that the value of a
   custom field is a weekday, a Saturday or Sunday, that a custom date field contains a date within

@@ -5,12 +5,10 @@ topic: impactstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.389Z
+lastCollected: 2026-04-07T18:38:22.387Z
 estimatedTokens: 838
-keywords: [ImpactStrategy, high-level, strategy, affect, change, individual, population, stakeholder, environment, API, version, 59.0, later, Calls, Special]
+keywords: [ImpactStrategy, high-level, strategy, affect, change, individual, population, stakeholder, environment, API, 59.0]
 ---
-
-# ImpactStrategy
 
 > Represents a high-level strategy to affect change in an individual,
          population, stakeholder, or the environment. This object is available in API version

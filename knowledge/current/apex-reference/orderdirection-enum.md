@@ -5,12 +5,10 @@ topic: orderdirection-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:27.198Z
+lastCollected: 2026-04-07T18:36:12.492Z
 estimatedTokens: 190
-keywords: [OrderDirection, direction, sorting, rows, column, Usage]
+keywords: [OrderDirection, direction, sorting, rows, column]
 ---
-
-# OrderDirection Enum
 
 > Specifies the direction for sorting rows based on column values.
 

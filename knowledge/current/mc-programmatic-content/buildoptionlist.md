@@ -5,12 +5,10 @@ topic: buildoptionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.612Z
+lastCollected: 2026-04-07T18:40:21.943Z
 estimatedTokens: 184
-keywords: [BuildOptionList, Function, Ordinal, Option, selected, Prese, **Overview**, **Syntax**, Usage]
+keywords: [BuildOptionList, Function, Ordinal, Option, selected, Prese, **Overview**, **Syntax**]
 ---
-
-# BuildOptionList
 
 > BuildOptionList(1, 2, 3)
 

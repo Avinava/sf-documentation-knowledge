@@ -5,12 +5,10 @@ topic: transfer-file-to-agent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.988Z
+lastCollected: 2026-04-07T18:40:28.119Z
 estimatedTokens: 597
 keywords: [Transfer, File, Agent, Give, users, ability, files, chat, they, share, their, issues]
 ---
-
-# Transfer File to Agent
 
 > Give users the ability to transfer files during a chat so they can share
     information about their issues.

@@ -5,12 +5,10 @@ topic: paymentrequestshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.610Z
+lastCollected: 2026-04-07T18:39:53.122Z
 estimatedTokens: 250
 keywords: [PaymentRequestShare, Sharing, PaymentRequest]
 ---
-
-# PaymentRequestShare
 
 > Sharing for PaymentRequest.
 

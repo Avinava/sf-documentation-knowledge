@@ -5,12 +5,10 @@ topic: apexinlineeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.537Z
+lastCollected: 2026-04-07T18:38:25.429Z
 estimatedTokens: 30
-keywords: [ApexInlineEventLog, reserved, future, API, version, 66.0, later]
+keywords: [ApexInlineEventLog, reserved, future, API, 66.0]
 ---
-
-# ApexInlineEventLog
 
 > This object is reserved for future use. This object is available
       in API version 66.0 and later.

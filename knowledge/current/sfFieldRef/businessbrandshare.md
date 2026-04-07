@@ -5,12 +5,10 @@ topic: businessbrandshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.373Z
+lastCollected: 2026-04-07T18:39:30.580Z
 estimatedTokens: 249
 keywords: [BusinessBrandShare, Sharing, BusinessBrand]
 ---
-
-# BusinessBrandShare
 
 > Sharing for BusinessBrand.
 

@@ -5,12 +5,10 @@ topic: gameparticipantreward
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.552Z
+lastCollected: 2026-04-07T18:39:42.196Z
 estimatedTokens: 364
 keywords: [GameParticipantReward, reward, that’s, provided, participant, they’ve, played, game]
 ---
-
-# GameParticipantReward
 
 > Represents the reward that’s provided to a participant after they’ve
          played a game.

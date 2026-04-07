@@ -5,12 +5,10 @@ topic: cancel-a-metadata-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.887Z
+lastCollected: 2026-04-07T18:40:07.830Z
 estimatedTokens: 206
 keywords: [Cancel, Metadata, Deployment, Salesforce, CLI, specify, wait, time, command]
 ---
-
-# Cancel a Metadata Deployment
 
 > You can cancel a metadata deployment from Salesforce CLI and specify a wait time for the
     command to complete.

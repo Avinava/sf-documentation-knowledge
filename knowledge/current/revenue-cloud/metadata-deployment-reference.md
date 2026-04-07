@@ -5,12 +5,10 @@ topic: metadata-deployment-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.011Z
+lastCollected: 2026-04-07T18:35:47.028Z
 estimatedTokens: 773
-keywords: [Metadata, Deployment, know, sequence, associated]
+keywords: [Metadata, Deployment, know, sequence]
 ---
-
-# Metadata Deployment Reference
 
 > Get to know the metadata deployment sequence and associated details.
 

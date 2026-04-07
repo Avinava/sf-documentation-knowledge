@@ -5,12 +5,10 @@ topic: knowledgekav
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.162Z
+lastCollected: 2026-04-07T18:37:54.470Z
 estimatedTokens: 2754
-keywords: [Knowledge__kav, access, concrete, Knowledge, article, version, API, 39.0, later, _kav, Calls, Special, Rules]
+keywords: [Knowledge__kav, concrete, Knowledge, article, API, 39.0, _kav]
 ---
-
-# Knowledge__kav
 
 > Provides access to the concrete object that represents a Knowledge article
       version. This object is available in API version 39.0 and later.

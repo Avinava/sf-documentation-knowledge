@@ -5,12 +5,10 @@ topic: skillrequirementhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.713Z
+lastCollected: 2026-04-07T18:40:02.398Z
 estimatedTokens: 265
-keywords: [SkillRequirementHistory, History, tracked, SkillRequirement]
+keywords: [SkillRequirementHistory, tracked, SkillRequirement]
 ---
-
-# SkillRequirementHistory
 
 > History for tracked fields of SkillRequirement.
 

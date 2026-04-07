@@ -5,12 +5,10 @@ topic: subscription-config
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.142Z
+lastCollected: 2026-04-07T18:37:23.260Z
 estimatedTokens: 136
 keywords: [Subscription, Config, Commerce, configuration, settings, application, context]
 ---
-
-# Subscription Config
 
 > Commerce subscription configuration settings for the application context.
 

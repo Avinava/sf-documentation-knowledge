@@ -5,12 +5,10 @@ topic: anatomy-of-the-options-base-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.273Z
+lastCollected: 2026-04-07T18:40:15.341Z
 estimatedTokens: 1761
-keywords: [Anatomy, Options, Base, calls, asynchronous, include, influence, processing, ConversationID, CorrelationID, QueuePriority, Items]
+keywords: [Anatomy, Options, Base, asynchronous, include, influence, processing, ConversationID, CorrelationID, QueuePriority, Items]
 ---
-
-# Anatomy of the Options Base Object
 
 > To make existing calls asynchronous, include the Options base object parameters that influence asynchronous processing.
 

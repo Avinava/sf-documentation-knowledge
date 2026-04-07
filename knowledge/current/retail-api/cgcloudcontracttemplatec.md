@@ -5,12 +5,10 @@ topic: cgcloudcontracttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.804Z
+lastCollected: 2026-04-07T18:39:13.220Z
 estimatedTokens: 2131
-keywords: [cgcloud__Contract_Template__c, Contract, Tactic, Templates, API, version, 54.0, later, cgcloud, _Contract, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Contract_Template__c, Contract, Tactic, Templates, API, 54.0, cgcloud, _Contract, _Template]
 ---
-
-# cgcloud__Contract_Template__c
 
 > Contract and Tactic Templates object. This object is available
       in API version 54.0 and later.

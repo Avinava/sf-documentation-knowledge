@@ -5,12 +5,10 @@ topic: expand-data-sources-for-return-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.672Z
+lastCollected: 2026-04-07T18:38:45.465Z
 estimatedTokens: 783
-keywords: [Expand, Data, Sources, Insights, Extensions, mechanism, Apex, customize, functionality, powers, B2B, B2C, Commerce, storefronts, custom]
+keywords: [Expand, Sources, Insights, Extensions, mechanism, Apex, customize, functionality, powers, B2B, B2C, Commerce, storefronts, implements, extension, provider, extend, override, Product, API, Order, Management]
 ---
-
-# Expand Data Sources for Return Insights
 
 > Extensions are a mechanism for using Apex to customize the functionality that powers B2B
   and B2C Commerce storefronts. The custom Apex class that implements an extension is called an

@@ -5,12 +5,10 @@ topic: field-sets-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.198Z
+lastCollected: 2026-04-07T18:38:20.956Z
 estimatedTokens: 118
-keywords: [Output, representation, benefit, disbursement]
+keywords: [benefit, disbursement]
 ---
-
-# Field Sets Output
 
 > Output representation of field sets of a benefit disbursement object.
 

@@ -5,13 +5,11 @@ topic: inboundemailauthenticationresultfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.930Z
+lastCollected: 2026-04-07T18:36:00.215Z
 estimatedTokens: 661
 namespace: Messaging
-keywords: [InboundEmail.AuthenticationResultField, data, authentication, result, inbound, emails]
+keywords: [InboundEmail.AuthenticationResultField, authentication, result, inbound, emails]
 ---
-
-# InboundEmail.AuthenticationResultField Class
 
 > Contains field data from the authentication result response for inbound
     emails.

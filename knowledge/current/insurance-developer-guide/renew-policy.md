@@ -5,12 +5,10 @@ topic: renew-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.125Z
+lastCollected: 2026-04-07T18:37:53.405Z
 estimatedTokens: 1059
-keywords: [Renew, Policy, renewal, process, extending, insurance, coverage, additional, term, typically, current, approaches, effective-to, date, key, extends, creating, new, record, journey]
+keywords: [Renew, Policy, renewal, process, extending, insurance, coverage, additional, term, typically, current, approaches, effective-to, date, key, part, renewed, creates, new, record, extends, creating, journey, renewing, Salesforce, quoting, relying, Rating, API, pricing]
 ---
-
-# Renew Policy
 
 > Policy renewal is the process of extending insurance coverage for an additional policy
     term, typically as the current policy approaches its effective-to date. A key part of renewal is

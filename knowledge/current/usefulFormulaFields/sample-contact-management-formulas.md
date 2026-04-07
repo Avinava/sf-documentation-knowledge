@@ -5,12 +5,10 @@ topic: sample-contact-management-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.332Z
+lastCollected: 2026-04-07T18:40:12.348Z
 estimatedTokens: 937
-keywords: [Sample, Contact, Management, Formulas, manage, Contact's, Account, Discount, Percent, Phone, Rating, Website, LinkedIn™, Profile, Identification]
+keywords: [Sample, Contact, Management, Formulas, manage, Contact's, Account, Discount, Percent, Phone, Rating, Website, LinkedIn™, Profile, Identification, Numbering, Preferred, Priority, Yahoo, Dynamic, Address, Formatting, Country, Code, Unformatted, Number]
 ---
-
-# Sample Contact Management Formulas
 
 > Use these formulas to manage contact details.
 

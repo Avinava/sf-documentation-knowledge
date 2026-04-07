@@ -5,12 +5,10 @@ topic: validation-rules-used-at-save-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.694Z
+lastCollected: 2026-04-07T18:38:05.917Z
 estimatedTokens: 377
-keywords: [Validation, Rules, Save, Time, validations, Aura, component, code, Lightning, Platform]
+keywords: [Validation, Save, Time, validations, Aura, code, Lightning, Platform]
 ---
-
-# Validation Rules Used at Save Time
 
 > The following rules are used for validations that are done when you save your Aura
     component code.

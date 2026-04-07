@@ -5,12 +5,10 @@ topic: error-warning-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.782Z
+lastCollected: 2026-04-07T18:35:45.780Z
 estimatedTokens: 132
-keywords: [Error, Output, representation, individual, message, associated, record]
+keywords: [Error, individual, message, record]
 ---
-
-# Error Warning Details
 
 > Output representation of the individual warning or error message with associated record details.
 

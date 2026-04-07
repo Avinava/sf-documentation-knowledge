@@ -5,12 +5,10 @@ topic: what-to-test-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:33.430Z
+lastCollected: 2026-04-07T18:36:18.658Z
 estimatedTokens: 351
 keywords: [Test, Apex, Conditional, ternary, operators, considered, executed, unless, positive, negative, branches]
 ---
-
-# What to Test in Apex
 
 > Conditional and ternary operators are not considered executed unless both the positive
     and negative branches are executed.

@@ -5,12 +5,10 @@ topic: fallback-routing-in-pre-chat-forms
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:15.975Z
+lastCollected: 2026-04-07T18:38:06.218Z
 estimatedTokens: 543
-keywords: [Fallback, Routing, Pre-Chat, Forms, rules, case, agent, direct-to-agent, isn’t, chat, received]
+keywords: [Fallback, Routing, Pre-Chat, Forms, case, agent, direct-to-agent, isn’t, chat, received]
 ---
-
-# Fallback Routing in Pre-Chat Forms
 
 > Set fallback routing rules in pre-chat forms in case the agent specified for
         direct-to-agent routing isn’t available when a chat is received.

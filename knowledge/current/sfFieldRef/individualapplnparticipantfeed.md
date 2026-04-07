@@ -5,12 +5,10 @@ topic: individualapplnparticipantfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.108Z
+lastCollected: 2026-04-07T18:39:44.681Z
 estimatedTokens: 394
-keywords: [IndividualApplnParticipantFeed, Feed, tracking, IndividualApplnParticipant]
+keywords: [IndividualApplnParticipantFeed, IndividualApplnParticipant]
 ---
-
-# IndividualApplnParticipantFeed
 
 > Feed tracking for IndividualApplnParticipant.
 

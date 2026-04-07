@@ -5,12 +5,10 @@ topic: unified-object-search-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.026Z
+lastCollected: 2026-04-07T18:39:03.254Z
 estimatedTokens: 330
-keywords: [Unified, Search, Data, Output, representation]
+keywords: [Unified, Search]
 ---
-
-# Unified Object Search Data
 
 > Output representation of the unified object search
     data.

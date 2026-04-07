@@ -5,12 +5,10 @@ topic: slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.033Z
+lastCollected: 2026-04-07T18:40:22.425Z
 estimatedTokens: 194
-keywords: [Slots, Template, Language, containers, sections, gears, block, tags, impact, any, data, context, Output]
+keywords: [Slots, Template, Language, containers, sections, gears, block, tags, impact, any, context]
 ---
-
-# Slots
 
 > Use slots within Guide Template Language as containers for sections or gears. Slots use block tags and do not impact any data context.
 

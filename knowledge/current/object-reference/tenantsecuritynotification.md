@@ -5,12 +5,10 @@ topic: tenantsecuritynotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.765Z
+lastCollected: 2026-04-07T18:38:42.499Z
 estimatedTokens: 1240
-keywords: [TenantSecurityNotification, Stores, notifications, were, triggered, Security, Center, function, Alerts, feature, Changes, subscribers, API, version, 54.0]
+keywords: [TenantSecurityNotification, Stores, notifications, were, triggered, Security, Center, function, Alerts, feature, Changes, subscribers, API, 54.0]
 ---
-
-# TenantSecurityNotification
 
 > Stores information about notifications that were triggered in
          Security Center as a function of the Alerts feature. For more information, see Create Alerts for Security Changes. This

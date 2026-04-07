@@ -5,12 +5,10 @@ topic: appexchange-app-analytics-developer-cookbook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.188Z
+lastCollected: 2026-04-07T18:38:54.592Z
 estimatedTokens: 583
-keywords: [AppExchange, App, Analytics, Developer, Cookbook, Delve, deeper, managed, package, usage, data, creating, key, performance, indicators]
+keywords: [AppExchange, App, Analytics, Developer, Cookbook, Delve, deeper, managed, package, creating, key, performance, indicators, KPIs, prerequisites, retrieve, prepare, CRM, environment, Finally, build, recipes]
 ---
-
-# AppExchange App Analytics Developer Cookbook
 
 > Delve deeper into your AppExchange App Analytics managed package usage data by creating
   key performance indicators (KPIs). First, complete some prerequisites and retrieve your App

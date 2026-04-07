@@ -5,12 +5,10 @@ topic: does-appexchange-checkout-support-multiple-currencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.990Z
+lastCollected: 2026-04-07T18:38:45.822Z
 estimatedTokens: 193
-keywords: [AppExchange, Checkout, support, multiple, currencies, Yes, offer, another, currency, listing, Partner, Console, add, plan, customer]
+keywords: [AppExchange, Checkout, support, multiple, currencies, Yes, offer, another, currency, listing, Partner, Console, add, plan, customer, purchases, solution, charges, Stripe, transfers, payment, it's, converted, bank, account]
 ---
-
-# Does AppExchange Checkout support multiple currencies?
 
 > Yes. To offer another currency on your listing, go to the Partner Console and add
                 the plan to your listing. When a customer purchases your solution, Checkout charges

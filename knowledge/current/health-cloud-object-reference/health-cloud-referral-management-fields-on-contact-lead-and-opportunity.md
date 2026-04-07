@@ -5,12 +5,10 @@ topic: health-cloud-referral-management-fields-on-contact-lead-and-opportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.281Z
+lastCollected: 2026-04-07T18:37:43.448Z
 estimatedTokens: 547
-keywords: [Health, Cloud, Referral, Management, Contact, Lead, Opportunity, Standard, custom, extend, objects, represent]
+keywords: [Contact, Lead, Opportunity, Health, Cloud, Referral, Management, Standard, extend, represent]
 ---
-
-# Health Cloud Referral Management Fields on Contact, Lead, and Opportunity
 
 > Standard and custom fields extend the Contact, Lead, and Opportunity objects for use in Health Cloud to
   represent information about referral management.

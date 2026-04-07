@@ -5,12 +5,10 @@ topic: serviceaisetupfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.141Z
+lastCollected: 2026-04-07T18:36:29.563Z
 estimatedTokens: 537
-keywords: [ServiceAISetupField, cases, knowledge, articles, Einstein, uses, identify, relevant, Article, Recommendations, extends, Metadata, inherits, fullName, File]
+keywords: [ServiceAISetupField, cases, knowledge, articles, Einstein, uses, identify, relevant, Article, Recommendations, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# ServiceAISetupField
 
 > Represents a field on cases or knowledge articles
     that Einstein uses to identify relevant articles in Einstein Article Recommendations. This type extends 

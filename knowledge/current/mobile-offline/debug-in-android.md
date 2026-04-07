@@ -5,12 +5,10 @@ topic: debug-in-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.557Z
+lastCollected: 2026-04-07T18:38:15.039Z
 estimatedTokens: 456
 keywords: [Debug, Android, Follow, steps, attach, Chrome, DevTools, browser, webview, Test, Harness, app, Connect, desktop, WebView, Service, mobile, LWC, running]
 ---
-
-# Debug in Android
 
 > Connect Chrome DevTools on your desktop to the WebView in the Field Service mobile app
     where your LWC is running.

@@ -5,13 +5,11 @@ topic: deletedrecord-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.240Z
+lastCollected: 2026-04-07T18:36:02.455Z
 estimatedTokens: 393
 namespace: Database
-keywords: [DeletedRecord, deleted, record, Usage, getDeletedDate, getId]
+keywords: [DeletedRecord, deleted, record, getDeletedDate, getId]
 ---
-
-# DeletedRecord Class
 
 > Contains information about a deleted record.
 

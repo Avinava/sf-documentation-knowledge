@@ -5,12 +5,10 @@ topic: vpl-updatebasketurloncartobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.317Z
+lastCollected: 2026-04-07T18:38:11.646Z
 estimatedTokens: 189
-keywords: [VPL-UpdateBasketUrlOnCartObject, Omnistudio, Data, Mapper, loads, updates, basket, key, cart, URL, objects, IDs, records, Sample, Input]
+keywords: [VPL-UpdateBasketUrlOnCartObject, Omnistudio, Mapper, loads, updates, basket, key, cart, URL, IDs, records, Sample]
 ---
-
-# VPL-UpdateBasketUrlOnCartObject
 
 > This Omnistudio Data Mapper loads or updates the basket key
     or cart URL on cart objects, and returns the IDs of the updates records.

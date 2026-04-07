@@ -5,12 +5,10 @@ topic: apexmilestonetracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.987Z
+lastCollected: 2026-04-07T18:38:50.231Z
 estimatedTokens: 163
-keywords: [apex, milestoneTracker, Displays, milestone, tracker, Attributes]
+keywords: [Attributes, apex, milestoneTracker, Displays, milestone, tracker]
 ---
-
-# apex:milestoneTracker
 
 > Displays the milestone tracker.
 

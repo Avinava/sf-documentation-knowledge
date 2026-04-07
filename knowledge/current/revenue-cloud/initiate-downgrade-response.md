@@ -5,12 +5,10 @@ topic: initiate-downgrade-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.910Z
+lastCollected: 2026-04-07T18:35:45.908Z
 estimatedTokens: 96
-keywords: [Initiate, Downgrade, Output, representation, action]
+keywords: [Initiate, Downgrade, action]
 ---
-
-# Initiate Downgrade Response
 
 > Output representation of the request to initiate a downgrade action.
 

@@ -5,12 +5,10 @@ topic: invoice-run-recovery-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.899Z
+lastCollected: 2026-04-07T18:35:44.918Z
 estimatedTokens: 196
-keywords: [Invoice, Run, Recovery, POST, Recover, records, associated, failed, billing, schedules, remain, Processing, Progress, Error, status]
+keywords: [Invoice, Run, Recovery, POST, Recover, records, failed, billing, schedules, remain, Processing, Progress, Error, status]
 ---
-
-# Invoice Run Recovery (POST)
 
 > Recover records associated with a failed invoice run. Recovery is
       required only when billing schedules remain in the Processing, Void In Progress, or Error status.

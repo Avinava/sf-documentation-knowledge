@@ -5,12 +5,10 @@ topic: findorcreatesavetotranscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.816Z
+lastCollected: 2026-04-07T18:38:06.051Z
 estimatedTokens: 192
-keywords: [findOrCreate.saveToTranscript, save, record, chat, transcript, associated, Usage]
+keywords: [findOrCreate.saveToTranscript, save, record, chat, transcript]
 ---
-
-# findOrCreate.saveToTranscript
 
 > Use the findOrCreate.saveToTranscript method to find or create a record and save it to
         the chat transcript associated with the chat.

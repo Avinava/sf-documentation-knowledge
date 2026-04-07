@@ -5,12 +5,10 @@ topic: ocrtemplatesampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.023Z
+lastCollected: 2026-04-07T18:39:04.113Z
 estimatedTokens: 216
-keywords: [OcrTemplateSampleDocument, relationship, OCR, template, sample, document, API, version, 55.0, later, Calls, SOAP, REST, Special, Access]
+keywords: [OcrTemplateSampleDocument, relationship, OCR, template, sample, document, API, 55.0, SOAP, REST]
 ---
-
-# OcrTemplateSampleDocument
 
 > Represents a relationship between an OCR template and an OCR sample document. This
         object is available in API version 55.0 and later.

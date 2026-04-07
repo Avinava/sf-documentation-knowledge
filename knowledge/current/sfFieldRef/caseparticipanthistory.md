@@ -5,12 +5,10 @@ topic: caseparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.984Z
+lastCollected: 2026-04-07T18:39:33.399Z
 estimatedTokens: 263
-keywords: [CaseParticipantHistory, History, tracked, CaseParticipant]
+keywords: [CaseParticipantHistory, tracked, CaseParticipant]
 ---
-
-# CaseParticipantHistory
 
 > History for tracked fields of CaseParticipant.
 

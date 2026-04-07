@@ -5,12 +5,10 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:01.242Z
+lastCollected: 2026-04-07T18:36:47.116Z
 estimatedTokens: 704
-keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, API, version, 46.0, later, SOAP]
+keywords: [TimeSheetTemplate, TimeSheetTemplateAssignment, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, Limitations, API, 46.0, SOAP, REST, HTTP]
 ---
-
-# TimeSheetTemplate
 
 > Represents a template for creating time sheets in Field
         Service. Available in API version 46.0 and later.

@@ -5,12 +5,10 @@ topic: annualemssnrdctntarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.813Z
+lastCollected: 2026-04-07T18:39:25.784Z
 estimatedTokens: 487
 keywords: [AnnualEmssnRdctnTarget, emissions, reduction, target, company, particular, year]
 ---
-
-# AnnualEmssnRdctnTarget
 
 > Represents information about the emissions reduction target set by a company for a particular year.
 

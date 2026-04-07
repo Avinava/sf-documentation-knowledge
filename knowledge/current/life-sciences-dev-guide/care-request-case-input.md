@@ -5,12 +5,10 @@ topic: care-request-case-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.508Z
+lastCollected: 2026-04-07T18:37:54.829Z
 estimatedTokens: 466
-keywords: [Care, Case, Input]
+keywords: [Care, Case]
 ---
-
-# Care Request Case Input
 
 > Case related to the care request.
 

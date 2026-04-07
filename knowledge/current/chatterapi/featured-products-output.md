@@ -5,12 +5,10 @@ topic: featured-products-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.865Z
+lastCollected: 2026-04-07T18:37:18.964Z
 estimatedTokens: 247
-keywords: [Featured, Products, Output, product]
+keywords: [Featured, Products, product]
 ---
-
-# Featured Products Output
 
 > Details of featured products for a specified product.
 

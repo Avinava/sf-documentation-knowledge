@@ -5,12 +5,10 @@ topic: enable-app-analytics-on-your-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.794Z
+lastCollected: 2026-04-07T18:38:53.093Z
 estimatedTokens: 340
-keywords: [Enable, App, Analytics, First-Generation, Managed, Package, Activate, AppExchange, 1GP, access, usage, logs, subscriber, snapshots, summaries]
+keywords: [Enable, App, Analytics, First-Generation, Managed, Package, Activate, AppExchange, 1GP, logs, subscriber, snapshots, summaries]
 ---
-
-# Enable App Analytics on Your First-Generation Managed Package
 
 > Activate AppExchange App Analytics on your first-generation (1GP) managed package to
   access AppExchange App Analytics package usage logs and subscriber snapshots. Package usage

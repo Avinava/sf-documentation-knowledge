@@ -5,12 +5,10 @@ topic: moderate-feed-items-with-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.439Z
+lastCollected: 2026-04-07T18:36:17.669Z
 estimatedTokens: 276
-keywords: [Moderate, Feed, Items, Triggers, Write, trigger, FeedItem, automate, moderation, posts, org, Experience, Cloud, site, ensure]
+keywords: [Moderate, Items, Triggers, Write, trigger, FeedItem, automate, moderation, posts, org, Experience, Cloud, site, ensure, conform, company’s, communication, policies, don’t, contain, unwanted, words, phrases]
 ---
-
-# Moderate Feed Items with Triggers
 
 > Write a trigger for FeedItem to automate the moderation of posts in
       an org or Experience Cloud site. Use triggers to ensure that posts conform to your company’s

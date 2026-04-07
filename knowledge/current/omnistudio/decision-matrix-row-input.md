@@ -5,12 +5,10 @@ topic: decision-matrix-row-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.199Z
+lastCollected: 2026-04-07T18:36:36.752Z
 estimatedTokens: 206
-keywords: [Decision, Matrix, Row, Input, representation, add, rows, version]
+keywords: [Decision, Matrix, Row, add, rows]
 ---
-
-# Decision Matrix Row Input
 
 > Input representation of the information required to add, update, or
       delete rows in a decision matrix version.

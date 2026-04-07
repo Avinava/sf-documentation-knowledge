@@ -5,12 +5,10 @@ topic: launch-channel-order-app-guided-onboarding
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.560Z
+lastCollected: 2026-04-07T18:38:46.428Z
 estimatedTokens: 273
-keywords: [Launch, Channel, Order, App, Guided, Onboarding, COA, setup, tasks, efficiently, in-app, experience, walks, assigning, permission]
+keywords: [Launch, Channel, Order, App, Guided, Onboarding, COA, setup, tasks, efficiently, in-app, experience, walks, assigning, permission, team, accepting, email, service, connecting, Salesforce, Follow, steps, start, pick, left, off]
 ---
-
-# Launch Channel Order App Guided Onboarding
 
 > Complete Channel Order App (COA) setup tasks efficiently using the in-app guided
         onboarding experience. The onboarding experience walks you through assigning permission sets

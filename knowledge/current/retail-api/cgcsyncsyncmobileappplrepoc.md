@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappplrepoc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.106Z
+lastCollected: 2026-04-07T18:39:12.565Z
 estimatedTokens: 908
-keywords: [cgc_sync__Sync_Mobile_App_PL_Repo__c, repository, dropdown, boxes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _PL]
+keywords: [cgc_sync__Sync_Mobile_App_PL_Repo__c, repository, dropdown, boxes, mobile, app, API, 53.0, cgc, _sync, _Mobile, _App, _PL, _Repo]
 ---
-
-# cgc_sync__Sync_Mobile_App_PL_Repo__c
 
 > Represents the repository of dropdown boxes in a mobile
          app.

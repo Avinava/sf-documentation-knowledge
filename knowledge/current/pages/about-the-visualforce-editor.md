@@ -5,12 +5,10 @@ topic: about-the-visualforce-editor
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.179Z
+lastCollected: 2026-04-07T18:38:52.486Z
 estimatedTokens: 798
 keywords: [Visualforce, Editor, editing, pages, development, mode, footer, Setup, functionality]
 ---
-
-# About the Visualforce Editor
 
 > When editing Visualforce pages through the development mode footer or from Setup, an editor is
    available with the following functionality:

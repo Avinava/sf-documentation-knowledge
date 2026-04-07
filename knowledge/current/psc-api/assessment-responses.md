@@ -5,12 +5,10 @@ topic: assessment-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.893Z
+lastCollected: 2026-04-07T18:39:02.081Z
 estimatedTokens: 331
 keywords: [Assessment, Responses, Save, OmniScript, built, Questions, app]
 ---
-
-# Assessment Responses
 
 > Save assessment responses from an OmniScript built with the Assessment Questions
     app.

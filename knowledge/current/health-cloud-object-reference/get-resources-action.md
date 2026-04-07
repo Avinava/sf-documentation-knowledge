@@ -5,12 +5,10 @@ topic: get-resources-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.604Z
+lastCollected: 2026-04-07T18:37:39.548Z
 estimatedTokens: 506
-keywords: [Resources, Action, Search, healthcare, providers, medical, assets, criteria, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Resources, Action, Search, healthcare, providers, medical, assets, criteria, REST, HTTP]
 ---
-
-# Get Resources Action
 
 > Search for available resources, such as healthcare providers or
       medical assets, based on specified search criteria.

@@ -5,12 +5,10 @@ topic: learn-lightning-web-components-with-trailhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.818Z
+lastCollected: 2026-04-07T18:38:15.306Z
 estimatedTokens: 1060
-keywords: [Lightning, Web, Components, Trailhead, you’re, already, experienced, LWC, developer, best, way, extensive, collection, lessons, projects]
+keywords: [Lightning, Web, Trailhead, you’re, already, experienced, LWC, developer, best, way, extensive, collection, lessons, projects, Comprehensive, Trails, Essential, Modules, Focused, MOAR]
 ---
-
-# Learn Lightning Web Components with Trailhead
 
 > If you’re not already an experienced LWC developer, the best way to learn Lightning web
   components is with the extensive collection of lessons and projects on Trailhead.

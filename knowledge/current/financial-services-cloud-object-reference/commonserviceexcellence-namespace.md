@@ -5,13 +5,11 @@ topic: commonserviceexcellence-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.929Z
+lastCollected: 2026-04-07T18:37:34.453Z
 estimatedTokens: 172
 namespace: The
 keywords: [commonserviceexcellence, classes, financial, account, FlexCards]
 ---
-
-# commonserviceexcellence Namespace
 
 > The commonserviceexcellence namespace provides
     classes used in financial account FlexCards.

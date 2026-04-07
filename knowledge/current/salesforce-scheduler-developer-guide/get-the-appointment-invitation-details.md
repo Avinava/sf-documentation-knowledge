@@ -5,12 +5,10 @@ topic: get-the-appointment-invitation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.283Z
+lastCollected: 2026-04-07T18:39:21.092Z
 estimatedTokens: 459
-keywords: [Appointment, Invitation, users, booking, appointments, Query, run, Salesforce, Language, SOQL, AppointmentInvitation, retrieve, topic, work, group]
+keywords: [Appointment, Invitation, users, booking, appointments, Query, run, Salesforce, Language, SOQL, AppointmentInvitation, retrieve, topic, work, group, service, territory, availability, start, date, end]
 ---
-
-# Get the Appointment Invitation Details
 
 > An appointment invitation has information that users can use for
       booking appointments. Use the Query() request to run

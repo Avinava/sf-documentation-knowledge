@@ -5,12 +5,10 @@ topic: encode-with-customer-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.024Z
+lastCollected: 2026-04-07T18:40:21.305Z
 estimatedTokens: 972
-keywords: [Encode, Customer, Key, Convert, Salt, keys, hexidecimal, e.g, Hello, world, becomes, 0x48656c6c6f20776f726c64, save, encryption, unix-like]
+keywords: [Encode, Customer, Key, Convert, Salt, keys, hexidecimal, e.g, Hello, world, becomes, 0x48656c6c6f20776f726c64, save, encryption, unix-like, systems, pipe, command, xxd, add, leading, How, JWT, Activity, Decode, Sample, Journey, Items]
 ---
-
-# Encode with Customer Key
 
 > Convert Salt keys to hexidecimal in the 0x... format (e.g. Hello world becomes 0x48656c6c6f20776f726c64), and save that value in the Salt encryption field. On unix-like systems you can pipe your value into the command xxd -p then just add the leading 0x.
 

@@ -5,12 +5,10 @@ topic: territory-management-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:30.629Z
+lastCollected: 2026-04-07T18:36:15.865Z
 estimatedTokens: 287
-keywords: [Territory, Management, 2.0, trigger, support, Territory2, UserTerritory2Association, standard, objects, automate, actions, processes, changes, records, Sample]
+keywords: [Territory, Management, 2.0, trigger, support, Territory2, UserTerritory2Association, standard, automate, actions, processes, changes, records, Sample]
 ---
-
-# Territory Management 2.0
 
 > With trigger support for the Territory2 and UserTerritory2Association standard objects,
         you can automate actions and processes related to changes in these territory management

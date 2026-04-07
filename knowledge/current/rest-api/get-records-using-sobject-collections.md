@@ -5,12 +5,10 @@ topic: get-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.337Z
+lastCollected: 2026-04-07T18:36:20.565Z
 estimatedTokens: 459
 keywords: [Records, sObject, Collections, sObjects, individual, number, matches, IDs, passed]
 ---
-
-# Get Records Using sObject Collections
 
 > Use a GET request with sObject Collections to get one or more records of the same object
       type. A list of sObjects that represents the individual records of the specified type is

@@ -5,12 +5,10 @@ topic: providervisitproddiscussion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.672Z
+lastCollected: 2026-04-07T18:38:01.541Z
 estimatedTokens: 990
-keywords: [ProviderVisitProdDiscussion, any, additional, notes, regarding, products, discussed, visit, health, care, provider, API, version, 65.0, later]
+keywords: [ProviderVisitProdDiscussion, any, additional, notes, regarding, products, discussed, visit, health, care, provider, API, 65.0]
 ---
-
-# ProviderVisitProdDiscussion
 
 > Represents any additional notes or information regarding the products
          discussed during a visit to a health care provider. This object is available in API version 65.0 and

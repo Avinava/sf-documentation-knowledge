@@ -5,12 +5,10 @@ topic: pltnimpactriskoppsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.570Z
+lastCollected: 2026-04-07T18:38:19.246Z
 estimatedTokens: 2286
-keywords: [PltnImpactRiskOppSummary, pollution, impacts, risks, opportunities, company, discloses, part, ESRS, Water, marine, resources, API, version, 65.0]
+keywords: [PltnImpactRiskOppSummary, pollution, impacts, risks, opportunities, company, discloses, part, ESRS, Water, marine, resources, API, 65.0]
 ---
-
-# PltnImpactRiskOppSummary
 
 > Represents the pollution impacts, risks, and opportunities that a company
          discloses as part of ESRS E3 - Water and marine resources. This object is available in

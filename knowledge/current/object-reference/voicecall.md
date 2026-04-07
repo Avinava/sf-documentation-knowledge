@@ -5,12 +5,10 @@ topic: voicecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.318Z
+lastCollected: 2026-04-07T18:38:44.138Z
 estimatedTokens: 4944
-keywords: [VoiceCall, call, Service, Cloud, Voice, Sales, Dialer, connectors, phone, over, Internet, Protocol, VoIP, API, version]
+keywords: [VoiceCall, call, Service, Cloud, Voice, Sales, Dialer, connectors, phone, over, Internet, Protocol, VoIP, API, 40.0]
 ---
-
-# VoiceCall
 
 > Represents a call in Service Cloud Voice, Sales Dialer, or other
 			supported voice connectors. For Service Cloud Voice, this can be a phone or Voice over

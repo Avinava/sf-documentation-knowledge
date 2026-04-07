@@ -5,12 +5,10 @@ topic: calculation-procedure-version-definition-save-as-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.889Z
+lastCollected: 2026-04-07T18:36:38.542Z
 estimatedTokens: 769
-keywords: [Calculation, Procedure, Version, Definition, Save, expression, known, record, new]
+keywords: [Calculation, Procedure, Definition, Save, expression, known, record, new]
 ---
-
-# Calculation Procedure Version Definition (Save As, Update)
 
 > Update the details of an expression set (also known as calculation
       procedure) version record. Save an expression set version record as a new expression set

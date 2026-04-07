@@ -5,12 +5,10 @@ topic: documenttemplateconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.725Z
+lastCollected: 2026-04-07T18:37:25.647Z
 estimatedTokens: 948
-keywords: [DocumentTemplateConfig, shadow, supports, migration, document, templates, environments, Developer, references, UniqueName, template, retrieve, internal, API, version]
+keywords: [DocumentTemplateConfig, shadow, supports, migration, document, templates, environments, Developer, references, UniqueName, template, retrieve, internal, API, 58.0]
 ---
-
-# DocumentTemplateConfig
 
 > Represents the shadow object that supports migration of document templates
          between environments. The Developer field in the shadow object references the UniqueName

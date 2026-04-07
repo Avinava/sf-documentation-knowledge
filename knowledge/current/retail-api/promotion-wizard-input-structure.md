@@ -5,12 +5,10 @@ topic: promotion-wizard-input-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.035Z
+lastCollected: 2026-04-07T18:39:10.493Z
 estimatedTokens: 684
-keywords: [Promotion, Wizard, Input, Structure, document, SmartUI, generates, initializing, new, metadata-driven, extracts, user, clicked, launching, order]
+keywords: [Promotion, Wizard, Structure, document, SmartUI, generates, initializing, new, metadata-driven, extracts, user, clicked, launching, order, provide, much, possible, sensible, defaults, Sample, Copy, Derive, MetadataWizard]
 ---
-
-# Promotion Wizard Input Structure
 
 > This document describes the input that SmartUI generates when
       initializing the new metadata-driven promotion wizard. SmartUI extracts information on where

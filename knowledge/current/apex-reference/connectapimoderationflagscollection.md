@@ -5,12 +5,10 @@ topic: connectapimoderationflagscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.869Z
+lastCollected: 2026-04-07T18:36:10.169Z
 estimatedTokens: 229
-keywords: [ConnectApi.ModerationFlagsCollection, collection, flags, feed, item, comment, file]
+keywords: [ConnectApi.ModerationFlagsCollection, collection, flags, item, comment, file]
 ---
-
-# ConnectApi.ModerationFlagsCollection
 
 > A collection of flags on a feed item, comment, or
     file.

@@ -5,12 +5,10 @@ topic: scratch-org-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:13.485Z
+lastCollected: 2026-04-07T18:40:08.438Z
 estimatedTokens: 1347
-keywords: [Scratch, Org, Users, includes, administrator, user, admin, typically, adequate, testing, needs, sometimes, test, different, profiles]
+keywords: [Scratch, Org, Users, includes, administrator, user, admin, typically, adequate, testing, needs, sometimes, test, different, profiles, permission, Limits, Defaults, Considerations, How, Log]
 ---
-
-# Scratch Org Users
 
 > A scratch org includes one administrator user by default. The admin user is typically
       adequate for all your testing needs. But sometimes you need other users to test with different

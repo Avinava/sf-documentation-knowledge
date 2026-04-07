@@ -5,12 +5,10 @@ topic: asset-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.178Z
+lastCollected: 2026-04-07T18:36:53.533Z
 estimatedTokens: 3026
 keywords: [asset, Commands, Deprecated, Manage, Analytics, publishing, publisher, Examples, Command, deleteall]
 ---
-
-# asset Commands (Deprecated)
 
 > Manage Analytics asset publishing.
 

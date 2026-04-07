@@ -5,12 +5,10 @@ topic: 24000-24999-sendclassification-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.665Z
+lastCollected: 2026-04-07T18:40:14.683Z
 estimatedTokens: 89
 keywords: [24000-24999, SendClassification]
 ---
-
-# 24000-24999 SendClassification Object
 
 # 24000-24999 SendClassification Object
 

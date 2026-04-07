@@ -5,12 +5,10 @@ topic: carebnftvrfyrqststschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.147Z
+lastCollected: 2026-04-07T18:37:45.613Z
 estimatedTokens: 209
-keywords: [CareBnftVrfyRqstStsChgEvent, Notifies, subscribers, changes, status, care, benefit, verify, API, version, 65.0, later, Calls, Special, Access]
+keywords: [CareBnftVrfyRqstStsChgEvent, Notifies, subscribers, changes, status, care, benefit, verify, API, 65.0]
 ---
-
-# CareBnftVrfyRqstStsChgEvent
 
 > Notifies subscribers of changes to the status of a care benefit verify
       request. This object is available in API version 65.0 and later.

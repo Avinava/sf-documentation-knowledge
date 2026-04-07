@@ -5,12 +5,10 @@ topic: testing-your-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.744Z
+lastCollected: 2026-04-07T18:38:02.675Z
 estimatedTokens: 500
-keywords: [Testing, Apex, Code, upload, managed, package, write, execute, tests, meet, minimum, coverage, requirements, run, errors]
+keywords: [Testing, Apex, Code, upload, managed, package, write, execute, tests, meet, minimum, coverage, requirements, run, errors, AppExchange]
 ---
-
-# Testing Your Apex Code
 
 > Before you can upload a managed package, you must write and execute tests for your Apex
     code to meet minimum code coverage requirements. Also, all tests must run without errors when

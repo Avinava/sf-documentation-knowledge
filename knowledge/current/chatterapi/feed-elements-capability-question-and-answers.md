@@ -5,12 +5,10 @@ topic: feed-elements-capability-question-and-answers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.771Z
+lastCollected: 2026-04-07T18:37:13.730Z
 estimatedTokens: 497
-keywords: [Feed, Elements, Capability, Question, Answers, Access, element]
+keywords: [Capability, Question, Answers]
 ---
-
-# Feed Elements Capability, Question and Answers
 
 > Access question and answers for a feed element, or update question
       and answers on a feed element.

@@ -5,12 +5,10 @@ topic: reference-streaming-channel-push-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:05.221Z
+lastCollected: 2026-04-07T18:36:51.549Z
 estimatedTokens: 618
 keywords: [Streaming, Channel, Push, REST, API, subscriber, pushes, notifications, channels]
 ---
-
-# Reference: Streaming Channel Push REST API
 
 > Gets subscriber information, and pushes notifications for streaming channels.
 

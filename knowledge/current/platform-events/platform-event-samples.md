@@ -5,12 +5,10 @@ topic: platform-event-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.876Z
+lastCollected: 2026-04-07T18:38:57.691Z
 estimatedTokens: 343
-keywords: [Platform, Event, Samples, Check, sample, covers, common, business, scenarios, uses, events, along, Lightning, features, App]
+keywords: [Platform, Event, Samples, Check, sample, covers, common, business, scenarios, uses, events, along, Lightning, features, App, E-Bikes, Pub, Sub, API, Demo]
 ---
-
-# Platform Event Samples
 
 > Check out a sample that covers common business scenarios and uses platform events along
   with other Lightning Platform features.

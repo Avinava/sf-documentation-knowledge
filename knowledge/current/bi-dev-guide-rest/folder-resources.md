@@ -5,12 +5,10 @@ topic: folder-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.755Z
+lastCollected: 2026-04-07T18:36:56.291Z
 estimatedTokens: 426
 keywords: [Folder, Resources, Analytics, folders, represent, apps, collection, assets, created, users, templates]
 ---
-
-# Folder Resources
 
 > Analytics folders represent apps, a collection of assets. Folders can be created by users or by Analytics templates.
 

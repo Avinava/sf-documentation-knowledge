@@ -5,12 +5,10 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:52.588Z
+lastCollected: 2026-04-07T18:38:44.403Z
 estimatedTokens: 1624
-keywords: [WebLink, custom, link, URL, Scontrol, Calls, Special, Access, Rules, Usage]
+keywords: [WebLink, link, URL, Scontrol]
 ---
-
-# WebLink
 
 > Represents a custom link to a URL or Scontrol.
 

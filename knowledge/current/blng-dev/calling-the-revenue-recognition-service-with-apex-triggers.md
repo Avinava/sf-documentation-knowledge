@@ -5,12 +5,10 @@ topic: calling-the-revenue-recognition-service-with-apex-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.722Z
+lastCollected: 2026-04-07T18:37:03.289Z
 estimatedTokens: 265
-keywords: [Calling, Revenue, Recognition, Service, APEX, Triggers, call, custom, trigger]
+keywords: [Calling, Revenue, Recognition, Service, APEX, Triggers, call, trigger]
 ---
-
-# Calling the Revenue Recognition Service with APEX Triggers
 
 > You can call the Revenue Recognition service with a custom APEX trigger.
 

@@ -5,12 +5,10 @@ topic: get-list-views-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.108Z
+lastCollected: 2026-04-07T18:40:11.102Z
 estimatedTokens: 375
-keywords: [Views, associated]
+keywords: [Views]
 ---
-
-# Get List Views for an Object
 
 > Get list views associated with an object.
 

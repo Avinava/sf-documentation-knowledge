@@ -5,12 +5,10 @@ topic: convintelligencesignalrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.336Z
+lastCollected: 2026-04-07T18:39:35.784Z
 estimatedTokens: 462
-keywords: [ConvIntelligenceSignalRule, conversation, intelligence, signal, rule, triggers, actions, real-time, signals, telephony, system, keywords, mentioned, support, reps]
+keywords: [ConvIntelligenceSignalRule, conversation, intelligence, signal, rule, triggers, actions, real-time, signals, telephony, system, keywords, mentioned, support, reps, customers, conditions, subrules, filter, logic, evaluate, determine, whether, trigger, API, 62.0]
 ---
-
-# ConvIntelligenceSignalRule
 
 > Represents a conversation intelligence signal rule. The rule triggers
       actions based on real-time intelligence signals from your telephony system or keywords

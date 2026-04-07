@@ -5,12 +5,10 @@ topic: cspviolationeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.310Z
+lastCollected: 2026-04-07T18:38:29.201Z
 estimatedTokens: 1185
-keywords: [CspViolationEventLog, CSP, violation, events, capture, blocked, resource, requests, Lightning, Experience, pages, content, security, policy, API]
+keywords: [CspViolationEventLog, CSP, violation, events, capture, blocked, resource, requests, Lightning, Experience, pages, content, security, policy, API, 63.0]
 ---
-
-# CspViolationEventLog
 
 > CSP violation events capture details about blocked resource requests from
          Lightning Experience pages based on your content security policy (CSP).  This object

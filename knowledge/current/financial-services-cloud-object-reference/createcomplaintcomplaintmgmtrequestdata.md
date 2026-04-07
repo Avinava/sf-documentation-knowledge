@@ -5,12 +5,10 @@ topic: createcomplaintcomplaintmgmtrequestdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.346Z
+lastCollected: 2026-04-07T18:37:33.765Z
 estimatedTokens: 242
-keywords: [createComplaint, complaintMgmtRequestData, customer, complaint, API, Version, Requires, Chatter]
+keywords: [createComplaint, complaintMgmtRequestData, customer, complaint, API, Requires, Chatter]
 ---
-
-# createComplaint(complaintMgmtRequestData)
 
 > Create a customer complaint.
 

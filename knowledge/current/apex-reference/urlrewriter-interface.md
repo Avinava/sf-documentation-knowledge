@@ -5,13 +5,11 @@ topic: urlrewriter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.271Z
+lastCollected: 2026-04-07T18:36:15.534Z
 estimatedTokens: 867
 namespace: Site
-keywords: [UrlRewriter, rewriting, Sites, URLs, Usage, generateUrlFor, salesforceUrls, mapRequestUrl, userFriendlyUrl]
+keywords: [UrlRewriter, rewriting, Sites, URLs, generateUrlFor, salesforceUrls, mapRequestUrl, userFriendlyUrl]
 ---
-
-# UrlRewriter Interface
 
 > Enables rewriting Sites URLs.
 

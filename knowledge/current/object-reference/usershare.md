@@ -5,12 +5,10 @@ topic: usershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.108Z
+lastCollected: 2026-04-07T18:38:43.881Z
 estimatedTokens: 869
-keywords: [UserShare, sharing, entry, user, record, API, version, 26.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [UserShare, sharing, entry, user, record, API, 26.0]
 ---
-
-# UserShare
 
 > Represents a sharing entry on a user record. This object is available in API version 26.0 and later.
 

@@ -5,12 +5,10 @@ topic: tpmrtrfixedfundsams-the-logic-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.310Z
+lastCollected: 2026-04-07T18:37:05.032Z
 estimatedTokens: 263
 keywords: [TPM_RTRFixedFunds_AMS, Logic, actual, defined, benefit, routing, separate, third, code, runs, needed, TPM, _RTRFixedFunds, _AMS]
 ---
-
-# TPM_RTRFixedFunds_AMS (The Logic Class)
 
 > The actual logic is defined in this class. The benefit of routing to a separate third
     class is that the code runs only when needed.

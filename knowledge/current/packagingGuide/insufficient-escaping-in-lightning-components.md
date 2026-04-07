@@ -5,12 +5,10 @@ topic: insufficient-escaping-in-lightning-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.432Z
+lastCollected: 2026-04-07T18:38:47.390Z
 estimatedTokens: 308
-keywords: [Insufficient, Escaping, Lightning, Components, component, bundle, responsible, sanitizing, input, provided, parent, apps, URL, Aura]
+keywords: [Insufficient, Escaping, Lightning, bundle, responsible, sanitizing, provided, parent, apps, URL, Aura]
 ---
-
-# Insufficient Escaping in Lightning Components
 
 > Each component in a bundle is responsible for sanitizing the input provided to it by
     parent components, apps, or in URL parameters.

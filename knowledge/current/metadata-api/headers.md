@@ -5,12 +5,10 @@ topic: headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.154Z
+lastCollected: 2026-04-07T18:36:26.599Z
 estimatedTokens: 229
-keywords: [Metadata, API, calls, options, call]
+keywords: [Metadata, API, options, call]
 ---
-
-# Headers
 
 > Use headers in Metadata API calls to set options for each call.
 

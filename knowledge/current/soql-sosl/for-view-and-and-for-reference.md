@@ -5,12 +5,10 @@ topic: for-view-and-and-for-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.083Z
+lastCollected: 2026-04-07T18:40:10.037Z
 estimatedTokens: 672
-keywords: [VIEW, Salesforce, stores, record, views, uses, generate, recently, viewed, referenced, records, sidebar, auto-complete, options, search]
+keywords: [VIEW, Salesforce, stores, record, views, uses, generate, recently, viewed, referenced, records, sidebar, auto-complete, options, search, recent, retrieved, clause, conjunction]
 ---
-
-# FOR VIEW and and FOR REFERENCE
 
 > Salesforce stores information about record views in the interface and uses the
     information to generate a list of recently viewed and referenced records, such as a list of

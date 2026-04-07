@@ -5,12 +5,10 @@ topic: hybrid-sample-apps-source-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.340Z
+lastCollected: 2026-04-07T18:40:27.519Z
 estimatedTokens: 484
-keywords: [Hybrid, Sample, Apps, Source, Mobile, SDK, web, app, code, build, platform-specific, versions, Cordova, command, line]
+keywords: [Hybrid, Sample, Apps, Source, Mobile, SDK, web, app, code, build, platform-specific, versions, Cordova, command, line, clone, SalesforceMobileSDK-Shared, GitHub, repository, look, samples, folde]
 ---
-
-# Hybrid Sample Apps (Source Only)
 
 > Mobile SDK provides only the web app source code for most hybrid sample
          apps. You can build platform-specific versions of these apps using the Cordova command

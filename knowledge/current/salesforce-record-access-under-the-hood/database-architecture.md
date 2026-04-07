@@ -5,12 +5,10 @@ topic: database-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.058Z
+lastCollected: 2026-04-07T18:39:19.751Z
 estimatedTokens: 942
-keywords: [Database, Architecture, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer]
+keywords: [Database, Architecture, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
-
-# Database Architecture
 
 > Where possible, we changed noninclusive terms to align with our
    company value of Equality. We maintained certain terms to avoid any effect on

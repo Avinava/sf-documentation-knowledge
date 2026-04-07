@@ -5,12 +5,10 @@ topic: insurance-quote-post-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.199Z
+lastCollected: 2026-04-07T18:37:51.150Z
 estimatedTokens: 421
-keywords: [Insurance, Quote, Post, Input, representation]
+keywords: [Insurance, Quote, Post]
 ---
-
-# Insurance Quote Post Input
 
 > Input representation details to create insurance quote.
 

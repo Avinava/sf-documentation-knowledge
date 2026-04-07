@@ -5,12 +5,10 @@ topic: sample-jenkinsfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.942Z
+lastCollected: 2026-04-07T18:40:07.885Z
 estimatedTokens: 351
-keywords: [Sample, Jenkinsfile, text, file, definition, Jenkins, Pipeline, how, integrate, Salesforce, CLI, commands, automate, testing, applications]
+keywords: [Sample, Jenkinsfile, text, file, definition, Jenkins, Pipeline, how, integrate, Salesforce, CLI, commands, automate, testing, applications, scratch, orgs]
 ---
-
-# Sample Jenkinsfile
 
 > A Jenkinsfile is a text file that contains the
         definition of a Jenkins Pipeline. This Jenkinsfile

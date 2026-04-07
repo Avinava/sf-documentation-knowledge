@@ -5,12 +5,10 @@ topic: salesforce-crm-service-presence-status-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.509Z
+lastCollected: 2026-04-07T18:35:52.372Z
 estimatedTokens: 208
-keywords: [Salesforce, CRM, Service, Presence, Status, Mapping, data, mappings, ServicePresenceStatus, DLO, found, Services, bundle, Connector, Cloud]
+keywords: [Salesforce, CRM, Service, Presence, Status, Mapping, mappings, ServicePresenceStatus, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Service Presence Status Mapping
 
 > These data mappings are for the ServicePresenceStatus DLO found in the Services bundle
   of the Salesforce CRM Connector for Data Cloud.

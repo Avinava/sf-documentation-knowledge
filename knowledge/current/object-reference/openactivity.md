@@ -5,12 +5,10 @@ topic: openactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:45.178Z
+lastCollected: 2026-04-07T18:38:36.357Z
 estimatedTokens: 3424
-keywords: [OpenActivity, read-only, open, activities—future, events, tasks—related, includes, activities, contacts, phone, calls, organization, uses, Salesforce, CRM]
+keywords: [OpenActivity, read-only, open, activities—future, events, tasks—related, includes, activities, contacts, phone, organization, uses, Salesforce, CRM, Call, Center]
 ---
-
-# OpenActivity
 
 > This read-only object is displayed in a related list of open
    activities—future events and open tasks—related to an object. It includes

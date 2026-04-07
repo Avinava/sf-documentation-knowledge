@@ -5,12 +5,10 @@ topic: care-request-patient-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.516Z
+lastCollected: 2026-04-07T18:37:54.838Z
 estimatedTokens: 455
-keywords: [Care, Patient, Input, whom, raised]
+keywords: [Care, Patient, whom, raised]
 ---
-
-# Care Request Patient Input
 
 > The patient for whom the request is being raised.
 

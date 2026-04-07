@@ -5,12 +5,10 @@ topic: moderation-flags-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.614Z
+lastCollected: 2026-04-07T18:37:20.802Z
 estimatedTokens: 234
-keywords: [Moderation, Flags, Collection, feed, item, comment, file]
+keywords: [Moderation, Flags, Collection, item, comment, file]
 ---
-
-# Moderation Flags Collection
 
 > Collection of flags on a feed item, comment, or file.
 

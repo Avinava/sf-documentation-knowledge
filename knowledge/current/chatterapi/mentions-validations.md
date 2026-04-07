@@ -5,12 +5,10 @@ topic: mentions-validations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.567Z
+lastCollected: 2026-04-07T18:37:14.558Z
 estimatedTokens: 511
-keywords: [Mentions, Validations, whether, context, user, can’t, mention, groups, doesn’t, belong, group, were, included, hasErrors, validationStatus]
+keywords: [Mentions, Validations, whether, context, user, can’t, mention, groups, doesn’t, belong, group, were, included, hasErrors, validationStatus, Disallowed, validation]
 ---
-
-# Mentions Validations
 
 > Information about whether the specified mentions are valid for the context user. For
   example, the context user can’t mention private groups he doesn’t belong to. If such

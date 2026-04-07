@@ -5,12 +5,10 @@ topic: my-app-was-rejected
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.772Z
+lastCollected: 2026-04-07T18:40:27.912Z
 estimatedTokens: 101
 keywords: [App, Rejected, Store]
 ---
-
-# My App Was Rejected
 
 > What to do when your app is rejected from the App Store.
 

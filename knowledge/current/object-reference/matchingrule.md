@@ -5,12 +5,10 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.274Z
+lastCollected: 2026-04-07T18:38:35.519Z
 estimatedTokens: 889
-keywords: [MatchingRule, matching, rule, identify, duplicate, records, API, version, 33.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [MatchingRule, matching, rule, identify, duplicate, records, API, 33.0]
 ---
-
-# MatchingRule
 
 > Represents a matching rule that is used to identify duplicate
    records.

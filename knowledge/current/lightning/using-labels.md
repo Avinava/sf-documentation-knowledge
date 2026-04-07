@@ -5,12 +5,10 @@ topic: using-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.470Z
+lastCollected: 2026-04-07T18:38:04.626Z
 estimatedTokens: 517
-keywords: [Labels, text, presents, user, input, buttons, specify, providing, component, markup, access, stored, outside, code, $Label]
+keywords: [Labels, text, presents, user, buttons, specify, providing, markup, stored, outside, code, $Label, provider, expression]
 ---
-
-# Using Labels
 
 > Labels are text that presents information about the user interface, such as in the header
     (1), input fields (2), or buttons (3). While you can specify labels by providing text values in

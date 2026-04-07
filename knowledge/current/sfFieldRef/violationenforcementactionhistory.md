@@ -5,12 +5,10 @@ topic: violationenforcementactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.984Z
+lastCollected: 2026-04-07T18:40:05.860Z
 estimatedTokens: 278
-keywords: [ViolationEnforcementActionHistory, History, tracked, ViolationEnforcementAction]
+keywords: [ViolationEnforcementActionHistory, tracked, ViolationEnforcementAction]
 ---
-
-# ViolationEnforcementActionHistory
 
 > History for tracked fields of ViolationEnforcementAction.
 

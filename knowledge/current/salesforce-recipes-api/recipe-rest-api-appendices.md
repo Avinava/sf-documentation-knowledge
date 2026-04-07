@@ -5,12 +5,10 @@ topic: recipe-rest-api-appendices
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.315Z
+lastCollected: 2026-04-07T18:39:17.992Z
 estimatedTokens: 70
 keywords: [Recipe, REST, API, Appendices, working, enums, shared, resources]
 ---
-
-# Recipe REST API Appendices
 
 > Use these appendices when working with enums and other shared resources.
 

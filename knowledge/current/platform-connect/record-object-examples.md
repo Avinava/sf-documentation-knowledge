@@ -5,12 +5,10 @@ topic: record-object-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.821Z
+lastCollected: 2026-04-07T18:38:57.629Z
 estimatedTokens: 251
-keywords: [Record, Examples, code, demonstrate, how, different, depending, whether, canvas, app, appears, publisher, feed]
+keywords: [Record, Examples, code, demonstrate, how, different, depending, whether, canvas, app, appears, publisher]
 ---
-
-# Record Object Examples
 
 > These code examples demonstrate how the Record object contains different information
         depending on whether your canvas app appears in the publisher or the feed.

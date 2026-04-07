@@ -5,12 +5,10 @@ topic: invoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.549Z
+lastCollected: 2026-04-07T18:35:49.493Z
 estimatedTokens: 890
-keywords: [InvoiceProcessedEvent, notification, customers, process, started, commerce, billing, invoices, groups, schedules, grouping, keys, creates, invoice, per]
+keywords: [InvoiceProcessedEvent, notification, customers, process, started, commerce, billing, invoices, groups, schedules, grouping, keys, creates, invoice, per, key, platform, event, top-level, InvoiceProcessedDetailEvents, events, detail, attempt, API, 62.0, Subscribers, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# InvoiceProcessedEvent
 
 > Represents the notification to the customers after the process
          started by the /commerce/billing/invoices request is

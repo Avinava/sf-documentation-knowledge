@@ -5,12 +5,10 @@ topic: browser-support-for-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:14.193Z
+lastCollected: 2026-04-07T18:38:04.326Z
 estimatedTokens: 293
-keywords: [Browser, Support, Aura, Components, browsers, Lightning, Experience]
+keywords: [Browser, Support, Aura, browsers, Lightning, Experience]
 ---
-
-# Browser Support for Aura Components
 
 > Aura Components support the same browsers as Lightning Experience.
 

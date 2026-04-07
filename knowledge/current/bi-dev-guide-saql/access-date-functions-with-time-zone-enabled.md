@@ -5,12 +5,10 @@ topic: access-date-functions-with-time-zone-enabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.281Z
+lastCollected: 2026-04-07T18:37:00.844Z
 estimatedTokens: 407
-keywords: [Access, Date, Functions, Time, Zone, Enabled, day, week, year, parts, DateTime, DateOnly, numbers, Examples]
+keywords: [Examples, Date, Functions, Time, Zone, Enabled, day, week, year, parts, DateTime, DateOnly, numbers]
 ---
-
-# Access Date Functions with Time Zone Enabled
 
 > Use these functions to get the day, week, year, and other parts of DateTime or DateOnly fields.
     The return values are numbers.

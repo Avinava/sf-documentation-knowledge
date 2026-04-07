@@ -5,12 +5,10 @@ topic: wave-interaction-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.905Z
+lastCollected: 2026-04-07T18:38:31.787Z
 estimatedTokens: 1391
-keywords: [Wave, Interaction, Event, events, represent, route, changes, made, CRM, Analytics, user, captured, tab, closed, collates]
+keywords: [Wave, Interaction, Event, events, represent, route, changes, made, CRM, Analytics, user, captured, tab, closed, collates, statistics, over, life, including, total, open, time, aggregated, tabs, logged, once]
 ---
-
-# Wave Interaction Event Type
 
 > Wave Interaction events represent route or page changes made in the
          CRM Analytics user interface. A Wave Interaction event type is captured when a tab is

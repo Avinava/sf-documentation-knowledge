@@ -5,12 +5,10 @@ topic: action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.250Z
+lastCollected: 2026-04-07T18:38:52.558Z
 estimatedTokens: 259
-keywords: [$Action, merge, referencing, standard, Salesforce, actions, displaying, Accounts, tab, home, creating, editing, deleting, Usage]
+keywords: [$Action, merge, referencing, standard, Salesforce, actions, displaying, Accounts, tab, home, creating, editing, deleting]
 ---
-
-# $Action
 
 > A global merge field type to use when referencing standard Salesforce actions, such as
         displaying the Accounts tab home page, creating accounts, editing accounts, and deleting

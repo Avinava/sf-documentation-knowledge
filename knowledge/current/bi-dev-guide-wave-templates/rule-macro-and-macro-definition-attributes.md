@@ -5,12 +5,10 @@ topic: rule-macro-and-macro-definition-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.003Z
+lastCollected: 2026-04-07T18:37:02.550Z
 estimatedTokens: 384
-keywords: [Rule, Macro, Definition, Attributes, collection, objects, define, logic, macros, their]
+keywords: [Rule, Macro, Definition, Attributes, collection, define, logic, macros, their]
 ---
-
-# Rule Macro And Macro Definition Attributes
 
 > A rule macro object contains a collection of macro definition objects. Macro definition
   objects define the logic of macros and their return values.

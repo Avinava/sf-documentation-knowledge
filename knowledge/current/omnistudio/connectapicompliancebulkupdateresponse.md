@@ -5,12 +5,10 @@ topic: connectapicompliancebulkupdateresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.303Z
+lastCollected: 2026-04-07T18:36:35.808Z
 estimatedTokens: 132
-keywords: [ConnectApi.ComplianceBulkUpdateResponse, Output, representation, asynchronously, bulk, status, clause, version, records]
+keywords: [ConnectApi.ComplianceBulkUpdateResponse, asynchronously, bulk, status, clause, records]
 ---
-
-# ConnectApi.ComplianceBulkUpdateResponse
 
 > Output representation of the details to asynchronously bulk update the status of the
   clause version records.

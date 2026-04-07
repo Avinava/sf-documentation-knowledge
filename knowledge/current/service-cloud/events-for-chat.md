@@ -5,12 +5,10 @@ topic: events-for-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.728Z
+lastCollected: 2026-04-07T18:36:49.907Z
 estimatedTokens: 771
 keywords: [Events, Chat, JavaScript, executed, certain, occur, console, user, closes, tab, few, specific, apply, Lightning, Experience]
 ---
-
-# Events for Chat
 
 > JavaScript can be executed when certain types of events occur in a console, such as
     when a user closes a tab. A few events are specific to Chat. These events apply to Lightning

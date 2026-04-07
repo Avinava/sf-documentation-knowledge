@@ -5,12 +5,10 @@ topic: use-post-chat-to-wrap-up-the-chat-interaction-with-your-customer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.038Z
+lastCollected: 2026-04-07T18:38:06.285Z
 estimatedTokens: 417
-keywords: [Post-Chat, Wrap, Chat, Interaction, Customer, pages, let, share, customers, end, session, direct, another, Web, they]
+keywords: [Post-Chat, Wrap, Chat, Interaction, Customer, pages, let, share, customers, end, session, direct, another, Web, they, agent, forward, survey, their, experience]
 ---
-
-# Use Post-Chat to Wrap Up the Chat Interaction with Your Customer
 
 > Post-chat pages let you share information with customers at the end of a chat session.
     For example, you can direct your customers to another Web page after they complete a chat with

@@ -5,12 +5,10 @@ topic: streaming-api-vs-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.179Z
+lastCollected: 2026-04-07T18:36:51.500Z
 estimatedTokens: 412
-keywords: [Streaming, API, Pub, Sub, newer, publish, subscribe, platform, events, change, data, capture, gRPC, HTTP, efficiently]
+keywords: [Streaming, API, Pub, Sub, newer, publish, subscribe, platform, events, change, capture, gRPC, HTTP, efficiently, publishes, delivers, binary, event, messages, supports, multiple, programming, languages, introduced, way, external, client, compares, features, two, subscription, APIs]
 ---
-
-# Streaming API vs. Pub/Sub API
 
 > Pub/Sub API is a newer API that you can use to publish and subscribe to platform events
   and change data capture events. Based on gRPC API and HTTP/2, Pub/Sub API efficiently publishes

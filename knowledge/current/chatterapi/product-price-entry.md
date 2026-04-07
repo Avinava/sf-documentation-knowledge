@@ -5,12 +5,10 @@ topic: product-price-entry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.026Z
+lastCollected: 2026-04-07T18:37:22.135Z
 estimatedTokens: 223
 keywords: [Product, Price, Entry, Line, item]
 ---
-
-# Product Price Entry
 
 > Line item price for the product.
 

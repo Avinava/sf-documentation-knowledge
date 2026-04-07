@@ -5,12 +5,10 @@ topic: quotelineitemrecipienthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.396Z
+lastCollected: 2026-04-07T18:39:58.022Z
 estimatedTokens: 273
-keywords: [QuoteLineItemRecipientHistory, History, tracked, QuoteLineItemRecipient]
+keywords: [QuoteLineItemRecipientHistory, tracked, QuoteLineItemRecipient]
 ---
-
-# QuoteLineItemRecipientHistory
 
 > History for tracked fields of QuoteLineItemRecipient.
 

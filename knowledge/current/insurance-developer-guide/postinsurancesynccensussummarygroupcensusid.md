@@ -5,12 +5,10 @@ topic: postinsurancesynccensussummarygroupcensusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.589Z
+lastCollected: 2026-04-07T18:37:49.436Z
 estimatedTokens: 221
-keywords: [postInsuranceSyncCensusSummary, groupCensusId, Synchronize, recalculate, summary, data, group, census, API, Version, Requires, Chatter]
+keywords: [postInsuranceSyncCensusSummary, groupCensusId, Synchronize, recalculate, summary, group, census, API, Requires, Chatter]
 ---
-
-# postInsuranceSyncCensusSummary(groupCensusId)
 
 > Synchronize and recalculate the summary data for a group census.
 

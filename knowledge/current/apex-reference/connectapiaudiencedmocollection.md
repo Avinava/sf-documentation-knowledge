@@ -5,12 +5,10 @@ topic: connectapiaudiencedmocollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.935Z
+lastCollected: 2026-04-07T18:36:07.274Z
 estimatedTokens: 162
-keywords: [ConnectApi.AudienceDMOCollection, collection, Audience, Data, Model, DMO, records]
+keywords: [ConnectApi.AudienceDMOCollection, collection, Audience, Model, DMO, records]
 ---
-
-# ConnectApi.AudienceDMOCollection
 
 > Represents a collection of Audience Data Model Object (DMO) records.
 

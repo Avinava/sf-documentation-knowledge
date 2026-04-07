@@ -5,12 +5,10 @@ topic: specimenhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.894Z
+lastCollected: 2026-04-07T18:40:02.583Z
 estimatedTokens: 254
-keywords: [SpecimenHistory, History, tracked, Specimen]
+keywords: [SpecimenHistory, tracked, Specimen]
 ---
-
-# SpecimenHistory
 
 > History for tracked fields of Specimen.
 

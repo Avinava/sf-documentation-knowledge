@@ -5,12 +5,10 @@ topic: guided-selection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.862Z
+lastCollected: 2026-04-07T18:35:45.859Z
 estimatedTokens: 203
-keywords: [Guided, Selection, Output, representation]
+keywords: [Guided, Selection]
 ---
-
-# Guided Selection
 
 > Output representation of the details of a guided selection.
 

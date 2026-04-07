@@ -5,12 +5,10 @@ topic: test-harness-debug-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.608Z
+lastCollected: 2026-04-07T18:38:15.092Z
 estimatedTokens: 548
-keywords: [Test, Harness, Debug, Tab, app, developer-centric, tool, inspecting, network, logs, navigating, references, switching, applications, Refs]
+keywords: [Test, Harness, Debug, Tab, app, developer-centric, tool, inspecting, network, logs, navigating, references, switching, applications, Refs, LightningSDK, Control, Application, Context]
 ---
-
-# Test Harness Debug Tab
 
 > The Debug tab of the Test Harness app is a developer-centric tool for inspecting
     network logs, navigating to page references, and switching applications.

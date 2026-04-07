@@ -5,12 +5,10 @@ topic: slot-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.877Z
+lastCollected: 2026-04-07T18:37:39.825Z
 estimatedTokens: 763
 keywords: [Slot, time, period, appointment, slotEnd, slotStart, slotStatus, sourceSlotId, sourceSystem]
 ---
-
-# Slot Class
 
 > Represents the time period slot details for the
     appointment.

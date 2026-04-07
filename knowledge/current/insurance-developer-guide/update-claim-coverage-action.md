@@ -5,12 +5,10 @@ topic: update-claim-coverage-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.258Z
+lastCollected: 2026-04-07T18:37:49.007Z
 estimatedTokens: 178
-keywords: [Claim, Coverage, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Claim, Coverage, Action, REST, HTTP]
 ---
-
-# Update Claim Coverage Action
 
 > Update a claim coverage.
 

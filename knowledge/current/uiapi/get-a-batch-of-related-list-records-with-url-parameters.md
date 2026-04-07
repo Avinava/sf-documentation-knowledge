@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-records-with-url-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.483Z
+lastCollected: 2026-04-07T18:40:11.476Z
 estimatedTokens: 664
-keywords: [Batch, Records, URL, record, data, via]
+keywords: [Batch, Records, URL, record, via]
 ---
-
-# Get a Batch of Related List Records with URL Parameters
 
 > Returns record data for a batch of related lists via URL
       parameters.

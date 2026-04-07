@@ -5,12 +5,10 @@ topic: using-certificates-with-soap-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:30.867Z
+lastCollected: 2026-04-07T18:36:16.086Z
 estimatedTokens: 496
-keywords: [Certificates, SOAP, Services, support, two-way, authentication, callout, web, service, generate, certificate, Salesforce, import, key, pair]
+keywords: [Certificates, SOAP, Services, support, two-way, authentication, callout, web, service, generate, certificate, Salesforce, import, key, pair, keystore, integrate, Apex]
 ---
-
-# Using Certificates with SOAP Services
 
 > To support two-way authentication for a callout to a SOAP web service, generate a
         certificate in Salesforce or import a key pair from a keystore into Salesforce. Then

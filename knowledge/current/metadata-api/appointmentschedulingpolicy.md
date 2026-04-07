@@ -5,12 +5,10 @@ topic: appointmentschedulingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:37.335Z
+lastCollected: 2026-04-07T18:36:22.589Z
 estimatedTokens: 1276
-keywords: [AppointmentSchedulingPolicy, rules, scheduling, appointments, Lightning, Scheduler, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [AppointmentSchedulingPolicy, scheduling, appointments, Lightning, Scheduler, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# AppointmentSchedulingPolicy
 
 > Represents a set of rules for scheduling appointments using
       Lightning Scheduler.

@@ -5,12 +5,10 @@ topic: data-mapper-execution-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.503Z
+lastCollected: 2026-04-07T18:36:39.192Z
 estimatedTokens: 148
-keywords: [Data, Mapper, Execution, Output, representation, error, message, status]
+keywords: [Mapper, Execution, error, message, status]
 ---
-
-# Data Mapper Execution Response
 
 > Output representation of the response with error message, status, and response
     type.

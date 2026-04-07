@@ -5,12 +5,10 @@ topic: apexlistviews
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.796Z
+lastCollected: 2026-04-07T18:38:50.007Z
 estimatedTokens: 526
-keywords: [apex, listViews, view, picklist, including, associated, records, currently, selected, standard, Salesforce, applications, component, main, tab]
+keywords: [Attributes, Facets, apex, listViews, view, picklist, including, records, currently, selected, standard, Salesforce, applications, main, tab, particular]
 ---
-
-# apex:listViews
 
 > The list view picklist for an object, including its associated list of records for the currently selected view. In standard Salesforce applications this component is displayed on the main tab for a particular object.
 

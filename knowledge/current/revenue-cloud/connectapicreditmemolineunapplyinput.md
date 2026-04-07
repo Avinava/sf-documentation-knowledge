@@ -5,12 +5,10 @@ topic: connectapicreditmemolineunapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.585Z
+lastCollected: 2026-04-07T18:35:41.450Z
 estimatedTokens: 139
-keywords: [ConnectApi.CreditMemoLineUnapplyInput, Input, representation, unapply, credit, memo, line, invoice]
+keywords: [ConnectApi.CreditMemoLineUnapplyInput, unapply, credit, memo, line, invoice]
 ---
-
-# ConnectApi.CreditMemoLineUnapplyInput
 
 > Input representation of the details of the request to unapply a credit memo line from an
     invoice line.

@@ -5,12 +5,10 @@ topic: oci-create-reservation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.485Z
+lastCollected: 2026-04-07T18:37:09.255Z
 estimatedTokens: 345
-keywords: [OCI, Reservation, Input, Data, reserve, inventory, Omnichannel, locations, location, groups]
+keywords: [OCI, Reservation, reserve, inventory, Omnichannel, locations, location, groups]
 ---
-
-# OCI Create Reservation Input
 
 > Data to reserve inventory at one or more Omnichannel Inventory locations or
       location groups.

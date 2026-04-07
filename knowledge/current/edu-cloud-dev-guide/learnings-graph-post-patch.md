@@ -5,12 +5,10 @@ topic: learnings-graph-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.272Z
+lastCollected: 2026-04-07T18:37:29.370Z
 estimatedTokens: 325
 keywords: [Learnings, Graph, POST, PATCH, learning, include, achievements, their, associations, Additionally]
 ---
-
-# Learnings Graph (POST, PATCH)
 
 > Create a learning graph to include
       details of learnings, achievements, and their associations. Additionally, update the fields in

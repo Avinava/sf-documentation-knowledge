@@ -5,12 +5,10 @@ topic: borrower-income-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.392Z
+lastCollected: 2026-04-07T18:37:34.990Z
 estimatedTokens: 98
 keywords: [Borrower, Income, Result, POST, PATCH]
 ---
-
-# Borrower Income Result
 
 > Borrower income result of the POST or PATCH
     request.

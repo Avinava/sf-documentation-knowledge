@@ -5,12 +5,10 @@ topic: searchquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.166Z
+lastCollected: 2026-04-07T18:37:27.158Z
 estimatedTokens: 156
-keywords: [search, quote, fieldValuesMap, Overrides, entire, user, input, Salesforce, CPQ, calls, isSearchCustom]
+keywords: [search, quote, fieldValuesMap, Overrides, entire, user, Salesforce, CPQ, isSearchCustom]
 ---
-
-# search(quote, fieldValuesMap)
 
 > Overrides the entire user search input. Salesforce CPQ calls this
       method only when isSearchCustom returns

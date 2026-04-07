@@ -5,12 +5,10 @@ topic: approvalsubmissionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.835Z
+lastCollected: 2026-04-07T18:39:26.795Z
 estimatedTokens: 362
-keywords: [ApprovalSubmissionFeed, Feed, tracking, ApprovalSubmission]
+keywords: [ApprovalSubmissionFeed, ApprovalSubmission]
 ---
-
-# ApprovalSubmissionFeed
 
 > Feed tracking for ApprovalSubmission.
 

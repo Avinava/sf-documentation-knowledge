@@ -5,12 +5,10 @@ topic: the-configuration-wizard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.179Z
+lastCollected: 2026-04-07T18:37:02.719Z
 estimatedTokens: 670
-keywords: [Configuration, Wizard, CRM, Analytics, template, include, made, pages, questions, answers, users, customize, apps, they, potentially]
+keywords: [Configuration, Wizard, CRM, Analytics, template, include, made, pages, questions, answers, users, customize, apps, they, potentially, powerful, part]
 ---
-
-# The Configuration Wizard
 
 > A CRM Analytics template can include a configuration wizard, made up of one or more
   pages with questions and answers, that allows users to customize the apps they create from the

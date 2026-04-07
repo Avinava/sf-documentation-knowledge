@@ -5,12 +5,10 @@ topic: place-quote-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.618Z
+lastCollected: 2026-04-07T18:35:43.496Z
 estimatedTokens: 566
-keywords: [Place, Quote, Input, representation]
+keywords: [Place, Quote]
 ---
-
-# Place Quote Input
 
 > Input representation of the request to create or update a quote.
 

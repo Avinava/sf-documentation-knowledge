@@ -5,12 +5,10 @@ topic: callouts-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.765Z
+lastCollected: 2026-04-07T18:36:16.946Z
 estimatedTokens: 501
-keywords: [Callouts, Salesforce, Connect, Custom, Adapters, any, Apex, code, adapter, connection, external, system, requires, authentication, incorporate]
+keywords: [Callouts, Salesforce, Connect, Adapters, any, Apex, code, adapter, connection, external, system, requires, authentication, incorporate, callout, Named, Credentials, Endpoints]
 ---
-
-# Callouts for Salesforce Connect Custom Adapters
 
 > Just like any other Apex code, a Salesforce Connect custom adapter can make callouts.
         If the connection to the external system requires authentication, incorporate the

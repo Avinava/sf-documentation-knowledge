@@ -5,12 +5,10 @@ topic: specify-unpackaged-metadata-or-apex-access-for-apex-tests-unlocked-packag
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.937Z
+lastCollected: 2026-04-07T18:40:08.919Z
 estimatedTokens: 309
-keywords: [Specify, Unpackaged, Metadata, Apex, Access, Tests, Unlocked, Packages, path, sfdx-project.json, file, Package, Version, Creation, Manage]
+keywords: [Specify, Unpackaged, Metadata, Apex, Tests, Unlocked, Packages, path, sfdx-project.json, file, Package, Creation, Manage]
 ---
-
-# Specify Unpackaged Metadata or Apex Access for Apex Tests (Unlocked Packages)
 
 > Specify the path to the unpackaged metadata in your sfdx-project.json
     file.

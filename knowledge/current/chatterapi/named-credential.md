@@ -5,13 +5,11 @@ topic: named-credential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.494Z
+lastCollected: 2026-04-07T18:37:15.554Z
 estimatedTokens: 473
 namespace: String
-keywords: [Named, Credential, associated, external]
+keywords: [Named, Credential, external]
 ---
-
-# Named Credential
 
 > Named credential associated with an external
     credential.

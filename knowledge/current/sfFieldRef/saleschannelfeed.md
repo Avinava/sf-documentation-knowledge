@@ -5,12 +5,10 @@ topic: saleschannelfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.918Z
+lastCollected: 2026-04-07T18:40:00.668Z
 estimatedTokens: 387
-keywords: [SalesChannelFeed, Feed, tracking, SalesChannel]
+keywords: [SalesChannelFeed, SalesChannel]
 ---
-
-# SalesChannelFeed
 
 > Feed tracking for SalesChannel.
 

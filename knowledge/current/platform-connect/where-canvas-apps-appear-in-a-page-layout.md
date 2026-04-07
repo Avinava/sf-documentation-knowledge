@@ -5,12 +5,10 @@ topic: where-canvas-apps-appear-in-a-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.166Z
+lastCollected: 2026-04-07T18:38:56.890Z
 estimatedTokens: 325
 keywords: [Canvas, Apps, Appear, Layout, Depending, place, app, full, Salesforce, site, mobile]
 ---
-
-# Where Canvas Apps Appear in a Page Layout
 
 > Depending on where you place the canvas app on the page layout, the canvas app might
   appear in the full Salesforce site or in the Salesforce mobile app.

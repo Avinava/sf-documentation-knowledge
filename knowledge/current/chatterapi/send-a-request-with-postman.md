@@ -5,12 +5,10 @@ topic: send-a-request-with-postman
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.429Z
+lastCollected: 2026-04-07T18:37:24.433Z
 estimatedTokens: 763
-keywords: [Send, Postman, explore, test, API, calls, across, multiple, orgs, full, control, content]
+keywords: [Send, Postman, explore, test, API, across, multiple, orgs, full, control, content]
 ---
-
-# Send a Request with Postman
 
 > With Postman, you can explore and test your API calls across multiple orgs with full
           control on headers, parameters, and content type.

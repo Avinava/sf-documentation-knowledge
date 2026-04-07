@@ -5,13 +5,11 @@ topic: salesforce-scheduler-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.748Z
+lastCollected: 2026-04-07T18:39:20.503Z
 estimatedTokens: 550
 namespace: ConnectApi
-keywords: [Salesforce, Scheduler, Apex, Classes, ConnectApi, Connect, LxScheduler, accessing, data, Business, APIs]
+keywords: [Salesforce, Scheduler, Apex, Classes, ConnectApi, Connect, LxScheduler, accessing, Business, APIs]
 ---
-
-# Salesforce Scheduler Apex Classes
 
 > Salesforce Scheduler provides the ConnectApi namespace (also called Connect in Apex) and LxScheduler namespace that contains classes for accessing the same data available
       in the Salesforce Scheduler Business APIs.

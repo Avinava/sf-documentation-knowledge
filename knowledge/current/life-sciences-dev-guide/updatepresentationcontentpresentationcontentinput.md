@@ -5,12 +5,10 @@ topic: updatepresentationcontentpresentationcontentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.353Z
+lastCollected: 2026-04-07T18:37:54.684Z
 estimatedTokens: 621
-keywords: [updatePresentationContent, presentationContentInput, presentation, content, provided, metadata, API, Version, Requires, Chatter]
+keywords: [updatePresentationContent, presentationContentInput, presentation, content, provided, metadata, API, Requires, Chatter]
 ---
-
-# updatePresentationContent(presentationContentInput)
 
 > Update existing presentation content with the provided
             metadata.

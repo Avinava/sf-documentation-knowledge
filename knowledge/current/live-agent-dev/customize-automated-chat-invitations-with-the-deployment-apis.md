@@ -6,13 +6,10 @@ topic: customize-automated-chat-invitations-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.731Z
+lastCollected: 2026-04-07T18:38:05.958Z
 estimatedTokens: 547
 keywords: [Customize, Automated, Chat, Invitations, Deployment, APIs, appear, customers, website]
 ---
-
-# Customize Automated Chat Invitations with the Deployment
-    APIs
 
 > Customize automated chat invitations that appear to customers on your
     website.

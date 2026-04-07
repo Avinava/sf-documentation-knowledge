@@ -5,12 +5,10 @@ topic: group-membership-request-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.760Z
+lastCollected: 2026-04-07T18:37:10.459Z
 estimatedTokens: 191
-keywords: [Group, Membership, input]
+keywords: [Group, Membership]
 ---
-
-# Group Membership Request Update
 
 > Group membership request update input.
 

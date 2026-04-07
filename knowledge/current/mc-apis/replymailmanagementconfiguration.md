@@ -5,12 +5,10 @@ topic: replymailmanagementconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.287Z
+lastCollected: 2026-04-07T18:40:18.492Z
 estimatedTokens: 1129
 keywords: [ReplyMailManagementConfiguration, configuration, settings, reply, mail, management, account, Items]
 ---
-
-# ReplyMailManagementConfiguration
 
 > The ReplyMailManagementConfiguration object contains configuration settings for the reply mail management in an account.
 

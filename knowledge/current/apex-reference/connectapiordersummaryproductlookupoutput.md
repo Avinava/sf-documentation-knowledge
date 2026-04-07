@@ -5,12 +5,10 @@ topic: connectapiordersummaryproductlookupoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.406Z
+lastCollected: 2026-04-07T18:36:10.682Z
 estimatedTokens: 202
-keywords: [Order, summary, product, lookup, output]
+keywords: [Order, summary, product, lookup]
 ---
-
-# ConnectApi.OrderSummaryProductLookupOutput
 
 > Order summary product lookup output.
 

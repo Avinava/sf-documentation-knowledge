@@ -5,12 +5,10 @@ topic: hold-violation-result-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.521Z
+lastCollected: 2026-04-07T18:37:29.605Z
 estimatedTokens: 373
-keywords: [Hold, Violation, Result, Output, representation, items]
+keywords: [Hold, Violation, Result, items]
 ---
-
-# Hold Violation Result Details
 
 > Output representation of the information related to the list of hold result
     items.

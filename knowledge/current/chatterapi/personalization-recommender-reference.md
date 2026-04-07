@@ -5,12 +5,10 @@ topic: personalization-recommender-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.648Z
+lastCollected: 2026-04-07T18:37:21.758Z
 estimatedTokens: 85
 keywords: [Personalization, Recommender, another]
 ---
-
-# Personalization Recommender Reference
 
 > Represents a reference to another personalization object.
 

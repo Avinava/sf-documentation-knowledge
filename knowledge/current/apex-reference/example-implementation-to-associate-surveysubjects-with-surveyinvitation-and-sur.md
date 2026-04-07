@@ -6,13 +6,10 @@ topic: example-implementation-to-associate-surveysubjects-with-surveyinvitation-
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:02:28.220Z
+lastCollected: 2026-04-07T18:36:13.523Z
 estimatedTokens: 83
-keywords: [Implementation, Associate, SurveySubjects, SurveyInvitation, SurveyResponses, survey, responses, populated, custom, code]
+keywords: [Implementation, Associate, SurveySubjects, SurveyInvitation, SurveyResponses, survey, responses, populated, code]
 ---
-
-# Example Implementation to Associate SurveySubjects with SurveyInvitation and
-        SurveyResponses
 
 > If no survey responses are populated, create a custom code to associate
    SurveySubjects with SurveyInvitation and SurveyResponses.

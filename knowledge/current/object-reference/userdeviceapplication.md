@@ -5,12 +5,10 @@ topic: userdeviceapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.801Z
+lastCollected: 2026-04-07T18:38:43.570Z
 estimatedTokens: 297
-keywords: [UserDeviceApplication, applications, installed, device, accessing, Salesforce, API, version, 43.0, later, Calls, Special, Access, Rules]
+keywords: [UserDeviceApplication, applications, installed, device, accessing, Salesforce, API, 43.0]
 ---
-
-# UserDeviceApplication
 
 > Represents information on applications installed on a device that is
 			accessing Salesforce. Available in API version 43.0 and later.

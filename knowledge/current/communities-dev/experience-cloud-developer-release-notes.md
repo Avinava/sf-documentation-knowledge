@@ -5,12 +5,10 @@ topic: experience-cloud-developer-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:39.764Z
+lastCollected: 2026-04-07T18:37:26.716Z
 estimatedTokens: 166
 keywords: [Experience, Cloud, Developer, Release, Notes, Salesforce, recent, updates, changes]
 ---
-
-# Experience Cloud Developer Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   the Experience Cloud developer experience.

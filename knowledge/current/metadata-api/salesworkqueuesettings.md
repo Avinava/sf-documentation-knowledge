@@ -5,12 +5,10 @@ topic: salesworkqueuesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.903Z
+lastCollected: 2026-04-07T18:36:29.382Z
 estimatedTokens: 648
-keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, Sales, Engagement, add, custom, number, person, accounts]
+keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, Sales, Engagement, add, number, person, accounts, contacts, leads, sort, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SalesWorkQueueSettings
 
 > Represents settings used to customize work queue options for third-party
       scoring. In Sales Engagement, you can add a custom number field on person accounts,

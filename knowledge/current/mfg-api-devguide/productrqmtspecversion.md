@@ -5,12 +5,10 @@ topic: productrqmtspecversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:23.964Z
+lastCollected: 2026-04-07T18:38:14.310Z
 estimatedTokens: 634
-keywords: [ProductRqmtSpecVersion, specific, numbered, snapshot, Requirement, Specification, particular, time, outlining, purpose, scope, constraints, validation, API, version]
+keywords: [ProductRqmtSpecVersion, specific, numbered, snapshot, Requirement, Specification, particular, time, outlining, purpose, scope, constraints, validation, API, 65.0]
 ---
-
-# ProductRqmtSpecVersion
 
 > Represents a specific, numbered snapshot of a Requirement Specification at a
       particular time, outlining the purpose, scope, constraints, and validation methods. This

@@ -5,12 +5,10 @@ topic: record-creation-with-content-documents-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.172Z
+lastCollected: 2026-04-07T18:37:41.221Z
 estimatedTokens: 559
-keywords: [Record, Creation, Content, Documents, POST, records, Salesforce, objects, document]
+keywords: [Record, Creation, Content, Documents, POST, records, Salesforce, document]
 ---
-
-# Record Creation with Content Documents (POST)
 
 > Create records in Salesforce objects using a document based on a
       content document record.

@@ -5,12 +5,10 @@ topic: visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.688Z
+lastCollected: 2026-04-07T18:39:16.228Z
 estimatedTokens: 2996
-keywords: [Visit, Track, rep’s, retail, store, they, perform, activities, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [Visit, Track, rep’s, retail, store, they, perform, activities, API, 47.0]
 ---
-
-# Visit
 
 > Track information related to a field rep’s visit to a retail store where they
       perform retail activities. This object is available in API version 47.0 and later.

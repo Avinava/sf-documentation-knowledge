@@ -5,12 +5,10 @@ topic: bindingobjectratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.761Z
+lastCollected: 2026-04-07T18:35:48.746Z
 estimatedTokens: 1294
-keywords: [BindingObjectRateCardEntry, rate, card, entry, usage, resource, associated, binding, that's, charge, over, consumption, API, version, 64.0]
+keywords: [BindingObjectRateCardEntry, rate, card, entry, resource, binding, that's, charge, over, consumption, API, 64.0]
 ---
-
-# BindingObjectRateCardEntry
 
 > Represents the rate card entry details of the usage resource
          associated with the binding object that's used to charge over consumption. This object

@@ -5,12 +5,10 @@ topic: datadetectpolicyobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.761Z
+lastCollected: 2026-04-07T18:38:29.643Z
 estimatedTokens: 256
-keywords: [DataDetectPolicyObject, DataDetect, scan, policy, scanned, API, version, 62.0, later, Calls]
+keywords: [DataDetectPolicyObject, DataDetect, scan, policy, scanned, API, 62.0]
 ---
-
-# DataDetectPolicyObject
 
 > Represents an object of the DataDetect scan policy to be 
       scanned. This object is available in API version 62.0 and later.

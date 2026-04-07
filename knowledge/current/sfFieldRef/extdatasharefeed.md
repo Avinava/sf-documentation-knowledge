@@ -5,12 +5,10 @@ topic: extdatasharefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.492Z
+lastCollected: 2026-04-07T18:39:40.081Z
 estimatedTokens: 359
-keywords: [ExtDataShareFeed, Feed, tracking, ExtDataShare]
+keywords: [ExtDataShareFeed, ExtDataShare]
 ---
-
-# ExtDataShareFeed
 
 > Feed tracking for ExtDataShare.
 

@@ -5,12 +5,10 @@ topic: useradditionalinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.135Z
+lastCollected: 2026-04-07T18:38:02.040Z
 estimatedTokens: 1837
-keywords: [UserAdditionalInfo, user, additional, identifiers, preferences, address, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [UserAdditionalInfo, user, additional, identifiers, preferences, address, API, 65.0]
 ---
-
-# UserAdditionalInfo
 
 > Represents information about a user such as additional identifiers, user
          preferences, and a return address. This object is available in API version 65.0 and

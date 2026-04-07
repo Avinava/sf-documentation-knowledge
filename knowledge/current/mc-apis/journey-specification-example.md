@@ -5,12 +5,10 @@ topic: journey-specification-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.261Z
+lastCollected: 2026-04-07T18:40:18.471Z
 estimatedTokens: 1188
 keywords: [Journey, Specification, JSON, entire]
 ---
-
-# Journey Specification Example
 
 > The following JSON example represents an entire journey:
 

@@ -5,12 +5,10 @@ topic: ai-accelerator-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.831Z
+lastCollected: 2026-04-07T18:36:35.302Z
 estimatedTokens: 513
-keywords: [Accelerator, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller]
+keywords: [Accelerator, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# AI Accelerator Tooling  Objects
 
 > Tooling API exposes metadata used in developer tooling that you can
    access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to

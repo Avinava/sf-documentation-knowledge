@@ -5,12 +5,10 @@ topic: visitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.580Z
+lastCollected: 2026-04-07T18:37:48.215Z
 estimatedTokens: 584
-keywords: [Visitor, sales, reps, performing, visits, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [Visitor, sales, reps, performing, visits]
 ---
-
-# Visitor
 
 > Represents the sales reps performing visits.
 

@@ -5,12 +5,10 @@ topic: lightningtabrefreshed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.018Z
+lastCollected: 2026-04-07T18:36:49.090Z
 estimatedTokens: 103
-keywords: [lightning, tabRefreshed, tab, refreshed, lightning__tabRefreshed, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabRefreshed, LWC]
+keywords: [lightning, tabRefreshed, tab, refreshed, lightning__tabRefreshed, Lightning, message, channel, corresponds, Aura, app, event, web, console, _tabRefreshed, LWC]
 ---
-
-# lightning:tabRefreshed
 
 > A Lightning message channel that corresponds to the lightning:tabRefreshed Aura app event. This message channel is available for
         Lightning web components used within a Lightning console app.

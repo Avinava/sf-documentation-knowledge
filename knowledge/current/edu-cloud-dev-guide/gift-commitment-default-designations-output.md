@@ -5,12 +5,10 @@ topic: gift-commitment-default-designations-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.465Z
+lastCollected: 2026-04-07T18:37:29.544Z
 estimatedTokens: 116
-keywords: [Gift, Commitment, Designations, Output, representation, associated]
+keywords: [Gift, Commitment, Designations]
 ---
-
-# Gift Commitment Default Designations Output
 
 > Output representation of a list of default designations associated with a gift
     commitment.

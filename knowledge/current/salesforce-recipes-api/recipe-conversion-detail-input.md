@@ -5,12 +5,10 @@ topic: recipe-conversion-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.873Z
+lastCollected: 2026-04-07T18:39:18.594Z
 estimatedTokens: 156
-keywords: [Recipe, Conversion, Detail, Input, upconversion, data, prep]
+keywords: [Recipe, Conversion, Detail, upconversion, prep]
 ---
-
-# Recipe Conversion Detail Input
 
 > The details for the upconversion of a data prep recipe.
 

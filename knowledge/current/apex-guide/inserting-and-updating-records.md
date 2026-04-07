@@ -5,12 +5,10 @@ topic: inserting-and-updating-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.227Z
+lastCollected: 2026-04-07T18:36:19.451Z
 estimatedTokens: 660
 keywords: [Inserting, Updating, Records, DML, insert, new, commit, database, Similarly]
 ---
-
-# Inserting and Updating Records
 
 > Using DML, you can insert new records and commit them to the database. Similarly, you
         can update the field values of existing records.

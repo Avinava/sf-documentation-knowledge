@@ -5,12 +5,10 @@ topic: accountservicepreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.882Z
+lastCollected: 2026-04-07T18:37:45.274Z
 estimatedTokens: 1023
-keywords: [AccountServicePreference, preferences, account, services, they, receive, Home, Health, patient, workers, assigned, their, visits, API, version]
+keywords: [AccountServicePreference, preferences, account, services, they, receive, Home, Health, patient, workers, assigned, their, visits, API, 58.0]
 ---
-
-# AccountServicePreference
 
 > Represents the preferences an account has for the services they receive. In
          Home Health, this object represents the preferences that a patient has for the health

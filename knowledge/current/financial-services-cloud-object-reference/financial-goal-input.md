@@ -5,12 +5,10 @@ topic: financial-goal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.108Z
+lastCollected: 2026-04-07T18:37:34.665Z
 estimatedTokens: 546
-keywords: [Financial, Goal, Input, creating, updating]
+keywords: [Financial, Goal, creating, updating]
 ---
-
-# Financial Goal Input
 
 > Input for creating or updating a financial goal.
 

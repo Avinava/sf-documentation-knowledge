@@ -5,12 +5,10 @@ topic: connectapisocialstatusrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.604Z
+lastCollected: 2026-04-07T18:36:11.892Z
 estimatedTokens: 98
 keywords: [ConnectApi.SocialStatusRepresentation, Status, Webstore, Meta, Config, entity, creation]
 ---
-
-# ConnectApi.SocialStatusRepresentation
 
 > Status response for Webstore Meta Config entity creation.
 

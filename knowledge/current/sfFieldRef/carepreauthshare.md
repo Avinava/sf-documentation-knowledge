@@ -5,12 +5,10 @@ topic: carepreauthshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.881Z
+lastCollected: 2026-04-07T18:39:32.248Z
 estimatedTokens: 248
 keywords: [CarePreauthShare, Sharing, CarePreauth]
 ---
-
-# CarePreauthShare
 
 > Sharing for CarePreauth.
 

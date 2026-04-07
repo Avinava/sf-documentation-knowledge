@@ -5,12 +5,10 @@ topic: apptbundleaggrdurdnscalefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.924Z
+lastCollected: 2026-04-07T18:39:26.884Z
 estimatedTokens: 365
-keywords: [ApptBundleAggrDurDnscaleFeed, Feed, tracking, ApptBundleAggrDurDnscale]
+keywords: [ApptBundleAggrDurDnscaleFeed, ApptBundleAggrDurDnscale]
 ---
-
-# ApptBundleAggrDurDnscaleFeed
 
 > Feed tracking for ApptBundleAggrDurDnscale.
 

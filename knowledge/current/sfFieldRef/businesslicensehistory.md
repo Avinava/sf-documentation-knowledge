@@ -5,12 +5,10 @@ topic: businesslicensehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.472Z
+lastCollected: 2026-04-07T18:39:30.692Z
 estimatedTokens: 263
-keywords: [BusinessLicenseHistory, History, tracked, BusinessLicense]
+keywords: [BusinessLicenseHistory, tracked, BusinessLicense]
 ---
-
-# BusinessLicenseHistory
 
 > History for tracked fields of BusinessLicense.
 

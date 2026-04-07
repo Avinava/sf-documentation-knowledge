@@ -5,12 +5,10 @@ topic: oci-batch-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.472Z
+lastCollected: 2026-04-07T18:37:09.241Z
 estimatedTokens: 96
-keywords: [OCI, Batch, Input, inventory, records]
+keywords: [OCI, Batch, inventory, records]
 ---
-
-# OCI Batch Update Input
 
 > Details of one or more inventory records to update in a batch.
 

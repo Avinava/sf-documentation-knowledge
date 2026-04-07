@@ -5,12 +5,10 @@ topic: retrievesingleoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.565Z
+lastCollected: 2026-04-07T18:40:18.764Z
 estimatedTokens: 318
 keywords: [RetrieveSingleOptions]
 ---
-
-# RetrieveSingleOptions
 
 # RetrieveSingleOptions
 

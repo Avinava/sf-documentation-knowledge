@@ -5,12 +5,10 @@ topic: connectapicancelallorderitemsasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.153Z
+lastCollected: 2026-04-07T18:36:07.520Z
 estimatedTokens: 111
 keywords: [asynchronous, background, operation]
 ---
-
-# ConnectApi.CancelAllOrderItemsAsyncOutputRepresentation
 
 > ID of the asynchronous background operation.
 

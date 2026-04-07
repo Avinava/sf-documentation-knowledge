@@ -5,12 +5,10 @@ topic: what-are-custom-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.668Z
+lastCollected: 2026-04-07T18:38:50.901Z
 estimatedTokens: 434
-keywords: [Custom, Controllers, Controller, Extensions, Apex, implements, logic, leveraging, standard, want, Visualforce, run, entirely, system, mode]
+keywords: [Controllers, Controller, Extensions, Apex, implements, logic, leveraging, standard, want, Visualforce, run, entirely, system, mode, enforce, permissions, field-level, security, current]
 ---
-
-# What are Custom Controllers and Controller Extensions?
 
 > A custom controller is an Apex class that implements all of the logic for a page
    without leveraging a standard controller. Use custom controllers when you want your Visualforce page to run entirely in system

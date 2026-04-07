@@ -5,12 +5,10 @@ topic: show-users-the-top-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.025Z
+lastCollected: 2026-04-07T18:39:17.696Z
 estimatedTokens: 426
-keywords: [Show, Users, Top, Recommendations, Einstein, Best, Action, strategies, Actions, component, display, configure, deployment, Setup, programmatically]
+keywords: [Show, Users, Top, Recommendations, Einstein, Best, Action, strategies, Actions, display, configure, deployment, Setup, programmatically, metadata, RecordActionDeployment]
 ---
-
-# Show Users the Top Recommendations
 
 > You can show the top recommendations from your Einstein Next Best Action strategies in
     the Actions & Recommendations component. To display recommendations, configure a deployment

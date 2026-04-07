@@ -5,12 +5,10 @@ topic: documentenvelope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.666Z
+lastCollected: 2026-04-07T18:37:25.589Z
 estimatedTokens: 992
-keywords: [DocumentEnvelope, container, document, routed, signatures, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [DocumentEnvelope, container, document, routed, signatures, API, 56.0]
 ---
-
-# DocumentEnvelope
 
 > The container for a document that is routed for signatures. This object is available in API version 56.0 and later.
 

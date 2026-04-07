@@ -5,12 +5,10 @@ topic: decision-matrix-variable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.568Z
+lastCollected: 2026-04-07T18:36:39.265Z
 estimatedTokens: 113
-keywords: [Decision, Matrix, Variable, input, output, variables]
+keywords: [Decision, Matrix, Variable, variables]
 ---
-
-# Decision Matrix Variable
 
 > Details of the input or output variables of a decision
     matrix.

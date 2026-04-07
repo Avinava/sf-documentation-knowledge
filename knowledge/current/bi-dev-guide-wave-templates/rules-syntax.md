@@ -5,12 +5,10 @@ topic: rules-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.049Z
+lastCollected: 2026-04-07T18:37:02.596Z
 estimatedTokens: 268
-keywords: [Rules, may, contain, any, number, rule, objects, made]
+keywords: [may, contain, any, number, rule, made]
 ---
-
-# Rules Syntax
 
 > The rules object may contain any number of rule objects. A rule object is made up
     of:

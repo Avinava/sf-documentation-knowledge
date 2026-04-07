@@ -5,12 +5,10 @@ topic: envelope-notification-expiration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.703Z
+lastCollected: 2026-04-07T18:37:24.689Z
 estimatedTokens: 186
-keywords: [Envelope, Notification, Expiration, Input]
+keywords: [Envelope, Notification, Expiration]
 ---
-
-# Envelope Notification Expiration Input
 
 > Input to get notification expiration information.
 

@@ -5,12 +5,10 @@ topic: searchcriteriaconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.692Z
+lastCollected: 2026-04-07T18:39:04.721Z
 estimatedTokens: 1259
-keywords: [SearchCriteriaConfiguration, Retrieve, deploy, view, search, criteria, configurations, criteria-based, filter, Parent, File, Suffix, Directory, Location, Version, configuration, searchable, group, basis, aggregation]
+keywords: [SearchCriteriaConfiguration, Retrieve, deploy, view, search, criteria, configurations, criteria-based, filter, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, configuration, searchable, group, basis, aggregation, sort, result, display, API, 58.0, SOAP, REST]
 ---
-
-# SearchCriteriaConfiguration
 
 > Represents the configuration details of searchable field sets such as the
          group of fields used as the basis for search, aggregation, sort, and result display.

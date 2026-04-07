@@ -5,12 +5,10 @@ topic: time-series-v2-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.005Z
+lastCollected: 2026-04-07T18:39:19.701Z
 estimatedTokens: 404
-keywords: [Time, Series, version, node, recipe]
+keywords: [Time, Series, node, recipe]
 ---
-
-# Time Series V2 Parameters
 
 > The parameters for a time series version 2 node in a recipe.
 

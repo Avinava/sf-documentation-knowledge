@@ -5,12 +5,10 @@ topic: custom-objects-for-retail-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.590Z
+lastCollected: 2026-04-07T18:39:12.115Z
 estimatedTokens: 8392
-keywords: [Custom, Objects, Retail, Execution, consumer, goods, data, model, support]
+keywords: [Retail, Execution, consumer, goods, model, support]
 ---
-
-# Custom Objects for Retail Execution
 
 > The consumer goods data model provides objects and fields to support Retail Execution
   (RE).

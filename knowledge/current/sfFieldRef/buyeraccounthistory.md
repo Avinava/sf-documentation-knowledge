@@ -5,12 +5,10 @@ topic: buyeraccounthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.626Z
+lastCollected: 2026-04-07T18:39:30.848Z
 estimatedTokens: 168
-keywords: [BuyerAccountHistory, History, tracked, BuyerAccount]
+keywords: [BuyerAccountHistory, tracked, BuyerAccount]
 ---
-
-# BuyerAccountHistory
 
 > History for tracked fields of BuyerAccount.
 

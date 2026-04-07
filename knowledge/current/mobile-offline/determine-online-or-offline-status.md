@@ -5,12 +5,10 @@ topic: determine-online-or-offline-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.913Z
+lastCollected: 2026-04-07T18:38:15.407Z
 estimatedTokens: 259
-keywords: [Determine, Online, Offline, Status, Salesforce, Mobile, app, Service, Lightning, Web, Components, generally, don’t, mechanism, detecting]
+keywords: [Determine, Online, Offline, Status, Salesforce, Mobile, app, Service, Lightning, Web, generally, don’t, mechanism, detecting, whether, device, design]
 ---
-
-# Determine Online or Offline Status
 
 > The Salesforce Mobile app, Field Service Mobile app, and Lightning Web Components
   generally, don’t have a supported mechanism for detecting whether a device is online or not.

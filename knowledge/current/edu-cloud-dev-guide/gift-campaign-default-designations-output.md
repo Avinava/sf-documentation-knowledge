@@ -5,12 +5,10 @@ topic: gift-campaign-default-designations-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.450Z
+lastCollected: 2026-04-07T18:37:29.535Z
 estimatedTokens: 116
-keywords: [Gift, Campaign, Designations, Output, representation, associated, record]
+keywords: [Gift, Campaign, Designations, record]
 ---
-
-# Gift Campaign Default Designations Output
 
 > Output representation of a list of default designations associated with a gift campaign
     record.

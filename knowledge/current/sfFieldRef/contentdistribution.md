@@ -5,12 +5,10 @@ topic: contentdistribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.760Z
+lastCollected: 2026-04-07T18:39:35.207Z
 estimatedTokens: 623
-keywords: [ContentDistribution, sharing, document, externally, API, version, 32.0, later]
+keywords: [ContentDistribution, sharing, document, externally, API, 32.0]
 ---
-
-# ContentDistribution
 
 > Represents information about sharing a document externally.
 		This object is available in API version 32.0 and later.

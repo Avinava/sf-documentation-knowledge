@@ -5,12 +5,10 @@ topic: apextoolbargroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.586Z
+lastCollected: 2026-04-07T18:38:50.821Z
 estimatedTokens: 823
-keywords: [apex, toolbarGroup, group, components, toolbar, aligned, left, right, <apex, toolbarGroup>, component, child, toolbar>, Attributes]
+keywords: [Attributes, apex, toolbarGroup, group, toolbar, aligned, left, right, <apex, toolbarGroup>, child, toolbar>]
 ---
-
-# apex:toolbarGroup
 
 > A group of components within a toolbar that can be aligned to the left or right of the toolbar. The <apex:toolbarGroup> component must be a child component of an <apex:toolbar>.
 

@@ -5,12 +5,10 @@ topic: agentforce-it-service-graphql-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:09.784Z
+lastCollected: 2026-04-07T18:35:54.876Z
 estimatedTokens: 635
-keywords: [Agentforce, Service, GraphQL, APIs, access, Canonical, API, standard, endpoint, connects, Configuration, Management, Database, CMDB]
+keywords: [Agentforce, Service, GraphQL, APIs, Canonical, API, standard, endpoint, connects, Configuration, Management, Database, CMDB]
 ---
-
-# Agentforce IT Service GraphQL APIs
 
 > You can access Agentforce IT Service Canonical GraphQL API
         using standard GraphQL endpoint that connects to the Configuration Management Database

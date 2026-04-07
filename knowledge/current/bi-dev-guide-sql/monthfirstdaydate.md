@@ -5,12 +5,10 @@ topic: monthfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.077Z
+lastCollected: 2026-04-07T18:37:01.690Z
 estimatedTokens: 170
-keywords: [month_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, month, _first, _day]
+keywords: [month_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, month, _first, _day]
 ---
-
-# month_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy object as input. Returns an object of the same type that
   corresponds to the first day of the month that contains the specified date.

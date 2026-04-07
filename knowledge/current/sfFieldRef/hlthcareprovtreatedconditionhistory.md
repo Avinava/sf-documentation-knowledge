@@ -5,12 +5,10 @@ topic: hlthcareprovtreatedconditionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.404Z
+lastCollected: 2026-04-07T18:39:44.039Z
 estimatedTokens: 284
-keywords: [HlthCareProvTreatedConditionHistory, History, tracked, HlthCareProvTreatedCondition]
+keywords: [HlthCareProvTreatedConditionHistory, tracked, HlthCareProvTreatedCondition]
 ---
-
-# HlthCareProvTreatedConditionHistory
 
 > History for tracked fields of HlthCareProvTreatedCondition.
 

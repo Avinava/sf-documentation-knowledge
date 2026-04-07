@@ -5,12 +5,10 @@ topic: verify-access-to-your-salesforce-partner-business-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.258Z
+lastCollected: 2026-04-07T18:38:46.108Z
 estimatedTokens: 260
-keywords: [Verify, Access, Salesforce, Partner, Business, Org, you’re, eligible, PBO, tools, setting, managing, AppExchange, ISV, consulting]
+keywords: [Verify, Salesforce, Partner, Business, Org, you’re, eligible, PBO, tools, setting, managing, AppExchange, ISV, consulting, practice, start, building, solution]
 ---
-
-# Verify Access to Your Salesforce Partner Business Org
 
 > As a Salesforce partner, you’re eligible for a Partner Business Org (PBO). Your PBO
   contains tools for setting up and managing an AppExchange ISV business or consulting practice.

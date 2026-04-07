@@ -5,12 +5,10 @@ topic: promotion-coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.974Z
+lastCollected: 2026-04-07T18:38:08.226Z
 estimatedTokens: 124
-keywords: [Promotion, Coupon, Output, representation]
+keywords: [Promotion, Coupon]
 ---
-
-# Promotion Coupon
 
 > Output representation of the promotion coupon.
 

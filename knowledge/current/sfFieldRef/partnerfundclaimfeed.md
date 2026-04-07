@@ -5,12 +5,10 @@ topic: partnerfundclaimfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.313Z
+lastCollected: 2026-04-07T18:39:51.727Z
 estimatedTokens: 389
-keywords: [PartnerFundClaimFeed, Feed, tracking, PartnerFundClaim]
+keywords: [PartnerFundClaimFeed, PartnerFundClaim]
 ---
-
-# PartnerFundClaimFeed
 
 > Feed tracking for PartnerFundClaim.
 

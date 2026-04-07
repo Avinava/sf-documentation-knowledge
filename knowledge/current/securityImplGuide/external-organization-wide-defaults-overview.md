@@ -5,12 +5,10 @@ topic: external-organization-wide-defaults-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:29.007Z
+lastCollected: 2026-04-07T18:39:22.933Z
 estimatedTokens: 702
-keywords: [External, Organization-Wide, Defaults, provide, separate, internal, users, help, better, secure, data]
+keywords: [External, Organization-Wide, Defaults, provide, separate, internal, users, help, better, secure]
 ---
-
-# External Organization-Wide Defaults Overview
 
 > External organization-wide defaults provide separate organization-wide defaults for
         internal and external users to help you better secure your data.

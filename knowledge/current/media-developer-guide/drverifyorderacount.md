@@ -5,12 +5,10 @@ topic: drverifyorderacount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.073Z
+lastCollected: 2026-04-07T18:38:11.338Z
 estimatedTokens: 159
-keywords: [DRVerifyOrderAcount, Omnistudio, Data, Mapper, total, amount, order, Sample, Input, Output]
+keywords: [DRVerifyOrderAcount, Omnistudio, Mapper, total, amount, order, Sample]
 ---
-
-# DRVerifyOrderAcount
 
 > This Omnistudio Data Mapper gets the total amount for an
     order.

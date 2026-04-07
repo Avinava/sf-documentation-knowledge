@@ -5,12 +5,10 @@ topic: connectapiordersummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.654Z
+lastCollected: 2026-04-07T18:36:06.012Z
 estimatedTokens: 542
 keywords: [order, OrderSummary, Optionally, specify, OrderSummary-specific, Status, whether, managed, Salesforce, Management]
 ---
-
-# ConnectApi.OrderSummaryInputRepresentation
 
 > An order from which to create an OrderSummary. Optionally, you can
       specify OrderSummary-specific information such as its Status and whether it is managed in

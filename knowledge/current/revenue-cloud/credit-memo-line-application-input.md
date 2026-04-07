@@ -5,12 +5,10 @@ topic: credit-memo-line-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.241Z
+lastCollected: 2026-04-07T18:35:43.125Z
 estimatedTokens: 181
-keywords: [Credit, Memo, Line, Application, Input, representation, specify, applications, apply, representing, invoice]
+keywords: [Credit, Memo, Line, Application, specify, applications, apply, representing, invoice]
 ---
-
-# Credit Memo Line Application Input
 
 > Input representation of the request to specify one or more applications to apply a credit
     memo line for, with each application representing an invoice line.

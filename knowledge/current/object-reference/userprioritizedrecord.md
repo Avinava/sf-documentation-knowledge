@@ -5,12 +5,10 @@ topic: userprioritizedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.944Z
+lastCollected: 2026-04-07T18:38:43.714Z
 estimatedTokens: 597
-keywords: [UserPrioritizedRecord, records, Pipeline, Inspection, Account, Intelligence, Contact, Lead, users, flag, tracking, views, filters, API, version]
+keywords: [UserPrioritizedRecord, records, Pipeline, Inspection, Account, Intelligence, Contact, Lead, users, flag, views, filters, API, 53.0]
 ---
-
-# UserPrioritizedRecord
 
 > Represents records that Pipeline Inspection, Account Intelligence, Contact Intelligence, and Lead Intelligence users flag as important for tracking in pipeline and intelligence views and filters. This object is available in API version 53.0 and later.
 

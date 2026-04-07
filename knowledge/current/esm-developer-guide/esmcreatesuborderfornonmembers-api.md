@@ -5,12 +5,10 @@ topic: esmcreatesuborderfornonmembers-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.965Z
+lastCollected: 2026-04-07T18:37:32.137Z
 estimatedTokens: 54
 keywords: [ESM_CreateSubOrderForNonMembers, API, sub-order, line, items, any, members, groups, ESM, CreateOrder, _CreateSubOrderForNonMembers, URI, HTTP]
 ---
-
-# ESM_CreateSubOrderForNonMembers API
 
 > Create a sub-order for line items without any members or groups using ESM CreateOrder API.
 

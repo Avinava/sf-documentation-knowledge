@@ -5,12 +5,10 @@ topic: row
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.348Z
+lastCollected: 2026-04-07T18:40:22.763Z
 estimatedTokens: 103
-keywords: [Row, Function, Ordinal, rowset, numeric, Count, **Overview**, **Syntax**, Usage]
+keywords: [Row, Function, Ordinal, rowset, numeric, Count, **Overview**, **Syntax**]
 ---
-
-# Row
 
 > Row(1, 2)
 

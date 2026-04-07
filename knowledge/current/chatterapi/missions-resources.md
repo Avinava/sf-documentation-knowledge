@@ -5,12 +5,10 @@ topic: missions-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:27.601Z
+lastCollected: 2026-04-07T18:37:14.620Z
 estimatedTokens: 211
 keywords: [Missions, Resources, user’s, mission, activity, count, Export, purge, user, users, progress]
 ---
-
-# Missions Resources
 
 > Update a user’s mission activity count. Export and purge mission activity for a user.
       Purge mission activity for all users. Get a user’s mission progress.

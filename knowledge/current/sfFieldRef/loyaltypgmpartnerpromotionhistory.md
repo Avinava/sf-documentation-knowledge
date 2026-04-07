@@ -5,12 +5,10 @@ topic: loyaltypgmpartnerpromotionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.950Z
+lastCollected: 2026-04-07T18:39:47.412Z
 estimatedTokens: 280
-keywords: [LoyaltyPgmPartnerPromotionHistory, History, tracked, LoyaltyPgmPartnerPromotion]
+keywords: [LoyaltyPgmPartnerPromotionHistory, tracked, LoyaltyPgmPartnerPromotion]
 ---
-
-# LoyaltyPgmPartnerPromotionHistory
 
 > History for tracked fields of LoyaltyPgmPartnerPromotion.
 

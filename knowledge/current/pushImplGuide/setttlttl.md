@@ -5,12 +5,10 @@ topic: setttlttl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.768Z
+lastCollected: 2026-04-07T18:39:09.083Z
 estimatedTokens: 37
 keywords: [setTtl, ttl, Reserved, future]
 ---
-
-# setTtl(ttl)
 
 > Reserved for future use.
 

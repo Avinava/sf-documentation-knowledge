@@ -5,12 +5,10 @@ topic: insert-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.708Z
+lastCollected: 2026-04-07T18:37:27.711Z
 estimatedTokens: 79
 keywords: [Insert, Records, sample, JavaScript, script, Quote, Line, Calculator]
 ---
-
-# Insert Records
 
 > The sample JavaScript script can be used in the Quote Line Calculator to insert
 		records.

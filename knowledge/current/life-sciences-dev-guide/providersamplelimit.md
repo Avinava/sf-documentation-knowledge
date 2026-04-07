@@ -5,12 +5,10 @@ topic: providersamplelimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.561Z
+lastCollected: 2026-04-07T18:38:01.419Z
 estimatedTokens: 837
-keywords: [ProviderSampleLimit, sample, limits, remaining, quantity, applied, account, product, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProviderSampleLimit, sample, limits, remaining, quantity, applied, account, product, API, 65.0]
 ---
-
-# ProviderSampleLimit
 
 > Represents sample limits and remaining quantity applied to a given account
          and product. This object is available in API version 65.0 and later.

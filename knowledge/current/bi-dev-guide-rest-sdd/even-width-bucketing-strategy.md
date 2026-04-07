@@ -5,12 +5,10 @@ topic: even-width-bucketing-strategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.895Z
+lastCollected: 2026-04-07T18:36:59.393Z
 estimatedTokens: 124
 keywords: [Width, Bucketing, Strategy, even-width]
 ---
-
-# Even Width Bucketing Strategy
 
 > The even-width bucketing strategy.
 

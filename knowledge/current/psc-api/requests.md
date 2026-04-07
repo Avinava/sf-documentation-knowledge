@@ -5,12 +5,10 @@ topic: requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.485Z
+lastCollected: 2026-04-07T18:39:03.670Z
 estimatedTokens: 106
 keywords: [Requests, Here’s, Identity, Verification, API, bodies, Record, Rollup, Definitions, Business, APIs]
 ---
-
-# Requests
 
 > Learn more about the available request body of Record Rollup Definitions Business
     APIs.

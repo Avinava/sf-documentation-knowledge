@@ -5,12 +5,10 @@ topic: average-distance-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.816Z
+lastCollected: 2026-04-07T18:37:16.883Z
 estimatedTokens: 85
-keywords: [Average, Distance, Result, Output, Wraps, inventory, location, shipping, calculation, results]
+keywords: [Average, Distance, Result, Wraps, inventory, location, shipping, calculation, results]
 ---
-
-# Average Distance Result Output
 
 > Wraps inventory location shipping distance calculation
     results.

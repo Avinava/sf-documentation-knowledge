@@ -5,12 +5,10 @@ topic: validate-aura-api-aura-api-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.767Z
+lastCollected: 2026-04-07T18:38:02.698Z
 estimatedTokens: 538
-keywords: [Validate, Aura, API, aura-api, rule, verifies, framework, APIs, according, published, documentation, undocumented, features, disallowed, Further]
+keywords: [Validate, Aura, API, aura-api, rule, verifies, framework, APIs, according, published, documentation, undocumented, features, disallowed, Further, Reading]
 ---
-
-# Validate Aura API ( aura-api ) )
 
 > This rule verifies that use of the framework APIs is according to
             the published documentation. The use of undocumented or private features is

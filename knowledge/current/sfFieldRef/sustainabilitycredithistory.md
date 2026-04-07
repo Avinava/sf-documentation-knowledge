@@ -5,12 +5,10 @@ topic: sustainabilitycredithistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.662Z
+lastCollected: 2026-04-07T18:40:03.355Z
 estimatedTokens: 270
-keywords: [SustainabilityCreditHistory, History, tracked, SustainabilityCredit]
+keywords: [SustainabilityCreditHistory, tracked, SustainabilityCredit]
 ---
-
-# SustainabilityCreditHistory
 
 > History for tracked fields of SustainabilityCredit.
 

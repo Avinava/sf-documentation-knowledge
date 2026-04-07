@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-records-with-a-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.488Z
+lastCollected: 2026-04-07T18:40:11.482Z
 estimatedTokens: 260
-keywords: [Batch, Records, record, data, resource, uses, POST, let, enter, instead, URL]
+keywords: [Batch, Records, record, resource, uses, POST, let, enter, instead, URL]
 ---
-
-# Get a Batch of Related List Records with a Request Body
 
 > Returns record data for a batch of related lists. This resource uses
    the POST method to let you enter request parameters in the request body instead of the

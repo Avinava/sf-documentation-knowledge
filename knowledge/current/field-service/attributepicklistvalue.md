@@ -5,12 +5,10 @@ topic: attributepicklistvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:01.500Z
+lastCollected: 2026-04-07T18:36:47.464Z
 estimatedTokens: 895
-keywords: [AttributePicklistValue, asset, attribute, picklist, API, version, 57.0, later, Calls, Special, Access, Rules, Usage, Associated, Objects]
+keywords: [AttributePicklistValue, asset, attribute, picklist, API, 57.0]
 ---
-
-# AttributePicklistValue
 
 > Represents the values of an asset attribute picklist. This object is
       available in API version 57.0 and later.

@@ -5,12 +5,10 @@ topic: output-d360-fields-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.755Z
+lastCollected: 2026-04-07T18:39:18.468Z
 estimatedTokens: 94
-keywords: [Output, D360, Mapping, Input, node, recipe]
+keywords: [D360, Mapping, node, recipe]
 ---
-
-# Output D360 Fields Mapping Input
 
 > The fields mapping for an output D360 node in a recipe.
 

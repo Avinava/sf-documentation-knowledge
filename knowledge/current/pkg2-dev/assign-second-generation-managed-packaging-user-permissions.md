@@ -5,12 +5,10 @@ topic: assign-second-generation-managed-packaging-user-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.067Z
+lastCollected: 2026-04-07T18:38:56.754Z
 estimatedTokens: 379
-keywords: [Assign, Second-Generation, Managed, Packaging, User, Permissions, packages, scratch, orgs, developers, require, access, Dev, Hub, org]
+keywords: [Assign, Second-Generation, Managed, Packaging, User, Permissions, packages, scratch, orgs, developers, require, Dev, Hub, org, recommend, enabling, Partner, Business, PBO, Salesforce, admin, permission, grant, appropriate, system]
 ---
-
-# Assign Second-Generation Managed Packaging User Permissions
 
 > To create second-generation managed packages and scratch orgs, developers require access
   to the Dev Hub org. We recommend enabling the Dev Hub in your Partner Business Org (PBO). A

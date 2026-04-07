@@ -5,12 +5,10 @@ topic: dataextensionupdateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.287Z
+lastCollected: 2026-04-07T18:40:16.427Z
 estimatedTokens: 527
-keywords: [DataExtensionUpdateResult, error, messages, attempt, data, extension, message, every, process, opposed, encountered]
+keywords: [DataExtensionUpdateResult, error, messages, attempt, extension, message, every, process, opposed, encountered]
 ---
-
-# DataExtensionUpdateResult
 
 > The DataExtensionUpdateResult object provides error messages related to an attempt to update a data extension. The object provides one error message for every error in the process, as opposed to just the first error encountered.
 

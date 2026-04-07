@@ -5,12 +5,10 @@ topic: fulfillment-orders-distribute-quantities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.530Z
+lastCollected: 2026-04-07T18:37:15.593Z
 estimatedTokens: 384
 keywords: [Fulfillment, Orders, Distribute, Quantities, Distributes, batch-picked, require, items, picked]
 ---
-
-# Fulfillment Orders, Distribute Quantities
 
 > Distributes batch-picked quantities to orders that require the items
       picked.

@@ -5,12 +5,10 @@ topic: billingarrangement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.527Z
+lastCollected: 2026-04-07T18:35:48.529Z
 estimatedTokens: 535
-keywords: [BillingArrangement, arrangement, invoicing, transaction’s, billing, amount, accounts, whether, total, invoiced, owning, account, different, invoices, split]
+keywords: [BillingArrangement, arrangement, invoicing, transaction’s, billing, amount, accounts, whether, total, invoiced, owning, account, different, invoices, split, among, multiple, API, 66.0]
 ---
-
-# BillingArrangement
 
 > Represents the arrangement for invoicing a transaction’s billing amount to
          one or more accounts. The arrangement specifies whether the total amount must be invoiced

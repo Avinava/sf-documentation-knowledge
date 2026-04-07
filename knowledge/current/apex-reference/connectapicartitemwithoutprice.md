@@ -5,12 +5,10 @@ topic: connectapicartitemwithoutprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.286Z
+lastCollected: 2026-04-07T18:36:07.657Z
 estimatedTokens: 62
 keywords: [ConnectApi.CartItemWithoutPrice, item, price, cart]
 ---
-
-# ConnectApi.CartItemWithoutPrice
 
 > An item without price information in a cart.
 

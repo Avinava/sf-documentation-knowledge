@@ -5,12 +5,10 @@ topic: inspectiontypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.467Z
+lastCollected: 2026-04-07T18:39:45.036Z
 estimatedTokens: 360
-keywords: [InspectionTypeFeed, Feed, tracking, InspectionType]
+keywords: [InspectionTypeFeed, InspectionType]
 ---
-
-# InspectionTypeFeed
 
 > Feed tracking for InspectionType.
 

@@ -5,12 +5,10 @@ topic: connectapidatagraphvaluesdmofield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.177Z
+lastCollected: 2026-04-07T18:36:08.588Z
 estimatedTokens: 110
-keywords: [ConnectApi.DataGraphValuesDmoField, Data, Model, DMO, JSON, records, graph]
+keywords: [ConnectApi.DataGraphValuesDmoField, Model, DMO, JSON, records, graph]
 ---
-
-# ConnectApi.DataGraphValuesDmoField
 
 > Represents the fields of the Data Model Object (DMO) that contains the JSON records for the data graph.
 

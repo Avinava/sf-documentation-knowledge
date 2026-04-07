@@ -5,12 +5,10 @@ topic: retrieve-all-lists-a-subscriber-is-on
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.597Z
+lastCollected: 2026-04-07T18:40:18.796Z
 estimatedTokens: 1857
-keywords: [Retrieve, Subscriber, retrieving, understand, email, receives, whether, removed, Subscription, Center, show, individual, subscribed, Sample, NET]
+keywords: [Retrieve, Subscriber, retrieving, understand, email, receives, whether, removed, Subscription, Center, show, individual, subscribed, Sample, NET, Code, Java, Axis, 1.4, PHP, SOAP, Envelope, Items]
 ---
-
-# Retrieve All Lists a Subscriber is On
 
 > By retrieving all of the lists a subscriber is on, you can understand which email sends a subscriber receives and whether that subscriber is removed from these lists. You can use this in your Subscription Center to show to which lists an individual subscriber is subscribed.
 

@@ -5,12 +5,10 @@ topic: assessmentstageddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.754Z
+lastCollected: 2026-04-07T18:39:05.751Z
 estimatedTokens: 868
-keywords: [AssessmentStagedData, responses, assessment, questions, user, captures, submits, Discovery, Framework, Data, Capture, Flow, mobile, device, records]
+keywords: [AssessmentStagedData, responses, assessment, questions, user, captures, submits, Discovery, Framework, Capture, Flow, mobile, device, records, API, 63.0]
 ---
-
-# AssessmentStagedData
 
 > Represents the responses to assessment questions when a user captures and
          submits information with the Discovery Framework Data Capture Flow on a mobile device. The

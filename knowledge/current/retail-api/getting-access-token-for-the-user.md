@@ -5,12 +5,10 @@ topic: getting-access-token-for-the-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.278Z
+lastCollected: 2026-04-07T18:39:11.826Z
 estimatedTokens: 123
-keywords: [Getting, Access, Token, User, perform, subsequent, requests, Integration, API, accessing, tokens, multiple, ways, sending, RTR]
+keywords: [Getting, Token, User, perform, subsequent, requests, Integration, API, accessing, tokens, multiple, ways, sending, RTR, endpoints, uses, simple, username-password, combination, recommended, cURL, Sample]
 ---
-
-# Getting Access Token for the User
 
 > To perform subsequent requests to the Integration API, you must get an access token for accessing
     the Integration API. You can get access tokens in multiple ways before sending requests to the

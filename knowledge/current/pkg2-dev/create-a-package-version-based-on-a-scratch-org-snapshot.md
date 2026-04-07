@@ -5,12 +5,10 @@ topic: create-a-package-version-based-on-a-scratch-org-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.676Z
+lastCollected: 2026-04-07T18:38:55.095Z
 estimatedTokens: 698
-keywords: [Package, Version, Scratch, Org, Snapshot, dependent, base, requires, stable, reduce, end-to-end, creation, time, creating]
+keywords: [Package, Scratch, Org, Snapshot, dependent, base, requires, stable, reduce, end-to-end, creation, time, creating]
 ---
-
-# Create a Package Version Based on a Scratch Org Snapshot
 
 > If the dependent package your base package requires is stable, you can reduce the
   end-to-end package version creation time by creating a scratch org snapshot.

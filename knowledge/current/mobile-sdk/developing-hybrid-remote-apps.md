@@ -5,12 +5,10 @@ topic: developing-hybrid-remote-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.727Z
+lastCollected: 2026-04-07T18:40:26.061Z
 estimatedTokens: 664
-keywords: [Developing, Hybrid, Remote, Apps, easily, convert, FileExplorer, SDK, sample, github.com, forcedotcom, SalesforceMobileSDK-Shared, tree, master, samples]
+keywords: [Developing, Hybrid, Remote, Apps, easily, convert, FileExplorer, SDK, sample, github.com, forcedotcom, SalesforceMobileSDK-Shared, tree, master, samples, local, app, redefine, main, HTML, Visualforce, delivere, localhost, iOS]
 ---
-
-# Developing Hybrid Remote Apps
 
 > You can easily convert the FileExplorer SDK sample (github.com/forcedotcom/SalesforceMobileSDK-Shared/tree/master/samples/fileexplorer),
       which is a hybrid local app, into a hybrid remote app. To convert the app, you redefine the

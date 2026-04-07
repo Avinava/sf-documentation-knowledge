@@ -5,13 +5,11 @@ topic: eventbus-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.914Z
+lastCollected: 2026-04-07T18:36:15.225Z
 estimatedTokens: 695
 namespace: EventBus
-keywords: [EventBus, classes, platform, events, Change, Data, Capture]
+keywords: [EventBus, classes, platform, events, Change, Capture]
 ---
-
-# EventBus Namespace
 
 > The EventBus namespace provides classes and
     methods for platform events and Change Data Capture events.

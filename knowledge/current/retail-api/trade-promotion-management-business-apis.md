@@ -5,12 +5,10 @@ topic: trade-promotion-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.059Z
+lastCollected: 2026-04-07T18:39:11.637Z
 estimatedTokens: 98
 keywords: [Trade, Promotion, Management, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Trade Promotion Management Business APIs
 
 > Trade Promotion Management APIs are RESTful APIs that are sometimes available as Apex
     classes and methods.

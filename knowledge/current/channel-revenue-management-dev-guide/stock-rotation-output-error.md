@@ -5,12 +5,10 @@ topic: stock-rotation-output-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.145Z
+lastCollected: 2026-04-07T18:37:05.836Z
 estimatedTokens: 111
-keywords: [Stock, Rotation, Output, Error, action, including, code, message, explaining, failure]
+keywords: [Stock, Rotation, Error, action, including, code, message, explaining, failure]
 ---
-
-# Stock Rotation Output Error
 
 > Represents an error returned by a stock rotation action, including the error code and a
     message explaining the failure.

@@ -5,12 +5,10 @@ topic: careprovidersearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.383Z
+lastCollected: 2026-04-07T18:39:32.780Z
 estimatedTokens: 937
-keywords: [CareProviderSearchableField, holds, denormalized, data, certain, Provider, Relationship, Management, model, search, APIs, query, instead, multiple, objects]
+keywords: [CareProviderSearchableField, holds, denormalized, certain, Provider, Relationship, Management, model, search, APIs, query, instead, multiple, improves, performance, API, 47.0]
 ---
-
-# CareProviderSearchableField
 
 > This object holds denormalized data from certain fields in the
       Provider Relationship Management data model. Provider search APIs query this object

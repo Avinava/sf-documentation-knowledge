@@ -5,12 +5,10 @@ topic: dataflow-job-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.589Z
+lastCollected: 2026-04-07T18:36:57.109Z
 estimatedTokens: 452
 keywords: [Dataflow, Job, Node]
 ---
-
-# Dataflow Job Node
 
 > A node in a dataflow job.
 

@@ -5,12 +5,10 @@ topic: initiate-downgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.641Z
+lastCollected: 2026-04-07T18:35:44.642Z
 estimatedTokens: 570
-keywords: [Initiate, Downgrade, POST, amendment, moves, higher-tier, product, lower-tier, change, tracked, linked, asset, actions, quote, order]
+keywords: [Initiate, Downgrade, POST, amendment, moves, higher-tier, product, lower-tier, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing]
 ---
-
-# Initiate Downgrade (POST)
 
 > Create an amendment that moves a higher-tier product to a lower-tier
       product. This change is tracked as a downgrade request with linked asset actions and quote or

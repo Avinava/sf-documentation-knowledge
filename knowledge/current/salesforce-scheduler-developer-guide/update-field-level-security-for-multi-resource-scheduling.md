@@ -5,12 +5,10 @@ topic: update-field-level-security-for-multi-resource-scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.529Z
+lastCollected: 2026-04-07T18:39:21.355Z
 estimatedTokens: 240
-keywords: [Level, Security, Multi-Resource, Scheduling, field-level, settings, Primary, Resource, Assigned, user, profiles, access]
+keywords: [Level, Security, Multi-Resource, Scheduling, field-level, settings, Primary, Resource, Assigned, user, profiles]
 ---
-
-# Update Field Level Security for Multi-Resource Scheduling
 
 > Update the field-level security settings for the Primary Resource field on the
       Assigned Resource object for user profiles that need to access multi-resource

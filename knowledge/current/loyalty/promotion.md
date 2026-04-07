@@ -5,12 +5,10 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.940Z
+lastCollected: 2026-04-07T18:38:08.193Z
 estimatedTokens: 136
-keywords: [Promotion, Output, representation, rule, configuration, APIs, allow, eligibility, rules, limits, choose, template, specific, view, eligible, promotions, customer’s, cart, associated, loyalty]
+keywords: [Promotion, rule, configuration, APIs, allow, eligibility, limits, choose, template, specific, view, eligible, promotions, customer’s, cart, loyalty, program, captures, issue, voucher, credit, points, enrollment, status, API, 51.0]
 ---
-
-# Promotion
 
 > Represents a promotion associated with the loyalty program. It
       captures the information such as type of the promotion, issue of a voucher or credit points,

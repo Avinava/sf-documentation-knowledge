@@ -5,12 +5,10 @@ topic: recipe-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:07.425Z
+lastCollected: 2026-04-07T18:36:53.787Z
 estimatedTokens: 1452
 keywords: [recipe, Commands, Deprecated, Manage, Analytics, recipes, Examples, Command, start]
 ---
-
-# recipe Commands (Deprecated)
 
 > Manage Analytics recipes.
 

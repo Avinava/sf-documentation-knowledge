@@ -5,12 +5,10 @@ topic: subscribe-to-the-channel-and-receive-the-filtered-event-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.150Z
+lastCollected: 2026-04-07T18:38:57.966Z
 estimatedTokens: 911
-keywords: [Subscribe, Channel, Receive, Filtered, Event, Stream, configuring, filter, messages, match, expression, Pub, Sub, API, CometD]
+keywords: [Subscribe, Channel, Receive, Filtered, Event, Stream, configuring, filter, messages, match, expression, Pub, Sub, API, CometD, clients, support, filtering, Because, Apex, triggers, flows, processes, don’t, channels, can’t, streams]
 ---
-
-# Subscribe to the Channel and Receive the Filtered Event Stream
 
 > After configuring the filter, subscribe to the channel and receive the event messages
     that match the filter expression. Only Pub/Sub API and CometD clients support stream filtering.

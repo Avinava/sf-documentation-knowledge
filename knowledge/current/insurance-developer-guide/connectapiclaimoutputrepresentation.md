@@ -5,12 +5,10 @@ topic: connectapiclaimoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.371Z
+lastCollected: 2026-04-07T18:37:50.204Z
 estimatedTokens: 379
-keywords: [ConnectApi.ClaimOutputRepresentation, Output, representation, retrieved, claim]
+keywords: [ConnectApi.ClaimOutputRepresentation, retrieved, claim]
 ---
-
-# ConnectApi.ClaimOutputRepresentation
 
 > Output representation for a retrieved claim.
 

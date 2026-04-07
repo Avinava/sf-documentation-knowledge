@@ -5,12 +5,10 @@ topic: failed-content-link-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.343Z
+lastCollected: 2026-04-07T18:37:25.270Z
 estimatedTokens: 119
-keywords: [Failed, Content, Link, Output, representation, error, requests]
+keywords: [Failed, Content, Link, error, requests]
 ---
-
-# Failed Content Link List
 
 > Output representation of the content ID and error details for the failed
     requests.

@@ -5,12 +5,10 @@ topic: bulk-unit-of-measure-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.348Z
+lastCollected: 2026-04-07T18:35:45.317Z
 estimatedTokens: 213
-keywords: [Bulk, Unit, Measure, Info, Output, representation, records, along, error]
+keywords: [Bulk, Unit, Measure, Info, records, along, error]
 ---
-
-# Bulk Unit Of Measure Info
 
 > Output representation of the details of the unit of measure records along with error
     details.

@@ -5,12 +5,10 @@ topic: iscustomconsolecomponentpoppedout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.361Z
+lastCollected: 2026-04-07T18:36:49.467Z
 estimatedTokens: 210
-keywords: [isCustomConsoleComponentPoppedOut, Determines, custom, console, component, popped, browser, multi-monitor, components, turned, API, version, 30.0, later, Arguments]
+keywords: [Arguments, isCustomConsoleComponentPoppedOut, Determines, console, popped, browser, multi-monitor, turned, API, 30.0, Sample, Code–Visualforce]
 ---
-
-# isCustomConsoleComponentPoppedOut()
 
 > Determines if a custom console component
       is popped out from a browser. To use this method,

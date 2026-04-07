@@ -5,12 +5,10 @@ topic: filter-expressions-in-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.518Z
+lastCollected: 2026-04-07T18:37:05.254Z
 estimatedTokens: 309
-keywords: [Filter, Expressions, Channel, Members, Add, expression, member, that’s, associated, custom, standard, ChangeEvents, recommend, filtered, stream]
+keywords: [Filter, Expressions, Channel, Members, Add, expression, member, that’s, standard, ChangeEvents, recommend, filtered, stream, isolated, event, subscribers, expect, holds, events, match, change]
 ---
-
-# Filter Expressions in Channel Members
 
 > Add a filter expression in a channel member that’s associated with a custom or the
     standard ChangeEvents channel. We recommend that you use a custom channel so that the filtered

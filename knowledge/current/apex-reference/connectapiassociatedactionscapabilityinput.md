@@ -5,12 +5,10 @@ topic: connectapiassociatedactionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.228Z
+lastCollected: 2026-04-07T18:36:04.528Z
 estimatedTokens: 398
-keywords: [action, link, groups, associate, feed, element, group, call, made, Apex, created, definition, addition, user, making]
+keywords: [action, link, groups, associate, group, call, made, Apex, created, definition, addition, user, making, View, permission]
 ---
-
-# ConnectApi.AssociatedActionsCapabilityInput
 
 > A list of action link groups to associate with a feed element. To
       associate an action link group with a feed element, the call must be made from the Apex namespace that created

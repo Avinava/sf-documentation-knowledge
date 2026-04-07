@@ -5,12 +5,10 @@ topic: trialforce-key-concepts-and-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.823Z
+lastCollected: 2026-04-07T18:38:47.771Z
 estimatedTokens: 911
-keywords: [Trialforce, Key, Concepts, Relationships, setup, consists, management, org, source, orgs, templates, how, parts, work, together]
+keywords: [Trialforce, Key, Concepts, Relationships, setup, consists, management, org, source, orgs, templates, how, parts, work, together, deliver, trials, AppExchange, solution, Trial, Delivery, Options]
 ---
-
-# Trialforce Key Concepts and Relationships
 
 > A Trialforce setup consists of a Trialforce management org, Trialforce source orgs, and
     Trialforce templates. Before you set up Trialforce, learn how these parts work together to

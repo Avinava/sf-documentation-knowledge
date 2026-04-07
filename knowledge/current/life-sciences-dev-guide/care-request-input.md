@@ -5,12 +5,10 @@ topic: care-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.615Z
+lastCollected: 2026-04-07T18:37:54.930Z
 estimatedTokens: 5150
-keywords: [Care, Input, general, care-related, including, member, admission, date, decision, reason, contain, multiple, diagnoses, drugs, requests]
+keywords: [Care, general, care-related, including, member, admission, date, decision, reason, contain, multiple, diagnoses, drugs, requests, include, prior, authorizations, services, notifications, concurrent, review, admissions, appeals, complaints, grievances]
 ---
-
-# Care Request Input
 
 > The general details of a care-related request including member
       information, admission date, decision reason, and so on. A single request can contain multiple

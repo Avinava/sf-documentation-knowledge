@@ -5,12 +5,10 @@ topic: predict-history-range-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.078Z
+lastCollected: 2026-04-07T18:36:58.599Z
 estimatedTokens: 99
-keywords: [Predict, History, Range, Input, prediction, query]
+keywords: [Predict, Range, prediction, query]
 ---
-
-# Predict History Range Input
 
 > The range for prediction history query.
 

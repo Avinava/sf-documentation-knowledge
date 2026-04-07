@@ -5,12 +5,10 @@ topic: uninstall-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.905Z
+lastCollected: 2026-04-07T18:38:54.305Z
 estimatedTokens: 745
-keywords: [Uninstall, First-Generation, Managed, Package, org, Setup, components, including, any, deprecated, were, previously, associated, deleted]
+keywords: [Uninstall, First-Generation, Managed, Package, org, Setup, including, any, deprecated, were, previously, deleted]
 ---
-
-# Uninstall a First-Generation Managed Package
 
 > You can uninstall a first-generation managed package from an org using the Setup UI.
   When you uninstall a first-generation managed package, all components in the package, including

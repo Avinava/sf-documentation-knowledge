@@ -5,12 +5,10 @@ topic: workreportlineitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.220Z
+lastCollected: 2026-04-07T18:40:07.135Z
 estimatedTokens: 362
-keywords: [WorkReportLineItemFeed, Feed, tracking, WorkReportLineItem]
+keywords: [WorkReportLineItemFeed, WorkReportLineItem]
 ---
-
-# WorkReportLineItemFeed
 
 > Feed tracking for WorkReportLineItem.
 

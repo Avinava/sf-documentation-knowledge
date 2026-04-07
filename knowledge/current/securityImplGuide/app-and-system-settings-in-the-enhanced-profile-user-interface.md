@@ -5,12 +5,10 @@ topic: app-and-system-settings-in-the-enhanced-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.232Z
+lastCollected: 2026-04-07T18:39:23.166Z
 estimatedTokens: 698
-keywords: [App, System, Settings, Enhanced, Profile, User, administrators, easily, navigate, search, modify, Permissions, organized, pages, under]
+keywords: [App, System, Settings, Enhanced, Profile, User, administrators, easily, navigate, search, modify, Permissions, organized, pages, under, categories, reflect, rights, users, administer, resources]
 ---
-
-# App and System Settings in the Enhanced Profile User Interface
 
 > In the enhanced profile user interface, administrators can easily navigate, search, and
     modify settings for a single profile. Permissions and settings are organized into pages under

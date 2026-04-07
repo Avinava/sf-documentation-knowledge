@@ -5,12 +5,10 @@ topic: appointmenttopictimeslothistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.792Z
+lastCollected: 2026-04-07T18:39:26.749Z
 estimatedTokens: 276
-keywords: [AppointmentTopicTimeSlotHistory, History, tracked, AppointmentTopicTimeSlot]
+keywords: [AppointmentTopicTimeSlotHistory, tracked, AppointmentTopicTimeSlot]
 ---
-
-# AppointmentTopicTimeSlotHistory
 
 > History for tracked fields of AppointmentTopicTimeSlot.
 

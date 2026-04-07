@@ -5,12 +5,10 @@ topic: feed-elements-capability-read-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.778Z
+lastCollected: 2026-04-07T18:37:13.736Z
 estimatedTokens: 414
-keywords: [Feed, Elements, Capability, Access, element, Mark, context, user]
+keywords: [Capability, Mark, context, user]
 ---
-
-# Feed Elements Capability, Read By
 
 > Access the read by capability of a feed element. Mark a feed element
       as read for the context user.

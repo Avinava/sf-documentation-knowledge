@@ -5,12 +5,10 @@ topic: hourly-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.419Z
+lastCollected: 2026-04-07T18:36:54.775Z
 estimatedTokens: 206
-keywords: [Hourly, Schedule, Input, Specify, sub-daily, Analytics, asset]
+keywords: [Hourly, Schedule, Specify, sub-daily, Analytics, asset]
 ---
-
-# Hourly Schedule Input
 
 > Specify a sub-daily schedule for an Analytics asset.
 

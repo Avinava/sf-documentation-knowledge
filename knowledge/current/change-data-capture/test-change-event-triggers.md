@@ -5,12 +5,10 @@ topic: test-change-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.896Z
+lastCollected: 2026-04-07T18:37:05.602Z
 estimatedTokens: 1191
-keywords: [Test, Change, Event, Triggers, package, deploy, Apex, production, provide, tests, sufficient, code, coverage, Enable, Data]
+keywords: [Test, Change, Event, Triggers, package, deploy, Apex, production, provide, tests, sufficient, code, coverage, Enable, Capture, Entities, Notifications, Deliver, Events, Quick, Start, Trigger, Context]
 ---
-
-# Test Change Event Triggers
 
 > Before you can package or deploy Apex change event triggers to production, you must
   provide Apex tests and sufficient code coverage.

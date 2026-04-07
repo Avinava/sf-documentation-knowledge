@@ -5,12 +5,10 @@ topic: create-and-manage-trialforce-source-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.828Z
+lastCollected: 2026-04-07T18:38:47.775Z
 estimatedTokens: 446
-keywords: [Manage, Trialforce, Source, Orgs, Organization, TSO, templates, basis, customer, trial, Environment, Hub, Management, Org, TMO]
+keywords: [Manage, Trialforce, Source, Orgs, Organization, TSO, templates, basis, customer, trial, Environment, Hub, Management, Org, TMO, cases, either, fine, two, exceptions, plan, brand, emails, login, Professional, Edition, expire, extension]
 ---
-
-# Create and Manage Trialforce Source Orgs
 
 > A Trialforce Source Organization (TSO) is used to create Trialforce templates, which
       are the basis of customer trial orgs. You can create a TSO with Environment Hub or a

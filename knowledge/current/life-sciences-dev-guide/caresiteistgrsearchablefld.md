@@ -5,12 +5,10 @@ topic: caresiteistgrsearchablefld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.019Z
+lastCollected: 2026-04-07T18:37:59.680Z
 estimatedTokens: 2279
-keywords: [CareSiteIstgrSearchableFld, clinical, trial, investigator, associated, site, API, version, 63.0, later, Calls]
+keywords: [CareSiteIstgrSearchableFld, clinical, trial, investigator, site, API, 63.0]
 ---
-
-# CareSiteIstgrSearchableFld
 
 > Represents information about the clinical trial investigator associated with
          a site. This object is available in API version 63.0 and later.

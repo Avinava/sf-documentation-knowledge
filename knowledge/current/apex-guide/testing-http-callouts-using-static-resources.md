@@ -5,12 +5,10 @@ topic: testing-http-callouts-using-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.456Z
+lastCollected: 2026-04-07T18:36:16.678Z
 estimatedTokens: 1223
 keywords: [Testing, HTTP, Callouts, Resources, test, specifying, you’d, receive, resource, two, built-in, classes—StaticResourceCalloutMock, MultiStaticResourceCalloutMock, StaticResourceCalloutMock]
 ---
-
-# Testing HTTP Callouts Using Static Resources
 
 > You can test HTTP callouts by specifying the body of the
 response you’d like to receive in a static resource and using

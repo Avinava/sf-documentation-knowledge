@@ -5,12 +5,10 @@ topic: content-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.119Z
+lastCollected: 2026-04-07T18:37:07.902Z
 estimatedTokens: 413
-keywords: [Content, Capability, Input, file, associated, comment]
+keywords: [Content, Capability, file, comment]
 ---
-
-# Content Capability Input
 
 > Create or update a file associated with a comment.
 

@@ -5,12 +5,10 @@ topic: inventoryreservation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.038Z
+lastCollected: 2026-04-07T18:39:45.598Z
 estimatedTokens: 472
-keywords: [InventoryReservation, Stores, status, cart, inventory, reservations, B2B, D2C, Commerce, API, version, 60.0, later]
+keywords: [InventoryReservation, Stores, status, cart, inventory, reservations, B2B, D2C, Commerce, API, 60.0]
 ---
-
-# InventoryReservation
 
 > Stores information about the status of cart inventory reservations in
          B2B and D2C Commerce. This object is available in API version 60.0 and later.

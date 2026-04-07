@@ -5,12 +5,10 @@ topic: taxresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.750Z
+lastCollected: 2026-04-07T18:37:03.317Z
 estimatedTokens: 1037
-keywords: [TaxResults, setter, populate, data, tax, callout, passed, back, Salesforce, Billing, connector, getId, getRate, getSummary, getTax]
+keywords: [TaxResults, setter, populate, tax, callout, passed, back, Salesforce, Billing, connector, getId, getRate, getSummary, getTax, isSuccess, setRate, rate, setTax, setIsSuccess, setId, setSummary, summary]
 ---
-
-# TaxResults Class
 
 > Contains a list of setter methods to populate the data returned from a
       tax callout. The data is passed back to Salesforce Billing from the tax

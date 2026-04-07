@@ -5,12 +5,10 @@ topic: orgmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.951Z
+lastCollected: 2026-04-07T18:39:51.365Z
 estimatedTokens: 326
-keywords: [OrgMetric, feature, metric, Salesforce, Optimizer, evaluates, API, version, 47.0, later]
+keywords: [OrgMetric, feature, metric, Salesforce, Optimizer, evaluates, API, 47.0]
 ---
-
-# OrgMetric
 
 > Represents a feature or metric that Salesforce Optimizer
          evaluates. This object is available in API version 47.0 and

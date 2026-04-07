@@ -5,12 +5,10 @@ topic: connectapifamilypolicyinfooutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.449Z
+lastCollected: 2026-04-07T18:37:50.285Z
 estimatedTokens: 91
-keywords: [Output, representation, created, policy, enrollment]
+keywords: [created, policy, enrollment]
 ---
-
-# ConnectApi.FamilyPolicyInfoOutputRepresentation
 
 > Output representation of the created policy information for an enrollment.
 

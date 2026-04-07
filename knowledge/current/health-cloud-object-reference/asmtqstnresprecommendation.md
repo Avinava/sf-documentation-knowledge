@@ -5,12 +5,10 @@ topic: asmtqstnresprecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.444Z
+lastCollected: 2026-04-07T18:37:47.045Z
 estimatedTokens: 806
-keywords: [AsmtQstnRespRecommendation, Maps, assessment, question’s, recommendation, provide, care, plan, Recommendations, problems, goals, interventions, assessments, API, version]
+keywords: [AsmtQstnRespRecommendation, Maps, assessment, question’s, recommendation, provide, care, plan, Recommendations, problems, goals, interventions, assessments, API, 57.0]
 ---
-
-# AsmtQstnRespRecommendation
 
 > Maps an assessment question’s response to the recommendation it has to
          provide for a care plan. Recommendations can be problems, goals, interventions, or other

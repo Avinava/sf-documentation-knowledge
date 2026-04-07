@@ -5,12 +5,10 @@ topic: mobile-sync
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.724Z
+lastCollected: 2026-04-07T18:37:57.247Z
 estimatedTokens: 176
-keywords: [Mobile, Sync, objects, store, data, transactions, synchronized, Life, Sciences, Cloud, Customer, Engagement, application, includes, individual]
+keywords: [Mobile, Sync, store, transactions, synchronized, Life, Sciences, Cloud, Customer, Engagement, application, includes, individual, supporting, summary, logging]
 ---
-
-# Mobile Sync
 
 > The Mobile Sync objects store information about data transactions synchronized from the
   Life Sciences Cloud for Customer Engagement mobile application. This information includes

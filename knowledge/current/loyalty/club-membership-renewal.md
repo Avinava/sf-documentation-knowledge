@@ -5,12 +5,10 @@ topic: club-membership-renewal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.225Z
+lastCollected: 2026-04-07T18:38:07.448Z
 estimatedTokens: 443
-keywords: [Club, Membership, Renewal, Renew, members, manage, their, numbers, periods, end, dates, output, API]
+keywords: [Club, Membership, Renewal, Renew, members, manage, their, numbers, periods, end, dates, API]
 ---
-
-# Club Membership Renewal
 
 > Renew the membership of club members and manage their membership details such as
     membership numbers, renewal periods, and end dates.

@@ -5,12 +5,10 @@ topic: configuration-loader-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.199Z
+lastCollected: 2026-04-07T18:37:27.203Z
 estimatedTokens: 418
-keywords: [Configuration, Loader, API, data, product, including, options, model, configuring, nested, bundle, parentProductproperty, parent, inherit, attributes]
+keywords: [Configuration, Loader, API, product, including, options, model, configuring, nested, bundle, parentProductproperty, parent, inherit, attributes, REST, Examples, APEX]
 ---
-
-# Configuration Loader API
 
 > The Configuration Loader API returns all the data for the product, including its product
   options and configuration model. When configuring a nested bundle, set the

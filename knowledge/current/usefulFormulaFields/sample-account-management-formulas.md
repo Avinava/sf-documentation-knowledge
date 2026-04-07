@@ -5,12 +5,10 @@ topic: sample-account-management-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.309Z
+lastCollected: 2026-04-07T18:40:12.330Z
 estimatedTokens: 314
 keywords: [Sample, Account, Management, Formulas, manage, Rating, Region, Contract, Aging]
 ---
-
-# Sample Account Management Formulas
 
 > Use these formulas to manage account details.
 

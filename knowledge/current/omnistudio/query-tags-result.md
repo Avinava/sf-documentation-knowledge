@@ -5,12 +5,10 @@ topic: query-tags-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.528Z
+lastCollected: 2026-04-07T18:36:40.279Z
 estimatedTokens: 143
-keywords: [Query, Tags, Result, Output, representation, results, querying, context]
+keywords: [Query, Tags, Result, results, querying, context]
 ---
-
-# Query Tags Result
 
 > Output representation of the results when querying context tags.
 

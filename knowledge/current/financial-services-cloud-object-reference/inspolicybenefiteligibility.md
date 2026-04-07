@@ -5,12 +5,10 @@ topic: inspolicybenefiteligibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.845Z
+lastCollected: 2026-04-07T18:37:37.645Z
 estimatedTokens: 1137
-keywords: [InsPolicyBenefitEligibility, insurance, eligibility, employee, belongs, specific, group, API, version, later, Calls, Associated, Objects]
+keywords: [InsPolicyBenefitEligibility, insurance, eligibility, employee, belongs, specific, group, API]
 ---
-
-# InsPolicyBenefitEligibility
 
 > Represents information about insurance eligibility of an employee that belongs to
          a specific group class. This object is available in API version 61 and

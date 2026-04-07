@@ -5,12 +5,10 @@ topic: external-credential-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.761Z
+lastCollected: 2026-04-07T18:37:18.851Z
 estimatedTokens: 70
 keywords: [External, Credential, credentials]
 ---
-
-# External Credential List
 
 > List of external credentials.
 

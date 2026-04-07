@@ -5,12 +5,10 @@ topic: create-ramp-deal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.368Z
+lastCollected: 2026-04-07T18:35:44.338Z
 estimatedTokens: 733
-keywords: [Ramp, Deal, POST, customer, product, Sales, reps, deals, provide, yearly, resulting, long-term, revenue, relationship, view]
+keywords: [Ramp, Deal, POST, customer, product, Sales, reps, deals, provide, yearly, resulting, long-term, revenue, relationship, view, multiple, segments, periods, their, subscription, term, different, attributes, segment]
 ---
-
-# Create Ramp Deal (POST)
 
 > Create a ramp deal for a customer on a product. Sales reps can use
       ramp deals to provide yearly deals to a customer, resulting in long-term revenue and customer

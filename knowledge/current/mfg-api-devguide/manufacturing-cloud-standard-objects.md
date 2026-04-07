@@ -5,12 +5,10 @@ topic: manufacturing-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.723Z
+lastCollected: 2026-04-07T18:38:13.052Z
 estimatedTokens: 9852
-keywords: [Manufacturing, Cloud, Standard, Objects, data, model, manage, sales, agreements, account, forecasts, business, negotiations, planning, integrated]
+keywords: [Manufacturing, Cloud, Standard, model, manage, sales, agreements, account, forecasts, business, negotiations, planning, integrated, experience]
 ---
-
-# Manufacturing Cloud Standard Objects
 
 > Manufacturing Cloud data model provides objects and fields to create and manage sales
     agreements and account forecasts. Use the objects for business negotiations and planning, and

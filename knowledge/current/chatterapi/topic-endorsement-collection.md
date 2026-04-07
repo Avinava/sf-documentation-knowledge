@@ -5,12 +5,10 @@ topic: topic-endorsement-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.353Z
+lastCollected: 2026-04-07T18:37:23.464Z
 estimatedTokens: 173
 keywords: [Topic, Endorsement, Collection, bodies]
 ---
-
-# Topic Endorsement Collection
 
 > A collection of topic endorsement response bodies.
 

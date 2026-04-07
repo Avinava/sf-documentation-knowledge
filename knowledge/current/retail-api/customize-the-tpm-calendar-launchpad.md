@@ -5,12 +5,10 @@ topic: customize-the-tpm-calendar-launchpad
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.328Z
+lastCollected: 2026-04-07T18:39:10.811Z
 estimatedTokens: 538
 keywords: [Customize, TPM, Calendar, Launchpad, promotion, hover, content, buttons, callable, Apex, customization, hook]
 ---
-
-# Customize the TPM Calendar Launchpad
 
 > To customize the promotion hover content and buttons on the TPM calendar launchpad UI,
         create a callable Apex class as a customization hook.

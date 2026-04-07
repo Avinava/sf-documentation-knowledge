@@ -5,12 +5,10 @@ topic: set-up-service-cloud-voice-for-partner-telephony-in-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.708Z
+lastCollected: 2026-04-07T18:40:13.633Z
 estimatedTokens: 2576
-keywords: [Service, Cloud, Voice, Partner, Telephony, Org, licenses, added, Salesforce, admins, open, Setup, follow, steps, their]
+keywords: [Service, Cloud, Voice, Partner, Telephony, Org, licenses, added, Salesforce, admins, open, Setup, follow, steps, their, contact, center, how, customize, experience]
 ---
-
-# Set Up Service Cloud Voice for Partner Telephony in Your Org
 
 > When Service Cloud Voice for Partner Telephony licenses are added to an org, Salesforce
     admins in the org can open the Partner Telephony Setup page and follow the steps to set up their

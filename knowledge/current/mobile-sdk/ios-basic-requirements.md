@@ -5,12 +5,10 @@ topic: ios-basic-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.124Z
+lastCollected: 2026-04-07T18:40:26.428Z
 estimatedTokens: 555
 keywords: [iOS, Basic, Requirements, development, Mobile, SDK, 11.1, requires, software]
 ---
-
-# iOS Basic Requirements
 
 > iOS development with Mobile SDK
             11.1 also requires the following software.

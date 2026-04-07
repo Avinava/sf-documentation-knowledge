@@ -5,12 +5,10 @@ topic: locationgroupassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.975Z
+lastCollected: 2026-04-07T18:38:35.215Z
 estimatedTokens: 1086
-keywords: [LocationGroupAssignment, assignment, location, group, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [LocationGroupAssignment, assignment, location, group, API, 51.0]
 ---
-
-# LocationGroupAssignment
 
 > Represents the assignment of a location to a location group. This object
     is available in API version 51.0 and later.

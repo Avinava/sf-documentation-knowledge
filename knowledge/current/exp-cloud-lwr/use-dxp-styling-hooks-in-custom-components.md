@@ -5,12 +5,10 @@ topic: use---dxp-styling-hooks-in-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.828Z
+lastCollected: 2026-04-07T18:37:33.108Z
 estimatedTokens: 680
-keywords: [--dxp, Styling, Hooks, Custom, Components, build, Lightning, web, component, site, uses, design, system, appropriate]
+keywords: [--dxp, Styling, Hooks, build, Lightning, web, site, uses, design, system, appropriate]
 ---
-
-# Use --dxp Styling Hooks in Custom Components
 
 > To build a custom Lightning web component for your site that uses the design system,
     use the appropriate --dxp styling hooks.

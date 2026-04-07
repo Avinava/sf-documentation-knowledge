@@ -5,12 +5,10 @@ topic: inspectionassessmentindfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.439Z
+lastCollected: 2026-04-07T18:39:45.010Z
 estimatedTokens: 364
-keywords: [InspectionAssessmentIndFeed, Feed, tracking, InspectionAssessmentInd]
+keywords: [InspectionAssessmentIndFeed, InspectionAssessmentInd]
 ---
-
-# InspectionAssessmentIndFeed
 
 > Feed tracking for InspectionAssessmentInd.
 

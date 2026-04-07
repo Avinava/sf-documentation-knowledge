@@ -5,12 +5,10 @@ topic: crm-analytics-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:14.810Z
+lastCollected: 2026-04-07T18:37:01.409Z
 estimatedTokens: 4947
-keywords: [CRM, Analytics, Lightning, Web, Components, retrieve, data, metadata, assets, execute, queries, schedule, syncs, recipes, dataflows]
+keywords: [Functions, CRM, Analytics, Lightning, Web, retrieve, metadata, assets, execute, queries, schedule, syncs, recipes, dataflows, connectors, Wire, Adapters]
 ---
-
-# CRM Analytics Lightning Web Components
 
 > Use CRM Analytics Lightning Web Components to retrieve data and metadata for CRM
   Analytics assets, execute queries, and schedule data syncs for recipes, dataflows, and data

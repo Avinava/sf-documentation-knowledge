@@ -5,12 +5,10 @@ topic: stddevsamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.928Z
+lastCollected: 2026-04-07T18:37:01.540Z
 estimatedTokens: 49
-keywords: [stddev_samp, standard, deviation, Accepts, measure, input, function, accept, expressions, stddev, _samp]
+keywords: [stddev_samp, standard, deviation, Accepts, measure, function, accept, expressions, stddev, _samp]
 ---
-
-# stddev_samp()
 
 > Returns the standard deviation of values in a field. Accepts measure fields as input.
   This function does not accept expressions.

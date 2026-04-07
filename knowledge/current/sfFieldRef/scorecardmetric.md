@@ -5,12 +5,10 @@ topic: scorecardmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.247Z
+lastCollected: 2026-04-07T18:40:01.001Z
 estimatedTokens: 360
-keywords: [ScorecardMetric, Stores, Salesforce, report, run, summarized, stored, added, metric, Scorecard, API, version, 40.0, later]
+keywords: [ScorecardMetric, Stores, Salesforce, report, run, summarized, stored, added, metric, Scorecard, API, 40.0]
 ---
-
-# ScorecardMetric
 
 > Stores information about a Salesforce report that is run and summarized to
          get a single value. The stored value is added as a metric to the related Scorecard

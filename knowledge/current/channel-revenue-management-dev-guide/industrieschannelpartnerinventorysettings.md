@@ -5,12 +5,10 @@ topic: industrieschannelpartnerinventorysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.052Z
+lastCollected: 2026-04-07T18:37:05.753Z
 estimatedTokens: 441
-keywords: [setting, enabling, Channel, Revenue, Management, feature, Partner, Inventory, Tracking, Parent, Manifest, Access, File, Suffix, Directory]
+keywords: [IndustriesChannelPartnerInventorySettings, setting, enabling, Channel, Revenue, Management, feature, Partner, Inventory, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# IndustriesChannelPartnerInventorySettings
 
 > Represents the setting for enabling
 			Channel Revenue Management feature like Channel Partner Inventory Tracking.

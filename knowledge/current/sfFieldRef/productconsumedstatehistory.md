@@ -5,12 +5,10 @@ topic: productconsumedstatehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.115Z
+lastCollected: 2026-04-07T18:39:55.682Z
 estimatedTokens: 271
-keywords: [ProductConsumedStateHistory, History, tracked, ProductConsumedState]
+keywords: [ProductConsumedStateHistory, tracked, ProductConsumedState]
 ---
-
-# ProductConsumedStateHistory
 
 > History for tracked fields of ProductConsumedState.
 

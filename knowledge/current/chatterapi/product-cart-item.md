@@ -5,12 +5,10 @@ topic: product-cart-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.865Z
+lastCollected: 2026-04-07T18:37:21.979Z
 estimatedTokens: 85
 keywords: [Product, Cart, Item, items, specific]
 ---
-
-# Product Cart Item
 
 > Cart items of a specific product type.
 

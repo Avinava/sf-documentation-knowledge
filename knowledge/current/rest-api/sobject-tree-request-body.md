@@ -5,12 +5,10 @@ topic: sobject-tree-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.111Z
+lastCollected: 2026-04-07T18:36:20.321Z
 estimatedTokens: 567
-keywords: [sObject, Tree, collection, trees, resource, Input]
+keywords: [sObject, Tree, collection, trees, resource]
 ---
-
-# sObject Tree Request Body
 
 > Describes a collection of sObject trees to create with the sObject Tree resource.
 

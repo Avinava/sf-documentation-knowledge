@@ -5,12 +5,10 @@ topic: create-template-of-service-appointment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.582Z
+lastCollected: 2026-04-07T18:37:39.525Z
 estimatedTokens: 669
-keywords: [Template, Service, Appointment, Action, record, Cancelled, status, that's, creating, actual, scheduling, home, visits, manually, REST]
+keywords: [Inputs, Template, Service, Appointment, Action, record, Cancelled, status, that's, creating, actual, scheduling, home, visits, manually, REST, HTTP]
 ---
-
-# Create Template of Service Appointment Action
 
 > Create a service appointment record of Cancelled status that's used as
       a template for creating the actual service appointment record while scheduling home visits

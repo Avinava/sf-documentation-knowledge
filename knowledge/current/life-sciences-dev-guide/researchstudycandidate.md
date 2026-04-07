@@ -5,12 +5,10 @@ topic: researchstudycandidate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.884Z
+lastCollected: 2026-04-07T18:38:01.768Z
 estimatedTokens: 1352
-keywords: [ResearchStudyCandidate, research, participant, includes, associated, account, status, subject, API, version, 61.0, later, Calls, Objects]
+keywords: [ResearchStudyCandidate, research, participant, includes, account, status, subject, API, 61.0]
 ---
-
-# ResearchStudyCandidate
 
 > Represents the details of the research participant which includes the
          associated account and the status of the subject. This object is available in API

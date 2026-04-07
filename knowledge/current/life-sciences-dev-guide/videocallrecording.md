@@ -5,12 +5,10 @@ topic: videocallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.445Z
+lastCollected: 2026-04-07T18:37:57.970Z
 estimatedTokens: 1222
-keywords: [VideoCallRecording, Standard, custom, extend, represent, recording, video, call, voice, transcript, availavle, API, version, 65.0, later]
+keywords: [VideoCallRecording, Standard, extend, represent, recording, video, call, voice, transcript, availavle, API, 65.0]
 ---
-
-# VideoCallRecording
 
 > Standard and custom fields extend the standard
             VideoCallRecording object to represent a recording from a video

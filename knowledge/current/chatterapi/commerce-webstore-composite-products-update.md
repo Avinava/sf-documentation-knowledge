@@ -5,12 +5,10 @@ topic: commerce-webstore-composite-products-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.016Z
+lastCollected: 2026-04-07T18:37:11.840Z
 estimatedTokens: 408
 keywords: [Commerce, Webstore, Composite, Products, product, record, category, media, records]
 ---
-
-# Commerce Webstore Composite Products, Update
 
 > Update an existing product record with the specified category and
       media records.

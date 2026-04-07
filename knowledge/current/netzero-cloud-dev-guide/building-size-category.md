@@ -5,12 +5,10 @@ topic: building-size-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.029Z
+lastCollected: 2026-04-07T18:38:16.598Z
 estimatedTokens: 223
-keywords: [Building, Size, Category, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum]
+keywords: [Building, Size, Category, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum, units, sqft, overlapping, minimum-maximum, ranges]
 ---
-
-# Building Size Category
 
 > The Building Size Category object represents the building size filter criteria for the
   building energy intensity records. The building size filter criteria are stored as a range of

@@ -5,12 +5,10 @@ topic: return-headers-using-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.344Z
+lastCollected: 2026-04-07T18:36:21.589Z
 estimatedTokens: 125
-keywords: [Tabs, resources, gives, chance, retrieving, content, resource, REST, API, version, 31.0, later]
+keywords: [Tabs, resources, gives, chance, retrieving, content, resource, REST, API, 31.0]
 ---
-
-# Return Headers Using Tabs
 
 > Returns only the headers that are returned by a GET request to Tabs resources. This
 		gives you a chance to see header values before retrieving the content of the resource. This

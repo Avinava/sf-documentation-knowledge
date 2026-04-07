@@ -5,12 +5,10 @@ topic: insurance-group-census-member-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.042Z
+lastCollected: 2026-04-07T18:37:50.984Z
 estimatedTokens: 207
-keywords: [Insurance, Group, Census, Member, Management, Input, representation, add, members]
+keywords: [Insurance, Group, Census, Member, Management, add, members]
 ---
-
-# Insurance Group Census  Member Management Input
 
 > Input representation for the details to add or update group census members.
 

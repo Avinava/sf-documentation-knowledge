@@ -5,12 +5,10 @@ topic: partyrelationshipgrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.086Z
+lastCollected: 2026-04-07T18:39:52.563Z
 estimatedTokens: 273
-keywords: [PartyRelationshipGroupHistory, History, tracked, PartyRelationshipGroup]
+keywords: [PartyRelationshipGroupHistory, tracked, PartyRelationshipGroup]
 ---
-
-# PartyRelationshipGroupHistory
 
 > History for tracked fields of PartyRelationshipGroup.
 

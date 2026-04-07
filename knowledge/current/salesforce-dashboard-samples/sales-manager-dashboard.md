@@ -5,12 +5,10 @@ topic: sales-manager-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.015Z
+lastCollected: 2026-04-07T18:39:16.560Z
 estimatedTokens: 413
 keywords: [Sales, Manager, Dashboard, managers, how, their, team, doing, month, Highlights, Tips]
 ---
-
-# Sales Manager Dashboard
 
 > Sales managers can use this dashboard to find out how their team is doing this
   month.

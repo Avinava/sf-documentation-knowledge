@@ -5,12 +5,10 @@ topic: paymentrequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.575Z
+lastCollected: 2026-04-07T18:39:53.090Z
 estimatedTokens: 262
-keywords: [PaymentRequestHistory, History, tracked, PaymentRequest]
+keywords: [PaymentRequestHistory, tracked, PaymentRequest]
 ---
-
-# PaymentRequestHistory
 
 > History for tracked fields of PaymentRequest.
 

@@ -5,13 +5,11 @@ topic: carebenefitverifysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.288Z
+lastCollected: 2026-04-07T18:39:31.649Z
 estimatedTokens: 387
 namespace: NamespacePrefix
 keywords: [CareBenefitVerifySettings, Configuration, settings, benefit, verification, requests]
 ---
-
-# CareBenefitVerifySettings
 
 > Configuration settings for benefit verification requests.
 

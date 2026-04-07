@@ -5,12 +5,10 @@ topic: customizing-the-appearance-and-output-of-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.226Z
+lastCollected: 2026-04-07T18:38:51.463Z
 estimatedTokens: 709
-keywords: [Customizing, Appearance, Output, Visualforce, Pages, components, HTML, that’s, sent, browser, rendering, Visualforce’s, generation, sophisticated, automatically]
+keywords: [Customizing, Appearance, Visualforce, Pages, HTML, that’s, sent, browser, rendering, Visualforce’s, generation, sophisticated, automatically, providing, structure, contents, styling, number, ways, alter, substitute, own, associate, additional, resources, CSS, stylesheets, JavaScript, files]
 ---
-
-# Customizing the Appearance and Output of Visualforce Pages
 
 > Visualforce pages and components
   output HTML that’s sent to the browser for rendering. Visualforce’s HTML generation is

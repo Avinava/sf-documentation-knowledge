@@ -5,12 +5,10 @@ topic: error-the-consumer-key-is-already-taken
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.702Z
+lastCollected: 2026-04-07T18:40:08.658Z
 estimatedTokens: 343
-keywords: [Error, consumer, key, already, taken, Let’s, say, run, project, retrieve, start, org, you’ve, created, connected]
+keywords: [Error, consumer, key, already, taken, Let’s, say, run, project, retrieve, start, org, you’ve, created, connected, app, try, deploy, retrieved, source, different, fails, happened]
 ---
-
-# Error: The consumer key is already taken
 
 > Let’s say you run project retrieve start on an org
         in which you’ve created a connected app. When you try to deploy the retrieved source to a

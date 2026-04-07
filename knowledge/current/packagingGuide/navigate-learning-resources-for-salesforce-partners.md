@@ -5,12 +5,10 @@ topic: navigate-learning-resources-for-salesforce-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.983Z
+lastCollected: 2026-04-07T18:38:46.949Z
 estimatedTokens: 270
 keywords: [Navigate, Learning, Resources, Salesforce, Partners, Reach, milestones, accomplish, goals, partner, journey, faster, curated, Trailhead, Community]
 ---
-
-# Navigate Learning Resources for Salesforce Partners
 
 > Reach milestones and accomplish goals on your Salesforce partner journey faster with
         curated resources from Trailhead, the Partner Community, and more.

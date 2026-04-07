@@ -5,12 +5,10 @@ topic: define-data-loader-field-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.156Z
+lastCollected: 2026-04-07T18:37:28.189Z
 estimatedTokens: 285
-keywords: [Define, Data, Loader, Mappings, insert, files, Loader's, Mapping, Dialog, window, associate, Salesforce, columns, CSV, file]
+keywords: [Define, Loader, Mappings, insert, files, Loader's, Mapping, Dialog, window, associate, Salesforce, columns, CSV, file]
 ---
-
-# Define Data Loader Field Mappings
 
 > When you insert, delete, or update files, use Data Loader's Mapping Dialog window to
       associate Salesforce fields with the columns of your CSV file.

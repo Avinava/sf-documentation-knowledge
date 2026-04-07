@@ -5,12 +5,10 @@ topic: deferring-login-in-native-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.571Z
+lastCollected: 2026-04-07T18:40:24.979Z
 estimatedTokens: 808
-keywords: [Deferring, Login, Native, Android, Apps, Mobile, SDK, forcedroid, bases, project, template, app, gives, lots, free]
+keywords: [Deferring, Login, Native, Android, Apps, Mobile, SDK, forcedroid, bases, project, template, app, gives, lots, free, standard, functionality, don’t, implement, authentication—login, passcode, handling, built]
 ---
-
-# Deferring Login in Native Android Apps
 
 > When you create Mobile SDK
                 apps using forcedroid, forcedroid bases your project on a template app that gives

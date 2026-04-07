@@ -5,12 +5,10 @@ topic: brand-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.823Z
+lastCollected: 2026-04-07T18:37:33.102Z
 estimatedTokens: 895
-keywords: [Brand, LWR, Site, Build, sites, consistently, match, new, Lightning, Web, Runtime, design, system, includes, base]
+keywords: [Brand, LWR, Site, Build, sites, consistently, match, new, Lightning, Web, Runtime, design, system, includes, base, follow, best, practices, uses, --dxp, styling, hooks, easier, look, want]
 ---
-
-# Brand Your LWR Site
 
 > Build LWR sites that consistently match your brand with the new Lightning Web Runtime
     (LWR) design system. The system includes base components that follow design best practices, and

@@ -5,12 +5,10 @@ topic: salesforce-classic-vs-lightning-experience-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.557Z
+lastCollected: 2026-04-07T18:38:52.869Z
 estimatedTokens: 140
 keywords: [Salesforce, Classic, Lightning, Experience, Issues, caused, switching]
 ---
-
-# Salesforce Classic vs. Lightning Experience Issues
 
 > These issues are caused by switching between Salesforce Classic and Lightning
     Experience.

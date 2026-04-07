@@ -5,12 +5,10 @@ topic: claimhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.446Z
+lastCollected: 2026-04-07T18:39:33.871Z
 estimatedTokens: 250
-keywords: [ClaimHistory, History, tracked, Claim]
+keywords: [ClaimHistory, tracked, Claim]
 ---
-
-# ClaimHistory
 
 > History for tracked fields of Claim.
 

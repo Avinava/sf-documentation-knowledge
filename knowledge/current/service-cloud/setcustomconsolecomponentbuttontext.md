@@ -5,12 +5,10 @@ topic: setcustomconsolecomponentbuttontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.593Z
+lastCollected: 2026-04-07T18:36:50.868Z
 estimatedTokens: 176
-keywords: [setCustomConsoleComponentButtonText, text, button, launch, application-level, custom, console, component, that’s, API, version, 25.0, later, Arguments, Sample]
+keywords: [Arguments, setCustomConsoleComponentButtonText, text, button, launch, application-level, console, that’s, API, 25.0, Sample, Code–Visualforce]
 ---
-
-# setCustomConsoleComponentButtonText()
 
 > Sets the text on a button used to
             launch an application-level custom console component that’s on a page. This method is only available in API version 25.0 or

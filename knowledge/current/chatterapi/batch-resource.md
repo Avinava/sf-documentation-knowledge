@@ -5,12 +5,10 @@ topic: batch-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.579Z
+lastCollected: 2026-04-07T18:37:11.362Z
 estimatedTokens: 1404
-keywords: [Batch, Resource, subrequests, send, server, improve, application’s, performance, bodies, HTTP, statuses, subrequest, counts, against, rate]
+keywords: [Batch, Resource, subrequests, send, server, improve, application’s, performance, bodies, HTTP, statuses, subrequest, counts, against, rate, limits, Post, multiple, comments, binary, files]
 ---
-
-# Batch Resource
 
 > Create a request body with a batch of up to 25 subrequests and
             send them to the server in a single request to improve your application’s

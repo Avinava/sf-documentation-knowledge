@@ -5,12 +5,10 @@ topic: making-callouts-to-external-systems-from-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.460Z
+lastCollected: 2026-04-07T18:36:17.692Z
 estimatedTokens: 329
 keywords: [Making, Callouts, External, Systems, Invocable, Actions, define, runs, action, screen, flow, callout, system, modifier]
 ---
-
-# Making Callouts to External Systems from Invocable Actions
 
 > When you define a method that runs as an invocable action in a screen flow and makes a
   callout to an external system, use the callout

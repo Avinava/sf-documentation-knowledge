@@ -5,12 +5,10 @@ topic: schedulingadherencedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.901Z
+lastCollected: 2026-04-07T18:38:40.487Z
 estimatedTokens: 464
-keywords: [SchedulingAdherenceDetail, breakdown, daily, shift, adherence, data, agent, status, API, version, 54.0, later, Calls, Special, Access]
+keywords: [SchedulingAdherenceDetail, breakdown, daily, shift, adherence, agent, status, API, 54.0]
 ---
-
-# SchedulingAdherenceDetail
 
 > Represents the breakdown of daily shift adherence data by agent status.
       This object is available in API version 54.0 and later.

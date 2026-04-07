@@ -5,12 +5,10 @@ topic: streamingchannelshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.365Z
+lastCollected: 2026-04-07T18:40:03.060Z
 estimatedTokens: 251
 keywords: [StreamingChannelShare, Sharing, StreamingChannel]
 ---
-
-# StreamingChannelShare
 
 > Sharing for StreamingChannel.
 

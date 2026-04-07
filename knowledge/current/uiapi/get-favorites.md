@@ -5,12 +5,10 @@ topic: get-favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.984Z
+lastCollected: 2026-04-07T18:40:10.970Z
 estimatedTokens: 70
 keywords: [Favorites, user’s]
 ---
-
-# Get Favorites
 
 > Get all of a user’s favorites.
 

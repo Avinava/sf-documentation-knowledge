@@ -5,12 +5,10 @@ topic: create-org-dependent-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.880Z
+lastCollected: 2026-04-07T18:40:08.831Z
 estimatedTokens: 790
 keywords: [Org-Dependent, Unlocked, Packages, variation, allow, depend, unpackaged, metadata, org, plan, install, package, installation]
 ---
-
-# Create Org-Dependent Unlocked Packages
 
 > Org-dependent unlocked packages are a variation of unlocked packages that allow you to
   create packages that depend on unpackaged metadata in the org where you plan to install the

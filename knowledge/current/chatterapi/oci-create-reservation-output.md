@@ -5,12 +5,10 @@ topic: oci-create-reservation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.000Z
+lastCollected: 2026-04-07T18:37:21.162Z
 estimatedTokens: 189
-keywords: [OCI, Reservation, Output, Result, Omnichannel, Inventory, creation]
+keywords: [OCI, Reservation, Result, Omnichannel, Inventory, creation]
 ---
-
-# OCI Create Reservation Output
 
 > Result of an Omnichannel Inventory reservation creation
       request.

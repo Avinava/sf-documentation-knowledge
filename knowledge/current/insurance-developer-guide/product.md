@@ -5,12 +5,10 @@ topic: product
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.545Z
+lastCollected: 2026-04-07T18:37:52.739Z
 estimatedTokens: 193
-keywords: [Product, Output, representation]
+keywords: [Product]
 ---
-
-# Product
 
 > Output representation of product details.
 

@@ -5,12 +5,10 @@ topic: actionablelistdeffltrcrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.148Z
+lastCollected: 2026-04-07T18:36:43.883Z
 estimatedTokens: 1148
-keywords: [ActionableListDefFltrCrit, logical, expression, containing, filter, conditions, include, exclude, data, dataset, that's, associated, actionable, definition, API]
+keywords: [ActionableListDefFltrCrit, logical, expression, containing, filter, conditions, include, exclude, dataset, that's, actionable, definition, API, 60.0]
 ---
-
-# ActionableListDefFltrCrit
 
 > Represents a logical expression containing filter conditions to include or
          exclude data from the dataset that's associated with the actionable list definition.

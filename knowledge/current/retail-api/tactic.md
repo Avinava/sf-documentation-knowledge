@@ -5,12 +5,10 @@ topic: tactic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.701Z
+lastCollected: 2026-04-07T18:39:16.241Z
 estimatedTokens: 322
 keywords: [Tactic, loadTacticDefaults2, setTacticDates2]
 ---
-
-# Tactic
 
 > This section provides information about tactic.
 

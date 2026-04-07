@@ -5,12 +5,10 @@ topic: knowledgesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.841Z
+lastCollected: 2026-04-07T18:37:54.139Z
 estimatedTokens: 2945
-keywords: [KnowledgeSettings, metadata, manage, settings, Salesforce, Knowledge, File, Suffix, Directory, Location, Version, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings]
+keywords: [KnowledgeSettings, KnowledgeAnswerSettings, KnowledgeCaseSettings, KnowledgeSitesSettings, KnowledgeLanguageSettings, KnowledgeLanguage, KnowledgeSuggestedArticlesSettings, KnowledgeCaseFieldsSettings, KnowledgeCaseField, KnowledgeWorkOrderFieldsSettings, KnowledgeWorkOrderField, KnowledgeWorkOrderLineItemFieldsSettings, KnowledgeWorkOrderLineItemField, metadata, manage, settings, Salesforce, Knowledge, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# KnowledgeSettings
 
 > Represents the metadata used to manage settings for
       Salesforce Knowledge.

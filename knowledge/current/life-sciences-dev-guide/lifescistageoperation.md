@@ -5,12 +5,10 @@ topic: lifescistageoperation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.033Z
+lastCollected: 2026-04-07T18:38:00.821Z
 estimatedTokens: 917
-keywords: [LifeSciStageOperation, criteria, evaluate, determining, applicable, permissions, actions, specific, step, workflow, API, version, 65.0, later, Calls]
+keywords: [LifeSciStageOperation, criteria, evaluate, determining, applicable, permissions, actions, specific, step, workflow, API, 65.0]
 ---
-
-# LifeSciStageOperation
 
 > Represents the criteria to evaluate in determining the applicable permissions
          and available actions for a specific step in a workflow. This object is available in

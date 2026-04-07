@@ -5,12 +5,10 @@ topic: learning-foundation-item-lookup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.054Z
+lastCollected: 2026-04-07T18:37:29.170Z
 estimatedTokens: 112
-keywords: [Learning, Foundation, Item, Lookup, Input, representation]
+keywords: [Learning, Foundation, Item, Lookup]
 ---
-
-# Learning Foundation Item Lookup Input
 
 > Input representation of the lookup details for a learning foundation item.
 

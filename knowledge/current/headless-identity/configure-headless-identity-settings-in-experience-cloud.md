@@ -5,12 +5,10 @@ topic: configure-headless-identity-settings-in-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.429Z
+lastCollected: 2026-04-07T18:37:39.368Z
 estimatedTokens: 1339
-keywords: [Configure, Headless, Identity, Settings, Experience, Cloud, control, enablement, access, security, Registration, Flow, Forgot, Password, Login]
+keywords: [Configure, Headless, Identity, Settings, Experience, Cloud, control, enablement, security, Registration, Flow, Forgot, Password, Login, support, single-page, app]
 ---
-
-# Configure Headless Identity Settings in Experience Cloud
 
 > You control enablement, access, and security for the Headless Registration Flow and the
   Headless Forgot Password Flow on the Experience Cloud Login & Registration page. For this

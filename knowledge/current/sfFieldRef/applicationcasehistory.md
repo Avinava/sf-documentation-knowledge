@@ -5,12 +5,10 @@ topic: applicationcasehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.265Z
+lastCollected: 2026-04-07T18:39:26.212Z
 estimatedTokens: 172
-keywords: [ApplicationCaseHistory, History, tracked, ApplicationCase]
+keywords: [ApplicationCaseHistory, tracked, ApplicationCase]
 ---
-
-# ApplicationCaseHistory
 
 > History for tracked fields of ApplicationCase.
 

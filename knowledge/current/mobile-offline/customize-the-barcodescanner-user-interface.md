@@ -5,12 +5,10 @@ topic: customize-the-barcodescanner-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.136Z
+lastCollected: 2026-04-07T18:38:15.650Z
 estimatedTokens: 1017
-keywords: [Customize, BarcodeScanner, User, standard, minimal, box, applications, cases, doesn’t, provide, enough, company, brand, custom, HTML]
+keywords: [Considerations, Customize, BarcodeScanner, User, standard, minimal, box, applications, cases, doesn’t, provide, enough, company, brand, HTML, Customization, Layers, Dismiss, Scanner]
 ---
-
-# Customize the BarcodeScanner User Interface
 
 > BarcodeScanner provides a standard, minimal user interface that can be used out of the
     box. For applications and use cases where the standard user interface doesn’t provide enough

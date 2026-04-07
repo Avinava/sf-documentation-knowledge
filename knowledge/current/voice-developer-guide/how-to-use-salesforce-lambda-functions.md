@@ -5,12 +5,10 @@ topic: how-to-use-salesforce-lambda-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.923Z
+lastCollected: 2026-04-07T18:40:12.870Z
 estimatedTokens: 601
 keywords: [How, Salesforce, Lambda, Functions, several, Service, Cloud, Voice, contact, flows, sample, own]
 ---
-
-# How to Use Salesforce Lambda Functions
 
 > Salesforce provides several Lambda functions for use in your Service Cloud Voice contact
   flows. These functions are used by the sample contact flows, and you can also use them in your own

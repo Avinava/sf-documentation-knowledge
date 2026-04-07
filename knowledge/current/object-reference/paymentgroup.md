@@ -5,12 +5,10 @@ topic: paymentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.352Z
+lastCollected: 2026-04-07T18:38:37.655Z
 estimatedTokens: 301
-keywords: [PaymentGroup, Top-level, groups, payment, transactions, processed, order, invoice, standalone, isn’t, users, execute, authorizations, captures, refunds]
+keywords: [PaymentGroup, Top-level, groups, payment, transactions, processed, order, invoice, standalone, isn’t, users, execute, authorizations, captures, refunds, sales, API, 48.0]
 ---
-
-# PaymentGroup
 
 > Top-level object that groups all payment transactions that are processed for an
       order or invoice. PaymentGroup is a standalone object, so it isn’t required for users to

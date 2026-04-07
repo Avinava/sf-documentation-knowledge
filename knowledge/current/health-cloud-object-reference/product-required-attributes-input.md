@@ -5,12 +5,10 @@ topic: product-required-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.972Z
+lastCollected: 2026-04-07T18:37:40.968Z
 estimatedTokens: 87
-keywords: [Product, Attributes, Input, representation, products, visit]
+keywords: [Product, Attributes, products, visit]
 ---
-
-# Product Required Attributes Input
 
 > Input representation of the products required for the
     visit.

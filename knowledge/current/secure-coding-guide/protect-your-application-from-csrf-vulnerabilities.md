@@ -5,12 +5,10 @@ topic: protect-your-application-from-csrf-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.162Z
+lastCollected: 2026-04-07T18:39:22.048Z
 estimatedTokens: 737
-keywords: [Protect, Application, CSRF, Vulnerabilities, Secure, applications, against, Salesforce, automatically, protects, components, built, Apex, Visualforce, verify]
+keywords: [Protect, Application, CSRF, Vulnerabilities, Secure, applications, against, Salesforce, automatically, protects, built, Apex, Visualforce, verify, protections, enabled, development, frameworks, Considerations, Limitations, Pages, Aura, LWC, Third-Party, API, Integrations]
 ---
-
-# Protect Your Application from CSRF Vulnerabilities
 
 > Secure your applications against CSRF vulnerabilities. While Salesforce automatically
   protects components built with Apex and Visualforce, verify that protections are enabled when

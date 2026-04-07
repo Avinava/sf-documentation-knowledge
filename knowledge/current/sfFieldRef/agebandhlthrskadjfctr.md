@@ -5,12 +5,10 @@ topic: agebandhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.453Z
+lastCollected: 2026-04-07T18:39:25.387Z
 estimatedTokens: 534
-keywords: [AgeBandHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, age, band, they’re, part, status, their, benefits, eligibility]
+keywords: [AgeBandHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, age, band, they’re, part, status, their, benefits, eligibility, API, 61.0]
 ---
-
-# AgeBandHlthRskAdjFctr
 
 > Stores the risk adjustment factor for patients and members based on the age
          band that they’re a part of and the status of their benefits eligibility. This object

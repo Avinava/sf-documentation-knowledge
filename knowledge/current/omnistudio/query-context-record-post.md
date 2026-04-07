@@ -5,12 +5,10 @@ topic: query-context-record-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.828Z
+lastCollected: 2026-04-07T18:36:38.480Z
 estimatedTokens: 296
 keywords: [Query, Context, Record, POST, option, retrieve, child, records]
 ---
-
-# Query Context Record (POST)
 
 > Query a context record, with the option to retrieve child records.
 

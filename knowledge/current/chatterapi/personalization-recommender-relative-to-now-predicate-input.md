@@ -5,12 +5,10 @@ topic: personalization-recommender-relative-to-now-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.910Z
+lastCollected: 2026-04-07T18:37:09.634Z
 estimatedTokens: 176
-keywords: [Personalization, Recommender, Relative, Now, Predicate, Input, date, current, time]
+keywords: [Personalization, Recommender, Relative, Now, Predicate, date, current, time]
 ---
-
-# Personalization Recommender Relative To Now Predicate Input
 
 > Represents a predicate based on a date relative to the current time.
 

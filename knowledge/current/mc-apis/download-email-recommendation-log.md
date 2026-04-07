@@ -5,12 +5,10 @@ topic: download-email-recommendation-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.896Z
+lastCollected: 2026-04-07T18:40:18.083Z
 estimatedTokens: 362
-keywords: [Download, Email, Recommendation, Log, Marketers, retrieve, report, listing, count, recommendations, product, code, date, range, number]
+keywords: [Download, Email, Recommendation, Log, Marketers, retrieve, report, listing, count, recommendations, product, code, date, range, number, times, recommended, configuration, optionally, job, know, Items]
 ---
-
-# Download Email Recommendation Log
 
 > Marketers can retrieve a report listing the count of email recommendations by product code. For a given date range, this report lists each product code and the number of the times that product was recommended for each email recommendation configuration, and, optionally, job id. To know which job id 
 

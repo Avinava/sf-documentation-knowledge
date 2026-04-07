@@ -5,12 +5,10 @@ topic: personalization-experiment-parameter-value-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.805Z
+lastCollected: 2026-04-07T18:37:09.525Z
 estimatedTokens: 114
-keywords: [Personalization, Experiment, Input, engagement, signal]
+keywords: [Personalization, Experiment, engagement, signal]
 ---
-
-# Personalization Experiment Parameter Value Reference Input
 
 > Defines the required engagement signal parameters.
 

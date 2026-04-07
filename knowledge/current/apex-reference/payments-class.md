@@ -5,13 +5,11 @@ topic: payments-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.280Z
+lastCollected: 2026-04-07T18:35:58.545Z
 estimatedTokens: 2534
 namespace: ConnectApi
-keywords: [Payments, Authorize, payment, authorizePayment, API, Version, Requires, Chatter, postAuth, postAuthorizePayment, reverseAuthorization, AuthReversalInput, authorizationId, capture, AuthCaptureInput]
+keywords: [Payments, Authorize, payment, authorizePayment, API, Requires, Chatter, postAuth, postAuthorizePayment, reverseAuthorization, AuthReversalInput, authorizationId, capture, AuthCaptureInput, refund, ReferencedRefundInput, paymentId, sale, tokenizePaymentMethod, tokenizePaymentMethodInput]
 ---
-
-# Payments Class
 
 > Authorize a payment.
 

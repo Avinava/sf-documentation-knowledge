@@ -5,12 +5,10 @@ topic: standard-objects-used-by-workplace-strategy-planner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.444Z
+lastCollected: 2026-04-07T18:40:14.456Z
 estimatedTokens: 757
-keywords: [Standard, Objects, Workplace, Strategy, Planner, requires, Command, Center, uses, Location, Crisis, Address, Employee, custom]
+keywords: [Standard, Workplace, Strategy, Planner, requires, Command, Center, uses, Location, Crisis, Address, Employee]
 ---
-
-# Standard Objects Used by Workplace Strategy Planner
 
 > Workplace Strategy Planner requires Workplace Command Center and uses the standard
     objects Location, Crisis, Address, and Employee. Strategy Planner also uses custom fields on the

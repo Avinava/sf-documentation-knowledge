@@ -5,12 +5,10 @@ topic: using-custom-sync-down-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.181Z
+lastCollected: 2026-04-07T18:40:25.544Z
 estimatedTokens: 191
-keywords: [Custom, Sync, Down, Targets, operations, target, records, downloaded, endpoint, pre-formatted, MRU, SOQL-based, SOSL-based, access, arbitrary]
+keywords: [Sync, Down, Targets, operations, target, records, downloaded, endpoint, pre-formatted, MRU, SOQL-based, SOSL-based, arbitrary, REST, endpoints, inside, outs]
 ---
-
-# Using Custom Sync Down Targets
 
 > During sync down operations, a sync down target controls the set of records to be downloaded
    and the request endpoint. You can use pre-formatted MRU, SOQL-based, and SOSL-based targets, or

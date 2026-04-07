@@ -5,12 +5,10 @@ topic: full-text-search-index-specs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.634Z
+lastCollected: 2026-04-07T18:40:26.880Z
 estimatedTokens: 149
 keywords: [Full-Text, Search, Index, Specs, register, soup, full-text-indexed, paths, SmartStore, full_text, spec, designating]
 ---
-
-# Full-Text Search Index Specs
 
 > To use full-text search, you register your soup with one or more full-text-indexed
   paths. SmartStore provides a

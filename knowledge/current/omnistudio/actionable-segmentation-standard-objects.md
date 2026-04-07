@@ -5,12 +5,10 @@ topic: actionable-segmentation-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.627Z
+lastCollected: 2026-04-07T18:36:35.094Z
 estimatedTokens: 607
-keywords: [Actionable, Segmentation, Standard, Objects, associated, their, capture, basic, record, member, status, column, members]
+keywords: [Actionable, Segmentation, Standard, their, capture, basic, record, member, status, column, members]
 ---
-
-# Actionable Segmentation Standard Objects
 
 > This section lists the standard objects associated with Actionable Segmentation with
     their standard fields. Use the standard objects to create actionable lists, capture basic

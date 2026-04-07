@@ -5,12 +5,10 @@ topic: custom-minimized-component-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.634Z
+lastCollected: 2026-04-07T18:40:09.583Z
 estimatedTokens: 337
-keywords: [Custom, Minimized, Component, Code, Samples, sample, examples, controller, helper, embedded, Aura, CSS]
+keywords: [Minimized, Code, Samples, sample, examples, controller, helper, embedded, Aura, CSS]
 ---
-
-# Custom Minimized Component Code Samples
 
 > The following code sample contains examples of the component, controller, and helper
 		code for a custom minimized embedded component using Aura.

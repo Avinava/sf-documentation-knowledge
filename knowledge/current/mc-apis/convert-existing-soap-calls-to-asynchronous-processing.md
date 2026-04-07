@@ -5,12 +5,10 @@ topic: convert-existing-soap-calls-to-asynchronous-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.234Z
+lastCollected: 2026-04-07T18:40:15.262Z
 estimatedTokens: 74
-keywords: [Convert, SOAP, Calls, Asynchronous, Processing, examples, models, API, Synchronous, PHP, Enabling]
+keywords: [Convert, SOAP, Asynchronous, Processing, examples, models, API, Synchronous, PHP, Enabling]
 ---
-
-# Convert Existing SOAP Calls to Asynchronous Processing
 
 > Use these examples as models to convert your existing API calls to asynchronous processing.
 

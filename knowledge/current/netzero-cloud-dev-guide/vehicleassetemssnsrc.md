@@ -5,12 +5,10 @@ topic: vehicleassetemssnsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.299Z
+lastCollected: 2026-04-07T18:38:19.977Z
 estimatedTokens: 2697
-keywords: [VehicleAssetEmssnSrc, assets, mobile, nature, energy, recorded, source, greenhouse, gas, emissions, API, version, 54.0, later, Calls]
+keywords: [VehicleAssetEmssnSrc, assets, mobile, nature, energy, recorded, source, greenhouse, gas, emissions, API, 54.0]
 ---
-
-# VehicleAssetEmssnSrc
 
 > Represents assets that are mobile in nature, use energy that can be recorded,
          and are the source of greenhouse gas emissions. This object is available in API

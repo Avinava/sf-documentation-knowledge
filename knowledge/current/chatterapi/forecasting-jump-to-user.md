@@ -5,12 +5,10 @@ topic: forecasting-jump-to-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.070Z
+lastCollected: 2026-04-07T18:37:14.035Z
 estimatedTokens: 368
-keywords: [Forecasting, Jump-To-User, Salesforce, users, whose, forecasts, context, user, access, view, compares, search, users’, functionality, analogous]
+keywords: [Forecasting, Jump-To-User, Salesforce, users, whose, forecasts, context, user, view, compares, search, users’, functionality, analogous, Jump]
 ---
-
-# Forecasting Jump-To-User
 
 > For Salesforce Forecasting, returns a list of users whose forecasts
       the context user has access to view. The method compares a search string to available users’

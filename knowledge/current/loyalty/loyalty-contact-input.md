@@ -5,12 +5,10 @@ topic: loyalty-contact-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.050Z
+lastCollected: 2026-04-07T18:38:07.264Z
 estimatedTokens: 273
-keywords: [Loyalty, Contact, Input, representation, program, member’s, person, account]
+keywords: [Loyalty, Contact, program, member’s, person, account]
 ---
-
-# Loyalty Contact Input
 
 > Input representation of the loyalty program member’s person
       account.

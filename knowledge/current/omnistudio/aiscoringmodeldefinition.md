@@ -5,12 +5,10 @@ topic: aiscoringmodeldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:56.565Z
+lastCollected: 2026-04-07T18:36:42.275Z
 estimatedTokens: 1026
-keywords: [AIScoringModelDefinition, machine, learning, model, that’s, Scoring, Framework, Industries, Cloud, Einstein, including, configuration, Parent, File, Suffix, API, version, 57.0]
+keywords: [AIScoringModelDefinition, AIScoringModelDefVersion, AIScoringStep, machine, learning, model, that’s, Scoring, Framework, Industries, Cloud, Einstein, including, configuration, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 57.0, SOAP, REST]
 ---
-
-# AIScoringModelDefinition
 
 > Represents information about a machine learning model that’s used by
          the Scoring Framework for Industries Cloud Einstein. The machine learning model is used for

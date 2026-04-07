@@ -5,12 +5,10 @@ topic: anticorruptioninitsumfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.849Z
+lastCollected: 2026-04-07T18:39:25.821Z
 estimatedTokens: 363
-keywords: [AntiCorruptionInitSumFeed, Feed, tracking, AntiCorruptionInitSum]
+keywords: [AntiCorruptionInitSumFeed, AntiCorruptionInitSum]
 ---
-
-# AntiCorruptionInitSumFeed
 
 > Feed tracking for AntiCorruptionInitSum.
 

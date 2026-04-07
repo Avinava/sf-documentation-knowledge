@@ -5,12 +5,10 @@ topic: tenantsecuritytransactionpolicytrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.860Z
+lastCollected: 2026-04-07T18:38:42.589Z
 estimatedTokens: 1161
-keywords: [TenantSecurityTransactionPolicyTrend, Stores, changes, count, Transaction, Security, Policies, connected, tenant, Center, subscribers, API, version, 55.0, later]
+keywords: [TenantSecurityTransactionPolicyTrend, Stores, changes, count, Transaction, Security, Policies, connected, tenant, Center, subscribers, API, 55.0]
 ---
-
-# TenantSecurityTransactionPolicyTrend
 
 > Stores changes to the count of Transaction Security Policies for a
          connected tenant within Security Center. This object is available for Security Center

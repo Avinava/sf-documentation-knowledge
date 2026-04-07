@@ -5,12 +5,10 @@ topic: brokerofrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.760Z
+lastCollected: 2026-04-07T18:37:36.546Z
 estimatedTokens: 1330
-keywords: [BrokerOfRecord, legal, authority, brokerage, act, behalf, their, clients, insurance, carriers, API, version, later, Calls, Associated]
+keywords: [BrokerOfRecord, legal, authority, brokerage, act, behalf, their, clients, insurance, carriers, API]
 ---
-
-# BrokerOfRecord
 
 > Represents a legal authority for the brokerage to act on behalf of their clients
          with insurance carriers. This object is available in API version 61 and

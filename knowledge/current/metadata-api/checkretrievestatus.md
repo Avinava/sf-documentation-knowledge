@@ -5,12 +5,10 @@ topic: checkretrievestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.171Z
+lastCollected: 2026-04-07T18:36:23.475Z
 estimatedTokens: 1595
-keywords: [checkRetrieveStatus, Checks, status, declarative, metadata, call, zip, file, contents, Usage, Retrieving, Second, Process, Sample, Code—Java]
+keywords: [Arguments, checkRetrieveStatus, Checks, status, declarative, metadata, call, zip, file, contents, Retrieving, Second, Process, Sample, Code—Java]
 ---
-
-# checkRetrieveStatus()
 
 > Checks the status of the declarative metadata call checkRetrieveStatus() and returns the zip file contents.
 

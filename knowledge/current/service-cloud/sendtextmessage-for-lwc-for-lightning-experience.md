@@ -5,12 +5,10 @@ topic: sendtextmessage-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.887Z
+lastCollected: 2026-04-07T18:36:50.064Z
 estimatedTokens: 162
-keywords: [sendTextMessage, LWC, Lightning, Experience, new, text, message, agent, end, user, works, console, apps, Arguments]
+keywords: [Arguments, sendTextMessage, LWC, Lightning, Experience, new, text, message, agent, end, user, works, console, apps]
 ---
-
-# sendTextMessage() for LWC for Lightning Experience
 
 > Sends a new text message from the agent to an end user. This method works only in
   Lightning console apps.

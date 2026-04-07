@@ -5,12 +5,10 @@ topic: lightningusagebyapptypemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.228Z
+lastCollected: 2026-04-07T18:38:34.430Z
 estimatedTokens: 205
-keywords: [LightningUsageByAppTypeMetrics, number, users, Lightning, Experience, Salesforce, Mobile, API, version, 43.0, later, Calls, Special, Access, Rules]
+keywords: [LightningUsageByAppTypeMetrics, number, users, Lightning, Experience, Salesforce, Mobile, API, 43.0]
 ---
-
-# LightningUsageByAppTypeMetrics
 
 > Represents number of users on Lightning Experience and Salesforce
 			Mobile. This object is available in API version 43.0 and later.

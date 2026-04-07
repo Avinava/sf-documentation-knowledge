@@ -6,13 +6,10 @@ topic: aura-events-for-enhanced-messaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.754Z
+lastCollected: 2026-04-07T18:36:49.930Z
 estimatedTokens: 431
-keywords: [Aura, Events, Enhanced, Messaging, JavaScript, executed, certain, occur, console, user, closes, tab, few, specific, apply]
+keywords: [Aura, Events, Enhanced, Messaging, JavaScript, executed, certain, occur, console, user, closes, tab, few, specific, apply, Lightning, Experience]
 ---
-
-# Aura Events for Enhanced
-    Messaging
 
 > JavaScript can be executed when certain types of events occur in a console, such as
     when a user closes a tab. A few events are specific to Messaging. These events apply to Aura

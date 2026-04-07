@@ -5,12 +5,10 @@ topic: configuring-advanced-authentication-in-android-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.737Z
+lastCollected: 2026-04-07T18:40:25.124Z
 estimatedTokens: 680
-keywords: [Configuring, Advanced, Authentication, Android, Apps, Salesforce, orgs, Domain, Mobile, SDK, requires, small, amount, configuration, client]
+keywords: [Configuring, Advanced, Authentication, Android, Apps, Salesforce, orgs, Domain, Mobile, SDK, requires, small, amount, configuration, client, app, certificate-based, don’t, require, Implementation, Certificated-Based, Browser-Based]
 ---
-
-# Configuring Advanced Authentication in Android Apps
 
 > In Salesforce orgs
         that use My Domain for advanced authentication, Mobile SDK requires a

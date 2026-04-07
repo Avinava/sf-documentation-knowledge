@@ -5,13 +5,11 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.488Z
+lastCollected: 2026-04-07T18:39:41.151Z
 estimatedTokens: 330
 namespace: NamespacePrefix
 keywords: [Folder, repository, Dashboard, Document, EmailTemplate, Macro, QuickText, Report, item, contained]
 ---
-
-# Folder
 
 > Represents a repository for a Dashboard, Document, EmailTemplate,
    Macro, QuickText, or Report. Only one type of item can be contained in a folder.

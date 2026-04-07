@@ -5,12 +5,10 @@ topic: connectapiinsurancemembercontactanduserdetailsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.646Z
+lastCollected: 2026-04-07T18:37:50.522Z
 estimatedTokens: 128
-keywords: [Output, representation, created, contact, portal, user, group, census, member]
+keywords: [created, contact, portal, user, group, census, member]
 ---
-
-# ConnectApi.InsuranceMemberContactAndUserDetailsRepresentation
 
 > Output representation of the created contact and portal user details for a group census member.
 

@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-query-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.257Z
+lastCollected: 2026-04-07T18:36:58.755Z
 estimatedTokens: 117
-keywords: [Smart, Data, Discovery, Narrative, Query, Input, metadata, Einstein, story, retrieve]
+keywords: [Smart, Discovery, Narrative, Query, metadata, Einstein, story, retrieve]
 ---
-
-# Smart Data Discovery Narrative Query Input
 
 > The query metadata for the Einstein Discovery story narrative to retrieve.
 

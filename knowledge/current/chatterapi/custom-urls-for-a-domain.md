@@ -5,12 +5,10 @@ topic: custom-urls-for-a-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.213Z
+lastCollected: 2026-04-07T18:37:13.155Z
 estimatedTokens: 144
-keywords: [Custom, URLs, Domain, serve, site, content, least, URL]
+keywords: [URLs, Domain, serve, site, content, least, URL]
 ---
-
-# Custom URLs for a Domain
 
 > Get a list of custom URLs for a custom domain. For a domain to serve site content, at
     least one custom URL is required.

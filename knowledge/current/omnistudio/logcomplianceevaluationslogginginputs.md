@@ -5,12 +5,10 @@ topic: logcomplianceevaluationslogginginputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.898Z
+lastCollected: 2026-04-07T18:36:35.380Z
 estimatedTokens: 228
-keywords: [logComplianceEvaluations, loggingInputs, Log, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, calls]
+keywords: [logComplianceEvaluations, loggingInputs, Log, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, year]
 ---
-
-# logComplianceEvaluations(loggingInputs)
 
 > Log compliance check events for control. This API supports a maximum number of 25 logs
   per request. You can make up to 200,000 audit log API calls per year.

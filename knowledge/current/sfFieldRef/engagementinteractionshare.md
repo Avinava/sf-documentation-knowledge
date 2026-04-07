@@ -5,12 +5,10 @@ topic: engagementinteractionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.885Z
+lastCollected: 2026-04-07T18:39:39.551Z
 estimatedTokens: 271
 keywords: [EngagementInteractionShare, Sharing, EngagementInteraction]
 ---
-
-# EngagementInteractionShare
 
 > Sharing for EngagementInteraction.
 

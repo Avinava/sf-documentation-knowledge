@@ -5,12 +5,10 @@ topic: payment-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.713Z
+lastCollected: 2026-04-07T18:37:09.440Z
 estimatedTokens: 254
-keywords: [Payment, Group, Input, associated, Users, either, creation, new, pass]
+keywords: [Payment, Group, Users, either, creation, new, pass]
 ---
-
-# Payment Group Input
 
 > Payment group details associated with the request. Users can either
       request creation of a new ID or pass an ID.

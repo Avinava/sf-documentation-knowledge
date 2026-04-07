@@ -5,12 +5,10 @@ topic: pickticketfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.612Z
+lastCollected: 2026-04-07T18:39:54.181Z
 estimatedTokens: 386
-keywords: [PickTicketFeed, Feed, tracking, PickTicket]
+keywords: [PickTicketFeed, PickTicket]
 ---
-
-# PickTicketFeed
 
 > Feed tracking for PickTicket.
 

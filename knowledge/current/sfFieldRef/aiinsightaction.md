@@ -5,12 +5,10 @@ topic: aiinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.890Z
+lastCollected: 2026-04-07T18:39:23.825Z
 estimatedTokens: 330
-keywords: [AIInsightAction, Einstein, prediction, insight, action, API, version, 47.0, later]
+keywords: [AIInsightAction, Einstein, prediction, insight, action, API, 47.0]
 ---
-
-# AIInsightAction
 
 > Represents an Einstein prediction insight action. This object is available
     in API version 47.0 and later.

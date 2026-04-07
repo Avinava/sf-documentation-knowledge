@@ -5,12 +5,10 @@ topic: test-reports
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.687Z
+lastCollected: 2026-04-07T18:36:15.918Z
 estimatedTokens: 289
 keywords: [Test, Reports, Apex, code, Salesforce, Dashboards, API, via, requires, coverage]
 ---
-
-# Test Reports
 
 > Like all Apex code, Salesforce Reports and Dashboards API via Apex code requires test
         coverage.

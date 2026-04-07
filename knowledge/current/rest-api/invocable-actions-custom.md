@@ -5,12 +5,10 @@ topic: invocable-actions-custom
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.157Z
+lastCollected: 2026-04-07T18:36:20.369Z
 estimatedTokens: 421
-keywords: [Invocable, Actions, Custom, statically, invoked, basic, action]
+keywords: [Invocable, Actions, statically, invoked, basic, action]
 ---
-
-# Invocable Actions Custom
 
 > Represents custom invocable actions that can be statically invoked. You can also get
     basic information for each type of action.

@@ -2,7 +2,7 @@
 domain: salesforce-large-data-volumes-bp
 name: Best Practices for Deployments with Large Data Volumes
 documentCount: 32
-lastGenerated: 2026-04-07T09:06:38.406Z
+lastGenerated: 2026-04-07T18:40:43.473Z
 ---
 
 # Best Practices for Deployments with Large Data Volumes — Knowledge Index
@@ -24,7 +24,7 @@ in large data volumes across multiple objects usin |
 called defer sha |
 | [deleting-data.md](./deleting-data.md) | Deleting Data | developer-guide | The Salesforce data deletion mechanism can have a profound effect on the perform |
 | [divisions.md](./divisions.md) | Divisions | developer-guide | Divisions are a means of partitioning the data of large deployments to reduce th |
-| [extracting-data-from-the-api.md](./extracting-data-from-the-api.md) | Extracting Data from the API | developer-guide | Extracting, Data, API |
+| [extracting-data-from-the-api.md](./extracting-data-from-the-api.md) | Extracting Data from the API | developer-guide | Extracting, API |
 | [general.md](./general.md) | General | developer-guide | General |
 | [indexes.md](./indexes.md) | Indexes | help-article | Where possible, we changed noninclusive terms to align with our company
          |
@@ -35,7 +35,7 @@ Data Volumes | api-reference | Infrastructure, Systems, Large |
 | [introduction.md](./introduction.md) | Introduction | concept | This paper is for experienced application architects who work with Salesforce de |
 | [large-data-volumes-case-studies.md](./large-data-volumes-case-studies.md) | Large Data Volumes Case Studies | developer-guide | To recognize and solve similar issues, read the following case studies: |
 | [lightning-platform-query-optimizer.md](./lightning-platform-query-optimizer.md) | Lightning Platform Query Optimizer | help-article | The Salesforce multitenant architecture uses the underlying database in such a w |
-| [loading-data-from-the-api.md](./loading-data-from-the-api.md) | Loading Data from the API | developer-guide | Loading, Data, API |
+| [loading-data-from-the-api.md](./loading-data-from-the-api.md) | Loading Data from the API | developer-guide | Loading, API |
 | [multi-join-report-performance.md](./multi-join-report-performance.md) | Multi-Join Report Performance | developer-guide | The customer created a report
 that used four related objects: Accounts (314,000) |
 | [multitenancy-and-metadata-overview.md](./multitenancy-and-metadata-overview.md) | Multitenancy and Metadata Overview | concept | Multitenancy is a means of providing a single application

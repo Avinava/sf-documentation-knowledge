@@ -5,12 +5,10 @@ topic: upgrading-android-single-sign-on-apps-to-google-login-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.742Z
+lastCollected: 2026-04-07T18:40:25.129Z
 estimatedTokens: 319
-keywords: [Upgrading, Android, Sign-On, Apps, Google, Login, Requirements, officially, dropped, support, logins, embedded, web, views, favor]
+keywords: [Upgrading, Android, Sign-On, Apps, Google, Login, Requirements, officially, dropped, support, logins, embedded, web, views, favor, browser-based, flows, result, older, Mobile, SDK, SSO, identity, provider, require, code, changes]
 ---
-
-# Upgrading Android Single Sign-On Apps to Google Login Requirements
 
 > In 2018, Google officially dropped support for logins through embedded web views in
     favor of browser-based login flows. As a result, older Mobile SDK Android apps

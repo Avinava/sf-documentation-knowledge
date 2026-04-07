@@ -5,12 +5,10 @@ topic: content
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.807Z
+lastCollected: 2026-04-07T18:37:17.876Z
 estimatedTokens: 1109
-keywords: [Content, file, attached, feed, item]
+keywords: [Content, file, attached, item]
 ---
-
-# Content
 
 > A file attached to a feed item.
 

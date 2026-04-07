@@ -5,12 +5,10 @@ topic: validating-sobjects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.076Z
+lastCollected: 2026-04-07T18:36:19.300Z
 estimatedTokens: 185
 keywords: [Validating, sObjects, Apex, code, parsed, validated, sObject, references, against, actual, parse-time, exception, thrown, invalid]
 ---
-
-# Validating sObjects and Fields
 
 > When Apex code is parsed and validated, all sObject and field references are validated against
    actual object and field names, and a parse-time exception is thrown when an invalid name is

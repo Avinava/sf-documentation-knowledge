@@ -5,12 +5,10 @@ topic: expression-set-subexpression-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.133Z
+lastCollected: 2026-04-07T18:39:01.273Z
 estimatedTokens: 104
-keywords: [Expression, SubExpression, Step, Input, representation]
+keywords: [Expression, SubExpression, Step]
 ---
-
-# Expression Set SubExpression Step Input
 
 > Input representation of a subexpression step in an expression
       set.

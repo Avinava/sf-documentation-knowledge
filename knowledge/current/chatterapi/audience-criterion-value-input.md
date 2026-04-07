@@ -5,12 +5,10 @@ topic: audience-criterion-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.533Z
+lastCollected: 2026-04-07T18:37:07.251Z
 estimatedTokens: 496
-keywords: [Audience, Criterion, Input]
+keywords: [Audience, Criterion]
 ---
-
-# Audience Criterion Value Input
 
 > Audience criterion value.
 

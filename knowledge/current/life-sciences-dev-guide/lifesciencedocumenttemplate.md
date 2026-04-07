@@ -5,12 +5,10 @@ topic: lifesciencedocumenttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.881Z
+lastCollected: 2026-04-07T18:38:00.661Z
 estimatedTokens: 669
-keywords: [LifeScienceDocumentTemplate, Stores, template, general, Calls]
+keywords: [LifeScienceDocumentTemplate, Stores, template, general]
 ---
-
-# LifeScienceDocumentTemplate
 
 > Stores the template name and general information about the template.
 

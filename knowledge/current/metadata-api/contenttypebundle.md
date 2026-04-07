@@ -5,12 +5,10 @@ topic: contenttypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.454Z
+lastCollected: 2026-04-07T18:36:23.775Z
 estimatedTokens: 1997
-keywords: [ContentTypeBundle, definition, enhanced, custom, content, CMS, workspaces, deploy, bundle, org, forms, defined, deployed, LWR, site]
+keywords: [ContentTypeBundle, ContentTypeBundleResource, definition, enhanced, content, CMS, workspaces, deploy, bundle, org, forms, defined, deployed, LWR, site, channels, Aura, non-enhanced, resources, Parent, Structure, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---
-
-# ContentTypeBundle
 
 > Represents the definition of enhanced custom content types
 			for use with enhanced CMS workspaces. When you create an enhanced custom content type,

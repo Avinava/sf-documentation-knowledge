@@ -5,12 +5,10 @@ topic: invokeupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.169Z
+lastCollected: 2026-04-07T18:40:22.568Z
 estimatedTokens: 300
-keywords: [InvokeUpdate, Function, Ordinal, Text, API, variable, status, message, Numeric, error, code, **Overview**, **Syntax**, Usage, perform, array, containing, RequestID, call]
+keywords: [InvokeUpdate, Function, Ordinal, Text, API, variable, status, message, Numeric, error, code, **Overview**, **Syntax**, perform, array, containing, RequestID, call]
 ---
-
-# InvokeUpdate
 
 > InvokeUpdate(1, 2, 3, 4)
 

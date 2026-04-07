@@ -5,12 +5,10 @@ topic: get-record-detail-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.870Z
+lastCollected: 2026-04-07T18:40:10.845Z
 estimatedTokens: 543
 keywords: [Record, Detail, Actions, pages]
 ---
-
-# Get Record Detail Actions
 
 > Get the actions on record detail pages.
 

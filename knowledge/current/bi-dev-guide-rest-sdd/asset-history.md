@@ -5,12 +5,10 @@ topic: asset-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.851Z
+lastCollected: 2026-04-07T18:36:59.346Z
 estimatedTokens: 311
-keywords: [Asset, History, record]
+keywords: [Asset, record]
 ---
-
-# Asset History
 
 > The asset history record.
 

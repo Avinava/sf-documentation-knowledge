@@ -5,12 +5,10 @@ topic: order-payment-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.586Z
+lastCollected: 2026-04-07T18:37:15.644Z
 estimatedTokens: 582
 keywords: [Order, Payment, Summaries, OrderPaymentSummary, OrderSummary, Specify, authorization, payments, share, org, multicurrency, feature, enabled, inherits, CurrencyIsoCode]
 ---
-
-# Order Payment Summaries
 
 > Create an OrderPaymentSummary for an OrderSummary. Specify a payment
       authorization or payments that share the same payment method. In an org with the multicurrency

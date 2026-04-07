@@ -5,12 +5,10 @@ topic: goallink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.307Z
+lastCollected: 2026-04-07T18:38:33.441Z
 estimatedTokens: 178
-keywords: [GoalLink, relationship, two, goals, many-to-many, meaning, goal, link, Calls]
+keywords: [GoalLink, relationship, two, goals, many-to-many, meaning, goal, link]
 ---
-
-# GoalLink
 
 > Represents the relationship between two goals. This is a
 			many-to-many relationship, meaning that each goal can link to many other

@@ -5,12 +5,10 @@ topic: integration-procedure-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.560Z
+lastCollected: 2026-04-07T18:36:37.095Z
 estimatedTokens: 147
-keywords: [Integration, Procedure, Input, representation, procedures, clear, cache]
+keywords: [Integration, Procedure, procedures, clear, cache]
 ---
-
-# Integration Procedure Details
 
 > Input representation of the details of the integration procedures to clear the cache
     for.

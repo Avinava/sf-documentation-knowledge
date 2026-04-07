@@ -5,12 +5,10 @@ topic: promotion-cart-adjustment-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.166Z
+lastCollected: 2026-04-07T18:37:22.273Z
 estimatedTokens: 522
-keywords: [Promotion, Cart, Adjustment, Group, associated]
+keywords: [Promotion, Cart, Adjustment, Group]
 ---
-
-# Promotion Cart Adjustment Group
 
 > Adjustment group associated with a cart.
 

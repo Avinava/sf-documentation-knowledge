@@ -5,12 +5,10 @@ topic: automatedaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:35.621Z
+lastCollected: 2026-04-07T18:38:26.588Z
 estimatedTokens: 1296
-keywords: [AutomatedAction, configuration, automated, action, workflow, rule, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [AutomatedAction, configuration, automated, action, workflow, rule, API, 57.0]
 ---
-
-# AutomatedAction
 
 > Represents the configuration of an automated action, such as a
          workflow rule. This object is available in API version 57.0 and later.

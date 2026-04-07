@@ -5,12 +5,10 @@ topic: invocableactionextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.908Z
+lastCollected: 2026-04-07T18:36:33.318Z
 estimatedTokens: 794
-keywords: [InvocableActionExtension, extension, invocable, action, Salesforce, API, version, 65.0, later, SOAP, Calls, REST]
+keywords: [InvocableActionExtension, extension, invocable, action, Salesforce, API, 65.0, SOAP, REST]
 ---
-
-# InvocableActionExtension
 
 > Represents an extension to an invocable action in Salesforce. This object is
          available in API version 65.0 and later.

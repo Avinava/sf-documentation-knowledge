@@ -5,12 +5,10 @@ topic: connectapinonentityrecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.044Z
+lastCollected: 2026-04-07T18:36:10.346Z
 estimatedTokens: 235
 keywords: [ConnectApi.NonEntityRecommendation, recommendation, non-Salesforce, entity, application]
 ---
-
-# ConnectApi.NonEntityRecommendation
 
 > A recommendation for a non-Salesforce entity, such as an
       application.

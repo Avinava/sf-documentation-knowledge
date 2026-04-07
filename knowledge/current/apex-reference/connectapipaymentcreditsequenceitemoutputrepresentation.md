@@ -5,12 +5,10 @@ topic: connectapipaymentcreditsequenceitemoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.465Z
+lastCollected: 2026-04-07T18:36:10.744Z
 estimatedTokens: 107
-keywords: [representation, individual, payment, credit, items, item, specific, amount, applied]
+keywords: [individual, payment, credit, items, item, specific, amount, applied]
 ---
-
-# ConnectApi.PaymentCreditSequenceItemOutputRepresentation
 
 > The representation of individual payment credit items. Each item represents a specific
     payment method and the amount of credit to be applied to it.

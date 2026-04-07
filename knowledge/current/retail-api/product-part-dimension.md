@@ -5,12 +5,10 @@ topic: product-part-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:18.306Z
+lastCollected: 2026-04-07T18:39:11.847Z
 estimatedTokens: 322
-keywords: [Product, Part, Dimension, extract, data, Bill, Materials, BOM, component, level, configure, sales, org, CSV, exports]
+keywords: [Product, Part, Dimension, extract, Bill, Materials, BOM, level, configure, sales, org, CSV, exports, executed, Integration, meta, JSON]
 ---
-
-# Product Part Dimension
 
 > To extract data at the Bill of Materials (BOM) component or product part level,
   configure Product Part Dimension for each sales org on which CSV exports are executed.

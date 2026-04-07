@@ -5,12 +5,10 @@ topic: assortmentproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.788Z
+lastCollected: 2026-04-07T18:39:12.306Z
 estimatedTokens: 510
-keywords: [AssortmentProduct, Associate, products, assortment, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [AssortmentProduct, Associate, products, assortment, API, 47.0]
 ---
-
-# AssortmentProduct
 
 > Associate products to an assortment. This object is available in API
     version 47.0 and later.

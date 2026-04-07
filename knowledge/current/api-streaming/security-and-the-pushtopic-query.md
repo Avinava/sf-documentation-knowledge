@@ -5,12 +5,10 @@ topic: security-and-the-pushtopic-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.226Z
+lastCollected: 2026-04-07T18:36:51.554Z
 estimatedTokens: 436
-keywords: [Security, PushTopic, Query, subscriber, doesn’t, access, referenced, SELECT, clause, aren’t, included, notification, they, don’t, receive]
+keywords: [Security, PushTopic, Query, subscriber, doesn’t, referenced, SELECT, clause, aren’t, included, notification, they, don’t, receive, addit]
 ---
-
-# Security and the PushTopic Query
 
 > If the subscriber doesn’t have access to fields referenced in the query SELECT clause, then those
       fields aren’t included in the notification. If the subscriber doesn’t have access to all

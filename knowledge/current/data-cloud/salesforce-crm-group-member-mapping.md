@@ -5,12 +5,10 @@ topic: salesforce-crm-group-member-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.503Z
+lastCollected: 2026-04-07T18:35:52.366Z
 estimatedTokens: 193
-keywords: [Salesforce, CRM, Group, Member, Mapping, data, mappings, GroupMember, DLO, found, Services, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Group, Member, Mapping, mappings, GroupMember, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Group Member Mapping
 
 > These data mappings are for the GroupMember DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

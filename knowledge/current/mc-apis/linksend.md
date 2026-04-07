@@ -5,12 +5,10 @@ topic: linksend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.561Z
+lastCollected: 2026-04-07T18:40:17.744Z
 estimatedTokens: 411
 keywords: [LinkSend, link, send, Items]
 ---
-
-# LinkSend
 
 > The LinkSend object provides information about a link in a send.
 

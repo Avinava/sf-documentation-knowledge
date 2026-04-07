@@ -5,12 +5,10 @@ topic: cgcsyncsyncconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.857Z
+lastCollected: 2026-04-07T18:39:12.373Z
 estimatedTokens: 2575
-keywords: [cgc_sync__Sync_Config__c, settings, synchronization, engine, client, backend, background, sync, startup, Apex, endpoint, thresholds, API, version, 53.0]
+keywords: [cgc_sync__Sync_Config__c, settings, synchronization, engine, client, backend, background, sync, startup, Apex, endpoint, thresholds, API, 53.0, cgc, _sync, _Config]
 ---
-
-# cgc_sync__Sync_Config__c
 
 > Represents the settings for synchronization engine client and its backend. For
       example, background sync, sync on startup, and Apex endpoint thresholds. This object is

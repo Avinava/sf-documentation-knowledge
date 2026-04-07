@@ -5,12 +5,10 @@ topic: importing-custom-order-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.610Z
+lastCollected: 2026-04-07T18:38:45.408Z
 estimatedTokens: 257
-keywords: [Importing, Custom, Order, Data, import, add, OrderItem, OrderDeliveryGroup, matching, corresponding, summary, base, record, action, API]
+keywords: [Importing, Order, import, add, OrderItem, OrderDeliveryGroup, matching, corresponding, summary, base, record, action, API, copies]
 ---
-
-# Importing Custom Order Data
 
 > To import custom order data, add a custom field to Order,
       OrderItem, or OrderDeliveryGroup and a matching custom field to the corresponding summary

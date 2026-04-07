@@ -5,12 +5,10 @@ topic: commerce-product-selling-model-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.545Z
+lastCollected: 2026-04-07T18:37:17.625Z
 estimatedTokens: 82
 keywords: [Commerce, Product, Selling, Model]
 ---
-
-# Commerce Product Selling Model Information
 
 > Product selling model information.
 

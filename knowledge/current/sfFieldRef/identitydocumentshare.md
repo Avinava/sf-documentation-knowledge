@@ -5,12 +5,10 @@ topic: identitydocumentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.555Z
+lastCollected: 2026-04-07T18:39:44.208Z
 estimatedTokens: 251
 keywords: [IdentityDocumentShare, Sharing, IdentityDocument]
 ---
-
-# IdentityDocumentShare
 
 > Sharing for IdentityDocument.
 

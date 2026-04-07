@@ -5,12 +5,10 @@ topic: applicationformevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.496Z
+lastCollected: 2026-04-07T18:37:36.246Z
 estimatedTokens: 611
-keywords: [ApplicationFormEvaluation, evaluation, performed, application, form, loan, underwriter, API, version, 61.0, later, Digital, Lending, permission, Calls]
+keywords: [ApplicationFormEvaluation, evaluation, performed, application, form, loan, underwriter, API, 61.0, Digital, Lending, permission]
 ---
-
-# ApplicationFormEvaluation
 
 > Represents the details of the evaluation performed for an application form.
          For example, the details of the evaluation of a loan application form by an

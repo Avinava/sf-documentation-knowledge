@@ -5,12 +5,10 @@ topic: post-platformv1ens-verify
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.829Z
+lastCollected: 2026-04-07T18:40:21.098Z
 estimatedTokens: 757
-keywords: [POST, platform, ens-verify, Verifies, callback, receive, notifications, **Overview**, Usage, HTTP, Responses]
+keywords: [POST, platform, ens-verify, Verifies, callback, receive, notifications, **Overview**, HTTP, Responses]
 ---
-
-# POST /platform/v1/ens-verify
 
 > Verifies a callback so that it can receive notifications.
 

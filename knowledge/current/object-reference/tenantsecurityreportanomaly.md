@@ -5,12 +5,10 @@ topic: tenantsecurityreportanomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.826Z
+lastCollected: 2026-04-07T18:38:42.554Z
 estimatedTokens: 1525
-keywords: [TenantSecurityReportAnomaly, Stores, anomalies, how, users, run, export, reports, including, unsaved, detected, Threat, Detection, Security, Center]
+keywords: [TenantSecurityReportAnomaly, Stores, anomalies, how, users, run, export, reports, including, unsaved, detected, Threat, Detection, Security, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityReportAnomaly
 
 > Stores anomalies in how users run or export reports, including
          unsaved reports, as detected by Threat Detection. For more information, see Threat Detection. This object is available to

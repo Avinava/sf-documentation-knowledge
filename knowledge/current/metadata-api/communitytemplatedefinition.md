@@ -5,12 +5,10 @@ topic: communitytemplatedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.323Z
+lastCollected: 2026-04-07T18:36:23.634Z
 estimatedTokens: 1340
-keywords: [CommunityTemplateDefinition, definition, Experience, Builder, site, template, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [CommunityTemplateDefinition, CommunityTemplateBundleInfo, CommunityTemplatePageSetting, definition, Experience, Builder, site, template, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# CommunityTemplateDefinition
 
 > Represents the definition of an Experience
         Builder site template. This type extends the Metadata metadata type and inherits its 

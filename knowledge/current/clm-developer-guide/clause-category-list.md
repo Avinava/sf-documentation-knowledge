@@ -5,12 +5,10 @@ topic: clause-category-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.832Z
+lastCollected: 2026-04-07T18:37:24.802Z
 estimatedTokens: 197
-keywords: [Clause, Category, Access, categories, configuration]
+keywords: [Clause, Category, categories, configuration]
 ---
-
-# Clause Category List
 
 > Access list of clause categories from the
     configuration.

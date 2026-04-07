@@ -6,13 +6,10 @@ topic: step-one-sign-up-for-salesforce-developer-edition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.999Z
+lastCollected: 2026-04-07T18:36:20.218Z
 estimatedTokens: 366
 keywords: [Step, Sign, Salesforce, Developer, Edition, free, easy, solution, testing, development]
 ---
-
-# Step
-      One: Sign up for Salesforce Developer Edition
 
 > Developer Edition provides a free and easy solution so that you can use Salesforce for
     testing and development.

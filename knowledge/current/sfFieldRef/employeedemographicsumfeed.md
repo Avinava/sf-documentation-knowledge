@@ -5,12 +5,10 @@ topic: employeedemographicsumfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.474Z
+lastCollected: 2026-04-07T18:39:39.126Z
 estimatedTokens: 364
-keywords: [EmployeeDemographicSumFeed, Feed, tracking, EmployeeDemographicSum]
+keywords: [EmployeeDemographicSumFeed, EmployeeDemographicSum]
 ---
-
-# EmployeeDemographicSumFeed
 
 > Feed tracking for EmployeeDemographicSum.
 

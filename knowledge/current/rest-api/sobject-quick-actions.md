@@ -5,12 +5,10 @@ topic: sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.100Z
+lastCollected: 2026-04-07T18:36:21.324Z
 estimatedTokens: 386
-keywords: [sObject, Quick, Actions, Access, object’s, action, resource, REST, API, version, 28.0, later]
+keywords: [sObject, Quick, Actions, object’s, action, resource, REST, API, 28.0]
 ---
-
-# sObject Quick Actions
 
 > Access an object’s actions and the action details. This
       resource is available in REST API version 28.0 and later.

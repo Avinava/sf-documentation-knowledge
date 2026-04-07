@@ -5,12 +5,10 @@ topic: connectapiclaimparticipantinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.821Z
+lastCollected: 2026-04-07T18:37:49.683Z
 estimatedTokens: 263
-keywords: [ConnectApi.ClaimParticipantInputRep, Invocable, Action, Input, representation, Claim, Participant]
+keywords: [ConnectApi.ClaimParticipantInputRep, Invocable, Action, Claim, Participant]
 ---
-
-# ConnectApi.ClaimParticipantInputRep
 
 > Invocable Action Input representation for Claim Participant
 

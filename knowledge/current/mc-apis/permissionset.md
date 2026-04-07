@@ -5,12 +5,10 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.956Z
+lastCollected: 2026-04-07T18:40:18.143Z
 estimatedTokens: 465
 keywords: [PermissionSet, group, permissions]
 ---
-
-# PermissionSet
 
 > The PermissionSet object contains information on a group of related permissions.
 

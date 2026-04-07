@@ -5,12 +5,10 @@ topic: taxes-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.638Z
+lastCollected: 2026-04-07T18:37:17.713Z
 estimatedTokens: 190
-keywords: [Taxes, Info, Output, representation, tax, rate, treatment, product]
+keywords: [Taxes, Info, tax, rate, treatment, product]
 ---
-
-# Taxes Info
 
 > Output representation of the tax rate and tax treatment information
       for a product.

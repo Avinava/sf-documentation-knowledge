@@ -5,12 +5,10 @@ topic: binding-object-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.303Z
+lastCollected: 2026-04-07T18:35:45.279Z
 estimatedTokens: 182
-keywords: [Binding, Detail, Output, representation, records, target]
+keywords: [Binding, Detail, records, target]
 ---
-
-# Binding Object Detail
 
 > Output representation of the list of records with the binding target details.
 

@@ -5,12 +5,10 @@ topic: knowledgearticleviewstat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.860Z
+lastCollected: 2026-04-07T18:38:34.047Z
 estimatedTokens: 870
-keywords: [KnowledgeArticleViewStat, certain, statistics, number, views, article, across, view, count, published, archived, articles, counts, draft, aren’t]
+keywords: [KnowledgeArticleViewStat, certain, statistics, number, views, article, across, view, count, published, archived, articles, counts, draft, aren’t, tracked, read-only, API, 20.0, SOQL, Samples]
 ---
-
-# KnowledgeArticleViewStat
 
 > Provides certain statistics related to the number of views for the
       specified article across all article types. The view count statistics are for published

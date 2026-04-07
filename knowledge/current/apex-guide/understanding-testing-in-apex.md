@@ -5,12 +5,10 @@ topic: understanding-testing-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:33.342Z
+lastCollected: 2026-04-07T18:36:18.576Z
 estimatedTokens: 580
-keywords: [Understanding, Testing, Apex, key, successful, long-term, development, critical, component, process, strongly, recommend, test-driven, test, occurs]
+keywords: [Understanding, Testing, Apex, key, successful, long-term, development, critical, process, strongly, recommend, test-driven, test, occurs, time, code, Why]
 ---
-
-# Understanding Testing in Apex
 
 > Testing is the key to successful long-term development and is a
     critical component of the development process. We strongly recommend that you use a

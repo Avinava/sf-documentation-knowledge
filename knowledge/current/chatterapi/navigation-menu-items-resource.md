@@ -5,12 +5,10 @@ topic: navigation-menu-items-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.720Z
+lastCollected: 2026-04-07T18:37:14.764Z
 estimatedTokens: 667
 keywords: [Navigation, Menu, Items, Resource, Experience, Cloud, site]
 ---
-
-# Navigation Menu Items Resource
 
 > Get navigation menu items for an Experience Cloud
     site.

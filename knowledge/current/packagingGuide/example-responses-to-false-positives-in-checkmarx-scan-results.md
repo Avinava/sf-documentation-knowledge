@@ -5,12 +5,10 @@ topic: example-responses-to-false-positives-in-checkmarx-scan-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.572Z
+lastCollected: 2026-04-07T18:38:47.512Z
 estimatedTokens: 406
 keywords: [Responses, Positives, Checkmarx, Scan, Results, how, document, resulting, tabular, whatever, suits, reporting]
 ---
-
-# Example Responses to False Positives in Checkmarx Scan Results
 
 > The following example shows how to document your responses to false positives resulting
     from a Checkmarx scan. The example is in tabular format, but you can use whatever format suits

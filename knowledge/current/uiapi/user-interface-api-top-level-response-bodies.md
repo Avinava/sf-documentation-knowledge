@@ -5,12 +5,10 @@ topic: user-interface-api-top-level-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.226Z
+lastCollected: 2026-04-07T18:40:12.232Z
 estimatedTokens: 1731
 keywords: [User, API, Top-Level, Bodies, requests, resources, They, may, contain, nested]
 ---
-
-# User Interface API Top-Level Response Bodies
 
 > These response bodies are returned from requests to User Interface API resources. They
     may contain nested response bodies

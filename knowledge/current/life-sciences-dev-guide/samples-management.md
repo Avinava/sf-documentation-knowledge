@@ -5,12 +5,10 @@ topic: samples-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.804Z
+lastCollected: 2026-04-07T18:37:57.335Z
 estimatedTokens: 710
-keywords: [Samples, Management, Enable, pharmaceutical, companies, efficiently, handle, distribute, drug, healthcare, providers, Enhance, sales, keep, informed]
+keywords: [Samples, Management, Enable, pharmaceutical, companies, efficiently, handle, distribute, drug, healthcare, providers, Enhance, sales, keep, informed, safe, effective, products, leading, quicker, treatments, Track, manage, representative, inventories, ensuring, compliance, regulations, maintaining, accurate, records, distribution, sample, crucial, supporting, low-income, patients, ethical, practices, regulatory, Inventory, Product, Territory, Allocation, Limits]
 ---
-
-# Samples Management
 
 > Enable pharmaceutical companies to efficiently handle and distribute drug samples to
     healthcare providers. Enhance drug sales and keep healthcare providers informed about the safe

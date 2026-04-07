@@ -5,13 +5,11 @@ topic: inboundemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.351Z
+lastCollected: 2026-04-07T18:36:03.571Z
 estimatedTokens: 464
 namespace: Messaging
-keywords: [InboundEmailResult, result, email, service, assumed, successful, message, success, Usage]
+keywords: [InboundEmailResult, result, email, service, assumed, successful, message, success]
 ---
-
-# InboundEmailResult Class
 
 > The InboundEmailResult object is used to return the result
 of the email service. If this object is null, the result is assumed

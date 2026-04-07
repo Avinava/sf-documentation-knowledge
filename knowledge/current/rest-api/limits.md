@@ -5,12 +5,10 @@ topic: limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.568Z
+lastCollected: 2026-04-07T18:36:20.801Z
 estimatedTokens: 3160
-keywords: [Limits, org, limit, resource, maximum, allocation, remaining, usage, Tabulated, API, accurate, five, minutes, consumption, consistent]
+keywords: [Limits, org, limit, resource, maximum, allocation, remaining, Tabulated, API, accurate, five, minutes, consumption, consistent, avoid, concurrent, rapid, requests]
 ---
-
-# Limits
 
 > List information about limits in your org. For each limit, this resource returns the
 		maximum allocation and the remaining allocation based on usage. Tabulated limits returned by

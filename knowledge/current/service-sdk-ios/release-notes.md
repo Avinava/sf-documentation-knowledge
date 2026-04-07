@@ -5,12 +5,10 @@ topic: release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:32.889Z
+lastCollected: 2026-04-07T18:40:28.032Z
 estimatedTokens: 297
 keywords: [Release, Notes, Check, new, features, known, issues, iOS, Service, Chat, SDK]
 ---
-
-# Release Notes
 
 > Check out the new features and known issues for the iOS Service Chat SDK.
 

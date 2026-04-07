@@ -5,12 +5,10 @@ topic: get-hubv1campaignsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.960Z
+lastCollected: 2026-04-07T18:40:17.110Z
 estimatedTokens: 180
-keywords: [hub, campaigns, Retrieves, campaign, **Overview**, Usage]
+keywords: [hub, campaigns, Retrieves, campaign, **Overview**]
 ---
-
-# GET /hub/v1/campaigns/{id}
 
 > Retrieves a campaign.
 

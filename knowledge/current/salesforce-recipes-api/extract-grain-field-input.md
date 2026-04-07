@@ -5,12 +5,10 @@ topic: extract-grain-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.606Z
+lastCollected: 2026-04-07T18:39:18.291Z
 estimatedTokens: 129
-keywords: [Extract, Grain, Input]
+keywords: [Extract, Grain]
 ---
-
-# Extract Grain Field Input
 
 > An extract grain field.
 

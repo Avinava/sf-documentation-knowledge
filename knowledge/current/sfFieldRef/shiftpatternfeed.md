@@ -5,12 +5,10 @@ topic: shiftpatternfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.295Z
+lastCollected: 2026-04-07T18:40:02.012Z
 estimatedTokens: 359
-keywords: [ShiftPatternFeed, Feed, tracking, ShiftPattern]
+keywords: [ShiftPatternFeed, ShiftPattern]
 ---
-
-# ShiftPatternFeed
 
 > Feed tracking for ShiftPattern.
 

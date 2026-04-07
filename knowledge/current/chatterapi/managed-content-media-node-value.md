@@ -5,12 +5,10 @@ topic: managed-content-media-node-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.229Z
+lastCollected: 2026-04-07T18:37:20.415Z
 estimatedTokens: 423
 keywords: [Managed, Content, Media, Node]
 ---
-
-# Managed Content Media Node Value
 
 > Managed content node of media type.
 

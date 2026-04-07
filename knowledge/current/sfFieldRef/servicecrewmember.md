@@ -5,12 +5,10 @@ topic: servicecrewmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.685Z
+lastCollected: 2026-04-07T18:40:01.444Z
 estimatedTokens: 383
 keywords: [ServiceCrewMember, technician, service, resource, belongs, crew]
 ---
-
-# ServiceCrewMember
 
 > Represents a technician service resource that belongs to a service
 			crew.

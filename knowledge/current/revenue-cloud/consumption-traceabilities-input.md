@@ -5,12 +5,10 @@ topic: consumption-traceabilities-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.129Z
+lastCollected: 2026-04-07T18:35:43.019Z
 estimatedTokens: 96
-keywords: [Consumption, Traceabilities, Input, representation, liable, summary, IDs, trace]
+keywords: [Consumption, Traceabilities, liable, summary, IDs, trace]
 ---
-
-# Consumption Traceabilities Input
 
 > Input representation of the details of the liable summary IDs that are used to trace the
     consumption.

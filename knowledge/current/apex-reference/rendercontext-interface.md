@@ -5,13 +5,11 @@ topic: rendercontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.011Z
+lastCollected: 2026-04-07T18:36:13.319Z
 estimatedTokens: 158
 namespace: Canvas
-keywords: [RenderContext, wrapper, retrieve, application, environment, context, Usage]
+keywords: [RenderContext, wrapper, retrieve, application, environment, context]
 ---
-
-# RenderContext Interface
 
 > A wrapper interface that is used to
 retrieve application and environment context information.

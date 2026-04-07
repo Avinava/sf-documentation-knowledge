@@ -5,12 +5,10 @@ topic: goalassignmentdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.938Z
+lastCollected: 2026-04-07T18:39:08.186Z
 estimatedTokens: 884
-keywords: [GoalAssignmentDetail, additional, associated, goal, assignment, API, version, 61.0, later, Calls, Special, Access, Rules, Objects]
+keywords: [GoalAssignmentDetail, additional, goal, assignment, API, 61.0]
 ---
-
-# GoalAssignmentDetail
 
 > Represents additional information associated with a goal
          assignment. This object is available in API version 61.0 and later.

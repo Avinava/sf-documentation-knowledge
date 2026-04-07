@@ -5,12 +5,10 @@ topic: get-an-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.908Z
+lastCollected: 2026-04-07T18:40:10.884Z
 estimatedTokens: 247
 keywords: [App, metadata]
 ---
-
-# Get an App
 
 > Get the metadata for an app.
 

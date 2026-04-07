@@ -5,12 +5,10 @@ topic: quick-setup-chat-in-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.485Z
+lastCollected: 2026-04-07T18:40:27.651Z
 estimatedTokens: 2353
 keywords: [Quick, Setup, Chat, add, Android, app, configuration, points, org, client]
 ---
-
-# Quick Setup: Chat in the
 
 > To add Chat to your Android app, create a configuration object that points to your org
     and then create a Chat UI client.

@@ -5,12 +5,10 @@ topic: datalakeobjectinstanceshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.658Z
+lastCollected: 2026-04-07T18:39:37.292Z
 estimatedTokens: 254
 keywords: [DataLakeObjectInstanceShare, Sharing, DataLakeObjectInstance]
 ---
-
-# DataLakeObjectInstanceShare
 
 > Sharing for DataLakeObjectInstance.
 

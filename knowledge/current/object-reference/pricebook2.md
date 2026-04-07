@@ -5,12 +5,10 @@ topic: pricebook2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.922Z
+lastCollected: 2026-04-07T18:38:38.284Z
 estimatedTokens: 1659
-keywords: [Pricebook2, price, book, products, org, sells, Calls, Usage, Product2, PricebookEntry, Relationships, Setup, Code, Sample—Java, Associated]
+keywords: [Pricebook2, price, book, products, org, sells, Product2, PricebookEntry, Relationships, Setup, Code, Sample—Java]
 ---
-
-# Pricebook2
 
 > Represents a price book that contains the list of products that your
 			org sells.

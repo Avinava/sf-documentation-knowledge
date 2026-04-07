@@ -5,12 +5,10 @@ topic: best-practices-for-using
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:59.864Z
+lastCollected: 2026-04-07T18:38:52.174Z
 estimatedTokens: 1494
-keywords: [Best, Practices, Visualforce, Remote, Objects, effective, tool, quickly, adding, simple, data, operations, pages, easy, lightweight]
+keywords: [Best, Practices, Visualforce, Remote, effective, tool, quickly, adding, simple, operations, pages, easy, lightweight, don’t, require, Apex, code, implement, reading, writing, Salesforce, service, isn’t, always, right, job, though, it’s, understand, how, works, different, JavaScript, remoting, Level, Security, Transaction, Boundaries, Appropriate, Placement, Testing, Business, Logic, Handling, Complexity, Alternatives]
 ---
-
-# Best Practices for Using
 
 > Visualforce Remote Objects is an effective tool for quickly adding simple data
   operations to Visualforce pages. Remote Objects is easy to use, with lightweight components that

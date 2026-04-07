@@ -5,12 +5,10 @@ topic: using-dynamic-references-with-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.044Z
+lastCollected: 2026-04-07T18:38:51.279Z
 estimatedTokens: 2940
-keywords: [Dynamic, References, Standard, Objects, Visualforce, bindings, construct, simple, reusable, pages, known, want, access, approach, advantage]
+keywords: [Dynamic, References, Standard, Visualforce, bindings, construct, simple, reusable, pages, known, want, approach, advantage, easily, customizing, pertinent, user, work, Form, Ensuring, Loaded, Controller, User-Customizable]
 ---
-
-# Using Dynamic References with Standard Objects
 
 > Use dynamic Visualforce bindings
             to construct simple, reusable pages with a known set of fields you want to access. This

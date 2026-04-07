@@ -5,12 +5,10 @@ topic: prvdvstsmpllmttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.753Z
+lastCollected: 2026-04-07T18:38:01.633Z
 estimatedTokens: 1128
-keywords: [PrvdVstSmplLmtTransaction, samples, sample, shipment, requests, captured, visit, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [PrvdVstSmplLmtTransaction, samples, sample, shipment, requests, captured, visit, API, 65.0]
 ---
-
-# PrvdVstSmplLmtTransaction
 
 > Represents samples or sample shipment requests captured in a visit. This
       object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: sandboxprocessstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.976Z
+lastCollected: 2026-04-07T18:36:34.373Z
 estimatedTokens: 1390
-keywords: [SandboxProcessStage, status, progress, spectific, stage, SandboxProcess, record, SOAP, Calls, REST, HTTP, Usage, Creating, Sandbox, Refreshing]
+keywords: [SandboxProcessStage, status, progress, spectific, stage, SandboxProcess, record, SOAP, REST, HTTP, Creating, Sandbox, Refreshing, Deleting, Checking]
 ---
-
-# SandboxProcessStage
 
 > Represents the status and progress during a spectific stage for a SandboxProcess record.
 

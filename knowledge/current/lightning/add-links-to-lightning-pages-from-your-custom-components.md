@@ -5,12 +5,10 @@ topic: add-links-to-lightning-pages-from-your-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.209Z
+lastCollected: 2026-04-07T18:38:03.212Z
 estimatedTokens: 281
-keywords: [Add, Links, Lightning, Pages, Custom, Components, link, Experience, formattedUrl, component, displays, URL, hyperlink, Migrate, outputUrl]
+keywords: [Add, Links, Lightning, Pages, link, Experience, formattedUrl, displays, URL, hyperlink, Migrate, outputUrl]
 ---
-
-# Add Links to Lightning Pages from Your Custom Components
 
 > To link to Lightning Experience pages, use lightning:formattedUrl in your custom component. The lightning:formattedUrl component displays a URL as a hyperlink.
 

@@ -5,12 +5,10 @@ topic: notifyforfields-set-to-referenced
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.157Z
+lastCollected: 2026-04-07T18:36:51.482Z
 estimatedTokens: 517
-keywords: [NotifyForFields, Referenced, PushTopic.NotifyForFields, change, any, record, long, query, SELECT, clause, causes, Streaming, API, matching, logic]
+keywords: [NotifyForFields, Referenced, PushTopic.NotifyForFields, change, any, record, long, query, SELECT, clause, causes, Streaming, API, matching, logic, evaluate, determine, whether, generate, notific]
 ---
-
-# NotifyForFields Set to Referenced
 
 > When you set the value of PushTopic.NotifyForFields to Referenced, a change to any field value in the record as long as
    that field is referenced in the query SELECT clause or WHERE clause causes the Streaming API

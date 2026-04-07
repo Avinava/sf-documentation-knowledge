@@ -5,12 +5,10 @@ topic: mapping-gateway-responses-to-payment-transactions-with-transactionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.625Z
+lastCollected: 2026-04-07T18:37:03.192Z
 estimatedTokens: 400
 keywords: [Mapping, Gateway, Responses, Payment, Transactions, TransactionResult, transaction, charge, package, evaluates, maps, record, Salesforce, Billing]
 ---
-
-# Mapping Gateway Responses to Payment Transactions with TransactionResult
 
 > The TransactionResult class contains a list of
   information that the payment gateway sends in response to a transaction request. For charge

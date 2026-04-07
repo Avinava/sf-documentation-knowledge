@@ -5,12 +5,10 @@ topic: partnerunsoldinvledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.809Z
+lastCollected: 2026-04-07T18:37:06.509Z
 estimatedTokens: 1083
-keywords: [PartnerUnsoldInvLedger, Monitors, deduction, links, credit, debit, transactions, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [PartnerUnsoldInvLedger, Monitors, deduction, links, credit, debit, transactions, API, 64.0]
 ---
-
-# PartnerUnsoldInvLedger
 
 > Monitors the deduction details and links credit and debit transactions. 
       This object is available in API version 64.0 and later.

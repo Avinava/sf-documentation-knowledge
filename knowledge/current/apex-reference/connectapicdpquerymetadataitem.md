@@ -5,12 +5,10 @@ topic: connectapicdpquerymetadataitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.572Z
+lastCollected: 2026-04-07T18:36:07.953Z
 estimatedTokens: 119
 keywords: [ConnectApi.CdpQueryMetadataItem, Metadata, item]
 ---
-
-# ConnectApi.CdpQueryMetadataItem
 
 > Metadata item.
 

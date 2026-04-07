@@ -5,12 +5,10 @@ topic: methods-for-chat-visitors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.022Z
+lastCollected: 2026-04-07T18:36:50.219Z
 estimatedTokens: 450
-keywords: [Chat, Visitors, There, few, customize, visitor, experience, custom, Visualforce, window, apply, Salesforce, Classic]
+keywords: [Chat, Visitors, There, few, customize, visitor, experience, Visualforce, window, apply, Salesforce, Classic]
 ---
-
-# Methods for Chat Visitors
 
 > There are a few methods available that you can use to customize the visitor experience
   for Chat in a custom Visualforce chat window. These methods apply to Salesforce Classic

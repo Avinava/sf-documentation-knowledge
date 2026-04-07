@@ -5,12 +5,10 @@ topic: biometric-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.849Z
+lastCollected: 2026-04-07T18:40:25.233Z
 estimatedTokens: 797
-keywords: [Biometric, Authentication, Starting, Mobile, SDK, 11.0, configure, app, device, system, log, exceeds, timeout, period, background]
+keywords: [Biometric, Authentication, Starting, Mobile, SDK, 11.0, configure, app, device, system, log, exceeds, timeout, period, background, login, screen, appears, upon, user’s, behavior, gives, appearance, user, logged, session, hasn’t, expired, their, username, password, device’s, they, enabled, option, Connected, Configuration, API, Customization]
 ---
-
-# Biometric Authentication
 
 > Starting in Mobile SDK 11.0, you can configure your app to use the device system
     biometric authentication to log in. For example, when the app exceeds its timeout period in the

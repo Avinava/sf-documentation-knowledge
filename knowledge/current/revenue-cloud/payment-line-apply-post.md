@@ -5,12 +5,10 @@ topic: payment-line-apply-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.698Z
+lastCollected: 2026-04-07T18:35:44.704Z
 estimatedTokens: 509
 keywords: [Payment, Line, Apply, POST, Allocate, balance, reduce, invoice, includes, allocated, against]
 ---
-
-# Payment Line Apply (POST)
 
 > Allocate the balance of a payment to reduce the balance of an invoice.
       The response includes an ID of the payment line invoice or payment line invoice line that

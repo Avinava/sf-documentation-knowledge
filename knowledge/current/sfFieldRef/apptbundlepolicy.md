@@ -5,12 +5,10 @@ topic: apptbundlepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.983Z
+lastCollected: 2026-04-07T18:39:26.946Z
 estimatedTokens: 549
-keywords: [ApptBundlePolicy, Policy, how, bundling, service, appointments, handled, API, version, 54.0, later]
+keywords: [ApptBundlePolicy, Policy, how, bundling, service, appointments, handled, API, 54.0]
 ---
-
-# ApptBundlePolicy
 
 > Policy that defines how the bundling of service appointments should be
          handled. This object is available in API version 54.0 and later.

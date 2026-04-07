@@ -5,12 +5,10 @@ topic: insurance-underwriting-rules-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.755Z
+lastCollected: 2026-04-07T18:37:51.819Z
 estimatedTokens: 387
-keywords: [Insurance, Underwriting, Rules, PATCH, rule, root, product]
+keywords: [Insurance, Underwriting, PATCH, rule, root, product]
 ---
-
-# Insurance Underwriting Rules (PATCH)
 
 > Update an existing underwriting rule for a root product.
 

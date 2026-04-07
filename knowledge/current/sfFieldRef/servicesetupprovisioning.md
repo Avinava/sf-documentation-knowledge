@@ -5,12 +5,10 @@ topic: servicesetupprovisioning
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:06.888Z
+lastCollected: 2026-04-07T18:40:01.653Z
 estimatedTokens: 384
-keywords: [ServiceSetupProvisioning, task, completed, Service, Setup, Assistant, API, version, 52.0, later]
+keywords: [ServiceSetupProvisioning, task, completed, Service, Setup, Assistant, API, 52.0]
 ---
-
-# ServiceSetupProvisioning
 
 > Represents a task completed by the Service Setup Assistant. This object
       is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: sdk-customizations-with-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:33.133Z
+lastCollected: 2026-04-07T18:40:28.263Z
 estimatedTokens: 1091
-keywords: [SDK, Customizations, iOS, Once, you’ve, played, around, features, how, customize, Service, Chat, user, fits, look]
+keywords: [SDK, Customizations, iOS, Once, you’ve, played, around, features, how, customize, Service, Chat, user, fits, look, feel, app, instructions, localizing, strings, languages]
 ---
-
-# SDK Customizations with the for iOS for iOS
 
 > Once you’ve played around with some
       of the SDK features, use this section to learn how to customize the Service Chat SDK

@@ -5,12 +5,10 @@ topic: strong-customer-authentication-best-practices-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.066Z
+lastCollected: 2026-04-07T18:38:45.904Z
 estimatedTokens: 537
 keywords: [Strong, Customer, Authentication, Best, Practices, AppExchange, Checkout, sell, solution, region, requires, SCA, follow]
 ---
-
-# Strong Customer Authentication Best Practices for AppExchange Checkout
 
 > If you sell an AppExchange solution in a region that requires strong customer
   authentication (SCA), follow these Checkout best practices.

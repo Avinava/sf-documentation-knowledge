@@ -5,12 +5,10 @@ topic: new-user-audience-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.420Z
+lastCollected: 2026-04-07T18:37:09.189Z
 estimatedTokens: 189
-keywords: [New, User, Audience, Criteria, Input, members, custom, recommendation]
+keywords: [New, User, Audience, Criteria, members, recommendation]
 ---
-
-# New User Audience Criteria Input
 
 > Criteria for the new members type of custom recommendation
       audience.

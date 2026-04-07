@@ -5,12 +5,10 @@ topic: reminder-boolean-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.865Z
+lastCollected: 2026-04-07T18:36:37.391Z
 estimatedTokens: 200
-keywords: [Reminder, Criteria, Input, representation]
+keywords: [Reminder, Criteria]
 ---
-
-# Reminder Boolean Criteria Input
 
 > Input representation of the boolean criteria of a reminder.
 

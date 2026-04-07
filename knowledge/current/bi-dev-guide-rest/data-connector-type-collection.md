@@ -5,12 +5,10 @@ topic: data-connector-type-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.530Z
+lastCollected: 2026-04-07T18:36:57.049Z
 estimatedTokens: 143
-keywords: [Data, Connector, Collection, Analytics]
+keywords: [Connector, Collection, Analytics]
 ---
-
-# Data Connector Type Collection
 
 > A collection of Analytics data connector types.
 

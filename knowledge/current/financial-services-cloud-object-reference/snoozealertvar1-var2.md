@@ -5,12 +5,10 @@ topic: snoozealertvar1-var2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.879Z
+lastCollected: 2026-04-07T18:37:34.404Z
 estimatedTokens: 146
 keywords: [snoozeAlert, var1, var2, snooze, record, alert]
 ---
-
-# snoozeAlert(var1, var2)
 
 > Use this method to snooze the record alert.
 

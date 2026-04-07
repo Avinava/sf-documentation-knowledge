@@ -5,12 +5,10 @@ topic: create-the-lmajoin-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.332Z
+lastCollected: 2026-04-07T18:38:54.724Z
 estimatedTokens: 971
-keywords: [LMAJoin, CRM, Analytics, Recipe, License, Management, App, LMA, data]
+keywords: [LMAJoin, CRM, Analytics, Recipe, License, Management, App, LMA]
 ---
-
-# Create the LMAJoin CRM Analytics Recipe
 
 > Create a CRM Analytics recipe that contains your License Management App (LMA)
   data.

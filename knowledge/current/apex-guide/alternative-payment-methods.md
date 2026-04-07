@@ -5,12 +5,10 @@ topic: alternative-payment-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.550Z
+lastCollected: 2026-04-07T18:36:16.766Z
 estimatedTokens: 401
-keywords: [Alternative, Payment, customers, store, represent, represented, another, pre-defined, CardPaymentMethod, DigitalWallet, Common, examples, include, CashOnDeliver, Klarna]
+keywords: [Alternative, Payment, customers, store, represent, represented, another, pre-defined, CardPaymentMethod, DigitalWallet, Common, examples, include, CashOnDeliver, Klarna, Direct, Debit, API, v51.0]
 ---
-
-# Alternative Payment  Methods
 
 > An alternative payment method allows customers to store and represent payment method
   information not represented by another pre-defined payment method such as CardPaymentMethod or DigitalWallet. Common examples of alternative payment methods include CashOnDeliver,

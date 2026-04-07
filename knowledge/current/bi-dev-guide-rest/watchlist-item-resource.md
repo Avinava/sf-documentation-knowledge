@@ -5,12 +5,10 @@ topic: watchlist-item-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.958Z
+lastCollected: 2026-04-07T18:36:56.514Z
 estimatedTokens: 236
 keywords: [Watchlist, Item, Resource]
 ---
-
-# Watchlist Item Resource
 
 > Return, update, and delete a watchlist item.
 

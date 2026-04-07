@@ -5,12 +5,10 @@ topic: invoicebatchruncriteriashare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.105Z
+lastCollected: 2026-04-07T18:39:45.675Z
 estimatedTokens: 254
 keywords: [InvoiceBatchRunCriteriaShare, Sharing, InvoiceBatchRunCriteria]
 ---
-
-# InvoiceBatchRunCriteriaShare
 
 > Sharing for InvoiceBatchRunCriteria.
 

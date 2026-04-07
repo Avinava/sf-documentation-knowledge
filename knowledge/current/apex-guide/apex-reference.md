@@ -5,12 +5,10 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.717Z
+lastCollected: 2026-04-07T18:36:17.938Z
 estimatedTokens: 90
-keywords: [Apex, Summer, ’21, later, versions, content, moved, separate]
+keywords: [Apex, Summer, ’21, versions, content, moved, separate]
 ---
-
-# Apex Reference
 
 > In Summer ’21 and later versions, Apex reference content is moved to a separate guide
   called the Apex Reference Guide.

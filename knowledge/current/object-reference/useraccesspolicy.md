@@ -5,12 +5,10 @@ topic: useraccesspolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.666Z
+lastCollected: 2026-04-07T18:38:43.431Z
 estimatedTokens: 917
-keywords: [UserAccessPolicy, user, access, policy, API, version, 57.0, later, Calls, Special, Rules, Usage]
+keywords: [UserAccessPolicy, user, policy, API, 57.0]
 ---
-
-# UserAccessPolicy
 
 > Represents a user access policy. This object is available in API version
       57.0 and later.

@@ -5,12 +5,10 @@ topic: usage-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.098Z
+lastCollected: 2026-04-07T18:35:50.957Z
 estimatedTokens: 589
-keywords: [Usage, Management, Business, APIs, usage-based, product, that’s, associated, asset, order, item, quote, line]
+keywords: [Management, Business, APIs, usage-based, product, that’s, asset, order, item, quote, line]
 ---
-
-# Usage Management Business APIs
 
 > Use the Usage Management Business APIs to get details of a usage-based product that’s
     associated with an asset, an order item, or a quote line item.

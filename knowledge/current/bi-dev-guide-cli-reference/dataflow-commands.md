@@ -5,12 +5,10 @@ topic: dataflow-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.320Z
+lastCollected: 2026-04-07T18:36:53.676Z
 estimatedTokens: 2011
-keywords: [dataflow, Commands, Manage, Analytics, dataflows, jobs, history, Examples, Command, revert, job, display, stop, start]
+keywords: [dataflow, Commands, Manage, Analytics, dataflows, jobs, Examples, Command, revert, job, display, stop, start]
 ---
-
-# dataflow Commands
 
 > Manage Analytics dataflows and dataflow jobs.
 

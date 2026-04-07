@@ -5,12 +5,10 @@ topic: composite-commerce-variation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.069Z
+lastCollected: 2026-04-07T18:37:07.829Z
 estimatedTokens: 101
-keywords: [Composite, Commerce, Variation, Input, representation, product]
+keywords: [Composite, Commerce, Variation, product]
 ---
-
-# Composite Commerce Variation Input
 
 > Input representation of product variation details.
 

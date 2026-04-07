@@ -5,12 +5,10 @@ topic: connectapicardpaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.434Z
+lastCollected: 2026-04-07T18:36:04.770Z
 estimatedTokens: 454
-keywords: [ConnectApi.CardPaymentMethodRequest, Card, payment, input, representation]
+keywords: [ConnectApi.CardPaymentMethodRequest, Card, payment]
 ---
-
-# ConnectApi.CardPaymentMethodRequest
 
 > Card payment method input representation.
 

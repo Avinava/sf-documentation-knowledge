@@ -6,13 +6,10 @@ topic: resume-a-platform-event-trigger-after-an-uncaught-exception
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.517Z
+lastCollected: 2026-04-07T18:38:58.386Z
 estimatedTokens: 1400
-keywords: [Resume, Platform, Event, Trigger, Uncaught, Exception, checkpoint, stream, resumes, execution, new, invocation, Apex, governor, limit]
+keywords: [Resume, Platform, Event, Trigger, Uncaught, Exception, checkpoint, stream, resumes, execution, new, invocation, Apex, governor, limit, hit, another, thrown, processing, successfully, checkpointed, message, explicitly, control, number, events, processed, However, configure, batch, size, easily, Metadata, API, Tooling, User, PlatformEventSubscriberConfig]
 ---
-
-# Resume a Platform Event Trigger After an Uncaught
-    Exception
 
 > Set a checkpoint in the event stream for where the platform event
       trigger resumes execution in a new invocation. If an Apex governor limit is hit or another

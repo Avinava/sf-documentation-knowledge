@@ -5,12 +5,10 @@ topic: servicecloudvoicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.171Z
+lastCollected: 2026-04-07T18:36:29.588Z
 estimatedTokens: 1423
-keywords: [ServiceCloudVoiceSettings, organization’s, Service, Cloud, Voice, settings, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [ServiceCloudVoiceSettings, organization’s, Service, Cloud, Voice, settings, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# ServiceCloudVoiceSettings
 
 > Represents an organization’s Service Cloud Voice settings.
 

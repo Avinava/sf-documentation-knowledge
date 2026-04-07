@@ -5,12 +5,10 @@ topic: flow-element-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.722Z
+lastCollected: 2026-04-07T18:35:53.700Z
 estimatedTokens: 265
-keywords: [Flow, Element, DMO, Data, Cloud, model, version, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Flow, DMO, Cloud, model, API, Primary, Subject, Area, Key]
 ---
-
-# Flow Element DMO
 
 > The Flow Element DMO is a
          Data Cloud data model object (DMO) for details about a single

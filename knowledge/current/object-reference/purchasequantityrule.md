@@ -5,12 +5,10 @@ topic: purchasequantityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.807Z
+lastCollected: 2026-04-07T18:38:39.333Z
 estimatedTokens: 529
-keywords: [PurchaseQuantityRule, rule, restricts, quantity, product, purchased, increment, minimum, maximum, API, version, 52.0, later, Calls, Special]
+keywords: [PurchaseQuantityRule, rule, restricts, quantity, product, purchased, increment, minimum, maximum, API, 52.0]
 ---
-
-# PurchaseQuantityRule
 
 > Represents a rule that restricts the quantity of a product that can be purchased.
    The rule can be an increment, minimum, or maximum rule. This object is available in API

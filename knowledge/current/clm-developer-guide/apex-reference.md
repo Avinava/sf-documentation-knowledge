@@ -5,13 +5,11 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.494Z
+lastCollected: 2026-04-07T18:37:25.421Z
 estimatedTokens: 309
 namespace: The
 keywords: [Apex, goes, detail, built-in, classes, interfaces, grouped, Salesforce, Contracts]
 ---
-
-# Apex Reference
 
 > This Apex reference goes into detail about the built-in Apex classes and interfaces
         grouped by namespace for Salesforce Contracts.

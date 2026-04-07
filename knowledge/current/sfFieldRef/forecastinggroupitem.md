@@ -5,12 +5,10 @@ topic: forecastinggroupitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.582Z
+lastCollected: 2026-04-07T18:39:41.265Z
 estimatedTokens: 409
-keywords: [ForecastingGroupItem, picklist, forecasting, group, forecast, identifies, industry, opportunity, part, that’s, chosen, API, version, 60.0, later]
+keywords: [ForecastingGroupItem, picklist, forecasting, group, forecast, identifies, industry, opportunity, part, that’s, chosen, API, 60.0]
 ---
-
-# ForecastingGroupItem
 
 > Represents the value within the picklist that is specified as the
          forecasting group for a forecast type. For example, if you have a forecasting group that

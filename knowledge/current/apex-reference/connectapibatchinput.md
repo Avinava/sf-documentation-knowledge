@@ -5,12 +5,10 @@ topic: connectapibatchinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.335Z
+lastCollected: 2026-04-07T18:36:04.653Z
 estimatedTokens: 324
 keywords: [ConnectApi.BatchInput, Construct, inputs, passed, time]
 ---
-
-# ConnectApi.BatchInput
 
 > Construct a set of inputs to be passed into a method at the same
       time.

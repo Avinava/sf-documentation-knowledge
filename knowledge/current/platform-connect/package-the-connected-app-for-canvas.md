@@ -5,12 +5,10 @@ topic: package-the-connected-app-for-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.736Z
+lastCollected: 2026-04-07T18:38:57.545Z
 estimatedTokens: 656
 keywords: [Package, Connected, App, Canvas, created, tested, Previewer, deployed, Heroku, you’re, ready, distribute]
 ---
-
-# Package the Connected App for Canvas
 
 > After you created the canvas app, tested it in the Canvas App Previewer, and deployed it
   to Heroku, you’re ready to package and distribute it.

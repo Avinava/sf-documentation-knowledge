@@ -5,12 +5,10 @@ topic: safe-navigation-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.086Z
+lastCollected: 2026-04-07T18:36:19.309Z
 estimatedTokens: 1063
-keywords: [Safe, Navigation, Operator, replace, explicit, sequential, checks, references, short-circuits, expressions, attempt, operate, instead, throwing, NullPointerException]
+keywords: [Examples, Safe, Navigation, Operator, replace, explicit, sequential, checks, references, short-circuits, expressions, attempt, operate, instead, throwing, NullPointerException]
 ---
-
-# Safe Navigation Operator
 
 > Use the safe navigation operator (?.) to replace explicit, sequential checks for null references. This
             operator short-circuits expressions that attempt to operate on a null value and returns

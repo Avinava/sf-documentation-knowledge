@@ -5,12 +5,10 @@ topic: articles-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.895Z
+lastCollected: 2026-04-07T18:37:54.197Z
 estimatedTokens: 1053
-keywords: [Articles, online, article, accessible, user, resource, IDs, REST, API, version, 38.0, later, URL, 44.0, channel]
+keywords: [Articles, online, article, accessible, user, resource, IDs, REST, API, 38.0, URL, 44.0, channel]
 ---
-
-# Articles Details
 
 > Gets all online article fields, accessible to the user. This resource is available with
   article IDs in REST API version 38.0 and later, and this resource is available with article URL

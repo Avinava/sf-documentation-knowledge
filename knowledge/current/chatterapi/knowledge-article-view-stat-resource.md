@@ -5,12 +5,10 @@ topic: knowledge-article-view-stat-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.315Z
+lastCollected: 2026-04-07T18:37:14.281Z
 estimatedTokens: 252
 keywords: [Knowledge, Article, View, Stat, Resource, Increase, count]
 ---
-
-# Knowledge Article View Stat Resource
 
 > Increase the view count of a knowledge article by
     one.

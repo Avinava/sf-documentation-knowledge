@@ -5,12 +5,10 @@ topic: get-previews
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.778Z
+lastCollected: 2026-04-07T18:36:19.006Z
 estimatedTokens: 121
 keywords: [Previews, Call, preview, formats, their, respective, URLs]
 ---
-
-# Get Previews
 
 > Call a method to get all supported preview formats and their respective
     URLs.

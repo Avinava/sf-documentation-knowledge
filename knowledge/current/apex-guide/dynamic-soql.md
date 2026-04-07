@@ -5,12 +5,10 @@ topic: dynamic-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.355Z
+lastCollected: 2026-04-07T18:36:17.588Z
 estimatedTokens: 1703
-keywords: [Dynamic, SOQL, refers, creation, run, time, Apex, code, flexible, applications, search, input, end, user, records]
+keywords: [Dynamic, SOQL, refers, creation, run, time, Apex, code, flexible, applications, search, end, user, records, varying, Considerations, Injection, Additional]
 ---
-
-# Dynamic SOQL
 
 > Dynamic SOQL refers to the creation of a SOQL string at run time with Apex
             code. Dynamic SOQL enables you to create more flexible applications. For example, you

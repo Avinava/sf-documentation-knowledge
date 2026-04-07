@@ -5,12 +5,10 @@ topic: context-definition-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.319Z
+lastCollected: 2026-04-07T18:36:38.975Z
 estimatedTokens: 393
-keywords: [Context, Definition, Output, representation]
+keywords: [Context, Definition]
 ---
-
-# Context Definition Information
 
 > Output representation of context definition information.
 

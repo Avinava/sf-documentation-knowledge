@@ -5,12 +5,10 @@ topic: waitlistserviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.220Z
+lastCollected: 2026-04-07T18:39:21.022Z
 estimatedTokens: 698
-keywords: [WaitlistServiceResource, relationship, Waitlist, Service, Resource, Salesforce, Scheduler, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [WaitlistServiceResource, relationship, Waitlist, Service, Resource, Salesforce, Scheduler, API, 58.0]
 ---
-
-# WaitlistServiceResource
 
 > Represents the relationship between the Waitlist object and the
          Service Resource object for Salesforce Scheduler. This object is available in API

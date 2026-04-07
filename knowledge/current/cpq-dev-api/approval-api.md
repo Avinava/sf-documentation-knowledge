@@ -5,12 +5,10 @@ topic: approval-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.172Z
+lastCollected: 2026-04-07T18:37:27.165Z
 estimatedTokens: 306
 keywords: [Approval, API, Call, Advanced, Approvals, resource, outside, source]
 ---
-
-# Approval API
 
 > Call the Advanced Approvals approval resource from an outside source.
 

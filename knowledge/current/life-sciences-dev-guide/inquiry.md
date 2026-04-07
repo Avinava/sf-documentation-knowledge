@@ -5,12 +5,10 @@ topic: inquiry
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:10.628Z
+lastCollected: 2026-04-07T18:38:00.379Z
 estimatedTokens: 1498
-keywords: [Inquiry, logged, sales, representative, user, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [Inquiry, logged, sales, representative, user, API, 65.0]
 ---
-
-# Inquiry
 
 > Represents the details of an inquiry logged by a sales representative
          or other user. This object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: install-the-service-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.602Z
+lastCollected: 2026-04-07T18:40:27.760Z
 estimatedTokens: 636
 keywords: [Install, Service, SDK, Android, Gradle]
 ---
-
-# Install the Service SDK for Android
 
 > Install the Service SDK for Android using Gradle.
 

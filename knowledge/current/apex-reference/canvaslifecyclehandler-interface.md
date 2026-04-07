@@ -5,13 +5,11 @@ topic: canvaslifecyclehandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.003Z
+lastCollected: 2026-04-07T18:36:13.310Z
 estimatedTokens: 335
 namespace: Canvas
-keywords: [CanvasLifecycleHandler, Implement, control, context, add, custom, behavior, application, render, phase, Usage, Implementation]
+keywords: [CanvasLifecycleHandler, Implement, control, context, add, behavior, application, render, phase, Implementation]
 ---
-
-# CanvasLifecycleHandler Interface
 
 > Implement this interface to control
 context information and add custom behavior during the application

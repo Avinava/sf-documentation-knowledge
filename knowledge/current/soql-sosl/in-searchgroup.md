@@ -5,12 +5,10 @@ topic: in-searchgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.300Z
+lastCollected: 2026-04-07T18:40:10.275Z
 estimatedTokens: 669
 keywords: [SearchGroup, SOSL, query, specify, text, search, clause, scope, email, phone, sidebar, Settings, Examples, Clauses]
 ---
-
-# IN  SearchGroup
 
 > In an SOSL query, you can specify which types of text fields to search for using the IN
    SearchGroup optional clause. The SearchGroup defines the scope of the search. For

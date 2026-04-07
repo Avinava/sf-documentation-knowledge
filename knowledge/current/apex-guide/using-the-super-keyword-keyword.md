@@ -5,12 +5,10 @@ topic: using-the-super-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.310Z
+lastCollected: 2026-04-07T18:36:16.531Z
 estimatedTokens: 289
 keywords: [super, Keyword, classes, extended, virtual, abstract, override, parent, Best, Practices]
 ---
-
-# Using the  super Keyword Keyword
 
 > The super keyword can
 be used by classes that are extended from virtual or abstract classes.

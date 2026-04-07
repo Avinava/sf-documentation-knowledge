@@ -5,12 +5,10 @@ topic: searchorgwideobjectconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.038Z
+lastCollected: 2026-04-07T18:36:29.484Z
 estimatedTokens: 863
-keywords: [SearchOrgWideObjectConfig, search, index, org-wide, settings, created, Manager, includes, searchable, protected, field-level, security, Parent, File, Suffix]
+keywords: [SearchOrgWideObjectConfig, SearchOrgWideFieldConfig, search, index, org-wide, settings, created, Manager, includes, searchable, protected, field-level, security, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SearchOrgWideObjectConfig
 
 > Represents an object in the search index. The search
 			index contains org-wide search settings created in Search Manager. Each object in the

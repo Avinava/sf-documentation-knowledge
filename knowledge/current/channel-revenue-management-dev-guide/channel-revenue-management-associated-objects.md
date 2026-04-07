@@ -5,12 +5,10 @@ topic: channel-revenue-management-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.470Z
+lastCollected: 2026-04-07T18:37:06.172Z
 estimatedTokens: 535
-keywords: [Channel, Revenue, Management, Associated, Objects, standard, their]
+keywords: [Channel, Revenue, Management, standard, their]
 ---
-
-# Channel Revenue Management Associated Objects
 
 > This section provides a list of objects associated to Channel Revenue Management
     standard objects with their standard fields.

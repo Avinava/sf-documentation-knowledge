@@ -5,12 +5,10 @@ topic: accountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.363Z
+lastCollected: 2026-04-07T18:39:24.310Z
 estimatedTokens: 296
 keywords: [AccountShare, sharing, entry, account]
 ---
-
-# AccountShare
 
 > Represents a sharing entry on an account.
 

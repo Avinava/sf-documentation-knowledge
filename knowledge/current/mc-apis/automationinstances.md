@@ -5,12 +5,10 @@ topic: automationinstances
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.412Z
+lastCollected: 2026-04-07T18:40:15.498Z
 estimatedTokens: 359
 keywords: [AutomationInstances, collection, automation, instances, Studio, account]
 ---
-
-# AutomationInstances
 
 > The AutomationInstances object defines a collection of automation instances in Automation Studio for an account.
 

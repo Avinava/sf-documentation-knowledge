@@ -5,12 +5,10 @@ topic: mutingpermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:54.966Z
+lastCollected: 2026-04-07T18:39:49.441Z
 estimatedTokens: 18902
-keywords: [MutingPermissionSet, disabled, permissions, conjunction, PermissionSetGroup, API, version, 46.0, later]
+keywords: [MutingPermissionSet, disabled, permissions, conjunction, PermissionSetGroup, API, 46.0]
 ---
-
-# MutingPermissionSet
 
 > Represents a set of disabled permissions and is used in conjunction
 			with PermissionSetGroup. This object is available in API

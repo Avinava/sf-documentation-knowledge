@@ -5,12 +5,10 @@ topic: calldisposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.267Z
+lastCollected: 2026-04-07T18:38:27.257Z
 estimatedTokens: 179
-keywords: [CallDisposition, call, result, sales, reps, select, logging, API, version, 47.0, later, Calls, Special, Access, Rules]
+keywords: [CallDisposition, call, result, sales, reps, select, logging, API, 47.0]
 ---
-
-# CallDisposition
 
 > Represents a call result value that sales reps select when logging a call. This object is available in API version 47.0 and later.
 

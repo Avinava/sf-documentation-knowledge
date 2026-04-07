@@ -5,12 +5,10 @@ topic: obx---observation-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.442Z
+lastCollected: 2026-04-07T18:37:44.773Z
 estimatedTokens: 670
-keywords: [OBX, Observation, Segment, HL7, maps, CareObservation, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [OBX, Observation, Segment, HL7, maps, CareObservation, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# OBX - Observation Segment
 
 > The Observation Segment (OBX) HL7 segment maps to the CareObservation object in Salesforce.
 

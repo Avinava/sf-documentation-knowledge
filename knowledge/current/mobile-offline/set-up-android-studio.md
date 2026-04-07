@@ -5,12 +5,10 @@ topic: set-up-android-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.841Z
+lastCollected: 2026-04-07T18:38:15.329Z
 estimatedTokens: 1943
-keywords: [Android, Studio, run, previews, emulators, sure, properly, installed, configured, install, test, environment, setup, command, you’re]
+keywords: [Android, Studio, run, previews, emulators, sure, properly, installed, configured, install, test, environment, setup, command, you’re, installation, verify, meets, Mobile, Extensions, requirements, Virtual, Device]
 ---
-
-# Set Up Android Studio
 
 > Before you run previews in Android emulators, make sure that Android Studio is properly
     installed and configured. After you install Android Studio, test your environment with the

@@ -5,12 +5,10 @@ topic: partycreditprofilealert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.563Z
+lastCollected: 2026-04-07T18:36:52.972Z
 estimatedTokens: 796
-keywords: [PartyCreditProfileAlert, alerts, triggers, raised, against, borrower's, credit, activities, sudden, score, changes, new, accounts, payment, defaults]
+keywords: [PartyCreditProfileAlert, alerts, triggers, raised, against, borrower's, credit, activities, sudden, score, changes, new, accounts, payment, defaults, Aids, detecting, fraud, identifying, borrower, errors, facilitating, verification, processes, API, 65.0]
 ---
-
-# PartyCreditProfileAlert
 
 > Represents the alerts and triggers raised against a borrower's credit
          activities, such as sudden score changes, new accounts, and payment defaults. Aids in

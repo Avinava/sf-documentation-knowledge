@@ -5,12 +5,10 @@ topic: show-diverse-owned-business-details-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.301Z
+lastCollected: 2026-04-07T18:38:46.161Z
 estimatedTokens: 359
-keywords: [Show, Diverse-Owned, Business, AppExchange, Listing, company, least, 51%, owned, operated, members, groups—women, veterans, minorities, person]
+keywords: [Show, Diverse-Owned, Business, AppExchange, Listing, company, least, 51%, owned, operated, members, groups—women, veterans, minorities, person, disability, ies, LGTBQ, community—tell, customers, adding, badge, add, provide, link, company’s, certification, National, Minority, Supplier, Development, Council, NSMDC, certificate]
 ---
-
-# Show Diverse-Owned Business Details on Your AppExchange Listing
 
 > If your company is at least 51% owned or operated by members of one or more of these
   groups—women, veterans, minorities, person(s) with disability(ies), and the LGTBQ community—tell

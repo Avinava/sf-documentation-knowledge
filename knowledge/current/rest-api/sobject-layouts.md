@@ -5,12 +5,10 @@ topic: sobject-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.048Z
+lastCollected: 2026-04-07T18:36:21.272Z
 estimatedTokens: 289
-keywords: [sObject, Layouts, Retrieves, their, descriptions, specific, object’s, associated, record]
+keywords: [sObject, Layouts, Retrieves, their, descriptions, specific, object’s, record]
 ---
-
-# sObject Layouts
 
 > Retrieves lists of page layouts and their descriptions. You can request information for
     all of a specific object’s layouts or for layouts associated with a specified record type on a

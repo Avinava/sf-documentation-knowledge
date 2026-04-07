@@ -5,12 +5,10 @@ topic: chatterconversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.930Z
+lastCollected: 2026-04-07T18:38:27.864Z
 estimatedTokens: 335
-keywords: [ChatterConversation, conversation, Chatter, consisting, messages, members, sent, received, API, version, 23.0, later, Calls, Usage]
+keywords: [ChatterConversation, conversation, Chatter, consisting, messages, members, sent, received, API, 23.0]
 ---
-
-# ChatterConversation
 
 > Represents a private conversation in Chatter, consisting of messages
       that conversation members have sent or received. This object is available in API version

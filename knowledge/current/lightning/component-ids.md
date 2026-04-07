@@ -5,12 +5,10 @@ topic: component-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.157Z
+lastCollected: 2026-04-07T18:38:03.155Z
 estimatedTokens: 611
-keywords: [Component, IDs, two, local, retrieve, JavaScript, code, useful, differentiate, multiple, instances, debugging, purposes]
+keywords: [IDs, two, local, retrieve, JavaScript, code, useful, differentiate, multiple, instances, debugging, purposes]
 ---
-
-# Component IDs
 
 > A component has two types of IDs: a local ID and a global ID. You can
             retrieve a component using its local ID in your JavaScript code. A

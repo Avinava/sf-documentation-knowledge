@@ -5,12 +5,10 @@ topic: post-smsv1automationimportsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.385Z
+lastCollected: 2026-04-07T18:40:17.554Z
 estimatedTokens: 632
-keywords: [POST, sms, automation, importSend, **Overview**, Usage]
+keywords: [POST, sms, automation, importSend, **Overview**]
 ---
-
-# POST /sms/v1/automation/importSend
 
 # POST /sms/v1/automation/importSend
 

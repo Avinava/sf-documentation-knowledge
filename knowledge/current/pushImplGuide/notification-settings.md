@@ -5,12 +5,10 @@ topic: notification-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.825Z
+lastCollected: 2026-04-07T18:39:09.144Z
 estimatedTokens: 121
 keywords: [Notification, Settings, org]
 ---
-
-# Notification Settings
 
 > Get notification settings for the org.
 

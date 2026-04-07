@@ -5,12 +5,10 @@ topic: paymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.944Z
+lastCollected: 2026-04-07T18:36:04.160Z
 estimatedTokens: 118
 keywords: [paymentMethod, payment, process, postauthorization]
 ---
-
-# paymentMethod
 
 > The payment method used to process
       the

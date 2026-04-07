@@ -5,12 +5,10 @@ topic: apex-cursors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.053Z
+lastCollected: 2026-04-07T18:36:17.286Z
 estimatedTokens: 1753
-keywords: [Apex, Cursors, break, processing, SOQL, query, result, pieces, processed, bounds, transaction, provide, ability, work, large]
+keywords: [Apex, Cursors, break, processing, SOQL, query, result, pieces, processed, bounds, transaction, provide, ability, work, large, actually, returning, entire, traverse, parts, flexibility, navigate, forward, back, Package, developers, advanced, high-volume, high-resource, jobs, combined, chained, queueable, powerful, alternative, batch, address, Apex’s, limitations, Cursor, Pagination, Limits]
 ---
-
-# Apex Cursors
 
 > Use Apex cursors to break up the processing of a SOQL query
         result into pieces that can be processed within the bounds of a single transaction. Cursors

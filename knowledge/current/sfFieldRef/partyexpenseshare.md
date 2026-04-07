@@ -5,12 +5,10 @@ topic: partyexpenseshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.618Z
+lastCollected: 2026-04-07T18:39:52.032Z
 estimatedTokens: 249
 keywords: [PartyExpenseShare, Sharing, PartyExpense]
 ---
-
-# PartyExpenseShare
 
 > Sharing for PartyExpense.
 

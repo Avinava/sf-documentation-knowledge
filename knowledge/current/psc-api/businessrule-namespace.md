@@ -5,13 +5,11 @@ topic: businessrule-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.566Z
+lastCollected: 2026-04-07T18:39:00.678Z
 estimatedTokens: 296
 namespace: BusinessRule
-keywords: [BusinessRule, classes, migrating, calculation, matrices, procedures, Vlocity, Business, Rules, Engine, Salesforce]
+keywords: [BusinessRule, classes, migrating, calculation, matrices, procedures, Vlocity, Business, Engine, Salesforce]
 ---
-
-# BusinessRule Namespace
 
 > The BusinessRule namespace provides classes for
     migrating calculation matrices and calculation procedures from Vlocity to the Business Rules

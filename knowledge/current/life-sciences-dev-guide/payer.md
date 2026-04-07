@@ -5,12 +5,10 @@ topic: payer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.535Z
+lastCollected: 2026-04-07T18:37:57.023Z
 estimatedTokens: 76
 keywords: [Payer, health, insurance, company, helps, cover, cost, member, care, represented, records, Account]
 ---
-
-# Payer
 
 > A payer is a health insurance company that helps cover the cost of member care. payer is
 		represented by records on the Account object.

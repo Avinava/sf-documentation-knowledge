@@ -5,12 +5,10 @@ topic: medication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.254Z
+lastCollected: 2026-04-07T18:37:56.682Z
 estimatedTokens: 1325
-keywords: [Medication, detailed, different, medications, API, version, 51.0, later, Calls, Additional, Objects, Associated, ​Medication, medication, FHIR, resource, maps, Salesforce​, V4​.0, Clinical]
+keywords: [Medication, detailed, different, medications, API, 51.0, Additional, ​Medication, medication, FHIR, resource, maps, Salesforce​, V4​.0, Clinical, Model, Mapping]
 ---
-
-# Medication
 
 > Represents detailed information about different medications. This object
     is available in API version 51.0 and later.

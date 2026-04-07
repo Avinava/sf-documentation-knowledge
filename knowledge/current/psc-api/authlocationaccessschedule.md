@@ -5,12 +5,10 @@ topic: authlocationaccessschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.809Z
+lastCollected: 2026-04-07T18:39:05.802Z
 estimatedTokens: 435
-keywords: [AuthLocationAccessSchedule, operating, hours, period, authorization, place, API, version, 49.0, later, Calls]
+keywords: [AuthLocationAccessSchedule, operating, hours, period, authorization, place, API, 49.0]
 ---
-
-# AuthLocationAccessSchedule
 
 > Represents the operating hours during a specified period in which authorization
       is valid for a place. This object is available in API version 49.0 and later.

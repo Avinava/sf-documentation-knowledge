@@ -5,12 +5,10 @@ topic: preface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.103Z
+lastCollected: 2026-04-07T18:39:19.793Z
 estimatedTokens: 295
-keywords: [Preface, you’re, Salesforce, architect, already, know, overarching, goal, data, security, Understand, company’s, enterprise, model, build]
+keywords: [Preface, Audience, Assumptions, you’re, Salesforce, architect, already, know, overarching, goal, security, Understand, company’s, enterprise, model, build, reflects, organization, rich, tools, disposal]
 ---
-
-# Preface
 
 > If you’re a Salesforce architect, you
    already know your overarching goal for data security: Understand your company’s enterprise

@@ -5,13 +5,11 @@ topic: updatecumulativeusagecompletedoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.730Z
+lastCollected: 2026-04-07T18:38:06.940Z
 estimatedTokens: 798
 namespace: LoyaltyManagement
 keywords: [UpdateCumulativeUsageCompletedOutput, progress, made, loyalty, program, member, towards, attaining, Cumulative, promotion, getCumulativeUsageTarget, getErrors, getUpdatedCumulativeUsageCompleted, isSuccess]
 ---
-
-# UpdateCumulativeUsageCompletedOutput Class
 
 > Represents the details of the progress made by a loyalty program
       member towards attaining a Cumulative type promotion.

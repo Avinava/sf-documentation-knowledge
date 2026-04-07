@@ -5,13 +5,11 @@ topic: activityfieldhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.993Z
+lastCollected: 2026-04-07T18:38:24.938Z
 estimatedTokens: 942
 namespace: Namespace
-keywords: [ActivityFieldHistory, change, tracked, big, API, version, 55.0, later, Calls, Special, Access, Rules, Indexed]
+keywords: [ActivityFieldHistory, change, tracked, big, API, 55.0, Indexed]
 ---
-
-# ActivityFieldHistory
 
 > Represents a change in a field value for a tracked object or field.
       This object is a big

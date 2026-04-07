@@ -5,12 +5,10 @@ topic: education-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.653Z
+lastCollected: 2026-04-07T18:37:29.733Z
 estimatedTokens: 321
-keywords: [Education, Cloud, Business, APIs, Add, provider’s, contact, benefit, assignment, record, Party-Role, Relationship, PRR, CCR, records]
+keywords: [Education, Cloud, Business, APIs, Add, provider’s, contact, benefit, assignment, record, Party-Role, Relationship, PRR, CCR, records, aren’t, already, present, Additionally, learning, graph, Resources]
 ---
-
-# Education Cloud Business APIs
 
 > Add the provider’s contact ID to the benefit assignment record, and
       create Party-Role Relationship (PRR) and Contact Contact Relationship (CCR) records if the

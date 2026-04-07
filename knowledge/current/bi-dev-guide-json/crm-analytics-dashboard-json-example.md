@@ -5,12 +5,10 @@ topic: crm-analytics-dashboard-json-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.807Z
+lastCollected: 2026-04-07T18:36:54.175Z
 estimatedTokens: 257
 keywords: [CRM, Analytics, Dashboard, JSON, multiple, levels, Review, sample, provided, basic, structure]
 ---
-
-# CRM Analytics Dashboard JSON Example
 
 > The JSON for each CRM Analytics dashboard contains multiple levels of properties.
         Review the sample JSON provided in this section to learn about the basic JSON structure of a

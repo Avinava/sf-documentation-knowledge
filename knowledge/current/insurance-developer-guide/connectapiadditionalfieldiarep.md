@@ -5,12 +5,10 @@ topic: connectapiadditionalfieldiarep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.727Z
+lastCollected: 2026-04-07T18:37:49.594Z
 estimatedTokens: 75
-keywords: [ConnectApi.AdditionalFieldIARep, Input, representation, additional]
+keywords: [ConnectApi.AdditionalFieldIARep, additional]
 ---
-
-# ConnectApi.AdditionalFieldIARep
 
 > Input representation for the additional fields.
 

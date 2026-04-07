@@ -5,12 +5,10 @@ topic: loyaltyprogramwidget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.701Z
+lastCollected: 2026-04-07T18:39:10.116Z
 estimatedTokens: 778
-keywords: [LoyaltyProgramWidget, widget, advocates, enroll, referral, program, refer, their, friends, API, version, 59.0, later, B2C, programs]
+keywords: [LoyaltyProgramWidget, widget, advocates, enroll, referral, program, refer, their, friends, API, 59.0, B2C, programs]
 ---
-
-# LoyaltyProgramWidget
 
 > Represents information about a widget that advocates use to enroll in
          the referral program and refer their friends This object is available in API version

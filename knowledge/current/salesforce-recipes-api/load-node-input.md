@@ -5,12 +5,10 @@ topic: load-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.717Z
+lastCollected: 2026-04-07T18:39:18.429Z
 estimatedTokens: 113
-keywords: [Load, Node, Input, recipe]
+keywords: [Load, Node, recipe]
 ---
-
-# Load Node Input
 
 > A load node in a recipe.
 

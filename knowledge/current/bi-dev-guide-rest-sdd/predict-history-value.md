@@ -5,12 +5,10 @@ topic: predict-history-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.943Z
+lastCollected: 2026-04-07T18:36:59.435Z
 estimatedTokens: 113
-keywords: [Predict, History, historical, prediction, specific, point, time]
+keywords: [Predict, historical, prediction, specific, point, time]
 ---
-
-# Predict History Value
 
 > A historical prediction value at a specific point in time.
 

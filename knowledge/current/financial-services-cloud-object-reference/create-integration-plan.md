@@ -5,12 +5,10 @@ topic: create-integration-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.687Z
+lastCollected: 2026-04-07T18:37:35.309Z
 estimatedTokens: 443
-keywords: [Integration, Plan, Creates, record, Expression, decisions, Dynamic, Fulfillment, Orchestration, records, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Integration, Plan, Creates, record, Expression, decisions, Dynamic, Fulfillment, Orchestration, records, REST, HTTP]
 ---
-
-# Create Integration Plan
 
 > Creates an integration plan record based on an object by using Expression Sets to make
   decisions and Dynamic Fulfillment Orchestration to create related object records.

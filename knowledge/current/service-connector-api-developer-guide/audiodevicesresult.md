@@ -5,12 +5,10 @@ topic: audiodevicesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.595Z
+lastCollected: 2026-04-07T18:39:23.526Z
 estimatedTokens: 76
 keywords: [AudioDevicesResult, audio, devices, speaker, microphone, browser]
 ---
-
-# AudioDevicesResult
 
 > Contains the list of audio devices (speaker and microphone) that are available to the browser.
 

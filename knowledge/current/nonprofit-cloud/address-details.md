@@ -5,12 +5,10 @@ topic: address-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.663Z
+lastCollected: 2026-04-07T18:38:20.374Z
 estimatedTokens: 132
-keywords: [Address, Input, representation, donor's]
+keywords: [Address, donor's]
 ---
-
-# Address Details
 
 > Input representation of the donor's address details.
 

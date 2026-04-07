@@ -5,12 +5,10 @@ topic: component-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.819Z
+lastCollected: 2026-04-07T18:38:02.750Z
 estimatedTokens: 464
-keywords: [Component, root-level, tag, every, <aura, component>, inherits, attribute, Setting, Content, Accessing]
+keywords: [root-level, tag, every, <aura, component>, inherits, attribute, Setting, Content, Accessing]
 ---
-
-# Component Body
 
 > The root-level tag of every component is <aura:component>. Every component inherits the
                 body attribute from <aura:component>.

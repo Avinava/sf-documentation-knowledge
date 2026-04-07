@@ -5,12 +5,10 @@ topic: branchunitbusinessmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.892Z
+lastCollected: 2026-04-07T18:39:30.020Z
 estimatedTokens: 354
-keywords: [BranchUnitBusinessMember, user, contact, perform, specific, role, branch, API, version, 51.0, later]
+keywords: [BranchUnitBusinessMember, user, contact, perform, specific, role, branch, API, 51.0]
 ---
-
-# BranchUnitBusinessMember
 
 > Represents a user or contact who can perform a specific role for a branch.
     This object is available in API version 51.0 and later.

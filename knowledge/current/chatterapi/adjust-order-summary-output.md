@@ -5,12 +5,10 @@ topic: adjust-order-summary-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.556Z
+lastCollected: 2026-04-07T18:37:16.633Z
 estimatedTokens: 538
-keywords: [Adjust, Order, Summary, Output, representation, financial, changes, items, action, preview, expected, submit, actual]
+keywords: [Adjust, Order, Summary, financial, changes, items, action, preview, expected, submit, actual]
 ---
-
-# Adjust Order Summary Output
 
 > Output representation of the financial changes for an adjust items
       action. For a preview action, these values are the expected output. For a submit action, these

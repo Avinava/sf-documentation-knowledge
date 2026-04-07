@@ -5,12 +5,10 @@ topic: sustainability-scorecard-associate-scorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.810Z
+lastCollected: 2026-04-07T18:38:16.358Z
 estimatedTokens: 98
-keywords: [Sustainability, Scorecard, Associate, Output, representation]
+keywords: [Sustainability, Scorecard, Associate]
 ---
-
-# Sustainability Scorecard Associate Scorecard
 
 > Output representation of the associate scorecard
     request.

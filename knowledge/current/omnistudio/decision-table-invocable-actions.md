@@ -5,12 +5,10 @@ topic: decision-table-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.400Z
+lastCollected: 2026-04-07T18:36:41.092Z
 estimatedTokens: 204
-keywords: [Decision, Invocable, Actions, Invoke, refresh, business, rules, active, standard, custom, REST, API, Developer]
+keywords: [Decision, Invocable, Actions, Invoke, refresh, business, active, standard, REST, API, Developer]
 ---
-
-# Decision Table Invocable Actions
 
 > Invoke a decision table or refresh business rules for an active
       decision table. For more information on standard and custom invocable actions, see

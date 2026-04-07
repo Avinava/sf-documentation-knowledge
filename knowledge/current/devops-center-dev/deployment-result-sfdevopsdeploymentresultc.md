@@ -5,12 +5,10 @@ topic: deployment-result-sfdevopsdeploymentresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.553Z
+lastCollected: 2026-04-07T18:37:28.573Z
 estimatedTokens: 1305
-keywords: [Deployment, Result, sf_devops__Deployment_Result__c, DevOps, Center, Heroku, application, how, execute, metadata, environment, Apex, tests, test, level]
+keywords: [Deployment, Result, sf_devops__Deployment_Result__c, DevOps, Center, Heroku, application, how, execute, metadata, environment, Apex, tests, test, level, completes, stores, completion, date, Promotions, Work, orgs, installed, _devops, _Deployment, _Result]
 ---
-
-# Deployment Result (sf_devops__Deployment_Result__c)
 
 > Contains information from DevOps Center to the Heroku application about how
          to execute a metadata deployment to an environment, such as the Apex tests and test level.

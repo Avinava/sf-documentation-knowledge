@@ -5,12 +5,10 @@ topic: changerequestrelatedissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.207Z
+lastCollected: 2026-04-07T18:39:33.617Z
 estimatedTokens: 361
-keywords: [ChangeRequestRelatedIssue, junction, relates, ChangeRequest, Incident, Problem, due, service, failure, API, version, 53.0, later]
+keywords: [ChangeRequestRelatedIssue, junction, relates, ChangeRequest, Incident, Problem, due, service, failure, API, 53.0]
 ---
-
-# ChangeRequestRelatedIssue
 
 > Represents a junction object that relates a ChangeRequest to an Incident or
          Problem due to a service failure. This object is available in API version 53.0 and

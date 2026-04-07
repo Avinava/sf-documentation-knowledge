@@ -5,12 +5,10 @@ topic: checkout-management-app-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:54.464Z
+lastCollected: 2026-04-07T18:38:46.324Z
 estimatedTokens: 591
-keywords: [Checkout, Management, App, Objects, Subscription, plan, invoice, item, transaction, foundation, CMA, understand, represent, how, they]
+keywords: [Checkout, Management, App, Subscription, plan, invoice, item, transaction, foundation, CMA, understand, represent, how, they, relate]
 ---
-
-# Checkout Management App Objects
 
 > Subscription plan, subscription, invoice, invoice item, and transaction objects are the
     foundation of the Checkout Management App (CMA). To get the most out of the CMA, understand what

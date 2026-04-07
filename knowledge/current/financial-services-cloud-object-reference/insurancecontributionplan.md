@@ -5,12 +5,10 @@ topic: insurancecontributionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.963Z
+lastCollected: 2026-04-07T18:37:37.775Z
 estimatedTokens: 1238
-keywords: [InsuranceContributionPlan, contributions, made, employee, towards, their, insurance, policy, coverage, API, version, later, Calls, Associated, Objects]
+keywords: [InsuranceContributionPlan, contributions, made, employee, towards, their, insurance, policy, coverage, API]
 ---
-
-# InsuranceContributionPlan
 
 > Represents all contributions made by an employee towards their insurance policy or
          insurance policy coverage. This object is available in API version 61 and

@@ -5,12 +5,10 @@ topic: creating-your-first-custom-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.662Z
+lastCollected: 2026-04-07T18:38:51.966Z
 estimatedTokens: 373
-keywords: [Creating, Custom, Controller, point, examples, tutorial, standard, Account, define, underlying, logic, Visualforce, however, add, own]
+keywords: [Creating, Controller, point, examples, tutorial, standard, Account, define, underlying, logic, Visualforce, however, add, own, navigation, defining]
 ---
-
-# Creating Your First Custom Controller
 
 > Up through this point, all of the examples in this tutorial have used the standard Account
       controller to define the underlying logic of each page. Visualforce, however, allows you to

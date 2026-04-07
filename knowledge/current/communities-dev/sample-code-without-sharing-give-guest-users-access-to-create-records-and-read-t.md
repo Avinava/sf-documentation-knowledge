@@ -6,13 +6,10 @@ topic: sample-code-without-sharing-give-guest-users-access-to-create-records-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.934Z
+lastCollected: 2026-04-07T18:37:26.890Z
 estimatedTokens: 1032
-keywords: [Sample, Code, Sharing, Give, Guest, Users, Access, Records, Later, samples, support, two, separate, interactions, interaction]
+keywords: [Sample, Code, Sharing, Give, Guest, Users, Records, samples, support, two, separate, interactions, interaction, user, creates, case, allow, future, Apex, replaces, record, encrypted, wants, they, enter, decrypts, uses, retrieve, Aura, CreateCase.cmp, Controller, CreateCaseController.js, JavaScript, Helper, DisplayCaseHelper.js, GuestUserCreateForLater.cls]
 ---
-
-# Sample Code Without Sharing: Give Guest Users Access to Create Records and Read Them
-        Later
 
 > These code samples support two separate interactions. In the first interaction, the guest
         user creates a case. To allow for future access, an Apex method replaces the record ID with

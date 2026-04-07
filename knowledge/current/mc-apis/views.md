@@ -5,12 +5,10 @@ topic: views
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.841Z
+lastCollected: 2026-04-07T18:40:21.111Z
 estimatedTokens: 271
-keywords: [Views, multi-channel, assets, channel, view, hold, different, content, channels, asset, parse, render, differently, generic, html]
+keywords: [Views, multi-channel, assets, channel, view, hold, different, content, channels, asset, parse, render, differently, generic, html, fallback, case, Sample, Items]
 ---
-
-# Views
 
 > For multi-channel assets, use a channel view to hold the different content for the different channels. This allows the asset to parse and render its content differently based on the channel in which it is used. Use a generic html view as a fallback in case the channel view used to render the asset i
 

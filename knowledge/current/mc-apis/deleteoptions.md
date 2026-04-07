@@ -5,12 +5,10 @@ topic: deleteoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.471Z
+lastCollected: 2026-04-07T18:40:16.613Z
 estimatedTokens: 313
-keywords: [DeleteOptions, options, associated, call]
+keywords: [DeleteOptions, options, call]
 ---
-
-# DeleteOptions
 
 > The DeleteOptions object defines more options associated with a Delete call.
 

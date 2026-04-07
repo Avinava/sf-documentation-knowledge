@@ -5,12 +5,10 @@ topic: servicepointfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.729Z
+lastCollected: 2026-04-07T18:40:01.490Z
 estimatedTokens: 359
-keywords: [ServicePointFeed, Feed, tracking, ServicePoint]
+keywords: [ServicePointFeed, ServicePoint]
 ---
-
-# ServicePointFeed
 
 > Feed tracking for ServicePoint.
 

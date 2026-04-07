@@ -5,12 +5,10 @@ topic: wishlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.724Z
+lastCollected: 2026-04-07T18:37:23.783Z
 estimatedTokens: 132
 keywords: [Wishlist, including, summary, items]
 ---
-
-# Wishlist
 
 > Wishlist, including summary and items.
 

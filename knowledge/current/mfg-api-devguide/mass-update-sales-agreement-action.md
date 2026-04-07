@@ -5,12 +5,10 @@ topic: mass-update-sales-agreement-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.675Z
+lastCollected: 2026-04-07T18:38:13.003Z
 estimatedTokens: 414
-keywords: [Mass, Sales, Agreement, Action, Now, updates, different, products, periods, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Mass, Sales, Agreement, Action, Now, updates, different, products, periods, REST, HTTP]
 ---
-
-# Mass Update Sales Agreement Action
 
 > Now you can make mass updates to sales agreement fields for different
    products and periods with a single action.

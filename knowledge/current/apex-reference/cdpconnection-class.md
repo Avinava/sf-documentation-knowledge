@@ -5,13 +5,11 @@ topic: cdpconnection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.531Z
+lastCollected: 2026-04-07T18:35:55.668Z
 estimatedTokens: 447
 namespace: ConnectApi
-keywords: [CdpConnection, database, schemas, Data, connection, getDatabaseSchemas, connectionId, getDatabaseSchemasInput, API, Version, Requires, Chatter]
+keywords: [CdpConnection, database, schemas, connection, getDatabaseSchemas, connectionId, getDatabaseSchemasInput, API, Requires, Chatter]
 ---
-
-# CdpConnection Class
 
 > Get database schemas for a Data 360 connection.
 

@@ -5,12 +5,10 @@ topic: diagnosticsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.212Z
+lastCollected: 2026-04-07T18:39:37.924Z
 estimatedTokens: 266
-keywords: [DiagnosticSummaryHistory, History, tracked, DiagnosticSummary]
+keywords: [DiagnosticSummaryHistory, tracked, DiagnosticSummary]
 ---
-
-# DiagnosticSummaryHistory
 
 > History for tracked fields of DiagnosticSummary.
 

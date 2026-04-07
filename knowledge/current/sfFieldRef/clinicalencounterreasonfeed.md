@@ -5,12 +5,10 @@ topic: clinicalencounterreasonfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.845Z
+lastCollected: 2026-04-07T18:39:34.280Z
 estimatedTokens: 364
-keywords: [ClinicalEncounterReasonFeed, Feed, tracking, ClinicalEncounterReason]
+keywords: [ClinicalEncounterReasonFeed, ClinicalEncounterReason]
 ---
-
-# ClinicalEncounterReasonFeed
 
 > Feed tracking for ClinicalEncounterReason.
 

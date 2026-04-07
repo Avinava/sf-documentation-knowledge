@@ -5,12 +5,10 @@ topic: timeperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.490Z
+lastCollected: 2026-04-07T18:38:22.474Z
 estimatedTokens: 686
-keywords: [TimePeriod, time, period, that's, calculate, indicator, performance, result, API, version, 59.0, later, Calls, Special, Access]
+keywords: [TimePeriod, time, period, that's, calculate, indicator, performance, result, API, 59.0]
 ---
-
-# TimePeriod
 
 > Represents the time period that's used to calculate the indicator
          performance and result. This object is available in API version 59.0 and

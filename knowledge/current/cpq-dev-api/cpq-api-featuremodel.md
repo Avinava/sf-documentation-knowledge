@@ -5,12 +5,10 @@ topic: cpq-api-featuremodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.270Z
+lastCollected: 2026-04-07T18:37:27.279Z
 estimatedTokens: 113
-keywords: [CPQ, API, FeatureModel, Feature, model, product, data, Salesforce]
+keywords: [CPQ, API, FeatureModel, Feature, model, product, Salesforce]
 ---
-
-# CPQ API FeatureModel
 
 > The Feature model represents a product feature data model in Salesforce CPQ.
 

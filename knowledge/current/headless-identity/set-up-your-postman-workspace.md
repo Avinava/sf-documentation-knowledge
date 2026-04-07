@@ -5,12 +5,10 @@ topic: set-up-your-postman-workspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.507Z
+lastCollected: 2026-04-07T18:37:39.446Z
 estimatedTokens: 742
 keywords: [Postman, Workspace, started, fork, Salesforce, Developers, collection, variables]
 ---
-
-# Set Up Your Postman Workspace
 
 > To get started with Postman, fork the public Salesforce Developers collection and set
   your variables.

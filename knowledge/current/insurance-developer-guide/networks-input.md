@@ -5,12 +5,10 @@ topic: networks-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.376Z
+lastCollected: 2026-04-07T18:37:51.403Z
 estimatedTokens: 91
-keywords: [Networks, Input, Insurance, Policy, Coverage, creating, plan, benefits]
+keywords: [Networks, Insurance, Policy, Coverage, creating, plan, benefits]
 ---
-
-# Networks Input
 
 > Represents Insurance Policy Coverage Networks for creating plan benefits.
 

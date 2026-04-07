@@ -6,13 +6,10 @@ topic: view-package-details-for-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.012Z
+lastCollected: 2026-04-07T18:38:56.677Z
 estimatedTokens: 174
 keywords: [View, Package, Second-Generation, Managed, previously, created, packages, command, line]
 ---
-
-# View Package Details for a Second-Generation Managed
-    Package
 
 > View the details of previously created second-generation managed packages from the
     command line.

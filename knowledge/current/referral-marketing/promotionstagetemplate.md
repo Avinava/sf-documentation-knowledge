@@ -5,12 +5,10 @@ topic: promotionstagetemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.758Z
+lastCollected: 2026-04-07T18:39:10.190Z
 estimatedTokens: 1151
-keywords: [PromotionStageTemplate, reuseable, configuration, promotion, stage, template, API, version, 61.0, later, Calls]
+keywords: [PromotionStageTemplate, reuseable, configuration, promotion, stage, template, API, 61.0]
 ---
-
-# PromotionStageTemplate
 
 > Represents the reuseable configuration details of a promotion stage
          template. This object is available in API version 61.0 and later.

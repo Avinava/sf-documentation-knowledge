@@ -5,12 +5,10 @@ topic: engagement-signal-filter-group-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.371Z
+lastCollected: 2026-04-07T18:37:08.188Z
 estimatedTokens: 92
-keywords: [Engagement, Signal, Filter, Group, Collection, Input, groups]
+keywords: [Engagement, Signal, Filter, Group, Collection, groups]
 ---
-
-# Engagement Signal Filter Group Collection Input
 
 > Collection of Engagement Signal filter groups.
 

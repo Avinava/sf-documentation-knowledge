@@ -5,12 +5,10 @@ topic: mfgprogramtemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.517Z
+lastCollected: 2026-04-07T18:39:48.992Z
 estimatedTokens: 305
-keywords: [MfgProgramTemplateItem, transformation, associated, manufacturing, program, template]
+keywords: [MfgProgramTemplateItem, transformation, manufacturing, program, template]
 ---
-
-# MfgProgramTemplateItem
 
 > Represents information about the transformation type associated with a
          manufacturing program template.

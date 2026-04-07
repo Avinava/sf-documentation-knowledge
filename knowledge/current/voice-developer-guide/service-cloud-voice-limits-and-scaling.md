@@ -5,12 +5,10 @@ topic: service-cloud-voice-limits-and-scaling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.119Z
+lastCollected: 2026-04-07T18:40:13.065Z
 estimatedTokens: 238
-keywords: [Service, Cloud, Voice, Limits, Scaling, runs, multitenant, environment, uses, Salesforce, resources, Amazon, Connect, provide, native]
+keywords: [Service, Cloud, Voice, Limits, Scaling, runs, multitenant, environment, uses, Salesforce, resources, Amazon, Connect, provide, native, telephony, solution]
 ---
-
-# Service Cloud Voice Limits and Scaling
 
 > Service Cloud Voice runs in a multitenant environment and uses both Salesforce resources
   and Amazon Connect resources to provide a native Salesforce telephony solution.

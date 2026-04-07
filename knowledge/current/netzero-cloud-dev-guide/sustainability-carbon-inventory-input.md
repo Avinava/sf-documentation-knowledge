@@ -5,12 +5,10 @@ topic: sustainability-carbon-inventory-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.640Z
+lastCollected: 2026-04-07T18:38:16.188Z
 estimatedTokens: 283
-keywords: [Sustainability, Carbon, Inventory, Input, representation, annual, emissions, creation]
+keywords: [Sustainability, Carbon, Inventory, annual, emissions, creation]
 ---
-
-# Sustainability Carbon Inventory Input
 
 > Input representation of the annual emissions inventory creation
       request.

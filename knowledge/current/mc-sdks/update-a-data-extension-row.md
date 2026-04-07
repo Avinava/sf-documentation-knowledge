@@ -5,12 +5,10 @@ topic: update-a-data-extension-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.119Z
+lastCollected: 2026-04-07T18:40:24.590Z
 estimatedTokens: 533
-keywords: [Data, Extension, Row, Patch, include, column, primary, key, pass, props, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Extension, Row, Patch, include, column, primary, key, pass, props, PHP]
 ---
-
-# Update a Data Extension Row
 
 > Use the Patch method to update an existing data extension row. The data extension must include a column set as the primary key, and you must pass a value for that primary key column in the props property:
 

@@ -5,12 +5,10 @@ topic: applicationactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.477Z
+lastCollected: 2026-04-07T18:37:36.223Z
 estimatedTokens: 1261
-keywords: [ApplicationActionItem, Stores, action, items, assigned, user, application, API, version, 61.0, later, Digital, Lending, permission, Calls]
+keywords: [ApplicationActionItem, Stores, action, items, assigned, user, application, API, 61.0, Digital, Lending, permission]
 ---
-
-# ApplicationActionItem
 
 > Stores the action items assigned to a user on an application.
       This object is available in API version 61.0 and later. Available with Digital Lending

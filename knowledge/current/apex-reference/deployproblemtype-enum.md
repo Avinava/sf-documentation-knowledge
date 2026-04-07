@@ -5,12 +5,10 @@ topic: deployproblemtype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.240Z
+lastCollected: 2026-04-07T18:36:12.522Z
 estimatedTokens: 132
-keywords: [DeployProblemType, problem, unsuccessful, component, deploy]
+keywords: [DeployProblemType, problem, unsuccessful, deploy]
 ---
-
-# DeployProblemType Enum
 
 > Describes the problem type for an unsuccessful component
     deploy.

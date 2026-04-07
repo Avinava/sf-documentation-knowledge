@@ -5,12 +5,10 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:57.353Z
+lastCollected: 2026-04-07T18:38:49.464Z
 estimatedTokens: 1227
-keywords: [apex, component, custom, Visualforce, definitions, wrapped, inside, <apex, component>, tag, Attributes]
+keywords: [Attributes, apex, Visualforce, definitions, wrapped, inside, <apex, component>, tag]
 ---
-
-# apex:component
 
 > A custom Visualforce component. All custom component definitions must be wrapped inside a single <apex:component> tag.
 

@@ -5,12 +5,10 @@ topic: smart-data-discovery-numerical-imputation-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.272Z
+lastCollected: 2026-04-07T18:36:58.770Z
 estimatedTokens: 175
-keywords: [Smart, Data, Discovery, Numerical, Imputation, Transformation, Input]
+keywords: [Smart, Discovery, Numerical, Imputation, Transformation]
 ---
-
-# Smart Data Discovery Numerical Imputation Transformation Input
 
 > The input for a numerical imputation transformation.
 

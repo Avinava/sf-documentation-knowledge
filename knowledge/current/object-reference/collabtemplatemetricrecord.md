@@ -5,12 +5,10 @@ topic: collabtemplatemetricrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.802Z
+lastCollected: 2026-04-07T18:38:27.750Z
 estimatedTokens: 292
-keywords: [CollabTemplateMetricRecord, association, CollabTemplateMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, template, metrics, were, gathered]
+keywords: [CollabTemplateMetricRecord, association, CollabTemplateMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, template, metrics, were, gathered, API, 50.0]
 ---
-
-# CollabTemplateMetricRecord
 
 > Represents an association between a CollabTemplateMetric and a
          Salesforce record.It tracks which Salesforce record, such as an Account or Contact, is

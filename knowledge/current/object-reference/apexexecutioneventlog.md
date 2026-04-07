@@ -5,12 +5,10 @@ topic: apexexecutioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.514Z
+lastCollected: 2026-04-07T18:38:25.409Z
 estimatedTokens: 1363
-keywords: [ApexExecutionEventLog, Apex, Execution, event, logs, contain, classes, API, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ApexExecutionEventLog, Apex, Execution, event, logs, contain, classes, API, 55.0]
 ---
-
-# ApexExecutionEventLog
 
 > Apex Execution event logs contain details about Apex classes that are
          used. This object is available in API version 55.0 and later.

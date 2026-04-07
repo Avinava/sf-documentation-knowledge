@@ -5,12 +5,10 @@ topic: inbound-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.204Z
+lastCollected: 2026-04-07T18:36:16.414Z
 estimatedTokens: 198
 keywords: [Inbound, Email, Apex, work, sent, Salesforce]
 ---
-
-# Inbound Email
 
 > Use Apex to work with email sent to Salesforce.
 

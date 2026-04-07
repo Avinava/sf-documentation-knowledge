@@ -5,12 +5,10 @@ topic: package1-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:01:54.488Z
+lastCollected: 2026-04-07T18:35:39.272Z
 estimatedTokens: 1594
-keywords: [package1, Commands, first-generation, package, version, release, org, Examples, Flags, Aliases, display]
+keywords: [Flags, package1, Commands, first-generation, package, release, org, Examples, Aliases, display]
 ---
-
-# package1 Commands
 
 > Create a first-generation package version in the release org.
 

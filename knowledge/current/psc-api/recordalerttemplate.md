@@ -5,12 +5,10 @@ topic: recordalerttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.324Z
+lastCollected: 2026-04-07T18:39:07.541Z
 estimatedTokens: 429
-keywords: [RecordAlertTemplate, template, shown, Alerts, FlexCard, expression, requirements, met, API, version, 55.0, later, Calls]
+keywords: [RecordAlertTemplate, template, shown, Alerts, FlexCard, expression, requirements, met, API, 55.0]
 ---
-
-# RecordAlertTemplate
 
 > A template that is shown in the Alerts FlexCard when the expression set
          requirements are met. This object is available in API version 55.0 and later.

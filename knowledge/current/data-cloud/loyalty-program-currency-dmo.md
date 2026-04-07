@@ -5,12 +5,10 @@ topic: loyalty-program-currency-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.955Z
+lastCollected: 2026-04-07T18:35:53.978Z
 estimatedTokens: 989
-keywords: [Loyalty, Program, Currency, DMO, Data, Cloud, model, representing, offers, customers, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Loyalty, Program, Currency, DMO, Cloud, model, representing, offers, customers, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Program Currency DMO
 
 > The Loyalty Program Currency DMO is a Data Cloud data model object
       (DMO) representing the value or currency that the loyalty program offers to

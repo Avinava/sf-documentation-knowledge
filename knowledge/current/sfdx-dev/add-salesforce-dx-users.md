@@ -5,12 +5,10 @@ topic: add-salesforce-dx-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.062Z
+lastCollected: 2026-04-07T18:40:09.043Z
 estimatedTokens: 784
-keywords: [Add, Salesforce, Users, System, administrators, access, Dev, Hub, org, enable, they, scratch, orgs, developer-specific, features]
+keywords: [Add, Salesforce, Users, System, administrators, Dev, Hub, org, enable, they, scratch, orgs, developer-specific, features]
 ---
-
-# Add Salesforce DX Users
 
 > System administrators can access the Dev Hub org by default. You can enable more users
     to access the Dev Hub org so that they can create scratch orgs and use other developer-specific

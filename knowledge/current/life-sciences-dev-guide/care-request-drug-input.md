@@ -5,12 +5,10 @@ topic: care-request-drug-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.568Z
+lastCollected: 2026-04-07T18:37:54.881Z
 estimatedTokens: 1920
-keywords: [Care, Drug, Input, Requested, including, strength, frequency, instructions, administration, requests, associated]
+keywords: [Care, Drug, Requested, including, strength, frequency, instructions, administration, requests]
 ---
-
-# Care Request Drug Input
 
 > Requested drug including name, strength, frequency, and instructions
       for administration. One or more drug requests can be associated with a care

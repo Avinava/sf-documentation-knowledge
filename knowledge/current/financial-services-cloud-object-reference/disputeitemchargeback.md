@@ -5,12 +5,10 @@ topic: disputeitemchargeback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.241Z
+lastCollected: 2026-04-07T18:37:37.017Z
 estimatedTokens: 1691
-keywords: [DisputeItemChargeback, claim, chargeback, created, card, issuer, transaction, that's, disputed, API, version, 61.0, later, Calls, Associated]
+keywords: [DisputeItemChargeback, claim, chargeback, created, card, issuer, transaction, that's, disputed, API, 61.0]
 ---
-
-# DisputeItemChargeback
 
 > Represents the claim and chargeback created by the card issuer for a
          transaction that's being disputed. This object is available in API version 61.0 and

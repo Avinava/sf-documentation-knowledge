@@ -5,12 +5,10 @@ topic: callcenterroutingmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.237Z
+lastCollected: 2026-04-07T18:38:27.225Z
 estimatedTokens: 539
-keywords: [CallCenterRoutingMap, Stores, mapping, user, queue, Salesforce, org, external, system’s, call, center, API, version, 53.0, later]
+keywords: [CallCenterRoutingMap, Stores, mapping, user, queue, Salesforce, org, external, system’s, call, center, API, 53.0]
 ---
-
-# CallCenterRoutingMap
 
 > Stores a mapping between a user or queue in a Salesforce org to a user or
          queue in an external system’s call center. This object is available in API version

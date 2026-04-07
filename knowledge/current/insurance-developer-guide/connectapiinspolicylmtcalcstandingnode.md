@@ -5,12 +5,10 @@ topic: connectapiinspolicylmtcalcstandingnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.525Z
+lastCollected: 2026-04-07T18:37:50.361Z
 estimatedTokens: 666
-keywords: [ConnectApi.InsPolicyLmtCalcStandingNode, Node, representation, insurance, policy, limit, standing, calculation]
+keywords: [ConnectApi.InsPolicyLmtCalcStandingNode, Node, insurance, policy, limit, standing, calculation]
 ---
-
-# ConnectApi.InsPolicyLmtCalcStandingNode
 
 > Node representation for an insurance policy limit standing calculation.
 

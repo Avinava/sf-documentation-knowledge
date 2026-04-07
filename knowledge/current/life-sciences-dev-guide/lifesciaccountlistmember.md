@@ -5,12 +5,10 @@ topic: lifesciaccountlistmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.716Z
+lastCollected: 2026-04-07T18:38:00.484Z
 estimatedTokens: 552
-keywords: [LifeSciAccountListMember, account, routine, API, version, 65.0, later, Calls]
+keywords: [LifeSciAccountListMember, account, routine, API, 65.0]
 ---
-
-# LifeSciAccountListMember
 
 > Represents information about account static lists and routine. This object is
          available in API version 65.0 and later.

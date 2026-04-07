@@ -5,12 +5,10 @@ topic: email-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.985Z
+lastCollected: 2026-04-07T18:37:33.287Z
 estimatedTokens: 101
 keywords: [Email, Interactions, interaction, occurs, user, updates, adds, site, Event]
 ---
-
-# Email Interactions
 
 > An email interaction occurs when a user updates or adds an email in
 			your site.

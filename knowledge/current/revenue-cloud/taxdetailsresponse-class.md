@@ -5,13 +5,11 @@ topic: taxdetailsresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.947Z
+lastCollected: 2026-04-07T18:35:40.819Z
 estimatedTokens: 3047
 namespace: CommerceTax
-keywords: [TaxDetailsResponse, Stores, tax, external, engine, calculates, calculation, Usage, setCustomTaxAttributes, customTaxAttributes, setExemptAmount, exemptAmount, setExemptReason, reason, setImposition]
+keywords: [TaxDetailsResponse, Stores, tax, external, engine, calculates, calculation, setCustomTaxAttributes, customTaxAttributes, setExemptAmount, exemptAmount, setExemptReason, reason, setImposition, imposition, setJurisdiction, jurisdiction, setRate, rate, setSerCode, serCode, setTax, setTaxAuthorityTypeId, taxAuthorityTypeId, setTaxId, taxId, setTaxRegionId, taxRegionId, setTaxRuleDetails, taxRuleDetails, setTaxableAmount, taxableAmount]
 ---
-
-# TaxDetailsResponse Class
 
 > Stores details of the tax values that an external tax engine
             calculates in response to a tax calculation request.

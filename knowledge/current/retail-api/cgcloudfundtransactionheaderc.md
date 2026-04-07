@@ -5,12 +5,10 @@ topic: cgcloudfundtransactionheaderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.149Z
+lastCollected: 2026-04-07T18:39:13.562Z
 estimatedTokens: 1694
-keywords: [cgcloud__Fund_Transaction_Header__c, Fund, Transaction, facilitates, creation, multiple, transactions, either, source, target, business, scenario, dictates, key, template]
+keywords: [cgcloud__Fund_Transaction_Header__c, Fund, Transaction, facilitates, creation, multiple, transactions, either, source, target, business, scenario, dictates, key, template, funds, records, created, Transfer, drawback, API, 54.0, cgcloud, _Fund, _Transaction, _Header]
 ---
-
-# cgcloud__Fund_Transaction_Header__c
 
 > Fund Transaction Header object facilitates the creation of multiple
          fund transactions in either a multiple source or target fund business scenario. This object

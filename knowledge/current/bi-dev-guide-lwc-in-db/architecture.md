@@ -5,12 +5,10 @@ topic: architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.904Z
+lastCollected: 2026-04-07T18:36:54.283Z
 estimatedTokens: 441
-keywords: [Architecture, Let’s, look, how, custom, Lightning, Web, Component, widgets, fit, CRM, Analytics, dashboard]
+keywords: [Architecture, Let’s, look, how, Lightning, Web, widgets, fit, CRM, Analytics, dashboard]
 ---
-
-# Architecture
 
 > Let’s look at how custom Lightning Web Component widgets fit into the existing CRM
     Analytics dashboard architecture.

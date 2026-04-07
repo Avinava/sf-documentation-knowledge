@@ -5,12 +5,10 @@ topic: order-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.502Z
+lastCollected: 2026-04-07T18:35:51.353Z
 estimatedTokens: 195
 keywords: [Order, Attribute, contained, event, structure, mapped, accordance, schema]
 ---
-
-# Order Attribute
 
 > An order attribute is contained within the event structure of Order Event and mapped in
         accordance with the

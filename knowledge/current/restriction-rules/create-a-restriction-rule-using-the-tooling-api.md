@@ -5,12 +5,10 @@ topic: create-a-restriction-rule-using-the-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.949Z
+lastCollected: 2026-04-07T18:39:10.404Z
 estimatedTokens: 497
-keywords: [Restriction, Rule, Tooling, API, tasks, members, Sales, Team, access, RestrictionRule]
+keywords: [Restriction, Rule, Tooling, API, tasks, members, Sales, Team, RestrictionRule]
 ---
-
-# Create a Restriction Rule Using the Tooling API
 
 > Create a restriction rule that controls which tasks members of the Sales Team can access
   using the RestrictionRule Tooling API object.

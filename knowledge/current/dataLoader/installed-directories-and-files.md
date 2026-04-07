@@ -5,12 +5,10 @@ topic: installed-directories-and-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.239Z
+lastCollected: 2026-04-07T18:37:28.277Z
 estimatedTokens: 572
-keywords: [Installed, Directories, Files, version, 8.0, later, installing, Data, Loader, adds, several, under, installation, directory, needed]
+keywords: [Installed, Directories, Files, 8.0, installing, Loader, adds, several, under, installation, directory, needed, automated, batch, processing, File, Path, Convention]
 ---
-
-# Installed Directories and Files
 
 > In version 8.0 and later, installing the Data Loader adds several directories under the
     installation directory that are needed for automated batch processing.

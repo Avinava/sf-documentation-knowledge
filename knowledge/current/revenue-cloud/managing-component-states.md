@@ -5,12 +5,10 @@ topic: managing-component-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.151Z
+lastCollected: 2026-04-07T18:35:47.176Z
 estimatedTokens: 816
-keywords: [Managing, Component, States, Manage, activation, versioning, dependencies, components, objects, part, deployment, plan, successful, sure, system]
+keywords: [Managing, States, Manage, activation, versioning, dependencies, part, deployment, plan, successful, sure, system, executes, intended, final, active, logic, preventing, failures, caused, stale, inactive, State, Management, Scenarios, Helpful, Links]
 ---
-
-# Managing Component States
 
 > Manage activation, versioning, and dependencies for components and objects as part of
     your deployment plan. A successful deployment makes sure that the system executes the intended,

@@ -5,12 +5,10 @@ topic: insurance-commission-processing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.046Z
+lastCollected: 2026-04-07T18:37:50.989Z
 estimatedTokens: 89
-keywords: [Insurance, Commission, Processing, Input, representation]
+keywords: [Insurance, Commission, Processing]
 ---
-
-# Insurance Commission Processing Input
 
 > Input representation details of insurance commission processing.
 

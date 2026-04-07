@@ -5,12 +5,10 @@ topic: capture-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.766Z
+lastCollected: 2026-04-07T18:37:07.482Z
 estimatedTokens: 474
-keywords: [Capture, Input, Payment, consumed, service]
+keywords: [Capture, Payment, consumed, service]
 ---
-
-# Capture Input
 
 > Payment capture input consumed by payment capture
     service.

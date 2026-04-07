@@ -5,12 +5,10 @@ topic: knowledgearticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.173Z
+lastCollected: 2026-04-07T18:37:54.491Z
 estimatedTokens: 1035
-keywords: [KnowledgeArticle, read-only, access, article, ability, primary, API, version, 19.0, later, Calls, Special, Rules, Usage, SOQL]
+keywords: [KnowledgeArticle, read-only, article, ability, primary, API, 19.0, SOQL]
 ---
-
-# KnowledgeArticle
 
 > Provides read-only access to an article and the ability to delete the
 			primary article. This object is available in API version 19.0 and

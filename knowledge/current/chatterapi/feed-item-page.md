@@ -5,12 +5,10 @@ topic: feed-item-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.075Z
+lastCollected: 2026-04-07T18:37:19.181Z
 estimatedTokens: 490
-keywords: [Feed, Item, Chatter]
+keywords: [Item, Chatter]
 ---
-
-# Feed Item Page
 
 > Chatter feed item page.
 

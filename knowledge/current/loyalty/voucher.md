@@ -5,12 +5,10 @@ topic: voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.113Z
+lastCollected: 2026-04-07T18:38:08.374Z
 estimatedTokens: 833
-keywords: [Voucher, Output, representation, that's, issued, loyalty, program, member, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [Voucher, that's, issued, loyalty, program, member, API, 51.0]
 ---
-
-# Voucher
 
 > Represents details about a voucher that's issued to a loyalty program
       member. This object is available in API version 51.0 and later.

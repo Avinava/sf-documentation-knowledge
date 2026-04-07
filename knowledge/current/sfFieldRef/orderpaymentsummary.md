@@ -5,12 +5,10 @@ topic: orderpaymentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:56.748Z
+lastCollected: 2026-04-07T18:39:51.156Z
 estimatedTokens: 641
 keywords: [OrderPaymentSummary, current, state, payments, payment, applied, OrderSummary]
 ---
-
-# OrderPaymentSummary
 
 > Represents the current properties and state of payments using a single payment
       method that are applied to one OrderSummary.

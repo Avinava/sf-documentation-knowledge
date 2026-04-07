@@ -5,12 +5,10 @@ topic: pathassistant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.769Z
+lastCollected: 2026-04-07T18:36:28.311Z
 estimatedTokens: 790
-keywords: [PathAssistant, Path, records.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, PathAssistantStep, Declarative, Sample]
+keywords: [PathAssistant, PathAssistantStep, Path, records.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PathAssistant
 
 > Represents Path records.This type extends the Metadata metadata type and inherits its fullName field.
 

@@ -5,12 +5,10 @@ topic: lightningtogglemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.679Z
+lastCollected: 2026-04-07T18:39:46.221Z
 estimatedTokens: 242
-keywords: [LightningToggleMetrics, users, switched, Lightning, Experience, back, Salesforce, Classic, API, version, 43.0, later]
+keywords: [LightningToggleMetrics, users, switched, Lightning, Experience, back, Salesforce, Classic, API, 43.0]
 ---
-
-# LightningToggleMetrics
 
 > Represents users who switched from Lightning Experience back to
 			Salesforce Classic. This object is available in API version 43.0 and

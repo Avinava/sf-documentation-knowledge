@@ -5,12 +5,10 @@ topic: personalization-experiment-primary-metric-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.809Z
+lastCollected: 2026-04-07T18:37:09.529Z
 estimatedTokens: 95
-keywords: [Personalization, Experiment, Primary, Metric, Input, metrics, describe, performance]
+keywords: [Personalization, Experiment, Primary, Metric, metrics, describe, performance]
 ---
-
-# Personalization Experiment Primary Metric Reference Input
 
 > Defines the primary metrics used to describe the performance of the
     experiment.

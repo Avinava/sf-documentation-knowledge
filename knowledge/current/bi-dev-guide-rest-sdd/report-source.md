@@ -5,12 +5,10 @@ topic: report-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.948Z
+lastCollected: 2026-04-07T18:36:59.440Z
 estimatedTokens: 147
 keywords: [Report, Source, analytics, analysis]
 ---
-
-# Report Source
 
 > An analytics report as the analysis source.
 

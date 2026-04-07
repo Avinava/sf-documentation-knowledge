@@ -5,12 +5,10 @@ topic: connectapiengagementscreateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.271Z
+lastCollected: 2026-04-07T18:36:35.776Z
 estimatedTokens: 85
-keywords: [ConnectApi.EngagementsCreateInput, Input, representation, engagements]
+keywords: [ConnectApi.EngagementsCreateInput, engagements]
 ---
-
-# ConnectApi.EngagementsCreateInput
 
 > Input representation of the engagements create
     request.

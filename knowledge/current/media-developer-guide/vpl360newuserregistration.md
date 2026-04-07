@@ -5,12 +5,10 @@ topic: vpl360newuserregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.824Z
+lastCollected: 2026-04-07T18:38:11.089Z
 estimatedTokens: 466
-keywords: [VPL360_NewUserRegistration, Integration, Procedure, user, form, performs, various, steps, VPL360, _NewUserRegistration, Sample, Input, Output, Calls]
+keywords: [VPL360_NewUserRegistration, Integration, Procedure, user, form, performs, various, steps, VPL360, _NewUserRegistration, Sample]
 ---
-
-# VPL360_NewUserRegistration
 
 > This Integration Procedure gets the user details from the
 		form and performs various steps to create the user.

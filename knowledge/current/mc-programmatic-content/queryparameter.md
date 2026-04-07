@@ -5,12 +5,10 @@ topic: queryparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.280Z
+lastCollected: 2026-04-07T18:40:22.689Z
 estimatedTokens: 122
-keywords: [QueryParameter, Function, Ordinal, Key, pull, **Overview**, **Syntax**, Usage]
+keywords: [QueryParameter, Function, Ordinal, Key, pull, **Overview**, **Syntax**]
 ---
-
-# QueryParameter
 
 > QueryParameter(1)
 

@@ -5,12 +5,10 @@ topic: app-analytics-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.268Z
+lastCollected: 2026-04-07T18:38:54.658Z
 estimatedTokens: 609
-keywords: [App, Analytics, Recipes, understand, how, customers, managed, packages, components, recipe, produces, CRM, lens, key, performance]
+keywords: [App, Analytics, Recipes, understand, how, customers, managed, packages, recipe, produces, CRM, lens, key, performance, indicator, KPI, dashboards, visualize, KPIs, gain, deeper, insights]
 ---
-
-# App Analytics Recipes
 
 > To understand how your customers are using your managed packages and components, create
   App Analytics recipes. Each App Analytics recipe produces a CRM Analytics lens and is a key

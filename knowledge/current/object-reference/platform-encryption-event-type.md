@@ -5,12 +5,10 @@ topic: platform-encryption-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:40.602Z
+lastCollected: 2026-04-07T18:38:31.475Z
 estimatedTokens: 1521
-keywords: [Platform, Encryption, Event, tenant, secret, derived, key, usage, API, versions, 41.0, later]
+keywords: [Platform, Encryption, Event, tenant, secret, derived, key, API, versions, 41.0]
 ---
-
-# Platform Encryption Event Type
 
 > Platform Encryption event contains information about tenant secret
          and derived encryption key usage. This event type is available in API versions 41.0

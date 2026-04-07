@@ -5,12 +5,10 @@ topic: feed-directory-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.906Z
+lastCollected: 2026-04-07T18:37:19.001Z
 estimatedTokens: 1058
-keywords: [Feed, Directory, Item, definition]
+keywords: [Directory, Item, definition]
 ---
-
-# Feed Directory Item
 
 > The definition of a feed.
 

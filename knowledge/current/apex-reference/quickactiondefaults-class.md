@@ -5,13 +5,11 @@ topic: quickactiondefaults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.338Z
+lastCollected: 2026-04-07T18:36:00.616Z
 estimatedTokens: 825
 namespace: QuickAction
-keywords: [QuickActionDefaults, abstract, Apex, context, running, standard, Email, Action, Case, Feed, container, Message, payload, override, target]
+keywords: [QuickActionDefaults, abstract, Apex, context, running, standard, Email, Action, Case, container, Message, payload, override, target, rendered, getActionName, getActionType, getContextId, getTargetSObject]
 ---
-
-# QuickActionDefaults Class
 
 > Represents an abstract Apex class that provides the context for
       running the standard Email Action on Case Feed and the container of the Email Message fields

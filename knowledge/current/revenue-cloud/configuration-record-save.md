@@ -5,12 +5,10 @@ topic: configuration-record-save
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.667Z
+lastCollected: 2026-04-07T18:35:45.669Z
 estimatedTokens: 155
-keywords: [Configuration, Record, Save, Output, representation, saved]
+keywords: [Configuration, Record, Save, saved]
 ---
-
-# Configuration Record Save
 
 > Output representation of the details of a saved configuration.
 

@@ -5,12 +5,10 @@ topic: loyalty-transaction-journal-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.033Z
+lastCollected: 2026-04-07T18:35:54.064Z
 estimatedTokens: 2390
-keywords: [Loyalty, Transaction, Journal, DMO, Data, Cloud, model, collection, transactions, program, Journals, voucher, relate, payment, API]
+keywords: [Category, Relationships, Loyalty, Transaction, Journal, DMO, Cloud, model, collection, transactions, program, Journals, voucher, relate, payment, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Transaction Journal DMO
 
 > The Loyalty Transaction Journal DMO is a Data Cloud data model object
       (DMO) for a collection of transactions related to a loyalty program. Loyalty Transaction

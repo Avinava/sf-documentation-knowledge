@@ -5,12 +5,10 @@ topic: loyaltypartnerproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.809Z
+lastCollected: 2026-04-07T18:39:47.293Z
 estimatedTokens: 372
 keywords: [LoyaltyPartnerProduct, products, product, categories, offered, loyalty, partners]
 ---
-
-# LoyaltyPartnerProduct
 
 > Represents products and product categories offered by loyalty partners.
 

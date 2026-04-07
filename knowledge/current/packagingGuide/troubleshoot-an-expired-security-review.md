@@ -5,12 +5,10 @@ topic: troubleshoot-an-expired-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.789Z
+lastCollected: 2026-04-07T18:38:47.741Z
 estimatedTokens: 333
-keywords: [Troubleshoot, Expired, Security, Review, common, reasons, AppExchange, expires, missed, re-review, overdue, fees, unpaid, revenue, sharing]
+keywords: [Troubleshoot, Expired, Security, Review, common, reasons, AppExchange, expires, missed, re-review, overdue, fees, unpaid, revenue, sharing, how, cause]
 ---
-
-# Troubleshoot an Expired Security Review
 
 > The most common reasons that an AppExchange security review expires are a missed
         re-review, overdue review fees, and unpaid revenue sharing. Learn how to troubleshoot the

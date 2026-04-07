@@ -5,12 +5,10 @@ topic: eligibility-rule-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.327Z
+lastCollected: 2026-04-07T18:36:36.872Z
 estimatedTokens: 170
-keywords: [Eligibility, Rule, Input, Representation]
+keywords: [Eligibility, Rule]
 ---
-
-# Eligibility Rule Value Input
 
 > Input Representation for Rule Values
 

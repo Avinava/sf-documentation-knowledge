@@ -5,12 +5,10 @@ topic: deploy-the-package-metadata-to-the-packaging-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.025Z
+lastCollected: 2026-04-07T18:38:54.440Z
 estimatedTokens: 672
 keywords: [Deploy, Package, Metadata, Packaging, Org, convert, source]
 ---
-
-# Deploy the Package Metadata to the Packaging Org
 
 > Before you deploy the package metadata into your packaging org, you convert from source
         format to metadata format.

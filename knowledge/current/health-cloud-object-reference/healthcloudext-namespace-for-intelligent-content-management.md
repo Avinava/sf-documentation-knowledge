@@ -5,13 +5,11 @@ topic: healthcloudext-namespace-for-intelligent-content-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.411Z
+lastCollected: 2026-04-07T18:37:40.389Z
 estimatedTokens: 129
 namespace: HealthCloudExt
 keywords: [HealthCloudExt, Intelligent, Content, Management, classes, Health, Cloud, manage]
 ---
-
-# HealthCloudExt Namespace for Intelligent Content Management
 
 > The HealthCloudExt namespace provides an
     interface and classes for Health Cloud to manage Intelligent Content.

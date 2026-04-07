@@ -5,12 +5,10 @@ topic: financialaccountstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.382Z
+lastCollected: 2026-04-07T18:36:52.797Z
 estimatedTokens: 750
-keywords: [FinancialAccountStatement, periodic, statement, summary, financial, account, API, version, 60.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [FinancialAccountStatement, periodic, statement, summary, financial, account, API, 60.0]
 ---
-
-# FinancialAccountStatement
 
 > Represents a periodic statement summary for a financial account. This
       object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: feed-item-attachment-poll
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.046Z
+lastCollected: 2026-04-07T18:37:19.146Z
 estimatedTokens: 258
-keywords: [Feed, Item, Attachment, Poll]
+keywords: [Item, Attachment, Poll]
 ---
-
-# Feed Item Attachment: Poll
 
 > Poll feed item attachment.
 

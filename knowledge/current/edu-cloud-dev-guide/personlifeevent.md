@@ -5,12 +5,10 @@ topic: personlifeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.632Z
+lastCollected: 2026-04-07T18:37:31.773Z
 estimatedTokens: 197
-keywords: [PersonLifeEvent, life, events, Individual, Marriage, Birth, baby, Birthday, Engagement, Divorce, API, version, 59.0, later, Calls]
+keywords: [PersonLifeEvent, life, events, Individual, Marriage, Birth, baby, Birthday, Engagement, Divorce, API, 59.0]
 ---
-
-# PersonLifeEvent
 
 > Represents the life events of an Individual. Eg: Marriage, Birth of a baby,
          Birthday, Engagement, Divorce This object is available in API version 59.0 and later.

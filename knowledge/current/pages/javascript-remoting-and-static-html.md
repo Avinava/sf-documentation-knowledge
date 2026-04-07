@@ -5,12 +5,10 @@ topic: javascript-remoting-and-static-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.501Z
+lastCollected: 2026-04-07T18:38:52.813Z
 estimatedTokens: 1086
-keywords: [JavaScript, Remoting, HTML, Combine, offer, best, user, experience, performance, match, Salesforce, mobile, app, architecture, avoids]
+keywords: [JavaScript, Remoting, HTML, Combine, offer, best, user, experience, performance, match, Salesforce, mobile, app, architecture, avoids, Visualforce, tags, favor, rendering, option, requires, developer, expertise, take, little, longer, standard, mixed, Packs, fast, start, work, latest, Web, application, technology, Applying, Approach, Pages, Controller]
 ---
-
-# JavaScript Remoting and Static HTML
 
 > Combine JavaScript remoting and static HTML to offer the best user experience, with
         the best performance and user interface match to the Salesforce mobile app. This

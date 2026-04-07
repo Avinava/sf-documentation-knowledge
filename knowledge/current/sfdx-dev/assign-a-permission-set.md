@@ -5,12 +5,10 @@ topic: assign-a-permission-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.783Z
+lastCollected: 2026-04-07T18:40:07.718Z
 estimatedTokens: 415
-keywords: [Assign, Permission, creating, scratch, org, deploying, source, sometimes, give, users, access, application, especially, app, custom]
+keywords: [Assign, Permission, creating, scratch, org, deploying, source, sometimes, give, users, application, especially, app]
 ---
-
-# Assign a Permission Set
 
 > After creating your scratch org and deploying the source, you must sometimes give your
   users access to your application, especially if your app contains custom objects.

@@ -5,12 +5,10 @@ topic: fhir-contact-point-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.761Z
+lastCollected: 2026-04-07T18:37:40.742Z
 estimatedTokens: 356
-keywords: [FHIR, Contact, Point, Input, representation, ContactPoint]
+keywords: [FHIR, Contact, Point, ContactPoint]
 ---
-
-# FHIR Contact Point Input
 
 > Input representation for the ContactPoint FHIR
     object.

@@ -5,12 +5,10 @@ topic: seller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.091Z
+lastCollected: 2026-04-07T18:38:40.696Z
 estimatedTokens: 804
-keywords: [Seller, role, individual, respect, particular, company, organization, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [Seller, role, individual, respect, particular, company, organization, API, 53.0]
 ---
-
-# Seller
 
 > Represents the seller role of an individual with respect to a particular
          company or organization. This object is available in API version 53.0 and

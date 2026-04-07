@@ -5,12 +5,10 @@ topic: benefit-schedule-sessions-preview-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.939Z
+lastCollected: 2026-04-07T18:38:20.687Z
 estimatedTokens: 428
 keywords: [Benefit, Schedule, Sessions, Preview, POST, scheduling, session]
 ---
-
-# Benefit Schedule Sessions Preview (POST)
 
 > Create a preview of the benefit scheduling session.
 

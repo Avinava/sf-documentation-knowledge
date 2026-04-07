@@ -5,12 +5,10 @@ topic: inventory-actions-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.779Z
+lastCollected: 2026-04-07T18:36:52.199Z
 estimatedTokens: 160
-keywords: [Inventory, Actions, Item, Input, representation, perform, product, transfer]
+keywords: [Inventory, Actions, Item, perform, product, transfer]
 ---
-
-# Inventory Actions Item Input
 
 > Input representation to perform the inventory product
     transfer.

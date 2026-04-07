@@ -5,12 +5,10 @@ topic: flowrecordversionoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.432Z
+lastCollected: 2026-04-07T18:39:41.089Z
 estimatedTokens: 507
-keywords: [FlowRecordVersionOccurrence, instance, recurring, flow, runs, schedule, weekly, Wednesdays, creates, occurrence, time, API, version, 60.0, later]
+keywords: [FlowRecordVersionOccurrence, instance, recurring, flow, runs, schedule, weekly, Wednesdays, creates, occurrence, time, API, 60.0]
 ---
-
-# FlowRecordVersionOccurrence
 
 > Represents an instance of a recurring flow that runs on a schedule. For example, a flow that runs weekly on Wednesdays creates an occurrence each time it runs.
 		This object is available in API version 60.0 and later.

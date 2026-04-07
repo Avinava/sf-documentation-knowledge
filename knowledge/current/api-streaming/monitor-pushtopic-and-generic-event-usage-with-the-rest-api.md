@@ -5,12 +5,10 @@ topic: monitor-pushtopic-and-generic-event-usage-with-the-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.330Z
+lastCollected: 2026-04-07T18:36:51.670Z
 estimatedTokens: 440
-keywords: [Monitor, PushTopic, Generic, Event, Usage, REST, API, limits, resource, obtain, Streaming, version, 36.0, earlier, Durable]
+keywords: [Monitor, PushTopic, Generic, Event, REST, API, limits, resource, obtain, Streaming, 36.0, earlier, Durable, 37.0]
 ---
-
-# Monitor PushTopic and Generic Event Usage with the REST API
 
 > Use the REST API limits resource to obtain usage
         information for Streaming API (API version 36.0 and earlier) and Durable Streaming API (API

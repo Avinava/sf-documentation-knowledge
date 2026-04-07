@@ -5,12 +5,10 @@ topic: variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.484Z
+lastCollected: 2026-04-07T18:36:19.697Z
 estimatedTokens: 1056
-keywords: [Variables, Local, declared, Java-style, Variable, Naming, Rules, Initial, Scope, Case, Sensitivity]
+keywords: [Variables, Local, declared, Java-style, Variable, Naming, Initial, Scope, Case, Sensitivity]
 ---
-
-# Variables
 
 > Local variables are declared with Java-style syntax.
 

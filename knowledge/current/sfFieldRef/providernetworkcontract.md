@@ -5,12 +5,10 @@ topic: providernetworkcontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.874Z
+lastCollected: 2026-04-07T18:39:57.468Z
 estimatedTokens: 301
 keywords: [ProviderNetworkContract, provider, network, bound, together, contract]
 ---
-
-# ProviderNetworkContract
 
 > Represents a provider and a network bound together by a contract.
 

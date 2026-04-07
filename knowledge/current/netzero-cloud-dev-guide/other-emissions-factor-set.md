@@ -5,12 +5,10 @@ topic: other-emissions-factor-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.296Z
+lastCollected: 2026-04-07T18:38:16.883Z
 estimatedTokens: 426
-keywords: [Emissions, Factor, collection, conversion, factors, various, data, sources, neither, electricity, grid, nor, scope]
+keywords: [Emissions, Factor, collection, conversion, factors, various, sources, neither, electricity, grid, nor, scope]
 ---
-
-# Other Emissions Factor Set
 
 > The Other Emissions Factor Set object represents a collection of emissions and
     conversion factors for various data types and sources that are neither the electricity grid nor

@@ -5,12 +5,10 @@ topic: engagement-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.991Z
+lastCollected: 2026-04-07T18:37:33.293Z
 estimatedTokens: 196
-keywords: [Engagement, Interactions, interaction, occurs, customer, engages, site, buttons, links, elements, Anchor, Click, Event, Button]
+keywords: [Engagement, Interactions, interaction, occurs, customer, engages, site, buttons, links, Anchor, Click, Event, Button]
 ---
-
-# Engagement Interactions
 
 > An engagement interaction occurs when a customer engages with your site
 			through buttons, links, or other page elements.

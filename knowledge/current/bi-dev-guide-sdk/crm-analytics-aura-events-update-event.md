@@ -5,13 +5,11 @@ topic: crm-analytics-aura-events---update-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:14.850Z
+lastCollected: 2026-04-07T18:37:01.448Z
 estimatedTokens: 1066
 namespace: XXXXXXXXXXX
-keywords: [CRM, Analytics, Aura, Events, Event, custom, component, dynamically, filters, dashboard, embedded, Lightning, Setting, Filter, Resources]
+keywords: [Resources, CRM, Analytics, Aura, Events, Event, dynamically, filters, dashboard, embedded, Lightning, Setting, Filter]
 ---
-
-# CRM Analytics Aura Events - Update Event
 
 > Create a custom component to dynamically set filters in a CRM Analytics dashboard
     embedded in a Lightning page.

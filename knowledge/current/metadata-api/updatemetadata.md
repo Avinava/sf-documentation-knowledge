@@ -5,12 +5,10 @@ topic: updatemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.966Z
+lastCollected: 2026-04-07T18:36:30.340Z
 estimatedTokens: 984
-keywords: [updateMetadata, Updates, metadata, components, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Updating, Sample, Code—Java, Arguments]
+keywords: [Permissions, Arguments, updateMetadata, Updates, metadata, organization, synchronously, Basic, Steps, Updating, Sample, Code—Java]
 ---
-
-# updateMetadata()
 
 > Updates one or more metadata components in your
             organization synchronously.

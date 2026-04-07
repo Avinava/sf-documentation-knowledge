@@ -5,12 +5,10 @@ topic: sample-crm-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.997Z
+lastCollected: 2026-04-07T18:39:16.541Z
 estimatedTokens: 438
 keywords: [Sample, CRM, Dashboards, download, AppExchange]
 ---
-
-# Sample CRM Dashboards
 
 > You can download sample dashboards from AppExchange.
 

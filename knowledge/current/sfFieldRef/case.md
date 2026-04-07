@@ -5,12 +5,10 @@ topic: case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.896Z
+lastCollected: 2026-04-07T18:39:33.308Z
 estimatedTokens: 701
 keywords: [Case, customer, issue, problem]
 ---
-
-# Case
 
 > Represents a case, which is a customer issue or
 		problem.

@@ -5,12 +5,10 @@ topic: wkcclocationwellnessfactc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.053Z
+lastCollected: 2026-04-07T18:40:14.076Z
 estimatedTokens: 804
-keywords: [wkcc__LocationWellnessFact__c, Aggregates, wellness, counts, location, status, rolls, hierarchy, aggregating, employees, directly, linked, any, record, location’s]
+keywords: [wkcc__LocationWellnessFact__c, Aggregates, wellness, counts, location, status, rolls, hierarchy, aggregating, employees, directly, linked, any, record, location’s, descendent, orgs, Work.com, installed, wkcc, _LocationWellnessFact]
 ---
-
-# wkcc__LocationWellnessFact__c
 
 > Aggregates wellness counts by location and status. This object rolls up the
       location hierarchy, aggregating status counts for all employees directly linked to a location

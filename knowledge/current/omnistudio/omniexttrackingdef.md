@@ -5,12 +5,10 @@ topic: omniexttrackingdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.166Z
+lastCollected: 2026-04-07T18:36:42.847Z
 estimatedTokens: 1397
-keywords: [OmniExtTrackingDef, connection, OmniTrackingGroup, OmniAnalytics, third-party, Analytics, system, Google, Parent, File, Suffix, Directory, Location, Version, Special, API, version, 60.0, later, Calls]
+keywords: [OmniExtTrackingDef, OmniExtTrackingEventDef, connection, OmniTrackingGroup, OmniAnalytics, third-party, Analytics, system, Google, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 60.0]
 ---
-
-# OmniExtTrackingDef
 
 > Represents a connection between an OmniTrackingGroup in OmniAnalytics and a
 			third-party Analytics system such as Google Analytics.

@@ -5,12 +5,10 @@ topic: priceadjustmenttier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:46.911Z
+lastCollected: 2026-04-07T18:38:38.272Z
 estimatedTokens: 582
-keywords: [PriceAdjustmentTier, discount, tier, price, adjustment, schedule, API, version, 47.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [PriceAdjustmentTier, discount, tier, price, adjustment, schedule, API, 47.0]
 ---
-
-# PriceAdjustmentTier
 
 > Represents a discount tier in a price adjustment schedule. This object is
     available in API version 47.0 and later.

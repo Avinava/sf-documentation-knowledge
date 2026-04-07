@@ -5,12 +5,10 @@ topic: preview-benefit-session-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.834Z
+lastCollected: 2026-04-07T18:38:20.576Z
 estimatedTokens: 327
-keywords: [Preview, Benefit, Session, Input, representation, scheduling]
+keywords: [Preview, Benefit, Session, scheduling]
 ---
-
-# Preview Benefit Session Input
 
 > Input representation of the benefit scheduling session preview
       request.

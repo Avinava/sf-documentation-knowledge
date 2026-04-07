@@ -5,12 +5,10 @@ topic: resume-billing-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.854Z
+lastCollected: 2026-04-07T18:35:43.760Z
 estimatedTokens: 180
-keywords: [Resume, Billing, Input, representation, account, schedule, group, along, effective, date, start, operation]
+keywords: [Resume, Billing, account, schedule, group, along, effective, date, start, operation]
 ---
-
-# Resume Billing Object Input
 
 > Input representation of the details such as the ID of the account or billing schedule
     group along with the effective date. These details are used to start the billing

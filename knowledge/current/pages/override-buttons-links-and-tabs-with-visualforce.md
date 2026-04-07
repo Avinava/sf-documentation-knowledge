@@ -5,12 +5,10 @@ topic: override-buttons-links-and-tabs-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.649Z
+lastCollected: 2026-04-07T18:38:50.881Z
 estimatedTokens: 528
-keywords: [Override, Buttons, Links, Tabs, Visualforce, behavior, standard, buttons—such, New, View, Edit—in, Salesforce, Classic, Lightning, Experience]
+keywords: [Override, Buttons, Links, Tabs, Visualforce, behavior, standard, buttons—such, New, View, Edit—in, Salesforce, Classic, Lightning, Experience, mobile, app, tab, home, displays, user, clicks, external]
 ---
-
-# Override Buttons, Links, and Tabs with Visualforce
 
 > Override the behavior of standard buttons—such as New, View,
     and Edit—in Salesforce Classic, Lightning Experience, and the

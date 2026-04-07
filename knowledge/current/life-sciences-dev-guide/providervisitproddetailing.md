@@ -5,12 +5,10 @@ topic: providervisitproddetailing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.658Z
+lastCollected: 2026-04-07T18:38:01.532Z
 estimatedTokens: 1828
-keywords: [ProviderVisitProdDetailing, products, discussed, visit, health, care, provider, including, key, product, brand, therapeutic, area, relevant, API]
+keywords: [ProviderVisitProdDetailing, products, discussed, visit, health, care, provider, including, key, product, brand, therapeutic, area, relevant, API, 65.0]
 ---
-
-# ProviderVisitProdDetailing
 
 > Represents products discussed during a visit with a health care provider,
          including key details such as the product brand, therapeutic area, and other relevant

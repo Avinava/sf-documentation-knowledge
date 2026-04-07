@@ -5,12 +5,10 @@ topic: cgcloudorderitemtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.632Z
+lastCollected: 2026-04-07T18:39:14.022Z
 estimatedTokens: 3638
-keywords: [cgcloud__Order_Item_Template__c, template, behavior, Order, Item, OrderEntry, sales, document, behave, entry, API, version, 54.0, later, cgcloud]
+keywords: [cgcloud__Order_Item_Template__c, template, behavior, Order, Item, OrderEntry, sales, document, behave, entry, API, 54.0, cgcloud, _Order, _Item, _Template]
 ---
-
-# cgcloud__Order_Item_Template__c
 
 > This template controls the behavior of an Order Item Template. For
          example, OrderEntry is an important template, which allows a sales document to behave like

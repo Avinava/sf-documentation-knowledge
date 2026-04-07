@@ -5,12 +5,10 @@ topic: lookuprows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.235Z
+lastCollected: 2026-04-07T18:40:22.647Z
 estimatedTokens: 212
-keywords: [LookupRows, Function, Ordinal, data, extension, rows, Column, identify, **Overview**, **Syntax**, Usage, column, retrieve, array, Requ, Examples]
+keywords: [LookupRows, Function, Ordinal, extension, rows, Column, identify, **Overview**, **Syntax**, Examples, column, retrieve, array, Requ]
 ---
-
-# LookupRows
 
 > LookupRows(1, 2, 3)
 

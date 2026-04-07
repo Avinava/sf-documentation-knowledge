@@ -5,12 +5,10 @@ topic: fiscalweekfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.046Z
+lastCollected: 2026-04-07T18:37:01.659Z
 estimatedTokens: 178
-keywords: [fiscal_week_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Monday, fiscal, week, _week, _first, _day]
+keywords: [fiscal_week_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, Monday, fiscal, week, _week, _first, _day]
 ---
-
-# fiscal_week_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the first day (Monday) of the fiscal week that contains the specified date.

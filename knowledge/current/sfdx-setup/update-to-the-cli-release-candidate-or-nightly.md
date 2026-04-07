@@ -5,12 +5,10 @@ topic: update-to-the-cli-release-candidate-or-nightly
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.337Z
+lastCollected: 2026-04-07T18:40:09.279Z
 estimatedTokens: 1038
-keywords: [CLI, Release, Candidate, Nightly, new, version, weekly, time, publish, changes, plan, include, Think, CLI-version, Salesforce]
+keywords: [CLI, Release, Candidate, Nightly, new, weekly, time, publish, changes, plan, include, Think, CLI-version, Salesforce, sandbox, preview, want, check, upcoming, features, stay, current, official, back, forth, It’s, Installers, Install, npm, TAR, File]
 ---
-
-# Update to the CLI Release Candidate or Nightly
 
 > We release a new version of the CLI weekly. At the same time we also publish a release
     candidate of the CLI that contains changes that we plan to include in the next weekly release.

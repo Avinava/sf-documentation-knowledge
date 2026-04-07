@@ -5,12 +5,10 @@ topic: getlistviewoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.141Z
+lastCollected: 2026-04-07T18:38:48.089Z
 estimatedTokens: 234
 keywords: [getListViewOptions, listviews, current, user]
 ---
-
-# getListViewOptions()
 
 > Returns a list of the listviews available to the current
 user.

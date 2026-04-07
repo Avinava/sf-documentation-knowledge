@@ -5,12 +5,10 @@ topic: post-a-draft-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.759Z
+lastCollected: 2026-04-07T18:35:44.768Z
 estimatedTokens: 263
 keywords: [Post, Draft, Memo, credit, record, review, approval]
 ---
-
-# Post a Draft Memo (POST)
 
 > Post a draft credit memo to a credit memo record for review and
       approval.

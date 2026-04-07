@@ -5,12 +5,10 @@ topic: customize-the-channel-menu
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.490Z
+lastCollected: 2026-04-07T18:40:09.436Z
 estimatedTokens: 328
 keywords: [Customize, Channel, Menu, Provide, customers, personalized, experience, client-side, changes, altering, branding, website]
 ---
-
-# Customize the Channel Menu
 
 > Provide your Channel Menu customers with a more personalized experience. Make
                 client-side changes without altering other menu branding parameters for your

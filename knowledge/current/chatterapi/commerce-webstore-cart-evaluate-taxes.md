@@ -5,12 +5,10 @@ topic: commerce-webstore-cart-evaluate-taxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.343Z
+lastCollected: 2026-04-07T18:37:12.203Z
 estimatedTokens: 417
 keywords: [Commerce, Webstore, Cart, Evaluate, Taxes]
 ---
-
-# Commerce Webstore Cart, Evaluate Taxes
 
 > Evaluate taxes for a cart.
 

@@ -5,12 +5,10 @@ topic: patientimmunizationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.168Z
+lastCollected: 2026-04-07T18:39:52.650Z
 estimatedTokens: 268
-keywords: [PatientImmunizationHistory, History, tracked, PatientImmunization]
+keywords: [PatientImmunizationHistory, tracked, PatientImmunization]
 ---
-
-# PatientImmunizationHistory
 
 > History for tracked fields of PatientImmunization.
 

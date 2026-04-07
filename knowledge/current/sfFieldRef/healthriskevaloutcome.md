@@ -5,12 +5,10 @@ topic: healthriskevaloutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.867Z
+lastCollected: 2026-04-07T18:39:43.480Z
 estimatedTokens: 492
-keywords: [HealthRiskEvalOutcome, outcome, risk, evaluation, probability, disease, occurrence, API, version, 64.0, later]
+keywords: [HealthRiskEvalOutcome, outcome, risk, evaluation, probability, disease, occurrence, API, 64.0]
 ---
-
-# HealthRiskEvalOutcome
 
 > Represents the outcome of a risk evaluation, such as the probability of
          disease occurrence. This object is available in API version 64.0 and

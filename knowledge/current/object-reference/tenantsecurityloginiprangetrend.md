@@ -5,12 +5,10 @@ topic: tenantsecurityloginiprangetrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.723Z
+lastCollected: 2026-04-07T18:38:42.465Z
 estimatedTokens: 1243
-keywords: [TenantSecurityLoginIpRangeTrend, Stores, changes, login, ranges, Security, Center, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityLoginIpRangeTrend, Stores, changes, login, ranges, Security, Center, API, 59.0]
 ---
-
-# TenantSecurityLoginIpRangeTrend
 
 > Stores details of changes related to login IP ranges in Security Center.
       This object is available in API version 59.0 and later.

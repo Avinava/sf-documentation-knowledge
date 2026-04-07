@@ -5,12 +5,10 @@ topic: learningcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.040Z
+lastCollected: 2026-04-07T18:38:34.238Z
 estimatedTokens: 835
-keywords: [LearningContent, Trailhead, enablement, site, myTrailhead, module, assigned, user, Workforce, Engagement, Learning, Paths, video, program, exercise]
+keywords: [LearningContent, Trailhead, enablement, site, myTrailhead, module, assigned, user, Workforce, Engagement, Learning, Paths, video, program, exercise, API, 54.0]
 ---
-
-# LearningContent
 
 > Represents a Trailhead or enablement site (myTrailhead) module assigned to a
          user in Workforce Engagement or Learning Paths. This object also represents a Trailhead

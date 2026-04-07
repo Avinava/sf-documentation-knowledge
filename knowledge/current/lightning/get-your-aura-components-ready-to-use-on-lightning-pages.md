@@ -5,12 +5,10 @@ topic: get-your-aura-components-ready-to-use-on-lightning-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.892Z
+lastCollected: 2026-04-07T18:38:02.820Z
 estimatedTokens: 876
-keywords: [Aura, Components, Ready, Lightning, Pages, Custom, don’t, work, App, Builder, right, box, component, either, places]
+keywords: [Aura, Ready, Lightning, Pages, don’t, work, App, Builder, right, box, either, places, configure, bundle, they’re, compatible]
 ---
-
-# Get Your Aura Components Ready to Use on Lightning Pages
 
 > Custom Aura components don’t work on Lightning pages or in the Lightning App Builder
   right out of the box. To use a custom component in either of these places, configure the component

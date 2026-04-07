@@ -5,12 +5,10 @@ topic: partyindicatorresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.152Z
+lastCollected: 2026-04-07T18:38:00.948Z
 estimatedTokens: 708
-keywords: [PartyIndicatorResult, party, indicator, result, calculated, API, version, 62.0, later, Calls, Special, Access, Rules, Usage, Associated]
+keywords: [PartyIndicatorResult, party, indicator, result, calculated, API, 62.0]
 ---
-
-# PartyIndicatorResult
 
 > Represents information about a party for which the indicator result
          is calculated. This object is available in API version 62.0 and later.

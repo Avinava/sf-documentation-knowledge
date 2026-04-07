@@ -5,12 +5,10 @@ topic: commerce-extension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.703Z
+lastCollected: 2026-04-07T18:37:18.793Z
 estimatedTokens: 308
 keywords: [Commerce, Extension]
 ---
-
-# Commerce Extension
 
 > A Commerce extension.
 

@@ -5,12 +5,10 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.572Z
+lastCollected: 2026-04-07T18:37:24.577Z
 estimatedTokens: 902
 keywords: [Resources, Here’s, Salesforce, Contracts, API]
 ---
-
-# Resources
 
 > Here’s a list of Salesforce Contracts API resources.
 

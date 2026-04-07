@@ -5,12 +5,10 @@ topic: ordersummarycreatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.635Z
+lastCollected: 2026-04-07T18:38:59.569Z
 estimatedTokens: 367
-keywords: [OrderSummaryCreatedEvent, Notifies, subscribers, creation, order, summary, record, event, trigger, flows, processes, workflow, API, version, 48.0]
+keywords: [OrderSummaryCreatedEvent, Notifies, subscribers, creation, order, summary, record, event, trigger, flows, processes, workflow, API, 48.0, Subscription, Channel, Delivery, Allocation, Enforced]
 ---
-
-# OrderSummaryCreatedEvent
 
 > Notifies subscribers of the creation of an order summary record. Use this event
       to trigger flows and processes in your order workflow. This object is available in API

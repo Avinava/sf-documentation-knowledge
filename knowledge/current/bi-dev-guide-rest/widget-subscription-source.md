@@ -5,12 +5,10 @@ topic: widget-subscription-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.579Z
+lastCollected: 2026-04-07T18:36:58.139Z
 estimatedTokens: 73
 keywords: [Widget, Subscription, Source]
 ---
-
-# Widget Subscription Source
 
 > The widget subscription source.
 

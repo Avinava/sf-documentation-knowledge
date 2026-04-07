@@ -5,12 +5,10 @@ topic: transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.354Z
+lastCollected: 2026-04-07T18:38:12.645Z
 estimatedTokens: 309
-keywords: [Transformation, Input, representation, converting, output]
+keywords: [Transformation, converting]
 ---
-
-# Transformation Input
 
 > Input representation for converting an input object type to an output
       object type.

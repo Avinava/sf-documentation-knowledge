@@ -5,12 +5,10 @@ topic: dashboard-component-snapshot-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.130Z
+lastCollected: 2026-04-07T18:37:18.207Z
 estimatedTokens: 164
-keywords: [Dashboard, Component, Snapshot, Capability, feed, element, image, specific, point, time]
+keywords: [Dashboard, Snapshot, Capability, image, specific, point, time]
 ---
-
-# Dashboard Component Snapshot Capability
 
 > If a feed element has this capability, it has a dashboard component snapshot. A snapshot
     is a static image of a dashboard component at a specific point in time.

@@ -5,12 +5,10 @@ topic: productdiscoverysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.523Z
+lastCollected: 2026-04-07T18:35:47.561Z
 estimatedTokens: 834
-keywords: [ProductDiscoverySettings, settings, Product, Discovery, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
+keywords: [ProductDiscoverySettings, settings, Product, Discovery, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# ProductDiscoverySettings
 
 > Represents the settings for Product
 		Discovery.

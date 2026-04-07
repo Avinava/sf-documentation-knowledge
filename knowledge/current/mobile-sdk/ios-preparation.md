@@ -5,12 +5,10 @@ topic: ios-preparation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.860Z
+lastCollected: 2026-04-07T18:40:26.178Z
 estimatedTokens: 743
 keywords: [iOS, Preparation, Mobile, SDK, apps, install, necessary, Apple, software, plan, forceios, CocoaPods]
 ---
-
-# iOS Preparation
 
 > To create Mobile SDK apps for iOS, you must install the necessary Apple software. If you plan to use forceios, you
     also install CocoaPods.

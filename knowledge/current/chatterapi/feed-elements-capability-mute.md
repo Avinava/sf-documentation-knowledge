@@ -5,12 +5,10 @@ topic: feed-elements-capability-mute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.753Z
+lastCollected: 2026-04-07T18:37:13.712Z
 estimatedTokens: 378
-keywords: [Feed, Elements, Capability, Mute, whether, element, muted, unmute]
+keywords: [Capability, Mute, whether, muted, unmute]
 ---
-
-# Feed Elements Capability, Mute
 
 > Get information about whether a feed element is muted, or mute or
       unmute a feed element.

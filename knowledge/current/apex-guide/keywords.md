@@ -5,12 +5,10 @@ topic: keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:31.281Z
+lastCollected: 2026-04-07T18:36:16.500Z
 estimatedTokens: 343
 keywords: [Keywords, Apex, final, instanceof, super, transient, sharing]
 ---
-
-# Keywords
 
 > Apex provides the
         keywords final, instanceof, super, this, transient, with sharing and without sharing.

@@ -5,12 +5,10 @@ topic: smart-data-discovery-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.148Z
+lastCollected: 2026-04-07T18:36:59.632Z
 estimatedTokens: 677
-keywords: [Smart, Data, Discovery, Model, Einstein]
+keywords: [Smart, Discovery, Model, Einstein]
 ---
-
-# Smart Data Discovery Model
 
 > An Einstein Discovery model.
 

@@ -5,12 +5,10 @@ topic: goodsreceivednoteitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.482Z
+lastCollected: 2026-04-07T18:38:13.795Z
 estimatedTokens: 793
-keywords: [GoodsReceivedNoteItem, line, entry, Goods, Received, GRN, receiving, status, specific, product, records, total, quantity, how, units]
+keywords: [GoodsReceivedNoteItem, line, entry, Goods, Received, GRN, receiving, status, specific, product, records, total, quantity, how, units, were, damaged, short-delivered, excess, purchase, order, API, 65.0]
 ---
-
-# GoodsReceivedNoteItem
 
 > Represents a single line entry on the Goods Received Note (GRN) that details
       the receiving status of a specific product. It records the total quantity received and

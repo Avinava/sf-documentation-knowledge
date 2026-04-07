@@ -5,12 +5,10 @@ topic: engagement-signal-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.417Z
+lastCollected: 2026-04-07T18:37:08.234Z
 estimatedTokens: 166
-keywords: [Engagement, Signal, Input, definition]
+keywords: [Engagement, Signal, definition]
 ---
-
-# Engagement Signal Parameter Input
 
 > Parameter definition used in Engagement Signal input.
 

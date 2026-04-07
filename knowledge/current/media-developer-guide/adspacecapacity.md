@@ -5,12 +5,10 @@ topic: adspacecapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.104Z
+lastCollected: 2026-04-07T18:38:12.391Z
 estimatedTokens: 1088
-keywords: [AdSpaceCapacity, row, inventory, item's, total, capacity, booked, reserved, pitched, allocation, count, specific, time, period, API]
+keywords: [AdSpaceCapacity, row, inventory, item's, total, capacity, booked, reserved, pitched, allocation, count, specific, time, period, API, 65.0]
 ---
-
-# AdSpaceCapacity
 
 > Each row represents information about an ad inventory item's total capacity,
          and booked, reserved, and pitched allocation count for a specific time period. This

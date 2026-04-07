@@ -5,12 +5,10 @@ topic: borrower-employment-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.371Z
+lastCollected: 2026-04-07T18:37:34.966Z
 estimatedTokens: 965
-keywords: [Borrower, Employment, Output, borrower's, co-borrower's, current, past]
+keywords: [Borrower, Employment, borrower's, co-borrower's, current, past]
 ---
-
-# Borrower Employment Output
 
 > Represents details about the borrower's or co-borrower's current and
       past employment.

@@ -5,12 +5,10 @@ topic: user-activity-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.124Z
+lastCollected: 2026-04-07T18:37:16.172Z
 estimatedTokens: 143
 keywords: [User, Activity, Export, Chatter-related, bookmarks, topic, endorsements, votes]
 ---
-
-# User Activity, Export
 
 > Export Chatter-related activity, such as bookmarks, topic
       endorsements, and votes, for a user.

@@ -5,12 +5,10 @@ topic: group-membership-locking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.751Z
+lastCollected: 2026-04-07T18:37:28.835Z
 estimatedTokens: 1464
-keywords: [Group, Membership, Locking, updating, role, hierarchy, Setup, API, customers, occasionally, receive, “could, acquire, lock”, operation]
+keywords: [Group, Membership, Locking, updating, role, hierarchy, Setup, API, customers, occasionally, receive, “could, acquire, lock”, operation, already, progress, error, repeat, occurs, because, sharing, system, locks, tables, holding, updates, prevent, incompatible, simultaneous, timing, issues, lead, inaccurate, users’, rights]
 ---
-
-# Group Membership Locking
 
 > When updating the role hierarchy or group membership in Setup or through the API,
   customers can occasionally receive a “could not acquire lock” or "Group membership operation

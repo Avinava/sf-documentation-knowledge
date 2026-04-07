@@ -5,12 +5,10 @@ topic: inventoryreplenishmentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.776Z
+lastCollected: 2026-04-07T18:38:13.105Z
 estimatedTokens: 408
-keywords: [InventoryReplenishmentSettings, setting, enabling, Inventory, Replenishment, feature, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [InventoryReplenishmentSettings, setting, enabling, Inventory, Replenishment, feature, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# InventoryReplenishmentSettings
 
 > Represents the setting for enabling Inventory
 			Replenishment feature.

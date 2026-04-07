@@ -5,12 +5,10 @@ topic: pendingordsumprocevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.756Z
+lastCollected: 2026-04-07T18:39:53.285Z
 estimatedTokens: 318
-keywords: [PendingOrdSumProcEvent, Notifies, subscribers, PendingOrderSummary, record, processed, process, succeeded, OrderSummary, created, deleted, event, trigger, flows, order]
+keywords: [PendingOrdSumProcEvent, Notifies, subscribers, PendingOrderSummary, record, processed, process, succeeded, OrderSummary, created, deleted, event, trigger, flows, order, workflow, API, 56.0]
 ---
-
-# PendingOrdSumProcEvent
 
 > Notifies subscribers that a PendingOrderSummary record was processed. If the
       process succeeded, an OrderSummary was created and the PendingOrderSummary can be deleted. Use

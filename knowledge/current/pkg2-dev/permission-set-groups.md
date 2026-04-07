@@ -5,12 +5,10 @@ topic: permission-set-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.551Z
+lastCollected: 2026-04-07T18:38:56.084Z
 estimatedTokens: 414
 keywords: [Permission, Groups, organize, include, second-generation, managed, packages, updated, upgrade, package]
 ---
-
-# Permission Set Groups
 
 > You can organize permission sets into groups and include them in first and
   second-generation managed packages. Permission set groups can be updated when you upgrade the

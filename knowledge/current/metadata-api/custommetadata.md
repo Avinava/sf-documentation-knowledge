@@ -5,12 +5,10 @@ topic: custommetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.810Z
+lastCollected: 2026-04-07T18:36:24.155Z
 estimatedTokens: 2115
-keywords: [CustomMetadata, record, custom, metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, CustomMetadataValue, Declarative, Sample]
+keywords: [CustomMetadata, CustomMetadataValue, record, metadata, File, Suffix, Directory, Location, Declarative, Sample, Definitions, Wildcard, Support, Manifest]
 ---
-
-# CustomMetadata
 
 > Represents a record of a custom metadata
     type.

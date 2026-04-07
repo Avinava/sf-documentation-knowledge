@@ -5,12 +5,10 @@ topic: patchinsuranceupdatememberscensusmgmtinputparam-groupcensusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.527Z
+lastCollected: 2026-04-07T18:37:49.368Z
 estimatedTokens: 245
-keywords: [patchInsuranceUpdateMembers, censusMgmtInputParam, groupCensusId, group, census, members, API, Version, Requires, Chatter]
+keywords: [patchInsuranceUpdateMembers, censusMgmtInputParam, groupCensusId, group, census, members, API, Requires, Chatter]
 ---
-
-# patchInsuranceUpdateMembers(censusMgmtInputParam, groupCensusId)
 
 > Update group census members.
 

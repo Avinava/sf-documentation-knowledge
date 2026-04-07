@@ -5,12 +5,10 @@ topic: insplcyendrstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.279Z
+lastCollected: 2026-04-07T18:38:59.163Z
 estimatedTokens: 445
-keywords: [InsPlcyEndrStatusEvent, Notifies, subscribers, status, insurance, policy, endorsement, API, version, 65.0, later, Calls, Subscription, Channel, Event]
+keywords: [InsPlcyEndrStatusEvent, Notifies, subscribers, status, insurance, policy, endorsement, API, 65.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# InsPlcyEndrStatusEvent
 
 > Notifies subscribers of the status of the insurance policy
 			endorsement. This object is available in API version 65.0 and later.

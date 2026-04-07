@@ -5,12 +5,10 @@ topic: accountforecastfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.232Z
+lastCollected: 2026-04-07T18:39:24.154Z
 estimatedTokens: 298
-keywords: [AccountForecastFeed, Feed, tracking, AccountForecast]
+keywords: [AccountForecastFeed, AccountForecast]
 ---
-
-# AccountForecastFeed
 
 > Feed tracking for AccountForecast.
 

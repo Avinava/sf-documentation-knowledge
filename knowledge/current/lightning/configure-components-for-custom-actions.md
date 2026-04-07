@@ -5,12 +5,10 @@ topic: configure-components-for-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.387Z
+lastCollected: 2026-04-07T18:38:03.406Z
 estimatedTokens: 914
-keywords: [Configure, Components, Custom, Actions, Add, force, lightningQuickAction, lightningQuickActionWithoutHeader, Aura, component, enable, action, Lightning, Experience, Salesforce]
+keywords: [Configure, Actions, Add, force, lightningQuickAction, lightningQuickActionWithoutHeader, Aura, enable, action, Lightning, Experience, Salesforce, mobile, app, implement, interfaces, object-specific]
 ---
-
-# Configure Components for Custom Actions
 
 > Add the force:lightningQuickAction or force:lightningQuickActionWithoutHeader interface to an Aura component to
             enable it to be used as a custom action in Lightning Experience or the Salesforce mobile

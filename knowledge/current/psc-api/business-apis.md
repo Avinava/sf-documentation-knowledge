@@ -5,12 +5,10 @@ topic: business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.084Z
+lastCollected: 2026-04-07T18:39:03.313Z
 estimatedTokens: 258
-keywords: [Business, APIs, search, results, retrieve, unified, data]
+keywords: [Business, APIs, search, results, retrieve, unified]
 ---
-
-# Business APIs
 
 > Return search results or retrieve unified object search data.
 

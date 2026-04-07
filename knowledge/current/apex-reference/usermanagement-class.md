@@ -5,13 +5,11 @@ topic: usermanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.117Z
+lastCollected: 2026-04-07T18:36:01.375Z
 estimatedTokens: 12220
 namespace: System
-keywords: [UserManagement, manage, end, users, register, their, verification, verify, identity, remove, personal, Usage, clone, deregisterVerificationMethod, userId]
+keywords: [Examples, UserManagement, manage, end, users, register, their, verification, verify, identity, remove, personal, clone, deregisterVerificationMethod, userId, formatPhoneNumber, countryCode, phoneNumber, Phone, Number, Code, initPasswordlessLogin, initRegisterVerificationMethod, initSelfRegistration, user, initVerificationMethod, Email, actionName, extras, Salesforce, Authenticator, obfuscateUser, username, registerVerificationMethod, startUrl, sendAsyncEmailConfirmation, emailTemplateId, networkId, verifyPasswordlessLogin, identifier, verifyRegisterVerificationMethod, verifySelfRegistration, verifyVerificationMethod]
 ---
-
-# UserManagement Class
 
 > Contains methods to manage end users, for example, to register
             their verification methods, verify their identity, or remove their personal

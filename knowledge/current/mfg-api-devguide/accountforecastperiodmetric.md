@@ -5,12 +5,10 @@ topic: accountforecastperiodmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.096Z
+lastCollected: 2026-04-07T18:38:13.363Z
 estimatedTokens: 339
-keywords: [AccountForecastPeriodMetric, records, account, metrics, vary, period, specific, product, API, version, 47.0, later, Calls]
+keywords: [AccountForecastPeriodMetric, records, account, metrics, vary, period, specific, product, API, 47.0]
 ---
-
-# AccountForecastPeriodMetric
 
 > Represents records of account metrics which vary by period but are not specific
       for a product. This object is available in API version 47.0 and later.

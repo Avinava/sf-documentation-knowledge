@@ -5,12 +5,10 @@ topic: fleetasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.454Z
+lastCollected: 2026-04-07T18:38:13.747Z
 estimatedTokens: 543
-keywords: [FleetAsset, relationship, asset, fleet, belongs, API, version, 59.0, later, Calls]
+keywords: [FleetAsset, relationship, asset, fleet, belongs, API, 59.0]
 ---
-
-# FleetAsset
 
 > Represents the relationship between an asset and the fleet to which it
          belongs. This object is available in API version 59.0 and later.

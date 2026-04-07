@@ -5,12 +5,10 @@ topic: vpls360csrupdatepersonaldetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.515Z
+lastCollected: 2026-04-07T18:38:11.813Z
 estimatedTokens: 239
-keywords: [vpls360csr_UpdatePersonalDetails, Integration, Procedure, updates, phone, number, email, address, account, vpls360csr, _UpdatePersonalDetails, Sample, Input, Output, Calls]
+keywords: [vpls360csr_UpdatePersonalDetails, Integration, Procedure, updates, phone, number, email, address, account, vpls360csr, _UpdatePersonalDetails, Sample]
 ---
-
-# vpls360csr_UpdatePersonalDetails
 
 > This Integration Procedure updates the name, phone number,
     and email address for an account.

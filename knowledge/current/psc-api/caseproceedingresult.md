@@ -5,12 +5,10 @@ topic: caseproceedingresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.248Z
+lastCollected: 2026-04-07T18:39:06.312Z
 estimatedTokens: 310
-keywords: [CaseProceedingResult, outcome, legal, case, participant, API, version, 58.0, later]
+keywords: [CaseProceedingResult, outcome, legal, case, participant, API, 58.0]
 ---
-
-# CaseProceedingResult
 
 > Represents the outcome of a legal case for a participant.  This object
       is available in API version 58.0 and later.

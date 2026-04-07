@@ -5,12 +5,10 @@ topic: considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.710Z
+lastCollected: 2026-04-07T18:38:03.770Z
 estimatedTokens: 1118
-keywords: [Considerations, Lightning, Data, Service, powerful, simple, However, it’s, replacement, writing, own, access, code, keep, mind]
+keywords: [Considerations, Lightning, Service, powerful, simple, However, it’s, replacement, writing, own, code, keep, mind, Base]
 ---
-
-# Considerations
 
 > Lightning Data Service is powerful and simple to use. However, it’s not a complete
     replacement for writing your own data access code. Here are some considerations to keep in mind

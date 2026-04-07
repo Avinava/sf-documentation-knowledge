@@ -5,12 +5,10 @@ topic: surveyversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.167Z
+lastCollected: 2026-04-07T18:38:41.968Z
 estimatedTokens: 675
-keywords: [SurveyVersion, version, survey, Calls, Associated, Objects]
+keywords: [SurveyVersion, survey]
 ---
-
-# SurveyVersion
 
 > Represents a version of a survey.
 

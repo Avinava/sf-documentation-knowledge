@@ -5,12 +5,10 @@ topic: making-an-app-a-canvas-personal-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.530Z
+lastCollected: 2026-04-07T18:38:57.327Z
 estimatedTokens: 559
 keywords: [Making, App, Canvas, Personal, enable, process, involves, ensuring, org, preference, active, activating, setting, app's, Detail]
 ---
-
-# Making an App a Canvas Personal App
 
 > You can enable an app as a canvas personal app when you first create it, or make your
     existing canvas app a canvas personal app. This process involves ensuring that an org preference

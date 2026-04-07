@@ -5,12 +5,10 @@ topic: genaiplugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.053Z
+lastCollected: 2026-04-07T18:36:26.501Z
 estimatedTokens: 927
-keywords: [GenAiPlugin, agent, topic, category, actions, particular, job, agents, Parent, File, Suffix, Directory, Location, Version, Special]
+keywords: [GenAiPlugin, GenAiPluginFunctionDef, agent, topic, category, actions, particular, job, agents, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GenAiPlugin
 
 > Represents an agent topic, which is a category of actions related to a
 			particular job to be done by AI agents.

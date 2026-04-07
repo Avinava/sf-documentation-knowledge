@@ -5,12 +5,10 @@ topic: post-pushv1location
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.841Z
+lastCollected: 2026-04-07T18:40:15.964Z
 estimatedTokens: 596
-keywords: [POST, push, location, Creates, new, **Overview**, Usage]
+keywords: [POST, push, location, Creates, new, **Overview**]
 ---
-
-# POST /push/v1/location
 
 > Creates a new location.
 

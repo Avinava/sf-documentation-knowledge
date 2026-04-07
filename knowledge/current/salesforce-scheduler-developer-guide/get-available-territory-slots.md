@@ -5,12 +5,10 @@ topic: get-available-territory-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.449Z
+lastCollected: 2026-04-07T18:39:21.268Z
 estimatedTokens: 666
-keywords: [Territory, Slots, time, slot, period, day, appointment, scheduled, available-territory-slots, Connect, API, fetch, consolidated, availability, service]
+keywords: [Territory, Slots, time, slot, period, day, appointment, scheduled, available-territory-slots, Connect, API, fetch, consolidated, availability, service, resource, selected]
 ---
-
-# Get Available Territory Slots
 
 > A time slot represents a period in a day when an appointment can be scheduled. Use
       the available-territory-slots Connect API to fetch the

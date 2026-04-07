@@ -5,12 +5,10 @@ topic: promotionstageemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.402Z
+lastCollected: 2026-04-07T18:38:10.673Z
 estimatedTokens: 453
-keywords: [PromotionStageEmailTemplate, junction, promotion, stage, email, template, Promotions, Management, promotion's, launch, associated, Launched, customize, company’s, branding]
+keywords: [PromotionStageEmailTemplate, junction, promotion, stage, email, template, Promotions, Management, promotion's, launch, Launched, customize, company’s, branding, API, 60.0]
 ---
-
-# PromotionStageEmailTemplate
 
 > Represents a junction between a promotion stage and an email template. With
          Global Promotions Management, a promotion's launch email is associated with the promotion's

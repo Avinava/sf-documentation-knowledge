@@ -5,12 +5,10 @@ topic: scope3pcmtsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.198Z
+lastCollected: 2026-04-07T18:40:00.957Z
 estimatedTokens: 1066
-keywords: [Scope3PcmtSummary, amount, organization, spends, individual, procurement, category, Scope, summary, quantifies, effect, atmospheric, warming, represented, tonnes]
+keywords: [Scope3PcmtSummary, amount, organization, spends, individual, procurement, category, Scope, summary, quantifies, effect, atmospheric, warming, represented, tonnes, carbon, dioxide, equivalent, tCO₂e, matched, emission, factor, Item, record]
 ---
-
-# Scope3PcmtSummary
 
 > Represents the amount that the organization spends for an individual
          procurement category. Scope 3 procurement summary quantifies the effect on atmospheric

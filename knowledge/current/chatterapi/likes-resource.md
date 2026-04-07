@@ -5,12 +5,10 @@ topic: likes-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.353Z
+lastCollected: 2026-04-07T18:37:14.321Z
 estimatedTokens: 105
 keywords: [Likes, Resource]
 ---
-
-# Likes Resource
 
 > Information about the specified like.
 Also used to delete a like.

@@ -5,12 +5,10 @@ topic: get-apiv1datagraphmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.960Z
+lastCollected: 2026-04-07T18:35:51.800Z
 estimatedTokens: 65
-keywords: [api, dataGraph, metadata, data, graphs, their, primary, model, objects]
+keywords: [api, dataGraph, metadata, graphs, their, primary, model]
 ---
-
-# GET /api/v1/dataGraph/metadata
 
 > Request a list of all
     data

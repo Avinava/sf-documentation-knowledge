@@ -5,12 +5,10 @@ topic: commerce-subscription-cancellation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.135Z
+lastCollected: 2026-04-07T18:37:11.966Z
 estimatedTokens: 642
 keywords: [Commerce, Subscription, Cancellation, Cancel, active, API, registered, shoppers]
 ---
-
-# Commerce Subscription Cancellation
 
 > Cancel an active Commerce subscription. This API is available
     only to registered shoppers.

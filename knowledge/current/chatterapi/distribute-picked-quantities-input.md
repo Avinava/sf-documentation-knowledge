@@ -5,12 +5,10 @@ topic: distribute-picked-quantities-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.318Z
+lastCollected: 2026-04-07T18:37:08.129Z
 estimatedTokens: 154
-keywords: [Distribute, Picked, Quantities, Input, representation]
+keywords: [Distribute, Picked, Quantities]
 ---
-
-# Distribute Picked Quantities Input
 
 > Input representation to Distribute Picked
         Quantities.

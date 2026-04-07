@@ -5,12 +5,10 @@ topic: link-a-solution-to-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.217Z
+lastCollected: 2026-04-07T18:38:46.071Z
 estimatedTokens: 605
 keywords: [Link, Solution, AppExchange, Listing, tool, marketing, distributing, customers, Search, connected, solutions, select, want, add]
 ---
-
-# Link a Solution to Your AppExchange Listing
 
 > Your listing is a tool for marketing and distributing your solution to customers.
     Search your connected solutions and select the one that you want to add to your listing on

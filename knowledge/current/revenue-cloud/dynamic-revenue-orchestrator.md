@@ -5,12 +5,10 @@ topic: dynamic-revenue-orchestrator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.386Z
+lastCollected: 2026-04-07T18:35:47.421Z
 estimatedTokens: 617
-keywords: [Dynamic, Revenue, Orchestrator, visibility, product’s, fulfillment, journey, view, entire, design, includes, processes, order, decomposition, plans]
+keywords: [Dynamic, Revenue, Orchestrator, visibility, product’s, fulfillment, journey, view, entire, design, includes, processes, order, decomposition, plans, jeopardy, management]
 ---
-
-# Dynamic Revenue Orchestrator
 
 > Get visibility into a product’s fulfillment journey. Also, get a complete view of the
   entire fulfillment design that includes processes such as order decomposition, fulfillment plans,

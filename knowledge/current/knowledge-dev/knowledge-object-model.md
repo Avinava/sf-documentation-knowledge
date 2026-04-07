@@ -5,12 +5,10 @@ topic: knowledge-object-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.680Z
+lastCollected: 2026-04-07T18:37:53.972Z
 estimatedTokens: 2854
-keywords: [Knowledge, Model, slightly, different, feature, areas, because, abstract, Salesforce, objects, aren’t, directly, articles, contain, concrete]
+keywords: [Knowledge, Model, slightly, different, feature, areas, because, abstract, Salesforce, aren’t, directly, articles, contain, concrete, derivations, creating, Core, Diagram]
 ---
-
-# Knowledge Object Model
 
 > The Knowledge object model is slightly different from other feature areas because it
   exposes a set of abstract Salesforce objects that aren’t directly used when you create articles.

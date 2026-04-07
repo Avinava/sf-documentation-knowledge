@@ -5,12 +5,10 @@ topic: emssnreductiontargetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.624Z
+lastCollected: 2026-04-07T18:39:39.274Z
 estimatedTokens: 253
 keywords: [EmssnReductionTargetShare, Sharing, EmssnReductionTarget]
 ---
-
-# EmssnReductionTargetShare
 
 > Sharing for EmssnReductionTarget.
 

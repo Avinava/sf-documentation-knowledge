@@ -5,12 +5,10 @@ topic: connectapiactivationtargetinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.161Z
+lastCollected: 2026-04-07T18:36:04.381Z
 estimatedTokens: 383
-keywords: [ConnectApi.ActivationTargetInput, Input, activation, target]
+keywords: [ConnectApi.ActivationTargetInput, activation, target]
 ---
-
-# ConnectApi.ActivationTargetInput
 
 > Input details for the activation target.
 

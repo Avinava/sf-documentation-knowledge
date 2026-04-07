@@ -5,12 +5,10 @@ topic: before-you-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.814Z
+lastCollected: 2026-04-07T18:39:21.678Z
 estimatedTokens: 271
 keywords: [Start, scoping, rule, sure, needed, permissions, tools]
 ---
-
-# Before You Start
 
 > Before you create a scoping rule, make sure you that have the needed permissions and
     tools.

@@ -5,12 +5,10 @@ topic: ischtmlbrowser
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.399Z
+lastCollected: 2026-04-07T18:40:21.679Z
 estimatedTokens: 329
-keywords: [IsCHTMLBrowser, Function, Ordinal, retrieve, HTTP, **Overview**, **Syntax**, Usage, indicating, browser, device]
+keywords: [IsCHTMLBrowser, Function, Ordinal, retrieve, HTTP, **Overview**, **Syntax**, indicating, browser, device]
 ---
-
-# IsCHTMLBrowser
 
 > IsCHTMLBrowser(1)
 

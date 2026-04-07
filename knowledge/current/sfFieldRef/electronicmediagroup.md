@@ -5,12 +5,10 @@ topic: electronicmediagroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.117Z
+lastCollected: 2026-04-07T18:39:38.790Z
 estimatedTokens: 368
 keywords: [ElectronicMediaGroup, media, associate, product, category]
 ---
-
-# ElectronicMediaGroup
 
 > Represents the type of media that you can associate with a product or
          category.

@@ -5,12 +5,10 @@ topic: a-note-about-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.677Z
+lastCollected: 2026-04-07T18:40:13.602Z
 estimatedTokens: 440
 keywords: [Scratch, Orgs, developing, managed, package, recommend, org, source-driven, disposable, deployment, Salesforce, code, metadata]
 ---
-
-# A Note About Scratch Orgs
 
 > When developing your managed package, we recommend using a scratch org. The scratch org
   is a source-driven and disposable deployment of Salesforce code and metadata.

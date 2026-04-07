@@ -5,12 +5,10 @@ topic: inventorycntprodtbatchitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.670Z
+lastCollected: 2026-04-07T18:38:00.432Z
 estimatedTokens: 1345
-keywords: [InventoryCntProdtBatchItem, inventory, count, product, batch, location, item, child, assessment, API, version, 65.0, later, Calls]
+keywords: [InventoryCntProdtBatchItem, inventory, count, product, batch, location, item, child, assessment, API, 65.0]
 ---
-
-# InventoryCntProdtBatchItem
 
 > Represents the inventory count of a product batch at a location. The
          inventory count product batch item is a child object of inventory count assessment.

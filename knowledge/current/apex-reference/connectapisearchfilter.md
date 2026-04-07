@@ -5,12 +5,10 @@ topic: connectapisearchfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.138Z
+lastCollected: 2026-04-07T18:36:05.478Z
 estimatedTokens: 230
-keywords: [ConnectApi.SearchFilter, Filter, input, search]
+keywords: [ConnectApi.SearchFilter, Filter, search]
 ---
-
-# ConnectApi.SearchFilter
 
 > Filter input for object search.
 

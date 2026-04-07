@@ -5,12 +5,10 @@ topic: get-smsv1messagecontactmessageiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.096Z
+lastCollected: 2026-04-07T18:40:17.245Z
 estimatedTokens: 900
-keywords: [sms, messageContact, messageId, deliveries, tokenId, Retrieves, overall, delivery, status, message, contact, standard, codes, descriptions, universal]
+keywords: [sms, messageContact, messageId, deliveries, tokenId, Retrieves, overall, delivery, status, message, contact, standard, codes, descriptions, universal, regardless, messages, sent, API, order, received, carriers, Marketing, Cloud, receive, **Overview**]
 ---
-
-# GET /sms/v1/messageContact/{messageId}/deliveries/{tokenId}
 
 > Retrieves the overall delivery status of a message to a contact and the standard SMS status codes and descriptions. Standard SMS status codes are universal regardless of where messages are sent. This API returns status codes in the order received from carriers, so Marketing Cloud can receive codes a
 

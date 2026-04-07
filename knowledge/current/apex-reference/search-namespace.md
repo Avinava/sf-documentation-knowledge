@@ -5,13 +5,11 @@ topic: search-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.788Z
+lastCollected: 2026-04-07T18:36:15.100Z
 estimatedTokens: 670
 namespace: Search
 keywords: [Search, classes, getting, results, suggestion]
 ---
-
-# Search Namespace
 
 > The Search namespace provides classes for
         getting search results and suggestion results.

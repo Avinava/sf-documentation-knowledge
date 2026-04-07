@@ -5,12 +5,10 @@ topic: productitemshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.273Z
+lastCollected: 2026-04-07T18:39:55.845Z
 estimatedTokens: 248
 keywords: [ProductItemShare, Sharing, ProductItem]
 ---
-
-# ProductItemShare
 
 > Sharing for ProductItem.
 

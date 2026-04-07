@@ -5,12 +5,10 @@ topic: connectapifeeditemtopicpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:21.354Z
+lastCollected: 2026-04-07T18:36:06.707Z
 estimatedTokens: 191
-keywords: [ConnectApi.FeedItemTopicPage, Feed, item, topic]
+keywords: [ConnectApi.FeedItemTopicPage, item, topic]
 ---
-
-# ConnectApi.FeedItemTopicPage
 
 > Feed item topic page.
 

@@ -5,12 +5,10 @@ topic: categorizedcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.850Z
+lastCollected: 2026-04-07T18:37:46.423Z
 estimatedTokens: 953
-keywords: [CategorizedCareFeeAgreement, payment, terms, contracts, Categorized, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
+keywords: [CategorizedCareFeeAgreement, payment, terms, contracts, Categorized, Care, Fee, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# CategorizedCareFeeAgreement
 
 > Specifies the payment terms for contracts of Categorized Care Fee
          Agreement. This object is available in API version 54.0 and later with the Provider

@@ -5,12 +5,10 @@ topic: instant-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.855Z
+lastCollected: 2026-04-07T18:35:45.853Z
 estimatedTokens: 169
-keywords: [Instant, Pricing, Output, representation, containing, results]
+keywords: [Instant, Pricing, containing, results]
 ---
-
-# Instant Pricing
 
 > Output representation containing the results of the instant pricing request.
 

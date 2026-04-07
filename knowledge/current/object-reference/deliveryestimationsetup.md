@@ -5,12 +5,10 @@ topic: deliveryestimationsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.963Z
+lastCollected: 2026-04-07T18:38:29.842Z
 estimatedTokens: 1169
-keywords: [DeliveryEstimationSetup, configuration, options, commerce, delivery, service, offered, web, store, sales, channel, Includes, settings, location, group]
+keywords: [DeliveryEstimationSetup, configuration, options, commerce, delivery, service, offered, web, store, sales, channel, Includes, settings, location, group, fulfillment, time, API, 61.0]
 ---
-
-# DeliveryEstimationSetup
 
 > Shows the configuration options for the commerce delivery service
       offered through a web store or sales channel. Includes settings such as delivery location

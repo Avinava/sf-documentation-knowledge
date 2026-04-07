@@ -5,12 +5,10 @@ topic: process-program-rebate-type-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.947Z
+lastCollected: 2026-04-07T18:37:05.649Z
 estimatedTokens: 397
-keywords: [Process, Program, Rebate, Products, Insert, records, Product, inserted, participate, inclusion, exclusion, defined, Filter, option, REST]
+keywords: [Inputs, Process, Program, Rebate, Products, Insert, records, Product, inserted, participate, inclusion, exclusion, defined, Filter, option, REST, HTTP]
 ---
-
-# Process Program Rebate Type Products
 
 > Insert or delete the records in the Program Rebate Type Product
    object. The inserted products participate as inclusion or exclusion as defined in the

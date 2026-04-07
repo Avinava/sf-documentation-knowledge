@@ -5,12 +5,10 @@ topic: flowversionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.798Z
+lastCollected: 2026-04-07T18:38:32.784Z
 estimatedTokens: 2527
-keywords: [FlowVersionView, version, flow, definition, API, 46.0, later, Calls, Usage]
+keywords: [FlowVersionView, flow, definition, API, 46.0]
 ---
-
-# FlowVersionView
 
 > Represents the version of a flow definition. This object is
 		available in API version 46.0 and later.

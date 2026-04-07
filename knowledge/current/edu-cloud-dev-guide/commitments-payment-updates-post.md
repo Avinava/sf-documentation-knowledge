@@ -5,12 +5,10 @@ topic: commitments-payment-updates-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.159Z
+lastCollected: 2026-04-07T18:37:29.280Z
 estimatedTokens: 313
 keywords: [Commitments, Payment, Updates, POST, metadata, instruments, active, gift]
 ---
-
-# Commitments Payment Updates (POST)
 
 > Update the metadata for your payment instruments for all active gift
     commitments.

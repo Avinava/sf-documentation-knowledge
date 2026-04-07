@@ -5,12 +5,10 @@ topic: outreach-source-code-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.069Z
+lastCollected: 2026-04-07T18:37:29.180Z
 estimatedTokens: 107
-keywords: [Outreach, Source, Code, Input, representation, that's, associated]
+keywords: [Outreach, Source, Code, that's]
 ---
-
-# Outreach Source Code Details Input
 
 > Input representation of the outreach source code that's associated with the
     request.

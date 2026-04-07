@@ -5,12 +5,10 @@ topic: removing-soup-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.769Z
+lastCollected: 2026-04-07T18:40:26.999Z
 estimatedTokens: 555
-keywords: [Removing, Soup, Elements, Traditionally, SmartStore, let, remove, specifying, array, element, IDs, usually, run, preliminary, query]
+keywords: [Removing, Soup, Traditionally, SmartStore, let, remove, specifying, array, IDs, usually, run, preliminary, query, retrieve, candidate, call, performs, deletion, Mobile, SDK, 4.2, ups, game, adding, option, provide, deletes, satisfy, approach, delivers, performance, boost, because, operation, occur, Hybrid, Apps, Android, Native, iOS]
 ---
-
-# Removing Soup Elements
 
 > Traditionally, SmartStore methods let you remove soup
    elements by specifying an array of element IDs. To do so, you usually run a preliminary query to

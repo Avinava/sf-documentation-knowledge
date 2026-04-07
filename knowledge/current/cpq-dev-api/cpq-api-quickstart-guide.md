@@ -5,12 +5,10 @@ topic: cpq-api-quickstart-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.318Z
+lastCollected: 2026-04-07T18:37:27.322Z
 estimatedTokens: 90
-keywords: [CPQ, API, Quickstart, Review, examples, integrating, Salesforce, platform, Anonymous, Apex, NODEJS]
+keywords: [NODEJS, CPQ, API, Quickstart, Review, examples, integrating, Salesforce, platform, Anonymous, Apex]
 ---
-
-# CPQ API Quickstart Guide
 
 > Review examples of integrating Salesforce CPQ API with your platform.
 

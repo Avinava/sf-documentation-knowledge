@@ -5,12 +5,10 @@ topic: permissions-and-access-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.625Z
+lastCollected: 2026-04-07T18:39:22.513Z
 estimatedTokens: 821
-keywords: [Permissions, Access, Settings, User, profiles, permission, effectively, understand, differences]
+keywords: [Permissions, Settings, User, profiles, permission, effectively, understand, differences]
 ---
-
-# Permissions and Access Settings
 
 > User, object, and field permissions and access settings can be specified in profiles and
   permission sets. To use them effectively, understand the differences between profiles and

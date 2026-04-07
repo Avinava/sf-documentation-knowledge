@@ -5,12 +5,10 @@ topic: about-hybrid-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.692Z
+lastCollected: 2026-04-07T18:40:26.032Z
 estimatedTokens: 245
-keywords: [Hybrid, Development, JavaScript, browser, straightforward, you’ve, altered, code, merely, refresh, changes, Developing, apps, Mobile, SDK]
+keywords: [Hybrid, Development, JavaScript, browser, straightforward, you’ve, altered, code, merely, refresh, changes, Developing, apps, Mobile, SDK, container, requires, recompile, rebuild, reason]
 ---
-
-# About Hybrid Development
 
 > JavaScript development in a browser is straightforward. After you’ve altered the code, you merely
             refresh the browser to see your changes. Developing hybrid apps with the Mobile SDK

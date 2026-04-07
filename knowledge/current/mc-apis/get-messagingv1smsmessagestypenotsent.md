@@ -5,12 +5,10 @@ topic: get-messagingv1smsmessagestypenotsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.192Z
+lastCollected: 2026-04-07T18:40:17.347Z
 estimatedTokens: 392
-keywords: [messaging, sms, messages, type=notSent, paginated, were, sent, ordered, oldest, newest, **Overview**, Usage, HTTP, Responses]
+keywords: [messaging, sms, messages, type=notSent, paginated, were, sent, ordered, oldest, newest, **Overview**, HTTP, Responses]
 ---
-
-# GET /messaging/v1/sms/messages/?type=notSent
 
 > Gets a paginated list of messages that were not sent, ordered from oldest to newest.
 

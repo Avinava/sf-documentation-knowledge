@@ -5,13 +5,11 @@ topic: issuecreditmemo-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:29.958Z
+lastCollected: 2026-04-07T18:36:15.268Z
 estimatedTokens: 264
 namespace: IssueCreditMemo
 keywords: [IssueCreditMemo, classes, apply, credit, memos, against, invoices, invoice, lines, dispute, adjustments]
 ---
-
-# IssueCreditMemo Namespace
 
 > The IssueCreditMemo namespace provides classes to create and apply credit memos
         against invoices or invoice lines based on dispute adjustments.

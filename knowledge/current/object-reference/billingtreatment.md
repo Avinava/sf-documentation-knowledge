@@ -5,12 +5,10 @@ topic: billingtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.771Z
+lastCollected: 2026-04-07T18:38:26.751Z
 estimatedTokens: 890
-keywords: [BillingTreatment, how, Subscription, Management, bills, order, item, Exclude, Billing, whether, invoiced, Child, treatment, items, control]
+keywords: [BillingTreatment, how, Subscription, Management, bills, order, item, Exclude, Billing, whether, invoiced, Child, treatment, items, control, much, item's, balance, invoice, across, subscription's, lifecycle, treatments, assigned, parent, policy's, Selection, API, 55.0]
 ---
-
-# BillingTreatment
 
 > Defines how Subscription Management bills an order item. The Exclude From
          Billing field controls whether the order item is invoiced. Child billing treatment items

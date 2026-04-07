@@ -5,12 +5,10 @@ topic: datakitdeployevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.560Z
+lastCollected: 2026-04-07T18:39:37.175Z
 estimatedTokens: 415
-keywords: [DataKitDeployEvent, data, kit, deployment, event, notifies, subscribers, status, component, API, version, 61.0, later]
+keywords: [DataKitDeployEvent, kit, deployment, event, notifies, subscribers, status, API, 61.0]
 ---
-
-# DataKitDeployEvent
 
 > Represents a data kit deployment event that notifies subscribers of the
 			status of the data kit component deployment. This object is available in API version

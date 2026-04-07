@@ -5,12 +5,9 @@ topic: custom-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.207Z
+lastCollected: 2026-04-07T18:39:02.415Z
 estimatedTokens: 103
-keywords: [Custom, Output, representation]
 ---
-
-# Custom Field
 
 > Output representation of the custom fields.
 

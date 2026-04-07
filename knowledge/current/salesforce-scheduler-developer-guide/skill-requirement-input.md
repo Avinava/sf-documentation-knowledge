@@ -5,12 +5,10 @@ topic: skill-requirement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.402Z
+lastCollected: 2026-04-07T18:39:20.110Z
 estimatedTokens: 76
-keywords: [Skill, Requirement, Input]
+keywords: [Skill, Requirement]
 ---
-
-# Skill Requirement Input
 
 > Skill requirement.
 

@@ -5,12 +5,10 @@ topic: changerequestrelatedissuehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.221Z
+lastCollected: 2026-04-07T18:39:33.631Z
 estimatedTokens: 277
-keywords: [ChangeRequestRelatedIssueHistory, History, tracked, ChangeRequestRelatedIssue]
+keywords: [ChangeRequestRelatedIssueHistory, tracked, ChangeRequestRelatedIssue]
 ---
-
-# ChangeRequestRelatedIssueHistory
 
 > History for tracked fields of ChangeRequestRelatedIssue.
 

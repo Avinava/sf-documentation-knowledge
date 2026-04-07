@@ -5,12 +5,10 @@ topic: outreachsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.214Z
+lastCollected: 2026-04-07T18:39:51.628Z
 estimatedTokens: 263
-keywords: [OutreachSummaryHistory, History, tracked, OutreachSummary]
+keywords: [OutreachSummaryHistory, tracked, OutreachSummary]
 ---
-
-# OutreachSummaryHistory
 
 > History for tracked fields of OutreachSummary.
 

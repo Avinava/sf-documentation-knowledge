@@ -5,12 +5,10 @@ topic: filtered-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.286Z
+lastCollected: 2026-04-07T18:36:51.620Z
 estimatedTokens: 452
 keywords: [Filtered, Subscriptions, Reduce, number, PushTopic, event, notifications, specifying, record, filter, subscribe, channel]
 ---
-
-# Filtered Subscriptions
 
 > Reduce the number of PushTopic event notifications by specifying record fields to filter
     on when you subscribe to a channel.

@@ -5,12 +5,10 @@ topic: gameapiclient
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.192Z
+lastCollected: 2026-04-07T18:38:08.457Z
 estimatedTokens: 216
 keywords: [GameAPIClient, creates, retrofit, instance, invoke, REST, APIs, getOkHttpClientBuilder, getNetworkClient]
 ---
-
-# GameAPIClient
 
 > The GameAPIClient class creates a retrofit
     instance to invoke REST APIs.

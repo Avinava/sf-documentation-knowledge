@@ -5,12 +5,10 @@ topic: 446000-446999-double-opt-in-sms-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.826Z
+lastCollected: 2026-04-07T18:40:14.843Z
 estimatedTokens: 220
 keywords: [446000-446999, Double, Opt, SMS, Messages]
 ---
-
-# 446000-446999 Double Opt In SMS Messages
 
 # 446000-446999 Double Opt In SMS Messages
 

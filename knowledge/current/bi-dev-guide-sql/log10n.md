@@ -5,12 +5,10 @@ topic: log10n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.277Z
+lastCollected: 2026-04-07T18:37:01.887Z
 estimatedTokens: 78
 keywords: [log10, base, logarithm, number, any, positive, non-zero, numeric, range, 1.797e308]
 ---
-
-# log10(n)
 
 > Returns the base 10 logarithm of a number n. The value
    n can be any positive, non-zero numeric value in the range 0 <

@@ -5,12 +5,10 @@ topic: survey-questionnaire
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:23.584Z
+lastCollected: 2026-04-07T18:39:17.228Z
 estimatedTokens: 272
 keywords: [Survey, Questionnaire, basic, Builder, prepare, various, questions]
 ---
-
-# Survey Questionnaire
 
 > Create a basic survey by using Survey Builder and prepare the questionnaire by
       using various types of survey questions.

@@ -5,12 +5,10 @@ topic: continuous-integration-using-circleci
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:12.920Z
+lastCollected: 2026-04-07T18:40:07.857Z
 estimatedTokens: 296
-keywords: [Continuous, Integration, CircleCI, commonly, tool, integrates, version, control, system, push, incremental, updates, environments, specify, cloud-based]
+keywords: [Continuous, Integration, CircleCI, commonly, tool, integrates, control, system, push, incremental, updates, environments, specify, cloud-based, on-premise, instructions, demonstrate, how, GitHub, Dev, Hub, org]
 ---
-
-# Continuous Integration Using CircleCI
 
 > CircleCI is a commonly used integration tool that integrates with your existing
         version control system to push incremental updates to the environments you specify. CircleCI

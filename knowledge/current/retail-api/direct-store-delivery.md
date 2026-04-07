@@ -5,12 +5,10 @@ topic: direct-store-delivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.353Z
+lastCollected: 2026-04-07T18:39:10.838Z
 estimatedTokens: 109
-keywords: [Direct, Store, Delivery, DSD, supply, chain, model, manufacturer, sells, goods, directly, retailers, process, orders, payments]
+keywords: [Direct, Store, Delivery, DSD, supply, chain, model, manufacturer, sells, goods, directly, retailers, process, orders, payments, deliveries]
 ---
-
-# Direct Store Delivery
 
 > Direct Store Delivery (DSD) is a supply chain model where a manufacturer sells goods
         directly to retailers. You can process orders, payments, deliveries, and returns by using

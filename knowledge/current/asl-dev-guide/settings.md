@@ -5,12 +5,10 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.431Z
+lastCollected: 2026-04-07T18:36:51.787Z
 estimatedTokens: 78
 keywords: [Settings, organization, control, non-qualifying, points, balance, members, credited]
 ---
-
-# Settings
 
 > Represents the organization settings to control the update of non-qualifying points
     balance for members when points are credited.

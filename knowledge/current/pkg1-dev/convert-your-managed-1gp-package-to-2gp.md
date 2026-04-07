@@ -5,12 +5,10 @@ topic: convert-your-managed-1gp-package-to-2gp
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.676Z
+lastCollected: 2026-04-07T18:38:54.033Z
 estimatedTokens: 1830
-keywords: [Convert, Managed, 1GP, Package, 2GP, version, ensure, development, environment]
+keywords: [Convert, Managed, 1GP, Package, 2GP, ensure, development, environment]
 ---
-
-# Convert Your Managed 1GP Package to 2GP
 
 > Before you convert your managed 1GP package version, ensure your development environment
   is set up.

@@ -5,12 +5,10 @@ topic: testing-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.303Z
+lastCollected: 2026-04-07T18:36:18.532Z
 estimatedTokens: 814
 keywords: [Testing, Apex, framework, write, unit, tests, run, check, test, results, code, coverage]
 ---
-
-# Testing Apex
 
 > Apex provides a testing framework that allows you to write unit tests, run your
         tests, check test results, and have code coverage results.

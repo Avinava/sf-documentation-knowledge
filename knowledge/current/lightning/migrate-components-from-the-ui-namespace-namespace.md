@@ -5,13 +5,11 @@ topic: migrate-components-from-the-ui-namespace-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.655Z
+lastCollected: 2026-04-07T18:38:05.878Z
 estimatedTokens: 1637
 namespace: If
-keywords: [Migrate, Components, you’re, replace, their, lightning, counterparts, Complex, Interactive, Input, Control, Visual]
+keywords: [Migrate, you’re, replace, their, lightning, counterparts, Complex, Interactive, Control, Visual]
 ---
-
-# Migrate Components from the  ui Namespace Namespace
 
 > If you’re using components in the ui namespace, replace them with
     their lightning namespace counterparts.

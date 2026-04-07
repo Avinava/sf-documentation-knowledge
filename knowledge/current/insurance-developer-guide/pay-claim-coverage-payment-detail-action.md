@@ -5,12 +5,10 @@ topic: pay-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.152Z
+lastCollected: 2026-04-07T18:37:48.888Z
 estimatedTokens: 247
-keywords: [Pay, Claim, Coverage, Payment, Detail, Action, Initiate, record, track, policy, limit, consumption, payout, status, Paid]
+keywords: [Inputs, Outputs, Pay, Claim, Coverage, Payment, Detail, Action, Initiate, record, track, policy, limit, consumption, payout, status, Paid, REST, HTTP]
 ---
-
-# Pay Claim Coverage Payment Detail Action
 
 > Initiate the payment for a claim coverage payment detail record, track the policy limit
   consumption for the payout, and update the status of the claim coverage payment detail record to

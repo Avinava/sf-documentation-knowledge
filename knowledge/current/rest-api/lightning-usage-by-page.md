@@ -5,12 +5,10 @@ topic: lightning-usage-by-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:35.548Z
+lastCollected: 2026-04-07T18:36:20.786Z
 estimatedTokens: 536
-keywords: [Lightning, Usage, standard, pages, users, viewed, frequently, Experience, resource, REST, API, version, 44.0, later, Considerations]
+keywords: [Considerations, Lightning, standard, pages, users, viewed, frequently, Experience, resource, REST, API, 44.0]
 ---
-
-# Lightning Usage by Page
 
 > Represents standard pages users viewed most
   frequently in Lightning Experience. This resource is available in REST API version 44.0

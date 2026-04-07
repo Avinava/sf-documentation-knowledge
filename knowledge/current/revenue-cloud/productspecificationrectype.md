@@ -5,12 +5,10 @@ topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.532Z
+lastCollected: 2026-04-07T18:35:47.569Z
 estimatedTokens: 603
-keywords: [ProductSpecificationRecType, association, product, specification, record, defined, determines, sold, commercially, Parent, File, Suffix, Directory, Location, Version, relationship, industry-specific, specifications, API, version]
+keywords: [ProductSpecificationRecType, association, product, specification, record, defined, determines, sold, commercially, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, relationship, industry-specific, specifications, API, 60.0, SOAP, REST]
 ---
-
-# ProductSpecificationRecType
 
 > Represents the association of a product specification type with record types
          defined on the Product object. The product specification record type also determines if the

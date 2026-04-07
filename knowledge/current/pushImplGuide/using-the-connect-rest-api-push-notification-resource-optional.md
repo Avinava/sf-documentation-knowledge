@@ -5,12 +5,10 @@ topic: using-the-connect-rest-api-push-notification-resource-optional
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.024Z
+lastCollected: 2026-04-07T18:39:09.348Z
 estimatedTokens: 405
-keywords: [Connect, REST, API, Push, Notification, Resource, prefer, send, notifications, looping, Apex, engine—in, words, want, simple]
+keywords: [Connect, REST, API, Push, Notification, Resource, prefer, send, notifications, looping, Apex, engine—in, words, want, simple, message, external, client, app, mobile, device, another—use, useful]
 ---
-
-# Using the Connect REST API Push Notification Resource (Optional)
 
 > If you prefer to send push notifications without looping through the Apex engine—in other
       words, if you just want to push a simple message from an external client app on one mobile

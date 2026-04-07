@@ -5,13 +5,11 @@ topic: describetabresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.113Z
+lastCollected: 2026-04-07T18:36:03.325Z
 estimatedTokens: 1580
 namespace: Schema
-keywords: [DescribeTabResult, tab, metadata, standard, custom, app, Salesforce, user, Usage, getColors, getIconUrl, getIcons, getLabel, getMiniIconUrl, getSobjectName]
+keywords: [DescribeTabResult, tab, metadata, standard, app, Salesforce, user, getColors, getIconUrl, getIcons, getLabel, getMiniIconUrl, getSobjectName, getUrl, isCustom]
 ---
-
-# DescribeTabResult Class
 
 > Contains tab metadata information for
 a tab in a standard or custom app available in the Salesforce user interface.

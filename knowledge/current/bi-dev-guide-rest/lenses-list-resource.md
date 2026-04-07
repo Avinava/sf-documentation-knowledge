@@ -5,12 +5,10 @@ topic: lenses-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.767Z
+lastCollected: 2026-04-07T18:36:56.304Z
 estimatedTokens: 709
-keywords: [Lenses, Resource, Analytics, creates, lens, URL, Formats, Version, Postman, Components, HTTP, POST]
+keywords: [Formats, Lenses, Resource, Analytics, creates, lens, URL, Postman, HTTP, POST]
 ---
-
-# Lenses List Resource
 
 > Returns a list of Analytics
       lenses or creates a lens.

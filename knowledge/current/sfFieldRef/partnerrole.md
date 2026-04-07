@@ -5,12 +5,10 @@ topic: partnerrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.402Z
+lastCollected: 2026-04-07T18:39:51.816Z
 estimatedTokens: 283
 keywords: [PartnerRole, role, account, Partner, consultant, supplier]
 ---
-
-# PartnerRole
 
 > Represents a role for an account Partner,
    such as consultant, supplier, and so on.

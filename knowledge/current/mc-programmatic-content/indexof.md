@@ -5,12 +5,10 @@ topic: indexof
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.393Z
+lastCollected: 2026-04-07T18:40:21.674Z
 estimatedTokens: 152
-keywords: [IndexOf, Function, Ordinal, Variable, analyze, Character, position, **Overview**, **Syntax**, Usage]
+keywords: [IndexOf, Function, Ordinal, Variable, analyze, Character, position, **Overview**, **Syntax**]
 ---
-
-# IndexOf
 
 > IndexOf(1, 2)
 

@@ -5,12 +5,10 @@ topic: discovery-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.572Z
+lastCollected: 2026-04-07T18:39:18.256Z
 estimatedTokens: 207
-keywords: [Discovery, Input, Einstein, prediction, node, recipe]
+keywords: [Discovery, Einstein, prediction, node, recipe]
 ---
-
-# Discovery Parameters Input
 
 > The parameters for an Einstein Discovery prediction node in a recipe.
 

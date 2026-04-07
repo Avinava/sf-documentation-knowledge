@@ -5,12 +5,10 @@ topic: product-category-detail-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.887Z
+lastCollected: 2026-04-07T18:37:22.000Z
 estimatedTokens: 76
 keywords: [Product, Category, Detail, Collection]
 ---
-
-# Product Category Detail Collection
 
 > Collection of product category details.
 

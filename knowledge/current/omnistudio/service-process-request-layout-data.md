@@ -5,12 +5,10 @@ topic: service-process-request-layout-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.776Z
+lastCollected: 2026-04-07T18:36:40.483Z
 estimatedTokens: 107
-keywords: [Service, Process, Layout, Data, output]
+keywords: [Service, Process, Layout]
 ---
-
-# Service Process Request Layout Data
 
 > Service process layout data output.
 

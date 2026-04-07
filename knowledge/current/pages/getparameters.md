@@ -5,12 +5,10 @@ topic: getparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.339Z
+lastCollected: 2026-04-07T18:38:48.303Z
 estimatedTokens: 133
-keywords: [getParameters, map, query, PageReference, POST, included, key, Usage]
+keywords: [getParameters, map, query, PageReference, POST, included, key]
 ---
-
-# getParameters()
 
 > Returns a map of the query string parameters for the PageReference; both POST and GET
         parameters are included. The key string contains the name of the parameter, while the value

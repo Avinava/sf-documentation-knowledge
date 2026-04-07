@@ -5,12 +5,10 @@ topic: priceadjustmentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:46.903Z
+lastCollected: 2026-04-07T18:38:38.264Z
 estimatedTokens: 1244
-keywords: [PriceAdjustmentSchedule, series, discounts, offered, depending, product's, configuration, quantity, they’re, purchased, combination, products, API, version, 47.0]
+keywords: [PriceAdjustmentSchedule, series, discounts, offered, depending, product's, configuration, quantity, they’re, purchased, combination, products, API, 47.0, Code, Sample]
 ---
-
-# PriceAdjustmentSchedule
 
 > Represents a series of discounts offered depending on your product's
 			configuration, quantity, and when they’re purchased in combination with other

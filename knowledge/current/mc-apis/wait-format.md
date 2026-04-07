@@ -5,12 +5,10 @@ topic: wait-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.849Z
+lastCollected: 2026-04-07T18:40:21.120Z
 estimatedTokens: 1069
-keywords: [Wait, activity, indicate, period, time, journey, pause, continuing, process, subsequent, outcome, cannot, custom, #journey-specification-format, Specification]
+keywords: [Wait, activity, indicate, period, time, journey, pause, continuing, process, subsequent, outcome, cannot, #journey-specification-format, Specification, Helpful, Hints, Sample, Compatibility, Timezones, Activities, Items]
 ---
-
-# Wait Format
 
 > The wait activity is used to indicate a period of time that a journey should pause before continuing on to process the subsequent outcome activity. This activity type cannot be used in a custom activity.
 

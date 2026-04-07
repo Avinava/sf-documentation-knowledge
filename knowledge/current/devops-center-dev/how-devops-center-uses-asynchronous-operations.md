@@ -5,12 +5,10 @@ topic: how-devops-center-uses-asynchronous-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.397Z
+lastCollected: 2026-04-07T18:37:28.426Z
 estimatedTokens: 929
-keywords: [How, DevOps, Center, Uses, Asynchronous, Operations, custom, objects, model, live, org, installed, managed, package, performs]
+keywords: [How, DevOps, Center, Uses, Asynchronous, Operations, model, live, org, installed, managed, package, performs, happen, outside]
 ---
-
-# How DevOps Center Uses Asynchronous Operations
 
 > The custom objects that make up the DevOps Center object model live in the org in which you installed the DevOps Center managed package. But many of the operations that DevOps Center performs happen outside this org.
 

@@ -5,13 +5,11 @@ topic: bucketfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.717Z
+lastCollected: 2026-04-07T18:36:02.923Z
 estimatedTokens: 3191
 namespace: Reports
-keywords: [BucketField, work, bucket, including, bucketed, bucketType, devloperName, label, nullTreatedAsZero, otherBucketLabel, sourceColumnName, getBucketType, getDevloperName, getLabel, getNullTreatedAsZero]
+keywords: [BucketField, work, bucket, including, bucketed, bucketType, devloperName, label, nullTreatedAsZero, otherBucketLabel, sourceColumnName, getBucketType, getDevloperName, getLabel, getNullTreatedAsZero, getOtherBucketLabel, getSourceColumnName, getValues, setBucketType, setDevloperName, setLabel, setNullTreatedAsZero, setOtherBucketLabel, setSourceColumnName, setValues, toString]
 ---
-
-# BucketField Class
 
 > Contains methods and constructors to work with information about a
       bucket field, including bucket type, name, and bucketed values.

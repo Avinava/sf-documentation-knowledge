@@ -5,12 +5,10 @@ topic: contract-renewer-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.259Z
+lastCollected: 2026-04-07T18:37:27.268Z
 estimatedTokens: 608
 keywords: [Contract, Renewer, API, Receive, CPQ, quote, renewal, quotes, REST, Examples, Apex]
 ---
-
-# Contract Renewer API
 
 > Receive a CPQ contract in a request, and return quote information for one or more
         renewal quotes.

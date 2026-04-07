@@ -5,12 +5,10 @@ topic: record-level-locking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.779Z
+lastCollected: 2026-04-07T18:37:28.868Z
 estimatedTokens: 421
-keywords: [Record-Level, Locking, customers, regularly, upload, large, amounts, data, service, maintain, integrations, systems, their, scheduled, batches]
+keywords: [Record-Level, Locking, customers, regularly, upload, large, amounts, service, maintain, integrations, systems, their, scheduled, batches, continuously, real, time, transactional, Salesforce, employs, database, preserve, integrity, updates]
 ---
-
-# Record-Level Locking
 
 > Many customers regularly upload large amounts of data to the service, and maintain
       integrations with other systems that update their data in scheduled batches or continuously in

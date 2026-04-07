@@ -5,12 +5,10 @@ topic: partyfinclassetaddlowner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.768Z
+lastCollected: 2026-04-07T18:39:52.185Z
 estimatedTokens: 406
-keywords: [PartyFinclAssetAddlOwner, additional, owner, financial, asset, API, version, 60.0, later]
+keywords: [PartyFinclAssetAddlOwner, additional, owner, financial, asset, API, 60.0]
 ---
-
-# PartyFinclAssetAddlOwner
 
 > Represents an additional owner of a financial asset. This object is
       available in API version 60.0 and later.

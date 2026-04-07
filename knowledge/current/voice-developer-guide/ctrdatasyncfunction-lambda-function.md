@@ -5,12 +5,10 @@ topic: ctrdatasyncfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.918Z
+lastCollected: 2026-04-07T18:40:12.861Z
 estimatedTokens: 1183
-keywords: [CTRDataSyncFunction, Lambda, Function, contact, record, previously, trace, CTR, created, Amazon, automatically, syncs, data, VoiceCall, finalizes]
+keywords: [CTRDataSyncFunction, Lambda, Function, contact, record, previously, trace, CTR, created, Amazon, automatically, syncs, VoiceCall, finalizes, multiple, Service, Cloud, Voice, customers, Connect, instance, connecting, Kinesis, stream]
 ---
-
-# CTRDataSyncFunction Lambda Function
 
 > After the contact record (previously called contact trace record or CTR) is created in Amazon, this
       Lambda function automatically syncs contact record data to the VoiceCall object. It finalizes the values

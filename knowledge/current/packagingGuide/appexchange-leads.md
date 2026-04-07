@@ -5,12 +5,10 @@ topic: appexchange-leads
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.201Z
+lastCollected: 2026-04-07T18:38:46.052Z
 estimatedTokens: 437
-keywords: [AppExchange, Leads, enable, lead, collection, listing, customer, interacts, records, enabled, Web-to-Lead, Salesforce, org, deliver, settings]
+keywords: [AppExchange, Leads, enable, lead, collection, listing, customer, interacts, records, enabled, Web-to-Lead, Salesforce, org, deliver, settings, prevent, delivered]
 ---
-
-# AppExchange Leads
 
 > When you enable lead collection for your AppExchange listing and a customer interacts
   with the listing, AppExchange records a lead. If you enabled Web-to-Lead in your Salesforce org,

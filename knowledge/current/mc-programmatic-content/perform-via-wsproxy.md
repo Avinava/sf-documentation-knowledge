@@ -5,12 +5,10 @@ topic: perform-via-wsproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:27.425Z
+lastCollected: 2026-04-07T18:40:22.846Z
 estimatedTokens: 359
 keywords: [Perform, via, WSProxy, action, item, several, items, call, performItem, performBatch, functions, Content, Check]
 ---
-
-# Perform via WSProxy
 
 > To perform an action on a single item or several items of the same type in a single call, use the performItem and performBatch functions.
 

@@ -5,12 +5,10 @@ topic: promotionproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.325Z
+lastCollected: 2026-04-07T18:39:15.856Z
 estimatedTokens: 463
-keywords: [PromotionProduct, Associate, promotion, product, API, version, 47.0, later, Calls, Associated, Objects]
+keywords: [PromotionProduct, Associate, promotion, product, API, 47.0]
 ---
-
-# PromotionProduct
 
 > Associate a promotion with a product. This object is available in API
     version 47.0 and later.

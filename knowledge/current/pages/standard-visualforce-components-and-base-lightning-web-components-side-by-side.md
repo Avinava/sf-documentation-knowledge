@@ -5,12 +5,10 @@ topic: standard-visualforce-components-and-base-lightning-web-components-side-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.310Z
+lastCollected: 2026-04-07T18:38:51.563Z
 estimatedTokens: 759
-keywords: [Standard, Visualforce, Components, Base, Lightning, Web, Side, equivalent, component, specific]
+keywords: [Standard, Visualforce, Base, Lightning, Web, Side, equivalent, specific]
 ---
-
-# Standard Visualforce Components and Base Lightning Web Components Side by Side
 
 > Use this table to find the equivalent base Lightning web component for a specific
   standard Visualforce component.

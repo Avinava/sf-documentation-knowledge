@@ -5,12 +5,10 @@ topic: loyaltymembershiplifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.841Z
+lastCollected: 2026-04-07T18:38:10.159Z
 estimatedTokens: 821
-keywords: [LoyaltyMembershipLifecycle, member's, lifecycle, loyalty, program, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyMembershipLifecycle, member's, lifecycle, loyalty, program, API, 57.0]
 ---
-
-# LoyaltyMembershipLifecycle
 
 > Represents information about a member's lifecycle in the loyalty
          program. This object is available in API version 57.0 and later.

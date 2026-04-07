@@ -5,12 +5,10 @@ topic: files-connect-repository-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.053Z
+lastCollected: 2026-04-07T18:37:12.952Z
 estimatedTokens: 83
 keywords: [Files, Connect, Repository, Folder]
 ---
-
-# Files Connect Repository Folder
 
 > Get information about a
       repository folder.

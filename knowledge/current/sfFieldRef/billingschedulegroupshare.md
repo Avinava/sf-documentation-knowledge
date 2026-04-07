@@ -5,12 +5,10 @@ topic: billingschedulegroupshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.518Z
+lastCollected: 2026-04-07T18:39:29.674Z
 estimatedTokens: 253
 keywords: [BillingScheduleGroupShare, Sharing, BillingScheduleGroup]
 ---
-
-# BillingScheduleGroupShare
 
 > Sharing for BillingScheduleGroup.
 

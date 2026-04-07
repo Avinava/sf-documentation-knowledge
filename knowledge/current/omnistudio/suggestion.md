@@ -5,12 +5,10 @@ topic: suggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.847Z
+lastCollected: 2026-04-07T18:36:40.553Z
 estimatedTokens: 104
-keywords: [Suggestion, Output, representation, score, improvement, suggestions]
+keywords: [Suggestion, score, improvement, suggestions]
 ---
-
-# Suggestion
 
 > Output representation of the score improvement
     suggestions.

@@ -5,12 +5,10 @@ topic: personexaminationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.400Z
+lastCollected: 2026-04-07T18:39:53.945Z
 estimatedTokens: 361
-keywords: [PersonExaminationFeed, Feed, tracking, PersonExamination]
+keywords: [PersonExaminationFeed, PersonExamination]
 ---
-
-# PersonExaminationFeed
 
 > Feed tracking for PersonExamination.
 

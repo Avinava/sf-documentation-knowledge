@@ -5,12 +5,10 @@ topic: advanced-property-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.152Z
+lastCollected: 2026-04-07T18:36:54.518Z
 estimatedTokens: 88
-keywords: [Advanced, Input, pair]
+keywords: [Advanced, pair]
 ---
-
-# Advanced Property Value Input
 
 > An advanced property name and value pair.
 

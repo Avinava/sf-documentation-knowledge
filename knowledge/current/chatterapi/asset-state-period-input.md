@@ -5,12 +5,10 @@ topic: asset-state-period-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.719Z
+lastCollected: 2026-04-07T18:37:07.440Z
 estimatedTokens: 300
-keywords: [Asset, State, Period, Input, consumed, Customer, Lifecycle, Management, current, quantity, amount, monthly, recurring, revenue, lifecycle-managed]
+keywords: [Asset, State, Period, consumed, Customer, Lifecycle, Management, current, quantity, amount, monthly, recurring, revenue, lifecycle-managed, periods, represent, creation, changes, cancellations, date, reaches, start, asset’s, updated, basis, now-current]
 ---
-
-# Asset State Period Input
 
 > Asset state period input consumed by Customer Asset Lifecycle Management. The asset
     state period represents the current quantity, amount, and monthly recurring revenue for a

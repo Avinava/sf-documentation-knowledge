@@ -5,12 +5,10 @@ topic: ampscript-and-the-soap-web-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.550Z
+lastCollected: 2026-04-07T18:40:21.836Z
 estimatedTokens: 113
-keywords: [AMPscript, SOAP, Web, Service, API, functions, calls, necessary, functionality, tightly, integrate, content, messages, Prerequisites]
+keywords: [Prerequisites, AMPscript, SOAP, Web, Service, API, functions, necessary, functionality, tightly, integrate, content, messages]
 ---
-
-# AMPscript and the SOAP Web Service API
 
 > Use AMPscript functions to make API calls when necessary. This functionality allows you to tightly integrate your content and messages with the web service SOAP API.
 

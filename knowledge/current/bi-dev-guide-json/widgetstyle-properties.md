@@ -6,13 +6,10 @@ topic: widgetstyle-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.643Z
+lastCollected: 2026-04-07T18:36:54.015Z
 estimatedTokens: 395
-keywords: [widgetStyle, key, border, color, background, widget, specify, attributes, two, levels, dashboard, widgets, under, gridLayouts, specific]
+keywords: [widgetStyle, key, border, color, background, widget, specify, attributes, two, levels, dashboard, widgets, under, gridLayouts, specific, setting, overrides, settings]
 ---
-
-# widgetStyle
-    Properties
 
 > The widgetStyle key contains properties that set
     the border type, border color, and background color of the widget. You can specify these

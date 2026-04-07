@@ -5,12 +5,10 @@ topic: commitment-payment-updates-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.705Z
+lastCollected: 2026-04-07T18:38:20.430Z
 estimatedTokens: 237
-keywords: [Commitment, Payment, Updates, Input, representation, gift, instrument]
+keywords: [Commitment, Payment, Updates, gift, instrument]
 ---
-
-# Commitment Payment Updates Request Input
 
 > Input representation of the details of the gift commitment and payment
     instrument.

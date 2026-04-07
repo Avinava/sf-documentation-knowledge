@@ -5,12 +5,10 @@ topic: combine-data-from-multiple-data-streams-with-cogroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.832Z
+lastCollected: 2026-04-07T18:37:00.346Z
 estimatedTokens: 617
-keywords: [Combine, Data, Multiple, Streams, cogroup, two, stream, least, common, Inner]
+keywords: [Combine, Multiple, Streams, cogroup, two, stream, least, common, Inner]
 ---
-
-# Combine Data from Multiple Data Streams with cogroup
 
 > You can combine data from two or more data streams into a single data stream using
                   cogroup. The data streams must have at least

@@ -5,12 +5,10 @@ topic: landing-feed-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.145Z
+lastCollected: 2026-04-07T18:37:10.822Z
 estimatedTokens: 337
-keywords: [Landing, Feed, Resource, elements]
+keywords: [Landing, Resource]
 ---
-
-# Landing Feed Resource
 
 > Get information about the landing feed and a page of feed
       elements.

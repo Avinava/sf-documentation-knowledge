@@ -5,12 +5,10 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.665Z
+lastCollected: 2026-04-07T18:36:30.075Z
 estimatedTokens: 646
-keywords: [Territory2Type, metadata, category, territories, Sales, Every, Territory2, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
+keywords: [Territory2Type, metadata, category, territories, Sales, Every, Territory2, extends, inherits, fullName, enabled, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Territory2Type
 
 > Represents the metadata for a category of territories
       in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales

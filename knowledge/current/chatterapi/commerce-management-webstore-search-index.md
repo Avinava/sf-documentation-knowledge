@@ -5,12 +5,10 @@ topic: commerce-management-webstore-search-index
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.804Z
+lastCollected: 2026-04-07T18:37:12.685Z
 estimatedTokens: 73
 keywords: [Commerce, Management, Webstore, Search, Index]
 ---
-
-# Commerce Management Webstore Search, Index
 
 > Get a search
     index.

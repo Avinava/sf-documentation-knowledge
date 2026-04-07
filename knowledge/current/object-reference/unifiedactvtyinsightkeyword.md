@@ -5,12 +5,10 @@ topic: unifiedactvtyinsightkeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.354Z
+lastCollected: 2026-04-07T18:38:43.106Z
 estimatedTokens: 361
-keywords: [UnifiedActvtyInsightKeyword, keyword, communication, triggered, activity, insight, reports, dashboards, Winter, ’24, release, later, Calls, Special, Access]
+keywords: [UnifiedActvtyInsightKeyword, keyword, communication, triggered, activity, insight, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedActvtyInsightKeyword
 
 > Represents a keyword in a communication that triggered the activity
          insight.  This object is available for reports and dashboards in the Winter ’24

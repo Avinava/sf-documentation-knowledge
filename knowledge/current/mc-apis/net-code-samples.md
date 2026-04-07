@@ -5,12 +5,10 @@ topic: net-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.785Z
+lastCollected: 2026-04-07T18:40:17.964Z
 estimatedTokens: 1774
 keywords: [NET, Code, Samples, written, help, developers, work, Marketing, Cloud, SOAP, API, Why]
 ---
-
-# .NET Code Samples
 
 > This page contains code samples written to help .NET/C# developers work with the Marketing Cloud SOAP API.
 

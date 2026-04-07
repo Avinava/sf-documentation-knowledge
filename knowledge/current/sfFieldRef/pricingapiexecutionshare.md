@@ -5,12 +5,10 @@ topic: pricingapiexecutionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.166Z
+lastCollected: 2026-04-07T18:39:54.719Z
 estimatedTokens: 252
 keywords: [PricingApiExecutionShare, Sharing, PricingApiExecution]
 ---
-
-# PricingApiExecutionShare
 
 > Sharing for PricingApiExecution.
 

@@ -5,12 +5,10 @@ topic: assessmentquestionresponsefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.364Z
+lastCollected: 2026-04-07T18:39:27.347Z
 estimatedTokens: 394
-keywords: [AssessmentQuestionResponseFeed, Feed, tracking, AssessmentQuestionResponse]
+keywords: [AssessmentQuestionResponseFeed, AssessmentQuestionResponse]
 ---
-
-# AssessmentQuestionResponseFeed
 
 > Feed tracking for AssessmentQuestionResponse.
 

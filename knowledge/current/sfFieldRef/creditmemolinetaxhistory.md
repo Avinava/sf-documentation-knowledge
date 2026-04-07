@@ -5,12 +5,10 @@ topic: creditmemolinetaxhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.021Z
+lastCollected: 2026-04-07T18:39:36.572Z
 estimatedTokens: 267
-keywords: [CreditMemoLineTaxHistory, History, tracked, CreditMemoLineTax]
+keywords: [CreditMemoLineTaxHistory, tracked, CreditMemoLineTax]
 ---
-
-# CreditMemoLineTaxHistory
 
 > History for tracked fields of CreditMemoLineTax.
 

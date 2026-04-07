@@ -5,12 +5,10 @@ topic: workgoalshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.931Z
+lastCollected: 2026-04-07T18:38:44.735Z
 estimatedTokens: 698
-keywords: [WorkGoalShare, sharing, entry, WorkGoal, deprecated, API, version, 35.0, GoalShare, query, WDC, goals, Calls]
+keywords: [WorkGoalShare, sharing, entry, WorkGoal, deprecated, API, 35.0, GoalShare, query, WDC, goals]
 ---
-
-# WorkGoalShare
 
 > Represents a sharing entry on a WorkGoal
 			object. This object has been deprecated as of API version 35.0. Use the GoalShare

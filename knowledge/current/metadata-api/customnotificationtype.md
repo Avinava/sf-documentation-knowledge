@@ -5,12 +5,10 @@ topic: customnotificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.833Z
+lastCollected: 2026-04-07T18:36:24.174Z
 estimatedTokens: 1232
-keywords: [CustomNotificationType, metadata, associated, custom, notification, Declarative, File, Suffix, Directory, Location, Version, CustomNotificationActionGroup, Beta, CustomNotificationActionDefinition, Sample]
+keywords: [CustomNotificationType, CustomNotificationActionDefinition, metadata, notification, Declarative, File, Suffix, Directory, Location, CustomNotificationActionGroup, Beta, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomNotificationType
 
 > Represents the metadata associated with a custom
             notification type.

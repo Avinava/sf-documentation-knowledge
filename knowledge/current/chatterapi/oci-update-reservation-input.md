@@ -5,12 +5,10 @@ topic: oci-update-reservation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.585Z
+lastCollected: 2026-04-07T18:37:09.322Z
 estimatedTokens: 324
-keywords: [OCI, Reservation, Input, Data, Omnichannel, Inventory, item, reservations]
+keywords: [OCI, Reservation, Omnichannel, Inventory, item, reservations]
 ---
-
-# OCI Update Reservation Input
 
 > Data to update one or more Omnichannel Inventory item reservations.
 

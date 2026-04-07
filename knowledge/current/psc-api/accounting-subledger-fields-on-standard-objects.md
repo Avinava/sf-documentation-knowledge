@@ -5,12 +5,10 @@ topic: accounting-subledger-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.634Z
+lastCollected: 2026-04-07T18:39:00.754Z
 estimatedTokens: 146
-keywords: [Accounting, Subledger, Standard, Objects, Salesforce, orgs, enabled]
+keywords: [Accounting, Subledger, Standard, Salesforce, orgs, enabled]
 ---
-
-# Accounting Subledger Fields on Standard Objects
 
 > This section lists Accounting Subledger fields available with standard Salesforce
   objects. These fields are available only in orgs where Accounting Subledger is enabled.

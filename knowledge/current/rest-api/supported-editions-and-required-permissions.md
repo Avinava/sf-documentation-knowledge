@@ -5,12 +5,10 @@ topic: supported-editions-and-required-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.940Z
+lastCollected: 2026-04-07T18:36:20.159Z
 estimatedTokens: 601
-keywords: [Editions, Permissions, access, Salesforce, org, data, API, user, enabled, There’s, Edition, supports, multiple, ways, grant]
+keywords: [Editions, Permissions, Salesforce, org, API, user, enabled, There’s, Edition, supports, multiple, ways, grant, permission]
 ---
-
-# Supported Editions and Required Permissions
 
 > To access your Salesforce org and data using the Salesforce API, you need both an org
     and a user with API access enabled. There’s more than one Salesforce Edition that supports API

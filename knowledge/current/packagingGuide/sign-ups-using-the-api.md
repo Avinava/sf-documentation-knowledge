@@ -5,12 +5,10 @@ topic: sign-ups-using-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.901Z
+lastCollected: 2026-04-07T18:38:47.853Z
 estimatedTokens: 641
-keywords: [Sign-Ups, API, calls, SignupRequest, prospective, customers]
+keywords: [Sign-Ups, API, SignupRequest, prospective, customers]
 ---
-
-# Sign-Ups Using the API
 
 > Use API calls to the SignupRequest object to create sign-ups for prospective
     customers.

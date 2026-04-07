@@ -5,12 +5,10 @@ topic: geocountry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.840Z
+lastCollected: 2026-04-07T18:39:42.481Z
 estimatedTokens: 319
-keywords: [GeoCountry, country, API, version, 56.0, later]
+keywords: [GeoCountry, country, API, 56.0]
 ---
-
-# GeoCountry
 
 > Represents a country. This object is available in API version 56.0 and
       later.

@@ -5,12 +5,10 @@ topic: upload-job-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.944Z
+lastCollected: 2026-04-07T18:35:51.785Z
 estimatedTokens: 385
-keywords: [Upload, Job, Data, Uploads, CSV, process, consist, files, uploaded, close, indicate, ready, processed, File, Layouts]
+keywords: [Upload, Job, Uploads, CSV, process, consist, files, uploaded, close, indicate, ready, processed, File, Layouts, Operation]
 ---
-
-# Upload Job Data
 
 > Uploads CSV data for the job to process. A job can consist of up to 100 data files.
   After all of the data has been uploaded, close the job to indicate the data is ready to be

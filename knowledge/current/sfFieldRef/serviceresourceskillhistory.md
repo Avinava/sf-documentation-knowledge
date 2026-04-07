@@ -5,12 +5,10 @@ topic: serviceresourceskillhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.881Z
+lastCollected: 2026-04-07T18:40:01.646Z
 estimatedTokens: 268
-keywords: [ServiceResourceSkillHistory, History, tracked, ServiceResourceSkill]
+keywords: [ServiceResourceSkillHistory, tracked, ServiceResourceSkill]
 ---
-
-# ServiceResourceSkillHistory
 
 > History for tracked fields of ServiceResourceSkill.
 

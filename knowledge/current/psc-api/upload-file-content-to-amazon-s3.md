@@ -5,12 +5,10 @@ topic: upload-file-content-to-amazon-s3
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:11.971Z
+lastCollected: 2026-04-07T18:39:04.984Z
 estimatedTokens: 169
-keywords: [Upload, File, Content, Amazon, code, snippet, below, LWC, component, add, Lightning, Single-Part, Multi-Part]
+keywords: [Upload, File, Content, Amazon, code, snippet, below, LWC, add, Lightning, Single-Part, Multi-Part]
 ---
-
-# Upload File Content to Amazon S3
 
 > Use the code snippet below to create an LWC component to upload the file and add it to a
   Lightning page.

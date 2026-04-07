@@ -5,12 +5,10 @@ topic: cart-item-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.228Z
+lastCollected: 2026-04-07T18:37:17.303Z
 estimatedTokens: 467
 keywords: [Cart, Item, Product, summary]
 ---
-
-# Cart Item Product
 
 > Product summary for a cart item.
 

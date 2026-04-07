@@ -5,12 +5,10 @@ topic: objectpermissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.290Z
+lastCollected: 2026-04-07T18:39:49.783Z
 estimatedTokens: 387
-keywords: [ObjectPermissions, enabled, permissions, parent, PermissionSet, API, version, 24.0, later]
+keywords: [ObjectPermissions, enabled, permissions, parent, PermissionSet, API, 24.0]
 ---
-
-# ObjectPermissions
 
 > Represents the enabled object permissions for
             the parent PermissionSet.

@@ -5,12 +5,10 @@ topic: time-zone-date-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.269Z
+lastCollected: 2026-04-07T18:37:00.838Z
 estimatedTokens: 665
-keywords: [Time, Zone, Date, Functions, enable, feature, DateTime, DateOnly, access, user, New, York, runs, SAQL, query]
+keywords: [Time, Zone, Date, Functions, enable, feature, DateTime, DateOnly, user, New, York, runs, SAQL, query, they, Eastern, Standard]
 ---
-
-# Time Zone Date Functions
 
 > When you enable the time zone feature, you can use the fields of the DateTime and DateOnly type to
   access date information in the specified time zone. For example, if a user in New York runs a SAQL

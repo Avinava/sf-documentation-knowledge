@@ -5,12 +5,10 @@ topic: custompermissiondependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.248Z
+lastCollected: 2026-04-07T18:39:36.828Z
 estimatedTokens: 322
-keywords: [CustomPermissionDependency, dependency, two, custom, permissions, permission, requires, enable, another, API, version, 32.0, later]
+keywords: [CustomPermissionDependency, dependency, two, permissions, permission, requires, enable, another, API, 32.0]
 ---
-
-# CustomPermissionDependency
 
 > Represents the dependency between two custom permissions when one
 			custom permission requires that you enable another custom permission. This object

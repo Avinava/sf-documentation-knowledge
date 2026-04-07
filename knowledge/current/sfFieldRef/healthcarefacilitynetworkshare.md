@@ -5,12 +5,10 @@ topic: healthcarefacilitynetworkshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.043Z
+lastCollected: 2026-04-07T18:39:43.664Z
 estimatedTokens: 255
 keywords: [HealthcareFacilityNetworkShare, Sharing, HealthcareFacilityNetwork]
 ---
-
-# HealthcareFacilityNetworkShare
 
 > Sharing for HealthcareFacilityNetwork.
 

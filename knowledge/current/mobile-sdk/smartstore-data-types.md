@@ -5,12 +5,10 @@ topic: smartstore-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.615Z
+lastCollected: 2026-04-07T18:40:26.863Z
 estimatedTokens: 311
-keywords: [SmartStore, Data, any, database, soups, mirror, underlying, SQLite]
+keywords: [SmartStore, any, database, soups, mirror, underlying, SQLite]
 ---
-
-# SmartStore Data Types
 
 > Like any database, SmartStore defines a set of data
   types that you use to create soups. SmartStore data types mirror the

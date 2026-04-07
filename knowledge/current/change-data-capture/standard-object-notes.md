@@ -5,12 +5,10 @@ topic: standard-object-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.742Z
+lastCollected: 2026-04-07T18:37:05.459Z
 estimatedTokens: 525
-keywords: [Standard, Notes, characteristics, change, events, objects, included, event, messages]
+keywords: [Standard, Notes, characteristics, change, events, included, event, messages]
 ---
-
-# Standard Object Notes
 
 > Learn about the characteristics of change events for some standard objects and the
     fields included in the event messages.

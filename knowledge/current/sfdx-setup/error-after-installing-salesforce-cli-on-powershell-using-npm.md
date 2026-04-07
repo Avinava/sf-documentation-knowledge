@@ -5,12 +5,10 @@ topic: error-after-installing-salesforce-cli-on-powershell-using-npm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.444Z
+lastCollected: 2026-04-07T18:40:09.392Z
 estimatedTokens: 209
-keywords: [Error, Installing, Salesforce, CLI, PowerShell, npm, Windows, security, policy, whenever, try, execute, any, command, Windows-specific]
+keywords: [Error, Installing, Salesforce, CLI, PowerShell, npm, Windows, security, policy, whenever, try, execute, any, command, Windows-specific, installer, works, correctly]
 ---
-
-# Error After Installing Salesforce CLI on PowerShell Using npm
 
 > After installing Salesforce CLI on Windows PowerShell using npm, you get a security
     policy error whenever you try to execute any CLI command. Installing with the Windows-specific

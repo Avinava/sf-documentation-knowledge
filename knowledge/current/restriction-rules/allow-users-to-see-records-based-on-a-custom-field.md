@@ -5,12 +5,10 @@ topic: allow-users-to-see-records-based-on-a-custom-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.883Z
+lastCollected: 2026-04-07T18:39:10.325Z
 estimatedTokens: 198
-keywords: [Allow, Users, Records, Custom, restriction, rule, high-volume, contracts, user's, department, matches, contract's, uses, Department__c, appropriate]
+keywords: [Allow, Users, Records, restriction, rule, high-volume, contracts, user's, department, matches, contract's, uses, Department__c, appropriate, Apex, Process, Builder, workflows, flows, Tooling, API, Metadata]
 ---
-
-# Allow Users to See Records Based on a Custom Field
 
 > This restriction rule allows high-volume users to see only the contracts where the
         user's department matches the contract's department. This rule uses a custom field,

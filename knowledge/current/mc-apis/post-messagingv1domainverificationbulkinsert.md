@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationbulkinsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.470Z
+lastCollected: 2026-04-07T18:40:17.645Z
 estimatedTokens: 462
-keywords: [POST, messaging, domainverification, bulk, insert, Queue, Address, Management, either, array, email, addresses, data, extension, column]
+keywords: [POST, messaging, domainverification, bulk, insert, Queue, Address, Management, either, array, email, addresses, extension, column, **Overview**, Marketing, Cloud, Permissions, Blob, Items]
 ---
-
-# POST /messaging/v1/domainverification/bulk/insert
 
 > Queue a bulk insert to the From Address Management table using either an array of email addresses or a data extension and column reference.
 

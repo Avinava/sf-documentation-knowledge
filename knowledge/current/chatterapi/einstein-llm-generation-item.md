@@ -5,12 +5,10 @@ topic: einstein-llm-generation-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:31.412Z
+lastCollected: 2026-04-07T18:37:18.509Z
 estimatedTokens: 193
 keywords: [Einstein, LLM, Generation, Item, Generated, provider]
 ---
-
-# Einstein LLM Generation Item
 
 > Generated response from the LLM provider.
 

@@ -5,12 +5,10 @@ topic: customer-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.205Z
+lastCollected: 2026-04-07T18:40:16.343Z
 estimatedTokens: 214
-keywords: [Customer, Key, keys, allow, identify, search, asset, data, known, unique, across, enterprise, typically, stored, database]
+keywords: [Customer, Key, keys, allow, identify, search, asset, known, unique, across, enterprise, typically, stored, database, don't, provide, GUID, created, Sample, Items]
 ---
-
-# Customer Key
 
 > Customer keys allow you to identify and search for an asset by a data value known only by you. A customer key is a unique value across your enterprise that is typically stored in your database. The customer key is not a required field, and if you don't provide a value, a unique GUID will be created 
 

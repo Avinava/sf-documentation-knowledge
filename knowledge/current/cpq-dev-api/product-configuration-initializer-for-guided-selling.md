@@ -5,12 +5,10 @@ topic: product-configuration-initializer-for-guided-selling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.533Z
+lastCollected: 2026-04-07T18:37:27.541Z
 estimatedTokens: 262
-keywords: [Product, Configuration, Initializer, Guided, Selling, uses, custom, user-provided, APEX, select, options, results, prompts, works, standard]
+keywords: [Product, Configuration, Initializer, Guided, Selling, uses, user-provided, APEX, select, options, results, prompts, works, standard, option, attributes]
 ---
-
-# Product Configuration Initializer for Guided Selling
 
 > The product configuration initializer uses a custom user-provided APEX page to select options and
   set field values based on the results of guided selling prompts. It works only for standard

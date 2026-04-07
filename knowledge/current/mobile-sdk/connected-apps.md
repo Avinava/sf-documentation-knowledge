@@ -5,12 +5,10 @@ topic: connected-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.987Z
+lastCollected: 2026-04-07T18:40:25.357Z
 estimatedTokens: 248
-keywords: [Connected, Apps, app, integrates, application, Salesforce, APIs, standard, SAML, OAuth, protocols, authenticate, provide, sign-on, tokens]
+keywords: [Connected, Apps, app, integrates, application, Salesforce, APIs, standard, SAML, OAuth, protocols, authenticate, provide, sign-on, tokens, addition, capabilities]
 ---
-
-# Connected Apps
 
 > A connected app integrates an application with Salesforce using APIs. Connected apps use
          standard SAML and OAuth protocols to authenticate, provide single sign-on, and provide

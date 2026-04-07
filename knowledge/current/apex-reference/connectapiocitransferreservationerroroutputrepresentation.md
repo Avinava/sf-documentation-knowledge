@@ -5,12 +5,10 @@ topic: connectapiocitransferreservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.152Z
+lastCollected: 2026-04-07T18:36:10.452Z
 estimatedTokens: 117
 keywords: [fulfill, inventory, reservation]
 ---
-
-# ConnectApi.OCITransferReservationErrorOutputRepresentation
 
 > Response to a request to fulfill one inventory
     reservation.

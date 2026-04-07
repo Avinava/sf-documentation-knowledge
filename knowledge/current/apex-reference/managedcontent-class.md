@@ -5,13 +5,11 @@ topic: managedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.014Z
+lastCollected: 2026-04-07T18:35:58.288Z
 estimatedTokens: 19548
 namespace: ConnectApi
-keywords: [ManagedContent, Clone, managed, content, digital, asset, management, DAM, provider, instance, replace, variants, channels, space, providers]
+keywords: [ManagedContent, Clone, managed, content, digital, asset, management, DAM, provider, instance, replace, variants, channels, space, providers, targets, folders, shared, Publish, unpublish, cloneManagedContentDocument, contentKeyOrId, ManagedContentCloneInputParam, API, Requires, Chatter, createManagedContent, ManagedContentInputParam, createManagedContentProvider, providerInstanceInput, createManagedContentWithMedia, contentData, deleteManagedContentProviderInstance, providerInstanceId, deleteManagedContentVariant, variantId, getAllContent, channelId, pageParam, pageSize, language, managedContentType, includeMetadata, startDate, endDate, Guest, Users, showAbsoluteUrl, getAllDeliveryChannels, getAllManagedContent, communityId, getContentByContentKeys, contentKeys, getContentByIds, managedContentIds, getManagedContentByContentKeys, getManagedContentByIds, getManagedContentByTopics, topics, getManagedContentByTopicsAndContentKeys, getManagedContentByTopicsAndIds, getManagedContentProviders, getManagedContentProvidersForSpace, contentSpaceId, getMCSFolderShares, folderId, getMCSFolderShareTargets, patchMCSFolderShares, mcsFolderShareCollectionUpdateInput, publishInput, replaceManagedContentVariant, ManagedContentVariantInputParam, replaceManagedContentVariantWithMedia, unpublishInput, updateManagedContentProviderInstance, Retired, getManagedContentSpace]
 ---
-
-# ManagedContent Class
 
 > Clone managed content. Create and get managed content. Create, delete, or update a
   digital asset management (DAM) provider instance. Delete and replace variants. Get channels. Get a

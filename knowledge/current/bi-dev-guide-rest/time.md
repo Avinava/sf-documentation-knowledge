@@ -5,12 +5,10 @@ topic: time
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.317Z
+lastCollected: 2026-04-07T18:36:57.871Z
 estimatedTokens: 126
 keywords: [Time, something, happen, usually, relation, Analytics, schedule]
 ---
-
-# Time
 
 > The time at which something should happen, usually in relation to an Analytics
   schedule.

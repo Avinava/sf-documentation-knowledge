@@ -5,12 +5,10 @@ topic: refund-instructions-hint-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:35.561Z
+lastCollected: 2026-04-07T18:37:22.670Z
 estimatedTokens: 167
-keywords: [Refund, Instructions, Hint, Output, showing, sequence, credits, refunds, were, issued, customer]
+keywords: [Refund, Instructions, Hint, showing, sequence, credits, refunds, were, issued, customer]
 ---
-
-# Refund Instructions Hint Output
 
 > Instructions showing the sequence in which credits and refunds were issued to the
     customer.

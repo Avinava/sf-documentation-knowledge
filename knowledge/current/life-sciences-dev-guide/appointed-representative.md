@@ -5,12 +5,10 @@ topic: appointed-representative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.204Z
+lastCollected: 2026-04-07T18:37:55.667Z
 estimatedTokens: 108
 keywords: [Appointed, Representative, Person, member]
 ---
-
-# Appointed Representative
 
 > Person who is an appointed representative for the
     member.

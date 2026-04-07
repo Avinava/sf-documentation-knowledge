@@ -5,12 +5,10 @@ topic: mobilepush-and-journey-builder-for-apps-sdks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:29.276Z
+lastCollected: 2026-04-07T18:40:24.723Z
 estimatedTokens: 418
 keywords: [MobilePush, Journey, Builder, Apps, SDKs, Refer, linked, GitHub, repositories, current, documentation, iOS, Android, SDK]
 ---
-
-# MobilePush and Journey Builder for Apps SDKs
 
 > Refer to our linked GitHub repositories for current documentation on the iOS and Android Journey Builder for Apps SDK for use with MobilePush.
 

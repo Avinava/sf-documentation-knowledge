@@ -5,12 +5,10 @@ topic: cookiename-value-path-maxage-issecure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.255Z
+lastCollected: 2026-04-07T18:38:48.214Z
 estimatedTokens: 191
 keywords: [Cookie, path, maxAge, isSecure, Creates, new, instance, age, secure, setting]
 ---
-
-# Cookie(name, value, path, maxAge, isSecure)
 
 > Creates a new instance of the Cookie class using the specified name, value, path, age,
 and the secure setting.

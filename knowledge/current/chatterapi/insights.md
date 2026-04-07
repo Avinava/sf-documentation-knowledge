@@ -5,12 +5,10 @@ topic: insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.719Z
+lastCollected: 2026-04-07T18:37:19.869Z
 estimatedTokens: 150
 keywords: [Insights, Insight, business, objective, goal]
 ---
-
-# Insights
 
 > Insight details for a business objective, or goal.
 

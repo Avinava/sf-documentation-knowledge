@@ -5,12 +5,10 @@ topic: commerceentitlementbuyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.201Z
+lastCollected: 2026-04-07T18:39:34.652Z
 estimatedTokens: 250
 keywords: [CommerceEntitlementBuyerGroup, entitlement, policy, buyer, group]
 ---
-
-# CommerceEntitlementBuyerGroup
 
 > Represents the entitlement policy for a buyer group.
 

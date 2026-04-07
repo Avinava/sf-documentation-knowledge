@@ -6,13 +6,10 @@ topic: build-a-self-service-quote-and-policy-creation-functionality-for-communit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.136Z
+lastCollected: 2026-04-07T18:37:53.424Z
 estimatedTokens: 686
-keywords: [Build, Self-service, Quote, Policy, Creation, Functionality, Community, Portal, Users, user, journey, policyholder, partner, logs, customer]
+keywords: [Build, Self-service, Quote, Policy, Creation, Functionality, Community, Portal, Users, user, journey, policyholder, partner, logs, customer, select, product, view, price, configure, attributes, creates, proceeds, issue]
 ---
-
-# Build a Self-service Quote and Policy Creation Functionality for Community Portal
-    Users
 
 > This user journey applies when a user, such as a policyholder or partner, logs into a
     customer community portal to select a product, view its price, and configure its attributes. The

@@ -5,13 +5,11 @@ topic: functioninvocationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.201Z
+lastCollected: 2026-04-07T18:38:33.299Z
 estimatedTokens: 1309
 namespace: NamespacePrefix
-keywords: [FunctionInvocationRequest, invocation, Salesforce, Function, API, version, 51.0, later, Calls, Usage]
+keywords: [FunctionInvocationRequest, invocation, Salesforce, Function, API, 51.0]
 ---
-
-# FunctionInvocationRequest
 
 > Represents invocation information for a Salesforce Function. This object
     is available in API version 51.0 and later.

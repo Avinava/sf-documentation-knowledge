@@ -5,12 +5,10 @@ topic: bulk-record-alerts-person-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.285Z
+lastCollected: 2026-04-07T18:37:34.863Z
 estimatedTokens: 252
 keywords: [Bulk, Record, Alerts, Person, Accounts, Retrieve]
 ---
-
-# Bulk Record Alerts (Person Accounts)
 
 > Retrieve bulk record alerts.
 

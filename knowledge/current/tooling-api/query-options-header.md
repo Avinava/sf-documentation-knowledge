@@ -5,12 +5,10 @@ topic: query-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:45.833Z
+lastCollected: 2026-04-07T18:36:31.225Z
 estimatedTokens: 187
 keywords: [Query, Options, results, batch, size, resource]
 ---
-
-# Query Options Header
 
 > Specifies options used in a query, such as the query results batch
    size. Use this request header with the Query resource.

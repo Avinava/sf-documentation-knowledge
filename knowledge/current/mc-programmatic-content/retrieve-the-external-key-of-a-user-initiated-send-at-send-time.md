@@ -5,12 +5,10 @@ topic: retrieve-the-external-key-of-a-user-initiated-send-at-send-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.362Z
+lastCollected: 2026-04-07T18:40:23.792Z
 estimatedTokens: 952
 keywords: [Retrieve, External, Key, User-Initiated, Send, Time, sample, code, include, attribute, URL, subscriber]
 ---
-
-# Retrieve the External Key of a User-Initiated Send at Send Time
 
 > Use this sample code to retrieve the external key of a user-initiated send at send time. For example, you can use this information to include the attribute as a parameter in a URL for use by the subscriber.
 

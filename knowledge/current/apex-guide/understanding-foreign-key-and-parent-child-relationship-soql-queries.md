@@ -6,13 +6,10 @@ topic: understanding-foreign-key-and-parent-child-relationship-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:34.016Z
+lastCollected: 2026-04-07T18:36:19.239Z
 estimatedTokens: 174
-keywords: [Understanding, Foreign, Key, Parent-Child, Relationship, SOQL, Queries, SELECT, statement, query, any, including, record, joins, included]
+keywords: [Understanding, Foreign, Key, Parent-Child, Relationship, SOQL, Queries, SELECT, statement, query, any, including, record, joins, included, resulting, sObjects, referenced, normal, notation]
 ---
-
-# Understanding Foreign Key and Parent-Child
-Relationship SOQL Queries
 
 > The SELECT statement of
 a SOQL query can be any valid SOQL statement, including foreign key

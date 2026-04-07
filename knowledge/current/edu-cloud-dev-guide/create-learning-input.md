@@ -5,12 +5,10 @@ topic: create-learning-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.981Z
+lastCollected: 2026-04-07T18:37:29.094Z
 estimatedTokens: 373
-keywords: [Learning, Input, representation, objects, outcomes, foundations]
+keywords: [Learning, outcomes, foundations]
 ---
-
-# Create Learning Input
 
 > Input representation of the details to create learning objects, related outcomes, and
     foundations.

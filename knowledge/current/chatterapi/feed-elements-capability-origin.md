@@ -5,12 +5,10 @@ topic: feed-elements-capability-origin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.757Z
+lastCollected: 2026-04-07T18:37:13.717Z
 estimatedTokens: 217
-keywords: [Feed, Elements, Capability, Origin, Access, element, created, action]
+keywords: [Capability, Origin, created, action]
 ---
-
-# Feed Elements Capability, Origin
 
 > Access the origin capability of a feed element. If a feed element
       has this capability, it was created by a feed action.

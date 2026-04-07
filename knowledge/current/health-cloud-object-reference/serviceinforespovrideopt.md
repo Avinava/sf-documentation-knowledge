@@ -5,12 +5,10 @@ topic: serviceinforespovrideopt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.375Z
+lastCollected: 2026-04-07T18:37:47.988Z
 estimatedTokens: 768
-keywords: [ServiceInfoRespOvrideOpt, possible, reasons, overriding, service, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ServiceInfoRespOvrideOpt, possible, reasons, overriding, service, API, 63.0]
 ---
-
-# ServiceInfoRespOvrideOpt
 
 > Represents the possible reasons for overriding a service information
          response. This object is available in API version 63.0 and later.

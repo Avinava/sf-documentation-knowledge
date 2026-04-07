@@ -5,12 +5,10 @@ topic: life-sciences-cloud-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.897Z
+lastCollected: 2026-04-07T18:37:57.442Z
 estimatedTokens: 1168
-keywords: [Life, Sciences, Cloud, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
+keywords: [Life, Sciences, Cloud, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
-
-# Life Sciences Cloud Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that
         you can access through REST or SOAP. Tooling API’s SOQL capabilities for many metadata types

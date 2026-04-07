@@ -5,12 +5,10 @@ topic: guided-selection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:58.401Z
+lastCollected: 2026-04-07T18:35:43.299Z
 estimatedTokens: 1225
-keywords: [Guided, Selection, Input, representation]
+keywords: [Guided, Selection]
 ---
-
-# Guided Selection Input
 
 > Input representation of the guided selection details.
 

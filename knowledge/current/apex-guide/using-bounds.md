@@ -5,12 +5,10 @@ topic: using-bounds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.369Z
+lastCollected: 2026-04-07T18:36:16.585Z
 estimatedTokens: 269
-keywords: [Bounds, region, delimited, anchoring, means, line, anchors, match, boundaries, moved, start, end, input, specify, whether]
+keywords: [Bounds, region, delimited, anchoring, means, line, anchors, match, boundaries, moved, start, end, specify, whether, uses, useAncho]
 ---
-
-# Using Bounds
 
 > By default, a region is delimited by anchoring bounds, which means that the line anchors (such as ^ or $) match at the region boundaries, even if the region boundaries
 have been moved from the start and end of the input string. You can

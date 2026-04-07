@@ -5,12 +5,10 @@ topic: profileskillshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.564Z
+lastCollected: 2026-04-07T18:38:39.028Z
 estimatedTokens: 732
-keywords: [ProfileSkillShare, sharing, entry, ProfileSkill, Calls, Usage]
+keywords: [ProfileSkillShare, sharing, entry, ProfileSkill]
 ---
-
-# ProfileSkillShare
 
 > Represents a sharing entry on a ProfileSkill.
 

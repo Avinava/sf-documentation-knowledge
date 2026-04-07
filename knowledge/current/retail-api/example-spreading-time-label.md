@@ -5,12 +5,10 @@ topic: example-spreading-time-label
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.260Z
+lastCollected: 2026-04-07T18:39:11.816Z
 estimatedTokens: 43
 keywords: [Spreading, Time, Label, integration, metadata, JSON, datasource, AccountAndPromotionMeasures, spreaded]
 ---
-
-# Example: Spreading Time Label
 
 > This example provides details on the integration metadata JSON with datasource
   AccountAndPromotionMeasures (time label spreaded).

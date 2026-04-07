@@ -5,12 +5,10 @@ topic: taxdisclosuresummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.245Z
+lastCollected: 2026-04-07T18:38:19.922Z
 estimatedTokens: 1678
-keywords: [TaxDisclosureSummary, statistics, disclosure, business, entity, tax, jurisdictions, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [TaxDisclosureSummary, statistics, disclosure, business, entity, tax, jurisdictions, API, 57.0]
 ---
-
-# TaxDisclosureSummary
 
 > Represents statistics about the disclosure of business entity
          information to all tax jurisdictions. This object is available in API version 57.0 and

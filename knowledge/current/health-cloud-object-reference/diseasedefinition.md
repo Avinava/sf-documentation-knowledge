@@ -5,12 +5,10 @@ topic: diseasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.448Z
+lastCollected: 2026-04-07T18:37:43.613Z
 estimatedTokens: 1440
-keywords: [DiseaseDefinition, disease, definition, health, organizations, regularly, monitor, identify, prevent, outbreaks, API, version, 64.0, later, Calls]
+keywords: [DiseaseDefinition, disease, definition, health, organizations, regularly, monitor, identify, prevent, outbreaks, API, 64.0]
 ---
-
-# DiseaseDefinition
 
 > Represents a disease definition that public health organizations regularly
          monitor to identify and prevent outbreaks. This object is available in API version

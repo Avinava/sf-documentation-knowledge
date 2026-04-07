@@ -5,12 +5,10 @@ topic: get-pushv1messageappmessageiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.083Z
+lastCollected: 2026-04-07T18:40:17.232Z
 estimatedTokens: 203
-keywords: [push, messageApp, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**, Usage]
+keywords: [push, messageApp, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**]
 ---
-
-# GET /push/v1/messageApp/{messageId}/deliveries/{tokenId}
 
 > Retrieves delivery status of a previous messageApp send job.
 

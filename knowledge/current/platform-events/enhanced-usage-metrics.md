@@ -5,12 +5,10 @@ topic: enhanced-usage-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:05.241Z
+lastCollected: 2026-04-07T18:38:58.052Z
 estimatedTokens: 3281
-keywords: [Enhanced, Usage, Metrics, API, version, 58.0, later, enable, granular, data, time, segments, PlatformEventUsageMetric, queries, break]
+keywords: [Enhanced, Metrics, API, 58.0, enable, granular, time, segments, PlatformEventUsageMetric, queries, break, down, event, client, including, daily, hourly, 15-minute, periods, Query, Hours, Aggregated, Considerations, Drill, Slot, Highest, Period]
 ---
-
-# Enhanced Usage Metrics
 
 > In API version 58.0 and later, enable Enhanced Usage Metrics to get granular usage data
   and time segments in PlatformEventUsageMetric queries. You can break down usage metrics by event

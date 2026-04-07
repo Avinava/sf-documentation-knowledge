@@ -5,12 +5,10 @@ topic: uijson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.125Z
+lastCollected: 2026-04-07T18:37:02.666Z
 estimatedTokens: 424
 keywords: [ui.json, Attributes, file]
 ---
-
-# ui.json Attributes
 
 > The ui.json file attributes are:
 

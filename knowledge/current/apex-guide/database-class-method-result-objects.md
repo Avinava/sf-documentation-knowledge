@@ -5,12 +5,10 @@ topic: database-class-method-result-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.201Z
+lastCollected: 2026-04-07T18:36:19.426Z
 estimatedTokens: 165
-keywords: [Database, Result, Objects, results, data, operation, contain, useful, record, whether, successful, any, error, specific]
+keywords: [Database, Result, results, operation, contain, useful, record, whether, successful, any, error, specific]
 ---
-
-# Database Class Method Result Objects
 
 > Database class methods return the results of the data operation.
 These result objects contain useful information about the data operation

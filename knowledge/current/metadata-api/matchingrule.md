@@ -5,12 +5,10 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:41.987Z
+lastCollected: 2026-04-07T18:36:27.508Z
 estimatedTokens: 844
-keywords: [MatchingRule, matching, rule, identify, duplicate, records, File, Suffix, Directory, Location, Version, MatchingRuleItem, Declarative, Metadata, Sample]
+keywords: [MatchingRule, MatchingRuleItem, matching, rule, identify, duplicate, records, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MatchingRule
 
 > Represents a matching rule that is used to identify duplicate
    records.

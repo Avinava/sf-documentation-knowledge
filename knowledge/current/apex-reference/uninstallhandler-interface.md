@@ -5,13 +5,11 @@ topic: uninstallhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.296Z
+lastCollected: 2026-04-07T18:36:15.559Z
 estimatedTokens: 835
 namespace: System
-keywords: [UninstallHandler, custom, code, run, managed, package, uninstalled, Usage, onUninstall, context, Implementation, Uninstall, Script]
+keywords: [UninstallHandler, code, run, managed, package, uninstalled, onUninstall, context, Implementation, Uninstall, Script]
 ---
-
-# UninstallHandler Interface
 
 > Enables custom code to run after a managed package is uninstalled.
 

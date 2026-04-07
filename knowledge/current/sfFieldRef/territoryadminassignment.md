@@ -5,12 +5,10 @@ topic: territoryadminassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.242Z
+lastCollected: 2026-04-07T18:40:03.973Z
 estimatedTokens: 375
-keywords: [TerritoryAdminAssignment, designated, team, members, administer, specific, territories, their, descendants, API, version, 63.0, later]
+keywords: [TerritoryAdminAssignment, designated, team, members, administer, specific, territories, their, descendants, API, 63.0]
 ---
-
-# TerritoryAdminAssignment
 
 > Represents designated team members who can administer specific
          territories and their descendants. This object is available in API version 63.0 and

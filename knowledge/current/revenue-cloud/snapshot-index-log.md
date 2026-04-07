@@ -5,12 +5,10 @@ topic: snapshot-index-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.813Z
+lastCollected: 2026-04-07T18:35:46.813Z
 estimatedTokens: 258
-keywords: [Snapshot, Index, Log, Output, representation]
+keywords: [Snapshot, Index, Log]
 ---
-
-# Snapshot Index Log
 
 > Output representation of a snapshot index log.
 

@@ -5,12 +5,10 @@ topic: contactevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.700Z
+lastCollected: 2026-04-07T18:40:15.817Z
 estimatedTokens: 546
 keywords: [ContactEvent, associates, event, contact, Items]
 ---
-
-# ContactEvent
 
 > The ContactEvent object associates information from an event with a contact.
 

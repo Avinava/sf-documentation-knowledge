@@ -5,12 +5,10 @@ topic: contentlinkhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.859Z
+lastCollected: 2026-04-07T18:39:35.315Z
 estimatedTokens: 258
-keywords: [ContentLinkHistory, History, tracked, ContentLink]
+keywords: [ContentLinkHistory, tracked, ContentLink]
 ---
-
-# ContentLinkHistory
 
 > History for tracked fields of ContentLink.
 

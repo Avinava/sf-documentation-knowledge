@@ -5,12 +5,10 @@ topic: releasemgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.882Z
+lastCollected: 2026-04-07T18:35:54.979Z
 estimatedTokens: 450
-keywords: [ReleaseMgmtSettings, settings, enabling, Release, Management, features, Service, Parent, Manifest, Access, File, Suffix, Directory, Location, Version]
+keywords: [ReleaseMgmtSettings, settings, enabling, Release, Management, features, Service, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# ReleaseMgmtSettings
 
 > Represents the settings for enabling Release Management
 			features of IT Service Management.

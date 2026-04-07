@@ -5,12 +5,10 @@ topic: record-field-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.480Z
+lastCollected: 2026-04-07T18:37:22.584Z
 estimatedTokens: 149
 keywords: [Record, Picklist, containing, enumerated]
 ---
-
-# Record Field: Picklist
 
 > Record field containing an enumerated value.
 

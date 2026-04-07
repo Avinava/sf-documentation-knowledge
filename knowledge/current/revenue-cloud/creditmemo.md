@@ -5,12 +5,10 @@ topic: creditmemo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.908Z
+lastCollected: 2026-04-07T18:35:48.881Z
 estimatedTokens: 2319
-keywords: [CreditMemo, document, that’s, reduce, amount, buyer, owes, seller, under, terms, earlier, invoice, API, version, 62.0]
+keywords: [CreditMemo, document, that’s, reduce, amount, buyer, owes, seller, under, terms, earlier, invoice, API, 62.0]
 ---
-
-# CreditMemo
 
 > Represents a document that’s used to reduce the amount that a buyer
          owes a seller under the terms of an earlier invoice. This object is available in API

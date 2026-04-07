@@ -5,12 +5,10 @@ topic: adserveraccountcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.056Z
+lastCollected: 2026-04-07T18:38:12.349Z
 estimatedTokens: 831
-keywords: [AdServerAccountContact, junction, server, account, contact, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [AdServerAccountContact, junction, server, account, contact, API, 64.0]
 ---
-
-# AdServerAccountContact
 
 > Represents a junction between an ad server account and a contact. This
       object is available in API version 64.0 and later.

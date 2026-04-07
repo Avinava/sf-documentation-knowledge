@@ -5,12 +5,10 @@ topic: logindiscoverymethod-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.121Z
+lastCollected: 2026-04-07T18:36:12.413Z
 estimatedTokens: 140
-keywords: [LoginDiscoveryMethod, verify, user’s, identity, Domain, login, process, uses, Discovery, Usage]
+keywords: [LoginDiscoveryMethod, verify, user’s, identity, Domain, login, process, uses, Discovery]
 ---
-
-# LoginDiscoveryMethod Enum
 
 > Contains methods used to verify the user’s identity when the My
       Domain login process uses Login Discovery.

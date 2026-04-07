@@ -5,12 +5,10 @@ topic: connectapiexternalauthidentityproviderparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.664Z
+lastCollected: 2026-04-07T18:36:09.062Z
 estimatedTokens: 305
 keywords: [External, auth, identity, provider]
 ---
-
-# ConnectApi.ExternalAuthIdentityProviderParameter
 
 > External auth identity provider parameter.
 

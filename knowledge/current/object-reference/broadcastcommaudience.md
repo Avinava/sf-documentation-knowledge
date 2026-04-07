@@ -5,12 +5,10 @@ topic: broadcastcommaudience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:35.887Z
+lastCollected: 2026-04-07T18:38:26.872Z
 estimatedTokens: 1664
-keywords: [BroadcastCommAudience, audience, broadcast, communication, sent, API, version, 56.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [BroadcastCommAudience, audience, broadcast, communication, sent, API, 56.0]
 ---
-
-# BroadcastCommAudience
 
 > Represents the audience that the broadcast communication is sent to.
       This object is available in API version 56.0 and later.

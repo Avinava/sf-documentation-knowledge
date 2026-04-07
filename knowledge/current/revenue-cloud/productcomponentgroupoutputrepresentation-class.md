@@ -5,12 +5,10 @@ topic: productcomponentgroupoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.296Z
+lastCollected: 2026-04-07T18:35:41.160Z
 estimatedTokens: 1780
-keywords: [product, component, group, classification, childGroups, classifications, code, components, parentGroupId, parentProductId, sequence]
+keywords: [product, group, classification, childGroups, classifications, code, parentGroupId, parentProductId, sequence]
 ---
-
-# ProductComponentGroupOutputRepresentation Class
 
 > Get details of the product component group in a product classification.
 

@@ -5,12 +5,10 @@ topic: plan-benefits-get-post-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.807Z
+lastCollected: 2026-04-07T18:37:51.882Z
 estimatedTokens: 642
 keywords: [Plan, Benefits, POST, PATCH, Insurance, Policy, Coverage, Networks]
 ---
-
-# Plan Benefits (GET, POST, PATCH, DELETE)
 
 > Get, create, update and delete Insurance Policy Coverage Networks and Insurance
         Policy Coverage Benefits of an Insurance Policy Coverage.

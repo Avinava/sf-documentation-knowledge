@@ -5,12 +5,10 @@ topic: requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.329Z
+lastCollected: 2026-04-07T18:36:41.022Z
 estimatedTokens: 1270
 keywords: [Requests, igital, Lending, APIs, include, bodies, Here’s, Identity, Verification, API, Process, Compliance, Navigator, Record, Rollup, Definitions, Business]
 ---
-
-# Requests
 
 > igital Lending APIs include these request bodies.
 

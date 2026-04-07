@@ -5,12 +5,10 @@ topic: actions-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.888Z
+lastCollected: 2026-04-07T18:38:03.982Z
 estimatedTokens: 952
-keywords: [Actions, Events, framework, uses, communicate, data, components, usually, triggered, user, action]
+keywords: [Actions, Events, framework, uses, communicate, usually, triggered, user, action]
 ---
-
-# Actions and Events
 
 > The framework uses events to communicate data between components. Events are usually
     triggered by a user action.

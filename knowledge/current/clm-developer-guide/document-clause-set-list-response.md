@@ -5,12 +5,10 @@ topic: document-clause-set-list-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.185Z
+lastCollected: 2026-04-07T18:37:25.136Z
 estimatedTokens: 88
-keywords: [Document, Clause, Output, representation]
+keywords: [Document, Clause]
 ---
-
-# Document Clause Set List Response
 
 > Output representation for the list of document clause
     set.

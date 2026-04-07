@@ -5,12 +5,10 @@ topic: voicecalllist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.354Z
+lastCollected: 2026-04-07T18:38:44.176Z
 estimatedTokens: 406
-keywords: [VoiceCallList, prioritized, numbers, call, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [VoiceCallList, prioritized, numbers, call]
 ---
-
-# VoiceCallList
 
 > Represents a prioritized list of numbers to call.
 

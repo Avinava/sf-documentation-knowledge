@@ -5,12 +5,10 @@ topic: priority
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.112Z
+lastCollected: 2026-04-07T18:40:18.312Z
 estimatedTokens: 85
 keywords: [Priority, API, process, processes]
 ---
-
-# Priority
 
 > The Priority object sets priority of API process.
 

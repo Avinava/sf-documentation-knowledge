@@ -5,12 +5,10 @@ topic: managed-content-variant-search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.443Z
+lastCollected: 2026-04-07T18:37:20.629Z
 estimatedTokens: 674
 keywords: [Managed, Content, Variant, Search, Result, Keyword-based]
 ---
-
-# Managed Content Variant Search Result
 
 > Keyword-based search result for a managed content
     variant.

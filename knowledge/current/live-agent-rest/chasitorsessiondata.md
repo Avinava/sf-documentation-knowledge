@@ -5,12 +5,10 @@ topic: chasitorsessiondata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.106Z
+lastCollected: 2026-04-07T18:38:06.362Z
 estimatedTokens: 284
-keywords: [ChasitorSessionData, current, chat, session, data, visitor, restore, visitor’s, ReconnectSessionrequest, sent]
+keywords: [ChasitorSessionData, current, chat, session, visitor, restore, visitor’s, ReconnectSessionrequest, sent]
 ---
-
-# ChasitorSessionData
 
 > Returns the current chat session data for the chat visitor. This request is used to
   restore the session data for a chat visitor’s chat session after a  ReconnectSessionrequest is sent.

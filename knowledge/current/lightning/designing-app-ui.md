@@ -5,12 +5,10 @@ topic: designing-app-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.707Z
+lastCollected: 2026-04-07T18:38:02.636Z
 estimatedTokens: 341
-keywords: [Designing, App, Design, app's, including, markup, resource, part, corresponds, component, turn, contain, nested, components, Compose]
+keywords: [Designing, App, Design, app's, including, markup, resource, part, corresponds, turn, contain, nested, Compose, sophisticated]
 ---
-
-# Designing App UI
 
 > Design your app's UI by including markup in the .app resource.
         Each part of your UI corresponds to a component, which can in turn contain nested

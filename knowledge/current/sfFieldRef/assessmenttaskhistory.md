@@ -5,12 +5,10 @@ topic: assessmenttaskhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.615Z
+lastCollected: 2026-04-07T18:39:27.603Z
 estimatedTokens: 262
-keywords: [AssessmentTaskHistory, History, tracked, AssessmentTask]
+keywords: [AssessmentTaskHistory, tracked, AssessmentTask]
 ---
-
-# AssessmentTaskHistory
 
 > History for tracked fields of AssessmentTask.
 

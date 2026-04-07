@@ -5,13 +5,11 @@ topic: script-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.293Z
+lastCollected: 2026-04-07T18:36:02.505Z
 estimatedTokens: 1325
 namespace: DataWeave
-keywords: [Script, createScript, load, DataWeave, scripts, execute, obtain, output, DataWeave.Result, scriptName, toString]
+keywords: [Script, createScript, load, DataWeave, scripts, execute, obtain, DataWeave.Result, scriptName, toString]
 ---
-
-# Script Class
 
 > Contains the createScript() method to load DataWeave scripts and the
             execute() method to obtain script output in a

@@ -5,13 +5,11 @@ topic: xmlstreamwriter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.850Z
+lastCollected: 2026-04-07T18:36:04.059Z
 estimatedTokens: 3231
 namespace: System
-keywords: [XmlStreamWriter, writing, XML, data, Usage, close, getXmlString, setDefaultNamespace, uri, writeAttribute, prefix, namespaceUri, localName, writeCData, writeCharacters]
+keywords: [XmlStreamWriter, writing, XML, close, getXmlString, setDefaultNamespace, uri, writeAttribute, prefix, namespaceUri, localName, writeCData, writeCharacters, text, writeComment, comment, writeDefaultNamespace, writeEmptyElement, writeEndDocument, writeEndElement, writeNamespace, writeProcessingInstruction, target, writeStartDocument, encoding, writeStartElement]
 ---
-
-# XmlStreamWriter Class
 
 > The XmlStreamWriter class provides methods
         for writing XML data.

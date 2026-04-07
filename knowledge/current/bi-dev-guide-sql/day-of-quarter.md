@@ -5,12 +5,10 @@ topic: day-of-quarter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.993Z
+lastCollected: 2026-04-07T18:37:01.604Z
 estimatedTokens: 118
 keywords: [Day, Quarter, specific, date, year, begins, January]
 ---
-
-# Day of Quarter
 
 > Returns an integer that represents the day of the quarter for a specific date. The first
   quarter of the year begins on January 1.

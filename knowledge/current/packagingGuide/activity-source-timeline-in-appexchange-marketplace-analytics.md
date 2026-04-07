@@ -5,12 +5,10 @@ topic: activity-source-timeline-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.240Z
+lastCollected: 2026-04-07T18:38:47.212Z
 estimatedTokens: 1227
-keywords: [Activity, Source, Timeline, AppExchange, Marketplace, Analytics, how, internal, external, traffic, sources, contribute, listing, time, period]
+keywords: [Definitions, Activity, Source, Timeline, AppExchange, Marketplace, Analytics, how, internal, external, traffic, sources, contribute, listing, time, period, specify, compare, times, customers, viewed, tile, AppExchange’s, search, versus, home]
 ---
-
-# Activity Source Timeline in AppExchange Marketplace Analytics
 
 > See how internal and external traffic sources contribute to activity on your AppExchange
     listing for a time period that you specify. For example, compare how many times customers viewed

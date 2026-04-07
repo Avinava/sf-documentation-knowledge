@@ -5,12 +5,10 @@ topic: connectapimarkupendsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.793Z
+lastCollected: 2026-04-07T18:36:10.099Z
 estimatedTokens: 163
 keywords: [ConnectApi.MarkupEndSegment, end, rich, text, markup]
 ---
-
-# ConnectApi.MarkupEndSegment
 
 > The end of rich text markup.
 

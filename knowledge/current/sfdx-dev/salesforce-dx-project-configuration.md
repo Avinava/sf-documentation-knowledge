@@ -5,12 +5,10 @@ topic: salesforce-dx-project-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.994Z
+lastCollected: 2026-04-07T18:40:08.976Z
 estimatedTokens: 2943
-keywords: [Salesforce, Project, Configuration, file, sfdx-project.json, directory, facilitates, authorization, orgs, creation, second-generation, packages, tells, CLI, put]
+keywords: [Salesforce, Project, Configuration, file, sfdx-project.json, directory, facilitates, authorization, orgs, creation, second-generation, packages, tells, CLI, put, files, syncing, org, Functions, oauthLocalPort, packageAliases, packageDirectories, plugins, pushPackageDirectoriesSequentially, Deprecated, replacements, sfdcLoginUrl, sourceApiVersion, sourceBehaviorOptions, Beta]
 ---
-
-# Salesforce DX Project Configuration
 
 > The project configuration file sfdx-project.json
     indicates that the directory is a Salesforce DX project. The configuration file contains project

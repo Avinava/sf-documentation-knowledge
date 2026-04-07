@@ -5,12 +5,10 @@ topic: document-clause-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.943Z
+lastCollected: 2026-04-07T18:37:24.910Z
 estimatedTokens: 252
 keywords: [Document, Clause, distinct, fieldName]
 ---
-
-# Document Clause Fields
 
 > Get distinct document clause values for a given fieldName
       parameter.

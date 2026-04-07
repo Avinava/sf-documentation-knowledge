@@ -5,12 +5,10 @@ topic: abstract-classification-threshold-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.964Z
+lastCollected: 2026-04-07T18:36:58.490Z
 estimatedTokens: 134
-keywords: [Abstract, Classification, Threshold, Input, base]
+keywords: [Abstract, Classification, Threshold, base]
 ---
-
-# Abstract Classification Threshold Input
 
 > The base classification threshold input.
 

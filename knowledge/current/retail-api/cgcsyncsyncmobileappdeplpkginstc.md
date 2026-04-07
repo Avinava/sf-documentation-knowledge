@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappdeplpkginstc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.954Z
+lastCollected: 2026-04-07T18:39:12.472Z
 estimatedTokens: 740
-keywords: [Maintains, record, installed, deployment, packages, their, installation, timestamps, devices, deployed, API, version, 53.0, later, cgc]
+keywords: [Maintains, record, installed, deployment, packages, their, installation, timestamps, devices, deployed, API, 53.0, cgc, _sync, _Mobile, _App, _Depl, _Pkg, _Inst]
 ---
-
-# cgc_sync__Sync_Mobile_App_Depl_Pkg_Inst__c
 
 > Maintains a record of the installed deployment packages, their
          installation timestamps, and devices on which those packages are deployed. This object

@@ -5,12 +5,10 @@ topic: dates-outside-ranges-defined-by-custom-fiscal-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.804Z
+lastCollected: 2026-04-07T18:37:00.317Z
 estimatedTokens: 494
-keywords: [Dates, Outside, Ranges, Defined, Custom, Fiscal, Year, query, includes, date, falls, range, inherited, SAQL, data]
+keywords: [Dates, Outside, Ranges, Defined, Fiscal, Year, query, includes, date, falls, range, inherited, SAQL]
 ---
-
-# Dates Outside Ranges Defined by Custom Fiscal Year
 
 > If your query includes a date that falls outside of a range defined
          by an inherited fiscal year, SAQL does not return data for that date.

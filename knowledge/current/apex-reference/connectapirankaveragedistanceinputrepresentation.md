@@ -5,12 +5,10 @@ topic: connectapirankaveragedistanceinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.882Z
+lastCollected: 2026-04-07T18:36:06.230Z
 estimatedTokens: 236
 keywords: [order, recipient’s, geographic, location, inventory, locations, fulfill]
 ---
-
-# ConnectApi.RankAverageDistanceInputRepresentation
 
 > An order recipient’s geographic location and information about sets
       of inventory locations that can fulfill the order.

@@ -5,12 +5,10 @@ topic: lightningomnichannelworkloadchanged
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.992Z
+lastCollected: 2026-04-07T18:36:49.066Z
 estimatedTokens: 280
-keywords: [lightning, omniChannelWorkloadChanged, agent’s, workload, changed, includes, receiving, new, work, items, declining, closing, console, there, change]
+keywords: [lightning, omniChannelWorkloadChanged, agent’s, workload, changed, includes, receiving, new, work, items, declining, closing, console, there, change, capacity, presence, configuration, agent, gone, offline, Omni-Channel, utility]
 ---
-
-# lightning:omniChannelWorkloadChanged
 
 > Indicates that an agent’s workload has changed.
             This includes receiving new work items, declining work items, and closing items in the

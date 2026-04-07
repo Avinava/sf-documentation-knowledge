@@ -5,12 +5,10 @@ topic: template-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.635Z
+lastCollected: 2026-04-07T18:36:55.001Z
 estimatedTokens: 208
-keywords: [Template, Options, Input, upgrade, templated, Analytics, app]
+keywords: [Template, Options, upgrade, templated, Analytics, app]
 ---
-
-# Template Options Input
 
 > The template options used to upgrade a templated Analytics app.
 

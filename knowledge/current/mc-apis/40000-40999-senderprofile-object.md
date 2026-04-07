@@ -5,12 +5,10 @@ topic: 40000-40999-senderprofile-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.756Z
+lastCollected: 2026-04-07T18:40:14.763Z
 estimatedTokens: 192
 keywords: [40000-40999, SenderProfile]
 ---
-
-# 40000-40999 SenderProfile Object
 
 # 40000-40999 SenderProfile Object
 

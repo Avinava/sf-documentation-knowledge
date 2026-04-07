@@ -5,12 +5,10 @@ topic: supporting-multiple-editions-using-dynamic-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.741Z
+lastCollected: 2026-04-07T18:38:46.614Z
 estimatedTokens: 307
-keywords: [Supporting, Multiple, Editions, Dynamic, Apex, SOQL, DML, it’s, possible, managed, package, plan, support, having, extension]
+keywords: [Supporting, Multiple, Editions, Dynamic, Apex, SOQL, DML, it’s, possible, managed, package, plan, support, having, extension, packages, app, behavior, change, dynamically, features, customer's, edition, useful]
 ---
-
-# Supporting Multiple Editions using Dynamic Apex
 
 > Using dynamic Apex, dynamic SOQL, and dynamic DML, it’s possible to create one managed
    package for all editions you plan to support without having to use extension packages. Your app

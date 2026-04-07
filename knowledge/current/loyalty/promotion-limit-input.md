@@ -5,12 +5,10 @@ topic: promotion-limit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.137Z
+lastCollected: 2026-04-07T18:38:07.351Z
 estimatedTokens: 401
-keywords: [Promotion, Limit, Input, representation, limits]
+keywords: [Promotion, Limit, limits]
 ---
-
-# Promotion Limit Input
 
 > Input representation details of the promotion limits.
 

@@ -6,13 +6,10 @@ topic: managed-content-delivery-search-filters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.130Z
+lastCollected: 2026-04-07T18:37:08.911Z
 estimatedTokens: 218
-keywords: [Managed, Content, Delivery, Search, Filters, Input]
+keywords: [Managed, Content, Delivery, Search, Filters]
 ---
-
-# Managed Content Delivery Search Filters
-    Input
 
 > Filters used to search managed content.
 

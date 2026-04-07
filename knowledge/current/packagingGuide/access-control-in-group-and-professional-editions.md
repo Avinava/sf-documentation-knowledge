@@ -5,12 +5,10 @@ topic: access-control-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.759Z
+lastCollected: 2026-04-07T18:38:46.636Z
 estimatedTokens: 161
-keywords: [Access, Control, Group, Professional, Editions, Edition, doesn’t, support, field-level, security, custom, profiles, manage, layout, instead]
+keywords: [Control, Group, Professional, Editions, Edition, doesn’t, support, field-level, security, profiles, manage, layout, instead, customers, install, app, they, can’t, define, Ensure, design, works]
 ---
-
-# Access Control in Group and Professional Editions
 
 > Group Edition doesn’t support field-level security or custom profiles. You can manage field-level
          security by using the page layout for each object instead. When customers install your app,

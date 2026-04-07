@@ -5,12 +5,10 @@ topic: sustainabilityuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.924Z
+lastCollected: 2026-04-07T18:38:16.484Z
 estimatedTokens: 637
-keywords: [SustainabilityUom, unit, measure, UOM, custom, fuel, org, Track, consumption, emission, results, flexibility, add, Parent, File, additional, defined, customer, API, version]
+keywords: [SustainabilityUom, unit, measure, UOM, fuel, org, Track, consumption, emission, results, flexibility, add, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, additional, defined, customer, API, 56.0, SOAP, REST]
 ---
-
-# SustainabilityUom
 
 > Represents information about the additional unit of measure values defined by
          a customer. This object is available in API version 56.0 and later.

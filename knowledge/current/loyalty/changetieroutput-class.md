@@ -5,13 +5,11 @@ topic: changetieroutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.532Z
+lastCollected: 2026-04-07T18:38:06.741Z
 estimatedTokens: 856
 namespace: LoyaltyManagement
 keywords: [ChangeTierOutput, changed, tier, loyalty, program, member, getErrors, getLoyaltyProgramMemberId, getMemberTier, getProgramName, getTierGroupName, isSuccess]
 ---
-
-# ChangeTierOutput Class
 
 > Represents the changed tier details for a loyalty program
     member.

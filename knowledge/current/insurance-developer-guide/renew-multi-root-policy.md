@@ -5,12 +5,10 @@ topic: renew-multi-root-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.114Z
+lastCollected: 2026-04-07T18:37:53.393Z
 estimatedTokens: 819
-keywords: [Renew, Multi-Root, Policy, new, term, parent, associated, child, policies, parent–child, structure, preserved, renewed, Creates, pricing, handled, Rating, API, instead, quote]
+keywords: [Renew, Multi-Root, Policy, new, term, parent, child, policies, parent–child, structure, preserved, renewed, Creates, pricing, handled, Rating, API, instead, quote, process, bypasses, creation, record, generating, records]
 ---
-
-# Renew Multi-Root Policy
 
 > Renew a multi-root policy to create a new policy term for the parent policy and all
   associated child policies. The parent–child policy structure is preserved in the renewed

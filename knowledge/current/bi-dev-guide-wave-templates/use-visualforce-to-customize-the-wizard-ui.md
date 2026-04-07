@@ -5,12 +5,10 @@ topic: use-visualforce-to-customize-the-wizard-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.755Z
+lastCollected: 2026-04-07T18:37:02.321Z
 estimatedTokens: 710
 keywords: [VisualForce, Customize, Wizard, appearance, beyond, JavaScript, library, Declaring, ui.json]
 ---
-
-# Use VisualForce To Customize the Wizard UI
 
 > To customize wizard appearance beyond the default interface, use VisualForce and a
   JavaScript library.

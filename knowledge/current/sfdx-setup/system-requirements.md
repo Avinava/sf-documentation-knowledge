@@ -5,12 +5,10 @@ topic: system-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.416Z
+lastCollected: 2026-04-07T18:40:09.364Z
 estimatedTokens: 564
-keywords: [System, Requirements, Review, Salesforce, CLI, developer, tools, Operating, Systems, Code, Editor, IDE, API, Enabled, Permission]
+keywords: [System, Requirements, Review, Salesforce, CLI, developer, tools, Operating, Systems, Code, Editor, IDE, API, Enabled, Permission, Org, Control, Node.js, Support]
 ---
-
-# System Requirements
 
 > Review these system requirements to get the most out of Salesforce CLI and developer
         tools.

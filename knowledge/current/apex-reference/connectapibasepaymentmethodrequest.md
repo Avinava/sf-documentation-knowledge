@@ -5,12 +5,10 @@ topic: connectapibasepaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.329Z
+lastCollected: 2026-04-07T18:36:04.646Z
 estimatedTokens: 196
-keywords: [ConnectApi.BasePaymentMethodRequest, Base, payment, input, representation]
+keywords: [ConnectApi.BasePaymentMethodRequest, Base, payment]
 ---
-
-# ConnectApi.BasePaymentMethodRequest
 
 > Base payment method input representation.
 

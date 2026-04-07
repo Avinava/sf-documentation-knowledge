@@ -5,12 +5,10 @@ topic: get-custom-channels-and-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.550Z
+lastCollected: 2026-04-07T18:37:05.286Z
 estimatedTokens: 399
-keywords: [Custom, Channels, Channel, Members, Salesforce, org, performing, SOQL, queries, Tooling, API]
+keywords: [Channels, Channel, Members, Salesforce, org, performing, SOQL, queries, Tooling, API]
 ---
-
-# Get Custom Channels and Channel Members
 
 > You can find which channels and channel members are set up in your Salesforce org by
   performing SOQL queries through Tooling API.

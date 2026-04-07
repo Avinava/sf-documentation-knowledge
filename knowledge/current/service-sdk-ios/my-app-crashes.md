@@ -5,12 +5,10 @@ topic: my-app-crashes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:32.768Z
+lastCollected: 2026-04-07T18:40:27.908Z
 estimatedTokens: 152
 keywords: [App, Crashes, tips]
 ---
-
-# My App Crashes
 
 > Some tips if your app crashes.
 

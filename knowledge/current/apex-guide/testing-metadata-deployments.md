@@ -5,12 +5,10 @@ topic: testing-metadata-deployments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.889Z
+lastCollected: 2026-04-07T18:36:18.118Z
 estimatedTokens: 263
 keywords: [Testing, Metadata, Deployments, Apex, code, accesses, properly, tested]
 ---
-
-# Testing Metadata Deployments
 
 > Apex code that accesses metadata must be properly tested.
 

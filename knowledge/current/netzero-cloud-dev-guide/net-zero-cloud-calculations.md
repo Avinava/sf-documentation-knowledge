@@ -5,12 +5,10 @@ topic: net-zero-cloud-calculations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:26.461Z
+lastCollected: 2026-04-07T18:38:17.063Z
 estimatedTokens: 1714
-keywords: [Net, Zero, Cloud, Calculations, performs, background, summarize, carbon, footprint, calculated, know, double-check, determine, whether, any]
+keywords: [Net, Zero, Cloud, Calculations, performs, background, summarize, carbon, footprint, calculated, know, double-check, determine, whether, any, require, modifications, organization’s, situation, designed, 99.99%, accurate, notice, deviations, exceeding, 0.01%, contact, Salesforce, Customer, Support]
 ---
-
-# Net Zero Cloud Calculations
 
 > Net Zero Cloud performs background calculations to summarize your carbon footprint and
     other calculated values. If you know these calculations, you can double-check the values used in

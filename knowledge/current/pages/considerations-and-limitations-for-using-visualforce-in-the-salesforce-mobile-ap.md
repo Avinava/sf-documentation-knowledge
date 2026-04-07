@@ -6,13 +6,10 @@ topic: considerations-and-limitations-for-using-visualforce-in-the-salesforce-mo
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:00.526Z
+lastCollected: 2026-04-07T18:38:52.833Z
 estimatedTokens: 609
-keywords: [Considerations, Limitations, Visualforce, Salesforce, Mobile, App, developers, build, sophisticated, custom, user, interfaces, hosted, natively, Lightning]
+keywords: [Usability, Customization, Interactivity, Speed, Considerations, Limitations, Visualforce, Salesforce, Mobile, App, developers, build, sophisticated, user, interfaces, hosted, natively, Lightning, Platform, Salesforce’s, tried, model, giving, robust, tools, functionality, There, benefits, Integration, one.app, Container]
 ---
-
-# Considerations and Limitations for Using Visualforce in the Salesforce
-   Mobile App
 
 > Visualforce allows developers to build sophisticated, custom user interfaces that can be
   hosted natively on the Lightning Platform. Visualforce is Salesforce’s tried and true model,

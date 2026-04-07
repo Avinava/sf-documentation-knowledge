@@ -5,12 +5,10 @@ topic: automatedcontactssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:37.533Z
+lastCollected: 2026-04-07T18:36:22.784Z
 estimatedTokens: 886
-keywords: [AutomatedContactsSettings, org’s, Einstein, Automated, Contacts, settings, let, new, opportunity, contact, roles, extends, Metadata, inherits, fullName]
+keywords: [AutomatedContactsSettings, org’s, Einstein, Automated, Contacts, settings, let, new, opportunity, contact, roles, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# AutomatedContactsSettings
 
 > Represents an org’s Einstein Automated Contacts
 			settings. These settings let you find new contacts and opportunity contact roles.

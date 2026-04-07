@@ -5,13 +5,11 @@ topic: canvas-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.667Z
+lastCollected: 2026-04-07T18:36:14.980Z
 estimatedTokens: 480
 namespace: Canvas
 keywords: [Canvas, classes, apps, Salesforce]
 ---
-
-# Canvas Namespace
 
 > The Canvas namespace
 provides an interface and classes for canvas apps in Salesforce.

@@ -5,12 +5,10 @@ topic: worktypegroupdatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.261Z
+lastCollected: 2026-04-07T18:39:21.070Z
 estimatedTokens: 646
-keywords: [WorkTypeGroupDataTranslation, translated, data, stored, WorkTypeGroup, record’s, API, version, 54.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [WorkTypeGroupDataTranslation, translated, stored, WorkTypeGroup, record’s, API, 54.0]
 ---
-
-# WorkTypeGroupDataTranslation
 
 > Represents the translated values of the data stored within a WorkTypeGroup record’s fields. This object is available in API version 54.0 and
     later.

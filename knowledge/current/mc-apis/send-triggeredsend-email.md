@@ -5,12 +5,10 @@ topic: send-triggeredsend-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:24.968Z
+lastCollected: 2026-04-07T18:40:20.187Z
 estimatedTokens: 1621
-keywords: [Send, TriggeredSend, Email, triggered, reach, subscriber, they, perform, specific, action, Sample, NET, Code, PHP, Java]
+keywords: [Send, TriggeredSend, Email, triggered, reach, subscriber, they, perform, specific, action, Sample, NET, Code, PHP, Java, Axis, 1.4, SOAP, Envelope]
 ---
-
-# Send TriggeredSend Email
 
 > Use a triggered send to reach a subscriber after they perform a specific action.
 

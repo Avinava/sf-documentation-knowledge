@@ -5,12 +5,10 @@ topic: delete-interactionv1interactionsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.365Z
+lastCollected: 2026-04-07T18:40:16.505Z
 estimatedTokens: 394
-keywords: [interaction, interactions, Deletes, journey, key, deleting, version, check, associated, tag, unassociated, deleteTags, resource, **Overview**, Usage]
+keywords: [interaction, interactions, Deletes, journey, key, deleting, check, tag, unassociated, deleteTags, resource, **Overview**]
 ---
-
-# DELETE /interaction/v1/interactions/{id}
 
 > Deletes a journey by ID or key. When deleting last version of a journey, check if the journey is associated with a tag and unassociated the tag using the deleteTags resource.
 

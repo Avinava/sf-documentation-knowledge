@@ -5,12 +5,10 @@ topic: apexinputhidden
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.677Z
+lastCollected: 2026-04-07T18:38:49.823Z
 estimatedTokens: 580
-keywords: [apex, inputHidden, HTML, input, element, hidden, invisible, user, component, pass, variables, Attributes]
+keywords: [Attributes, apex, inputHidden, HTML, hidden, invisible, user, pass, variables]
 ---
-
-# apex:inputHidden
 
 > An HTML input element of type hidden, that is, an input element
 		that is invisible to the user. Use this component to pass variables from

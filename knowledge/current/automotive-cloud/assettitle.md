@@ -5,12 +5,10 @@ topic: assettitle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.088Z
+lastCollected: 2026-04-07T18:36:52.542Z
 estimatedTokens: 1009
-keywords: [AssetTitle, establishes, legal, ownership, asset, vehicle, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [AssetTitle, establishes, legal, ownership, asset, vehicle, API, 60.0]
 ---
-
-# AssetTitle
 
 > Represents information that establishes the legal ownership of an asset or a
          vehicle. This object is available in API version 60.0 and later.

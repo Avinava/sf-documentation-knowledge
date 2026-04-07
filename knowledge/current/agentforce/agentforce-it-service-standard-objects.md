@@ -5,12 +5,10 @@ topic: agentforce-it-service-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.804Z
+lastCollected: 2026-04-07T18:35:54.899Z
 estimatedTokens: 2114
-keywords: [Agentforce, Service, Standard, Objects, data, model, track, manage, issues, requests, processes]
+keywords: [Agentforce, Service, Standard, model, track, manage, issues, requests, processes]
 ---
-
-# Agentforce IT Service Standard Objects
 
 > Agentforce IT Service data model provides objects and fields to track and manage IT
     issues and service requests. Use these objects to manage your IT service processes.

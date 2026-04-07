@@ -5,12 +5,10 @@ topic: salesforce-pricing-migration-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.234Z
+lastCollected: 2026-04-07T18:35:47.265Z
 estimatedTokens: 663
-keywords: [Salesforce, Pricing, Migration, Scenarios, Review, considerations, understand, data, process, along, order, prerequisites, First-Time, Subsequent, Production]
+keywords: [Salesforce, Pricing, Migration, Scenarios, Review, considerations, understand, process, along, order, prerequisites, First-Time, Subsequent, Production, Migrations]
 ---
-
-# Salesforce Pricing Migration Scenarios
 
 > Review these considerations to understand the Salesforce Pricing data migration process
     along with migration order and prerequisites.

@@ -5,12 +5,10 @@ topic: forecastingcolumndefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.512Z
+lastCollected: 2026-04-07T18:39:41.182Z
 estimatedTokens: 402
-keywords: [ForecastingColumnDefinition, custom, calculated, column, data, forecast, API, version, 56.0, later]
+keywords: [ForecastingColumnDefinition, calculated, column, forecast, API, 56.0]
 ---
-
-# ForecastingColumnDefinition
 
 > Represents a custom calculated column or a custom reference data
          column in a forecast type. This object is available in API version 56.0 and

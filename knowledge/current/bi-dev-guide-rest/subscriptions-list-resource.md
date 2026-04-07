@@ -5,12 +5,10 @@ topic: subscriptions-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.857Z
+lastCollected: 2026-04-07T18:36:56.405Z
 estimatedTokens: 300
 keywords: [Subscriptions, Resource, creates, subscription, schedule]
 ---
-
-# Subscriptions List Resource
 
 > Returns a list of subscriptions or creates a subscription schedule.
 

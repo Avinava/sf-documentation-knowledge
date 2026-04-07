@@ -5,12 +5,10 @@ topic: like-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.807Z
+lastCollected: 2026-04-07T18:36:19.035Z
 estimatedTokens: 80
-keywords: [Feed, Element, Call]
+keywords: [Call]
 ---
-
-# Like a Feed Element
 
 > Call a method to like a feed element.
 

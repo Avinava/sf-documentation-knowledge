@@ -5,12 +5,10 @@ topic: cgcloudboapiworkflowc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.616Z
+lastCollected: 2026-04-07T18:39:13.037Z
 estimatedTokens: 926
-keywords: [cgcloud__BO_API_Workflow__c, stores, workflows, defined, Business, API, version, 54.0, later, cgcloud, _BO, _API, _Workflow, Calls, Associated]
+keywords: [cgcloud__BO_API_Workflow__c, stores, workflows, defined, Business, API, 54.0, cgcloud, _BO, _API, _Workflow]
 ---
-
-# cgcloud__BO_API_Workflow__c
 
 > This table stores the workflows that are defined for the Business
          Object.  This object is available in API version 54.0 and later.

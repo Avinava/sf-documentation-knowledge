@@ -5,12 +5,10 @@ topic: integrate-incoming-voice-call-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.572Z
+lastCollected: 2026-04-07T18:40:13.496Z
 estimatedTokens: 692
-keywords: [Integrate, Incoming, Voice, Call, Creation, inbound, calls, telephony, system, receives, prepares, route, rep, invoke, Service]
+keywords: [Integrate, Incoming, Voice, Call, Creation, inbound, telephony, system, receives, prepares, route, rep, invoke, Service, Cloud, REST, APIs, essential, record, represent, conversation]
 ---
-
-# Integrate Incoming Voice Call Creation
 
 > For inbound calls, when the telephony system receives the incoming call and prepares to
     route the call to a rep, the telephony system can invoke Service Cloud Voice REST APIs to

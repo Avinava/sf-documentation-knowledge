@@ -5,12 +5,10 @@ topic: start-a-triggered-send-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:25.217Z
+lastCollected: 2026-04-07T18:40:20.450Z
 estimatedTokens: 1456
-keywords: [Start, Triggered, Send, Definition, started, Once, receive, behave, according, how, created, Why, Sample, NET, Code]
+keywords: [Start, Triggered, Send, Definition, started, Once, receive, behave, according, how, created, Why, Sample, NET, Code, PHP, Items]
 ---
-
-# Start a Triggered Send Definition
 
 > Before a triggered send definition can be used, it must be started. Once the triggered send definition is started, it can receive information and behave according to how it was created.
 

@@ -5,12 +5,10 @@ topic: personalization-recommender-date-only-predicate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.865Z
+lastCollected: 2026-04-07T18:37:09.586Z
 estimatedTokens: 188
-keywords: [Personalization, Recommender, Date, Predicate, Input]
+keywords: [Personalization, Recommender, Date, Predicate]
 ---
-
-# Personalization Recommender Date Only Predicate Input
 
 > Represents a predicate based on a date.
 

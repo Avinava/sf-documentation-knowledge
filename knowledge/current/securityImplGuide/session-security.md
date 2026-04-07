@@ -5,12 +5,10 @@ topic: session-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.157Z
+lastCollected: 2026-04-07T18:39:23.093Z
 estimatedTokens: 542
-keywords: [Session, Security, logging, user, establishes, platform, limit, exposure, network, leaves, computer, unattended, logged, limits, risk]
+keywords: [Session, Security, logging, user, establishes, platform, limit, exposure, network, leaves, computer, unattended, logged, limits, risk, internal, attacks, employee, tries, another, employee’s, Choose, several, settings, control, behavior, Resources]
 ---
-
-# Session Security
 
 > After logging in, a user establishes a session with the platform. Use session security to
         limit exposure to your network when a user leaves the computer unattended while still logged

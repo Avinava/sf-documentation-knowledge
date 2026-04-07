@@ -5,12 +5,10 @@ topic: like
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.858Z
+lastCollected: 2026-04-07T18:37:20.016Z
 estimatedTokens: 150
 keywords: [Chatter]
 ---
-
-# Like
 
 > Chatter like.
 

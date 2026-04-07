@@ -5,12 +5,10 @@ topic: displaydurationindays
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.865Z
+lastCollected: 2026-04-07T18:38:05.017Z
 estimatedTokens: 119
 keywords: [displayDurationInDays, Displays, length, time, days, Sample, Code]
 ---
-
-# displayDurationInDays()
 
 > Displays a length of time in days.
 

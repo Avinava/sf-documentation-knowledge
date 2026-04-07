@@ -5,12 +5,10 @@ topic: fhir-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:54.442Z
+lastCollected: 2026-04-07T18:37:42.591Z
 estimatedTokens: 819
-keywords: [FHIR, Subscription, Publishers, Fast, Healthcare, Interoperability, Resources, data, model, store, topics, subscriber, filters, applied, event]
+keywords: [FHIR, Subscription, Publishers, Fast, Healthcare, Interoperability, Resources, model, store, topics, subscriber, filters, applied, event, change, occurs, subscribed, resource, triggers, notification, platform, created, Topic, record, Mulesoft, subscriber’s, endpoint, real, time]
 ---
-
-# FHIR Subscription
 
 > Publishers can use the Fast Healthcare Interoperability Resources (FHIR) Subscription
   data model to store subscription topics, subscriber details, the filters and parameters applied to

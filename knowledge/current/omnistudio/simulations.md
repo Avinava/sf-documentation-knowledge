@@ -5,12 +5,10 @@ topic: simulations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.915Z
+lastCollected: 2026-04-07T18:36:38.574Z
 estimatedTokens: 509
-keywords: [Simulations, Retrieve, input, variables, expression, run, simulation]
+keywords: [Simulations, Retrieve, variables, expression, run, simulation]
 ---
-
-# Simulations
 
 > Retrieve the input variables of an expression set that are required to
       run a simulation. Run a simulation.

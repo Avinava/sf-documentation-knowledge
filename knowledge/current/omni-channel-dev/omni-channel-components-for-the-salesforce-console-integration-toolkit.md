@@ -5,12 +5,10 @@ topic: omni-channel-components-for-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.380Z
+lastCollected: 2026-04-07T18:38:45.203Z
 estimatedTokens: 327
-keywords: [Omni-Channel, Components, Salesforce, Console, Integration, Toolkit, includes, several, objects, let, control, how, works, organization, org]
+keywords: [Omni-Channel, Salesforce, Console, Integration, Toolkit, includes, several, let, control, how, works, organization, org, Classic]
 ---
-
-# Omni-Channel Components for the Salesforce Console Integration Toolkit
 
 > The Salesforce Console Integration Toolkit includes several objects that let you
     control how Omni-Channel works within the Salesforce console for your organization. If your org

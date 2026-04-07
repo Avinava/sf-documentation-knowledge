@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:55.303Z
+lastCollected: 2026-04-07T18:37:43.467Z
 estimatedTokens: 5630
 keywords: [Bodies, Health, Cloud, Business, APIs, query, endpoint, listed, along, resource]
 ---
-
-# Request Bodies
 
 > This section lists the request bodies for Health Cloud Business APIs. The query
   parameters for an endpoint are listed along with each resource.

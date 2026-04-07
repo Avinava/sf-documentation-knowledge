@@ -5,12 +5,10 @@ topic: release-notes-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:46.139Z
+lastCollected: 2026-04-07T18:37:33.503Z
 estimatedTokens: 198
 keywords: [Release, Notes, LWR, Sites, Salesforce, recent, updates, changes, Experience, Cloud]
 ---
-
-# Release Notes for LWR Sites
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   LWR sites for Experience Cloud.

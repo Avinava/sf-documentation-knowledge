@@ -6,13 +6,10 @@ topic: whats-new-in-mobile-sdk-111
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:30.586Z
+lastCollected: 2026-04-07T18:40:25.968Z
 estimatedTokens: 1603
-keywords: [What’s, New, Mobile, SDK, 11.1, 11.1.0, minor, release, features, modernized, support, iOS, Android, How, Upgrade]
+keywords: [What’s, New, Mobile, SDK, 11.1, 11.1.0, minor, release, features, modernized, support, iOS, Android, How, Upgrade, Apps, General, Updates]
 ---
-
-# What’s New in Mobile SDK
-                11.1
 
 > Mobile SDK 11.1.0 is a minor release that features modernized support for iOS and
                         Android.

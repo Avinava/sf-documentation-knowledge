@@ -5,12 +5,10 @@ topic: donor-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.014Z
+lastCollected: 2026-04-07T18:37:29.123Z
 estimatedTokens: 333
-keywords: [Donor, Input, representation, that’s, associated, gift, transaction]
+keywords: [Donor, that’s, gift, transaction]
 ---
-
-# Donor Details Input
 
 > Input representation of the donor details that’s associated with the gift
     transaction.

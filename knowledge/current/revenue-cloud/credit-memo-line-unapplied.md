@@ -5,12 +5,10 @@ topic: credit-memo-line-unapplied
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.696Z
+lastCollected: 2026-04-07T18:35:45.697Z
 estimatedTokens: 163
-keywords: [Credit, Memo, Line, Unapplied, Output, representation, invoice, record, status]
+keywords: [Credit, Memo, Line, Unapplied, invoice, record, status]
 ---
-
-# Credit Memo Line Unapplied
 
 > Output representation of the details of the credit memo line invoice line record with
     the status of the request.

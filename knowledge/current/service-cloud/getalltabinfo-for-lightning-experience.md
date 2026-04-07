@@ -5,12 +5,10 @@ topic: getalltabinfo-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.607Z
+lastCollected: 2026-04-07T18:36:49.769Z
 estimatedTokens: 306
-keywords: [getAllTabInfo, Lightning, Experience, open, tabs, works, console, apps, Arguments, LWC, Sample, Code, Aura, Components]
+keywords: [Arguments, getAllTabInfo, Lightning, Experience, open, tabs, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# getAllTabInfo() for Lightning Experience
 
 > Returns information about all open tabs. This method works only in Lightning console
         apps.

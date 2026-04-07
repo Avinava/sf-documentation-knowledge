@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappdeplpkgasc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.944Z
+lastCollected: 2026-04-07T18:39:12.462Z
 estimatedTokens: 614
-keywords: [recipient, deployment, package, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Depl, _Pkg, _As, Calls]
+keywords: [recipient, deployment, package, API, 53.0, cgc, _sync, _Mobile, _App, _Depl, _Pkg, _As]
 ---
-
-# cgc_sync__Sync_Mobile_App_Depl_Pkg_As__c
 
 > Contains information about the recipient of the deployment
          package. This object is available in API version 53.0 and later.

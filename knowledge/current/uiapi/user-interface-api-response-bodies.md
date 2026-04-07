@@ -5,12 +5,10 @@ topic: user-interface-api-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.975Z
+lastCollected: 2026-04-07T18:40:11.980Z
 estimatedTokens: 238
 keywords: [User, API, Bodies, resource, contain, nested]
 ---
-
-# User Interface API Response Bodies
 
 > A request to a resource returns a response body. Some response bodies also contain
     nested response bodies.

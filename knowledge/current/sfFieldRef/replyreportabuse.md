@@ -5,12 +5,10 @@ topic: replyreportabuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.052Z
+lastCollected: 2026-04-07T18:39:59.723Z
 estimatedTokens: 220
 keywords: [ReplyReportAbuse, user-reported, abuse, Reply, Chatter, Answers, zone]
 ---
-
-# ReplyReportAbuse
 
 > Represents a user-reported abuse
         on a Reply in a

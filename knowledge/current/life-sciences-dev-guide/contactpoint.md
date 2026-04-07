@@ -5,12 +5,10 @@ topic: contactpoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.526Z
+lastCollected: 2026-04-07T18:37:58.059Z
 estimatedTokens: 483
-keywords: [ContactPoint, FHIR, resource, maps, Contact​Point​Phone​, Salesforce, V4.0, Clinical, Data, Model, Mapping]
+keywords: [ContactPoint, FHIR, resource, maps, Contact​Point​Phone​, Salesforce, V4.0, Clinical, Model, Mapping]
 ---
-
-# ContactPoint
 
 > The ContactPoint FHIR resource maps to the
       Contact​Point​Phone​ object in Salesforce.

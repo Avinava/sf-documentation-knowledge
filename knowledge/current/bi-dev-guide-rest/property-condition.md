@@ -5,12 +5,10 @@ topic: property-condition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.035Z
+lastCollected: 2026-04-07T18:36:57.558Z
 estimatedTokens: 108
 keywords: [Condition, connection, visible]
 ---
-
-# Property Condition
 
 > A condition where the connection property is visible.
 

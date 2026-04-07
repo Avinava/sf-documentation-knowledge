@@ -5,12 +5,10 @@ topic: care-plan-templates-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.534Z
+lastCollected: 2026-04-07T18:39:01.678Z
 estimatedTokens: 273
 keywords: [Care, Plan, Templates, POST, template, records]
 ---
-
-# Care Plan Templates (POST)
 
 > Create care plan template records.
 

@@ -5,12 +5,10 @@ topic: electricity-emissions-factor-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.106Z
+lastCollected: 2026-04-07T18:38:16.680Z
 estimatedTokens: 2372
-keywords: [Electricity, Emissions, Factor, factors, convert, usage, CO₂e, CO₂, CH₄, N₂O, record, holds, data, breakdown, sources]
+keywords: [Electricity, Emissions, Factor, factors, convert, CO₂e, CO₂, CH₄, N₂O, record, holds, breakdown, sources, fuel, grid, mixes]
 ---
-
-# Electricity Emissions Factor Set
 
 > The Electricity Emissions Factor Set object represents the factors that are used to
     convert electricity usage into CO₂e, CO₂, CH₄, and N₂O values. This record holds data on the

@@ -5,12 +5,10 @@ topic: mobile-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.720Z
+lastCollected: 2026-04-07T18:37:57.243Z
 estimatedTokens: 144
 keywords: [Mobile, Metadata, cache, Life, Sciences, Cloud, Customer, Engagement, application]
 ---
-
-# Mobile Metadata
 
 > Mobile Metadata represents a metadata cache for the Life Sciences Cloud for Customer
   Engagement mobile application.

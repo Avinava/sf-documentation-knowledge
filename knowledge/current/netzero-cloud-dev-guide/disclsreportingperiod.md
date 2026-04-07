@@ -5,12 +5,10 @@ topic: disclsreportingperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.621Z
+lastCollected: 2026-04-07T18:38:18.130Z
 estimatedTokens: 996
-keywords: [DisclsReportingPeriod, corporate, reporting, period, stakeholder, disclosure, reports, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [DisclsReportingPeriod, corporate, reporting, period, stakeholder, disclosure, reports, API, 57.0]
 ---
-
-# DisclsReportingPeriod
 
 > Represents a corporate reporting period that is used for stakeholder
          disclosure reports. This object is available in API version 57.0 and

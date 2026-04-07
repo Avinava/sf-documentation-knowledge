@@ -5,12 +5,10 @@ topic: subscriberstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.299Z
+lastCollected: 2026-04-07T18:40:20.538Z
 estimatedTokens: 307
 keywords: [SubscriberStatus, status, subscriber]
 ---
-
-# SubscriberStatus
 
 > The SubscriberStatus object specifies the status of a subscriber.
 

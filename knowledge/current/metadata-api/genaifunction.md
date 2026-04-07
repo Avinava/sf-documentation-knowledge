@@ -5,12 +5,10 @@ topic: genaifunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.980Z
+lastCollected: 2026-04-07T18:36:26.432Z
 estimatedTokens: 2807
-keywords: [GenAiFunction, agent, action, added, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, GenAiPlannerAttr, Input]
+keywords: [GenAiFunction, GenAiPlannerAttr, agent, action, added, Parent, File, Suffix, Directory, Location, Folder, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# GenAiFunction
 
 > Represents an agent action that can be added to an AI agent.
 

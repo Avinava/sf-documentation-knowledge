@@ -5,12 +5,10 @@ topic: view-details-about-your-converted-2gp-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.747Z
+lastCollected: 2026-04-07T18:38:54.114Z
 estimatedTokens: 380
 keywords: [View, Converted, 2GP, Package, you’ve, 1GP, two, Salesforce, CLI, commands, retrieve, packages]
 ---
-
-# View Details about Your Converted 2GP Package
 
 > So you’ve converted your 1GP package to a 2GP package. You can use one of two Salesforce
   CLI commands to retrieve details about your 2GP packages.

@@ -5,12 +5,10 @@ topic: group-census-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.948Z
+lastCollected: 2026-04-07T18:37:50.873Z
 estimatedTokens: 1007
-keywords: [Group, Census, Member, Input, representation]
+keywords: [Group, Census, Member]
 ---
-
-# Group Census Member Input
 
 > Input representation for the details of the group census member.
 

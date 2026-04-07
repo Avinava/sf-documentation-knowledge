@@ -5,12 +5,10 @@ topic: dashboard-saved-view-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.320Z
+lastCollected: 2026-04-07T18:36:54.682Z
 estimatedTokens: 87
-keywords: [Dashboard, Saved, View, Filter, Input, Analytics]
+keywords: [Dashboard, Saved, View, Filter, Analytics]
 ---
-
-# Dashboard Saved View Filter Input
 
 > A filter for an Analytics dashboard saved view.
 

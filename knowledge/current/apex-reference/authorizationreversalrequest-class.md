@@ -5,13 +5,11 @@ topic: authorizationreversalrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.552Z
+lastCollected: 2026-04-07T18:36:01.785Z
 estimatedTokens: 1693
 namespace: CommercePayments
 keywords: [AuthorizationReversalRequest, authorization, reversal, gateway, adapter, service, call, amount, authorizationId, accountId, paymentAuthorizationId, equals, obj, hashCode, toString]
 ---
-
-# AuthorizationReversalRequest Class
 
 > Sends information about an authorization reversal request to a gateway
       adapter during a service call.

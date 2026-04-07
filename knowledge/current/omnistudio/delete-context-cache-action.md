@@ -5,12 +5,10 @@ topic: delete-context-cache-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.664Z
+lastCollected: 2026-04-07T18:36:35.131Z
 estimatedTokens: 220
-keywords: [Context, Cache, Action, instance, in-memory, provided, removes, cached, data, maintained, service, performing, any, database, write]
+keywords: [Inputs, Outputs, Context, Cache, Action, instance, in-memory, provided, removes, cached, maintained, service, performing, any, database, write, operations, REST, HTTP]
 ---
-
-# Delete Context Cache Action
 
 > Delete the specified context instance from the in-memory context cache using the
         provided context ID. This action removes the cached data maintained by the context cache

@@ -5,12 +5,10 @@ topic: snapshot-index
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.821Z
+lastCollected: 2026-04-07T18:35:46.822Z
 estimatedTokens: 362
-keywords: [Snapshot, Index, Output, representation, run-time, catalog]
+keywords: [Snapshot, Index, run-time, catalog]
 ---
-
-# Snapshot Index
 
 > Output representation of the snapshot index of a run-time catalog.
 

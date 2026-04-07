@@ -5,12 +5,10 @@ topic: group-banner-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.177Z
+lastCollected: 2026-04-07T18:37:14.139Z
 estimatedTokens: 892
 keywords: [Group, Banner, Photo]
 ---
-
-# Group Banner Photo
 
 > Get, create, or delete the banner photo for a
     group.

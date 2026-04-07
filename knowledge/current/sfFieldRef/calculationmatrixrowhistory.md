@@ -5,12 +5,10 @@ topic: calculationmatrixrowhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.839Z
+lastCollected: 2026-04-07T18:39:31.130Z
 estimatedTokens: 269
-keywords: [CalculationMatrixRowHistory, History, tracked, CalculationMatrixRow]
+keywords: [CalculationMatrixRowHistory, tracked, CalculationMatrixRow]
 ---
-
-# CalculationMatrixRowHistory
 
 > History for tracked fields of CalculationMatrixRow.
 

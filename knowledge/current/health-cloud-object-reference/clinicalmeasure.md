@@ -5,12 +5,10 @@ topic: clinicalmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:57.895Z
+lastCollected: 2026-04-07T18:37:46.473Z
 estimatedTokens: 2725
-keywords: [ClinicalMeasure, structured, computable, definition, health-related, measure, identifying, care, gaps, API, version, 59.0, later, Calls, Associated]
+keywords: [ClinicalMeasure, structured, computable, definition, health-related, measure, identifying, care, gaps, API, 59.0]
 ---
-
-# ClinicalMeasure
 
 > Represents a structured and computable definition of a health-related measure
          for identifying care gaps. This object is available in API version 59.0 and

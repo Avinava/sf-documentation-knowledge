@@ -5,12 +5,10 @@ topic: asset-xmd-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.981Z
+lastCollected: 2026-04-07T18:36:56.540Z
 estimatedTokens: 143
-keywords: [Asset, Xmd, Resource, extended, metadata, associated, dashboard, URL, Formats, Version, HTTP]
+keywords: [Formats, Asset, Xmd, Resource, extended, metadata, dashboard, URL, HTTP]
 ---
-
-# Asset Xmd Resource
 
 > Returns the extended metadata (Xmd) that is associated with an asset, like a
   dashboard.

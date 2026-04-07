@@ -5,12 +5,10 @@ topic: sample-management-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.379Z
+lastCollected: 2026-04-07T18:38:12.672Z
 estimatedTokens: 235
 keywords: [Sample, Management, POST, Creates, updates, versions, Product, Requirement, Specification, records]
 ---
-
-# Sample Management (POST)
 
 > Creates, updates, or versions Product Requirement Specification records.
 

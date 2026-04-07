@@ -5,12 +5,10 @@ topic: ideacomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.434Z
+lastCollected: 2026-04-07T18:38:33.590Z
 estimatedTokens: 769
-keywords: [IdeaComment, comment, user, submitted, idea, Calls, Usage]
+keywords: [IdeaComment, comment, user, submitted, idea]
 ---
-
-# IdeaComment
 
 > Represents a comment that a user has submitted
     in response to an idea.

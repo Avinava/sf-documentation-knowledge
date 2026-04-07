@@ -5,12 +5,10 @@ topic: eventrelayfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.942Z
+lastCollected: 2026-04-07T18:38:31.852Z
 estimatedTokens: 1193
-keywords: [EventRelayFeedback, execution, state, event, relay, Salesforce, Amazon, EventBridge, platform, events, change, data, capture, Query, status]
+keywords: [EventRelayFeedback, execution, state, event, relay, Salesforce, Amazon, EventBridge, platform, events, change, capture, Query, status, any, error, message, API, 56.0, Codes]
 ---
-
-# EventRelayFeedback
 
 > Represents execution state information about an event relay from Salesforce
          to Amazon EventBridge for platform events and change data capture events. Query this object

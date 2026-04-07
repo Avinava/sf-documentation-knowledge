@@ -5,12 +5,10 @@ topic: userservicepresence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.092Z
+lastCollected: 2026-04-07T18:38:43.866Z
 estimatedTokens: 1374
-keywords: [UserServicePresence, presence, user’s, real-time, status, API, version, 32.0, later, Calls, Special, Access, Rules, Usage, Associated]
+keywords: [UserServicePresence, presence, user’s, real-time, status, API, 32.0]
 ---
-
-# UserServicePresence
 
 > Represents a presence user’s real-time presence status. This
 		object is available in API version 32.0 and later.

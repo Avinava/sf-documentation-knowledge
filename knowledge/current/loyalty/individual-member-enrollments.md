@@ -5,12 +5,10 @@ topic: individual-member-enrollments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.288Z
+lastCollected: 2026-04-07T18:38:07.508Z
 estimatedTokens: 943
-keywords: [Individual, Member, Enrollments, Enroll, members, loyalty, program, person, account, record, new, asynchronously, sending, data, API, Resource, Input, Sample, Output]
+keywords: [Individual, Member, Enrollments, Enroll, members, loyalty, program, person, account, record, new, Resource, asynchronously, sending, API, Sample]
 ---
-
-# Individual Member Enrollments
 
 > Enroll individual members in a loyalty program. Create a person
       account and an Individual type loyalty program member record for the new

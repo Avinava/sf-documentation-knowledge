@@ -5,12 +5,10 @@ topic: get-started-with-ingestion-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:06.605Z
+lastCollected: 2026-04-07T18:35:51.466Z
 estimatedTokens: 1521
-keywords: [Started, Ingestion, API, Data, Cloud, prerequisites, authentication, know, limits, apply, bulk, streaming, Ingest, Status, Codes]
+keywords: [Prerequisites, Authentication, Started, Ingestion, API, Cloud, know, limits, apply, bulk, streaming, Ingest, Status, Codes, Error, Responses, Upload]
 ---
-
-# Get Started with Ingestion API
 
 > Before using Ingestion API in Data Cloud, complete the prerequisites, set
   up authentication, and know the limits that apply to bulk ingestion and streaming

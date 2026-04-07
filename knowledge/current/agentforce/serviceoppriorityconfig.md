@@ -5,12 +5,10 @@ topic: serviceoppriorityconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.390Z
+lastCollected: 2026-04-07T18:35:55.510Z
 estimatedTokens: 544
-keywords: [ServiceOpPriorityConfig, configuration, determines, priority, service, operation, incident, problem, change, impact, urgency, API, version, 65.0, later]
+keywords: [ServiceOpPriorityConfig, configuration, determines, priority, service, operation, incident, problem, change, impact, urgency, API, 65.0, SOAP, REST]
 ---
-
-# ServiceOpPriorityConfig
 
 > Represents the configuration that determines the priority of a service
          operation, such as an incident, problem, or a change request based on impact and

@@ -5,12 +5,10 @@ topic: checkout-order-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.913Z
+lastCollected: 2026-04-07T18:37:07.634Z
 estimatedTokens: 190
-keywords: [Checkout, Order, Action, Input, representation, including]
+keywords: [Checkout, Order, Action, including]
 ---
-
-# Checkout Order Action Input
 
 > Input representation of the Checkout Order action request, including the action and its
     parameters for a single order.

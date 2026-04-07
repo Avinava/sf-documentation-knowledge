@@ -5,12 +5,10 @@ topic: salesforce-knowledge-apex-and-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.654Z
+lastCollected: 2026-04-07T18:37:53.944Z
 estimatedTokens: 377
-keywords: [Salesforce, Knowledge, Apex, Visualforce, power, customize, look, feel, base, custom, search, pages, robust, article, publishing]
+keywords: [Salesforce, Knowledge, Apex, Visualforce, power, customize, look, feel, base, search, pages, robust, article, publishing, cycle]
 ---
-
-# Salesforce Knowledge, Apex, and Visualforce
 
 > With the power of Apex and Visualforce, you can customize the look and feel of your
   knowledge base; for example, with custom search pages or a robust article publishing

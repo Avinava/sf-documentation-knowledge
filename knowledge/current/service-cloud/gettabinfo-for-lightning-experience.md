@@ -5,12 +5,10 @@ topic: gettabinfo-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.674Z
+lastCollected: 2026-04-07T18:36:49.841Z
 estimatedTokens: 372
-keywords: [getTabInfo, Lightning, Experience, tab, works, console, apps, Arguments, LWC, Sample, Code, Aura, Components]
+keywords: [Arguments, getTabInfo, Lightning, Experience, tab, works, console, apps, LWC, Sample, Code, Aura]
 ---
-
-# getTabInfo() for Lightning Experience
 
 > Returns information about the specified tab. This method works only in Lightning console
         apps.

@@ -5,12 +5,10 @@ topic: ocr-document-scan-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.807Z
+lastCollected: 2026-04-07T18:39:03.921Z
 estimatedTokens: 89
-keywords: [OCR, Document, Scan, Result, Output, representation, results, IDs]
+keywords: [OCR, Document, Scan, Result, results, IDs]
 ---
-
-# OCR Document Scan Result List
 
 > Output representation of the list of the OCR document scan results
    IDs.

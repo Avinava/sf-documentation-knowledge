@@ -5,12 +5,10 @@ topic: programrebatetypefilterfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.416Z
+lastCollected: 2026-04-07T18:39:56.977Z
 estimatedTokens: 302
-keywords: [ProgramRebateTypeFilterFeed, Feed, tracking, ProgramRebateTypeFilter]
+keywords: [ProgramRebateTypeFilterFeed, ProgramRebateTypeFilter]
 ---
-
-# ProgramRebateTypeFilterFeed
 
 > Feed tracking for ProgramRebateTypeFilter.
 

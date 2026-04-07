@@ -5,12 +5,10 @@ topic: actionplantemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.540Z
+lastCollected: 2026-04-07T18:37:30.609Z
 estimatedTokens: 462
-keywords: [ActionPlanTemplateAssignment, junction, action, plant, template's, version, target, Care, Plan, Template, Benefit, Goal, Definition, associated, API]
+keywords: [ActionPlanTemplateAssignment, junction, action, plant, template's, target, Care, Plan, Template, Benefit, Goal, Definition, API, 60.0]
 ---
-
-# ActionPlanTemplateAssignment
 
 > Represents a junction between an action plant template's version and the
          target object (Care Plan Template, Benefit, and Goal Definition) associated with them.

@@ -5,12 +5,10 @@ topic: design-document-template-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.910Z
+lastCollected: 2026-04-07T18:37:24.874Z
 estimatedTokens: 210
-keywords: [Design, Document, Template, Resources, Manage, Salesforce, Contracts, maintain, associated, opportunities, orders, quotes, throughout, sales, cycle]
+keywords: [Design, Document, Template, Resources, Manage, Salesforce, Contracts, maintain, opportunities, orders, quotes, throughout, sales, cycle, resource, dynamic, documents, various, purposes, proposals, order, enhancing, overall, management, workflow]
 ---
-
-# Design Document Template Resources
 
 > Manage Salesforce Contracts with Design Document Template Resources. Create, manage,
       and maintain contracts associated with opportunities, orders, and quotes throughout the sales

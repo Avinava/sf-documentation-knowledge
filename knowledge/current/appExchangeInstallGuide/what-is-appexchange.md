@@ -5,12 +5,10 @@ topic: what-is-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.419Z
+lastCollected: 2026-04-07T18:36:51.782Z
 estimatedTokens: 537
-keywords: [AppExchange, marketplace, offering, solutions, apps, components, consulting, services, own, solution, publicly, potential, customers, Salesforce, partner]
+keywords: [AppExchange, marketplace, offering, solutions, apps, consulting, services, own, solution, publicly, potential, customers, Salesforce, partner, How, Work]
 ---
-
-# What Is AppExchange?
 
 > AppExchange is a marketplace offering solutions, such as apps, components, and
   consulting services. To make your own solution publicly available to potential customers, you must

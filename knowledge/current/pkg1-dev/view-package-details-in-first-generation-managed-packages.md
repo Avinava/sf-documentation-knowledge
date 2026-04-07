@@ -5,12 +5,10 @@ topic: view-package-details-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:01.542Z
+lastCollected: 2026-04-07T18:38:53.853Z
 estimatedTokens: 2216
-keywords: [View, Package, First-Generation, Managed, Packages, Setup, enter, Quick, box, select, Click, including, added, components, whether]
+keywords: [View, Package, First-Generation, Managed, Packages, Setup, enter, Quick, box, select, Click, including, added, whether, it’s, uploaded, Patch, Development, Orgs]
 ---
-
-# View Package Details in First-Generation Managed Packages
 
 > From Setup, enter Packages in the Quick
     Find box, then select Packages. Click the name of a

@@ -5,12 +5,10 @@ topic: query-multi-select-picklists
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.872Z
+lastCollected: 2026-04-07T18:40:09.811Z
 estimatedTokens: 343
-keywords: [Query, Multi-Select, Picklists, search, individual, regularly, client, applications, Examples]
+keywords: [Examples, Query, Multi-Select, Picklists, search, individual, regularly, client, applications]
 ---
-
-# Query Multi-Select Picklists
 
 > You can search for individual values in multi-select picklists, which are regularly used
   in client applications.

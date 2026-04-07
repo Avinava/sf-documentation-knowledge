@@ -5,12 +5,10 @@ topic: knowledgeableuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.780Z
+lastCollected: 2026-04-07T18:38:33.960Z
 estimatedTokens: 218
-keywords: [KnowledgeableUser, user, identified, knowledgeable, specific, topic, ranks, relative, users, API, version, 31.0, later, Calls]
+keywords: [KnowledgeableUser, user, identified, knowledgeable, specific, topic, ranks, relative, users, API, 31.0]
 ---
-
-# KnowledgeableUser
 
 > Represents a user identified as knowledgeable about a specific topic,
    and ranks them relative to other knowledgeable users. This object is available in API

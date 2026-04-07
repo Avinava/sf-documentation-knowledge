@@ -5,12 +5,10 @@ topic: prerequisite-define-a-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.137Z
+lastCollected: 2026-04-07T18:38:57.952Z
 estimatedTokens: 249
-keywords: [Prerequisite, Define, Platform, Event, examples, depend, predefined, custom, Order_Event__e, Salesforce, steps]
+keywords: [Prerequisite, Define, Platform, Event, examples, depend, predefined, Order_Event__e, Salesforce, steps]
 ---
-
-# Prerequisite: Define a Platform Event
 
 > The examples in this section depend on a predefined custom platform event called
   Order_Event__e. To define this event in Salesforce, complete these steps.

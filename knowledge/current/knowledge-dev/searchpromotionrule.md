@@ -5,12 +5,10 @@ topic: searchpromotionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.248Z
+lastCollected: 2026-04-07T18:37:54.577Z
 estimatedTokens: 349
-keywords: [SearchPromotionRule, promoted, search, term, keywords, associate, Salesforce, Knowledge, article, user’s, query, includes, associated, results, API]
+keywords: [SearchPromotionRule, promoted, search, term, keywords, associate, Salesforce, Knowledge, article, user’s, query, includes, results, API, 31.0]
 ---
-
-# SearchPromotionRule
 
 > Represents a promoted search term, which is one or more keywords that
    you associate with a Salesforce Knowledge article. When a user’s search query includes

@@ -5,12 +5,10 @@ topic: vehicleassetcrbnftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.808Z
+lastCollected: 2026-04-07T18:40:05.674Z
 estimatedTokens: 937
-keywords: [VehicleAssetCrbnFtprnt, total, carbon, emissions, vehicles, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent]
+keywords: [VehicleAssetCrbnFtprnt, total, carbon, emissions, vehicles, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# VehicleAssetCrbnFtprnt
 
 > Represents the total carbon emissions from vehicles. Carbon footprint
          quantifies the effect of atmospheric warming, which is represented in metric tonnes of

@@ -5,12 +5,10 @@ topic: create-out-of-sequence-policy-endorsement-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.978Z
+lastCollected: 2026-04-07T18:37:48.691Z
 estimatedTokens: 252
-keywords: [Out-of-sequence, Policy, Endorsement, Action, insurance, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Out-of-sequence, Policy, Endorsement, Action, insurance, REST, HTTP]
 ---
-
-# Create Out-of-sequence  Policy Endorsement Action
 
 > Create an out-of-sequence endorsement for an insurance policy.
 

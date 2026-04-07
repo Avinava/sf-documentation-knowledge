@@ -5,12 +5,10 @@ topic: smart-data-discovery-custom-prescribable-field-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.140Z
+lastCollected: 2026-04-07T18:36:58.647Z
 estimatedTokens: 128
-keywords: [Smart, Data, Discovery, Custom, Prescribable, Definition, Input, Einstein, override, prescription, text]
+keywords: [Smart, Discovery, Prescribable, Definition, Einstein, override, prescription, text]
 ---
-
-# Smart Data Discovery Custom Prescribable Field Definition Input
 
 > The input for a custom Einstein Discovery prescribable field definition to override default prescription text.
 

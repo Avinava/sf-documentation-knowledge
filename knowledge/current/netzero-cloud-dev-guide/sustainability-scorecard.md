@@ -5,12 +5,10 @@ topic: sustainability-scorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.363Z
+lastCollected: 2026-04-07T18:38:16.956Z
 estimatedTokens: 1185
-keywords: [Sustainability, Scorecard, calculate, annual, third-party, organizations, whose, data, scope, emissions]
+keywords: [Sustainability, Scorecard, calculate, annual, third-party, organizations, whose, scope, emissions]
 ---
-
-# Sustainability Scorecard
 
 > You can calculate the annual sustainability scorecard of third-party organizations whose
   data is used to calculate scope 3 emissions.

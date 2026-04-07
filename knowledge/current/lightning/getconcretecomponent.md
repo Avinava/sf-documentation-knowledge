@@ -5,12 +5,10 @@ topic: getconcretecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.192Z
+lastCollected: 2026-04-07T18:38:05.391Z
 estimatedTokens: 119
-keywords: [getConcreteComponent, concrete, implementation, component, itself, call, super]
+keywords: [getConcreteComponent, concrete, implementation, itself, call, super]
 ---
-
-# getConcreteComponent()
 
 > Gets the concrete implementation of a component. If the component is
    concrete, the method returns the component itself. For example, call this method to get the

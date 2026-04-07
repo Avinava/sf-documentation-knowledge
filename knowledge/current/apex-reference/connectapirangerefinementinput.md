@@ -5,12 +5,10 @@ topic: connectapirangerefinementinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.869Z
+lastCollected: 2026-04-07T18:36:06.224Z
 estimatedTokens: 182
 keywords: [ConnectApi.RangeRefinementInput, Attribute-based, refinement, minimum, maximum, numeric, product, search]
 ---
-
-# ConnectApi.RangeRefinementInput
 
 > Attribute-based refinement with minimum or maximum numeric values for product
     search.

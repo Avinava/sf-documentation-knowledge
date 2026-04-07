@@ -5,12 +5,10 @@ topic: servicecrewmemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.699Z
+lastCollected: 2026-04-07T18:40:01.464Z
 estimatedTokens: 266
-keywords: [ServiceCrewMemberHistory, History, tracked, ServiceCrewMember]
+keywords: [ServiceCrewMemberHistory, tracked, ServiceCrewMember]
 ---
-
-# ServiceCrewMemberHistory
 
 > History for tracked fields of ServiceCrewMember.
 

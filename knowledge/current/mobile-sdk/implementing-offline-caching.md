@@ -5,12 +5,10 @@ topic: implementing-offline-caching
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.103Z
+lastCollected: 2026-04-07T18:40:25.474Z
 estimatedTokens: 168
 keywords: [Implementing, Offline, Caching, support, Mobile, Sync, requires, supply, own, implementations, few, tasks]
 ---
-
-# Implementing Offline Caching
 
 > To support offline caching, Mobile Sync requires you to supply your
 own implementations of a few tasks:

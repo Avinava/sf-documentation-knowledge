@@ -5,12 +5,10 @@ topic: vpl360csrcreatesetupintentcsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:21.242Z
+lastCollected: 2026-04-07T18:38:11.561Z
 estimatedTokens: 145
-keywords: [VPL360CSR_CreateSetupIntentCSR, Integration, Procedure, creates, setup, intent, confirming, payment, VPL360CSR, _CreateSetupIntentCSR, Sample, Input, Output, Calls]
+keywords: [VPL360CSR_CreateSetupIntentCSR, Integration, Procedure, creates, setup, intent, confirming, payment, VPL360CSR, _CreateSetupIntentCSR, Sample]
 ---
-
-# VPL360CSR_CreateSetupIntentCSR
 
 > This Integration Procedure creates setup intent before
       confirming payment.

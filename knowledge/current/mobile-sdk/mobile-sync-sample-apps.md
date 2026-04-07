@@ -6,13 +6,10 @@ topic: mobile-sync-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.397Z
+lastCollected: 2026-04-07T18:40:27.569Z
 estimatedTokens: 279
-keywords: [Mobile, Sync, Sample, Apps, Salesforce, SDK, demonstrate, how, hybrid, Account, Editor, full-featured, samples, switch, simpler]
+keywords: [Mobile, Sync, Sample, Apps, Salesforce, SDK, demonstrate, how, hybrid, Account, Editor, full-featured, samples, switch, simpler, changing, startPage, bootconfig.json, file, Running, iOS, Android]
 ---
-
-# Mobile Sync Sample
-  Apps
 
 > Salesforce Mobile SDK provides sample apps that demonstrate
  how  to use Mobile Sync in hybrid apps. Account Editor is the most full-featured

@@ -5,12 +5,10 @@ topic: recordalertactionabletargetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.307Z
+lastCollected: 2026-04-07T18:39:58.957Z
 estimatedTokens: 366
-keywords: [RecordAlertActionableTargetFeed, Feed, tracking, RecordAlertActionableTarget]
+keywords: [RecordAlertActionableTargetFeed, RecordAlertActionableTarget]
 ---
-
-# RecordAlertActionableTargetFeed
 
 > Feed tracking for RecordAlertActionableTarget.
 

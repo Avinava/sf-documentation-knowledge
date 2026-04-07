@@ -5,12 +5,10 @@ topic: send-a-direct-message
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.285Z
+lastCollected: 2026-04-07T18:37:24.329Z
 estimatedTokens: 514
 keywords: [Send, Direct, Message]
 ---
-
-# Send a Direct Message
 
 > Send a direct message.
 

@@ -5,13 +5,11 @@ topic: insurance-brokerage-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.658Z
+lastCollected: 2026-04-07T18:37:52.866Z
 estimatedTokens: 170
 namespace: ConnectApi
-keywords: [Insurance, Brokerage, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce]
+keywords: [Insurance, Brokerage, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, grouped]
 ---
-
-# Insurance Brokerage Apex Reference
 
 > Apex is a strongly typed, object-oriented programming language that developers can use
     to execute flow and transaction control statements on the Salesforce Platform server, in

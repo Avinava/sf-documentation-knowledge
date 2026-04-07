@@ -5,12 +5,10 @@ topic: work-with-small-datasets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.036Z
+lastCollected: 2026-04-07T18:40:07.982Z
 estimatedTokens: 1976
-keywords: [Work, Small, Datasets, data, export, import, tree, commands, move, orgs, fewer, records, JSON, files, describe]
+keywords: [Work, Small, Datasets, export, import, tree, commands, move, orgs, fewer, records, JSON, files, describe, Salesforce, relationships, Developers, quickly, easily, representative, scratch, org, developing, testing, their, code, Parent, Child, Junction]
 ---
-
-# Work With Small Datasets
 
 > Use the data export|import tree commands to move
         small sets of data between orgs, such as fewer than 3,000 records. These commands use JSON

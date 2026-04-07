@@ -5,12 +5,10 @@ topic: financial-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.549Z
+lastCollected: 2026-04-07T18:37:35.158Z
 estimatedTokens: 95
 keywords: [Financial, Result, POST, PATCH]
 ---
-
-# Financial Result
 
 > Financial result of the POST or PATCH request.
 

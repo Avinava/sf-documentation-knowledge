@@ -5,12 +5,10 @@ topic: audience-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.751Z
+lastCollected: 2026-04-07T18:37:16.818Z
 estimatedTokens: 141
 keywords: [Audience, Target, assigned]
 ---
-
-# Audience Target
 
 > Audience assigned to a target.
 

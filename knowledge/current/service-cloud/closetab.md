@@ -5,12 +5,10 @@ topic: closetab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:02.822Z
+lastCollected: 2026-04-07T18:36:48.879Z
 estimatedTokens: 561
-keywords: [closeTab, Closes, primary, tab, subtab, Keep, mind, closing, itself, API, version, 20.0, later, Arguments, Sample]
+keywords: [Arguments, closeTab, Closes, primary, tab, subtab, Keep, mind, closing, itself, API, 20.0, Sample, Code, Later–Visualforce, 35.0]
 ---
-
-# closeTab()
 
 > Closes a specified primary tab or subtab. Keep in mind that
             closing the first tab in a primary tab closes the primary tab itself. This method is only available in API version 20.0 or later.

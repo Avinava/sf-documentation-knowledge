@@ -5,12 +5,10 @@ topic: details-of-contract-document-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.917Z
+lastCollected: 2026-04-07T18:37:24.881Z
 estimatedTokens: 343
 keywords: [Contract, Document, Versions]
 ---
-
-# Details of Contract Document Versions
 
 > Get and create contract document versions.
 

@@ -5,12 +5,10 @@ topic: connectors-call-list-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.106Z
+lastCollected: 2026-04-07T18:37:07.885Z
 estimatedTokens: 82
-keywords: [Connectors, Call, Input, voice, calls, recording]
+keywords: [Connectors, Call, voice, recording]
 ---
-
-# Connectors Call List Input
 
 > List of voice calls and recording properties.
 

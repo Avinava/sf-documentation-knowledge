@@ -5,12 +5,10 @@ topic: updateclaimcoverageclaimid-coverageid-updateclaimcoverageinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.340Z
+lastCollected: 2026-04-07T18:37:49.157Z
 estimatedTokens: 329
-keywords: [UpdateClaimCoverage, claimId, coverageId, UpdateClaimCoverageInput, specific, coverage, claim, API, Version, Requires, Chatter]
+keywords: [UpdateClaimCoverage, claimId, coverageId, UpdateClaimCoverageInput, specific, coverage, claim, API, Requires, Chatter]
 ---
-
-# UpdateClaimCoverage(claimId, coverageId, UpdateClaimCoverageInput)
 
 > Update the details of a specific coverage in a claim.
 

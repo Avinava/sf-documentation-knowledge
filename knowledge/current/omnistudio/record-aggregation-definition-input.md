@@ -5,12 +5,10 @@ topic: record-aggregation-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.315Z
+lastCollected: 2026-04-07T18:36:36.860Z
 estimatedTokens: 124
-keywords: [Record, Aggregation, Definition, Input, representation, Data, Processing, Engine, generation]
+keywords: [Record, Aggregation, Definition, Processing, Engine, generation]
 ---
-
-# Record Aggregation Definition Input
 
 > Input representation of a Record Aggregation Data Processing Engine definition
     generation request.

@@ -5,12 +5,10 @@ topic: medtherapystmtreviewissuehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.804Z
+lastCollected: 2026-04-07T18:39:48.247Z
 estimatedTokens: 283
-keywords: [MedTherapyStmtReviewIssueHistory, History, tracked, MedTherapyStmtReviewIssue]
+keywords: [MedTherapyStmtReviewIssueHistory, tracked, MedTherapyStmtReviewIssue]
 ---
-
-# MedTherapyStmtReviewIssueHistory
 
 > History for tracked fields of MedTherapyStmtReviewIssue.
 

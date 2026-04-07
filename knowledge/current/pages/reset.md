@@ -5,12 +5,10 @@ topic: reset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.076Z
+lastCollected: 2026-04-07T18:38:48.040Z
 estimatedTokens: 106
-keywords: [reset, Forces, controller, reacquire, access, newly, referenced, Any, changes, made, record, prior, call, discarded, Usage]
+keywords: [reset, Forces, controller, reacquire, newly, referenced, Any, changes, made, record, prior, call, discarded]
 ---
-
-# reset()
 
 > Forces the controller to reacquire access to newly referenced
 fields. Any changes made to the record prior to this method call are

@@ -5,12 +5,10 @@ topic: triggered-send-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.597Z
+lastCollected: 2026-04-07T18:40:24.028Z
 estimatedTokens: 222
-keywords: [Triggered, Send, Functions, allow, access, email, feature, via, server-side, JavaScript, Load, Initialization]
+keywords: [Load, Initialization, Triggered, Send, Functions, allow, email, feature, via, server-side, JavaScript]
 ---
-
-# Triggered Send Functions
 
 > These functions allow access to the triggered email feature via server-side JavaScript.
 

@@ -5,12 +5,10 @@ topic: manage-calendar-events-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.170Z
+lastCollected: 2026-04-07T18:38:15.690Z
 estimatedTokens: 679
-keywords: [Manage, Calendar, Events, Mobile, Device, Lightning, web, component, device’s, functionality, calendar-related, actions, occur, event, data]
+keywords: [Manage, Calendar, Events, Mobile, Device, Lightning, web, device’s, functionality, calendar-related, actions, occur, event, invoked]
 ---
-
-# Manage Calendar Events on a Mobile Device
 
 > A Lightning web component can use a device’s calendar functionality to create, read,
     update, and delete calendar events to and from the device. When these calendar-related actions

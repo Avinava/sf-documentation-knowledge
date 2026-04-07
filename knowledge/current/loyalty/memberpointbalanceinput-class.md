@@ -5,13 +5,11 @@ topic: memberpointbalanceinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.651Z
+lastCollected: 2026-04-07T18:38:06.857Z
 estimatedTokens: 109
 namespace: LoyaltyManagement
 keywords: [MemberPointBalanceInput, retrieve, loyalty, points, balance, program, member]
 ---
-
-# MemberPointBalanceInput Class
 
 > Use this class to retrieve loyalty points balance for a given loyalty
       program member.

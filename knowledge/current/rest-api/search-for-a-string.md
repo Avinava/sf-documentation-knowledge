@@ -5,12 +5,10 @@ topic: search-for-a-string
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.748Z
+lastCollected: 2026-04-07T18:36:19.975Z
 estimatedTokens: 451
 keywords: [Search, resource, execute, SOSL, Parameterized, simple, RESTful, POST]
 ---
-
-# Search for a String
 
 > Use the Search resource to execute a SOSL search or use
             the Parameterized Search resource to execute a simple RESTful search without

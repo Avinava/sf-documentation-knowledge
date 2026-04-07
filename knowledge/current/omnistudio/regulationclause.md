@@ -5,12 +5,10 @@ topic: regulationclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.397Z
+lastCollected: 2026-04-07T18:36:45.164Z
 estimatedTokens: 880
-keywords: [RegulationClause, regulation, law, outlining, specific, requirements, sections, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [RegulationClause, regulation, law, outlining, specific, requirements, sections, API, 65.0]
 ---
-
-# RegulationClause
 
 > Represents the information related to a regulation or law outlining specific
          requirements or sections. This object is available in API version 65.0 and later.

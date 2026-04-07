@@ -113,15 +113,50 @@ export function tagDocument(
   };
 }
 
-/** Extract meaningful keywords from title and headings — skip generic noise */
+/**
+ * Extract meaningful keywords from title, description, and headings.
+ *
+ * Two-pass strategy:
+ *   Pass 1: Preserve whole heading names as keywords (e.g. "FlowLoop", "FlowScreen").
+ *           This captures API type names, class names, and component names.
+ *   Pass 2: Extract individual words from title + description for broader coverage.
+ *
+ * Previous limit of 15 keywords caused 42.8% of documents to hit the ceiling,
+ * silently discarding critical search terms.
+ */
 function extractKeywords(
   title: string,
   description: string,
   headings: string[],
 ): string[] {
-  const allText = [title, description, ...headings].join(" ");
+  const seen = new Set<string>();
+  const unique: string[] = [];
 
-  // Split into words, clean and filter noise
+  function addKeyword(w: string) {
+    const key = w.toLowerCase();
+    if (seen.has(key)) return;
+    if (key.length < 3 || key.length > 50) return;
+    if (/^\d+$/.test(key)) return;
+    if (STOP_WORDS.has(key)) return;
+    if (GENERIC_DOC_WORDS.has(key)) return;
+    seen.add(key);
+    unique.push(w);
+  }
+
+  // Pass 1: Add whole heading names as keywords (preserves PascalCase names)
+  for (const heading of headings) {
+    const cleaned = heading
+      .replace(/[.,:;!?'"()\[\]{}]+$/g, "")
+      .replace(/^[.,:;!?'"()\[\]{}]+/g, "")
+      .trim();
+    // Preserve multi-word headings that look like identifiers (e.g. FlowLoop, FlowActionCall)
+    if (/^[A-Z][a-zA-Z0-9]+$/.test(cleaned) && cleaned.length >= 4) {
+      addKeyword(cleaned);
+    }
+  }
+
+  // Pass 2: Extract individual words from title + description + headings
+  const allText = [title, description, ...headings].join(" ");
   const words = allText
     .split(/[\s,;:()[\]{}|/\\]+/)
     .map((w) => w.trim())
@@ -132,17 +167,11 @@ function extractKeywords(
     .filter((w) => !STOP_WORDS.has(w.toLowerCase()))
     .filter((w) => !GENERIC_DOC_WORDS.has(w.toLowerCase()));
 
-  // De-duplicate (case-insensitive) and limit
-  const seen = new Set<string>();
-  const unique: string[] = [];
   for (const w of words) {
-    const key = w.toLowerCase();
-    if (!seen.has(key)) {
-      seen.add(key);
-      unique.push(w);
-    }
+    addKeyword(w);
   }
-  return unique.slice(0, 15);
+
+  return unique.slice(0, 100);
 }
 
 /** Detect document type from content patterns */
@@ -247,4 +276,10 @@ const GENERIC_DOC_WORDS = new Set([
   "section", "page", "table", "list", "field", "fields",
   "name", "names", "values", "types", "format", "syntax",
   "request", "response", "body", "header", "headers",
+  // High-frequency noise (verified by audit: each tags 1000+ docs)
+  "later", "calls", "data", "associated", "representation",
+  "objects", "input", "access", "output", "usage", "special",
+  "rules", "feed", "custom", "history", "tracking",
+  "component", "element", "components", "elements",
+  "version", "enumeration",
 ]);

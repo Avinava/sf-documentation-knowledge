@@ -5,12 +5,10 @@ topic: aiupdaterecordevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.662Z
+lastCollected: 2026-04-07T18:38:58.548Z
 estimatedTokens: 977
-keywords: [AIUpdateRecordEvent, Notifies, subscribers, Einstein, Case, Classification, generated, prediction, potentially, updated, record, API, version, 47.0, later]
+keywords: [AIUpdateRecordEvent, Notifies, subscribers, Einstein, Case, Classification, generated, prediction, potentially, updated, record, API, 47.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# AIUpdateRecordEvent
 
 > Notifies subscribers when Einstein Case Classification has generated a
 			case field value prediction and potentially updated a case record. This object is

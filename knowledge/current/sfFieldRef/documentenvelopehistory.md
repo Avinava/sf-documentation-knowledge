@@ -5,12 +5,10 @@ topic: documentenvelopehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.738Z
+lastCollected: 2026-04-07T18:39:38.426Z
 estimatedTokens: 265
-keywords: [DocumentEnvelopeHistory, History, tracked, DocumentEnvelope]
+keywords: [DocumentEnvelopeHistory, tracked, DocumentEnvelope]
 ---
-
-# DocumentEnvelopeHistory
 
 > History for tracked fields of DocumentEnvelope.
 

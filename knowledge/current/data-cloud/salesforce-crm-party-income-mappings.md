@@ -5,12 +5,10 @@ topic: salesforce-crm-party-income-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.159Z
+lastCollected: 2026-04-07T18:35:53.093Z
 estimatedTokens: 305
-keywords: [Salesforce, CRM, Party, Income, Mappings, data, PartyIncome, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage]
+keywords: [Salesforce, CRM, Party, Income, Mappings, PartyIncome, DLO, found, Financial, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Party Income Mappings
 
 > These data mappings are for the PartyIncome DLO found in the Financial Services Cloud
     bundle of the Salesforce CRM Connector for Data Cloud.

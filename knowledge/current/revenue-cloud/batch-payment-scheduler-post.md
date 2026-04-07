@@ -5,12 +5,10 @@ topic: batch-payment-scheduler-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.346Z
+lastCollected: 2026-04-07T18:35:44.318Z
 estimatedTokens: 477
 keywords: [Batch, Payment, Scheduler, POST, automate, process, runs, recurring, basis]
 ---
-
-# Batch Payment Scheduler (POST)
 
 > Create a payment scheduler to automate and process payment runs on a
       recurring basis.

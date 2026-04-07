@@ -5,12 +5,10 @@ topic: complete-file-upload-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.836Z
+lastCollected: 2026-04-07T18:39:00.962Z
 estimatedTokens: 198
-keywords: [File, Upload, Input, representation]
+keywords: [File, Upload]
 ---
-
-# Complete File Upload Input
 
 > Input representation for Complete File Upload.
 

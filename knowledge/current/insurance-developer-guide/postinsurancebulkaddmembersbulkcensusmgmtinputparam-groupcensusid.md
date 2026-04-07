@@ -6,13 +6,10 @@ topic: postinsurancebulkaddmembersbulkcensusmgmtinputparam-groupcensusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.541Z
+lastCollected: 2026-04-07T18:37:49.385Z
 estimatedTokens: 313
-keywords: [postInsuranceBulkAddMembers, bulkCensusMgmtInputParam, groupCensusId, Add, group, census, member, data, bulk, API, Version, Requires, Chatter, Usage]
+keywords: [postInsuranceBulkAddMembers, bulkCensusMgmtInputParam, groupCensusId, Add, group, census, member, bulk, API, Requires, Chatter]
 ---
-
-# postInsuranceBulkAddMembers(bulkCensusMgmtInputParam,
-   groupCensusId)
 
 > Add or update group census member data in bulk.
 

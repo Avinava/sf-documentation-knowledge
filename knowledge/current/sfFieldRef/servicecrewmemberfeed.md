@@ -5,12 +5,10 @@ topic: servicecrewmemberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.693Z
+lastCollected: 2026-04-07T18:40:01.457Z
 estimatedTokens: 361
-keywords: [ServiceCrewMemberFeed, Feed, tracking, ServiceCrewMember]
+keywords: [ServiceCrewMemberFeed, ServiceCrewMember]
 ---
-
-# ServiceCrewMemberFeed
 
 > Feed tracking for ServiceCrewMember.
 

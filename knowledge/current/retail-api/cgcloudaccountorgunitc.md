@@ -5,12 +5,10 @@ topic: cgcloudaccountorgunitc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.258Z
+lastCollected: 2026-04-07T18:39:12.692Z
 estimatedTokens: 1029
-keywords: [cgcloud__Account_Org_Unit__c, relationship, customer, org, unit, API, version, 54.0, later, cgcloud, _Account, _Org, _Unit, Calls, Associated]
+keywords: [cgcloud__Account_Org_Unit__c, relationship, customer, org, unit, API, 54.0, cgcloud, _Account, _Org, _Unit]
 ---
-
-# cgcloud__Account_Org_Unit__c
 
 > Contains the details of the relationship between customer and the org
          unit. This object is available in API version 54.0 and later.

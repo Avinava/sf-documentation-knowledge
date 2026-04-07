@@ -5,12 +5,10 @@ topic: metadata-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.962Z
+lastCollected: 2026-04-07T18:39:10.415Z
 estimatedTokens: 187
-keywords: [Metadata, API, RestrictionRule, restriction, rules]
+keywords: [Metadata, API, RestrictionRule, restriction]
 ---
-
-# Metadata API Reference
 
 > This section provides more information on the RestrictionRule Metadata API type used to
   create restriction rules.

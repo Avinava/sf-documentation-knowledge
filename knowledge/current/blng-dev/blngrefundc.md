@@ -5,12 +5,10 @@ topic: blngrefundc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:17.383Z
+lastCollected: 2026-04-07T18:37:03.967Z
 estimatedTokens: 1772
-keywords: [blng__Refund__c, refund, made, against, payment, blng, _Refund, Calls]
+keywords: [blng__Refund__c, refund, made, against, payment, blng, _Refund]
 ---
-
-# blng__Refund__c
 
 > Represents a refund made against a payment.
 

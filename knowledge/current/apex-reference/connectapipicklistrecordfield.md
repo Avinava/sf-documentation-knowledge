@@ -5,12 +5,10 @@ topic: connectapipicklistrecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.522Z
+lastCollected: 2026-04-07T18:36:10.803Z
 estimatedTokens: 64
 keywords: [ConnectApi.PicklistRecordField, Record, containing, enumerated]
 ---
-
-# ConnectApi.PicklistRecordField
 
 > Record field containing an enumerated value.
 

@@ -5,12 +5,10 @@ topic: cgcloudcustomperiodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.991Z
+lastCollected: 2026-04-07T18:39:13.397Z
 estimatedTokens: 1283
-keywords: [cgcloud__Custom_Period__c, stores, attributes, custom, period, API, version, 54.0, later, cgcloud, _Custom, _Period, Calls, Associated, Objects]
+keywords: [cgcloud__Custom_Period__c, stores, attributes, period, API, 54.0, cgcloud, _Custom, _Period]
 ---
-
-# cgcloud__Custom_Period__c
 
 > This object stores the attributes of the custom period. This
       object is available in API version 54.0 and later.

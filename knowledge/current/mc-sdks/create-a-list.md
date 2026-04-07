@@ -5,12 +5,10 @@ topic: create-a-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.235Z
+lastCollected: 2026-04-07T18:40:24.692Z
 estimatedTokens: 490
-keywords: [Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a List
 
 > Use the Post method to create a new list within a Marketing Cloud account.
 

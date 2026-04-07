@@ -5,12 +5,10 @@ topic: identifying-parent-and-child-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.908Z
+lastCollected: 2026-04-07T18:40:09.855Z
 estimatedTokens: 440
 keywords: [Identifying, Parent, Child, Relationships, Identify, parent-child, viewing, Entity, Relationship, Diagrams, ERD, examining, enterprise, WSDL, organization]
 ---
-
-# Identifying Parent and Child Relationships
 
 > Identify parent-child relationships by viewing Entity Relationship Diagrams (ERD) or by
     examining the enterprise WSDL for your organization.

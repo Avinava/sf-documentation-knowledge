@@ -5,12 +5,10 @@ topic: gamification-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.280Z
+lastCollected: 2026-04-07T18:38:08.541Z
 estimatedTokens: 474
 keywords: [Gamification, Mobile, SDK, Android, Clone, import, integrate, feature, app]
 ---
-
-# Gamification Mobile SDK for Android
 
 > Clone and import the Gamification Mobile Android SDK to integrate the gamification
     feature in a mobile app.

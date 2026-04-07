@@ -5,13 +5,11 @@ topic: zones-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.708Z
+lastCollected: 2026-04-07T18:35:58.982Z
 estimatedTokens: 6251
 namespace: ConnectApi
-keywords: [Zones, Search, articles, questions, zone, specify, language, results, getZone, communityId, zoneId, API, Version, Requires, Chatter]
+keywords: [Zones, Search, articles, questions, zone, specify, language, results, getZone, communityId, zoneId, API, Requires, Chatter, getZones, pageParam, pageSize, searchInZone, filter, Guest, Users, Test, setTestSearchInZone, result]
 ---
-
-# Zones Class
 
 > Search articles or questions in a zone, and specify the language of
       the results.

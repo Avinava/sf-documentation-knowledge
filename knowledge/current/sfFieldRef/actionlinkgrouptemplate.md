@@ -5,13 +5,11 @@ topic: actionlinkgrouptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.558Z
+lastCollected: 2026-04-07T18:39:24.509Z
 estimatedTokens: 484
 namespace: NamespacePrefix
-keywords: [ActionLinkGroupTemplate, Action, link, templates, let, reuse, definitions, package, distribute, links, button, feed, element, Clicking, take]
+keywords: [ActionLinkGroupTemplate, Action, link, templates, let, reuse, definitions, package, distribute, links, button, Clicking, take, user, another, Web, initiate, file, download, invoke, API, call, external, server, Salesforce, integrate, third-party, services, Every, belongs, group, mutually, exclusive, 33.0]
 ---
-
-# ActionLinkGroupTemplate
 
 > Action link templates let you reuse action link definitions and
 			package and distribute action links. An action link is a button on a feed element.

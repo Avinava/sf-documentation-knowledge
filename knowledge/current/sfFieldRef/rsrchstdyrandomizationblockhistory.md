@@ -5,12 +5,10 @@ topic: rsrchstdyrandomizationblockhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.720Z
+lastCollected: 2026-04-07T18:40:00.465Z
 estimatedTokens: 281
-keywords: [RsrchStdyRandomizationBlockHistory, History, tracked, RsrchStdyRandomizationBlock]
+keywords: [RsrchStdyRandomizationBlockHistory, tracked, RsrchStdyRandomizationBlock]
 ---
-
-# RsrchStdyRandomizationBlockHistory
 
 > History for tracked fields of RsrchStdyRandomizationBlock.
 

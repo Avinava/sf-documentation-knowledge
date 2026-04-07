@@ -5,12 +5,10 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.310Z
+lastCollected: 2026-04-07T18:36:34.748Z
 estimatedTokens: 360
-keywords: [User, retrieve, standard, Tooling, API, custom, can’t, retrieved, SOAP, Calls, REST, HTTP]
+keywords: [User, retrieve, standard, Tooling, API, can’t, retrieved, SOAP, REST, HTTP]
 ---
-
-# User
 
 > Represents a user. You can retrieve standard
             fields on User with the Tooling API, but custom fields

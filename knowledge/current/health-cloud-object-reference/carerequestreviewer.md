@@ -5,12 +5,10 @@ topic: carerequestreviewer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.723Z
+lastCollected: 2026-04-07T18:37:46.282Z
 estimatedTokens: 1016
-keywords: [CareRequestReviewer, care, reviewer, including, status, end, review, reviewer’s, notes, date, item, drug, diagnosis, associated, API]
+keywords: [CareRequestReviewer, care, reviewer, including, status, end, review, reviewer’s, notes, date, item, drug, diagnosis, API, 52.0]
 ---
-
-# CareRequestReviewer
 
 > Represents the details of a care request reviewer including name, reviewer
          type, status of the care request at the end of the review, the reviewer’s notes, and date

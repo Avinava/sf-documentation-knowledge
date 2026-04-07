@@ -5,12 +5,10 @@ topic: adproductdefaulttargetcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.855Z
+lastCollected: 2026-04-07T18:38:12.132Z
 estimatedTokens: 769
-keywords: [AdProductDefaultTargetCategory, target, category, product, API, version, 58.0, later, Calls, Associated, Objects]
+keywords: [AdProductDefaultTargetCategory, target, category, product, API, 58.0]
 ---
-
-# AdProductDefaultTargetCategory
 
 > Represents the default ad target category values for an ad product. This
       object is available in API version 58.0 and later.

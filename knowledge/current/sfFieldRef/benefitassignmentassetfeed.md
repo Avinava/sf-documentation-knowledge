@@ -5,12 +5,10 @@ topic: benefitassignmentassetfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.989Z
+lastCollected: 2026-04-07T18:39:29.096Z
 estimatedTokens: 364
-keywords: [BenefitAssignmentAssetFeed, Feed, tracking, BenefitAssignmentAsset]
+keywords: [BenefitAssignmentAssetFeed, BenefitAssignmentAsset]
 ---
-
-# BenefitAssignmentAssetFeed
 
 > Feed tracking for BenefitAssignmentAsset.
 

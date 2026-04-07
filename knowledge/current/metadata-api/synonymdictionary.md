@@ -5,12 +5,10 @@ topic: synonymdictionary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:44.582Z
+lastCollected: 2026-04-07T18:36:29.998Z
 estimatedTokens: 863
-keywords: [SynonymDictionary, synonym, groups, words, phrases, treated, equivalent, users’, searches, define, optimize, search, results, acronyms, variations]
+keywords: [SynonymDictionary, SynonymGroup, synonym, groups, words, phrases, treated, equivalent, users’, searches, define, optimize, search, results, acronyms, variations, product, terminology, unique, organization, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SynonymDictionary
 
 > Represents a set of synonym groups, which are groups
             of words or phrases that are treated as equivalent in users’ searches. You can

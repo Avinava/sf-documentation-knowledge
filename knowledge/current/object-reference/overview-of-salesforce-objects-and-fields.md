@@ -5,12 +5,10 @@ topic: overview-of-salesforce-objects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:04:37.213Z
+lastCollected: 2026-04-07T18:38:28.133Z
 estimatedTokens: 1503
-keywords: [Salesforce, Objects, analogous, database, tables, columns, structure, data, central, model, accounts—companies, organizations, involved, business, customers]
+keywords: [Salesforce, analogous, database, tables, columns, structure, central, model, accounts—companies, organizations, involved, business, customers, partners, competitors]
 ---
-
-# Overview of Salesforce Objects and Fields
 
 > Salesforce objects and fields are analogous to database tables and the
 			table columns. Objects and fields structure data. For example, the central object in the

@@ -5,12 +5,10 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.189Z
+lastCollected: 2026-04-07T18:37:32.358Z
 estimatedTokens: 430
-keywords: [BenefitType, benefits, Participatory, Services, program, manager, Management, API, version, 57.0, later]
+keywords: [BenefitType, benefits, Participatory, Services, program, manager, Management, API, 57.0]
 ---
-
-# BenefitType
 
 > Represents information about the type of benefits such as
          Participatory Services available to the program manager. This object is available with

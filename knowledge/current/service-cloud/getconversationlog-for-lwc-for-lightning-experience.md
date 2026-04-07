@@ -5,12 +5,10 @@ topic: getconversationlog-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.634Z
+lastCollected: 2026-04-07T18:36:49.796Z
 estimatedTokens: 327
-keywords: [getConversationLog, LWC, Lightning, Experience, Retrieves, conversation, log, works, console, apps, Arguments, message]
+keywords: [Arguments, getConversationLog, LWC, Lightning, Experience, Retrieves, conversation, log, works, console, apps, message]
 ---
-
-# getConversationLog() for LWC for Lightning Experience
 
 > Retrieves the conversation log. This method works only in Lightning console
   apps.

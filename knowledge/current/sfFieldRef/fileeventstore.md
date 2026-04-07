@@ -5,12 +5,10 @@ topic: fileeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.818Z
+lastCollected: 2026-04-07T18:39:40.481Z
 estimatedTokens: 546
-keywords: [FileEventStore, Tracks, user, downloads, previews, uploads, file, big, stores, event, data, FileEvent, API, version, 57.0]
+keywords: [FileEventStore, Tracks, user, downloads, previews, uploads, file, big, stores, event, FileEvent, API, 57.0]
 ---
-
-# FileEventStore
 
 > Tracks when a user downloads, previews, or uploads a file.
          FileEventStore is a big object that stores the event data of FileEvent. This object is

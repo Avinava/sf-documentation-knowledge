@@ -5,12 +5,10 @@ topic: mobilesecurityusermetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.698Z
+lastCollected: 2026-04-07T18:39:49.171Z
 estimatedTokens: 222
-keywords: [MobileSecurityUserMetric, metrics, users, Enhanced, Mobile, Security, policies, enforced, API, version, 51.0, later]
+keywords: [MobileSecurityUserMetric, metrics, users, Enhanced, Mobile, Security, policies, enforced, API, 51.0]
 ---
-
-# MobileSecurityUserMetric
 
 > Represents the metrics for users who have Enhanced Mobile Security
          policies enforced. This object is available in API version 51.0 and later.

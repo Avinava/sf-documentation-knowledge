@@ -5,12 +5,10 @@ topic: regexmatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.454Z
+lastCollected: 2026-04-07T18:40:21.746Z
 estimatedTokens: 372
-keywords: [RegExMatch, Function, Ordinal, search, Regular, expression, **Overview**, **Syntax**, Usage]
+keywords: [RegExMatch, Function, Ordinal, search, Regular, expression, **Overview**, **Syntax**]
 ---
-
-# RegExMatch
 
 > RegExMatch(1, 2, 3, 4)
 

@@ -5,12 +5,10 @@ topic: policy-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.163Z
+lastCollected: 2026-04-07T18:35:46.116Z
 estimatedTokens: 115
-keywords: [Policy, Output, representation]
+keywords: [Policy]
 ---
-
-# Policy Details
 
 > Output representation of the details of a policy.
 

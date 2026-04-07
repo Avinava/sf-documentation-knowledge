@@ -5,13 +5,11 @@ topic: metadatacomponentdependency-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.096Z
+lastCollected: 2026-04-07T18:36:33.494Z
 estimatedTokens: 1730
 namespace: Type
-keywords: [MetadataComponentDependency, Beta, dependency, relationships, metadata, components, org, query, Tooling, API, version, 43.0, later, Bulk, 2.0]
+keywords: [Limitations, MetadataComponentDependency, Beta, dependency, relationships, metadata, org, query, Tooling, API, 43.0, Bulk, 2.0, 49.0, SOAP, REST, HTTP]
 ---
-
-# MetadataComponentDependency (Beta)
 
 > Represents dependency relationships between the metadata components in
             your org. You can query MetadataComponentDependency using Tooling API in API

@@ -5,12 +5,10 @@ topic: priceadjustmentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:04.791Z
+lastCollected: 2026-04-07T18:35:49.755Z
 estimatedTokens: 990
-keywords: [PriceAdjustmentSchedule, series, tiered, discounts, number, items, purchased, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [PriceAdjustmentSchedule, series, tiered, discounts, number, items, purchased, API, 60.0]
 ---
-
-# PriceAdjustmentSchedule
 
 > Represents a series of tiered discounts based on the number of items
          purchased.  This object is available in API version 60.0 and later.

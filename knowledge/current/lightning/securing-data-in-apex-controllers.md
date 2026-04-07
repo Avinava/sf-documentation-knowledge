@@ -5,12 +5,10 @@ topic: securing-data-in-apex-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.627Z
+lastCollected: 2026-04-07T18:38:02.552Z
 estimatedTokens: 1446
-keywords: [Securing, Data, Apex, Controllers, runs, system, mode, means, substantially, elevated, permissions, acting, user, had, field-]
+keywords: [Securing, Apex, Controllers, runs, system, mode, means, substantially, elevated, permissions, acting, user, had, field-, object-level, granted, Because, security, layers, aren’t, enforced, they, Salesforce, write, code, enforce, Otherwise, may, inadvertently, expose, sensitive, normally, hidden, users, Sharing, CRUD, FLS]
 ---
-
-# Securing Data in Apex Controllers
 
 > By default, Apex runs in system mode, which means that it runs with substantially
         elevated permissions, acting as if the user had most permissions and all field- and

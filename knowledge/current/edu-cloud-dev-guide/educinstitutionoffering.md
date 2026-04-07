@@ -5,12 +5,10 @@ topic: educinstitutionoffering
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.018Z
+lastCollected: 2026-04-07T18:37:31.111Z
 estimatedTokens: 1058
-keywords: [EducInstitutionOffering, junction, institution's, account, objects, program, learning, academic, term, API, version, 64.0, later, Calls, Associated]
+keywords: [EducInstitutionOffering, junction, institution's, account, program, learning, academic, term, API, 64.0]
 ---
-
-# EducInstitutionOffering
 
 > Represents a junction between an institution's account and other objects,
          such as program, learning program, and academic term. This object is available in API

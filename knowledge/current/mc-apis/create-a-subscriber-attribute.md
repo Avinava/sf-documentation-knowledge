@@ -5,12 +5,10 @@ topic: create-a-subscriber-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.077Z
+lastCollected: 2026-04-07T18:40:16.210Z
 estimatedTokens: 2543
-keywords: [Subscriber, Attribute, creating, Why, How, Sample, NET, Code, PropertyDefinition, Restricted, Deleting, Java, Axis, 1.4, CXF]
+keywords: [Subscriber, Attribute, creating, Why, How, Sample, NET, Code, PropertyDefinition, Restricted, Deleting, Java, Axis, 1.4, CXF, SOAP, Envelope]
 ---
-
-# Create a Subscriber Attribute
 
 > This page contains information  about creating a subscriber attribute.
 

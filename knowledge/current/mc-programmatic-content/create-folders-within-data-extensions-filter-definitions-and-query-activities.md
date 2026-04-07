@@ -5,12 +5,10 @@ topic: create-folders-within-data-extensions-filter-definitions-and-query-activi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.730Z
+lastCollected: 2026-04-07T18:40:22.091Z
 estimatedTokens: 2232
-keywords: [Folders, Data, Extensions, Filter, Definitions, Query, Activities, organize, specific, objects, optimized, access, better, organization, sample]
+keywords: [Folders, Extensions, Filter, Definitions, Query, Activities, organize, specific, optimized, better, organization, sample, code, model, own, call, Extension, Folder, Definition, Activity]
 ---
-
-# Create Folders Within Data Extensions, Filter Definitions, and Query Activities
 
 > Use folders to organize specific types of objects for optimized access and better organization. Use this sample code as a model for your own call:
 

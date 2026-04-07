@@ -5,12 +5,10 @@ topic: annual-emissions-inventory-recalculation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.750Z
+lastCollected: 2026-04-07T18:38:16.297Z
 estimatedTokens: 118
-keywords: [Annual, Emissions, Inventory, Recalculation, Output, representation]
+keywords: [Annual, Emissions, Inventory, Recalculation]
 ---
-
-# Annual Emissions Inventory Recalculation Output
 
 > Output representation of the annual emissions inventory
       recalculation request.

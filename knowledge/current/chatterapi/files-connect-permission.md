@@ -5,12 +5,10 @@ topic: files-connect-permission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.851Z
+lastCollected: 2026-04-07T18:37:17.919Z
 estimatedTokens: 176
 keywords: [Files, Connect, Permission]
 ---
-
-# Files Connect Permission
 
 > A permission.
 

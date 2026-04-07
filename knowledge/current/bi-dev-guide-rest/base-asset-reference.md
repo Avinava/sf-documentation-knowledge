@@ -5,12 +5,10 @@ topic: base-asset-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.156Z
+lastCollected: 2026-04-07T18:36:56.726Z
 estimatedTokens: 324
 keywords: [Base, Asset, Analytics]
 ---
-
-# Base Asset Reference
 
 > The base Analytics asset.
 

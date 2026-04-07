@@ -5,12 +5,10 @@ topic: fulfillment-order-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.489Z
+lastCollected: 2026-04-07T18:37:19.642Z
 estimatedTokens: 120
-keywords: [Fulfillment, Order, Output, IDs, created, FulfillmentOrders]
+keywords: [Fulfillment, Order, IDs, created, FulfillmentOrders]
 ---
-
-# Fulfillment Order Output
 
 > A list of IDs of the created FulfillmentOrders.
 

@@ -5,12 +5,10 @@ topic: einstein-article-recommendations-runtime-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.521Z
+lastCollected: 2026-04-07T18:37:11.297Z
 estimatedTokens: 102
 keywords: [Einstein, Article, Recommendations, Runtime, Metrics, case, channel]
 ---
-
-# Einstein Article Recommendations Runtime Metrics
 
 > Get Einstein Article Recommendations runtime metrics for the
       case

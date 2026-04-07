@@ -5,12 +5,10 @@ topic: fhir-dosage-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:05.759Z
+lastCollected: 2026-04-07T18:37:55.095Z
 estimatedTokens: 562
-keywords: [FHIR, Dosage, Input, representation, patient’s, medication]
+keywords: [FHIR, Dosage, patient’s, medication]
 ---
-
-# FHIR Dosage Input
 
 > The input representation of dosage information for a patient’s
       medication.

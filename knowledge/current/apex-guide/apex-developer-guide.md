@@ -5,12 +5,10 @@ topic: apex-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:02:32.204Z
+lastCollected: 2026-04-07T18:36:17.433Z
 estimatedTokens: 572
-keywords: [Apex, Developer, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform]
+keywords: [Apex, Developer, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, introduces, development, process, valuable, learning, writing, deploying, testing]
 ---
-
-# Apex Developer Guide
 
 > Apex is a strongly typed, object-oriented programming language that allows developers
         to execute flow and transaction control statements on the Salesforce Platform server, in

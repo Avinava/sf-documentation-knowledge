@@ -5,12 +5,10 @@ topic: chatter-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.365Z
+lastCollected: 2026-04-07T18:37:07.070Z
 estimatedTokens: 1604
-keywords: [Chatter, REST, API, Resources, require, per, user, application, hour, rate, limit, different, Connect, exceed, Service]
+keywords: [Chatter, REST, API, Resources, require, per, user, application, hour, rate, limit, different, Connect, exceed, Service, Unavailable, error, code]
 ---
-
-# Chatter REST API Resources
 
 > These REST API resources require Chatter and have a per user, per application, per hour
   rate limit. This rate limit is different from other Connect REST API resources. When you exceed

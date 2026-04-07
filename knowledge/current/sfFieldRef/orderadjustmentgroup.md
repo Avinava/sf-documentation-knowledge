@@ -5,12 +5,10 @@ topic: orderadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.266Z
+lastCollected: 2026-04-07T18:39:50.666Z
 estimatedTokens: 430
-keywords: [OrderAdjustmentGroup, Group, containing, adjustments, applied, order, API, version, 48.0, later]
+keywords: [OrderAdjustmentGroup, Group, containing, adjustments, applied, order, API, 48.0]
 ---
-
-# OrderAdjustmentGroup
 
 > Group containing a set of adjustments applied to an order. This object is
     available in API version 48.0 and later.

@@ -5,12 +5,10 @@ topic: select-and-enable-a-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.106Z
+lastCollected: 2026-04-07T18:40:09.064Z
 estimatedTokens: 903
-keywords: [Select, Enable, Dev, Hub, Org, lets, scratch, orgs, unlocked, packages, second-generation, managed, designated, place, manage]
+keywords: [Select, Enable, Dev, Hub, Org, lets, scratch, orgs, unlocked, packages, second-generation, managed, designated, place, manage, namespaces]
 ---
-
-# Select and Enable a Dev Hub Org
 
 > The Dev Hub lets you create scratch orgs, unlocked packages, and second-generation
   managed packages. Your Dev Hub is also the designated place to manage all your scratch orgs,

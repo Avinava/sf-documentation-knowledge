@@ -5,12 +5,10 @@ topic: editing-a-table-of-data-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.776Z
+lastCollected: 2026-04-07T18:38:52.083Z
 estimatedTokens: 452
-keywords: [Editing, Data, tutorial, built, <apex, inputField>, columns, editable, commandButton>, save, change, Any, message, Saving, automatically]
+keywords: [Editing, tutorial, built, <apex, inputField>, columns, editable, commandButton>, save, change, Any, message, Saving, automatically, pageMessages>, tag]
 ---
-
-# Editing a Table of Data in a Page
 
 > In the last tutorial, you built a table of data. Using <apex:inputField> in the data
 table columns, you can create a table with editable fields. Using <apex:commandButton> you can save

@@ -5,12 +5,10 @@ topic: ratingrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:03.771Z
+lastCollected: 2026-04-07T18:39:58.440Z
 estimatedTokens: 360
-keywords: [RatingRequest, common, run-time, context, definition, rating, procedure, records, rateable, summary, API, version, 62.0, later]
+keywords: [RatingRequest, common, run-time, context, definition, rating, procedure, records, rateable, summary, API, 62.0]
 ---
-
-# RatingRequest
 
 > Represents the common run-time parameters, such as context definition
          and rating procedure for a set of records in the rateable summary table. This object

@@ -5,12 +5,10 @@ topic: apexdefine
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.417Z
+lastCollected: 2026-04-07T18:38:49.545Z
 estimatedTokens: 226
-keywords: [apex, define, template, component, content, <apex, insert>, defined, Visualforce, Attributes]
+keywords: [Attributes, apex, define, template, content, <apex, insert>, defined, Visualforce]
 ---
-
-# apex:define
 
 > A template component that provides content for an <apex:insert> component defined in a Visualforce template page.
 

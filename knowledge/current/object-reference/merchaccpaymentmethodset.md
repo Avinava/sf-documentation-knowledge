@@ -5,12 +5,10 @@ topic: merchaccpaymentmethodset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:44.292Z
+lastCollected: 2026-04-07T18:38:35.538Z
 estimatedTokens: 453
-keywords: [MerchAccPaymentMethodSet, ordered, payment, merchant's, cudstomer, checkout, configure, multiple, designated, specific, locale, region, sale, channel, API]
+keywords: [MerchAccPaymentMethodSet, ordered, payment, merchant's, cudstomer, checkout, configure, multiple, designated, specific, locale, region, sale, channel, API, 58.0]
 ---
-
-# MerchAccPaymentMethodSet
 
 > Defines an ordered list of payment methods that are available to a merchant's
          cudstomer  during checkout. You can configure multiple payment method sets, each designated

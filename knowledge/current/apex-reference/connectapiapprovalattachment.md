@@ -5,12 +5,10 @@ topic: connectapiapprovalattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.843Z
+lastCollected: 2026-04-07T18:36:07.191Z
 estimatedTokens: 289
-keywords: [ConnectApi.ApprovalAttachment, Attach, approval, feed, item]
+keywords: [ConnectApi.ApprovalAttachment, Attach, approval, item]
 ---
-
-# ConnectApi.ApprovalAttachment
 
 > Attach an approval to a feed item.
 

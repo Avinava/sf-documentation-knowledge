@@ -5,12 +5,10 @@ topic: get-object-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.194Z
+lastCollected: 2026-04-07T18:40:11.183Z
 estimatedTokens: 294
 keywords: [Metadata, specific, includes, describing, child, relationships, record, theme]
 ---
-
-# Get Object Metadata
 
 > Get metadata about a specific object. The response includes metadata
       describing fields, child relationships, record type, and theme.

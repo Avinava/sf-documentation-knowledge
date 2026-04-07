@@ -5,12 +5,10 @@ topic: action-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.472Z
+lastCollected: 2026-04-07T18:37:11.242Z
 estimatedTokens: 1076
-keywords: [Action, Link, status, combination, labelKey, Definition, Input, determines, text, displays, trigger, API, ApiAsync, links, PendingStatus]
+keywords: [Action, Link, status, combination, labelKey, Definition, determines, text, displays, trigger, API, ApiAsync, links, PendingStatus]
 ---
-
-# Action Link
 
 > Get information about or update the status of an action link. The status of the
       action link in combination with the labelKey property of

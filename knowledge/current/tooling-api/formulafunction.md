@@ -5,12 +5,10 @@ topic: formulafunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.722Z
+lastCollected: 2026-04-07T18:36:33.166Z
 estimatedTokens: 925
-keywords: [FormulaFunction, function, building, formula, including, examples, uses, Tooling, API, version, 39.0, later, SOAP, Calls, REST]
+keywords: [FormulaFunction, FormulaFunctionCategory, function, building, formula, including, examples, uses, Tooling, API, 39.0, SOAP, REST, HTTP, Query]
 ---
-
-# FormulaFunction
 
 > Represents a function used when building a formula, including
             examples and uses. This object is available in Tooling API version 39.0 and

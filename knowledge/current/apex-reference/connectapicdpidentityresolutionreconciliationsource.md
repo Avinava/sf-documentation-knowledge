@@ -5,12 +5,10 @@ topic: connectapicdpidentityresolutionreconciliationsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.575Z
+lastCollected: 2026-04-07T18:36:04.927Z
 estimatedTokens: 254
-keywords: [Input, representation, identity, resolution, reconciliation, rule, field-specific, SourceSequence, match]
+keywords: [identity, resolution, reconciliation, rule, field-specific, SourceSequence, match]
 ---
-
-# ConnectApi.CdpIdentityResolutionReconciliationSource
 
 > Input representation for an identity resolution default reconciliation
       rule or field-specific rule using the SourceSequence

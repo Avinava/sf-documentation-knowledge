@@ -5,12 +5,10 @@ topic: make-your-lightning-page-components-width-aware-with-lightningflexipagere
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.931Z
+lastCollected: 2026-04-07T18:38:02.855Z
 estimatedTokens: 312
-keywords: [Lightning, Components, Width-Aware, flexipageRegionInfo, add, component, region, App, Builder, sub-component, passes, width, parent, strategic, CSS]
+keywords: [Lightning, Width-Aware, flexipageRegionInfo, add, region, App, Builder, sub-component, passes, width, parent, strategic, CSS, tell, render, different, ways, regions, runtime]
 ---
-
-# Make Your Lightning Page Components Width-Aware with lightning:flexipageRegionInfo
 
 > When you add a component to a region on a page in the Lightning App
       Builder, the lightning:flexipageRegionInfo sub-component

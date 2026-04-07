@@ -5,12 +5,10 @@ topic: actions-syntax-for-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.526Z
+lastCollected: 2026-04-07T18:37:02.134Z
 estimatedTokens: 544
-keywords: [Actions, Rules, Needs, index]
+keywords: [Actions, Needs, index]
 ---
-
-# Actions Syntax for Rules
 
 > Needs "index" and "value".
 

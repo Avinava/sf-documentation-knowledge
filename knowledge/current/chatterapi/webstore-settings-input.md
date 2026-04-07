@@ -5,12 +5,10 @@ topic: webstore-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:23.834Z
+lastCollected: 2026-04-07T18:37:10.531Z
 estimatedTokens: 345
-keywords: [Webstore, Settings, Input, associate, asynchronous, product, import, job]
+keywords: [Webstore, Settings, associate, asynchronous, product, import, job]
 ---
-
-# Webstore Settings Input
 
 > ID of a webstore to associate with an asynchronous product import
       job.

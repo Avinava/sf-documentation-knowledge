@@ -5,12 +5,10 @@ topic: forresourceresourcename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.874Z
+lastCollected: 2026-04-07T18:35:59.148Z
 estimatedTokens: 164
 keywords: [forResource, resourceName, PageReference, resource]
 ---
-
-# forResource(resourceName)
 
 > Create a PageReference for a static resource, by
     name.

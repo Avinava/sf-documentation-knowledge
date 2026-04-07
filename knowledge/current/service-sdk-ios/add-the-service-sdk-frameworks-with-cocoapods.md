@@ -5,12 +5,10 @@ topic: add-the-service-sdk-frameworks-with-cocoapods
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.853Z
+lastCollected: 2026-04-07T18:40:27.986Z
 estimatedTokens: 869
 keywords: [Add, Service, SDK, Frameworks, CocoaPods, developer, tool, automatically, manages, dependencies]
 ---
-
-# Add the Service SDK Frameworks with CocoaPods
 
 > Add the SDK frameworks using CocoaPods, a developer tool that automatically manages
         dependencies.

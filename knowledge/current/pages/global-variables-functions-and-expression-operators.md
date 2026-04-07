@@ -6,13 +6,10 @@ topic: global-variables-functions-and-expression-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.196Z
+lastCollected: 2026-04-07T18:38:52.503Z
 estimatedTokens: 235
-keywords: [Variables, Functions, Expression, Operators, Visualforce, pages, language, formulas—that, anything, inside, evaluated, access, records, currently, context]
+keywords: [Variables, Functions, Expression, Operators, Visualforce, pages, language, formulas—that, anything, inside, evaluated, records, currently, context]
 ---
-
-# Global Variables, Functions, and Expression
-Operators
 
 > Visualforce pages use the same
                 expression language as formulas—that is, anything inside

@@ -5,12 +5,10 @@ topic: set-the-default-language-on-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.188Z
+lastCollected: 2026-04-07T18:37:33.571Z
 estimatedTokens: 931
 keywords: [Language, LWR, Site, English, want, change, different, soon, possible, avoid, losing, content]
 ---
-
-# Set the Default Language on Your LWR Site
 
 > When you create an LWR site, the default site language is English (US). If you want to
   change it to a different default language, update the default language as soon as possible after

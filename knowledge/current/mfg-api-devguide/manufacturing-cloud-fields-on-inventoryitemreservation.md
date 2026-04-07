@@ -5,12 +5,10 @@ topic: manufacturing-cloud-fields-on-inventoryitemreservation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.564Z
+lastCollected: 2026-04-07T18:38:13.883Z
 estimatedTokens: 524
-keywords: [Manufacturing, Cloud, InventoryItemReservation, inventory, item, reservation, specific, product, location, API, version, 60.0, later, Calls, Special]
+keywords: [Manufacturing, Cloud, InventoryItemReservation, inventory, item, reservation, specific, product, location, API, 60.0]
 ---
-
-# Manufacturing Cloud Fields on InventoryItemReservation
 
 > Represents an inventory item reservation for a specific product and location.
   This object is available in API version 60.0 and later.

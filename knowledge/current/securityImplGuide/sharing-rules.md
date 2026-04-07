@@ -5,12 +5,10 @@ topic: sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.949Z
+lastCollected: 2026-04-07T18:39:22.865Z
 estimatedTokens: 1142
-keywords: [Sharing, Rules, extend, access, users, groups, roles, territories, give, particular, greater, making, automatic, exceptions, org-wide]
+keywords: [Sharing, extend, users, groups, roles, territories, give, particular, greater, making, automatic, exceptions, org-wide, settings]
 ---
-
-# Sharing Rules
 
 > Use sharing rules to extend sharing access to users in public groups, roles, or
     territories. Sharing rules give particular users greater access by making automatic exceptions

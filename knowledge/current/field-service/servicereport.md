@@ -5,12 +5,10 @@ topic: servicereport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.164Z
+lastCollected: 2026-04-07T18:36:48.142Z
 estimatedTokens: 996
-keywords: [ServiceReport, report, summarizes, work, order, line, item, service, appointment, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ServiceReport, report, summarizes, work, order, line, item, service, appointment]
 ---
-
-# ServiceReport
 
 > Represents a report that summarizes a work order, work order line
 			item, or service appointment.

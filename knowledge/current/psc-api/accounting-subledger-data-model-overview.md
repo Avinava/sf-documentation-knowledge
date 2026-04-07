@@ -5,12 +5,10 @@ topic: accounting-subledger-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:07.629Z
+lastCollected: 2026-04-07T18:39:00.749Z
 estimatedTokens: 116
-keywords: [Accounting, Subledger, Data, Model, objects, relationships]
+keywords: [Accounting, Subledger, Model, relationships]
 ---
-
-# Accounting Subledger Data Model Overview
 
 > Learn about the objects and relationships within the Accounting Subledger data
   model.

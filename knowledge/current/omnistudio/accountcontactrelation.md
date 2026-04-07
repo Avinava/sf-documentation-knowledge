@@ -5,12 +5,10 @@ topic: accountcontactrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.095Z
+lastCollected: 2026-04-07T18:36:43.828Z
 estimatedTokens: 849
-keywords: [AccountContactRelation, Standard, custom, extend, Account, Sector, Solutions, represent, members, household, API, version, 56.0, later, Calls]
+keywords: [AccountContactRelation, Standard, extend, Account, Sector, Solutions, represent, members, household, API, 56.0]
 ---
-
-# AccountContactRelation
 
 > Standard and custom fields extend the standard Account object for use in
          Public Sector Solutions to represent information of members in a household. This

@@ -5,12 +5,10 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.756Z
+lastCollected: 2026-04-07T18:36:27.248Z
 estimatedTokens: 2008
-keywords: [ListView, filtered, records, contacts, accounts, custom, objects, Declarative, Metadata, File, Suffix, Directory, Location, Version, ListViewFilter]
+keywords: [ListView, ListViewFilter, FilterScope, filtered, records, contacts, accounts, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ListView
 
 > ListView allows you to see a filtered list of records,
             such as contacts, accounts, or custom objects.

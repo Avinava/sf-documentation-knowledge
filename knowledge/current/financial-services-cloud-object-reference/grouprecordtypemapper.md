@@ -5,12 +5,10 @@ topic: grouprecordtypemapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.754Z
+lastCollected: 2026-04-07T18:37:35.390Z
 estimatedTokens: 225
-keywords: [GroupRecordTypeMapper, Maps, new, custom, Group, record, standard, Financial, Services, Cloud, Calls]
+keywords: [GroupRecordTypeMapper, Maps, new, Group, record, standard, Financial, Services, Cloud]
 ---
-
-# GroupRecordTypeMapper
 
 > Maps a new custom Group record type to the standard Group record type
    from Financial Services Cloud.

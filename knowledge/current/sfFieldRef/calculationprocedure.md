@@ -5,13 +5,11 @@ topic: calculationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.880Z
+lastCollected: 2026-04-07T18:39:31.180Z
 estimatedTokens: 432
 namespace: Namespace
-keywords: [CalculationProcedure, Performs, series, calculations, matrix, lookups, user-defined, variables, constants, label, Expression, API, version, 53.0, later]
+keywords: [CalculationProcedure, Performs, series, calculations, matrix, lookups, user-defined, variables, constants, label, Expression, API, 53.0]
 ---
-
-# CalculationProcedure
 
 > Performs a series of calculations using matrix lookups and user-defined
          variables and constants. The label for this object is Expression Set. This object is

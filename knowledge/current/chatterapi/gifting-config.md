@@ -5,12 +5,10 @@ topic: gifting-config
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.540Z
+lastCollected: 2026-04-07T18:37:19.690Z
 estimatedTokens: 156
 keywords: [Gifting, Config, configuration, settings, application, context]
 ---
-
-# Gifting Config
 
 > Gifting configuration settings for the application context.
 

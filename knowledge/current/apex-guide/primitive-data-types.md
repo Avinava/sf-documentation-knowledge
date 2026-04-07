@@ -5,12 +5,10 @@ topic: primitive-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.449Z
+lastCollected: 2026-04-07T18:36:19.666Z
 estimatedTokens: 2316
-keywords: [Primitive, Data, Apex, uses, SOAP, API, except, higher-precision, Decimal, certain, cases, Versioned, Behavior, Changes]
+keywords: [Primitive, Apex, uses, SOAP, API, except, higher-precision, Decimal, certain, cases, Versioned, Behavior, Changes]
 ---
-
-# Primitive Data Types
 
 > Apex uses the same primitive data types as SOAP API, except for higher-precision
         Decimal type in certain cases.

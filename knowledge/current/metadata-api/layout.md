@@ -5,12 +5,10 @@ topic: layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:41.606Z
+lastCollected: 2026-04-07T18:36:27.025Z
 estimatedTokens: 8860
-keywords: [Layout, metadata, associated, Layouts, Salesforce, Help, File, Suffix, Directory, Location, Version, CustomConsoleComponents, PrimaryTabComponents, ConsoleComponent, Container]
+keywords: [Layout, CustomConsoleComponents, PrimaryTabComponents, ConsoleComponent, Container, SidebarComponent, RelatedList, SubtabComponents, FeedLayout, FeedLayoutComponent, FeedLayoutFilter, MiniLayout, LayoutSection, LayoutColumn, LayoutItem, AnalyticsCloudComponentLayoutItem, ReportChartComponentLayoutItem, PlatformActionList, PlatformActionListItem, QuickActionList, QuickActionListItem, RelatedContent, RelatedContentItem, RelatedListItem, SummaryLayout, SummaryLayoutItem, metadata, Layouts, Salesforce, Help, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Layout
 
 > Represents the metadata associated with a page layout.
         For more information, see Page Layouts in Salesforce Help.

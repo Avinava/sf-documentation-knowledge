@@ -5,12 +5,10 @@ topic: post-contactsv1contactsactionsdeletetypeids
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.930Z
+lastCollected: 2026-04-07T18:40:14.951Z
 estimatedTokens: 630
-keywords: [POST, contacts, actions, delete?type=ids, Deletes, contact, operations, runs, asynchronously, OperationID, check, status, **Overview**, Usage]
+keywords: [POST, contacts, actions, delete?type=ids, Deletes, contact, operations, runs, asynchronously, OperationID, check, status, **Overview**]
 ---
-
-# POST /contacts/v1/contacts/actions/delete?type=ids
 
 > Deletes contacts based on specified contact ID values. This operations runs asynchronously. Use the OperationID value returned to check the status of the delete.
 

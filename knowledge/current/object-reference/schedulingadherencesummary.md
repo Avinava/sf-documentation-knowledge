@@ -5,12 +5,10 @@ topic: schedulingadherencesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.912Z
+lastCollected: 2026-04-07T18:38:40.499Z
 estimatedTokens: 1171
-keywords: [SchedulingAdherenceSummary, daily, shift, adherence, data, service, resource, territory, job, profile, specific, date, API, version, 54.0]
+keywords: [SchedulingAdherenceSummary, daily, shift, adherence, service, resource, territory, job, profile, specific, date, API, 54.0]
 ---
-
-# SchedulingAdherenceSummary
 
 > Represents daily shift adherence data for a service resource in a service
          territory and job profile on a specific date. This object is available in API version

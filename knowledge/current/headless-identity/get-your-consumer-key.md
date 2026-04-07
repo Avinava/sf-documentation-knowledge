@@ -5,12 +5,10 @@ topic: get-your-consumer-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.385Z
+lastCollected: 2026-04-07T18:37:39.321Z
 estimatedTokens: 251
 keywords: [Consumer, Key, external, client, app, generates, known, Salesforce, identify, third-party, headless, identity, flows, how, configuring]
 ---
-
-# Get Your Consumer Key
 
 > When you create an external client app, it generates a consumer key, also known as a
   client ID. This value allows Salesforce to identify your third-party app during headless identity

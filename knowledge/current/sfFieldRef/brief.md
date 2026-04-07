@@ -5,12 +5,10 @@ topic: brief
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.996Z
+lastCollected: 2026-04-07T18:39:30.121Z
 estimatedTokens: 364
 keywords: [Brief, marketing, that’s, positioning, grounding, campaign]
 ---
-
-# Brief
 
 > Represents a marketing brief. A brief contains information that’s used for
          positioning and grounding a marketing campaign.

@@ -5,12 +5,10 @@ topic: update-account-manager-target-values-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.659Z
+lastCollected: 2026-04-07T18:38:12.988Z
 estimatedTokens: 264
-keywords: [Account, Manager, Target, Action, target’s, assignment, changes, made, parent's, percentage, REST, HTTP, Inputs, Usage]
+keywords: [Inputs, Account, Manager, Target, Action, target’s, assignment, changes, made, parent's, percentage, REST, HTTP]
 ---
-
-# Update Account Manager Target Values Action
 
 > Update an account manager target’s assignment values when the
          target’s value changes. The update is made based on the parent's target value and

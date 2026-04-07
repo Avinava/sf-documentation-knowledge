@@ -5,12 +5,10 @@ topic: carespecialtyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.669Z
+lastCollected: 2026-04-07T18:39:33.077Z
 estimatedTokens: 359
-keywords: [CareSpecialtyFeed, Feed, tracking, CareSpecialty]
+keywords: [CareSpecialtyFeed, CareSpecialty]
 ---
-
-# CareSpecialtyFeed
 
 > Feed tracking for CareSpecialty.
 

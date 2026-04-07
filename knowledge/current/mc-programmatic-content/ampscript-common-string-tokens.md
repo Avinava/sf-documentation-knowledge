@@ -5,12 +5,10 @@ topic: ampscript-common-string-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.652Z
+lastCollected: 2026-04-07T18:40:22.001Z
 estimatedTokens: 966
-keywords: [AMPscript, Common, Tokens, Review, examples, dates, times, FormatDate, functions, “s”, short, Token, “l”, long, “iso”]
+keywords: [AMPscript, Common, Tokens, Review, examples, dates, times, FormatDate, functions, “s”, short, Token, “l”, long, “iso”, “rfc”, “r”]
 ---
-
-# AMPscript Common String Tokens
 
 > Review these examples of the common string tokens that you can use to format AMPscript dates and times with the Format() and FormatDate() functions.
 

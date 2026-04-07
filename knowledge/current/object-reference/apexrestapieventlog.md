@@ -5,12 +5,10 @@ topic: apexrestapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:34.583Z
+lastCollected: 2026-04-07T18:38:25.472Z
 estimatedTokens: 1718
-keywords: [ApexRestApiEventLog, Apex, REST, API, event, logs, capture, every, version, 55.0, later, Calls, Special, Access, Rules]
+keywords: [ApexRestApiEventLog, Apex, REST, API, event, logs, capture, every, 55.0]
 ---
-
-# ApexRestApiEventLog
 
 > Apex REST API event logs capture information about every Apex REST API
          request. This object is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: connectapitaxjurisdictionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.702Z
+lastCollected: 2026-04-07T18:36:11.982Z
 estimatedTokens: 160
 keywords: [ConnectApi.TaxJurisdictionResponse, address, jurisdiction, primary, business, calculating, tax]
 ---
-
-# ConnectApi.TaxJurisdictionResponse
 
 > Represents the address or jurisdiction of the primary business used
       for calculating tax.

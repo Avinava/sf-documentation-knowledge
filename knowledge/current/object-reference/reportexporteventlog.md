@@ -5,12 +5,10 @@ topic: reportexporteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.405Z
+lastCollected: 2026-04-07T18:38:40.012Z
 estimatedTokens: 664
-keywords: [ReportExportEventLog, Report, Export, events, contain, reports, user, exported, event, captures, exports, output, doesn’t, capture, users]
+keywords: [ReportExportEventLog, Report, Export, events, contain, reports, user, exported, event, captures, exports, doesn’t, capture, users, Formatted, XLSX, Detail, API, 65.0]
 ---
-
-# ReportExportEventLog
 
 > Report Export events contain details about reports that a user exported. For
          example, this event type captures when a user exports a report as Details Only output. But

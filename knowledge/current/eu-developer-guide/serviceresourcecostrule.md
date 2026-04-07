@@ -5,12 +5,10 @@ topic: serviceresourcecostrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.598Z
+lastCollected: 2026-04-07T18:37:32.846Z
 estimatedTokens: 553
-keywords: [ServiceResourceCostRule, rules, calculate, meal, equivalent, gifts, awarded, service, worker, API, version, 62.0, later, Calls]
+keywords: [ServiceResourceCostRule, calculate, meal, equivalent, gifts, awarded, service, worker, API, 62.0]
 ---
-
-# ServiceResourceCostRule
 
 > Represents the rules that calculate the value of a meal or equivalent gifts
          awarded to the field service worker. This object is available in API version 62.0 and

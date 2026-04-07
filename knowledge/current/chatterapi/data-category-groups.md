@@ -5,12 +5,10 @@ topic: data-category-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.269Z
+lastCollected: 2026-04-07T18:37:13.214Z
 estimatedTokens: 82
-keywords: [Data, Category, Groups, active, their, subcategories]
+keywords: [Category, Groups, active, their, subcategories]
 ---
-
-# Data Category Groups
 
 > Get active data category groups and their subcategories.
 

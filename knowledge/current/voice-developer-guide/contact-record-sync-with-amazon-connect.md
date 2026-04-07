@@ -5,12 +5,10 @@ topic: contact-record-sync-with-amazon-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.662Z
+lastCollected: 2026-04-07T18:40:12.640Z
 estimatedTokens: 388
-keywords: [Contact, Record, Sync, Amazon, Connect, previously, trace, CTR, data, automatically, stored, Voice, Call, records, allowing]
+keywords: [Contact, Record, Sync, Amazon, Connect, previously, trace, CTR, automatically, stored, Voice, Call, records, allowing, instance, stay, Salesforce]
 ---
-
-# Contact Record Sync with Amazon Connect
 
 > By default, contact record (previously called contact trace record or CTR) data is automatically stored in Voice Call records,
   allowing your Amazon Connect instance to stay in sync with Salesforce.

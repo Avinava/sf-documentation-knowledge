@@ -5,12 +5,10 @@ topic: financialdeal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.437Z
+lastCollected: 2026-04-07T18:37:37.216Z
 estimatedTokens: 1731
-keywords: [FinancialDeal, deal, financial, institution, working, API, version, 52.0, later, Calls, Associated, Objects]
+keywords: [FinancialDeal, deal, financial, institution, working, API, 52.0]
 ---
-
-# FinancialDeal
 
 > Represents the deal that the financial institution is working on. This
       object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: rule-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.019Z
+lastCollected: 2026-04-07T18:38:08.272Z
 estimatedTokens: 174
-keywords: [Rule, Library, associated, promotion]
+keywords: [Rule, Library, promotion]
 ---
-
-# Rule Library
 
 > The details of the rule library associated with the promotion.
 

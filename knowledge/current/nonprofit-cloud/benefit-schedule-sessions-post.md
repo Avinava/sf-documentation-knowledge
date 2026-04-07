@@ -5,12 +5,10 @@ topic: benefit-schedule-sessions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.974Z
+lastCollected: 2026-04-07T18:38:20.726Z
 estimatedTokens: 103
 keywords: [Benefit, Schedule, Sessions, POST, session]
 ---
-
-# Benefit Schedule Sessions (POST)
 
 > Create a benefit schedule for a benefit session.
 

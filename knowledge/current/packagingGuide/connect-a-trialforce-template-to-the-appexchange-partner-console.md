@@ -5,12 +5,10 @@ topic: connect-a-trialforce-template-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.023Z
+lastCollected: 2026-04-07T18:38:46.989Z
 estimatedTokens: 196
 keywords: [Connect, Trialforce, Template, AppExchange, Partner, Console, it’s, add, listing]
 ---
-
-# Connect a Trialforce Template to the AppExchange Partner Console
 
 > After you create or update a Trialforce template, connect it to the AppExchange
         Partner Console so that it’s available to add to your AppExchange listing.

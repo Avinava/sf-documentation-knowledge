@@ -5,12 +5,10 @@ topic: careservicehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.643Z
+lastCollected: 2026-04-07T18:39:33.054Z
 estimatedTokens: 258
-keywords: [CareServiceHistory, History, tracked, CareService]
+keywords: [CareServiceHistory, tracked, CareService]
 ---
-
-# CareServiceHistory
 
 > History for tracked fields of CareService.
 

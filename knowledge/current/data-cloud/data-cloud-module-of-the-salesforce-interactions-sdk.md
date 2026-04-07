@@ -5,12 +5,10 @@ topic: data-cloud-module-of-the-salesforce-interactions-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.828Z
+lastCollected: 2026-04-07T18:35:51.684Z
 estimatedTokens: 990
-keywords: [Data, Cloud, Module, Salesforce, Interactions, SDK, extension, adds, features, convert, Event, Structure, compatible, ingestion, authenticate]
+keywords: [Cloud, Module, Salesforce, Interactions, SDK, extension, adds, features, convert, Event, Structure, compatible, ingestion, authenticate, deliver, events, over, HTTP, Web, Connector, Recommended, Schema]
 ---
-
-# Data Cloud Module of the Salesforce Interactions SDK
 
 > The Data Cloud Module of the Salesforce Interactions SDK is an extension
     that adds features to the SDK. You can convert the Event Structure into a compatible format for

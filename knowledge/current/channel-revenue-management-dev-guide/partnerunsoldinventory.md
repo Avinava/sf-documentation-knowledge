@@ -5,12 +5,10 @@ topic: partnerunsoldinventory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.793Z
+lastCollected: 2026-04-07T18:37:06.493Z
 estimatedTokens: 2029
-keywords: [PartnerUnsoldInventory, Tracks, product, quantities, partner, specific, price, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [PartnerUnsoldInventory, Tracks, product, quantities, partner, specific, price, API, 64.0]
 ---
-
-# PartnerUnsoldInventory
 
 > Tracks the product quantities available with a partner at a specific
          price. This object is available in API version 64.0 and later.

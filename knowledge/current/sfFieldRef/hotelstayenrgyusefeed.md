@@ -5,12 +5,10 @@ topic: hotelstayenrgyusefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.470Z
+lastCollected: 2026-04-07T18:39:44.114Z
 estimatedTokens: 361
-keywords: [HotelStayEnrgyUseFeed, Feed, tracking, HotelStayEnrgyUse]
+keywords: [HotelStayEnrgyUseFeed, HotelStayEnrgyUse]
 ---
-
-# HotelStayEnrgyUseFeed
 
 > Feed tracking for HotelStayEnrgyUse.
 

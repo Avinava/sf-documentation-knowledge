@@ -5,12 +5,10 @@ topic: healthriskevaluationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.907Z
+lastCollected: 2026-04-07T18:39:43.520Z
 estimatedTokens: 363
-keywords: [HealthRiskEvaluationFeed, Feed, tracking, HealthRiskEvaluation]
+keywords: [HealthRiskEvaluationFeed, HealthRiskEvaluation]
 ---
-
-# HealthRiskEvaluationFeed
 
 > Feed tracking for HealthRiskEvaluation.
 

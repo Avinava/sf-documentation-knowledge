@@ -5,12 +5,10 @@ topic: accountforecastadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.223Z
+lastCollected: 2026-04-07T18:39:24.145Z
 estimatedTokens: 351
 keywords: [AccountForecastAdjustment, manual, adjustments, made, forecast, particular, account]
 ---
-
-# AccountForecastAdjustment
 
 > Represents the manual adjustments made to forecast values for a particular
       account.

@@ -5,12 +5,10 @@ topic: energy-and-utilities-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.137Z
+lastCollected: 2026-04-07T18:37:32.310Z
 estimatedTokens: 202
-keywords: [Energy, Utilities, Cloud, extends, Salesforce, Customer, provide, solutions, industry, helps, businesses, establish, their, presence, online]
+keywords: [Energy, Utilities, Cloud, extends, Salesforce, Customer, provide, solutions, industry, helps, businesses, establish, their, presence, online, improve, operational, efficiency, deliver, industry-standard, experiences, refer]
 ---
-
-# Energy and Utilities Cloud
 
 > The Energy & Utilities Cloud extends Salesforce Customer 360 to
       provide solutions for the energy and utilities industry. It helps businesses establish their

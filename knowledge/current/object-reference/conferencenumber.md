@@ -5,12 +5,10 @@ topic: conferencenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.228Z
+lastCollected: 2026-04-07T18:38:28.149Z
 estimatedTokens: 724
-keywords: [ConferenceNumber, Holds, telephone, number, external, event, shown, Salesforce, Today, feature, mobile, app, API, version, 35.0]
+keywords: [ConferenceNumber, Holds, telephone, number, external, event, shown, Salesforce, Today, feature, mobile, app, API, 35.0]
 ---
-
-# ConferenceNumber
 
 > Holds the telephone number for an external event shown in the Salesforce Today feature in the Salesforce mobile app. This object is available in API version 35.0 and later.
 

@@ -5,12 +5,10 @@ topic: coupon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.486Z
+lastCollected: 2026-04-07T18:39:35.943Z
 estimatedTokens: 416
-keywords: [Coupon, associated, promotion, API, version, 54.0, later]
+keywords: [Coupon, promotion, API, 54.0]
 ---
-
-# Coupon
 
 > A coupon associated with a promotion. This object is available in API
       version 54.0 and later.

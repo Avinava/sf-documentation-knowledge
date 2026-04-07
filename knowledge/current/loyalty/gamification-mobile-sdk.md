@@ -5,12 +5,10 @@ topic: gamification-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.251Z
+lastCollected: 2026-04-07T18:38:08.521Z
 estimatedTokens: 409
-keywords: [Gamification, Mobile, SDK, Enhance, brand, engagement, providing, features, Android, iOS, devices, Software, Development, Kit, build]
+keywords: [Gamification, Mobile, SDK, Enhance, brand, engagement, providing, features, Android, iOS, devices, Software, Development, Kit, build, applications, unique, game, reward, experiences, external, dependency, Loyalty, Management, extend, MyNTORewards, sample, app, include, games, member, play, win, rewards]
 ---
-
-# Gamification Mobile SDK
 
 > Enhance brand engagement by providing gamification features on Android and iOS mobile
     devices. Use the Gamification mobile Software Development Kit (SDK) for Android and iOS to build

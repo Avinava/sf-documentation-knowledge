@@ -5,12 +5,10 @@ topic: install-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.805Z
+lastCollected: 2026-04-07T18:38:55.252Z
 estimatedTokens: 500
 keywords: [Install, License, Management, App, LMA, managed, package, installed, partner, business, orgs, org, LMO]
 ---
-
-# Install the License Management App
 
 > The License Management App (LMA) is a managed package that is installed in all partner
     business orgs. The org that the LMA is installed in is called the License Management Org

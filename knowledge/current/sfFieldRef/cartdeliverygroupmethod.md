@@ -5,12 +5,10 @@ topic: cartdeliverygroupmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:38.831Z
+lastCollected: 2026-04-07T18:39:33.241Z
 estimatedTokens: 554
-keywords: [CartDeliveryGroupMethod, selected, delivery, cart, group, Lightning, B2B, Commerce, checkout, API, version, 49.0, later]
+keywords: [CartDeliveryGroupMethod, selected, delivery, cart, group, Lightning, B2B, Commerce, checkout, API, 49.0]
 ---
-
-# CartDeliveryGroupMethod
 
 > Represents the selected delivery method for a cart delivery group used in
       Lightning B2B Commerce checkout. This object is available in API version 49.0 and

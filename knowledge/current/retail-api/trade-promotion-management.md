@@ -5,12 +5,10 @@ topic: trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.505Z
+lastCollected: 2026-04-07T18:39:11.007Z
 estimatedTokens: 667
-keywords: [Trade, Promotion, Management, TPM, helps, oversee, promotions, run, retailers, planning, completion, ensure, achieves, objectives, streamline]
+keywords: [Trade, Promotion, Management, TPM, helps, oversee, promotions, run, retailers, planning, completion, ensure, achieves, objectives, streamline, team’s, efforts, overcome, complexities, running, several, concurrently, unlock, maximum, results]
 ---
-
-# Trade Promotion Management
 
 > Trade Promotion Management (TPM) helps you oversee the promotions that you run for
         your retailers, from planning to completion, to ensure that each promotion achieves its

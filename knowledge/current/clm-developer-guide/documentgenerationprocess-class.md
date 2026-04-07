@@ -5,12 +5,10 @@ topic: documentgenerationprocess-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.512Z
+lastCollected: 2026-04-07T18:37:24.509Z
 estimatedTokens: 413
 keywords: [DocumentGenerationProcess, manage, document, generation, processes, Call, methodName, inputMap]
 ---
-
-# DocumentGenerationProcess Class
 
 > The DocumentGenerationProcess class provides methods
         to manage document generation processes.

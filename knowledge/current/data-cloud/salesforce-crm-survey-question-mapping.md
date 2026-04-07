@@ -5,12 +5,10 @@ topic: salesforce-crm-survey-question-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.542Z
+lastCollected: 2026-04-07T18:35:52.417Z
 estimatedTokens: 343
-keywords: [Salesforce, CRM, Survey, Question, Mapping, data, mappings, SurveyQuestion, DLO, found, Services, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Survey, Question, Mapping, mappings, SurveyQuestion, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Survey Question Mapping
 
 > These data mappings are for the SurveyQuestion DLO found in the Services bundle of the
   Salesforce CRM Connector for Data Cloud.

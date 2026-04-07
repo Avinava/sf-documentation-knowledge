@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.164Z
+lastCollected: 2026-04-07T18:36:59.655Z
 estimatedTokens: 117
-keywords: [Smart, Data, Discovery, Model, Configuration, Einstein]
+keywords: [Smart, Discovery, Model, Configuration, Einstein]
 ---
-
-# Smart Data Discovery Model Configuration
 
 > The configuration for an Einstein Discovery model.
 

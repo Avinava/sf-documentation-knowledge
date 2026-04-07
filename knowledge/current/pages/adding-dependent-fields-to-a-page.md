@@ -5,12 +5,10 @@ topic: adding-dependent-fields-to-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:59.711Z
+lastCollected: 2026-04-07T18:38:52.019Z
 estimatedTokens: 1106
-keywords: [Adding, Dependent, provide, way, filter, Visualforce, consist, two, parts, controlling, determines, filtering, filtered, dynamicall, Picklist]
+keywords: [Adding, Dependent, provide, way, filter, Visualforce, consist, two, parts, controlling, determines, filtering, filtered, dynamicall, Picklist, Considerations]
 ---
-
-# Adding Dependent Fields to a Page
 
 > Dependent fields provide a way to filter the field values displayed on a Visualforce
             page. Dependent fields consist of two parts: a controlling field that determines the

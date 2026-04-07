@@ -5,12 +5,10 @@ topic: budgetparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.188Z
+lastCollected: 2026-04-07T18:39:30.365Z
 estimatedTokens: 361
-keywords: [BudgetParticipant, user, group, participants, access, budget, API, version, 59.0, later]
+keywords: [BudgetParticipant, user, group, participants, budget, API, 59.0]
 ---
-
-# BudgetParticipant
 
 > Represents information about a user or group of participants who have
          access to a budget. This object is available in API version 59.0 and

@@ -5,12 +5,10 @@ topic: post-ottv1registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:19.984Z
+lastCollected: 2026-04-07T18:40:15.001Z
 estimatedTokens: 1534
-keywords: [POST, ott, registration, Register, specific, platform, try, Messenger, LINE, Channel, resource, already, exists, Marketing, Cloud]
+keywords: [POST, ott, registration, Register, specific, platform, try, Messenger, LINE, Channel, resource, already, exists, Marketing, Cloud, payload, override, **Overview**, Success, Error, Possible, Errors]
 ---
-
-# POST /ott/v1/registration
 
 > Register a property for a specific OTT platform. If you try to register a Messenger Page ID or LINE Channel ID  resource that already exists in Marketing Cloud, the details in the request payload override the details in Marketing Cloud.
 

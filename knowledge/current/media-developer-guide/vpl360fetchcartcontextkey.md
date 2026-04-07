@@ -5,12 +5,10 @@ topic: vpl360fetchcartcontextkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.793Z
+lastCollected: 2026-04-07T18:38:11.061Z
 estimatedTokens: 110
-keywords: [VPL360_FetchCartContextKey, Integration, Procedure, fetches, Abandoned, cart, context, key, previously, created, shopping, VPL360, _FetchCartContextKey, Sample, Input]
+keywords: [VPL360_FetchCartContextKey, Integration, Procedure, fetches, Abandoned, cart, context, key, previously, created, shopping, VPL360, _FetchCartContextKey, Sample]
 ---
-
-# VPL360_FetchCartContextKey
 
 > This Integration Procedure fetches the Abandoned cart
     context key previously created while shopping

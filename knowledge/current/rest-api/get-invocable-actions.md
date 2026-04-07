@@ -5,12 +5,10 @@ topic: get-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.177Z
+lastCollected: 2026-04-07T18:36:20.385Z
 estimatedTokens: 101
-keywords: [Invocable, Actions, standard, custom, action, URIs, Salesforce, resource, REST, API, version, 32.0, later, URI, Formats]
+keywords: [Formats, Authentication, Invocable, Actions, standard, action, URIs, Salesforce, resource, REST, API, 32.0, URI, HTTP]
 ---
-
-# Get Invocable Actions
 
 > Gets standard and custom invocable action URIs from Salesforce. This resource is
     available in REST API version 32.0 and later.

@@ -5,12 +5,10 @@ topic: requirements-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.655Z
+lastCollected: 2026-04-07T18:36:15.891Z
 estimatedTokens: 729
 keywords: [Requirements, Limitations, Salesforce, Reports, Dashboards, API, via, Apex, organizations, enabled]
 ---
-
-# Requirements and Limitations
 
 > The Salesforce Reports and Dashboards API via Apex is available for organizations that
   have API enabled.

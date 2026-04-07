@@ -5,12 +5,10 @@ topic: chatteranswersallfeeds
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.211Z
+lastCollected: 2026-04-07T18:38:49.259Z
 estimatedTokens: 375
-keywords: [chatteranswers, allfeeds, Displays, Chatter, Answers, application, including, feed, filters, profiles, Sign, buttons, Ext, versions, less]
+keywords: [Attributes, chatteranswers, allfeeds, Displays, Chatter, Answers, application, including, filters, profiles, Sign, buttons, Ext, versions, less, included, pages]
 ---
-
-# chatteranswers:allfeeds
 
 > Displays the Chatter Answers application, including the feed, filters, profiles, and the Sign Up and Sign In buttons.  Ext JS versions less than 3 should not be included on pages that use this component.
 

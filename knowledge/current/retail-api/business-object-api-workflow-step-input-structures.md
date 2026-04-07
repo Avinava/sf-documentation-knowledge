@@ -5,12 +5,10 @@ topic: business-object-api-workflow-step-input-structures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.458Z
+lastCollected: 2026-04-07T18:39:10.957Z
 estimatedTokens: 5609
-keywords: [Business, API, Workflow, Step, Input, Structures, technical]
+keywords: [Business, API, Workflow, Step, Structures, technical]
 ---
-
-# Business Object API Workflow Step Input Structures
 
 > The following table provides technical details related to each workflow
         step.

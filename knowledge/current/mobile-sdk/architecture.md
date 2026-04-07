@@ -5,12 +5,10 @@ topic: architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.528Z
+lastCollected: 2026-04-07T18:40:25.911Z
 estimatedTokens: 261
-keywords: [Architecture, Beginning, Mobile, SDK, 4.2, Android, REST, system, uses, OkHttp, v3.2.0, open-source, external, library, Square]
+keywords: [Architecture, Beginning, Mobile, SDK, 4.2, Android, REST, system, uses, OkHttp, v3.2.0, open-source, external, library, Square, Open, Source, underlying, replaces, Google, Volley, past, releases, result]
 ---
-
-# Architecture
 
 > Beginning with Mobile SDK 4.2, the Android REST request system uses OkHttp (v3.2.0), an
             open-source external library from Square Open Source, as its underlying architecture.

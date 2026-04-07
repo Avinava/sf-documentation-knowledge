@@ -5,12 +5,10 @@ topic: authenticate-with-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.433Z
+lastCollected: 2026-04-07T18:39:21.253Z
 estimatedTokens: 332
-keywords: [Authenticate, Connected, App, OAuth, access, token, authentication, secure, way, SOAP, REST, API, calls, Salesforce, Scheduler, step, API-based, integration, connect]
+keywords: [Authenticate, Connected, App, OAuth, token, authentication, secure, way, SOAP, REST, API, Salesforce, Scheduler, API-based, integration, step, connect]
 ---
-
-# Authenticate with a Connected App
 
 > The first step in an API-based integration is to connect to Salesforce
    and get an access token using OAuth. OAuth access token authentication is the most secure way to

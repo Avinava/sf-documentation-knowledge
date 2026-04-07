@@ -5,12 +5,10 @@ topic: oci-transfer-reservation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.569Z
+lastCollected: 2026-04-07T18:37:09.303Z
 estimatedTokens: 254
-keywords: [OCI, Transfer, Reservation, Input, inventory, transfers, whether, failure, cancels, entire]
+keywords: [OCI, Transfer, Reservation, inventory, transfers, whether, failure, cancels, entire]
 ---
-
-# OCI Transfer Reservation Input
 
 > A list of inventory reservation transfers and specifies whether a single failure
       cancels the entire list.

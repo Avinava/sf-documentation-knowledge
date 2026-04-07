@@ -5,12 +5,10 @@ topic: conversationvendorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.610Z
+lastCollected: 2026-04-07T18:36:23.949Z
 estimatedTokens: 3508
-keywords: [ConversationVendorInfo, connection, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring, Own]
+keywords: [ConversationVendorInfo, connection, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring, Own, Channel, Messaging, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ConversationVendorInfo
 
 > Represents the connection between the partner vendor system
 			and the Service Cloud feature. For example, for Service Cloud Voice, this type contains

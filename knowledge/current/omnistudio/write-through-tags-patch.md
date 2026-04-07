@@ -5,12 +5,10 @@ topic: write-through-tags-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.960Z
+lastCollected: 2026-04-07T18:36:38.619Z
 estimatedTokens: 192
 keywords: [Write, Tags, PATCH, Context, Attributes]
 ---
-
-# Write Through Tags (PATCH)
 
 > Update Context Attributes through tags.
 

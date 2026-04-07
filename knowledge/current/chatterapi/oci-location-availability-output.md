@@ -5,12 +5,10 @@ topic: oci-location-availability-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.050Z
+lastCollected: 2026-04-07T18:37:21.205Z
 estimatedTokens: 98
-keywords: [OCI, Location, Availability, Output, representation, location’s, inventory]
+keywords: [OCI, Location, Availability, location’s, inventory]
 ---
-
-# OCI Location Availability Output
 
 > Output representation of one location’s inventory availability
 

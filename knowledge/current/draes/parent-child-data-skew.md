@@ -5,12 +5,10 @@ topic: parent-child-data-skew
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.775Z
+lastCollected: 2026-04-07T18:37:28.864Z
 estimatedTokens: 441
-keywords: [Parent-Child, Data, Skew, Implicit, sharing, behaviors, simplify, task, managing, security, users, They, handle, common, access]
+keywords: [Parent-Child, Skew, Implicit, sharing, behaviors, simplify, task, managing, security, users, They, handle, common, cases, requiring, additional, roles, groups, configured, However, ownership, configurations, slow, performance, large, loads, updates, sometimes, single-record, operations]
 ---
-
-# Parent-Child Data Skew
 
 > Implicit sharing behaviors simplify the task of managing security for users. They handle
   the most common data access use cases without requiring additional roles, groups, and sharing

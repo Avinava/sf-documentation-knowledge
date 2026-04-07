@@ -5,12 +5,10 @@ topic: cnfgmgmtdiscoverytgtparm
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.181Z
+lastCollected: 2026-04-07T18:35:55.286Z
 estimatedTokens: 620
-keywords: [CnfgMgmtDiscoveryTgtParm, definition, control, refine, cloud, infrastructure, scans, imported, items, virtual, machines, ports, host, API, version]
+keywords: [CnfgMgmtDiscoveryTgtParm, definition, control, refine, cloud, infrastructure, scans, imported, items, virtual, machines, ports, host, API, 65.0]
 ---
-
-# CnfgMgmtDiscoveryTgtParm
 
 > Represents the definition of parameters used to control or refine cloud
          infrastructure scans. For example, imported items such as virtual machines, ports, or host

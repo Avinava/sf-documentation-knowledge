@@ -5,12 +5,10 @@ topic: enable-scratch-org-snapshots-in-the-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.569Z
+lastCollected: 2026-04-07T18:40:08.521Z
 estimatedTokens: 118
 keywords: [Enable, Scratch, Org, Snapshots, Dev, Hub, snapshot, belong, you’re, orgs]
 ---
-
-# Enable Scratch Org Snapshots in the Dev Hub Org
 
 > A snapshot must belong to the Dev Hub org that you’re using to create the scratch
   orgs.

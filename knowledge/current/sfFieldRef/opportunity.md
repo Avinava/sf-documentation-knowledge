@@ -5,12 +5,10 @@ topic: opportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.094Z
+lastCollected: 2026-04-07T18:39:50.512Z
 estimatedTokens: 975
 keywords: [Opportunity, sale, pending, deal]
 ---
-
-# Opportunity
 
 > Represents an opportunity, which is a sale or pending
 		deal.

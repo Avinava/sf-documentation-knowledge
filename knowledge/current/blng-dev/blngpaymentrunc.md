@@ -5,12 +5,10 @@ topic: blngpaymentrunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.324Z
+lastCollected: 2026-04-07T18:37:03.893Z
 estimatedTokens: 1045
-keywords: [blng__PaymentRun__c, batch, processing, job, Salesforce, Billing, payment, run, schedules, meet, criteria, processed, resulting, collection, payments]
+keywords: [blng__PaymentRun__c, batch, processing, job, Salesforce, Billing, payment, run, schedules, meet, criteria, processed, resulting, collection, payments, blng, _PaymentRun]
 ---
-
-# blng__PaymentRun__c
 
 > Represents a batch processing job in Salesforce Billing. During a payment
          run, all payment schedules that meet the specified criteria are processed, resulting in the

@@ -5,12 +5,10 @@ topic: component-saved-view-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.302Z
+lastCollected: 2026-04-07T18:36:56.844Z
 estimatedTokens: 197
-keywords: [Component, Saved, View, State, Analytics]
+keywords: [Saved, View, State, Analytics]
 ---
-
-# Component Saved View State
 
 > A state for the saved view of an Analytics component.
 

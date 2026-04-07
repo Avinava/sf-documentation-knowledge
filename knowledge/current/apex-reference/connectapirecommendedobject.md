@@ -5,12 +5,10 @@ topic: connectapirecommendedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.186Z
+lastCollected: 2026-04-07T18:36:11.475Z
 estimatedTokens: 139
-keywords: [ConnectApi.RecommendedObject, recommended, custom, recommendation]
+keywords: [ConnectApi.RecommendedObject, recommended, recommendation]
 ---
-
-# ConnectApi.RecommendedObject
 
 > A recommended object, such as a custom or static
     recommendation.

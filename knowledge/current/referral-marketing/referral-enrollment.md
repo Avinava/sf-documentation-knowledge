@@ -5,12 +5,10 @@ topic: referral-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:16.222Z
+lastCollected: 2026-04-07T18:39:09.532Z
 estimatedTokens: 949
-keywords: [Referral, Enrollment, Enroll, new, customer, promotion, Resource, Input, Sample, Output]
+keywords: [Resource, Referral, Enrollment, Enroll, new, customer, promotion, Sample]
 ---
-
-# Referral Enrollment
 
 > Enroll an existing or new customer to a referral promotion.
 

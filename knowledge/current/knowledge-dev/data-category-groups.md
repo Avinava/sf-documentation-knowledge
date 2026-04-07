@@ -5,12 +5,10 @@ topic: data-category-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.924Z
+lastCollected: 2026-04-07T18:37:54.220Z
 estimatedTokens: 819
-keywords: [Data, Category, Groups, visible, current, user, resource, REST, API, version, 38.0, later]
+keywords: [Category, Groups, visible, current, user, resource, REST, API, 38.0]
 ---
-
-# Data Category Groups
 
 > Get data category groups that are visible to the current user. This resource is
   available in REST API version 38.0 and later.

@@ -5,12 +5,10 @@ topic: insurance-brokerage-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.665Z
+lastCollected: 2026-04-07T18:37:52.875Z
 estimatedTokens: 615
 keywords: [Insurance, Brokerage, Business, APIs, manage, policy, lifecycle, commissions, plan, benefits]
 ---
-
-# Insurance Brokerage Business APIs
 
 > Use the Insurance Brokerage Business APIs to manage policy lifecycle, brokerage
     commissions, and plan benefits.

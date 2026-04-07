@@ -5,12 +5,10 @@ topic: monthly-relative-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.487Z
+lastCollected: 2026-04-07T18:36:54.847Z
 estimatedTokens: 199
-keywords: [Monthly, Relative, Schedule, Input, Specify, Analytics, asset, day, their, location, week]
+keywords: [Monthly, Relative, Schedule, Specify, Analytics, asset, day, their, location, week]
 ---
-
-# Monthly Relative Schedule Input
 
 > Specify a monthly schedule for an Analytics asset where the day are relative to their
   location in the week.

@@ -5,12 +5,10 @@ topic: addmessagemessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.209Z
+lastCollected: 2026-04-07T18:38:48.165Z
 estimatedTokens: 92
 keywords: [addMessage, message, Add, current, context]
 ---
-
-# addMessage(message)
 
 > Add a message to the current page context.
 

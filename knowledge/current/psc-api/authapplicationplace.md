@@ -5,12 +5,10 @@ topic: authapplicationplace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.801Z
+lastCollected: 2026-04-07T18:39:05.795Z
 estimatedTokens: 351
-keywords: [AuthApplicationPlace, association, location, application, license, API, version, 49.0, later, Calls]
+keywords: [AuthApplicationPlace, association, location, application, license, API, 49.0]
 ---
-
-# AuthApplicationPlace
 
 > Information related to the association between a location and its application for the license of the location. This object is available in API version 49.0 and
 		later.

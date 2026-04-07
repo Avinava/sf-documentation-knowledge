@@ -5,12 +5,10 @@ topic: care-authorization-request-related-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.257Z
+lastCollected: 2026-04-07T18:37:55.751Z
 estimatedTokens: 157
-keywords: [Care, Authorization, Record, output, representation]
+keywords: [Care, Authorization, Record]
 ---
-
-# Care Authorization Request Related Record
 
 > Care Authorization request related record output
     representation

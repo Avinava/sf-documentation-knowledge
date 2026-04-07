@@ -5,12 +5,10 @@ topic: predict-values-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.841Z
+lastCollected: 2026-04-07T18:39:18.565Z
 estimatedTokens: 75
-keywords: [Predict, Input, node, recipe]
+keywords: [Predict, node, recipe]
 ---
-
-# Predict Values Parameters Input
 
 > The parameters for a predict values node in a recipe.
 

@@ -5,12 +5,10 @@ topic: how-does-apex-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:32.617Z
+lastCollected: 2026-04-07T18:36:17.845Z
 estimatedTokens: 326
-keywords: [How, Apex, Work, runs, entirely, on-demand, Lightning, Platform, Developers, write, save, code, end, users, trigger]
+keywords: [How, Apex, Work, runs, entirely, on-demand, Lightning, Platform, Developers, write, save, code, end, users, trigger, execution, via, user]
 ---
-
-# How Does Apex Work?
 
 > All Apex runs entirely on-demand on the Lightning Platform. Developers write and save
         Apex code to the platform, and end users trigger the execution of the Apex code via the user

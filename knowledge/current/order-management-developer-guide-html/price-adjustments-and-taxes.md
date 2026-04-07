@@ -5,12 +5,10 @@ topic: price-adjustments-and-taxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.660Z
+lastCollected: 2026-04-07T18:38:45.453Z
 estimatedTokens: 1010
-keywords: [Price, Adjustments, Taxes, OrderItemTaxLineItem, tax, applied, order, item, change, associated, adjustment]
+keywords: [Price, Adjustments, Taxes, OrderItemTaxLineItem, tax, applied, order, item, change, adjustment]
 ---
-
-# Price Adjustments and Taxes
 
 > The OrderItemTaxLineItem object represents a tax applied to an
       order item or the change in tax associated with an order item adjustment.

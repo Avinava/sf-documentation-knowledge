@@ -5,12 +5,10 @@ topic: get-global-publisher-layouts-and-descriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.061Z
+lastCollected: 2026-04-07T18:36:21.289Z
 estimatedTokens: 132
 keywords: [Publisher, Layouts, Descriptions, Retrieves, their, customize, actions, pages, Home, Lightning, Experience, populate, menu]
 ---
-
-# Get Global Publisher Layouts and Descriptions
 
 > Retrieves lists of global publisher layouts and their descriptions. Global publisher
     layouts customize the actions on global pages (like the Home page). In Lightning Experience,

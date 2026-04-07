@@ -5,12 +5,10 @@ topic: assettag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.240Z
+lastCollected: 2026-04-07T18:38:26.188Z
 estimatedTokens: 353
-keywords: [AssetTag, Associates, word, short, phrase, Asset, Calls, Usage]
+keywords: [AssetTag, Associates, word, short, phrase, Asset]
 ---
-
-# AssetTag
 
 > Associates a word or short phrase with an Asset.
 

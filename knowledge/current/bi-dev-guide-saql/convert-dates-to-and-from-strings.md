@@ -5,12 +5,10 @@ topic: convert-dates-to-and-from-strings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.381Z
+lastCollected: 2026-04-07T18:37:00.946Z
 estimatedTokens: 282
 keywords: [Convert, Dates, Strings]
 ---
-
-# Convert Dates to and from Strings
 
 > You can convert dates to strings.
 

@@ -5,12 +5,10 @@ topic: list-object-scope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.782Z
+lastCollected: 2026-04-07T18:40:11.796Z
 estimatedTokens: 141
 keywords: [Scope]
 ---
-
-# List Object Scope
 
 > List object scope.
 

@@ -5,12 +5,10 @@ topic: insurance-member-contact-and-user-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.334Z
+lastCollected: 2026-04-07T18:37:52.506Z
 estimatedTokens: 161
-keywords: [Insurance, Member, Contact, User, Output, representation, member's, portal, that's, created]
+keywords: [Insurance, Member, Contact, User, member's, portal, that's, created]
 ---
-
-# Insurance Member Contact and User Details
 
 > Output representation of a member's contact and portal user details that's
   created.

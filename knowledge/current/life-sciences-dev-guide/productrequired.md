@@ -5,12 +5,10 @@ topic: productrequired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.438Z
+lastCollected: 2026-04-07T18:38:00.150Z
 estimatedTokens: 786
-keywords: [ProductRequired, product, needed, visit, Calls, Usage, Associated, Objects]
+keywords: [ProductRequired, product, needed, visit]
 ---
-
-# ProductRequired
 
 > Represents a product that is needed to complete a
     visit.

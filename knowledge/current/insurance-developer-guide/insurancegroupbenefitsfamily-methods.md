@@ -5,12 +5,10 @@ topic: insurancegroupbenefitsfamily-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.512Z
+lastCollected: 2026-04-07T18:37:49.352Z
 estimatedTokens: 1244
 keywords: [InsuranceGroupBenefitsFamily]
 ---
-
-# InsuranceGroupBenefitsFamily Methods
 
 > These methods are for InsuranceGroupBenefitsFamily. All methods are static.
 

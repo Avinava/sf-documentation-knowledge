@@ -6,13 +6,10 @@ topic: data-protection-and-security-in-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.590Z
+lastCollected: 2026-04-07T18:40:27.744Z
 estimatedTokens: 355
-keywords: [Data, Protection, Security, Android, Service, Chat, SDK, collect, store, personal, users, ensure, secure, locally, transit]
+keywords: [Protection, Security, Android, Service, Chat, SDK, collect, store, personal, users, ensure, secure, locally, transit]
 ---
-
-# Data Protection and Security in the  for Android for
-   Android
 
 > The Service Chat SDK does not collect or store personal data from its users.
    We ensure that data is secure both locally and when in transit.

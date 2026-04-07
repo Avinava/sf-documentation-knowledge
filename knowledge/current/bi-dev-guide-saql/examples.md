@@ -5,12 +5,10 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.822Z
+lastCollected: 2026-04-07T18:37:00.336Z
 estimatedTokens: 759
-keywords: [Examples, hands-on, SAQL, walk, writing, query, retrieve, data]
+keywords: [Examples, hands-on, SAQL, walk, writing, query, retrieve]
 ---
-
-# Examples
 
 > These hands-on SAQL examples walk you through writing a query to retrieve data
 

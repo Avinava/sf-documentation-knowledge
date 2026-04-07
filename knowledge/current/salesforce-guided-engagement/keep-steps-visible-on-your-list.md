@@ -5,12 +5,10 @@ topic: keep-steps-visible-on-your-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.043Z
+lastCollected: 2026-04-07T18:39:17.712Z
 estimatedTokens: 331
 keywords: [Keep, Steps, Visible, Hide, remove, option, actions, want, agents, can’t, they, remain, unless, they’re, completed]
 ---
-
-# Keep Steps Visible on Your List
 
 > Hide the remove option for actions that you want agents to complete. Agents can’t
     remove these steps, so they remain on the list unless they’re completed.

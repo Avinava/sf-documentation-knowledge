@@ -5,12 +5,10 @@ topic: getglobalid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.213Z
+lastCollected: 2026-04-07T18:38:05.407Z
 estimatedTokens: 137
-keywords: [getGlobalId, generated, globally, unique, component, locate, instance, later, change, across, loads]
+keywords: [getGlobalId, generated, globally, unique, locate, instance, change, across, loads]
 ---
-
-# getGlobalId()
 
 > Gets the global ID, which is the generated globally unique id of the
    component. It can be used to locate the instance later, but will change across page

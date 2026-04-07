@@ -5,12 +5,10 @@ topic: record-defaults-template-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.049Z
+lastCollected: 2026-04-07T18:40:12.054Z
 estimatedTokens: 234
-keywords: [Record, Defaults, Template, containing, data, needed, POST, ui-api, records]
+keywords: [Record, Defaults, Template, containing, needed, POST, ui-api, records]
 ---
-
-# Record Defaults Template Create
 
 > A record template containing the default information and data needed
       to create a record. Use these values in a request to POST

@@ -5,12 +5,10 @@ topic: businesslicenseproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.603Z
+lastCollected: 2026-04-07T18:37:59.162Z
 estimatedTokens: 871
-keywords: [BusinessLicenseProduct, licenses, linked, product, healthcare, provider, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [BusinessLicenseProduct, licenses, linked, product, healthcare, provider, API, 65.0]
 ---
-
-# BusinessLicenseProduct
 
 > Represents the licenses required to be linked to a product for the healthcare
          provider. This object is available in API version 65.0 and later.

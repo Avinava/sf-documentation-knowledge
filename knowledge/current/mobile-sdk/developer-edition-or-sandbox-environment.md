@@ -5,12 +5,10 @@ topic: developer-edition-or-sandbox-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.910Z
+lastCollected: 2026-04-07T18:40:26.223Z
 estimatedTokens: 793
-keywords: [Developer, Edition, Sandbox, Environment, Development, environments, strictly, developing, testing, apps, contain, test, data, isn’t, business-critical]
+keywords: [Developer, Edition, Sandbox, Environment, Development, environments, strictly, developing, testing, apps, contain, test, isn’t, business-critical, inside, browser, Salesforce, Extensions, Visual, Studio, Code, editor, Choosing]
 ---
-
-# Developer Edition or Sandbox Environment?
 
 > Development environments are used strictly for developing and testing apps. These environments
       contain test data that isn’t business-critical. Development can be done inside your browser or

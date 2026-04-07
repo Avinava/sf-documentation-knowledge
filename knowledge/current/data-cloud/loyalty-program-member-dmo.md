@@ -5,12 +5,10 @@ topic: loyalty-program-member-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.973Z
+lastCollected: 2026-04-07T18:35:53.998Z
 estimatedTokens: 1272
-keywords: [Loyalty, Program, Member, DMO, Data, Cloud, model, person, joined, API, Category, Primary, Subject, Area, Key]
+keywords: [Category, Relationships, Loyalty, Program, Member, DMO, Cloud, model, person, joined, API, Primary, Subject, Area, Key]
 ---
-
-# Loyalty Program Member DMO
 
 > The Loyalty Program Member DMO is a Data Cloud data model object (DMO)
       for a person who has joined a loyalty

@@ -5,12 +5,10 @@ topic: request-service-order-credentials-for-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.657Z
+lastCollected: 2026-04-07T18:38:46.525Z
 estimatedTokens: 596
-keywords: [Service, Order, Credentials, Channel, App, connect, COA, Salesforce, Help, consist, unique, username, API, key, activation]
+keywords: [Service, Order, Credentials, Channel, App, connect, COA, Salesforce, Help, consist, unique, username, API, key, activation, code, provide, establish, connection]
 ---
-
-# Request Service Order Credentials for the Channel Order App
 
 > Before you connect the Channel Order App (COA) to Salesforce, request service order
   credentials on Salesforce Help. Your credentials consist of a unique username, API key, and

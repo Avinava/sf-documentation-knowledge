@@ -5,12 +5,10 @@ topic: loyaltyprogrammemberbadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.092Z
+lastCollected: 2026-04-07T18:39:47.524Z
 estimatedTokens: 350
 keywords: [LoyaltyProgramMemberBadge, badge, that’s, assigned, loyalty, program, member]
 ---
-
-# LoyaltyProgramMemberBadge
 
 > Represents a badge that’s assigned to a loyalty program member.
 

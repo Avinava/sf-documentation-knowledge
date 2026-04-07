@@ -5,12 +5,10 @@ topic: servicepoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.717Z
+lastCollected: 2026-04-07T18:40:01.482Z
 estimatedTokens: 723
-keywords: [ServicePoint, entry, point, services, premises, service, provided, separately, metered, measured, Useful, energy, including, electricity, water]
+keywords: [ServicePoint, entry, point, services, premises, service, provided, separately, metered, measured, Useful, energy, including, electricity, water, gas, API, 62.0]
 ---
-
-# ServicePoint
 
 > Represents an entry point for services to a premises. The service provided to
          each service point is separately metered (or measured). Useful for energy services

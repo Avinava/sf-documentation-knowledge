@@ -5,13 +5,11 @@ topic: commerceextension-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.681Z
+lastCollected: 2026-04-07T18:36:14.994Z
 estimatedTokens: 343
 namespace: CommerceExtension
 keywords: [CommerceExtension, define, resolution, strategies, registered, Commerce, extensions]
 ---
-
-# CommerceExtension Namespace
 
 > Use the CommerceExtension namespace to define
     resolution strategies for registered Commerce extensions.

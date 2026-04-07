@@ -5,12 +5,10 @@ topic: assign-page-layouts-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.501Z
+lastCollected: 2026-04-07T18:38:46.368Z
 estimatedTokens: 193
-keywords: [Assign, Layouts, Channel, Order, App, COA, custom, layout, customer]
+keywords: [Assign, Layouts, Channel, Order, App, COA, layout, customer]
 ---
-
-# Assign Page Layouts in the Channel Order App
 
 > After you set up the Channel Order App (COA), assign a custom page layout to the
   customer object.

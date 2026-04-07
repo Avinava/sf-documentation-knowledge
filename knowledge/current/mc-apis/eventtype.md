@@ -5,12 +5,10 @@ topic: eventtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.741Z
+lastCollected: 2026-04-07T18:40:16.900Z
 estimatedTokens: 371
 keywords: [EventType, event, recorded, distinguish, hard, soft, bounce, retrieving, BounceEvent]
 ---
-
-# EventType
 
 > The EventType object specifies the type of event that is recorded. Use this object to distinguish between hard, soft, and other bounce types when retrieving a BounceEvent.
 

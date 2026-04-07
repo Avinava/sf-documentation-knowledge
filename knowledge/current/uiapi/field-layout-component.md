@@ -5,12 +5,10 @@ topic: field-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.684Z
+lastCollected: 2026-04-07T18:40:11.688Z
 estimatedTokens: 130
-keywords: [Layout, Component, record]
+keywords: [Layout, record]
 ---
-
-# Field Layout Component
 
 > A field in a record layout.
 

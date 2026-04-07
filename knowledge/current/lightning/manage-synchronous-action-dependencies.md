@@ -5,12 +5,10 @@ topic: manage-synchronous-action-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.569Z
+lastCollected: 2026-04-07T18:38:03.619Z
 estimatedTokens: 990
-keywords: [Manage, Synchronous, Action, Dependencies, code, require, prior, don’t, call, dependent, actions, until, earlier, completes, render]
+keywords: [Manage, Synchronous, Action, Dependencies, code, require, prior, don’t, call, dependent, actions, until, earlier, completes, render, conditionally, result, action’s, callback, function, ensures, isn’t, made, Hidden, Canvas]
 ---
-
-# Manage Synchronous Action Dependencies
 
 > When your code has dependencies that require a prior action to complete, don’t call the
         dependent actions until the earlier action completes. For example, render a dependent

@@ -5,12 +5,10 @@ topic: fileuploadanddownloadsecuritysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.638Z
+lastCollected: 2026-04-07T18:36:26.114Z
 estimatedTokens: 718
-keywords: [FileUploadAndDownloadSecuritySettings, security, settings, uploading, downloading, files, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [FileUploadAndDownloadSecuritySettings, FileTypeDispositionAssignmentBean, security, settings, uploading, downloading, files, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# FileUploadAndDownloadSecuritySettings
 
 > Represents the security
             settings for uploading and downloading files. This type extends the Metadata metadata type and inherits its fullName field.

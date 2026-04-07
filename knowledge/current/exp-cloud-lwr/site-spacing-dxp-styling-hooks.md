@@ -5,12 +5,10 @@ topic: site-spacing---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.881Z
+lastCollected: 2026-04-07T18:37:33.170Z
 estimatedTokens: 564
 keywords: [Site, Spacing, --dxp, Styling, Hooks, customize, settings, combine, provide, consistent, experience, across]
 ---
-
-# Site Spacing --dxp Styling Hooks
 
 > Site spacing allows you to customize the global spacing settings for your site. These
     styling hooks combine to provide a consistent spacing experience across each page.

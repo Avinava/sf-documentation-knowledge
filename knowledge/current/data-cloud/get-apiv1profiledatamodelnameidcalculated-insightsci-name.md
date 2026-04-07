@@ -5,12 +5,10 @@ topic: get-apiv1profiledatamodelnameidcalculated-insightsci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.754Z
+lastCollected: 2026-04-07T18:35:51.608Z
 estimatedTokens: 624
-keywords: [api, profile, dataModelName, calculated-insights, ci-name, data, model, objects, computed, view, indexes, search, filters, Examples, HTTP]
+keywords: [Examples, api, profile, dataModelName, calculated-insights, ci-name, model, computed, view, indexes, search, filters, HTTP, Responses]
 ---
-
-# GET /api/v1/profile/{dataModelName}/{Id}/calculated-insights/{ci-name}
 
 > Returns data model objects and a computed view based on indexes and search filters.
 

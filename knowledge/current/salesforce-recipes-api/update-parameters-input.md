@@ -5,12 +5,10 @@ topic: update-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.156Z
+lastCollected: 2026-04-07T18:39:18.855Z
 estimatedTokens: 108
-keywords: [Input, node, recipe]
+keywords: [node, recipe]
 ---
-
-# Update Parameters Input
 
 > The parameters for an update node in a recipe.
 

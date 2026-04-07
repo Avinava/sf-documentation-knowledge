@@ -5,12 +5,10 @@ topic: media-cloud-fields-on-unitofmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.275Z
+lastCollected: 2026-04-07T18:38:12.562Z
 estimatedTokens: 149
-keywords: [Media, Cloud, UnitOfMeasure, Standard, extend, Advertising, Inventory, Management, represent, units, measure.The, API, version, 65.0, later]
+keywords: [Media, Cloud, UnitOfMeasure, Standard, extend, Advertising, Inventory, Management, represent, units, measure.The, API, 65.0]
 ---
-
-# Media Cloud Fields on UnitOfMeasure
 
 > Standard fields extend the UnitOfMeasure object for use in Advertising
          Inventory Management to represent the value of the units of measure.The Media Cloud

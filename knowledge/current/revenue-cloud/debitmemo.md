@@ -5,12 +5,10 @@ topic: debitmemo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.011Z
+lastCollected: 2026-04-07T18:35:48.984Z
 estimatedTokens: 2233
-keywords: [DebitMemo, document, charge, additional, amount, buyer, seller, invoice, generated, debit, memo, run, API, version, 65.0]
+keywords: [DebitMemo, document, charge, additional, amount, buyer, seller, invoice, generated, debit, memo, run, API, 65.0]
 ---
-
-# DebitMemo
 
 > Represents the document used to charge an additional amount to a buyer by a
          seller. An invoice is generated for the debit memo in the next invoice run. This

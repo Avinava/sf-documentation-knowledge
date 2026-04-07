@@ -5,13 +5,11 @@ topic: ibusinessobjectivesandrecsfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.780Z
+lastCollected: 2026-04-07T18:35:58.116Z
 estimatedTokens: 2536
 namespace: ConnectApi
-keywords: [IBusinessObjectivesAndRecsFamily, patch, business, objectives, goals, recommended, actions, createRecommendations, busObjRecommendationInput, API, Version, Requires, Chatter, getBusinessObjectives, webstoreId]
+keywords: [IBusinessObjectivesAndRecsFamily, patch, business, objectives, goals, recommended, actions, createRecommendations, busObjRecommendationInput, API, Requires, Chatter, getBusinessObjectives, webstoreId, channelId, kpiName, includeRecSummary, includeInsightSummary, getRecommendations, businessObjectiveId, domain, externalName, state, secondaryState, tertiaryState, grouping, patchBusinessObjective, patchRecommendations, updateRecommendations]
 ---
-
-# IBusinessObjectivesAndRecsFamily Class
 
 > Get and patch business objectives, or goals. Get, create, patch, and update recommended
   actions for business objectives.

@@ -5,12 +5,10 @@ topic: billing-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.188Z
+lastCollected: 2026-04-07T18:35:42.040Z
 estimatedTokens: 859
-keywords: [Billing, Platform, Events, Salesforce, publishes, standard, action, occurred, org, report, errors, InvoiceProcessedEvent, event, notification, customer]
+keywords: [Billing, Platform, Events, Salesforce, publishes, standard, action, occurred, org, report, errors, InvoiceProcessedEvent, event, notification, customer, invoice, activity, subscribe, subscription, mechanism, supports]
 ---
-
-# Billing Platform Events
 
 > Salesforce publishes standard platform events in response to an action that occurred in
   the org or to report errors. For example, the InvoiceProcessedEvent platform event sends

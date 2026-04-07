@@ -5,12 +5,10 @@ topic: connectapierrordetailsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.439Z
+lastCollected: 2026-04-07T18:37:50.275Z
 estimatedTokens: 91
-keywords: [Output, representation, error, code, message]
+keywords: [error, code, message]
 ---
-
-# ConnectApi.ErrorDetailsOutputRepresentation
 
 > Output representation of the error details, such as error code and error
     message.

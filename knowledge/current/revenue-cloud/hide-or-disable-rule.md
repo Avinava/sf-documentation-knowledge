@@ -5,12 +5,10 @@ topic: hide-or-disable-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.573Z
+lastCollected: 2026-04-07T18:35:42.459Z
 estimatedTokens: 650
-keywords: [Hide, Disable, Rule, uses, keyword, conditionally, remove, element, selection, menu, preserve, preventing, user, Hiding, Disabling]
+keywords: [Hide, Disable, Rule, uses, keyword, conditionally, remove, selection, menu, preserve, preventing, user, Hiding, Disabling, Features]
 ---
-
-# Hide or Disable Rule
 
 > The Hide or Disable Rule uses the rule() keyword to conditionally remove an element
     from the selection menu (hide) or preserve it in the menu while preventing user selection

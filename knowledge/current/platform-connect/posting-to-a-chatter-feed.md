@@ -5,12 +5,10 @@ topic: posting-to-a-chatter-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.326Z
+lastCollected: 2026-04-07T18:38:57.113Z
 estimatedTokens: 196
-keywords: [Posting, Chatter, Feed, code, call, post, item, context, user’s]
+keywords: [Posting, Chatter, code, call, post, item, context, user’s]
 ---
-
-# Posting to a Chatter Feed
 
 > The following code example shows a call to post an item
 to the context user’s Chatter feed.

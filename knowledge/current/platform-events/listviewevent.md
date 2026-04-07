@@ -5,12 +5,10 @@ topic: listviewevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.402Z
+lastCollected: 2026-04-07T18:38:59.286Z
 estimatedTokens: 3433
-keywords: [ListViewEvent, Tracks, users, access, data, views, Lightning, Experience, Salesforce, Classic, API, doesn’t, track, Setup, entities]
+keywords: [ListViewEvent, Tracks, users, views, Lightning, Experience, Salesforce, Classic, API, doesn’t, track, Setup, entities, transaction, security, policy, big, stores, event, ListViewEventStream, 46.0, Standard, SOQL]
 ---
-
-# ListViewEvent
 
 > Tracks when users access data with list views using Lightning
          Experience, Salesforce Classic, or the API. It doesn’t track list views of Setup

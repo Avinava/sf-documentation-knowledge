@@ -5,12 +5,10 @@ topic: save-recommendation-decision-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.737Z
+lastCollected: 2026-04-07T18:39:11.256Z
 estimatedTokens: 173
-keywords: [Save, Recommendation, Decision, Status, Output, representation]
+keywords: [Save, Recommendation, Decision, Status]
 ---
-
-# Save Recommendation Decision Status
 
 > Output representation of the status of the save recommendation
       decision.

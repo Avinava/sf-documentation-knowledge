@@ -5,12 +5,10 @@ topic: events-fired-during-the-rendering-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.185Z
+lastCollected: 2026-04-07T18:38:03.186Z
 estimatedTokens: 1565
-keywords: [Events, Fired, Rendering, Lifecycle, component, instantiated, rendered, rerendered, rerenders, there’s, programmatic, change, requires, rerender, browser]
+keywords: [Events, Fired, Rendering, Lifecycle, instantiated, rendered, rerendered, rerenders, there’s, programmatic, change, requires, rerender, browser, event, triggers, action, updates, component’s, Creation, Nested]
 ---
-
-# Events Fired During the Rendering Lifecycle
 
 > A component is instantiated, rendered, and rerendered during its lifecycle. A component
     rerenders only when there’s a programmatic or value change that requires a rerender. For

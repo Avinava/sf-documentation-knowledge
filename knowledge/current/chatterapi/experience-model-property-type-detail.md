@@ -5,12 +5,10 @@ topic: experience-model-property-type-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.653Z
+lastCollected: 2026-04-07T18:37:18.744Z
 estimatedTokens: 266
 keywords: [Experience, Model, Detail]
 ---
-
-# Experience Model Property Type Detail
 
 > Property type detail.
 

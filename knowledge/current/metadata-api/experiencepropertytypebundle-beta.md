@@ -5,12 +5,10 @@ topic: experiencepropertytypebundle-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:40.155Z
+lastCollected: 2026-04-07T18:36:25.642Z
 estimatedTokens: 1447
-keywords: [ExperiencePropertyTypeBundle, Beta, Replaced, Spring, ’26, updated, LightningPropertyType, custom, Lightning, web, component, instead, deploy, bundle, org]
+keywords: [ExperiencePropertyTypeBundleResource, ExperiencePropertyTypeBundle, Beta, Replaced, Spring, ’26, updated, LightningPropertyType, Lightning, web, instead, deploy, bundle, org, Parent, File, Structure, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ExperiencePropertyTypeBundle (Beta)
 
 > Represents a property type. Replaced in Spring ’26 by the updated LightningPropertyType.
 		When you create a custom property type for a Lightning web component, use

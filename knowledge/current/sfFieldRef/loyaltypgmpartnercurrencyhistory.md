@@ -5,12 +5,10 @@ topic: loyaltypgmpartnercurrencyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.909Z
+lastCollected: 2026-04-07T18:39:47.399Z
 estimatedTokens: 279
-keywords: [LoyaltyPgmPartnerCurrencyHistory, History, tracked, LoyaltyPgmPartnerCurrency]
+keywords: [LoyaltyPgmPartnerCurrencyHistory, tracked, LoyaltyPgmPartnerCurrency]
 ---
-
-# LoyaltyPgmPartnerCurrencyHistory
 
 > History for tracked fields of LoyaltyPgmPartnerCurrency.
 

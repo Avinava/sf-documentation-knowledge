@@ -5,12 +5,10 @@ topic: message-segment-input-mention
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.326Z
+lastCollected: 2026-04-07T18:37:09.098Z
 estimatedTokens: 277
-keywords: [Message, Segment, Input, Mention, Inline, user, group, creating, feedpost, comment, include, mentions]
+keywords: [Message, Segment, Mention, Inline, user, group, creating, feedpost, comment, include, mentions]
 ---
-
-# Message Segment Input: Mention
 
 > Inline mention of a user or group input. When creating a feedpost or comment, you can
     include up to 25 mentions.

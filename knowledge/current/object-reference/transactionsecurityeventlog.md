@@ -5,12 +5,10 @@ topic: transactionsecurityeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.156Z
+lastCollected: 2026-04-07T18:38:42.869Z
 estimatedTokens: 1265
-keywords: [TransactionSecurityEventLog, Transaction, Security, event, logs, contain, policy, execution, Legacy, API, version, 38.0, later, Enhanced, 61.0]
+keywords: [TransactionSecurityEventLog, Transaction, Security, event, logs, contain, policy, execution, Legacy, API, 38.0, Enhanced, 61.0]
 ---
-
-# TransactionSecurityEventLog
 
 > Transaction Security event logs contain details about policy execution.
          Legacy transaction security policy details are supported in API version 38.0 and later.

@@ -5,12 +5,10 @@ topic: what-is-strong-customer-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.089Z
+lastCollected: 2026-04-07T18:38:45.929Z
 estimatedTokens: 305
-keywords: [Strong, Customer, Authentication, SCA, enhances, security, online, payments, identity, verification, step, European, Economic, Area, including]
+keywords: [Strong, Customer, Authentication, SCA, enhances, security, online, payments, identity, verification, step, European, Economic, Area, including, AppExchange, Checkout]
 ---
-
-# What Is Strong Customer Authentication?
 
 > Strong customer authentication (SCA) enhances the security of online payments with an
     identity verification step. SCA is required for online payments  in the European Economic Area,

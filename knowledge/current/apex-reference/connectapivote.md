@@ -5,12 +5,10 @@ topic: connectapivote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.950Z
+lastCollected: 2026-04-07T18:36:12.239Z
 estimatedTokens: 159
-keywords: [ConnectApi.Vote, upvote, downvote, feed, element, comment]
+keywords: [ConnectApi.Vote, upvote, downvote, comment]
 ---
-
-# ConnectApi.Vote
 
 > An upvote or downvote on a feed element or comment.
 

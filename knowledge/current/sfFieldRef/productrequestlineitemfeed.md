@@ -5,12 +5,10 @@ topic: productrequestlineitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.597Z
+lastCollected: 2026-04-07T18:39:56.132Z
 estimatedTokens: 364
-keywords: [ProductRequestLineItemFeed, Feed, tracking, ProductRequestLineItem]
+keywords: [ProductRequestLineItemFeed, ProductRequestLineItem]
 ---
-
-# ProductRequestLineItemFeed
 
 > Feed tracking for ProductRequestLineItem.
 

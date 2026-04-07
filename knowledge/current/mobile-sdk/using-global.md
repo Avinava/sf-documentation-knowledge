@@ -5,12 +5,10 @@ topic: using-global
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.679Z
+lastCollected: 2026-04-07T18:40:26.913Z
 estimatedTokens: 1094
-keywords: [Although, usually, tie, SmartStore, instance, specific, customer’s, credentials, access, special, requirements, Android, APIs, iOS, Hybrid]
+keywords: [Although, usually, tie, SmartStore, instance, specific, customer’s, credentials, requirements, Android, APIs, iOS, Hybrid]
 ---
-
-# Using Global
 
 > Although you usually tie a SmartStore instance to a specific customer’s
   credentials, you can also access a global instance for special requirements.

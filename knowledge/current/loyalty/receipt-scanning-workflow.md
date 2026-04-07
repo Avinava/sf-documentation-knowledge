@@ -5,12 +5,10 @@ topic: receipt-scanning-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.945Z
+lastCollected: 2026-04-07T18:38:09.238Z
 estimatedTokens: 381
 keywords: [Receipt, Scanning, Workflow, how, program, member, uploads, scans, verifies, scanned, result, earns, loyalty, points]
 ---
-
-# Receipt Scanning Workflow
 
 > The receipt scanning workflow describes how a program member uploads and scans a
   receipt, verifies the scanned result, and earns loyalty points.

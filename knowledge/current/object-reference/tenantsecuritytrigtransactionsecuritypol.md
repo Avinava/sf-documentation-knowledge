@@ -5,12 +5,10 @@ topic: tenantsecuritytrigtransactionsecuritypol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.879Z
+lastCollected: 2026-04-07T18:38:42.601Z
 estimatedTokens: 1016
-keywords: [Stores, metric, Transaction, Security, Policy, triggering, events, API, version, 63.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityTrigTransactionSecurityPol, Stores, metric, Transaction, Security, Policy, triggering, events, API, 63.0]
 ---
-
-# TenantSecurityTrigTransactionSecurityPol
 
 > Stores metric details related to Transaction Security Policy
          triggering events. This object is available in API version 63.0 and later.

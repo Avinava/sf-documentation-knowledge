@@ -5,13 +5,11 @@ topic: paginationcursor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.757Z
+lastCollected: 2026-04-07T18:36:00.036Z
 estimatedTokens: 1750
 namespace: Database
-keywords: [PaginationCursor, pagination, cursor, traverse, SOQL, query, result, fetch, rows, total, number, Usage, fetchDeleted, start, pageSize]
+keywords: [PaginationCursor, pagination, cursor, traverse, SOQL, query, result, fetch, rows, total, number, fetchDeleted, start, pageSize, fetchPage, getNumRecords]
 ---
-
-# PaginationCursor Class
 
 > This class represents a pagination cursor that can traverse a SOQL query result set. It
         contains methods that fetch rows by page. It also contains a method that returns the total

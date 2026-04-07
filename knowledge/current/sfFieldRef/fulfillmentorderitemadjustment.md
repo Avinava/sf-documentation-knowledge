@@ -5,12 +5,10 @@ topic: fulfillmentorderitemadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.967Z
+lastCollected: 2026-04-07T18:39:41.581Z
 estimatedTokens: 452
-keywords: [FulfillmentOrderItemAdjustment, price, adjustment, FulfillmentOrderLineItem, Corresponds, OrderItemAdjustmentLineSummary, associated, corresponding, OrderItemSummary, API, version, 48.0, later]
+keywords: [FulfillmentOrderItemAdjustment, price, adjustment, FulfillmentOrderLineItem, Corresponds, OrderItemAdjustmentLineSummary, corresponding, OrderItemSummary, API, 48.0]
 ---
-
-# FulfillmentOrderItemAdjustment
 
 > Represents a price adjustment on a FulfillmentOrderLineItem. Corresponds to an
       OrderItemAdjustmentLineSummary associated with the corresponding OrderItemSummary. This

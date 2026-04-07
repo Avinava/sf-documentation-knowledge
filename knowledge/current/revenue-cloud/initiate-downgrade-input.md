@@ -5,12 +5,10 @@ topic: initiate-downgrade-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.437Z
+lastCollected: 2026-04-07T18:35:43.331Z
 estimatedTokens: 193
-keywords: [Initiate, Downgrade, Input, representation, action]
+keywords: [Initiate, Downgrade, action]
 ---
-
-# Initiate Downgrade Input
 
 > Input representation of the details of the request to initiate a downgrade
     action.

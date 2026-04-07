@@ -5,12 +5,10 @@ topic: create-a-fund-report-with-custom-apex-datasources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.340Z
+lastCollected: 2026-04-07T18:37:05.070Z
 estimatedTokens: 293
-keywords: [Fund, Report, Custom, Apex, Datasources, data, that's, reports, Hyperforce, server, interfaced, via, regular, sources, AccountMonthlyMeasures]
+keywords: [Fund, Report, Apex, Datasources, that's, reports, Hyperforce, server, interfaced, via, regular, sources, AccountMonthlyMeasures, AccountWeeklyMeasures]
 ---
-
-# Create a Fund Report with Custom Apex Datasources
 
 > The data that's required for the reports is available on a Hyperforce server and is
     interfaced via regular data sources such as AccountMonthlyMeasures or

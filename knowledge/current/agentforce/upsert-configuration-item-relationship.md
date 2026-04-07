@@ -5,12 +5,10 @@ topic: upsert-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.940Z
+lastCollected: 2026-04-07T18:35:55.042Z
 estimatedTokens: 809
-keywords: [Upsert, Configuration, Item, Relationship, Submit, bulk, operation, relationships, items, asynchronous, job, getStatus, query, check, progress]
+keywords: [UpsertCIRelationshipBulkInput, UpsertCIRelationshipInput, Upsert, Configuration, Item, Relationship, Submit, bulk, operation, relationships, items, asynchronous, job, getStatus, query, check, progress]
 ---
-
-# Upsert Configuration Item Relationship
 
 > Submit a bulk operation to create or update one or more
       relationships between configuration items. This is an asynchronous operation that returns a

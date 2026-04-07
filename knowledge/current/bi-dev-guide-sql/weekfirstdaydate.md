@@ -5,12 +5,10 @@ topic: weekfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.116Z
+lastCollected: 2026-04-07T18:37:01.730Z
 estimatedTokens: 172
-keywords: [week_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Sunday, week, _first, _day]
+keywords: [week_first_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, Sunday, week, _first, _day]
 ---
-
-# week_first_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the first day (Sunday) of the week that contains the specified date.

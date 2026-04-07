@@ -5,12 +5,10 @@ topic: salesforce-reports-and-dashboards-api-via-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:30.649Z
+lastCollected: 2026-04-07T18:36:15.884Z
 estimatedTokens: 692
-keywords: [Salesforce, Reports, Dashboards, API, via, Apex, gives, programmatic, access, report, data, defined, builder]
+keywords: [Salesforce, Reports, Dashboards, API, via, Apex, gives, programmatic, report, defined, builder]
 ---
-
-# Salesforce Reports and Dashboards API via Apex
 
 > The Salesforce Reports and Dashboards API via Apex gives you programmatic access to your
 report data as defined in the report builder.

@@ -5,12 +5,10 @@ topic: cloneserviceordercloneinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.722Z
+lastCollected: 2026-04-07T18:38:45.513Z
 estimatedTokens: 138
-keywords: [clone, serviceOrderCloneInput, entry, point, orders, org, optionally, associated, line, items]
+keywords: [clone, serviceOrderCloneInput, entry, point, orders, org, optionally, line, items]
 ---
-
-# clone(serviceOrderCloneInput)
 
 > Provides an entry point to clone orders in your org and, optionally, associated line
     items.

@@ -5,12 +5,10 @@ topic: aiusecasefieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.270Z
+lastCollected: 2026-04-07T18:36:44.021Z
 estimatedTokens: 888
-keywords: [AIUsecaseFieldMapping, mapping, that’s, save, extracted, features, prediction, scores, insights, predictions, suggestions, improve, API, version, 55.0, recommendations, later, SOAP]
+keywords: [AIUsecaseFieldMapping, mapping, that’s, save, extracted, features, prediction, scores, insights, predictions, suggestions, improve, API, 55.0, recommendations, SOAP, REST]
 ---
-
-# AIUsecaseFieldMapping
 
 > Represents information about the field mapping that’s used to save
          the extracted features, scores, insights, and recommendations for a prediction. This

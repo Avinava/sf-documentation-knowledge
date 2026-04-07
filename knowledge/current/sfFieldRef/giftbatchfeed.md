@@ -5,12 +5,10 @@ topic: giftbatchfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.886Z
+lastCollected: 2026-04-07T18:39:42.527Z
 estimatedTokens: 385
-keywords: [GiftBatchFeed, Feed, tracking, GiftBatch]
+keywords: [GiftBatchFeed, GiftBatch]
 ---
-
-# GiftBatchFeed
 
 > Feed tracking for GiftBatch.
 

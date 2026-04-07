@@ -5,12 +5,10 @@ topic: orgwideemailaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:46.011Z
+lastCollected: 2026-04-07T18:38:37.294Z
 estimatedTokens: 508
-keywords: [OrgWideEmailAddress, organization-wide, email, address, user, profiles, Calls, Special, Access, Rules, Usage]
+keywords: [OrgWideEmailAddress, organization-wide, email, address, user, profiles]
 ---
-
-# OrgWideEmailAddress
 
 > Represents an organization-wide email address for user
             profiles.

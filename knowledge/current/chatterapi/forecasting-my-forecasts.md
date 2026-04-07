@@ -5,12 +5,10 @@ topic: forecasting-my-forecasts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.411Z
+lastCollected: 2026-04-07T18:37:19.556Z
 estimatedTokens: 262
 keywords: [Forecasting, Forecasts, user, territory, listed, dropdown, menu, search, results]
 ---
-
-# Forecasting My Forecasts
 
 > A forecasting user or territory listed in the dropdown menu or in
       search results on the forecasts page.

@@ -5,12 +5,10 @@ topic: create-producer-commissions-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.001Z
+lastCollected: 2026-04-07T18:37:48.721Z
 estimatedTokens: 433
-keywords: [Producer, Commissions, Action, records, producers, receive, insurance, policy, associated, commission, statement, line, item, record, status]
+keywords: [Inputs, Outputs, Producer, Commissions, Action, records, producers, receive, insurance, policy, commission, statement, line, item, record, status, REST, HTTP]
 ---
-
-# Create Producer Commissions Action
 
 > Create records for the commissions that producers receive for the insurance policy
   associated with the specified commission statement line item, and update the commission statement

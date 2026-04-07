@@ -5,12 +5,10 @@ topic: patientimmunizationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.157Z
+lastCollected: 2026-04-07T18:39:52.642Z
 estimatedTokens: 362
-keywords: [PatientImmunizationFeed, Feed, tracking, PatientImmunization]
+keywords: [PatientImmunizationFeed, PatientImmunization]
 ---
-
-# PatientImmunizationFeed
 
 > Feed tracking for PatientImmunization.
 

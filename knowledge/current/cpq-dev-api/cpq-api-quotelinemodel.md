@@ -5,12 +5,10 @@ topic: cpq-api-quotelinemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.344Z
+lastCollected: 2026-04-07T18:37:27.352Z
 estimatedTokens: 449
-keywords: [CPQ, API, QuoteLineModel, Quote, Line, model, data, Salesforce]
+keywords: [CPQ, API, QuoteLineModel, Quote, Line, model, Salesforce]
 ---
-
-# CPQ API QuoteLineModel
 
 > The Quote Line model represents a quote line data model in Salesforce CPQ.
 

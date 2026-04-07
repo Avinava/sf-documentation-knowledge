@@ -5,12 +5,10 @@ topic: template-configuration-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.901Z
+lastCollected: 2026-04-07T18:36:56.453Z
 estimatedTokens: 543
-keywords: [Template, Configuration, Resource, Analytics, URL, Formats, Components, Version, Postman, HTTP]
+keywords: [Formats, Template, Configuration, Resource, Analytics, URL, Postman, HTTP]
 ---
-
-# Template Configuration Resource
 
 > Returns the configuration of an Analytics template.
 

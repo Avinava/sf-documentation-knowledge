@@ -5,12 +5,10 @@ topic: commsubconsentcmplsnpsht
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.066Z
+lastCollected: 2026-04-07T18:37:59.724Z
 estimatedTokens: 1122
-keywords: [CommSubConsentCmplSnpsht, snapshot, compliance, that’s, captured, time, consent, communication, subscription, API, version, 65.0, later, Calls, Associated]
+keywords: [CommSubConsentCmplSnpsht, snapshot, compliance, that’s, captured, time, consent, communication, subscription, API, 65.0]
 ---
-
-# CommSubConsentCmplSnpsht
 
 > Represents the snapshot of compliance information that’s captured at
          the time of consent of the communication subscription. This object is available in API

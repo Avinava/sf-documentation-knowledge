@@ -5,12 +5,10 @@ topic: access-apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.553Z
+lastCollected: 2026-04-07T18:37:02.162Z
 estimatedTokens: 218
-keywords: [Access, Apex, Examples, include, checking, Integration, User, inside, WaveTemplateConfigurationModifier, implementation]
+keywords: [Apex, Examples, include, checking, Integration, User, inside, WaveTemplateConfigurationModifier, implementation]
 ---
-
-# Access Apex Examples
 
 > Examples include checking the Integration User access inside your WaveTemplateConfigurationModifier implementation.
 

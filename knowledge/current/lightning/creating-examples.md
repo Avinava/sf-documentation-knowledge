@@ -5,12 +5,10 @@ topic: creating-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:13.864Z
+lastCollected: 2026-04-07T18:38:03.956Z
 estimatedTokens: 461
-keywords: [Creating, Examples, interactive, help, others, component, event]
+keywords: [Creating, Examples, interactive, help, others, event]
 ---
-
-# Creating Examples
 
 > Examples are interactive and help others learn about a component, event, or
     interface.

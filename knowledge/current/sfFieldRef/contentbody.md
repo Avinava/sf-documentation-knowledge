@@ -5,12 +5,10 @@ topic: contentbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.751Z
+lastCollected: 2026-04-07T18:39:35.197Z
 estimatedTokens: 178
-keywords: [ContentBody, file, Salesforce, CRM, Content, Files, API, version, 40.0, later]
+keywords: [ContentBody, file, Salesforce, CRM, Content, Files, API, 40.0]
 ---
-
-# ContentBody
 
 > Represents the body of a file in Salesforce CRM Content or Salesforce Files. This object
       is available in API version 40.0 and later.

@@ -5,12 +5,10 @@ topic: invokeretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.164Z
+lastCollected: 2026-04-07T18:40:22.562Z
 estimatedTokens: 339
-keywords: [InvokeRetrieve, Function, Ordinal, API, array, objects, variable, Retrieve, call, OverallStatus, passed, **Overview**, **Syntax**, Usage, perform, containing, status, RequestID]
+keywords: [InvokeRetrieve, Function, Ordinal, API, array, variable, Retrieve, call, OverallStatus, passed, **Overview**, **Syntax**, perform, containing, status, RequestID]
 ---
-
-# InvokeRetrieve
 
 > InvokeRetrieve(1, 2, 3)
 

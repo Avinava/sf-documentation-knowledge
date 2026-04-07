@@ -5,13 +5,11 @@ topic: scontrollocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.074Z
+lastCollected: 2026-04-07T18:40:00.826Z
 estimatedTokens: 225
 namespace: NamespacePrefix
 keywords: [ScontrolLocalization, translated, label, s-control]
 ---
-
-# ScontrolLocalization
 
 > The translated value of the field label for an
   s-control.

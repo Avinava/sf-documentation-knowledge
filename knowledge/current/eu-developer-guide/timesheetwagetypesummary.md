@@ -5,12 +5,10 @@ topic: timesheetwagetypesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.664Z
+lastCollected: 2026-04-07T18:37:32.929Z
 estimatedTokens: 733
-keywords: [TimeSheetWageTypeSummary, summary, wages, earned, service, resource, API, version, 62.0, later, Calls]
+keywords: [TimeSheetWageTypeSummary, summary, wages, earned, service, resource, API, 62.0]
 ---
-
-# TimeSheetWageTypeSummary
 
 > Represents a summary of the type of wages earned by a field service
          resource.  This object is available in API version 62.0 and later.

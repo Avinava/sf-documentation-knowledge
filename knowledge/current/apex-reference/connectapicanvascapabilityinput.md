@@ -5,12 +5,10 @@ topic: connectapicanvascapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.415Z
+lastCollected: 2026-04-07T18:36:04.749Z
 estimatedTokens: 337
-keywords: [ConnectApi.CanvasCapabilityInput, canvas, app, associated, feed, element]
+keywords: [ConnectApi.CanvasCapabilityInput, canvas, app]
 ---
-
-# ConnectApi.CanvasCapabilityInput
 
 > Create or update a canvas app associated with a feed
     element.

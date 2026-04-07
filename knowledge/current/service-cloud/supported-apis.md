@@ -6,13 +6,10 @@ topic: supported-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.004Z
+lastCollected: 2026-04-07T18:36:50.200Z
 estimatedTokens: 889
 keywords: [APIs, events, support, utility, pop-out]
 ---
-
-# Supported
-        APIs
 
 > A list of methods and events that support utility pop-out.
 

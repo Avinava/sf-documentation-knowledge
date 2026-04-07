@@ -5,12 +5,10 @@ topic: set-up-omni-channel-and-a-lightning-console-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.686Z
+lastCollected: 2026-04-07T18:40:13.612Z
 estimatedTokens: 612
-keywords: [Omni-Channel, Lightning, Console, App, Service, Cloud, Voice, uses, send, calls, reps, Phone, tab, utility, accept]
+keywords: [Omni-Channel, Lightning, Console, App, Service, Cloud, Voice, uses, send, reps, Phone, tab, utility, accept, decline, call]
 ---
-
-# Set Up Omni-Channel and a Lightning Console App
 
 > Service Cloud Voice uses Omni-Channel to send calls to reps in your Lightning console
   app. Reps use the Phone tab in the Omni-Channel utility to accept or decline calls and use other

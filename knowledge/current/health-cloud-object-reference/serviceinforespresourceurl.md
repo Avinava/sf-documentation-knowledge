@@ -5,12 +5,10 @@ topic: serviceinforespresourceurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.383Z
+lastCollected: 2026-04-07T18:37:47.995Z
 estimatedTokens: 784
-keywords: [ServiceInfoRespResourceUrl, URLs, resources, relevant, service, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [ServiceInfoRespResourceUrl, URLs, resources, relevant, service, API, 63.0]
 ---
-
-# ServiceInfoRespResourceUrl
 
 > Represents the URLs of resources relevant to a service information
          response. This object is available in API version 63.0 and later.

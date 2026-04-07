@@ -5,12 +5,10 @@ topic: batch-data-synchronization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.223Z
+lastCollected: 2026-04-07T18:37:53.518Z
 estimatedTokens: 3859
-keywords: [Batch, Data, Synchronization, How, import, Salesforce, export, taking, consideration, imports, exports, interfere, end-user, operations, business]
+keywords: [Context, Problem, Forces, Solution, Sketch, Results, Sidebars, Batch, Synchronization, How, import, Salesforce, export, taking, consideration, imports, exports, interfere, end-user, operations, business, hours, involve, large, amounts]
 ---
-
-# Batch Data Synchronization
 
 > How do you import data into Salesforce and export data out of Salesforce, taking into consideration
     that these imports and exports can interfere with end-user operations during business hours, and

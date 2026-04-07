@@ -5,12 +5,10 @@ topic: having-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.187Z
+lastCollected: 2026-04-07T18:37:01.801Z
 estimatedTokens: 945
 keywords: [HAVING, Clause, filter, grouped, results, columns, aggregate, functions, grouping, GROUP, ROLLUP]
 ---
-
-# HAVING Clause
 
 > Use the HAVING clause to filter grouped results
   from grouped columns, aggregate functions, or grouping functions.

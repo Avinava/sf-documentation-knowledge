@@ -5,13 +5,11 @@ topic: graphrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.577Z
+lastCollected: 2026-04-07T18:35:40.386Z
 estimatedTokens: 733
 namespace: RevSalesTrxn
 keywords: [GraphRequest, graph, records, ingested, key-value, map, graphId, order]
 ---
-
-# GraphRequest Class
 
 > Contains constructors and properties to set the graph ID and a list of records to be
     ingested. The list of records is specified in a key-value map format that contains the field

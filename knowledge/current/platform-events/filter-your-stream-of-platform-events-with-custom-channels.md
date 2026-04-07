@@ -5,12 +5,10 @@ topic: filter-your-stream-of-platform-events-with-custom-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.143Z
+lastCollected: 2026-04-07T18:38:57.959Z
 estimatedTokens: 895
-keywords: [Filter, Stream, Platform, Events, Custom, Channels, Receive, event, messages, match, predefined, channel, configure, expression, Subscribers]
+keywords: [Filter, Stream, Platform, Events, Channels, Receive, event, messages, match, predefined, channel, configure, expression, Subscribers, including, Pub, Sub, API, clients, Streaming, CometD, relays, filtered, fewer, delivered, processing, optimized, efficient, delivery, allocation]
 ---
-
-# Filter Your Stream of Platform Events with Custom Channels
 
 > Receive only the event messages that match a predefined filter on a custom channel.
     Create a channel, and configure it with a filter expression. Subscribers to the channel,

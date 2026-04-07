@@ -5,12 +5,10 @@ topic: getpromotiontemplates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.778Z
+lastCollected: 2026-04-07T18:39:11.309Z
 estimatedTokens: 113
-keywords: [getPromotionTemplates, possible, Promotion, Templates, derive, workflow, Input, Sample, promotion, templates, along, additional, search, Display_In_MetadataWizard__c, unless]
+keywords: [getPromotionTemplates, possible, Promotion, Templates, derive, workflow, Sample, promotion, templates, along, additional, search, Display_In_MetadataWizard__c, unless]
 ---
-
-# getPromotionTemplates
 
 > This method returns the list of promotion templates along with
       additional information. The method will search for promotion templates where the

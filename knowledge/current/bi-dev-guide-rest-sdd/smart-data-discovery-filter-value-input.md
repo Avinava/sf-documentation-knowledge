@@ -5,12 +5,10 @@ topic: smart-data-discovery-filter-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.193Z
+lastCollected: 2026-04-07T18:36:58.694Z
 estimatedTokens: 116
-keywords: [Smart, Data, Discovery, Filter, Input, Einstein]
+keywords: [Smart, Discovery, Filter, Einstein]
 ---
-
-# Smart Data Discovery Filter Value Input
 
 > The filter value input for Einstein Discovery.
 

@@ -5,12 +5,10 @@ topic: opportunityinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.294Z
+lastCollected: 2026-04-07T18:38:36.468Z
 estimatedTokens: 1028
-keywords: [OpportunityInsight, individual, insight, deal, prediction, follow-up, reminder, key, moment, opportunity, record, Calls, Special, Access, Rules]
+keywords: [OpportunityInsight, individual, insight, deal, prediction, follow-up, reminder, key, moment, opportunity, record]
 ---
-
-# OpportunityInsight
 
 > Represents an individual insight (deal prediction, follow-up reminder,
 			or key moment) related to an opportunity record.

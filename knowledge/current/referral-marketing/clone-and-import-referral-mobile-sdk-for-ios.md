@@ -5,12 +5,10 @@ topic: clone-and-import-referral-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.445Z
+lastCollected: 2026-04-07T18:39:09.760Z
 estimatedTokens: 406
-keywords: [Clone, Import, Referral, Mobile, SDK, iOS, GitHub, repository, copy, code, base, revision, history, local, computer]
+keywords: [Clone, Import, Referral, Mobile, SDK, iOS, GitHub, repository, copy, code, base, revision, local, computer, Xcode, project]
 ---
-
-# Clone and Import Referral Mobile SDK for iOS
 
 > Clone the Referral Mobile iOS SDK GitHub repository to copy the code base and revision
   history to your local computer. After you clone the repository, import the Referral Mobile iOS SDK

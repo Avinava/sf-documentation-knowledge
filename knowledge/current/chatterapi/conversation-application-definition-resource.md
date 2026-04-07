@@ -5,12 +5,10 @@ topic: conversation-application-definition-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.130Z
+lastCollected: 2026-04-07T18:37:13.068Z
 estimatedTokens: 172
-keywords: [Conversation, Application, Definition, Resource, integration’s, associated, bot]
+keywords: [Conversation, Application, Definition, Resource, integration’s, bot]
 ---
-
-# Conversation Application Definition Resource
 
 > Get information about an integration’s conversation application
       definition and the associated bot.

@@ -5,12 +5,10 @@ topic: create-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.136Z
+lastCollected: 2026-04-07T18:37:04.847Z
 estimatedTokens: 1220
-keywords: [Custom, Actions, Visualforce, pages, Case, Feed, Map, Local, Search, action, lets, agents, look, customer’s, location]
+keywords: [Actions, Visualforce, pages, Case, Map, Local, Search, action, lets, agents, look, customer’s, location, nearby, service, centers, Code, Samples, Additional, Steps]
 ---
-
-# Create Custom Actions
 
 > You can create Visualforce pages to use as custom actions in Case Feed. For example,
                 you can create a Map and Local Search action that lets agents look up the customer’s

@@ -5,12 +5,10 @@ topic: step-two-create-the-encrypted-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.085Z
+lastCollected: 2026-04-07T18:37:28.118Z
 estimatedTokens: 421
 keywords: [Step, Two, Encrypted, Password, key, file, generated, previous, Skip, you're, OAuth, login, authentication]
 ---
-
-# Step Two: Create the Encrypted Password
 
 > Create the encrypted password using the key file that you generated in the previous
     step. Skip this step if you're using OAuth for login authentication.

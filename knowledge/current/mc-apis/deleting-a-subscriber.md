@@ -5,12 +5,10 @@ topic: deleting-a-subscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.489Z
+lastCollected: 2026-04-07T18:40:16.632Z
 estimatedTokens: 1127
-keywords: [Deleting, Subscriber, wish, entirely, remove, account, API, call, subscriber's, Why, How, Sample, NET, Code, Java]
+keywords: [Deleting, Subscriber, wish, entirely, remove, account, API, call, subscriber's, Why, How, Sample, NET, Code, Java, CXF, SOAP, Envelope, Items]
 ---
-
-# Deleting A Subscriber
 
 > If you wish to entirely remove a subscriber from your account, you can use this API call to delete the subscriber's information.
 

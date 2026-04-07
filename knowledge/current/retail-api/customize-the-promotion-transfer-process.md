@@ -5,12 +5,10 @@ topic: customize-the-promotion-transfer-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.037Z
+lastCollected: 2026-04-07T18:39:11.591Z
 estimatedTokens: 655
 keywords: [Customize, Promotion, Transfer, Process, modify, transferred, callable, Apex, customization, hook]
 ---
-
-# Customize the Promotion Transfer Process
 
 > To modify the promotion details being transferred, create a callable Apex class as a
     customization hook.

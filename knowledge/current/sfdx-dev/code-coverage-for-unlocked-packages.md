@@ -5,12 +5,10 @@ topic: code-coverage-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.743Z
+lastCollected: 2026-04-07T18:40:08.704Z
 estimatedTokens: 323
-keywords: [Code, Coverage, Unlocked, Packages, promote, release, package, Apex, meet, minimum, 75%, requirement, install, versions, don't]
+keywords: [Code, Coverage, Unlocked, Packages, promote, release, package, Apex, meet, minimum, 75%, requirement, install, versions, don't, requirements, scratch, orgs, sandboxes]
 ---
-
-# Code Coverage for Unlocked Packages
 
 > Before you can promote and release an unlocked package, the Apex code must meet a
     minimum 75% code coverage requirement. You can install package versions that don't meet code

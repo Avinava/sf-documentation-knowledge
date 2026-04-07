@@ -5,12 +5,10 @@ topic: limit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.680Z
+lastCollected: 2026-04-07T18:37:01.287Z
 estimatedTokens: 377
-keywords: [limit, Limits, number, results, don’t, queries, maximum, rows, Usage]
+keywords: [limit, Limits, number, results, don’t, queries, maximum, rows]
 ---
-
-# limit
 
 > Limits the number of results that are returned. If you don’t set a limit, queries return
   a maximum of 10,000 rows.

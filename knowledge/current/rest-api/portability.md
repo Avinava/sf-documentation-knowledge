@@ -5,12 +5,10 @@ topic: portability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.696Z
+lastCollected: 2026-04-07T18:36:20.932Z
 estimatedTokens: 155
-keywords: [Portability, resource, compiles, customer, across, objects, identified, creating, policy, Salesforce, Privacy, Center, locate, customers’, personally]
+keywords: [Portability, resource, compiles, customer, across, identified, creating, policy, Salesforce, Privacy, Center, locate, customers’, personally, identifiable, PII, multiple, records, REST, API, 50.0, satisfies, right, obtain, copy, their, kept, organization’s, platform, meet, regulations, General, Protection, Regulation, GDPR, requests, fulfilled, month, made]
 ---
-
-# Portability
 
 > The Portability resource compiles customer information across objects and fields that
         you identified when creating a portability policy in Salesforce Privacy Center. You can

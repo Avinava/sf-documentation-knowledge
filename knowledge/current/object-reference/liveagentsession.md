@@ -5,12 +5,10 @@ topic: liveagentsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.755Z
+lastCollected: 2026-04-07T18:38:34.989Z
 estimatedTokens: 1214
-keywords: [LiveAgentSession, automatically, created, Chat, session, stores, API, versions, 28.0, later, Calls, Usage, Associated, Objects]
+keywords: [LiveAgentSession, automatically, created, Chat, session, stores, API, versions, 28.0]
 ---
-
-# LiveAgentSession
 
 > This object is automatically created for each Chat session and stores
    information about the session. This object is available in API versions 28.0 and

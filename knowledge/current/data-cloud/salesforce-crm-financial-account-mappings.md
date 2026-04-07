@@ -5,12 +5,10 @@ topic: salesforce-crm-financial-account-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.135Z
+lastCollected: 2026-04-07T18:35:53.069Z
 estimatedTokens: 947
-keywords: [Salesforce, CRM, Financial, Account, Mappings, data, FinancialAccount, DLO, found, Services, Cloud, bundle, Connector, Usage, DMO]
+keywords: [Salesforce, CRM, Financial, Account, Mappings, FinancialAccount, DLO, found, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Financial Account Mappings
 
 > These data mappings are for the FinancialAccount DLO found in Financial Services Cloud
   bundle of the Salesforce CRM Connector for Data Cloud.

@@ -5,12 +5,10 @@ topic: objectterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.095Z
+lastCollected: 2026-04-07T18:38:36.272Z
 estimatedTokens: 518
-keywords: [ObjectTerritory2Association, association, assignment, territory, record, account, lead, Calls, Special, Access, Rules]
+keywords: [ObjectTerritory2Association, association, assignment, territory, record, account, lead]
 ---
-
-# ObjectTerritory2Association
 
 > Represents an association (by assignment) between a territory and an
    object record such as an account or a lead.

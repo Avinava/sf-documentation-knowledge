@@ -5,12 +5,10 @@ topic: waitlist-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.668Z
+lastCollected: 2026-04-07T18:37:23.731Z
 estimatedTokens: 271
-keywords: [Waitlist, Output, representation]
+keywords: [Waitlist]
 ---
-
-# Waitlist Details
 
 > Output representation of the waitlist details.
 

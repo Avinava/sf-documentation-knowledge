@@ -5,12 +5,10 @@ topic: stringtodate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.492Z
+lastCollected: 2026-04-07T18:40:21.778Z
 estimatedTokens: 142
-keywords: [StringToDate, Function, Ordinal, parse, Character, encoding, defaults, UTC-8, **Overview**, **Syntax**, Usage]
+keywords: [StringToDate, Function, Ordinal, parse, Character, encoding, defaults, UTC-8, **Overview**, **Syntax**]
 ---
-
-# StringToDate
 
 > StringToDate(1, 2)
 

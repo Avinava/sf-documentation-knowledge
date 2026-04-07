@@ -5,12 +5,10 @@ topic: salesforce-common-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:33.168Z
+lastCollected: 2026-04-07T18:38:24.054Z
 estimatedTokens: 877
-keywords: [Salesforce, Common, Objects, any, standard, org, cloud, They, don’t, require, special, licensing, Original, Platform, Base]
+keywords: [Salesforce, Common, any, standard, org, cloud, They, don’t, require, licensing, Original, Platform, Base, Setup]
 ---
-
-# Salesforce Common Objects
 
 > Common objects are available in any standard org for any cloud. They don’t require
         any special licensing.

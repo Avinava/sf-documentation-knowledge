@@ -5,12 +5,10 @@ topic: survey-invitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.574Z
+lastCollected: 2026-04-07T18:39:17.212Z
 estimatedTokens: 406
 keywords: [Survey, Invitations, how, API, requests, invoked, Apex]
 ---
-
-# Survey Invitations
 
 > Learn how to create survey invitations through API requests that are invoked from
       an Apex class.

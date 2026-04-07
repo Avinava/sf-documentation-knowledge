@@ -5,12 +5,10 @@ topic: adopportunitylineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.693Z
+lastCollected: 2026-04-07T18:38:11.976Z
 estimatedTokens: 920
-keywords: [AdOpportunityLineItem, line, item, advertisement, opportunity, API, version, 63.0, later, Calls]
+keywords: [AdOpportunityLineItem, line, item, advertisement, opportunity, API, 63.0]
 ---
-
-# AdOpportunityLineItem
 
 > Represents a line item in an advertisement opportunity. This
       object is available in API version 63.0 and later.

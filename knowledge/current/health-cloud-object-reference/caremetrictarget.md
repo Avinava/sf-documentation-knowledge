@@ -5,12 +5,10 @@ topic: caremetrictarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.247Z
+lastCollected: 2026-04-07T18:37:45.730Z
 estimatedTokens: 1755
-keywords: [CareMetricTarget, expected, care, metrics, org, level, patient, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [CareMetricTarget, expected, care, metrics, org, level, patient, API, 49.0]
 ---
-
-# CareMetricTarget
 
 > Represents the expected care metrics at an org level and patient level.
     This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: schema-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.966Z
+lastCollected: 2026-04-07T18:39:18.697Z
 estimatedTokens: 115
-keywords: [Schema, Node, Input, recipe]
+keywords: [Schema, Node, recipe]
 ---
-
-# Schema Node Input
 
 > A schema node in a recipe.
 

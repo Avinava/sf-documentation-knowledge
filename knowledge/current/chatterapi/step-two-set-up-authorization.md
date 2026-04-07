@@ -5,12 +5,10 @@ topic: step-two-set-up-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:20.292Z
+lastCollected: 2026-04-07T18:37:06.999Z
 estimatedTokens: 231
 keywords: [Step, Two, Authorization, external, client, app, Salesforce, org, enable, OAuth, configure, flow, connect]
 ---
-
-# Step Two: Set Up Authorization
 
 > Create an external client app in a Salesforce org, enable OAuth, and configure an OAuth
     flow. Use the external client app to connect to Salesforce.

@@ -5,12 +5,9 @@ topic: field-value-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.705Z
+lastCollected: 2026-04-07T18:37:41.827Z
 estimatedTokens: 80
-keywords: [Output]
 ---
-
-# Field Value Output
 
 > Represents the value of a field.
 

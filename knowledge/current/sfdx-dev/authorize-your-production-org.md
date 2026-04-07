@@ -5,12 +5,10 @@ topic: authorize-your-production-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.854Z
+lastCollected: 2026-04-07T18:40:07.791Z
 estimatedTokens: 310
 keywords: [Authorize, Production, Org, JWT, Web-based, flows, require, sandbox, licenses, instead, Dev, Hub, However, it’s]
 ---
-
-# Authorize Your Production Org
 
 > JWT and Web-based flows require a production org with sandbox licenses instead of a Dev
     Hub. However, it’s OK if your production org is also a Dev Hub org.

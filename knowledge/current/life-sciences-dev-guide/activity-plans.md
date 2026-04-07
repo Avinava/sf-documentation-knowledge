@@ -5,12 +5,10 @@ topic: activity-plans
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.595Z
+lastCollected: 2026-04-07T18:37:57.094Z
 estimatedTokens: 307
-keywords: [Activity, Plans, allow, administrators, define, goals, specific, employees, including, targeted, accounts, plan, cycle, duration, activities]
+keywords: [Activity, Plans, allow, administrators, define, goals, specific, employees, including, targeted, accounts, plan, cycle, duration, activities, links, products, weight, managers, review, edit, final, approval, administrator, approved, execute, against, their, option, changes, active, Charts, provide, visual, employee's, progress, toward]
 ---
-
-# Activity Plans
 
 > Activity plans allow administrators to define goals for specific employees, including
   targeted accounts, plan cycle duration, types of activities, links to products, and weight of

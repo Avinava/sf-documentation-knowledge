@@ -5,12 +5,10 @@ topic: send-real-time-signals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.819Z
+lastCollected: 2026-04-07T18:40:13.743Z
 estimatedTokens: 731
-keywords: [Send, Real-Time, Signals, Voice, resiliency, ensures, calls, number, conversations, over, limit, background, service, affected]
+keywords: [Send, Real-Time, Signals, Voice, resiliency, ensures, number, conversations, over, limit, background, service, affected]
 ---
-
-# Send Real-Time Signals
 
 > Voice resiliency ensures that calls can still go through when the number of conversations
         is over limit or when the background service is affected.

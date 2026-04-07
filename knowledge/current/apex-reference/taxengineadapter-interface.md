@@ -5,13 +5,11 @@ topic: taxengineadapter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.095Z
+lastCollected: 2026-04-07T18:36:13.409Z
 estimatedTokens: 3103
 namespace: CommerceTax
-keywords: [TaxEngineAdapter, processRequest, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse, requestType, Implementation, Usage, Mappings, Quotes, Orders]
+keywords: [TaxEngineAdapter, processRequest, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse, requestType, Implementation, Mappings, Quotes, Orders, Attributes, Line]
 ---
-
-# TaxEngineAdapter Interface
 
 > The processRequest method takes
       an instance of TaxEngineContext class and returns a

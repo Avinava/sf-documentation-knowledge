@@ -2,7 +2,7 @@
 domain: eu-developer-guide
 name: Energy and Utilities Cloud Developer Guide
 documentCount: 74
-lastGenerated: 2026-04-07T09:06:36.484Z
+lastGenerated: 2026-04-07T18:40:41.835Z
 ---
 
 # Energy and Utilities Cloud Developer Guide — Knowledge Index

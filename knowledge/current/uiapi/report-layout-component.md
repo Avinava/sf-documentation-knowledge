@@ -5,12 +5,10 @@ topic: report-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.194Z
+lastCollected: 2026-04-07T18:40:12.205Z
 estimatedTokens: 311
-keywords: [Report, Layout, Component, chart, record]
+keywords: [Report, Layout, chart, record]
 ---
-
-# Report Layout Component
 
 > A report chart component on a record layout page.
 

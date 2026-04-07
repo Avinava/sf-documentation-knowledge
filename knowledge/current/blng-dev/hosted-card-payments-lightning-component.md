@@ -5,12 +5,10 @@ topic: hosted-card-payments-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:17.646Z
+lastCollected: 2026-04-07T18:37:04.265Z
 estimatedTokens: 1286
-keywords: [Hosted, Card, Payments, Lightning, Component, force, cardPayment, user, payment, uses, Salesforce, Billing, collect, perform, actions]
+keywords: [Hosted, Card, Payments, Lightning, force, cardPayment, user, payment, uses, Salesforce, Billing, collect, perform, actions, stores, processes, customer, under, PCI-compliant, standards, host, Experience, Cloud, site, Formats, Security, Considerations, PCI, Compliance]
 ---
-
-# Hosted Card Payments Lightning Component
 
 > The force:cardPayment (Hosted Card Payments)
         component provides a user interface in a hosted payment page that uses Salesforce Billing to

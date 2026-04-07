@@ -5,12 +5,10 @@ topic: creditinvoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.875Z
+lastCollected: 2026-04-07T18:39:36.423Z
 estimatedTokens: 307
-keywords: [CreditInvoiceProcessedEvent, Notifies, subscribers, process, started, commerce, invoicing, invoices, invoiceId, actions, credit, API, version, 55.0, later]
+keywords: [CreditInvoiceProcessedEvent, Notifies, subscribers, process, started, commerce, invoicing, invoices, invoiceId, actions, credit, API, 55.0]
 ---
-
-# CreditInvoiceProcessedEvent
 
 > Notifies subscribers when the process started by the /commerce/invoicing/invoices/{invoiceId}/actions/credit
 			request is complete. This object is available in API version 55.0 and

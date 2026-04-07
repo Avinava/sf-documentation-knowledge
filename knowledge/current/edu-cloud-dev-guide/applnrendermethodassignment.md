@@ -5,12 +5,10 @@ topic: applnrendermethodassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:43.628Z
+lastCollected: 2026-04-07T18:37:30.698Z
 estimatedTokens: 774
-keywords: [ApplnRenderMethodAssignment, assignment, application, render, component, that's, rendered, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [ApplnRenderMethodAssignment, assignment, application, render, that's, rendered, API, 60.0]
 ---
-
-# ApplnRenderMethodAssignment
 
 > Represents an assignment of the application render method to a component
          that's rendered in the application. This object is available in API version 60.0 and

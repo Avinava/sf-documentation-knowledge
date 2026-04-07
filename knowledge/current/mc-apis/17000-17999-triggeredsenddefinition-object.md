@@ -5,12 +5,10 @@ topic: 17000-17999-triggeredsenddefinition-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.634Z
+lastCollected: 2026-04-07T18:40:14.651Z
 estimatedTokens: 741
 keywords: [17000-17999, TriggeredSendDefinition]
 ---
-
-# 17000-17999 TriggeredSendDefinition Object
 
 # 17000-17999 TriggeredSendDefinition Object
 

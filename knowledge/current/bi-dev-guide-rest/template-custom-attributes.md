@@ -5,12 +5,10 @@ topic: template-custom-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.260Z
+lastCollected: 2026-04-07T18:36:57.809Z
 estimatedTokens: 102
-keywords: [Template, Custom, Attributes, metadata, Analytics]
+keywords: [Template, Attributes, metadata, Analytics]
 ---
-
-# Template Custom Attributes
 
 > The custom attributes or metadata for an Analytics template.
 

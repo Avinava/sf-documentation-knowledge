@@ -5,12 +5,10 @@ topic: metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.101Z
+lastCollected: 2026-04-07T18:40:27.321Z
 estimatedTokens: 143
-keywords: [Metadata, provided, sObject, basic, iOS, Android]
+keywords: [Metadata, Android, provided, sObject, basic, iOS]
 ---
-
-# Metadata
 
 > Describes metadata provided by sObject basic information for the specified object
         .

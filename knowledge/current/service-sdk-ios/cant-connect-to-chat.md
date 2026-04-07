@@ -5,12 +5,10 @@ topic: cant-connect-to-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.977Z
+lastCollected: 2026-04-07T18:40:28.108Z
 estimatedTokens: 463
 keywords: [Can't, Connect, Chat, successful, connection, app, agent, standing, review, how, you've, implementation]
 ---
-
-# Can't Connect to Chat
 
 > If you can't make a successful connection from your app, even when an agent is standing
     by, review how you've set up your chat implementation.

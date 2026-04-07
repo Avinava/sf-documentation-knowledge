@@ -5,12 +5,10 @@ topic: download-connector-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.466Z
+lastCollected: 2026-04-07T18:40:13.392Z
 estimatedTokens: 195
 keywords: [Download, Connector, Logs, Partners, log, messages, their, logged, text, file]
 ---
-
-# Download Connector Logs
 
 > Partners can log messages from their connector and then download these logged
         messages as a text file.

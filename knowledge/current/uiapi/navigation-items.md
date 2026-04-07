@@ -5,12 +5,10 @@ topic: navigation-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.923Z
+lastCollected: 2026-04-07T18:40:11.929Z
 estimatedTokens: 267
 keywords: [Navigation, Items, ordered, tabs, current, user]
 ---
-
-# Navigation Items
 
 > An ordered list of navigation items (tabs) for the current
     user.

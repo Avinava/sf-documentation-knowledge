@@ -5,12 +5,10 @@ topic: extended-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.363Z
+lastCollected: 2026-04-07T18:39:20.068Z
 estimatedTokens: 93
-keywords: [Extended, Input, representation]
+keywords: [Extended]
 ---
-
-# Extended Fields Input
 
 > Input representation for extended fields.
 

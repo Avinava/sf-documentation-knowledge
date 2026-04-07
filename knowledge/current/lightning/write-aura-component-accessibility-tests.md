@@ -5,12 +5,10 @@ topic: write-aura-component-accessibility-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.572Z
+lastCollected: 2026-04-07T18:38:02.499Z
 estimatedTokens: 596
-keywords: [Write, Aura, Component, Accessibility, Tests, develop, components, Salesforce’s, test, tools, check, common, issues]
+keywords: [Write, Aura, Accessibility, Tests, develop, Salesforce’s, test, tools, check, common, issues]
 ---
-
-# Write Aura Component Accessibility Tests
 
 > When you develop with Aura components, you can use Salesforce’s test tools to check for
   common accessibility issues.

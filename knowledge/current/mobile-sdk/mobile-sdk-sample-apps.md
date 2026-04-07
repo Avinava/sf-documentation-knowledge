@@ -5,12 +5,10 @@ topic: mobile-sdk-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.357Z
+lastCollected: 2026-04-07T18:40:27.529Z
 estimatedTokens: 89
-keywords: [Mobile, SDK, Sample, Apps, Salesforce, includes, wealth, applications, demonstrate, major, features, hybrid, native, samples, basis]
+keywords: [Mobile, SDK, Sample, Apps, Salesforce, includes, wealth, applications, demonstrate, major, features, hybrid, native, samples, basis, own, study]
 ---
-
-# Mobile SDK Sample Apps
 
 > Salesforce Mobile SDK includes a wealth of sample
    applications that demonstrate its major features. You can use the hybrid and native samples as

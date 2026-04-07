@@ -5,12 +5,10 @@ topic: endpoints-methods-and-objects-for-asynchronous-processing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.287Z
+lastCollected: 2026-04-07T18:40:15.353Z
 estimatedTokens: 333
-keywords: [Endpoints, Objects, Asynchronous, Processing, sure, support, SOAP, API, Tenant's, Items]
+keywords: [Endpoints, Asynchronous, Processing, sure, support, SOAP, API, Tenant's, Items]
 ---
-
-# Endpoints, Methods, and Objects for Asynchronous Processing
 
 > Make sure the endpoints, methods, and objects you use support asynchronous processing.
 

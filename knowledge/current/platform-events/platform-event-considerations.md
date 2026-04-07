@@ -5,12 +5,10 @@ topic: platform-event-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:04.885Z
+lastCollected: 2026-04-07T18:38:57.700Z
 estimatedTokens: 502
-keywords: [Platform, Event, Considerations, special, behaviors, defining, publishing, subscribing, events, how, test, various, Salesforce, offers]
+keywords: [Platform, Event, Considerations, behaviors, defining, publishing, subscribing, events, how, test, various, Salesforce, offers]
 ---
-
-# Platform Event Considerations
 
 > Learn about special behaviors related to defining, publishing, and subscribing to
   platform events. Learn how to test platform events. And get an overview of the various events that

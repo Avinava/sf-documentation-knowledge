@@ -5,12 +5,10 @@ topic: contactrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.722Z
+lastCollected: 2026-04-07T18:39:35.168Z
 estimatedTokens: 451
-keywords: [ContactRequest, customer’s, support, back, issue, API, version, 45.0, later]
+keywords: [ContactRequest, customer’s, support, back, issue, API, 45.0]
 ---
-
-# ContactRequest
 
 > Represents a customer’s request for support to get back to them about
 			an issue. This object is available in API version 45.0 and later.

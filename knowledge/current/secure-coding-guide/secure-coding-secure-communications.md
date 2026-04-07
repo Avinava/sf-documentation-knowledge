@@ -5,12 +5,10 @@ topic: secure-coding-secure-communications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.121Z
+lastCollected: 2026-04-07T18:39:22.003Z
 estimatedTokens: 2929
-keywords: [Secure, Coding, Communications, how, ensure, application, security, outside, Salesforce, Mandate, HTTPS, setting, flag, cookies, store]
+keywords: [Secure, Coding, Communications, how, ensure, application, security, outside, Salesforce, Mandate, HTTPS, setting, flag, cookies, store, sensitive, Sample, Vulnerability, Vulnerable, Test, Protect, Apex, Visualforce, Applications, Configuring, Web, Servers, Strong, SSL, Cipher, Suites]
 ---
-
-# Secure Coding Secure Communications
 
 > Learn how to ensure application security outside Salesforce. Mandate HTTPS and
         setting the Secure flag for cookies that store sensitive data.

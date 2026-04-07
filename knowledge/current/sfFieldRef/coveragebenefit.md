@@ -5,12 +5,10 @@ topic: coveragebenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.573Z
+lastCollected: 2026-04-07T18:39:36.074Z
 estimatedTokens: 1507
 keywords: [CoverageBenefit, benefits, provided, covered, member, purchaser’s, plan]
 ---
-
-# CoverageBenefit
 
 > Represents the benefits provided to a covered member by a
 			purchaser’s plan.

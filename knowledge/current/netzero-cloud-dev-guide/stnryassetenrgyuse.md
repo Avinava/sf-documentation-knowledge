@@ -5,12 +5,10 @@ topic: stnryassetenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:28.973Z
+lastCollected: 2026-04-07T18:38:19.675Z
 estimatedTokens: 6743
-keywords: [StnryAssetEnrgyUse, energy, consumption, stationary, assets, across, multiple, fuel, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [StnryAssetEnrgyUse, energy, consumption, stationary, assets, across, multiple, fuel, API, 54.0]
 ---
-
-# StnryAssetEnrgyUse
 
 > Represents the energy consumption related to stationary assets across
          multiple fuel types. This object is available in API version 54.0 and

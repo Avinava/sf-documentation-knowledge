@@ -5,12 +5,10 @@ topic: lwr-sites-for-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:46.122Z
+lastCollected: 2026-04-07T18:37:33.486Z
 estimatedTokens: 584
-keywords: [LWR, Sites, Experience, Cloud, Develop, load, quickly, scale, well, Build, Own, Microsite, templates, Lightning, Web]
+keywords: [LWR, Sites, Experience, Cloud, Develop, load, quickly, scale, well, Build, Own, Microsite, templates, Lightning, Web, Runtime, LWC, programming, model, lightweight, support, fully, solutions, deliver, exceptional, site, performance]
 ---
-
-# LWR Sites for Experience Cloud
 
 > Develop sites that load quickly and scale well using the Build Your Own
       (LWR) and Microsite (LWR) templates for Experience Cloud. Based on the

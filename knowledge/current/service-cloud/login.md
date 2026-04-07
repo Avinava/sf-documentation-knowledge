@@ -5,12 +5,10 @@ topic: login
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.028Z
+lastCollected: 2026-04-07T18:36:50.225Z
 estimatedTokens: 230
-keywords: [login, Logs, agent, Omni-Channel, specific, presence, status, reconnect, connection, error, API, versions, 32.0, later, Arguments]
+keywords: [Arguments, login, Logs, agent, Omni-Channel, specific, presence, status, reconnect, connection, error, API, versions, 32.0, Sample, Code–Visualforce]
 ---
-
-# login
 
 > Logs an agent into Omni-Channel with a specific presence status. You also can use
         this method to reconnect to Omni-Channel after a connection error. Available in API versions

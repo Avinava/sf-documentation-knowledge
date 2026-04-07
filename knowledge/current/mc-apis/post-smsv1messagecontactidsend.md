@@ -5,12 +5,10 @@ topic: post-smsv1messagecontactidsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.041Z
+lastCollected: 2026-04-07T18:40:18.225Z
 estimatedTokens: 2158
-keywords: [POST, sms, messageContact, send, Initiates, message, mobile, numbers, **Overview**, Usage]
+keywords: [POST, sms, messageContact, send, Initiates, message, mobile, numbers, **Overview**]
 ---
-
-# POST /sms/v1/messageContact/{id}/send
 
 > Initiates a message to one or more mobile numbers.
 

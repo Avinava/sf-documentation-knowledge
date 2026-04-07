@@ -5,12 +5,10 @@ topic: allornoneheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:46.095Z
+lastCollected: 2026-04-07T18:36:31.471Z
 estimatedTokens: 424
-keywords: [AllOrNoneHeader, call, roll, back, changes, unless, records, processed, successfully, API, Calls, Sample, Code—Java]
+keywords: [AllOrNoneHeader, call, roll, back, changes, unless, records, processed, successfully, API, Sample, Code—Java]
 ---
-
-# AllOrNoneHeader
 
 > Allows a call to roll back all changes unless all records
       are processed successfully.

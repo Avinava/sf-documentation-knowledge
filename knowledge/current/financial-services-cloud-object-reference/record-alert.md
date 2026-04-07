@@ -5,12 +5,10 @@ topic: record-alert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.610Z
+lastCollected: 2026-04-07T18:37:35.228Z
 estimatedTokens: 393
-keywords: [Record, Alert, Output, representation]
+keywords: [Record, Alert]
 ---
-
-# Record Alert
 
 > Output representation of the details of a record
   alert.

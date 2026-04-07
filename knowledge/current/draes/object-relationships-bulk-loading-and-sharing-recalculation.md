@@ -5,12 +5,10 @@ topic: object-relationships-bulk-loading-and-sharing-recalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.764Z
+lastCollected: 2026-04-07T18:37:28.853Z
 estimatedTokens: 589
-keywords: [Relationships, Bulk, Loading, Sharing, Recalculation, Choices, designing, data, models, major, impact, performance, loaded, updated, transferred]
+keywords: [Relationships, Bulk, Loading, Sharing, Recalculation, Choices, designing, models, major, impact, performance, loaded, updated, transferred, users, Understanding, how, Salesforce, handles, protects, integrity, updates, help, optimize, operations]
 ---
-
-# Object Relationships, Bulk Loading, and Sharing Recalculation
 
 > Choices that you make when designing your data models can have a major impact on
         sharing performance when data is loaded, updated, or transferred between users.

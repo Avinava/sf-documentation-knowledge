@@ -5,12 +5,10 @@ topic: assessmentenvelopeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.174Z
+lastCollected: 2026-04-07T18:39:27.144Z
 estimatedTokens: 380
-keywords: [AssessmentEnvelopeItem, item, envelope, assessments, user, assessment, depression, anxiety, API, version, 58.0, later]
+keywords: [AssessmentEnvelopeItem, item, envelope, assessments, user, assessment, depression, anxiety, API, 58.0]
 ---
-
-# AssessmentEnvelopeItem
 
 > Represents information about an item in an envelope that contains the
          assessments related to a user. For example, you can create an item that contains an

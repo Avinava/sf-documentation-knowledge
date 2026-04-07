@@ -5,12 +5,10 @@ topic: 402000-402999-reply-mail-management-configuration-error-codes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.769Z
+lastCollected: 2026-04-07T18:40:14.776Z
 estimatedTokens: 250
 keywords: [402000-402999, Reply, Mail, Management, Configuration, Error, Codes]
 ---
-
-# 402000-402999 Reply Mail Management Configuration Error Codes
 
 # 402000-402999 Reply Mail Management Configuration Error Codes
 

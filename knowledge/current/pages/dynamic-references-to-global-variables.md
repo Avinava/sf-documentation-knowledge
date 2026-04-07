@@ -5,12 +5,10 @@ topic: dynamic-references-to-global-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.962Z
+lastCollected: 2026-04-07T18:38:51.204Z
 estimatedTokens: 247
-keywords: [Dynamic, References, Variables, Visualforce, pages, bindings, their, markup, allow, access, current, user, organization, schema, data]
+keywords: [Dynamic, References, Variables, Visualforce, pages, bindings, their, markup, allow, current, user, organization, schema, Functi]
 ---
-
-# Dynamic References to Global Variables
 
 > Visualforce pages can use dynamic
    bindings to reference global variables in their markup. Global variables allow you to access

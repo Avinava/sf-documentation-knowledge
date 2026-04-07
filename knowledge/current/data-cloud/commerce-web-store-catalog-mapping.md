@@ -5,12 +5,10 @@ topic: commerce-web-store-catalog-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.828Z
+lastCollected: 2026-04-07T18:35:52.730Z
 estimatedTokens: 221
-keywords: [Commerce, Web, Store, Catalog, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
+keywords: [Commerce, Web, Store, Catalog, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, products, record, WebStoreCatalog, source, product, organizes, DLO]
 ---
-
-# Commerce: Web Store Catalog Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Web Store Catalog data is information about the

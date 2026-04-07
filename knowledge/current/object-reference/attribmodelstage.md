@@ -5,12 +5,10 @@ topic: attribmodelstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.404Z
+lastCollected: 2026-04-07T18:38:26.361Z
 estimatedTokens: 983
-keywords: [AttribModelStage, funnel, stage, that’s, predefined, custom, attribution, configuration, API, version, 62.0, later, Calls, Usage, Associated]
+keywords: [AttribModelStage, funnel, stage, that’s, predefined, attribution, configuration, API, 62.0]
 ---
-
-# AttribModelStage
 
 > Represents a funnel stage that’s used in a predefined or custom attribution
       configuration. Available in API version 62.0 and later.

@@ -5,12 +5,10 @@ topic: checkreadaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.622Z
+lastCollected: 2026-04-07T18:37:34.101Z
 estimatedTokens: 87
-keywords: [CheckReadAccess, Checks, access, partyIncome, partyExpense, entities, Examples]
+keywords: [CheckReadAccess, Examples, Checks, partyIncome, partyExpense, entities]
 ---
-
-# CheckReadAccess
 
 > Checks for read access on the partyIncome and partyExpense
             entities.

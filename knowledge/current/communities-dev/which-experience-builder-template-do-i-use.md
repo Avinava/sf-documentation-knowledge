@@ -5,12 +5,10 @@ topic: which-experience-builder-template-do-i-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:39.645Z
+lastCollected: 2026-04-07T18:37:26.554Z
 estimatedTokens: 782
-keywords: [Experience, Builder, Template, Depending, build, sites, two, programming, models, Lightning, Web, Components, model, original, Aura]
+keywords: [Experience, Builder, Template, Depending, build, sites, two, programming, models, Lightning, Web, model, original, Aura, Own, LWR, new, Runtime, templates]
 ---
-
-# Which Experience Builder Template Do I Use?
 
 > Depending on which Experience Builder template that you use, you can build Experience
     Builder sites using two programming models: the Lightning Web Components model, and the original

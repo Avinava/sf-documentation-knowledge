@@ -5,12 +5,10 @@ topic: messageseverity-summary-detail-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.998Z
+lastCollected: 2026-04-07T18:38:47.958Z
 estimatedTokens: 168
-keywords: [Message, severity, summary, detail, Creates, new, instance, ApexPages.Message, component]
+keywords: [Message, severity, summary, detail, Creates, new, instance, ApexPages.Message]
 ---
-
-# Message(severity, summary, detail, id)
 
 > Creates a new instance of the ApexPages.Message class using the specified severity, summary,
 detail, and component ID.

@@ -5,12 +5,10 @@ topic: dynamically-adding-event-handlers-to-a-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.257Z
+lastCollected: 2026-04-07T18:38:04.399Z
 estimatedTokens: 812
-keywords: [Dynamically, Adding, Event, Handlers, Component, add, handler, fires]
+keywords: [Dynamically, Adding, Event, Handlers, add, handler, fires]
 ---
-
-# Dynamically Adding Event Handlers To a Component
 
 > You can dynamically add a handler for an event that a component fires.
 

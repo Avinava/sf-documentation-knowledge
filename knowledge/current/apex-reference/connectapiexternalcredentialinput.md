@@ -5,12 +5,10 @@ topic: connectapiexternalcredentialinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.064Z
+lastCollected: 2026-04-07T18:36:05.403Z
 estimatedTokens: 574
-keywords: [ConnectApi.ExternalCredentialInput, Input, external, credential]
+keywords: [ConnectApi.ExternalCredentialInput, external, credential]
 ---
-
-# ConnectApi.ExternalCredentialInput
 
 > Input used to create or update an external credential.
 

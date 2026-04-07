@@ -5,12 +5,10 @@ topic: energy-use-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.138Z
+lastCollected: 2026-04-07T18:38:16.715Z
 estimatedTokens: 1073
 keywords: [Energy, Records, calculate, emissions, factors, reporting, period, unit, commercial, building’s, monthly, consumption, flight]
 ---
-
-# Energy Use Records
 
 > You can calculate emissions based on the emissions factors from the energy use records
     for each reporting period or reporting unit, such as a commercial building’s monthly consumption

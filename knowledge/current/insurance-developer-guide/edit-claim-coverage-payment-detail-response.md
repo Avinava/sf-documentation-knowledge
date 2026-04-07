@@ -5,12 +5,10 @@ topic: edit-claim-coverage-payment-detail-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.019Z
+lastCollected: 2026-04-07T18:37:52.147Z
 estimatedTokens: 236
-keywords: [Edit, Claim, Coverage, Payment, Detail, Output, representation, edited]
+keywords: [Edit, Claim, Coverage, Payment, Detail, edited]
 ---
-
-# Edit Claim Coverage Payment Detail Response
 
 > Output representation for the edited claim coverage payment detail.
 

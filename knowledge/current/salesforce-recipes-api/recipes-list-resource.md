@@ -5,12 +5,10 @@ topic: recipes-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.187Z
+lastCollected: 2026-04-07T18:39:18.877Z
 estimatedTokens: 1021
-keywords: [Recipes, Resource, collection, Data, Prep, creates, recipe, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Recipes, Resource, collection, Prep, creates, recipe, URL, Postman, HTTP]
 ---
-
-# Recipes List Resource
 
 > Returns a collection of Data Prep recipes and creates a
   recipe.

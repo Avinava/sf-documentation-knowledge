@@ -5,13 +5,11 @@ topic: orgpartition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.344Z
+lastCollected: 2026-04-07T18:36:01.589Z
 estimatedTokens: 817
 namespace: Cache
-keywords: [OrgPartition, manage, cache, org, specific, partition, Unlike, session, tied, any, It’s, across, requests, users, Usage]
+keywords: [OrgPartition, manage, cache, org, specific, partition, Unlike, session, tied, any, It’s, across, requests, users]
 ---
-
-# OrgPartition Class
 
 > Contains methods to manage cache values in the org cache of a specific partition.
         Unlike the session cache, the org cache is not tied to any session. It’s available to the

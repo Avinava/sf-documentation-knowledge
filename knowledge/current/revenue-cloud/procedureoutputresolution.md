@@ -5,12 +5,10 @@ topic: procedureoutputresolution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.500Z
+lastCollected: 2026-04-07T18:35:47.538Z
 estimatedTokens: 501
-keywords: [ProcedureOutputResolution, pricing, resolution, element, determined, strategy, formula, Parent, File, Suffix, Directory, Location, Version, Special, Access, API, version, 63.0, later, Calls]
+keywords: [ProcedureOutputResolution, pricing, resolution, determined, strategy, formula, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 63.0]
 ---
-
-# ProcedureOutputResolution
 
 > Represents the pricing resolution for an pricing element determined using
          strategy name and formula. This object is available in API version 63.0 and later.

@@ -5,12 +5,10 @@ topic: standard-objects-for-retail-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.355Z
+lastCollected: 2026-04-07T18:39:15.887Z
 estimatedTokens: 2567
-keywords: [Standard, Objects, Retail, Execution, consumer, goods, data, model, support]
+keywords: [Standard, Retail, Execution, consumer, goods, model, support]
 ---
-
-# Standard Objects for Retail Execution
 
 > The consumer goods data model provides objects and fields to  support retail
   execution.

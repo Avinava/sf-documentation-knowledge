@@ -5,12 +5,10 @@ topic: data-row-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.277Z
+lastCollected: 2026-04-07T18:35:43.169Z
 estimatedTokens: 102
-keywords: [Data, Row, Input, representation, rounding]
+keywords: [Row, rounding]
 ---
-
-# Data Row Input
 
 > Input representation of the details of the input for a data rounding request.
 

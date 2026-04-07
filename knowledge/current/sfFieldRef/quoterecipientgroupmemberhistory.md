@@ -5,12 +5,10 @@ topic: quoterecipientgroupmemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.560Z
+lastCollected: 2026-04-07T18:39:58.215Z
 estimatedTokens: 277
-keywords: [QuoteRecipientGroupMemberHistory, History, tracked, QuoteRecipientGroupMember]
+keywords: [QuoteRecipientGroupMemberHistory, tracked, QuoteRecipientGroupMember]
 ---
-
-# QuoteRecipientGroupMemberHistory
 
 > History for tracked fields of QuoteRecipientGroupMember.
 

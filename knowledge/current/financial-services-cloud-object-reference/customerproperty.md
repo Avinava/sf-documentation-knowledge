@@ -5,12 +5,10 @@ topic: customerproperty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.151Z
+lastCollected: 2026-04-07T18:37:36.936Z
 estimatedTokens: 2811
-keywords: [CustomerProperty, insurable, insured, customer, Calls, Associated, Objects]
+keywords: [CustomerProperty, insurable, insured, customer]
 ---
-
-# CustomerProperty
 
 > Represents the insurable and insured properties of a customer.
 

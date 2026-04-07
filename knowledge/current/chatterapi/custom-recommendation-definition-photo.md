@@ -5,12 +5,10 @@ topic: custom-recommendation-definition-photo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.358Z
+lastCollected: 2026-04-07T18:37:15.411Z
 estimatedTokens: 995
-keywords: [Custom, Recommendation, Definition, Photo, upload, modify]
+keywords: [Recommendation, Definition, Photo, upload, modify]
 ---
-
-# Custom Recommendation Definition Photo
 
 > Get information about, upload, modify, or delete the photo for a
       custom recommendation definition.

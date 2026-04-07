@@ -5,12 +5,10 @@ topic: fielddescribeoptions-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.360Z
+lastCollected: 2026-04-07T18:36:12.657Z
 estimatedTokens: 181
-keywords: [FieldDescribeOptions, Schema.FieldDescribeOptions, SObjectType.getDescribe, Usage]
+keywords: [FieldDescribeOptions, Schema.FieldDescribeOptions, SObjectType.getDescribe]
 ---
-
-# FieldDescribeOptions Enum
 
 > A Schema.FieldDescribeOptions enum value is a
     parameter in the SObjectType.getDescribe

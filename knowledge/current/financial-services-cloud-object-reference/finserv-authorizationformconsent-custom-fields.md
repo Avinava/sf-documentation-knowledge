@@ -5,12 +5,10 @@ topic: finserv-authorizationformconsent-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.662Z
+lastCollected: 2026-04-07T18:37:36.436Z
 estimatedTokens: 871
-keywords: [FinServ, AuthorizationFormConsent, Custom, date, way, user, consented, authorization, form, API, version, 53.0, later, Calls, Associated]
+keywords: [FinServ, AuthorizationFormConsent, date, way, user, consented, authorization, form, API, 53.0]
 ---
-
-# FinServ AuthorizationFormConsent Custom Fields
 
 > Represents the date and way in which a user consented to an
          authorization form. This object is available in API version 53.0 and

@@ -5,12 +5,10 @@ topic: submit-a-record-for-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.697Z
+lastCollected: 2026-04-07T18:36:19.917Z
 estimatedTokens: 194
 keywords: [Submit, Record, Approval, Process, Approvals, resource, collection, records, call, array, requests]
 ---
-
-# Submit a Record for Approval
 
 > Use the Process Approvals resource to submit a record or a collection of records for approval. Each
       call takes an array of requests.

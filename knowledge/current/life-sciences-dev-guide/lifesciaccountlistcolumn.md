@@ -5,12 +5,10 @@ topic: lifesciaccountlistcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.708Z
+lastCollected: 2026-04-07T18:38:00.470Z
 estimatedTokens: 460
-keywords: [LifeSciAccountListColumn, columns, selected, accounts, direct, relationship, objects, account, filters, API, version, 65.0, later, Calls]
+keywords: [LifeSciAccountListColumn, columns, selected, accounts, direct, relationship, account, filters, API, 65.0]
 ---
-
-# LifeSciAccountListColumn
 
 > Represents the information of the columns selected from accounts or its
          supported direct relationship objects in account filters. This object is available in API

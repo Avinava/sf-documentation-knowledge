@@ -5,12 +5,10 @@ topic: authenticate-to-your-trailhead-playground-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:08.003Z
+lastCollected: 2026-04-07T18:36:54.372Z
 estimatedTokens: 182
 keywords: [Authenticate, Trailhead, Playground, Org, configuring, connected, app, authorize, user]
 ---
-
-# Authenticate to Your Trailhead Playground Org
 
 > After configuring the connected app, you must authorize your user with the connected
   app.

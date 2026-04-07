@@ -5,12 +5,10 @@ topic: unifiedvideocall
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.431Z
+lastCollected: 2026-04-07T18:38:43.181Z
 estimatedTokens: 641
-keywords: [UnifiedVideoCall, video, call, captured, synced, VideoCall, Task, record, reports, dashboards, Winter, ’24, release, later, Calls]
+keywords: [UnifiedVideoCall, video, call, captured, synced, VideoCall, Task, record, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedVideoCall
 
 > Represents a video call that is captured or synced from the VideoCall or Task
          record. This object is available for reports and dashboards in the Winter ’24 release

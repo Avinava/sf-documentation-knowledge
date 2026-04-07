@@ -5,12 +5,10 @@ topic: markets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.488Z
+lastCollected: 2026-04-07T18:37:20.677Z
 estimatedTokens: 86
 keywords: [Markets, Market, configuration, Commerce, store]
 ---
-
-# Markets
 
 > Market configuration for a Commerce store.
 

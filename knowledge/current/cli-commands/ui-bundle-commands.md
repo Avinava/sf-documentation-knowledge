@@ -5,12 +5,10 @@ topic: ui-bundle-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:54.790Z
+lastCollected: 2026-04-07T18:35:39.582Z
 estimatedTokens: 1129
-keywords: [ui-bundle, Commands, Preview, bundle, locally, real-time, deploying, org, dev, Examples, Flags]
+keywords: [Flags, ui-bundle, Commands, Preview, bundle, locally, real-time, deploying, org, dev, Examples]
 ---
-
-# ui-bundle Commands
 
 > Preview a UI bundle locally and in real-time, without deploying it to your org.
 

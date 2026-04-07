@@ -5,12 +5,10 @@ topic: connectapireferencerecordfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.249Z
+lastCollected: 2026-04-07T18:36:11.541Z
 estimatedTokens: 106
 keywords: [ConnectApi.ReferenceRecordField, Record, label, text]
 ---
-
-# ConnectApi.ReferenceRecordField
 
 > Record field with a label and text value.
 

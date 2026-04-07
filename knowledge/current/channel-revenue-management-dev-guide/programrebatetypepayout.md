@@ -5,12 +5,10 @@ topic: programrebatetypepayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.952Z
+lastCollected: 2026-04-07T18:37:06.653Z
 estimatedTokens: 391
-keywords: [ProgramRebateTypePayout, payout, member, particular, rebate, volume, Jan'19, ABC, enterprises, $560, petrol, engine, $440, API, version]
+keywords: [ProgramRebateTypePayout, payout, member, particular, rebate, volume, Jan'19, ABC, enterprises, $560, petrol, engine, $440, API, 51.0]
 ---
-
-# ProgramRebateTypePayout
 
 > The payout given to a member for a particular rebate type. For example, volume
       rebate payout in Jan'19 for ABC enterprises is $560, petrol engine payout for ABC in Jan'19 is

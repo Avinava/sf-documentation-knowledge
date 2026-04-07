@@ -5,12 +5,10 @@ topic: taskpriority
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.974Z
+lastCollected: 2026-04-07T18:40:03.694Z
 estimatedTokens: 296
 keywords: [TaskPriority, importance, urgency, task, High, Normal, Low]
 ---
-
-# TaskPriority
 
 > Represents the importance or urgency of a task, such as High, Normal,
    or Low.

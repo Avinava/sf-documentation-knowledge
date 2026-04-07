@@ -5,12 +5,10 @@ topic: transformation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.455Z
+lastCollected: 2026-04-07T18:38:12.753Z
 estimatedTokens: 128
-keywords: [Transformation, Output, source, target]
+keywords: [Transformation, source, target]
 ---
-
-# Transformation Output
 
 > Represents the details of the transformation from source object to
       target object.

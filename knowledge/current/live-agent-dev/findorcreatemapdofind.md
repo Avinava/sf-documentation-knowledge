@@ -5,12 +5,10 @@ topic: findorcreatemapdofind
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.853Z
+lastCollected: 2026-04-07T18:38:06.087Z
 estimatedTokens: 482
-keywords: [findOrCreate.map.doFind, specify, search, against, customer, records, completes, pre-chat, form, Usage]
+keywords: [findOrCreate.map.doFind, specify, search, against, customer, records, completes, pre-chat, form]
 ---
-
-# findOrCreate.map.doFind
 
 > Use the findOrCreate.map.doFind method to specify which fields to search against existing
     customer records when a customer completes a pre-chat form.

@@ -5,12 +5,10 @@ topic: locwaitlistmsgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.021Z
+lastCollected: 2026-04-07T18:38:35.262Z
 estimatedTokens: 368
-keywords: [LocWaitlistMsgTemplate, junction, connecting, LocationWaitlist, MessagingTemplate, API, version, 50.0, later, Calls]
+keywords: [LocWaitlistMsgTemplate, junction, connecting, LocationWaitlist, MessagingTemplate, API, 50.0]
 ---
-
-# LocWaitlistMsgTemplate
 
 > Represents a junction object connecting LocationWaitlist to
       MessagingTemplate. This object is available in API version 50.0 and later.

@@ -5,12 +5,10 @@ topic: connectapiverifiedcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.945Z
+lastCollected: 2026-04-07T18:36:12.234Z
 estimatedTokens: 408
 keywords: [ConnectApi.VerifiedCapability, comment, capability, users, permission, mark, verified, unverified]
 ---
-
-# ConnectApi.VerifiedCapability
 
 > If a comment has this capability, users with permission can mark it as
       verified or unverified.

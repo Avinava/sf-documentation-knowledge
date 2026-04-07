@@ -5,12 +5,10 @@ topic: webcartabandonedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.989Z
+lastCollected: 2026-04-07T18:38:59.935Z
 estimatedTokens: 520
-keywords: [WebCartAbandonedEvent, Notifies, subscribers, abandoned, cart, API, version, 63.0, later, Calls, Subscription, Channel, Event, Delivery, Allocation]
+keywords: [WebCartAbandonedEvent, Notifies, subscribers, abandoned, cart, API, 63.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# WebCartAbandonedEvent
 
 > Notifies subscribers of an abandoned cart. This object is
 		available in API version 63.0 and later.

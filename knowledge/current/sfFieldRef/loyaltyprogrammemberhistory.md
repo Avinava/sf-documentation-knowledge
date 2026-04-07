@@ -5,12 +5,10 @@ topic: loyaltyprogrammemberhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.129Z
+lastCollected: 2026-04-07T18:39:47.561Z
 estimatedTokens: 270
-keywords: [LoyaltyProgramMemberHistory, History, tracked, LoyaltyProgramMember]
+keywords: [LoyaltyProgramMemberHistory, tracked, LoyaltyProgramMember]
 ---
-
-# LoyaltyProgramMemberHistory
 
 > History for tracked fields of LoyaltyProgramMember.
 

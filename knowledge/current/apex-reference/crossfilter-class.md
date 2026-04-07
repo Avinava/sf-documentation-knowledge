@@ -5,13 +5,11 @@ topic: crossfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.742Z
+lastCollected: 2026-04-07T18:36:02.947Z
 estimatedTokens: 2716
 namespace: Reports
-keywords: [CrossFilter, work, cross, filter, criteria, includesObject, primaryEntityField, relatedEntity, relatedEntityJoinField, getCriteria, getIncludesObject, getPrimaryEntityField, getRelatedEntity, getRelatedEntityJoinField, setCriteria]
+keywords: [CrossFilter, work, cross, filter, criteria, includesObject, primaryEntityField, relatedEntity, relatedEntityJoinField, getCriteria, getIncludesObject, getPrimaryEntityField, getRelatedEntity, getRelatedEntityJoinField, setCriteria, setIncludesObject, setPrimaryEntityField, setRelatedEntity, setRelatedEntityJoinField, toString]
 ---
-
-# CrossFilter Class
 
 > Contains methods and constructors used to work with information about
       a cross filter.

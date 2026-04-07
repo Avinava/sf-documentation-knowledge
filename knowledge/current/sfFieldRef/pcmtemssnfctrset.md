@@ -5,12 +5,10 @@ topic: pcmtemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.704Z
+lastCollected: 2026-04-07T18:39:53.234Z
 estimatedTokens: 406
-keywords: [PcmtEmssnFctrSet, collection, emission, factors, convert, spent, amounts, procurement, data, carbon, emissions, tonnes, dioxide, equivalent, tCO₂e]
+keywords: [PcmtEmssnFctrSet, collection, emission, factors, convert, spent, amounts, procurement, carbon, emissions, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# PcmtEmssnFctrSet
 
 > Represents a collection of emission factors that are used to convert spent
          amounts in procurement data to carbon emissions in tonnes of carbon dioxide equivalent

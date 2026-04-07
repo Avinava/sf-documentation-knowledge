@@ -5,12 +5,10 @@ topic: topic-opt-out-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.390Z
+lastCollected: 2026-04-07T18:37:23.501Z
 estimatedTokens: 99
 keywords: [Topic, Opt, Collection, bodies]
 ---
-
-# Topic Opt Out Collection
 
 > A collection of topic opt out response bodies.
 

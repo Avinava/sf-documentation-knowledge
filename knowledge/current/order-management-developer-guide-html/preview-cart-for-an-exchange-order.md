@@ -5,12 +5,10 @@ topic: preview-cart-for-an-exchange-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.572Z
+lastCollected: 2026-04-07T18:38:45.373Z
 estimatedTokens: 616
-keywords: [Preview, Cart, Exchange, Order, submitting, recommend, previewing, balance, state, help, determine, functions, necessary, especially, uneven]
+keywords: [Preview, Cart, Exchange, Order, submitting, recommend, previewing, balance, state, help, determine, functions, necessary, especially, uneven, exchanges]
 ---
-
-# Preview Cart for an Exchange Order
 
 > Before submitting an exchange request, we recommend previewing the balance state for
     the exchange order. Previewing can help you determine what functions are necessary, especially

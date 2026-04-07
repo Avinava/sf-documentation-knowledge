@@ -5,12 +5,10 @@ topic: tpm-promotion-header-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.833Z
+lastCollected: 2026-04-07T18:39:16.377Z
 estimatedTokens: 528
-keywords: [TPM, Promotion, LWC, tpm-promotion-header-component, service, component, access, layer, part, managed, package]
+keywords: [TPM, Promotion, LWC, tpm-promotion-header-component, service, layer, part, managed, package]
 ---
-
-# TPM Promotion Header LWC
 
 > The tpm-promotion-header-component service
         component provides access to the TPM promotion header in the LWC layer. This component is

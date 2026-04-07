@@ -5,12 +5,10 @@ topic: content-link-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.136Z
+lastCollected: 2026-04-07T18:37:25.085Z
 estimatedTokens: 102
-keywords: [Content, Link, Detail, Output, representation, IDs]
+keywords: [Content, Link, Detail, IDs]
 ---
-
-# Content Link Detail
 
 > Output representation of the content link details for the specified reference
     IDs.

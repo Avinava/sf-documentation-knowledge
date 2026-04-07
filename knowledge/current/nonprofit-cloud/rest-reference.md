@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.554Z
+lastCollected: 2026-04-07T18:38:21.410Z
 estimatedTokens: 257
-keywords: [REST, access, Group, Membership, Households, APIs, endpoints, follow, similar, conventions, Connect, Program, Management, Business, Case, Record, Rollup, Definitions, endpoint, follows]
+keywords: [REST, Group, Membership, Households, APIs, endpoints, follow, similar, conventions, Connect, Program, Management, Business, Case, Record, Rollup, Definitions, endpoint, follows]
 ---
-
-# REST Reference
 
 > You can access Record Rollup Definitions Business APIs by using the REST endpoint that
     follows similar conventions as Connect REST APIs.

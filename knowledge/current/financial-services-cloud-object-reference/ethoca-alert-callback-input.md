@@ -5,12 +5,10 @@ topic: ethoca-alert-callback-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.069Z
+lastCollected: 2026-04-07T18:37:34.620Z
 estimatedTokens: 81
-keywords: [Ethoca, Alert, Callback, Input, payload, transaction, dispute, management]
+keywords: [Ethoca, Alert, Callback, payload, transaction, dispute, management]
 ---
-
-# Ethoca Alert Callback Input
 
 > Ethoca alert input payload for transaction dispute management.
 

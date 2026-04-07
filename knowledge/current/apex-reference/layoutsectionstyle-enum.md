@@ -5,12 +5,10 @@ topic: layoutsectionstyle-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:27.277Z
+lastCollected: 2026-04-07T18:36:12.563Z
 estimatedTokens: 101
 keywords: [LayoutSectionStyle, possible, styles, layout]
 ---
-
-# LayoutSectionStyle Enum
 
 > Describes the possible styles for a layout section.
 

@@ -5,12 +5,10 @@ topic: service-appointments-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.509Z
+lastCollected: 2026-04-07T18:37:10.211Z
 estimatedTokens: 391
-keywords: [Service, Appointments, Input, representation, creating, appointment, assign, resources, generate, leads, either, parentRecordId, lead]
+keywords: [Service, Appointments, creating, appointment, assign, resources, generate, leads, either, parentRecordId, lead]
 ---
-
-# Service Appointments Create Input
 
 > Input representation for creating a service appointment. You can
       create service appointments, assign resources, and generate leads with either parentRecordId or lead but

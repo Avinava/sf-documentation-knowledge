@@ -5,12 +5,10 @@ topic: feed-elements-capability-moderation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.853Z
+lastCollected: 2026-04-07T18:37:13.816Z
 estimatedTokens: 895
-keywords: [Feed, Elements, Capability, Moderation, element's, add, flag, element, flags]
+keywords: [Capability, Moderation, element's, add, flag, flags]
 ---
-
-# Feed Elements Capability, Moderation
 
 > Get information about a feed element's
 moderation capability, add a moderation flag to a feed element, or

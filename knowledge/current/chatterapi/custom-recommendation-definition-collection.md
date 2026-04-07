@@ -5,12 +5,10 @@ topic: custom-recommendation-definition-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.421Z
+lastCollected: 2026-04-07T18:37:22.525Z
 estimatedTokens: 120
-keywords: [Custom, Recommendation, Definition, Collection, definitions]
+keywords: [Recommendation, Definition, Collection, definitions]
 ---
-
-# Custom Recommendation Definition Collection
 
 > Represents a list of custom recommendation
     definitions.

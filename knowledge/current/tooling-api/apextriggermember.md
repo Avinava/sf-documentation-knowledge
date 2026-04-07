@@ -5,12 +5,10 @@ topic: apextriggermember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.434Z
+lastCollected: 2026-04-07T18:36:31.852Z
 estimatedTokens: 1306
-keywords: [ApexTriggerMember, working, copy, Apex, trigger, editing, saving, compiling, MetadataContainer, SOAP, API, Calls, REST, HTTP, Special]
+keywords: [ApexTriggerMember, working, copy, Apex, trigger, editing, saving, compiling, MetadataContainer, SOAP, API, REST, HTTP]
 ---
-
-# ApexTriggerMember
 
 > Represents the working copy of an Apex trigger for editing, saving, or
    compiling in a MetadataContainer.

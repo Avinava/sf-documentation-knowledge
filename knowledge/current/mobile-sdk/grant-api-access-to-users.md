@@ -5,12 +5,10 @@ topic: grant-api-access-to-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.983Z
+lastCollected: 2026-04-07T18:40:25.352Z
 estimatedTokens: 120
-keywords: [Grant, API, Access, Users, extend, Experience, Cloud, site, add, profile, permission, Enabled, haven’t, yet, configured]
+keywords: [Grant, API, Users, extend, Experience, Cloud, site, add, profile, permission, Enabled, haven’t, yet, configured, any, profiles, include, API-Enabled]
 ---
-
-# Grant API Access to Users
 
 > To extend API access to your Experience Cloud site users, add them to a profile or a permission
     set that sets the API Enabled permission. If you haven’t yet configured any profiles or

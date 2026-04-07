@@ -5,13 +5,11 @@ topic: analyticslicensedasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.335Z
+lastCollected: 2026-04-07T18:38:25.286Z
 estimatedTokens: 234
 namespace: Type
-keywords: [AnalyticsLicensedAsset, licensed, Analytics, asset, context, CRM, Sonic, Mulesoft, Data, Path, API, version, 52.0, later, Calls]
+keywords: [AnalyticsLicensedAsset, licensed, Analytics, asset, context, CRM, Sonic, Mulesoft, Path, API, 52.0]
 ---
-
-# AnalyticsLicensedAsset
 
 > Represents a licensed Analytics
             asset. In this context, Analytics is CRM Analytics, Sonic, or Mulesoft Data Path.

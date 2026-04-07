@@ -5,12 +5,10 @@ topic: lightning-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.509Z
+lastCollected: 2026-04-07T18:38:03.557Z
 estimatedTokens: 283
-keywords: [Lightning, Container, Upload, app, developed, third-party, framework, resource, host, content, Aura, component, frameworks, AngularJS, React]
+keywords: [Lightning, Container, Upload, app, developed, third-party, framework, resource, host, content, Aura, frameworks, AngularJS, React, pages]
 ---
-
-# Lightning Container
 
 > Upload an app developed with a third-party framework as a static resource, and host the
     content in an Aura component using lightning:container. Use

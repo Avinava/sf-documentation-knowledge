@@ -5,12 +5,10 @@ topic: dynamic-content-based-on-attribute-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.983Z
+lastCollected: 2026-04-07T18:40:22.373Z
 estimatedTokens: 351
 keywords: [Dynamic, Content, Attribute, subscriber, attributes, determine, receives, email, uses, message, Basic, Personalization, adds, additional, assist]
 ---
-
-# Dynamic Content Based on Attribute Values
 
 > Use subscriber attributes to determine which content the subscriber receives in the email. This example uses the email message from the example in Basic Personalization and adds additional information to assist in the personalization.
 

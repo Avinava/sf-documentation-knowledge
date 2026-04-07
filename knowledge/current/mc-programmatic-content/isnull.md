@@ -5,12 +5,10 @@ topic: isnull
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.180Z
+lastCollected: 2026-04-07T18:40:22.578Z
 estimatedTokens: 93
-keywords: [IsNull, Function, Ordinal, variable, nullor, non-null, result, **Overview**, **Syntax**, Usage]
+keywords: [IsNull, Function, Ordinal, variable, nullor, non-null, result, **Overview**, **Syntax**]
 ---
-
-# IsNull
 
 > IsNull(1)
 

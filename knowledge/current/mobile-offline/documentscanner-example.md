@@ -5,12 +5,10 @@ topic: documentscanner-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.275Z
+lastCollected: 2026-04-07T18:38:15.801Z
 estimatedTokens: 160
-keywords: [DocumentScanner, Here’s, Lightning, web, component, uses, capture, text, data, image]
+keywords: [DocumentScanner, Here’s, Lightning, web, uses, capture, text, image]
 ---
-
-# DocumentScanner Example
 
 > Here’s an example of a Lightning web component that uses DocumentScanner to capture
     text data from an image.

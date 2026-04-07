@@ -5,12 +5,10 @@ topic: knowledgearticlecasetoolbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.736Z
+lastCollected: 2026-04-07T18:38:49.930Z
 estimatedTokens: 237
-keywords: [knowledge, articleCaseToolbar, component, article, opened, case, detail, current, lets, user, attach, FAQ, custom, article-type, template]
+keywords: [Attributes, knowledge, articleCaseToolbar, article, opened, case, detail, current, lets, user, attach, FAQ, article-type, template, uses]
 ---
-
-# knowledge:articleCaseToolbar
 
 > UI component used when an article is opened from the case detail page. This component shows current case information and lets the user attach the article to the case.
 

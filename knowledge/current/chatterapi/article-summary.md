@@ -5,12 +5,10 @@ topic: article-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.707Z
+lastCollected: 2026-04-07T18:37:16.776Z
 estimatedTokens: 388
 keywords: [Article, Summary, knowledge]
 ---
-
-# Article Summary
 
 > A knowledge article summary.
 

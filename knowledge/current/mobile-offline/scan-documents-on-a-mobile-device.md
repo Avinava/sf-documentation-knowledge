@@ -5,12 +5,10 @@ topic: scan-documents-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.258Z
+lastCollected: 2026-04-07T18:38:15.779Z
 estimatedTokens: 643
-keywords: [Scan, Documents, Mobile, Device, Lightning, web, component, device’s, camera, optical, character, recognition, OCR, document, successfully]
+keywords: [Scan, Documents, Mobile, Device, Lightning, web, device’s, camera, optical, character, recognition, OCR, document, successfully, scanned, text, extracted, invoked, DocumentScanner, recognizes, printed, handwritten, form, factors, However, accurate, results, scanning, compared, varies, legibility, characters]
 ---
-
-# Scan Documents on a Mobile Device
 
 > A Lightning web component can use a device’s camera and optical character recognition
     (OCR) to scan documents. When a document is successfully scanned, text data extracted from the

@@ -5,12 +5,10 @@ topic: appointment-slots-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.324Z
+lastCollected: 2026-04-07T18:39:20.029Z
 estimatedTokens: 450
 keywords: [Appointment, Slots, error, codes, code, messages, Salesforce, Scheduler, API, getAppointmentSlots, resource]
 ---
-
-# Appointment Slots (GET)
 
 > Contains the error codes and error code messages related with Salesforce Scheduler
       API for the getAppointmentSlots (GET)

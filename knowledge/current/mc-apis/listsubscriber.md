@@ -5,12 +5,10 @@ topic: listsubscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.610Z
+lastCollected: 2026-04-07T18:40:17.795Z
 estimatedTokens: 501
-keywords: [ListSubscriber, retrieves, subscribers, subscriber, Calls, retrieve, any, groups, belongs, Perform, call, specific, determine, refers, group]
+keywords: [ListSubscriber, retrieves, subscribers, subscriber, retrieve, any, groups, belongs, Perform, call, specific, determine, refers, group, Items]
 ---
-
-# ListSubscriber
 
 > The ListSubscriber object retrieves subscribers for a list or lists for a subscriber. Calls to this object also retrieve any groups to which a subscriber belongs. Perform a call on the specific ID to determine if that ID refers to a list or group.
 

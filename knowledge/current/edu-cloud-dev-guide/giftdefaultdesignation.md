@@ -5,12 +5,10 @@ topic: giftdefaultdesignation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.122Z
+lastCollected: 2026-04-07T18:37:30.187Z
 estimatedTokens: 914
-keywords: [GiftDefaultDesignation, designation, gifts, originate, opportunity, campaign, commitment, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [GiftDefaultDesignation, designation, gifts, originate, opportunity, campaign, commitment, API, 59.0]
 ---
-
-# GiftDefaultDesignation
 
 > Represents the default designation for gifts that originate from an
          opportunity, campaign, or commitment. This object is available in API version 59.0 and

@@ -5,12 +5,10 @@ topic: recipe-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.900Z
+lastCollected: 2026-04-07T18:39:18.622Z
 estimatedTokens: 1789
-keywords: [Recipe, Node, Input, base]
+keywords: [Recipe, Node, base]
 ---
-
-# Recipe Node Input
 
 > The base node for a recipe.
 

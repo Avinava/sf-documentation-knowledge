@@ -5,12 +5,10 @@ topic: benefit-disbursements-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.435Z
+lastCollected: 2026-04-07T18:39:01.593Z
 estimatedTokens: 200
 keywords: [Benefit, Disbursements, POST, session, disburse, benefits, participants, enrolled]
 ---
-
-# Benefit Disbursements (POST)
 
 > Create benefit disbursements for a benefit session to disburse
       benefits to participants enrolled in the benefit session.

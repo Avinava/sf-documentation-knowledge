@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationupdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.584Z
+lastCollected: 2026-04-07T18:40:16.732Z
 estimatedTokens: 292
-keywords: [POST, messaging, domainverification, record, Address, Management, **Overview**, Usage, Marketing, Cloud, Permissions, Scope, Email, Items]
+keywords: [POST, messaging, domainverification, record, Address, Management, **Overview**, Marketing, Cloud, Permissions, Scope, Email, Items]
 ---
-
-# POST /messaging/v1/domainverification/update
 
 > Update a record in From Address Management.
 

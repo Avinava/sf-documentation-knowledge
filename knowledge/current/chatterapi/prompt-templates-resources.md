@@ -5,12 +5,10 @@ topic: prompt-templates-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.273Z
+lastCollected: 2026-04-07T18:37:15.311Z
 estimatedTokens: 202
-keywords: [Prompt, Templates, Resources, template, data, generate, LLM, responses]
+keywords: [Prompt, Templates, Resources, template, generate, LLM, responses]
 ---
-
-# Prompt Templates Resources
 
 > Get prompt template data and generate LLM responses using prompt templates.
 

@@ -5,12 +5,10 @@ topic: interact-with-auto-suppression-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:22.485Z
+lastCollected: 2026-04-07T18:40:17.664Z
 estimatedTokens: 2432
-keywords: [Interact, Auto-Suppression, interacting, via, SOAP, API, Why, How, Sample, Envelopes, Retrieve, Contexts, Send, Classification, Sender]
+keywords: [Interact, Auto-Suppression, interacting, via, SOAP, API, Why, How, Sample, Envelopes, Retrieve, Contexts, Send, Classification, Sender, Profile, Add, Subscriber, Items]
 ---
-
-# Interact with Auto-Suppression Lists
 
 > This page contains information about interacting with auto-suppression lists via the SOAP API.
 

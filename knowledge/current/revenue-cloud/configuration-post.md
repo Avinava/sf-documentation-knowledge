@@ -5,12 +5,10 @@ topic: configuration-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.844Z
+lastCollected: 2026-04-07T18:35:44.857Z
 estimatedTokens: 648
-keywords: [Configuration, POST, Retrieve, product’s, configurator, Execute, rules, notify, users, any, violations, changes, product, bundle, attributes]
+keywords: [Configuration, POST, Retrieve, product’s, configurator, Execute, notify, users, any, violations, changes, product, bundle, attributes, quantity, Additionally, pricing, configured]
 ---
-
-# Configuration (POST)
 
 > Retrieve and update a product’s configuration from a configurator.
       Execute configuration rules and notify users of any violations for changes to product bundle,

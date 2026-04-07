@@ -5,12 +5,10 @@ topic: create-application-form-party-identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.459Z
+lastCollected: 2026-04-07T18:36:39.131Z
 estimatedTokens: 158
-keywords: [Application, Form, Party, Identity, Verification, Output, representation]
+keywords: [Application, Form, Party, Identity, Verification]
 ---
-
-# Create Application Form Party Identity Verification
 
 > Output representation of the request to create the application form party identity
     verification.

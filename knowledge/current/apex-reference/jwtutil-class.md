@@ -5,13 +5,11 @@ topic: jwtutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.315Z
+lastCollected: 2026-04-07T18:35:59.592Z
 estimatedTokens: 1545
 namespace: Auth
-keywords: [JWTUtil, validating, JSON, Web, Token, JWT, external, identity, provider, part, OAuth, 2.0, exchange, flow, validateIncomingToken]
+keywords: [JWTUtil, validating, JSON, Web, Token, JWT, external, identity, provider, part, OAuth, 2.0, exchange, flow, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, parseJWTFromStringWithoutValidation, incomingJWT, validateJWTWithCert, certDeveloperName, validateJWTWithKey, publicKey, validateJWTWithKeysEndpoint, keysEndpoint, shouldUseCache]
 ---
-
-# JWTUtil Class
 
 > Contains methods for validating a JSON Web Token (JWT) from an external identity provider
     as part of the OAuth 2.0 token exchange flow.  Use these methods as part of the validateIncomingToken method in the Auth.Oauth2TokenExchangeHandler class.

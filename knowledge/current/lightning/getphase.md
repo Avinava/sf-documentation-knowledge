@@ -5,12 +5,10 @@ topic: getphase
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.368Z
+lastCollected: 2026-04-07T18:38:05.579Z
 estimatedTokens: 88
-keywords: [getPhase, current, phase, event, hasn’t, fired, yet, Possible, application, component, events, capture, bubble, once, it’s]
+keywords: [getPhase, current, phase, event, hasn’t, fired, yet, Possible, application, events, capture, bubble, once, it’s]
 ---
-
-# getPhase()
 
 > Returns the current phase of an event. Returns undefined if the event hasn’t been fired yet. Possible return
    values for application and component events are "capture", "bubble", and "default" once fired. A value event returns "default" once it’s fired.

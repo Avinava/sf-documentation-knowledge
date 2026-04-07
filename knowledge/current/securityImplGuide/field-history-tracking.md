@@ -5,12 +5,10 @@ topic: field-history-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:29.171Z
+lastCollected: 2026-04-07T18:39:23.107Z
 estimatedTokens: 2539
-keywords: [History, Tracking, select, certain, track, show, Audit, Trail, turned, off, Salesforce, retains, data, months, via]
+keywords: [Considerations, select, certain, track, show, Audit, Trail, turned, off, Salesforce, retains, months, via, API, until, manually, any, time, doesn’t, count, against, storage, limits]
 ---
-
-# Field History Tracking
 
 > You can select certain fields to track and show the field history in the History
         related list of an object. When Field Audit Trail is turned off, Salesforce retains field

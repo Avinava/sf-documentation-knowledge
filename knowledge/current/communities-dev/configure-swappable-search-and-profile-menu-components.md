@@ -5,12 +5,10 @@ topic: configure-swappable-search-and-profile-menu-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.698Z
+lastCollected: 2026-04-07T18:37:26.642Z
 estimatedTokens: 588
-keywords: [Configure, Swappable, Search, Profile, Menu, Components, custom, replace, template’s, standard, Post, Publisher, Experience, Builder, forceCommunity]
+keywords: [Configure, Swappable, Search, Profile, Menu, replace, template’s, standard, Post, Publisher, Experience, Builder, forceCommunity, profileMenuInterface, searchInterface]
 ---
-
-# Configure Swappable Search and Profile Menu Components
 
 > Create custom components to replace the template’s standard Profile Header and Search
     & Post Publisher components in Experience Builder.

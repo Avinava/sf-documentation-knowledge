@@ -5,12 +5,10 @@ topic: cgcloudbatchrunstatusc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.544Z
+lastCollected: 2026-04-07T18:39:12.972Z
 estimatedTokens: 1495
-keywords: [cgcloud__Batch_Run_Status__c, Keeps, track, batch, processes, API, version, 54.0, later, cgcloud, _Batch, _Run, _Status, Calls, Associated]
+keywords: [cgcloud__Batch_Run_Status__c, Keeps, track, batch, processes, API, 54.0, cgcloud, _Batch, _Run, _Status]
 ---
-
-# cgcloud__Batch_Run_Status__c
 
 > Keeps track of batch processes. This object is available in API
       version 54.0 and later.

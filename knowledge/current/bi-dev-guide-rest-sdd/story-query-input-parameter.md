@@ -5,12 +5,10 @@ topic: story-query-input-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.663Z
+lastCollected: 2026-04-07T18:37:00.164Z
 estimatedTokens: 199
-keywords: [Story, Query, Input]
+keywords: [Story, Query]
 ---
-
-# Story Query Input Parameter
 
 > The input parameter for a story query.
 

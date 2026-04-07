@@ -5,12 +5,10 @@ topic: getphonecontacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.454Z
+lastCollected: 2026-04-07T18:39:23.389Z
 estimatedTokens: 151
 keywords: [getPhoneContacts, phone, contacts, contact]
 ---
-
-# getPhoneContacts
 
 > Get a list of phone contacts and contact types.
 

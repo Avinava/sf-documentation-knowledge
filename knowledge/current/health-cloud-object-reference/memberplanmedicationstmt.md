@@ -5,12 +5,10 @@ topic: memberplanmedicationstmt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.930Z
+lastCollected: 2026-04-07T18:37:47.512Z
 estimatedTokens: 790
-keywords: [MemberPlanMedicationStmt, junction, member, plans, medication, statements, associates, medications, patient, currently, taking, taken, past, their, health]
+keywords: [MemberPlanMedicationStmt, junction, member, plans, medication, statements, associates, medications, patient, currently, taking, taken, past, their, health, plan, coverage, API, 66.0]
 ---
-
-# MemberPlanMedicationStmt
 
 > Represents a junction between member plans and medication statements. It
          associates the medications that a patient is currently taking or has taken in the past with

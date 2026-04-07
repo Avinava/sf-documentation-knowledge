@@ -5,12 +5,10 @@ topic: log-messages-and-log-levels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.233Z
+lastCollected: 2026-04-07T18:40:09.181Z
 estimatedTokens: 598
-keywords: [Log, Messages, Levels, Salesforce, CLI, writes, rotating, file, user’s, home, directory, whose, day, logs, August]
+keywords: [Log, Messages, Levels, Salesforce, CLI, writes, rotating, file, user’s, home, directory, whose, day, logs, August, written, USER_HOME_DIR, sf-2024-08-07.log, command, invocations, append, running, errors, terminal, window, run, Files]
 ---
-
-# Log Messages and Log Levels
 
 > Salesforce CLI writes all log messages to a rotating file in the user’s home directory
       whose name is based on the day. For example, the logs for August 8, 2024 are written to the

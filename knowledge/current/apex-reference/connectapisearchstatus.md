@@ -5,12 +5,10 @@ topic: connectapisearchstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.594Z
+lastCollected: 2026-04-07T18:36:11.877Z
 estimatedTokens: 175
 keywords: [ConnectApi.SearchStatus, status, search]
 ---
-
-# ConnectApi.SearchStatus
 
 > Provides status on the object search.
 

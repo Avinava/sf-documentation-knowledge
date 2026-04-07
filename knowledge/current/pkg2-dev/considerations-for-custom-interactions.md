@@ -5,13 +5,11 @@ topic: considerations-for-custom-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:02.365Z
+lastCollected: 2026-04-07T18:38:54.748Z
 estimatedTokens: 1508
 namespace: Custom
-keywords: [Considerations, Custom, Interactions, Easily, log, managed, package, Apex, subscribers, interact, code, executed, defined, logged, Retrieve]
+keywords: [Considerations, Interactions, Easily, log, managed, package, Apex, subscribers, interact, code, executed, defined, logged, Retrieve, package's, AppExchange, App, Analytics, logs, summaries]
 ---
-
-# Considerations for Custom Interactions
 
 > Easily create and log custom interactions on your managed package using Apex. As
   subscribers interact with your package and your Apex code is executed, the custom interactions

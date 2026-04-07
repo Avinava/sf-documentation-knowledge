@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.925Z
+lastCollected: 2026-04-07T18:37:35.585Z
 estimatedTokens: 2950
 keywords: [Bodies, Here’s, Financial, Services, Cloud, Business, API]
 ---
-
-# Response Bodies
 
 > Here’s a list of Financial Services Cloud Business API response bodies.
 

@@ -5,12 +5,10 @@ topic: frequently-used-packaging-operations-for-second-generation-managed-packag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.922Z
+lastCollected: 2026-04-07T18:38:56.567Z
 estimatedTokens: 263
 keywords: [Frequently, Packaging, Operations, Second-Generation, Managed, Packages, Salesforce, CLI, commands, Command, Line]
 ---
-
-# Frequently Used Packaging Operations for Second-Generation Managed Packages
 
 > For a complete list of Salesforce CLI packaging commands, see: Salesforce Command
     Line Reference Guide.

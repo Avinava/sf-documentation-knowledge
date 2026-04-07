@@ -5,12 +5,10 @@ topic: indexing-with-nulls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.176Z
+lastCollected: 2026-04-07T18:39:17.851Z
 estimatedTokens: 391
-keywords: [Indexing, Nulls, customer, needed, allow, able, query, against, Because, single-column, indexes, picklists, foreign, key, exclude]
+keywords: [Situation, Solution, Indexing, Nulls, customer, needed, allow, able, query, against, Because, single-column, indexes, picklists, foreign, key, exclude, rows, index, column, equal, queries]
 ---
-
-# Indexing with Nulls
 
 > The customer needed to allow nulls
 in a field and be able to query against them. Because single-column

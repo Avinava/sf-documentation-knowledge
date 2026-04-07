@@ -5,12 +5,10 @@ topic: architectural-considerations-for-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.756Z
+lastCollected: 2026-04-07T18:38:46.626Z
 estimatedTokens: 1272
 keywords: [Architectural, Considerations, Group, Professional, Editions, Discover, concepts, influence, AppExchange, solution, design]
 ---
-
-# Architectural Considerations for Group and Professional Editions
 
 > Discover the architectural concepts that influence AppExchange solution design.
 

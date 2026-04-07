@@ -5,12 +5,10 @@ topic: creditmemoprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.033Z
+lastCollected: 2026-04-07T18:39:36.579Z
 estimatedTokens: 287
-keywords: [CreditMemoProcessedEvent, Notifies, subscribers, process, started, commerce, invoicing, credit-memos, API, version, 55.0, later]
+keywords: [CreditMemoProcessedEvent, Notifies, subscribers, process, started, commerce, invoicing, credit-memos, API, 55.0]
 ---
-
-# CreditMemoProcessedEvent
 
 > Notifies subscribers when the process started by the /commerce/invoicing/credit-memos request is
 			complete. This object is available in API version 55.0 and later.

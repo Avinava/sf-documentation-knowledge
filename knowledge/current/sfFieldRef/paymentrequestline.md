@@ -5,12 +5,10 @@ topic: paymentrequestline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.585Z
+lastCollected: 2026-04-07T18:39:53.101Z
 estimatedTokens: 561
-keywords: [PaymentRequestLine, line, item, financial, compensation, API, version, 60.0, later]
+keywords: [PaymentRequestLine, line, item, financial, compensation, API, 60.0]
 ---
-
-# PaymentRequestLine
 
 > Represents the line item details of the financial compensation request.
       This object is available in API version 60.0 and later.

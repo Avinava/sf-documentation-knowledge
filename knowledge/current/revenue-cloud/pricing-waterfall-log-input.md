@@ -5,12 +5,10 @@ topic: pricing-waterfall-log-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.685Z
+lastCollected: 2026-04-07T18:35:43.566Z
 estimatedTokens: 282
-keywords: [Pricing, Waterfall, Log, Input, representation, explainability, action]
+keywords: [Pricing, Waterfall, Log, explainability, action]
 ---
-
-# Pricing Waterfall Log Input
 
 > Input representation of the request to create an explainability action log.
 

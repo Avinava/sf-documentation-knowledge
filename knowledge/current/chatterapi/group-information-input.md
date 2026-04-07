@@ -5,12 +5,10 @@ topic: group-information-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.846Z
+lastCollected: 2026-04-07T18:37:08.663Z
 estimatedTokens: 143
-keywords: [Group, Input, Chatter]
+keywords: [Group, Chatter]
 ---
-
-# Group Information Input
 
 > Chatter group information input.
 

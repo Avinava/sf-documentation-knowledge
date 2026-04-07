@@ -5,12 +5,10 @@ topic: patient-program-outcome-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:54.490Z
+lastCollected: 2026-04-07T18:37:42.640Z
 estimatedTokens: 1152
-keywords: [Patient, Program, Outcome, Management, data, model, helps, improve, outcomes, defining, measuring, linking, progress, Leads, define]
+keywords: [Patient, Program, Outcome, Management, model, helps, improve, outcomes, defining, measuring, linking, progress, Leads, define, care, generate, summary, Additionally, case, agents]
 ---
-
-# Patient Program Outcome Management
 
 > Patient Program Outcome Management data model helps you to improve patient and program
   outcomes by defining and measuring program outcomes, linking patient progress to program outcomes.

@@ -5,12 +5,10 @@ topic: authorization-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.565Z
+lastCollected: 2026-04-07T18:37:07.279Z
 estimatedTokens: 409
-keywords: [Authorization, Input, Payment, consumed, service]
+keywords: [Authorization, Payment, consumed, service]
 ---
-
-# Authorization Input
 
 > Payment authorization input consumed by the payment authorization
       service.

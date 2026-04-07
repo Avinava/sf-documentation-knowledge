@@ -5,12 +5,10 @@ topic: social-program-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.990Z
+lastCollected: 2026-04-07T18:39:05.002Z
 estimatedTokens: 160
-keywords: [Social, Program, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Social, Program, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Social Program Management Data Model
 
 > Learn about the objects and relationships used for social program management in Public
   Sector Solutions.

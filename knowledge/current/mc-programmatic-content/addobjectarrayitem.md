@@ -5,12 +5,10 @@ topic: addobjectarrayitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.538Z
+lastCollected: 2026-04-07T18:40:21.825Z
 estimatedTokens: 149
-keywords: [AddObjectArrayItem, Function, Ordinal, API, containing, array, receive, new, item, **Overview**, **Syntax**, Usage, New]
+keywords: [AddObjectArrayItem, Function, Ordinal, API, containing, array, receive, new, item, **Overview**, **Syntax**, New]
 ---
-
-# AddObjectArrayItem
 
 > AddObjectArrayItem(1, 2, 3)
 

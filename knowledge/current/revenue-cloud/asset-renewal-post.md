@@ -5,12 +5,10 @@ topic: asset-renewal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.182Z
+lastCollected: 2026-04-07T18:35:44.131Z
 estimatedTokens: 373
 keywords: [Asset, Renewal, POST, Initiate, execute]
 ---
-
-# Asset Renewal (POST)
 
 > Initiate and execute the renewal of an asset.
 

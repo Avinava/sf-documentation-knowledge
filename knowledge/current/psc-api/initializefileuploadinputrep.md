@@ -5,12 +5,10 @@ topic: initializefileuploadinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.151Z
+lastCollected: 2026-04-07T18:39:00.143Z
 estimatedTokens: 93
 keywords: [initializeFileUpload, inputRep, outputRep, instance, below]
 ---
-
-# initializeFileUpload(inputRep)
 
 > Used to create an outputRep instance with the below parameters.
 

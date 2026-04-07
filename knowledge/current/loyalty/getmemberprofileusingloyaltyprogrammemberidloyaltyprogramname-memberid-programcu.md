@@ -5,12 +5,10 @@ topic: getmemberprofileusingloyaltyprogrammemberidloyaltyprogramname-memberid-pr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.457Z
+lastCollected: 2026-04-07T18:38:06.677Z
 estimatedTokens: 301
-keywords: [loyaltyProgramName, memberId, programCurrencyName, loyalty, program, member, API, Version, Requires, Chatter]
+keywords: [loyaltyProgramName, memberId, programCurrencyName, loyalty, program, member, API, Requires, Chatter]
 ---
-
-# getMemberProfileUsingLoyaltyProgramMemberId(loyaltyProgramName, memberId, programCurrencyName)
 
 > Get the details of a loyalty program member using the program member
       ID.

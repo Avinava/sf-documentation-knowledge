@@ -5,12 +5,10 @@ topic: loyaltytiergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.216Z
+lastCollected: 2026-04-07T18:38:10.477Z
 estimatedTokens: 1378
-keywords: [LoyaltyTierGroup, tier, groups, loyalty, program, group, categorizes, members, their, points, API, version, 51.0, later, Calls]
+keywords: [LoyaltyTierGroup, tier, groups, loyalty, program, group, categorizes, members, their, points, API, 51.0]
 ---
-
-# LoyaltyTierGroup
 
 > Represents information about tier groups of a loyalty program. Tier
       group categorizes members based on their loyalty points. This object is available in API

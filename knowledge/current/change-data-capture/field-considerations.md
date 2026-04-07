@@ -5,12 +5,10 @@ topic: field-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.525Z
+lastCollected: 2026-04-07T18:37:05.266Z
 estimatedTokens: 1541
 keywords: [Considerations, Keep, mind, filter, expression, Text, Checkbox, Date, Time, Number, Relationship, General]
 ---
-
-# Field Considerations
 
 > Keep these considerations in mind for the fields in a filter expression.
 

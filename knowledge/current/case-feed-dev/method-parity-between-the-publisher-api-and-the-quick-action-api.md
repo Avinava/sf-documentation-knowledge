@@ -5,12 +5,10 @@ topic: method-parity-between-the-publisher-api-and-the-quick-action-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.223Z
+lastCollected: 2026-04-07T18:37:04.940Z
 estimatedTokens: 189
-keywords: [Parity, Publisher, API, Quick, Action, Lightning, JavaScript, interact, actions, Aura, components, similar, how, Salesforce, Classic]
+keywords: [Parity, Publisher, API, Quick, Action, Lightning, JavaScript, interact, actions, Aura, similar, how, Salesforce, Classic, Visualforce, pages]
 ---
-
-# Method Parity Between the Publisher API and the Quick Action API
 
 > The Lightning Quick Action JavaScript API allows you to interact with actions within
     Aura components similar to how the Salesforce Classic Publisher JavaScript API allows you to

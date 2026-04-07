@@ -5,12 +5,10 @@ topic: mobileapplicationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.161Z
+lastCollected: 2026-04-07T18:36:27.690Z
 estimatedTokens: 613
-keywords: [MobileApplicationDetail, packaging, attributes, mobile, connected, app, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [MobileApplicationDetail, packaging, attributes, mobile, connected, app, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---
-
-# MobileApplicationDetail
 
 > Represents the packaging attributes for a mobile
       connected app.

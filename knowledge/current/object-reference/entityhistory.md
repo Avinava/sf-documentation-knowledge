@@ -5,12 +5,10 @@ topic: entityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.703Z
+lastCollected: 2026-04-07T18:38:30.521Z
 estimatedTokens: 704
-keywords: [EntityHistory, historical, object’s, changed, users, “View, Data”, permission, unavailable, beginning, API, version, 8.0, object-specific, Historyobjects]
+keywords: [EntityHistory, historical, object’s, changed, users, “View, Data”, permission, unavailable, beginning, API, 8.0, object-specific, Historyobjects, instead]
 ---
-
-# EntityHistory
 
 > Represents historical information about an object’s changed
    field values. This object is only available to users with the “View All

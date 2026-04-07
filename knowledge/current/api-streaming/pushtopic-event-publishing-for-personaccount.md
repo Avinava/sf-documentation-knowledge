@@ -5,12 +5,10 @@ topic: pushtopic-event-publishing-for-personaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.191Z
+lastCollected: 2026-04-07T18:36:51.512Z
 estimatedTokens: 112
-keywords: [PushTopic, Event, Publishing, PersonAccount, targets, Account, record, events, changes, Although, internally, composed, Contact, handled, associated]
+keywords: [PushTopic, Event, Publishing, PersonAccount, targets, Account, record, events, changes, Although, internally, composed, Contact, handled, subscriptions, Therefore, solely]
 ---
-
-# PushTopic Event Publishing for PersonAccount
 
 > PushTopic only targets the Account record when publishing events for changes to a
   PersonAccount. Although a PersonAccount is internally composed of one Account record and one

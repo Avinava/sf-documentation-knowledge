@@ -5,12 +5,10 @@ topic: line-specific-controls-with-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.339Z
+lastCollected: 2026-04-07T18:40:13.276Z
 estimatedTokens: 240
-keywords: [Line-Specific, Service, Cloud, Voice, Partner, Telephony, now, support, enabling, disabling, Remove, Participant, control, conference, call]
+keywords: [Line-Specific, Service, Cloud, Voice, Partner, Telephony, now, support, enabling, disabling, Remove, Participant, control, conference, call, disable, primary, caller]
 ---
-
-# Line-Specific Controls with Service Cloud Voice for Partner Telephony
 
 > We now support enabling and disabling the Remove Participant UI control for each
         participant during a conference call. For example, you can disable the Remove Participant UI

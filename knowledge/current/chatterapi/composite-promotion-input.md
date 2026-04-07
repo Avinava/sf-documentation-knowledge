@@ -5,12 +5,10 @@ topic: composite-promotion-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.080Z
+lastCollected: 2026-04-07T18:37:07.846Z
 estimatedTokens: 989
-keywords: [Composite, Promotion, Input, representation]
+keywords: [Composite, Promotion]
 ---
-
-# Composite Promotion Input
 
 > Input representation of the create promotion request.
 

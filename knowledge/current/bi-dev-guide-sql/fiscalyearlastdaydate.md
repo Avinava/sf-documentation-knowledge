@@ -5,12 +5,10 @@ topic: fiscalyearlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.061Z
+lastCollected: 2026-04-07T18:37:01.674Z
 estimatedTokens: 175
-keywords: [fiscal_year_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, fiscal, year, _year, _last, _day]
+keywords: [fiscal_year_last_day, date, Accepts, DateTime, DateOnly, legacy, corresponds, day, fiscal, year, _year, _last, _day]
 ---
-
-# fiscal_year_last_day(date)
 
 > Accepts a DateTime, DateOnly, or legacy Date object as input. Returns an object of the same type that
   corresponds to the last day of the fiscal year that contains the specified date.

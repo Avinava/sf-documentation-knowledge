@@ -5,12 +5,10 @@ topic: get-apiv1profiledatamodelnameidchilddatamodelname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.745Z
+lastCollected: 2026-04-07T18:35:51.599Z
 estimatedTokens: 477
-keywords: [api, profile, dataModelName, childDataModelName, data, model, objects, child, indexes, search, filters, Examples, HTTP, Responses]
+keywords: [Examples, api, profile, dataModelName, childDataModelName, model, child, indexes, search, filters, HTTP, Responses]
 ---
-
-# GET /api/v1/profile/{dataModelName}/{Id}/{childDataModelName}
 
 > Returns data model objects and child objects based on indexes and search filters.
 

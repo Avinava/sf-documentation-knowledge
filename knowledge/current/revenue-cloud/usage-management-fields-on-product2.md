@@ -5,12 +5,10 @@ topic: usage-management-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.126Z
+lastCollected: 2026-04-07T18:35:50.983Z
 estimatedTokens: 277
-keywords: [Usage, Management, Product2, Standard, custom, extend, represent, products]
+keywords: [Management, Product2, Standard, extend, represent, products]
 ---
-
-# Usage Management Fields on Product2
 
 > Standard and custom fields extend the standard Product2 object for
          use in Usage Management to represent information about products.

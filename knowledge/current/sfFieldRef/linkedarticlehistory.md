@@ -5,12 +5,10 @@ topic: linkedarticlehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.761Z
+lastCollected: 2026-04-07T18:39:46.312Z
 estimatedTokens: 282
-keywords: [LinkedArticleHistory, history, changes, made, tracked, linked, article, API, version, 37.0, later]
+keywords: [LinkedArticleHistory, changes, made, tracked, linked, article, API, 37.0]
 ---
-
-# LinkedArticleHistory
 
 > Represents the history of changes made to tracked fields on a linked
 			article. This object is available in API

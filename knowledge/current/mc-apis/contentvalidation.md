@@ -5,12 +5,10 @@ topic: contentvalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.749Z
+lastCollected: 2026-04-07T18:40:15.868Z
 estimatedTokens: 539
-keywords: [ContentValidation, validate, content, included, email, order, call, pass, specify, subscriber, part, validation, action, Because, take]
+keywords: [ContentValidation, validate, content, included, email, order, call, pass, specify, subscriber, part, validation, action, Because, take, seconds, run, async, API, Items]
 ---
-
-# ContentValidation
 
 > The ContentValidation object contains information used to validate content included in email. In order for the call to be valid, you must pass an email property and specify a subscriber as part of the validation action. Because this call can take 60 to 90 seconds to run, use the async API to make th
 

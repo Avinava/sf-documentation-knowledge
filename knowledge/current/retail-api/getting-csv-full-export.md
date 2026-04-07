@@ -5,12 +5,10 @@ topic: getting-csv-full-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.288Z
+lastCollected: 2026-04-07T18:39:11.834Z
 estimatedTokens: 75
-keywords: [Getting, CSV, Full, Export, you’ve, retrieved, access, token, actual, file, requested, cURL]
+keywords: [Getting, CSV, Full, Export, you’ve, retrieved, token, actual, file, requested, cURL]
 ---
-
-# Getting CSV Full Export
 
 > After you’ve retrieved the access token, the actual full export file can be requested.
 

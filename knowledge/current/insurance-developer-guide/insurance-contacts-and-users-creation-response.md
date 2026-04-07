@@ -5,12 +5,10 @@ topic: insurance-contacts-and-users-creation-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.208Z
+lastCollected: 2026-04-07T18:37:52.358Z
 estimatedTokens: 205
-keywords: [Insurance, Contacts, Users, Creation, Output, representation, contact, user, process]
+keywords: [Insurance, Contacts, Users, Creation, contact, user, process]
 ---
-
-# Insurance Contacts and Users Creation Response
 
 > Output representation of the contact and user creation process.
 

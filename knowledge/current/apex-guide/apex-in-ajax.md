@@ -5,12 +5,10 @@ topic: apex-in-ajax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.694Z
+lastCollected: 2026-04-07T18:36:15.924Z
 estimatedTokens: 526
 keywords: [Apex, AJAX, toolkit, includes, built-in, support, invoking, anonymous, blocks, webservice]
 ---
-
-# Apex in AJAX
 
 > The AJAX toolkit includes built-in support for invoking Apex through anonymous blocks
         or public webservice methods.

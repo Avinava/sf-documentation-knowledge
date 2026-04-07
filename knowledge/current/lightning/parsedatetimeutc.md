@@ -5,12 +5,10 @@ topic: parsedatetimeutc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.049Z
+lastCollected: 2026-04-07T18:38:05.219Z
 estimatedTokens: 176
 keywords: [parseDateTimeUTC, Parses, JavaScript, Date, Sample, Code]
 ---
-
-# parseDateTimeUTC()
 
 > Parses a string and returns a JavaScript Date.
 

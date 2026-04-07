@@ -5,12 +5,10 @@ topic: create-a-text-only-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.087Z
+lastCollected: 2026-04-07T18:40:16.223Z
 estimatedTokens: 623
-keywords: [Text-Only, Email, creating, via, SOAP, API, send, contain, any, images, HTML, formatting, Why, How, Sample]
+keywords: [Text-Only, Email, creating, via, SOAP, API, send, contain, any, images, HTML, formatting, Why, How, Sample, Envelope, Items]
 ---
-
-# Create a Text-Only Email
 
 > This page contains information  about creating a text-only email via the SOAP API. You can use the API to send an email that does not contain any images or HTML formatting.
 

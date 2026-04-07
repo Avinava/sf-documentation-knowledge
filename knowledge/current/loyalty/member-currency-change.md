@@ -5,12 +5,10 @@ topic: member-currency-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.816Z
+lastCollected: 2026-04-07T18:38:08.055Z
 estimatedTokens: 174
-keywords: [Member, Currency, Change, Output, representation]
+keywords: [Member, Currency, Change]
 ---
-
-# Member Currency Change
 
 > Output representation of the member currency change.
 

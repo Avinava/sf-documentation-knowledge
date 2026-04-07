@@ -5,12 +5,10 @@ topic: connectapifieldsetidsinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.918Z
+lastCollected: 2026-04-07T18:37:49.793Z
 estimatedTokens: 183
-keywords: [ConnectApi.FieldSetIDsInputRep, IDs, asset, coverage, participant, policy, objects]
+keywords: [ConnectApi.FieldSetIDsInputRep, IDs, asset, coverage, participant, policy]
 ---
-
-# ConnectApi.FieldSetIDsInputRep
 
 > List of the field set IDs for asset, coverage, participant, and policy
     objects.

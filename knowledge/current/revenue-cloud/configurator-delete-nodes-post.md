@@ -5,12 +5,10 @@ topic: configurator-delete-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.422Z
+lastCollected: 2026-04-07T18:35:44.398Z
 estimatedTokens: 268
 keywords: [Configurator, Nodes, POST, product, configuration]
 ---
-
-# Configurator Delete Nodes (POST)
 
 > Delete nodes from a product configuration.
 

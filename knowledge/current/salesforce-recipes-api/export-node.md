@@ -5,12 +5,10 @@ topic: export-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.416Z
+lastCollected: 2026-04-07T18:39:19.099Z
 estimatedTokens: 111
 keywords: [Export, Node, recipe]
 ---
-
-# Export Node
 
 > An export node in a recipe.
 

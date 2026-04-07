@@ -5,12 +5,10 @@ topic: workgoalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.917Z
+lastCollected: 2026-04-07T18:38:44.722Z
 estimatedTokens: 360
-keywords: [WorkGoalHistory, history, changes, WorkGoal, Access, read-only, deprecated, API, version, 35.0, GoalHistory, query, historical, WDC, goals]
+keywords: [WorkGoalHistory, changes, WorkGoal, read-only, deprecated, API, 35.0, GoalHistory, query, historical, WDC, goals]
 ---
-
-# WorkGoalHistory
 
 > Represents the history of changes to the values in the fields of a WorkGoal.
 			Access is read-only. This object has been deprecated as of API version 35.0. Use

@@ -5,12 +5,10 @@ topic: work-with-embedded-app-auto-install-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.689Z
+lastCollected: 2026-04-07T18:37:02.263Z
 estimatedTokens: 2666
-keywords: [Work, Embedded, App, Auto-Install, Requests, templates, apps, any, custom, code, add, customizations, lifecycle, Apex, classes]
+keywords: [Work, Embedded, App, Auto-Install, Requests, templates, apps, any, code, add, customizations, lifecycle, Apex, classes, CRM, Analytics, auto-installer, manage, Limits, Restrictions, Cases, Monitoring, Working]
 ---
-
-# Work with Embedded App Auto-Install Requests
 
 > Embedded app templates can create apps without any custom code, but you can add
     customizations to your embedded app lifecycle. Create Apex classes that use the CRM Analytics

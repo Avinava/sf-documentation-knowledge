@@ -5,12 +5,10 @@ topic: reminder-recurring-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.918Z
+lastCollected: 2026-04-07T18:36:37.443Z
 estimatedTokens: 120
-keywords: [Reminder, Recurring, Schedule, Input, representation]
+keywords: [Reminder, Recurring, Schedule]
 ---
-
-# Reminder Recurring Schedule Input
 
 > Input representation of the recurring schedule of a reminder.
 

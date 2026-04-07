@@ -5,12 +5,10 @@ topic: 1000-1999-account-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.579Z
+lastCollected: 2026-04-07T18:40:14.601Z
 estimatedTokens: 228
 keywords: [1000-1999, Account]
 ---
-
-# 1000-1999 Account Object
 
 # 1000-1999 Account Object
 

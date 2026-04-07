@@ -5,12 +5,10 @@ topic: adspacecapacityallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.122Z
+lastCollected: 2026-04-07T18:38:12.405Z
 estimatedTokens: 1341
-keywords: [AdSpaceCapacityAllocation, row, junction, space, transaction, allocated, space's, allocation, period, quantity, API, version, 65.0, later, Calls]
+keywords: [AdSpaceCapacityAllocation, row, junction, space, transaction, allocated, space's, allocation, period, quantity, API, 65.0]
 ---
-
-# AdSpaceCapacityAllocation
 
 > Each row represents the junction between an ad space and the transaction that
          the ad space is allocated to. The ad space's transaction allocation period and quantity is

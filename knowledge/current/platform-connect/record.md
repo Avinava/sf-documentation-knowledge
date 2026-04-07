@@ -5,12 +5,10 @@ topic: record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.815Z
+lastCollected: 2026-04-07T18:38:57.623Z
 estimatedTokens: 632
-keywords: [Record, JSON-formatted, canvas, app, appears, standard, Account, custom, Warehouse__c, doesn’t, appear, pub]
+keywords: [Record, JSON-formatted, canvas, app, appears, standard, Account, Warehouse__c, doesn’t, appear, pub]
 ---
-
-# Record
 
 > The Record object is a JSON-formatted object that contains information about the
                 object on which the canvas app appears. This could be a standard object like Account or a custom object like Warehouse__c. If the canvas app doesn’t

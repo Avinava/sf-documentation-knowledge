@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.560Z
+lastCollected: 2026-04-07T18:37:24.566Z
 estimatedTokens: 294
-keywords: [REST, access, Salesforce, Contracts, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Salesforce, Contracts, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Salesforce Contracts APIs using REST endpoints. These REST APIs follow
     similar conventions as Connect REST APIs.

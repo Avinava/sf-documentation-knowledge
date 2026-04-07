@@ -5,12 +5,10 @@ topic: how-branding-works-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.897Z
+lastCollected: 2026-04-07T18:37:33.194Z
 estimatedTokens: 948
-keywords: [How, Branding, Works, LWR, Sites, Lightning, Web, Runtime, design, system, modify, base, custom, components, achieve]
+keywords: [How, Branding, Works, LWR, Sites, Lightning, Web, Runtime, design, system, modify, base, achieve, consistent, look, feel, across, site, uses, --dxp, styling, hooks, map, Theme, panel, help, easily, apply, entire, Work, Together]
 ---
-
-# How Branding Works in LWR Sites
 
 > With the Lightning Web Runtime (LWR) design system, you can modify base and custom
     Lightning web components to achieve a consistent look and feel across your LWR site. The system

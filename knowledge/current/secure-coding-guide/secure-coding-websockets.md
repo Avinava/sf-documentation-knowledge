@@ -5,12 +5,10 @@ topic: secure-coding-websockets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.151Z
+lastCollected: 2026-04-07T18:39:22.041Z
 estimatedTokens: 694
-keywords: [Secure, Coding, WebSockets, WebSocket, full, duplex, communication, protocol, introduced, HTML5, allowing, real-time, data, exchange, web]
+keywords: [Secure, Coding, WebSockets, WebSocket, full, duplex, communication, protocol, introduced, HTML5, allowing, real-time, exchange, web, browsers, clients, server, connection, established, handshake, client]
 ---
-
-# Secure Coding WebSockets
 
 > WebSocket is a full duplex communication protocol introduced in HTML5, allowing
                 real-time data exchange between the web browsers (or other clients) and the server.

@@ -5,12 +5,10 @@ topic: future-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:31.072Z
+lastCollected: 2026-04-07T18:36:16.291Z
 estimatedTokens: 673
 keywords: [Future, Annotation, identify, run, asynchronously, runs, Salesforce, resources, Considerations]
 ---
-
-# Future Annotation
 
 > Use the Future annotation to identify methods
     that run asynchronously. A future method runs when Salesforce has available

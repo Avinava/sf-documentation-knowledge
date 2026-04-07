@@ -5,12 +5,10 @@ topic: type-system-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:28.996Z
+lastCollected: 2026-04-07T18:37:16.075Z
 estimatedTokens: 128
 keywords: [System, Resources, retrieve, org]
 ---
-
-# Type System Resources
 
 > Use Type System resources to retrieve information about the types available in your
       org.

@@ -5,12 +5,10 @@ topic: error
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.286Z
+lastCollected: 2026-04-07T18:38:05.489Z
 estimatedTokens: 81
 keywords: [error, Deprecated, serious, recovery, path, throw, standard, JavaScript, instead, new, msg]
 ---
-
-# error()
 
 > Deprecated. For a serious error that has no recovery path, throw a
    standard JavaScript error instead by using throw new

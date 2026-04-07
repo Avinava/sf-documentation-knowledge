@@ -5,12 +5,10 @@ topic: binding-object-usage-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.916Z
+lastCollected: 2026-04-07T18:35:44.937Z
 estimatedTokens: 332
-keywords: [Binding, Usage, grants, resources, rates, any, configured, policies]
+keywords: [Binding, grants, resources, rates, any, configured, policies]
 ---
-
-# Binding Object Usage Details (GET)
 
 > Get details of grants, resources, rates, and any configured policies
       for a specified binding object.

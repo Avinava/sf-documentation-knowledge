@@ -5,12 +5,10 @@ topic: rateadjustmentbytierhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.660Z
+lastCollected: 2026-04-07T18:39:58.326Z
 estimatedTokens: 271
-keywords: [RateAdjustmentByTierHistory, History, tracked, RateAdjustmentByTier]
+keywords: [RateAdjustmentByTierHistory, tracked, RateAdjustmentByTier]
 ---
-
-# RateAdjustmentByTierHistory
 
 > History for tracked fields of RateAdjustmentByTier.
 

@@ -5,12 +5,10 @@ topic: book-slot-chain-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.502Z
+lastCollected: 2026-04-07T18:37:40.482Z
 estimatedTokens: 144
-keywords: [Book, Slot, Chain, Input, representation, service, appointments]
+keywords: [Book, Slot, Chain, service, appointments]
 ---
-
-# Book Slot Chain Input
 
 > Input representation of the request to create service appointments.
 

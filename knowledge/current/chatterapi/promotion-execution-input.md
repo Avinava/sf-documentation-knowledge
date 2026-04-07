@@ -5,12 +5,10 @@ topic: promotion-execution-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.138Z
+lastCollected: 2026-04-07T18:37:09.858Z
 estimatedTokens: 363
-keywords: [Promotion, Execution, Input, Cart, items, associated, discounts]
+keywords: [Promotion, Execution, Cart, items, discounts]
 ---
-
-# Promotion Execution Input
 
 > Cart and its items, with associated promotion discounts for the
 			items.

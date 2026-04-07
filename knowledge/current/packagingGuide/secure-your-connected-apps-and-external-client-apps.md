@@ -5,12 +5,10 @@ topic: secure-your-connected-apps-and-external-client-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.360Z
+lastCollected: 2026-04-07T18:38:47.340Z
 estimatedTokens: 1631
-keywords: [Secure, Connected, Apps, External, Client, requirements, apply, any, App, ECA, included, connection, Partner, Application, provided]
+keywords: [Secure, Connected, Apps, External, Client, requirements, apply, any, App, ECA, included, connection, Partner, Application, provided, created, two, customer, production, orgs, Proof, Key, Code, Exchange, Refresh, Token, Rotation, Deadlines, Implementation, Report, Suspicious, Activity]
 ---
-
-# Secure Your Connected Apps and External Client Apps
 
 > These requirements apply to any Connected App or External Client App (ECA) that is
     included or used in connection with a Partner Application, provided or created by the Partner,

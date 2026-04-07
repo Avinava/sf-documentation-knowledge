@@ -5,12 +5,10 @@ topic: editing-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.807Z
+lastCollected: 2026-04-07T18:38:03.902Z
 estimatedTokens: 2252
-keywords: [Editing, Record, simplest, way, form, edit, lightning, recordForm, component, want, customize, layout, preload, custom, recordEditForm]
+keywords: [Editing, Record, simplest, way, form, edit, lightning, recordForm, want, customize, layout, preload, recordEditForm, form-based, allow, force, recordData, Error, Handling, Prepopulate, via, User, Load, Mode, Call, saveRecord, Save, Changes, Saving]
 ---
-
-# Editing a Record
 
 > The simplest way to create a form that enables you to edit a record is to use the
             lightning:recordForm component. If you want to

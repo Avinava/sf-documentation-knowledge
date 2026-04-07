@@ -5,12 +5,10 @@ topic: cleandataservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.237Z
+lastCollected: 2026-04-07T18:36:23.531Z
 estimatedTokens: 1906
-keywords: [CleanDataService, data, service, adds, updates, standard, objects, File, Suffix, Directory, Location, Version, CleanRule, FieldMapping, FieldMappingRow]
+keywords: [CleanDataService, CleanRule, FieldMapping, FieldMappingRow, FieldMappingField, service, adds, updates, standard, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CleanDataService
 
 > Represents a data service that adds and updates data in
       standard objects.

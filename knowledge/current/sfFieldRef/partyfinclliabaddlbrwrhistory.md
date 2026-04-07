@@ -5,12 +5,10 @@ topic: partyfinclliabaddlbrwrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.803Z
+lastCollected: 2026-04-07T18:39:52.221Z
 estimatedTokens: 278
-keywords: [PartyFinclLiabAddlBrwrHistory, History, tracked, PartyFinclLiabAddlBrwr]
+keywords: [PartyFinclLiabAddlBrwrHistory, tracked, PartyFinclLiabAddlBrwr]
 ---
-
-# PartyFinclLiabAddlBrwrHistory
 
 > History for tracked fields of PartyFinclLiabAddlBrwr.
 

@@ -5,12 +5,10 @@ topic: topic-suggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.395Z
+lastCollected: 2026-04-07T18:37:23.505Z
 estimatedTokens: 121
 keywords: [Topic, Suggestion]
 ---
-
-# Topic Suggestion
 
 > Topic suggestion.
 

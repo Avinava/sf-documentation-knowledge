@@ -5,12 +5,10 @@ topic: productterrdtlavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.403Z
+lastCollected: 2026-04-07T18:38:01.232Z
 estimatedTokens: 975
-keywords: [ProductTerrDtlAvailability, products, aligned, territories, extension, stored, Product, Territory, Availability, internal, purposes, API, version, 65.0, later]
+keywords: [ProductTerrDtlAvailability, products, aligned, territories, extension, stored, Product, Territory, Availability, internal, purposes, API, 65.0]
 ---
-
-# ProductTerrDtlAvailability
 
 > Represents the details of the products aligned to territories. This object is
          an extension of the information stored in the Product Territory Availability object and is

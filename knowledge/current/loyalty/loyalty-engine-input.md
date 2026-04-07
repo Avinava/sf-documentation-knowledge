@@ -5,12 +5,10 @@ topic: loyalty-engine-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.057Z
+lastCollected: 2026-04-07T18:38:07.271Z
 estimatedTokens: 423
-keywords: [Loyalty, Engine, Input, representation, Runtime, API]
+keywords: [Loyalty, Engine, Runtime, API]
 ---
-
-# Loyalty Engine Input
 
 > Input representation of the Loyalty Engine Runtime
     API.

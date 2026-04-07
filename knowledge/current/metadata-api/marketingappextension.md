@@ -5,12 +5,10 @@ topic: marketingappextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:41.951Z
+lastCollected: 2026-04-07T18:36:27.480Z
 estimatedTokens: 1415
-keywords: [MarketingAppExtension, integration, third-party, app, service, work, prospects, Parent, File, Suffix, Directory, Location, Version, Special, Access]
+keywords: [MarketingAppExtension, MarketingAppExtActivity, MarketingAppExtAction, integration, third-party, app, service, work, prospects, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MarketingAppExtension
 
 > Represents an integration with a third-party app or service that is used to work with
 		prospects.

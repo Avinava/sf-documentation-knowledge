@@ -5,12 +5,10 @@ topic: envelope-notification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.714Z
+lastCollected: 2026-04-07T18:37:24.699Z
 estimatedTokens: 144
-keywords: [Envelope, Notification, Input, e-signature]
+keywords: [Envelope, Notification, e-signature]
 ---
-
-# Envelope Notification Input
 
 > Input to get notification information for
     e-signature.

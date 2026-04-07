@@ -5,12 +5,10 @@ topic: profiling-with-signposts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.113Z
+lastCollected: 2026-04-07T18:40:26.418Z
 estimatedTokens: 640
-keywords: [Profiling, Signposts, provide, powerful, option, logging, app’s, runtime, resource, usage, viewed, Xcode’s, Instruments, signpost, logs]
+keywords: [Profiling, Signposts, provide, powerful, option, logging, app’s, runtime, resource, viewed, Xcode’s, Instruments, signpost, logs, allow, model, performance, over, time, profiles, help, bottlenecks, anomalies, code, Beginning, 7.1, Mobile, SDK, add, heavily, portions, profile, app, Swift, Objective-C, apps, Debug, Builds, Production, Running, Build]
 ---
-
-# Profiling with Signposts
 
 > Signposts provide a powerful option for logging your app’s runtime resource usage. When
     viewed in Xcode’s Instruments, signpost logs allow you to model your app’s performance over

@@ -5,12 +5,10 @@ topic: vpl360createpaymentintentbilling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.173Z
+lastCollected: 2026-04-07T18:38:11.480Z
 estimatedTokens: 168
-keywords: [VPL360_CreatePaymentIntentBilling, Integration, Procedure, creates, payment, intent, Pay, Now, billing, Self, care, VPL360, _CreatePaymentIntentBilling, Sample, Input]
+keywords: [VPL360_CreatePaymentIntentBilling, Integration, Procedure, creates, payment, intent, Pay, Now, billing, Self, care, VPL360, _CreatePaymentIntentBilling, Sample]
 ---
-
-# VPL360_CreatePaymentIntentBilling
 
 > This Integration Procedure creates payment intent for the
         Pay Now billing section in Self care.

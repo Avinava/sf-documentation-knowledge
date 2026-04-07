@@ -5,12 +5,10 @@ topic: loyaltypartnerproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.890Z
+lastCollected: 2026-04-07T18:38:10.184Z
 estimatedTokens: 896
-keywords: [LoyaltyPartnerProduct, products, product, categories, offered, loyalty, partners, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyPartnerProduct, products, product, categories, offered, loyalty, partners, API, 51.0]
 ---
-
-# LoyaltyPartnerProduct
 
 > Represents products and product categories offered by loyalty partners.
     This object is available in API version 51.0 and later.

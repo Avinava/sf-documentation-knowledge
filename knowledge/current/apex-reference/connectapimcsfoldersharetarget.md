@@ -5,12 +5,10 @@ topic: connectapimcsfoldersharetarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.344Z
+lastCollected: 2026-04-07T18:36:09.734Z
 estimatedTokens: 157
 keywords: [ConnectApi.MCSFolderShareTarget, Target, managed, content, space, folder, shared]
 ---
-
-# ConnectApi.MCSFolderShareTarget
 
 > Target that a managed content space folder can be shared with.
 

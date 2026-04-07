@@ -5,12 +5,10 @@ topic: work-with-permission-set-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.617Z
+lastCollected: 2026-04-07T18:39:22.504Z
 estimatedTokens: 1238
 keywords: [Work, Permission, views, help, view, manage, edit, permissions, multiple, time]
 ---
-
-# Work with Permission Set Lists
 
 > Create list views to help view and manage your permission sets. You can also edit
     permissions in multiple permission sets at the same time using list views.

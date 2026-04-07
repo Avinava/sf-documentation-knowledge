@@ -5,12 +5,10 @@ topic: processdetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.912Z
+lastCollected: 2026-04-07T18:37:39.864Z
 estimatedTokens: 3384
-keywords: [ProcessDetail, verification, process, dataSourceType, searchObjectName, searchSequenceNo, searchType, searchResultUniqueIdField, searchResultFilter, searchResultSortOrder, optionalVerifierCount, apexClassName, verificationProcessFieldList, linkedVerificationProcessDetailName, retryLimit]
+keywords: [ProcessDetail, verification, process, dataSourceType, searchObjectName, searchSequenceNo, searchType, searchResultUniqueIdField, searchResultFilter, searchResultSortOrder, optionalVerifierCount, apexClassName, verificationProcessFieldList, linkedVerificationProcessDetailName, retryLimit, isRetryAllowedAfterLimit, label, developerName, displayRecordFieldName]
 ---
-
-# ProcessDetail Class
 
 > Contains the verification process details.
 

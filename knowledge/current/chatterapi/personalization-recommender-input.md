@@ -5,12 +5,10 @@ topic: personalization-recommender-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.893Z
+lastCollected: 2026-04-07T18:37:09.613Z
 estimatedTokens: 419
-keywords: [Personalization, Recommender, Input, creating]
+keywords: [Personalization, Recommender, creating]
 ---
-
-# Personalization Recommender Input
 
 > Contains the details for creating a personalization recommender.
 

@@ -5,12 +5,10 @@ topic: promotionrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.777Z
+lastCollected: 2026-04-07T18:39:16.319Z
 estimatedTokens: 1041
-keywords: [Promotion.Record, APEX, wrapper, Promotion, SObject, Records, instance, wraps, Record, parent, TPM_Promotion, provide, manipulate, order, flag]
+keywords: [Promotion.Record, APEX, wrapper, Promotion, SObject, Records, instance, wraps, Record, parent, TPM_Promotion, provide, manipulate, order, flag, insertion, deletion, extract, underlying, updates, made, Implementation, TPM, _Promotion.Record, isDeleted, API, isNew, getId, getOriginalRecord, getRecord, setFields, setIsDeleted, setIsNew]
 ---
-
-# Promotion.Record
 
 > This APEX class provides a wrapper to Promotion SObject Records. Each instance wraps an
   SObject Record related to the parent TPM_Promotion and provide methods to manipulate them in order

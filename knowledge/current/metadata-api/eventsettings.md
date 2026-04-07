@@ -5,12 +5,10 @@ topic: eventsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.063Z
+lastCollected: 2026-04-07T18:36:25.547Z
 estimatedTokens: 1193
-keywords: [EventSettings, org's, platform, event, settings, Monitoring, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
+keywords: [EventSettings, org's, platform, event, settings, Monitoring, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
-
-# EventSettings
 
 > Represents an org's platform event settings for Event
       Monitoring.

@@ -5,12 +5,10 @@ topic: program-enrollments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.003Z
+lastCollected: 2026-04-07T18:38:20.747Z
 estimatedTokens: 224
 keywords: [Program, Enrollments, POST, Enroll, participants]
 ---
-
-# Program Enrollments (POST)
 
 > Enroll participants in a program.
 

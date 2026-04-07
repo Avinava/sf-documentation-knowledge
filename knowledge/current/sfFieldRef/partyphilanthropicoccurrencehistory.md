@@ -5,12 +5,10 @@ topic: partyphilanthropicoccurrencehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.973Z
+lastCollected: 2026-04-07T18:39:52.418Z
 estimatedTokens: 280
-keywords: [PartyPhilanthropicOccurrenceHistory, History, tracked, PartyPhilanthropicOccurrence]
+keywords: [PartyPhilanthropicOccurrenceHistory, tracked, PartyPhilanthropicOccurrence]
 ---
-
-# PartyPhilanthropicOccurrenceHistory
 
 > History for tracked fields of PartyPhilanthropicOccurrence.
 

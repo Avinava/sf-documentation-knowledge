@@ -5,12 +5,10 @@ topic: perform-an-import-without-an-existing-import-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.936Z
+lastCollected: 2026-04-07T18:40:18.122Z
 estimatedTokens: 1773
 keywords: [Perform, Import, Definition, performing, SOAP, API, creating, Why, How, Sample, NET, Code, PHP, Envelope]
 ---
-
-# Perform an Import without an Existing Import Definition
 
 > This page contains information about performing an import using the SOAP API without first creating an import definition.
 

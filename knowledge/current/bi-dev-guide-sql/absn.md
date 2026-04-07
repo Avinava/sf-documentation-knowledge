@@ -5,12 +5,10 @@ topic: absn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.208Z
+lastCollected: 2026-04-07T18:37:01.823Z
 estimatedTokens: 76
 keywords: [abs, absolute, number, numeric, any, real, range, -1.797e308, 1.797e308]
 ---
-
-# abs(n)
 
 > Returns the absolute number of n as a numeric value.
    n can be any real numeric value in the range of -1.797e308 <=

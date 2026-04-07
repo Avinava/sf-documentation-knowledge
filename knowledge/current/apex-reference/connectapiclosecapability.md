@@ -5,12 +5,10 @@ topic: connectapiclosecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.732Z
+lastCollected: 2026-04-07T18:36:08.100Z
 estimatedTokens: 295
-keywords: [ConnectApi.CloseCapability, feed, element, capability, users, permission, close]
+keywords: [ConnectApi.CloseCapability, capability, users, permission, close]
 ---
-
-# ConnectApi.CloseCapability
 
 > If a feed element has this capability, users with permission can close
       it.

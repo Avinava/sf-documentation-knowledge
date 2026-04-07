@@ -5,12 +5,10 @@ topic: quickactionlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.775Z
+lastCollected: 2026-04-07T18:36:34.099Z
 estimatedTokens: 365
-keywords: [QuickActionListItem, item, quick, action, SOAP, Calls, REST, HTTP, Usage]
+keywords: [QuickActionListItem, item, quick, action, SOAP, REST, HTTP]
 ---
-
-# QuickActionListItem
 
 > Represents an item in a quick action list.
 

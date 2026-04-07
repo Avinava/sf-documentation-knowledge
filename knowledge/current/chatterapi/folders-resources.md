@@ -5,12 +5,10 @@ topic: folders-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.044Z
+lastCollected: 2026-04-07T18:37:14.010Z
 estimatedTokens: 1602
 keywords: [Folders, Resources, folder, contents, Modify, add, items]
 ---
-
-# Folders Resources
 
 > Get information about a folder or the contents of a folder. Modify,
          delete, and add items to folders.

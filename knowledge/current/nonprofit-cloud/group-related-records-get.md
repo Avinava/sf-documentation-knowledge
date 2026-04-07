@@ -5,12 +5,10 @@ topic: group-related-records-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.044Z
+lastCollected: 2026-04-07T18:38:20.790Z
 estimatedTokens: 112
 keywords: [Group, Records, party, relationship]
 ---
-
-# Group Related Records (GET)
 
 > Get the related records of a party relationship
     group.

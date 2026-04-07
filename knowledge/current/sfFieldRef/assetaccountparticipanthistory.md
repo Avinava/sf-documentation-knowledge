@@ -5,12 +5,10 @@ topic: assetaccountparticipanthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.711Z
+lastCollected: 2026-04-07T18:39:27.705Z
 estimatedTokens: 274
-keywords: [AssetAccountParticipantHistory, History, tracked, AssetAccountParticipant]
+keywords: [AssetAccountParticipantHistory, tracked, AssetAccountParticipant]
 ---
-
-# AssetAccountParticipantHistory
 
 > History for tracked fields of AssetAccountParticipant.
 

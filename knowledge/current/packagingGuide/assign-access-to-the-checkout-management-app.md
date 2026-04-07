@@ -5,12 +5,10 @@ topic: assign-access-to-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.447Z
+lastCollected: 2026-04-07T18:38:46.312Z
 estimatedTokens: 275
-keywords: [Assign, Access, Checkout, Management, App, permission, give, team, members, right, level, CMA, Standard, User, Admin]
+keywords: [Assign, Checkout, Management, App, permission, give, team, members, right, level, CMA, Standard, User, Admin, depending, features]
 ---
-
-# Assign Access to the Checkout Management App
 
 > Use permission sets to give team members the right level of access to the Checkout
         Management App (CMA). You can assign the CMA Standard User permission set or CMA Admin User

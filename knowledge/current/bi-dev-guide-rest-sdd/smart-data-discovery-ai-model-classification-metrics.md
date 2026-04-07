@@ -5,12 +5,10 @@ topic: smart-data-discovery-ai-model-classification-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.979Z
+lastCollected: 2026-04-07T18:36:59.470Z
 estimatedTokens: 270
-keywords: [Smart, Data, Discovery, Model, Classification, Metrics, binomial, Einstein]
+keywords: [Smart, Discovery, Model, Classification, Metrics, binomial, Einstein]
 ---
-
-# Smart Data Discovery AI Model Classification Metrics
 
 > The binomial classification metrics for an Einstein Discovery AI model.
 

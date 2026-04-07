@@ -5,12 +5,10 @@ topic: action-link-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.394Z
+lastCollected: 2026-04-07T18:37:07.107Z
 estimatedTokens: 1686
-keywords: [Action, Link, Definition, Input, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
+keywords: [Action, Link, Definition, button, Clicking, take, user, Web, initiate, file, download, invoke, API, call, Salesforce, external, server, includes, URL, HTTP, include, OAuth, token, authentication, links, integrate, third-party, services, users, drive, productivity, accelerate, innovation]
 ---
-
-# Action Link Definition Input
 
 > The definition of an action link. An action link is a button on a
          feed element. Clicking an action link can take a user to a Web page, initiate a file

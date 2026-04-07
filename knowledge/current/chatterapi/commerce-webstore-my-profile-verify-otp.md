@@ -5,12 +5,10 @@ topic: commerce-webstore-my-profile-verify-otp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.553Z
+lastCollected: 2026-04-07T18:37:12.439Z
 estimatedTokens: 575
 keywords: [Commerce, Webstore, Profile, Verify, OTP, Validate, one-time-password, provided, buyer]
 ---
-
-# Commerce Webstore My Profile Verify OTP
 
 > Validate the one-time-password (OTP) provided by the buyer.
 

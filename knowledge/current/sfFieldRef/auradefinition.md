@@ -5,12 +5,10 @@ topic: auradefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.339Z
+lastCollected: 2026-04-07T18:39:28.397Z
 estimatedTokens: 326
-keywords: [AuraDefinition, Aura, component, definition, markup, client-side, controller, event, API, version, 32.0, later]
+keywords: [AuraDefinition, Aura, definition, markup, client-side, controller, event, API, 32.0]
 ---
-
-# AuraDefinition
 
 > Represents an Aura component definition, such as component markup, a
 			client-side controller, or an event. This object is available in API version 32.0

@@ -5,12 +5,10 @@ topic: get-another-users-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.197Z
+lastCollected: 2026-04-07T18:37:24.245Z
 estimatedTokens: 149
-keywords: [Another, User’s, Feed, Chatter]
+keywords: [Another, User’s, Chatter]
 ---
-
-# Get Another User’s Feed
 
 > Get another user’s Chatter feed.
 

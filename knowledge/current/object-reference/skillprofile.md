@@ -5,12 +5,10 @@ topic: skillprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.766Z
+lastCollected: 2026-04-07T18:38:41.495Z
 estimatedTokens: 135
-keywords: [SkillProfile, join, Skill, Profile, API, version, 24.0, later, Calls, Usage]
+keywords: [SkillProfile, join, Skill, Profile, API, 24.0]
 ---
-
-# SkillProfile
 
 > Represents a join between Skill and Profile. This object is
   available in API version 24.0 and later.

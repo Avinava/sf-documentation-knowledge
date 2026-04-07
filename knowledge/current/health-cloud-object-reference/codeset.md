@@ -5,12 +5,10 @@ topic: codeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.756Z
+lastCollected: 2026-04-07T18:37:42.932Z
 estimatedTokens: 1020
-keywords: [CodeSet, various, industry, defined, codes, context, their, systems, versions, sorts, digital, records, API, version, 50.0]
+keywords: [CodeSet, various, industry, defined, codes, context, their, systems, versions, sorts, digital, records, API, 50.0]
 ---
-
-# CodeSet
 
 > Represents various industry defined codes in the context of their systems and
       versions of those systems. These codes are used in all sorts of digital records. This

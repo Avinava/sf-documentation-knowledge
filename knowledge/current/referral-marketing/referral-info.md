@@ -5,12 +5,10 @@ topic: referral-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.174Z
+lastCollected: 2026-04-07T18:39:09.493Z
 estimatedTokens: 228
 keywords: [Referral, Info, referrals]
 ---
-
-# Referral Info
 
 > Represents the response for list of referrals.
 

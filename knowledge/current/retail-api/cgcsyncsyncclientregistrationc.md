@@ -5,12 +5,10 @@ topic: cgcsyncsyncclientregistrationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.816Z
+lastCollected: 2026-04-07T18:39:12.332Z
 estimatedTokens: 509
-keywords: [cgc_sync__Sync_Client_Registration__c, Stores, Consumer, Goods, Cloud, offline, mobile, app, device, synchronization, Salesforce, initiated, API, version, 61.0]
+keywords: [cgc_sync__Sync_Client_Registration__c, Stores, Consumer, Goods, Cloud, offline, mobile, app, device, synchronization, Salesforce, initiated, API, 61.0, cgc, _sync, _Client, _Registration]
 ---
-
-# cgc_sync__Sync_Client_Registration__c
 
 > Stores the details of the Consumer Goods Cloud offline mobile app device that
          a synchronization request to Salesforce is initiated from. This object is available in

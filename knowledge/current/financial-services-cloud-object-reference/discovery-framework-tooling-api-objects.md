@@ -5,12 +5,10 @@ topic: discovery-framework-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.652Z
+lastCollected: 2026-04-07T18:37:35.277Z
 estimatedTokens: 284
-keywords: [Discovery, Framework, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
+keywords: [Discovery, Framework, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---
-
-# Discovery Framework Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

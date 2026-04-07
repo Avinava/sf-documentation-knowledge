@@ -5,12 +5,10 @@ topic: configure-the-data-loader-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.282Z
+lastCollected: 2026-04-07T18:37:28.313Z
 estimatedTokens: 279
-keywords: [Configure, Data, Loader, Log, File, customize, advanced, troubleshooting, tracking, log-conf.xml, Levels]
+keywords: [Configure, Loader, Log, File, customize, advanced, troubleshooting, log-conf.xml, Levels]
 ---
-
-# Configure the Data Loader Log File
 
 > You can customize the Data Loader log file for advanced troubleshooting and
     tracking.

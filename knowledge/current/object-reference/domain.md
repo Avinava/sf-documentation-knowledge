@@ -5,12 +5,10 @@ topic: domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.088Z
+lastCollected: 2026-04-07T18:38:29.953Z
 estimatedTokens: 1140
-keywords: [Domain, Read-only, custom, Web, address, assigned, site, organization, API, version, 26.0, later, Calls, Special, Access]
+keywords: [Domain, Read-only, Web, address, assigned, site, organization, API, 26.0]
 ---
-
-# Domain
 
 > Read-only object that represents a custom Web address assigned to a
 			site in your organization. This object is available in API version 26.0 and

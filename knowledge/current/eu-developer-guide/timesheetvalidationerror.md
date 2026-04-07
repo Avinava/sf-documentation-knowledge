@@ -5,12 +5,10 @@ topic: timesheetvalidationerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.655Z
+lastCollected: 2026-04-07T18:37:32.914Z
 estimatedTokens: 472
-keywords: [TimeSheetValidationError, validation, errors, time, sheets, sheet, entries, entry, items, rules, defined, admin, API, version, 62.0]
+keywords: [TimeSheetValidationError, validation, errors, time, sheets, sheet, entries, entry, items, defined, admin, API, 62.0]
 ---
-
-# TimeSheetValidationError
 
 > Represents validation errors in time sheets, time sheet entries, and time
          sheet entry items based on the rules defined by the admin. This object is available in

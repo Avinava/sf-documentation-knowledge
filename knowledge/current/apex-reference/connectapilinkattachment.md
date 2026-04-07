@@ -5,12 +5,10 @@ topic: connectapilinkattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.296Z
+lastCollected: 2026-04-07T18:36:09.681Z
 estimatedTokens: 198
-keywords: [ConnectApi.LinkAttachment, Link, attached, feed, item]
+keywords: [ConnectApi.LinkAttachment, Link, attached, item]
 ---
-
-# ConnectApi.LinkAttachment
 
 > Link attached to a feed item.
 

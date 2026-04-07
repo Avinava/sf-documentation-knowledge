@@ -5,12 +5,10 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.301Z
+lastCollected: 2026-04-07T18:40:14.309Z
 estimatedTokens: 231
-keywords: [ServiceResource, user, accept, shifts, Data, imported, employee, records, Service, Resource, Resources, linked, Territories, their, Territory]
+keywords: [ServiceResource, user, accept, shifts, imported, employee, records, Service, Resource, Resources, linked, Territories, their, Territory, Membership, API, 38.0]
 ---
-
-# ServiceResource
 
 > Represents a user who can accept shifts. Data is imported from employee records
       to create User and Service Resource records. Service Resources are linked to Service

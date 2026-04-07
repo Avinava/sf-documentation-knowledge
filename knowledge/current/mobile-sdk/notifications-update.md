@@ -5,12 +5,10 @@ topic: notifications-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.133Z
+lastCollected: 2026-04-07T18:40:27.351Z
 estimatedTokens: 268
-keywords: [Notifications, Updates, “read”, non-null, “seen”, statuses, IDs, sent, date, iOS, Android]
+keywords: [Android, Notifications, Updates, “read”, non-null, “seen”, statuses, IDs, sent, date, iOS]
 ---
-
-# Notifications Update
 
 > Updates the “read” (if non-null) and “seen” (if non-null) statuses of notifications
         with the given IDs, or those sent before the given date.

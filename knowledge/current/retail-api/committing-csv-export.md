@@ -5,12 +5,10 @@ topic: committing-csv-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.160Z
+lastCollected: 2026-04-07T18:39:11.760Z
 estimatedTokens: 356
-keywords: [Committing, CSV, Export, Commit, API, specific, csvGuid, take, new, baseline, future, delta, exports, means, records, Apex, call, commits, full]
+keywords: [Committing, CSV, Export, Commit, API, specific, csvGuid, take, new, baseline, future, delta, exports, means, records, KPIs, either, added, changed, deleted, previous, committed, state, Path, Sample, Apex, call, commits, full]
 ---
-
-# Committing CSV Export
 
 > Use the Commit CSV Export API to commit a specific csvGuid and take the related CSV as a
   new baseline for future delta exports. This means after this commit, the next delta export

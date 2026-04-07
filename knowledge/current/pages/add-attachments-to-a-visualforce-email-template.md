@@ -5,12 +5,10 @@ topic: add-attachments-to-a-visualforce-email-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.091Z
+lastCollected: 2026-04-07T18:38:51.327Z
 estimatedTokens: 1006
-keywords: [Add, Attachments, Visualforce, Email, Template, templates, attachment, encapsulated, <messaging, attachment>, component, Code, combination, HTML, tags]
+keywords: [Add, Attachments, Visualforce, Email, Template, templates, attachment, encapsulated, <messaging, attachment>, Code, combination, HTML, tags]
 ---
-
-# Add Attachments to a Visualforce Email Template
 
 > You can add attachments to your Visualforce email templates. Each attachment is
 		encapsulated within a single <messaging:attachment>

@@ -5,12 +5,10 @@ topic: serviceappointmentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.883Z
+lastCollected: 2026-04-07T18:38:59.828Z
 estimatedTokens: 388
-keywords: [ServiceAppointmentEvent, Notifies, subscribers, service, appointment, generated, event, platform, API, version, 59.0, later, Calls, Subscription, Channel]
+keywords: [ServiceAppointmentEvent, Notifies, subscribers, service, appointment, generated, event, platform, API, 59.0, Subscription, Channel]
 ---
-
-# ServiceAppointmentEvent
 
 > Notifies subscribers of the service appointment details that are
 			generated from the event platform. This object is available in API version 59.0 and

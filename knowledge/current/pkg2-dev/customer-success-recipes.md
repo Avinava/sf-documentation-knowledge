@@ -5,12 +5,10 @@ topic: customer-success-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.250Z
+lastCollected: 2026-04-07T18:38:54.642Z
 estimatedTokens: 476
 keywords: [Customer, Success, Recipes, relationship-focused, ensuring, customers, achieve, their, desired, outcomes, managed, packages]
 ---
-
-# Customer Success Recipes
 
 > Customer success is a relationship-focused method of ensuring that your customers
   achieve their desired outcomes while using your managed packages.

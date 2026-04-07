@@ -5,12 +5,10 @@ topic: create-gift-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.179Z
+lastCollected: 2026-04-07T18:38:20.936Z
 estimatedTokens: 180
-keywords: [Gift, Link, Output, representation, links]
+keywords: [Gift, Link, links]
 ---
-
-# Create Gift Response Link
 
 > Output representation of the links to the response object.
 

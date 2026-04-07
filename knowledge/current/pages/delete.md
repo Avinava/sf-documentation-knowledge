@@ -5,12 +5,10 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.053Z
+lastCollected: 2026-04-07T18:38:48.011Z
 estimatedTokens: 101
 keywords: [Deletes, record, PageReference]
 ---
-
-# delete()
 
 > Deletes record and returns the PageReference of the delete
 page.

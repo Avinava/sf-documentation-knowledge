@@ -5,12 +5,10 @@ topic: goodsreceivednote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.472Z
+lastCollected: 2026-04-07T18:38:13.781Z
 estimatedTokens: 496
-keywords: [GoodsReceivedNote, record, created, buyer, confirm, delivery, goods, supplier, verify, received, items, match, purchase, order, API]
+keywords: [GoodsReceivedNote, record, created, buyer, confirm, delivery, goods, supplier, verify, received, items, match, purchase, order, API, 65.0]
 ---
-
-# GoodsReceivedNote
 
 > Represents a record created by the buyer to confirm the delivery of goods from
       a supplier. It is used to verify that the received items match the purchase order. This object

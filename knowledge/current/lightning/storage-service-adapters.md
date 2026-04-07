@@ -5,12 +5,10 @@ topic: storage-service-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.545Z
+lastCollected: 2026-04-07T18:38:05.761Z
 estimatedTokens: 305
-keywords: [Storage, Service, Adapters, supports, multiple, implementations, selects, adapter, runtime, browser, support, characteristics, persistence, security, persistent]
+keywords: [Storage, Service, Adapters, supports, multiple, implementations, selects, adapter, runtime, browser, support, characteristics, persistence, security, persistent, secure, cached, preserved, user, sessions, encrypted]
 ---
-
-# Storage Service Adapters
 
 > The Storage Service supports multiple implementations of storage
    and selects an adapter at runtime based on browser support and specified characteristics of

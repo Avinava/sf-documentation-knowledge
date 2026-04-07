@@ -5,12 +5,10 @@ topic: get-default-values-to-clone-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.259Z
+lastCollected: 2026-04-07T18:40:11.251Z
 estimatedTokens: 828
-keywords: [Clone, Record, layout, data, cloning, getting, POST, ui-api, records]
+keywords: [Clone, Record, layout, cloning, getting, POST, ui-api, records]
 ---
-
-# Get Default Values to Clone a Record
 
 > Get the default layout information, object information, and data for
       cloning a record. After getting the default values, make a request to POST /ui-api/records to create the record.

@@ -5,12 +5,10 @@ topic: insurance-policy-administration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.934Z
+lastCollected: 2026-04-07T18:37:53.189Z
 estimatedTokens: 656
-keywords: [Insurance, Policy, Administration, developer, resources, manage, policies, comprehensively, different, transaction, issuance, endorsement, renewal, cancellation, creates]
+keywords: [Insurance, Policy, Administration, developer, resources, manage, policies, comprehensively, different, transaction, issuance, endorsement, renewal, cancellation, creates, InsurancePolicyTransaction, record]
 ---
-
-# Insurance Policy Administration
 
 > Use the Insurance Policy developer resources to manage insurance policies
   comprehensively, for different transaction types, such as issuance, endorsement, renewal, and

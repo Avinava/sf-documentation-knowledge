@@ -5,12 +5,10 @@ topic: document-process-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.691Z
+lastCollected: 2026-04-07T18:36:39.405Z
 estimatedTokens: 290
-keywords: [Document, Process, Output, representation, creation]
+keywords: [Document, Process, creation]
 ---
-
-# Document Process Output
 
 > Output representation of the document process creation or update
       request.

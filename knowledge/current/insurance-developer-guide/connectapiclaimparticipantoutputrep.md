@@ -5,12 +5,10 @@ topic: connectapiclaimparticipantoutputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.382Z
+lastCollected: 2026-04-07T18:37:50.216Z
 estimatedTokens: 154
-keywords: [ConnectApi.ClaimParticipantOutputRep, Invocable, action, output, representation, claim, participant]
+keywords: [ConnectApi.ClaimParticipantOutputRep, Invocable, action, claim, participant]
 ---
-
-# ConnectApi.ClaimParticipantOutputRep
 
 > Invocable action output representation for claim participant.
 

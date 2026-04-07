@@ -5,12 +5,10 @@ topic: commerce-webstore-wishlist-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.890Z
+lastCollected: 2026-04-07T18:37:12.791Z
 estimatedTokens: 630
 keywords: [Commerce, Webstore, Wishlist, Items, add]
 ---
-
-# Commerce Webstore Wishlist Items
 
 > Get wishlist items or add items to the wishlist.
 

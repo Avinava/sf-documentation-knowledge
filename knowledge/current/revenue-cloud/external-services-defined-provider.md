@@ -5,12 +5,10 @@ topic: external-services-defined-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.354Z
+lastCollected: 2026-04-07T18:35:47.388Z
 estimatedTokens: 677
-keywords: [External, Services, Defined, Provider, Generate, contract, Apex, Open, API, compatible, schema, Service, Integration, Definition, Configurations]
+keywords: [External, Services, Defined, Provider, Generate, contract, Apex, Open, API, compatible, schema, Service, Integration, Definition, Configurations, Step]
 ---
-
-# External Services Defined Provider
 
 > Generate interface contract and Apex types by using external services and Open API
     compatible schema.

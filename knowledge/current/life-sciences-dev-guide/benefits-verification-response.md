@@ -5,12 +5,10 @@ topic: benefits-verification-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.216Z
+lastCollected: 2026-04-07T18:37:55.679Z
 estimatedTokens: 389
 keywords: [Benefits, Verification, content, Verify, API, call]
 ---
-
-# Benefits Verification Response
 
 > This is the content of the response from a Verify Benefits API
       call.

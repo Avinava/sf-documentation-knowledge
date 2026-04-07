@@ -5,12 +5,10 @@ topic: use-the-soql-operator-in-scoping-rule-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.906Z
+lastCollected: 2026-04-07T18:39:21.792Z
 estimatedTokens: 1038
-keywords: [SOQL, Operator, Scoping, Rule, Record, Criteria, rule’s, refer, target, junction, edit, rules, Tooling, Metadata, API]
+keywords: [SOQL, Operator, Scoping, Rule, Record, Criteria, rule’s, refer, target, junction, edit, Tooling, Metadata, API]
 ---
-
-# Use the SOQL Operator in Scoping Rule Record Criteria
 
 > When a rule’s record criteria must refer to a field on an object other than the target
   object, such as a junction object, use the SOQL operator in record criteria. To create or edit

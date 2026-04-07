@@ -5,12 +5,10 @@ topic: object-details-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.582Z
+lastCollected: 2026-04-07T18:36:51.944Z
 estimatedTokens: 149
-keywords: [Output, transformation]
+keywords: [transformation]
 ---
-
-# Object Details Output
 
 > Represents the details of the transformation object.
 

@@ -5,12 +5,10 @@ topic: authenticatedenterpriseid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.580Z
+lastCollected: 2026-04-07T18:40:21.904Z
 estimatedTokens: 113
-keywords: [AuthenticatedEnterpriseID, **Overview**, **Syntax**, Usage]
+keywords: [AuthenticatedEnterpriseID, **Overview**, **Syntax**]
 ---
-
-# AuthenticatedEnterpriseID
 
 > AuthenticatedEnterpriseID()
 

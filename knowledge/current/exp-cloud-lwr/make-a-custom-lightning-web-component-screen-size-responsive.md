@@ -5,12 +5,10 @@ topic: make-a-custom-lightning-web-component-screen-size-responsive
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.111Z
+lastCollected: 2026-04-07T18:37:33.471Z
 estimatedTokens: 856
-keywords: [Custom, Lightning, Web, Component, Screen-Size, Responsive, enhanced, LWR, sites, assign, separate, desktop, mobile, tablet, versions]
+keywords: [Lightning, Web, Screen-Size, Responsive, enhanced, LWR, sites, assign, separate, desktop, mobile, tablet, versions, certain, screen-responsive, uses, correct, end, user’s, screen, size, Declare, CSS, Variables, Define, Media, Queries, Specify, Publish, Site]
 ---
-
-# Make a Custom Lightning Web Component Screen-Size Responsive
 
 > For enhanced LWR sites, you can assign separate values for the desktop, mobile, and
         tablet versions of certain properties in custom Lightning web components. With

@@ -5,12 +5,10 @@ topic: producttransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.034Z
+lastCollected: 2026-04-07T18:38:14.407Z
 estimatedTokens: 1696
-keywords: [ProductTransfer, transfer, movement, product, item, two, inventory, locations, API, version, 60.0, later, Calls]
+keywords: [ProductTransfer, transfer, movement, product, item, two, inventory, locations, API, 60.0]
 ---
-
-# ProductTransfer
 
 > Represents the transfer or the movement of a product item between two
          inventory locations. This object is available in API version 60.0 and later.

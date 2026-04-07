@@ -6,13 +6,10 @@ topic: using-in-native-apps-in-native-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.304Z
+lastCollected: 2026-04-07T18:40:25.670Z
 estimatedTokens: 1873
-keywords: [Native, Apps, Mobile, Sync, library, iOS, Android, APIs, simplify, development, offline-ready, subset, functionality, hybrid, Cordova]
+keywords: [Native, Apps, Mobile, Sync, library, iOS, Android, APIs, simplify, development, offline-ready, subset, functionality, hybrid, Cordova, plug-in]
 ---
-
-# Using  in Native Apps in Native
-    Apps
 
 > The native Mobile Sync library
     provides native iOS and Android APIs that simplify the development of offline-ready apps. A

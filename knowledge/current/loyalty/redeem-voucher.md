@@ -5,12 +5,10 @@ topic: redeem-voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.426Z
+lastCollected: 2026-04-07T18:38:07.653Z
 estimatedTokens: 1101
 keywords: [Redeem, Voucher, loyalty, program, member, status, updated, redeemed, date, current, POST]
 ---
-
-# Redeem Voucher
 
 > Redeem a voucher for a loyalty program member. The status of the
       voucher gets updated to redeemed and the use date gets updated to the current

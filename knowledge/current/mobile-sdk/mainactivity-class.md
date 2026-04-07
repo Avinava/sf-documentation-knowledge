@@ -5,12 +5,10 @@ topic: mainactivity-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.473Z
+lastCollected: 2026-04-07T18:40:24.882Z
 estimatedTokens: 1025
-keywords: [MainActivity, Mobile, SDK, apps, main, activity, begins, immediately, user, logs, Once, running, launch, activities, turn]
+keywords: [MainActivity, Mobile, SDK, apps, main, activity, begins, immediately, user, logs, Once, running, launch, activities, turn, sub-activities, application, exits, terminating, termi, Overriding, API, Anonymous, Java]
 ---
-
-# MainActivity Class
 
 > In Mobile SDK apps, the
 			main activity begins immediately after the user logs in. Once the main activity is

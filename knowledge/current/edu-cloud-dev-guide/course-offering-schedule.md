@@ -5,12 +5,10 @@ topic: course-offering-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.354Z
+lastCollected: 2026-04-07T18:37:29.442Z
 estimatedTokens: 158
-keywords: [Course, Offering, Schedule, Output, representation, schedules]
+keywords: [Course, Offering, Schedule, schedules]
 ---
-
-# Course Offering Schedule
 
 > Output representation of the course offering schedules to the course
     offering.

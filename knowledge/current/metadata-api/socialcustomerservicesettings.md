@@ -5,12 +5,10 @@ topic: socialcustomerservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.381Z
+lastCollected: 2026-04-07T18:36:29.802Z
 estimatedTokens: 1066
-keywords: [SocialCustomerServiceSettings, Social, Customer, Service, settings, how, inbound, content, posts, cases, extends, Metadata, inherits, fullName, File]
+keywords: [SocialCustomerServiceSettings, Social, Customer, Service, settings, how, inbound, content, posts, cases, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# SocialCustomerServiceSettings
 
 > Represents Social Customer Service settings such as how to format inbound content
         from social posts to cases. This type extends the Metadata metadata type and inherits its fullName field.

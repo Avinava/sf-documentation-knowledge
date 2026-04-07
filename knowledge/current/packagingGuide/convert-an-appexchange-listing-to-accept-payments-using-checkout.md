@@ -5,12 +5,10 @@ topic: convert-an-appexchange-listing-to-accept-payments-using-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.953Z
+lastCollected: 2026-04-07T18:38:45.781Z
 estimatedTokens: 886
 keywords: [Convert, AppExchange, Listing, Accept, Payments, Checkout, doesn’t, Partner, Console, enable, republish]
 ---
-
-# Convert an AppExchange Listing to Accept Payments Using Checkout
 
 > If you have a listing that doesn’t use AppExchange Checkout, you can convert it to
   accept payments using Checkout. In the AppExchange Partner Console, make your listing private,

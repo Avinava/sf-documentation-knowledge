@@ -5,12 +5,10 @@ topic: canvas-layout-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.568Z
+lastCollected: 2026-04-07T18:40:11.564Z
 estimatedTokens: 532
-keywords: [Canvas, Layout, Component, record]
+keywords: [Canvas, Layout, record]
 ---
-
-# Canvas Layout Component
 
 > A canvas component on a record page layout.
 

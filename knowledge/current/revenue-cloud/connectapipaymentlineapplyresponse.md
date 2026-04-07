@@ -5,12 +5,10 @@ topic: connectapipaymentlineapplyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.733Z
+lastCollected: 2026-04-07T18:35:41.602Z
 estimatedTokens: 104
-keywords: [ConnectApi.PaymentLineApplyResponse, Output, representation, applied, payment, line, include, record, date]
+keywords: [ConnectApi.PaymentLineApplyResponse, applied, payment, line, include, record, date]
 ---
-
-# ConnectApi.PaymentLineApplyResponse
 
 > Output representation of the details of the applied payment line. The details include the
     ID of the payment record and date when the payment line was applied.

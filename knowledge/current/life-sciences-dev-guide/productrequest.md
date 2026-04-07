@@ -5,12 +5,10 @@ topic: productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.380Z
+lastCollected: 2026-04-07T18:38:01.210Z
 estimatedTokens: 1483
-keywords: [ProductRequest, device, made, part, care, program, Standard, custom, extend, Product, represent, sample, orders, API, version]
+keywords: [ProductRequest, device, made, part, care, program, Standard, extend, Product, represent, sample, orders, API, 65.0, Samples, Management, feature]
 ---
-
-# ProductRequest
 
 > Represents a device request made as part of a care program. Standard and custom fields extend the standard Product Request object to
       represent information about sample orders. This object is available in API version 65.0 and

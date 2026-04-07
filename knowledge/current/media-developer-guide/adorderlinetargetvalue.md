@@ -5,12 +5,10 @@ topic: adorderlinetargetvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.831Z
+lastCollected: 2026-04-07T18:38:12.114Z
 estimatedTokens: 1034
-keywords: [AdOrderLineTargetValue, target, part, targeting, criteria, order, line, API, version, 63.0, later, Calls, Associated, Objects]
+keywords: [AdOrderLineTargetValue, target, part, targeting, criteria, order, line, API, 63.0]
 ---
-
-# AdOrderLineTargetValue
 
 > Represents the target values that are part of the targeting criteria
          of the ad order line. This object is available in API version 63.0 and later.

@@ -5,12 +5,10 @@ topic: social-engagement-setup-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.815Z
+lastCollected: 2026-04-07T18:37:15.882Z
 estimatedTokens: 569
 keywords: [Social, Engagement, Setup, Configuration, Customer, Service]
 ---
-
-# Social Engagement Setup Configuration
 
 > Get and update the Social Customer Service
     configuration.

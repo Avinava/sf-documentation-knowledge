@@ -5,12 +5,10 @@ topic: merge-result-sfdevopsmergeresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.584Z
+lastCollected: 2026-04-07T18:37:28.634Z
 estimatedTokens: 453
-keywords: [Merge, Result, sf_devops__Merge_Result__c, DevOps, Center, Heroku, application, source, control, branch, part, promotion, completes, stores, happened]
+keywords: [Merge, Result, sf_devops__Merge_Result__c, DevOps, Center, Heroku, application, source, control, branch, part, promotion, completes, stores, happened, orgs, installed, _devops, _Merge, _Result]
 ---
-
-# Merge Result (sf_devops__Merge_Result__c)
 
 > Contains information from DevOps Center to the Heroku application
          about the source control branch to merge as part of a promotion. When the merge completes,

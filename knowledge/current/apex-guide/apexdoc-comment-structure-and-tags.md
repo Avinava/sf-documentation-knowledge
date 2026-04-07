@@ -5,12 +5,10 @@ topic: apexdoc-comment-structure-and-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.275Z
+lastCollected: 2026-04-07T18:36:17.503Z
 estimatedTokens: 1862
-keywords: [ApexDoc, Comment, Structure, Tags, promote, consistency, parsability, comments, defined, consists, main, block, inline, provide, documented]
+keywords: [ApexDoc, Comment, Structure, Tags, promote, consistency, parsability, comments, defined, consists, main, block, inline, provide, documented, code, Basic]
 ---
-
-# ApexDoc Comment Structure and Tags
 
 > To promote consistency and parsability, ApexDoc comments have a defined structure and
   syntax. Each ApexDoc comment consists of a main description and a set of block and inline tags

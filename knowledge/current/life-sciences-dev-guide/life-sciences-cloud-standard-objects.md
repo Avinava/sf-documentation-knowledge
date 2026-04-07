@@ -5,12 +5,10 @@ topic: life-sciences-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:07.868Z
+lastCollected: 2026-04-07T18:37:57.409Z
 estimatedTokens: 26181
-keywords: [Life, Sciences, Cloud, Standard, Objects, rich, store, access, specialized]
+keywords: [Life, Sciences, Cloud, Standard, rich, store, specialized]
 ---
-
-# Life Sciences Cloud Standard Objects
 
 > Life Sciences Cloud provides a rich set of objects to store and access specialized
       Life Sciences information.

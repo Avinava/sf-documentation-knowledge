@@ -5,12 +5,10 @@ topic: set-up-amazon-web-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.926Z
+lastCollected: 2026-04-07T18:38:09.219Z
 estimatedTokens: 650
-keywords: [Amazon, Web, Services, integrate, Loyalty, Management, Receipt, Scanning, Kit, unlocked, package, AWS, bucket, stores, images]
+keywords: [Amazon, Web, Services, integrate, Loyalty, Management, Receipt, Scanning, Kit, unlocked, package, AWS, bucket, stores, images, roles, policies, users, key, secret, authenticate, resources]
 ---
-
-# Set Up Amazon Web Services
 
 > To integrate the Loyalty Management Receipt Scanning Kit unlocked package with Amazon Web
         Services (AWS), create an S3 bucket that stores the receipt images, and create roles,

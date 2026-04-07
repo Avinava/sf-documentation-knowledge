@@ -5,12 +5,10 @@ topic: run-apex-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.665Z
+lastCollected: 2026-04-07T18:40:08.621Z
 estimatedTokens: 1490
-keywords: [Run, Apex, Tests, you’re, ready, test, changes, source, code, org, Salesforce, CLI, command, line, Extensions]
+keywords: [Run, Apex, Tests, you’re, ready, test, changes, source, code, org, Salesforce, CLI, command, line, Extensions, third-party, continuous, integration, tools, Jenkins, CircleCI, Minimum, User, Permissions, Settings, View, Results, Determine, Coverage, Orgs, Large, Volumes]
 ---
-
-# Run Apex Tests
 
 > When you’re ready to test changes to your source code, you can run Apex tests in an org
     using Salesforce CLI on the command line. You can also run Apex tests from Salesforce Extensions

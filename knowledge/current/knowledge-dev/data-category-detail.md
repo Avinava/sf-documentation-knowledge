@@ -5,12 +5,10 @@ topic: data-category-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.917Z
+lastCollected: 2026-04-07T18:37:54.213Z
 estimatedTokens: 385
-keywords: [Data, Category, Detail, child, categories, resource, API, version, 38.0, later]
+keywords: [Category, Detail, child, categories, resource, API, 38.0]
 ---
-
-# Data Category Detail
 
 > Gets data category details and the child categories by a given category. This resource
   can be used in API version 38.0 and later.

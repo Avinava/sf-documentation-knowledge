@@ -5,12 +5,10 @@ topic: compute-relative-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.534Z
+lastCollected: 2026-04-07T18:39:18.222Z
 estimatedTokens: 200
-keywords: [Compute, Relative, Input, node, recipe]
+keywords: [Compute, Relative, node, recipe]
 ---
-
-# Compute Relative Parameters Input
 
 > The parameters for a compute relative node in a recipe.
 

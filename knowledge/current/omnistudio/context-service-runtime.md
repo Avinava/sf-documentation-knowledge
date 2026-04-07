@@ -5,12 +5,10 @@ topic: context-service-runtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:57.885Z
+lastCollected: 2026-04-07T18:36:43.615Z
 estimatedTokens: 651
-keywords: [Context, Service, Runtime, new, instances, query, data]
+keywords: [Context, Service, Runtime, new, instances, query]
 ---
-
-# Context Service Runtime
 
 > Create new runtime context instances, query data from context instances, and delete
         context instances.

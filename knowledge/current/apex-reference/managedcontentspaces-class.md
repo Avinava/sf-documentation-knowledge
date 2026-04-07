@@ -5,13 +5,11 @@ topic: managedcontentspaces-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.888Z
+lastCollected: 2026-04-07T18:35:58.219Z
 estimatedTokens: 2143
 namespace: ConnectApi
-keywords: [ManagedContentSpaces, channels, managed, content, space, Add, remove, getManagedContentSpace, contentSpaceId, API, Version, Requires, Chatter, getManagedContentSpaceChannels, pageParam]
+keywords: [ManagedContentSpaces, channels, managed, content, space, Add, remove, getManagedContentSpace, contentSpaceId, API, Requires, Chatter, getManagedContentSpaceChannels, pageParam, pageSize, getManagedContentSpaces, nameFragment, patchManagedContentSpace, ManagedContentSpaceUpdateInput, patchManagedContentSpaceChannels, spaceChannels, postManagedContentSpace, ManagedContentSpaceInput]
 ---
-
-# ManagedContentSpaces Class
 
 > Get channels in a managed content space. Add or remove channels from a managed content
   space.

@@ -5,12 +5,10 @@ topic: inscontributionplnlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.803Z
+lastCollected: 2026-04-07T18:37:37.599Z
 estimatedTokens: 899
-keywords: [InsContributionPlnLineItem, contribution, made, employee, towards, their, insurance, API, version, later, Calls, Associated, Objects]
+keywords: [InsContributionPlnLineItem, contribution, made, employee, towards, their, insurance, API]
 ---
-
-# InsContributionPlnLineItem
 
 > Represents information about each contribution made by an employee towards their
          insurance. This object is available in API version 61 and later.

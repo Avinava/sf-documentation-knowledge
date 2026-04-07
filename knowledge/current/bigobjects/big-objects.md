@@ -5,12 +5,10 @@ topic: big-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:16.333Z
+lastCollected: 2026-04-07T18:37:02.885Z
 estimatedTokens: 1023
-keywords: [Big, Objects, stores, manages, massive, amounts, data, Salesforce, platform, archive, bring, datasets, outside, systems, full]
+keywords: [Big, stores, manages, massive, amounts, Salesforce, platform, archive, bring, datasets, outside, systems, full, view, customers, Clients, external, standard, APIs, consistent, performance, whether, million, records, billion, scale, gives, power, features, Cases, Differences, API, Support]
 ---
-
-# Big Objects
 
 > A big object stores and manages massive amounts of data on the Salesforce
   platform. You can archive data from other objects or bring massive datasets from outside systems

@@ -5,12 +5,10 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.664Z
+lastCollected: 2026-04-07T18:36:52.041Z
 estimatedTokens: 1234
-keywords: [ObjectHierarchyRelationship, organization’s, mappings, conversion, lead’s, records, opportunity’s, mapped, LeadLineItem, LeadPreferredSeller, OpportunityLineItem, OpportunityPreferredSeller, respectively, File, Suffix]
+keywords: [ObjectHierarchyRelationship, ObjectMapping, ObjectMappingField, organization’s, mappings, conversion, lead’s, records, opportunity’s, mapped, LeadLineItem, LeadPreferredSeller, OpportunityLineItem, OpportunityPreferredSeller, respectively, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ObjectHierarchyRelationship
 
 > Represents an organization’s field mappings for
       conversion of a lead’s related records to an opportunity’s related records. Fields can be

@@ -5,12 +5,10 @@ topic: page-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.817Z
+lastCollected: 2026-04-07T18:40:10.787Z
 estimatedTokens: 299
-keywords: [Input, add, navigation, item, include, pageReference, JSON, item’s, attributes, state]
+keywords: [add, navigation, item, include, pageReference, JSON, item’s, attributes, state]
 ---
-
-# Page Reference Input
 
 > To add a navigation item, include a pageReference. A pageReference is a JSON
       object that describes the navigation item’s page type, its attributes, and the state of the

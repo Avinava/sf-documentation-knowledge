@@ -5,12 +5,10 @@ topic: data-differences-in-event-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.434Z
+lastCollected: 2026-04-07T18:37:05.165Z
 estimatedTokens: 1647
-keywords: [Data, Differences, Event, updated, text, sent, diff, SHA-256, hash, unified]
+keywords: [Differences, Event, updated, text, sent, diff, SHA-256, hash, unified]
 ---
-
-# Data Differences in Event Fields
 
 > When the updated text field value is sent as a diff, it contains the SHA-256 hash value
     and data differences in the unified diff format.

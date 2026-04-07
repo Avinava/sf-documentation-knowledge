@@ -5,12 +5,10 @@ topic: connectapideleteclaimcvrpymtdtlinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.867Z
+lastCollected: 2026-04-07T18:37:49.767Z
 estimatedTokens: 127
-keywords: [Input, representation, deleting, claim, coverage, payment, detail, operations]
+keywords: [deleting, claim, coverage, payment, detail, operations]
 ---
-
-# ConnectApi.DeleteClaimCvrPymtDtlInputRep
 
 > Input representation for deleting claim coverage payment detail operations
 

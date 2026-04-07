@@ -5,12 +5,10 @@ topic: verification-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.085Z
+lastCollected: 2026-04-07T18:37:41.087Z
 estimatedTokens: 165
-keywords: [Verification, Context, Input, representation]
+keywords: [Verification, Context]
 ---
-
-# Verification Context Input
 
 > Input representation for verification context.
 

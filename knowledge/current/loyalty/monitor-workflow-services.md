@@ -5,12 +5,10 @@ topic: monitor-workflow-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.469Z
+lastCollected: 2026-04-07T18:38:09.775Z
 estimatedTokens: 336
-keywords: [Monitor, Workflow, Services, Montior, standard, objects, track, run, Data, Processing, Engine, definitons, Batch, Management, jobs]
+keywords: [Monitor, Workflow, Services, Montior, standard, track, run, Processing, Engine, definitons, Batch, Management, jobs, view, part, broken, down, status, records, weren't, processed]
 ---
-
-# Monitor Workflow Services
 
 > The Montior Workflow Services standard objects can be used to track the run of Data
   Processing Engine definitons and Batch Management jobs. During a run, you can view details about

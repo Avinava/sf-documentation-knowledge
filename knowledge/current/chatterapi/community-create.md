@@ -5,12 +5,10 @@ topic: community-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.664Z
+lastCollected: 2026-04-07T18:37:17.739Z
 estimatedTokens: 121
 keywords: [Community, Result, creating, Experience, Cloud, site]
 ---
-
-# Community Create
 
 > Result of creating an Experience Cloud site.
 

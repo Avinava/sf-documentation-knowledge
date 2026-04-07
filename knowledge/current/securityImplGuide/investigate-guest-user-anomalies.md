@@ -5,12 +5,10 @@ topic: investigate-guest-user-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.768Z
+lastCollected: 2026-04-07T18:39:22.659Z
 estimatedTokens: 593
-keywords: [Investigate, Guest, User, Anomalies, It's, often, necessary, further, anomaly, determine, data, breach, occurred, rule, benign]
+keywords: [Investigate, Guest, User, Anomalies, It's, often, necessary, further, anomaly, determine, breach, occurred, rule, benign]
 ---
-
-# Investigate Guest User Anomalies
 
 > It's often necessary to further investigate a guest user anomaly to determine if a data
     breach occurred or to rule it out as benign.

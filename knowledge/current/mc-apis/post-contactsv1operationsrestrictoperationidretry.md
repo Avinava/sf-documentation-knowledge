@@ -5,12 +5,10 @@ topic: post-contactsv1operationsrestrictoperationidretry
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.029Z
+lastCollected: 2026-04-07T18:40:15.050Z
 estimatedTokens: 196
-keywords: [POST, contacts, operations, restrict, operationID, retry, failed, contact, operation, **Overview**, Usage]
+keywords: [POST, contacts, operations, restrict, operationID, retry, failed, contact, operation, **Overview**]
 ---
-
-# POST /contacts/v1/operations/restrict/{operationID}/retry
 
 > Retry failed contact restrict operation.
 

@@ -5,12 +5,10 @@ topic: enable-debug-logging-for-the-android-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:32.607Z
+lastCollected: 2026-04-07T18:40:27.764Z
 estimatedTokens: 294
 keywords: [Enable, Debug, Logging, Android, SDK, logs, disabled, add, sink, specify, log, level]
 ---
-
-# Enable Debug Logging for the Android SDK
 
 > SDK logs are disabled by default. To enable logging, you add a sink and then specify a
     log level.

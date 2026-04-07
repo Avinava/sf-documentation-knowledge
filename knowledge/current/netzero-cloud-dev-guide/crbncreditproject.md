@@ -5,12 +5,10 @@ topic: crbncreditproject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:27.546Z
+lastCollected: 2026-04-07T18:38:18.052Z
 estimatedTokens: 2518
-keywords: [CrbnCreditProject, environmental, project, generates, carbon, credits, removing, greenhouse, gasses, preventing, certain, quantity, released, API, version]
+keywords: [CrbnCreditProject, environmental, project, generates, carbon, credits, removing, greenhouse, gasses, preventing, certain, quantity, released, API, 56.0]
 ---
-
-# CrbnCreditProject
 
 > Represents information about the environmental project that generates carbon
          credits by removing greenhouse gasses or preventing a certain quantity of greenhouse gasses

@@ -5,13 +5,11 @@ topic: retrieve-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:45.903Z
+lastCollected: 2026-04-07T18:36:31.296Z
 estimatedTokens: 1480
 namespace: FlowTesting
-keywords: [Retrieve, Unit, Tests, Test, Discovery, API, Apex, automated, flow, resource, Tooling, version, 65.0, later]
+keywords: [Retrieve, Unit, Tests, Test, Discovery, API, Apex, automated, flow, resource, Tooling, 65.0]
 ---
-
-# Retrieve Unit Tests
 
 > The Test Discovery API returns details about Apex and automated flow tests. This
   resource is available in Tooling API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: promotionpartyusagedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.361Z
+lastCollected: 2026-04-07T18:38:10.633Z
 estimatedTokens: 823
-keywords: [PromotionPartyUsageDetail, amount, that's, discounted, promotion, transaction, journal, API, version, 60.0, later, Calls, Special, Access, Rules]
+keywords: [PromotionPartyUsageDetail, amount, that's, discounted, promotion, transaction, journal, API, 60.0]
 ---
-
-# PromotionPartyUsageDetail
 
 > Represents the amount that's discounted by a promotion for a
          transaction journal. This object is available in API version 60.0 and

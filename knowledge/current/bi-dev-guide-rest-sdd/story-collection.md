@@ -5,12 +5,10 @@ topic: story-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.514Z
+lastCollected: 2026-04-07T18:37:00.003Z
 estimatedTokens: 144
 keywords: [Story, Collection, Einstein, Discovery, stories]
 ---
-
-# Story Collection
 
 > A collection of Einstein Discovery stories.
 

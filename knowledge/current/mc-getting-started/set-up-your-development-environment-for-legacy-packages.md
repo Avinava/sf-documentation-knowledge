@@ -5,12 +5,10 @@ topic: set-up-your-development-environment-for-legacy-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:26.229Z
+lastCollected: 2026-04-07T18:40:21.510Z
 estimatedTokens: 338
 keywords: [Development, Environment, Legacy, Packages, Items]
 ---
-
-# Set Up Your Development Environment for Legacy Packages
 
 # Set Up Your Development Environment for Legacy Packages
 

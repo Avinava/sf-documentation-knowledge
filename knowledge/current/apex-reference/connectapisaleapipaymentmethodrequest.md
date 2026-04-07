@@ -5,12 +5,10 @@ topic: connectapisaleapipaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:21.022Z
+lastCollected: 2026-04-07T18:36:06.371Z
 estimatedTokens: 122
 keywords: [ConnectApi.SaleApiPaymentMethodRequest, Payment, sale]
 ---
-
-# ConnectApi.SaleApiPaymentMethodRequest
 
 > Payment method request for sale.
 

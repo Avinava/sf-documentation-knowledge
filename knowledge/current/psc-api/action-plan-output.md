@@ -5,12 +5,10 @@ topic: action-plan-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.953Z
+lastCollected: 2026-04-07T18:39:02.143Z
 estimatedTokens: 156
-keywords: [Action, Plan, Output, representation, record]
+keywords: [Action, Plan, record]
 ---
-
-# Action Plan Output
 
 > Output representation of an Action Plan record.
 

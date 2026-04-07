@@ -5,12 +5,10 @@ topic: configuration-load-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.683Z
+lastCollected: 2026-04-07T18:35:44.682Z
 estimatedTokens: 329
-keywords: [Configuration, Load, Instance, POST, session, product, transaction, includes, results, actions, rules, qualification, pricing, management]
+keywords: [Configuration, Load, Instance, POST, session, product, transaction, includes, results, actions, qualification, pricing, management]
 ---
-
-# Configuration Load Instance (POST)
 
 > Create a session for the product configuration instance using the
       transaction ID. Get the session ID that includes the results of actions, such as configuration

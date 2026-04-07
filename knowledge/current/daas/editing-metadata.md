@@ -5,12 +5,10 @@ topic: editing-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.999Z
+lastCollected: 2026-04-07T18:37:28.033Z
 estimatedTokens: 181
-keywords: [Editing, Metadata, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated]
+keywords: [Editing, Metadata, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality, manage, changes, switch, Salesforce, CLI, modern, developer, experience]
 ---
-
-# Editing Metadata
 
 > The Ant Migration Tool is retired with Spring ’24. The tool continues to
     function for future API versions but isn’t updated with new functionality and isn’t supported.

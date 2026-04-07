@@ -5,12 +5,10 @@ topic: outreachsourcecode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.991Z
+lastCollected: 2026-04-07T18:38:21.947Z
 estimatedTokens: 1630
-keywords: [OutreachSourceCode, source, code, that's, associated, outreach, campaign, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [OutreachSourceCode, source, code, that's, outreach, campaign, API, 59.0]
 ---
-
-# OutreachSourceCode
 
 > Represents information about a source code that's associated with an
          outreach campaign. This object is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: documentrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.784Z
+lastCollected: 2026-04-07T18:39:38.471Z
 estimatedTokens: 507
-keywords: [DocumentRecipient, Connects, Service, Report, Digital, API, version, 55.0, later]
+keywords: [DocumentRecipient, Connects, Service, Report, Digital, API, 55.0]
 ---
-
-# DocumentRecipient
 
 > Connects a Service Report to a Digital Signature. This object is
       available in API version 55.0 and later.

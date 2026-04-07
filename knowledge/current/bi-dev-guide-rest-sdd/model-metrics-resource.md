@@ -5,12 +5,10 @@ topic: model-metrics-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.494Z
+lastCollected: 2026-04-07T18:36:58.991Z
 estimatedTokens: 361
 keywords: [Model, Metrics, Resource, Einstein, Discovery]
 ---
-
-# Model Metrics Resource
 
 > Returns the metrics for an Einstein Discovery model.
 

@@ -5,12 +5,10 @@ topic: migrate-all-apps-from-90-to-91
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:31.290Z
+lastCollected: 2026-04-07T18:40:26.597Z
 estimatedTokens: 1981
 keywords: [Migrate, Apps, 9.0, 9.1, Mobile, SDK, migration, easiest, Salesforce, CLI, plugin, npm, scripts]
 ---
-
-# Migrate All Apps from 9.0 to 9.1
 
 > Mobile SDK 9.1
     migration is easiest if you use the Salesforce CLI plugin or the Mobile SDK npm

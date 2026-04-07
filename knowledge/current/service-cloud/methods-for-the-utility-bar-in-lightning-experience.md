@@ -5,12 +5,10 @@ topic: methods-for-the-utility-bar-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.201Z
+lastCollected: 2026-04-07T18:36:50.403Z
 estimatedTokens: 1934
-keywords: [Utility, Bar, Lightning, Experience, houses, Aura, components, web, providing, users, quick, access, tools, they, often]
+keywords: [Utility, Bar, Lightning, Experience, houses, Aura, web, providing, users, quick, tools, they, often, LWC, support, differences, noted]
 ---
-
-# Methods for the Utility Bar in Lightning Experience
 
 > The utility bar houses Aura components and Lightning web components, providing users
   quick access to tools they use often. The utility bar is available in Lightning Experience only.

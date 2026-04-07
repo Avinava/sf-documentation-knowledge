@@ -5,12 +5,10 @@ topic: theme
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.200Z
+lastCollected: 2026-04-07T18:40:12.212Z
 estimatedTokens: 544
 keywords: [Theme, images, banners, display, across, top, higher, aspect, ratio]
 ---
-
-# Theme
 
 > A set of images and banners that make up a theme. Banners display across the top of a
     page and have a higher aspect ratio than images.

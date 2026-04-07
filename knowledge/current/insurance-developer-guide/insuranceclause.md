@@ -5,12 +5,10 @@ topic: insuranceclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.159Z
+lastCollected: 2026-04-07T18:37:53.448Z
 estimatedTokens: 617
-keywords: [InsuranceClause, terms, conditions, associated, product, Avocation, Clause, excludes, coverage, insured, engages, risky, hobby, API, version]
+keywords: [InsuranceClause, terms, conditions, product, Avocation, Clause, excludes, coverage, insured, engages, risky, hobby, API, 65.0]
 ---
-
-# InsuranceClause
 
 > Defines the terms and conditions associated with a product. For example, an
          Avocation Clause excludes coverage if the insured engages in a risky hobby. This

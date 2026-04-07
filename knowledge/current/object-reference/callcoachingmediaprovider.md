@@ -5,12 +5,10 @@ topic: callcoachingmediaprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.242Z
+lastCollected: 2026-04-07T18:38:27.230Z
 estimatedTokens: 170
-keywords: [CallCoachingMediaProvider, media, provider, call, recordings, API, version, 49.0, later, Calls]
+keywords: [CallCoachingMediaProvider, media, provider, call, recordings, API, 49.0]
 ---
-
-# CallCoachingMediaProvider
 
 > Represents the media provider for call recordings. This object is available in API version 49.0 and later.
 

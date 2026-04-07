@@ -5,12 +5,10 @@ topic: miscellaneous-sample-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.549Z
+lastCollected: 2026-04-07T18:40:12.541Z
 estimatedTokens: 1321
-keywords: [Miscellaneous, Sample, Validation, Rules, Examples, how, validate, certain, number, formats, credit, card, numbers, drivers, licences]
+keywords: [Miscellaneous, Sample, Validation, Examples, how, validate, certain, number, formats, credit, card, numbers, drivers, licences, Allow, Increased, Decreased, California, Driver's, License, Force, Users, Check, Accept, Terms”, Enter, Prohibit, Changes, Saved, Social, Security, Currency, Address, Website, Extension]
 ---
-
-# Miscellaneous Sample Validation Rules
 
 > Examples for how to validate certain number formats for credit card numbers or drivers
     licences.

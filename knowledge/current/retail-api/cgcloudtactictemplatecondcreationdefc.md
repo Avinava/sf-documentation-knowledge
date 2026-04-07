@@ -5,12 +5,10 @@ topic: cgcloudtactictemplatecondcreationdefc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:21.761Z
+lastCollected: 2026-04-07T18:39:15.236Z
 estimatedTokens: 1098
-keywords: [configuration, condition, creation, definitions, generated, tactic, API, version, 55.0, later, cgcloud, _Tactic, _Template, _Cond, _Creation]
+keywords: [configuration, condition, creation, definitions, generated, tactic, API, 55.0, cgcloud, _Tactic, _Template, _Cond, _Creation, _Def]
 ---
-
-# cgcloud__Tactic_Template_Cond_Creation_Def__c
 
 > Contains the configuration of condition creation definitions that will be
          generated for the related tactic. This object is available in API version 55.0 and

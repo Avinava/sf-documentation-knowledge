@@ -5,12 +5,10 @@ topic: use-mobile-device-features-in-mobile-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.443Z
+lastCollected: 2026-04-07T18:38:14.915Z
 estimatedTokens: 1737
-keywords: [Mobile, Device, Features, Apps, capabilities, let, Lightning, web, component, Access, camera, location, detection, hardware, platform]
+keywords: [Mobile, Device, Features, Apps, capabilities, let, Lightning, web, camera, location, detection, hardware, platform, contacts, calendar, right, code, Build, feel, native, mobile-specific, Compatibility, Summary]
 ---
-
-# Use Mobile Device Features in Mobile Apps
 
 > Mobile capabilities let you use mobile device features from within a
   Lightning web component. Access camera and location detection hardware, and platform features like

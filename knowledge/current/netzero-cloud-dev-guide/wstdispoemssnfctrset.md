@@ -5,12 +5,10 @@ topic: wstdispoemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.367Z
+lastCollected: 2026-04-07T18:38:20.046Z
 estimatedTokens: 925
-keywords: [WstDispoEmssnFctrSet, emissions, factors, scope, waste, handling, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [WstDispoEmssnFctrSet, emissions, factors, scope, waste, handling, API, 54.0]
 ---
-
-# WstDispoEmssnFctrSet
 
 > Represents the emissions factors for scope 3 waste handling. This object
       is available in API version 54.0 and later.

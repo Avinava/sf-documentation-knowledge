@@ -5,12 +5,10 @@ topic: patientimmunization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.149Z
+lastCollected: 2026-04-07T18:39:52.633Z
 estimatedTokens: 361
-keywords: [PatientImmunization, patient’s, immunizations, API, version, 51.0, later]
+keywords: [PatientImmunization, patient’s, immunizations, API, 51.0]
 ---
-
-# PatientImmunization
 
 > Represents information about a patient’s immunizations. This object is
     available in API version 51.0 and later.

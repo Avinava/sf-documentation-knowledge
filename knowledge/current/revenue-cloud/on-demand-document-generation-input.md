@@ -5,12 +5,10 @@ topic: on-demand-document-generation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.518Z
+lastCollected: 2026-04-07T18:35:43.426Z
 estimatedTokens: 309
-keywords: [On-Demand, Document, Generation, Input, representation, generate, comprehensive, record]
+keywords: [On-Demand, Document, Generation, generate, comprehensive, record]
 ---
-
-# On-Demand Document Generation Input
 
 > Input representation of the details to generate a comprehensive on-demand document for
     specified record types.

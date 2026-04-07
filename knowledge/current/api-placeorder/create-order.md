@@ -5,12 +5,10 @@ topic: create-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.837Z
+lastCollected: 2026-04-07T18:36:51.134Z
 estimatedTokens: 602
-keywords: [Order, resource, new, products, custom, objects]
+keywords: [Order, resource, new, products]
 ---
-
-# Create Order
 
 > With this resource, you can create a new order with order
 products and custom objects.

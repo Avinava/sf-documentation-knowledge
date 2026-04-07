@@ -5,12 +5,10 @@ topic: customize-the-flow-header-with-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.055Z
+lastCollected: 2026-04-07T18:38:03.015Z
 estimatedTokens: 483
-keywords: [Customize, Flow, Aura, Component, replace, screenHelpText, lightning, availableForFlowScreens]
+keywords: [Customize, Flow, Aura, replace, screenHelpText, lightning, availableForFlowScreens]
 ---
-
-# Customize the Flow Header with an Aura Component
 
 > To replace the flow header with an Aura component, use the screenHelpText parameter from the lightning:availableForFlowScreens
                 interface.

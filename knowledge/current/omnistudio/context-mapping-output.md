@@ -5,12 +5,10 @@ topic: context-mapping-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.388Z
+lastCollected: 2026-04-07T18:36:39.052Z
 estimatedTokens: 324
-keywords: [Context, Mapping, Output, representation]
+keywords: [Context, Mapping]
 ---
-
-# Context Mapping Output
 
 > Output representation of context mapping.
 

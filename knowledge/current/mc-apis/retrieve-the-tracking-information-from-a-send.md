@@ -5,12 +5,10 @@ topic: retrieve-the-tracking-information-from-a-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.545Z
+lastCollected: 2026-04-07T18:40:18.748Z
 estimatedTokens: 659
-keywords: [Retrieve, Tracking, Send, scenario, how, email, send's, includes, Diagram, Objects, Referenced, Code, Sample, Links, Items]
+keywords: [Diagram, Retrieve, Send, scenario, how, email, send's, includes, Referenced, Code, Sample, Links, Items]
 ---
-
-# Retrieve the Tracking Information from a Send
 
 > This scenario describes how to retrieve an email send's tracking information. This information includes:
 

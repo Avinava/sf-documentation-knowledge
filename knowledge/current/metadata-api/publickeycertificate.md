@@ -5,12 +5,10 @@ topic: publickeycertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.252Z
+lastCollected: 2026-04-07T18:36:28.749Z
 estimatedTokens: 544
-keywords: [PublicKeyCertificate, key, certificate, entity, store, JSON, web, validate, customer-provided, JWT, Parent, File, Suffix, Directory, Location]
+keywords: [PublicKeyCertificate, key, certificate, entity, store, JSON, web, validate, customer-provided, JWT, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PublicKeyCertificate
 
 > Represents the public key certificate. On this entity we
       store a public certificate or a JSON web key, which is used to validate the customer-provided

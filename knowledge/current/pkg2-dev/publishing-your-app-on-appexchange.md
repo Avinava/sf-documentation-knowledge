@@ -5,12 +5,10 @@ topic: publishing-your-app-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.958Z
+lastCollected: 2026-04-07T18:38:56.612Z
 estimatedTokens: 581
-keywords: [Publishing, App, AppExchange, you’ve, published, first-generation, managed, package, you’ll, notice, process, second-generation, 2GP, different, link]
+keywords: [Publishing, App, AppExchange, you’ve, published, first-generation, managed, package, you’ll, notice, process, second-generation, 2GP, different, link, Dev, Hub, org, partner, console, released, versions, visible, Register]
 ---
-
-# Publishing Your App on AppExchange
 
 > If you’ve published a first-generation managed package, you’ll notice the process for
     publishing a second-generation managed package (managed 2GP) is different. After you link your

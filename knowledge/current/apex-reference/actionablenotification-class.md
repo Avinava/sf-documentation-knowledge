@@ -5,13 +5,11 @@ topic: actionablenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.886Z
+lastCollected: 2026-04-07T18:36:00.171Z
 estimatedTokens: 1112
 namespace: Messaging
-keywords: [ActionableNotification, actionable, custom, notification, getActionIdentifier, getNotificationTypeId, getRecipientId, getSenderId, getTargetId, getTargetPageRef]
+keywords: [ActionableNotification, actionable, notification, getActionIdentifier, getNotificationTypeId, getRecipientId, getSenderId, getTargetId, getTargetPageRef]
 ---
-
-# ActionableNotification Class
 
 > Contains information about an actionable custom notification.
 

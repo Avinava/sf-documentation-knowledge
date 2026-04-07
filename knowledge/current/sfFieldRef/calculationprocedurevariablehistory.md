@@ -5,12 +5,10 @@ topic: calculationprocedurevariablehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.954Z
+lastCollected: 2026-04-07T18:39:31.267Z
 estimatedTokens: 280
-keywords: [CalculationProcedureVariableHistory, History, tracked, CalculationProcedureVariable]
+keywords: [CalculationProcedureVariableHistory, tracked, CalculationProcedureVariable]
 ---
-
-# CalculationProcedureVariableHistory
 
 > History for tracked fields of CalculationProcedureVariable.
 

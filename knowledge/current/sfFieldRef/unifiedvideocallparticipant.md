@@ -5,12 +5,10 @@ topic: unifiedvideocallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.671Z
+lastCollected: 2026-04-07T18:40:04.407Z
 estimatedTokens: 273
-keywords: [UnifiedVideoCallParticipant, participant, video, call, reports, dashboards, Winter, ’24, release, later]
+keywords: [UnifiedVideoCallParticipant, participant, video, call, reports, dashboards, Winter, ’24, release]
 ---
-
-# UnifiedVideoCallParticipant
 
 > Represents a participant in a video call. This object is available for
       reports and dashboards in the Winter ’24 release and later.

@@ -5,12 +5,10 @@ topic: customize-a-report-to-show-annual-revenue-for-an-offering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.415Z
+lastCollected: 2026-04-07T18:38:46.279Z
 estimatedTokens: 401
-keywords: [Customize, Report, Show, Annual, Revenue, Offering, Checkout, Management, App, CMA, dashboard, doesn’t, box, try, modifying]
+keywords: [Customize, Report, Show, Annual, Revenue, Offering, Checkout, Management, App, CMA, dashboard, doesn’t, box, try, modifying, steps, how, display, instead, monthly, across, offerings]
 ---
-
-# Customize a Report to Show Annual Revenue for an Offering
 
 > If the Checkout Management App (CMA) dashboard doesn’t show what you need out of the box,
         try modifying a report. This example steps you through how to display annual revenue for an

@@ -5,12 +5,10 @@ topic: quotelineratecardentryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.453Z
+lastCollected: 2026-04-07T18:39:58.133Z
 estimatedTokens: 392
-keywords: [QuoteLineRateCardEntryFeed, Feed, tracking, QuoteLineRateCardEntry]
+keywords: [QuoteLineRateCardEntryFeed, QuoteLineRateCardEntry]
 ---
-
-# QuoteLineRateCardEntryFeed
 
 > Feed tracking for QuoteLineRateCardEntry.
 

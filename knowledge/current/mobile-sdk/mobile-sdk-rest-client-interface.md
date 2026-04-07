@@ -5,12 +5,10 @@ topic: mobile-sdk-rest-client-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.130Z
+lastCollected: 2026-04-07T18:40:26.434Z
 estimatedTokens: 374
-keywords: [Mobile, SDK, REST, Client, native, creating, formatting, sending, requests, Salesforce, service, responds, relays, asynchronous, either]
+keywords: [Mobile, SDK, REST, Client, native, creating, formatting, sending, requests, Salesforce, service, responds, relays, asynchronous, either, implementation, RestClientDelegate, protocol, callback, block, closure]
 ---
-
-# Mobile SDK REST Client Interface
 
 > This class defines the native interface for creating, formatting, and sending REST requests to
    the Salesforce service. When the service responds, this class relays the asynchronous response to

@@ -5,12 +5,10 @@ topic: debugging-hybrid-apps-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.706Z
+lastCollected: 2026-04-07T18:40:26.044Z
 estimatedTokens: 141
 keywords: [Debugging, Hybrid, Apps, Mobile, Device, debug, they’re, running, How, depends, development, platform]
 ---
-
-# Debugging Hybrid Apps On a Mobile Device
 
 > You can debug hybrid apps while they’re running on a mobile device. How you do it
   depends on your development platform.

@@ -5,12 +5,10 @@ topic: field-service-standard-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:01.067Z
+lastCollected: 2026-04-07T18:36:46.932Z
 estimatedTokens: 8122
-keywords: [Service, Standard, Custom, Objects, Salesforce, Salesforce-managed]
+keywords: [Service, Standard, Salesforce, Salesforce-managed]
 ---
-
-# Field Service Standard and Custom Objects
 
 > A list of standard Salesforce objects and Salesforce-managed custom objects used in
   Field Service.

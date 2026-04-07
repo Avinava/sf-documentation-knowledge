@@ -5,13 +5,11 @@ topic: create-and-register-your-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.779Z
+lastCollected: 2026-04-07T18:40:08.735Z
 estimatedTokens: 307
 namespace: With
 keywords: [Register, unlocked, packages, share, multiple, Since, sharing, code, much, easier, package, shares, recommend, namepaces, namespaced]
 ---
-
-# Create and Register Your Namespace
 
 > With unlocked packages, you can share a single namespace with multiple packages. Since
     sharing of code is much easier if your package shares the same namespace, we recommend that if

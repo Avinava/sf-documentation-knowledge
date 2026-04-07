@@ -5,12 +5,10 @@ topic: saql-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.976Z
+lastCollected: 2026-04-07T18:37:00.497Z
 estimatedTokens: 474
-keywords: [SAQL, Functions, perform, complex, operations, data]
+keywords: [SAQL, Functions, perform, complex, operations]
 ---
-
-# SAQL Functions
 
 > Use functions to perform complex operations on your data.
 

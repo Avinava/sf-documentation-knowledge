@@ -5,12 +5,10 @@ topic: subscribe-to-platform-event-notifications-in-a-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.563Z
+lastCollected: 2026-04-07T18:38:58.431Z
 estimatedTokens: 761
-keywords: [Subscribe, Platform, Event, Notifications, Lightning, Component, events, empApi, web, Aura, access, subscribing, streaming, channel, listening]
+keywords: [Subscribe, Platform, Event, Notifications, Lightning, events, empApi, web, Aura, subscribing, streaming, channel, listening, messages]
 ---
-
-# Subscribe to Platform Event Notifications in a Lightning Component
 
 > Subscribe to platform events with the empApi
   component in your Lightning web component or Aura component. The empApi component provides access to methods for subscribing to a streaming channel and

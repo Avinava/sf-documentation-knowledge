@@ -5,12 +5,10 @@ topic: configure-invitation-urls-to-open-on-external-websites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.273Z
+lastCollected: 2026-04-07T18:39:21.082Z
 estimatedTokens: 268
 keywords: [Configure, Invitation, URLs, Open, External, Websites, Admins, add, URL, prefix, directly, website]
 ---
-
-# Configure Invitation URLs to Open on External Websites
 
 > Admins can add a URL prefix to an invitation URL to directly open the
       invitation on an external website.

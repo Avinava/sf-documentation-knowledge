@@ -5,12 +5,10 @@ topic: connectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:38.411Z
+lastCollected: 2026-04-07T18:36:23.727Z
 estimatedTokens: 9428
-keywords: [ConnectedApp, connected, app, configuration, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect]
+keywords: [ConnectedApp, ConnectedAppAttribute, ConnectedAppCanvasConfig, ConnectedAppIpRange, ConnectedAppOauthConfig, ConnectedAppOauthAssetToken, ConnectedAppOauthIdToken, ConnectedAppOauthPolicy, ConnectedAppSamlConfig, ConnectedAppSessionPolicy, connected, app, configuration, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect, apps, authenticate, authorize, provide, sign-on, SSO, integrated, run, customer, success, platform, platforms, devices, SaaS, subscriptions, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ConnectedApp
 
 > Represents a connected app configuration. A connected app
       enables an external application to integrate with Salesforce using APIs and standard

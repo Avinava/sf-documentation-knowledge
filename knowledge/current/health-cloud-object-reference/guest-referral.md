@@ -5,12 +5,10 @@ topic: guest-referral
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:53.249Z
+lastCollected: 2026-04-07T18:37:41.307Z
 estimatedTokens: 549
 keywords: [Guest, Referral, patient, Salesforce, org, OOTB, web, form]
 ---
-
-# Guest Referral
 
 > Create a patient referral in a Salesforce org from an OOTB guest web form.
 

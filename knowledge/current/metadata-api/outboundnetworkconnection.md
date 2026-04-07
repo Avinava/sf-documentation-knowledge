@@ -5,12 +5,10 @@ topic: outboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.692Z
+lastCollected: 2026-04-07T18:36:28.228Z
 estimatedTokens: 841
-keywords: [OutboundNetworkConnection, connection, Salesforce, org, third-party, data, service, outbound, because, callouts, going, extends, Metadata, inherits, fullName]
+keywords: [OutboundNetworkConnection, OutboundNetworkConnProperty, connection, Salesforce, org, third-party, service, outbound, because, callouts, going, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# OutboundNetworkConnection
 
 > Represents a private connection between
       a Salesforce org and a third-party data service. The connection is outbound because the callouts are 

@@ -5,12 +5,10 @@ topic: credential-custom-header-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.203Z
+lastCollected: 2026-04-07T18:37:08.000Z
 estimatedTokens: 199
-keywords: [Credential, Custom, Input]
+keywords: [Credential]
 ---
-
-# Credential Custom Header Input
 
 > Credential custom header input.
 

@@ -5,12 +5,10 @@ topic: connectapiensurerefundsasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.554Z
+lastCollected: 2026-04-07T18:36:08.974Z
 estimatedTokens: 255
-keywords: [asynchronous, background, operation, output, includes, regardless, whether, call, made, external, payment, gateway, doesn’t, include, any]
+keywords: [asynchronous, background, operation, includes, regardless, whether, call, made, external, payment, gateway, doesn’t, include, any, errors]
 ---
-
-# ConnectApi.EnsureRefundsAsyncOutputRepresentation
 
 > ID of the asynchronous background operation. This output only
       includes the operation ID, regardless of whether a call is made to an external payment

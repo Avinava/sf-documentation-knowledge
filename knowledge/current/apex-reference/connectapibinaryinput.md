@@ -5,12 +5,10 @@ topic: connectapibinaryinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:19.340Z
+lastCollected: 2026-04-07T18:36:04.660Z
 estimatedTokens: 319
-keywords: [ConnectApi.BinaryInput, attach, files, feed, items, comments, add, repository, managed, content, replace, variants]
+keywords: [ConnectApi.BinaryInput, attach, files, items, comments, add, repository, managed, content, replace, variants]
 ---
-
-# ConnectApi.BinaryInput
 
 > Create a ConnectApi.BinaryInput object to attach
     files to feed items and comments, to add repository files, to create managed content, and to

@@ -5,12 +5,10 @@ topic: case-programs-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.121Z
+lastCollected: 2026-04-07T18:38:20.875Z
 estimatedTokens: 109
-keywords: [Case, Programs, Output, representation, add, benefit, session]
+keywords: [Case, Programs, add, benefit, session]
 ---
-
-# Case Programs Output
 
 > Output representation of the request to add case programs to a benefit
       session.

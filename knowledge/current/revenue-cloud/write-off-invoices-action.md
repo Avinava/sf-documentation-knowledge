@@ -5,12 +5,10 @@ topic: write-off-invoices-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.404Z
+lastCollected: 2026-04-07T18:35:40.189Z
 estimatedTokens: 481
-keywords: [Write, Off, Invoices, Action, partially, paid, unpaid, manage, pending, debts, maintain, accurate, financial, records, calls]
+keywords: [Inputs, Outputs, Write, Off, Invoices, Action, partially, paid, unpaid, manage, pending, debts, maintain, accurate, financial, records, Posted, Invoice, Write-Off, POST, API, REST, HTTP]
 ---
-
-# Write Off Invoices Action
 
 > Write off partially paid or unpaid invoices to manage pending debts
             and to maintain accurate financial records. This action calls the Posted Invoice List

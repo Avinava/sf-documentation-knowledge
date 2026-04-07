@@ -5,12 +5,10 @@ topic: videocallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.943Z
+lastCollected: 2026-04-07T18:40:05.823Z
 estimatedTokens: 389
-keywords: [VideoCallParticipant, participant, video, call, come, provider, Zoom, Salesforce, API, version, 51.0, later]
+keywords: [VideoCallParticipant, participant, video, call, come, provider, Zoom, Salesforce, API, 51.0]
 ---
-
-# VideoCallParticipant
 
 > Represents a participant in a video
       call.

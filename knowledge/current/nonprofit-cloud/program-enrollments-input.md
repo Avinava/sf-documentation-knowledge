@@ -5,12 +5,10 @@ topic: program-enrollments-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.858Z
+lastCollected: 2026-04-07T18:38:20.592Z
 estimatedTokens: 140
-keywords: [Program, Enrollments, Input, representation, enroll, participants]
+keywords: [Program, Enrollments, enroll, participants]
 ---
-
-# Program Enrollments Input
 
 > Input representation of the request to enroll or update participants
   in a program.

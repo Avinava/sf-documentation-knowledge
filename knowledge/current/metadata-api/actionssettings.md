@@ -5,12 +5,10 @@ topic: actionssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.890Z
+lastCollected: 2026-04-07T18:36:22.088Z
 estimatedTokens: 671
-keywords: [ActionsSettings, org’s, actions, settings, quick, multi-dimensional, publisher, third-party, extends, Metadata, inherits, fullName, File, Suffix, Directory]
+keywords: [ActionsSettings, org’s, actions, settings, quick, multi-dimensional, publisher, third-party, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ActionsSettings
 
 > Represents an org’s actions settings for default
       quick actions, multi-dimensional publisher, and third-party actions. This type extends the Metadata metadata type and inherits its fullName field.

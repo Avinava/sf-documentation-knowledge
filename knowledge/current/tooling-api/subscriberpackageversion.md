@@ -5,13 +5,11 @@ topic: subscriberpackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:02:49.149Z
+lastCollected: 2026-04-07T18:36:34.575Z
 estimatedTokens: 2896
 namespace: NamespaceCollision
-keywords: [SubscriberPackageVersion, package, version, first-, second-generation, across, Salesforce, instances, API, 41.0, later, SOAP, Calls, REST, HTTP]
+keywords: [SubscriberPackageVersion, SubscriberPackageCspTrustedSites, SubscriberPackageCspTrustedSite, SubscriberPackageDependencies, SubscriberPackageProfiles, SubscriberPackageDestinationProfile, SubscriberPackageSourceProfile, SubscriberPackageRemoteSiteSettings, SubscriberPackageRemoteSiteSetting, package, first-, second-generation, across, Salesforce, instances, API, 41.0, SOAP, REST, HTTP]
 ---
-
-# SubscriberPackageVersion
 
 > Represents a package version (first- or
             second-generation) across all Salesforce instances. Available in API version 41.0

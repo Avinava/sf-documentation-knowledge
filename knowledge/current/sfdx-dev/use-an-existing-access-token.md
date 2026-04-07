@@ -5,12 +5,10 @@ topic: use-an-existing-access-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.823Z
+lastCollected: 2026-04-07T18:40:07.765Z
 estimatedTokens: 614
-keywords: [Access, Token, authorize, org, login, commands, Salesforce, CLI, care, generating, refreshing, tokens, sometimes, want, run]
+keywords: [Token, authorize, org, login, commands, Salesforce, CLI, care, generating, refreshing, tokens, sometimes, want, run, few, against, going, entire, authorization, process, case, provide, URL, instance, hosts, connect]
 ---
-
-# Use an Existing Access Token
 
 > When you authorize an org using the org login
     commands, Salesforce CLI takes care of generating and refreshing all tokens, such as the access

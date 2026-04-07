@@ -5,12 +5,10 @@ topic: get-lightning-page-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.996Z
+lastCollected: 2026-04-07T18:40:10.982Z
 estimatedTokens: 553
 keywords: [Lightning, Actions, pages, FlexiPages]
 ---
-
-# Get Lightning Page Actions
 
 > Get the actions on Lightning pages (FlexiPages).
 

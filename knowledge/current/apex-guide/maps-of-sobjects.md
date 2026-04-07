@@ -5,12 +5,10 @@ topic: maps-of-sobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.858Z
+lastCollected: 2026-04-07T18:36:18.091Z
 estimatedTokens: 630
-keywords: [Maps, sObjects, Map, keys, any, data, including, sObject, Account, Auto-Populating, Entries, SOQL, Query]
+keywords: [Maps, sObjects, Map, keys, any, including, sObject, Account, Auto-Populating, Entries, SOQL, Query]
 ---
-
-# Maps of sObjects
 
 > Map keys and values can be of any data type, including
 sObject types, such as Account.

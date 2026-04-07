@@ -5,12 +5,10 @@ topic: how-to-reconstruct-a-field-from-its-diff-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.443Z
+lastCollected: 2026-04-07T18:37:05.175Z
 estimatedTokens: 603
 keywords: [How, Reconstruct, Diff, unified, utility, obtain, full]
 ---
-
-# How to Reconstruct a Field from Its Diff Value
 
 > The value of a diff field is in the unified diff format. Use a diff utility to obtain
     the full field value from the diff.

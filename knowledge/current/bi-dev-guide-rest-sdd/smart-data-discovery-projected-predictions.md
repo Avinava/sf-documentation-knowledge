@@ -5,12 +5,10 @@ topic: smart-data-discovery-projected-predictions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.373Z
+lastCollected: 2026-04-07T18:36:59.858Z
 estimatedTokens: 357
-keywords: [Smart, Data, Discovery, Projected, Predictions, Einstein, prediction, result]
+keywords: [Smart, Discovery, Projected, Predictions, Einstein, prediction, result]
 ---
-
-# Smart Data Discovery Projected Predictions
 
 > The projected predictions for an Einstein Discovery prediction result.
 

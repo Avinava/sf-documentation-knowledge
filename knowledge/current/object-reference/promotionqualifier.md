@@ -5,12 +5,10 @@ topic: promotionqualifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.641Z
+lastCollected: 2026-04-07T18:38:39.131Z
 estimatedTokens: 1951
-keywords: [PromotionQualifier, product, category, order, want, target, promotion, qualifier, B2B, D2C, store, API, version, 52.0, later]
+keywords: [PromotionQualifier, product, category, order, want, target, promotion, qualifier, B2B, D2C, store, API, 52.0]
 ---
-
-# PromotionQualifier
 
 > Represents the product, product category, or order that you want to target
          with your promotion qualifier in a B2B or D2C store. This object is available in API

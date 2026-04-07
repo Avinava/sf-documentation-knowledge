@@ -5,12 +5,10 @@ topic: working-with-object-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.445Z
+lastCollected: 2026-04-07T18:36:21.690Z
 estimatedTokens: 314
 keywords: [Working, Metadata, examples, REST, API, resources, retrieve, modifying, creating, Developer]
 ---
-
-# Working with Object Metadata
 
 > The examples in this section use REST API resources to retrieve object metadata
    information. For modifying or creating object metadata information, see the Metadata API Developer

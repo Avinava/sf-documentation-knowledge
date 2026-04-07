@@ -5,12 +5,10 @@ topic: authorize-an-org-using-the-jwt-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:12.833Z
+lastCollected: 2026-04-07T18:40:07.775Z
 estimatedTokens: 2662
-keywords: [Authorize, Org, JWT, Flow, continuous, integration, environments, fully, automated, don’t, support, human, interactivity, logging, browser]
+keywords: [Authorize, Org, JWT, Flow, continuous, integration, environments, fully, automated, don’t, support, human, interactivity, logging, browser, Scratch]
 ---
-
-# Authorize an Org Using the JWT Flow
 
 > Use the JWT flow to authorize an org in continuous integration (CI) environments, which
     are fully automated and don’t support the human interactivity of logging into a

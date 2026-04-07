@@ -5,12 +5,10 @@ topic: introduction-to-net-zero-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.548Z
+lastCollected: 2026-04-07T18:38:17.129Z
 estimatedTokens: 1518
-keywords: [Introduction, Net, Zero, Cloud, Gain, critical, insights, environmental, social, governance, data, Salesforce, facilitates, collaboration, project]
+keywords: [Introduction, Net, Zero, Cloud, Gain, critical, insights, environmental, social, governance, Salesforce, facilitates, collaboration, project, management, reporting, harnessing, capabilities, offered, Platform-based, tools, Carbon, Accounting, Waste, Water, Climate, Action, Dashboards, What-If, Analysis, Emissions, Forecasting, Credit, Allocation, Disclosure, Compliance, Hub, ESG, Employee, Dashboard, Upload]
 ---
-
-# Introduction to Net Zero Cloud
 
 > Gain critical insights into your environmental, social, and governance data by using
    Salesforce Net Zero Cloud. Net Zero Cloud facilitates

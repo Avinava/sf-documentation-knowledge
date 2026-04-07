@@ -5,12 +5,10 @@ topic: chatter-feed-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.672Z
+lastCollected: 2026-04-07T18:37:11.463Z
 estimatedTokens: 809
-keywords: [Chatter, Feed, Streams, search, context, user, stream]
+keywords: [Chatter, Streams, search, context, user, stream]
 ---
-
-# Chatter Feed Streams
 
 > Get or search a list of Chatter feed streams for the context user.
       Create a Chatter feed stream.

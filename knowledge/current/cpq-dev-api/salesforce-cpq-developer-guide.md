@@ -5,12 +5,10 @@ topic: salesforce-cpq-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.461Z
+lastCollected: 2026-04-07T18:37:27.465Z
 estimatedTokens: 417
 keywords: [Salesforce, CPQ, Developer, Start, working, API, plugins]
 ---
-
-# Salesforce CPQ Developer Guide
 
 > Start working with Salesforce CPQ API and plugins.
 

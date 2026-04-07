@@ -2,7 +2,7 @@
 domain: salesforce-feedback-management-dev-guide
 name: Salesforce Feedback Management Developer Guide
 documentCount: 98
-lastGenerated: 2026-04-07T09:06:38.396Z
+lastGenerated: 2026-04-07T18:40:43.465Z
 ---
 
 # Salesforce Feedback Management Developer Guide — Knowledge Index

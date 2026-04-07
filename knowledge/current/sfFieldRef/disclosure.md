@@ -5,12 +5,10 @@ topic: disclosure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.343Z
+lastCollected: 2026-04-07T18:39:38.058Z
 estimatedTokens: 288
 keywords: [Disclosure, company, shares, included, user, their, document]
 ---
-
-# Disclosure
 
 > Represents the disclosure details that a company shares, which can be
          included by a user in their response document.

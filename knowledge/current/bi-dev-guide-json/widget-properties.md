@@ -5,12 +5,10 @@ topic: widget-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:07.817Z
+lastCollected: 2026-04-07T18:36:54.190Z
 estimatedTokens: 300
 keywords: [widget, widgets, key, dashboard, separate, node, appears, layouts, it’s, added, depend, chart, legend, text, doesn’t]
 ---
-
-# widget Properties
 
 > The widgets key defines all widgets that are
         available in the dashboard. It contains a separate node for each widget. Each widget appears

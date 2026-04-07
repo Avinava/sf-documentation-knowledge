@@ -5,12 +5,10 @@ topic: education-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.698Z
+lastCollected: 2026-04-07T18:37:29.773Z
 estimatedTokens: 2343
-keywords: [Education, Cloud, Standard, Objects, Salesforce, orgs, enabled]
+keywords: [Education, Cloud, Standard, Salesforce, orgs, enabled]
 ---
-
-# Education Cloud Fields on Standard Objects
 
 > This section lists Education Cloud fields available with standard Salesforce objects.
   These fields are available only in orgs where Education Cloud is enabled.

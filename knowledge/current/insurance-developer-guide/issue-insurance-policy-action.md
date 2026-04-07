@@ -5,12 +5,10 @@ topic: issue-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.133Z
+lastCollected: 2026-04-07T18:37:48.867Z
 estimatedTokens: 187
-keywords: [Issue, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs, Usage]
+keywords: [Inputs, Outputs, Issue, Insurance, Policy, Action, user, represent, REST, HTTP]
 ---
-
-# Issue Insurance Policy Action
 
 > Issue an insurance policy by using a set of user inputs that represent policy
         details.

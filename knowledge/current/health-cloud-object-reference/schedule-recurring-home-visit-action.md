@@ -5,12 +5,10 @@ topic: schedule-recurring-home-visit-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.698Z
+lastCollected: 2026-04-07T18:37:39.647Z
 estimatedTokens: 983
-keywords: [Schedule, Recurring, Home, Visit, Action, healthcare, visits, assign, service, resources, scheduling, policy, Special, Access, Rules]
+keywords: [Inputs, Outputs, Schedule, Recurring, Home, Visit, Action, healthcare, visits, assign, service, resources, scheduling, policy, REST, HTTP]
 ---
-
-# Schedule Recurring Home Visit Action
 
 > Create a set of recurring home healthcare visits and assign service
 			resources to them based on the specified scheduling policy.

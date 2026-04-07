@@ -5,12 +5,10 @@ topic: catalog-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.220Z
+lastCollected: 2026-04-07T18:35:44.180Z
 estimatedTokens: 241
 keywords: [Catalog, POST, API, composite, Product, Discovery]
 ---
-
-# Catalog Details (POST)
 
 > Get catalog details for a specified catalog ID. This API is a
       composite API for Product Discovery.

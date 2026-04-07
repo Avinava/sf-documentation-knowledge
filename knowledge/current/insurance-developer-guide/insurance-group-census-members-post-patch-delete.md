@@ -5,12 +5,10 @@ topic: insurance-group-census-members-post-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.628Z
+lastCollected: 2026-04-07T18:37:51.680Z
 estimatedTokens: 683
 keywords: [Insurance, Group, Census, Members, POST, PATCH, Add]
 ---
-
-# Insurance Group Census Members (POST, PATCH, DELETE)
 
 > Add (POST) and update (PATCH) group census members. Delete all census members for the
     specified group census ID.

@@ -5,12 +5,10 @@ topic: salesforcesend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.795Z
+lastCollected: 2026-04-07T18:40:20.022Z
 estimatedTokens: 462
 keywords: [SalesforceSend, instance, email, send, Salesforce]
 ---
-
-# SalesforceSend
 
 > Defines a single instance of an email send using Salesforce information.
 

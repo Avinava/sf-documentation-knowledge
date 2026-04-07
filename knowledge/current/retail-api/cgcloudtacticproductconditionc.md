@@ -5,12 +5,10 @@ topic: cgcloudtacticproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.726Z
+lastCollected: 2026-04-07T18:39:15.201Z
 estimatedTokens: 1905
-keywords: [cgcloud__Tactic_Product_Condition__c, store, internal, conditions, generated, promotions, API, version, 54.0, later, cgcloud, _Tactic, _Product, _Condition, Calls]
+keywords: [cgcloud__Tactic_Product_Condition__c, store, internal, conditions, generated, promotions, API, 54.0, cgcloud, _Tactic, _Product, _Condition]
 ---
-
-# cgcloud__Tactic_Product_Condition__c
 
 > Use this object to store the internal conditions that are generated
          out of promotions. This object is available in API version 54.0 and later.

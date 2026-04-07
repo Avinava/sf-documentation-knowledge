@@ -5,12 +5,10 @@ topic: connectapirecordsetfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.235Z
+lastCollected: 2026-04-07T18:36:11.520Z
 estimatedTokens: 129
 keywords: [ConnectApi.RecordsetFilterCriteria, Recordset, filter, criteria, filtered, records]
 ---
-
-# ConnectApi.RecordsetFilterCriteria
 
 > Recordset filter criteria and the filtered records.
 

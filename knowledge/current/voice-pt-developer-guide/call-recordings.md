@@ -5,12 +5,10 @@ topic: call-recordings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.658Z
+lastCollected: 2026-04-07T18:40:13.587Z
 estimatedTokens: 1828
-keywords: [Call, Recordings, voice, supports, recording, participant, added, component, calls, updated, URL, duration, getSignedRecordingUrl, Pause, Resume]
+keywords: [Call, Recordings, voice, supports, recording, participant, added, updated, URL, duration, getSignedRecordingUrl, Pause, Resume, Universal, Playback]
 ---
-
-# Call Recordings
 
 > Each voice call supports one call recording. If a participant is added to the call, each
   of the component voice calls can be updated to list the recording URL and duration

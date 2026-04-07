@@ -5,12 +5,10 @@ topic: convert-files-in-metadata-format-to-source-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.999Z
+lastCollected: 2026-04-07T18:40:08.981Z
 estimatedTokens: 441
-keywords: [Convert, Files, Metadata, Source, already, repo, you’ve, retrieved, org, API, directly, add, Salesforce, project, deploy]
+keywords: [Convert, Files, Metadata, Source, already, repo, you’ve, retrieved, org, API, directly, add, Salesforce, project, deploy, retrieve, CLI, commands, track, changes]
 ---
-
-# Convert Files in Metadata Format to Source Format
 
 > If you already have a repo in which you’ve retrieved metadata from an org using the
   Metadata API directly, the files are in metadata format. You can convert these files into source

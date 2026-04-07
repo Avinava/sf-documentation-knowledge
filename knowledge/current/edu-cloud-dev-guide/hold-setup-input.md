@@ -5,12 +5,10 @@ topic: hold-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:42.032Z
+lastCollected: 2026-04-07T18:37:29.147Z
 estimatedTokens: 274
-keywords: [Hold, Setup, Input, representation]
+keywords: [Hold, Setup]
 ---
-
-# Hold Setup Input
 
 > Input representation of the request to create a hold.
 

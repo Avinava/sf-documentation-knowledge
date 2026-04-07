@@ -5,12 +5,10 @@ topic: candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.738Z
+lastCollected: 2026-04-07T18:39:20.491Z
 estimatedTokens: 208
 keywords: [Candidates, result, Appointments]
 ---
-
-# Candidates
 
 > Describes the result of Get Appointments Candidates request.
 

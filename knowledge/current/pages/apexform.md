@@ -5,12 +5,10 @@ topic: apexform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.513Z
+lastCollected: 2026-04-07T18:38:49.646Z
 estimatedTokens: 1548
-keywords: [apex, form, Visualforce, users, enter, input, submit, <apex, commandButton>, commandLink>, determines, data, way, it's, processed]
+keywords: [Attributes, apex, form, Visualforce, users, enter, submit, <apex, commandButton>, commandLink>, determines, way, it's, processed, best, practice, form>, tag, comp]
 ---
-
-# apex:form
 
 > A section of a Visualforce page that allows users to enter input and then submit it with an <apex:commandButton> or <apex:commandLink>. The body of the form determines the data that is displayed and the way it's processed. It's a best practice to use only one <apex:form> tag in a page or custom comp
 

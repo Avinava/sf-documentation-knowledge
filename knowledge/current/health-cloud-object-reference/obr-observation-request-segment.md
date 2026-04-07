@@ -5,12 +5,10 @@ topic: obr---observation-request-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.434Z
+lastCollected: 2026-04-07T18:37:44.764Z
 estimatedTokens: 585
-keywords: [OBR, Observation, Segment, HL7, maps, primarily, ClinicalServiceRequest, DiagnosticSummary, PatientMEdicalProcedure, objects, Salesforce, V2.3, Clinical, Data, Model]
+keywords: [OBR, Observation, Segment, HL7, maps, primarily, ClinicalServiceRequest, DiagnosticSummary, PatientMEdicalProcedure, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# OBR - Observation Request Segment
 
 > The Observation Request Segment (OBR) HL7 segment maps primarily to the ClinicalServiceRequest, DiagnosticSummary, and PatientMEdicalProcedure
     objects in Salesforce.

@@ -5,12 +5,10 @@ topic: hangupresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.679Z
+lastCollected: 2026-04-07T18:39:23.611Z
 estimatedTokens: 142
 keywords: [HangupResult, result, ended, call, Functions]
 ---
-
-# HangupResult
 
 > Represents a result type for an ended call.
 

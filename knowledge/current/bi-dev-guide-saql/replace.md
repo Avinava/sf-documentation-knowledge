@@ -5,12 +5,10 @@ topic: replace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.234Z
+lastCollected: 2026-04-07T18:37:00.801Z
 estimatedTokens: 98
-keywords: [replace, Replaces, substring, characters, Usage]
+keywords: [replace, Replaces, substring, characters]
 ---
-
-# replace()
 
 > Replaces a substring with the specified characters.
 

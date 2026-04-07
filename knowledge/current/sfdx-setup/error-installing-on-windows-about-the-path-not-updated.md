@@ -5,12 +5,10 @@ topic: error-installing-on-windows-about-the-path-not-updated
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.457Z
+lastCollected: 2026-04-07T18:40:09.402Z
 estimatedTokens: 348
 keywords: [Error, Installing, Windows, PATH, Updated, Salesforce, CLI, *.exe, installer, executable, original, length, number, greater]
 ---
-
-# Error Installing on Windows About the PATH Not Updated
 
 > While installing Salesforce CLI on Windows using the *.exe installer executable, you get the error PATH not
       updated, original length XX > 1024, where XX is

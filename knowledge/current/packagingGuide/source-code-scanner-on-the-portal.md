@@ -5,12 +5,10 @@ topic: source-code-scanner-on-the-portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.683Z
+lastCollected: 2026-04-07T18:38:47.634Z
 estimatedTokens: 859
-keywords: [Source, Code, Scanner, Portal, identify, security, vulnerabilities, require, run, scanning, tools, solution, external, endpoints, independently]
+keywords: [Source, Code, Scanner, Portal, identify, security, vulnerabilities, require, run, scanning, tools, solution, external, endpoints, independently, Salesforce, platform, Partner, hosts, Checkmarx]
 ---
-
-# Source Code Scanner on the Portal
 
 > To identify security vulnerabilities, we require that you run security scanning tools on
   your solution and all external endpoints that run independently of the Salesforce platform. he

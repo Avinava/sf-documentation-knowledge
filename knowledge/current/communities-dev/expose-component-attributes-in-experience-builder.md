@@ -5,12 +5,10 @@ topic: expose-component-attributes-in-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.636Z
+lastCollected: 2026-04-07T18:37:26.542Z
 estimatedTokens: 438
-keywords: [Expose, Component, Attributes, Experience, Builder, design, resource, control, exposed, lives, folder, design-time, behavior, Aura, component—information]
+keywords: [Expose, Attributes, Experience, Builder, design, resource, control, exposed, lives, folder, design-time, behavior, Aura, component—information, visual, tools, display, app]
 ---
-
-# Expose Component Attributes in Experience Builder
 
 > You use a design resource to control which attributes are exposed in Experience
     Builder. A design resource lives in the same folder as your component. It describes the

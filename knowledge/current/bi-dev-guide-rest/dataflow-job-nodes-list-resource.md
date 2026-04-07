@@ -5,12 +5,10 @@ topic: dataflow-job-nodes-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.605Z
+lastCollected: 2026-04-07T18:36:56.120Z
 estimatedTokens: 362
-keywords: [Dataflow, Job, Nodes, Resource, collection, standard, recipe, works, jobs, ids, starting, 03C, 0eP, URL, Formats]
+keywords: [Formats, Dataflow, Job, Nodes, Resource, collection, standard, recipe, works, jobs, ids, starting, 03C, 0eP, URL, Postman, HTTP]
 ---
-
-# Dataflow Job Nodes List Resource
 
 > Returns a collection of dataflow job nodes for a standard dataflow or
    a recipe. This request only works for dataflow jobs with ids starting with 030, 03C, or 0eP.

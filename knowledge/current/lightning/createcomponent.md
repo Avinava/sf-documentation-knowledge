@@ -5,12 +5,10 @@ topic: createcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.267Z
+lastCollected: 2026-04-07T18:38:05.474Z
 estimatedTokens: 366
-keywords: [createComponent, component, attributes, accepts, map, callback, notify, caller]
+keywords: [createComponent, attributes, accepts, map, callback, notify, caller]
 ---
-
-# createComponent()
 
 > Create a component from a type and a set of attributes. This method
    accepts the name of a type of component, a map of attributes, and a callback to notify the

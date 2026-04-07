@@ -5,12 +5,10 @@ topic: tenantsecuritycustommetricstat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.609Z
+lastCollected: 2026-04-07T18:38:42.363Z
 estimatedTokens: 371
-keywords: [TenantSecurityCustomMetricStat, custom, metric, data, Security, Center, API, version, 61.0, later, Calls, Special, Access, Rules]
+keywords: [TenantSecurityCustomMetricStat, metric, Security, Center, API, 61.0]
 ---
-
-# TenantSecurityCustomMetricStat
 
 > Represents custom metric data within Security Center. This object is
       available in API version 61.0 and later.

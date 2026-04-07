@@ -5,12 +5,10 @@ topic: custom-field-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.671Z
+lastCollected: 2026-04-07T18:37:54.991Z
 estimatedTokens: 144
-keywords: [Custom, Input, Adds, additional, any, mapped, medication, statement, API]
+keywords: [Adds, additional, any, mapped, medication, statement, API]
 ---
-
-# Custom Field Value Input
 
 > Adds additional information to any fields not mapped by the medication
       statement API.

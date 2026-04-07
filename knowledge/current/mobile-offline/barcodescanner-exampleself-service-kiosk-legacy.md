@@ -5,12 +5,10 @@ topic: barcodescanner-exampleself-service-kiosk-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.074Z
+lastCollected: 2026-04-07T18:38:15.595Z
 estimatedTokens: 1042
-keywords: [BarcodeScanner, Example—Self-Service, Kiosk, Legacy, Here’s, Lightning, web, component, serve, self-service]
+keywords: [BarcodeScanner, Example—Self-Service, Kiosk, Legacy, Here’s, Lightning, web, serve, self-service]
 ---
-
-# BarcodeScanner Example—Self-Service Kiosk (Legacy)
 
 > Here’s a complete example of a Lightning web component with BarcodeScanner that could serve as a
   self-service kiosk.

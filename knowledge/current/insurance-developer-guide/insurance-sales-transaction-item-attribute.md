@@ -5,12 +5,10 @@ topic: insurance-sales-transaction-item-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.419Z
+lastCollected: 2026-04-07T18:37:52.603Z
 estimatedTokens: 99
-keywords: [Insurance, Sales, Transaction, Item, Attribute, Output, representation]
+keywords: [Insurance, Sales, Transaction, Item, Attribute]
 ---
-
-# Insurance Sales Transaction Item Attribute
 
 > Output representation for the details of the insurance sales transaction item
     attribute.

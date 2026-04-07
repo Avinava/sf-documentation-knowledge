@@ -5,12 +5,10 @@ topic: connectapiocicreatereservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.560Z
+lastCollected: 2026-04-07T18:36:05.910Z
 estimatedTokens: 345
-keywords: [Data, reserve, inventory, Omnichannel, locations, location, groups]
+keywords: [reserve, inventory, Omnichannel, locations, location, groups]
 ---
-
-# ConnectApi.OCICreateReservationInputRepresentation
 
 > Data to reserve inventory at one or more Omnichannel Inventory locations or
       location groups.

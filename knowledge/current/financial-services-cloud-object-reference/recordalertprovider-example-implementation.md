@@ -5,12 +5,10 @@ topic: recordalertprovider-example-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-07T09:03:46.918Z
+lastCollected: 2026-04-07T18:37:34.448Z
 estimatedTokens: 47
 keywords: [RecordAlertProvider, Implementation, fscwmgen.RecordAlertProvider]
 ---
-
-# RecordAlertProvider Example Implementation
 
 > This is an example implementation of the fscwmgen.RecordAlertProvider interface.
 

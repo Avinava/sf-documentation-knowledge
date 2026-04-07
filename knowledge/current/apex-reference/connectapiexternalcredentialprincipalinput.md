@@ -5,12 +5,10 @@ topic: connectapiexternalcredentialprincipalinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.078Z
+lastCollected: 2026-04-07T18:36:05.417Z
 estimatedTokens: 267
-keywords: [External, credential, principal, input]
+keywords: [External, credential, principal]
 ---
-
-# ConnectApi.ExternalCredentialPrincipalInput
 
 > External credential principal input.
 

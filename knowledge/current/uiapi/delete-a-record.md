@@ -5,12 +5,10 @@ topic: delete-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.282Z
+lastCollected: 2026-04-07T18:40:11.281Z
 estimatedTokens: 43
 keywords: [Record]
 ---
-
-# Delete a Record
 
 > Delete a record.
 

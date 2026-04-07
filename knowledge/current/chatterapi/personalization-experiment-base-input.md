@@ -5,12 +5,10 @@ topic: personalization-experiment-base-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.767Z
+lastCollected: 2026-04-07T18:37:09.494Z
 estimatedTokens: 108
-keywords: [Personalization, Experiment, Base, Input, representation, creating]
+keywords: [Personalization, Experiment, Base, creating]
 ---
-
-# Personalization Experiment Base Input
 
 > The base representation for creating a personalization object.
 

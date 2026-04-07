@@ -5,12 +5,10 @@ topic: commerce-import-product-job-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.106Z
+lastCollected: 2026-04-07T18:37:11.935Z
 estimatedTokens: 344
-keywords: [Commerce, Import, Product, Job, asynchronously, data, csv, file]
+keywords: [Commerce, Import, Product, Job, asynchronously, csv, file]
 ---
-
-# Commerce Import Product Job, Create
 
 > Create a job to asynchronously import product data using a .csv
       file.

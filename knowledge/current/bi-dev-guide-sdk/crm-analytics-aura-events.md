@@ -5,12 +5,10 @@ topic: crm-analytics-aura-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.844Z
+lastCollected: 2026-04-07T18:37:01.442Z
 estimatedTokens: 948
-keywords: [CRM, Analytics, Aura, Events, Easily, interact, embedded, Dashboard, component, custom, applications, Lightning, Apps, Visualforce, preferred]
+keywords: [CRM, Analytics, Aura, Events, Easily, interact, embedded, Dashboard, applications, Lightning, Apps, Visualforce, preferred, development, environment]
 ---
-
-# CRM Analytics Aura Events
 
 > Easily interact with the embedded CRM Analytics Dashboard component in custom
     applications. Use Aura Events for Lightning Apps, Visualforce, or your preferred development

@@ -5,12 +5,10 @@ topic: action-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.578Z
+lastCollected: 2026-04-07T18:38:03.629Z
 estimatedTokens: 322
 keywords: [Action, States, Call, server-side, controller, client-side, different, processing]
 ---
-
-# Action States
 
 > Call a server-side controller action from a client-side controller. The action can have
   different states during processing.

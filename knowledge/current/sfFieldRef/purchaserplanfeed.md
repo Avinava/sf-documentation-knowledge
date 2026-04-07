@@ -5,12 +5,10 @@ topic: purchaserplanfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.104Z
+lastCollected: 2026-04-07T18:39:57.711Z
 estimatedTokens: 359
-keywords: [PurchaserPlanFeed, Feed, tracking, PurchaserPlan]
+keywords: [PurchaserPlanFeed, PurchaserPlan]
 ---
-
-# PurchaserPlanFeed
 
 > Feed tracking for PurchaserPlan.
 

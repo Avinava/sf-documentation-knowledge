@@ -5,13 +5,11 @@ topic: contenthubfileuploadconnect-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.246Z
+lastCollected: 2026-04-07T18:39:00.302Z
 estimatedTokens: 207
 namespace: PublicSectrSltn
-keywords: [ContentHubFileUploadConnect, call, initialize, abort, file, uploads, External, Storage, Usage, Special, Access, Rules]
+keywords: [ContentHubFileUploadConnect, call, initialize, abort, file, uploads, External, Storage]
 ---
-
-# ContentHubFileUploadConnect Class
 
 > Use this class to call the methods to initialize, complete, and abort file uploads to
   External Storage.

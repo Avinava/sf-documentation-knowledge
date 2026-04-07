@@ -5,12 +5,10 @@ topic: bldgenrgyintensityvalfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.756Z
+lastCollected: 2026-04-07T18:39:29.878Z
 estimatedTokens: 363
-keywords: [BldgEnrgyIntensityValFeed, Feed, tracking, BldgEnrgyIntensityVal]
+keywords: [BldgEnrgyIntensityValFeed, BldgEnrgyIntensityVal]
 ---
-
-# BldgEnrgyIntensityValFeed
 
 > Feed tracking for BldgEnrgyIntensityVal.
 

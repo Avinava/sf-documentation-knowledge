@@ -5,12 +5,10 @@ topic: only-last-pushtopic-notification-sent-for-the-same-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:05.343Z
+lastCollected: 2026-04-07T18:36:51.684Z
 estimatedTokens: 426
-keywords: [PushTopic, Notification, Sent, Record, API, version, 36.0, earlier, multiple, notifications, generated, millisecond, transaction]
+keywords: [PushTopic, Notification, Sent, Record, API, 36.0, earlier, multiple, notifications, generated, millisecond, transaction]
 ---
-
-# Only Last PushTopic Notification Sent for the Same Record
 
 > In API version 36.0 and earlier, when multiple PushTopic notifications are generated for
   the same record within about one millisecond and in the same transaction, only the last

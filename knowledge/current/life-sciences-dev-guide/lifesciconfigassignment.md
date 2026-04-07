@@ -5,12 +5,10 @@ topic: lifesciconfigassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.364Z
+lastCollected: 2026-04-07T18:38:02.279Z
 estimatedTokens: 872
-keywords: [LifeSciConfigAssignment, assignments, Life, Sciences, configuration, record, child, LifeSciConfigRecord, SOAP, API, Calls, REST]
+keywords: [LifeSciConfigAssignment, assignments, Life, Sciences, configuration, record, child, LifeSciConfigRecord, SOAP, API, REST]
 ---
-
-# LifeSciConfigAssignment
 
 > Represents the assignments for a Life Sciences configuration record. This
          object is a child of LifeSciConfigRecord.

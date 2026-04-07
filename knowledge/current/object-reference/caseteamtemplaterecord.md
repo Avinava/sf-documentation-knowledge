@@ -5,12 +5,10 @@ topic: caseteamtemplaterecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.757Z
+lastCollected: 2026-04-07T18:38:27.710Z
 estimatedTokens: 279
-keywords: [CaseTeamTemplateRecord, linking, Case, CaseTeamTemplate, objects, assign, predefined, team, customer, inquiry, record, point, ParentId, TeamTemplateId, Calls]
+keywords: [CaseTeamTemplateRecord, linking, Case, CaseTeamTemplate, assign, predefined, team, customer, inquiry, record, point, ParentId, TeamTemplateId]
 ---
-
-# CaseTeamTemplateRecord
 
 > The CaseTeamTemplateRecord object is a linking object
     between the Case and CaseTeamTemplate objects. To assign a predefined case team to a case

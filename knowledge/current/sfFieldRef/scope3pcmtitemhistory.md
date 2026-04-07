@@ -5,12 +5,10 @@ topic: scope3pcmtitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.177Z
+lastCollected: 2026-04-07T18:40:00.940Z
 estimatedTokens: 267
-keywords: [Scope3PcmtItemHistory, History, tracked, Scope3PcmtItem]
+keywords: [Scope3PcmtItemHistory, tracked, Scope3PcmtItem]
 ---
-
-# Scope3PcmtItemHistory
 
 > History for tracked fields of Scope3PcmtItem.
 

@@ -5,12 +5,10 @@ topic: territorymgmtobjectconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.249Z
+lastCollected: 2026-04-07T18:40:03.980Z
 estimatedTokens: 356
-keywords: [TerritoryMgmtObjectConfig, territory, management, settings, defaults, particular, API, version, 56.0, later]
+keywords: [TerritoryMgmtObjectConfig, territory, management, settings, defaults, particular, API, 56.0]
 ---
-
-# TerritoryMgmtObjectConfig
 
 > Represents territory management settings and defaults for a particular
          object. This object is available in API version 56.0 and later.

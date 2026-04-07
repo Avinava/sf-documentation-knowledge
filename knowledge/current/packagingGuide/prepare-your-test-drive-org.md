@@ -5,12 +5,10 @@ topic: prepare-your-test-drive-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.973Z
+lastCollected: 2026-04-07T18:38:46.938Z
 estimatedTokens: 399
 keywords: [Prepare, Test, Drive, Org, installing, solution, configuring, evaluation, user]
 ---
-
-# Prepare Your Test Drive Org
 
 > Prepare your test drive org by installing your solution and configuring the evaluation
   user.

@@ -5,12 +5,10 @@ topic: liability-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.563Z
+lastCollected: 2026-04-07T18:37:35.180Z
 estimatedTokens: 95
 keywords: [Liability, Result, POST, PATCH]
 ---
-
-# Liability Result
 
 > Liability result of the POST or PATCH request.
 

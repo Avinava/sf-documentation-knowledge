@@ -5,12 +5,10 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.324Z
+lastCollected: 2026-04-07T18:38:33.464Z
 estimatedTokens: 1873
-keywords: [Group, User, records, Calls, Special, Access, Rules, Usage]
+keywords: [Group, User, records]
 ---
-
-# Group
 
 > A set of User records.
 

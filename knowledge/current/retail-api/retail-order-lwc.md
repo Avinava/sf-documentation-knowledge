@@ -5,13 +5,11 @@ topic: retail-order-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:18.111Z
+lastCollected: 2026-04-07T18:39:11.713Z
 estimatedTokens: 1080
 namespace: The
-keywords: [Retail, Order, LWC, Access, data, layer, orderExtensionUtils, service, component, getOrderData, updateOrderData, getOrderItemData, updateOrderItemData, setCustomState, getIsOrderInEditMode]
+keywords: [Retail, Order, LWC, layer, orderExtensionUtils, service, getOrderData, updateOrderData, getOrderItemData, updateOrderItemData, setCustomState, getIsOrderInEditMode, registerListenerForOrderDataUpdates, registerOrderDataInlineValidator, registerListenerForOrderItemDataUpdates, registerOrderItemDataInlineValidator, registerBeforeAddItemActionHandler, registerBeforeSaveActionHandler]
 ---
-
-# Retail Order LWC
 
 > Access the RE order data in the LWC layer using the orderExtensionUtils service component.
 

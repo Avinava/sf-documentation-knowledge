@@ -5,12 +5,10 @@ topic: product-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.988Z
+lastCollected: 2026-04-07T18:39:11.538Z
 estimatedTokens: 254
 keywords: [Product, Filter, criteria, setProductFilter2]
 ---
-
-# Product Filter
 
 > This section provides information about Product
    Filter criteria.

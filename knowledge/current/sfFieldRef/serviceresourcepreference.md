@@ -5,12 +5,10 @@ topic: serviceresourcepreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.828Z
+lastCollected: 2026-04-07T18:40:01.593Z
 estimatedTokens: 391
-keywords: [ServiceResourcePreference, service, resource, scheduling, preferences, considered, business, objective, logic, engine, API, version, 52.0, later]
+keywords: [ServiceResourcePreference, service, resource, scheduling, preferences, considered, business, objective, logic, engine, API, 52.0]
 ---
-
-# ServiceResourcePreference
 
 > Represents the service resource scheduling preferences that are considered as
          a business objective in the scheduling logic engine. This object is available in API

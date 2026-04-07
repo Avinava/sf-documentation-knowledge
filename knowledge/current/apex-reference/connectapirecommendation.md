@@ -5,12 +5,10 @@ topic: connectapirecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.005Z
+lastCollected: 2026-04-07T18:36:11.284Z
 estimatedTokens: 231
 keywords: [ConnectApi.Recommendation, Best, Action, recommendation]
 ---
-
-# ConnectApi.Recommendation
 
 > A Next Best Action recommendation object.
 

@@ -5,12 +5,10 @@ topic: apptbookingurlconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:59.700Z
+lastCollected: 2026-04-07T18:37:48.336Z
 estimatedTokens: 787
-keywords: [ApptBookingUrlConfig, collection, URL, paths, appointment, scheduling, endpoints, API, version, 52.0, later, SOAP, Calls, REST]
+keywords: [ApptBookingUrlConfig, collection, URL, paths, appointment, scheduling, endpoints, API, 52.0, SOAP, REST]
 ---
-
-# ApptBookingUrlConfig
 
 > Represents a collection of fields used to set up the URL paths for
          appointment scheduling endpoints. This object is available in API version 52.0 and

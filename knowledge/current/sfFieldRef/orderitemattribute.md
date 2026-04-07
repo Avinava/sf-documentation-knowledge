@@ -5,12 +5,10 @@ topic: orderitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.491Z
+lastCollected: 2026-04-07T18:39:50.896Z
 estimatedTokens: 284
-keywords: [OrderItemAttribute, virtual, associated, Attribute, Store, API, version, 60.0, later]
+keywords: [OrderItemAttribute, virtual, Attribute, Store, API, 60.0]
 ---
-
-# OrderItemAttribute
 
 > Represents a virtual object which is associated with the Attribute Value
          Store object. This object is available in API version 60.0 and later.

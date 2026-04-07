@@ -5,12 +5,10 @@ topic: deliveryprofiledomaintypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.509Z
+lastCollected: 2026-04-07T18:40:16.652Z
 estimatedTokens: 116
-keywords: [DeliveryProfileDomainTypeEnum, domain, associated, delivery, profile]
+keywords: [DeliveryProfileDomainTypeEnum, domain, delivery, profile]
 ---
-
-# DeliveryProfileDomainTypeEnum
 
 > The DeliveryProfileDomainTypeEnum object defines the type of domain associated with a delivery profile.
 

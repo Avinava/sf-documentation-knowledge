@@ -5,12 +5,10 @@ topic: promotion-creation-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.018Z
+lastCollected: 2026-04-07T18:39:11.570Z
 estimatedTokens: 198
-keywords: [Promotion, Creation, Workflow, step, rules, provided, core]
+keywords: [Promotion, Creation, Workflow, step, provided, core]
 ---
-
-# Promotion Creation Workflow
 
 > This section describes the list of workflow step rules that must be provided from
     core.

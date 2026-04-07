@@ -5,12 +5,10 @@ topic: overtimetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.484Z
+lastCollected: 2026-04-07T18:37:32.717Z
 estimatedTokens: 263
-keywords: [OvertimeType, overtime, code, categorize, labor, costs, Enterprise, Resource, Planning, system, API, version, 62.0, later, Calls]
+keywords: [OvertimeType, overtime, code, categorize, labor, costs, Enterprise, Resource, Planning, system, API, 62.0]
 ---
-
-# OvertimeType
 
 > Represents the overtime type code used to categorize overtime labor costs in the Enterprise Resource Planning system. This object is available in API version 62.0 and later.
 

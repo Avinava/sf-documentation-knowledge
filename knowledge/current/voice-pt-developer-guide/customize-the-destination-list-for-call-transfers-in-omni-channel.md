@@ -5,12 +5,10 @@ topic: customize-the-destination-list-for-call-transfers-in-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.601Z
+lastCollected: 2026-04-07T18:40:13.529Z
 estimatedTokens: 344
-keywords: [Customize, Destination, Call, Transfers, Omni-Channel, transfer, destinations, show, apply, transferring, calls]
+keywords: [Customize, Destination, Call, Transfers, Omni-Channel, transfer, destinations, show, apply, transferring]
 ---
-
-# Customize the Destination List for Call Transfers in Omni-Channel
 
 > Customize the list of transfer destinations to only show the destination types that apply
     when transferring calls for Omni-Channel.

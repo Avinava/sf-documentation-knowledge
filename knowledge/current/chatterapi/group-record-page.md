@@ -5,12 +5,10 @@ topic: group-record-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.642Z
+lastCollected: 2026-04-07T18:37:19.791Z
 estimatedTokens: 175
-keywords: [Group, Record, paginated, records, associated]
+keywords: [Group, Record, paginated, records]
 ---
-
-# Group Record Page
 
 > A paginated list of records associated with a
                         group.

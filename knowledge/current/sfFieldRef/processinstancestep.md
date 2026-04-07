@@ -5,12 +5,10 @@ topic: processinstancestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.520Z
+lastCollected: 2026-04-07T18:39:55.081Z
 estimatedTokens: 341
 keywords: [ProcessInstanceStep, work, item, approval, process, ProcessInstance]
 ---
-
-# ProcessInstanceStep
 
 > Represents one work item in an approval process (ProcessInstance).
 

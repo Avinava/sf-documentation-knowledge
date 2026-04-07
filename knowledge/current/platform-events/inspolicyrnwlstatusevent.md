@@ -5,12 +5,10 @@ topic: inspolicyrnwlstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.293Z
+lastCollected: 2026-04-07T18:38:59.178Z
 estimatedTokens: 345
-keywords: [InsPolicyRnwlStatusEvent, Notifies, subscribers, status, policy, renewal, API, version, 64.0, later, Calls, Subscription, Channel, Event, Delivery]
+keywords: [InsPolicyRnwlStatusEvent, Notifies, subscribers, status, policy, renewal, API, 64.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# InsPolicyRnwlStatusEvent
 
 > Notifies subscribers of the status of the policy renewal. This
 		object is available in API version 64.0 and later.

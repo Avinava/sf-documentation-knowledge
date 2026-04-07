@@ -5,12 +5,10 @@ topic: promotion-coupon-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.978Z
+lastCollected: 2026-04-07T18:38:08.231Z
 estimatedTokens: 186
-keywords: [Promotion, Coupon, Availability, Output, representation]
+keywords: [Promotion, Coupon, Availability]
 ---
-
-# Promotion Coupon Availability
 
 > Output representation of the promotion coupon availability.
 

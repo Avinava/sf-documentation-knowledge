@@ -5,12 +5,10 @@ topic: accountrelationshipsharerule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.791Z
+lastCollected: 2026-04-07T18:36:22.022Z
 estimatedTokens: 697
-keywords: [AccountRelationshipShareRule, rule, determines, records, shared, how, they’re, account, relationship, shares, level, access, granted, File, Suffix]
+keywords: [AccountRelationshipShareRule, rule, determines, records, shared, how, they’re, account, relationship, shares, level, granted, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# AccountRelationshipShareRule
 
 > The rule that determines which object
       records are shared, how they’re shared, the account relationship type that shares the records,

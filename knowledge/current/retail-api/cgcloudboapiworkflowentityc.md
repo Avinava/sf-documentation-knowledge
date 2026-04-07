@@ -5,12 +5,10 @@ topic: cgcloudboapiworkflowentityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.625Z
+lastCollected: 2026-04-07T18:39:13.045Z
 estimatedTokens: 1103
-keywords: [cgcloud__BO_API_Workflow_Entity__c, stores, entities, Business, API, Workflows, version, 54.0, later, cgcloud, _BO, _API, _Workflow, _Entity, Calls]
+keywords: [cgcloud__BO_API_Workflow_Entity__c, stores, entities, Business, API, Workflows, 54.0, cgcloud, _BO, _API, _Workflow, _Entity]
 ---
-
-# cgcloud__BO_API_Workflow_Entity__c
 
 > This object stores the entities that Business Object API Workflows
          use. This object is available in API version 54.0 and later.

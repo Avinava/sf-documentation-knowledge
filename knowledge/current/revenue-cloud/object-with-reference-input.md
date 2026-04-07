@@ -5,12 +5,10 @@ topic: object-with-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.512Z
+lastCollected: 2026-04-07T18:35:43.420Z
 estimatedTokens: 207
-keywords: [Input, representation, records, inserted, updated, record, specify]
+keywords: [records, inserted, updated, record, specify]
 ---
-
-# Object with Reference Input
 
 > Input representation of a list of records to be inserted or updated. To update a
     record, specify the record ID.

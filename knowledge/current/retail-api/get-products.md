@@ -5,12 +5,10 @@ topic: get-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:17.533Z
+lastCollected: 2026-04-07T18:39:11.041Z
 estimatedTokens: 204
 keywords: [Products, Retrieve, Product, Definition, Level, setting, configured, promotion, template]
 ---
-
-# Get Products
 
 > Retrieve a list of products. The list is returned based on the
       Product Definition Level setting that you configured in the promotion

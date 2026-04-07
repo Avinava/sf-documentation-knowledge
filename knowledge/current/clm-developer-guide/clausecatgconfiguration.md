@@ -5,12 +5,10 @@ topic: clausecatgconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.417Z
+lastCollected: 2026-04-07T18:37:25.349Z
 estimatedTokens: 496
-keywords: [ClauseCatgConfiguration, configuration, library, category, user, their, document, Parent, File, Suffix, Directory, Location, Version, Special, Access, clause, Calls, Rules, Associated, Objects]
+keywords: [ClauseCatgConfiguration, configuration, library, category, user, their, document, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, clause]
 ---
-
-# ClauseCatgConfiguration
 
 > Represents the configuration about the library
 			category that can be used by a user in their response document.

@@ -5,12 +5,10 @@ topic: sql-filter-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.992Z
+lastCollected: 2026-04-07T18:39:18.721Z
 estimatedTokens: 118
-keywords: [SQL, Filter, Node, Input, recipe]
+keywords: [SQL, Filter, Node, recipe]
 ---
-
-# SQL Filter Node Input
 
 > A SQL filter node in a recipe.
 

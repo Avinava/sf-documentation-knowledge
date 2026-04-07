@@ -5,12 +5,10 @@ topic: custom-domain-cname-for-domain-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.093Z
+lastCollected: 2026-04-07T18:37:18.169Z
 estimatedTokens: 187
-keywords: [Custom, Domain, CNAME, Verification, canonical, record, that’s, verify, ownership]
+keywords: [Domain, CNAME, Verification, canonical, record, that’s, verify, ownership]
 ---
-
-# Custom Domain CNAME for Domain Verification
 
 > The canonical name (CNAME) record that’s used to verify ownership of a custom
     domain.

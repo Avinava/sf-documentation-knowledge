@@ -5,12 +5,10 @@ topic: postauthorizationrequestamount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.936Z
+lastCollected: 2026-04-07T18:36:04.151Z
 estimatedTokens: 124
-keywords: [PostAuthorizationRequest, amount, building, postauthorization, intended, test, usage, throws, exception, outside, Apex, context]
+keywords: [PostAuthorizationRequest, amount, building, postauthorization, intended, test, throws, exception, outside, Apex, context]
 ---
-
-# PostAuthorizationRequest(amount)
 
 > Constructor for building the amount in a
       postauthorization

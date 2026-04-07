@@ -5,12 +5,10 @@ topic: comments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.928Z
+lastCollected: 2026-04-07T18:36:04.143Z
 estimatedTokens: 86
 keywords: [comments, postauthorization, Users, enter, provide, additional]
 ---
-
-# comments
 
 > Comments about the
       postauthorization.

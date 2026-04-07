@@ -5,12 +5,10 @@ topic: get-pushv1contactsrefreshlistidstatustokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.170Z
+lastCollected: 2026-04-07T18:40:17.323Z
 estimatedTokens: 181
-keywords: [push, contacts, refreshList, status, tokenId, refresh, **Overview**, Usage]
+keywords: [push, contacts, refreshList, status, tokenId, refresh, **Overview**]
 ---
-
-# GET /push/v1/contacts/refreshList/{id}/status/{tokenId}
 
 > Gets the refresh list status.
 

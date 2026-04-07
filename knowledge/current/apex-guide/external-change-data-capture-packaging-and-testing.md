@@ -5,12 +5,10 @@ topic: external-change-data-capture-packaging-and-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.892Z
+lastCollected: 2026-04-07T18:36:17.117Z
 estimatedTokens: 235
-keywords: [External, Change, Data, Capture, Packaging, Testing, distribute, components, managed, packages, including, framework, Apex, triggers, Special]
+keywords: [External, Change, Capture, Packaging, Testing, distribute, managed, packages, including, framework, Apex, triggers, behaviors, limitations, apply, package, installation]
 ---
-
-# External Change Data Capture Packaging and Testing
 
 > You can distribute External Change Data Capture components in managed packages,
         including a framework for testing your Apex triggers. Special behaviors and limitations

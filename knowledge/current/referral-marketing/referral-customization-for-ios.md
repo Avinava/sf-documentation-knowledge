@@ -5,12 +5,10 @@ topic: referral-customization-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.455Z
+lastCollected: 2026-04-07T18:39:09.775Z
 estimatedTokens: 436
-keywords: [Referral, Customization, iOS, build, Mobile, SDK, customize, components, modify, referral-related, configuration, MyNTORewards, sample, app, Settings]
+keywords: [Referral, Customization, iOS, build, Mobile, SDK, customize, modify, referral-related, configuration, MyNTORewards, sample, app, Settings]
 ---
-
-# Referral Customization for iOS
 
 > After you build the Referral Mobile SDK for iOS, you can customize the referral UI
         components, and modify the referral-related configuration in the MyNTORewards sample app.

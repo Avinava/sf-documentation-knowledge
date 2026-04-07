@@ -5,12 +5,10 @@ topic: channel-menu-reordering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.485Z
+lastCollected: 2026-04-07T18:40:09.431Z
 estimatedTokens: 1026
-keywords: [Channel, Menu, Reordering, Show, hide, reorder, selections, customers, browse, website, dynamic, experience, Change, floating, action]
+keywords: [Channel, Menu, Reordering, Show, hide, reorder, selections, customers, browse, website, dynamic, experience, Change, floating, action, button, options, offered, depending, user’s, location, how, long, they’re]
 ---
-
-# Channel Menu Reordering
 
 > Show, hide, or reorder your Channel Menu selections as customers browse your
                 website for a more dynamic experience. Change the floating action button and channel

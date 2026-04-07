@@ -5,12 +5,10 @@ topic: connectapitrackedchangebundlecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.797Z
+lastCollected: 2026-04-07T18:36:12.078Z
 estimatedTokens: 158
-keywords: [feed, element, capability, group, elements, aggregated, bundle, aggregates, tracked, changes]
+keywords: [capability, group, aggregated, bundle, aggregates, tracked, changes]
 ---
-
-# ConnectApi.TrackedChangeBundleCapability
 
 > If a feed element has this capability, it has a group of other feed
    elements aggregated into one feed element called a bundle. This type of bundle

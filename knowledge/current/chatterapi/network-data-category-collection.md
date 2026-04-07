@@ -5,12 +5,10 @@ topic: network-data-category-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.826Z
+lastCollected: 2026-04-07T18:37:21.017Z
 estimatedTokens: 105
-keywords: [Network, Data, Category, Collection, categories]
+keywords: [Network, Category, Collection, categories]
 ---
-
-# Network Data Category Collection
 
 > List of network data categories.
 

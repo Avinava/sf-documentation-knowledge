@@ -5,12 +5,10 @@ topic: paymentretryruleset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:04.690Z
+lastCollected: 2026-04-07T18:35:49.650Z
 estimatedTokens: 758
-keywords: [PaymentRetryRuleSet, payment, retry, rule, definition, how, failed, payments, retried, error, codes, across, various, categories, API]
+keywords: [PaymentRetryRuleSet, payment, retry, rule, definition, how, failed, payments, retried, error, codes, across, various, categories, API, 66.0]
 ---
-
-# PaymentRetryRuleSet
 
 > Represents the payment retry rule definition that defines how failed
          payments are retried based on the error codes across various retry categories. This

@@ -5,12 +5,10 @@ topic: billing-fields-on-paymentlineinvoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.234Z
+lastCollected: 2026-04-07T18:35:42.095Z
 estimatedTokens: 365
-keywords: [Billing, PaymentLineInvoice, Standard, extend, represent, legal, entities, entity, accounting, periods, API, version, 64.0, later, Calls]
+keywords: [Billing, PaymentLineInvoice, Standard, extend, represent, legal, entities, entity, accounting, periods, API, 64.0]
 ---
-
-# Billing Fields on PaymentLineInvoice
 
 > Standard fields extend the PaymentLineInvoice object for use in
          Billing to represent information about legal entities and legal entity accounting

@@ -5,12 +5,10 @@ topic: composite-promotion-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.752Z
+lastCollected: 2026-04-07T18:37:17.825Z
 estimatedTokens: 332
-keywords: [Composite, Promotion, Target, Output, representation, processed]
+keywords: [Composite, Promotion, Target, processed]
 ---
-
-# Composite Promotion Target
 
 > Output representation of the processed promotion target.
 

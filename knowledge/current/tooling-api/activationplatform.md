@@ -5,12 +5,10 @@ topic: activationplatform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.165Z
+lastCollected: 2026-04-07T18:36:31.540Z
 estimatedTokens: 1116
-keywords: [ActivationPlatform, metadata, platform, delivery, schedule, output, destination, folder, API, version, 54.0, later, SOAP, Calls, REST]
+keywords: [ActivationPlatform, metadata, platform, delivery, schedule, destination, folder, API, 54.0, SOAP, REST]
 ---
-
-# ActivationPlatform
 
 > Represents metadata about ActivationPlatform, such as platform name, delivery
          schedule, output format, and destination folder. This object is available in API version

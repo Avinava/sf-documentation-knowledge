@@ -5,12 +5,10 @@ topic: excluded-care-plan-task-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.058Z
+lastCollected: 2026-04-07T18:39:01.199Z
 estimatedTokens: 82
-keywords: [Excluded, Care, Plan, Task, Input, representation, tasks]
+keywords: [Excluded, Care, Plan, Task, tasks]
 ---
-
-# Excluded Care Plan Task Input
 
 > Input representation for the excluded care plan
     tasks.

@@ -5,12 +5,10 @@ topic: create-an-app-project-in-xcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.417Z
+lastCollected: 2026-04-07T18:38:09.728Z
 estimatedTokens: 132
 keywords: [App, Project, Xcode, don’t, import, Loyalty, Management, Mobile, SDK, iOS]
 ---
-
-# Create an App Project in Xcode
 
 > If you don’t have an existing app project in Xcode, create an app project to import the
   Loyalty Management Mobile SDK for iOS.

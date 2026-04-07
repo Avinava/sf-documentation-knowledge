@@ -6,13 +6,10 @@ topic: installing-httpclient-and-json-frameworks-rest-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.101Z
+lastCollected: 2026-04-07T18:39:16.679Z
 estimatedTokens: 225
-keywords: [Installing, HttpClient, JSON, Frameworks, REST-Based, APIs, access, REST, resources, you’ll, install, lets, HTTP, framework, generate]
+keywords: [Installing, HttpClient, JSON, Frameworks, REST-Based, APIs, REST, resources, you’ll, install, lets, HTTP, framework, generate, parse]
 ---
-
-# Installing HttpClient and JSON Frameworks
-(REST-Based APIs)
 
 > To access REST resources, you’ll need to install
 HttpClient and JSON frameworks. HttpClient lets you access HTTP resources.

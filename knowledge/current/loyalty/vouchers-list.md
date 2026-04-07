@@ -5,12 +5,10 @@ topic: vouchers-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.139Z
+lastCollected: 2026-04-07T18:38:08.402Z
 estimatedTokens: 107
-keywords: [Vouchers, Output, representation, associated, loyalty, program, member]
+keywords: [Vouchers, loyalty, program, member]
 ---
-
-# Vouchers List
 
 > Output representation of the list of vouchers associated with the
       loyalty program member.

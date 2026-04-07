@@ -5,12 +5,10 @@ topic: billingpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.626Z
+lastCollected: 2026-04-07T18:35:48.620Z
 estimatedTokens: 694
-keywords: [BillingPolicy, billing, treatments, define, rules, invoice, customer, order, item, API, version, 62.0, later, Calls, Special]
+keywords: [BillingPolicy, billing, treatments, define, invoice, customer, order, item, API, 62.0]
 ---
-
-# BillingPolicy
 
 > Represents information about a set of billing treatments that define
          the rules to invoice a customer for an order item. This object is available in API

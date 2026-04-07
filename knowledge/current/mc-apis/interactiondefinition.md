@@ -5,12 +5,10 @@ topic: interactiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.509Z
+lastCollected: 2026-04-07T18:40:17.688Z
 estimatedTokens: 426
 keywords: [InteractionDefinition, base, program, activities]
 ---
-
-# InteractionDefinition
 
 > The InteractionDefinition object is the base class for program activities.
 

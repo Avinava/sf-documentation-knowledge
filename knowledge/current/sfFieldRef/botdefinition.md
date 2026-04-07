@@ -5,12 +5,10 @@ topic: botdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.867Z
+lastCollected: 2026-04-07T18:39:29.994Z
 estimatedTokens: 359
-keywords: [BotDefinition, top, level, Einstein, Bots, Agentforce, Agents, API, version, 60.0, later]
+keywords: [BotDefinition, top, level, Einstein, Bots, Agentforce, Agents, API, 60.0]
 ---
-
-# BotDefinition
 
 > Represents a top level object for Einstein Bots or Agentforce Agents.
       This object is available in API version 60.0 and later.

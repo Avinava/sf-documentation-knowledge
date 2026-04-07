@@ -5,12 +5,10 @@ topic: externalserviceregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.356Z
+lastCollected: 2026-04-07T18:36:25.858Z
 estimatedTokens: 1926
-keywords: [ExternalServiceRegistration, external, service, configuration, org, File, Suffix, Directory, Location, Version, ExternalServiceOperation, Declarative, Metadata, Sample, Definition]
+keywords: [ExternalServiceRegistration, ExternalServiceOperation, external, service, configuration, org, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, serviceBinding]
 ---
-
-# ExternalServiceRegistration
 
 > Represents the external service
       configuration for an org.

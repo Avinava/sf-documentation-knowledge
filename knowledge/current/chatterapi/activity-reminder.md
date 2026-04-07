@@ -5,12 +5,10 @@ topic: activity-reminder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.479Z
+lastCollected: 2026-04-07T18:37:11.251Z
 estimatedTokens: 450
 keywords: [Activity, Reminder, Salesforce, Classic]
 ---
-
-# Activity Reminder
 
 > Get information about, update, or delete an activity reminder in Salesforce Classic.
 

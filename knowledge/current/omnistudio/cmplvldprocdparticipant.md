@@ -5,12 +5,10 @@ topic: cmplvldprocdparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.784Z
+lastCollected: 2026-04-07T18:36:44.506Z
 estimatedTokens: 773
-keywords: [CmplVldProcdParticipant, Compliant, Data, Sharing, participant, user, group, whom, validation, procedure, shared, API, version, 66.0, later]
+keywords: [CmplVldProcdParticipant, Compliant, Sharing, participant, user, group, whom, validation, procedure, shared, API, 66.0]
 ---
-
-# CmplVldProcdParticipant
 
 > Represents a Compliant Data Sharing participant user or group with whom a
          validation procedure is shared. This object is available in API version 66.0 and

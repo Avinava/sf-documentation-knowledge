@@ -5,12 +5,10 @@ topic: workorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.363Z
+lastCollected: 2026-04-07T18:40:14.376Z
 estimatedTokens: 233
-keywords: [WorkOrder, service, work, performed, customer, Work.com, adds, new, custom, associated, Shift, Manager, facility, plan, API]
+keywords: [WorkOrder, service, work, performed, customer, Work.com, adds, new, Shift, Manager, facility, plan, API, 36.0]
 ---
-
-# WorkOrder
 
 > Represents field service work to be performed for a customer. Work.com adds new
       custom fields to the WorkOrder object. The custom field associated with Shift Manager contains

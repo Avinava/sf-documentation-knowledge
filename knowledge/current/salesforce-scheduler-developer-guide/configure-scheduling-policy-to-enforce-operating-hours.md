@@ -5,12 +5,10 @@ topic: configure-scheduling-policy-to-enforce-operating-hours
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.323Z
+lastCollected: 2026-04-07T18:39:21.133Z
 estimatedTokens: 269
-keywords: [Configure, Scheduling, Policy, Enforce, Operating, Hours, rules, best, service, resources, appointments, Apply, process, ensure, appointment]
+keywords: [Configure, Scheduling, Policy, Enforce, Operating, Hours, best, service, resources, appointments, Apply, process, ensure, appointment, meets, criteria, define, dummy, resource, present, creating]
 ---
-
-# Configure Scheduling Policy to Enforce Operating Hours
 
 > Use a scheduling policy to enforce one or more rules to find the best service
       resources for appointments. Apply a scheduling policy to your scheduling process to ensure

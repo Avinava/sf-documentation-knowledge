@@ -5,12 +5,10 @@ topic: clean-rule-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:30.420Z
+lastCollected: 2026-04-07T18:37:17.498Z
 estimatedTokens: 312
-keywords: [Clean, Rule, Status, active, data, integration, record]
+keywords: [Clean, Rule, Status, active, integration, record]
 ---
-
-# Clean Rule Status
 
 > Status of an active data integration rule for a
     record.

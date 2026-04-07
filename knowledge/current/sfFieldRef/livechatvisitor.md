@@ -5,12 +5,10 @@ topic: livechatvisitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.031Z
+lastCollected: 2026-04-07T18:39:46.587Z
 estimatedTokens: 343
-keywords: [LiveChatVisitor, website, visitor, started, tried, start, chat, session, API, version, 24.0, later]
+keywords: [LiveChatVisitor, website, visitor, started, tried, start, chat, session, API, 24.0]
 ---
-
-# LiveChatVisitor
 
 > Represents a website visitor who has started or tried to start a chat
       session. This object is available in API version 24.0 and later.

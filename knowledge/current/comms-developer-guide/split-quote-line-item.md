@@ -5,12 +5,10 @@ topic: split-quote-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.272Z
+lastCollected: 2026-04-07T18:37:26.185Z
 estimatedTokens: 210
-keywords: [Split, Quote, Line, Item, Enable, splitting, associated, recipient, group, multiple, items—one]
+keywords: [Split, Quote, Line, Item, Enable, splitting, recipient, group, multiple, items—one]
 ---
-
-# Split Quote Line Item
 
 > Enable the splitting of a quote line item associated with a
       recipient group into multiple quote line items—one for each recipient within the

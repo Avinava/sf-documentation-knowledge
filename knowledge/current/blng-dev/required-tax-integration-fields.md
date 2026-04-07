@@ -5,12 +5,10 @@ topic: required-tax-integration-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.600Z
+lastCollected: 2026-04-07T18:37:03.166Z
 estimatedTokens: 269
 keywords: [Tax, Integration, records, require, several, Salesforce, Billing, communicate, engines, regardless, engine, Certain, mentioned]
 ---
-
-# Required Tax Integration Fields
 
 > All tax integration records require several Salesforce Billing fields to communicate
   with tax engines, regardless of tax engine type. Certain tax engines

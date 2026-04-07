@@ -5,12 +5,10 @@ topic: dynamicfulfillmentorchestratorsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.429Z
+lastCollected: 2026-04-07T18:35:47.465Z
 estimatedTokens: 834
-keywords: [DynamicFulfillmentOrchestratorSettings, settings, Dynamic, Revenue, Orchestrator, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata]
+keywords: [DynamicFulfillmentOrchestratorSettings, settings, Dynamic, Revenue, Orchestrator, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# DynamicFulfillmentOrchestratorSettings
 
 > Represents the settings for Dynamic
 			Revenue Orchestrator.

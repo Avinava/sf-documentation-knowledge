@@ -5,12 +5,10 @@ topic: games-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.696Z
+lastCollected: 2026-04-07T18:38:07.928Z
 estimatedTokens: 247
-keywords: [Games, Output, representation, assigned, member]
+keywords: [Games, assigned, member]
 ---
-
-# Games List
 
 > Output representation of the list of games assigned to a member.
 

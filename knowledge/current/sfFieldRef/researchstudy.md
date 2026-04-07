@@ -5,12 +5,10 @@ topic: researchstudy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.300Z
+lastCollected: 2026-04-07T18:39:59.993Z
 estimatedTokens: 676
-keywords: [ResearchStudy, research, study, include, design, execution, oversight, API, version, 61.0, later]
+keywords: [ResearchStudy, research, study, include, design, execution, oversight, API, 61.0]
 ---
-
-# ResearchStudy
 
 > Represents the details of a research study that include its design,
          execution, and oversight. This object is available in API version 61.0 and

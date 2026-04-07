@@ -5,12 +5,10 @@ topic: required-field-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.791Z
+lastCollected: 2026-04-07T18:38:16.346Z
 estimatedTokens: 163
-keywords: [Error, Output, representation, errors]
+keywords: [Error, errors]
 ---
-
-# Required Field Error
 
 > Output representation of the required field errors.
 

@@ -5,12 +5,10 @@ topic: careplantemplatebenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.154Z
+lastCollected: 2026-04-07T18:39:06.157Z
 estimatedTokens: 459
-keywords: [CarePlanTemplateBenefit, junction, care, plan, template, benefit, stores, API, version, 55.0, later, Calls]
+keywords: [CarePlanTemplateBenefit, junction, care, plan, template, benefit, stores, API, 55.0]
 ---
-
-# CarePlanTemplateBenefit
 
 > Represents a junction between a care plan template and a benefit. This object
          stores the benefit details of a care plan. This object is available in API version

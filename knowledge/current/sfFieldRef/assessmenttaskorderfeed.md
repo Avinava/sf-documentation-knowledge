@@ -5,12 +5,10 @@ topic: assessmenttaskorderfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.656Z
+lastCollected: 2026-04-07T18:39:27.646Z
 estimatedTokens: 362
-keywords: [AssessmentTaskOrderFeed, Feed, tracking, AssessmentTaskOrder]
+keywords: [AssessmentTaskOrderFeed, AssessmentTaskOrder]
 ---
-
-# AssessmentTaskOrderFeed
 
 > Feed tracking for AssessmentTaskOrder.
 

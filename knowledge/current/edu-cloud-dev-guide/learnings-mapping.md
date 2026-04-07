@@ -5,12 +5,10 @@ topic: learnings-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.587Z
+lastCollected: 2026-04-07T18:37:29.670Z
 estimatedTokens: 125
 keywords: [Learnings, Mapping, mappings, group]
 ---
-
-# Learnings Mapping
 
 > The mappings between learnings within the group.
 

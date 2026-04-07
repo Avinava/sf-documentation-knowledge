@@ -5,12 +5,10 @@ topic: wkplancrisismetricc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.415Z
+lastCollected: 2026-04-07T18:40:14.427Z
 estimatedTokens: 1724
-keywords: [wkplan__CrisisMetric__c, Stores, quantitative, qualitative, data, measure, aspect, crisis, metrics, better, understand, severity, COVID-19, pandemic, help]
+keywords: [wkplan__CrisisMetric__c, Stores, quantitative, qualitative, measure, aspect, crisis, metrics, better, understand, severity, COVID-19, pandemic, help, decide, how, manage, individual, workplace, locations, installed, part, Strategy, Planner, managed, package, API, 50.0, wkplan, _CrisisMetric]
 ---
-
-# wkplan__CrisisMetric__c
 
 > Stores quantitative and qualitative data that can be used to measure
       an aspect of a crisis. Crisis metrics are used to better understand the severity of a crisis,

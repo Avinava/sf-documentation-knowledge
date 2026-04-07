@@ -5,12 +5,10 @@ topic: dataquickattributefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.787Z
+lastCollected: 2026-04-07T18:39:37.421Z
 estimatedTokens: 362
-keywords: [DataQuickAttributeFeed, Feed, tracking, DataQuickAttribute]
+keywords: [DataQuickAttributeFeed, DataQuickAttribute]
 ---
-
-# DataQuickAttributeFeed
 
 > Feed tracking for DataQuickAttribute.
 

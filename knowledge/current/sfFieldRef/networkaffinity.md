@@ -5,12 +5,10 @@ topic: networkaffinity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.089Z
+lastCollected: 2026-04-07T18:39:49.572Z
 estimatedTokens: 317
-keywords: [NetworkAffinity, junction, associates, user, profile, Network, Experience, Cloud, site, assign, API, version, 41.0, later]
+keywords: [NetworkAffinity, junction, associates, user, profile, Network, Experience, Cloud, site, assign, API, 41.0]
 ---
-
-# NetworkAffinity
 
 > Represents a junction object that
         associates a user profile with a Network object, that is, with an Experience Cloud site. Use

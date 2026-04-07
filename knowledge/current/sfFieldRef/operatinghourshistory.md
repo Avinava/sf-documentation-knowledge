@@ -5,12 +5,10 @@ topic: operatinghourshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.045Z
+lastCollected: 2026-04-07T18:39:50.469Z
 estimatedTokens: 285
-keywords: [OperatingHoursHistory, history, changes, made, tracked, operating, hours, record, API, version, 38.0, later]
+keywords: [OperatingHoursHistory, changes, made, tracked, operating, hours, record, API, 38.0]
 ---
-
-# OperatingHoursHistory
 
 > Represents the history of changes made to tracked fields on an
    operating hours record. This object is available in API version 38.0 and later.

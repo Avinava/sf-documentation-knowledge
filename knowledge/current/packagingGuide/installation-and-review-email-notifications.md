@@ -5,12 +5,10 @@ topic: installation-and-review-email-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.158Z
+lastCollected: 2026-04-07T18:38:46.010Z
 estimatedTokens: 625
-keywords: [Installation, Review, Email, Notifications, Salesforce, emails, customers, install, AppExchange, solution, they, listing, post, reviews, comments]
+keywords: [Installation, Review, Email, Notifications, Salesforce, emails, customers, install, AppExchange, solution, they, listing, post, reviews, comments, notify, interested, parties, Notification, Customer]
 ---
-
-# Installation and Review Email Notifications
 
 > Salesforce emails customers who install your AppExchange solution to request that they
   review your listing. When customers post reviews or comments on your listing, we notify interested

@@ -5,12 +5,10 @@ topic: download-your-appexchange-security-review-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.559Z
+lastCollected: 2026-04-07T18:38:47.502Z
 estimatedTokens: 191
 keywords: [Download, AppExchange, Security, Review, Report, solution, doesn’t, pass, vulnerabilities, found, documented, wizard]
 ---
-
-# Download Your AppExchange Security Review Report
 
 > When a solution doesn’t pass the AppExchange security review, the vulnerabilities
         found in your solution are documented in a review report. To download your report, go to the

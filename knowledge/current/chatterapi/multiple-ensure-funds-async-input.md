@@ -5,12 +5,10 @@ topic: multiple-ensure-funds-async-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.343Z
+lastCollected: 2026-04-07T18:37:09.115Z
 estimatedTokens: 245
-keywords: [Multiple, Ensure, Funds, Async, Input, Invoices, associated, OrderSummaries]
+keywords: [Multiple, Ensure, Funds, Async, Invoices, OrderSummaries]
 ---
-
-# Multiple Ensure Funds Async Input
 
 > List of Invoices and the associated OrderSummaries.
 

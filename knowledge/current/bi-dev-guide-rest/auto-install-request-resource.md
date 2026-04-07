@@ -5,12 +5,10 @@ topic: auto-install-request-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.011Z
+lastCollected: 2026-04-07T18:36:55.445Z
 estimatedTokens: 155
 keywords: [Auto-Install, Resource, Analytics, embedded, app, updates, deletes]
 ---
-
-# Auto-Install Request Resource
 
 > Returns an auto-install request for an Analytics embedded app, updates, and deletes an
   auto-install request.

@@ -5,12 +5,10 @@ topic: ptycrprflfinclacctactvty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.663Z
+lastCollected: 2026-04-07T18:36:53.076Z
 estimatedTokens: 719
-keywords: [PtyCrPrflFinclAcctActvty, payments, made, borrower, reported, credit, bureau, Reveals, borrower's, payment, behavior, past, debts, indicating, timely]
+keywords: [PtyCrPrflFinclAcctActvty, payments, made, borrower, reported, credit, bureau, Reveals, borrower's, payment, behavior, past, debts, indicating, timely, delayed, skipped, API, 65.0]
 ---
-
-# PtyCrPrflFinclAcctActvty
 
 > Represents information about the payments made by a borrower reported by a
          credit bureau. Reveals a borrower's payment behavior on past debts, indicating timely,

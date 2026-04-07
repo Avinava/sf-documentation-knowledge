@@ -5,12 +5,10 @@ topic: fscplanservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.397Z
+lastCollected: 2026-04-07T18:37:33.830Z
 estimatedTokens: 192
-keywords: [FSCPlanService, callable, picklist, Financial, Plan, Usage]
+keywords: [FSCPlanService, callable, picklist, Financial, Plan]
 ---
-
-# FSCPlanService Class
 
 > Use the callable FSCPlanService class to return picklist values of a Financial Plan
     object.

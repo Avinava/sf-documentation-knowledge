@@ -5,12 +5,10 @@ topic: use-batch-apex-queries-with-real-time-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.851Z
+lastCollected: 2026-04-07T18:39:22.759Z
 estimatedTokens: 53
 keywords: [Batch, Apex, Queries, Real-Time, Event, Monitoring, Bulk, API, query, events]
 ---
-
-# Use Batch Apex Queries With Real-Time Event Monitoring
 
 > Use Bulk API and batch Apex to query real-time events.
 

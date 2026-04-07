@@ -5,12 +5,10 @@ topic: name-and-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.854Z
+lastCollected: 2026-04-07T18:38:08.099Z
 estimatedTokens: 76
-keywords: [Output, representation, object’s]
+keywords: [object’s]
 ---
-
-# Name And Id
 
 > Output representation of an object’s name and ID.
 

@@ -5,12 +5,10 @@ topic: standard-platform-event-object-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.269Z
+lastCollected: 2026-04-07T18:38:58.086Z
 estimatedTokens: 5434
-keywords: [Standard, Platform, Event, Salesforce, publishes, events, action, occurred, org, report, errors, LoginEventStream, monitors, user, login]
+keywords: [Standard, Platform, Event, Salesforce, publishes, events, action, occurred, org, report, errors, LoginEventStream, monitors, user, login, activity, BatchApexErrorEvent, reports, encountered, batch, Apex, jobs, subscribe, subscription, mechanism, supports]
 ---
-
-# Standard Platform Event Object List
 
 > Salesforce publishes standard platform events in response to an action that occurred in
     the org or to report errors. For example, LoginEventStream monitors user login activity and

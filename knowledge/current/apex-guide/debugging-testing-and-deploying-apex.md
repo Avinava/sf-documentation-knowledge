@@ -5,12 +5,10 @@ topic: debugging-testing-and-deploying-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.076Z
+lastCollected: 2026-04-07T18:36:17.304Z
 estimatedTokens: 317
 keywords: [Debugging, Testing, Deploying, Apex, Develop, code, sandbox, debug, Developer, Console, logs, Unit-test, distribute, customers, packages]
 ---
-
-# Debugging, Testing, and Deploying Apex
 
 > Develop your Apex code in a sandbox and debug it with the Developer Console and debug
         logs. Unit-test your code, then distribute it to customers using packages.

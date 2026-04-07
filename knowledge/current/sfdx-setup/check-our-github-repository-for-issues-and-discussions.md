@@ -5,12 +5,10 @@ topic: check-our-github-repository-for-issues-and-discussions
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:14.436Z
+lastCollected: 2026-04-07T18:40:09.384Z
 estimatedTokens: 205
 keywords: [Check, GitHub, Repository, Issues, Discussions, Don't, problem, customers, open-source, community, enter, top-level, Salesforce, CLI]
 ---
-
-# Check Our GitHub Repository for Issues and Discussions
 
 > Don't see your problem in this section? Then check out the issues that our customers and open-source community enter in the top-level Salesforce CLI GitHub repository.
 

@@ -5,12 +5,10 @@ topic: neginvclineprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:06.609Z
+lastCollected: 2026-04-07T18:38:59.533Z
 estimatedTokens: 752
-keywords: [NegInvcLineProcessedEvent, Notifies, subscribers, negative, invoice, line, converted, credit, memo, API, version, 56.0, later, Calls, Subscription]
+keywords: [NegInvcLineProcessedEvent, Notifies, subscribers, negative, invoice, line, converted, credit, memo, API, 56.0, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# NegInvcLineProcessedEvent
 
 > Notifies subscribers when a negative invoice line is converted to a credit
          memo. This object is available in API version 56.0 and later.

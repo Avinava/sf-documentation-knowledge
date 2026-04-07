@@ -5,12 +5,10 @@ topic: connectapigroupinformationinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.233Z
+lastCollected: 2026-04-07T18:36:05.570Z
 estimatedTokens: 115
-keywords: [ConnectApi.GroupInformationInput, Chatter, group, input]
+keywords: [ConnectApi.GroupInformationInput, Chatter, group]
 ---
-
-# ConnectApi.GroupInformationInput
 
 > Chatter group information input.
 

@@ -5,12 +5,10 @@ topic: consumption-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:37.249Z
+lastCollected: 2026-04-07T18:38:28.168Z
 estimatedTokens: 658
-keywords: [Consumption, Rate, rates, describe, billing, range, usage, schedule, schedules, require, least, order, product, API, version]
+keywords: [Consumption, Rate, rates, describe, billing, range, schedule, schedules, require, least, order, product, API, 45.0]
 ---
-
-# Consumption Rate
 
 > Consumption rates describe the billing rate for a range of usage within a
       consumption schedule. All consumption schedules require at least one consumption rate in order

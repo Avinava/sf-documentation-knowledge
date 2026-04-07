@@ -5,12 +5,10 @@ topic: 43000-43999-importdefinition-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.800Z
+lastCollected: 2026-04-07T18:40:14.815Z
 estimatedTokens: 96
 keywords: [43000-43999, ImportDefinition]
 ---
-
-# 43000-43999 ImportDefinition Object
 
 # 43000-43999 ImportDefinition Object
 

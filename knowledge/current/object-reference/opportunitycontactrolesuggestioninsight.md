@@ -5,12 +5,10 @@ topic: opportunitycontactrolesuggestioninsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.266Z
+lastCollected: 2026-04-07T18:38:36.441Z
 estimatedTokens: 626
-keywords: [OpportunityContactRoleSuggestionInsight, suggestion, new, opportunity, contact, role, API, versions, 45.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [OpportunityContactRoleSuggestionInsight, suggestion, new, opportunity, contact, role, API, versions, 45.0]
 ---
-
-# OpportunityContactRoleSuggestionInsight
 
 > Represents a suggestion for a new opportunity contact role.
 		Available in API versions 45.0 and later.

@@ -5,12 +5,10 @@ topic: saved-payment-method-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.546Z
+lastCollected: 2026-04-07T18:37:21.661Z
 estimatedTokens: 336
 keywords: [Saved, Payment, Collection, active, account, contact]
 ---
-
-# Saved Payment Method Collection
 
 > Collection of active saved payment methods for an account or contact.
 

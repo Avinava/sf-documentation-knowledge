@@ -5,12 +5,10 @@ topic: navigation-actions-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.886Z
+lastCollected: 2026-04-07T18:38:15.381Z
 estimatedTokens: 762
-keywords: [Navigation, Actions, Salesforce, Mobile, App, programmatic, Lightning, web, components, intended, Plus, Navigate, Quick, Action, Open]
+keywords: [Navigation, Actions, Salesforce, Mobile, App, programmatic, Lightning, web, intended, Plus, Navigate, Quick, Action, Open, via, Deep, Link, Service, Email, Phone, Message]
 ---
-
-# Navigation Actions in the Salesforce Mobile App
 
 > Use these supported programmatic navigation actions in your Lightning web components
         intended for use in Salesforce Mobile App Plus.

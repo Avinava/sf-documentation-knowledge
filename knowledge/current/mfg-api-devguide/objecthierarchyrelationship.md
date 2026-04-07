@@ -5,12 +5,10 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.802Z
+lastCollected: 2026-04-07T18:38:13.133Z
 estimatedTokens: 1455
-keywords: [ObjectHierarchyRelationship, organization’s, custom, mappings, sales, agreement, conversion, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct, File, Suffix, Directory]
+keywords: [ObjectHierarchyRelationship, ObjectMapping, ObjectMappingField, organization’s, mappings, sales, agreement, conversion, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ObjectHierarchyRelationship
 
 > Represents an organization’s custom field mappings
       for sales agreement conversion. Fields can be mapped from Opportunity and Quotes to

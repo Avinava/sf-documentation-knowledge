@@ -5,13 +5,11 @@ topic: accountingmodelconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.391Z
+lastCollected: 2026-04-07T18:39:24.340Z
 estimatedTokens: 567
 namespace: NamespacePrefix
-keywords: [AccountingModelConfig, settings, accounting, models, Subledger, include, data, how, API, version, 57.0, later]
+keywords: [AccountingModelConfig, settings, accounting, models, Subledger, include, how, API, 57.0]
 ---
-
-# AccountingModelConfig
 
 > Represents settings for the accounting models used with Accounting Subledger.
          Accounting models are based on accounting sets, which include details about what accounting

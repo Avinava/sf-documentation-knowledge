@@ -5,12 +5,10 @@ topic: extlrecshrresultevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:06.122Z
+lastCollected: 2026-04-07T18:38:59.000Z
 estimatedTokens: 542
-keywords: [ExtlRecShrResultEvent, Tracks, data, result, export, external, record, share, published, vendor, partner, system, Connect, API, version]
+keywords: [ExtlRecShrResultEvent, Tracks, result, export, external, record, share, published, vendor, partner, system, Connect, API, 62.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# ExtlRecShrResultEvent
 
 > Tracks the data and the result of the export or update of the
 			external

@@ -5,12 +5,10 @@ topic: appexchange-marketplace-analytics-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:55.204Z
+lastCollected: 2026-04-07T18:38:47.175Z
 estimatedTokens: 877
-keywords: [AppExchange, Marketplace, Analytics, uses, metrics, trends, visualizations, show, how, Salesforce, customers, interact, app, consulting, service]
+keywords: [AppExchange, Marketplace, Analytics, uses, metrics, trends, visualizations, show, how, Salesforce, customers, interact, app, consulting, service, listings, Partner, Co-Marketing, Program, participants, insights, promotion, performance]
 ---
-
-# AppExchange Marketplace Analytics Overview
 
 > AppExchange Marketplace Analytics uses metrics, trends, and visualizations to show how
     Salesforce customers find and interact with app or consulting service listings. For Partner

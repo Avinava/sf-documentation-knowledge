@@ -5,12 +5,10 @@ topic: worktypegroupfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.432Z
+lastCollected: 2026-04-07T18:40:07.370Z
 estimatedTokens: 359
-keywords: [WorkTypeGroupFeed, Feed, tracking, WorkTypeGroup]
+keywords: [WorkTypeGroupFeed, WorkTypeGroup]
 ---
-
-# WorkTypeGroupFeed
 
 > Feed tracking for WorkTypeGroup.
 

@@ -5,12 +5,10 @@ topic: topic-names-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.744Z
+lastCollected: 2026-04-07T18:37:10.438Z
 estimatedTokens: 193
-keywords: [Topic, Input, replace, currently, assigned, topics, suggested, assign]
+keywords: [Topic, replace, currently, assigned, topics, suggested, assign]
 ---
-
-# Topic Names Input
 
 > A list of topic names to replace currently assigned topics. Also a list of suggested
     topics to assign.

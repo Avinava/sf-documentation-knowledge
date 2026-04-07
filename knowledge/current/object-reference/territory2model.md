@@ -5,12 +5,10 @@ topic: territory2model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.961Z
+lastCollected: 2026-04-07T18:38:42.681Z
 estimatedTokens: 1041
-keywords: [Territory2Model, territory, model, Sales, Territories, enabled, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [Territory2Model, territory, model, Sales, Territories, enabled]
 ---
-
-# Territory2Model
 
 > Represents a territory model. Available if Sales Territories has
 		been enabled.

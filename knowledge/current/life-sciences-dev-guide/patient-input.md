@@ -5,12 +5,10 @@ topic: patient-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.915Z
+lastCollected: 2026-04-07T18:37:55.286Z
 estimatedTokens: 120
-keywords: [Patient, Input, containing, data]
+keywords: [Patient, containing]
 ---
-
-# Patient Input
 
 > Input containing data for a single patient.
 

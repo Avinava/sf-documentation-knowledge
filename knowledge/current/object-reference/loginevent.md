@@ -5,12 +5,10 @@ topic: loginevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.033Z
+lastCollected: 2026-04-07T18:38:35.274Z
 estimatedTokens: 62
 keywords: [LoginEvent, documentation, moved, Platform, Events, Developer]
 ---
-
-# LoginEvent
 
 > The documentation has moved to LoginEvent in the Platform Events Developer
 		Guide.

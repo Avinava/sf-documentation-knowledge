@@ -5,12 +5,10 @@ topic: disclosures-using-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.881Z
+lastCollected: 2026-04-07T18:38:17.420Z
 estimatedTokens: 503
-keywords: [Disclosures, Managed, Packages, disclosure, reports, company, shares, external, shareholders, template, standards, implemented, Compliance, Hub, include]
+keywords: [Disclosures, Managed, Packages, disclosure, reports, company, shares, external, shareholders, template, standards, implemented, Compliance, Hub, include, report, standard]
 ---
-
-# Disclosures Using Managed Packages
 
 > Create disclosure reports that your company shares with external shareholders by using
   the disclosures template for standards implemented on Disclosure and Compliance Hub. You can

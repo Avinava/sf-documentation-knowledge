@@ -5,12 +5,10 @@ topic: sample-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.928Z
+lastCollected: 2026-04-07T18:39:18.653Z
 estimatedTokens: 172
-keywords: [Sample, Input, loading, data]
+keywords: [Sample, loading]
 ---
-
-# Sample Parameters Input
 
 > The sample parameters for loading data.
 

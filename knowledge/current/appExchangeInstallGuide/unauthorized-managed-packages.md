@@ -5,12 +5,10 @@ topic: unauthorized-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.400Z
+lastCollected: 2026-04-07T18:36:51.748Z
 estimatedTokens: 287
-keywords: [Unauthorized, Managed, Packages, participate, AppExchange, Partner, Program, Salesforce’s, partners, meet, certain, standards, submit, their, products]
+keywords: [Unauthorized, Managed, Packages, participate, AppExchange, Partner, Program, Salesforce’s, partners, meet, certain, standards, submit, their, products, security, review, install, package, hasn’t, authorized, distribution, notify, installation]
 ---
-
-# Unauthorized Managed Packages
 
 > To participate in the AppExchange Partner Program, Salesforce’s partners must meet
     certain standards and submit their AppExchange products for security review. When you install a

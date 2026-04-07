@@ -5,12 +5,10 @@ topic: manufacturing-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.463Z
+lastCollected: 2026-04-07T18:38:12.762Z
 estimatedTokens: 102
 keywords: [Manufacturing, Cloud, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Manufacturing Cloud Business APIs
 
 > Manufacturing Cloud Business APIs are RESTful APIs that are sometimes available as Apex
     classes and methods.

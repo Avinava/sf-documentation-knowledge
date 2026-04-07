@@ -5,12 +5,10 @@ topic: timeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.468Z
+lastCollected: 2026-04-07T18:37:02.076Z
 estimatedTokens: 731
-keywords: [TIMESERIES, function, predict, future, ones, tracked, over, time, Optionally, choose, prediction, model, confidence, interval, seasonality]
+keywords: [TIMESERIES, function, predict, future, ones, tracked, over, time, Optionally, choose, prediction, model, confidence, interval, seasonality, among, FILL]
 ---
-
-# TIMESERIES
 
 > Use the TIMESERIES() table function to predict
   future values based on existing ones tracked over time. Optionally choose a prediction model,

@@ -5,12 +5,10 @@ topic: metadata-components-and-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.507Z
+lastCollected: 2026-04-07T18:36:28.026Z
 estimatedTokens: 1459
-keywords: [Metadata, Components, sObjects, objects, API, Instead, they, ApexClass, CustomObject, extend, base, component, instance, Data, Enumeration]
+keywords: [Metadata, sObjects, API, Instead, they, ApexClass, CustomObject, extend, base, instance]
 ---
-
-# Metadata Components and Types
 
 > Metadata components are not based on sObjects, like objects in the API. Instead, they
         are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the

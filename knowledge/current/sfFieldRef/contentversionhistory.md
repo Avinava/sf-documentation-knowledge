@@ -5,12 +5,10 @@ topic: contentversionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.986Z
+lastCollected: 2026-04-07T18:39:35.444Z
 estimatedTokens: 276
-keywords: [ContentVersionHistory, history, specific, version, document, 17.0, later]
+keywords: [ContentVersionHistory, specific, document, 17.0]
 ---
-
-# ContentVersionHistory
 
 > Represents the history of a specific version of a document. This
     object is available in version 17.0 and later.

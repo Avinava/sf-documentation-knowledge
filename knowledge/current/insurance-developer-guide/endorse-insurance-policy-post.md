@@ -5,12 +5,10 @@ topic: endorse-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.534Z
+lastCollected: 2026-04-07T18:37:51.580Z
 estimatedTokens: 406
-keywords: [Endorse, Insurance, Policy, POST, latest, version, context, effective, date, include, additional, input, JSON]
+keywords: [Endorse, Insurance, Policy, POST, latest, context, effective, date, include, additional, JSON]
 ---
-
-# Endorse Insurance Policy (POST)
 
 > Endorse the latest version of the insurance policy based on the context ID and
     effective date. You can also include other optional fields and additional details in the input

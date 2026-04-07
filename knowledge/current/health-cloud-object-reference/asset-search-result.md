@@ -5,12 +5,10 @@ topic: asset-search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.387Z
+lastCollected: 2026-04-07T18:37:41.478Z
 estimatedTokens: 403
 keywords: [Asset, Search, Result, Detailed, resource, matching, criteria]
 ---
-
-# Asset Search Result
 
 > Detailed information about a single asset or resource matching the search criteria.
 

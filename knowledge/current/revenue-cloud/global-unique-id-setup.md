@@ -5,12 +5,10 @@ topic: global-unique-id-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:02.130Z
+lastCollected: 2026-04-07T18:35:47.154Z
 estimatedTokens: 462
-keywords: [Unique, Setup, establishment, GUID, column, objects, day-one, initialization, recommended, practice, Salesforce, DevOps]
+keywords: [Unique, Setup, establishment, GUID, column, day-one, initialization, recommended, practice, Salesforce, DevOps]
 ---
-
-# Global Unique ID Setup
 
 > The establishment of a Global Unique ID (GUID) column on all objects during day-one
     initialization is a recommended practice for Salesforce DevOps.

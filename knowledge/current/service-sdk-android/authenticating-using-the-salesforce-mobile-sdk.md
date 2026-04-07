@@ -5,12 +5,10 @@ topic: authenticating-using-the-salesforce-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.467Z
+lastCollected: 2026-04-07T18:40:27.629Z
 estimatedTokens: 1394
 keywords: [Authenticating, Salesforce, Mobile, SDK, instructions, describe, how, authenticate, Service, Chat, provided, authentication, mechanism]
 ---
-
-# Authenticating Using the Salesforce Mobile SDK
 
 > These instructions describe how to authenticate the Service Chat SDK using the
     provided authentication mechanism within the Salesforce Mobile SDK.

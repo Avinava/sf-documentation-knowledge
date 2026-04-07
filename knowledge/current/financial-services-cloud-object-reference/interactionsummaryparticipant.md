@@ -5,12 +5,10 @@ topic: interactionsummaryparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.259Z
+lastCollected: 2026-04-07T18:37:38.084Z
 estimatedTokens: 858
-keywords: [InteractionSummaryParticipant, user, whom, interaction, summary, shared, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [InteractionSummaryParticipant, user, whom, interaction, summary, shared, API, 51.0]
 ---
-
-# InteractionSummaryParticipant
 
 > Represents a user with whom an interaction summary is shared. This
 		object is available in API version 51.0 and later.

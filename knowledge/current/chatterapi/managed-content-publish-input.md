@@ -5,12 +5,10 @@ topic: managed-content-publish-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.177Z
+lastCollected: 2026-04-07T18:37:08.954Z
 estimatedTokens: 274
-keywords: [Managed, Content, Publish, Input]
+keywords: [Managed, Content, Publish]
 ---
-
-# Managed Content Publish Input
 
 > Managed content publish.
 

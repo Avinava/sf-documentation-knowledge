@@ -5,12 +5,10 @@ topic: available-territory-slots-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.358Z
+lastCollected: 2026-04-07T18:39:20.062Z
 estimatedTokens: 1119
-keywords: [Territory, Slots, Input, representation]
+keywords: [Territory, Slots]
 ---
-
-# Available Territory Slots Input
 
 > Input representation of the available territory slots
     request.

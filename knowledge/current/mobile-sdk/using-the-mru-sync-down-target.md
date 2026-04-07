@@ -5,12 +5,10 @@ topic: using-the-mru-sync-down-target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.346Z
+lastCollected: 2026-04-07T18:40:25.720Z
 estimatedTokens: 187
-keywords: [MRU, Sync, Down, Target, retrieve, recently, viewed, records, specific, Salesforce, org, Configuration, File, Usage, iOS]
+keywords: [MRU, Sync, Down, Target, retrieve, recently, viewed, records, specific, Salesforce, org, Configuration, File, iOS, APIs, Android]
 ---
-
-# Using the MRU Sync Down Target
 
 > To retrieve the most recently viewed records for a specific
    Salesforce object in your org, use the MRU sync down target.

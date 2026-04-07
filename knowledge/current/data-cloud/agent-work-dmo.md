@@ -5,12 +5,10 @@ topic: agent-work-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.163Z
+lastCollected: 2026-04-07T18:35:51.972Z
 estimatedTokens: 775
-keywords: [Agent, Work, DMO, Data, Cloud, model, assignment, routed, API, Category, Primary, Subject, Area, Key, Relationships]
+keywords: [Category, Relationships, Agent, Work, DMO, Cloud, model, assignment, routed, API, Primary, Subject, Area, Key]
 ---
-
-# Agent Work DMO
 
 > The Agent Work DMO is a Data Cloud data model object (DMO) for a work
       assignment that has been routed to an agent.

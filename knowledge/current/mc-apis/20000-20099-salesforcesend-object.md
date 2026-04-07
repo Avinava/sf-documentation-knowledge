@@ -5,12 +5,10 @@ topic: 20000-20099-salesforcesend-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.646Z
+lastCollected: 2026-04-07T18:40:14.665Z
 estimatedTokens: 105
 keywords: [20000-20099, SalesforceSend]
 ---
-
-# 20000-20099 SalesforceSend Object
 
 # 20000-20099 SalesforceSend Object
 

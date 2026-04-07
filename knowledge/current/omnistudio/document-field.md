@@ -5,12 +5,10 @@ topic: document-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.685Z
+lastCollected: 2026-04-07T18:36:39.398Z
 estimatedTokens: 207
-keywords: [Document, Output, representation, OCR, template]
+keywords: [Document, OCR, template]
 ---
-
-# Document Field
 
 > Output representation of a document field in an OCR
     template.

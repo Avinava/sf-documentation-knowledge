@@ -5,12 +5,10 @@ topic: request-an-app-review-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.994Z
+lastCollected: 2026-04-07T18:38:15.506Z
 estimatedTokens: 613
-keywords: [App, Review, Mobile, Device, Lightning, web, component, prompt, users, rate, submit, stores, Apple, Google, Their]
+keywords: [App, Review, Mobile, Device, Lightning, web, prompt, users, rate, submit, stores, Apple, Google, Their, feedback, help, improve, experience, encourage, downloads, app’s, discoverability]
 ---
-
-# Request an App Review on a Mobile Device
 
 > A Lightning web component can use a mobile device to prompt users to rate and submit a
     review of your app to the app stores (Apple and Google). Their feedback can help improve your

@@ -5,12 +5,10 @@ topic: cgclouduseraccountablec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.951Z
+lastCollected: 2026-04-07T18:39:15.449Z
 estimatedTokens: 378
-keywords: [cgcloud__User_Accountable__c, Sales, Rep, Supervisor, Retail, Execution, user, accountable, business, process, API, version, 55.0, later, cgcloud]
+keywords: [cgcloud__User_Accountable__c, Sales, Rep, Supervisor, Retail, Execution, user, accountable, business, process, API, 55.0, cgcloud, _User, _Accountable]
 ---
-
-# cgcloud__User_Accountable__c
 
 > Represents a Sales Rep or Supervisor or other Retail Execution user who is
          accountable for a Retail Execution business process. This object is available in API

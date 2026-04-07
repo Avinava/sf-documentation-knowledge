@@ -5,12 +5,10 @@ topic: other-lifecycle-emission-factor-set-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.324Z
+lastCollected: 2026-04-07T18:38:16.910Z
 estimatedTokens: 3455
 keywords: [Lifecycle, Emission, Factor, Item, individual, emissions, fuel, calculate, occur, throughout, extraction, end-of-life]
 ---
-
-# Other Lifecycle Emission Factor Set Item
 
 > The Other Lifecycle Emission Factor Set Item object represents the individual emissions
   factor for a fuel used to calculate emissions that occur throughout its lifecycle, from extraction

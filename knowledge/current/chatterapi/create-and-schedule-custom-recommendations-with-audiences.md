@@ -5,12 +5,10 @@ topic: create-and-schedule-custom-recommendations-with-audiences
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.084Z
+lastCollected: 2026-04-07T18:37:24.131Z
 estimatedTokens: 1423
-keywords: [Schedule, Custom, Recommendations, Audiences, Step, Define, Recommendation, Add, Image, Audience, Members]
+keywords: [Schedule, Recommendations, Audiences, Step, Define, Recommendation, Add, Image, Audience, Members]
 ---
-
-# Create and Schedule Custom Recommendations with Audiences
 
 > Create and schedule custom recommendations with audiences.
 

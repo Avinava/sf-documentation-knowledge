@@ -5,12 +5,10 @@ topic: extension-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.594Z
+lastCollected: 2026-04-07T18:39:18.286Z
 estimatedTokens: 135
-keywords: [Extension, Input, node, recipe]
+keywords: [Extension, node, recipe]
 ---
-
-# Extension Parameters Input
 
 > The parameters for an extension node in a recipe.
 

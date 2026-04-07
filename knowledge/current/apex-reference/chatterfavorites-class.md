@@ -5,13 +5,11 @@ topic: chatterfavorites-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.757Z
+lastCollected: 2026-04-07T18:35:55.929Z
 estimatedTokens: 13272
 namespace: ConnectApi
-keywords: [ChatterFavorites, feed, elements, favorite, Usage, addFavorite, communityId, subjectId, searchText, API, Version, Requires, Chatter, addRecordFavorite, targetId]
+keywords: [ChatterFavorites, favorite, addFavorite, communityId, subjectId, searchText, API, Requires, Chatter, addRecordFavorite, targetId, deleteFavorite, favoriteId, getFavorite, getFavorites, getFeedElements, pageParam, pageSize, sortParam, recentCommentCount, elementsPerBundle, updateFavorite, updateLastViewDate, Test, setTestGetFeedElements, result, Retired, getFeedItems, setTestGetFeedItems]
 ---
-
-# ChatterFavorites Class
 
 > Get the first page of feed elements for a favorite.
 

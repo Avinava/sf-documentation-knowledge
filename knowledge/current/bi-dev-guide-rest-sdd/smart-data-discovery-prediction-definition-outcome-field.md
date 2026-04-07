@@ -5,12 +5,10 @@ topic: smart-data-discovery-prediction-definition-outcome-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.248Z
+lastCollected: 2026-04-07T18:36:59.740Z
 estimatedTokens: 102
-keywords: [Smart, Data, Discovery, Prediction, Definition, Outcome, Einstein]
+keywords: [Smart, Discovery, Prediction, Definition, Outcome, Einstein]
 ---
-
-# Smart Data Discovery Prediction Definition Outcome Field
 
 > An Einstein Discovery prediction definition outcome field.
 

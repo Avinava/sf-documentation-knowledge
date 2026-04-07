@@ -5,12 +5,10 @@ topic: http-request-flow-and-a-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.024Z
+lastCollected: 2026-04-07T18:37:24.071Z
 estimatedTokens: 1563
 keywords: [HTTP, Flow, Review, process, Connect, REST, API, including, resource, examples]
 ---
-
-# HTTP Request Flow and a Response Body
 
 > Review the process flow for Connect REST API, including resource and response
       examples.

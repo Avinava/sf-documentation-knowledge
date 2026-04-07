@@ -5,13 +5,11 @@ topic: datacloud-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:12.684Z
+lastCollected: 2026-04-07T18:35:58.014Z
 estimatedTokens: 2132
 namespace: ConnectApi
-keywords: [Datacloud, Purchase, Data.com, contact, company, records, retrieve, getCompaniesFromOrder, orderId, pageSize, API, Version, Requires, Chatter, getCompany]
+keywords: [Datacloud, Purchase, Data.com, contact, company, records, retrieve, getCompaniesFromOrder, orderId, pageSize, API, Requires, Chatter, getCompany, companyId, getContact, contactId, getContactsFromOrder, getOrder, getUsage, userId, postOrder, orderInput]
 ---
-
-# Datacloud Class
 
 > Purchase Data.com contact or company records, and retrieve purchase information.
 

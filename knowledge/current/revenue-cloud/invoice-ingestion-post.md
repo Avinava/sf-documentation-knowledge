@@ -5,12 +5,10 @@ topic: invoice-ingestion-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.677Z
+lastCollected: 2026-04-07T18:35:44.675Z
 estimatedTokens: 673
-keywords: [Invoice, Ingestion, POST, Ingest, generate, internal, external, billing, transaction, data]
+keywords: [Invoice, Ingestion, POST, Ingest, generate, internal, external, billing, transaction]
 ---
-
-# Invoice Ingestion (POST)
 
 > Ingest or generate an invoice from an internal or external billing
       transaction data.

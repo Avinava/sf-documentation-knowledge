@@ -5,12 +5,10 @@ topic: connectapidecisiontablecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.372Z
+lastCollected: 2026-04-07T18:39:00.449Z
 estimatedTokens: 403
-keywords: [ConnectApi.DecisionTableCondition, Input, representation, decision, condition]
+keywords: [ConnectApi.DecisionTableCondition, decision, condition]
 ---
-
-# ConnectApi.DecisionTableCondition
 
 > Input representation of the decision table condition.
 

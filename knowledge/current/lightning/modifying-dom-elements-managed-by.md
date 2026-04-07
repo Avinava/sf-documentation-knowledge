@@ -5,12 +5,10 @@ topic: modifying-dom-elements-managed-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.368Z
+lastCollected: 2026-04-07T18:38:04.524Z
 estimatedTokens: 735
-keywords: [Modifying, DOM, Elements, Managed, framework, creates, manages, owned, component, want, modify, created, handler, component’s, render]
+keywords: [Modifying, DOM, Managed, framework, creates, manages, owned, want, modify, created, handler, component’s, render, event, renderer, Otherwise, override, changes, rerendered]
 ---
-
-# Modifying DOM Elements Managed by
 
 > The framework creates and manages the DOM elements owned by a component. If you want to
     modify these DOM elements created by the framework, modify the DOM elements in the handler for

@@ -5,13 +5,11 @@ topic: schedulingoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.684Z
+lastCollected: 2026-04-07T18:36:46.532Z
 estimatedTokens: 535
 namespace: FSL
 keywords: [SchedulingOption, individual, slot, scheduling, run-time, context, results, AdvancedGapMatrix, grade, interval]
 ---
-
-# SchedulingOption Class
 
 > Provides the details of an individual slot available for scheduling.
       Represents a run-time object used within the context of the results returned in the AdvancedGapMatrix class.

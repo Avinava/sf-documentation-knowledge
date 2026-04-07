@@ -5,12 +5,10 @@ topic: engagement-signal-filter-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.560Z
+lastCollected: 2026-04-07T18:37:18.651Z
 estimatedTokens: 101
 keywords: [Engagement, Signal, Filter, Group, filters]
 ---
-
-# Engagement Signal Filter Group
 
 > Group of Engagement Signal filters.
 

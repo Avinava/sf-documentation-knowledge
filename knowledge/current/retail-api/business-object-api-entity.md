@@ -5,12 +5,10 @@ topic: business-object-api-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.396Z
+lastCollected: 2026-04-07T18:39:10.886Z
 estimatedTokens: 667
 keywords: [Business, API, Entity, entities, created, part, configuration, support, Promotion, cases]
 ---
-
-# Business Object API Entity
 
 > The following entities are created as part of the default configuration to support
         Promotion use cases.

@@ -5,12 +5,10 @@ topic: cpq-api-configattributemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.235Z
+lastCollected: 2026-04-07T18:37:27.238Z
 estimatedTokens: 448
 keywords: [CPQ, API, ConfigAttributeModel, ConfigAttribute, model, configuration, attribute, Salesforce]
 ---
-
-# CPQ API ConfigAttributeModel
 
 > The ConfigAttribute model represents the configuration attribute object in Salesforce
   CPQ.

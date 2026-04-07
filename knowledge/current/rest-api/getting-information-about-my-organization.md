@@ -5,12 +5,10 @@ topic: getting-information-about-my-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.432Z
+lastCollected: 2026-04-07T18:36:21.677Z
 estimatedTokens: 404
-keywords: [Getting, Organization, examples, REST, API, resources, retrieve, organization-level, objects]
+keywords: [Getting, Organization, examples, REST, API, resources, retrieve, organization-level]
 ---
-
-# Getting Information About My Organization
 
 > The examples in this section use REST API resources to retrieve organization-level
   information, such as a list of all objects available in your organization.

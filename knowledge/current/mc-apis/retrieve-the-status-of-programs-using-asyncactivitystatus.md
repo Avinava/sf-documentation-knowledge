@@ -5,12 +5,10 @@ topic: retrieve-the-status-of-programs-using-asyncactivitystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.700Z
+lastCollected: 2026-04-07T18:40:18.901Z
 estimatedTokens: 2893
-keywords: [Retrieve, Status, Programs, AsyncActivityStatus, retrieving, Campaign, representing, program, itself, Why, How, Sample, NET, Code, PHP]
+keywords: [Retrieve, Status, Programs, AsyncActivityStatus, retrieving, Campaign, representing, program, itself, Why, How, Sample, NET, Code, PHP, Java, Axis, 1.4, SOAP, Envelope, Complex, Filter, Items]
 ---
-
-# Retrieve the Status of Programs Using AsyncActivityStatus
 
 > This page contains information about retrieving the status of programs using the Campaign object (representing the program itself) and AsyncActivityStatus.
 

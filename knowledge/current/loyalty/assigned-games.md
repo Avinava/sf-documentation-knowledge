@@ -5,12 +5,10 @@ topic: assigned-games
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.342Z
+lastCollected: 2026-04-07T18:38:08.609Z
 estimatedTokens: 1188
-keywords: [Assigned, Games, eligible, expired, played, Spin, Wheel, Scratch, card, loyalty, program, member, account, contact, Resource]
+keywords: [Resource, Assigned, Games, eligible, expired, played, Spin, Wheel, Scratch, card, loyalty, program, member, account, contact, Sample]
 ---
-
-# Assigned Games
 
 > Get a list of eligible, expired, and played games, such as Spin the Wheel, or Scratch
     card, for a loyalty program member, an account, or a contact.

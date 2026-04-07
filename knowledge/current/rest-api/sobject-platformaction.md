@@ -5,12 +5,10 @@ topic: sobject-platformaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:36.096Z
+lastCollected: 2026-04-07T18:36:21.319Z
 estimatedTokens: 219
-keywords: [sObject, PlatformAction, virtual, read-only, query, actions, user, context, device, record, Examples, include, standard, custom, buttons]
+keywords: [sObject, PlatformAction, virtual, read-only, query, actions, user, context, device, record, Examples, include, standard, buttons, quick, productivity, resource, API, 33.0]
 ---
-
-# sObject PlatformAction
 
 > Returns the description of the PlatformAction. PlatformAction is a virtual read-only
   object. It enables you to query for actions displayed in the UI, given a user, a context, device

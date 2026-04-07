@@ -5,13 +5,11 @@ topic: querycontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.616Z
+lastCollected: 2026-04-07T18:35:59.897Z
 estimatedTokens: 1359
 namespace: DataSource
 keywords: [QueryContext, instance, provided, query, DataSource.Connection, corresponds, SOQL, queryMoreToken, tableSelection, metadata, offset, maxResults]
 ---
-
-# QueryContext Class
 
 > An instance of QueryContext is
       provided to the query method on your DataSource.Connection class. The instance corresponds to a SOQL

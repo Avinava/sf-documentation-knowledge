@@ -5,12 +5,10 @@ topic: import-sdk-into-android-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.168Z
+lastCollected: 2026-04-07T18:38:09.453Z
 estimatedTokens: 468
 keywords: [Import, SDK, Android, Studio, clone, mobile, repository, Loyalty, Management, automatically, download, manage, external, dependencies]
 ---
-
-# Import SDK into Android Studio
 
 > After you clone the mobile SDK for Android repository, import Loyalty Management Mobile
     SDK in Android Studio to automatically download and manage external dependencies.

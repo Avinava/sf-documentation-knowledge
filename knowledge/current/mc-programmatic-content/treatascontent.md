@@ -5,12 +5,10 @@ topic: treatascontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.070Z
+lastCollected: 2026-04-07T18:40:23.510Z
 estimatedTokens: 152
-keywords: [TreatAsContent, Function, Ordinal, Provided, content, **Overview**, **Syntax**, Usage]
+keywords: [TreatAsContent, Function, Ordinal, Provided, content, **Overview**, **Syntax**]
 ---
-
-# TreatAsContent
 
 > TreatAsContent(1)
 

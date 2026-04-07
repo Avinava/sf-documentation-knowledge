@@ -5,12 +5,10 @@ topic: smart-data-discovery-outcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.243Z
+lastCollected: 2026-04-07T18:36:59.734Z
 estimatedTokens: 126
-keywords: [Smart, Data, Discovery, Outcome, analysis, Einstein, story]
+keywords: [Smart, Discovery, Outcome, analysis, Einstein, story]
 ---
-
-# Smart Data Discovery Outcome
 
 > The analysis outcome for an Einstein Discovery story.
 

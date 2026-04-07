@@ -5,12 +5,10 @@ topic: post-addressv1validateemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.814Z
+lastCollected: 2026-04-07T18:40:21.083Z
 estimatedTokens: 309
-keywords: [POST, address, validateEmail, Validates, email, specifying, validators, HTTP, validator, call, **Overview**, Usage]
+keywords: [POST, address, validateEmail, Validates, email, specifying, validators, HTTP, validator, call, **Overview**]
 ---
-
-# POST /address/v1/validateEmail
 
 > Validates an email by specifying the email address and validators to be used in the request body of the HTTP POST. You can use more than one validator in the same call.
 

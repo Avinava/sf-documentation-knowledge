@@ -5,12 +5,10 @@ topic: loyalty-account-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.044Z
+lastCollected: 2026-04-07T18:38:07.258Z
 estimatedTokens: 276
-keywords: [Loyalty, Account, Input, representation, creating, business, member]
+keywords: [Loyalty, Account, creating, business, member]
 ---
-
-# Loyalty Account Input
 
 > Input representation for creating a business account for the
       member.

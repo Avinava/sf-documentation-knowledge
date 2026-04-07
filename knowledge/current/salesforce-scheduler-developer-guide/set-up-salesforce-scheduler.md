@@ -5,12 +5,10 @@ topic: set-up-salesforce-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.823Z
+lastCollected: 2026-04-07T18:39:20.584Z
 estimatedTokens: 339
-keywords: [Salesforce, Scheduler, organization, Assign, permissions, access, users, tab, visibility, Configure, settings, multi-resource, scheduling, concurrent, multiple, org, multi, resource]
+keywords: [Salesforce, Scheduler, organization, Assign, permissions, users, tab, visibility, Configure, settings, multi-resource, scheduling, concurrent, multiple, time, zone, selection, map, location, services, Optionally, Asset, org, multi, resource, necessary]
 ---
-
-# Set Up Salesforce Scheduler
 
 > Set up Salesforce Scheduler for your org. Assign permissions and
       object access for your users. Update related lists and tab visibility. Configure Salesforce

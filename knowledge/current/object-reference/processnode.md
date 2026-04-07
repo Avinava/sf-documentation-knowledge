@@ -5,12 +5,10 @@ topic: processnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.179Z
+lastCollected: 2026-04-07T18:38:38.569Z
 estimatedTokens: 249
-keywords: [ProcessNode, step, process, definition, Compare, ProcessInstanceNode, running, API, version, 31.0, later, Calls, Usage]
+keywords: [ProcessNode, step, process, definition, Compare, ProcessInstanceNode, running, API, 31.0]
 ---
-
-# ProcessNode
 
 > Describes a step in a process definition. Compare to ProcessInstanceNode, which describes a step in a running process. This object is available in API version 31.0 and
 		later.

@@ -5,12 +5,10 @@ topic: flow-for-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.158Z
+lastCollected: 2026-04-07T18:35:42.012Z
 estimatedTokens: 681
-keywords: [Flow, Billing, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic, provide]
+keywords: [FlowActionCall, Flow, Billing, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Billing
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that navigates users through a series of screens to query and update records in the

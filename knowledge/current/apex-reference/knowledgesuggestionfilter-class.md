@@ -5,13 +5,11 @@ topic: knowledgesuggestionfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.574Z
+lastCollected: 2026-04-07T18:36:00.849Z
 estimatedTokens: 2342
 namespace: Search
-keywords: [KnowledgeSuggestionFilter, Filter, settings, narrow, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, search, query, KnowledgeArticleVersion, addArticleType]
+keywords: [KnowledgeSuggestionFilter, Filter, settings, narrow, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, search, query, KnowledgeArticleVersion, addArticleType, articleType, addDataCategory, dataCategoryGroupName, dataCategoryName, addTopic, topic, setChannel, channelName, setDataCategories, dataCategoryFilters, setLanguage, localeCode, setPublishStatus, publishStatus, setValidationStatus, validationStatus]
 ---
-
-# KnowledgeSuggestionFilter Class
 
 > Filter settings that narrow the results from a call to System.Search.suggest(searchQuery, sObjectType, options)
       when the SOSL search query contains a KnowledgeArticleVersion object.

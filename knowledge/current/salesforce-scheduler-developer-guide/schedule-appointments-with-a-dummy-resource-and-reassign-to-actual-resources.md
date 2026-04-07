@@ -6,13 +6,10 @@ topic: schedule-appointments-with-a-dummy-resource-and-reassign-to-actual-resour
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.397Z
+lastCollected: 2026-04-07T18:39:21.209Z
 estimatedTokens: 553
-keywords: [Schedule, Appointments, Dummy, Resource, Reassign, Actual, Resources, how, concurrent, later, scenarios, scheduled, assigned, wealth, management]
+keywords: [Schedule, Appointments, Dummy, Resource, Reassign, Actual, Resources, how, concurrent, scenarios, scheduled, assigned, wealth, management, advisory, desk, accepts, various, time, slots, two, days, appointment, date, call, center, whose, randomly, real, day]
 ---
-
-# Schedule Appointments with a Dummy Resource and Reassign to Actual
-      Resources
 
 > Learn how to create concurrent appointments by using a dummy resource and to reassign
     the appointments to actual resources later in scenarios where appointments are scheduled before

@@ -5,12 +5,10 @@ topic: using-standard-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.326Z
+lastCollected: 2026-04-07T18:40:25.700Z
 estimatedTokens: 802
 keywords: [Standard, Targets, Mobile, Sync, ready-to-use, target, classes, several, Salesforce, implicitly, configuration, files, directly, code]
 ---
-
-# Using Standard Targets
 
 > Mobile Sync provides ready-to-use target classes for several standard
    Salesforce request types. You can use these targets implicitly through configuration files, or

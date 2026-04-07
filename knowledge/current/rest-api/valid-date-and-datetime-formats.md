@@ -5,12 +5,10 @@ topic: valid-date-and-datetime-formats
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.968Z
+lastCollected: 2026-04-07T18:36:20.182Z
 estimatedTokens: 292
 keywords: [Date, DateTime, Formats, Specify, right]
 ---
-
-# Valid Date and DateTime Formats
 
 > Specify the right format for dateTime and date fields.
 

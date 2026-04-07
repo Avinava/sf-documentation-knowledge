@@ -5,12 +5,10 @@ topic: when-to-use-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:59.445Z
+lastCollected: 2026-04-07T18:38:51.705Z
 estimatedTokens: 448
 keywords: [JavaScript, Remoting, optimized, mobile, pages, third-party, libraries, dynamic, interactive, feel, responsive, traditional, Visualforce]
 ---
-
-# When to Use JavaScript Remoting
 
 > JavaScript remoting is
   optimized for use on mobile pages and on pages that use third-party JavaScript

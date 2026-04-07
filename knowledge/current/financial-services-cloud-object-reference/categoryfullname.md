@@ -5,12 +5,10 @@ topic: categoryfullname
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.808Z
+lastCollected: 2026-04-07T18:37:34.317Z
 estimatedTokens: 38
 keywords: [categoryFullName, category, record, alert]
 ---
-
-# categoryFullName
 
 > The category name of the record alert.
 

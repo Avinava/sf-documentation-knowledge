@@ -5,12 +5,10 @@ topic: placeordercompletedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.704Z
+lastCollected: 2026-04-07T18:39:54.249Z
 estimatedTokens: 270
-keywords: [PlaceOrderCompletedEvent, Notifies, subscribers, order, created, updated, invoking, Place, API, Sales, Transaction, version, 63.0, later]
+keywords: [PlaceOrderCompletedEvent, Notifies, subscribers, order, created, updated, invoking, Place, API, Sales, Transaction, 63.0]
 ---
-
-# PlaceOrderCompletedEvent
 
 > Notifies subscribers of an order being created or updated by invoking
 			the Place Order API or the Place Sales Transaction API. This object is available in

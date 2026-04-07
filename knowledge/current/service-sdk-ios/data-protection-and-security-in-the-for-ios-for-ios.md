@@ -6,13 +6,10 @@ topic: data-protection-and-security-in-the-for-ios-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.845Z
+lastCollected: 2026-04-07T18:40:27.978Z
 estimatedTokens: 371
-keywords: [Data, Protection, Security, iOS, Service, Chat, SDK, collect, store, personal, users, ensure, secure, locally, transit]
+keywords: [Protection, Security, iOS, Service, Chat, SDK, collect, store, personal, users, ensure, secure, locally, transit]
 ---
-
-# Data Protection and Security in the  for iOS for
-      iOS
 
 > The Service Chat SDK does not collect
       or store personal data from its users. We ensure that data is secure both locally and when in

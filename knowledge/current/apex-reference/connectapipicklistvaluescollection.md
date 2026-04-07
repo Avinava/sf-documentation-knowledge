@@ -5,12 +5,10 @@ topic: connectapipicklistvaluescollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:25.544Z
+lastCollected: 2026-04-07T18:36:10.818Z
 estimatedTokens: 194
 keywords: [ConnectApi.PicklistValuesCollection, Collection, picklist, picklists, record]
 ---
-
-# ConnectApi.PicklistValuesCollection
 
 > Collection of picklist values for all the picklists of a record type.
 

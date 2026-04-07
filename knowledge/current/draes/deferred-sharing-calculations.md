@@ -5,12 +5,10 @@ topic: deferred-sharing-calculations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.794Z
+lastCollected: 2026-04-07T18:37:28.883Z
 estimatedTokens: 1207
-keywords: [Deferred, Sharing, Calculations, Performing, large, number, configuration, changes, lead, long, rule, evaluations, timeouts, avoid, issues]
+keywords: [Deferred, Sharing, Calculations, Performing, large, number, configuration, changes, lead, long, rule, evaluations, timeouts, avoid, issues, suspend, specifically, group, membership, resume, organization's, maintenance, period, Who’s, Good, Candidate]
 ---
-
-# Deferred Sharing Calculations
 
 > Performing a large number of configuration changes can lead to long sharing rule
     evaluations or timeouts. To avoid these issues, you can suspend sharing calculations,

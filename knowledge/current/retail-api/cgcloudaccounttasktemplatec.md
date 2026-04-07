@@ -5,12 +5,10 @@ topic: cgcloudaccounttasktemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.424Z
+lastCollected: 2026-04-07T18:39:12.855Z
 estimatedTokens: 1551
-keywords: [cgcloud__Account_Task_Template__c, customer, task, template, tasks, API, version, 54.0, later, cgcloud, _Account, _Task, _Template, Calls, Associated]
+keywords: [cgcloud__Account_Task_Template__c, customer, task, template, tasks, API, 54.0, cgcloud, _Account, _Task, _Template]
 ---
-
-# cgcloud__Account_Task_Template__c
 
 > Represents the details of the customer task template to be used for customer
          tasks. This object is available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: clicksretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.626Z
+lastCollected: 2026-04-07T18:40:24.058Z
 estimatedTokens: 124
-keywords: [Clicks.Retrieve, Function, Ordinal, Criteria, filter, tracking, results, **Overview**, **Syntax**]
+keywords: [Clicks.Retrieve, Function, Ordinal, Criteria, filter, results, **Overview**, **Syntax**]
 ---
-
-# Clicks.Retrieve
 
 > Clicks.Retrieve(1)
 

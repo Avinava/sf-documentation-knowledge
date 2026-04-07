@@ -5,12 +5,10 @@ topic: template-readiness-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.291Z
+lastCollected: 2026-04-07T18:36:57.843Z
 estimatedTokens: 213
 keywords: [Template, Readiness, Item, individual, validation, task, Analytics]
 ---
-
-# Template Readiness Item
 
 > An individual validation task for an Analytics template.
 

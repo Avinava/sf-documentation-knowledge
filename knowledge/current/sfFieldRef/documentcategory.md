@@ -5,13 +5,11 @@ topic: documentcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.591Z
+lastCollected: 2026-04-07T18:39:38.297Z
 estimatedTokens: 287
 namespace: NamespacePrefix
-keywords: [DocumentCategory, document, category, that's, group, checklist, items, API, version, 59.0, later]
+keywords: [DocumentCategory, document, category, that's, group, checklist, items, API, 59.0]
 ---
-
-# DocumentCategory
 
 > Represents a document category that's used to group the document checklist
          items. This object is available in API version 59.0 and later.

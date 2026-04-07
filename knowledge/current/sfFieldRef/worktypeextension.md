@@ -5,12 +5,10 @@ topic: worktypeextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.386Z
+lastCollected: 2026-04-07T18:40:07.310Z
 estimatedTokens: 317
 keywords: [WorkTypeExtension, Represent, additional, work]
 ---
-
-# WorkTypeExtension
 
 > Represent additional information about a work type.
 

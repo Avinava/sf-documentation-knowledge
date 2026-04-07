@@ -5,12 +5,10 @@ topic: connectapiproductoverview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:25.836Z
+lastCollected: 2026-04-07T18:36:11.102Z
 estimatedTokens: 226
 keywords: [ConnectApi.ProductOverview, product, summary, prices, selected, product’s, image]
 ---
-
-# ConnectApi.ProductOverview
 
 > Overview of a product, with summary information about prices, selected
       fields, and the product’s default image.

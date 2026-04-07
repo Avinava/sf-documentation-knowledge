@@ -5,12 +5,10 @@ topic: oci-release-reservation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.077Z
+lastCollected: 2026-04-07T18:37:21.230Z
 estimatedTokens: 113
-keywords: [OCI, Release, Reservation, Output, inventory, reservations]
+keywords: [OCI, Release, Reservation, inventory, reservations]
 ---
-
-# OCI Release Reservation Output
 
 > Response to a request to release one or more inventory
       reservations.

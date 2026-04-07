@@ -5,12 +5,10 @@ topic: importdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.410Z
+lastCollected: 2026-04-07T18:40:17.588Z
 estimatedTokens: 1834
 keywords: [ImportDefinition, reusable, pattern, import, options, definition, upload, Subscribers.csv, every, day, Customers, prevent, having, re-enter, Items]
 ---
-
-# ImportDefinition
 
 > The ImportDefinition object defines a reusable pattern of import options. For example, you could create an import definition to upload Subscribers.csv every day into the Customers list to prevent having to re-enter the same parameters every day.
 

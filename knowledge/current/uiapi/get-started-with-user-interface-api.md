@@ -5,12 +5,10 @@ topic: get-started-with-user-interface-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:15.588Z
+lastCollected: 2026-04-07T18:40:10.564Z
 estimatedTokens: 817
-keywords: [Started, User, API, Build, Salesforce, native, mobile, apps, custom, web, uses, Lightning, Experience, Android, iOS]
+keywords: [Started, User, API, Build, Salesforce, native, mobile, apps, web, uses, Lightning, Experience, Android, iOS, interfaces, let, users, work, records, views, actions, favorites, metadata, matches, changes, made, org, admins, don’t, worry, layouts, picklists, field-level, security, sharing—all, app, love]
 ---
-
-# Get Started with User Interface API
 
 > Build Salesforce UI for native mobile apps and custom web apps using
       the same API that Salesforce uses to build Lightning Experience and Salesforce for Android,

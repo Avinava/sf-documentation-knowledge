@@ -5,12 +5,10 @@ topic: gameauthenticator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.196Z
+lastCollected: 2026-04-07T18:38:08.462Z
 estimatedTokens: 97
-keywords: [GameAuthenticator, necessary, handling, access, tokens, Salesforce, API, getAccessToken, grantAccessToken]
+keywords: [GameAuthenticator, necessary, handling, tokens, Salesforce, API, getAccessToken, grantAccessToken]
 ---
-
-# GameAuthenticator
 
 > The GameAuthenticator interface defines the
     necessary methods for handling access tokens in the Salesforce API.

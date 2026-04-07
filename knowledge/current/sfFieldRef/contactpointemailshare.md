@@ -5,12 +5,10 @@ topic: contactpointemailshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.646Z
+lastCollected: 2026-04-07T18:39:35.088Z
 estimatedTokens: 251
 keywords: [ContactPointEmailShare, Sharing, ContactPointEmail]
 ---
-
-# ContactPointEmailShare
 
 > Sharing for ContactPointEmail.
 

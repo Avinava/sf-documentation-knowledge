@@ -5,12 +5,10 @@ topic: loginactivity-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.493Z
+lastCollected: 2026-04-07T18:40:24.901Z
 estimatedTokens: 166
-keywords: [LoginActivity, login, screen, workflow, worth, describing, because, explains, two, classes, activity, package, press, Menu, button]
+keywords: [LoginActivity, login, screen, workflow, worth, describing, because, explains, two, classes, activity, package, press, Menu, button, three, options, Clear, Cookies, Reload, Change, Server, launches]
 ---
-
-# LoginActivity Class
 
 > LoginActivity defines the login screen. The login workflow
    is worth describing because it explains two other classes in the activity package. In the login

@@ -5,12 +5,10 @@ topic: paymentscheduletreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.662Z
+lastCollected: 2026-04-07T18:39:53.177Z
 estimatedTokens: 410
-keywords: [PaymentScheduleTreatment, configuration, payment, schedule, API, version, 56.0, later]
+keywords: [PaymentScheduleTreatment, configuration, payment, schedule, API, 56.0]
 ---
-
-# PaymentScheduleTreatment
 
 > Contains configuration information for the payment schedule.
       This object is available in API version 56.0 and later.

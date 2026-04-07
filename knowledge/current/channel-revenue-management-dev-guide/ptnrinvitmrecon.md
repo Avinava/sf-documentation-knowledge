@@ -5,12 +5,10 @@ topic: ptnrinvitmrecon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.986Z
+lastCollected: 2026-04-07T18:37:06.689Z
 estimatedTokens: 1167
-keywords: [PtnrInvItmRecon, partner, reported, inventory, reconciliation, product, location, particular, price, API, version, 64.0, later, Calls, Associated]
+keywords: [PtnrInvItmRecon, partner, reported, inventory, reconciliation, product, location, particular, price, API, 64.0]
 ---
-
-# PtnrInvItmRecon
 
 > Represents a partner reported inventory reconciliation for a product at a
          location for a particular price. This object is available in API version 64.0 and

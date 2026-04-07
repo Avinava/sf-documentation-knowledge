@@ -5,12 +5,10 @@ topic: understand-file-uploads-in-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:25.381Z
+lastCollected: 2026-04-07T18:38:15.909Z
 estimatedTokens: 1185
-keywords: [Understand, File, Uploads, Salesforce, It’s, simple, upload, files, attach, records, user, great, deal, place, behind]
+keywords: [Understand, File, Uploads, Salesforce, It’s, simple, upload, files, attach, records, user, great, deal, place, behind, scenes, complex, complexity, challenging, work, programmatically, LWC, code, especially, way, works, mobile, device, offline, Image, Caching]
 ---
-
-# Understand File Uploads in Salesforce
 
 > It’s simple to upload files and attach them to other records in the Salesforce user
   interface, but a great deal takes place behind the scenes. File uploads have a complex

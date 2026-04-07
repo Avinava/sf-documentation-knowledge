@@ -5,12 +5,10 @@ topic: configure-batch-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.316Z
+lastCollected: 2026-04-07T18:37:28.352Z
 estimatedTokens: 572
-keywords: [Configure, Batch, Processes, samples, conf, process-conf.xml, Data, Loader, represented, ProcessRunner, beans]
+keywords: [Configure, Batch, Processes, samples, conf, process-conf.xml, Loader, represented, ProcessRunner, beans]
 ---
-
-# Configure Batch Processes
 
 > Use \samples\conf\process-conf.xml to configure your 
     Data Loader processes, which are represented by ProcessRunner beans.

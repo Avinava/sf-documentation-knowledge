@@ -5,12 +5,10 @@ topic: declarative-access-control-model-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.986Z
+lastCollected: 2026-04-07T18:37:26.955Z
 estimatedTokens: 252
-keywords: [Declarative, Access, Control, Model, Examples, code, flow, provide, unauthenticated, guest, users, records]
+keywords: [Declarative, Control, Model, Examples, code, flow, provide, unauthenticated, guest, users, records]
 ---
-
-# Declarative Access Control Model Examples
 
 > These code and flow examples use the declarative access control model to provide
         unauthenticated guest users access to read records.

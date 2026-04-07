@@ -5,12 +5,10 @@ topic: getalertsbywhatidvar1
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.860Z
+lastCollected: 2026-04-07T18:37:34.380Z
 estimatedTokens: 235
 keywords: [getAlertsByWhatId, var1, Retrieve, record, alerts, Salesforce]
 ---
-
-# getAlertsByWhatId(var1)
 
 > Retrieve record alerts by the Salesforce object record
     ID.

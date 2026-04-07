@@ -5,12 +5,10 @@ topic: trended-reports-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.949Z
+lastCollected: 2026-04-07T18:36:56.498Z
 estimatedTokens: 188
 keywords: [Trended, Reports, Resource, deletes, updates, trending, report]
 ---
-
-# Trended Reports Resource
 
 > Returns, deletes, or updates a trending report.
 

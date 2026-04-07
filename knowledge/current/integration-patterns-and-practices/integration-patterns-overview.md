@@ -5,12 +5,10 @@ topic: integration-patterns-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:04.248Z
+lastCollected: 2026-04-07T18:37:53.544Z
 estimatedTokens: 172
-keywords: [Integration, Patterns, implement, Salesforce, frequently, integrate, applications, Although, scenario, unique, there, common, requirements, issues, developers]
+keywords: [Integration, Patterns, implement, Salesforce, frequently, integrate, applications, Although, scenario, unique, there, common, requirements, issues, developers, resolve]
 ---
-
-# Integration Patterns Overview
 
 > When you implement Salesforce, you frequently need to integrate it
     with other applications. Although each integration scenario is unique, there are common

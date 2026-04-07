@@ -5,12 +5,10 @@ topic: course-offering-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.172Z
+lastCollected: 2026-04-07T18:37:29.295Z
 estimatedTokens: 300
-keywords: [Course, Offering, POST, offerings, their, associated, schedules, bulk, API, specify, courses, offered, helping, students, plan]
+keywords: [Course, Offering, POST, offerings, their, schedules, bulk, API, specify, courses, offered, helping, students, plan, registrations, conflicts]
 ---
-
-# Course Offering (POST)
 
 > Create course offerings and their associated course offering schedules in bulk. Use
     this API to create course schedules that specify when courses are offered, helping students plan

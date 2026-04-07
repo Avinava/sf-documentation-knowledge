@@ -5,12 +5,10 @@ topic: with-snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.445Z
+lastCollected: 2026-04-07T18:40:10.418Z
 estimatedTokens: 1303
-keywords: [SNIPPET, clause, added, SOSL, query, article, case, feed, idea, searches, search, results, excerpts, below, titles]
+keywords: [SNIPPET, clause, added, SOSL, query, article, case, idea, searches, search, results, excerpts, below, titles, show, terms, matching, highlighted, context, surrounding, text, Snippets, easier, users, identify, content, they’re, looking, Escaped, HTML, Tags, Target, Length, APIs]
 ---
-
-# WITH SNIPPET
 
 > WITH SNIPPET is an optional
             clause that can be added to a SOSL query for article, case, feed, and idea searches. On

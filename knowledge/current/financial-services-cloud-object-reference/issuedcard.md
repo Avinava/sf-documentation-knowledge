@@ -5,12 +5,10 @@ topic: issuedcard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.094Z
+lastCollected: 2026-04-07T18:37:35.769Z
 estimatedTokens: 1602
-keywords: [IssuedCard, card, issued, customer, debit, credit, prepaid, gift, any, API, version, 61.0, later, Calls, Special]
+keywords: [IssuedCard, card, issued, customer, debit, credit, prepaid, gift, any, API, 61.0]
 ---
-
-# IssuedCard
 
 > Represents information about the card issued to a customer, such as debit
          card, credit card, prepaid card, gift card, and any other card type. This object is

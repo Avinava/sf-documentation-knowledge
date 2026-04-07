@@ -5,12 +5,10 @@ topic: templating-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:00.157Z
+lastCollected: 2026-04-07T18:38:52.463Z
 estimatedTokens: 600
-keywords: [Templating, Visualforce, Templates, made, <apex, insert>, composition>, want, already, require, components, duplicated, custom]
+keywords: [Templating, Visualforce, Templates, made, <apex, insert>, composition>, want, already, require, duplicated]
 ---
-
-# Templating with Visualforce
 
 > Templates made with <apex:insert> and <apex:composition> should only be used when you want to reference an already existing Visualforce page. If you require only a set of components to be duplicated,
 use custom components.

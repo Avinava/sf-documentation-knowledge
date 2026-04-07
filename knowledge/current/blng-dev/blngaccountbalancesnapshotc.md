@@ -5,12 +5,10 @@ topic: blngaccountbalancesnapshotc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:16.890Z
+lastCollected: 2026-04-07T18:37:03.458Z
 estimatedTokens: 1895
-keywords: [blng__AccountBalanceSnapshot__c, outstanding, invoice, debt, account, grouped, number, days, past, due, date, balance, snapshot, includes, amounts]
+keywords: [blng__AccountBalanceSnapshot__c, outstanding, invoice, debt, account, grouped, number, days, past, due, date, balance, snapshot, includes, amounts, unapplied, credit, notes, payments, blng, _AccountBalanceSnapshot]
 ---
-
-# blng__AccountBalanceSnapshot__c
 
 > Represents a list of outstanding invoice debt within an account, grouped by
          the number of days past the due date. The account balance snapshot also includes the

@@ -5,12 +5,10 @@ topic: competency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.262Z
+lastCollected: 2026-04-07T18:39:06.329Z
 estimatedTokens: 791
-keywords: [Competency, skill, subject, matter, expertise, behavior, job, role, API, version, 64.0, later, Calls, Special, Access]
+keywords: [Competency, skill, subject, matter, expertise, behavior, job, role, API, 64.0]
 ---
-
-# Competency
 
 > Represents a skill, subject matter expertise, or behavior required for a job
          or role. This object is available in API version 64.0 and later.

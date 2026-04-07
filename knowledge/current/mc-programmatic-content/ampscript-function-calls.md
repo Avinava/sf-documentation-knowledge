@@ -5,12 +5,10 @@ topic: ampscript-function-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.871Z
+lastCollected: 2026-04-07T18:40:22.245Z
 estimatedTokens: 916
-keywords: [AMPscript, Function, Calls, Call, location, email, message, landing, SMS, want, result, script, appear, code, functions]
+keywords: [AMPscript, Function, Call, location, email, message, landing, SMS, want, result, script, appear, code, functions, surrounded, open, close, delimiters, ignored, system, execute, Outside, Block, Inside, Tag-based, Minimum, Full, Delimiter, Comparison, Constant, Attribute, Variable]
 ---
-
-# AMPscript Function Calls
 
 > Call the AMPscript at the location in the email message, landing page, or SMS message where you want the result of the script to appear. All AMPscript code and functions must be surrounded by open and close delimiters, or the code will be ignored by the system. Function calls will execute even if ou
 

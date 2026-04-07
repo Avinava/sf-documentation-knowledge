@@ -5,13 +5,11 @@ topic: assert-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.666Z
+lastCollected: 2026-04-07T18:36:00.950Z
 estimatedTokens: 4576
 namespace: System
-keywords: [Assert, various, conditions, test, whether, two, condition, variable, areEqual, expected, actual, msg, Usage, areNotEqual, notExpected]
+keywords: [Assert, various, conditions, test, whether, two, condition, variable, areEqual, expected, actual, msg, areNotEqual, notExpected, fail, isFalse, isInstanceOfType, instance, expectedType, isNotInstanceOfType, notExpectedType, isNotNull, isNull, isTrue]
 ---
-
-# Assert Class
 
 > Contains methods to assert various conditions with test methods,
       such as whether two values are the same, a condition is true, or a variable is null.

@@ -5,12 +5,10 @@ topic: salesforce-api-resources-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.351Z
+lastCollected: 2026-04-07T18:38:45.178Z
 estimatedTokens: 293
 keywords: [Salesforce, API, Resources, External, Routing, integrate, partner, application, Omni-Channel]
 ---
-
-# Salesforce API Resources for External Routing
 
 > Use the following resources as you integrate your partner application with
   Omni-Channel.

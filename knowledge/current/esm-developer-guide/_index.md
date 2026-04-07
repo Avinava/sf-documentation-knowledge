@@ -2,7 +2,7 @@
 domain: esm-developer-guide
 name: Enterprise Sales Management
 documentCount: 51
-lastGenerated: 2026-04-07T09:06:36.473Z
+lastGenerated: 2026-04-07T18:40:41.825Z
 ---
 
 # Enterprise Sales Management — Knowledge Index

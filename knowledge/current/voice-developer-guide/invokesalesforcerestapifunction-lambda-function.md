@@ -5,12 +5,10 @@ topic: invokesalesforcerestapifunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.937Z
+lastCollected: 2026-04-07T18:40:12.882Z
 estimatedTokens: 1332
-keywords: [InvokeSalesforceRestApiFunction, Lambda, Function, calls, Salesforce, REST, API, place, contact, flow, query, records]
+keywords: [InvokeSalesforceRestApiFunction, Lambda, Function, Salesforce, REST, API, place, contact, flow, query, records]
 ---
-
-# InvokeSalesforceRestApiFunction Lambda Function
 
 > This Lambda function calls the Salesforce REST API. You can place this
       Lambda function within a contact flow to create, update, or query Salesforce

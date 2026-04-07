@@ -5,12 +5,10 @@ topic: connectapirefundlineapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.616Z
+lastCollected: 2026-04-07T18:35:41.500Z
 estimatedTokens: 182
-keywords: [ConnectApi.RefundLineApplyRequest, Input, representation, transaction, refund, outlines, including, amount, payment, credit, memo, record, applied]
+keywords: [ConnectApi.RefundLineApplyRequest, transaction, refund, outlines, including, amount, payment, credit, memo, record, applied]
 ---
-
-# ConnectApi.RefundLineApplyRequest
 
 > Input representation of the details of a transaction refund request. This representation
     outlines the properties of a refund, including the refund amount and ID of the payment or credit

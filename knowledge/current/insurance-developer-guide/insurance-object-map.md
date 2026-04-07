@@ -5,12 +5,10 @@ topic: insurance-object-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.359Z
+lastCollected: 2026-04-07T18:37:52.536Z
 estimatedTokens: 85
-keywords: [Insurance, Map, Output, representation, attributes, keys]
+keywords: [Insurance, Map, attributes, keys]
 ---
-
-# Insurance Object Map
 
 > Output representation for a map of attributes with string keys and object values.
 

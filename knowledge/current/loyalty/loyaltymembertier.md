@@ -5,12 +5,10 @@ topic: loyaltymembertier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.852Z
+lastCollected: 2026-04-07T18:38:10.176Z
 estimatedTokens: 1153
-keywords: [LoyaltyMemberTier, current, tier, member, across, groups, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [LoyaltyMemberTier, current, tier, member, across, groups, API, 51.0]
 ---
-
-# LoyaltyMemberTier
 
 > Represents information about the current tier of the member across tier
       groups. This object is available in API version 51.0 and later.

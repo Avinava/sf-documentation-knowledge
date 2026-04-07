@@ -5,12 +5,10 @@ topic: oci-future-stock-single-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.535Z
+lastCollected: 2026-04-07T18:37:09.277Z
 estimatedTokens: 108
-keywords: [OCI, Future, Stock, Input, expected, inventory, restock, product]
+keywords: [OCI, Future, Stock, expected, inventory, restock, product]
 ---
-
-# OCI Future Stock Single Input
 
 > An expected future inventory restock for one product.
 

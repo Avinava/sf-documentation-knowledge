@@ -5,12 +5,10 @@ topic: productfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.152Z
+lastCollected: 2026-04-07T18:39:10.623Z
 estimatedTokens: 1750
-keywords: [ProductFilter, APEX, programmatic, access, TPM, Promotion, Product, Filter, Products, included, _ProductFilter, toJSON, API, Version, List<ManualProduct>]
+keywords: [ProductFilter, APEX, programmatic, TPM, Promotion, Product, Filter, Products, included, _ProductFilter, toJSON, API, List<ManualProduct>, getManualProducts, List<String>, getCriteriaValues, ManualProduct, addManualProduct, toGenericObject, Set<SObjectField>, getCriteriaFields, load, clear, clearCriteria, removeCriteria, removeManualProduct, setCriteriaValues]
 ---
-
-# ProductFilter Class
 
 > This APEX class provides programmatic access to the TPM Promotion Product Filter used in
   the Promotion. This Product Filter defines the Products that are included in the

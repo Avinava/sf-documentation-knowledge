@@ -5,12 +5,10 @@ topic: b2bexpresssuborders-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.898Z
+lastCollected: 2026-04-07T18:37:32.066Z
 estimatedTokens: 40
 keywords: [b2bExpress_SubOrders, API, sub-orders, quote, member, b2bExpress, _SubOrders, URI, HTTP]
 ---
-
-# b2bExpress_SubOrders API
 
 > Create sub-orders for a given quote member.
 

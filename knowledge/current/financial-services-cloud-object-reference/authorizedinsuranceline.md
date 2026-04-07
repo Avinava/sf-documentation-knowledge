@@ -5,12 +5,10 @@ topic: authorizedinsuranceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.676Z
+lastCollected: 2026-04-07T18:37:36.451Z
 estimatedTokens: 927
-keywords: [AuthorizedInsuranceLine, insurance, lines, company, authorized, sell, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [AuthorizedInsuranceLine, insurance, lines, company, authorized, sell, API, 48.0]
 ---
-
-# AuthorizedInsuranceLine
 
 > Represents the insurance lines that an insurance company is authorized to
       sell. This object is available in API version 48.0 and later.

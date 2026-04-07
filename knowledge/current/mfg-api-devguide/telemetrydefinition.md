@@ -5,12 +5,10 @@ topic: telemetrydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.978Z
+lastCollected: 2026-04-07T18:38:13.256Z
 estimatedTokens: 431
-keywords: [TelemetryDefinition, definition, structure, telemetry, signal, sent, connected, asset, vehicle, Parent, File, Suffix, Directory, Location, Version]
+keywords: [TelemetryDefinition, definition, structure, telemetry, signal, sent, connected, asset, vehicle, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---
-
-# TelemetryDefinition
 
 > Represents the definition of the structure of a telemetry
 			signal sent from a connected asset or vehicle.

@@ -5,12 +5,10 @@ topic: workforcecapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:52.863Z
+lastCollected: 2026-04-07T18:38:44.671Z
 estimatedTokens: 837
-keywords: [WorkforceCapacity, time, series, actual, forecasted, workforce, allocation, API, version, 51.0, later, Calls, Special, Access, Rules]
+keywords: [WorkforceCapacity, time, series, actual, forecasted, workforce, allocation, API, 51.0]
 ---
-
-# WorkforceCapacity
 
 > Represents the time series for actual or forecasted workforce
          allocation. This object is available in API version 51.0 and later.

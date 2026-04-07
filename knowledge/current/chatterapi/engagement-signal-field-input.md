@@ -5,12 +5,10 @@ topic: engagement-signal-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.366Z
+lastCollected: 2026-04-07T18:37:08.183Z
 estimatedTokens: 74
-keywords: [Engagement, Signal, Input]
+keywords: [Engagement, Signal]
 ---
-
-# Engagement Signal Field Input
 
 > Field input object.
 

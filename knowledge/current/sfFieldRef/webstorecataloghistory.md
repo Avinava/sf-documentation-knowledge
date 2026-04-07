@@ -5,12 +5,10 @@ topic: webstorecataloghistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.670Z
+lastCollected: 2026-04-07T18:40:06.575Z
 estimatedTokens: 262
-keywords: [WebStoreCatalogHistory, History, tracked, WebStoreCatalog]
+keywords: [WebStoreCatalogHistory, tracked, WebStoreCatalog]
 ---
-
-# WebStoreCatalogHistory
 
 > History for tracked fields of WebStoreCatalog.
 

@@ -5,12 +5,10 @@ topic: hold-result-output-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.497Z
+lastCollected: 2026-04-07T18:37:29.577Z
 estimatedTokens: 207
-keywords: [Hold, Result, Output, Items, representation, individual]
+keywords: [Hold, Result, Items, individual]
 ---
-
-# Hold Result Output Items
 
 > Output representation of the information related to individual hold result
     items.

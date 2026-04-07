@@ -5,12 +5,10 @@ topic: sections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:27.023Z
+lastCollected: 2026-04-07T18:40:22.414Z
 estimatedTokens: 315
-keywords: [Sections, block, tags, prefix, render, content, contained, data, template, provide, output]
+keywords: [Sections, Template, block, tags, prefix, render, content, contained, provide]
 ---
-
-# Sections
 
 > Sections use block tags and a # prefix. Use sections to render content based on the values contained in the data reference. For example, the Guide template and the data reference provide the output displayed.
 

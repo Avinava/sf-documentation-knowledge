@@ -5,12 +5,10 @@ topic: handle-notification-encryption-in-salesforce-mobile-sdk-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.966Z
+lastCollected: 2026-04-07T18:39:09.288Z
 estimatedTokens: 874
-keywords: [Handle, Notification, Encryption, Salesforce, Mobile, SDK, Apps, notifications, travel, third-party, messaging, services, carriers, devices, indirect]
+keywords: [Handle, Notification, Encryption, Salesforce, Mobile, SDK, Apps, notifications, travel, third-party, messaging, services, carriers, devices, indirect, path, increases, opportunities, malicious, attacks, guard, against, snooping, hacking, encrypts, Builder, app, responsible, decrypting, Implementing, Decryption, Extension, Swift]
 ---
-
-# Handle Notification Encryption in Salesforce Mobile SDK Apps
 
 > Mobile notifications travel from Salesforce, through third-party messaging services to
     mobile carriers, then on to mobile devices. Such an indirect path only increases the

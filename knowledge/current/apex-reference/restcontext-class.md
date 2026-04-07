@@ -5,13 +5,11 @@ topic: restcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.990Z
+lastCollected: 2026-04-07T18:36:14.316Z
 estimatedTokens: 420
 namespace: System
-keywords: [RestContext, RestRequest, RestResponse, objects, Usage, Sample]
+keywords: [Sample, RestContext, RestRequest, RestResponse]
 ---
-
-# RestContext Class
 
 > Contains the RestRequest and RestResponse
             objects.

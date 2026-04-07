@@ -5,12 +5,10 @@ topic: add-a-recipe-to-a-crm-analytics-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.544Z
+lastCollected: 2026-04-07T18:37:02.152Z
 estimatedTokens: 759
-keywords: [Add, Recipe, CRM, Analytics, Template, Data, prep, recipes, unique, asset, they, aren’t, stored, folders, dashboards]
+keywords: [Add, Recipe, CRM, Analytics, Template, prep, recipes, unique, asset, they, aren’t, stored, folders, dashboards, lenses, datasets, way, connect, app, via, relationship, folder, consume]
 ---
-
-# Add a Recipe to a CRM Analytics Template
 
 > Data prep recipes are a unique CRM Analytics asset, as they aren’t stored in folders like
   dashboards, lenses, and datasets. The only way to connect a recipe to an app is via the

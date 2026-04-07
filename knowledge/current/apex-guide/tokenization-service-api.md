@@ -5,12 +5,10 @@ topic: tokenization-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.645Z
+lastCollected: 2026-04-07T18:36:16.862Z
 estimatedTokens: 766
-keywords: [Tokenization, Service, API, credit, card, process, replaces, sensitive, customer, one-time, algorithmically, generated, number, token, payment]
+keywords: [Tokenization, Service, API, credit, card, process, replaces, sensitive, customer, one-time, algorithmically, generated, number, token, payment, transaction, Salesforce, stores, uses, transactions, storing, numbers, add, capabilities, services, implement, Sample]
 ---
-
-# Tokenization Service API
 
 > The credit card tokenization process replaces sensitive customer information with a
   one-time algorithmically generated number, called a token, to use during the payment transaction.

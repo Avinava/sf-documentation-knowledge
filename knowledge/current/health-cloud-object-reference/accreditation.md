@@ -5,12 +5,10 @@ topic: accreditation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.892Z
+lastCollected: 2026-04-07T18:37:45.285Z
 estimatedTokens: 1415
-keywords: [Accreditation, professional, accreditations, facility, joint, commission, accredits, general, acute, care, hospital, Calls, Associated, Objects]
+keywords: [Accreditation, professional, accreditations, facility, joint, commission, accredits, general, acute, care, hospital]
 ---
-
-# Accreditation
 
 > Represents the professional accreditations of a facility. For
 			example, a joint commission accredits a facility as a general acute care

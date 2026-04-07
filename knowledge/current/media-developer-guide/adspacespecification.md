@@ -5,12 +5,10 @@ topic: adspacespecification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.158Z
+lastCollected: 2026-04-07T18:38:12.446Z
 estimatedTokens: 1915
-keywords: [AdSpaceSpecification, specific, place, group, places, creative, served, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdSpaceSpecification, specific, place, group, places, creative, served, API, 54.0]
 ---
-
-# AdSpaceSpecification
 
 > Represents a specific place or a group of places where an ad creative
          is served. This object is available in API version 54.0 and later.

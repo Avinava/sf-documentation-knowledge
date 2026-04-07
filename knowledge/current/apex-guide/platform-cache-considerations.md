@@ -5,12 +5,10 @@ topic: platform-cache-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:32.948Z
+lastCollected: 2026-04-07T18:36:18.173Z
 estimatedTokens: 630
 keywords: [Platform, Cache, Considerations, Review, working]
 ---
-
-# Platform Cache Considerations
 
 > Review these considerations when working with Platform Cache.
 

@@ -5,12 +5,10 @@ topic: how-scratch-orgs-fit-in-the-package-development-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.665Z
+lastCollected: 2026-04-07T18:38:55.082Z
 estimatedTokens: 1038
-keywords: [How, Scratch, Orgs, Fit, Package, Development, Workflow, essential, tool, developing, testing, app, want, help, continuous]
+keywords: [How, Scratch, Orgs, Fit, Package, Development, Workflow, essential, tool, developing, testing, app, want, help, continuous, integration, processes, automate, steps, write, script, creates, org, installs, runs, Apex, tests, emails, test, results, release, manager, Develop, Enable, Cloud]
 ---
-
-# How Scratch Orgs Fit in the Package Development Workflow
 
 > Scratch orgs are an essential tool in both developing and testing the app you want to
     package. Scratch orgs also help with continuous integration (CI) processes to automate package

@@ -5,12 +5,10 @@ topic: typecast-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.014Z
+lastCollected: 2026-04-07T18:39:19.711Z
 estimatedTokens: 72
 keywords: [Typecast, node, recipe]
 ---
-
-# Typecast Parameters
 
 > The parameters for a typecast node in a recipe.
 

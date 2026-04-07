@@ -5,12 +5,10 @@ topic: feed-elements-capability-case-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.633Z
+lastCollected: 2026-04-07T18:37:13.581Z
 estimatedTokens: 208
-keywords: [Feed, Elements, Capability, Case, Comment, Access, element]
+keywords: [Capability, Case, Comment]
 ---
-
-# Feed Elements Capability, Case Comment
 
 > Access the case comment capability of a feed
     element.

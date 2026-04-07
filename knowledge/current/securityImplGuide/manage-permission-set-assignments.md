@@ -5,12 +5,10 @@ topic: manage-permission-set-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.563Z
+lastCollected: 2026-04-07T18:39:22.450Z
 estimatedTokens: 554
 keywords: [Manage, Permission, Assignments, assign, user, detail, multiple, users, any]
 ---
-
-# Manage Permission Set Assignments
 
 > You can assign permission sets to a single user from the user detail page or assign
     multiple users to a permission set from any permission set page.

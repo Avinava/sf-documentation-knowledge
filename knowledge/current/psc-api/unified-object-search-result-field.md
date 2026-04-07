@@ -5,12 +5,10 @@ topic: unified-object-search-result-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.035Z
+lastCollected: 2026-04-07T18:39:03.263Z
 estimatedTokens: 106
-keywords: [Unified, Search, Result, Output, representation]
+keywords: [Unified, Search, Result]
 ---
-
-# Unified Object Search Result Field
 
 > Output representation for the unified object search result
     field.

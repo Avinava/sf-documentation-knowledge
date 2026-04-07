@@ -5,12 +5,10 @@ topic: clinicalencounterfacilityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.772Z
+lastCollected: 2026-04-07T18:39:34.199Z
 estimatedTokens: 276
-keywords: [ClinicalEncounterFacilityHistory, History, tracked, ClinicalEncounterFacility]
+keywords: [ClinicalEncounterFacilityHistory, tracked, ClinicalEncounterFacility]
 ---
-
-# ClinicalEncounterFacilityHistory
 
 > History for tracked fields of ClinicalEncounterFacility.
 

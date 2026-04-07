@@ -5,12 +5,10 @@ topic: charts-geodata-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.699Z
+lastCollected: 2026-04-07T18:36:56.229Z
 estimatedTokens: 178
 keywords: [Charts, Geodata, Resource, definition, updates]
 ---
-
-# Charts Geodata Resource
 
 > Returns a geodata definition, updates, or delete a geodata
       definition.

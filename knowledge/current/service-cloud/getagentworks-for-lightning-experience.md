@@ -5,12 +5,10 @@ topic: getagentworks-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.693Z
+lastCollected: 2026-04-07T18:36:49.862Z
 estimatedTokens: 192
 keywords: [getAgentWorks, Lightning, Experience, work, items, assigned, agent, open, agent’s, workspace, Sample, Code]
 ---
-
-# getAgentWorks for Lightning Experience
 
 > Returns a list of work items that are assigned to an agent and open in the agent’s
         workspace.

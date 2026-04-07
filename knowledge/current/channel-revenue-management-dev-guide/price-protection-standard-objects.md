@@ -5,12 +5,10 @@ topic: price-protection-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.307Z
+lastCollected: 2026-04-07T18:37:05.998Z
 estimatedTokens: 512
-keywords: [Price, Protection, Standard, Objects, data, model, manage, programs, partners, distributors, ensure, partner, margin, stability, amidst]
+keywords: [Price, Protection, Standard, model, manage, programs, partners, distributors, ensure, partner, margin, stability, amidst, market, fluctuations]
 ---
-
-# Price Protection Standard Objects
 
 > Price Protection data model provides objects and fields to manage price protection
     programs for partners and distributors. Use these objects to ensure partner margin stability

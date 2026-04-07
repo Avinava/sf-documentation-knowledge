@@ -5,12 +5,10 @@ topic: getdatestringbasedontimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.950Z
+lastCollected: 2026-04-07T18:38:05.113Z
 estimatedTokens: 123
 keywords: [getDateStringBasedOnTimezone, date, time, zone, Sample, Code]
 ---
-
-# getDateStringBasedOnTimezone
 
 > Gets a date string based on a time zone.
 

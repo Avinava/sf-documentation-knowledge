@@ -5,12 +5,10 @@ topic: asset-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.992Z
+lastCollected: 2026-04-07T18:36:55.421Z
 estimatedTokens: 205
-keywords: [Asset, File, Resource, preview, updates, URL, Formats, Version, HTTP, PUT]
+keywords: [Formats, Asset, File, Resource, preview, updates, URL, HTTP, PUT]
 ---
-
-# Asset File Resource
 
 > Returns a preview file for an asset and updates the file.
 

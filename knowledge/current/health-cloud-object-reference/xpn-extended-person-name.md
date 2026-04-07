@@ -5,12 +5,10 @@ topic: xpn---extended-person-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:56.502Z
+lastCollected: 2026-04-07T18:37:44.842Z
 estimatedTokens: 342
-keywords: [XPN, Extended, Person, HL7, segment, maps, PersonName, Salesforce, V2.3, Clinical, Data, Model, Mapping]
+keywords: [XPN, Extended, Person, HL7, segment, maps, PersonName, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# XPN - Extended Person Name
 
 > The Extended Person Name (XPN) HL7 segment maps to the PersonName object in Salesforce.
 

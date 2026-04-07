@@ -5,12 +5,10 @@ topic: net-zero-cloud-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.579Z
+lastCollected: 2026-04-07T18:38:17.156Z
 estimatedTokens: 1041
-keywords: [Net, Zero, Cloud, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
+keywords: [Net, Zero, Cloud, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
-
-# Net Zero Cloud Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

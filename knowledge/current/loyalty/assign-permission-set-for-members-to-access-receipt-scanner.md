@@ -5,12 +5,10 @@ topic: assign-permission-set-for-members-to-access-receipt-scanner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.813Z
+lastCollected: 2026-04-07T18:38:09.107Z
 estimatedTokens: 403
-keywords: [Assign, Permission, Members, Access, Receipt, Scanner, feature, their, mobile, devices, Scanning, Experience, Cloud, users, ensure]
+keywords: [Assign, Permission, Members, Receipt, Scanner, feature, their, mobile, devices, Scanning, Experience, Cloud, users, ensure, Apex, classes, automatically, run, upload, modify, Receipts, provide, edit, permissions]
 ---
-
-# Assign Permission Set for Members to Access Receipt Scanner
 
 > For your members to access the Receipt Scanner feature on their mobile devices, assign
   the Receipt Scanning permission set to the Experience Cloud users. Assign permission set to the

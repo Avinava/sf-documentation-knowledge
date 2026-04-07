@@ -5,12 +5,10 @@ topic: sales-order-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.502Z
+lastCollected: 2026-04-07T18:35:54.558Z
 estimatedTokens: 2725
-keywords: [Sales, Order, DMO, Data, Cloud, model, around, current, pending, orders, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Sales, Order, DMO, Cloud, model, around, current, pending, orders, API, Primary, Subject, Area, Key]
 ---
-
-# Sales Order DMO
 
 > The Sales Order DMO is a Data Cloud data model object (DMO) that provides
       information around current and pending sales orders.

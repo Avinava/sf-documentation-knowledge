@@ -6,13 +6,10 @@ topic: prepare-a-support-request-for-problems-with-visualforce-pages-in-the-sale
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.689Z
+lastCollected: 2026-04-07T18:38:52.977Z
 estimatedTokens: 768
-keywords: [Prepare, Support, Problems, Visualforce, Pages, Salesforce, App, resources, help, developers, answers, their, questions, resolve, suggest]
+keywords: [Prepare, Support, Problems, Visualforce, Pages, Salesforce, App, resources, help, developers, answers, their, questions, resolve, suggest, take, look, Developer, Discussion, Forum, Stack, Exchange, Known, Issues, immediately, solution, problem, question, unanswered, submit, case, Salesforce’s, team, route, best, person, answer, Check]
 ---
-
-# Prepare a Support Request for Problems with Visualforce Pages in the
-      Salesforce App
 
 > Salesforce provides resources to help developers find answers to their questions and
     resolve their problems. We suggest you first take a look at the Developer Discussion Forum,

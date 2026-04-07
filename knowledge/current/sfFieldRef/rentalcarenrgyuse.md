@@ -5,12 +5,10 @@ topic: rentalcarenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.000Z
+lastCollected: 2026-04-07T18:39:59.668Z
 estimatedTokens: 702
 keywords: [RentalCarEnrgyUse, energy, consumption, rental, cars]
 ---
-
-# RentalCarEnrgyUse
 
 > Represents the energy consumption related to rental cars.
 

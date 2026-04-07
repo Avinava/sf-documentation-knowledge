@@ -5,12 +5,10 @@ topic: sosdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.907Z
+lastCollected: 2026-04-07T18:38:41.647Z
 estimatedTokens: 576
-keywords: [SOSDeployment, general, settings, deploying, SOS, video, call, capability, native, mobile, application, API, version, 34.0, later]
+keywords: [SOSDeployment, general, settings, deploying, SOS, video, call, capability, native, mobile, application, API, 34.0]
 ---
-
-# SOSDeployment
 
 > Represents the general settings for deploying SOS video call
 			capability in a native mobile application. This object is available in API version

@@ -5,12 +5,10 @@ topic: create-agentwork-records-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.319Z
+lastCollected: 2026-04-07T18:38:45.152Z
 estimatedTokens: 380
 keywords: [AgentWork, Records, External, Routing, application, creates, route, work, items, rep, Omni-Channel]
 ---
-
-# Create AgentWork Records for External Routing
 
 > The external routing
   application creates

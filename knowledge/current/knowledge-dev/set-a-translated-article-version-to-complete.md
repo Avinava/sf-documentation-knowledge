@@ -5,12 +5,10 @@ topic: set-a-translated-article-version-to-complete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.617Z
+lastCollected: 2026-04-07T18:37:53.911Z
 estimatedTokens: 110
-keywords: [Translated, Article, Version]
+keywords: [Translated, Article]
 ---
-
-# Set a Translated Article Version to Complete
 
 > Sets a translated article version to complete.
 

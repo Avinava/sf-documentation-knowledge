@@ -5,13 +5,11 @@ topic: recordtranscripts-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.219Z
+lastCollected: 2026-04-07T18:39:00.270Z
 estimatedTokens: 559
 namespace: DataRetrieval
 keywords: [RecordTranscripts, Stores, transcripts, interaction, session, record, messaging, voice, call, recordId]
 ---
-
-# RecordTranscripts Class
 
 > Stores the transcripts of a single interaction session record, such as a messaging
     session or a voice call.

@@ -5,12 +5,10 @@ topic: context-nodes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.107Z
+lastCollected: 2026-04-07T18:36:36.644Z
 estimatedTokens: 202
-keywords: [Context, Nodes, Input, representation, node]
+keywords: [Context, Nodes, node]
 ---
-
-# Context Nodes Input
 
 > Input representation of context node.
 

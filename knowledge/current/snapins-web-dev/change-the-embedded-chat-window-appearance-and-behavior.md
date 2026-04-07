@@ -5,12 +5,10 @@ topic: change-the-embedded-chat-window-appearance-and-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.600Z
+lastCollected: 2026-04-07T18:40:09.548Z
 estimatedTokens: 799
-keywords: [Change, Embedded, Chat, Window, Appearance, Behavior, affect, specific, stages, Customize, pre-chat, image, background, logo, waiting]
+keywords: [Change, Embedded, Chat, Window, Appearance, Behavior, affect, specific, stages, Customize, pre-chat, image, background, logo, waiting, state, agent, avatar, Einstein, Bot, pictures, text, appears, loading, agents, online, offline, routing, order, load, branded, files, events]
 ---
-
-# Change the Embedded Chat Window Appearance and Behavior
 
 > Set parameters that affect the appearance and behavior of the chat window
    at specific stages. Customize the pre-chat image background, logo, waiting state image, and your

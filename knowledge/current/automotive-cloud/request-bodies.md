@@ -5,12 +5,10 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.560Z
+lastCollected: 2026-04-07T18:36:51.912Z
 estimatedTokens: 333
 keywords: [Bodies, Here’s, Automotive, Cloud, Business, API]
 ---
-
-# Request Bodies
 
 > Here’s a list of Automotive Cloud Business API request bodies.
 

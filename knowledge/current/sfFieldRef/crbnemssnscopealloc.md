@@ -5,12 +5,10 @@ topic: crbnemssnscopealloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.780Z
+lastCollected: 2026-04-07T18:39:36.317Z
 estimatedTokens: 338
-keywords: [CrbnEmssnScopeAlloc, allocation, fuel, consumption, different, scope, emissions, energy, record, tCO₂e, calculated, results, classified, either, emission]
+keywords: [CrbnEmssnScopeAlloc, allocation, fuel, consumption, different, scope, emissions, energy, record, tCO₂e, calculated, results, classified, either, emission, individual, own, put, tCO2e, result, correct, points]
 ---
-
-# CrbnEmssnScopeAlloc
 
 > Represents the allocation of fuel consumption for different scope emissions.
          For an energy use record, tCO₂e is calculated and the results are classified as either

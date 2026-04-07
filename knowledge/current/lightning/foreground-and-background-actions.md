@@ -5,12 +5,10 @@ topic: foreground-and-background-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.664Z
+lastCollected: 2026-04-07T18:38:03.720Z
 estimatedTokens: 777
-keywords: [Foreground, Background, Actions, run, action, feature, useful, want, app, remain, responsive, user, executes, low, priority]
+keywords: [Foreground, Background, Actions, run, action, feature, useful, want, app, remain, responsive, user, executes, low, priority, long-running, rough, guideline, few, seconds, server, Framework-Managed, Throttling, Setting]
 ---
-
-# Foreground and Background Actions
 
 > Actions run in the foreground by default. You can set an action to run in the
         background. This feature is useful if you want your app to remain responsive to a user while

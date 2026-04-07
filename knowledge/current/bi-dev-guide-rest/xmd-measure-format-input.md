@@ -5,12 +5,10 @@ topic: xmd-measure-format-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.874Z
+lastCollected: 2026-04-07T18:36:55.291Z
 estimatedTokens: 365
-keywords: [Xmd, Measure, Input, extended, metadata, Analytics, dataset]
+keywords: [Xmd, Measure, extended, metadata, Analytics, dataset]
 ---
-
-# Xmd Measure Format Input
 
 > The extended metadata (Xmd) for the format of a measure in an Analytics
   dataset.

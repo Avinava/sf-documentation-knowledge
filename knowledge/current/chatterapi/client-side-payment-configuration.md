@@ -5,12 +5,10 @@ topic: client-side-payment-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.440Z
+lastCollected: 2026-04-07T18:37:17.513Z
 estimatedTokens: 118
 keywords: [Client-Side, Payment, Configuration, Commerce, store]
 ---
-
-# Client-Side Payment Configuration
 
 > Client-side payment configuration for a Commerce
     store.

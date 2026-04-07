@@ -5,12 +5,10 @@ topic: cms-digital-asset-management-providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.788Z
+lastCollected: 2026-04-07T18:37:11.588Z
 estimatedTokens: 415
 keywords: [CMS, Digital, Asset, Management, Providers, DAM, provider, instance]
 ---
-
-# CMS Digital Asset Management Providers
 
 > Get digital asset management (DAM) providers. Create a DAM provider
     instance.

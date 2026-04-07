@@ -5,12 +5,10 @@ topic: commerce-webstore-product-search-suggestions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.843Z
+lastCollected: 2026-04-07T18:37:12.722Z
 estimatedTokens: 573
 keywords: [Commerce, Webstore, Product, Search, Suggestions, searches]
 ---
-
-# Commerce Webstore Product Search Suggestions
 
 > Get suggestions for product searches.
 

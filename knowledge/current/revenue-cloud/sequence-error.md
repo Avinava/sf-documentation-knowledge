@@ -5,12 +5,10 @@ topic: sequence-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.716Z
+lastCollected: 2026-04-07T18:35:46.689Z
 estimatedTokens: 125
-keywords: [Sequence, Error, Output, representation, that's, associated, policy, assign, sequences]
+keywords: [Sequence, Error, that's, policy, assign, sequences]
 ---
-
-# Sequence Error
 
 > Output representation of the error response that's associated with a request to create or
     update a sequence policy, or assign sequences.

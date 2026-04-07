@@ -5,12 +5,10 @@ topic: apexinputtext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.703Z
+lastCollected: 2026-04-07T18:38:49.888Z
 estimatedTokens: 1626
-keywords: [apex, inputText, HTML, input, element, text, component, user, controller, correspond, Salesforce, Attributes]
+keywords: [Attributes, apex, inputText, HTML, text, user, controller, correspond, Salesforce]
 ---
-
-# apex:inputText
 
 > An HTML input element of type text. Use this component to get user input for a controller method that does not correspond to a field on a Salesforce object.
 

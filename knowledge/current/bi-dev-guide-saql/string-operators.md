@@ -5,12 +5,10 @@ topic: string-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.514Z
+lastCollected: 2026-04-07T18:37:01.110Z
 estimatedTokens: 75
 keywords: [Operators, concatenate, strings, plus, sign]
 ---
-
-# String Operators
 
 > To concatenate strings, use the plus sign (+).
 

@@ -5,12 +5,10 @@ topic: deleting-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.733Z
+lastCollected: 2026-04-07T18:38:03.804Z
 estimatedTokens: 772
-keywords: [Deleting, Record, Lightning, Data, Service, call, deleteRecord, force, recordData, component, pass, callback, function, invoked, operation]
+keywords: [Deleting, Record, Lightning, Service, call, deleteRecord, force, recordData, pass, callback, function, invoked, operation, completes, form-based, recordForm, don’t, currently, support]
 ---
-
-# Deleting a Record
 
 > To delete a record using Lightning Data Service, call deleteRecord on the force:recordData
         component, and pass in a callback function to be invoked after the delete operation

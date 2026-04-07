@@ -5,12 +5,10 @@ topic: github-issues-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.811Z
+lastCollected: 2026-04-07T18:36:16.993Z
 estimatedTokens: 420
-keywords: [GitHub, Issues, Custom, Adapter, Salesforce, Connect, creates, links, products, indirect, lookup, relationship, external, comments, issue]
+keywords: [GitHub, Issues, Adapter, Salesforce, Connect, creates, links, products, indirect, lookup, relationship, external, comments, issue, DataSource.Connection, DataSource.Provider]
 ---
-
-# GitHub Issues Custom Adapter for Salesforce Connect
 
 > This example creates a custom adapter that links GitHub Issues to products in Salesforce
         using an indirect lookup relationship. An external lookup relationship also links GitHub

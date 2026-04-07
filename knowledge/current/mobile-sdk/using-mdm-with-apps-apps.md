@@ -5,12 +5,10 @@ topic: using-mdm-with-apps-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.467Z
+lastCollected: 2026-04-07T18:40:26.733Z
 estimatedTokens: 1560
-keywords: [MDM, Apps, Mobile, Device, Management, facilitate, app, configuration, updating, authentication, Salesforce, SDK, support, connected, Runtime]
+keywords: [MDM, Apps, Mobile, Device, Management, facilitate, app, configuration, updating, authentication, Salesforce, SDK, support, connected, Runtime, Flow, Certificate-Based, Automatic, Host, Provisioning, Additional, Security, Enhancements]
 ---
-
-# Using MDM with  Apps Apps
 
 > Mobile Device Management (MDM) can facilitate app configuration, updating, and
   authentication. Salesforce and Mobile SDK support the use of MDM for

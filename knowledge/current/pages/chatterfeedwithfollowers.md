@@ -5,12 +5,10 @@ topic: chatterfeedwithfollowers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.176Z
+lastCollected: 2026-04-07T18:38:49.179Z
 estimatedTokens: 399
-keywords: [chatter, feedWithFollowers, integrated, component, displays, feed, record, well, followers, components, unavailable, Visualforce, pages, Force.com, sites]
+keywords: [Attributes, chatter, feedWithFollowers, integrated, displays, record, well, followers, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included, include]
 ---
-
-# chatter:feedWithFollowers
 
 > An integrated UI component that displays the Chatter feed for a record, as well as its list of followers. Note that Chatter components are unavailable for Visualforce pages on Force.com sites. Ext JS versions less than 3 should not be included on pages that use this component. Do not include this co
 

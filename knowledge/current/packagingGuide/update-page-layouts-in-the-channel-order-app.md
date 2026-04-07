@@ -5,12 +5,10 @@ topic: update-page-layouts-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.507Z
+lastCollected: 2026-04-07T18:38:46.374Z
 estimatedTokens: 404
-keywords: [Layouts, Channel, Order, App, you’re, upgrading, COA, later, assign, updated, customer, service, partner, contract, terms]
+keywords: [Layouts, Channel, Order, App, you’re, upgrading, COA, assign, updated, customer, service, partner, contract, terms, product, catalog]
 ---
-
-# Update Page Layouts in the Channel Order App
 
 > If you’re upgrading to Channel Order App (COA) v2 and later, assign updated page layouts
     to the customer, service order, partner contract terms, and partner product catalog

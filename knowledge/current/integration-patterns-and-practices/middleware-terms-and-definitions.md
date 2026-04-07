@@ -5,12 +5,10 @@ topic: middleware-terms-and-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:04.258Z
+lastCollected: 2026-04-07T18:37:53.555Z
 estimatedTokens: 2941
 keywords: [Middleware, Terms, Definitions, key, their, regards, patterns]
 ---
-
-# Middleware Terms and Definitions
 
 > This table lists some key terms related to middleware and their definitions
     with

@@ -5,12 +5,10 @@ topic: orderitemusagersrcgrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.634Z
+lastCollected: 2026-04-07T18:35:49.592Z
 estimatedTokens: 899
-keywords: [OrderItemUsageRsrcGrant, negotiated, grants, usage, resource, that's, associated, product, added, order, item, API, version, 65.0, later]
+keywords: [OrderItemUsageRsrcGrant, negotiated, grants, resource, that's, product, added, order, item, API, 65.0]
 ---
-
-# OrderItemUsageRsrcGrant
 
 > Represents the negotiated grants for the usage resource that's
          associated with the usage product added in the order item. This object is available in

@@ -5,12 +5,10 @@ topic: connectapirecordview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.200Z
+lastCollected: 2026-04-07T18:36:11.489Z
 estimatedTokens: 238
-keywords: [ConnectApi.RecordView, view, any, record, org, including, custom, specialized, User, ChatterGroup, isn’t]
+keywords: [ConnectApi.RecordView, view, any, record, org, including, specialized, User, ChatterGroup, isn’t]
 ---
-
-# ConnectApi.RecordView
 
 > A view of any record in the org, including a custom object record. This object is used
   if a specialized object, such as User or ChatterGroup, isn’t available for the record

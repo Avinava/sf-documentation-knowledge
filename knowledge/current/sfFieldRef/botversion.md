@@ -5,12 +5,10 @@ topic: botversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.874Z
+lastCollected: 2026-04-07T18:39:30.002Z
 estimatedTokens: 358
-keywords: [BotVersion, version, bot, agent, defined, BotDefinition, record, API, 63.0, later]
+keywords: [BotVersion, bot, agent, defined, BotDefinition, record, API, 63.0]
 ---
-
-# BotVersion
 
 > Represents a version of a bot or agent defined by a BotDefinition
          record. This object is available in API version 63.0 and later.

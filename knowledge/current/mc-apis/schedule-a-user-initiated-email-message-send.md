@@ -5,12 +5,10 @@ topic: schedule-a-user-initiated-email-message-send
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:24.862Z
+lastCollected: 2026-04-07T18:40:20.084Z
 estimatedTokens: 487
-keywords: [Schedule, User-Initiated, Email, Message, Send, regarding, scheduling, via, SOAP, API, Why, How, Sample, NET, Code]
+keywords: [Schedule, User-Initiated, Email, Message, Send, regarding, scheduling, via, SOAP, API, Why, How, Sample, NET, Code, Items]
 ---
-
-# Schedule a User-Initiated Email Message Send
 
 > This page contains information  regarding scheduling a user-initiated email send via the SOAP API.
 

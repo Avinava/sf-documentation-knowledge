@@ -5,12 +5,10 @@ topic: searchresultactionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.167Z
+lastCollected: 2026-04-07T18:37:58.686Z
 estimatedTokens: 764
-keywords: [SearchResultActionConfig, collection, actions, user, perform, results, criteria-based, search, Parent, File, Suffix, Directory, Location, Version, Special, API, version, 59.0, later, SOAP]
+keywords: [SearchResultActionConfig, collection, actions, user, perform, results, criteria-based, search, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 59.0, SOAP, REST]
 ---
-
-# SearchResultActionConfig
 
 > Represents a collection of fields to set up the actions
 			that a user can perform on results returned by criteria-based search.

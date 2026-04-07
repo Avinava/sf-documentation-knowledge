@@ -5,13 +5,11 @@ topic: sfdcenablement-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.016Z
+lastCollected: 2026-04-07T18:36:15.338Z
 estimatedTokens: 431
 namespace: The
-keywords: [Sfdc_Enablement, classes, creating, custom, learning, items, implement, exercise, Enablement, programs, Lightning, web, components, render, exercises]
+keywords: [Sfdc_Enablement, classes, creating, learning, items, implement, exercise, Enablement, programs, Lightning, web, render, exercises, Program, Builder, Sfdc, _Enablement]
 ---
-
-# Sfdc_Enablement Namespace
 
 > The sfdc_enablement namespace provides classes for
     creating custom learning items to implement custom exercise types in Enablement programs.

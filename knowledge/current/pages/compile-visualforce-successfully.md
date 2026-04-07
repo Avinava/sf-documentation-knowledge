@@ -5,12 +5,10 @@ topic: compile-visualforce-successfully
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.650Z
+lastCollected: 2026-04-07T18:38:51.954Z
 estimatedTokens: 427
-keywords: [Compile, Visualforce, Successfully, requirements, compiling, pages, components]
+keywords: [Compile, Visualforce, Successfully, requirements, compiling, pages]
 ---
-
-# Compile Visualforce Successfully
 
 > Learn the requirements of compiling Visualforce pages and
     components.

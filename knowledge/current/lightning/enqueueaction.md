@@ -5,12 +5,10 @@ topic: enqueueaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.282Z
+lastCollected: 2026-04-07T18:38:05.484Z
 estimatedTokens: 394
-keywords: [enqueueAction, Queue, call, Apex, action, framework, queues, actions, sending, server, mechanism, largely, transparent, you’re, writing]
+keywords: [enqueueAction, Queue, call, Apex, action, framework, queues, actions, sending, server, mechanism, largely, transparent, you’re, writing, code, minimize, network, traffic, batching, multiple, XHR]
 ---
-
-# enqueueAction()
 
 > Queue a call to an Apex action . The framework queues up actions
    before sending them to the server. This mechanism is largely transparent to you when you’re

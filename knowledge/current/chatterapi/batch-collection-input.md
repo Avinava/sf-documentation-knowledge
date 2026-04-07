@@ -5,12 +5,10 @@ topic: batch-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.588Z
+lastCollected: 2026-04-07T18:37:07.307Z
 estimatedTokens: 107
-keywords: [Batch, Collection, Input, inputs]
+keywords: [Batch, Collection, inputs]
 ---
-
-# Batch Collection Input
 
 > Describes a collection of inputs for a batch
     request.

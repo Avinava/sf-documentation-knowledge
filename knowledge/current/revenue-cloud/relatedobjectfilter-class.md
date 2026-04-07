@@ -5,12 +5,10 @@ topic: relatedobjectfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.451Z
+lastCollected: 2026-04-07T18:35:41.307Z
 estimatedTokens: 530
-keywords: [RelatedObjectFilter, filter, objects, product, search, discovery, allowing, products, criteria, objectName]
+keywords: [RelatedObjectFilter, filter, product, search, discovery, allowing, products, criteria, objectName]
 ---
-
-# RelatedObjectFilter Class
 
 > Represents a filter for related objects used in product search and discovery, allowing you to filter products based on related object criteria.
 

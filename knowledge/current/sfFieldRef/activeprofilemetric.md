@@ -5,12 +5,10 @@ topic: activeprofilemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.836Z
+lastCollected: 2026-04-07T18:39:24.745Z
 estimatedTokens: 264
-keywords: [ActiveProfileMetric, profile, associated, active, assigned, purchased, user, licenses, API, version, 52.0, later]
+keywords: [ActiveProfileMetric, profile, active, assigned, purchased, user, licenses, API, 52.0]
 ---
-
-# ActiveProfileMetric
 
 > Represents the profile associated with the active, assigned, and purchased
          user licenses. This object is available in API version 52.0 and later.

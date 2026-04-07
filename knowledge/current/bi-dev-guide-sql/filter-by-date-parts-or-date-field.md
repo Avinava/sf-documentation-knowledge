@@ -5,12 +5,10 @@ topic: filter-by-date-parts-or-date-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.008Z
+lastCollected: 2026-04-07T18:37:01.618Z
 estimatedTokens: 125
 keywords: [Filter, Date, Parts, part, clause, EXTRACT, function, pass, desired, year, month, day, logical, operator]
 ---
-
-# Filter By Date Parts or Date Field
 
 > To filter by a date part, use the WHERE clause with
   the EXTRACT() function, and pass it the desired date parts

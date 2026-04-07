@@ -5,12 +5,10 @@ topic: supplierproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.307Z
+lastCollected: 2026-04-07T18:38:14.723Z
 estimatedTokens: 284
-keywords: [SupplierProduct, product, that’s, procured, supplier, API, version, 59.0, later, Calls]
+keywords: [SupplierProduct, product, that’s, procured, supplier, API, 59.0]
 ---
-
-# SupplierProduct
 
 > Represents information about a product that’s procured from a supplier.
       This object is available in API version 59.0 and later.

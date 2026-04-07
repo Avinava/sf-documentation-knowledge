@@ -5,12 +5,10 @@ topic: run-schedule-and-sync-crm-analytics-data-with-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:11.743Z
+lastCollected: 2026-04-07T18:36:58.300Z
 estimatedTokens: 1963
-keywords: [Run, Schedule, Sync, CRM, Analytics, Data, REST, APIs, API, automate, features, running, scheduling, syncs, dataflows]
+keywords: [Run, Schedule, Sync, CRM, Analytics, REST, APIs, API, automate, features, running, scheduling, syncs, dataflows, recipes, Start, Stop, Dataflow, Job, Recipe, Explore, Nodes, Connections]
 ---
-
-# Run, Schedule, and Sync CRM Analytics Data with REST APIs
 
 > You can use the CRM Analytics REST API to automate features, like running and scheduling
     data syncs, dataflows and recipes.

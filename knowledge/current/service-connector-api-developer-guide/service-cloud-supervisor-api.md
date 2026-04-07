@@ -5,12 +5,10 @@ topic: service-cloud-supervisor-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.807Z
+lastCollected: 2026-04-07T18:39:23.738Z
 estimatedTokens: 789
 keywords: [Service, Cloud, Supervisor, API, part, Connector, intended, functionality, Voice, Partner, Telephony, Bring, Own, Channel, CCaaS]
 ---
-
-# Service Cloud Supervisor API
 
 > This section describes the Supervisor API, which is a part of the Connector API that is
   intended for supervisor functionality. Use this API for Service Cloud Voice for Partner Telephony

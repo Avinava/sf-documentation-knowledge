@@ -5,12 +5,10 @@ topic: connectapiethocaalertcallbackinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.523Z
+lastCollected: 2026-04-07T18:37:33.991Z
 estimatedTokens: 82
-keywords: [Ethoca, alert, input, transaction, dispute, management]
+keywords: [Ethoca, alert, transaction, dispute, management]
 ---
-
-# ConnectApi.EthocaAlertCallbackInputRepresentation
 
 > Ethoca alert input class for transaction dispute management.
 

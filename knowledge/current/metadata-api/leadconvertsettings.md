@@ -5,12 +5,10 @@ topic: leadconvertsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.626Z
+lastCollected: 2026-04-07T18:36:27.084Z
 estimatedTokens: 1016
-keywords: [LeadConvertSettings, organization’s, custom, mappings, lead, conversion, mapped, Leads, Accounts, Contacts, Opportunities, Options, creating, extends, Metadata]
+keywords: [LeadConvertSettings, ObjectMapping, ObjectMappingField, organization’s, mappings, lead, conversion, mapped, Leads, Accounts, Contacts, Opportunities, Options, creating, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# LeadConvertSettings
 
 > Represents an organization’s custom
 			field mappings for lead conversion. Custom fields can be mapped from Leads to Accounts,

@@ -5,12 +5,10 @@ topic: expressionsetversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.485Z
+lastCollected: 2026-04-07T18:39:06.603Z
 estimatedTokens: 1240
-keywords: [ExpressionSetVersion, specific, version, expression, accessible, API, components, Lightning, Web, LWC, 55.0, later, Calls, Associated, Objects]
+keywords: [ExpressionSetVersion, specific, expression, accessible, API, Lightning, Web, LWC, 55.0]
 ---
-
-# ExpressionSetVersion
 
 > Represents information about a specific version of an expression set.
          This object is also accessible through the UI API, which enables its use in components like

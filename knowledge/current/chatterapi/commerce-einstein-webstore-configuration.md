@@ -5,12 +5,10 @@ topic: commerce-einstein-webstore-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.085Z
+lastCollected: 2026-04-07T18:37:11.910Z
 estimatedTokens: 145
 keywords: [Commerce, Einstein, Webstore, Configuration, store]
 ---
-
-# Commerce Einstein Webstore Configuration
 
 > Get the Commerce Einstein configuration for a
     store.

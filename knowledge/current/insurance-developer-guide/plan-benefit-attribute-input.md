@@ -5,12 +5,10 @@ topic: plan-benefit-attribute-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.275Z
+lastCollected: 2026-04-07T18:37:51.267Z
 estimatedTokens: 122
-keywords: [Plan, Benefit, Attribute, Input, benefits, attributes, Insurance, Policy, Coverage]
+keywords: [Plan, Benefit, Attribute, benefits, attributes, Insurance, Policy, Coverage]
 ---
-
-# Plan Benefit Attribute Input
 
 > Represents details of the plan benefits attributes for an Insurance Policy
         Coverage.

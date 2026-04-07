@@ -5,12 +5,10 @@ topic: auraset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.476Z
+lastCollected: 2026-04-07T18:38:05.687Z
 estimatedTokens: 119
-keywords: [aura, <aura, set>, markup, attribute, inherited, component, event]
+keywords: [aura, <aura, set>, markup, attribute, inherited, event]
 ---
-
-# aura:set
 
 > Use <aura:set> in markup to set the value of
         an attribute inherited from a component or event.

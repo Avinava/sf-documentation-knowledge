@@ -5,12 +5,10 @@ topic: healthcarepractitionerfacilityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.100Z
+lastCollected: 2026-04-07T18:39:43.723Z
 estimatedTokens: 368
-keywords: [HealthcarePractitionerFacilityFeed, Feed, tracking, HealthcarePractitionerFacility]
+keywords: [HealthcarePractitionerFacilityFeed, HealthcarePractitionerFacility]
 ---
-
-# HealthcarePractitionerFacilityFeed
 
 > Feed tracking for HealthcarePractitionerFacility.
 

@@ -5,12 +5,10 @@ topic: custom-object-and-external-object-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.503Z
+lastCollected: 2026-04-07T18:38:54.883Z
 estimatedTokens: 1793
-keywords: [Custom, External, Interactions, log, record, package, usage, custom_entity_type, equal, CustomObject, ExternalObject, means, user, performed, action]
+keywords: [External, Interactions, log, record, package, custom_entity_type, equal, CustomObject, ExternalObject, means, user, performed, action, resulted, CRUD, interaction, Apex, REST, API, Requests, SOAP, Bulk, Scheduled, Job, Executions, Platform, Events, Queueable, Standard, Visualforce, Remoting, Actions]
 ---
-
-# Custom Object and External Object Interactions
 
 > When a log record in your package usage log has custom_entity_type equal to CustomObject or
    ExternalObject, it means that a user performed an action

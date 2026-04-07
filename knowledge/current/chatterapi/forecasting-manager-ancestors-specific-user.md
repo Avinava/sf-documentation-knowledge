@@ -5,12 +5,10 @@ topic: forecasting-manager-ancestors-specific-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.085Z
+lastCollected: 2026-04-07T18:37:14.050Z
 estimatedTokens: 313
 keywords: [Forecasting, Manager, Ancestors, Specific, User, managers, context]
 ---
-
-# Forecasting Manager Ancestors, Specific User
 
 > Get a list of managers between the context user and a specified
             user.

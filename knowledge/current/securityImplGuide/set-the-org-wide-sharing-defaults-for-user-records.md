@@ -5,12 +5,10 @@ topic: set-the-org-wide-sharing-defaults-for-user-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.076Z
+lastCollected: 2026-04-07T18:39:23.004Z
 estimatedTokens: 470
-keywords: [Org-Wide, Sharing, Defaults, User, Records, opening, access]
+keywords: [Org-Wide, Sharing, Defaults, User, Records, opening]
 ---
-
-# Set the Org-Wide Sharing Defaults for User Records
 
 > Set the org-wide sharing defaults for the user object before opening up
   access.

@@ -5,12 +5,10 @@ topic: messagerule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.261Z
+lastCollected: 2026-04-07T18:35:41.127Z
 estimatedTokens: 863
-keywords: [MessageRule, message, rule, evaluated, product, configuration, rules, display, informational, error, messages, users, conditions, stiId, severity]
+keywords: [MessageRule, message, rule, evaluated, product, configuration, display, informational, error, messages, users, conditions, stiId, severity]
 ---
-
-# MessageRule Class
 
 > Represents a message rule that is evaluated during product configuration. Message rules display informational, warning, or error messages to users based on configuration conditions.
 

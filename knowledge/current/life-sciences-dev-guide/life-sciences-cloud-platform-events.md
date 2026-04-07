@@ -5,12 +5,10 @@ topic: life-sciences-cloud-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.739Z
+lastCollected: 2026-04-07T18:37:57.262Z
 estimatedTokens: 251
-keywords: [Life, Sciences, Cloud, Platform, Events, ApplnFormAppealStsChgEvnt, event, notify, subscribers, status, Financial, Assistance, Program’s, appeal, changes]
+keywords: [Life, Sciences, Cloud, Platform, Events, ApplnFormAppealStsChgEvnt, event, notify, subscribers, status, Financial, Assistance, Program’s, appeal, changes, CareBnftVrfyRqstStsChgEvent, care, benefit, verify]
 ---
-
-# Life Sciences Cloud Platform Events
 
 > Use the ApplnFormAppealStsChgEvnt platform event to notify subscribers when the status
     of the Financial Assistance Program’s appeal changes. Use the CareBnftVrfyRqstStsChgEvent

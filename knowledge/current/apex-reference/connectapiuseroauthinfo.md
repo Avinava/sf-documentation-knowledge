@@ -5,12 +5,10 @@ topic: connectapiuseroauthinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.202Z
+lastCollected: 2026-04-07T18:36:10.498Z
 estimatedTokens: 87
 keywords: [ConnectApi.UserOauthInfo, User, OAuth]
 ---
-
-# ConnectApi.UserOauthInfo
 
 > User OAuth information.
 

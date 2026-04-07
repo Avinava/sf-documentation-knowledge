@@ -5,12 +5,10 @@ topic: creating-and-undeleting-a-person-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.769Z
+lastCollected: 2026-04-07T18:37:05.481Z
 estimatedTokens: 1228
-keywords: [Creating, Undeleting, Person, Account, change, event, contact, record, includes, custom, standard, start, prefix]
+keywords: [Creating, Undeleting, Person, Account, change, event, contact, record, includes, standard, start, prefix]
 ---
-
-# Creating and Undeleting a Person Account
 
 > When creating or undeleting a person account, the account change event contains both
     account and contact fields. It contains account record fields and some fields from the contact

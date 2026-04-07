@@ -5,12 +5,10 @@ topic: form-verification-field-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.025Z
+lastCollected: 2026-04-07T18:36:39.709Z
 estimatedTokens: 106
-keywords: [Form, Verification, Output, representation, responses]
+keywords: [Form, Verification, responses]
 ---
-
-# Form Verification Field List Output
 
 > Output representation of form verification field list
     responses.

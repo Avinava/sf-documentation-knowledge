@@ -5,12 +5,10 @@ topic: gamification-mobile-sdk-ios-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.289Z
+lastCollected: 2026-04-07T18:38:08.551Z
 estimatedTokens: 295
-keywords: [Gamification, Mobile, SDK, iOS, Classes, organize, SDK’s, functionalities, data, structures, developing, apps, provide, components, services]
+keywords: [Gamification, Mobile, SDK, iOS, Classes, organize, SDK’s, functionalities, structures, developing, apps, provide, services, features, interact]
 ---
-
-# Gamification Mobile SDK iOS Classes
 
 > The iOS classes organize the Gamification Mobile SDK’s functionalities and data
   structures. When developing mobile apps using the SDK, these classes provide components, services,

@@ -5,12 +5,10 @@ topic: expression-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.360Z
+lastCollected: 2026-04-07T18:36:19.574Z
 estimatedTokens: 3370
 keywords: [Expression, Operators, Expressions, joined, another, compound]
 ---
-
-# Expression Operators
 
 > Expressions can be joined to one another with operators to create compound
         expressions.

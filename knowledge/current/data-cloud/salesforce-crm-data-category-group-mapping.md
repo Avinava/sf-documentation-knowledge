@@ -5,12 +5,10 @@ topic: salesforce-crm-data-category-group-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.091Z
+lastCollected: 2026-04-07T18:35:53.023Z
 estimatedTokens: 250
-keywords: [Salesforce, CRM, Data, Category, Group, Mapping, mappings, DataCategoryGroup, DLO, found, Knowledge, bundle, Connector, Cloud, Usage]
+keywords: [Salesforce, CRM, Category, Group, Mapping, mappings, DataCategoryGroup, DLO, found, Knowledge, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Data Category Group Mapping
 
 > These data mappings are for the DataCategoryGroup DLO found in the Knowledge bundle of
   the Salesforce CRM Connector for Data Cloud.

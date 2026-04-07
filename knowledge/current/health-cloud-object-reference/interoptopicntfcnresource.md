@@ -5,12 +5,10 @@ topic: interoptopicntfcnresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.758Z
+lastCollected: 2026-04-07T18:37:47.344Z
 estimatedTokens: 841
-keywords: [InteropTopicNtfcnResource, notification, resource, interoperability, topic, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [InteropTopicNtfcnResource, notification, resource, interoperability, topic, API, 64.0]
 ---
-
-# InteropTopicNtfcnResource
 
 > Represents the notification resource for an interoperability topic. This
       object is available in API version 64.0 and later.

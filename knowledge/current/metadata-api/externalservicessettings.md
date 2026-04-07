@@ -5,12 +5,10 @@ topic: externalservicessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.362Z
+lastCollected: 2026-04-07T18:36:25.864Z
 estimatedTokens: 701
-keywords: [ExternalServicesSettings, settings, External, Services, registration, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata]
+keywords: [ExternalServicesSettings, settings, External, Services, registration, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
-
-# ExternalServicesSettings
 
 > Represents settings for an External Services registration.
 

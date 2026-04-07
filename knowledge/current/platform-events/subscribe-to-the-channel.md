@@ -5,12 +5,10 @@ topic: subscribe-to-the-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.978Z
+lastCollected: 2026-04-07T18:38:57.810Z
 estimatedTokens: 810
-keywords: [Subscribe, Channel, creating, custom, members, Pub, Sub, API, Java, client, receive, event, messages]
+keywords: [Subscribe, Channel, creating, members, Pub, Sub, API, Java, client, receive, event, messages]
 ---
-
-# Subscribe to the Channel
 
 > After creating a custom channel and its members, subscribe to the channel using a
     Pub/Sub API Java client, and receive event messages.

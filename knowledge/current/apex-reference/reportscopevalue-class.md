@@ -5,13 +5,11 @@ topic: reportscopevalue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.806Z
+lastCollected: 2026-04-07T18:36:03.012Z
 estimatedTokens: 559
 namespace: Reports
 keywords: [ReportScopeValue, possible, scope, depend, report, opportunity, reports, opportunities, team’s, getAllowsDivision, getLabel, getValue]
 ---
-
-# ReportScopeValue Class
 
 > Contains information about a possible scope value. Scope values depend
       on the report type. For example, you can set the scope for opportunity reports to All opportunities, My team’s

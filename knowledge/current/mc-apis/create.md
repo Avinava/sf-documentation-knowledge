@@ -5,12 +5,10 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.785Z
+lastCollected: 2026-04-07T18:40:15.903Z
 estimatedTokens: 454
-keywords: [individual, batch, objects, Multiple, created, call, Output, Creates, Input]
+keywords: [individual, batch, Multiple, created, call, Creates]
 ---
-
-# Create
 
 > Creates an individual object or a batch of objects.
 

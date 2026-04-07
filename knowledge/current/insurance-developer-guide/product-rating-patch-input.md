@@ -5,12 +5,10 @@ topic: product-rating-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.312Z
+lastCollected: 2026-04-07T18:37:51.315Z
 estimatedTokens: 246
-keywords: [Product, Rating, Patch, Input, representation]
+keywords: [Product, Rating, Patch]
 ---
-
-# Product Rating Patch Input
 
 > Input representation of product rating update details.
 

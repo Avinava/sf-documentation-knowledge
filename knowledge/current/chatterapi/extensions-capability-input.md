@@ -5,12 +5,10 @@ topic: extensions-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.472Z
+lastCollected: 2026-04-07T18:37:08.301Z
 estimatedTokens: 220
-keywords: [Extensions, Capability, Input, associated, feed, element]
+keywords: [Extensions, Capability]
 ---
-
-# Extensions Capability Input
 
 > Create or update extensions associated with a feed
       element.

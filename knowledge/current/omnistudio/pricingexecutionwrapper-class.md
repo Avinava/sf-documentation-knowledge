@@ -5,13 +5,11 @@ topic: pricingexecutionwrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.106Z
+lastCollected: 2026-04-07T18:36:35.593Z
 estimatedTokens: 217
 namespace: Usage
-keywords: [PricingExecutionWrapper, call, utility, integration, procedures, Digital, Lending, Flexcards, Usage]
+keywords: [PricingExecutionWrapper, call, utility, integration, procedures, Digital, Lending, Flexcards]
 ---
-
-# PricingExecutionWrapper Class
 
 > Contains the methods to call utility methods from integration
             procedures used in Digital Lending Flexcards.

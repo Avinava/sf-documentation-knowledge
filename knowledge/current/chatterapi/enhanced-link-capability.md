@@ -5,12 +5,10 @@ topic: enhanced-link-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.575Z
+lastCollected: 2026-04-07T18:37:18.667Z
 estimatedTokens: 236
-keywords: [Enhanced, Link, Capability, feed, element, may, contain, supplemental, icon, title]
+keywords: [Enhanced, Link, Capability, may, contain, supplemental, icon, title]
 ---
-
-# Enhanced Link Capability
 
 > If a feed element has this capability, it has a link that may contain supplemental
     information like an icon, a title, and a description.

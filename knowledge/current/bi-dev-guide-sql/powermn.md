@@ -5,12 +5,10 @@ topic: powermn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.288Z
+lastCollected: 2026-04-07T18:37:01.897Z
 estimatedTokens: 123
 keywords: [power, raised, nth, any, numeric, range, -1.797e308, 1.797e308]
 ---
-
-# power(m,n)
 
 > Returns m raised to the nth power.
    m, n can be any numeric value in the range of -1.797e308

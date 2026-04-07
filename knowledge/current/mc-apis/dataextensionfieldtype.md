@@ -5,12 +5,10 @@ topic: dataextensionfieldtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.269Z
+lastCollected: 2026-04-07T18:40:16.410Z
 estimatedTokens: 298
-keywords: [DataExtensionFieldType, contained, data, extension]
+keywords: [DataExtensionFieldType, contained, extension]
 ---
-
-# DataExtensionFieldType
 
 > The DataExtensionFieldType object indicates the type of field contained within a data extension.
 

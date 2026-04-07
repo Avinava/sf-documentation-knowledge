@@ -5,12 +5,10 @@ topic: ensure-payment-credit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.428Z
+lastCollected: 2026-04-07T18:37:08.251Z
 estimatedTokens: 186
-keywords: [Ensure, Payment, Credit, Input, memo, optionally, sequence, issuing, credits, amount, distributed, until, fully, applied, don’t]
+keywords: [Ensure, Payment, Credit, memo, optionally, sequence, issuing, credits, amount, distributed, until, fully, applied, don’t, specify]
 ---
-
-# Ensure Payment Credit Input
 
 > The credit memo information and, optionally, the payment sequence details for issuing
     credits. The credit memo amount is distributed to the payment methods specified in the payment

@@ -5,12 +5,10 @@ topic: caserelatedsubject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.043Z
+lastCollected: 2026-04-07T18:39:33.453Z
 estimatedTokens: 320
-keywords: [CaseRelatedSubject, junction, case, impacted, API, version, 62.0, later]
+keywords: [CaseRelatedSubject, junction, case, impacted, API, 62.0]
 ---
-
-# CaseRelatedSubject
 
 > Represents a junction between a case and an object impacted by the case.
        This object is available in API version 62.0 and later.

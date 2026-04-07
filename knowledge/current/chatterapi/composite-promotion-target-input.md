@@ -5,12 +5,10 @@ topic: composite-promotion-target-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.187Z
+lastCollected: 2026-04-07T18:37:09.908Z
 estimatedTokens: 333
-keywords: [Composite, Promotion, Target, Input, representation]
+keywords: [Composite, Promotion, Target]
 ---
-
-# Composite Promotion Target Input
 
 > Input representation of the promotion target.
 

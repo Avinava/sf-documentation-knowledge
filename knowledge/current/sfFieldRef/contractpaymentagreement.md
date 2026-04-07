@@ -5,12 +5,10 @@ topic: contractpaymentagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.302Z
+lastCollected: 2026-04-07T18:39:35.746Z
 estimatedTokens: 417
-keywords: [ContractPaymentAgreement, Stores, contract, payment, agreement, associated]
+keywords: [ContractPaymentAgreement, Stores, contract, payment, agreement]
 ---
-
-# ContractPaymentAgreement
 
 > Stores information about the contract payment agreement associated with a
          contract.

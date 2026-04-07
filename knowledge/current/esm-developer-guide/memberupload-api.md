@@ -5,12 +5,10 @@ topic: memberupload-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.031Z
+lastCollected: 2026-04-07T18:37:32.207Z
 estimatedTokens: 95
 keywords: [member_upload, API, Upload, CSV, file, new, subscribers, locations, member, _upload, URI, HTTP, Sample, Insert]
 ---
-
-# member_upload API
 
 > Upload a CSV file with new subscribers or locations.
 

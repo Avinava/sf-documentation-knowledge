@@ -5,12 +5,10 @@ topic: expn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.248Z
+lastCollected: 2026-04-07T18:37:01.860Z
 estimatedTokens: 99
 keywords: [exp, Euler's, number, raised, power, 2.71828183…, smallest, result, 3e-324, any, real, numeric, range, -1.797e308]
 ---
-
-# exp(n)
 
 > Returns the value of Euler's number e raised to the power of n, where
   e = 2.71828183… The smallest value for n that does not result in 0 is 3e-324.

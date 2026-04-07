@@ -5,12 +5,10 @@ topic: mass-update-advance-account-forecast-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:22.288Z
+lastCollected: 2026-04-07T18:38:12.576Z
 estimatedTokens: 557
-keywords: [Mass, Advance, Account, Forecast, Action, measure, AdvAccountForecastFact, records, filter, condition, selected, view, Special, Access, Rules]
+keywords: [Inputs, Outputs, Examples, Mass, Advance, Account, Forecast, Action, measure, AdvAccountForecastFact, records, filter, condition, selected, view, REST, HTTP]
 ---
-
-# Mass Update Advance Account Forecast Action
 
 > Update a measure of AdvAccountForecastFact records based on filter
    condition of the selected list view.

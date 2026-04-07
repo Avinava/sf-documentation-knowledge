@@ -5,12 +5,10 @@ topic: sync-sustainability-carbon-credit-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.855Z
+lastCollected: 2026-04-07T18:38:16.407Z
 estimatedTokens: 154
-keywords: [Sync, Sustainability, Carbon, Credit, Error, output, representation]
+keywords: [Sync, Sustainability, Carbon, Credit, Error]
 ---
-
-# Sync Sustainability Carbon Credit Error
 
 > Sync sustainability carbon credit error output
     representation.

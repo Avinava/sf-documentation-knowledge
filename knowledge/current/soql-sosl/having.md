@@ -5,12 +5,10 @@ topic: having
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.155Z
+lastCollected: 2026-04-07T18:40:10.126Z
 estimatedTokens: 414
 keywords: [HAVING, clause, SOQL, query, filter, results, aggregate, functions]
 ---
-
-# HAVING
 
 > HAVING is an optional clause that can be used in a
 		SOQL query to filter results that aggregate functions return.

@@ -5,12 +5,10 @@ topic: assign-records-to-owners-using-an-assignment-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.631Z
+lastCollected: 2026-04-07T18:38:10.884Z
 estimatedTokens: 681
-keywords: [Assign, Records, Owners, Assignment, Plan, AssignRecords, Apex, assigns, users, automatically, rules, suppose, web-to-lead, generation, form]
+keywords: [Assign, Records, Owners, Assignment, Plan, AssignRecords, Apex, assigns, users, automatically, suppose, web-to-lead, generation, form, generate, inbound, leads, Salesforce, sales, reps, soon, lead, created, reducing, time, contact, Sample, Code]
 ---
-
-# Assign Records to Owners Using an Assignment Plan
 
 > The AssignRecords() Apex method
             assigns records to users automatically using rules specified in an assignment plan. For

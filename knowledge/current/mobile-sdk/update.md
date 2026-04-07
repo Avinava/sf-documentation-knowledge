@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.225Z
+lastCollected: 2026-04-07T18:40:27.414Z
 estimatedTokens: 260
-keywords: [Updates, requested, record, prevent, occurring, modified, since, date, iOS, Android]
+keywords: [Android, Updates, requested, record, prevent, occurring, modified, since, date, iOS]
 ---
-
-# Update
 
 > Updates specified fields of the requested record with the given values. Can also
         prevent the update from occurring if the record has been modified since a given

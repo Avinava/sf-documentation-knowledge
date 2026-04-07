@@ -5,12 +5,10 @@ topic: effectivedate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.815Z
+lastCollected: 2026-04-07T18:37:34.329Z
 estimatedTokens: 45
 keywords: [effectiveDate, start, date, time, active, record, alert, effect]
 ---
-
-# effectiveDate
 
 > The start date and time from when an active record alert is in
       effect.

@@ -5,12 +5,10 @@ topic: get-default-values-to-clone-a-recordlightweight
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.272Z
+lastCollected: 2026-04-07T18:40:11.265Z
 estimatedTokens: 592
 keywords: [Clone, Record—Lightweight, cloning, record, specify, want, resource, doesn’t, layout, getting, POST, ui-api, records]
 ---
-
-# Get Default Values to Clone a Record—Lightweight
 
 > Get the default values for fields for cloning a record. You must specify the fields you want returned. This resource doesn’t use or return layout information. After getting the default values, make a request to POST /ui-api/records to create the record.
 

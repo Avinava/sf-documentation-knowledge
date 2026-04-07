@@ -5,12 +5,10 @@ topic: delete-a-data-extension-row
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.099Z
+lastCollected: 2026-04-07T18:40:24.578Z
 estimatedTokens: 478
-keywords: [Data, Extension, Row, include, column, primary, key, pass, props, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Extension, Row, include, column, primary, key, pass, props, PHP]
 ---
-
-# Delete a Data Extension Row
 
 > Use the Delete method to delete a data extension row. The data extension must include a column set as the primary key, and you must pass a value for that primary key column in the props property:
 

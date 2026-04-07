@@ -5,13 +5,11 @@ topic: using-connectapi-input-and-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.689Z
+lastCollected: 2026-04-07T18:36:16.907Z
 estimatedTokens: 417
 namespace: ConnectApi
-keywords: [ConnectApi, Input, Output, Classes, contain, access, Connect, REST, API, data, pass, calls]
+keywords: [ConnectApi, Classes, contain, Connect, REST, API, pass]
 ---
-
-# Using ConnectApi Input and Output Classes
 
 > Some classes in the ConnectApi namespace contain
                 static methods that access Connect REST API data. The ConnectApi namespace also contains input classes to pass as

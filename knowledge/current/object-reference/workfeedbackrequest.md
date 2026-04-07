@@ -5,12 +5,10 @@ topic: workfeedbackrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:52.855Z
+lastCollected: 2026-04-07T18:38:44.662Z
 estimatedTokens: 1925
-keywords: [WorkFeedbackRequest, feedback, subject, topic, question, recipient, application, case, offered, performance, questions, subject—for, submit, Calls, Additional]
+keywords: [WorkFeedbackRequest, feedback, subject, topic, question, recipient, application, case, offered, performance, questions, subject—for, submit, Additional, Considerations]
 ---
-
-# WorkFeedbackRequest
 
 > Represents a single feedback request on a subject or topic
 			(question) to a single recipient in the feedback application. In the case of offered

@@ -5,12 +5,10 @@ topic: advtherapyfieldoptoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:31.212Z
+lastCollected: 2026-04-07T18:39:25.114Z
 estimatedTokens: 399
-keywords: [AdvTherapyFieldOptOverride, changed, optionality, certain, API, version, 59.0, later]
+keywords: [AdvTherapyFieldOptOverride, changed, optionality, certain, API, 59.0]
 ---
-
-# AdvTherapyFieldOptOverride
 
 > Represents a list of fields with changed optionality, based on certain
          parameters. This object is available in API version 59.0 and later.

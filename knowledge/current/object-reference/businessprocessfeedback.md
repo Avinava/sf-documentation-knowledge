@@ -5,12 +5,10 @@ topic: businessprocessfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:36.030Z
+lastCollected: 2026-04-07T18:38:27.010Z
 estimatedTokens: 259
-keywords: [BusinessProcessFeedback, Setup, stores, survey, question, associated, stage, customer, lifecycle, map, maps, track, scores, provided, customers]
+keywords: [BusinessProcessFeedback, Setup, stores, survey, question, stage, customer, lifecycle, map, maps, track, scores, provided, customers, across, their, Salesforce, Surveys, reserved, internal, API, 49.0]
 ---
-
-# BusinessProcessFeedback
 
 > Setup object that stores information about the survey and the question
       associated with each stage in a customer lifecycle map. Customer lifecycle maps are used to

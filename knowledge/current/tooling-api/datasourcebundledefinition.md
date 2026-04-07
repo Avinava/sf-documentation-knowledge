@@ -5,12 +5,10 @@ topic: datasourcebundledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.872Z
+lastCollected: 2026-04-07T18:36:32.327Z
 estimatedTokens: 1354
-keywords: [DataSourceBundleDefinition, bundle, streams, user, adds, data, kit, API, version, 52.0, later, SOAP, Calls, REST, Special]
+keywords: [DataSourceBundleDefinition, bundle, streams, user, adds, kit, API, 52.0, SOAP, REST]
 ---
-
-# DataSourceBundleDefinition
 
 > Represents the bundle of streams that a user adds to a data kit. This
       object is available in API version 52.0 and later.

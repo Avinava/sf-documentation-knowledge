@@ -5,9 +5,9 @@ topic: ssjssyntaxguide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.564Z
+lastCollected: 2026-04-07T18:40:23.995Z
 estimatedTokens: 1634
-keywords: [ssjs_syntaxGuide, document, correctly, form, server-side, JavaScript, function, calls, declare, variables, keywords, Block, Personalization, Tags, Attributes]
+keywords: [ssjs_syntaxGuide, document, correctly, form, server-side, JavaScript, function, declare, variables, keywords, Block, Personalization, Tags, Attributes, Samples, Accessing, Attribute, Sendable, Extension, Variable, Evaluating, Expression, Platform, Support, Code, Security, Core, Library, Functions]
 ---
 
 # ssjs_syntaxGuide

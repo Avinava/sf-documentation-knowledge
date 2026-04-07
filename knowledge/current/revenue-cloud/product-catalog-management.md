@@ -5,12 +5,10 @@ topic: product-catalog-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:02.572Z
+lastCollected: 2026-04-07T18:35:47.605Z
 estimatedTokens: 664
-keywords: [Product, Catalog, Management, Manage, entire, portfolio, components, attributes, classifications, simple, bundled, products, rules, manage]
+keywords: [Product, Catalog, Management, Manage, entire, portfolio, attributes, classifications, simple, bundled, products, manage]
 ---
-
-# Product Catalog Management
 
 > Manage an entire product portfolio with components such as attributes, product
   classifications, simple and bundled products, and rules.

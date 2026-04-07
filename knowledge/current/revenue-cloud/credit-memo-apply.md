@@ -5,12 +5,10 @@ topic: credit-memo-apply
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.678Z
+lastCollected: 2026-04-07T18:35:45.680Z
 estimatedTokens: 164
-keywords: [Credit, Memo, Apply, Output, representation, applied, results]
+keywords: [Credit, Memo, Apply, applied, results]
 ---
-
-# Credit Memo Apply
 
 > Output representation of the list of applied credit memo results.
 

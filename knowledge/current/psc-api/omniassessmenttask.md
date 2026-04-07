@@ -5,12 +5,10 @@ topic: omniassessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.926Z
+lastCollected: 2026-04-07T18:39:07.082Z
 estimatedTokens: 1288
-keywords: [OmniAssessmentTask, assessment, task, associated, OmniScript, API, version, 55.0, later, Calls, Objects]
+keywords: [OmniAssessmentTask, assessment, task, OmniScript, API, 55.0]
 ---
-
-# OmniAssessmentTask
 
 > Represents the information about an assessment task that is associated with
          an OmniScript. This object is available in API version 55.0 and later.

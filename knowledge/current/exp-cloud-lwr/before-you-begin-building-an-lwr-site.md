@@ -5,12 +5,10 @@ topic: before-you-begin-building-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.127Z
+lastCollected: 2026-04-07T18:37:33.492Z
 estimatedTokens: 417
-keywords: [Begin, Building, LWR, Site, Build, Own, minimal, template, Experience, Cloud, essential, pages, components, functioning, add]
+keywords: [Begin, Building, LWR, Site, Build, Own, minimal, template, Experience, Cloud, essential, pages, functioning, add, Therefore, best, suited, developers, comfortable, developing, Lightning, web, working, Salesforce, User, API, Apex, Microsite, includes, responsive, layout, preconfigured, content, quickly, spin, landing, event, Depending, case, doesn’t, necessarily, require, much, additional, customization]
 ---
-
-# Before You Begin Building an LWR Site
 
 > Build Your Own (LWR) is a minimal template in Experience Cloud that provides only the
     most essential pages and components, so to build a functioning site, you need to add your own

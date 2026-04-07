@@ -5,12 +5,10 @@ topic: using-the-appcache
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.662Z
+lastCollected: 2026-04-07T18:38:02.581Z
 estimatedTokens: 218
-keywords: [AppCache, support, deprecated, Browser, vendors, followed, their, lead, Remove, useAppcache, attribute, <aura, application>, tag, standalone]
+keywords: [AppCache, support, deprecated, Browser, vendors, followed, their, lead, Remove, useAppcache, attribute, <aura, application>, tag, standalone, apps, app, resources, avoid, cross-browser, issues, due, deprecation]
 ---
-
-# Using the AppCache
 
 > AppCache support is deprecated. Browser vendors have deprecated AppCache, so we
       followed their lead. Remove the useAppcache attribute in

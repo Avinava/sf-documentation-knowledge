@@ -5,12 +5,10 @@ topic: explainability-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.468Z
+lastCollected: 2026-04-07T18:39:02.687Z
 estimatedTokens: 128
-keywords: [Explainability, Logs, Output, representation, action]
+keywords: [Explainability, Logs, action]
 ---
-
-# Explainability Logs
 
 > Output representation of the list of explainability action
     logs.

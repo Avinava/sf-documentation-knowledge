@@ -5,12 +5,10 @@ topic: claimcoveragepaymentdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.201Z
+lastCollected: 2026-04-07T18:36:52.642Z
 estimatedTokens: 1368
-keywords: [ClaimCoveragePaymentDetail, claim, coverage, amount, paid, claimant, part, replaced, labor, service, performed, rectify, causal, defective, asset]
+keywords: [ClaimCoveragePaymentDetail, claim, coverage, amount, paid, claimant, part, replaced, labor, service, performed, rectify, causal, defective, asset, API, 58.0]
 ---
-
-# ClaimCoveragePaymentDetail
 
 > Represents the claim coverage amount that must be paid to a claimant for a
          part replaced or replaced or a labor service performed to rectify a causal part in a

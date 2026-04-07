@@ -5,12 +5,10 @@ topic: custommsgchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.442Z
+lastCollected: 2026-04-07T18:38:29.340Z
 estimatedTokens: 975
-keywords: [CustomMsgChannel, custom, conversation, channel, stores, event-driven, Messaging, settings, channels, implemented, Bring, Own, CCaaS, API, version]
+keywords: [CustomMsgChannel, conversation, channel, stores, event-driven, Messaging, settings, channels, implemented, Bring, Own, CCaaS, API, 63.0]
 ---
-
-# CustomMsgChannel
 
 > Represents a custom conversation channel and stores event-driven Messaging settings. Custom conversation channels are
          implemented for Bring Your Own Channel for Messaging and Bring Your Own Channel for CCaaS Messaging channels. This object is available in API

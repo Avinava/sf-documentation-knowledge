@@ -5,12 +5,10 @@ topic: onrenderrendercontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.022Z
+lastCollected: 2026-04-07T18:35:59.294Z
 estimatedTokens: 360
-keywords: [onRender, renderContext, Invoked, canvas, app, rendered, ability, retrieve, application, environment, context, render, phase, Usage]
+keywords: [onRender, renderContext, Invoked, canvas, app, rendered, ability, retrieve, application, environment, context, render, phase]
 ---
-
-# onRender(renderContext)
 
 > Invoked when a canvas app is rendered. Provides the ability to set and retrieve
         canvas application and environment context information during the application render

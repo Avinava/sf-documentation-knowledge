@@ -5,12 +5,10 @@ topic: apexfacet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.470Z
+lastCollected: 2026-04-07T18:38:49.601Z
 estimatedTokens: 441
-keywords: [apex, facet, placeholder, content, that's, rendered, specific, part, parent, component, footer, <apex, dataTable>, Attributes]
+keywords: [Attributes, apex, facet, placeholder, content, that's, rendered, specific, part, parent, footer, <apex, dataTable>]
 ---
-
-# apex:facet
 
 > A placeholder for content that's rendered in a specific part of the parent component, such as the header or footer of an <apex:dataTable>.
 

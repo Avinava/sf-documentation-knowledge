@@ -5,12 +5,10 @@ topic: assessment-details-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.375Z
+lastCollected: 2026-04-07T18:37:41.464Z
 estimatedTokens: 139
-keywords: [Assessment, Output, metadata, record, associated, question]
+keywords: [Assessment, metadata, record, question]
 ---
-
-# Assessment Details Output
 
 > Contains metadata for the assessment record associated with a question
     response.

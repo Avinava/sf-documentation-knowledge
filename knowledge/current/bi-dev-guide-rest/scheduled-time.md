@@ -5,12 +5,10 @@ topic: scheduled-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.110Z
+lastCollected: 2026-04-07T18:36:57.642Z
 estimatedTokens: 121
-keywords: [Scheduled, Time, base, schedule, data, refresh]
+keywords: [Scheduled, Time, base, schedule, refresh]
 ---
-
-# Scheduled Time
 
 > The base schedule for a data refresh.
 

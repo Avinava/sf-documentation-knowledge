@@ -5,12 +5,10 @@ topic: getsamesite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.284Z
+lastCollected: 2026-04-07T18:38:48.233Z
 estimatedTokens: 80
 keywords: [getSameSite, SameSite, attribute, cookie]
 ---
-
-# getSameSite()
 
 > Returns the value for the SameSite attribute of
   the cookie.

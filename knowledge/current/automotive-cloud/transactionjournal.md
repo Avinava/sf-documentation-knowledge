@@ -5,12 +5,10 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.879Z
+lastCollected: 2026-04-07T18:36:53.246Z
 estimatedTokens: 1552
-keywords: [TransactionJournal, proof, sale, parts, accessories, submitted, dealer, vehicle, manufacturer, report, rebate, payout, calculations, Automotive, Cloud]
+keywords: [TransactionJournal, proof, sale, parts, accessories, submitted, dealer, vehicle, manufacturer, report, rebate, payout, calculations, Automotive, Cloud, API, 56.0]
 ---
-
-# TransactionJournal
 
 > Represents proof of sale of parts and accessories submitted by a dealer to
          the vehicle manufacturer. This report can also be used for rebate payout calculations.

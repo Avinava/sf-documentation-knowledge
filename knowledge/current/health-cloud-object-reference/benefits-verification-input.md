@@ -5,12 +5,10 @@ topic: benefits-verification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.491Z
+lastCollected: 2026-04-07T18:37:40.471Z
 estimatedTokens: 338
-keywords: [Benefits, Verification, Input, structure, Verify, API, call]
+keywords: [Benefits, Verification, structure, Verify, API, call]
 ---
-
-# Benefits Verification Input
 
 > This is the input structure of a Verify Benefits API
     call.

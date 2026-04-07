@@ -5,12 +5,10 @@ topic: dev-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:54.274Z
+lastCollected: 2026-04-07T18:35:39.060Z
 estimatedTokens: 2319
-keywords: [dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code, Examples, Flags, convert]
+keywords: [Flags, dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code, Examples, convert, script, generate, command, flag, plugin, Aliases]
 ---
-
-# dev Commands
 
 > Audit messages in a plugin's messages directory to locate unused messages and missing messages that have references in source code.
 

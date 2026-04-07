@@ -5,12 +5,10 @@ topic: parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.796Z
+lastCollected: 2026-04-07T18:37:34.304Z
 estimatedTokens: 68
 keywords: [record, alert, action]
 ---
-
-# parameters
 
 > List of parameters specified for the record alert
     action.

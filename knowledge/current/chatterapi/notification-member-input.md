@@ -5,12 +5,10 @@ topic: notification-member-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.449Z
+lastCollected: 2026-04-07T18:37:09.213Z
 estimatedTokens: 99
-keywords: [Notification, Member, Input]
+keywords: [Notification, Member]
 ---
-
-# Notification Member Input
 
 > Notification member input.
 

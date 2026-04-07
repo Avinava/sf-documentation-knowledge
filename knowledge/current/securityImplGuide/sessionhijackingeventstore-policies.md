@@ -5,12 +5,10 @@ topic: sessionhijackingeventstore-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.454Z
+lastCollected: 2026-04-07T18:39:22.350Z
 estimatedTokens: 267
-keywords: [SessionHijackingEventStore, Policies, Session, hijacking, event, monitor, unauthorized, users, gain, ownership, Salesforce, user’s, stolen, identifier, Policy]
+keywords: [SessionHijackingEventStore, Policies, Session, hijacking, event, monitor, unauthorized, users, gain, ownership, Salesforce, user’s, stolen, identifier, Policy, Glance]
 ---
-
-# SessionHijackingEventStore Policies
 
 > Session hijacking event policies monitor when unauthorized users gain ownership of a Salesforce user’s session with a stolen session identifier.
 

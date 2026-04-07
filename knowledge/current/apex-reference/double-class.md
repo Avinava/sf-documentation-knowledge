@@ -5,13 +5,11 @@ topic: double-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.730Z
+lastCollected: 2026-04-07T18:36:14.033Z
 estimatedTokens: 1043
 namespace: System
-keywords: [Double, primitive, data, Usage, intValue, longValue, round, valueOf, stringToDouble, fieldValue]
+keywords: [Double, primitive, intValue, longValue, round, valueOf, stringToDouble, fieldValue]
 ---
-
-# Double Class
 
 > Contains methods for the Double primitive data type.
 

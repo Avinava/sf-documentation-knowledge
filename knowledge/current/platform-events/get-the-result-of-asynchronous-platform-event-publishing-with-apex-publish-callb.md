@@ -5,12 +5,10 @@ topic: get-the-result-of-asynchronous-platform-event-publishing-with-apex-publis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:05.445Z
+lastCollected: 2026-04-07T18:38:58.298Z
 estimatedTokens: 1334
-keywords: [Result, Asynchronous, Platform, Event, Publishing, Apex, Publish, Callbacks, final, EventBus.publish, call, callback, implement, intermediate, queueing]
+keywords: [Result, Asynchronous, Platform, Event, Publishing, Apex, Publish, Callbacks, final, EventBus.publish, call, callback, implement, intermediate, queueing, Database.SaveResult]
 ---
-
-# Get the Result of Asynchronous Platform Event Publishing with Apex Publish Callbacks
 
 > Get the final result of an EventBus.publish call through an Apex publish callback that
   you implement. Without the callback, you can get only the intermediate queueing result in

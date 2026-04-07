@@ -5,12 +5,10 @@ topic: subscribe-to-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.821Z
+lastCollected: 2026-04-07T18:37:05.532Z
 estimatedTokens: 1318
 keywords: [Subscribe, Change, Events, subscribing, including, subscription, channels, permissions]
 ---
-
-# Subscribe to Change Events
 
 > Learn about subscribing to change events including subscription channels, subscription
     methods, and required permissions.

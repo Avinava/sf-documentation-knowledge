@@ -5,12 +5,10 @@ topic: contactprofilehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.714Z
+lastCollected: 2026-04-07T18:39:35.159Z
 estimatedTokens: 262
-keywords: [ContactProfileHistory, History, tracked, ContactProfile]
+keywords: [ContactProfileHistory, tracked, ContactProfile]
 ---
-
-# ContactProfileHistory
 
 > History for tracked fields of ContactProfile.
 

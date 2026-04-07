@@ -5,12 +5,10 @@ topic: connectapicontractoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.024Z
+lastCollected: 2026-04-07T18:36:08.385Z
 estimatedTokens: 51
 keywords: [ConnectApi.ContractOutputRepresentation, Contract]
 ---
-
-# ConnectApi.ContractOutputRepresentation
 
 > Contract list.
 

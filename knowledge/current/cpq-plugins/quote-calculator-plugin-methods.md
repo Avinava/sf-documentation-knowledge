@@ -5,12 +5,10 @@ topic: quote-calculator-plugin-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.722Z
+lastCollected: 2026-04-07T18:37:27.725Z
 estimatedTokens: 933
-keywords: [Quote, Calculator, Plugin, seven, export, any, none, achieve, desired, behavior, API, Version, Management, onInit, onBeforeCalculate]
+keywords: [Quote, Calculator, Plugin, seven, export, any, none, achieve, desired, behavior, API, Management, onInit, onBeforeCalculate, onBeforePriceRules, onAfterPriceRules, onAfterCalculate, isFieldVisible, isFieldEditable]
 ---
-
-# Quote Calculator Plugin Methods
 
 > The Quote Calculator Plugin can reference these seven methods. You can export any, all,
   or none of them to achieve your desired behavior.

@@ -5,12 +5,10 @@ topic: suspend-billing-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.048Z
+lastCollected: 2026-04-07T18:35:44.001Z
 estimatedTokens: 181
-keywords: [Suspend, Billing, Input, representation, account, schedule, group, along, effective, dates, operation]
+keywords: [Suspend, Billing, account, schedule, group, along, effective, dates, operation]
 ---
-
-# Suspend Billing Object Input
 
 > Input representation of the details such as the ID of the account or billing schedule
     group along with the effective dates. These details are used to suspend the billing

@@ -5,12 +5,10 @@ topic: connectapiphonenumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.511Z
+lastCollected: 2026-04-07T18:36:10.793Z
 estimatedTokens: 244
 keywords: [ConnectApi.PhoneNumber, Phone, number]
 ---
-
-# ConnectApi.PhoneNumber
 
 > Phone number.
 

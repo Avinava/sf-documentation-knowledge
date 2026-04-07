@@ -5,12 +5,10 @@ topic: user-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.406Z
+lastCollected: 2026-04-07T18:37:26.316Z
 estimatedTokens: 63
-keywords: [User, Context, Output, representation]
+keywords: [User, Context]
 ---
-
-# User Context
 
 > Output representation of the user context details.
 

@@ -5,12 +5,10 @@ topic: assettitleparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.097Z
+lastCollected: 2026-04-07T18:36:52.563Z
 estimatedTokens: 736
-keywords: [AssetTitleParty, relationship, account, contact, user, asset, title, API, version, 60.0, later, Calls, Associated, Objects]
+keywords: [AssetTitleParty, relationship, account, contact, user, asset, title, API, 60.0]
 ---
-
-# AssetTitleParty
 
 > Represents the relationship between an account, a contact, or a user and an
          asset title. This object is available in API version 60.0 and later.

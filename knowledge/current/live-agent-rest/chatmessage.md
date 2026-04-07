@@ -5,12 +5,10 @@ topic: chatmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:16.130Z
+lastCollected: 2026-04-07T18:38:06.393Z
 estimatedTokens: 120
 keywords: [ChatMessage, chat, message, sent, visitor, new, agent]
 ---
-
-# ChatMessage
 
 > Returns the body of the chat message sent by the chat visitor.
 

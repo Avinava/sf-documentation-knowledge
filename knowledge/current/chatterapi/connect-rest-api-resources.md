@@ -5,12 +5,10 @@ topic: connect-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.992Z
+lastCollected: 2026-04-07T18:37:15.039Z
 estimatedTokens: 5689
 keywords: [Connect, REST, API, Resources, sometimes, endpoints]
 ---
-
-# Connect REST API Resources
 
 > Connect REST API resources are sometimes called endpoints.
 

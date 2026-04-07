@@ -5,12 +5,10 @@ topic: retrieve-source-from-the-scratch-org-to-your-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.221Z
+lastCollected: 2026-04-07T18:40:08.175Z
 estimatedTokens: 1318
-keywords: [Retrieve, Source, Scratch, Org, Project, initial, deploy, changes, tracked, local, file, system, change, metadata, keep]
+keywords: [Retrieve, Source, Scratch, Org, Project, initial, deploy, changes, tracked, local, file, system, change, metadata, keep, sync, Preview, Select, Files, Ignore, Retrieves, Detects, Conflicts]
 ---
-
-# Retrieve Source from the Scratch Org to Your Project
 
 > After you do an initial deploy, your changes are tracked between your local file system
       and your scratch org. If you change metadata in your scratch org, retrieve those changes to

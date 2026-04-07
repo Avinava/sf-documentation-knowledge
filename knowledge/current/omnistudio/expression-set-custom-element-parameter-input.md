@@ -5,12 +5,10 @@ topic: expression-set-custom-element-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.409Z
+lastCollected: 2026-04-07T18:36:36.959Z
 estimatedTokens: 224
-keywords: [Expression, Custom, Element, Input, representation]
+keywords: [Expression]
 ---
-
-# Expression Set Custom Element Parameter Input
 
 > Input representation of a custom element parameter in an expression
       set.

@@ -5,12 +5,10 @@ topic: using-a-custom-template-to-create-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:29.608Z
+lastCollected: 2026-04-07T18:40:25.005Z
 estimatedTokens: 1829
-keywords: [Custom, Template, Apps, Mobile, SDK, architecture, supports, iOS, Android, templates, maintained, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo, Wishing, own—or, someone, else’s—custom, app]
+keywords: [Template, Apps, Mobile, SDK, architecture, supports, iOS, Android, templates, maintained, github.com, forcedotcom, SalesforceMobileSDK-Templates, repo, customer, runs, forcedroid, forceios, command, script, copies, How, template.js, File, Prepare, Funtion, Exports, Defined, App, Identification, Native, React, Examples, Files, Define, Basic, Restrictions, Guidelines, Wishing, own—or, someone, else’s—custom, app, Good, idea, promote, reuse, code, rapid, development, internal, consistency, Beginning, 5.0, either, turn, perform, few, steps, prepare, app’s, consumption]
 ---
-
-# Using a Custom Template to Create Apps
 
 > Wishing you could use your own—or someone else’s—custom app as a template? Good idea!
   Custom templates promote reuse of code, rapid development, and internal consistency. Beginning in

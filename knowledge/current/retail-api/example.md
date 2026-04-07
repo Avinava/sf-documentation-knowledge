@@ -5,12 +5,10 @@ topic: example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.217Z
+lastCollected: 2026-04-07T18:39:11.795Z
 estimatedTokens: 34
-keywords: [integration, metadata, JSON, data, source, sample, configuration, product, part, level, sObjects, exported, along, KPIs]
+keywords: [integration, metadata, JSON, source, sample, configuration, product, part, level, sObjects, exported, along, KPIs]
 ---
-
-# Example
 
 > This sample integration metadata configuration specifies product data at the product
       part level, and defines the fields from the sObjects to be exported along with the

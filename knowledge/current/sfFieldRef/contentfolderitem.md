@@ -5,12 +5,10 @@ topic: contentfolderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.820Z
+lastCollected: 2026-04-07T18:39:35.280Z
 estimatedTokens: 361
-keywords: [ContentFolderItem, file, ContentDocument, folder, ContentFolder, resides, ContentWorkspace, API, version, 35.0, later]
+keywords: [ContentFolderItem, file, ContentDocument, folder, ContentFolder, resides, ContentWorkspace, API, 35.0]
 ---
-
-# ContentFolderItem
 
 > Represents a file (ContentDocument) or folder (ContentFolder) that
 			resides in a ContentFolder in a ContentWorkspace. This object is available in API

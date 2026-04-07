@@ -5,12 +5,10 @@ topic: errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.788Z
+lastCollected: 2026-04-07T18:35:45.786Z
 estimatedTokens: 134
-keywords: [Errors, Output, representation, group, error, messages, code]
+keywords: [Errors, group, error, messages, code]
 ---
-
-# Errors
 
 > Output representation of the group of error messages with the same error code.
 

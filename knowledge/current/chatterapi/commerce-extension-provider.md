@@ -5,12 +5,10 @@ topic: commerce-extension-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.477Z
+lastCollected: 2026-04-07T18:37:13.431Z
 estimatedTokens: 408
 keywords: [Commerce, Extension, Provider, modify, Apex, implements]
 ---
-
-# Commerce Extension Provider
 
 > Get, delete, or modify a Commerce extension provider. An extension provider is an Apex
     Class that implements a Commerce extension.

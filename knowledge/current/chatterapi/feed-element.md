@@ -5,12 +5,10 @@ topic: feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.877Z
+lastCollected: 2026-04-07T18:37:13.835Z
 estimatedTokens: 771
-keywords: [Feed, Element, Access, edit, items, edited]
+keywords: [edit, items, edited]
 ---
-
-# Feed Element
 
 > Access, edit, or delete a feed element. Feed items are the only type
    of feed element that can be edited.

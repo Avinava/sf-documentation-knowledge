@@ -6,13 +6,10 @@ topic: sdk-customizations-with-the-for-android-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:32.569Z
+lastCollected: 2026-04-07T18:40:27.724Z
 estimatedTokens: 508
-keywords: [SDK, Customizations, Android, Once, you’ve, played, around, features, how, customize, Service, Chat, fits, look, feel]
+keywords: [SDK, Customizations, Android, Once, you’ve, played, around, features, how, customize, Service, Chat, fits, look, feel, app, instructions, localizing, strings, languages]
 ---
-
-# SDK Customizations with the  for Android for
-   Android
 
 > Once you’ve played around with some of the SDK features, use
    this section to learn how to customize the Service Chat SDK so that it fits the look

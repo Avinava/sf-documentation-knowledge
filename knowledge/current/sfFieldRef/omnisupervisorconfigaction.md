@@ -5,12 +5,10 @@ topic: omnisupervisorconfigaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.911Z
+lastCollected: 2026-04-07T18:39:50.336Z
 estimatedTokens: 284
-keywords: [OmniSupervisorConfigAction, actions, supervisors, Omni-Channel, supervisor, configuration, API, version, 56.0, later]
+keywords: [OmniSupervisorConfigAction, actions, supervisors, Omni-Channel, supervisor, configuration, API, 56.0]
 ---
-
-# OmniSupervisorConfigAction
 
 > Represents the actions available to the supervisors of an Omni-Channel
          supervisor configuration. This object is available in API version 56.0 and later.

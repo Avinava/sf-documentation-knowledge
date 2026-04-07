@@ -6,13 +6,10 @@ topic: step-1-generate-or-obtain-the-web-service-wsdls-for-your-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:43.330Z
+lastCollected: 2026-04-07T18:36:28.819Z
 estimatedTokens: 513
-keywords: [Step, Generate, Obtain, Web, Service, WSDLs, Organization, access, Metadata, API, calls, Language, WSDL, file, development]
+keywords: [Step, Generate, Obtain, Web, Service, WSDLs, Organization, Metadata, API, Language, WSDL, file, development, platform, uses, stub, code]
 ---
-
-# Step 1: Generate or Obtain the Web Service
-WSDLs for Your Organization
 
 > To access Metadata API calls, you need a Web Service Description Language (WSDL) file. The WSDL
             file defines the Web service that is available to you. Your development platform uses

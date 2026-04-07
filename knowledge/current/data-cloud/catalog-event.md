@@ -5,12 +5,10 @@ topic: catalog-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.390Z
+lastCollected: 2026-04-07T18:35:51.244Z
 estimatedTokens: 274
-keywords: [Catalog, Event, interaction, capture, customer, interacts, various, tracking, items, product, blog, post, View, Comment, Favorite]
+keywords: [Catalog, Event, interaction, capture, customer, interacts, various, items, product, blog, post, View, Comment, Favorite, Quick, Review, Share, Detail]
 ---
-
-# Catalog Event
 
 > Use a catalog event interaction to capture when a customer interacts with various
   tracking items. For example, a product or a blog post.

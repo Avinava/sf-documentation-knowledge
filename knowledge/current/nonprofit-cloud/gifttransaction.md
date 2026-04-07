@@ -5,12 +5,10 @@ topic: gifttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:30.940Z
+lastCollected: 2026-04-07T18:38:21.882Z
 estimatedTokens: 3028
-keywords: [GiftTransaction, completed, transaction, gift, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftTransaction, completed, transaction, gift, API, 59.0]
 ---
-
-# GiftTransaction
 
 > Represents a completed transaction from a gift. This object is
       available in API version 59.0 and later.

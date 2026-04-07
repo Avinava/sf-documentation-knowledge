@@ -5,12 +5,10 @@ topic: delete-messagingv1emaildefinitionsdefinitionkeyqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.416Z
+lastCollected: 2026-04-07T18:40:16.556Z
 estimatedTokens: 225
-keywords: [messaging, email, definitions, definitionKey, queue, Deletes, send, definition, inactive, status, **Overview**, Usage, Error]
+keywords: [messaging, email, definitions, definitionKey, queue, Deletes, send, definition, inactive, status, **Overview**, Error]
 ---
-
-# DELETE /messaging/v1/email/definitions/{definitionKey}/queue
 
 > Deletes the queue for a send definition. The send definition must be in inactive status.
 

@@ -5,12 +5,10 @@ topic: getcanvasurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.978Z
+lastCollected: 2026-04-07T18:35:59.254Z
 estimatedTokens: 110
-keywords: [getCanvasUrl, Retrieves, fully, qualified, URL, canvas, app, Usage]
+keywords: [getCanvasUrl, Retrieves, fully, qualified, URL, canvas, app]
 ---
-
-# getCanvasUrl()
 
 > Retrieves the fully qualified URL of
 the canvas app.

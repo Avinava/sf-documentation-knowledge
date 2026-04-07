@@ -5,12 +5,10 @@ topic: trade-promotion-management-transformation-engine-workflows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:17.102Z
+lastCollected: 2026-04-07T18:39:10.562Z
 estimatedTokens: 2320
-keywords: [Trade, Promotion, Management, Transformation, Engine, Workflows, workflow, comprises, APEX, callable, apply, transformations, input, JSON, output]
+keywords: [Trade, Promotion, Management, Transformation, Engine, Workflows, workflow, comprises, APEX, callable, apply, transformations, JSON, structure, Coding, Guidelines]
 ---
-
-# Trade Promotion Management Transformation Engine Workflows
 
 > The workflow comprises APEX callable class to apply the transformations from the input
    JSON into the output structure.

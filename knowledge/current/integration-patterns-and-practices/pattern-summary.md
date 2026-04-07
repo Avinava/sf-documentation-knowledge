@@ -5,12 +5,10 @@ topic: pattern-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.272Z
+lastCollected: 2026-04-07T18:37:53.570Z
 estimatedTokens: 335
 keywords: [Pattern, Summary, integration, patterns, contained, document]
 ---
-
-# Pattern Summary
 
 > The following table lists the integration patterns contained
 in this document.

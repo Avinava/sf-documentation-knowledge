@@ -5,12 +5,10 @@ topic: application-form-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:50.856Z
+lastCollected: 2026-04-07T18:36:36.386Z
 estimatedTokens: 440
-keywords: [Application, Form, Input, representation]
+keywords: [Application, Form]
 ---
-
-# Application Form Input
 
 > Input representation of the application form.
 

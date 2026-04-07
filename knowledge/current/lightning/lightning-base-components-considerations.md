@@ -5,12 +5,10 @@ topic: lightning-base-components-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:14.526Z
+lastCollected: 2026-04-07T18:38:04.685Z
 estimatedTokens: 1362
-keywords: [Lightning, Base, Components, Considerations, guidelines, Alternatives, Targeting, Component, DOM, Deprecated, Block-Element-Modifier, BEM, Notation, Individual, Limited]
+keywords: [Lightning, Base, Considerations, guidelines, Alternatives, Targeting, DOM, Deprecated, Block-Element-Modifier, BEM, Notation, Individual, Limited, Support]
 ---
-
-# Lightning Base Components Considerations
 
 > Learn about the guidelines on using the base components.
 

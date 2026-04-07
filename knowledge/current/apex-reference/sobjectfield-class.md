@@ -5,13 +5,11 @@ topic: sobjectfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.550Z
+lastCollected: 2026-04-07T18:36:00.825Z
 estimatedTokens: 525
 namespace: Schema
 keywords: [SObjectField, describe, result, option, results, getDescribe, options]
 ---
-
-# SObjectField Class
 
 > Returns the describe field result for this field. This method also
       provides an option to get all the describe field results for an object.

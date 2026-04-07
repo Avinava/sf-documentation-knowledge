@@ -5,12 +5,10 @@ topic: alternative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.561Z
+lastCollected: 2026-04-07T18:37:16.638Z
 estimatedTokens: 110
-keywords: [Alternative, representation, extension, feed, element]
+keywords: [Alternative, extension]
 ---
-
-# Alternative
 
 > Alternative representation for an extension on a feed
     element.

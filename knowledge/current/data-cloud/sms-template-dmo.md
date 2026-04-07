@@ -5,12 +5,10 @@ topic: sms-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.604Z
+lastCollected: 2026-04-07T18:35:54.669Z
 estimatedTokens: 959
-keywords: [SMS, Template, DMO, Data, Cloud, model, reusable, standard, text, messages, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, SMS, Template, DMO, Cloud, model, reusable, standard, text, messages, API, Primary, Subject, Area, Key]
 ---
-
-# SMS Template DMO
 
 > The SMS Template DMO is a Data Cloud data model object (DMO) for a
       reusable, standard format for text (SMS) messages.

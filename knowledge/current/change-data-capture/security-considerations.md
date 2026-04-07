@@ -5,12 +5,10 @@ topic: security-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.683Z
+lastCollected: 2026-04-07T18:37:05.414Z
 estimatedTokens: 437
 keywords: [Security, Considerations, user, permissions, subscription, field-level, Shield, Platform, Encryption]
 ---
-
-# Security Considerations
 
 > Learn about the user permissions required for subscription, field-level security, and
     Shield Platform Encryption.

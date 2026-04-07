@@ -5,12 +5,10 @@ topic: named-credential-callout-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.385Z
+lastCollected: 2026-04-07T18:37:09.149Z
 estimatedTokens: 207
-keywords: [Named, Credential, Callout, Options, Input]
+keywords: [Named, Credential, Callout, Options]
 ---
-
-# Named Credential Callout Options Input
 
 > Named credential callout options input.
 

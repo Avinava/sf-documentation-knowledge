@@ -5,12 +5,10 @@ topic: create-an-enhanced-transaction-security-policy-that-uses-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.308Z
+lastCollected: 2026-04-07T18:39:22.198Z
 estimatedTokens: 1551
 keywords: [Enhanced, Transaction, Security, Policy, Uses, Apex, Setup, specify, empty, code, implement, TxnSecurity.EventCondition]
 ---
-
-# Create an Enhanced Transaction Security Policy That Uses Apex
 
 > Use Setup to create an enhanced transaction security policy that uses Apex. You can
     specify an existing Apex class or create an empty class that you then code. The Apex class must

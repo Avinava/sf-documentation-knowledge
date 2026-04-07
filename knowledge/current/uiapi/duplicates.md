@@ -5,12 +5,10 @@ topic: duplicates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.634Z
+lastCollected: 2026-04-07T18:40:11.641Z
 estimatedTokens: 161
 keywords: [Duplicates, results, check, duplicate, records]
 ---
-
-# Duplicates
 
 > The results of a check for duplicate records.
 

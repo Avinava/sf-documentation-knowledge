@@ -5,12 +5,10 @@ topic: with-recordvisibilitycontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.245Z
+lastCollected: 2026-04-07T18:40:10.218Z
 estimatedTokens: 304
-keywords: [RecordVisibilityContext, filter, clauses, query, attributes, determine, visibility, records, feature, API, version, 48.0, later]
+keywords: [RecordVisibilityContext, filter, clauses, query, attributes, determine, visibility, records, feature, API, 48.0]
 ---
-
-# WITH RecordVisibilityContext
 
 > You can use RecordVisibilityContext to filter
             WITH clauses to query the attributes that determine

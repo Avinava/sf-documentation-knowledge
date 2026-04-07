@@ -5,12 +5,10 @@ topic: authorization-reversal-gateway-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.770Z
+lastCollected: 2026-04-07T18:37:16.837Z
 estimatedTokens: 214
-keywords: [Authorization, Reversal, Gateway, Output, representation]
+keywords: [Authorization, Reversal, Gateway]
 ---
-
-# Authorization Reversal Gateway Response Output
 
 > Authorization reversal gateway response
     representation.

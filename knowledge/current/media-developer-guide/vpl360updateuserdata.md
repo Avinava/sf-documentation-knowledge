@@ -5,12 +5,10 @@ topic: vpl360updateuserdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.896Z
+lastCollected: 2026-04-07T18:38:11.161Z
 estimatedTokens: 135
-keywords: [VPL360_UpdateUserData, Omnistudio, Data, Mapper, loads, updates, user, IDs, updated, records, VPL360, _UpdateUserData, Sample, Input, Output]
+keywords: [VPL360_UpdateUserData, Omnistudio, Mapper, loads, updates, user, IDs, updated, records, VPL360, _UpdateUserData, Sample]
 ---
-
-# VPL360_UpdateUserData
 
 > This Omnistudio Data Mapper loads or updates user details
     and returns the IDs of the updated records.

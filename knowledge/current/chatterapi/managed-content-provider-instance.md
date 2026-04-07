@@ -5,12 +5,10 @@ topic: managed-content-provider-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.259Z
+lastCollected: 2026-04-07T18:37:20.445Z
 estimatedTokens: 343
 keywords: [Managed, Content, Provider, Instance]
 ---
-
-# Managed Content Provider Instance
 
 > Information about a managed content provider instance.
 

@@ -5,12 +5,10 @@ topic: livechatobjectaccessdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:43.845Z
+lastCollected: 2026-04-07T18:38:35.079Z
 estimatedTokens: 461
-keywords: [LiveChatObjectAccessDefinition, parent, record, LiveChatObjectAccessConfig, objects, API, version, 53.0, later, Calls, Special, Access, Rules]
+keywords: [LiveChatObjectAccessDefinition, parent, record, LiveChatObjectAccessConfig, API, 53.0]
 ---
-
-# LiveChatObjectAccessDefinition
 
 > Represents the parent record for one or more LiveChatObjectAccessConfig
          objects. This object is available in API version 53.0 and later.

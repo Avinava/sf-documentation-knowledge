@@ -5,12 +5,10 @@ topic: programinitiative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:28.619Z
+lastCollected: 2026-04-07T18:38:19.300Z
 estimatedTokens: 2243
-keywords: [ProgramInitiative, sustainability, initiative, program, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [ProgramInitiative, sustainability, initiative, program, API, 59.0]
 ---
-
-# ProgramInitiative
 
 > Represents information about a sustainability initiative in a
          program. This object is available in API version 59.0 and later.

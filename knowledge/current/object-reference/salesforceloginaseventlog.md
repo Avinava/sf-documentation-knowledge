@@ -5,12 +5,10 @@ topic: salesforceloginaseventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.757Z
+lastCollected: 2026-04-07T18:38:40.338Z
 estimatedTokens: 313
-keywords: [SalesforceLoginAsEventLog, Salesforce, LoginAs, Event, User's, login, Customer, Org, Customer's, authorized, user, API, version, 65.0, later]
+keywords: [SalesforceLoginAsEventLog, Salesforce, LoginAs, Event, User's, login, Customer, Org, Customer's, authorized, user, API, 65.0]
 ---
-
-# SalesforceLoginAsEventLog
 
 > Salesforce LoginAs Event provides details about the Salesforce User's login
          into Customer Org as Customer's authorized user. This object is available in API

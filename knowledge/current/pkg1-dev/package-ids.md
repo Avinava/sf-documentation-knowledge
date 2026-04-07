@@ -5,12 +5,10 @@ topic: package-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.051Z
+lastCollected: 2026-04-07T18:38:54.468Z
 estimatedTokens: 152
-keywords: [Package, IDs, work, packages, CLI, refer, either, unique, version]
+keywords: [Package, IDs, work, packages, CLI, refer, either, unique]
 ---
-
-# Package IDs
 
 > When you work with packages using the CLI, the package IDs refer either to a unique
   package or a unique package version.

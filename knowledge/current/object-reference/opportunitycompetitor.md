@@ -5,12 +5,10 @@ topic: opportunitycompetitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.250Z
+lastCollected: 2026-04-07T18:38:36.424Z
 estimatedTokens: 359
-keywords: [OpportunityCompetitor, competitor, Opportunity, Calls, Usage]
+keywords: [OpportunityCompetitor, competitor, Opportunity]
 ---
-
-# OpportunityCompetitor
 
 > Represents a competitor on an Opportunity.
 

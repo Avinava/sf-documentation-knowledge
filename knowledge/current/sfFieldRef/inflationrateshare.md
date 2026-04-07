@@ -5,12 +5,10 @@ topic: inflationrateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.179Z
+lastCollected: 2026-04-07T18:39:44.753Z
 estimatedTokens: 249
 keywords: [InflationRateShare, Sharing, InflationRate]
 ---
-
-# InflationRateShare
 
 > Sharing for InflationRate.
 

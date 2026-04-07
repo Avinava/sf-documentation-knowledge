@@ -5,12 +5,10 @@ topic: subtract
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.507Z
+lastCollected: 2026-04-07T18:40:21.799Z
 estimatedTokens: 102
-keywords: [Subtract, Function, Ordinal, numeric, Initial, Number, **Overview**, **Syntax**, Usage]
+keywords: [Subtract, Function, Ordinal, numeric, Initial, Number, **Overview**, **Syntax**]
 ---
-
-# Subtract
 
 > Subtract(1, 2)
 

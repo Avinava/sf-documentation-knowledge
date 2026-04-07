@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-order-item-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.990Z
+lastCollected: 2026-04-07T18:35:48.026Z
 estimatedTokens: 1148
-keywords: [Transaction, Management, Order, Item, Group, Standard, custom, extend, Special, Access, Rules]
+keywords: [Transaction, Management, Order, Item, Group, Standard, extend]
 ---
-
-# Transaction Management Fields on Order Item Group
 
 > Standard and custom fields extend the standard Order Item Group object
    for use in Transaction Management.

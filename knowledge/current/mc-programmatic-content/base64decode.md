@@ -5,12 +5,10 @@ topic: base64decode
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.268Z
+lastCollected: 2026-04-07T18:40:21.544Z
 estimatedTokens: 379
-keywords: [Base64Decode, Function, Ordinal, Location, Base64, text, either, variable, data, extension, via, Lookup, AMPscript, NET-suppo, **Overview**, encoded, decode, Character, decoding, ASCII]
+keywords: [Base64Decode, Function, Ordinal, Location, Base64, text, either, variable, extension, via, Lookup, AMPscript, NET-suppo, **Overview**, **Syntax**, encoded, decode, Character, decoding, ASCII, UTF-8]
 ---
-
-# Base64Decode
 
 > Base64Decode(1, 2, 3)
 

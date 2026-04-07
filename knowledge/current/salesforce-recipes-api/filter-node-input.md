@@ -5,12 +5,10 @@ topic: filter-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.628Z
+lastCollected: 2026-04-07T18:39:18.315Z
 estimatedTokens: 115
-keywords: [Filter, Node, Input, recipe]
+keywords: [Filter, Node, recipe]
 ---
-
-# Filter Node Input
 
 > A filter node in a recipe.
 

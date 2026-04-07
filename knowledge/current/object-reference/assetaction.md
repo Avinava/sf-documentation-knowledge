@@ -5,12 +5,10 @@ topic: assetaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.114Z
+lastCollected: 2026-04-07T18:38:26.062Z
 estimatedTokens: 2277
-keywords: [AssetAction, change, made, lifecycle-managed, asset, can’t, edited, API, version, 50.0, later, Calls, Special, Access, Rules]
+keywords: [AssetAction, change, made, lifecycle-managed, asset, can’t, edited, API, 50.0]
 ---
-
-# AssetAction
 
 > Represents a change made to a lifecycle-managed asset. The fields can’t be
          edited. This object is available in API version 50.0 and later.

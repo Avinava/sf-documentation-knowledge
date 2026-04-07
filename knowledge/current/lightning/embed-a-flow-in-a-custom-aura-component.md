@@ -5,12 +5,10 @@ topic: embed-a-flow-in-a-custom-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.301Z
+lastCollected: 2026-04-07T18:38:03.315Z
 estimatedTokens: 710
-keywords: [Embed, Flow, Custom, Aura, Component, Once, JavaScript, Apex, code, configure, run, time, pass, control, happens]
+keywords: [Embed, Flow, Aura, Once, JavaScript, Apex, code, configure, run, time, pass, control, happens, finishes, lightning, supports, screen, flows, autolaunched]
 ---
-
-# Embed a Flow in a Custom Aura Component
 
 > Once you embed a flow in an Aura component, use JavaScript and Apex code to
                 configure the flow at run time. For example, pass values into the flow or to control

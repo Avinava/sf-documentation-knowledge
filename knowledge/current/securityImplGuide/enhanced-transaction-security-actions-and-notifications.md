@@ -5,12 +5,10 @@ topic: enhanced-transaction-security-actions-and-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.300Z
+lastCollected: 2026-04-07T18:39:22.189Z
 estimatedTokens: 730
-keywords: [Enhanced, Transaction, Security, Actions, Notifications, real-time, event, triggers, policy, block, user, enforce, multi-factor, authentication, MFA]
+keywords: [Block, Enhanced, Transaction, Security, Actions, Notifications, real-time, event, triggers, policy, user, enforce, multi-factor, authentication, MFA, optionally, receive, in-app, email]
 ---
-
-# Enhanced Transaction Security Actions and Notifications
 
 > When a real-time event triggers a transaction security policy, you can block a user or
     enforce multi-factor authentication (MFA). You can also optionally receive in-app or email

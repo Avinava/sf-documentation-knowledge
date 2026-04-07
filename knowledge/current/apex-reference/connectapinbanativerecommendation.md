@@ -5,12 +5,10 @@ topic: connectapinbanativerecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.945Z
+lastCollected: 2026-04-07T18:36:10.240Z
 estimatedTokens: 130
 keywords: [ConnectApi.NBANativeRecommendation, record, user, recommended, take, action]
 ---
-
-# ConnectApi.NBANativeRecommendation
 
 > A record the user is recommended to take action on.
 

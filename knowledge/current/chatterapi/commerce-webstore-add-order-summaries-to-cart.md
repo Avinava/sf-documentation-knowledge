@@ -5,12 +5,10 @@ topic: commerce-webstore-add-order-summaries-to-cart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.597Z
+lastCollected: 2026-04-07T18:37:12.483Z
 estimatedTokens: 937
-keywords: [Commerce, Webstore, Add, Order, Summaries, Cart, summary, active, current, API, includes, products, quantity, configuration, product]
+keywords: [Commerce, Webstore, Add, Order, Summaries, Cart, summary, active, current, API, includes, products, quantity, configuration, product, selling, model]
 ---
-
-# Commerce Webstore Add Order Summaries to Cart
 
 > Add an order summary to an active or a current cart. The API
     includes products from the existing order summary, with the same quantity and configuration

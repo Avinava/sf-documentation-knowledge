@@ -5,12 +5,10 @@ topic: abstract-story-data-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.045Z
+lastCollected: 2026-04-07T18:36:58.570Z
 estimatedTokens: 595
-keywords: [Abstract, Story, Data, Input, base, Einstein, Discovery, filter]
+keywords: [Abstract, Story, base, Einstein, Discovery, filter]
 ---
-
-# Abstract Story Data Property Input
 
 > The base Einstein Discovery story data property filter.
 

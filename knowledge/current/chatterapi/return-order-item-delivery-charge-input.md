@@ -5,12 +5,10 @@ topic: return-order-item-delivery-charge-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.332Z
+lastCollected: 2026-04-07T18:37:10.036Z
 estimatedTokens: 97
-keywords: [Order, Item, Delivery, Charge, Input, ReturnOrderLineItem, representing]
+keywords: [Order, Item, Delivery, Charge, ReturnOrderLineItem, representing]
 ---
-
-# Return Order Item Delivery Charge Input
 
 > ID of a ReturnOrderLineItem representing a delivery
     charge.

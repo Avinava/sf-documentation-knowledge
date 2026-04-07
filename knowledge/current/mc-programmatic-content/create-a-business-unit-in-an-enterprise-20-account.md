@@ -5,12 +5,10 @@ topic: create-a-business-unit-in-an-enterprise-20-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:27.520Z
+lastCollected: 2026-04-07T18:40:22.953Z
 estimatedTokens: 810
 keywords: [Business, Unit, Enterprise, 2.0, Account, sample, code, posts, SOAP, envelope, API, application, uses, call]
 ---
-
-# Create a Business Unit in an Enterprise 2.0 Account
 
 > This sample code posts a SOAP envelope to the SOAP API. The application uses the information in that SOAP envelope within the API call to create the business unit.
 

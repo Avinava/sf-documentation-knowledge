@@ -5,12 +5,10 @@ topic: resume-billing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.860Z
+lastCollected: 2026-04-07T18:35:43.765Z
 estimatedTokens: 116
-keywords: [Resume, Billing, Input, representation, operation, account, schedule, group]
+keywords: [Resume, Billing, operation, account, schedule, group]
 ---
-
-# Resume Billing Input
 
 > Input representation of the details of the request to resume the billing operation for an
     account or a billing schedule group.

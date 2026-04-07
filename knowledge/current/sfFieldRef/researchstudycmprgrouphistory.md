@@ -5,12 +5,10 @@ topic: researchstudycmprgrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.356Z
+lastCollected: 2026-04-07T18:40:00.071Z
 estimatedTokens: 276
-keywords: [ResearchStudyCmprGroupHistory, History, tracked, ResearchStudyCmprGroup]
+keywords: [ResearchStudyCmprGroupHistory, tracked, ResearchStudyCmprGroup]
 ---
-
-# ResearchStudyCmprGroupHistory
 
 > History for tracked fields of ResearchStudyCmprGroup.
 

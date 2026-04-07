@@ -5,12 +5,10 @@ topic: change-events-for-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.912Z
+lastCollected: 2026-04-07T18:37:05.616Z
 estimatedTokens: 230
 keywords: [Change, Events, event, characteristics]
 ---
-
-# Change Events for Fields
 
 > Learn about the change event characteristics for fields.
 

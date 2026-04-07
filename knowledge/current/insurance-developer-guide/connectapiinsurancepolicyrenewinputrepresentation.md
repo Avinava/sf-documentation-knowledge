@@ -5,12 +5,10 @@ topic: connectapiinsurancepolicyrenewinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.156Z
+lastCollected: 2026-04-07T18:37:50.001Z
 estimatedTokens: 94
-keywords: [Input, representation, resource, renew, insurance, policy]
+keywords: [resource, renew, insurance, policy]
 ---
-
-# ConnectApi.InsurancePolicyRenewInputRepresentation
 
 > Input representation details of the resource to renew an insurance policy.
 

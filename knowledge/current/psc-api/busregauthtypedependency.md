@@ -5,12 +5,10 @@ topic: busregauthtypedependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.080Z
+lastCollected: 2026-04-07T18:39:06.066Z
 estimatedTokens: 737
-keywords: [BusRegAuthTypeDependency, association, permit, dependency, business, context, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [BusRegAuthTypeDependency, association, permit, dependency, business, context, API, 50.0]
 ---
-
-# BusRegAuthTypeDependency
 
 > Information related to the association of permit to permit dependency in a
       given business context.  This object is available in API version 50.0 and later.

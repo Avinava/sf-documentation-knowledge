@@ -5,12 +5,10 @@ topic: clinicalalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.617Z
+lastCollected: 2026-04-07T18:37:42.780Z
 estimatedTokens: 1458
-keywords: [ClinicalAlert, notification, significance, different, healthcare, entities, subject, alert, may, patient, location, provider, procedure, medication, API]
+keywords: [ClinicalAlert, notification, significance, different, healthcare, entities, subject, alert, may, patient, location, provider, procedure, medication, API, 51.0, Additional, Clinical]
 ---
-
-# ClinicalAlert
 
 > Represents a warning or notification of significance related to different
       healthcare entities. The subject of the alert may be a patient, a location, a provider, a

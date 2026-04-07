@@ -5,12 +5,10 @@ topic: secure-your-agentforce-prompts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:55.353Z
+lastCollected: 2026-04-07T18:38:47.327Z
 estimatedTokens: 1043
-keywords: [Secure, Agentforce, Prompts, prompt, structured, instructions, provided, agent, behavior, solutions, listed, AppExchange, includes, adhere, requirements]
+keywords: [Secure, Agentforce, Prompts, prompt, structured, instructions, provided, agent, behavior, solutions, listed, AppExchange, includes, adhere, requirements, Sensitive, Secret, Authentication, Tokens, Storage, Injection, Mitigation]
 ---
-
-# Secure Your Agentforce Prompts
 
 > A prompt is a structured set of instructions provided to an agent to guide its
     behavior. All Agentforce solutions listed on AppExchange that includes prompts must adhere to

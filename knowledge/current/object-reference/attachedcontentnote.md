@@ -5,12 +5,10 @@ topic: attachedcontentnote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.377Z
+lastCollected: 2026-04-07T18:38:26.331Z
 estimatedTokens: 430
-keywords: [AttachedContentNote, read-only, ContentNote, objects, associated, object.This, API, version, 35.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [AttachedContentNote, read-only, ContentNote, object.This, API, 35.0]
 ---
-
-# AttachedContentNote
 
 > This read-only object contains all ContentNote objects associated with an object.This
 		object is available in API version 35.0 and later.

@@ -5,12 +5,10 @@ topic: match-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.890Z
+lastCollected: 2026-04-07T18:40:11.900Z
 estimatedTokens: 364
-keywords: [Match, Result, duplicate, rule, rules, control, whether, save, records, Salesforce, tell, action, take, attempt, record]
+keywords: [Match, Result, duplicate, rule, control, whether, save, records, Salesforce, tell, action, take, attempt, record, requires, least, matching, identify, possible, duplicates]
 ---
-
-# Match Result
 
 > A duplicate rule match. Duplicate rules are used to control whether
       and when you can save duplicate records within Salesforce. Duplicate rules tell Salesforce

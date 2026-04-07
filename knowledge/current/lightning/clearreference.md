@@ -5,12 +5,10 @@ topic: clearreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.177Z
+lastCollected: 2026-04-07T18:38:05.373Z
 estimatedTokens: 100
-keywords: [clearReference, Clears, live, passed, aura, later, want, reset, component.set, clear, resetting]
+keywords: [clearReference, Clears, live, passed, aura, want, reset, component.set, clear, resetting]
 ---
-
-# clearReference()
 
 > Clears a live reference for the value passed in using property
    syntax. For example, if you use aura:set to set a value and

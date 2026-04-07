@@ -5,12 +5,10 @@ topic: connectapiethocaevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.528Z
+lastCollected: 2026-04-07T18:37:33.996Z
 estimatedTokens: 91
-keywords: [ConnectApi.EthocaEvent, Ethoca, event, input]
+keywords: [ConnectApi.EthocaEvent, Ethoca, event]
 ---
-
-# ConnectApi.EthocaEvent
 
 > Ethoca event input class.
 

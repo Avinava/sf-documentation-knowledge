@@ -5,12 +5,10 @@ topic: using-arrays-in-index-paths
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.583Z
+lastCollected: 2026-04-07T18:40:26.831Z
 estimatedTokens: 496
-keywords: [Arrays, Index, Paths, contain, certain, rules, apply]
+keywords: [Arrays, Index, Paths, contain, certain, apply]
 ---
-
-# Using Arrays in Index Paths
 
 > Index paths can contain arrays, but certain rules apply.
 

@@ -5,12 +5,10 @@ topic: bundlebasedadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.264Z
+lastCollected: 2026-04-07T18:39:30.457Z
 estimatedTokens: 571
-keywords: [BundleBasedAdjustment, association, product, selling, model, price, adjustment, service, sold, bundle, stores, service's, discounts, applied, along]
+keywords: [BundleBasedAdjustment, association, product, selling, model, price, adjustment, service, sold, bundle, stores, service's, discounts, applied, along, date, range, API, 60.0]
 ---
-
-# BundleBasedAdjustment
 
 > Represents the association between the product selling model and the price
          adjustment for a product or service being sold as a bundle. This object stores information

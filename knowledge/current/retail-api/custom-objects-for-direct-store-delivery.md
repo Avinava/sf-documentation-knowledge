@@ -5,12 +5,10 @@ topic: custom-objects-for-direct-store-delivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.084Z
+lastCollected: 2026-04-07T18:39:11.684Z
 estimatedTokens: 826
-keywords: [Custom, Objects, Direct, Store, Delivery, Consumer, Goods, Cloud, data, model, support]
+keywords: [Direct, Store, Delivery, Consumer, Goods, Cloud, model, support]
 ---
-
-# Custom Objects for Direct Store Delivery
 
 > Consumer Goods Cloud data model provides custom objects and fields to support Direct
         Store Delivery.

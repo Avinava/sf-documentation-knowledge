@@ -5,12 +5,10 @@ topic: security-requirements-for-appexchange-partners-and-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.547Z
+lastCollected: 2026-04-07T18:38:47.492Z
 estimatedTokens: 1918
-keywords: [Security, Requirements, AppExchange, Partners, Solutions, Effective, Date, August, Salesforce, Partner, you’re, responsible, implementing, maintaining, comprehensive]
+keywords: [Security, Requirements, AppExchange, Partners, Solutions, Effective, Date, August, Salesforce, Partner, you’re, responsible, implementing, maintaining, comprehensive, program, applications, distribute, under, General, B2C, Commerce, Solution, Tableau, Accelerator, Agentforce, Connected, App, External, Client, Topics]
 ---
-
-# Security Requirements for AppExchange Partners and Solutions
 
 > [Effective Date: August 9, 2023] As a Salesforce Partner, you’re responsible for
     implementing and maintaining a comprehensive security program and maintaining the security of

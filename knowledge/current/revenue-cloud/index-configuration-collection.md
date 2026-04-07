@@ -5,12 +5,10 @@ topic: index-configuration-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.873Z
+lastCollected: 2026-04-07T18:35:45.871Z
 estimatedTokens: 214
-keywords: [Index, Configuration, Collection, Output, representation]
+keywords: [Index, Configuration, Collection]
 ---
-
-# Index Configuration Collection
 
 > Output representation of the collection of index configuration details.
 

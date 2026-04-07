@@ -5,12 +5,10 @@ topic: individualapplicationtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.198Z
+lastCollected: 2026-04-07T18:38:22.184Z
 estimatedTokens: 1286
-keywords: [IndividualApplicationTask, task, application, Grantmaking, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [IndividualApplicationTask, task, application, Grantmaking, API, 61.0]
 ---
-
-# IndividualApplicationTask
 
 > Represents a task related to an application. This object is available in
       Grantmaking API version 61.0 and later.

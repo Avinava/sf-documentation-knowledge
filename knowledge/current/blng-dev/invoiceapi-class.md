@@ -5,12 +5,10 @@ topic: invoiceapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.693Z
+lastCollected: 2026-04-07T18:37:03.261Z
 estimatedTokens: 695
-keywords: [InvoiceAPI, API, Apex, Salesforce, Billing, call, cancel, rebill, invoice, credit, Usage, creditInvoice, invoiceId, action]
+keywords: [InvoiceAPI, API, Apex, Salesforce, Billing, call, cancel, rebill, invoice, credit, creditInvoice, invoiceId, action]
 ---
-
-# InvoiceAPI Class
 
 > Global API Apex class for Salesforce Billing. Contains methods
             that you can call to cancel and rebill an invoice, or to credit an

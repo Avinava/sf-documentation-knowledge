@@ -5,12 +5,10 @@ topic: submit-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.358Z
+lastCollected: 2026-04-07T18:35:40.140Z
 estimatedTokens: 1024
-keywords: [Submit, Order, Action, Dynamic, Revenue, Orchestrator, DRO, fulfillment, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Submit, Order, Action, Dynamic, Revenue, Orchestrator, DRO, fulfillment, REST, HTTP, Explainability, Logs]
 ---
-
-# Submit Order Action
 
 > Submit an order to Dynamic Revenue Orchestrator (DRO) for
 			fulfillment.

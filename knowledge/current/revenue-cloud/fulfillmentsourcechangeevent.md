@@ -5,12 +5,10 @@ topic: fulfillmentsourcechangeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.201Z
+lastCollected: 2026-04-07T18:35:49.163Z
 estimatedTokens: 328
-keywords: [FulfillmentSourceChangeEvent, Notifies, updates, sources, orchestrated, Dynamic, Revenue, Orchestrator, order, product, fulfillment, API, version, 66.0, later]
+keywords: [FulfillmentSourceChangeEvent, Notifies, updates, sources, orchestrated, Dynamic, Revenue, Orchestrator, order, product, fulfillment, API, 66.0, Subscribers, Streaming, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---
-
-# FulfillmentSourceChangeEvent
 
 > Notifies updates to the sources orchestrated by Dynamic Revenue Orchestrator
          like order product or fulfillment order product. This object is available in API

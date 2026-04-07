@@ -5,12 +5,10 @@ topic: contactcleaninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:37.347Z
+lastCollected: 2026-04-07T18:38:28.259Z
 estimatedTokens: 2779
-keywords: [ContactCleanInfo, Stores, metadata, Data.com, Clean, uses, determine, contact, record’s, status, Helps, automate, cleaning, processing, records]
+keywords: [ContactCleanInfo, Stores, metadata, Data.com, Clean, uses, determine, contact, record’s, status, Helps, automate, cleaning, processing, records, includes, number, bit, vector]
 ---
-
-# ContactCleanInfo
 
 > Stores the metadata Data.com Clean uses to determine a contact
       record’s clean status. Helps you automate the cleaning or related processing of contact

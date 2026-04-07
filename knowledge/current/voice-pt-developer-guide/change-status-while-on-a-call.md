@@ -5,12 +5,10 @@ topic: change-status-while-on-a-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.628Z
+lastCollected: 2026-04-07T18:40:13.553Z
 estimatedTokens: 319
 keywords: [Change, Status, Call, pending, feature, reps, their, Omni-Channel]
 ---
-
-# Change Status While on a Call
 
 > With the pending status change feature, reps can change their Omni-Channel
                 status while on a call.

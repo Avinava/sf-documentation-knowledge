@@ -5,12 +5,10 @@ topic: blocked-redirect-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.002Z
+lastCollected: 2026-04-07T18:38:30.804Z
 estimatedTokens: 1863
-keywords: [Blocked, Redirect, Event, events, capture, redirections, Salesforce, untrusted, malformed, URLs, EventLogFile, API, version, 63.0, later]
+keywords: [Blocked, Redirect, Event, events, capture, redirections, Salesforce, untrusted, malformed, URLs, EventLogFile, API, 63.0]
 ---
-
-# Blocked Redirect Event Type
 
 > Blocked redirect events capture information about blocked redirections
 			from Salesforce to untrusted and malformed URLs. The Blocked Redirect event type is

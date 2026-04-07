@@ -5,12 +5,10 @@ topic: getpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.756Z
+lastCollected: 2026-04-07T18:39:11.290Z
 estimatedTokens: 111
-keywords: [getPromotion, requested, promotion, Input, Sample]
+keywords: [getPromotion, requested, promotion, Sample]
 ---
-
-# getPromotion
 
 > This method returns the requested fields for the given promotion ID.
 

@@ -5,12 +5,10 @@ topic: billing-fields-on-consumption-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.773Z
+lastCollected: 2026-04-07T18:37:04.397Z
 estimatedTokens: 368
-keywords: [Billing, Consumption, Schedule, Standard, custom, extend, represent, schedules]
+keywords: [Billing, Consumption, Schedule, Standard, extend, represent, schedules]
 ---
-
-# Billing Fields on Consumption Schedule
 
 > Standard and custom fields extend the standard Consumption Schedule
          object for use in Billing to represent information about consumption

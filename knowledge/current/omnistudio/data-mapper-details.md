@@ -5,12 +5,10 @@ topic: data-mapper-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.134Z
+lastCollected: 2026-04-07T18:36:36.671Z
 estimatedTokens: 127
-keywords: [Data, Mapper, Input, representation, clear, cache]
+keywords: [Mapper, clear, cache]
 ---
-
-# Data Mapper Details
 
 > Input representation of the data mapper details to clear the cache for.
 

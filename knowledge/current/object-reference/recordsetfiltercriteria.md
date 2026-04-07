@@ -5,12 +5,10 @@ topic: recordsetfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.190Z
+lastCollected: 2026-04-07T18:38:39.766Z
 estimatedTokens: 1262
-keywords: [RecordsetFilterCriteria, filters, match, service, appointments, assets, criteria, recordset, filter, satisfy, matched, filtered, shifts, likewise, maintenance]
+keywords: [RecordsetFilterCriteria, filters, match, service, appointments, assets, criteria, recordset, filter, satisfy, matched, filtered, shifts, likewise, maintenance, work, API, 50.0, 52.0]
 ---
-
-# RecordsetFilterCriteria
 
 > Represents a set of filters that can be used to match service appointments or
       assets based on your criteria fields. For example, you can create recordset filter

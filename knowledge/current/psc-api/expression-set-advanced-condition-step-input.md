@@ -5,12 +5,10 @@ topic: expression-set-advanced-condition-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.072Z
+lastCollected: 2026-04-07T18:39:01.211Z
 estimatedTokens: 189
-keywords: [Expression, Advanced, Condition, Step, Input, representation]
+keywords: [Expression, Advanced, Condition, Step]
 ---
-
-# Expression Set Advanced Condition Step Input
 
 > Input representation of an advanced condition step in an expression
       set.

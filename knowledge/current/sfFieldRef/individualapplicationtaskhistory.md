@@ -5,12 +5,10 @@ topic: individualapplicationtaskhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.083Z
+lastCollected: 2026-04-07T18:39:44.658Z
 estimatedTokens: 276
-keywords: [IndividualApplicationTaskHistory, History, tracked, IndividualApplicationTask]
+keywords: [IndividualApplicationTaskHistory, tracked, IndividualApplicationTask]
 ---
-
-# IndividualApplicationTaskHistory
 
 > History for tracked fields of IndividualApplicationTask.
 

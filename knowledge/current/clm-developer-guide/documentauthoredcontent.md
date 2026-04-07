@@ -5,12 +5,10 @@ topic: documentauthoredcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.629Z
+lastCollected: 2026-04-07T18:37:25.553Z
 estimatedTokens: 1365
-keywords: [DocumentAuthoredContent, metadata, content, boundary, document, template, contract, store, marked, clauses, sections, Salesforce, authored, API, version]
+keywords: [DocumentAuthoredContent, metadata, content, boundary, document, template, contract, store, marked, clauses, sections, Salesforce, authored, API, 58.0]
 ---
-
-# DocumentAuthoredContent
 
 > Represents the metadata of the content within the content boundary of a
          document such as a template or contract document. You can store metadata details of the

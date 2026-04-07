@@ -5,12 +5,10 @@ topic: promotions-approaching-discount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.137Z
+lastCollected: 2026-04-07T18:37:22.245Z
 estimatedTokens: 177
-keywords: [Promotions, Approaching, Discount, Output, representation, qualifier, promotion]
+keywords: [Promotions, Approaching, Discount, qualifier, promotion]
 ---
-
-# Promotions Approaching Discount
 
 > Output representation of the qualifier for a promotion with an approaching
     discount.

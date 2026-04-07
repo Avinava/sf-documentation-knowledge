@@ -5,12 +5,10 @@ topic: approvalsubmission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.871Z
+lastCollected: 2026-04-07T18:38:25.813Z
 estimatedTokens: 1091
-keywords: [ApprovalSubmission, instance, approval, that's, submitted, record, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [ApprovalSubmission, instance, approval, that's, submitted, record, API, 62.0]
 ---
-
-# ApprovalSubmission
 
 > Represents the instance of an approval request that's submitted for a record
          of the related object. This object is available in API version 62.0 and

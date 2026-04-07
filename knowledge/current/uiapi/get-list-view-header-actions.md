@@ -5,12 +5,10 @@ topic: get-list-view-header-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.026Z
+lastCollected: 2026-04-07T18:40:11.013Z
 estimatedTokens: 545
 keywords: [View, Actions, views]
 ---
-
-# Get List View Header Actions
 
 > Get the header actions on list views.
 

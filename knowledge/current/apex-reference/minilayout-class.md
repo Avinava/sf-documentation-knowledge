@@ -5,13 +5,11 @@ topic: minilayout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.149Z
+lastCollected: 2026-04-07T18:36:00.429Z
 estimatedTokens: 804
 namespace: Metadata
-keywords: [MiniLayout, mini, view, record, Console, tab, hover, event, overlays, Usage, relatedLists, clone]
+keywords: [MiniLayout, mini, view, record, Console, tab, hover, event, overlays, relatedLists, clone]
 ---
-
-# MiniLayout Class
 
 > Represents a mini view of a record in the Console tab, hover details,
       and event overlays.

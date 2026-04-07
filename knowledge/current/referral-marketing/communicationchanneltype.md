@@ -5,12 +5,10 @@ topic: communicationchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.235Z
+lastCollected: 2026-04-07T18:39:09.546Z
 estimatedTokens: 506
-keywords: [CommunicationChannelType, channel, WhatsApp, Telegram, that's, communication, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, SMS, API, version, 63.0, later]
+keywords: [CommunicationChannelType, channel, WhatsApp, Telegram, that's, communication, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, SMS, API, 63.0, B2C, referral, programs]
 ---
-
-# CommunicationChannelType
 
 > Represents the channel type, such as WhatsApp or Telegram
 			that's used for communication.

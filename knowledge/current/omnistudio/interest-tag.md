@@ -5,12 +5,10 @@ topic: interest-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.104Z
+lastCollected: 2026-04-07T18:36:39.784Z
 estimatedTokens: 142
-keywords: [Interest, Tag, Output, representation]
+keywords: [Interest, Tag]
 ---
-
-# Interest Tag
 
 > Output representation of the details of an Interest
     Tag.

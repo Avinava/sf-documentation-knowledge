@@ -5,12 +5,10 @@ topic: sequences-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.938Z
+lastCollected: 2026-04-07T18:35:43.848Z
 estimatedTokens: 164
-keywords: [Sequences, Assignment, Input, representation, target, objects, sequence, pattern, assigned]
+keywords: [Sequences, Assignment, target, sequence, pattern, assigned]
 ---
-
-# Sequences Assignment Input
 
 > Input representation of the details of the target objects to which the sequence pattern
     values are assigned.

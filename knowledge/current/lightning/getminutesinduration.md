@@ -5,12 +5,10 @@ topic: getminutesinduration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.985Z
+lastCollected: 2026-04-07T18:38:05.149Z
 estimatedTokens: 124
 keywords: [getMinutesInDuration, number, minutes, duration, Sample, Code]
 ---
-
-# getMinutesInDuration()
 
 > Returns the number of minutes in a duration.
 

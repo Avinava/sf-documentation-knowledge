@@ -5,12 +5,10 @@ topic: terrgeoassignmentrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.009Z
+lastCollected: 2026-04-07T18:38:01.909Z
 estimatedTokens: 1201
-keywords: [TerrGeoAssignmentRule, alignment, rules, assign, accounts, specific, territories, geocodes, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [TerrGeoAssignmentRule, alignment, assign, accounts, specific, territories, geocodes, API, 65.0]
 ---
-
-# TerrGeoAssignmentRule
 
 > Represents alignment rules that assign accounts to specific territories based
          on geocodes. This object is available in API version 65.0 and later.

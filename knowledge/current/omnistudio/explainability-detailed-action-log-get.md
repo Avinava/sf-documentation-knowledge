@@ -5,12 +5,10 @@ topic: explainability-detailed-action-log-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.536Z
+lastCollected: 2026-04-07T18:36:38.158Z
 estimatedTokens: 367
 keywords: [Explainability, Detailed, Action, Log, Retrieve, logs, combine, segments, generate, consolidated]
 ---
-
-# Explainability Detailed Action Log (GET)
 
 > Retrieve detailed action logs and combine log segments to generate a consolidated
     explainability action log.

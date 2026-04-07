@@ -5,12 +5,10 @@ topic: connectapiclaimcoveragerepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.339Z
+lastCollected: 2026-04-07T18:37:50.168Z
 estimatedTokens: 117
-keywords: [ConnectApi.ClaimCoverageRepresentation, Output, representation, claim, coverage, operation]
+keywords: [ConnectApi.ClaimCoverageRepresentation, claim, coverage, operation]
 ---
-
-# ConnectApi.ClaimCoverageRepresentation
 
 > Output representation for a claim coverage operation.
 

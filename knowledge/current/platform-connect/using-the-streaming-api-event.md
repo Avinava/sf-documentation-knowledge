@@ -5,12 +5,10 @@ topic: using-the-streaming-api-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.239Z
+lastCollected: 2026-04-07T18:38:57.013Z
 estimatedTokens: 307
 keywords: [Streaming, API, Event, Canvas, SDK, sfdc.streamingapi, lets, define, app, associate, channel, subscribe, receive, notifications]
 ---
-
-# Using the Streaming API Event
 
 > The Canvas SDK contains an event called sfdc.streamingapi that lets you define an event in your canvas app and associate that
 event with a Streaming API channel. You then use the subscribe method to subscribe to the event and receive Streaming API notifications.

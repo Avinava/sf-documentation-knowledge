@@ -5,12 +5,10 @@ topic: cpq-api-quoteproposalmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:40.356Z
+lastCollected: 2026-04-07T18:37:27.364Z
 estimatedTokens: 154
 keywords: [CPQ, API, QuoteProposalModel, QuoteProposal, model, quote, document, Salesforce]
 ---
-
-# CPQ API QuoteProposalModel
 
 > The QuoteProposal model represents a quote document in Salesforce CPQ.
 

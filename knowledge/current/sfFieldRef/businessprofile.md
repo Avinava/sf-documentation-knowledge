@@ -5,12 +5,10 @@ topic: businessprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.554Z
+lastCollected: 2026-04-07T18:39:30.773Z
 estimatedTokens: 492
-keywords: [BusinessProfile, business, license, permit, application, API, version, 49.0, later]
+keywords: [BusinessProfile, business, license, permit, application, API, 49.0]
 ---
-
-# BusinessProfile
 
 > Represents details about the business on the license or permit application. This object is available in API version 49.0 and later.
 

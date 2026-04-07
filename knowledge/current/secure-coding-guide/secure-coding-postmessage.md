@@ -5,12 +5,10 @@ topic: secure-coding-postmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.111Z
+lastCollected: 2026-04-07T18:39:21.993Z
 estimatedTokens: 835
-keywords: [Secure, Coding, PostMessage, Browser’s, Origin, Policy, SOP, prevents, different, origins, accessing, other’s, data, window.postMessage, API]
+keywords: [Secure, Coding, PostMessage, Browser’s, Origin, Policy, SOP, prevents, different, origins, accessing, other’s, window.postMessage, API, thus, introduced, HTML5, enable, exchange, intending, communicate, Post, Message]
 ---
-
-# Secure Coding PostMessage
 
 > Browser’s Same Origin Policy (SOP) prevents
                 different origins from accessing each other’s data. window.postMessage API

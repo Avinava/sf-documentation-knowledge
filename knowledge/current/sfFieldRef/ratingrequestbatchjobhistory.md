@@ -5,12 +5,10 @@ topic: ratingrequestbatchjobhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.800Z
+lastCollected: 2026-04-07T18:39:58.463Z
 estimatedTokens: 272
-keywords: [RatingRequestBatchJobHistory, History, tracked, RatingRequestBatchJob]
+keywords: [RatingRequestBatchJobHistory, tracked, RatingRequestBatchJob]
 ---
-
-# RatingRequestBatchJobHistory
 
 > History for tracked fields of RatingRequestBatchJob.
 

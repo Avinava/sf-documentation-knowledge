@@ -5,12 +5,10 @@ topic: apexdoc-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.262Z
+lastCollected: 2026-04-07T18:36:17.490Z
 estimatedTokens: 270
-keywords: [ApexDoc, Examples, practical, comments, applied, various, Apex, constructs, Packaged, Test, params, throws, Annotated, @AuraEnabled, External]
+keywords: [ApexDoc, Examples, practical, comments, applied, various, Apex, constructs, Packaged, Test, params, throws, Annotated, @AuraEnabled, External, Inline, Tags]
 ---
-
-# ApexDoc Examples
 
 > See practical examples of ApexDoc comments applied to various Apex
   constructs.

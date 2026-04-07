@@ -5,12 +5,10 @@ topic: discovery-framework-api-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.271Z
+lastCollected: 2026-04-07T18:39:03.457Z
 estimatedTokens: 498
 keywords: [Discovery, Framework, API, Responses, Here’s, Document, Decision, bodies]
 ---
-
-# Discovery Framework API Responses
 
 > Here’s the list of the Discovery Framework Document Decision API response
                 bodies.

@@ -5,12 +5,10 @@ topic: tutorial-creating-a-hybrid-application-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.435Z
+lastCollected: 2026-04-07T18:40:25.805Z
 estimatedTokens: 386
-keywords: [Tutorial, Creating, Hybrid, Application, demonstrates, how, local, app, uses, Mobile, Sync, recreates, UserSearch, sample, ships]
+keywords: [Tutorial, Creating, Hybrid, Application, demonstrates, how, local, app, uses, Mobile, Sync, recreates, UserSearch, sample, ships, SDK, lets, search, User, records, Salesforce, organization, basic]
 ---
-
-# Tutorial: Creating a Hybrid  Application Application
 
 > This tutorial demonstrates how to create a local hybrid app that uses Mobile Sync. It recreates the UserSearch sample application that ships with Mobile SDK. UserSearch lets you
    search for User records in a Salesforce organization and see basic details about them.

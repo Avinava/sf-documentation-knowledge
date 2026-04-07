@@ -5,12 +5,10 @@ topic: contactcenterchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.660Z
+lastCollected: 2026-04-07T18:36:32.100Z
 estimatedTokens: 775
-keywords: [ContactCenterChannel, junction, relates, Bring, Own, Channel, Contact, Center, Service, CCaaS, messaging, CallCenter, routing, voicemail, configuration]
+keywords: [ContactCenterChannel, junction, relates, Bring, Own, Channel, Contact, Center, Service, CCaaS, messaging, CallCenter, routing, voicemail, configuration, API, 56.0, SOAP, REST]
 ---
-
-# ContactCenterChannel
 
 > Represents a junction object that relates a Bring Your Own Channel for
          Contact Center as a Service (CCaaS) messaging channel to a CallCenter object for Bring Your

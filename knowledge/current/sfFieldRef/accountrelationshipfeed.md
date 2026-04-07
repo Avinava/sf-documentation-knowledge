@@ -5,12 +5,10 @@ topic: accountrelationshipfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.336Z
+lastCollected: 2026-04-07T18:39:24.261Z
 estimatedTokens: 390
-keywords: [AccountRelationshipFeed, Feed, tracking, AccountRelationship]
+keywords: [AccountRelationshipFeed, AccountRelationship]
 ---
-
-# AccountRelationshipFeed
 
 > Feed tracking for AccountRelationship.
 

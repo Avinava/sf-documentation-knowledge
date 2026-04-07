@@ -5,12 +5,10 @@ topic: getting-started
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:30.654Z
+lastCollected: 2026-04-07T18:40:25.999Z
 estimatedTokens: 167
-keywords: [Getting, Started, you're, already, web, developer, write, HTML5, apps, access, Salesforce, run, browser, don't, require]
+keywords: [Getting, Started, you're, already, web, developer, write, HTML5, apps, Salesforce, run, browser, don't, require, Mobile, SDK, simply, call, APIs, capture, plug, logic, advantages, challeng]
 ---
-
-# Getting Started
 
 > If you're already a web developer, you're set up to write HTML5
 apps that access Salesforce. HTML5 apps can run in a browser and don't

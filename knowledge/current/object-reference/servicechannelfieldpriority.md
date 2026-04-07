@@ -5,12 +5,10 @@ topic: servicechannelfieldpriority
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:49.155Z
+lastCollected: 2026-04-07T18:38:40.756Z
 estimatedTokens: 218
-keywords: [ServiceChannelFieldPriority, secondary, routing, priority, field-value, mapping, API, version, 47.0, later, Calls, Special, Access, Rules]
+keywords: [ServiceChannelFieldPriority, secondary, routing, priority, field-value, mapping, API, 47.0]
 ---
-
-# ServiceChannelFieldPriority
 
 > Represents a secondary routing priority field-value mapping.
   This object is available in API version 47.0 and later.

@@ -5,12 +5,10 @@ topic: objectextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.809Z
+lastCollected: 2026-04-07T18:40:17.993Z
 estimatedTokens: 556
-keywords: [ObjectExtension, collection, associated, retrieve-only, objects, follow, don't, display, part, WSDL, They, multiple]
+keywords: [ObjectExtension, collection, retrieve-only, follow, don't, display, part, WSDL, They, multiple]
 ---
-
-# ObjectExtension
 
 > The ObjectExtension object specifies a name and value property collection associated with some retrieve-only objects. The follow objects don't display as part of the WSDL. They are retrieve-only and return multiple ObjectExtension objects:
 

@@ -5,12 +5,10 @@ topic: flowrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.678Z
+lastCollected: 2026-04-07T18:38:32.666Z
 estimatedTokens: 6607
-keywords: [FlowRecord, flow, API, version, 58.0, later, Calls, Associated, Objects]
+keywords: [FlowRecord, flow, API, 58.0]
 ---
-
-# FlowRecord
 
 > Represents the details of a flow. This object is available in API
          version 58.0 and later.

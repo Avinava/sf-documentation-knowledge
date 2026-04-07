@@ -5,12 +5,10 @@ topic: connect-rest-api-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.897Z
+lastCollected: 2026-04-07T18:39:16.443Z
 estimatedTokens: 279
 keywords: [Connect, REST, API, Limits, protect, shared, resources, consumers]
 ---
-
-# Connect REST API Limits
 
 > Limits protect shared resources. These limits are for Connect REST API
     consumers.

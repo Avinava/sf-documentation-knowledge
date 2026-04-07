@@ -5,12 +5,10 @@ topic: lookup-tables-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:11.166Z
+lastCollected: 2026-04-07T18:39:04.291Z
 estimatedTokens: 268
 keywords: [Lookup, Tables, Invocable, Actions, invoke, flow]
 ---
-
-# Lookup Tables Invocable Actions
 
 > Use actions to invoke Lookup Table actions in a flow.
 

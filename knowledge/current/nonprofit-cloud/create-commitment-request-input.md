@@ -5,12 +5,10 @@ topic: create-commitment-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.733Z
+lastCollected: 2026-04-07T18:38:20.460Z
 estimatedTokens: 946
-keywords: [Commitment, Input, representation, recurring, gift, accepts, array, requests, However, API, version, 60.0, commitments, per, request.<]
+keywords: [Commitment, recurring, gift, accepts, array, requests, However, API, 60.0, commitments, per, request.<]
 ---
-
-# Create Commitment Request Input
 
 > Input representation of the request to create a recurring gift commitment. This request
     body accepts an array of commitment requests. However, for the API version 60.0, up to 100

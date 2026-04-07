@@ -5,12 +5,10 @@ topic: goaldefinitionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.356Z
+lastCollected: 2026-04-07T18:39:42.937Z
 estimatedTokens: 360
-keywords: [GoalDefinitionFeed, Feed, tracking, GoalDefinition]
+keywords: [GoalDefinitionFeed, GoalDefinition]
 ---
-
-# GoalDefinitionFeed
 
 > Feed tracking for GoalDefinition.
 

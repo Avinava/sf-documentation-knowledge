@@ -5,12 +5,10 @@ topic: considerations-for-configuring-components-for-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:13.069Z
+lastCollected: 2026-04-07T18:38:03.037Z
 estimatedTokens: 782
-keywords: [Considerations, Configuring, Components, Flows, configure, Aura, component, flow, determine, whether, screens, actions, understand, how, map]
+keywords: [Considerations, Configuring, Flows, configure, Aura, flow, determine, whether, screens, actions, understand, how, map, review, defining, attributes, behave, runtime]
 ---
-
-# Considerations for Configuring Components for Flows
 
 > Before you configure an Aura component for a flow, determine whether it should be
   available in flow screens or as flow actions and understand how to map data types between a flow

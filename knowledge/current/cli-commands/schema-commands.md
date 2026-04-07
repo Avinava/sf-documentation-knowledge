@@ -5,12 +5,10 @@ topic: schema-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:54.715Z
+lastCollected: 2026-04-07T18:35:39.504Z
 estimatedTokens: 1811
-keywords: [schema, Commands, Generate, metadata, source, files, new, custom, Examples, Flags, Aliases, platformevent, sobject, tab]
+keywords: [Flags, schema, Commands, Generate, metadata, source, files, new, Examples, Aliases, platformevent, sobject, tab]
 ---
-
-# schema Commands
 
 > Generate metadata source files for a new custom field on a specified object.
 

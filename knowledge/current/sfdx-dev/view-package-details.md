@@ -5,12 +5,10 @@ topic: view-package-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.948Z
+lastCollected: 2026-04-07T18:40:08.930Z
 estimatedTokens: 174
 keywords: [View, Package, previously, created, packages, versions, command, line]
 ---
-
-# View Package Details
 
 > View the details of previously created packages and package versions from the command
     line.

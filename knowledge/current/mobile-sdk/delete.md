@@ -5,12 +5,10 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.084Z
+lastCollected: 2026-04-07T18:40:27.306Z
 estimatedTokens: 133
-keywords: [Deletes, iOS, Android]
+keywords: [Android, Deletes, iOS]
 ---
-
-# Delete
 
 > Deletes the object of the given type and the given ID
 

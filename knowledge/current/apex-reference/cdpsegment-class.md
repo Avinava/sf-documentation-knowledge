@@ -5,13 +5,11 @@ topic: cdpsegment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.704Z
+lastCollected: 2026-04-07T18:35:55.859Z
 estimatedTokens: 4982
 namespace: ConnectApi
-keywords: [CdpSegment, segment, createSegment, input, API, Version, Requires, Chatter, dataspace, deactivateSegmentByApiName, segmentApiName, deactivateSegmentById, segmentId, deleteSegment, executePublishAdhoc]
+keywords: [CdpSegment, segment, createSegment, API, Requires, Chatter, dataspace, deactivateSegmentByApiName, segmentApiName, deactivateSegmentById, segmentId, deleteSegment, executePublishAdhoc, getSegment, getSegmentById, getSegments, getSegmentsPaginated, batchSize, offset, orderBy, getSegmentsFilteredPaginated, filters, updateSegment]
 ---
-
-# CdpSegment Class
 
 > Create a segment.
 

@@ -5,12 +5,10 @@ topic: create-advanced-visualforce-dashboard-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:59.609Z
+lastCollected: 2026-04-07T18:38:51.912Z
 estimatedTokens: 625
-keywords: [Advanced, Visualforce, Dashboard, Components, custom, controller, component]
+keywords: [Advanced, Visualforce, Dashboard, controller]
 ---
-
-# Create Advanced Visualforce Dashboard Components
 
 > Create a Visualforce page with a custom list controller, then use it as a dashboard
         component.

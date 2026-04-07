@@ -5,12 +5,10 @@ topic: where-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.486Z
+lastCollected: 2026-04-07T18:37:02.095Z
 estimatedTokens: 331
 keywords: [Clause, SQL, query, retrieves, every, row, dataset, restrict, results, conditional, expression]
 ---
-
-# WHERE Clause
 
 > By default, a SQL query retrieves every row in your dataset. Use the optional WHERE clause to restrict your query results to a conditional
   expression.

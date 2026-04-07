@@ -5,12 +5,10 @@ topic: partydatamodelsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.759Z
+lastCollected: 2026-04-07T18:36:28.300Z
 estimatedTokens: 718
-keywords: [PartyDataModelSettings, organization’s, party, data, model, settings, including, options, around, Individual, consent, enablement, extends, Metadata, inherits]
+keywords: [PartyDataModelSettings, organization’s, party, model, settings, including, options, around, Individual, consent, enablement, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PartyDataModelSettings
 
 > Represents an organization’s party data model settings,
       including options around the Individual object and consent enablement. This type extends the Metadata metadata type and inherits its fullName field.

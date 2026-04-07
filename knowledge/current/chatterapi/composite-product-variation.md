@@ -5,12 +5,10 @@ topic: composite-product-variation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.721Z
+lastCollected: 2026-04-07T18:37:17.790Z
 estimatedTokens: 142
 keywords: [Composite, Product, Variation]
 ---
-
-# Composite Product Variation
 
 > Composite product variation create request response.
 

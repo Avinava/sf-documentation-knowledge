@@ -5,12 +5,10 @@ topic: apex-rest-basic-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.147Z
+lastCollected: 2026-04-07T18:36:18.374Z
 estimatedTokens: 578
 keywords: [Apex, REST, Basic, Code, Sample, how, implement, simple, API, three, HTTP, retrieve, record]
 ---
-
-# Apex REST Basic Code Sample
 
 > This sample shows how to implement a simple REST API in Apex with three HTTP request
     methods to delete, retrieve, and update a record.

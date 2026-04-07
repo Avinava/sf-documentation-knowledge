@@ -5,12 +5,10 @@ topic: workbadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.766Z
+lastCollected: 2026-04-07T18:40:06.665Z
 estimatedTokens: 396
 keywords: [WorkBadge, badge, record, created, recipient, WorkBadgeDefinition]
 ---
-
-# WorkBadge
 
 > Represents information about who the badge was given to and which badge
    was given. A WorkBadge record is created for each

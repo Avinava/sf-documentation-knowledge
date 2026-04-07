@@ -5,12 +5,10 @@ topic: quotelineitemgroupclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.354Z
+lastCollected: 2026-04-07T18:39:57.976Z
 estimatedTokens: 293
 keywords: [QuoteLineItemGroupClass, association, Quote, Line, Item, GroupClass, entity, large, group, quoting, process, multiple, classes, attributed, Child]
 ---
-
-# QuoteLineItemGroupClass
 
 > Represents the association of a Quote Line Item to GroupClass. Use this entity for large group quoting process when multiple group classes are attributed on a single quote line item. Child object of Quote.
 

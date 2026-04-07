@@ -5,13 +5,11 @@ topic: platform-cache-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:32.928Z
+lastCollected: 2026-04-07T18:36:18.158Z
 estimatedTokens: 1152
 namespace: Session
-keywords: [Platform, Cache, Features, API, lets, store, retrieve, data, that’s, tied, Salesforce, sessions, shared, across, org]
+keywords: [Platform, Cache, Features, API, lets, store, retrieve, that’s, tied, Salesforce, sessions, shared, across, org, Put, remove, Session, SessionPartition, OrgPartition, classes, Partition, tool, Setup, partitions, allocate, their, capacities, balance, performance, apps, Try]
 ---
-
-# Platform Cache Features
 
 > The Platform Cache API lets you store and retrieve data that’s tied
       to Salesforce sessions or shared across your org. Put, retrieve, or remove cache values by

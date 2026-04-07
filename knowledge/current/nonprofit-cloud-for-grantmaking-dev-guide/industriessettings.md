@@ -5,12 +5,10 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.506Z
+lastCollected: 2026-04-07T18:38:23.401Z
 estimatedTokens: 517
-keywords: [IndustriesSettings, settings, Grantmaking, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
+keywords: [IndustriesSettings, settings, Grantmaking, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesSettings
 
 > Represents the settings for Grantmaking
 

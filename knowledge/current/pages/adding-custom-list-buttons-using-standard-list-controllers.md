@@ -6,13 +6,10 @@ topic: adding-custom-list-buttons-using-standard-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:58.809Z
+lastCollected: 2026-04-07T18:38:51.047Z
 estimatedTokens: 743
-keywords: [Adding, Custom, Buttons, Standard, Controllers, addition, overriding, links, link, pages, controller, search, results, any, allow]
+keywords: [Adding, Buttons, Standard, Controllers, addition, overriding, links, link, pages, controller, search, results, any, allow]
 ---
-
-# Adding Custom List Buttons using Standard List
-        Controllers
 
 > In addition to overriding standard buttons and links, you can also create custom list
             buttons that link to pages that use a standard list controller. These list buttons can

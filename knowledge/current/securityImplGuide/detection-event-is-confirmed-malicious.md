@@ -5,12 +5,10 @@ topic: detection-event-is-confirmed-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.807Z
+lastCollected: 2026-04-07T18:39:22.709Z
 estimatedTokens: 741
-keywords: [Detection, Event, Confirmed, Malicious, John, sales, rep, San, Francisco, often, travels, work, regularly, downloads, reports]
+keywords: [Detection, Event, Confirmed, Malicious, John, sales, rep, San, Francisco, often, travels, work, regularly, downloads, reports, leads, weekly, presentations, 500-1, report, typically, contain, 500–1, rows]
 ---
-
-# Detection Event Is Confirmed Malicious
 
 > John, a sales rep based in San Francisco, often travels for work. He regularly downloads
     reports of his leads for his weekly sales presentations. John has access to 500-1,000 leads and

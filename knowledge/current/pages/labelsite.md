@@ -5,12 +5,10 @@ topic: labelsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.323Z
+lastCollected: 2026-04-07T18:38:52.633Z
 estimatedTokens: 160
-keywords: [$Label.Site, merge, standard, Sites, label, Visualforce, labels, label’s, message, displays, according, user’s, language, locale, can’t]
+keywords: [$Label.Site, merge, standard, Sites, label, Visualforce, labels, label’s, message, displays, according, user’s, language, locale, can’t, modify, $Label, variable]
 ---
-
-# $Label.Site
 
 > A global merge field type used to reference a standard Sites label in a Visualforce
    page. As with all standard labels, the label’s message displays according to the user’s

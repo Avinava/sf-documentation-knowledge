@@ -5,12 +5,10 @@ topic: get-apiv1insightmetadataci-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.646Z
+lastCollected: 2026-04-07T18:35:51.504Z
 estimatedTokens: 223
-keywords: [api, insight, metadata, ci-name, includes, dimension, measure, part, calculated, Examples, HTTP, Responses]
+keywords: [Examples, api, insight, metadata, ci-name, includes, dimension, measure, part, calculated, HTTP, Responses]
 ---
-
-# GET /api/v1/insight/metadata/(ci-name)
 
 > The metadata includes the dimension and measure that are part of the calculated insight.
 

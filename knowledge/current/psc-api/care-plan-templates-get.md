@@ -5,12 +5,10 @@ topic: care-plan-templates-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.733Z
+lastCollected: 2026-04-07T18:39:01.879Z
 estimatedTokens: 138
 keywords: [Care, Plan, Templates, Retrieve, template]
 ---
-
-# Care Plan Templates (GET)
 
 > Retrieve the care plan template details.
 

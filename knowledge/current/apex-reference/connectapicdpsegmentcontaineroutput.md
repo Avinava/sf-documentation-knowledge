@@ -5,12 +5,10 @@ topic: connectapicdpsegmentcontaineroutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.625Z
+lastCollected: 2026-04-07T18:36:07.990Z
 estimatedTokens: 509
 keywords: [ConnectApi.CdpSegmentContainerOutput, Segment, container]
 ---
-
-# ConnectApi.CdpSegmentContainerOutput
 
 > Segment container.
 

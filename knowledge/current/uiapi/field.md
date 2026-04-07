@@ -5,12 +5,10 @@ topic: field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:16.674Z
+lastCollected: 2026-04-07T18:40:11.682Z
 estimatedTokens: 1625
 keywords: [field's, metadata]
 ---
-
-# Field
 
 > A field's metadata.
 

@@ -5,12 +5,10 @@ topic: list-shares
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.364Z
+lastCollected: 2026-04-07T18:37:14.333Z
 estimatedTokens: 278
-keywords: [Shares, share, data, view]
+keywords: [Shares, share, view]
 ---
-
-# List Shares
 
 > Get share data for a list view.
 

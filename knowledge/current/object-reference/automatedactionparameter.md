@@ -5,12 +5,10 @@ topic: automatedactionparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.649Z
+lastCollected: 2026-04-07T18:38:26.618Z
 estimatedTokens: 437
-keywords: [AutomatedActionParameter, references, evaluated, automated, action, API, version, 57.0, later, Calls]
+keywords: [AutomatedActionParameter, references, evaluated, automated, action, API, 57.0]
 ---
-
-# AutomatedActionParameter
 
 > Represents the values or field references evaluated by the automated
          action. This object is available in API version 57.0 and later.

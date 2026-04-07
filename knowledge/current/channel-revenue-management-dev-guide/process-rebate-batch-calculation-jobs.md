@@ -5,12 +5,10 @@ topic: process-rebate-batch-calculation-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:19.351Z
+lastCollected: 2026-04-07T18:37:06.044Z
 estimatedTokens: 381
-keywords: [Process, Rebate, Batch, Calculation, Jobs, job, Data, Processing, Engine, REST, HTTP, Inputs, Outputs, Usage]
+keywords: [Inputs, Outputs, Process, Rebate, Batch, Calculation, Jobs, job, Processing, Engine, REST, HTTP]
 ---
-
-# Process Rebate Batch Calculation Jobs
 
 > Process a rebate batch calculation job from the Data Processing
          Engine.

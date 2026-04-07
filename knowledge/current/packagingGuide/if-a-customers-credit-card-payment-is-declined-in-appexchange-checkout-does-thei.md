@@ -6,13 +6,10 @@ topic: if-a-customers-credit-card-payment-is-declined-in-appexchange-checkout-do
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.976Z
+lastCollected: 2026-04-07T18:38:45.805Z
 estimatedTokens: 80
-keywords: [customer's, credit, card, payment, declined, AppExchange, Checkout, their, license, become, inactive, Stripe, settings, determine, happens]
+keywords: [customer's, credit, card, payment, declined, AppExchange, Checkout, their, license, become, inactive, Stripe, settings, determine, happens, retry, deactivate, subscription, becomes]
 ---
-
-# If a customer's credit card payment is declined in AppExchange Checkout, does their license
-      become inactive?
 
 > In your Stripe settings, you determine what happens when a credit card is declined.
       You can retry the payment or deactivate the subscription. If you deactivate the subscription,

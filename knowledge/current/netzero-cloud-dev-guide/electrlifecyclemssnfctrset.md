@@ -5,12 +5,10 @@ topic: electrlifecyclemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.760Z
+lastCollected: 2026-04-07T18:38:18.274Z
 estimatedTokens: 2290
-keywords: [ElectrLifecyclEmssnFctrSet, emissions, factors, calculate, greenhouse, gas, occur, throughout, lifecycle, electricity, includes, production, losses, transmission, distribution]
+keywords: [ElectrLifecyclEmssnFctrSet, emissions, factors, calculate, greenhouse, gas, occur, throughout, lifecycle, electricity, includes, production, losses, transmission, distribution, kilowatt, hour, kWh, API, 66.0]
 ---
-
-# ElectrLifecyclEmssnFctrSet
 
 > Represents the emissions factors used to calculate greenhouse gas emissions
          that occur throughout the lifecycle of electricity. It includes emissions from the

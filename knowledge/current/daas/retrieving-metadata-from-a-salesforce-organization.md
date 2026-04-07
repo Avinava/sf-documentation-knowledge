@@ -5,12 +5,10 @@ topic: retrieving-metadata-from-a-salesforce-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.031Z
+lastCollected: 2026-04-07T18:37:28.069Z
 estimatedTokens: 514
-keywords: [Retrieving, Metadata, Salesforce, Organization, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions]
+keywords: [Retrieving, Metadata, Salesforce, Organization, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality, manage, changes, switch, CLI, modern, developer, experience]
 ---
-
-# Retrieving Metadata from a Salesforce Organization
 
 > The Ant Migration Tool is retired with Spring ’24. The tool continues to
     function for future API versions but isn’t updated with new functionality and isn’t supported.

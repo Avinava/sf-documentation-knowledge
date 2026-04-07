@@ -5,12 +5,10 @@ topic: executeomnicallbackinput-output-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.466Z
+lastCollected: 2026-04-07T18:37:33.922Z
 estimatedTokens: 318
-keywords: [executeOmniCallback, input, output, options, Calls, back, automatically, Continuation, getOmniContinuation, executed, Internally, callback, provider, Usage]
+keywords: [executeOmniCallback, options, back, automatically, Continuation, getOmniContinuation, executed, Internally, callback, provider]
 ---
-
-# executeOmniCallback(input, output, options)
 
 > Calls back the method that is called automatically after the
       Continuation from getOmniContinuation is executed. Internally calls the callback method of the

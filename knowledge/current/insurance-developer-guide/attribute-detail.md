@@ -5,12 +5,10 @@ topic: attribute-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.898Z
+lastCollected: 2026-04-07T18:37:51.979Z
 estimatedTokens: 294
-keywords: [Attribute, Detail, Output, representation, product]
+keywords: [Attribute, Detail, product]
 ---
-
-# Attribute Detail
 
 > Output representation of product attribute details.
 

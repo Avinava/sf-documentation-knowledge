@@ -5,12 +5,10 @@ topic: engagement-status-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.748Z
+lastCollected: 2026-04-07T18:36:40.456Z
 estimatedTokens: 89
-keywords: [Engagement, Status, Output, representation, display, API]
+keywords: [Engagement, Status, display, API]
 ---
-
-# Engagement Status Output
 
 > Output representation to display the status of an API
     request.

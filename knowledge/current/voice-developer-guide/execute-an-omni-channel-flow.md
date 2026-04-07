@@ -5,12 +5,10 @@ topic: execute-an-omni-channel-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.181Z
+lastCollected: 2026-04-07T18:40:13.126Z
 estimatedTokens: 672
-keywords: [Execute, Omni-Channel, Flow, Executes, route, voice, calls, passes, call, Salesforce, VoiceCallId, telephony, vendor, ContactId, rep]
+keywords: [Execute, Omni-Channel, Flow, Executes, route, voice, passes, call, Salesforce, VoiceCallId, telephony, vendor, ContactId, rep, queue, routing, instructions, contact, Service, Cloud, uses, fallback, phone, channel, matches, dialed, number, doesn’t, match, optionally, new, API, URI, HTTP]
 ---
-
-# Execute an Omni-Channel Flow
 
 > Executes the Omni-Channel flow to route voice calls. It passes the
       call ID (Salesforce VoiceCallId or telephony vendor ContactId) as parameters to the flow and

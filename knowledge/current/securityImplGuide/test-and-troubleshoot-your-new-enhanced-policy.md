@@ -5,12 +5,10 @@ topic: test-and-troubleshoot-your-new-enhanced-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.290Z
+lastCollected: 2026-04-07T18:39:22.183Z
 estimatedTokens: 1492
-keywords: [Test, Troubleshoot, New, Enhanced, Policy, transaction, security, isn’t, behaving, expect, check, testing, troubleshooting, tips, diagnose]
+keywords: [Test, Troubleshoot, New, Enhanced, Policy, transaction, security, isn’t, behaving, expect, check, testing, troubleshooting, tips, diagnose, problem, Sandbox, Conditions, Add, Automated, Apex, Tests, Debug, Logs]
 ---
-
-# Test and Troubleshoot Your New Enhanced Policy
 
 > If your enhanced transaction security policy isn’t behaving as you expect, check out
         these testing and troubleshooting tips to diagnose the problem.

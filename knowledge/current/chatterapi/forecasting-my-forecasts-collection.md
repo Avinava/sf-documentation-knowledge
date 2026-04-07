@@ -5,12 +5,10 @@ topic: forecasting-my-forecasts-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.417Z
+lastCollected: 2026-04-07T18:37:19.563Z
 estimatedTokens: 395
 keywords: [Forecasting, Forecasts, Collection, users, territories, listed, dropdown, menu, search, results]
 ---
-
-# Forecasting My Forecasts Collection
 
 > A collection of forecasting users or territories listed in the
       dropdown menu or in search results on the forecasts page.

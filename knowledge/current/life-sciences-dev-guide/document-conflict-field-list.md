@@ -5,12 +5,10 @@ topic: document-conflict-field-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:06.489Z
+lastCollected: 2026-04-07T18:37:55.945Z
 estimatedTokens: 89
-keywords: [Document, Conflict, Output, representation, target, conflicts]
+keywords: [Document, Conflict, target, conflicts]
 ---
-
-# Document Conflict Field List
 
 > Output representation of the target object fields with
     conflicts.

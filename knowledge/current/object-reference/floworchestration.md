@@ -5,12 +5,10 @@ topic: floworchestration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.580Z
+lastCollected: 2026-04-07T18:38:32.561Z
 estimatedTokens: 1689
-keywords: [FlowOrchestration, orchestration, definition, API, version, 62.0, later, Calls, Associated, Objects]
+keywords: [FlowOrchestration, orchestration, definition, API, 62.0]
 ---
-
-# FlowOrchestration
 
 > Represents the details of an orchestration definition. This object is
       available in API version 62.0 and later.

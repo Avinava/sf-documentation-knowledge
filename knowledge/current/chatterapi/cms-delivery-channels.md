@@ -5,12 +5,10 @@ topic: cms-delivery-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.406Z
+lastCollected: 2026-04-07T18:37:14.370Z
 estimatedTokens: 261
 keywords: [CMS, Delivery, Channels, managed, content, context, user]
 ---
-
-# CMS Delivery Channels
 
 > Get managed content delivery channels for the context
     user.

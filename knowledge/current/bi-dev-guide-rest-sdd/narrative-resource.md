@@ -5,12 +5,10 @@ topic: narrative-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.522Z
+lastCollected: 2026-04-07T18:36:59.019Z
 estimatedTokens: 171
-keywords: [Narrative, Resource, data, Einstein, Discovery, story]
+keywords: [Narrative, Resource, Einstein, Discovery, story]
 ---
-
-# Narrative Resource
 
 > Returns the narrative data for an Einstein Discovery story.
 

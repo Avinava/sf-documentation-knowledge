@@ -5,12 +5,10 @@ topic: analyticsreportchart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:57.057Z
+lastCollected: 2026-04-07T18:38:49.046Z
 estimatedTokens: 880
-keywords: [analytics, reportChart, component, add, Salesforce, report, charts, Visualforce, filter, chart, data, show, specific, results, API]
+keywords: [Attributes, analytics, reportChart, add, Salesforce, report, charts, Visualforce, filter, chart, show, specific, results, API, 29.0]
 ---
-
-# analytics:reportChart
 
 > Use this component to add Salesforce report charts to a Visualforce page. You can filter chart data to show specific results. The component is available in API version 29.0 or later.
 

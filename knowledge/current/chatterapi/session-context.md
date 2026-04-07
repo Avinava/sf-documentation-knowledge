@@ -5,12 +5,10 @@ topic: session-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.952Z
+lastCollected: 2026-04-07T18:37:23.067Z
 estimatedTokens: 259
 keywords: [Session, Context, shopper, Commerce, store]
 ---
-
-# Session Context
 
 > Session context for a shopper using a Commerce store.
 

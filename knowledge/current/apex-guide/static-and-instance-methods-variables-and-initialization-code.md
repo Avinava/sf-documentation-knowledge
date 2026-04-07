@@ -6,13 +6,10 @@ topic: static-and-instance-methods-variables-and-initialization-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.481Z
+lastCollected: 2026-04-07T18:36:16.698Z
 estimatedTokens: 1919
-keywords: [Instance, Variables, Initialization, Code, Apex, However, classes, can't, member, modifiers, local, Characteristics, Versioned, Behavior, Changes]
+keywords: [Characteristics, Instance, Variables, Initialization, Code, Apex, However, classes, can't, member, modifiers, local, Versioned, Behavior, Changes]
 ---
-
-# Static and Instance Methods, Variables, and Initialization
-        Code
 
 > In Apex, you can have static methods, variables, and initialization
         code. However, Apex classes can't be static. You can also have instance

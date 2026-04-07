@@ -5,12 +5,10 @@ topic: external-auth-identity-providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.676Z
+lastCollected: 2026-04-07T18:37:14.716Z
 estimatedTokens: 726
 keywords: [External, Auth, Identity, Providers, org, provider]
 ---
-
-# External Auth Identity Providers
 
 > Get a list of external auth identity providers in the org. Create an
       external auth identity provider.

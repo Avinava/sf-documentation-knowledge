@@ -5,12 +5,10 @@ topic: fundtransferrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.618Z
+lastCollected: 2026-04-07T18:37:37.405Z
 estimatedTokens: 878
-keywords: [FundTransferRequest, fund, transfer, two, financial, accounts, API, version, 65.0, later, Calls]
+keywords: [FundTransferRequest, fund, transfer, two, financial, accounts, API, 65.0]
 ---
-
-# FundTransferRequest
 
 > Represents the details of fund transfer request between two financial
          accounts. This object is available in API version 65.0 and later.

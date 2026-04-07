@@ -5,12 +5,10 @@ topic: bldgenrgyintensityvalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.763Z
+lastCollected: 2026-04-07T18:39:29.885Z
 estimatedTokens: 275
-keywords: [BldgEnrgyIntensityValHistory, History, tracked, BldgEnrgyIntensityVal]
+keywords: [BldgEnrgyIntensityValHistory, tracked, BldgEnrgyIntensityVal]
 ---
-
-# BldgEnrgyIntensityValHistory
 
 > History for tracked fields of BldgEnrgyIntensityVal.
 

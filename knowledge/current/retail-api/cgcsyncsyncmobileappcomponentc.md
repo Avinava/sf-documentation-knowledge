@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappcomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.923Z
+lastCollected: 2026-04-07T18:39:12.436Z
 estimatedTokens: 409
-keywords: [cgc_sync__Sync_Mobile_App_Component__c, settings, different, customizable, components, theme, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Component]
+keywords: [cgc_sync__Sync_Mobile_App_Component__c, settings, different, customizable, theme, API, 53.0, cgc, _sync, _Mobile, _App, _Component]
 ---
-
-# cgc_sync__Sync_Mobile_App_Component__c
 
 > Contains the settings for different customizable UI components in the
          theme. This object is available in API version 53.0 and later.

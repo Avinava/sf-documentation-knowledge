@@ -5,12 +5,10 @@ topic: examples-use-google-analytics-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:45.810Z
+lastCollected: 2026-04-07T18:37:33.088Z
 estimatedTokens: 1283
-keywords: [Examples, Google, Analytics, LWR, Sites, Discover, how, visitors, engage, site, track, their, interactions, real-world, <x-oasis-script>]
+keywords: [Examples, Google, Analytics, LWR, Sites, Discover, how, visitors, engage, site, track, their, interactions, real-world, <x-oasis-script>, privileged, script, tag, interact, shadow, DOM, attach, event, handlers, click, events, form, submissions, Views, Outbound, Link, Clicks, Visit, Duration]
 ---
-
-# Examples: Use Google Analytics in LWR Sites
 
 > Discover how visitors engage with your LWR site by using Google Analytics to track their
   interactions. These real-world examples use the <x-oasis-script> privileged script tag. This tag allows Google Analytics to interact

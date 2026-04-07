@@ -5,12 +5,10 @@ topic: electricityemssnfctrsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.103Z
+lastCollected: 2026-04-07T18:39:38.775Z
 estimatedTokens: 277
-keywords: [ElectricityEmssnFctrSetHistory, History, tracked, ElectricityEmssnFctrSet]
+keywords: [ElectricityEmssnFctrSetHistory, tracked, ElectricityEmssnFctrSet]
 ---
-
-# ElectricityEmssnFctrSetHistory
 
 > History for tracked fields of ElectricityEmssnFctrSet.
 

@@ -5,12 +5,10 @@ topic: ios-compiler-level-logging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.407Z
+lastCollected: 2026-04-07T18:40:24.842Z
 estimatedTokens: 283
 keywords: [iOS, Compiler-Level, Logging, Mobile, SDK, 7.0, simplifies, refers, underlying, operating, system, framework]
 ---
-
-# iOS Compiler-Level Logging
 
 > Mobile SDK 7.0 simplifies iOS logging and refers it to the underlying operating system
   framework.

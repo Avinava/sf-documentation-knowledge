@@ -5,12 +5,10 @@ topic: methods-for-omni-channel-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.190Z
+lastCollected: 2026-04-07T18:36:50.396Z
 estimatedTokens: 756
 keywords: [Omni-Channel, Lightning, Experience, lets, call, center, route, any, incoming, work, item, qualified, agents]
 ---
-
-# Methods for Omni-Channel in Lightning Experience
 
 > Omni-Channel lets your call center route any type of incoming work item to the most
     qualified, available agents.

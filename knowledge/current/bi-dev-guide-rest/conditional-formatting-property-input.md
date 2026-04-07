@@ -5,12 +5,10 @@ topic: conditional-formatting-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.287Z
+lastCollected: 2026-04-07T18:36:54.646Z
 estimatedTokens: 150
-keywords: [Conditional, Formatting, Input, Xmd, dimensions, measures]
+keywords: [Conditional, Formatting, Xmd, dimensions, measures]
 ---
-
-# Conditional Formatting Property Input
 
 > A property for conditional formatting of Xmd dimensions and measures.
 

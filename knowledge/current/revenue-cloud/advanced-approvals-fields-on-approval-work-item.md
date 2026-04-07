@@ -5,12 +5,10 @@ topic: advanced-approvals-fields-on-approval-work-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:55.412Z
+lastCollected: 2026-04-07T18:35:40.197Z
 estimatedTokens: 501
-keywords: [Advanced, Approvals, Approval, Work, Item, Standard, custom, extend, Calls, Special, Access, Rules]
+keywords: [Advanced, Approvals, Approval, Work, Item, Standard, extend]
 ---
-
-# Advanced Approvals Fields on Approval Work Item
 
 > Standard and custom fields extend the standard Approval Work Item
          object for use in Advanced Approvals.

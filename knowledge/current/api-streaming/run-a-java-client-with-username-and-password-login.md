@@ -5,12 +5,10 @@ topic: run-a-java-client-with-username-and-password-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.053Z
+lastCollected: 2026-04-07T18:36:51.367Z
 estimatedTokens: 456
 keywords: [Run, Java, Client, Username, Password, Login, uses, EMP, Connector, subscribe, channel, authentication]
 ---
-
-# Run a Java Client with Username and Password Login
 
 > Run a Java client that uses EMP Connector to subscribe to the channel with username and
         password authentication.

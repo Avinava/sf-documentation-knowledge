@@ -5,12 +5,10 @@ topic: use-the-contactsservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.249Z
+lastCollected: 2026-04-07T18:38:15.769Z
 estimatedTokens: 836
-keywords: [ContactsService, API, develop, Lightning, web, component, contacts-based, features, selecting, contacts, device’s, address, book, Add, Test]
+keywords: [ContactsService, API, develop, Lightning, web, contacts-based, features, selecting, contacts, device’s, address, book, Add, Test, Availability, Select, Device, Save, Contact]
 ---
-
-# Use the ContactsService API
 
 > To develop a Lightning web component with contacts-based features, use the
         ContactsService API as your method for selecting contacts from a device’s address

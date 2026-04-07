@@ -5,12 +5,10 @@ topic: configure-a-payment-gateway-in-salesforce-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.576Z
+lastCollected: 2026-04-07T18:37:03.141Z
 estimatedTokens: 416
-keywords: [Configure, Payment, Gateway, Salesforce, Billing, send, data, chosen]
+keywords: [Configure, Payment, Gateway, Salesforce, Billing, send, chosen]
 ---
-
-# Configure a Payment Gateway in Salesforce Billing
 
 > Configure Salesforce Billing to send data to your chosen payment gateway.
 

@@ -5,12 +5,10 @@ topic: actioncadence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.461Z
+lastCollected: 2026-04-07T18:39:24.413Z
 estimatedTokens: 473
 keywords: [ActionCadence, definition, cadence]
 ---
-
-# ActionCadence
 
 > Represents the definition of a 1 cadence.
 

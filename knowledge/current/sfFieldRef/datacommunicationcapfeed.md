@@ -5,12 +5,10 @@ topic: datacommunicationcapfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.502Z
+lastCollected: 2026-04-07T18:39:37.110Z
 estimatedTokens: 363
-keywords: [DataCommunicationCapFeed, Feed, tracking, DataCommunicationCap]
+keywords: [DataCommunicationCapFeed, DataCommunicationCap]
 ---
-
-# DataCommunicationCapFeed
 
 > Feed tracking for DataCommunicationCap.
 

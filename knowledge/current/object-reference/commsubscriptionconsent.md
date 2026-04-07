@@ -5,12 +5,10 @@ topic: commsubscriptionconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:37.185Z
+lastCollected: 2026-04-07T18:38:28.106Z
 estimatedTokens: 1912
-keywords: [CommSubscriptionConsent, customer’s, consent, communication, subscription, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [CommSubscriptionConsent, customer’s, consent, communication, subscription, API, 48.0]
 ---
-
-# CommSubscriptionConsent
 
 > Represents a customer’s consent to a communication subscription. This
     object is available in API version 48.0 and later.

@@ -5,12 +5,10 @@ topic: srvcmgmntapprovalassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.277Z
+lastCollected: 2026-04-07T18:35:55.388Z
 estimatedTokens: 421
-keywords: [SrvcMgmntApprovalAssignment, relationship, service, operation, group, user, assigned, approval, API, version, 65.0, later, Calls]
+keywords: [SrvcMgmntApprovalAssignment, relationship, service, operation, group, user, assigned, approval, API, 65.0]
 ---
-
-# SrvcMgmntApprovalAssignment
 
 > Represents the relationship between a service operation and a group or user
          to which the operation is assigned by default for approval. This object is available

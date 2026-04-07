@@ -5,12 +5,10 @@ topic: contact-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.404Z
+lastCollected: 2026-04-07T18:37:42.550Z
 estimatedTokens: 326
-keywords: [Contact, Custom, extend, standard, Emergency, Management]
+keywords: [Contact, extend, standard, Emergency, Management]
 ---
-
-# Contact Custom Fields
 
 > Custom fields extend the standard Contact object for use in Emergency Response
       Management.

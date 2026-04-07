@@ -5,12 +5,10 @@ topic: fieldserviceorgsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:45.797Z
+lastCollected: 2026-04-07T18:39:40.454Z
 estimatedTokens: 553
-keywords: [FieldServiceOrgSettings, org, settings, Service, Appointment, Assistant, enabled, read-only, record, API, version, 51.0, later]
+keywords: [FieldServiceOrgSettings, org, settings, Service, Appointment, Assistant, enabled, read-only, record, API, 51.0]
 ---
-
-# FieldServiceOrgSettings
 
 > Represents the org settings for Field Service, such as Appointment Assistant
          settings. If Field Service is enabled, the org contains one read-only record of this

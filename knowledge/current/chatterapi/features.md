@@ -5,12 +5,10 @@ topic: features
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.881Z
+lastCollected: 2026-04-07T18:37:18.980Z
 estimatedTokens: 1711
-keywords: [Features, context, user, org, feature, disabled, resources, associated, unavailable, feature-related, objects]
+keywords: [Features, context, user, org, feature, disabled, resources, unavailable, feature-related]
 ---
-
-# Features
 
 > Features available to the context user in the org. If a feature is disabled, the
   resources associated with that feature are unavailable and some feature-related properties on

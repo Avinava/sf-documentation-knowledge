@@ -5,12 +5,10 @@ topic: user-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.324Z
+lastCollected: 2026-04-07T18:37:16.389Z
 estimatedTokens: 389
 keywords: [User, users, organization]
 ---
-
-# User Information
 
 > Returns information about all users in an
   organization.

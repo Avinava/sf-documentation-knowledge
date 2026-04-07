@@ -5,13 +5,11 @@ topic: disclosuretype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.385Z
+lastCollected: 2026-04-07T18:39:38.109Z
 estimatedTokens: 335
 namespace: NamespacePrefix
-keywords: [DisclosureType, disclosures, individual, organization, associated, metadata]
+keywords: [DisclosureType, disclosures, individual, organization, metadata]
 ---
-
-# DisclosureType
 
 > Represents the types of disclosures that are done by an individual or
          an organization and the associated metadata.

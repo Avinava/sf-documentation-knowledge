@@ -5,12 +5,10 @@ topic: apexorgwidecoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.325Z
+lastCollected: 2026-04-07T18:36:31.695Z
 estimatedTokens: 153
-keywords: [ApexOrgWideCoverage, code, coverage, test, results, entire, organization, Tooling, API, version, 29.0, later, SOAP, Calls, REST]
+keywords: [ApexOrgWideCoverage, code, coverage, test, results, entire, organization, Tooling, API, 29.0, SOAP, REST, HTTP]
 ---
-
-# ApexOrgWideCoverage
 
 > Represents code coverage test results for an entire organization.
   Available in Tooling API version 29.0 and later.

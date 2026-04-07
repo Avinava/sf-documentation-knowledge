@@ -6,13 +6,10 @@ topic: customize-the-salesforce-mobile-app-or-create-a-custom-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.893Z
+lastCollected: 2026-04-07T18:40:26.208Z
 estimatedTokens: 824
-keywords: [Customize, Salesforce, Mobile, App, Custom, you’re, developing, apps, org, users, options, customizable, developed, built, distributed]
+keywords: [Customize, Salesforce, Mobile, App, you’re, developing, apps, org, users, options, customizable, developed, built, distributed, standalone, iOS, Android, scratch, SDK, Although, deals, development, differences, Customizing]
 ---
-
-# Customize the Salesforce Mobile App, or Create a Custom
-    App?
 
 > When you’re developing mobile apps for Salesforce org users, you have options. The
     Salesforce mobile app is the customizable mobile app developed, built, and distributed by

@@ -5,12 +5,10 @@ topic: restoreoldversionarticleid-versionnumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.520Z
+lastCollected: 2026-04-07T18:37:53.807Z
 estimatedTokens: 103
-keywords: [restoreOldVersion, articleId, versionNumber, Creates, draft, article, online, archived, version]
+keywords: [restoreOldVersion, articleId, versionNumber, Creates, draft, article, online, archived]
 ---
-
-# restoreOldVersion(articleId, versionNumber)
 
 > Creates a draft article from an existing online article
 based on the specified archived version of the article and returns

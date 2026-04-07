@@ -5,12 +5,10 @@ topic: smart-data-discovery-narrative-insight-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.252Z
+lastCollected: 2026-04-07T18:36:58.750Z
 estimatedTokens: 139
-keywords: [Smart, Data, Discovery, Narrative, Insight, Input, metadata]
+keywords: [Smart, Discovery, Narrative, Insight, metadata]
 ---
-
-# Smart Data Discovery Narrative Insight Input
 
 > The narrative insight metadata.
 

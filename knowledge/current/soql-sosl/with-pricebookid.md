@@ -5,12 +5,10 @@ topic: with-pricebookid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.437Z
+lastCollected: 2026-04-07T18:40:10.410Z
 estimatedTokens: 56
 keywords: [PricebookId, Filters, product, search, results, price, book]
 ---
-
-# WITH PricebookId
 
 > Filters product search results by a single price book ID.
 

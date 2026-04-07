@@ -5,12 +5,10 @@ topic: debugging-apex-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.089Z
+lastCollected: 2026-04-07T18:36:17.317Z
 estimatedTokens: 683
-keywords: [Debugging, Apex, API, Calls, invoke, support, debug, facility, access, detailed, execution, code, including, any, System.debug]
+keywords: [Debugging, Apex, API, invoke, support, debug, facility, detailed, execution, code, including, any, System.debug, categories, SOAP, head]
 ---
-
-# Debugging Apex API Calls
 
 > All API calls that invoke Apex support a debug facility that allows access to
                         detailed information about the execution of the code, including any calls to

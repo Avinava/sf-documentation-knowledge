@@ -5,12 +5,10 @@ topic: fulfillmentlinesourcerel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.180Z
+lastCollected: 2026-04-07T18:35:49.146Z
 estimatedTokens: 761
-keywords: [FulfillmentLineSourceRel, relationship, fulfillment, order, line, decomposition, source, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [FulfillmentLineSourceRel, relationship, fulfillment, order, line, decomposition, source, API, 61.0]
 ---
-
-# FulfillmentLineSourceRel
 
 > Represents the relationship between a fulfillment order line and its
          decomposition source. This object is available in API version 61.0 and

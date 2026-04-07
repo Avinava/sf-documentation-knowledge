@@ -5,12 +5,10 @@ topic: actioncadencerule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.738Z
+lastCollected: 2026-04-07T18:38:24.606Z
 estimatedTokens: 1190
-keywords: [ActionCadenceRule, logic, branch, step, uses, determine, action, cadence, tracker, follows, including, API, version, 48.0, later]
+keywords: [ActionCadenceRule, logic, branch, step, uses, determine, action, cadence, tracker, follows, including, API, 48.0]
 ---
-
-# ActionCadenceRule
 
 > Represents the logic that a branch step uses to determine which branch
 			an action cadence tracker follows in an action cadence. Use ActionCadenceRule to learn

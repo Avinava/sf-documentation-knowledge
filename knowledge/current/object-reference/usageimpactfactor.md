@@ -5,12 +5,10 @@ topic: usageimpactfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:51.499Z
+lastCollected: 2026-04-07T18:38:43.256Z
 estimatedTokens: 739
-keywords: [UsageImpactFactor, collection, Usage, Impact, Factors, across, jurisdictions, programs.This, API, version, 58.0, later, Calls, Special, Access]
+keywords: [UsageImpactFactor, collection, Impact, Factors, across, jurisdictions, programs.This, API, 58.0]
 ---
-
-# UsageImpactFactor
 
 > Represents a collection of fields to set up the Usage Impact Factors used
          across jurisdictions and programs.This object is available in API version 58.0 and

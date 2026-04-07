@@ -5,12 +5,10 @@ topic: plan-the-release-of-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.834Z
+lastCollected: 2026-04-07T18:38:53.129Z
 estimatedTokens: 790
 keywords: [Plan, Release, First-Generation, Managed, Packages, Releasing, package, similar, any, program, software, development]
 ---
-
-# Plan the Release of First-Generation Managed Packages
 
 > Releasing a managed package is similar to releasing any other program in software
   development.

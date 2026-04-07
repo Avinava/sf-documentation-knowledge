@@ -5,12 +5,10 @@ topic: crbncreditallocitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:27.500Z
+lastCollected: 2026-04-07T18:38:18.008Z
 estimatedTokens: 755
-keywords: [CrbnCreditAllocItem, carbon, credit, allocation, emissions, emission, activity, API, version, 56.0, later, Calls, Associated, Objects]
+keywords: [CrbnCreditAllocItem, carbon, credit, allocation, emissions, emission, activity, API, 56.0]
 ---
-
-# CrbnCreditAllocItem
 
 > Represents information about carbon credit allocation and emissions related
          to each emission activity. This object is available in API version 56.0 and later.

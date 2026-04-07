@@ -5,12 +5,10 @@ topic: delivery-estimation-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.262Z
+lastCollected: 2026-04-07T18:37:18.347Z
 estimatedTokens: 59
 keywords: [Delivery, Estimation, Error]
 ---
-
-# Delivery Estimation Error
 
 > Delivery estimation error.
 

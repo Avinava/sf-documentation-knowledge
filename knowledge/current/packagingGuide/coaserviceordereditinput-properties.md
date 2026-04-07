@@ -5,12 +5,10 @@ topic: coaserviceordereditinput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.731Z
+lastCollected: 2026-04-07T18:38:45.521Z
 estimatedTokens: 75
 keywords: [COA_ServiceOrderEditInput, COA, _ServiceOrderEditInput]
 ---
-
-# COA_ServiceOrderEditInput Properties
 
 > The following are properties for COA_ServiceOrderEditInput.
 

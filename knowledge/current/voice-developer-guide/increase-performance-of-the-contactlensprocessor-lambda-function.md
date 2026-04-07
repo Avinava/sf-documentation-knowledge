@@ -6,13 +6,10 @@ topic: increase-performance-of-the-contactlensprocessor-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:17.910Z
+lastCollected: 2026-04-07T18:40:12.853Z
 estimatedTokens: 541
-keywords: [Increase, Performance, ContactLensProcessor, Lambda, Function, contact, center, 11.1, above, enable, Lens, AWS, SSM, extension, fetch]
+keywords: [Increase, Performance, ContactLensProcessor, Lambda, Function, contact, center, 11.1, above, enable, Lens, AWS, SSM, extension, fetch, keys, store, increases, function’s, enhancement, configure, adding, layer, USE_SSM_LAMBDA_EXTENSION, environment, variable]
 ---
-
-# Increase Performance of the ContactLensProcessor Lambda
-        Function
 
 > For contact center 11.1 and above, you can enable Contact Lens to use
             the AWS SSM Lambda extension to fetch keys from the parameter store. This extension

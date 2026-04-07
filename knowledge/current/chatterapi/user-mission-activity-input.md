@@ -5,12 +5,10 @@ topic: user-mission-activity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.801Z
+lastCollected: 2026-04-07T18:37:10.493Z
 estimatedTokens: 248
-keywords: [User, Mission, Activity, Input]
+keywords: [User, Mission, Activity]
 ---
-
-# User Mission Activity Input
 
 > Mission activity for a user.
 

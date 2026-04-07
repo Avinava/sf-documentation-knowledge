@@ -5,12 +5,10 @@ topic: link-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.026Z
+lastCollected: 2026-04-07T18:37:08.828Z
 estimatedTokens: 147
-keywords: [Link, Capability, Input, attached, feed, element]
+keywords: [Link, Capability, attached]
 ---
-
-# Link Capability Input
 
 > Create or update a link attached to a feed element.
 

@@ -5,12 +5,10 @@ topic: game-zone-ui-customization-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.285Z
+lastCollected: 2026-04-07T18:38:08.546Z
 estimatedTokens: 408
-keywords: [Game, Zone, Customization, Android, build, Gamification, Mobile, SDK, customize, components, Spinner, Scratch, Card]
+keywords: [Game, Zone, Customization, Android, build, Gamification, Mobile, SDK, customize, Spinner, Scratch, Card]
 ---
-
-# Game Zone UI Customization for Android
 
 > After you build the Gamification Mobile SDK for Android, you can customize the game
     zone UI components.

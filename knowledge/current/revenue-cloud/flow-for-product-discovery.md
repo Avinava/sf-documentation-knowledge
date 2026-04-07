@@ -5,12 +5,10 @@ topic: flow-for-product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.852Z
+lastCollected: 2026-04-07T18:35:47.887Z
 estimatedTokens: 372
-keywords: [Flow, Product, Discovery, metadata, associated, application, users, series, pages, query, records, database, run, logic, provide]
+keywords: [FlowActionCall, Flow, Product, Discovery, metadata, application, users, series, pages, query, records, database, run, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
-
-# Flow for Product Discovery
 
 > Represents the metadata associated with a flow. With Flow, you can create an
     application that takes users through a series of pages to query and update the records in the

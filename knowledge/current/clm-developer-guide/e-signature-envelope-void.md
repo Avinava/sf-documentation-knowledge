@@ -5,12 +5,10 @@ topic: e-signature-envelope-void
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:38.003Z
+lastCollected: 2026-04-07T18:37:24.965Z
 estimatedTokens: 173
-keywords: [E-signature, Envelope, Expire, envelopes, associated]
+keywords: [E-signature, Envelope, Expire, envelopes]
 ---
-
-# E-signature Envelope Void
 
 > Expire or void envelopes associated with an object.
 

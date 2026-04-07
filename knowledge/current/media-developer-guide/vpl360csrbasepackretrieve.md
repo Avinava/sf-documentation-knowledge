@@ -5,12 +5,10 @@ topic: vpl360csrbasepackretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:21.205Z
+lastCollected: 2026-04-07T18:38:11.515Z
 estimatedTokens: 165
-keywords: [VPL360_CsrBasepackretrieve, Integration, Procedure, retrieves, filters, products, customer, purchased, VPL360, _CsrBasepackretrieve, Sample, Input, Output, Calls]
+keywords: [VPL360_CsrBasepackretrieve, Integration, Procedure, retrieves, filters, products, customer, purchased, VPL360, _CsrBasepackretrieve, Sample]
 ---
-
-# VPL360_CsrBasepackretrieve
 
 > This Integration Procedure retrieves and filters products
     that the customer has not purchased before.

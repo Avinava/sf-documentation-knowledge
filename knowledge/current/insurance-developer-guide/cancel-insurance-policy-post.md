@@ -5,12 +5,10 @@ topic: cancel-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.447Z
+lastCollected: 2026-04-07T18:37:51.469Z
 estimatedTokens: 240
-keywords: [Cancel, Insurance, Policy, POST, version, API, effective, date, cancellation, input, JSON, advance, term, can’t, postpone]
+keywords: [Cancel, Insurance, Policy, POST, API, effective, date, cancellation, JSON, advance, term, can’t, postpone]
 ---
-
-# Cancel Insurance Policy (POST)
 
 > Cancel an insurance policy version. The API takes the effective date of cancellation
     from the input JSON. You can advance the cancellation date within the policy term, but you can’t

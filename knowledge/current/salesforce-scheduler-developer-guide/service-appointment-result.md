@@ -5,12 +5,10 @@ topic: service-appointment-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:26.580Z
+lastCollected: 2026-04-07T18:39:20.274Z
 estimatedTokens: 109
 keywords: [Service, Appointment, Result, POST]
 ---
-
-# Service Appointment Result
 
 > Result of the POST method.
 

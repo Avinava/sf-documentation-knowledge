@@ -5,12 +5,10 @@ topic: metadata-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:22.976Z
+lastCollected: 2026-04-07T18:39:16.521Z
 estimatedTokens: 341
 keywords: [Metadata, Limits, apply, Salesforce, Extensions, Visual, Studio, Code, Ant, Migration, Tool, API]
 ---
-
-# Metadata Limits
 
 > The following limits apply to the Salesforce Extensions for Visual Studio Code, the Ant
     Migration Tool, and the Metadata API.

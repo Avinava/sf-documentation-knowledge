@@ -5,12 +5,10 @@ topic: orderdeliverymethodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:56.403Z
+lastCollected: 2026-04-07T18:39:50.813Z
 estimatedTokens: 269
-keywords: [OrderDeliveryMethodHistory, History, tracked, OrderDeliveryMethod]
+keywords: [OrderDeliveryMethodHistory, tracked, OrderDeliveryMethod]
 ---
-
-# OrderDeliveryMethodHistory
 
 > History for tracked fields of OrderDeliveryMethod.
 

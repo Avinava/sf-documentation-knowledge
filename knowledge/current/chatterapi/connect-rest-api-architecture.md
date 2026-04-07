@@ -5,12 +5,10 @@ topic: connect-rest-api-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.931Z
+lastCollected: 2026-04-07T18:37:23.975Z
 estimatedTokens: 915
-keywords: [Connect, REST, API, Architecture, understand, few, characteristics, how, authenticate, data, formats, supports]
+keywords: [Connect, REST, API, Architecture, understand, few, characteristics, how, authenticate, formats, supports]
 ---
-
-# Connect REST API Architecture
 
 > To use Connect REST API, understand a few characteristics of its architecture, like how
     to authenticate, and which data formats it supports.

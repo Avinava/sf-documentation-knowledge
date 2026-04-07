@@ -5,12 +5,10 @@ topic: clinicalencounterproviderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.831Z
+lastCollected: 2026-04-07T18:39:34.261Z
 estimatedTokens: 276
-keywords: [ClinicalEncounterProviderHistory, History, tracked, ClinicalEncounterProvider]
+keywords: [ClinicalEncounterProviderHistory, tracked, ClinicalEncounterProvider]
 ---
-
-# ClinicalEncounterProviderHistory
 
 > History for tracked fields of ClinicalEncounterProvider.
 

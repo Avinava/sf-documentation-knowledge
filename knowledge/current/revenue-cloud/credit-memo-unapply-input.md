@@ -5,12 +5,10 @@ topic: credit-memo-unapply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.256Z
+lastCollected: 2026-04-07T18:35:43.140Z
 estimatedTokens: 108
-keywords: [Credit, Memo, Unapply, Input, representation, invoice]
+keywords: [Credit, Memo, Unapply, invoice]
 ---
-
-# Credit Memo Unapply Input
 
 > Input representation of the request to unapply a credit memo from an invoice.
 

@@ -5,12 +5,10 @@ topic: resourceabsence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:27.006Z
+lastCollected: 2026-04-07T18:39:20.794Z
 estimatedTokens: 674
-keywords: [ResourceAbsence, time, period, service, resource, unavailable, work, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special]
+keywords: [ResourceAbsence, time, period, service, resource, unavailable, work, Salesforce, Scheduler, API, 38.0]
 ---
-
-# ResourceAbsence
 
 > Represents a time period in which a service resource is unavailable to
 			work in Salesforce Scheduler. This object is available in API version 38.0 and

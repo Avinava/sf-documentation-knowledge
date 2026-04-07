@@ -5,12 +5,10 @@ topic: batchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.468Z
+lastCollected: 2026-04-07T18:36:44.229Z
 estimatedTokens: 1338
-keywords: [BatchJob, instance, batch, job, either, running, run, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [BatchJob, instance, batch, job, either, running, run, API, 51.0]
 ---
-
-# BatchJob
 
 > Represents an instance of a batch job that is either running and has been
       run. This object is available in API version 51.0 and later.

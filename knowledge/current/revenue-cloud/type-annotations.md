@@ -5,12 +5,10 @@ topic: type-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.674Z
+lastCollected: 2026-04-07T18:35:42.560Z
 estimatedTokens: 914
-keywords: [Annotations, annotate, add, metadata, applied, declaration, provide, instructions, constraint, engine, regarding, how, instances, handled, instantiated]
+keywords: [Annotations, annotate, add, metadata, applied, declaration, provide, instructions, constraint, engine, regarding, how, instances, handled, instantiated, configuration, structure, Creating, Virtual, Container, @virtual]
 ---
-
-# Type Annotations
 
 > You can annotate types to add information. Type annotations are metadata applied to a
     type declaration to provide instructions to the constraint engine regarding how instances of

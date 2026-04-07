@@ -5,12 +5,10 @@ topic: connectapiproductsearchfacetvalueoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.874Z
+lastCollected: 2026-04-07T18:36:11.144Z
 estimatedTokens: 119
-keywords: [Output, representation, product, search, facet]
+keywords: [product, search, facet]
 ---
-
-# ConnectApi.ProductSearchFacetValueOutputRepresentation
 
 > Output representation of a product search facet value.
 

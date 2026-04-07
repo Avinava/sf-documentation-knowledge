@@ -5,12 +5,10 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.532Z
+lastCollected: 2026-04-07T18:37:30.602Z
 estimatedTokens: 202
-keywords: [ActionPlanTemplate, instance, action, plan, template, API, version, 60.0, later, Calls]
+keywords: [ActionPlanTemplate, instance, action, plan, template, API, 60.0]
 ---
-
-# ActionPlanTemplate
 
 > Represents the instance of an action plan template. This object is
       available in API version 60.0 and later.

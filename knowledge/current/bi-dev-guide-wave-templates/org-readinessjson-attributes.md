@@ -5,12 +5,10 @@ topic: org-readinessjson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.952Z
+lastCollected: 2026-04-07T18:37:02.501Z
 estimatedTokens: 1297
 keywords: [org-readiness.json, Attributes, file, Org, Readiness, templateRequirements, definition]
 ---
-
-# org-readiness.json Attributes
 
 > The org-readiness.json file attributes are:
 

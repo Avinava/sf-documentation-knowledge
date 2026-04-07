@@ -5,12 +5,10 @@ topic: externalstringlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.441Z
+lastCollected: 2026-04-07T18:36:32.917Z
 estimatedTokens: 564
-keywords: [ExternalStringLocalization, translation, custom, labels, component, represented, ExternalString, API, version, 49.0, later, SOAP, Calls, REST, HTTP]
+keywords: [ExternalStringLocalization, Limitations, translation, labels, represented, ExternalString, API, 49.0, SOAP, REST, HTTP]
 ---
-
-# ExternalStringLocalization
 
 > Represents the translation of custom labels for a UI component represented by
       the ExternalString object. This object is available in API version 49.0 and

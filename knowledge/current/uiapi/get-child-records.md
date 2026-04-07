@@ -5,12 +5,10 @@ topic: get-child-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.559Z
+lastCollected: 2026-04-07T18:40:10.531Z
 estimatedTokens: 943
-keywords: [Child, Records, User, API, several, resources, include, their, responses, record, relationships, huge, negative, effect, performance, relationship, Relationships, connections, detail, parent]
+keywords: [Child, Records, User, API, several, resources, include, their, responses, record, relationships, huge, negative, effect, performance, specific, size, results, relationship, Relationships, connections, detail, parent]
 ---
-
-# Get Child Records
 
 > User Interface API has several resources that include child records
       in their responses. If a record has many child relationships, a response can be huge and have

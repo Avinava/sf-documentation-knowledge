@@ -5,12 +5,10 @@ topic: instance-key-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.993Z
+lastCollected: 2026-04-07T18:37:50.921Z
 estimatedTokens: 79
-keywords: [Instance, Key, Input, representation, array]
+keywords: [Instance, Key, array]
 ---
-
-# Instance Key Input
 
 > Input representation for a single instance key array.
 

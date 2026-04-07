@@ -5,12 +5,10 @@ topic: list-share-recipients
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.359Z
+lastCollected: 2026-04-07T18:37:14.328Z
 estimatedTokens: 352
-keywords: [Share, Recipients, data, groups, potential, view, shared]
+keywords: [Share, Recipients, groups, potential, view, shared]
 ---
-
-# List Share Recipients
 
 > Get data on all groups, and all potential groups, a list view is
       shared with.

@@ -5,12 +5,10 @@ topic: document-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.929Z
+lastCollected: 2026-04-07T18:37:24.898Z
 estimatedTokens: 208
-keywords: [Document, Template, configured, templates, usage, Output, representation, record]
+keywords: [Document, Template, configured, templates, record]
 ---
-
-# Document Template
 
 > Get the list of configured templates for a usage
     type.

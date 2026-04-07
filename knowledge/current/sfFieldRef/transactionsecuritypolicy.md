@@ -5,13 +5,11 @@ topic: transactionsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.544Z
+lastCollected: 2026-04-07T18:40:04.278Z
 estimatedTokens: 456
 namespace: NamespacePrefix
 keywords: [TransactionSecurityPolicy, transaction, security, policy, definition]
 ---
-
-# TransactionSecurityPolicy
 
 > Represents a transaction security policy definition.
 

@@ -5,12 +5,10 @@ topic: connectapicreditmemolineapplyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.580Z
+lastCollected: 2026-04-07T18:35:41.444Z
 estimatedTokens: 151
-keywords: [ConnectApi.CreditMemoLineApplyInput, Input, representation, apply, credit, memo, line, invoice]
+keywords: [ConnectApi.CreditMemoLineApplyInput, apply, credit, memo, line, invoice]
 ---
-
-# ConnectApi.CreditMemoLineApplyInput
 
 > Input representation of the details of the request to apply a credit memo line to an
     invoice line.

@@ -5,12 +5,10 @@ topic: attributepicklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.272Z
+lastCollected: 2026-04-07T18:39:28.322Z
 estimatedTokens: 382
-keywords: [AttributePicklist, custom, picklist, asset, attribute, API, version, 57.0, later]
+keywords: [AttributePicklist, picklist, asset, attribute, API, 57.0]
 ---
-
-# AttributePicklist
 
 > Represents a custom picklist for an asset attribute. This object is
       available in API version 57.0 and later.

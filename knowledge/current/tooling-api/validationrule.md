@@ -5,12 +5,10 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.383Z
+lastCollected: 2026-04-07T18:36:34.826Z
 estimatedTokens: 1083
-keywords: [ValidationRule, validation, rule, workflow, formula, condition, met, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
+keywords: [ValidationRule, validation, rule, workflow, formula, condition, met, API, 34.0, SOAP, REST, HTTP, Metadata]
 ---
-
-# ValidationRule
 
 > Represents a validation rule or workflow rule which specifies the
       formula for when a condition is met.  Available from API version 34.0 or

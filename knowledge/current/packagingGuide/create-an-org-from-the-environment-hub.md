@@ -5,12 +5,10 @@ topic: create-an-org-from-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.870Z
+lastCollected: 2026-04-07T18:38:46.855Z
 estimatedTokens: 490
-keywords: [Org, Environment, Hub, orgs, development, testing, trial, purposes, you’re, ISV, partner, edition, increased, limits, storage]
+keywords: [Org, Environment, Hub, orgs, development, testing, trial, purposes, you’re, ISV, partner, edition, increased, limits, storage, customizations, support, app, becomes, member, language, user’s, locale]
 ---
-
-# Create an Org from the Environment Hub
 
 > You can create orgs from the Environment Hub for development, testing, and trial
   purposes. If you’re an ISV partner, you can also create partner edition orgs with increased

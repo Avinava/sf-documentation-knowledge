@@ -5,12 +5,10 @@ topic: step-one-create-the-encryption-key-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.091Z
+lastCollected: 2026-04-07T18:37:28.124Z
 estimatedTokens: 622
-keywords: [Step, Encryption, Key, File, Data, Loader, command, line, there's, user, Therefore, provide, enter, text, named]
+keywords: [Step, Encryption, Key, File, Loader, command, line, there's, user, Therefore, provide, enter, text, named, process-conf.xml, add, username, password, uses, log, Salesforce]
 ---
-
-# Step One: Create the Encryption Key File
 
 > When you use Data Loader from the command line, there's no user interface. Therefore,
     you provide the information that you enter in the user interface in a text file named

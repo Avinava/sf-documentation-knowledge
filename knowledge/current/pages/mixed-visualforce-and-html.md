@@ -5,12 +5,10 @@ topic: mixed-visualforce-and-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.491Z
+lastCollected: 2026-04-07T18:38:52.797Z
 estimatedTokens: 835
-keywords: [Mixed, Visualforce, HTML, Combine, tags, form, elements, output, text, structure, mobile-friendly, pages, closely, match, visual]
+keywords: [Mixed, Visualforce, HTML, Combine, tags, form, text, structure, mobile-friendly, pages, closely, match, visual, design, Salesforce, mobile, app, mobile-only, quickly, convert, doesn’t, work, well, full, site, Applying, Approach, Advantages, Limitations]
 ---
-
-# Mixed Visualforce and HTML
 
 > Combine Visualforce tags for form elements and output text with static HTML for page
         structure to create mobile-friendly pages that more closely match the visual design of the

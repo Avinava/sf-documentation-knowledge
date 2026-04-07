@@ -5,12 +5,10 @@ topic: suspend-billing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:59.053Z
+lastCollected: 2026-04-07T18:35:44.013Z
 estimatedTokens: 117
-keywords: [Suspend, Billing, Input, representation, operation, account, schedule, group]
+keywords: [Suspend, Billing, operation, account, schedule, group]
 ---
-
-# Suspend Billing Input
 
 > Input representation of the details of the request to suspend the billing operation for
     an account or a billing schedule group.

@@ -5,12 +5,10 @@ topic: costbook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.844Z
+lastCollected: 2026-04-07T18:35:48.819Z
 estimatedTokens: 716
-keywords: [CostBook, cost, book, multiple, entries, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [CostBook, cost, book, multiple, entries, API, 61.0]
 ---
-
-# CostBook
 
 > Represents the cost book that contains multiple cost book
          entries. This object is available in API version 61.0 and later.

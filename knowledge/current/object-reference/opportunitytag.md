@@ -5,12 +5,10 @@ topic: opportunitytag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.417Z
+lastCollected: 2026-04-07T18:38:36.595Z
 estimatedTokens: 359
-keywords: [OpportunityTag, Associates, word, short, phrase, Opportunity, Calls, Usage]
+keywords: [OpportunityTag, Associates, word, short, phrase, Opportunity]
 ---
-
-# OpportunityTag
 
 > Associates a word or short phrase with an Opportunity.
 

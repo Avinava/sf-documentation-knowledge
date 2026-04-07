@@ -5,12 +5,10 @@ topic: blngtaxintegrationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.556Z
+lastCollected: 2026-04-07T18:37:04.164Z
 estimatedTokens: 1049
-keywords: [blng__TaxIntegration__c, interaction, Salesforce, external, tax, calculation, services, systems, blng, _TaxIntegration, Calls]
+keywords: [blng__TaxIntegration__c, interaction, Salesforce, external, tax, calculation, services, systems, blng, _TaxIntegration]
 ---
-
-# blng__TaxIntegration__c
 
 > Represents the interaction between Salesforce and external tax
          calculation services or systems.

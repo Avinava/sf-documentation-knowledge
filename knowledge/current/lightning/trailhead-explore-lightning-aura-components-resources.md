@@ -5,12 +5,10 @@ topic: trailhead-explore-lightning-aura-components-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.739Z
+lastCollected: 2026-04-07T18:38:04.886Z
 estimatedTokens: 97
-keywords: [Trailhead, Explore, Lightning, Aura, Components, Resources, fundamentals]
+keywords: [Trailhead, Explore, Lightning, Aura, Resources, fundamentals]
 ---
-
-# Trailhead: Explore Lightning Aura Components Resources
 
 > Learn the fundamentals of Lightning Aura components with Trailhead
     resources.

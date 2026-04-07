@@ -5,12 +5,10 @@ topic: previous-assessment-responses-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.865Z
+lastCollected: 2026-04-07T18:37:42.008Z
 estimatedTokens: 100
-keywords: [Previous, Assessment, Responses, Output, historical, question, retrieved]
+keywords: [Previous, Assessment, Responses, historical, question, retrieved]
 ---
-
-# Previous Assessment Responses Output
 
 > The list of historical question responses retrieved for the specified assessment.
 

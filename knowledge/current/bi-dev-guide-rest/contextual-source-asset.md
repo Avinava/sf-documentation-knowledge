@@ -5,12 +5,10 @@ topic: contextual-source-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.350Z
+lastCollected: 2026-04-07T18:36:56.885Z
 estimatedTokens: 234
-keywords: [Contextual, Source, Asset, representation, Analytics, dashboard]
+keywords: [Contextual, Source, Asset, Analytics, dashboard]
 ---
-
-# Contextual Source Asset
 
 > A contextual representation of an Analytics dashboard.
 

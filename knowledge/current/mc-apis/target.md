@@ -5,12 +5,10 @@ topic: target
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.391Z
+lastCollected: 2026-04-07T18:40:20.641Z
 estimatedTokens: 315
-keywords: [Target, Salesforce, campaigns, reports, associated, send]
+keywords: [Target, Salesforce, campaigns, reports, send]
 ---
-
-# Target
 
 > Represents one or more Salesforce campaigns or reports associated with a Salesforce send.
 

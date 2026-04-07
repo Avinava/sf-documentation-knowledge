@@ -6,13 +6,10 @@ topic: specify-a-package-ancestor-in-the-project-file-for-a-second-generation-ma
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.743Z
+lastCollected: 2026-04-07T18:38:56.272Z
 estimatedTokens: 883
-keywords: [Specify, Package, Ancestor, Project, File, Second-Generation, Managed, version, sfdx-project.json, require, highest, promoted, number, either, time]
+keywords: [Specify, Package, Ancestor, Project, File, Second-Generation, Managed, sfdx-project.json, require, highest, promoted, number, either, time, keyword, Recommended, Attribute, Override, Linear, Ancestry, Behavior, Remember]
 ---
-
-# Specify a Package Ancestor in the Project File for a Second-Generation
-      Managed Package
 
 > When you create a second-generation managed package version you specify a package
     ancestor in your sfdx-project.json file. We require that the package

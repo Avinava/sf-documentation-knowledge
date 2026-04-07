@@ -5,12 +5,10 @@ topic: servicereporthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.763Z
+lastCollected: 2026-04-07T18:40:01.528Z
 estimatedTokens: 261
-keywords: [ServiceReportHistory, History, tracked, ServiceReport]
+keywords: [ServiceReportHistory, tracked, ServiceReport]
 ---
-
-# ServiceReportHistory
 
 > History for tracked fields of ServiceReport.
 

@@ -5,12 +5,10 @@ topic: get-messagingv1emaildefinitionsdefinitionkeyqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.165Z
+lastCollected: 2026-04-07T18:40:17.318Z
 estimatedTokens: 227
-keywords: [messaging, email, definitions, definitionKey, queue, metrics, messages, send, definition, accepted, yet, processed, **Overview**, Usage]
+keywords: [messaging, email, definitions, definitionKey, queue, metrics, messages, send, definition, accepted, yet, processed, **Overview**]
 ---
-
-# GET /messaging/v1/email/definitions/{definitionKey}/queue
 
 > Gets metrics for the messages of a send definition. Applies to messages that are accepted but not yet processed.
 

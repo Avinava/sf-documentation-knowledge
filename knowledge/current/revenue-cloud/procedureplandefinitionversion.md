@@ -5,12 +5,10 @@ topic: procedureplandefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.022Z
+lastCollected: 2026-04-07T18:35:50.884Z
 estimatedTokens: 811
-keywords: [ProcedurePlanDefinitionVersion, versions, procedure, plan, definition, Multiple, under, active, time, resolved, run, rank, API, version, 62.0]
+keywords: [ProcedurePlanDefinitionVersion, versions, procedure, plan, definition, Multiple, under, active, time, resolved, run, rank, API, 62.0, SOAP, REST]
 ---
-
-# ProcedurePlanDefinitionVersion
 
 > Represents the versions for a procedure plan definition. Multiple
          versions under a procedure plan definition must be active at a time, which can be resolved

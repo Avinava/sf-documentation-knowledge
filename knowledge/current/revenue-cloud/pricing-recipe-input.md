@@ -5,12 +5,10 @@ topic: pricing-recipe-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.651Z
+lastCollected: 2026-04-07T18:35:43.524Z
 estimatedTokens: 155
-keywords: [Pricing, Recipe, Input, representation]
+keywords: [Pricing, Recipe]
 ---
-
-# Pricing Recipe Input
 
 > Input representation to set up a pricing recipe page.
 

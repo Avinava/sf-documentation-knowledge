@@ -5,12 +5,10 @@ topic: create-care-plan-tasks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:29.981Z
+lastCollected: 2026-04-07T18:38:20.734Z
 estimatedTokens: 343
 keywords: [Care, Plan, Tasks, benefits, goals, level]
 ---
-
-# Create Care Plan Tasks
 
 > Create tasks for the benefits, goals and also at a care plan level.
 

@@ -5,13 +5,11 @@ topic: calculationprocedureversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.963Z
+lastCollected: 2026-04-07T18:39:31.277Z
 estimatedTokens: 488
 namespace: Namespace
-keywords: [CalculationProcedureVersion, version, Expression, label, API, 53.0, later]
+keywords: [CalculationProcedureVersion, Expression, label, API, 53.0]
 ---
-
-# CalculationProcedureVersion
 
 > Defines a version of an Expression Set. The label for this object is
          Expression Set Version. This object is available in API version 53.0 and later.

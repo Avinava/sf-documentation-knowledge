@@ -5,12 +5,10 @@ topic: ideassettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.202Z
+lastCollected: 2026-04-07T18:36:26.638Z
 estimatedTokens: 853
-keywords: [IdeasSettings, metadata, manage, settings, Ideas, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition, Wildcard, Support]
+keywords: [IdeasSettings, Ideas, metadata, manage, settings, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# IdeasSettings
 
 > Represents the metadata used to manage settings for Ideas.
 

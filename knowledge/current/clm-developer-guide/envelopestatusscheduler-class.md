@@ -5,12 +5,10 @@ topic: envelopestatusscheduler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.491Z
+lastCollected: 2026-04-07T18:37:24.493Z
 estimatedTokens: 291
 keywords: [EnvelopeStatusScheduler, Executes, scheduled, Apex, job, Envelope, Status, Updates, execute, ctx]
 ---
-
-# EnvelopeStatusScheduler Class
 
 > Executes the scheduled Apex job for Envelope Status
     Updates.

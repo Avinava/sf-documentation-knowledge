@@ -5,12 +5,10 @@ topic: delete-hubv1campaignsidassetsassetid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.554Z
+lastCollected: 2026-04-07T18:40:20.807Z
 estimatedTokens: 141
-keywords: [hub, campaigns, assets, assetId, Disassociates, asset, campaign, **Overview**, Usage]
+keywords: [hub, campaigns, assets, assetId, Disassociates, asset, campaign, **Overview**]
 ---
-
-# DELETE /hub/v1/campaigns/{id}/assets/{assetId}
 
 > Disassociates an asset from a campaign.
 

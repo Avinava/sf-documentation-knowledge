@@ -5,12 +5,10 @@ topic: calculate-your-expected-payout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.261Z
+lastCollected: 2026-04-07T18:38:47.234Z
 estimatedTokens: 1012
 keywords: [Calculate, Expected, Payout, look, relationships, order, items, products, product, catalog]
 ---
-
-# Calculate Your Expected Payout
 
 > To calculate your expected payout, look at the relationships between your order items,
   your products, and the related product catalog.

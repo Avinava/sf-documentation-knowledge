@@ -5,12 +5,10 @@ topic: addigitalavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.649Z
+lastCollected: 2026-04-07T18:38:11.937Z
 estimatedTokens: 865
-keywords: [AdDigitalAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Digital, media, calendar, API, version, 59.0]
+keywords: [AdDigitalAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Digital, media, calendar, API, 59.0]
 ---
-
-# AdDigitalAvailability
 
 > Represents the daily, weekly, or monthly view of offered, available,
          booked, and forecasted units for the Digital media type calendar view. This object is

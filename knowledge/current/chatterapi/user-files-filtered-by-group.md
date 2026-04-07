@@ -5,12 +5,10 @@ topic: user-files-filtered-by-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.310Z
+lastCollected: 2026-04-07T18:37:16.372Z
 estimatedTokens: 269
 keywords: [User, Files, Filtered, Group, posted, groups, member]
 ---
-
-# User Files, Filtered by Group
 
 > Get information about files posted to groups that the
       specified user is a member of.

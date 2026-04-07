@@ -5,12 +5,10 @@ topic: datacloud-contact-import
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.286Z
+lastCollected: 2026-04-07T18:37:13.231Z
 estimatedTokens: 405
 keywords: [Datacloud, Contact, Import, records, contacts, leads]
 ---
-
-# Datacloud Contact Import
 
 > Import records as contacts or
       leads.

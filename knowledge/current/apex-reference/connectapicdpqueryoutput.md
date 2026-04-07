@@ -5,12 +5,10 @@ topic: connectapicdpqueryoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:22.585Z
+lastCollected: 2026-04-07T18:36:07.966Z
 estimatedTokens: 1966
 keywords: [ConnectApi.CdpQueryOutput, Query, result]
 ---
-
-# ConnectApi.CdpQueryOutput
 
 > Query result.
 

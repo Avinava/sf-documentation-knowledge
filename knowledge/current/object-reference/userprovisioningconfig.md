@@ -5,12 +5,10 @@ topic: userprovisioningconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:52.019Z
+lastCollected: 2026-04-07T18:38:43.791Z
 estimatedTokens: 1332
-keywords: [UserProvisioningConfig, flow, user, provisioning, process, attributes, API, version, 34.0, later, Calls]
+keywords: [UserProvisioningConfig, flow, user, provisioning, process, attributes, API, 34.0]
 ---
-
-# UserProvisioningConfig
 
 > Represents information for a flow to use during a user provisioning
 			request process, such as the attributes for an update.

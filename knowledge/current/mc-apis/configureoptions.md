@@ -5,12 +5,10 @@ topic: configureoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.611Z
+lastCollected: 2026-04-07T18:40:15.716Z
 estimatedTokens: 315
 keywords: [ConfigureOptions, options, async, Configure, call]
 ---
-
-# ConfigureOptions
 
 > The ConfigureOptions object contains options to be used on an async Configure call.
 

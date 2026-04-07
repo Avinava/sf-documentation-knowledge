@@ -5,12 +5,10 @@ topic: dataextensioncreateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.243Z
+lastCollected: 2026-04-07T18:40:16.382Z
 estimatedTokens: 607
-keywords: [DataExtensionCreateResult, error, messages, attempt, data, extension, message, every, process, opposed, encountered]
+keywords: [DataExtensionCreateResult, error, messages, attempt, extension, message, every, process, opposed, encountered]
 ---
-
-# DataExtensionCreateResult
 
 > The DataExtensionCreateResult object provides error messages related to an attempt to create a data extension. The object provides one error message for every error in the process, as opposed to just the first error encountered.
 

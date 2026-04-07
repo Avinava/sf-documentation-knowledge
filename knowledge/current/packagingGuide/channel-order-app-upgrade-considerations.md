@@ -5,12 +5,10 @@ topic: channel-order-app-upgrade-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.695Z
+lastCollected: 2026-04-07T18:38:46.562Z
 estimatedTokens: 606
-keywords: [Channel, Order, App, Upgrade, Considerations, install, new, version, COA, understand, what’s, changed, how, changes, affect]
+keywords: [Channel, Order, App, Upgrade, Considerations, install, new, COA, understand, what’s, changed, how, changes, affect, customizations, Upgrades, v1.39, Earlier, Replaced, Service, Credentials, Permission, Accessing, Customers, Tab, Orders, Updated, Layouts, Partner, Submit, API]
 ---
-
-# Channel Order App Upgrade Considerations
 
 > Before you install a new version of the Channel Order App (COA), understand what’s
     changed in the app and how the changes can affect your customizations.

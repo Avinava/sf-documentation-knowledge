@@ -5,12 +5,10 @@ topic: sending-transaction-information-with-transactionparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.614Z
+lastCollected: 2026-04-07T18:37:03.179Z
 estimatedTokens: 1178
 keywords: [Sending, Transaction, TransactionParameter, Salesforce, Billing, payment, gateway, package, class’s, attributes, API, Center, run]
 ---
-
-# Sending Transaction Information with TransactionParameter
 
 > The transaction parameter class represents a list of transaction field values that
   Salesforce Billing sends to the payment gateway package. You can set the class’s attributes

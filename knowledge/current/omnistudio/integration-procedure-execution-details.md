@@ -5,12 +5,10 @@ topic: integration-procedure-execution-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:54.098Z
+lastCollected: 2026-04-07T18:36:39.778Z
 estimatedTokens: 167
-keywords: [Integration, Procedure, Execution, Output, representation]
+keywords: [Integration, Procedure, Execution]
 ---
-
-# Integration Procedure Execution Details
 
 > Output representation of the execution details of the integration procedure.
 

@@ -5,12 +5,10 @@ topic: api-detection-event-is-an-anomaly-but-isnt-clearly-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.781Z
+lastCollected: 2026-04-07T18:39:22.674Z
 estimatedTokens: 748
-keywords: [API, Detection, Event, Anomaly, Isn’t, Clearly, Malicious, Alice, sales, rep, Louis, She’s, often, road, meet]
+keywords: [API, Detection, Event, Anomaly, Isn’t, Clearly, Malicious, Alice, sales, rep, Louis, She’s, often, road, meet, clients, travels, generally, consistently, uses, company’s, VPN, log, Salesforce]
 ---
-
-# API Detection Event Is an Anomaly but Isn’t Clearly Malicious
 
 > Alice is a sales rep based in St. Louis. She’s often on the road to meet with clients.
     When she travels, she generally, but not consistently, uses her company’s VPN to log into

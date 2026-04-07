@@ -5,12 +5,10 @@ topic: javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.409Z
+lastCollected: 2026-04-07T18:38:05.627Z
 estimatedTokens: 319
 keywords: [JavaScript, API, publicly, accessible, code, controller, helper, entry, point, framework]
 ---
-
-# JavaScript API
 
 > The JavaScript API lists the publicly accessible methods for each object that you can
   use in JavaScript code, such as a controller or helper. The $A namespace is the entry point for using the framework in JavaScript code.

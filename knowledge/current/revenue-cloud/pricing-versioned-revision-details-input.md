@@ -5,12 +5,10 @@ topic: pricing-versioned-revision-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.673Z
+lastCollected: 2026-04-07T18:35:43.547Z
 estimatedTokens: 353
-keywords: [Pricing, Versioned, Revision, Input, representation]
+keywords: [Pricing, Versioned, Revision]
 ---
-
-# Pricing Versioned Revision Details Input
 
 > Input representation of the versioned revision details.
 

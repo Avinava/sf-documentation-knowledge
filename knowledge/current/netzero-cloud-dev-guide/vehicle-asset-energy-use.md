@@ -5,12 +5,10 @@ topic: vehicle-asset-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.241Z
+lastCollected: 2026-04-07T18:38:16.823Z
 estimatedTokens: 12661
-keywords: [Vehicle, Asset, Energy, fuel, consumption, vehicles, selected, emissions, factors, record, control, calculation, scope, depending, whether]
+keywords: [Vehicle, Asset, Energy, fuel, consumption, vehicles, selected, emissions, factors, record, control, calculation, scope, depending, whether, company, owned]
 ---
-
-# Vehicle Asset Energy Use
 
 > The Vehicle Asset Energy Use object represents the fuel consumption related to
     vehicles. The selected emissions factors on the energy use record control the calculation for

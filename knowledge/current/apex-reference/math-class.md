@@ -5,13 +5,11 @@ topic: math-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.970Z
+lastCollected: 2026-04-07T18:36:14.275Z
 estimatedTokens: 12683
 namespace: System
-keywords: [Math, mathematical, constant, base, natural, logarithms, abs, decimalValue, doubleValue, integerValue, longValue, acos, decimalAngle, doubleAngle, asin]
+keywords: [Math, mathematical, constant, base, natural, logarithms, abs, decimalValue, doubleValue, integerValue, longValue, acos, decimalAngle, doubleAngle, asin, atan, atan2, xCoordinate, yCoordinate, cbrt, ceil, cos, cosh, exp, exponentDecimal, exponentDouble, floor, log, log10, max, decimalValue1, decimalValue2, doubleValue1, doubleValue2, integerValue1, integerValue2, longValue1, longValue2, min, mod, pow, exponent, random, rint, round, roundToLong, signum, sin, sinh, sqrt, tan, tanh]
 ---
-
-# Math Class
 
 > Returns the mathematical constant e, which is the base of
    natural logarithms.

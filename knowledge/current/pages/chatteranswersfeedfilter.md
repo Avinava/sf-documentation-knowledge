@@ -5,12 +5,10 @@ topic: chatteranswersfeedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.232Z
+lastCollected: 2026-04-07T18:38:49.285Z
 estimatedTokens: 215
-keywords: [chatteranswers, feedfilter, feed, filter, lets, users, sort, feeds, appear, Chatter, Answers, displays, component, Attributes]
+keywords: [Attributes, chatteranswers, feedfilter, filter, lets, users, sort, feeds, appear, Chatter, Answers, displays]
 ---
-
-# chatteranswers:feedfilter
 
 > The feed filter lets users sort and filter the feeds that appear in Chatter Answers.
 

@@ -6,13 +6,10 @@ topic: truncn-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.171Z
+lastCollected: 2026-04-07T18:37:00.740Z
 estimatedTokens: 119
-keywords: [trunc, numeric, expression, truncated, decimal, places, negative, case, function, left, point, omitted, place, any, real]
+keywords: [trunc, numeric, expression, truncated, decimal, places, negative, case, function, left, point, omitted, place, any, real, range, -1e308, 1e308, -15, inclusive, foreach, statement]
 ---
-
-# trunc(n[,
-  m])
 
 > Returns the value of the numeric expression n truncated to
    m decimal places. m can be negative, in which case the

@@ -5,12 +5,10 @@ topic: connectapiquerysqlrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.056Z
+lastCollected: 2026-04-07T18:36:11.336Z
 estimatedTokens: 56
-keywords: [ConnectApi.QuerySqlRow, data, associated, SQL, query, output]
+keywords: [ConnectApi.QuerySqlRow, SQL, query]
 ---
-
-# ConnectApi.QuerySqlRow
 
 > Represents data associated with the an SQL query output.
 

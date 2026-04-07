@@ -5,12 +5,10 @@ topic: commerce-import-category-job-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.095Z
+lastCollected: 2026-04-07T18:37:11.924Z
 estimatedTokens: 206
-keywords: [Commerce, Import, Category, Job, asynchronously, data, csv, file]
+keywords: [Commerce, Import, Category, Job, asynchronously, csv, file]
 ---
-
-# Commerce Import Category Job, Create
 
 > Create a job to asynchronously import category data using a .csv
       file.

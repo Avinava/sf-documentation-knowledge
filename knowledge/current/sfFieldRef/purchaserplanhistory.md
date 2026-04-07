@@ -5,12 +5,10 @@ topic: purchaserplanhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.115Z
+lastCollected: 2026-04-07T18:39:57.718Z
 estimatedTokens: 261
-keywords: [PurchaserPlanHistory, History, tracked, PurchaserPlan]
+keywords: [PurchaserPlanHistory, tracked, PurchaserPlan]
 ---
-
-# PurchaserPlanHistory
 
 > History for tracked fields of PurchaserPlan.
 

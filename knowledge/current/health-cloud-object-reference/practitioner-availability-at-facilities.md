@@ -5,12 +5,10 @@ topic: practitioner-availability-at-facilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:55.757Z
+lastCollected: 2026-04-07T18:37:43.932Z
 estimatedTokens: 800
-keywords: [Practitioner, Availability, Facilities, book, appointment, know, facility, Health, Cloud, queries, specific, source, EHR, system, IDs]
+keywords: [Practitioner, Availability, Facilities, book, appointment, know, facility, Health, Cloud, queries, specific, source, EHR, system, IDs, stored, Service]
 ---
-
-# Practitioner Availability at Facilities
 
 > To book an appointment, we need to know the availability of a given practitioner at a
   given facility. To get this information, Health Cloud queries the specific source EHR system,

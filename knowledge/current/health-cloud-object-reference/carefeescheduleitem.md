@@ -5,12 +5,10 @@ topic: carefeescheduleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.203Z
+lastCollected: 2026-04-07T18:37:45.680Z
 estimatedTokens: 962
-keywords: [CareFeeScheduleItem, Stores, procedure, level, fees, fee, schedule, definition, API, version, 54.0, later, Provider, Network, Management]
+keywords: [CareFeeScheduleItem, Stores, procedure, level, fees, fee, schedule, definition, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# CareFeeScheduleItem
 
 > Stores procedure level fees for a fee schedule definition. This object
       is available in API version 54.0 and later with the Provider Network Management permission set

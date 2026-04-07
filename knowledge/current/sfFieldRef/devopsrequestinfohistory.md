@@ -5,12 +5,10 @@ topic: devopsrequestinfohistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.158Z
+lastCollected: 2026-04-07T18:39:37.864Z
 estimatedTokens: 265
-keywords: [DevopsRequestInfoHistory, History, tracked, DevopsRequestInfo]
+keywords: [DevopsRequestInfoHistory, tracked, DevopsRequestInfo]
 ---
-
-# DevopsRequestInfoHistory
 
 > History for tracked fields of DevopsRequestInfo.
 

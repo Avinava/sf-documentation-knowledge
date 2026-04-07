@@ -5,12 +5,10 @@ topic: delete-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.017Z
+lastCollected: 2026-04-07T18:37:48.740Z
 estimatedTokens: 258
-keywords: [Claim, Coverage, Payment, Detail, Action, Remove, unpaid, updating, status, record, Deleted, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Claim, Coverage, Payment, Detail, Action, Remove, unpaid, updating, status, record, Deleted, REST, HTTP]
 ---
-
-# Delete Claim Coverage Payment Detail Action
 
 > Remove unpaid claim coverage payment details by updating the status of the claim
   coverage payment detail record to Deleted.

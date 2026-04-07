@@ -5,12 +5,10 @@ topic: surveypage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:23.645Z
+lastCollected: 2026-04-07T18:39:17.297Z
 estimatedTokens: 273
-keywords: [SurveyPage, title, question, survey, Calls, Associated, Objects]
+keywords: [SurveyPage, title, question, survey]
 ---
-
-# SurveyPage
 
 > Represents a page, such as the title page or a question page, in a
          survey.

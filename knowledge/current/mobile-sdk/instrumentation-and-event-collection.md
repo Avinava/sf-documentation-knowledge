@@ -5,12 +5,10 @@ topic: instrumentation-and-event-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.412Z
+lastCollected: 2026-04-07T18:40:24.848Z
 estimatedTokens: 460
-keywords: [Instrumentation, Event, Collection, Mobile, SDK, 5.0, introduces, new, framework, adds, analytical, apps, collect, data, describe]
+keywords: [Instrumentation, Event, Collection, Mobile, SDK, 5.0, introduces, new, framework, adds, analytical, apps, collect, describe, how, consuming, periodically, uploads, logs, events, Salesforce, cloud, helps, focus, features, matter, customers, any, specific, users, their, organizations, Toggle, Logging, Check, Status, Upload, Frequency, Android]
 ---
-
-# Instrumentation and Event Collection
 
 > Mobile SDK 5.0 introduces a
   new framework that adds analytical instrumentation to Mobile SDK apps. Through this

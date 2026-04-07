@@ -5,12 +5,10 @@ topic: topic-endorsements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.932Z
+lastCollected: 2026-04-07T18:37:16.005Z
 estimatedTokens: 240
 keywords: [Topic, Endorsements, endorsement, remove]
 ---
-
-# Topic Endorsements
 
 > An endorsement. Get information
 about an endorsement and remove an endorsement.

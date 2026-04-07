@@ -5,12 +5,10 @@ topic: giftentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:43.178Z
+lastCollected: 2026-04-07T18:37:30.243Z
 estimatedTokens: 3449
-keywords: [GiftEntry, gifts, created, individually, batch, they're, processed, logged, their, target, records, processing, serve, audit, trail]
+keywords: [GiftEntry, gifts, created, individually, batch, they're, processed, logged, their, target, records, processing, serve, audit, trail, gift, transactions, API, 59.0]
 ---
-
-# GiftEntry
 
 > Represents gifts created individually or in a batch before they're
          processed and logged in their target records. After processing, these records serve as an

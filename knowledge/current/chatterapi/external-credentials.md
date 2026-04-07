@@ -5,12 +5,10 @@ topic: external-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.704Z
+lastCollected: 2026-04-07T18:37:14.747Z
 estimatedTokens: 640
 keywords: [External, Credentials, user, authenticate, credential]
 ---
-
-# External Credentials
 
 > Get external credentials that the user can authenticate to. Create
       an external credential.

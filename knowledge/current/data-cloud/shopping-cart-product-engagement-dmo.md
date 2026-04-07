@@ -5,12 +5,10 @@ topic: shopping-cart-product-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.574Z
+lastCollected: 2026-04-07T18:35:54.640Z
 estimatedTokens: 969
-keywords: [Shopping, Cart, Product, Engagement, DMO, Data, Cloud, model, captured, user, actions, adding, removing, items, API]
+keywords: [Category, Relationships, Shopping, Cart, Product, Engagement, DMO, Cloud, model, captured, user, actions, adding, removing, items, API, Primary, Subject, Area, Key]
 ---
-
-# Shopping Cart Product Engagement DMO
 
 > The Shopping Cart Product Engagement DMO is a Data Cloud data model object
       (DMO) for data captured from user actions, such as adding and removing items from a shopping

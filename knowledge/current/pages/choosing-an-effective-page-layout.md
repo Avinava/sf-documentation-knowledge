@@ -5,12 +5,10 @@ topic: choosing-an-effective-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.621Z
+lastCollected: 2026-04-07T18:38:52.910Z
 estimatedTokens: 1165
-keywords: [Choosing, Effective, Layout, Design, Visualforce, pages, look, good, work, well, Salesforce, mobile, app, appropriate, context]
+keywords: [Choosing, Effective, Layout, Design, Visualforce, pages, look, good, work, well, Salesforce, mobile, app, appropriate, context, added, main, navigation, tabs, actions, action, bar, nearly, full, screen, device, scroll, vertically, Visusalforce, object’s, fit, specific, limited, space]
 ---
-
-# Choosing an Effective Page Layout
 
 > Design Visualforce pages that look good and work well within the Salesforce mobile
         app by using a page layout appropriate for the context that the page is used in. Pages added

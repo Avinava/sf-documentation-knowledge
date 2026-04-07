@@ -5,12 +5,10 @@ topic: pendingserviceroutinginteractioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.784Z
+lastCollected: 2026-04-07T18:39:53.319Z
 estimatedTokens: 435
-keywords: [PendingServiceRoutingInteractionInfo, PendingServiceRouting, interaction, that’s, work, routed, agent, screen, pop, records, open, specific, channel, read-only, API]
+keywords: [PendingServiceRoutingInteractionInfo, PendingServiceRouting, interaction, that’s, work, routed, agent, screen, pop, records, open, specific, channel, read-only, API, 53.0]
 ---
-
-# PendingServiceRoutingInteractionInfo
 
 > Represents PendingServiceRouting interaction information that’s used when
          work is routed to an agent. For a screen pop, it specifies which records to open when work

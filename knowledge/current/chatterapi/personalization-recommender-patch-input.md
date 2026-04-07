@@ -5,12 +5,10 @@ topic: personalization-recommender-patch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.886Z
+lastCollected: 2026-04-07T18:37:09.606Z
 estimatedTokens: 229
-keywords: [Personalization, Recommender, Patch, Input, editing]
+keywords: [Personalization, Recommender, Patch, editing]
 ---
-
-# Personalization Recommender Patch Input
 
 > Contains the details for editing a personalization recommender.
 

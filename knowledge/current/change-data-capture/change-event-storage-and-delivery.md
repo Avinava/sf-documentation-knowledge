@@ -5,12 +5,10 @@ topic: change-event-storage-and-delivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.845Z
+lastCollected: 2026-04-07T18:37:05.554Z
 estimatedTokens: 648
-keywords: [Change, Event, Storage, Delivery, events, stored, temporarily, subscribers, retrieve, retention, window, order, delivered, corresponding, committed]
+keywords: [Change, Event, Storage, Delivery, events, stored, temporarily, subscribers, retrieve, retention, window, order, delivered, corresponding, committed, transactions, Users, proper, permissions, receive, channel, Temporary, Bus, User]
 ---
-
-# Change Event Storage and Delivery
 
 > Change events are stored temporarily and subscribers can retrieve them during the
   retention window. The order of events delivered is based on the order of the corresponding

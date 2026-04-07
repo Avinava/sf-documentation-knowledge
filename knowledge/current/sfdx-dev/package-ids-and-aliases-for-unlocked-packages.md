@@ -5,12 +5,10 @@ topic: package-ids-and-aliases-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.900Z
+lastCollected: 2026-04-07T18:40:08.856Z
 estimatedTokens: 502
-keywords: [Package, IDs, Aliases, Unlocked, Packages, lifecycle, versions, identified, alias, version, Salesforce, CLI, creates, stores, sfdx-project.json]
+keywords: [Package, IDs, Aliases, Unlocked, Packages, lifecycle, versions, identified, alias, Salesforce, CLI, creates, stores, sfdx-project.json, file, run, commands, write, scripts, automate, packaging, workflows, it’s, often, easier, instead]
 ---
-
-# Package IDs and Aliases for Unlocked Packages
 
 > During the package lifecycle, packages and package versions are identified by an ID or
   package alias. When you create a package or package version, Salesforce CLI creates a package

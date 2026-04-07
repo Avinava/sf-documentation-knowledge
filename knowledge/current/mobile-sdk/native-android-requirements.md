@@ -5,12 +5,10 @@ topic: native-android-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.635Z
+lastCollected: 2026-04-07T18:40:25.034Z
 estimatedTokens: 576
 keywords: [Native, Android, Requirements, SalesforceSDK, project, built, Nougat, API, library, Salesforce]
 ---
-
-# Native Android Requirements
 
 > The SalesforceSDK project is built with
                 the Android Nougat (API 24) library.

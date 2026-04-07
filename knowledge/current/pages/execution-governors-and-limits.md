@@ -5,13 +5,11 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.613Z
+lastCollected: 2026-04-07T18:38:48.566Z
 estimatedTokens: 6330
 namespace: ConnectApi
-keywords: [Execution, Governors, Limits, addition, core, Apex, governor, email, push, notification, included, later, topic, convenience, Per-Transaction]
+keywords: [Execution, Governors, Limits, addition, core, Apex, governor, email, push, notification, included, topic, convenience, Per-Transaction, Certified, Managed, Package, Lightning, Platform, Size-Specific, Miscellaneous]
 ---
-
-# Execution Governors and Limits
 
 > In addition to the core Apex governor limits, email limits and push notification limits are also included later in this
       topic for your convenience.

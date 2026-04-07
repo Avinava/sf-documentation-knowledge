@@ -5,12 +5,10 @@ topic: voicecapabilitiesresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.803Z
+lastCollected: 2026-04-07T18:39:23.733Z
 estimatedTokens: 737
 keywords: [VoiceCapabilitiesResult, result, rep, capabilities, Voice, Functions]
 ---
-
-# VoiceCapabilitiesResult
 
 > Represents the result type for the rep capabilities for
         Voice.

@@ -5,12 +5,10 @@ topic: fields-on-productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.754Z
+lastCollected: 2026-04-07T18:37:57.279Z
 estimatedTokens: 162
 keywords: [ProductRequest, Life, Sciences, Cloud, extend, standard, sample, order, including, destination, user, urgency, level]
 ---
-
-# Fields on ProductRequest
 
 > Life Sciences Cloud fields extend the standard ProductRequest object for sample order
     information, including destination user and urgency level.

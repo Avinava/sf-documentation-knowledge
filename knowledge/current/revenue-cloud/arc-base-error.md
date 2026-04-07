@@ -5,12 +5,10 @@ topic: arc-base-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.199Z
+lastCollected: 2026-04-07T18:35:45.185Z
 estimatedTokens: 104
-keywords: [ARC, Base, Error, Output, representation, amendment, renewal, cancellation, assets]
+keywords: [ARC, Base, Error, amendment, renewal, cancellation, assets]
 ---
-
-# ARC Base Error
 
 > Output representation of the error response related to the amendment, renewal,
     or

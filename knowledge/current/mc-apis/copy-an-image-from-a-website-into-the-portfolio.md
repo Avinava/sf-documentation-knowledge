@@ -5,12 +5,10 @@ topic: copy-an-image-from-a-website-into-the-portfolio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.775Z
+lastCollected: 2026-04-07T18:40:15.892Z
 estimatedTokens: 777
-keywords: [Copy, Image, Website, Portfolio, images, documents, directly, off, directory, there, emails, landing, pages, Items, uploaded]
+keywords: [Copy, Image, Website, Portfolio, images, documents, directly, off, directory, there, emails, landing, pages, Items, uploaded, Akamai, until, IsUploaded, Sample, NET, Code, SOAP, Envelope]
 ---
-
-# Copy an Image from a Website into the Portfolio
 
 > Portfolio images or documents can be read directly off of a public website into a Portfolio directory. From there, you can use the image in your emails or landing pages. Items are not uploaded to Akamai until the IsUploaded property is True.
 

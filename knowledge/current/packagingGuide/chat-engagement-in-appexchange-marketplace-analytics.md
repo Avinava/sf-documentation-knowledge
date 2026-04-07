@@ -5,12 +5,10 @@ topic: chat-engagement-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.051Z
+lastCollected: 2026-04-07T18:38:47.017Z
 estimatedTokens: 512
-keywords: [Chat, Engagement, AppExchange, Marketplace, Analytics, how, customers, interact, experiences, conversations, sales, reps, hosted, previous, week]
+keywords: [Definitions, Chat, Engagement, AppExchange, Marketplace, Analytics, how, customers, interact, experiences, conversations, sales, reps, hosted, previous, week]
 ---
-
-# Chat Engagement in AppExchange Marketplace Analytics
 
 > See how customers interact with your AppExchange Chat experiences. For example, see how
     many conversations your sales reps hosted during the previous week.

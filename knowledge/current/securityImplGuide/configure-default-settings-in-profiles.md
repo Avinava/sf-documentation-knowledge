@@ -5,12 +5,10 @@ topic: configure-default-settings-in-profiles
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.281Z
+lastCollected: 2026-04-07T18:39:23.215Z
 estimatedTokens: 1117
-keywords: [Configure, Settings, Profiles, assigned, apps, record, layouts, users, data, their, work]
+keywords: [Configure, Settings, Profiles, assigned, apps, record, layouts, users, their, work]
 ---
-
-# Configure Default Settings in Profiles
 
 > Configure assigned apps, record types, page layouts, and other default settings in
     profiles so that assigned users can see the data and apps required to complete their

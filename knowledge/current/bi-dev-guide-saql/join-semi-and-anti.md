@@ -5,12 +5,10 @@ topic: join-semi-and-anti
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:14.670Z
+lastCollected: 2026-04-07T18:37:01.277Z
 estimatedTokens: 1408
-keywords: [join, semi, anti, statement, join_type, semi-join, anti-join, results, Usage, Multiway, Cases, Handling, Considerations]
+keywords: [Considerations, join, semi, anti, statement, join_type, semi-join, anti-join, results, Multiway, Cases, Handling]
 ---
-
-# join semi and anti
 
 > Use the join statement with the join_type to create semi-join or anti-join
   results.

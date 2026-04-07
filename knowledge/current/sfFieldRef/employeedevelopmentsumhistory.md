@@ -5,12 +5,10 @@ topic: employeedevelopmentsumhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.514Z
+lastCollected: 2026-04-07T18:39:39.167Z
 estimatedTokens: 275
-keywords: [EmployeeDevelopmentSumHistory, History, tracked, EmployeeDevelopmentSum]
+keywords: [EmployeeDevelopmentSumHistory, tracked, EmployeeDevelopmentSum]
 ---
-
-# EmployeeDevelopmentSumHistory
 
 > History for tracked fields of EmployeeDevelopmentSum.
 

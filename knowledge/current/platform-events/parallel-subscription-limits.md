@@ -5,12 +5,10 @@ topic: parallel-subscription-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.322Z
+lastCollected: 2026-04-07T18:38:58.178Z
 estimatedTokens: 321
 keywords: [Parallel, Subscription, Limits, Check, subscriptions, enforced, save, configurations, PlatformEventSubscriberConfig, Tooling, API, Metadata]
 ---
-
-# Parallel Subscription Limits
 
 > Check out the limits for parallel subscriptions. These limits are enforced when you save
   the parallel subscription configurations using PlatformEventSubscriberConfig in Tooling API or

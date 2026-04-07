@@ -5,12 +5,10 @@ topic: insertdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.133Z
+lastCollected: 2026-04-07T18:40:22.523Z
 estimatedTokens: 172
-keywords: [InsertData, Function, Ordinal, Data, extension, insert, row, column, build, clause, **Overview**, **Syntax**, Usage]
+keywords: [InsertData, Function, Ordinal, extension, insert, row, column, build, clause, **Overview**, **Syntax**]
 ---
-
-# InsertData
 
 > InsertData(1, 2, 3)
 

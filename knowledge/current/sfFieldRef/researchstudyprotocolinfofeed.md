@@ -5,12 +5,10 @@ topic: researchstudyprotocolinfofeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.393Z
+lastCollected: 2026-04-07T18:40:00.112Z
 estimatedTokens: 393
-keywords: [ResearchStudyProtocolInfoFeed, Feed, tracking, ResearchStudyProtocolInfo]
+keywords: [ResearchStudyProtocolInfoFeed, ResearchStudyProtocolInfo]
 ---
-
-# ResearchStudyProtocolInfoFeed
 
 > Feed tracking for ResearchStudyProtocolInfo.
 

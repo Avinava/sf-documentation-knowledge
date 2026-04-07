@@ -5,12 +5,10 @@ topic: send-e-sign-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.753Z
+lastCollected: 2026-04-07T18:36:35.224Z
 estimatedTokens: 347
-keywords: [Send, e-Sign, Contract, Action, recipients, e-signature, REST, HTTP, Inputs, Output, Usage]
+keywords: [Inputs, Send, e-Sign, Contract, Action, recipients, e-signature, REST, HTTP]
 ---
-
-# Send e-Sign Contract Action
 
 > Send a contract to specified recipients for
   e-signature.

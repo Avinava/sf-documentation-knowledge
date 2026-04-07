@@ -5,12 +5,10 @@ topic: order-payment-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.243Z
+lastCollected: 2026-04-07T18:37:21.383Z
 estimatedTokens: 89
 keywords: [Order, Payment]
 ---
-
-# Order Payment Method
 
 > Details for the order payment method.
 

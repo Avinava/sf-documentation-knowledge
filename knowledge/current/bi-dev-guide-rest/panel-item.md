@@ -5,12 +5,10 @@ topic: panel-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.019Z
+lastCollected: 2026-04-07T18:36:57.526Z
 estimatedTokens: 323
 keywords: [Panel, Item, column, layout, Analytics, template, wizard]
 ---
-
-# Panel Item
 
 > An item on a panel in a column layout for an Analytics template wizard page.
 

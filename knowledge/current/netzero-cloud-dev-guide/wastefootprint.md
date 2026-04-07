@@ -5,12 +5,10 @@ topic: wastefootprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.345Z
+lastCollected: 2026-04-07T18:38:20.024Z
 estimatedTokens: 1943
-keywords: [WasteFootprint, volume, aggregated, waste, carbon, emissions, generated, either, part, operations, end-, of-, life, product, API]
+keywords: [WasteFootprint, volume, aggregated, waste, carbon, emissions, generated, either, part, operations, end-, of-, life, product, API, 54.0]
 ---
-
-# WasteFootprint
 
 > Represents the volume of aggregated waste and carbon emissions from waste
          generated either as part of operations or during the end- of- life of a product. This

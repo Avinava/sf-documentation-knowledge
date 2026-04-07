@@ -5,12 +5,10 @@ topic: release-held-fo-capacity-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.630Z
+lastCollected: 2026-04-07T18:37:22.731Z
 estimatedTokens: 167
-keywords: [Release, Held, Capacity, Output, confirm, fulfillment, order, locations, correspond, action, call]
+keywords: [Release, Held, Capacity, confirm, fulfillment, order, locations, correspond, action, call]
 ---
-
-# Release Held FO Capacity Output
 
 > Response to a request to confirm held fulfillment order capacity at
       one or more locations. Can correspond to one action call.

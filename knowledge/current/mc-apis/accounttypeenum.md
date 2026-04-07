@@ -5,12 +5,10 @@ topic: accounttypeenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.057Z
+lastCollected: 2026-04-07T18:40:15.080Z
 estimatedTokens: 222
 keywords: [AccountTypeEnum, define, accounts, Marketing, Cloud]
 ---
-
-# AccountTypeEnum
 
 > The AccountTypeEnum object contains values used to define accounts within Marketing Cloud.
 

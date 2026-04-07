@@ -5,12 +5,10 @@ topic: userauthcertificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:45.044Z
+lastCollected: 2026-04-07T18:36:30.415Z
 estimatedTokens: 593
-keywords: [UserAuthCertificate, PEM-encoded, user, certificate, certificates, associated, externally, uploaded, authenticate, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [UserAuthCertificate, PEM-encoded, user, certificate, certificates, externally, uploaded, authenticate, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# UserAuthCertificate
 
 > Represents a PEM-encoded user certificate. These
       certificates are associated with a user, and externally uploaded. The uploaded certificate is

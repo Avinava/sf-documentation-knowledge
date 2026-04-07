@@ -5,12 +5,10 @@ topic: actnbllistkeyprfmindasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.201Z
+lastCollected: 2026-04-07T18:36:43.940Z
 estimatedTokens: 422
-keywords: [ActnblListKeyPrfmIndAsgnt, key, performance, indicators, KPIs, shown, KPI, Bar, API, version, 60.0, later, Calls, Special, Access]
+keywords: [ActnblListKeyPrfmIndAsgnt, key, performance, indicators, KPIs, shown, KPI, Bar, API, 60.0]
 ---
-
-# ActnblListKeyPrfmIndAsgnt
 
 > Represents the key performance indicators (KPIs) that are shown on
          KPI Bar. This object is available in API version 60.0 and later.

@@ -5,12 +5,10 @@ topic: giftstewardship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.822Z
+lastCollected: 2026-04-07T18:37:29.899Z
 estimatedTokens: 885
-keywords: [GiftStewardship, stewardship, gift, contact, organization, isn't, donor, API, version, 65.0, later, Calls, Special, Access, Rules]
+keywords: [GiftStewardship, stewardship, gift, contact, organization, isn't, donor, API, 65.0]
 ---
-
-# GiftStewardship
 
 > Represents stewardship of a gift by a contact or an organization that isn't a
          donor. This object is available in API version 65.0 and later.

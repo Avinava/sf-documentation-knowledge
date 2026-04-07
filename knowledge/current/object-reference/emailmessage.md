@@ -5,12 +5,10 @@ topic: emailmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.320Z
+lastCollected: 2026-04-07T18:38:30.150Z
 estimatedTokens: 6165
-keywords: [EmailMessage, email, Salesforce, Calls, Special, Access, Rules, Usage, Sample, Code—Apex, Associated, Objects]
+keywords: [EmailMessage, email, Salesforce, Sample, Code—Apex]
 ---
-
-# EmailMessage
 
 > Represents an email in Salesforce.
 

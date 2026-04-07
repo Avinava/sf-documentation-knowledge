@@ -5,12 +5,10 @@ topic: giftcommitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.092Z
+lastCollected: 2026-04-07T18:37:30.159Z
 estimatedTokens: 2741
-keywords: [GiftCommitment, commitment, made, donor, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [GiftCommitment, commitment, made, donor, API, 59.0]
 ---
-
-# GiftCommitment
 
 > Represents the commitment made by a donor. This object is available in
       API version 59.0 and later.

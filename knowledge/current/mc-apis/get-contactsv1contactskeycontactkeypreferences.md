@@ -5,12 +5,10 @@ topic: get-contactsv1contactskeycontactkeypreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.005Z
+lastCollected: 2026-04-07T18:40:17.161Z
 estimatedTokens: 326
-keywords: [contacts, key, contactKey, Preferences, Retrieves, consent, management, contact, records, requests, display, reserved, future, don't, perform]
+keywords: [contacts, key, contactKey, Preferences, Retrieves, consent, management, contact, records, requests, display, reserved, future, don't, perform, any, actions, time, documented, best, performance, batches, whenever, possib, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# GET /contacts/v1/contacts/key:{contactKey}/Preferences
 
 > Retrieves consent management information from contact records by contact key. GET requests might display values that are reserved for future use and don't perform any actions at this time. Use only the parameters documented here. For best performance, use batches of contact ID values whenever possib
 

@@ -5,12 +5,10 @@ topic: orderdeliverymethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.596Z
+lastCollected: 2026-04-07T18:38:36.814Z
 estimatedTokens: 797
-keywords: [OrderDeliveryMethod, customizations, options, buyer, selected, their, delivery, API, version, 48.0, later, Calls, Special, Access, Rules]
+keywords: [OrderDeliveryMethod, customizations, options, buyer, selected, their, delivery, API, 48.0]
 ---
-
-# OrderDeliveryMethod
 
 > Shows the customizations and options that a buyer selected for their delivery
       method. This object is available in API version 48.0 and later.

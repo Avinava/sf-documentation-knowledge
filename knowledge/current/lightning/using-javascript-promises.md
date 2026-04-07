@@ -5,12 +5,10 @@ topic: using-javascript-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.413Z
+lastCollected: 2026-04-07T18:38:04.564Z
 estimatedTokens: 1149
-keywords: [JavaScript, Promises, ES6, code, simplify, handles, success, failure, asynchronous, calls, chains, together, multiple, Promise, Chaining]
+keywords: [JavaScript, Promises, ES6, code, simplify, handles, success, failure, asynchronous, chains, together, multiple, Promise, Chaining, Always, catch, Reject, Handler, Don’t, Storable, Actions]
 ---
-
-# Using JavaScript Promises
 
 > You can use ES6 Promises in JavaScript code. Promises can simplify code that handles the
   success or failure of asynchronous calls, or code that chains together multiple asynchronous

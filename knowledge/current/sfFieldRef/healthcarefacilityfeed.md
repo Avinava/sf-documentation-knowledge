@@ -5,12 +5,10 @@ topic: healthcarefacilityfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.005Z
+lastCollected: 2026-04-07T18:39:43.624Z
 estimatedTokens: 362
-keywords: [HealthcareFacilityFeed, Feed, tracking, HealthcareFacility]
+keywords: [HealthcareFacilityFeed, HealthcareFacility]
 ---
-
-# HealthcareFacilityFeed
 
 > Feed tracking for HealthcareFacility.
 

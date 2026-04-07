@@ -5,12 +5,10 @@ topic: enablepopout-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.045Z
+lastCollected: 2026-04-07T18:36:50.243Z
 estimatedTokens: 268
-keywords: [enablePopout, Lightning, Experience, Toggles, pop-out, mode, utility, Enabling, displays, separate, child, window, Web, Components, LWC]
+keywords: [Arguments, enablePopout, Lightning, Experience, Toggles, pop-out, mode, utility, Enabling, displays, separate, child, window, Web, LWC, Sample, Code]
 ---
-
-# enablePopout() for Lightning Experience
 
 > Toggles pop-out mode on a utility. Enabling pop-out mode on a utility displays the
   utility in a separate child window. This method is available for Lightning Web Components (LWC)

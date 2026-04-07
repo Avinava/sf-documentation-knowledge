@@ -5,13 +5,11 @@ topic: connection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:14.550Z
+lastCollected: 2026-04-07T18:35:59.833Z
 estimatedTokens: 1840
 namespace: DataSource
-keywords: [Connection, Extend, enable, Salesforce, org, sync, external, system’s, schema, handle, queries, searches, write, operations, upsert]
+keywords: [Connection, Extend, enable, Salesforce, org, sync, external, system’s, schema, handle, queries, searches, write, operations, upsert, extends, DataSourceUtil, inherits, deleteRows, deleteContext, query, queryContext, search, searchContext, upsertRows, upsertContext]
 ---
-
-# Connection Class
 
 > Extend this class to enable your Salesforce org to sync the
             external system’s schema and to handle queries, searches, and write operations (upsert

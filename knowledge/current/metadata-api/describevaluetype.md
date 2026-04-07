@@ -5,13 +5,11 @@ topic: describevaluetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:39.393Z
+lastCollected: 2026-04-07T18:36:24.803Z
 estimatedTokens: 541
 namespace: DescribeValueTypeResult
-keywords: [describeValueType, Retrieves, metadata, describing, Arguments, Permissions, Sample, Code—Java]
+keywords: [Arguments, Permissions, describeValueType, Retrieves, metadata, describing, Sample, Code—Java]
 ---
-
-# describeValueType()
 
 > Retrieves the metadata describing a given metadata type (value type).
 

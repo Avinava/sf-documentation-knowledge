@@ -5,12 +5,10 @@ topic: connectapiarticleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:21.872Z
+lastCollected: 2026-04-07T18:36:07.212Z
 estimatedTokens: 160
 keywords: [ConnectApi.ArticleItem, Article, item, question, answers, suggestions]
 ---
-
-# ConnectApi.ArticleItem
 
 > Article item in question and answers
 suggestions.

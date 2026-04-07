@@ -5,12 +5,10 @@ topic: commerce-webstore-account-addresses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.182Z
+lastCollected: 2026-04-07T18:37:12.016Z
 estimatedTokens: 974
 keywords: [Commerce, Webstore, Account, Addresses, address, retrieve, collection]
 ---
-
-# Commerce Webstore Account Addresses
 
 > Create a Commerce account address for a webstore, or retrieve a collection of
       addresses for a webstore account.

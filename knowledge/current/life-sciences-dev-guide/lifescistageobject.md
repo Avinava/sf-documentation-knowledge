@@ -5,12 +5,10 @@ topic: lifescistageobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.023Z
+lastCollected: 2026-04-07T18:38:00.811Z
 estimatedTokens: 675
-keywords: [LifeSciStageObject, associated, workflow, API, version, 65.0, later, Calls, Objects]
+keywords: [LifeSciStageObject, workflow, API, 65.0]
 ---
-
-# LifeSciStageObject
 
 > Represents an object associated with a workflow. This object is
       available in API version 65.0 and later.

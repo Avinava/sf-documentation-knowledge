@@ -6,13 +6,10 @@ topic: using-component-to-reference-components-from-javascript-to-reference-comp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.578Z
+lastCollected: 2026-04-07T18:38:48.525Z
 estimatedTokens: 532
-keywords: [$Component, Components, JavaScript, variable, simplify, referencing, DOM, generated, Visualforce, component, reduce, dependency, overall, structure, Access]
+keywords: [$Component, JavaScript, variable, simplify, referencing, DOM, generated, Visualforce, reduce, dependency, overall, structure]
 ---
-
-# Using  $Component to Reference Components from JavaScript to
-            Reference Components from JavaScript
 
 > Use the $Component global variable to simplify
 referencing the DOM ID that is generated for a Visualforce component, and reduce some of the dependency on the overall page

@@ -5,12 +5,10 @@ topic: xmd-dimension-salesforce-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.647Z
+lastCollected: 2026-04-07T18:36:58.205Z
 estimatedTokens: 109
 keywords: [Xmd, Dimension, Salesforce, Action, extended, metadata, Saleforce, Analytics, dataset]
 ---
-
-# Xmd Dimension Salesforce Action
 
 > The extended metadata (Xmd) for a Saleforce Action for a dimension in an Analytics
   dataset.

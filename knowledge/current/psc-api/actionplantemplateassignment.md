@@ -5,12 +5,10 @@ topic: actionplantemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.456Z
+lastCollected: 2026-04-07T18:39:05.454Z
 estimatedTokens: 940
-keywords: [ActionPlanTemplateAssignment, junction, action, plant, template's, version, target, associated, API, 56.0, later, Calls, Objects]
+keywords: [ActionPlanTemplateAssignment, junction, action, plant, template's, target, API, 56.0]
 ---
-
-# ActionPlanTemplateAssignment
 
 > Represents a junction between an action plant template's version and
          the target object associated with them. This object is available in API version 56.0

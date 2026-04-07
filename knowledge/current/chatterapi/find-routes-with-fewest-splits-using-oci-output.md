@@ -5,12 +5,10 @@ topic: find-routes-with-fewest-splits-using-oci-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.254Z
+lastCollected: 2026-04-07T18:37:19.407Z
 estimatedTokens: 149
-keywords: [Routes, Fewest, Splits, OCI, Output, order, fulfillment, inventory, availability]
+keywords: [Routes, Fewest, Splits, OCI, order, fulfillment, inventory, availability]
 ---
-
-# Find Routes With Fewest Splits Using OCI Output
 
 > A list of order fulfillment routes with inventory availability
       information.

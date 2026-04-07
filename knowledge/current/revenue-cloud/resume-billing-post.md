@@ -5,12 +5,10 @@ topic: resume-billing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.911Z
+lastCollected: 2026-04-07T18:35:44.931Z
 estimatedTokens: 217
 keywords: [Resume, Billing, POST, schedule, groups, account, that’s, currently, hold]
 ---
-
-# Resume Billing (POST)
 
 > Resume billing for billing schedule groups or an account that’s
       currently on hold.

@@ -5,12 +5,10 @@ topic: embeddedservicelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.452Z
+lastCollected: 2026-04-07T18:38:30.276Z
 estimatedTokens: 236
-keywords: [EmbeddedServiceLabel, customized, label, Embedded, Chat, Appointment, Management.This, API, version, 44.0, later, SOAP, Calls, REST, HTTP]
+keywords: [EmbeddedServiceLabel, customized, label, Embedded, Chat, Appointment, Management.This, API, 44.0, SOAP, REST, HTTP]
 ---
-
-# EmbeddedServiceLabel
 
 > Represents a customized label in Embedded Chat or embedded
          Appointment Management.This object is available in API version 44.0 and

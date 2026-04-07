@@ -5,12 +5,10 @@ topic: attributevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.296Z
+lastCollected: 2026-04-07T18:37:40.270Z
 estimatedTokens: 84
 keywords: [attributeValue, attribute, definition, needs, considered, pricing, Picklist, unique, identifier]
 ---
-
-# attributeValue
 
 > Represents the value of the attribute definition that needs to be considered for pricing, if the attribute is of type Picklist then the attribute value should be a unique identifier of the Attribute Picklist Value.
 

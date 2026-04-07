@@ -5,13 +5,11 @@ topic: lightning-model-types-config-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.993Z
+lastCollected: 2026-04-07T18:37:08.810Z
 estimatedTokens: 284
 namespace: FlightBookingAgent
-keywords: [Lightning, Model, Config, Input, configuration]
+keywords: [Lightning, Model, Config, configuration]
 ---
-
-# Lightning Model Types Config Input
 
 > Input for lightning model types configuration.
 

@@ -5,12 +5,10 @@ topic: useresignvendoridentifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.297Z
+lastCollected: 2026-04-07T18:40:05.137Z
 estimatedTokens: 325
-keywords: [UserEsignVendorIdentifier, integrating, eSignature, users, API, version, 56.0, later]
+keywords: [UserEsignVendorIdentifier, integrating, eSignature, users, API, 56.0]
 ---
-
-# UserEsignVendorIdentifier
 
 > Used for integrating eSignature users. This object is available in API version 56.0 and later.
 

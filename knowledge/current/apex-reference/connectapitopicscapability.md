@@ -5,12 +5,10 @@ topic: connectapitopicscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:26.792Z
+lastCollected: 2026-04-07T18:36:12.073Z
 estimatedTokens: 225
-keywords: [ConnectApi.TopicsCapability, feed, element, capability, context, user, add, topics, help, users, organize, discover, conversations]
+keywords: [ConnectApi.TopicsCapability, capability, context, user, add, topics, help, users, organize, discover, conversations]
 ---
-
-# ConnectApi.TopicsCapability
 
 > If a feed element has this capability,
  the context user can add topics to it. Topics help users organize

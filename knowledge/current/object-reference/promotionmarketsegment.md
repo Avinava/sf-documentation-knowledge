@@ -5,12 +5,10 @@ topic: promotionmarketsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.628Z
+lastCollected: 2026-04-07T18:38:39.115Z
 estimatedTokens: 1017
-keywords: [PromotionMarketSegment, market, segment, B2B, Commerce, promotions, assigned, API, version, 52.0, later, Calls, Special, Access, Rules]
+keywords: [PromotionMarketSegment, market, segment, B2B, Commerce, promotions, assigned, API, 52.0]
 ---
-
-# PromotionMarketSegment
 
 > Represents a market segment within B2B Commerce that promotions can be
          assigned to. This object is available in API version 52.0 and later.

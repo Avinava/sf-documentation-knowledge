@@ -5,12 +5,10 @@ topic: story-history-query-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.673Z
+lastCollected: 2026-04-07T18:36:59.169Z
 estimatedTokens: 186
-keywords: [Story, History, Query, Resource, Runs, Einstein, Discovery, item]
+keywords: [Story, Query, Resource, Runs, Einstein, Discovery, item]
 ---
-
-# Story History Query Resource
 
 > Runs a query on an Einstein Discovery story history item.
 

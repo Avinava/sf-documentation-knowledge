@@ -5,12 +5,10 @@ topic: 346000-346999-sms-shared-short-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:19.725Z
+lastCollected: 2026-04-07T18:40:14.732Z
 estimatedTokens: 107
 keywords: [346000-346999, SMS, Shared, Short, Code]
 ---
-
-# 346000-346999 SMS Shared Short Code
 
 # 346000-346999 SMS Shared Short Code
 

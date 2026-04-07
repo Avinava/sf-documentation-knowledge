@@ -5,12 +5,10 @@ topic: configurator-product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.538Z
+lastCollected: 2026-04-07T18:35:45.548Z
 estimatedTokens: 198
-keywords: [Configurator, Product, Selling, Model, Option, Output, representation, configuration]
+keywords: [Configurator, Product, Selling, Model, Option, configuration]
 ---
-
-# Configurator Product Selling Model Option
 
 > Output representation of the product selling model option in a product
     configuration.

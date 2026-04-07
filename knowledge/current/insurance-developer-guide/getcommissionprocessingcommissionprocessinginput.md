@@ -5,12 +5,10 @@ topic: getcommissionprocessingcommissionprocessinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.364Z
+lastCollected: 2026-04-07T18:37:49.184Z
 estimatedTokens: 397
-keywords: [getCommissionProcessing, commissionProcessingInput, Process, commission, statements, asynchronous, manner, preconfigured, batch, job, API, Version, Requires, Chatter, Usage]
+keywords: [getCommissionProcessing, commissionProcessingInput, Process, commission, statements, asynchronous, manner, preconfigured, batch, job, API, Requires, Chatter]
 ---
-
-# getCommissionProcessing(commissionProcessingInput)
 
 > Process commission statements in an asynchronous manner by using the preconfigured batch
     job.

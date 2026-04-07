@@ -5,12 +5,10 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.422Z
+lastCollected: 2026-04-07T18:37:06.106Z
 estimatedTokens: 1274
-keywords: [ObjectHierarchyRelationship, organization’s, custom, mappings, eligible, rebate, mapped, Opportunity, OpportunityLineItem, Quote, QuoteLineItem, Contract, TransactionJournal, File, Suffix]
+keywords: [ObjectHierarchyRelationship, ObjectMapping, ObjectMappingField, organization’s, mappings, eligible, rebate, mapped, Opportunity, OpportunityLineItem, Quote, QuoteLineItem, Contract, TransactionJournal, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# ObjectHierarchyRelationship
 
 > Represents an organization’s custom field mappings
       between a reference object and eligible rebate types. Fields can be mapped from Opportunity,

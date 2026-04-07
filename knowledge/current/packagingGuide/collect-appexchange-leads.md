@@ -5,12 +5,10 @@ topic: collect-appexchange-leads
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.207Z
+lastCollected: 2026-04-07T18:38:46.057Z
 estimatedTokens: 662
-keywords: [Collect, AppExchange, Leads, configure, listings, deliver, Salesforce, org, Specific, customer, interactions, watching, listing’s, demo, video]
+keywords: [Collect, AppExchange, Leads, configure, listings, deliver, Salesforce, org, Specific, customer, interactions, watching, listing’s, demo, video, trigger, lead, collection]
 ---
-
-# Collect AppExchange Leads
 
 > You can configure your AppExchange listings to collect leads and deliver them to your
         Salesforce org. Specific customer interactions, such as watching your listing’s demo video,

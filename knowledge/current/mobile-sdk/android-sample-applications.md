@@ -5,12 +5,10 @@ topic: android-sample-applications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.671Z
+lastCollected: 2026-04-07T18:40:25.062Z
 estimatedTokens: 210
 keywords: [Android, Sample, Applications, Salesforce, Mobile, SDK, includes, native]
 ---
-
-# Android Sample Applications
 
 > Salesforce Mobile SDK includes the following native Android sample applications.
 

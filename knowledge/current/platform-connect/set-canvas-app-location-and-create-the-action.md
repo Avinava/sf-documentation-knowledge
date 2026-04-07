@@ -5,12 +5,10 @@ topic: set-canvas-app-location-and-create-the-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.384Z
+lastCollected: 2026-04-07T18:38:57.182Z
 estimatedTokens: 544
 keywords: [Canvas, App, Location, Action, add, publisher, bar]
 ---
-
-# Set Canvas App Location and Create the Action
 
 > To add a canvas app to the publisher or action bar, you must set the location and
     create the action when you create the canvas app.

@@ -5,12 +5,10 @@ topic: applnformappealstschgevnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:09.520Z
+lastCollected: 2026-04-07T18:37:59.073Z
 estimatedTokens: 244
-keywords: [ApplnFormAppealStsChgEvnt, Notifies, subscribers, changes, status, appeal, filed, against, Financial, Assistance, Program, API, version, 63.0, later]
+keywords: [ApplnFormAppealStsChgEvnt, Notifies, subscribers, changes, status, appeal, filed, against, Financial, Assistance, Program, API, 63.0]
 ---
-
-# ApplnFormAppealStsChgEvnt
 
 > Notifies subscribers of changes to the status of an appeal filed against a Financial
       Assistance Program. This object is available in API version 63.0 and later.

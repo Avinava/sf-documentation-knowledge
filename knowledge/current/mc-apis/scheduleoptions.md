@@ -5,12 +5,10 @@ topic: scheduleoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.853Z
+lastCollected: 2026-04-07T18:40:20.074Z
 estimatedTokens: 314
 keywords: [ScheduleOptions, options, scheduling, activities]
 ---
-
-# ScheduleOptions
 
 > The ScheduleOptions object contains options related to scheduling of activities.
 

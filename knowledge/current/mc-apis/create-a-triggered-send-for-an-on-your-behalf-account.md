@@ -5,12 +5,10 @@ topic: create-a-triggered-send-for-an-on-your-behalf-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:21.111Z
+lastCollected: 2026-04-07T18:40:16.246Z
 estimatedTokens: 701
 keywords: [Triggered, Send, On-Your-Behalf, Account, conceptual, procedural, creating, via, SOAP, API, Why, How, Sample, Code]
 ---
-
-# Create a Triggered Send for an On-Your-Behalf Account
 
 > This page contains conceptual and procedural information about creating a triggered send for an On-Your-Behalf account via the SOAP API.
 

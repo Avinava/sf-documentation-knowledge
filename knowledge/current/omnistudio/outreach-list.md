@@ -5,12 +5,10 @@ topic: outreach-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:57.665Z
+lastCollected: 2026-04-07T18:36:43.403Z
 estimatedTokens: 165
-keywords: [Outreach, Help, sales, service, agents, their, prospect, engagements, split, view, effortlessly, efficiently, cross-sell, products, collect]
+keywords: [Outreach, Help, sales, service, agents, their, prospect, engagements, split, view, effortlessly, efficiently, cross-sell, products, collect, outstanding, dues, provide, advisory, services, prospects, including, customers]
 ---
-
-# Outreach List
 
 > Help your sales or service agents get the most out of
         their prospect engagements with Outreach List in the split view. Agents can effortlessly and

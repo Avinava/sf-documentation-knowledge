@@ -5,12 +5,10 @@ topic: data-connector-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.514Z
+lastCollected: 2026-04-07T18:36:57.034Z
 estimatedTokens: 198
-keywords: [Data, Connector, Status, Analytics]
+keywords: [Connector, Status, Analytics]
 ---
-
-# Data Connector Status
 
 > The status for an Analytics data connector.
 

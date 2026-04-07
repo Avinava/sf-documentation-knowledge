@@ -5,12 +5,10 @@ topic: customize-the-auth-provider-apex-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.886Z
+lastCollected: 2026-04-07T18:40:25.257Z
 estimatedTokens: 348
 keywords: [Customize, Auth, Provider, Apex, define, filtering, logic, may, enter, Experience, Cloud, site]
 ---
-
-# Customize the Auth. Provider Apex Class
 
 > Use the Apex class for your Auth. Provider to define filtering logic that controls who
 		may enter your Experience Cloud site.

@@ -5,12 +5,10 @@ topic: get-list-view-records-with-a-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.047Z
+lastCollected: 2026-04-07T18:40:11.034Z
 estimatedTokens: 290
-keywords: [View, Records, record, data]
+keywords: [View, Records, record]
 ---
-
-# Get List View Records with a Request Body
 
 > Get record data for a list view using a request body.
 

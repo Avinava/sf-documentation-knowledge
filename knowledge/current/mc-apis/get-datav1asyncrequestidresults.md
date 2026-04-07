@@ -5,12 +5,10 @@ topic: get-datav1asyncrequestidresults
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.180Z
+lastCollected: 2026-04-07T18:40:17.334Z
 estimatedTokens: 588
-keywords: [data, async, requestId, results, Once, picked, asynchronous, framework, passed, off, appropriate, service, processing, resource, retrieve]
+keywords: [async, requestId, results, Once, picked, asynchronous, framework, passed, off, appropriate, service, processing, resource, retrieve, operation, **Overview**, Error]
 ---
-
-# GET /data/v1/async/{requestId}/results
 
 > Once the request has been picked up by the asynchronous framework and passed off to the appropriate service for processing, use this resource to retrieve the results of that service operation.
 

@@ -5,12 +5,10 @@ topic: coveragetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:49.129Z
+lastCollected: 2026-04-07T18:37:36.909Z
 estimatedTokens: 1840
-keywords: [CoverageType, coverage, liability, earthquake, collision, damage, enabled, Access, Master, org, pref, Calls, Associated, Objects]
+keywords: [CoverageType, coverage, liability, earthquake, collision, damage, enabled, Master, org, pref]
 ---
-
-# CoverageType
 
 > Represents the type of coverage, such as liability, earthquake, or
 			collision damage. You see this object only if you have enabled the Access Master List of

@@ -5,12 +5,10 @@ topic: migrate-or-import-existing-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:13.157Z
+lastCollected: 2026-04-07T18:40:08.113Z
 estimatedTokens: 1173
 keywords: [Migrate, Import, Source, Metadata, API, retrieve, code, convert, Salesforce, project]
 ---
-
-# Migrate or Import Existing Source
 
 > Use the Metadata API to retrieve the code, and then convert your source for use in a
     Salesforce DX project.

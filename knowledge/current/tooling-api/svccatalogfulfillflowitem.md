@@ -5,12 +5,10 @@ topic: svccatalogfulfillflowitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.185Z
+lastCollected: 2026-04-07T18:36:34.619Z
 estimatedTokens: 879
-keywords: [SvcCatalogFulfillFlowItem, variable, fulfillment, flow, Service, Catalog, accept, input, API, version, 53.0, 56.0, SOAP, Calls, REST]
+keywords: [SvcCatalogFulfillFlowItem, variable, fulfillment, flow, Service, Catalog, accept, API, 53.0, 56.0, SOAP, REST]
 ---
-
-# SvcCatalogFulfillFlowItem
 
 > Represents a variable in a fulfillment flow for Service Catalog that can
          accept input. This object is available in API version 53.0 through 56.0.

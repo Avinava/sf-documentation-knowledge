@@ -6,13 +6,10 @@ topic: considerations-for-the-environment-hub-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:54.782Z
+lastCollected: 2026-04-07T18:38:46.712Z
 estimatedTokens: 180
 keywords: [Considerations, Environment, Hub, Lightning, Experience, aware, creating, managing, orgs]
 ---
-
-# Considerations for the Environment Hub in Lightning
-  Experience
 
 > Be aware of these considerations when creating and managing orgs in the Environment
   Hub.

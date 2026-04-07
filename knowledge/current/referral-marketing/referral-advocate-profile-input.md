@@ -5,12 +5,10 @@ topic: referral-advocate-profile-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.082Z
+lastCollected: 2026-04-07T18:39:09.407Z
 estimatedTokens: 417
-keywords: [Referral, Advocate, Profile, Input, representation, API]
+keywords: [Referral, Advocate, Profile, API]
 ---
-
-# Referral Advocate Profile Input
 
 > Input representation for the Referral Advocate Profile API.
 

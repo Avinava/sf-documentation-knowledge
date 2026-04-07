@@ -5,12 +5,10 @@ topic: test-harness-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:24.622Z
+lastCollected: 2026-04-07T18:38:15.107Z
 estimatedTokens: 590
 keywords: [Test, Harness, major, features, app]
 ---
-
-# Test Harness Overview
 
 > Learn the major features and where to find them in the Test Harness app.
 

@@ -5,12 +5,10 @@ topic: connectapicomplianceprocedureevaluationinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.214Z
+lastCollected: 2026-04-07T18:36:35.716Z
 estimatedTokens: 161
-keywords: [Input, representation, evaluating, compliance, procedure]
+keywords: [evaluating, compliance, procedure]
 ---
-
-# ConnectApi.ComplianceProcedureEvaluationInfo
 
 > Input representation for evaluating a compliance procedure.
 

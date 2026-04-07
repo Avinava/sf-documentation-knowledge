@@ -5,12 +5,10 @@ topic: finservfinancialaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.403Z
+lastCollected: 2026-04-07T18:37:37.180Z
 estimatedTokens: 4634
-keywords: [FinServ_FinancialAccount__c, financial, account, investment, bank, insurance, policy, FinServ, _FinancialAccount, Calls]
+keywords: [FinServ_FinancialAccount__c, financial, account, investment, bank, insurance, policy, FinServ, _FinancialAccount]
 ---
-
-# FinServ_FinancialAccount__c
 
 > Represents a financial account such as an investment account, bank
    account, or insurance policy.

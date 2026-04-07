@@ -5,12 +5,10 @@ topic: auto-install-request-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.016Z
+lastCollected: 2026-04-07T18:36:55.451Z
 estimatedTokens: 372
 keywords: [Auto-Install, Resources, requests, Analytics, embedded, apps, run-time, implementations, templates, instead, user, interaction, they’re, managed, via]
 ---
-
-# Auto-Install Request Resources
 
 > Auto-Install requests are used to create, update, and delete Analytics embedded apps.
   Analytics embedded apps are run-time implementations of Analytics templates and instead of

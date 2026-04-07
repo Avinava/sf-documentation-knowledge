@@ -5,12 +5,10 @@ topic: subscriberresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.295Z
+lastCollected: 2026-04-07T18:40:20.533Z
 estimatedTokens: 152
 keywords: [SubscriberResult, failure, send, specific, subscriber]
 ---
-
-# SubscriberResult
 
 > The SubscriberResult object contains information on failure of the send for a specific subscriber.
 

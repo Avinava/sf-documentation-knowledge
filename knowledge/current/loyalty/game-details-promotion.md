@@ -5,12 +5,10 @@ topic: game-details-promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.919Z
+lastCollected: 2026-04-07T18:38:08.177Z
 estimatedTokens: 167
 keywords: [Game, Promotion, that's, assigned, customer]
 ---
-
-# Game Details (Promotion)
 
 > The details of the game that's assigned to the customer.
 

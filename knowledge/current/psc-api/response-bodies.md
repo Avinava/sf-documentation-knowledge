@@ -5,12 +5,10 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.079Z
+lastCollected: 2026-04-07T18:39:03.308Z
 estimatedTokens: 745
-keywords: [Bodies, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure]
+keywords: [Bodies, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure, Matrix, Mapper, Integration, Sector, Solutions, Record, Alerts, Service, Process, Studio, review, retrieved]
 ---
-
-# Response Bodies
 
 > Here’s a list of Public Sector Solutions API response bodies.
 

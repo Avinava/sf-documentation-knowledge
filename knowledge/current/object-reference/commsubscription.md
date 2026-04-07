@@ -5,12 +5,10 @@ topic: commsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.163Z
+lastCollected: 2026-04-07T18:38:28.085Z
 estimatedTokens: 984
-keywords: [CommSubscription, subscription, options, specific, communication, API, version, 48.0, later, Calls, Associated, Objects]
+keywords: [CommSubscription, subscription, options, specific, communication, API, 48.0]
 ---
-
-# CommSubscription
 
 > Represents the subscription options for a specific communication. This
     object is available in API version 48.0 and later.

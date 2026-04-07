@@ -5,12 +5,10 @@ topic: industries-object-access-by-community-license
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:55.835Z
+lastCollected: 2026-04-07T18:36:41.581Z
 estimatedTokens: 8107
-keywords: [Industries, Access, Community, License, determines, baseline, Experience, Cloud, user, levels, grant, site, users, clouds, under]
+keywords: [Industries, Community, License, determines, baseline, Experience, Cloud, user, levels, grant, site, users, clouds, under, licenses, Customer, Plus, Partner, External, Apps]
 ---
-
-# Industries Object Access by Community License
 
 > A community license determines the baseline set of object access available to an
         Experience Cloud user. This page lists the levels of object access you can grant to

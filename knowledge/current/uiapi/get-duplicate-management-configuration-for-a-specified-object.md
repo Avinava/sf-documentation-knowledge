@@ -5,12 +5,10 @@ topic: get-duplicate-management-configuration-for-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.952Z
+lastCollected: 2026-04-07T18:40:10.928Z
 estimatedTokens: 560
-keywords: [Duplicate, Management, Configuration, whether, configured, object's, rules, matching, know, check, records]
+keywords: [Duplicate, Management, Configuration, whether, configured, object's, matching, know, check, records]
 ---
-
-# Get Duplicate Management Configuration for a Specified Object
 
 > Learn whether duplicate management is configured for the specified
       object. If duplicate management is configured, learn about the object's duplicate rules and

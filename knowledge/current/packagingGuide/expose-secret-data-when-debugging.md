@@ -5,12 +5,10 @@ topic: expose-secret-data-when-debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.474Z
+lastCollected: 2026-04-07T18:38:47.429Z
 estimatedTokens: 181
-keywords: [Expose, Secret, Data, Debugging, production, environments, logging, debug, statements, security, vulnerability, Don’t, log, sensitive, passwords]
+keywords: [Expose, Secret, Debugging, production, environments, logging, debug, statements, security, vulnerability, Don’t, log, sensitive, passwords, keys, stack, traces, Redact, omit, logs, Apex]
 ---
-
-# Expose Secret Data When Debugging
 
 > In production environments, logging secret data with debug statements is a security
     vulnerability. Don’t log secret data, sensitive information, passwords, keys, or stack traces in

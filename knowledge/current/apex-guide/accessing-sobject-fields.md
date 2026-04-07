@@ -5,12 +5,10 @@ topic: accessing-sobject-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.064Z
+lastCollected: 2026-04-07T18:36:19.288Z
 estimatedTokens: 745
 keywords: [Accessing, SObject, Java, accessed, changed, simple, dot, notation]
 ---
-
-# Accessing SObject Fields
 
 > As in Java, SObject fields can be accessed or changed with simple dot notation. For
       example:

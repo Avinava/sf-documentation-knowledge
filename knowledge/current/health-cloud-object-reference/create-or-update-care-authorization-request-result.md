@@ -5,12 +5,10 @@ topic: create-or-update-care-authorization-request-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.453Z
+lastCollected: 2026-04-07T18:37:41.552Z
 estimatedTokens: 189
 keywords: [Care, Authorization, Result, services, review]
 ---
-
-# Create or Update Care Authorization Request Result
 
 > Response to create or update care services review
     request.

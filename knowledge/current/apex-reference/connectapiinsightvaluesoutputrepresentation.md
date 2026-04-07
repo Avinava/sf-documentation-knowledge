@@ -5,12 +5,10 @@ topic: connectapiinsightvaluesoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.193Z
+lastCollected: 2026-04-07T18:36:09.583Z
 estimatedTokens: 154
 keywords: [Insight, business, objective, goal]
 ---
-
-# ConnectApi.InsightValuesOutputRepresentation
 
 > Insight value details for a business objective, or goal.
 

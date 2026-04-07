@@ -5,12 +5,10 @@ topic: error-bad-cpu-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:14.362Z
+lastCollected: 2026-04-07T18:40:09.302Z
 estimatedTokens: 128
 keywords: [Error, Bad, CPU, executable, try, install, Salesforce, CLI, macOS]
 ---
-
-# Error: Bad CPU Type
 
 > You get the error Bad CPU type in executable when you try to install Salesforce CLI on macOS.
 

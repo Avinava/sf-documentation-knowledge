@@ -5,12 +5,10 @@ topic: capacity-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.759Z
+lastCollected: 2026-04-07T18:37:07.474Z
 estimatedTokens: 139
-keywords: [Capacity, Input, location’s, fulfillment, order]
+keywords: [Capacity, location’s, fulfillment, order]
 ---
-
-# Capacity Request Input
 
 > Request related to a location’s fulfillment order
     capacity.

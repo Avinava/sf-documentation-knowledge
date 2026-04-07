@@ -5,12 +5,10 @@ topic: create-an-amazon-s3-data-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.296Z
+lastCollected: 2026-04-07T18:35:51.149Z
 estimatedTokens: 821
-keywords: [Amazon, Data, Stream, programmatically, source, ingest, Cloud, lake]
+keywords: [Amazon, Stream, programmatically, source, ingest, Cloud, lake]
 ---
-
-# Create an Amazon S3 Data Stream
 
 > Create a data stream to programmatically stream data from an Amazon S3 data source. With
     the data stream you can ingest data into your Data Cloud data lake.

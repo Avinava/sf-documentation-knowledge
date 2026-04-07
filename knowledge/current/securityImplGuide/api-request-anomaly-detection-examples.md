@@ -5,12 +5,10 @@ topic: api-request-anomaly-detection-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.717Z
+lastCollected: 2026-04-07T18:39:22.607Z
 estimatedTokens: 439
 keywords: [API, Anomaly, Detection, Examples, several, illustrate, how, investigate, anomalous, events, thoroughly]
 ---
-
-# API Request Anomaly Detection Examples
 
 > Here are several examples that illustrate how you can investigate anomalous API request
     events thoroughly.

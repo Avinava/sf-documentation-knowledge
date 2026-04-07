@@ -5,13 +5,11 @@ topic: financial-services-cloud-custom-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:47.709Z
+lastCollected: 2026-04-07T18:37:35.342Z
 estimatedTokens: 153
 namespace: FinServ
-keywords: [Financial, Services, Cloud, Custom, Metadata, help, deliver, additional, features]
+keywords: [Financial, Services, Cloud, Metadata, help, deliver, additional, features]
 ---
-
-# Financial Services Cloud Custom Metadata Types
 
 > Use custom metadata types and fields that help deliver additional features for
     Financial Services Cloud.

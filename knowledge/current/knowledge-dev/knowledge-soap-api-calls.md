@@ -5,12 +5,10 @@ topic: knowledge-soap-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:04.704Z
+lastCollected: 2026-04-07T18:37:53.998Z
 estimatedTokens: 224
-keywords: [Knowledge, SOAP, API, Calls, working, Salesforce]
+keywords: [Knowledge, SOAP, API, working, Salesforce]
 ---
-
-# Knowledge SOAP API Calls
 
 > SOAP API calls for working with Salesforce Knowledge.
 

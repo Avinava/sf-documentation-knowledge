@@ -5,12 +5,10 @@ topic: api-anomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.693Z
+lastCollected: 2026-04-07T18:39:22.584Z
 estimatedTokens: 555
-keywords: [API, Anomaly, any, user, activity, sufficiently, different, historical, metadata, Salesforce, Core, application, logs, generation, surrounding]
+keywords: [API, Anomaly, any, user, activity, sufficiently, different, historical, metadata, Salesforce, Core, application, logs, generation, surrounding, activities, build, baseline, model, compare, new, against, determine, don't, look, actual, interacts, with—, how]
 ---
-
-# API Anomaly
 
 > An anomaly is any user activity that is sufficiently different from the
   historical activity of the same user. We use the metadata in Salesforce Core application logs

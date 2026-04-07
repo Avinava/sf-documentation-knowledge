@@ -5,12 +5,10 @@ topic: dataset-versions-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.662Z
+lastCollected: 2026-04-07T18:36:56.187Z
 estimatedTokens: 621
-keywords: [Dataset, Versions, Resource, particular, creates, version, URL, Formats, Postman, Components, HTTP, POST]
+keywords: [Formats, Dataset, Versions, Resource, particular, creates, URL, Postman, HTTP, POST]
 ---
-
-# Dataset Versions List Resource
 
 > Returns a list of dataset versions for a particular dataset or creates a
     version.

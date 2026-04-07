@@ -5,12 +5,10 @@ topic: setservicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.647Z
+lastCollected: 2026-04-07T18:36:50.914Z
 estimatedTokens: 367
-keywords: [setServicePresenceStatus, agent's, presence, status, particular, API, version, 35.0, later, log, user, already, logged, don’t, additional]
+keywords: [Arguments, setServicePresenceStatus, agent's, presence, status, particular, API, 35.0, log, user, already, logged, don’t, additional, reconnect, Omni-Channel, connection, error, Sample, Code–Visualforce]
 ---
-
-# setServicePresenceStatus
 
 > Sets an agent's presence status to a status with a particular ID. In API version 35.0
         and later, we log the user into presence if that user is not already logged in, so you don’t

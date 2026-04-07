@@ -5,13 +5,11 @@ topic: taxaddressesrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.916Z
+lastCollected: 2026-04-07T18:35:40.779Z
 estimatedTokens: 2157
 namespace: CommerceTax
 keywords: [TaxAddressesRequest, tax, address, shipFrom, shipTo, soldTo, billTo, taxEngineAddress, equals, obj, hashCode, toString]
 ---
-
-# TaxAddressesRequest Class
 
 > Contains methods to get and set tax address values.
 

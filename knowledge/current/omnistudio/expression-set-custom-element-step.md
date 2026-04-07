@@ -5,12 +5,10 @@ topic: expression-set-custom-element-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:53.898Z
+lastCollected: 2026-04-07T18:36:39.588Z
 estimatedTokens: 87
-keywords: [Expression, Custom, Element, Step, Output, representation]
+keywords: [Expression, Step]
 ---
-
-# Expression Set Custom Element Step
 
 > Output representation of a custom element step in an expression
       set.

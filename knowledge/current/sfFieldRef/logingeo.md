@@ -5,12 +5,10 @@ topic: logingeo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.684Z
+lastCollected: 2026-04-07T18:39:47.157Z
 estimatedTokens: 384
-keywords: [LoginGeo, geographic, location, user’s, address, login, event, Due, nature, geolocation, technology, accuracy, country, city, postal]
+keywords: [LoginGeo, geographic, location, user’s, address, login, event, Due, nature, geolocation, technology, accuracy, country, city, postal, code, may, vary, API, 34.0]
 ---
-
-# LoginGeo
 
 > Represents the geographic location of the user’s IP address for a
          login event. Due to the nature of geolocation technology, the accuracy of geolocation

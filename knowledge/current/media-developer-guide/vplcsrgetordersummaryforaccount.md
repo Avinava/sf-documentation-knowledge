@@ -5,12 +5,10 @@ topic: vplcsrgetordersummaryforaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.302Z
+lastCollected: 2026-04-07T18:38:11.628Z
 estimatedTokens: 94
-keywords: [VPL_CSRGetOrderSummaryForAccount, Integration, Procedure, fetches, order, agent, console, VPL, _CSRGetOrderSummaryForAccount, Sample, Input, Output, Calls]
+keywords: [VPL_CSRGetOrderSummaryForAccount, Integration, Procedure, fetches, order, agent, console, VPL, _CSRGetOrderSummaryForAccount, Sample]
 ---
-
-# VPL_CSRGetOrderSummaryForAccount
 
 > This Integration Procedure fetches the details of an order
     from the agent console.

@@ -5,12 +5,10 @@ topic: groupcensushistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.527Z
+lastCollected: 2026-04-07T18:39:43.090Z
 estimatedTokens: 258
-keywords: [GroupCensusHistory, History, tracked, GroupCensus]
+keywords: [GroupCensusHistory, tracked, GroupCensus]
 ---
-
-# GroupCensusHistory
 
 > History for tracked fields of GroupCensus.
 

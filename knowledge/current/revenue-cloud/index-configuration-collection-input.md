@@ -5,12 +5,10 @@ topic: index-configuration-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.420Z
+lastCollected: 2026-04-07T18:35:43.314Z
 estimatedTokens: 146
-keywords: [Index, Configuration, Collection, Input, representation, configurations]
+keywords: [Index, Configuration, Collection, configurations]
 ---
-
-# Index Configuration Collection Input
 
 > Input representation of the collection of index configurations.
 

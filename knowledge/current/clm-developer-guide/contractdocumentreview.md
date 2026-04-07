@@ -5,12 +5,10 @@ topic: contractdocumentreview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.525Z
+lastCollected: 2026-04-07T18:37:25.446Z
 estimatedTokens: 560
-keywords: [ContractDocumentReview, review, process-related, status, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [ContractDocumentReview, review, process-related, status, API, 58.0]
 ---
-
-# ContractDocumentReview
 
 > Represents the review process-related details, such as the reference object
          type and review status.  This object is available in API version 58.0 and later.

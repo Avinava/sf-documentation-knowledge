@@ -5,12 +5,10 @@ topic: topic-endorsement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.733Z
+lastCollected: 2026-04-07T18:37:10.427Z
 estimatedTokens: 85
-keywords: [Topic, Endorsement, Input, Endorse, user, who’s, knowledgeable]
+keywords: [Topic, Endorsement, Endorse, user, who’s, knowledgeable]
 ---
-
-# Topic Endorsement Input
 
 > Endorse a user who’s knowledgeable about a topic.
 

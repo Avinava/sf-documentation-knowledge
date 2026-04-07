@@ -5,12 +5,10 @@ topic: medicationadministrationdtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.830Z
+lastCollected: 2026-04-07T18:39:48.276Z
 estimatedTokens: 322
-keywords: [MedicationAdministrationDtl, instance, medication, administered, patient, API, version, 64.0, later]
+keywords: [MedicationAdministrationDtl, instance, medication, administered, patient, API, 64.0]
 ---
-
-# MedicationAdministrationDtl
 
 > Represents the details of an instance of medication administered to a
          patient. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: post-messagingv1domainverificationpush
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.573Z
+lastCollected: 2026-04-07T18:40:16.717Z
 estimatedTokens: 274
-keywords: [POST, messaging, domainverification, push, Pushes, registered, domains, child, business, units, account, EID, **Overview**, Usage, Marketing]
+keywords: [POST, messaging, domainverification, push, Pushes, registered, domains, child, business, units, account, EID, **Overview**, Marketing, Cloud, Permissions, Scope]
 ---
-
-# POST /messaging/v1/domainverification/push
 
 > Pushes one or more registered domains to all existing child business units of your account (EID).
 

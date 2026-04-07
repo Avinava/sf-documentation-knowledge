@@ -5,12 +5,10 @@ topic: handlemessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.474Z
+lastCollected: 2026-04-07T18:39:23.409Z
 estimatedTokens: 53
-keywords: [handleMessage, Handle, message, Lightning, Component]
+keywords: [handleMessage, Handle, message, Lightning]
 ---
-
-# handleMessage
 
 > Handle a message from a Lightning Component.
 

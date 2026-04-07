@@ -5,12 +5,10 @@ topic: product-catalog-management-fields-on-attribute-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.722Z
+lastCollected: 2026-04-07T18:35:47.750Z
 estimatedTokens: 184
-keywords: [Product, Catalog, Management, Attribute, Definition, Standard, custom, extend]
+keywords: [Product, Catalog, Management, Attribute, Definition, Standard, extend]
 ---
-
-# Product Catalog Management Fields on Attribute Definition
 
 > Standard and custom fields extend the standard Attribute Definition
          object for use in Product Catalog Management.

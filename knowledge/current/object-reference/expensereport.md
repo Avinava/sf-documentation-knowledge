@@ -5,12 +5,10 @@ topic: expensereport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.986Z
+lastCollected: 2026-04-07T18:38:31.918Z
 estimatedTokens: 724
-keywords: [ExpenseReport, report, summarizes, expenses, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [ExpenseReport, report, summarizes, expenses, API, 50.0]
 ---
-
-# ExpenseReport
 
 > Represents a report that summarizes expenses. This object is available in
     API version 50.0 and later.

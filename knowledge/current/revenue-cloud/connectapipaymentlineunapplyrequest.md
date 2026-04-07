@@ -5,12 +5,10 @@ topic: connectapipaymentlineunapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.611Z
+lastCollected: 2026-04-07T18:35:41.495Z
 estimatedTokens: 132
-keywords: [ConnectApi.PaymentLineUnapplyRequest, Input, representation, payment, line, covers, specify, revert, application]
+keywords: [ConnectApi.PaymentLineUnapplyRequest, payment, line, covers, specify, revert, application]
 ---
-
-# ConnectApi.PaymentLineUnapplyRequest
 
 > Input representation of the payment line details. This representation covers fields that
     you can specify to revert a payment line application.

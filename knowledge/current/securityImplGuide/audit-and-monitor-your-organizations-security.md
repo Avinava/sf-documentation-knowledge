@@ -5,12 +5,10 @@ topic: audit-and-monitor-your-organizations-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.984Z
+lastCollected: 2026-04-07T18:39:22.906Z
 estimatedTokens: 416
-keywords: [Audit, Monitor, Organization’s, Security, Track, login, history, setup, changes, address, auditing, data, retention, compliance, obligations]
+keywords: [Audit, Monitor, Organization’s, Security, Track, login, setup, changes, address, auditing, retention, compliance, obligations]
 ---
-
-# Audit and Monitor Your Organization’s Security
 
 > Track login and field history, monitor setup
                   changes, and address your auditing and data retention compliance

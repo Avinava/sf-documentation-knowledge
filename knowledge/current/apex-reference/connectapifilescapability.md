@@ -5,12 +5,10 @@ topic: connectapifilescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:24.904Z
+lastCollected: 2026-04-07T18:36:10.207Z
 estimatedTokens: 174
-keywords: [ConnectApi.FilesCapability, feed, element, capability, file, attachments]
+keywords: [ConnectApi.FilesCapability, capability, file, attachments]
 ---
-
-# ConnectApi.FilesCapability
 
 > If a feed element has this capability, it has one or more file
       attachments.

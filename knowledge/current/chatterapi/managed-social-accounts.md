@@ -5,12 +5,10 @@ topic: managed-social-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.476Z
+lastCollected: 2026-04-07T18:37:14.448Z
 estimatedTokens: 204
 keywords: [Managed, Social, Accounts, org, assigned, user]
 ---
-
-# Managed Social Accounts
 
 > Get a list of managed social accounts that are in the org and assigned
       to the user.

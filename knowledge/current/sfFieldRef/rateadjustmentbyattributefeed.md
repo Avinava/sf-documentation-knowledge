@@ -5,12 +5,10 @@ topic: rateadjustmentbyattributefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.625Z
+lastCollected: 2026-04-07T18:39:58.285Z
 estimatedTokens: 393
-keywords: [RateAdjustmentByAttributeFeed, Feed, tracking, RateAdjustmentByAttribute]
+keywords: [RateAdjustmentByAttributeFeed, RateAdjustmentByAttribute]
 ---
-
-# RateAdjustmentByAttributeFeed
 
 > Feed tracking for RateAdjustmentByAttribute.
 

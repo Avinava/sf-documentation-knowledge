@@ -5,12 +5,10 @@ topic: classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.487Z
+lastCollected: 2026-04-07T18:36:16.703Z
 estimatedTokens: 874
-keywords: [Classes, Java, Apex, template, blueprint, objects, created, instance]
+keywords: [Classes, Java, Apex, template, blueprint, created, instance]
 ---
-
-# Classes
 
 > As in Java, you can create classes in Apex. A
         class is a template or blueprint from which objects are created. An

@@ -5,12 +5,10 @@ topic: security-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:04.377Z
+lastCollected: 2026-04-07T18:37:53.662Z
 estimatedTokens: 1266
-keywords: [Security, Considerations, effective, members, enterprise, portfolio, applications, created, integrated, relevant, mechanisms, Modern, strategies, employ, combination]
+keywords: [Encryption, Security, Considerations, effective, members, enterprise, portfolio, applications, created, integrated, relevant, mechanisms, Modern, strategies, employ, combination, on-premises, cloud-based, services, Reverse, Proxy, Server, Specialized, WS-, Protocol, Support]
 ---
-
-# Security Considerations
 
 > To be effective members of the enterprise portfolio, all applications must be created
         and integrated with relevant security mechanisms. Modern IT strategies employ a combination

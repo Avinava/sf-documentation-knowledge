@@ -5,12 +5,10 @@ topic: insurance-product-clause-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:02.721Z
+lastCollected: 2026-04-07T18:37:51.788Z
 estimatedTokens: 279
 keywords: [Insurance, Product, Clause, Generation, POST, Generate, clauses, quote, context]
 ---
-
-# Insurance Product Clause Generation (POST)
 
 > Generate product clauses based on quote and context
   information.

@@ -5,12 +5,10 @@ topic: favorite-batch-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.711Z
+lastCollected: 2026-04-07T18:40:10.688Z
 estimatedTokens: 163
-keywords: [Favorite, Batch, Collection, Input, favorites, Pass]
+keywords: [Favorite, Batch, Collection, favorites, Pass]
 ---
-
-# Favorite Batch Collection Input
 
 > A collection of all the favorites in a batch. Pass this request body
       to update a batch of favorites.

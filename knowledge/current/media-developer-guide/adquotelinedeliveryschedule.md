@@ -5,12 +5,10 @@ topic: adquotelinedeliveryschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.984Z
+lastCollected: 2026-04-07T18:38:12.274Z
 estimatedTokens: 689
-keywords: [AdQuoteLineDeliverySchedule, time, period, days, quote, line, served, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [AdQuoteLineDeliverySchedule, time, period, days, quote, line, served, API, 64.0]
 ---
-
-# AdQuoteLineDeliverySchedule
 
 > Represents information about the time period and the days on which
          the ad quote line must be served. This object is available in API version 64.0 and

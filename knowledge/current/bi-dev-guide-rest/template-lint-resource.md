@@ -5,12 +5,10 @@ topic: template-lint-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.918Z
+lastCollected: 2026-04-07T18:36:56.471Z
 estimatedTokens: 166
-keywords: [Template, Lint, Resource, deletes, creates, Analytics, URL, Formats, Version, HTTP, PUT]
+keywords: [Formats, Template, Lint, Resource, deletes, creates, Analytics, URL, HTTP, PUT]
 ---
-
-# Template Lint Resource
 
 > Returns, deletes, or creates the lint value for an Analytics
    template.

@@ -5,12 +5,10 @@ topic: connectapiexternalauthidentityprovidercredentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:23.647Z
+lastCollected: 2026-04-07T18:36:09.051Z
 estimatedTokens: 305
 keywords: [external, auth, identity, provider's, credentials]
 ---
-
-# ConnectApi.ExternalAuthIdentityProviderCredentials
 
 > List of an external auth identity provider's credentials.
 

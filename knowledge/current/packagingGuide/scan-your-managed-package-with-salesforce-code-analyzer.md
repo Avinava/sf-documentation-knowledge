@@ -5,12 +5,10 @@ topic: scan-your-managed-package-with-salesforce-code-analyzer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.539Z
+lastCollected: 2026-04-07T18:38:47.486Z
 estimatedTokens: 821
-keywords: [Scan, Managed, Package, Salesforce, Code, Analyzer, AppExchange, partner, submitting, security, review, provide, test, results, solution’s]
+keywords: [Scan, Managed, Package, Salesforce, Code, Analyzer, AppExchange, partner, submitting, security, review, provide, test, results, solution’s, submission, addition, Source, Scanner, referred, Checkmarx]
 ---
-
-# Scan Your Managed Package with Salesforce Code Analyzer
 
 > As an AppExchange partner submitting your managed package for security review, you must
     scan it with the Salesforce Code Analyzer and provide test results in your solution’s

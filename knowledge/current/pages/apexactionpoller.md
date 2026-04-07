@@ -5,12 +5,10 @@ topic: apexactionpoller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.967Z
+lastCollected: 2026-04-07T18:38:48.913Z
 estimatedTokens: 924
-keywords: [apex, actionPoller, timer, AJAX, server, according, time, interval, specify, result, full, partial, Attributes]
+keywords: [Attributes, apex, actionPoller, timer, AJAX, server, according, time, interval, specify, result, full, partial]
 ---
-
-# apex:actionPoller
 
 > A timer that sends an AJAX request to the server according to a time interval that you
 			specify. Each request can result in a full or partial page update.

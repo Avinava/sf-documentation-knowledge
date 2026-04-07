@@ -5,12 +5,10 @@ topic: abort-export-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.295Z
+lastCollected: 2026-04-07T18:39:10.775Z
 estimatedTokens: 91
-keywords: [Abort, Export, Process, state, CSV, Aborted, running, longer, duration, expected, consumes, resources, blocks, scheduling, new, Uses, POST]
+keywords: [Abort, Export, Process, state, CSV, Aborted, running, longer, duration, expected, consumes, resources, blocks, scheduling, new, exports, code, snippet, unblocks, aborting, Uses, POST]
 ---
-
-# Abort Export Process
 
 > Uses the POST method to set the state of a CSV export process to Aborted.
 

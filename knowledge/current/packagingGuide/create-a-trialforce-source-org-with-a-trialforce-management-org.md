@@ -5,12 +5,10 @@ topic: create-a-trialforce-source-org-with-a-trialforce-management-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:55.839Z
+lastCollected: 2026-04-07T18:38:47.792Z
 estimatedTokens: 364
 keywords: [Trialforce, Source, Org, Management, TMO, TSO, install, package, there, configure, want, customers, experience]
 ---
-
-# Create a Trialforce Source Org with a Trialforce Management Org
 
 > Use a Trialforce Management Org (TMO) to create a Trialforce Source Org (TSO). After you
   create the TSO, install your package there. Then configure the TSO as you want customers to

@@ -5,12 +5,10 @@ topic: data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.229Z
+lastCollected: 2026-04-07T18:40:16.368Z
 estimatedTokens: 416
-keywords: [Data, lets, store, additional, channel, asset, channel's, parser, manipulates, properly, namespaced, custom, under, sure, pass]
+keywords: [lets, store, additional, channel, asset, channel's, parser, manipulates, properly, namespaced, under, sure, pass, API, Sample, Items]
 ---
-
-# Data
 
 > Data lets you store additional information for a channel in the asset, to be used by the channel's parser, or some UI that manipulates the asset for the channel. If using data, store properly namespaced custom fields under the channel name. If data is returned, be sure to pass it through the API.
 

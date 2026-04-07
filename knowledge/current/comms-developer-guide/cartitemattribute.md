@@ -5,12 +5,10 @@ topic: cartitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.521Z
+lastCollected: 2026-04-07T18:37:26.431Z
 estimatedTokens: 473
-keywords: [CartItemAttribute, row, item, virtual, stores, attributes, associated, cart, API, version, 66.0, later, Calls, Special, Access]
+keywords: [CartItemAttribute, row, item, virtual, stores, attributes, cart, API, 66.0]
 ---
-
-# CartItemAttribute
 
 > Each row represents an item within a virtual object, which stores the
          attributes that can be associated with a cart item. This object is available in API

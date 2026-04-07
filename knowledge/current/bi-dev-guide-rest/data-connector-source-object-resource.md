@@ -5,12 +5,10 @@ topic: data-connector-source-object-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.556Z
+lastCollected: 2026-04-07T18:36:56.055Z
 estimatedTokens: 194
-keywords: [Data, Connector, Source, Resource, Analytics, specific, category, knows, synced, datasets, URL, Formats, Version, Components, HTTP]
+keywords: [Formats, Connector, Source, Resource, Analytics, specific, category, knows, synced, datasets, URL, HTTP]
 ---
-
-# Data Connector Source Object Resource
 
 > Returns a source object resource for an Analytics connector. A
       source object represents a specific category or type of data that the Analytics connector

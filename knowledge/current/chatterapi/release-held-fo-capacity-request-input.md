@@ -5,12 +5,10 @@ topic: release-held-fo-capacity-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.293Z
+lastCollected: 2026-04-07T18:37:10.014Z
 estimatedTokens: 185
-keywords: [Release, Held, Capacity, Input, fulfillment, order, locations]
+keywords: [Release, Held, Capacity, fulfillment, order, locations]
 ---
-
-# Release Held FO Capacity Request Input
 
 > Request to release held fulfillment order capacity at one or more
       locations.

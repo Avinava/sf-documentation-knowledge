@@ -5,12 +5,10 @@ topic: constants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.144Z
+lastCollected: 2026-04-07T18:36:19.367Z
 estimatedTokens: 208
 keywords: [Constants, Apex, variables, whose, don’t, change, initialized, once, defined, final, keyword]
 ---
-
-# Constants
 
 > Apex constants are variables whose values don’t change after being initialized
         once. Constants can be defined using the final

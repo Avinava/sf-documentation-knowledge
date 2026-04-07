@@ -5,12 +5,10 @@ topic: canvas-sdk-publisher-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:04.577Z
+lastCollected: 2026-04-07T18:38:57.374Z
 estimatedTokens: 977
 keywords: [Canvas, SDK, Publisher, Events, expose, app, well-defined, enable, communication, Sequence]
 ---
-
-# Canvas SDK Publisher Events
 
 > When you expose a canvas app in the publisher, you can
 use well-defined events to enable communication between the canvas

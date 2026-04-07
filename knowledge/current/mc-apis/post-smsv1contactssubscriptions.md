@@ -5,12 +5,10 @@ topic: post-smsv1contactssubscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.711Z
+lastCollected: 2026-04-07T18:40:15.823Z
 estimatedTokens: 371
-keywords: [POST, sms, contacts, subscriptions, subscription, status, mobile, number, subscriber, key, **Overview**, Usage]
+keywords: [POST, sms, contacts, subscriptions, subscription, status, mobile, number, subscriber, key, **Overview**]
 ---
-
-# POST /sms/v1/contacts/subscriptions
 
 > Returns subscription status for a mobile number or subscriber key.
 

@@ -5,12 +5,10 @@ topic: gettactictemplates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.839Z
+lastCollected: 2026-04-07T18:39:11.372Z
 estimatedTokens: 127
-keywords: [getTacticTemplates, tactic, templates, input, promotion, template, Sample]
+keywords: [getTacticTemplates, tactic, templates, promotion, template, Sample]
 ---
-
-# getTacticTemplates
 
 > This method returns the list of tactic templates related to the
       input promotion template.

@@ -5,12 +5,10 @@ topic: personalization-experiment-named-base
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.588Z
+lastCollected: 2026-04-07T18:37:21.699Z
 estimatedTokens: 192
-keywords: [Personalization, Experiment, Named, Base, representation, objects]
+keywords: [Personalization, Experiment, Named, Base]
 ---
-
-# Personalization Experiment Named Base
 
 > The base representation for named personalization objects.
 

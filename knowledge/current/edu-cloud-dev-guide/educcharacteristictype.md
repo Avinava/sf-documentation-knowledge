@@ -5,12 +5,10 @@ topic: educcharacteristictype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.983Z
+lastCollected: 2026-04-07T18:37:31.057Z
 estimatedTokens: 987
-keywords: [EducCharacteristicType, category, educational, characteristics, major, campus, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [EducCharacteristicType, category, educational, characteristics, major, campus, API, 66.0]
 ---
-
-# EducCharacteristicType
 
 > Represents a category of educational characteristics such as major or
          campus. This object is available in API version 66.0 and later.

@@ -5,12 +5,10 @@ topic: protecting-your-intellectual-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.556Z
+lastCollected: 2026-04-07T18:38:56.089Z
 estimatedTokens: 394
-keywords: [Protecting, Intellectual, custom, objects, links, reports, installed, items, revealed, installers, they, check, malicious, content, However]
+keywords: [Protecting, Intellectual, links, reports, installed, items, revealed, installers, they, check, malicious, content, However, revealing, app’s, prevents, developers]
 ---
-
-# Protecting Your Intellectual Property
 
 > The details of your custom objects, custom links, reports, and other installed items are
   revealed to installers so that they can check for malicious content. However, revealing an app’s

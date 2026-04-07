@@ -5,12 +5,10 @@ topic: floworchestrationevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:06.192Z
+lastCollected: 2026-04-07T18:38:59.074Z
 estimatedTokens: 569
-keywords: [FlowOrchestrationEvent, Notifies, subscribers, paused, instance, orchestration, ready, resumed, API, version, 53.0, later, Calls, Event, Delivery]
+keywords: [FlowOrchestrationEvent, Notifies, subscribers, paused, instance, orchestration, ready, resumed, API, 53.0, Event, Delivery, Allocation, Enforced]
 ---
-
-# FlowOrchestrationEvent
 
 > Notifies subscribers that a paused instance of an orchestration is
          ready to be resumed. This object is available in API version 53.0 and

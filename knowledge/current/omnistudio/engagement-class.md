@@ -5,13 +5,11 @@ topic: engagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.014Z
+lastCollected: 2026-04-07T18:36:35.507Z
 estimatedTokens: 734
 namespace: DataRetrieval
 keywords: [Engagement, Stores, record, interaction, messaging, session, voice, call, customer, agent, recordId, objectApiName]
 ---
-
-# Engagement Class
 
 > Stores the object name and ID of an engagement record. An engagement record represents an
     engagement interaction, a messaging session, or a voice call between a customer and an

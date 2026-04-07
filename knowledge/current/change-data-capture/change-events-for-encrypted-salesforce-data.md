@@ -5,12 +5,10 @@ topic: change-events-for-encrypted-salesforce-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.724Z
+lastCollected: 2026-04-07T18:37:05.444Z
 estimatedTokens: 667
-keywords: [Change, Events, Encrypted, Salesforce, Data, record, Shield, Platform, Encryption, changes, generate, stored, event, bus, three]
+keywords: [Change, Events, Encrypted, Salesforce, record, Shield, Platform, Encryption, changes, generate, stored, event, bus, three, days, ensure, clear, text, tenant, secret, enable]
 ---
-
-# Change Events for Encrypted Salesforce Data
 
 > If Salesforce record fields are encrypted with Shield Platform Encryption, changes in
     encrypted field values generate change events. Change events are stored in the event bus for up

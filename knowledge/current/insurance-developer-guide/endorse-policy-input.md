@@ -5,12 +5,10 @@ topic: endorse-policy-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.907Z
+lastCollected: 2026-04-07T18:37:50.819Z
 estimatedTokens: 295
-keywords: [Endorse, Policy, Input, Representation]
+keywords: [Endorse, Policy]
 ---
-
-# Endorse Policy Input
 
 > Input Representation of endorse policy details.
 

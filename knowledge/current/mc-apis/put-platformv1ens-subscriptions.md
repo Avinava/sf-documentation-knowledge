@@ -5,12 +5,10 @@ topic: put-platformv1ens-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.679Z
+lastCollected: 2026-04-07T18:40:20.945Z
 estimatedTokens: 706
-keywords: [PUT, platform, ens-subscriptions, Updates, subscription, pause, active, status, paused, unpause, Always, supply, reason, Changes, made]
+keywords: [PUT, platform, ens-subscriptions, Updates, subscription, pause, active, status, paused, unpause, Always, supply, reason, Changes, made, subscripti, **Overview**, HTTP, Responses]
 ---
-
-# PUT /platform/v1/ens-subscriptions
 
 > Updates a single subscription. To pause an active subscription, set the status request parameter to paused. To unpause a paused subscription, set the status request parameter to active. Always supply a status reason in the request when you update the subscription status. Changes made to a subscripti
 

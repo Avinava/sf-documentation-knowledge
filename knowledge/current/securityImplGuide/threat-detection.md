@@ -5,12 +5,10 @@ topic: threat-detection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.712Z
+lastCollected: 2026-04-07T18:39:22.602Z
 estimatedTokens: 2009
-keywords: [Threat, Detection, uses, statistical, machine, learning, detect, threats, Salesforce, org, identifies, customers, view, events, Event]
+keywords: [Threat, Detection, uses, statistical, machine, learning, detect, threats, Salesforce, org, identifies, customers, view, events, Event, Monitoring, investigate, further, necessary, Respond, Detected]
 ---
-
-# Threat Detection
 
 > Threat Detection uses statistical and machine learning methods to detect threats to your
     Salesforce org. While Salesforce identifies these threats for all Salesforce customers, you can

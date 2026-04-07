@@ -5,12 +5,10 @@ topic: recordapexrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.735Z
+lastCollected: 2026-04-07T18:37:39.685Z
 estimatedTokens: 2005
-keywords: [RecordApexRepresentation, serializable, representation, record, associated, data, service, integration, processing, objectType, recordData, relatedRecordData, toRecordApexRep, jsonString, toString]
+keywords: [RecordApexRepresentation, serializable, record, service, integration, processing, objectType, recordData, relatedRecordData, toRecordApexRep, jsonString, toString]
 ---
-
-# RecordApexRepresentation Class
 
 > Contains properties and a method to create a serializable representation of a record and
     its associated data for AI service integration and data processing.

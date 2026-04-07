@@ -5,12 +5,10 @@ topic: applicationformtemplateshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.514Z
+lastCollected: 2026-04-07T18:39:26.457Z
 estimatedTokens: 254
 keywords: [ApplicationFormTemplateShare, Sharing, ApplicationFormTemplate]
 ---
-
-# ApplicationFormTemplateShare
 
 > Sharing for ApplicationFormTemplate.
 

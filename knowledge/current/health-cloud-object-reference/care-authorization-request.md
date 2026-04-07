@@ -5,12 +5,10 @@ topic: care-authorization-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.432Z
+lastCollected: 2026-04-07T18:37:41.529Z
 estimatedTokens: 438
-keywords: [Care, Authorization, Output, services, review]
+keywords: [Care, Authorization, services, review]
 ---
-
-# Care Authorization Request
 
 > Output of create or update request for care services
     review.

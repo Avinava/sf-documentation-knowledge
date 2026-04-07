@@ -5,12 +5,10 @@ topic: ship-and-debit-process-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.190Z
+lastCollected: 2026-04-07T18:37:06.888Z
 estimatedTokens: 317
-keywords: [Ship, Debit, Process, Management, Standard, Objects, data, model, manage, end-to-end, programs, define, special, pricing, discounts]
+keywords: [Ship, Debit, Process, Management, Standard, model, manage, end-to-end, programs, define, pricing, discounts, enabling, manufacturers, compensate, partners, competitively, priced, products, protect, partner, margins]
 ---
-
-# Ship and Debit Process Management Standard Objects
 
 > Ship and Debit Process Management data model provides objects and fields to create and
     manage end-to-end ship and debit programs. Use these objects to define special pricing and

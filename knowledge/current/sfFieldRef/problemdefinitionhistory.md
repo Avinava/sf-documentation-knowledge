@@ -5,12 +5,10 @@ topic: problemdefinitionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.360Z
+lastCollected: 2026-04-07T18:39:54.924Z
 estimatedTokens: 266
-keywords: [ProblemDefinitionHistory, History, tracked, ProblemDefinition]
+keywords: [ProblemDefinitionHistory, tracked, ProblemDefinition]
 ---
-
-# ProblemDefinitionHistory
 
 > History for tracked fields of ProblemDefinition.
 

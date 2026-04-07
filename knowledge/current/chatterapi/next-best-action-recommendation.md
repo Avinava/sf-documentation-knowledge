@@ -5,12 +5,10 @@ topic: next-best-action-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.724Z
+lastCollected: 2026-04-07T18:37:14.768Z
 estimatedTokens: 72
 keywords: [Best, Action, Recommendation, strategy]
 ---
-
-# Next Best Action, Recommendation
 
 > A recommendation returned by a recommendation
     strategy.

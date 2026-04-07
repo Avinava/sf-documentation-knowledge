@@ -5,12 +5,10 @@ topic: fields-on-productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.716Z
+lastCollected: 2026-04-07T18:37:43.895Z
 estimatedTokens: 173
-keywords: [ProductRequest, Health, Cloud, extend, standard, associate, care, programs, track, modification, history]
+keywords: [ProductRequest, Health, Cloud, extend, standard, associate, care, programs, track, modification]
 ---
-
-# Fields on ProductRequest
 
 > Health Cloud fields extend the standard ProductRequest object to associate it with care
     programs and to track modification history.

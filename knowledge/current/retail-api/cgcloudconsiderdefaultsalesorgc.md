@@ -5,12 +5,10 @@ topic: cgcloudconsiderdefaultsalesorgc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.717Z
+lastCollected: 2026-04-07T18:39:13.126Z
 estimatedTokens: 798
-keywords: [cgcloud__Consider_Default_SalesOrg__c, assign, Sales, Org, API, version, 54.0, later, cgcloud, _Consider, _Default, _SalesOrg, Calls, Associated, Objects]
+keywords: [cgcloud__Consider_Default_SalesOrg__c, assign, Sales, Org, API, 54.0, cgcloud, _Consider, _Default, _SalesOrg]
 ---
-
-# cgcloud__Consider_Default_SalesOrg__c
 
 > Use this object to assign Global Sales Org. This object is
       available in API version 54.0 and later.

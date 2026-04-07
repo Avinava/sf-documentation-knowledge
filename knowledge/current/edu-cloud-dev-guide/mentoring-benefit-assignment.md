@@ -5,12 +5,10 @@ topic: mentoring-benefit-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.613Z
+lastCollected: 2026-04-07T18:37:29.689Z
 estimatedTokens: 102
-keywords: [Mentoring, Benefit, Assignment, Output, representation, along, provider, offering’s, contact]
+keywords: [Mentoring, Benefit, Assignment, along, provider, offering’s, contact]
 ---
-
-# Mentoring Benefit Assignment
 
 > Output representation of the benefit assignment details along with the provider
     offering’s contact ID.

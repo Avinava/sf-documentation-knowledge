@@ -5,12 +5,10 @@ topic: creditmemoline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.207Z
+lastCollected: 2026-04-07T18:38:29.122Z
 estimatedTokens: 2237
-keywords: [CreditMemoLine, product, service, adjustment, tax, line, items, were, included, credit, memo, API, version, 48.0, later]
+keywords: [CreditMemoLine, product, service, adjustment, tax, line, items, were, included, credit, memo, API, 48.0]
 ---
-
-# CreditMemoLine
 
 > Represents product, service, adjustment, or tax line items that were included
       in a credit memo. This object is available in API version 48.0 and later.

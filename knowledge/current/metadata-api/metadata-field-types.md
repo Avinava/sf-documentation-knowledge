@@ -5,12 +5,10 @@ topic: metadata-field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:40.527Z
+lastCollected: 2026-04-07T18:36:26.040Z
 estimatedTokens: 1375
-keywords: [Metadata, extend, described, Salesforce, ValueSet, ValueSetValuesDefinition, ValueSettings]
+keywords: [ValueSet, ValueSetValuesDefinition, ValueSettings, Metadata, extend, described, Salesforce]
 ---
-
-# Metadata Field Types
 
 > These field types extend the field types described in the Salesforce Object
         Reference.

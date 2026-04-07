@@ -5,12 +5,10 @@ topic: installedpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:41.412Z
+lastCollected: 2026-04-07T18:36:26.842Z
 estimatedTokens: 647
-keywords: [InstalledPackage, first-generation, managed, package, installed, uninstalled, Deploying, newer, version, currently, upgrades, install, packages, deployment, unlocked]
+keywords: [InstalledPackage, first-generation, managed, package, installed, uninstalled, Deploying, newer, currently, upgrades, install, packages, deployment, unlocked, second-generation, Salesforce, CLI, command, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# InstalledPackage
 
 > Represents a first-generation managed package to be
       installed or uninstalled. Deploying a newer version of a currently installed package upgrades

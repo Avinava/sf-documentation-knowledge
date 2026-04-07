@@ -5,12 +5,10 @@ topic: scope3pcmtsummaryshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.226Z
+lastCollected: 2026-04-07T18:40:00.978Z
 estimatedTokens: 251
 keywords: [Scope3PcmtSummaryShare, Sharing, Scope3PcmtSummary]
 ---
-
-# Scope3PcmtSummaryShare
 
 > Sharing for Scope3PcmtSummary.
 

@@ -5,12 +5,10 @@ topic: user-credentials-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.079Z
+lastCollected: 2026-04-07T18:37:41.081Z
 estimatedTokens: 121
-keywords: [User, Credentials, Input, representation, perform, digital, verification]
+keywords: [User, Credentials, perform, digital, verification]
 ---
-
-# User Credentials Input
 
 > Input representation of the user credentials to perform digital verification.
 

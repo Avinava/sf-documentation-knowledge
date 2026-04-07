@@ -5,12 +5,10 @@ topic: expand-the-pre-chat-stage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.541Z
+lastCollected: 2026-04-07T18:40:09.487Z
 estimatedTokens: 692
-keywords: [Expand, Pre-Chat, Stage, starting, conversation, customer, consider, adding, customized, invitations, appear, website, Improve, snippet, settings]
+keywords: [Expand, Pre-Chat, Stage, starting, conversation, customer, consider, adding, customized, invitations, appear, website, Improve, snippet, settings, file, greater, flexibility, provide, agents]
 ---
-
-# Expand the Pre-Chat Stage
 
 > Before starting a conversation with your customer at the pre-chat stage,
    consider adding customized invitations that appear on your website. Improve the pre-chat page or

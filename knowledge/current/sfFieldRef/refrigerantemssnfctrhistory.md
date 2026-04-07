@@ -5,12 +5,10 @@ topic: refrigerantemssnfctrhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.625Z
+lastCollected: 2026-04-07T18:39:59.288Z
 estimatedTokens: 273
-keywords: [RefrigerantEmssnFctrHistory, History, tracked, RefrigerantEmssnFctr]
+keywords: [RefrigerantEmssnFctrHistory, tracked, RefrigerantEmssnFctr]
 ---
-
-# RefrigerantEmssnFctrHistory
 
 > History for tracked fields of RefrigerantEmssnFctr.
 

@@ -5,12 +5,10 @@ topic: oci-update-reservation-single-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:34.122Z
+lastCollected: 2026-04-07T18:37:21.272Z
 estimatedTokens: 195
-keywords: [OCI, Reservation, Output, updated, product]
+keywords: [OCI, Reservation, updated, product]
 ---
-
-# OCI Update Reservation Single Output
 
 > Details of an updated reservation for one product.
 

@@ -5,12 +5,10 @@ topic: testing-an-apex-trigger-configured-with-parallel-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.352Z
+lastCollected: 2026-04-07T18:38:58.204Z
 estimatedTokens: 335
 keywords: [Testing, Apex, Trigger, Configured, Parallel, Subscriptions, test, platform, event, that’s, way, regular]
 ---
-
-# Testing an Apex Trigger Configured with Parallel Subscriptions
 
 > You can test an Apex platform event trigger that’s configured with parallel
   subscriptions the same way that you test a regular Apex platform event trigger.

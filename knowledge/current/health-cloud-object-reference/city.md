@@ -5,12 +5,10 @@ topic: city
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.100Z
+lastCollected: 2026-04-07T18:37:40.068Z
 estimatedTokens: 39
 keywords: [city, address, group, visit, scheduled]
 ---
-
-# city
 
 > The city of the address where the group visit is scheduled.
 

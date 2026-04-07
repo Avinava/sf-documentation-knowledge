@@ -5,12 +5,10 @@ topic: automation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.387Z
+lastCollected: 2026-04-07T18:40:15.469Z
 estimatedTokens: 847
 keywords: [Automation, Studio, account, perform, Programs_30, feature, AutomationSourceType, Playbooks, corresponding, permissions, Items]
 ---
-
-# Automation
 
 > The Automation object defines an automation in Automation Studio for an account. To update, delete, or perform an Automation where your account has the Programs_30 feature and AutomationSourceType is not Playbooks, you need the corresponding Automation Studio | Automation permissions.
 

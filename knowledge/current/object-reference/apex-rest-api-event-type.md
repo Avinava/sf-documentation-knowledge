@@ -5,12 +5,10 @@ topic: apex-rest-api-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:39.887Z
+lastCollected: 2026-04-07T18:38:30.704Z
 estimatedTokens: 2025
 keywords: [Apex, REST, API, Event, events, capture, every]
 ---
-
-# Apex REST API Event Type
 
 > Apex REST API events capture information about every Apex REST API
          request.

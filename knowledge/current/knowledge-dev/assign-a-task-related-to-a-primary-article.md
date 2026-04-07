@@ -5,12 +5,10 @@ topic: assign-a-task-related-to-a-primary-article
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.554Z
+lastCollected: 2026-04-07T18:37:53.842Z
 estimatedTokens: 159
 keywords: [Assign, Task, Primary, Article, Assigns, user, including, due, date, instructions, actions, defined, change, resource]
 ---
-
-# Assign a Task Related to a Primary Article
 
 > Assigns a task to a user for a primary article, including due date and instructions. The
   actions are defined by the field change you request on the resource.

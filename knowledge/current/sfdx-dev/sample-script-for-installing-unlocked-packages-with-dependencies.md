@@ -5,12 +5,10 @@ topic: sample-script-for-installing-unlocked-packages-with-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.831Z
+lastCollected: 2026-04-07T18:40:08.787Z
 estimatedTokens: 126
-keywords: [Sample, Script, Installing, Unlocked, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct, dependency]
+keywords: [Sample, Script, Installing, Unlocked, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct, dependency, order]
 ---
-
-# Sample Script for Installing Unlocked Packages with Dependencies
 
 > Use this sample script as a basis to create your own script to install packages with
         dependencies. This script contains a query that finds dependent packages and installs them

@@ -5,12 +5,10 @@ topic: scope-3-carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.284Z
+lastCollected: 2026-04-07T18:38:16.865Z
 estimatedTokens: 2151
-keywords: [Scope, Carbon, Footprint, total, emissions, activities, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent]
+keywords: [Scope, Carbon, Footprint, total, emissions, activities, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent, tCO₂e]
 ---
-
-# Scope 3 Carbon Footprint
 
 > The Scope 3 Carbon Footprint object represents the total carbon emissions from scope 3
     activities. Carbon footprint quantifies the effect of atmospheric warming, which is represented

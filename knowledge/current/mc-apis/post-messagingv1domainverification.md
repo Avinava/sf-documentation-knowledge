@@ -5,12 +5,10 @@ topic: post-messagingv1domainverification
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:21.555Z
+lastCollected: 2026-04-07T18:40:16.698Z
 estimatedTokens: 245
-keywords: [POST, messaging, domainverification, record, Address, Management, trigger, verification, email, **Overview**, Usage, Marketing, Cloud, Permissions, Scope]
+keywords: [POST, messaging, domainverification, record, Address, Management, trigger, verification, email, **Overview**, Marketing, Cloud, Permissions, Scope, Items]
 ---
-
-# POST /messaging/v1/domainverification
 
 > Create a record in From Address Management and trigger a verification email. .
 

@@ -5,12 +5,10 @@ topic: connectapimultiplefulfillmentorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.484Z
+lastCollected: 2026-04-07T18:36:05.832Z
 estimatedTokens: 95
 keywords: [inputs, creating, fulfillment, orders]
 ---
-
-# ConnectApi.MultipleFulfillmentOrderInputRepresentation
 
 > List of inputs for creating fulfillment orders.
 

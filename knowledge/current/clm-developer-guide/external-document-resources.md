@@ -5,12 +5,10 @@ topic: external-document-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.031Z
+lastCollected: 2026-04-07T18:37:24.992Z
 estimatedTokens: 249
 keywords: [External, Document, Resources, Manage, Salesforce, Contracts, documents, Users, save]
 ---
-
-# External Document Resources
 
 > Manage Salesforce Contracts external documents. Users can save external documents. Get
       information about external document details and update.

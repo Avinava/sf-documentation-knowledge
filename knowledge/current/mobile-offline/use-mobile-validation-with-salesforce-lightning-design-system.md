@@ -5,12 +5,10 @@ topic: use-mobile-validation-with-salesforce-lightning-design-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.556Z
+lastCollected: 2026-04-07T18:38:16.096Z
 estimatedTokens: 1440
-keywords: [Mobile, Validation, Salesforce, Lightning, Design, System, SLDS, Linter, Validator, check, code, guidelines, adherence, they, potential]
+keywords: [Mobile, Validation, Salesforce, Lightning, Design, System, SLDS, Linter, Validator, check, code, guidelines, adherence, they, potential, issue, tools, provide, suggested, improvements, warnings, apply, HTML, CSS, automatically, fixes, suggestions, bulk, across, repository, Accessibility, Work, Enable, Disable, Validate]
 ---
-
-# Use Mobile Validation with Salesforce Lightning Design System
 
 > SLDS Linter and SLDS Validator check your code for SLDS mobile guidelines adherence as
     you type. If they find a potential issue, both tools provide a warning with suggested

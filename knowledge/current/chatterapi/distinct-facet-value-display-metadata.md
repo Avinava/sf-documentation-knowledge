@@ -5,12 +5,10 @@ topic: distinct-facet-value-display-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.324Z
+lastCollected: 2026-04-07T18:37:18.412Z
 estimatedTokens: 85
-keywords: [Distinct, Facet, Display, Metadata, representation]
+keywords: [Distinct, Facet, Display, Metadata]
 ---
-
-# Distinct Facet Value Display Metadata
 
 > Display metadata representation for a distinct facet value.
 

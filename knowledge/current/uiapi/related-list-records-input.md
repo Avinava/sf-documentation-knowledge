@@ -5,12 +5,10 @@ topic: related-list-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.855Z
+lastCollected: 2026-04-07T18:40:10.821Z
 estimatedTokens: 628
-keywords: [Records, Input, record, data]
+keywords: [Records, record]
 ---
-
-# Related List Records Input
 
 > Get record data for up to 1,999 records in a related
     list.

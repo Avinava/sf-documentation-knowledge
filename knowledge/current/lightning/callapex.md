@@ -5,12 +5,10 @@ topic: callapex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.491Z
+lastCollected: 2026-04-07T18:38:03.511Z
 estimatedTokens: 144
-keywords: [callApex, Apex, call, Sample, Arguments]
+keywords: [Sample, Arguments, callApex, Apex, call]
 ---
-
-# callApex()
 
 > Makes an Apex call.
 

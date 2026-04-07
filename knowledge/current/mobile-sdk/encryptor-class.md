@@ -5,12 +5,10 @@ topic: encryptor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.483Z
+lastCollected: 2026-04-07T18:40:24.892Z
 estimatedTokens: 150
-keywords: [Encryptor, helper, encrypting, decrypting, strings, hashes, SDK, It’s, native, apps, remember, keys, Mobile, Base64-encoded, encryption]
+keywords: [Encryptor, helper, encrypting, decrypting, strings, hashes, SDK, It’s, native, apps, remember, keys, Mobile, Base64-encoded, encryption, patterns, accepted]
 ---
-
-# Encryptor class
 
 > The Encryptor helper class
 provides static helper methods for encrypting and decrypting strings

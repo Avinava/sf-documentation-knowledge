@@ -5,12 +5,10 @@ topic: expressionsetobjectalias
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.499Z
+lastCollected: 2026-04-07T18:39:04.560Z
 estimatedTokens: 684
-keywords: [ExpressionSetObjectAlias, alias, source, that’s, expression, Parent, File, Suffix, Directory, Location, Version, ExpressionSetObjectAliasField, Declarative, Metadata, Sample, that's, API, version, 56.0, later]
+keywords: [ExpressionSetObjectAlias, ExpressionSetObjectAliasField, alias, source, that’s, expression, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, that's, API, 56.0, SOAP, REST]
 ---
-
-# ExpressionSetObjectAlias
 
 > Represents the alias of the source object that's used in an
          expression set. This object is available in API version 56.0 and later.

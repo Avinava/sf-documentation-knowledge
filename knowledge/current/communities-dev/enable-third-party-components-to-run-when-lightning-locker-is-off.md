@@ -5,12 +5,10 @@ topic: enable-third-party-components-to-run-when-lightning-locker-is-off
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.043Z
+lastCollected: 2026-04-07T18:37:27.013Z
 estimatedTokens: 864
-keywords: [Enable, Third-Party, Components, Run, Lightning, Locker, Off, turn, Experience, Builder, site, any, installed, managed, package]
+keywords: [Enable, Third-Party, Run, Lightning, Locker, Off, turn, Experience, Builder, site, any, installed, managed, package, configured, design, time, render, runtime, Configure, Aura, Web]
 ---
-
-# Enable Third-Party Components to Run When Lightning Locker Is Off
 
 > If you turn off Lightning Locker in your Experience Builder site, any third-party
     components installed from a managed package must be configured to be available at design time

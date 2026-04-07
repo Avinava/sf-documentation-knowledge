@@ -5,12 +5,10 @@ topic: authapplicationassethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.384Z
+lastCollected: 2026-04-07T18:39:28.447Z
 estimatedTokens: 275
-keywords: [AuthApplicationAssetHistory, History, tracked, AuthApplicationAsset]
+keywords: [AuthApplicationAssetHistory, tracked, AuthApplicationAsset]
 ---
-
-# AuthApplicationAssetHistory
 
 > History for tracked fields of AuthApplicationAsset.
 

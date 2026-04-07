@@ -5,12 +5,10 @@ topic: dataflows-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.628Z
+lastCollected: 2026-04-07T18:36:56.147Z
 estimatedTokens: 444
-keywords: [Dataflows, Resource, collection, URL, Formats, Version, Postman, Components, HTTP]
+keywords: [Formats, Dataflows, Resource, collection, URL, Postman, HTTP]
 ---
-
-# Dataflows List Resource
 
 > Returns a collection of dataflows.
 

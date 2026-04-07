@@ -5,12 +5,10 @@ topic: tenantsecurityfeature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.643Z
+lastCollected: 2026-04-07T18:38:42.394Z
 estimatedTokens: 993
-keywords: [TenantSecurityFeature, Stores, org, features, across, tenants, Security, Center, API, version, 57.0, later, Calls, Special, Access]
+keywords: [TenantSecurityFeature, Stores, org, features, across, tenants, Security, Center, API, 57.0]
 ---
-
-# TenantSecurityFeature
 
 > Stores org features across all tenants in Security Center. This object
       is available in API version 57.0 and later.

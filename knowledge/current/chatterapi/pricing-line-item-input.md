@@ -5,12 +5,10 @@ topic: pricing-line-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.995Z
+lastCollected: 2026-04-07T18:37:09.716Z
 estimatedTokens: 110
-keywords: [Pricing, Line, Item, Input]
+keywords: [Pricing, Line, Item]
 ---
-
-# Pricing Line Item Input
 
 > Pricing line item.
 

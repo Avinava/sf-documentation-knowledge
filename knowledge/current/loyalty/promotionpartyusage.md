@@ -5,12 +5,10 @@ topic: promotionpartyusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.351Z
+lastCollected: 2026-04-07T18:38:10.623Z
 estimatedTokens: 1060
-keywords: [PromotionPartyUsage, number, times, promotion, customer, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PromotionPartyUsage, number, times, promotion, customer, API, 60.0]
 ---
-
-# PromotionPartyUsage
 
 > Represents the details of number of times a promotion has been used
          by a customer. This object is available in API version 60.0 and later.

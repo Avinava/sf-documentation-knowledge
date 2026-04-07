@@ -5,12 +5,10 @@ topic: setcookiescookies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.373Z
+lastCollected: 2026-04-07T18:38:48.330Z
 estimatedTokens: 324
-keywords: [setCookies, cookies, Creates, cookie, objects, conjunction, Usage]
+keywords: [setCookies, cookies, Creates, cookie, conjunction]
 ---
-
-# setCookies(cookies)
 
 > Creates a list of cookie objects. Used in conjunction with the Cookie class.
 

@@ -5,12 +5,10 @@ topic: story-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:13.696Z
+lastCollected: 2026-04-07T18:37:00.204Z
 estimatedTokens: 1083
-keywords: [Story, Version, Einstein, Discovery]
+keywords: [Story, Einstein, Discovery]
 ---
-
-# Story Version
 
 > An Einstein Discovery story version.
 

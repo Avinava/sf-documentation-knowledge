@@ -5,12 +5,10 @@ topic: lead
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:42.929Z
+lastCollected: 2026-04-07T18:38:34.121Z
 estimatedTokens: 6152
-keywords: [Lead, prospect, Calls, Converted, Leads, Unread, Status, Picklist, Usage, Java, Sample, Associated, Objects]
+keywords: [Lead, prospect, Converted, Leads, Unread, Status, Picklist, Java, Sample]
 ---
-
-# Lead
 
 > Represents a prospect or lead.
 

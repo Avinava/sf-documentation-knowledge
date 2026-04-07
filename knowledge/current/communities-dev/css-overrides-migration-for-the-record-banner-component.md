@@ -5,12 +5,10 @@ topic: css-overrides-migration-for-the-record-banner-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.861Z
+lastCollected: 2026-04-07T18:37:26.803Z
 estimatedTokens: 250
-keywords: [CSS, Overrides, Migration, Record, Banner, Component, plan, continue, custom, migrate, forward, template, Detail, Label]
+keywords: [CSS, Overrides, Migration, Record, Banner, plan, continue, migrate, forward, template, Detail, Label]
 ---
-
-# CSS Overrides Migration for the Record Banner Component
 
 > If you plan to continue using custom CSS overrides, migrate them forward
     after you update the template.

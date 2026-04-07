@@ -5,12 +5,10 @@ topic: sample-quote-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.557Z
+lastCollected: 2026-04-07T18:40:12.546Z
 estimatedTokens: 208
-keywords: [Sample, Quote, Validation, Rules, how, validate, Display, Error, Line, Item, Discount, Exceeds, 40%]
+keywords: [Sample, Quote, Validation, how, validate, Display, Error, Line, Item, Discount, Exceeds, 40%]
 ---
-
-# Sample Quote Validation Rules
 
 > An example on how to validate a quote.
 

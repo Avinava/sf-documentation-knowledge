@@ -5,12 +5,10 @@ topic: fieldmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.824Z
+lastCollected: 2026-04-07T18:40:16.986Z
 estimatedTokens: 149
-keywords: [FieldMap, how, imported, file, columns, map, Marketing, Cloud, attributes, Different, SOAP, clients, render, SourceName, SourceOrdinal]
+keywords: [FieldMap, how, imported, file, columns, map, Marketing, Cloud, attributes, Different, SOAP, clients, render, SourceName, SourceOrdinal, differently, NET, creates, item, accepts, either, order, manually, fiel]
 ---
-
-# FieldMap
 
 > The FieldMap object defines how the imported file columns map to Marketing Cloud attributes. Different SOAP clients render the SourceName and SourceOrdinal properties differently. .NET creates a single property name item that accepts either an integer or a string. In order to manually map these fiel
 

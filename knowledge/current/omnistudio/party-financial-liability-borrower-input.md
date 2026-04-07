@@ -5,12 +5,10 @@ topic: party-financial-liability-borrower-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.698Z
+lastCollected: 2026-04-07T18:36:37.231Z
 estimatedTokens: 304
-keywords: [Party, Financial, Liability, Borrower, Input, representation]
+keywords: [Party, Financial, Liability, Borrower]
 ---
-
-# Party Financial Liability Borrower Input
 
 > Input representation of the borrower details of the party financial
     liability.

@@ -5,12 +5,10 @@ topic: standard-visualforce-component-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.942Z
+lastCollected: 2026-04-07T18:38:48.887Z
 estimatedTokens: 4216
-keywords: [Standard, Visualforce, Component, full, components]
+keywords: [Standard, Visualforce, full]
 ---
-
-# Standard Visualforce Component Reference
 
 > This section provides a full list of standard Visualforce components.
 

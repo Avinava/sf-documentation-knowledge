@@ -5,12 +5,10 @@ topic: dashboard-component-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.125Z
+lastCollected: 2026-04-07T18:37:18.202Z
 estimatedTokens: 484
-keywords: [Dashboard, Component, Snapshot, snapshots, alerts, receive, crosses, threshold]
+keywords: [Dashboard, Snapshot, snapshots, alerts, receive, crosses, threshold]
 ---
-
-# Dashboard Component Snapshot
 
 > Represents both dashboard component snapshots and alerts you receive when a dashboard
     component value crosses a threshold.

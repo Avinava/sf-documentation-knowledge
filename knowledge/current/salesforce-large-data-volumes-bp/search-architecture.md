@@ -5,12 +5,10 @@ topic: search-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.199Z
+lastCollected: 2026-04-07T18:39:17.880Z
 estimatedTokens: 396
-keywords: [Search, Architecture, capability, query, records, free-form, text, Salesforce, own, data, store, optimized, searching]
+keywords: [Search, Architecture, capability, query, records, free-form, text, Salesforce, own, store, optimized, searching]
 ---
-
-# Search Architecture
 
 > Search is the capability to query records based on free-form text. The Salesforce search architecture is
          based on its own data store, which is optimized for searching for that text.

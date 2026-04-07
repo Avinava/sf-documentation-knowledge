@@ -5,12 +5,10 @@ topic: abortfileuploadrepositoryid-fileid-uploadid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.133Z
+lastCollected: 2026-04-07T18:39:00.119Z
 estimatedTokens: 110
 keywords: [abortFileUpload, repositoryId, fileId, uploadId, cancel, file, upload, invoked, specifically, aborting, multi-part, uploads, external, storage]
 ---
-
-# abortFileUpload(repositoryId, fileId, uploadId)
 
 > To cancel a file upload, the abortFileUpload method is invoked. This method is
   specifically used for aborting multi-part uploads to an external storage.

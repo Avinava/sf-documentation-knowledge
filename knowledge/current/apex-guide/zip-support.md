@@ -5,13 +5,11 @@ topic: zip-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.650Z
+lastCollected: 2026-04-07T18:36:18.869Z
 estimatedTokens: 331
 namespace: Compression
 keywords: [ZIP, Support, Take, advantage, native, Apex, library, extract, archive, files, Compression]
 ---
-
-# ZIP Support
 
 > Take advantage of a native Apex Zip library to create and extract ZIP archive files
         by using the class methods in the Compression namespace.

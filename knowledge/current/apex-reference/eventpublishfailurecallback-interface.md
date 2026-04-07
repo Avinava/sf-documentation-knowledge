@@ -5,13 +5,11 @@ topic: eventpublishfailurecallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.116Z
+lastCollected: 2026-04-07T18:36:13.432Z
 estimatedTokens: 650
 namespace: EventBus
-keywords: [EventPublishFailureCallback, Implement, track, platform, event, messages, failed, publish, onFailure, final, result, asynchronous, operation, becomes, Usage]
+keywords: [EventPublishFailureCallback, Implement, track, platform, event, messages, failed, publish, onFailure, final, result, asynchronous, operation, becomes, Implementation]
 ---
-
-# EventPublishFailureCallback Interface
 
 > Implement this interface to track platform event messages that failed to publish. The
       onFailure() method in this interface is called when the

@@ -5,12 +5,10 @@ topic: connectapiexternalcredentiallist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.681Z
+lastCollected: 2026-04-07T18:36:09.076Z
 estimatedTokens: 64
 keywords: [ConnectApi.ExternalCredentialList, external, credentials]
 ---
-
-# ConnectApi.ExternalCredentialList
 
 > List of  external credentials.
 

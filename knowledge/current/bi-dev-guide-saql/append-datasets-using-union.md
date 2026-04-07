@@ -5,12 +5,10 @@ topic: append-datasets-using-union
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.874Z
+lastCollected: 2026-04-07T18:37:00.392Z
 estimatedTokens: 391
-keywords: [Append, Datasets, union, data, two, streams, stream, structure]
+keywords: [Append, Datasets, union, two, streams, stream, structure]
 ---
-
-# Append Datasets using union
 
 > You can append data from two or more data streams into a single data stream using
                   union. The data streams must have the same

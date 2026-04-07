@@ -5,12 +5,10 @@ topic: rebate-management-objects-in-price-protection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.427Z
+lastCollected: 2026-04-07T18:37:06.119Z
 estimatedTokens: 464
-keywords: [Rebate, Management, Objects, Price, Protection, access, standard, manage, programs, payouts, transactions]
+keywords: [Rebate, Management, Price, Protection, standard, manage, programs, payouts, transactions]
 ---
-
-# Rebate Management Objects in Price Protection
 
 > Rebate Management provides access to some standard objects that
                   you can use in Price Protection to create and manage rebate programs and manage

@@ -5,12 +5,10 @@ topic: mention-validations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.531Z
+lastCollected: 2026-04-07T18:37:20.714Z
 estimatedTokens: 184
 keywords: [Mention, Validations, whether, mentions, context, user]
 ---
-
-# Mention Validations
 
 > Information about whether a set of mentions is valid for the context user.
 

@@ -5,12 +5,10 @@ topic: process-for-using-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.029Z
+lastCollected: 2026-04-07T18:36:17.249Z
 estimatedTokens: 1079
 keywords: [Process, Asynchronous, Callouts, Continuation, action, controller, implement, callback, Invoking, Callout, Defining]
 ---
-
-# Process for Using Asynchronous Callouts
 
 > To use asynchronous callouts, create a Continuation object in an action method of a controller, and implement a callback
     method.

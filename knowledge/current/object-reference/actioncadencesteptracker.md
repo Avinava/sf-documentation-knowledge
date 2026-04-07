@@ -5,12 +5,10 @@ topic: actioncadencesteptracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.795Z
+lastCollected: 2026-04-07T18:38:24.660Z
 estimatedTokens: 2343
-keywords: [ActionCadenceStepTracker, step, active, cadence, specific, target, API, version, 48.0, later, Calls, Usage, Associated, Objects]
+keywords: [ActionCadenceStepTracker, step, active, cadence, specific, target, API, 48.0]
 ---
-
-# ActionCadenceStepTracker
 
 > Represents a step in an active cadence for a specific cadence
       target. This object is available in API version 48.0 and later.

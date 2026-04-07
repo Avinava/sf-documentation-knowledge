@@ -5,12 +5,10 @@ topic: productservicecampaignitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.990Z
+lastCollected: 2026-04-07T18:38:14.340Z
 estimatedTokens: 818
-keywords: [ProductServiceCampaignItem, item, asset, serialized, product, that’s, included, service, campaign, API, version, 61.0, later, Calls]
+keywords: [ProductServiceCampaignItem, item, asset, serialized, product, that’s, included, service, campaign, API, 61.0]
 ---
-
-# ProductServiceCampaignItem
 
 > Represents an item, such as an asset or a serialized product, that’s included
          in a product service campaign. This object is available in API version 61.0 and later.

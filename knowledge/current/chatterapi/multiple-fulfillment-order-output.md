@@ -5,12 +5,10 @@ topic: multiple-fulfillment-order-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.700Z
+lastCollected: 2026-04-07T18:37:20.890Z
 estimatedTokens: 135
-keywords: [Multiple, Fulfillment, Order, Output, responses, individual, FulfillmentOrder, creation, attempts, orders]
+keywords: [Multiple, Fulfillment, Order, responses, individual, FulfillmentOrder, creation, attempts, orders]
 ---
-
-# Multiple Fulfillment Order Output
 
 > A list of responses for the individual FulfillmentOrder creation
       attempts from a request to create multiple fulfillment orders.

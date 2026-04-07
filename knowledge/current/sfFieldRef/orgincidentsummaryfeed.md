@@ -5,12 +5,10 @@ topic: orgincidentsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.927Z
+lastCollected: 2026-04-07T18:39:51.340Z
 estimatedTokens: 362
-keywords: [OrgIncidentSummaryFeed, Feed, tracking, OrgIncidentSummary]
+keywords: [OrgIncidentSummaryFeed, OrgIncidentSummary]
 ---
-
-# OrgIncidentSummaryFeed
 
 > Feed tracking for OrgIncidentSummary.
 

@@ -5,12 +5,10 @@ topic: statement-of-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.834Z
+lastCollected: 2026-04-07T18:35:46.837Z
 estimatedTokens: 243
-keywords: [Statement, Account, Output, representation, generated, async, tracking]
+keywords: [Statement, Account, generated, async]
 ---
-
-# Statement of Account
 
 > Output representation of the details of the generated statement of account with async
     tracking details.

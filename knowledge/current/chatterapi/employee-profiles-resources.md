@@ -5,12 +5,10 @@ topic: employee-profiles-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.402Z
+lastCollected: 2026-04-07T18:37:13.353Z
 estimatedTokens: 185
 keywords: [Employee, Profiles, Resources, upload, crop, photo, banner]
 ---
-
-# Employee Profiles Resources
 
 > Get, upload and crop, and delete an employee photo or banner photo.
 

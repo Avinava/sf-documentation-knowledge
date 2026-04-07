@@ -5,12 +5,10 @@ topic: sequence-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.441Z
+lastCollected: 2026-04-07T18:35:42.319Z
 estimatedTokens: 2084
-keywords: [sequence, Annotation, execution, configuration, order, elements, Constraint, Modeling, Language, CML, model, Configurator, Result, Settings]
+keywords: [sequence, Annotation, execution, configuration, order, Constraint, Modeling, Language, CML, model, Configurator, Result, Settings]
 ---
-
-# sequence Annotation
 
 > The sequence annotation defines the execution and
     configuration order of elements in a Constraint Modeling Language (CML) model.

@@ -5,12 +5,10 @@ topic: voicecallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.181Z
+lastCollected: 2026-04-07T18:40:06.071Z
 estimatedTokens: 437
-keywords: [VoiceCallRecording, call, recording, Service, Cloud, Voice, Sales, Dialer, recordings, Amazon, Connect, Partner, Telephony, stored, buckets]
+keywords: [VoiceCallRecording, call, recording, Service, Cloud, Voice, Sales, Dialer, recordings, Amazon, Connect, Partner, Telephony, stored, buckets, Web, Services, AWS, account, accessed, via, saved, files, Salesforce]
 ---
-
-# VoiceCallRecording
 
 > Represents a call recording in Service Cloud Voice and Sales Dialer. Call recordings for Service Cloud Voice with Amazon Connect and for Service Cloud Voice with
 		Partner Telephony from Amazon Connect are stored in S3 buckets on your Amazon Web Services (AWS) account and can be accessed via AWS. Call recordings for Sales Dialer are saved

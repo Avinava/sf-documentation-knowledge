@@ -5,12 +5,10 @@ topic: create-a-campaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.963Z
+lastCollected: 2026-04-07T18:40:24.465Z
 estimatedTokens: 520
-keywords: [Campaign, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Campaign, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Campaign
 
 > Use the Post method to create a new campaign within a Marketing Cloud account.
 

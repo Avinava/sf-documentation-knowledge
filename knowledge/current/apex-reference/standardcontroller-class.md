@@ -5,13 +5,11 @@ topic: standardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.125Z
+lastCollected: 2026-04-07T18:36:15.435Z
 estimatedTokens: 2296
 namespace: ApexPages
-keywords: [StandardController, defining, extension, standard, controller, Usage, Instantiation, controllerSObject, addFields, fieldNames, cancel, edit, getId, getRecord, reset]
+keywords: [Instantiation, StandardController, defining, extension, standard, controller, controllerSObject, addFields, fieldNames, cancel, edit, getId, getRecord, reset, save, view]
 ---
-
-# StandardController Class
 
 > Use a StandardController when defining an extension for
 a standard controller.

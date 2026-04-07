@@ -5,12 +5,10 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.013Z
+lastCollected: 2026-04-07T18:40:14.029Z
 estimatedTokens: 833
-keywords: [Location, Work.com, represent, physical, visitor, address, extra, custom, added, search, filtering, levels, enabled, org, abstraction]
+keywords: [Location, Work.com, represent, physical, visitor, address, extra, added, search, filtering, levels, enabled, org, abstraction, Changes]
 ---
-
-# Location
 
 > Location is used by Work.com to represent a physical location, with a visitor
       address, with extra custom fields added by Work.com. If location search filtering for all

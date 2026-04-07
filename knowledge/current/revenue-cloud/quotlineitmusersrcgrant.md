@@ -5,12 +5,10 @@ topic: quotlineitmusersrcgrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.442Z
+lastCollected: 2026-04-07T18:35:50.330Z
 estimatedTokens: 985
-keywords: [QuotLineItmUseRsrcGrant, negotiated, grants, usage, resource, that's, associated, product, added, quote, line, item, API, version, 65.0]
+keywords: [QuotLineItmUseRsrcGrant, negotiated, grants, resource, that's, product, added, quote, line, item, API, 65.0]
 ---
-
-# QuotLineItmUseRsrcGrant
 
 > Represents the negotiated grants for the usage resource that's
          associated with the usage product added in the quote line item. This object is

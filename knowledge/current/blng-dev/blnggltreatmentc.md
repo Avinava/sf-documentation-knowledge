@@ -5,12 +5,10 @@ topic: blnggltreatmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.030Z
+lastCollected: 2026-04-07T18:37:03.561Z
 estimatedTokens: 893
-keywords: [blng__GLTreatment__c, lookups, credit, General, Ledger, account, debit, establish, relationship, transaction, accounts, blng, _GLTreatment, Calls]
+keywords: [blng__GLTreatment__c, lookups, credit, General, Ledger, account, debit, establish, relationship, transaction, accounts, blng, _GLTreatment]
 ---
-
-# blng__GLTreatment__c
 
 > Represents the lookups to a credit General Ledger (GL) account and a debit GL
          account. These lookups establish a relationship between your transaction and your GL

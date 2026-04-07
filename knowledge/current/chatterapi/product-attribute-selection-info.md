@@ -5,12 +5,10 @@ topic: product-attribute-selection-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:34.817Z
+lastCollected: 2026-04-07T18:37:21.927Z
 estimatedTokens: 190
 keywords: [Product, Attribute, Selection, Info]
 ---
-
-# Product Attribute Selection Info
 
 > Product attribute.
 

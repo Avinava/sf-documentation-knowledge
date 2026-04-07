@@ -5,12 +5,10 @@ topic: group-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.725Z
+lastCollected: 2026-04-07T18:39:02.962Z
 estimatedTokens: 162
-keywords: [Group, Output, representation, party, relationship, groups, merged]
+keywords: [Group, party, relationship, groups, merged]
 ---
-
-# Group Fields
 
 > Output representation of the fields of the party relationship groups
          to be merged.

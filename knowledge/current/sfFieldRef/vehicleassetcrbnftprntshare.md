@@ -5,12 +5,10 @@ topic: vehicleassetcrbnftprntshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.829Z
+lastCollected: 2026-04-07T18:40:05.701Z
 estimatedTokens: 254
 keywords: [VehicleAssetCrbnFtprntShare, Sharing, VehicleAssetCrbnFtprnt]
 ---
-
-# VehicleAssetCrbnFtprntShare
 
 > Sharing for VehicleAssetCrbnFtprnt.
 

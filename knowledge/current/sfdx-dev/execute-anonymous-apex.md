@@ -5,12 +5,10 @@ topic: execute-anonymous-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.069Z
+lastCollected: 2026-04-07T18:40:08.022Z
 estimatedTokens: 327
 keywords: [Execute, Anonymous, Apex, block, code, org, run, Salesforce, CLI, command]
 ---
-
-# Execute Anonymous Apex
 
 > You can execute an anonymous block of Apex code in an org with the apex run Salesforce CLI command.
 

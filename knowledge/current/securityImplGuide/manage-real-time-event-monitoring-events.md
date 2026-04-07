@@ -5,12 +5,10 @@ topic: manage-real-time-event-monitoring-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.460Z
+lastCollected: 2026-04-07T18:39:22.355Z
 estimatedTokens: 365
-keywords: [Manage, Real-Time, Event, Monitoring, Events, streaming, storage, settings, declaratively, Manager, programmatically, Metadata, API, helps, monitor]
+keywords: [Manage, Real-Time, Event, Monitoring, Events, streaming, storage, settings, declaratively, Manager, programmatically, Metadata, API, helps, monitor, detect, standard, Salesforce, near, store, auditing, reporting, purposes, transaction, security, policies, Condition, Builder—a, point-and-click, tool—or, Apex, code]
 ---
-
-# Manage Real-Time Event Monitoring Events
 
 > Manage streaming and storage settings for Real-Time Event Monitoring events
   declaratively with the Event Manager. You can also manage settings programmatically with the

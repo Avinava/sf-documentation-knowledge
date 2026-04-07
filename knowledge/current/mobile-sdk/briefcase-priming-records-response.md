@@ -5,12 +5,10 @@ topic: briefcase-priming-records-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.026Z
+lastCollected: 2026-04-07T18:40:27.256Z
 estimatedTokens: 469
-keywords: [Briefcase, Priming, Records, Handles, responses, Mobile, SDK, requests, iOS, Android]
+keywords: [Android, Briefcase, Priming, Records, Handles, responses, Mobile, SDK, requests, iOS]
 ---
-
-# Briefcase Priming Records Response
 
 > Handles responses for all Mobile SDK Briefcase Priming requests.
 

@@ -5,12 +5,10 @@ topic: data-connector-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:09.581Z
+lastCollected: 2026-04-07T18:36:56.089Z
 estimatedTokens: 1199
-keywords: [Data, Connector, Resources, connectors, prebuilt, quickly, connect, Salesforce, orgs, apps, warehouses, database, services, allow, users]
+keywords: [Connector, Resources, connectors, prebuilt, quickly, connect, Salesforce, orgs, apps, warehouses, database, services, allow, users, manage, their, source, run, syncs, check, statuses]
 ---
-
-# Data Connector Resources
 
 > Data connectors are prebuilt connectors to quickly connect to data in your Salesforce orgs, apps,
  data warehouses, and database services. These resources allow users to manage data connectors and their source objects, run data syncs, 

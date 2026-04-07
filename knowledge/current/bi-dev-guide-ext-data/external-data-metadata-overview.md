@@ -5,12 +5,10 @@ topic: external-data-metadata-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:07.575Z
+lastCollected: 2026-04-07T18:36:53.946Z
 estimatedTokens: 932
-keywords: [External, Data, Metadata, upload, CRM, Analytics, dataset, sure, prepared, files, CSV, JSON, Limits]
+keywords: [External, Metadata, upload, CRM, Analytics, dataset, sure, prepared, files, CSV, JSON, Limits]
 ---
-
-# External Data Metadata Overview
 
 > To upload external data into a CRM Analytics dataset, make sure that you have prepared
         your data and metadata files.

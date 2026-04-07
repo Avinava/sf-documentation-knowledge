@@ -5,12 +5,10 @@ topic: smart-data-discovery-impute-strategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.112Z
+lastCollected: 2026-04-07T18:36:59.601Z
 estimatedTokens: 103
-keywords: [Smart, Data, Discovery, Impute, Strategy]
+keywords: [Smart, Discovery, Impute, Strategy]
 ---
-
-# Smart Data Discovery Impute Strategy
 
 > The impute strategy.
 

@@ -5,12 +5,10 @@ topic: render-lightning-runtime-for-flows-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.182Z
+lastCollected: 2026-04-07T18:38:51.423Z
 estimatedTokens: 1046
-keywords: [Render, Lightning, Runtime, Flows, Visualforce, embed, flow, renders, Classic, suggests, looks, feels, regular, pages, Salesforce]
+keywords: [Render, Lightning, Runtime, Flows, Visualforce, embed, flow, renders, Classic, suggests, looks, feels, regular, pages, Salesforce, desktop, experience, add, Aura]
 ---
-
-# Render Lightning Runtime for Flows in a Visualforce Page
 
 > By default, when you embed a flow in a Visualforce page, the flow
     renders in Classic runtime. Like its name suggests, Classic runtime looks

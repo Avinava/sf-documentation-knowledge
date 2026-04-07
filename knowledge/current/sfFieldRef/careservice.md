@@ -5,12 +5,10 @@ topic: careservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:38.629Z
+lastCollected: 2026-04-07T18:39:33.039Z
 estimatedTokens: 347
-keywords: [CareService, healthcare, treatment, service, procedure, offered, provider, practitioner, facility, API, version, 59.0, later]
+keywords: [CareService, healthcare, treatment, service, procedure, offered, provider, practitioner, facility, API, 59.0]
 ---
-
-# CareService
 
 > Represents a healthcare treatment, service, or procedure offered by a
          provider, practitioner, or facility. This object is available in API version 59.0 and

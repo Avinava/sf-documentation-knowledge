@@ -5,12 +5,10 @@ topic: connectapireturnorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.974Z
+lastCollected: 2026-04-07T18:36:06.321Z
 estimatedTokens: 435
-keywords: [Data, creating, ReturnOrder, ReturnOrderLineItems]
+keywords: [creating, ReturnOrder, ReturnOrderLineItems]
 ---
-
-# ConnectApi.ReturnOrderInputRepresentation
 
 > Data for creating a ReturnOrder and
     ReturnOrderLineItems.

@@ -5,12 +5,10 @@ topic: embeddedservicemenusettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:47.174Z
+lastCollected: 2026-04-07T18:36:32.645Z
 estimatedTokens: 1296
-keywords: [EmbeddedServiceMenuSettings, setup, node, creating, channel, menu, deployment, menus, ways, customers, contact, business, API, version, 47.0]
+keywords: [EmbeddedServiceMenuSettings, setup, node, creating, channel, menu, deployment, menus, ways, customers, contact, business, API, 47.0, SOAP, REST]
 ---
-
-# EmbeddedServiceMenuSettings
 
 > Represents a setup node for creating a channel menu deployment. Channel menus
       list the ways in which customers can contact your business. This object is available in

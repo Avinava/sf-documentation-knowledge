@@ -5,12 +5,10 @@ topic: modifiable-promotion-and-tactic-earights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.030Z
+lastCollected: 2026-04-07T18:39:11.584Z
 estimatedTokens: 1750
 keywords: [Modifiable, Promotion, Tactic, EARights, Promotion-level]
 ---
-
-# Modifiable Promotion and Tactic EARights
 
 > This section provides all the modifiable promotion and tactic EARights.
 

@@ -5,12 +5,10 @@ topic: list-view-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.607Z
+lastCollected: 2026-04-07T18:37:22.713Z
 estimatedTokens: 199
 keywords: [View, record, rows]
 ---
-
-# List View Object
 
 > Type of record displayed in the rows of a related list.
 

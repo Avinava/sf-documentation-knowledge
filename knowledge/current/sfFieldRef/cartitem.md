@@ -5,12 +5,10 @@ topic: cartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:38.854Z
+lastCollected: 2026-04-07T18:39:33.265Z
 estimatedTokens: 1101
-keywords: [CartItem, item, WebCart, that’s, active, store, built, B2B, D2C, Commerce, Cart, Product, Charge, API, version]
+keywords: [CartItem, item, WebCart, that’s, active, store, built, B2B, D2C, Commerce, Cart, Product, Charge, API, 49.0]
 ---
-
-# CartItem
 
 > Represents an item in a WebCart that’s active in
 			a store built with B2B or D2C Commerce. Cart item can be of type Product or Charge. This object is available in API version 49.0 and

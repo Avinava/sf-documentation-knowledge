@@ -5,12 +5,10 @@ topic: channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.716Z
+lastCollected: 2026-04-07T18:38:46.586Z
 estimatedTokens: 867
-keywords: [Channel, Order, App, customer, buys, AppExchange, product, requests, changes, subscription, submit, COA, Salesforce, receives, activate]
+keywords: [Channel, Order, App, customer, buys, AppExchange, product, requests, changes, subscription, submit, COA, Salesforce, receives, activate, provision, customer’s, org, invoice, terms, partnership, agreement]
 ---
-
-# Channel Order App
 
 > When a customer buys your AppExchange product or requests changes to a subscription,
     submit an order with the Channel Order App (COA). After Salesforce receives your order, we

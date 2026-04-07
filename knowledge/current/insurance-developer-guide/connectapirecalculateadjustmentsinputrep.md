@@ -5,12 +5,10 @@ topic: connectapirecalculateadjustmentsinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.232Z
+lastCollected: 2026-04-07T18:37:50.072Z
 estimatedTokens: 117
-keywords: [Input, representation, recalculating, adjustments, payment]
+keywords: [recalculating, adjustments, payment]
 ---
-
-# ConnectApi.RecalculateAdjustmentsInputRep
 
 > Input representation for recalculating the adjustments for existing payment details.
 

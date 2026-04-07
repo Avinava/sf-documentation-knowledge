@@ -5,12 +5,10 @@ topic: tags-for-record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.404Z
+lastCollected: 2026-04-07T18:39:01.555Z
 estimatedTokens: 93
-keywords: [Tags, Record, Input, representation, Interest]
+keywords: [Tags, Record, Interest]
 ---
-
-# Tags for Record Input
 
 > Input representation of Interest Tags for a record.
 

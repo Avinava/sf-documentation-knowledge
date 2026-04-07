@@ -5,12 +5,10 @@ topic: collaborationgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.002Z
+lastCollected: 2026-04-07T18:39:34.435Z
 estimatedTokens: 568
-keywords: [CollaborationGroup, Chatter, group, API, version, 19.0, later]
+keywords: [CollaborationGroup, Chatter, group, API, 19.0]
 ---
-
-# CollaborationGroup
 
 > Represents a Chatter group. This
 		object is available in API version 19.0 and later.

@@ -5,12 +5,10 @@ topic: creating-a-canvaslifecyclehandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.446Z
+lastCollected: 2026-04-07T18:38:57.247Z
 estimatedTokens: 431
 keywords: [Creating, CanvasLifecycleHandler, control, app, lifecycle, providing, implementation, Canvas.CanvasLifecycleHandler, Apex, Salesforce]
 ---
-
-# Creating a CanvasLifecycleHandler
 
 > You can control your app lifecycle by providing an implementation of the
         Canvas.CanvasLifecycleHandler Apex interface that Salesforce can use.

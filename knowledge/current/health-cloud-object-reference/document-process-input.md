@@ -5,12 +5,10 @@ topic: document-process-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.716Z
+lastCollected: 2026-04-07T18:37:40.697Z
 estimatedTokens: 446
-keywords: [Document, Process, Input, representation, content, received, record, Salesforce]
+keywords: [Document, Process, content, received, record, Salesforce]
 ---
-
-# Document Process Input
 
 > Input representation of the content document or received document
       record to create or update a Salesforce object record.

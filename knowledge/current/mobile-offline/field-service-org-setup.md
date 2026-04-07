@@ -5,12 +5,10 @@ topic: field-service-org-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.953Z
+lastCollected: 2026-04-07T18:38:15.458Z
 estimatedTokens: 716
-keywords: [Service, Org, Setup, permission, Lightning, SDK, Mobile, assign, users, develop, web, components, app, Define, User]
+keywords: [Service, Org, Setup, permission, Lightning, SDK, Mobile, assign, users, develop, web, app, Define, User]
 ---
-
-# Field Service Org Setup
 
 > Create a permission set with the Lightning SDK for Field Service
                     Mobile

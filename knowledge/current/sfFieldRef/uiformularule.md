@@ -5,12 +5,10 @@ topic: uiformularule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.624Z
+lastCollected: 2026-04-07T18:40:04.359Z
 estimatedTokens: 366
-keywords: [UiFormulaRule, filters, define, conditions, under, component, displays, Lightning, API, version, 47.0, later]
+keywords: [UiFormulaRule, filters, define, conditions, under, displays, Lightning, API, 47.0]
 ---
-
-# UiFormulaRule
 
 > Represents a set of one or more filters that define the conditions under which
       a component displays on a Lightning page. This object is available in API version 47.0

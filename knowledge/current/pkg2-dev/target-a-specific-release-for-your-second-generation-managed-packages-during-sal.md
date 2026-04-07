@@ -6,13 +6,10 @@ topic: target-a-specific-release-for-your-second-generation-managed-packages-dur
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:03.987Z
+lastCollected: 2026-04-07T18:38:56.652Z
 estimatedTokens: 346
-keywords: [Target, Specific, Release, Second-Generation, Managed, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, version]
+keywords: [Target, Specific, Release, Second-Generation, Managed, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, Specifying, test, upcoming, features, run, regression, tests, support, customers, regardless, their, org, Previously, versions, matched, Dev, Hub]
 ---
-
-# Target a Specific Release for Your Second-Generation Managed Packages During Salesforce
-    Release Transitions
 
 > During major Salesforce release transitions, you can specify preview or previous when
   creating a package version. Specifying the release version for a package allows you to test

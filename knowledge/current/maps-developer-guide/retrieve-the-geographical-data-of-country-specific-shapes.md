@@ -5,12 +5,10 @@ topic: retrieve-the-geographical-data-of-country-specific-shapes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.668Z
+lastCollected: 2026-04-07T18:38:10.927Z
 estimatedTokens: 434
-keywords: [Retrieve, Geographical, Data, Country-Specific, Shapes, GetBoundaryGeoJSON, Apex, area, perimeter, IDs, Sample, Code]
+keywords: [Retrieve, Geographical, Country-Specific, Shapes, GetBoundaryGeoJSON, Apex, area, perimeter, IDs, Sample, Code]
 ---
-
-# Retrieve the Geographical Data of Country-Specific Shapes
 
 > The GetBoundaryGeoJSON() Apex
       method returns the geographical data, area, and perimeter for a list of geographical

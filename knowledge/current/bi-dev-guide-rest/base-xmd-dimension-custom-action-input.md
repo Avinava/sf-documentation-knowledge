@@ -5,12 +5,10 @@ topic: base-xmd-dimension-custom-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:08.765Z
+lastCollected: 2026-04-07T18:36:55.174Z
 estimatedTokens: 243
-keywords: [Base, Xmd, Dimension, Custom, Action, Input, custon]
+keywords: [Base, Xmd, Dimension, Action, custon]
 ---
-
-# Base Xmd Dimension Custom Action Input
 
 > The base custon action for an Xmd dimension.
 

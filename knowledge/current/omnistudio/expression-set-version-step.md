@@ -5,12 +5,10 @@ topic: expression-set-version-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.960Z
+lastCollected: 2026-04-07T18:36:39.645Z
 estimatedTokens: 1110
-keywords: [Expression, Version, Step, Output, representation]
+keywords: [Expression, Step]
 ---
-
-# Expression Set Version Step
 
 > Output representation of a step in an expression set
     version.

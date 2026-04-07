@@ -5,13 +5,11 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.489Z
+lastCollected: 2026-04-07T18:39:55.050Z
 estimatedTokens: 353
 namespace: NamespacePrefix
-keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, API, version, 58.0, later]
+keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, API, 58.0]
 ---
-
-# ProcessFlowMigration
 
 > Represents a process's migrated criteria and the resulting migrated
          flow. This object is available in API version 58.0 and later.

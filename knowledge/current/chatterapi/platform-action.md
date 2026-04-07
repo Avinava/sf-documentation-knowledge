@@ -5,12 +5,10 @@ topic: platform-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.481Z
+lastCollected: 2026-04-07T18:37:16.560Z
 estimatedTokens: 1215
 keywords: [Platform, Action, instance, state, context, user]
 ---
-
-# Platform Action
 
 > A platform action instance with state information for the context
       user.

@@ -5,12 +5,10 @@ topic: create-custom-layout-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:46.093Z
+lastCollected: 2026-04-07T18:37:33.442Z
 estimatedTokens: 1069
-keywords: [Custom, Layout, Components, Layouts, Build, Own, LWR, template, Lightning, web, instead, Aura, way, sites, minor]
+keywords: [Regions, Layout, Layouts, Build, Own, LWR, template, Lightning, web, instead, Aura, way, sites, minor, changes, Theme, Navigation]
 ---
-
-# Create Custom Layout Components
 
 > Layouts are supported in the Build Your Own (LWR) template using Lightning web
     components instead of Aura components. You can also create your own custom layouts in the same

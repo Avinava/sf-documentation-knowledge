@@ -5,12 +5,10 @@ topic: smart-data-discovery-field-mapping-salesforce-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.181Z
+lastCollected: 2026-04-07T18:36:58.683Z
 estimatedTokens: 108
-keywords: [Smart, Data, Discovery, Mapping, Salesforce, Input, Einstein, mapped, source]
+keywords: [Smart, Discovery, Mapping, Salesforce, Einstein, mapped, source]
 ---
-
-# Smart Data Discovery Field Mapping Salesforce Field Input
 
 > Input for an Einstein Discovery field mapped from a Salesforce field source.
 

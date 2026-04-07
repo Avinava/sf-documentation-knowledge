@@ -5,12 +5,10 @@ topic: learning-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.049Z
+lastCollected: 2026-04-07T18:37:29.165Z
 estimatedTokens: 851
-keywords: [Learning, Input, representation, define, instructional, made, course, program, on-site, experience, contact]
+keywords: [Learning, define, instructional, made, course, program, on-site, experience, contact]
 ---
-
-# Learning Input
 
 > Input representation of the details that define an instructional object, which can be
     made available as a course, program, or an on-site experience for a contact.

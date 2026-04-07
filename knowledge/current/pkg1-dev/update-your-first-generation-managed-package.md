@@ -5,12 +5,10 @@ topic: update-your-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:01.925Z
+lastCollected: 2026-04-07T18:38:54.327Z
 estimatedTokens: 394
 keywords: [First-Generation, Managed, Package, app, ready, how, fix, small, issues, patches, major, changes, upgrades]
 ---
-
-# Update Your First-Generation Managed Package
 
 > Your app is ready for an update. Learn how to fix small issues with patches and make
     major changes with upgrades.

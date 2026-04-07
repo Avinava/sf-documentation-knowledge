@@ -5,12 +5,10 @@ topic: decision-table-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.248Z
+lastCollected: 2026-04-07T18:36:40.954Z
 estimatedTokens: 120
-keywords: [Decision, Data, Model, start, Tooling, API, objects, here's, representation]
+keywords: [Decision, Model, start, Tooling, API, here's]
 ---
-
-# Decision Table Data Model
 
 > Before you start using the Decision Table Tooling API objects, here's a representation
   of the data model.

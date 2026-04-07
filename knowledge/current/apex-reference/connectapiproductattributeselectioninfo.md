@@ -5,12 +5,10 @@ topic: connectapiproductattributeselectioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:25.659Z
+lastCollected: 2026-04-07T18:36:10.934Z
 estimatedTokens: 171
 keywords: [Product, attribute]
 ---
-
-# ConnectApi.ProductAttributeSelectionInfo
 
 > Product attribute.
 

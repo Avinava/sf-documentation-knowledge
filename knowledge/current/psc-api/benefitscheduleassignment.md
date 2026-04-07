@@ -5,12 +5,10 @@ topic: benefitscheduleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:11.738Z
+lastCollected: 2026-04-07T18:39:04.763Z
 estimatedTokens: 506
-keywords: [BenefitScheduleAssignment, junction, Benefit, Schedule, Assignment, objects, API, version, 59.0, later, Calls, Special, Access, Rules]
+keywords: [BenefitScheduleAssignment, junction, Benefit, Schedule, Assignment, API, 59.0]
 ---
-
-# BenefitScheduleAssignment
 
 > Represents the junction between Benefit Schedule and Benefit Assignment
          objects. This object is available in API version 59.0 and later.

@@ -5,12 +5,10 @@ topic: connectapitaxamountdetailsresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.675Z
+lastCollected: 2026-04-07T18:36:11.961Z
 estimatedTokens: 119
 keywords: [ConnectApi.TaxAmountDetailsResponse, tax, amount, line, item]
 ---
-
-# ConnectApi.TaxAmountDetailsResponse
 
 > Information about tax amount values on the line item.
 

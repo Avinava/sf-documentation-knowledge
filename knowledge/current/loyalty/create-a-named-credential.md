@@ -5,12 +5,10 @@ topic: create-a-named-credential
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.846Z
+lastCollected: 2026-04-07T18:38:09.141Z
 estimatedTokens: 486
-keywords: [Named, Credential, Connect, Amazon, Web, Services, AWS, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, callout]
+keywords: [Named, Credential, Connect, Amazon, Web, Services, AWS, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, callout, requests, Salesforce, uploaded, AnalyzeExpense, API, scans, receipts, analyze, interpret]
 ---
-
-# Create a Named Credential
 
 > Connect Amazon Web Services (AWS) with the Loyalty Management Receipt Scanner Kit
   unlocked package. Make callout requests to AWS from Salesforce after a receipt is uploaded. The

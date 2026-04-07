@@ -5,12 +5,10 @@ topic: contenthubcompleteuploadinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.142Z
+lastCollected: 2026-04-07T18:39:00.132Z
 estimatedTokens: 154
-keywords: [inputRep, instance, below]
+keywords: [ContentHubCompleteUploadInputRepresentation, inputRep, instance, below]
 ---
-
-# ContentHubCompleteUploadInputRepresentation()
 
 > Used to create an inputRep instance with the below parameters.
 

@@ -5,12 +5,10 @@ topic: salesforce-crm-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.386Z
+lastCollected: 2026-04-07T18:35:53.335Z
 estimatedTokens: 255
-keywords: [Salesforce, CRM, Product, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, company, sells]
+keywords: [Salesforce, CRM, Product, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, company, sells, DMO]
 ---
-
-# Salesforce CRM: Product Mapping
 
 > These data mappings are for the Product DLO found in the Loyalty Management bundle of
   the Salesforce CRM Connector for Data Cloud. A product that the company

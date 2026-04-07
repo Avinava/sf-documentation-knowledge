@@ -5,12 +5,10 @@ topic: use-the-app-install-history-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.656Z
+lastCollected: 2026-04-07T18:37:02.236Z
 estimatedTokens: 846
-keywords: [App, Install, History, monitor, installations, progress, track, assets, created, view, logs, troubleshoot, any, installation, issues]
+keywords: [App, Install, monitor, installations, progress, track, assets, created, view, logs, troubleshoot, any, installation, issues]
 ---
-
-# Use the App Install History Page
 
 > Use the App Install History page to monitor installations in progress, 
   track the assets created for the app, and view logs to troubleshoot any installation issues.

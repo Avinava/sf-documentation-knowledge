@@ -5,12 +5,10 @@ topic: related-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:58.840Z
+lastCollected: 2026-04-07T18:35:43.745Z
 estimatedTokens: 214
-keywords: [Records, Input, representation, retrieve, ProductRampSegment, ProductUsageGrant, Product2]
+keywords: [Records, retrieve, ProductRampSegment, ProductUsageGrant, Product2]
 ---
-
-# Related Records Input
 
 > Input representation of the request to retrieve related ProductRampSegment or
     ProductUsageGrant records for Product2 object.

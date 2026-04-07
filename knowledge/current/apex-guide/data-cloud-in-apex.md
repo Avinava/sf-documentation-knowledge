@@ -5,12 +5,10 @@ topic: data-cloud-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:02:30.593Z
+lastCollected: 2026-04-07T18:36:15.825Z
 estimatedTokens: 910
-keywords: [Data, Cloud, Apex, objects, constraints, considerations, detailed, topic, Further, mock, SOQL, query, responses, model, DMOs]
+keywords: [Cloud, Apex, constraints, considerations, detailed, topic, Further, mock, SOQL, query, responses, model, DMOs, testing, stub, test, Security]
 ---
-
-# Data Cloud In Apex
 
 > You can use Apex with Data Cloud objects, with constraints and considerations that
         are detailed in this topic . Further, you can mock SOQL query responses for Data Cloud data

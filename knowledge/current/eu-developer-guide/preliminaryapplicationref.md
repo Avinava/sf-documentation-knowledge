@@ -5,12 +5,10 @@ topic: preliminaryapplicationref
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.524Z
+lastCollected: 2026-04-07T18:37:32.758Z
 estimatedTokens: 976
-keywords: [PreliminaryApplicationRef, saved, applications, pre-screening, forms, API, version, 49.0, later, Calls, Associated, Objects]
+keywords: [PreliminaryApplicationRef, saved, applications, pre-screening, forms, API, 49.0]
 ---
-
-# PreliminaryApplicationRef
 
 > Represents the saved applications and pre-screening forms. This object is
     available in API version 49.0 and later.

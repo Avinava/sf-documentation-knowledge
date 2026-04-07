@@ -5,12 +5,10 @@ topic: poll-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.957Z
+lastCollected: 2026-04-07T18:37:09.674Z
 estimatedTokens: 357
-keywords: [Poll, Capability, Input, vote, feed, element]
+keywords: [Poll, Capability, vote]
 ---
-
-# Poll Capability Input
 
 > Create or vote on a poll feed element.
 

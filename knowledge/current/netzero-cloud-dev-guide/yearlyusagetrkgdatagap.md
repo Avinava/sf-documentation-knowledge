@@ -5,12 +5,10 @@ topic: yearlyusagetrkgdatagap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.397Z
+lastCollected: 2026-04-07T18:38:20.076Z
 estimatedTokens: 913
-keywords: [YearlyUsageTrkgDataGap, percentage, gaps, fuel, usage, data, year, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [YearlyUsageTrkgDataGap, percentage, gaps, fuel, year, API, 64.0]
 ---
-
-# YearlyUsageTrkgDataGap
 
 > Represents the percentage of gaps in the fuel usage data in a year. This
       object is available in API version 64.0 and later.

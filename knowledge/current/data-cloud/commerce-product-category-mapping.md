@@ -5,12 +5,10 @@ topic: commerce-product-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.769Z
+lastCollected: 2026-04-07T18:35:52.660Z
 estimatedTokens: 276
-keywords: [Commerce, Product, Category, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
+keywords: [Commerce, Product, Category, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, categories, subcategories, organize, group, products, catalog, storefront, outdoors, outfitter, site, uses, Boots, Climbing, Gear, Outerwear, their, DLO]
 ---
-
-# Commerce: Product Category Mapping
 
 > After a data stream is deployed, the Commerce starter data bundle
          automatically maps data from Commerce Cloud to data model objects (DMO)s in Data Cloud. Product Category data is about categories and

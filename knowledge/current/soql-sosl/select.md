@@ -5,12 +5,10 @@ topic: select
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:15.063Z
+lastCollected: 2026-04-07T18:40:10.022Z
 estimatedTokens: 1698
-keywords: [SELECT, SOQL, query, consists, statement, fieldList, separated, commas, want, retrieve, Usage, Support, Bounded, Unbounded, Queries]
+keywords: [SELECT, SOQL, query, consists, statement, fieldList, separated, commas, want, retrieve, Support, Bounded, Unbounded, Queries, Limiting, Result, Rows, Salesforce, CLI, REST, API, SOAP, Bulk, 2.0, Considerations]
 ---
-
-# SELECT
 
 > SOQL query syntax consists of a required SELECT
 		statement that specifies the fields to query. The fieldList in the SELECT statement specifies the list of one or more fields, separated by

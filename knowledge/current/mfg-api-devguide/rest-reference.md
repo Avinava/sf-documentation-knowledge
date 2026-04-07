@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.482Z
+lastCollected: 2026-04-07T18:38:12.783Z
 estimatedTokens: 241
-keywords: [REST, access, Manufacturing, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Manufacturing, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Manufacturing Cloud Business APIs using REST endpoints. These REST APIs
     follow similar conventions as Connect REST APIs.

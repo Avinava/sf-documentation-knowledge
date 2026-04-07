@@ -5,12 +5,10 @@ topic: promotionexecevalgrpitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.304Z
+lastCollected: 2026-04-07T18:38:10.561Z
 estimatedTokens: 631
-keywords: [PromotionExecEvalGrpItem, either, promotion, group, execution, evaluation, API, version, 65.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [PromotionExecEvalGrpItem, either, promotion, group, execution, evaluation, API, 65.0]
 ---
-
-# PromotionExecEvalGrpItem
 
 > Represents either a promotion or a promotion group in a promotion
          execution evaluation group. This object is available in API version 65.0 and

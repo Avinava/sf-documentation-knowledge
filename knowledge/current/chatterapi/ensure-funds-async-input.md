@@ -5,12 +5,10 @@ topic: ensure-funds-async-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.423Z
+lastCollected: 2026-04-07T18:37:08.241Z
 estimatedTokens: 404
-keywords: [Ensure, Funds, Async, Input, Invoice, apply]
+keywords: [Ensure, Funds, Async, Invoice, apply]
 ---
-
-# Ensure Funds Async Input
 
 > ID of an Invoice to ensure funds for and apply them
     to.

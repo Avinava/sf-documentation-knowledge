@@ -5,12 +5,10 @@ topic: automate-how-agents-accept-and-decline-shift-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.460Z
+lastCollected: 2026-04-07T18:40:14.472Z
 estimatedTokens: 3962
-keywords: [Automate, How, Agents, Accept, Decline, Shift, Assignments, approval, process, link, flow, acknowledge, planner, tentatively, assigns]
+keywords: [Automate, How, Agents, Accept, Decline, Shift, Assignments, approval, process, link, flow, acknowledge, planner, tentatively, assigns, agent, reject, assignment, Home, Records, Standard, Setup, Wizard, Step, Action, Trigger, Test]
 ---
-
-# Automate How Agents Accept and Decline Shift Assignments
 
 > Create an approval process and link it to a flow so that agents can acknowledge shift
   assignments. When a planner tentatively assigns a shift, the agent can accept or reject the shift

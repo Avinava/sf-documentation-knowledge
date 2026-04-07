@@ -5,12 +5,10 @@ topic: retrieve-the-availability-status-of-a-marketing-cloud-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.675Z
+lastCollected: 2026-04-07T18:40:18.879Z
 estimatedTokens: 1247
-keywords: [Retrieve, Availability, Status, Marketing, Cloud, Account, GetSystemStatus, API, call, SOAP, How, Retrieving, System, Container, Scheduled]
+keywords: [Retrieve, Availability, Status, Marketing, Cloud, Account, GetSystemStatus, API, call, SOAP, How, Retrieving, System, Container, Scheduled, Exception, Handling, Sample, Code, Envelope, Items]
 ---
-
-# Retrieve the Availability Status of a Marketing Cloud Account
 
 > You can use the GetSystemStatus API call to retrieve the status of the Marketing Cloud SOAP API.
 

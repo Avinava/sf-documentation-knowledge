@@ -5,12 +5,10 @@ topic: compliancetest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.917Z
+lastCollected: 2026-04-07T18:36:44.621Z
 estimatedTokens: 1011
-keywords: [ComplianceTest, test, designed, validate, compliance, regulatory, requirements, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [ComplianceTest, test, designed, validate, compliance, regulatory, requirements, API, 66.0]
 ---
-
-# ComplianceTest
 
 > Represents a test designed to validate compliance with regulatory
          requirements. This object is available in API version 66.0 and later.

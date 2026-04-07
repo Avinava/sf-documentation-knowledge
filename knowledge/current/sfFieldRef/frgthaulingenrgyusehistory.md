@@ -5,12 +5,10 @@ topic: frgthaulingenrgyusehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:46.874Z
+lastCollected: 2026-04-07T18:39:41.506Z
 estimatedTokens: 271
-keywords: [FrgtHaulingEnrgyUseHistory, History, tracked, FrgtHaulingEnrgyUse]
+keywords: [FrgtHaulingEnrgyUseHistory, tracked, FrgtHaulingEnrgyUse]
 ---
-
-# FrgtHaulingEnrgyUseHistory
 
 > History for tracked fields of FrgtHaulingEnrgyUse.
 

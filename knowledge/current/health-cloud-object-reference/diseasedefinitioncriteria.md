@@ -5,12 +5,10 @@ topic: diseasedefinitioncriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.465Z
+lastCollected: 2026-04-07T18:37:43.629Z
 estimatedTokens: 819
-keywords: [DiseaseDefinitionCriteria, disease, definition, criteria, clinical, laboratory, epidemiologic, linkage, diagnose, diseases, API, version, 64.0, later, Calls]
+keywords: [DiseaseDefinitionCriteria, disease, definition, criteria, clinical, laboratory, epidemiologic, linkage, diagnose, diseases, API, 64.0]
 ---
-
-# DiseaseDefinitionCriteria
 
 > Represents disease definition criteria, such as clinical, laboratory, and
          epidemiologic linkage used to diagnose diseases. This object is available in API

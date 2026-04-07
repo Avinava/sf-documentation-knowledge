@@ -5,12 +5,10 @@ topic: additionalfieldsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.101Z
+lastCollected: 2026-04-07T18:35:40.971Z
 estimatedTokens: 375
-keywords: [AdditionalFieldsInput, include, additional, standard, custom]
+keywords: [AdditionalFieldsInput, include, additional, standard]
 ---
-
-# AdditionalFieldsInput Class
 
 > Contains properties to include the additional standard or custom fields in the
     request.

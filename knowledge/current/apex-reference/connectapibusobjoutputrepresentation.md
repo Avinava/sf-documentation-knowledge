@@ -5,12 +5,10 @@ topic: connectapibusobjoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.112Z
+lastCollected: 2026-04-07T18:36:07.454Z
 estimatedTokens: 121
 keywords: [ConnectApi.BusObjOutputRepresentation, Business, objective, goal]
 ---
-
-# ConnectApi.BusObjOutputRepresentation
 
 > Business objective, or goal.
 

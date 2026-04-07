@@ -5,12 +5,10 @@ topic: cgcloudsystemnumbersegmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.636Z
+lastCollected: 2026-04-07T18:39:15.087Z
 estimatedTokens: 1306
-keywords: [cgcloud__System_Number_Segment__c, Segment, number, definition, API, version, 54.0, later, cgcloud, _System, _Number, _Segment, Calls, Associated, Objects]
+keywords: [cgcloud__System_Number_Segment__c, Segment, number, definition, API, 54.0, cgcloud, _System, _Number, _Segment]
 ---
-
-# cgcloud__System_Number_Segment__c
 
 > Segment of the number definition. This object is available in
       API version 54.0 and later.

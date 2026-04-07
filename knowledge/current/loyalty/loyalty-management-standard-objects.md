@@ -5,12 +5,10 @@ topic: loyalty-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:18.573Z
+lastCollected: 2026-04-07T18:38:08.898Z
 estimatedTokens: 5624
-keywords: [Loyalty, Management, Standard, Objects, data, model, manage, programs, organization, partners, members, track, activities, reward, promotions]
+keywords: [Loyalty, Management, Standard, model, manage, programs, organization, partners, members, track, activities, reward, promotions]
 ---
-
-# Loyalty Management Standard Objects
 
 > Loyalty Management data model provides objects and fields to create and manage loyalty
     programs for your organization. Use the objects to manage partners and members, track members'

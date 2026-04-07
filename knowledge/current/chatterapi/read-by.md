@@ -5,12 +5,9 @@ topic: read-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.361Z
+lastCollected: 2026-04-07T18:37:22.467Z
 estimatedTokens: 149
-keywords: [feed, element]
 ---
-
-# Read By
 
 > Information about who read the feed element and when.
 

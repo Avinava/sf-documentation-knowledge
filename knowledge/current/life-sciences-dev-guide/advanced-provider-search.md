@@ -5,12 +5,10 @@ topic: advanced-provider-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.017Z
+lastCollected: 2026-04-07T18:37:55.433Z
 estimatedTokens: 453
-keywords: [Advanced, Provider, Search, Facilitate, three, distinct, account, searches, Healthcare, HCP, Organization, HCO, license-based, API, processes]
+keywords: [Advanced, Provider, Search, Facilitate, three, distinct, account, searches, Healthcare, HCP, Organization, HCO, license-based, API, processes, contact, point, address, entities.The, business, license, entity]
 ---
-
-# Advanced Provider Search
 
 > Facilitate three distinct types of account searches: Healthcare Provider (HCP),
         Healthcare Organization (HCO), and license-based searches. For HCP and HCO searches, the API

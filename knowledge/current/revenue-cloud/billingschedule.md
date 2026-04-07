@@ -5,12 +5,10 @@ topic: billingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:03.658Z
+lastCollected: 2026-04-07T18:35:48.642Z
 estimatedTokens: 2965
-keywords: [BillingSchedule, order, item, that's, invoicing, process, API, version, 62.0, later, Calls, Special, Access, Rules]
+keywords: [BillingSchedule, order, item, that's, invoicing, process, API, 62.0]
 ---
-
-# BillingSchedule
 
 > Represents information about the order item that's used in the invoicing
          process. This object is available in API version 62.0 and later.

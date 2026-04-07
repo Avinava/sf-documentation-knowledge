@@ -5,12 +5,10 @@ topic: numeric-separators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.959Z
+lastCollected: 2026-04-07T18:36:57.478Z
 estimatedTokens: 131
 keywords: [Numeric, Separators, thousands, decimals, formatting]
 ---
-
-# Numeric Separators
 
 > The numeric separators for thousands and decimals, used in formatting.
 

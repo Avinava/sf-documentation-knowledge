@@ -5,12 +5,10 @@ topic: contentdocumentsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.806Z
+lastCollected: 2026-04-07T18:39:35.256Z
 estimatedTokens: 244
-keywords: [ContentDocumentSubscription, subscription, user, commenting, file, library, API, version, 42.0, later]
+keywords: [ContentDocumentSubscription, subscription, user, commenting, file, library, API, 42.0]
 ---
-
-# ContentDocumentSubscription
 
 > Represents a subscription for a user following or commenting on a file
       in a library. This object is available in API version 42.0 and later.

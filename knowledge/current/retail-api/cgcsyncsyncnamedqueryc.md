@@ -5,12 +5,10 @@ topic: cgcsyncsyncnamedqueryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:19.142Z
+lastCollected: 2026-04-07T18:39:12.594Z
 estimatedTokens: 419
-keywords: [cgc_sync__Sync_Named_Query__c, SOQL, Salesforce, Query, Language, statements, named, API, version, 53.0, later, cgc, _sync, _Named, _Query]
+keywords: [cgc_sync__Sync_Named_Query__c, SOQL, Salesforce, Query, Language, statements, named, API, 53.0, cgc, _sync, _Named, _Query]
 ---
-
-# cgc_sync__Sync_Named_Query__c
 
 > Contains details and SOQL (Salesforce Object Query Language) statements for a
          named query. This object is available in API version 53.0 and later.

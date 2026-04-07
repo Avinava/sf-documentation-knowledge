@@ -5,12 +5,10 @@ topic: stage-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:59.588Z
+lastCollected: 2026-04-07T18:36:45.349Z
 estimatedTokens: 156
-keywords: [Stage, Management, Business, APIs, stages, their, associated, fulfillment, steps, record, Resources]
+keywords: [Stage, Management, Business, APIs, stages, their, fulfillment, steps, record, Resources]
 ---
-
-# Stage Management Business APIs
 
 > Use the Stage Management Business APIs to get the list of stages and their associated
     fulfillment steps for a record.

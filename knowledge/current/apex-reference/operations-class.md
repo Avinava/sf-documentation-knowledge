@@ -5,13 +5,11 @@ topic: operations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.167Z
+lastCollected: 2026-04-07T18:36:00.444Z
 estimatedTokens: 1321
 namespace: Metadata
-keywords: [Operations, execute, metadata, retrieving, deploying, custom, Usage, Retrieve, Deploy, Two, Records, Synchronously, clone, enqueueDeployment, container]
+keywords: [Operations, execute, metadata, retrieving, deploying, Retrieve, Deploy, Two, Records, Synchronously, clone, enqueueDeployment, container, callback, fullNames]
 ---
-
-# Operations Class
 
 > Represents a class to execute metadata operations, such as
       retrieving or deploying custom metadata.

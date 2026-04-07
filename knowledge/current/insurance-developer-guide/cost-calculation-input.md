@@ -5,12 +5,10 @@ topic: cost-calculation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:01.882Z
+lastCollected: 2026-04-07T18:37:50.793Z
 estimatedTokens: 191
-keywords: [Cost, Calculation, Input, representation, calculate, brokerage]
+keywords: [Cost, Calculation, calculate, brokerage]
 ---
-
-# Cost Calculation Input
 
 > Input representation of the request to calculate brokerage cost.
 

@@ -5,12 +5,10 @@ topic: accountplanobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.016Z
+lastCollected: 2026-04-07T18:37:57.574Z
 estimatedTokens: 911
-keywords: [AccountPlanObjective, Life, Sciences, Cloud, extend, standard, Account, Plan, Objective, represent, strategic, objectives, initiatives, pursued, relationship]
+keywords: [AccountPlanObjective, Life, Sciences, Cloud, extend, standard, Account, Plan, Objective, represent, strategic, objectives, initiatives, pursued, relationship, team, customer, enhance, engagement, satisfaction]
 ---
-
-# AccountPlanObjective
 
 > Life Sciences Cloud fields extend the standard Account Plan Objective object
          to represent information about strategic objectives or initiatives pursued by a

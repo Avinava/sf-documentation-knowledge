@@ -5,12 +5,10 @@ topic: smart-data-discovery-model-field-text
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.178Z
+lastCollected: 2026-04-07T18:36:59.669Z
 estimatedTokens: 133
-keywords: [Smart, Data, Discovery, Model, Text, Einstein]
+keywords: [Smart, Discovery, Model, Text, Einstein]
 ---
-
-# Smart Data Discovery Model Field Text
 
 > An Einstein Discovery text model field.
 

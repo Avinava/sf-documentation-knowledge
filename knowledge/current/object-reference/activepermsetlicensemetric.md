@@ -5,12 +5,10 @@ topic: activepermsetlicensemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:33.960Z
+lastCollected: 2026-04-07T18:38:24.897Z
 estimatedTokens: 401
-keywords: [ActivePermSetLicenseMetric, number, active, assigned, purchased, permission, licenses, org, API, version, 52.0, later, Calls]
+keywords: [ActivePermSetLicenseMetric, number, active, assigned, purchased, permission, licenses, org, API, 52.0]
 ---
-
-# ActivePermSetLicenseMetric
 
 > Represents the number of active, assigned, and purchased permission set
          licenses in the org. This object is available in API version 52.0 and later.

@@ -5,12 +5,10 @@ topic: get-a-batch-of-object-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.198Z
+lastCollected: 2026-04-07T18:40:11.187Z
 estimatedTokens: 207
-keywords: [Batch, Metadata, specific, objects, includes, describing, child, relationships, record, theme]
+keywords: [Batch, Metadata, specific, includes, describing, child, relationships, record, theme]
 ---
-
-# Get a Batch of Object Metadata
 
 > Get metadata about specific objects. The response includes a batch
       of metadata describing fields, child relationships, record type, and theme. You can request up

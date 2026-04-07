@@ -5,12 +5,10 @@ topic: communicating-across-the-dom-with-lightning-message-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.607Z
+lastCollected: 2026-04-07T18:38:04.748Z
 estimatedTokens: 879
-keywords: [Communicating, Across, DOM, Lightning, Message, Service, communicate, Visualforce, pages, embedded, Aura, components, web, including, utility]
+keywords: [Communicating, Across, DOM, Lightning, Message, Service, communicate, Visualforce, pages, embedded, Aura, web, including, utility, bar, pop-out, utilities, Choose, whether, subscribes, messages, entire, application, active, area]
 ---
-
-# Communicating Across the DOM with Lightning Message Service
 
 > Use Lightning message service to communicate across the DOM within a Lightning page.
     Communicate between Visualforce pages embedded in the same Lightning page, Aura components, and

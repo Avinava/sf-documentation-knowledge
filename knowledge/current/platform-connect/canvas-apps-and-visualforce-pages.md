@@ -5,12 +5,10 @@ topic: canvas-apps-and-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:04.525Z
+lastCollected: 2026-04-07T18:38:57.321Z
 estimatedTokens: 1233
 keywords: [Canvas, Apps, Visualforce, Pages, addition, standard, lets, expose, app, means, display, anywhere, Known, Limitations]
 ---
-
-# Canvas Apps and Visualforce Pages
 
 > In addition to standard canvas apps, Canvas also lets you expose a canvas app on a
       Visualforce page. This means you can display a canvas app anywhere you can display a

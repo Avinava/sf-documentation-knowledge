@@ -5,12 +5,10 @@ topic: request-static-assets-and-post-forms-directly-from-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.008Z
+lastCollected: 2026-04-07T18:37:24.055Z
 estimatedTokens: 791
-keywords: [Assets, Post, Forms, Directly, HTML, pages, aren’t, hosted, Salesforce, had, difficulty, displaying, user, group, images]
+keywords: [Assets, Post, Forms, Directly, HTML, pages, aren’t, hosted, Salesforce, had, difficulty, displaying, user, group, images, posting, file, attachments, reason, URLs, require, authentication, provided, session, cookie, don't, isn’t, possible, pass, OAuth, token, contexts, <img>, <a>, <form>]
 ---
-
-# Request Static Assets and Post Forms Directly from HTML
 
 > HTML pages that aren’t hosted on Salesforce have
                         had difficulty displaying user and group images and posting file attachments

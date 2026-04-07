@@ -5,12 +5,10 @@ topic: list-scope-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.770Z
+lastCollected: 2026-04-07T18:40:10.748Z
 estimatedTokens: 169
-keywords: [Scope, Input]
+keywords: [Scope]
 ---
-
-# List Scope Input
 
 > List scope to update or create.
 

@@ -5,12 +5,10 @@ topic: throwing-and-handling-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.440Z
+lastCollected: 2026-04-07T18:38:04.594Z
 estimatedTokens: 515
 keywords: [Throwing, Handling, Errors, framework, gives, flexibility, unrecoverable, recoverable, app, JavaScript, code, throw, callback, error, server-side]
 ---
-
-# Throwing and Handling Errors
 
 > The framework gives you flexibility in handling unrecoverable and recoverable app
         errors in JavaScript code. For example, you can throw these errors in a callback when

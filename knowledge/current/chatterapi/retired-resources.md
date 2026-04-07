@@ -5,12 +5,10 @@ topic: retired-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:20.359Z
+lastCollected: 2026-04-07T18:37:07.063Z
 estimatedTokens: 707
 keywords: [Retired, Resources]
 ---
-
-# Retired Resources
 
 > These resources are retired.
 

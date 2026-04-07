@@ -5,12 +5,10 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:40.316Z
+lastCollected: 2026-04-07T18:36:25.818Z
 estimatedTokens: 3245
-keywords: [ExternalDataSource, metadata, associated, external, data, source, sources, manage, connection, integration, content, stored, outside, Salesforce, org]
+keywords: [ExternalDataSource, CustomHttpHeaders, metadata, external, source, sources, manage, connection, integration, content, stored, outside, Salesforce, org, File, Suffix, Directory, Location, customConfiguration, Connect—Cross-Org, Adapter, Connect—OData, 2.0, 4.0, Connect—Custom, ExternalDataSrcDescriptors, Connect, Amazon, DynamoDB, Athena, Wildcard, Support, Manifest]
 ---
-
-# ExternalDataSource
 
 > Represents the metadata associated with an external
       data source. Create external data sources to manage connection details for integration with

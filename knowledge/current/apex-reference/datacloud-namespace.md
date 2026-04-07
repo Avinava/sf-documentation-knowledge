@@ -5,13 +5,11 @@ topic: datacloud-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:29.900Z
+lastCollected: 2026-04-07T18:36:15.212Z
 estimatedTokens: 787
 namespace: Datacloud
-keywords: [Datacloud, classes, retrieving, duplicate, rules, let, control, whether, users, save, records, Salesforce]
+keywords: [Datacloud, classes, retrieving, duplicate, let, control, whether, users, save, records, Salesforce]
 ---
-
-# Datacloud Namespace
 
 > The Datacloud namespace provides classes and
   methods for retrieving information about duplicate rules. Duplicate rules let you control whether

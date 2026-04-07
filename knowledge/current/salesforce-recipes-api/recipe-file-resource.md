@@ -5,12 +5,10 @@ topic: recipe-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.203Z
+lastCollected: 2026-04-07T18:39:18.895Z
 estimatedTokens: 127
-keywords: [Recipe, File, Resource, Data, Prep, recipe's, content, JSON, API, endpoint, internal, debugging, purposes, Modification, URL]
+keywords: [Formats, Recipe, File, Resource, Prep, recipe's, content, JSON, API, endpoint, internal, debugging, purposes, Modification, URL, HTTP]
 ---
-
-# Recipe File Resource
 
 > Returns a Data Prep recipe's file content as JSON. This API endpoint is internal for the 
   recipe UI and is available for debugging and reference purposes only. Modification of this content is not supported.

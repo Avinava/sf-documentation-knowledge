@@ -5,12 +5,10 @@ topic: connect-an-org-to-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.860Z
+lastCollected: 2026-04-07T18:38:46.845Z
 estimatedTokens: 606
-keywords: [Connect, Org, Environment, Hub, Salesforce, orgs, allowing, manage, development, test, trial, environments, except, scratch, location]
+keywords: [Connect, Org, Environment, Hub, Salesforce, orgs, allowing, manage, development, test, trial, environments, except, scratch, location, automatically, discovered, don’t, manually]
 ---
-
-# Connect an Org to the Environment Hub
 
 > You can connect existing Salesforce orgs to the Environment Hub, allowing you to manage
     all your development, test, and trial environments (except scratch orgs) from one location. When

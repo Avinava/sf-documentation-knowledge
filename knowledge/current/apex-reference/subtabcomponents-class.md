@@ -5,13 +5,11 @@ topic: subtabcomponents-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:15.262Z
+lastCollected: 2026-04-07T18:36:00.533Z
 estimatedTokens: 820
 namespace: Metadata
-keywords: [SubtabComponents, custom, console, components, subtabs, Salesforce, Usage, component, containers, clone]
+keywords: [SubtabComponents, console, subtabs, Salesforce, containers, clone]
 ---
-
-# SubtabComponents Class
 
 > Represents custom console components on subtabs in the Salesforce
     console.

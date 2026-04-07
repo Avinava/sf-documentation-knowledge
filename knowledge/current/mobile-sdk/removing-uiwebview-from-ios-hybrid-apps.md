@@ -5,12 +5,10 @@ topic: removing-uiwebview-from-ios-hybrid-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.827Z
+lastCollected: 2026-04-07T18:40:26.149Z
 estimatedTokens: 548
-keywords: [Removing, UIWebView, iOS, Hybrid, Apps, Apple, deprecated, favor, WKWebView, App, Store, recently, announced, timeline, formally]
+keywords: [Removing, UIWebView, iOS, Hybrid, Apps, Apple, deprecated, favor, WKWebView, App, Store, recently, announced, timeline, formally, conform, requirements, Mobile, SDK, removed, references, Frequently, Asked, Questions]
 ---
-
-# Removing UIWebView from iOS Hybrid Apps
 
 > In 2018, Apple deprecated UIWebView in favor of
       WKWebView. The App Store recently announced a timeline

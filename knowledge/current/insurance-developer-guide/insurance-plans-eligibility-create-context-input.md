@@ -5,12 +5,10 @@ topic: insurance-plans-eligibility-create-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.143Z
+lastCollected: 2026-04-07T18:37:51.087Z
 estimatedTokens: 100
-keywords: [Insurance, Plans, Eligibility, Context, Input, representation, checking, plan, creating, new]
+keywords: [Insurance, Plans, Eligibility, Context, checking, plan, creating, new]
 ---
-
-# Insurance Plans Eligibility Create Context Input
 
 > Input representation for checking plan eligibility by creating a new context.
 

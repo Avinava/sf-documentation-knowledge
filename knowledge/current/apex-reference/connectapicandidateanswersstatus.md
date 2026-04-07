@@ -5,12 +5,10 @@ topic: connectapicandidateanswersstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.159Z
+lastCollected: 2026-04-07T18:36:07.525Z
 estimatedTokens: 192
-keywords: [ConnectApi.CandidateAnswersStatus, status, candidate, answers, feed, element]
+keywords: [ConnectApi.CandidateAnswersStatus, status, candidate, answers]
 ---
-
-# ConnectApi.CandidateAnswersStatus
 
 > The status of candidate answers on a feed element.
 

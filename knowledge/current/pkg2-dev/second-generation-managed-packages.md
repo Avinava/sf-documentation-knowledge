@@ -5,12 +5,10 @@ topic: second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:03.676Z
+lastCollected: 2026-04-07T18:38:56.232Z
 estimatedTokens: 1926
-keywords: [Second-Generation, Managed, Packages, packaging, 2GP, ushers, new, way, AppExchange, partners, develop, distribute, manage, their, apps]
+keywords: [Second-Generation, Managed, Packages, packaging, 2GP, ushers, new, way, AppExchange, partners, develop, distribute, manage, their, apps, metadata, organize, source, build, small, modular, integrate, control, system, better, utilize, Apex, code, truth, there, patch, orgs, execute, operations, via, Salesforce, CLI, automate, scripts, Submit, security, review]
 ---
-
-# Second-Generation Managed Packages
 
 > Second-generation managed packaging (managed 2GP) ushers in a new way for AppExchange
     partners to develop, distribute, and manage their apps and metadata. You can use managed 2GP

@@ -5,12 +5,10 @@ topic: crud-based-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.657Z
+lastCollected: 2026-04-07T18:36:23.995Z
 estimatedTokens: 504
-keywords: [CRUD-Based, Calls, work, metadata, components, manner, similar, how, synchronous, API, enterprise, WSDL, act, upon, objects]
+keywords: [CRUD-Based, work, metadata, manner, similar, how, synchronous, API, enterprise, WSDL, act, upon]
 ---
-
-# CRUD-Based Calls
 
 > Use CRUD-based calls to work with metadata components in a manner similar to how
   synchronous API calls in the enterprise WSDL act upon objects.

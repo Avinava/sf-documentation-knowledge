@@ -5,12 +5,10 @@ topic: entitlementtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:39.696Z
+lastCollected: 2026-04-07T18:38:30.514Z
 estimatedTokens: 694
-keywords: [EntitlementTemplate, predefined, terms, customer, support, product, Product2, API, version, 18.0, later, Calls, Special, Access, Rules]
+keywords: [EntitlementTemplate, predefined, terms, customer, support, product, Product2, API, 18.0]
 ---
-
-# EntitlementTemplate
 
 > Represents predefined terms of customer support for a product
       (Product2). This object is available in API version 18.0 and later.

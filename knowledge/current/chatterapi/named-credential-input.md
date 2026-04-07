@@ -5,12 +5,10 @@ topic: named-credential-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.394Z
+lastCollected: 2026-04-07T18:37:09.157Z
 estimatedTokens: 394
-keywords: [Named, Credential, Input]
+keywords: [Named, Credential]
 ---
-
-# Named Credential Input
 
 > Input used to create or update a named credential.
 

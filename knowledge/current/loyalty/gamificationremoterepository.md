@@ -5,12 +5,10 @@ topic: gamificationremoterepository
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.203Z
+lastCollected: 2026-04-07T18:38:08.469Z
 estimatedTokens: 584
-keywords: [GamificationRemoteRepository, invokes, manages, gamification-related, REST, API, requests, interact, Salesforce, gamification, APIs, retrieve, member, games, play]
+keywords: [GamificationRemoteRepository, invokes, manages, gamification-related, REST, API, requests, interact, Salesforce, gamification, APIs, retrieve, member, games, play, game, getGames, getGameReward]
 ---
-
-# GamificationRemoteRepository
 
 > The GamificationRemoteRepository class invokes and
     manages gamification-related REST API requests. Use this class to interact with the Salesforce

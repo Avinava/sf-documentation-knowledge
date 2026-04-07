@@ -5,12 +5,10 @@ topic: pasmetricdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:56.329Z
+lastCollected: 2026-04-07T18:37:44.638Z
 estimatedTokens: 255
 keywords: [PASMetricData, FHIR, resource, maps, CareRequestExchangeInfo, V4.0, Utilization, Management, Model, Mapping]
 ---
-
-# PASMetricData
 
 > The PASMetricData FHIR resource maps to the
    CareRequestExchangeInfo object.

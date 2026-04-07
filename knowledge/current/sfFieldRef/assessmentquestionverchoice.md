@@ -5,12 +5,10 @@ topic: assessmentquestionverchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.442Z
+lastCollected: 2026-04-07T18:39:27.427Z
 estimatedTokens: 340
-keywords: [AssessmentQuestionVerChoice, choice, user, select, assessment, question, version, API, 63.0, later]
+keywords: [AssessmentQuestionVerChoice, choice, user, select, assessment, question, API, 63.0]
 ---
-
-# AssessmentQuestionVerChoice
 
 > Represents a choice a user can select for an assessment question
          version. This object is available in API version 63.0 and later.

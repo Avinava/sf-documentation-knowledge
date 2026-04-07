@@ -5,12 +5,10 @@ topic: adding-location-markers-to-a-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.484Z
+lastCollected: 2026-04-07T18:38:51.746Z
 estimatedTokens: 698
-keywords: [Adding, Location, Markers, Map, add, represent, specific, locations, <apex, mapMarker>, component, include, text, displays, pointer]
+keywords: [Adding, Location, Markers, Map, add, represent, specific, locations, <apex, mapMarker>, include, text, displays, pointer, hovers, over, marker]
 ---
-
-# Adding Location Markers to a Map
 
 > You can add markers to a map to represent specific locations using the <apex:mapMarker> component. You can include text that
     displays when a pointer hovers over the marker.

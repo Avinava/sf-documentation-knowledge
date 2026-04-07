@@ -5,12 +5,10 @@ topic: checkout-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:30.345Z
+lastCollected: 2026-04-07T18:37:17.422Z
 estimatedTokens: 151
 keywords: [Checkout, Error, Commerce, store]
 ---
-
-# Checkout Error
 
 > Error during a Commerce store checkout.
 

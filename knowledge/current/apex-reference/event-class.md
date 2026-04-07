@@ -5,13 +5,11 @@ topic: event-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:16.157Z
+lastCollected: 2026-04-07T18:36:01.413Z
 estimatedTokens: 1923
 namespace: TxnSecurity
-keywords: [Event, action, taken, resource, Entity, Login, attribute, any, Usage, data, entityId, entityName, organizationId, resourceType, timeStamp]
+keywords: [Event, action, taken, resource, Entity, Login, attribute, any, entityId, entityName, organizationId, resourceType, timeStamp, userId]
 ---
-
-# Event Class
 
 > Specifies the action being taken on the resource for an Entity event.
       For example, a Login IP resource for an Entity event could have an action of create. The

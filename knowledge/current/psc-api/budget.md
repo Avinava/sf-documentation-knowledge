@@ -5,12 +5,10 @@ topic: budget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.971Z
+lastCollected: 2026-04-07T18:39:05.961Z
 estimatedTokens: 1252
-keywords: [Budget, Tracks, estimate, future, revenue, expenses, specific, time, period, API, version, 53.0, later, Calls, Special]
+keywords: [Budget, Tracks, estimate, future, revenue, expenses, specific, time, period, API, 53.0]
 ---
-
-# Budget
 
 > Tracks an estimate of future revenue or expenses during a specific
          time period. This object is available in API version 53.0 and later.

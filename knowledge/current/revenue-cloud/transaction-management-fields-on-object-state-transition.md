@@ -5,12 +5,10 @@ topic: transaction-management-fields-on-object-state-transition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:02.941Z
+lastCollected: 2026-04-07T18:35:47.976Z
 estimatedTokens: 148
-keywords: [Transaction, Management, State, Transition, Standard, custom, extend, define, two, statuses, API, version, 60.0, later]
+keywords: [Transaction, Management, State, Transition, Standard, extend, define, two, statuses, API, 60.0]
 ---
-
-# Transaction Management Fields on Object State Transition
 
 > Standard and custom fields extend the standard Object State Transition object
          for use in Transaction Management to define the valid transition between two statuses.

@@ -5,12 +5,10 @@ topic: related-object-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.610Z
+lastCollected: 2026-04-07T18:35:46.578Z
 estimatedTokens: 143
-keywords: [Records, Output, representation, record, API]
+keywords: [Records, record, API]
 ---
-
-# Related Object Records
 
 > Output representation of the related records for a specified record ID and related object
     API name.

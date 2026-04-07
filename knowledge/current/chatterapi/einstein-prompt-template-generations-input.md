@@ -5,12 +5,10 @@ topic: einstein-prompt-template-generations-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:21.356Z
+lastCollected: 2026-04-07T18:37:08.165Z
 estimatedTokens: 339
-keywords: [Einstein, Prompt, Template, Generations, Input, LLM, provider, generation]
+keywords: [Einstein, Prompt, Template, Generations, LLM, provider, generation]
 ---
-
-# Einstein Prompt Template Generations Input
 
 > Prompt template input parameters and LLM provider to use for generation.
 

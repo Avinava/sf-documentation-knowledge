@@ -5,12 +5,10 @@ topic: emailtemplatesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.817Z
+lastCollected: 2026-04-07T18:36:25.267Z
 estimatedTokens: 585
-keywords: [EmailTemplateSettings, org’s, email, template, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative]
+keywords: [EmailTemplateSettings, org’s, email, template, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EmailTemplateSettings
 
 > Represents an org’s email template
             settings. 

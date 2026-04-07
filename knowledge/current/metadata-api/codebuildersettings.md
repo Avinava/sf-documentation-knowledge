@@ -5,12 +5,10 @@ topic: codebuildersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:38.263Z
+lastCollected: 2026-04-07T18:36:23.565Z
 estimatedTokens: 550
-keywords: [CodeBuilderSettings, Code, Builder, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
+keywords: [CodeBuilderSettings, Code, Builder, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CodeBuilderSettings
 
 > Represents Code Builder settings. This type
       extends the Metadata metadata type and inherits its fullName field.

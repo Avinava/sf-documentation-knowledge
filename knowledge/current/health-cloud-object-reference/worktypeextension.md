@@ -5,12 +5,10 @@ topic: worktypeextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.653Z
+lastCollected: 2026-04-07T18:37:48.283Z
 estimatedTokens: 924
-keywords: [WorkTypeExtension, additional, work, Special, Access, Rules, Calls, Associated, Objects]
+keywords: [WorkTypeExtension, additional, work]
 ---
-
-# WorkTypeExtension
 
 > Represents additional information about a work type.
 

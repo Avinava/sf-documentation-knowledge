@@ -5,12 +5,10 @@ topic: priorlearningevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.690Z
+lastCollected: 2026-04-07T18:37:31.836Z
 estimatedTokens: 1150
-keywords: [PriorLearningEvaluation, evaluation, learner's, prior, learning, transfer, API, version, 66.0, later, Calls, Associated, Objects]
+keywords: [PriorLearningEvaluation, evaluation, learner's, prior, learning, transfer, API, 66.0]
 ---
-
-# PriorLearningEvaluation
 
 > Represents the evaluation of a learner's prior learning that can be used for
          a transfer. This object is available in API version 66.0 and later.

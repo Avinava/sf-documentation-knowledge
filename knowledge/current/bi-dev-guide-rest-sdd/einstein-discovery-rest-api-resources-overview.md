@@ -6,13 +6,10 @@ topic: einstein-discovery-rest-api-resources-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:11.958Z
+lastCollected: 2026-04-07T18:36:58.484Z
 estimatedTokens: 608
-keywords: [Einstein, Discovery, REST, API, Resources, access, insights, Filtering, Responses]
+keywords: [Einstein, Discovery, REST, API, Resources, insights, Filtering, Responses]
 ---
-
-# Einstein Discovery
-  REST API Resources Overview
 
 > The Einstein Discovery REST API
   provides resources so you can access your Einstein Discovery insights.

@@ -5,12 +5,10 @@ topic: configuring-an-ios-app-as-an-identity-provider-client
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.790Z
+lastCollected: 2026-04-07T18:40:25.183Z
 estimatedTokens: 581
-keywords: [Configuring, iOS, App, Identity, Provider, Client, configure, any, built, Mobile, SDK, 11.0, later, identify, itself]
+keywords: [Configuring, iOS, App, Identity, Provider, Client, configure, any, built, Mobile, SDK, 11.0, identify, itself, specify, rest, IDP, Keychain, Customizing, Login, Flow, Selection, View]
 ---
-
-# Configuring an iOS App as an Identity Provider Client
 
 > You can configure any app built on Mobile SDK 11.0 or later as
     an identity provider client. You configure it to identify itself as an identity provider client

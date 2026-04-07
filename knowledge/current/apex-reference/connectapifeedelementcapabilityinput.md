@@ -5,12 +5,10 @@ topic: connectapifeedelementcapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.109Z
+lastCollected: 2026-04-07T18:36:05.448Z
 estimatedTokens: 1116
-keywords: [ConnectApi.FeedElementCapabilityInput, feed, element, capability]
+keywords: [ConnectApi.FeedElementCapabilityInput, capability]
 ---
-
-# ConnectApi.FeedElementCapabilityInput
 
 > A feed element capability.
 

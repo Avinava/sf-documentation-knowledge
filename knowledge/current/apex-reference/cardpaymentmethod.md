@@ -5,12 +5,10 @@ topic: cardpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.891Z
+lastCollected: 2026-04-07T18:36:04.106Z
 estimatedTokens: 126
 keywords: [cardPaymentMethod, card, payment, postauthorizaiton]
 ---
-
-# cardPaymentMethod
 
 > The card payment method object used in a postauthorizaiton payment
       method request.

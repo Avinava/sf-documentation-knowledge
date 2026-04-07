@@ -5,12 +5,10 @@ topic: forecasting-my-forecasts-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:27.095Z
+lastCollected: 2026-04-07T18:37:14.061Z
 estimatedTokens: 240
 keywords: [Forecasting, Forecasts, appropriate, user’s, dropdown, menu]
 ---
-
-# Forecasting My Forecasts List
 
 > Get the appropriate list of forecasts for a given user’s dropdown
       menu on the forecasts page.

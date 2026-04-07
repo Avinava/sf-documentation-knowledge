@@ -5,12 +5,10 @@ topic: archiveactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.031Z
+lastCollected: 2026-04-07T18:38:25.984Z
 estimatedTokens: 1163
-keywords: [ArchiveActivity, metadata, retrieved, Archive, process, initiated, action, include, status, tracking, start, end, times, record, counts]
+keywords: [ArchiveActivity, metadata, retrieved, Archive, process, initiated, action, include, status, start, end, times, record, counts, monitoring, auditing, outcomes, API, 65.0]
 ---
-
-# ArchiveActivity
 
 > Represents metadata retrieved for a single Archive process initiated
             by an action. Retrieved metadata can include status tracking, start and end times,

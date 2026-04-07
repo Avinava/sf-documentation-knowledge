@@ -5,12 +5,10 @@ topic: logmn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.272Z
+lastCollected: 2026-04-07T18:37:01.883Z
 estimatedTokens: 85
 keywords: [log, natural, logarithm, base, number, any, positive, non-zero, numeric, range, 1.797e308]
 ---
-
-# log(m,n)
 
 > Returns the natural logarithm (base m) of a number n. The values m and n can be any
   positive, non-zero numeric value in the range 0 < m, n <= 1.797e308 and m ≠ 1.

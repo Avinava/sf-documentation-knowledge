@@ -5,12 +5,10 @@ topic: can-my-customer-switch-to-another-appexchange-checkout-payment-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:53.972Z
+lastCollected: 2026-04-07T18:38:45.801Z
 estimatedTokens: 87
-keywords: [customer, switch, another, AppExchange, Checkout, payment, plan, Yes, Stripe, new, effect, start, billing, period, want]
+keywords: [customer, switch, another, AppExchange, Checkout, payment, plan, Yes, Stripe, new, effect, start, billing, period, want, change, take, immediately, cancel, current, ask, purchase, listing]
 ---
-
-# Can my customer switch to another AppExchange Checkout payment plan?
 
 > Yes, you can switch the customer to another plan in Stripe. The new plan takes effect
     at the start of the next billing period. If you want the change to take effect immediately,

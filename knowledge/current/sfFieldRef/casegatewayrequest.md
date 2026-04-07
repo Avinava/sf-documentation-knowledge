@@ -5,12 +5,10 @@ topic: casegatewayrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.934Z
+lastCollected: 2026-04-07T18:39:33.348Z
 estimatedTokens: 336
-keywords: [CaseGatewayRequest, Holds, JSON, output, Financial, Services, Cloud, flows, serves, endpoint, integration, backend, systems, records, data]
+keywords: [CaseGatewayRequest, Holds, JSON, Financial, Services, Cloud, flows, serves, endpoint, integration, backend, systems, records, interchange, integrated]
 ---
-
-# CaseGatewayRequest
 
 > Holds the JSON output from the Financial Services Cloud flows and serves as an
       endpoint for integration with backend systems. It records the data interchange between the

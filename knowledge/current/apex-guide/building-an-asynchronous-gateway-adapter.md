@@ -5,12 +5,10 @@ topic: building-an-asynchronous-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.559Z
+lastCollected: 2026-04-07T18:36:16.780Z
 estimatedTokens: 1770
-keywords: [Building, Asynchronous, Gateway, Adapter, payments, configuration, platform, transaction, responds, acknowledgment, received, creates, pending, notification, final]
+keywords: [Debugging, Building, Asynchronous, Gateway, Adapter, payments, configuration, platform, transaction, responds, acknowledgment, received, creates, pending, notification, final, status, updates, transaction’s, accordingly, Payment, Definition, Processing, Initial]
 ---
-
-# Building an Asynchronous Gateway Adapter
 
 > In an asynchronous payments configuration, the payments platform first sends
         transaction information to the gateway. The gateway responds with an acknowledgment that it

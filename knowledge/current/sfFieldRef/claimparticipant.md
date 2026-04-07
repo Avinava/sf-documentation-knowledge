@@ -5,12 +5,10 @@ topic: claimparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:39.515Z
+lastCollected: 2026-04-07T18:39:33.944Z
 estimatedTokens: 456
 keywords: [ClaimParticipant, participants, claim, insured, claimants, witnesses, associates, claims, participant, accounts]
 ---
-
-# ClaimParticipant
 
 > Represents the participants of a claim such as those insured, the
          claimants, and the witnesses. The object associates claims with participant

@@ -5,12 +5,10 @@ topic: ai-accelerator-and-scoring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.781Z
+lastCollected: 2026-04-07T18:36:35.251Z
 estimatedTokens: 285
-keywords: [Accelerator, Scoring, Framework, developer, resources, build, deploy, generic, propensity, models, multiple, Industries, cloud, cases, configure]
+keywords: [Accelerator, Scoring, Framework, developer, resources, build, deploy, generic, propensity, models, multiple, Industries, cloud, cases, configure, Einstein, Discovery]
 ---
-
-# AI Accelerator and Scoring Framework
 
 > Use the Scoring Framework developer resources to build and deploy generic propensity
         models for multiple Industries cloud use cases. Also, use the AI Accelerator developer

@@ -5,12 +5,10 @@ topic: rate-limiting-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.238Z
+lastCollected: 2026-04-07T18:40:18.440Z
 estimatedTokens: 298
-keywords: [Rate, Limiting, Errors, Marketing, Cloud, reserves, right, throttle, REST, API, requests, specific, customer, cause, slowed]
+keywords: [Rate, Limiting, Errors, Marketing, Cloud, reserves, right, throttle, REST, API, requests, specific, customer, cause, slowed, system, performance, throttling, depends, necessary, stabilize, operations, occurs, business, unit, user, causing, issue, receiv, Error, Code]
 ---
-
-# Rate Limiting Errors
 
 > Marketing Cloud reserves the right to throttle REST API requests from a specific customer when those API requests cause slowed system performance. The throttling rate depends on the rate necessary to stabilize operations. If this throttling occurs, the business unit or user causing this issue receiv
 

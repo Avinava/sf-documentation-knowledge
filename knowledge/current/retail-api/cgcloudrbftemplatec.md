@@ -5,12 +5,10 @@ topic: cgcloudrbftemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:21.343Z
+lastCollected: 2026-04-07T18:39:14.743Z
 estimatedTokens: 2117
-keywords: [cgcloud__RBF_Template__c, Creation, template, Rate-based, Funding, RBF, records, API, version, 54.0, later, cgcloud, _RBF, _Template, Calls]
+keywords: [cgcloud__RBF_Template__c, Creation, template, Rate-based, Funding, RBF, records, API, 54.0, cgcloud, _RBF, _Template]
 ---
-
-# cgcloud__RBF_Template__c
 
 > Creation template for Rate-based Funding (RBF) records. This
       object is available in API version 54.0 and later.

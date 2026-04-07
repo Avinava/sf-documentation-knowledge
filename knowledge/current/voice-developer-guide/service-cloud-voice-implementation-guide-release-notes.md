@@ -5,12 +5,10 @@ topic: service-cloud-voice-implementation-guide-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:18.146Z
+lastCollected: 2026-04-07T18:40:13.095Z
 estimatedTokens: 360
 keywords: [Service, Cloud, Voice, Implementation, Release, Notes, recent, changes, made, Updates, Spring, ’26]
 ---
-
-# Service Cloud Voice Implementation Guide Release Notes
 
 > This section describes recent changes that have been made to this guide.
 

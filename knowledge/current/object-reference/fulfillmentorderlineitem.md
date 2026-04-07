@@ -5,12 +5,10 @@ topic: fulfillmentorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.183Z
+lastCollected: 2026-04-07T18:38:33.270Z
 estimatedTokens: 2394
-keywords: [FulfillmentOrderLineItem, product, delivery, charge, belonging, FulfillmentOrder, Corresponds, OrderItemSummary, API, version, 48.0, later, Calls, Special, Access]
+keywords: [FulfillmentOrderLineItem, product, delivery, charge, belonging, FulfillmentOrder, Corresponds, OrderItemSummary, API, 48.0]
 ---
-
-# FulfillmentOrderLineItem
 
 > Represents a product or delivery charge belonging to a FulfillmentOrder.
       Corresponds to an OrderItemSummary. This object is available in API version 48.0 and

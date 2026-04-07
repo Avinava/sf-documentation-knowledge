@@ -5,12 +5,10 @@ topic: checking-the-status-of-a-task
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.912Z
+lastCollected: 2026-04-07T18:37:27.954Z
 estimatedTokens: 377
-keywords: [Checking, Status, Task, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t]
+keywords: [Checking, Status, Task, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality, manage, metadata, changes, switch, Salesforce, CLI, modern, developer, experience]
 ---
-
-# Checking the Status of a Task
 
 > The Ant Migration Tool is retired with Spring ’24. The tool continues to
     function for future API versions but isn’t updated with new functionality and isn’t supported.

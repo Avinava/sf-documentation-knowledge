@@ -5,12 +5,10 @@ topic: create-components-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.075Z
+lastCollected: 2026-04-07T18:37:33.418Z
 estimatedTokens: 1164
-keywords: [Components, LWR, Sites, Lightning, web, component, folder, include, configuration, file, named, <component>.js-meta.xml, metadata, including, design]
+keywords: [LWR, Sites, Lightning, web, folder, include, configuration, file, named, <component>.js-meta.xml, metadata, including, design, Experience, Builder]
 ---
-
-# Create Components for LWR Sites
 
 > Each Lightning web component folder must include a configuration file named
         <component>.js-meta.xml. The configuration file

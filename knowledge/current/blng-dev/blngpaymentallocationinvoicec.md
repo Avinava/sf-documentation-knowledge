@@ -5,12 +5,10 @@ topic: blngpaymentallocationinvoicec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:17.224Z
+lastCollected: 2026-04-07T18:37:03.737Z
 estimatedTokens: 931
-keywords: [blng__PaymentAllocationInvoice__c, allocation, payments, specific, invoices, track, manage, how, applied, outstanding, ensuring, accurate, financial, records, reporting]
+keywords: [blng__PaymentAllocationInvoice__c, allocation, payments, specific, invoices, track, manage, how, applied, outstanding, ensuring, accurate, financial, records, reporting, blng, _PaymentAllocationInvoice]
 ---
-
-# blng__PaymentAllocationInvoice__c
 
 > Represents the allocation of payments to specific invoices. This object is used to
       track and manage how payments are applied to outstanding invoices, ensuring accurate financial

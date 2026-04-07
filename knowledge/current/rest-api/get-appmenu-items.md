@@ -5,12 +5,10 @@ topic: get-appmenu-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.213Z
+lastCollected: 2026-04-07T18:36:20.426Z
 estimatedTokens: 100
-keywords: [AppMenu, Items, App, Menu, Salesforce, Lightning, dropdown, resource, REST, API, version, 29.0, later]
+keywords: [AppMenu, Items, App, Menu, Salesforce, Lightning, dropdown, resource, REST, API, 29.0]
 ---
-
-# Get AppMenu Items
 
 > Gets a list of the App Menu items in the Salesforce Lightning dropdown menu. This
   resource is available in REST API version 29.0 and later.

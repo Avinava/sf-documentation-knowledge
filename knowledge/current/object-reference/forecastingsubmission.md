@@ -5,12 +5,10 @@ topic: forecastingsubmission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.018Z
+lastCollected: 2026-04-07T18:38:33.085Z
 estimatedTokens: 698
-keywords: [ForecastingSubmission, submitted, forecast, API, version, 62.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ForecastingSubmission, submitted, forecast, API, 62.0]
 ---
-
-# ForecastingSubmission
 
 > Represents a submitted forecast. This object is available in API version
       62.0 and later.

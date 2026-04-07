@@ -5,12 +5,10 @@ topic: activity-reminders-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.538Z
+lastCollected: 2026-04-07T18:37:16.617Z
 estimatedTokens: 77
 keywords: [Activity, Reminders, Collection, Salesforce, Classic]
 ---
-
-# Activity Reminders Collection
 
 > A collection of activity reminders in Salesforce
     Classic.

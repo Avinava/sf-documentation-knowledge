@@ -5,12 +5,10 @@ topic: integrationhandler-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.486Z
+lastCollected: 2026-04-07T18:37:33.939Z
 estimatedTokens: 625
 keywords: [IntegrationHandler, call, invoke, executeOmniCallback, getOmniContinuation, directly]
 ---
-
-# IntegrationHandler Methods
 
 > The following are methods for IntegrationHandler. You can
         use the call method to invoke the executeOmniCallback or getOmniContinuation method, or you

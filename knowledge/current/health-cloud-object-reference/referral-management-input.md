@@ -5,12 +5,10 @@ topic: referral-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.020Z
+lastCollected: 2026-04-07T18:37:41.018Z
 estimatedTokens: 340
-keywords: [Referral, Management, Input, representation, patient]
+keywords: [Referral, Management, patient]
 ---
-
-# Referral Management Input
 
 > Input representation of the request to create a patient
         referral.

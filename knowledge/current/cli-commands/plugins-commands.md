@@ -5,12 +5,10 @@ topic: plugins-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:54.578Z
+lastCollected: 2026-04-07T18:35:39.375Z
 estimatedTokens: 135
-keywords: [plugins, Commands, 3rd-party, install, discover, Examples, Flags]
+keywords: [Flags, plugins, Commands, 3rd-party, install, discover, Examples]
 ---
-
-# plugins Commands
 
 > See a list of 3rd-party sf plugins you can install.
 

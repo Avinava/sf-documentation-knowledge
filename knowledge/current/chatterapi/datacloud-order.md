@@ -5,12 +5,10 @@ topic: datacloud-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.220Z
+lastCollected: 2026-04-07T18:37:18.306Z
 estimatedTokens: 181
 keywords: [Datacloud, Order, Data.com, records, purchased, purchase]
 ---
-
-# Datacloud Order
 
 > Information about the Data.com records that you purchased and
       details of the purchase.

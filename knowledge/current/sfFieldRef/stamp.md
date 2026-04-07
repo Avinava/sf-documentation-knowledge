@@ -5,12 +5,10 @@ topic: stamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.965Z
+lastCollected: 2026-04-07T18:40:02.664Z
 estimatedTokens: 274
-keywords: [Stamp, User, Specialty, API, version, 39.0, later]
+keywords: [Stamp, User, Specialty, API, 39.0]
 ---
-
-# Stamp
 
 > Represents a User Specialty.
 		This object is available in API version 39.0

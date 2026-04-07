@@ -5,12 +5,10 @@ topic: imperative-apex-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.409Z
+lastCollected: 2026-04-07T18:38:14.859Z
 estimatedTokens: 137
-keywords: [Imperative, Apex, Offline, calls, always, fail, client, device, offline-enabled, mobile, app, it’s, essential, handle, possibility]
+keywords: [Imperative, Apex, Offline, always, fail, client, device, offline-enabled, mobile, app, it’s, essential, handle, possibility, network, failure, error]
 ---
-
-# Imperative Apex While Offline
 
 > Imperative Apex calls always fail when the client device is offline. When using
   imperative Apex in an offline-enabled mobile app, it’s essential to handle the possibility of a

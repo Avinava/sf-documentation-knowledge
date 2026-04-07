@@ -5,12 +5,10 @@ topic: salesforce-dx-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:06:13.238Z
+lastCollected: 2026-04-07T18:40:08.193Z
 estimatedTokens: 257
 keywords: [Salesforce, Release, Notes, recent, updates, changes, development, environments, packaging, platform, tools, APIs]
 ---
-
-# Salesforce DX Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
     development environments, packaging, platform development tools, and Salesforce

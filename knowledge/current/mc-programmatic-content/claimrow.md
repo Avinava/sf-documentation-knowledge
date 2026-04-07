@@ -5,12 +5,10 @@ topic: claimrow
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.633Z
+lastCollected: 2026-04-07T18:40:21.973Z
 estimatedTokens: 753
-keywords: [ClaimRow, Function, Ordinal, data, extension, claim, retrieve, action, column, identify, claimed, row, **Overview**, **Syntax**, Usage]
+keywords: [ClaimRow, Function, Ordinal, extension, claim, retrieve, action, column, identify, claimed, row, **Overview**, **Syntax**]
 ---
-
-# ClaimRow
 
 > ClaimRow(1, 2, 3, 4)
 

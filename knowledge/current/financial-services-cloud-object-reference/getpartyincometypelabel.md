@@ -5,12 +5,10 @@ topic: getpartyincometypelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:46.645Z
+lastCollected: 2026-04-07T18:37:34.135Z
 estimatedTokens: 63
 keywords: [GetPartyIncomeTypeLabel, picklist, party, income, entity]
 ---
-
-# GetPartyIncomeTypeLabel
 
 > Returns the picklist values for the party income type field on the
             party income entity.

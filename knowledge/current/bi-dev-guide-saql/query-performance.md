@@ -5,12 +5,10 @@ topic: query-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.523Z
+lastCollected: 2026-04-07T18:37:01.120Z
 estimatedTokens: 697
 keywords: [Query, Performance, guidelines, structuring, queries, improve]
 ---
-
-# Query Performance
 
 > Here are some guidelines for structuring your queries to improve
   performance.

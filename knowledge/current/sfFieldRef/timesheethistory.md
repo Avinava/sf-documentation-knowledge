@@ -5,12 +5,10 @@ topic: timesheethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:09.358Z
+lastCollected: 2026-04-07T18:40:04.091Z
 estimatedTokens: 256
-keywords: [TimeSheetHistory, History, tracked, TimeSheet]
+keywords: [TimeSheetHistory, tracked, TimeSheet]
 ---
-
-# TimeSheetHistory
 
 > History for tracked fields of TimeSheet.
 

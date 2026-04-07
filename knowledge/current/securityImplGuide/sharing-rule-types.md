@@ -5,12 +5,10 @@ topic: sharing-rule-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.100Z
+lastCollected: 2026-04-07T18:39:23.034Z
 estimatedTokens: 829
-keywords: [Sharing, Rule, base, record, ownership, criteria, Owner-Based, Rules, Criteria-Based, Guest, User]
+keywords: [Sharing, Rule, base, record, ownership, criteria, Owner-Based, Criteria-Based, Guest, User]
 ---
-
-# Sharing Rule Types
 
 > You can base a sharing rule on record ownership or other criteria.
 

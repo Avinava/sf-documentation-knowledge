@@ -5,12 +5,10 @@ topic: cms-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.702Z
+lastCollected: 2026-04-07T18:37:11.491Z
 estimatedTokens: 585
 keywords: [CMS, Channel, managed, content]
 ---
-
-# CMS Channel
 
 > Get, update, or delete a managed content channel.
 

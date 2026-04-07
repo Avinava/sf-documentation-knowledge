@@ -5,12 +5,10 @@ topic: incident
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:42.498Z
+lastCollected: 2026-04-07T18:38:33.673Z
 estimatedTokens: 1893
-keywords: [Incident, any, unplanned, business, interruption, wide-sweeping, impacts, requires, urgent, fix, documenting, history, registration, closure, API]
+keywords: [Incident, any, unplanned, business, interruption, wide-sweeping, impacts, requires, urgent, fix, documenting, registration, closure, API, 53.0]
 ---
-
-# Incident
 
 > An Incident is any unplanned business interruption that has wide-sweeping
          impacts and requires an urgent fix. This object contains the details of the incident,

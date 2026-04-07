@@ -5,12 +5,10 @@ topic: sequence-gap-reconciliation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.727Z
+lastCollected: 2026-04-07T18:35:46.700Z
 estimatedTokens: 273
-keywords: [Sequence, Gap, Reconciliation, Output, representation]
+keywords: [Sequence, Gap, Reconciliation]
 ---
-
-# Sequence Gap Reconciliation
 
 > Output representation of the details of the sequence gap reconciliation.
 

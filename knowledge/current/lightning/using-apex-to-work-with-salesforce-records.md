@@ -5,12 +5,10 @@ topic: using-apex-to-work-with-salesforce-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.647Z
+lastCollected: 2026-04-07T18:38:02.572Z
 estimatedTokens: 1882
-keywords: [Apex, Work, Salesforce, Records, customize, user, Lightning, Data, Service, SOQL, query, select, certain, provisions, that’s]
+keywords: [Apex, Work, Salesforce, Records, customize, user, Lightning, Service, SOQL, query, select, certain, provisions, that’s, managed, handle, refresh, own, Differences, Loading, Record, Criteria]
 ---
-
-# Using Apex to Work with Salesforce Records
 
 > Use Apex only if you need to customize your user interface to do more than what
         Lightning Data Service allows, such as using a SOQL query to select certain records. Apex

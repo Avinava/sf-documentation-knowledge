@@ -5,12 +5,10 @@ topic: filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.631Z
+lastCollected: 2026-04-07T18:37:01.236Z
 estimatedTokens: 690
-keywords: [filter, Selects, rows, dataset, predicate, Usage]
+keywords: [filter, Selects, rows, dataset, predicate]
 ---
-
-# filter
 
 > Selects rows from a dataset based
   on a filter predicate.

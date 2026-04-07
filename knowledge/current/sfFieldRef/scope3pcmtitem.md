@@ -5,12 +5,10 @@ topic: scope3pcmtitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.156Z
+lastCollected: 2026-04-07T18:40:00.926Z
 estimatedTokens: 698
 keywords: [Scope3PcmtItem, procurement, corporate, spending, entry, records, considered, amount, organization, spends, goods, services]
 ---
-
-# Scope3PcmtItem
 
 > Represents the procurement (corporate spending) entry records. Procurement is
          considered as the amount that the organization spends on goods and services.

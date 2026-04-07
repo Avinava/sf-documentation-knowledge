@@ -5,12 +5,10 @@ topic: survey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:50.048Z
+lastCollected: 2026-04-07T18:38:41.806Z
 estimatedTokens: 1276
-keywords: [Survey, Calls, Associated, Objects]
+keywords: [Survey]
 ---
-
-# Survey
 
 > Represents a survey.
 

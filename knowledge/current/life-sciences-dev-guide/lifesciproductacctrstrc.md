@@ -5,12 +5,10 @@ topic: lifesciproductacctrstrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:11.002Z
+lastCollected: 2026-04-07T18:38:00.794Z
 estimatedTokens: 821
-keywords: [LifeSciProductAcctRstrc, product, limitations, account, restrictions, help, facilitate, compliance, detailing, sampling, regulations, company, policies, API, version]
+keywords: [LifeSciProductAcctRstrc, product, limitations, account, restrictions, help, facilitate, compliance, detailing, sampling, regulations, company, policies, API, 65.0]
 ---
-
-# LifeSciProductAcctRstrc
 
 > Represents information about product use limitations for an account. Product
          restrictions help facilitate compliance with product detailing and sampling regulations and

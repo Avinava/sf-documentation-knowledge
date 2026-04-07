@@ -5,12 +5,10 @@ topic: inputs-and-binary-file-upload-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:36.991Z
+lastCollected: 2026-04-07T18:37:24.036Z
 estimatedTokens: 3055
-keywords: [Inputs, Binary, File, Upload, Examples, HTTP, POST, PATCH, PUT, requests, uploading, files, Input, feed, element]
+keywords: [Inputs, Binary, File, Upload, Examples, HTTP, POST, PATCH, PUT, requests, uploading, files, 35.0, earlier, batch, comment, multiple, comments, crop, user, photo, home, external, repository, audio, third-party, vendor, piece, managed, content, variant]
 ---
-
-# Inputs and Binary File Upload Examples
 
 > Make HTTP POST, PATCH, and PUT requests using inputs and learn more about uploading
     binary files.

@@ -5,12 +5,10 @@ topic: salesforce-scheduler-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:35.629Z
+lastCollected: 2026-04-07T18:36:20.863Z
 estimatedTokens: 399
 keywords: [Salesforce, Scheduler, Resources, REST, APIs, appointment, time, slots, service, work, groups, territories]
 ---
-
-# Salesforce Scheduler Resources
 
 > Use Salesforce Scheduler REST APIs to get appointment time slots or available service
   resources based on work type groups and service territories.

@@ -5,12 +5,10 @@ topic: lightningomnichannelworkassigned
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.976Z
+lastCollected: 2026-04-07T18:36:49.047Z
 estimatedTokens: 149
 keywords: [lightning, omniChannelWorkAssigned, agent, assigned, new, work, item]
 ---
-
-# lightning:omniChannelWorkAssigned
 
 > Indicates that an agent has been assigned a new work
             item.

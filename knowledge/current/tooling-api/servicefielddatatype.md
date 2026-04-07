@@ -5,12 +5,10 @@ topic: servicefielddatatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.056Z
+lastCollected: 2026-04-07T18:36:34.469Z
 estimatedTokens: 32
-keywords: [ServiceFieldDataType, Deprecated, API, version, 34.0, removed, 58.0, later]
+keywords: [ServiceFieldDataType, Deprecated, API, 34.0, removed, 58.0]
 ---
-
-# ServiceFieldDataType
 
 > Deprecated in API version 34.0, the
    ServiceFieldDataType object is removed in version 58.0 and later.

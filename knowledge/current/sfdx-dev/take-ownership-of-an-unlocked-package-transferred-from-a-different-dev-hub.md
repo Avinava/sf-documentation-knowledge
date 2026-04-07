@@ -5,12 +5,10 @@ topic: take-ownership-of-an-unlocked-package-transferred-from-a-different-dev-hu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.158Z
+lastCollected: 2026-04-07T18:40:09.109Z
 estimatedTokens: 858
-keywords: [Take, Ownership, Unlocked, Package, Transferred, Different, Dev, Hub, another, Hug, org, Receive, Transfer, Impact, Transfers]
+keywords: [Take, Ownership, Unlocked, Package, Transferred, Different, Dev, Hub, another, Hug, org, Receive, Transfer, Impact, Transfers, IDs, Project, File, New]
 ---
-
-# Take Ownership of an Unlocked Package Transferred from a Different Dev Hub
 
 > You can take ownership of an unlocked package that is transferred from another Dev Hug
   org.

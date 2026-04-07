@@ -5,12 +5,10 @@ topic: extract-grain-parameter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.614Z
+lastCollected: 2026-04-07T18:39:18.300Z
 estimatedTokens: 87
-keywords: [Extract, Grain, Input]
+keywords: [Extract, Grain]
 ---
-
-# Extract Grain Parameter Input
 
 > A parameter for an extract grain field.
 

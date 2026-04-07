@@ -5,12 +5,10 @@ topic: create-an-external-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.842Z
+lastCollected: 2026-04-07T18:37:27.857Z
 estimatedTokens: 507
-keywords: [External, Configurator, Host, Salesforce, Visualforce, pages, web, application, Heroku, easyXDM, library, transfer, data, CPQ]
+keywords: [External, Configurator, Host, Salesforce, Visualforce, pages, web, application, Heroku, easyXDM, library, transfer, CPQ]
 ---
-
-# Create an External Configurator
 
 > Host your configurator in Salesforce using Visualforce pages, or in an external web
   application such as Heroku. Use the easyXDM library to transfer data between your configurator and

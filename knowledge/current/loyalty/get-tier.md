@@ -5,12 +5,10 @@ topic: get-tier
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:18.456Z
+lastCollected: 2026-04-07T18:38:08.767Z
 estimatedTokens: 289
-keywords: [Tier, Retrieve, current, loyalty, program, member, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Tier, Retrieve, current, loyalty, program, member, REST, HTTP]
 ---
-
-# Get Tier
 
 > Retrieve the current tier for a specified loyalty program
   member.

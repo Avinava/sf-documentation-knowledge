@@ -5,12 +5,10 @@ topic: partnerfundclaimhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.324Z
+lastCollected: 2026-04-07T18:39:51.738Z
 estimatedTokens: 265
-keywords: [PartnerFundClaimHistory, History, tracked, PartnerFundClaim]
+keywords: [PartnerFundClaimHistory, tracked, PartnerFundClaim]
 ---
-
-# PartnerFundClaimHistory
 
 > History for tracked fields of PartnerFundClaim.
 

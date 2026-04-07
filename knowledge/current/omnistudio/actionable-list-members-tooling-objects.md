@@ -5,12 +5,10 @@ topic: actionable-list-members-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.611Z
+lastCollected: 2026-04-07T18:36:35.078Z
 estimatedTokens: 205
-keywords: [Actionable, Members, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, various, retrieve]
+keywords: [Actionable, Members, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, various, retrieve, smaller, pieces]
 ---
-
-# Actionable List Members Tooling Objects
 
 > Tooling API exposes metadata
     used in developer tooling. You can access the metadata through REST or SOAP. Use Tooling API’s

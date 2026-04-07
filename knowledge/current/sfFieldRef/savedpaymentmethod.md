@@ -5,12 +5,10 @@ topic: savedpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:05.987Z
+lastCollected: 2026-04-07T18:40:00.736Z
 estimatedTokens: 813
-keywords: [SavedPaymentMethod, payment, saved, authenticated, customer, API, version, 58.0, later]
+keywords: [SavedPaymentMethod, payment, saved, authenticated, customer, API, 58.0]
 ---
-
-# SavedPaymentMethod
 
 > Represents a payment method saved by an authenticated customer. This
       object is available in API version 58.0 and later

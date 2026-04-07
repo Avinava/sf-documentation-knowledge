@@ -5,12 +5,10 @@ topic: pin-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.950Z
+lastCollected: 2026-04-07T18:37:09.667Z
 estimatedTokens: 152
-keywords: [Pin, Capability, Input, unpin, feed, element]
+keywords: [Pin, Capability, unpin]
 ---
-
-# Pin Capability Input
 
 > Pin or unpin a feed element to a feed.
 

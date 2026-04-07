@@ -5,12 +5,10 @@ topic: connectapiinsurancetransactionbillinginputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.166Z
+lastCollected: 2026-04-07T18:37:50.011Z
 estimatedTokens: 92
-keywords: [Input, representation, billing, schedules, insurance, transaction]
+keywords: [billing, schedules, insurance, transaction]
 ---
-
-# ConnectApi.InsuranceTransactionBillingInputRepresentation
 
 > Input representation of the details to create billing schedules from an insurance
         transaction.

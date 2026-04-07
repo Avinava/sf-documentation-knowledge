@@ -5,12 +5,10 @@ topic: rebateclaimadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.031Z
+lastCollected: 2026-04-07T18:37:06.735Z
 estimatedTokens: 506
-keywords: [RebateClaimAdjustment, adjustments, made, rebate, claim, API, version, 58.0, later, Calls]
+keywords: [RebateClaimAdjustment, adjustments, made, rebate, claim, API, 58.0]
 ---
-
-# RebateClaimAdjustment
 
 > Represents information about the adjustments made to the rebate
          claim. This object is available in API version 58.0 and later.

@@ -5,12 +5,10 @@ topic: rule-action-parameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.004Z
+lastCollected: 2026-04-07T18:38:08.256Z
 estimatedTokens: 187
-keywords: [Rule, Action, Output, representation, promotion]
+keywords: [Rule, Action, promotion]
 ---
-
-# Rule Action Parameter
 
 > Output representation of the details of a promotion rule action parameter.
 

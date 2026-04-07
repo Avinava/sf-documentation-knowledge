@@ -5,12 +5,10 @@ topic: get-pushv1messagemessageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.516Z
+lastCollected: 2026-04-07T18:40:18.715Z
 estimatedTokens: 529
-keywords: [push, message, messageID, Retrieves, currently, defined, account, **Overview**, Usage]
+keywords: [push, message, messageID, Retrieves, currently, defined, account, **Overview**]
 ---
-
-# GET /push/v1/message/{messageID}
 
 > Retrieves a single message currently defined within an account.
 

@@ -5,12 +5,10 @@ topic: digest-job-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.301Z
+lastCollected: 2026-04-07T18:37:08.109Z
 estimatedTokens: 127
-keywords: [Digest, Job, Input, Submit, daily, weekly, Chatter, email]
+keywords: [Digest, Job, Submit, daily, weekly, Chatter, email]
 ---
-
-# Digest Job Input
 
 > Submit a daily or weekly Chatter email digest job.
 

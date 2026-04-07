@@ -5,12 +5,10 @@ topic: compute-relative-sort-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:24.543Z
+lastCollected: 2026-04-07T18:39:18.227Z
 estimatedTokens: 102
-keywords: [Compute, Relative, Sort, Input, node, recipe]
+keywords: [Compute, Relative, Sort, node, recipe]
 ---
-
-# Compute Relative Sort Parameters Input
 
 > The sort parameters for a compute relative node in a recipe.
 

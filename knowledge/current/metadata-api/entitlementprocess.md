@@ -5,12 +5,10 @@ topic: entitlementprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.992Z
+lastCollected: 2026-04-07T18:36:25.474Z
 estimatedTokens: 1692
-keywords: [EntitlementProcess, settings, entitlement, process, File, Suffix, Directory, Location, Version, EntitlementProcessMilestoneItem, EntitlementProcessMilestoneTimeTrigger, Declarative, Metadata, Sample, Definition]
+keywords: [EntitlementProcess, EntitlementProcessMilestoneItem, EntitlementProcessMilestoneTimeTrigger, settings, entitlement, process, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# EntitlementProcess
 
 > Represents the settings for an entitlement
             process.

@@ -5,12 +5,10 @@ topic: refresh-job-refresh-tasks-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:12.634Z
+lastCollected: 2026-04-07T18:36:59.130Z
 estimatedTokens: 175
 keywords: [Refresh, Job, Tasks, Resource, collection, Einstein, Discovery]
 ---
-
-# Refresh Job Refresh Tasks Resource
 
 > Returns a collection of refresh tasks for an Einstein Discovery refresh job.
 

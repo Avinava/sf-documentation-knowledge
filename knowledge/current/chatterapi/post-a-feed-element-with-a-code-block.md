@@ -5,12 +5,10 @@ topic: post-a-feed-element-with-a-code-block
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.274Z
+lastCollected: 2026-04-07T18:37:24.318Z
 estimatedTokens: 466
-keywords: [Post, Feed, Element, Code, Block, Chatter]
+keywords: [Post, Code, Block, Chatter]
 ---
-
-# Post a Feed Element with a Code Block
 
 > Post a feed element with a code block in Chatter.
 

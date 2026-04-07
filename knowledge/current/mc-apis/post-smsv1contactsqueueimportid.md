@@ -5,12 +5,10 @@ topic: post-smsv1contactsqueueimportid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:23.224Z
+lastCollected: 2026-04-07T18:40:18.426Z
 estimatedTokens: 479
-keywords: [POST, sms, contacts, queueImport, Queues, contact, import, **Overview**, Usage]
+keywords: [POST, sms, contacts, queueImport, Queues, contact, import, **Overview**]
 ---
-
-# POST /sms/v1/contacts/queueImport/{id}
 
 > Queues a contact import.
 

@@ -5,12 +5,10 @@ topic: get-most-recently-used-list-view-records-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.182Z
+lastCollected: 2026-04-07T18:40:11.172Z
 estimatedTokens: 634
-keywords: [Recently, View, Records, Deprecated, record, data, object’s, MRU]
+keywords: [Recently, View, Records, Deprecated, record, object’s, MRU]
 ---
-
-# Get Most Recently Used List View Records (Deprecated)
 
 > Get record data for an object’s most recently used (MRU) list
       view.

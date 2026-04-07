@@ -5,12 +5,10 @@ topic: adquotelineadtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.953Z
+lastCollected: 2026-04-07T18:38:12.247Z
 estimatedTokens: 919
-keywords: [AdQuoteLineAdTarget, selections, made, user, against, specific, quote, line, item, particular, category, API, version, 55.0, later]
+keywords: [AdQuoteLineAdTarget, selections, made, user, against, specific, quote, line, item, particular, category, API, 55.0]
 ---
-
-# AdQuoteLineAdTarget
 
 > Represents the selections made by the user against a specific ad quote line item for a
       particular category. This object is available in API version 55.0 and later.

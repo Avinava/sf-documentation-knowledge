@@ -5,12 +5,10 @@ topic: create-a-content-area
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.993Z
+lastCollected: 2026-04-07T18:40:24.503Z
 estimatedTokens: 661
-keywords: [Content, Area, Post, new, Marketing, Cloud, account, Ruby, PHP, Python, CSharp, Java]
+keywords: [Ruby, Python, CSharp, Java, Content, Area, Post, new, Marketing, Cloud, account, PHP]
 ---
-
-# Create a Content Area
 
 > Use the Post method to create a new content area within a Marketing Cloud account.
 

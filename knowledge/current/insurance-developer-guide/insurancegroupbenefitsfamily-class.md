@@ -5,13 +5,11 @@ topic: insurancegroupbenefitsfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.594Z
+lastCollected: 2026-04-07T18:37:49.440Z
 estimatedTokens: 169
 namespace: ConnectApi
-keywords: [InsuranceGroupBenefitsFamily, Effectively, manage, insurance, plans, offered, groups, employees, their, dependents, Group, Benefits, feature, Digital, platform]
+keywords: [InsuranceGroupBenefitsFamily, Effectively, manage, insurance, plans, offered, groups, employees, their, dependents, Group, Benefits, feature, Digital, platform, Simplify, workflow, unified, processes, including, census, management, quote, configuration, pricing, contract, creation, enrollment]
 ---
-
-# InsuranceGroupBenefitsFamily Class
 
 > Effectively manage the insurance plans that are offered to groups, such as employees and
   their dependents, by using the Group Benefits feature on the Digital Insurance platform. Simplify

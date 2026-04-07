@@ -5,12 +5,10 @@ topic: getting-labels-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.454Z
+lastCollected: 2026-04-07T18:38:04.608Z
 estimatedTokens: 605
-keywords: [Getting, Labels, Apex, retrieve, label, code, component, JavaScript, Custom, Passing, Retrieving, System.Label]
+keywords: [Getting, Labels, Apex, retrieve, label, code, JavaScript, Passing, Retrieving, System.Label]
 ---
-
-# Getting Labels in Apex
 
 > You can retrieve label values in Apex code and set them on your
         component using JavaScript.

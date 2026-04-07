@@ -5,12 +5,10 @@ topic: event-driven-software-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.196Z
+lastCollected: 2026-04-07T18:38:58.010Z
 estimatedTokens: 729
-keywords: [Event-Driven, Software, Architecture, message-driven, consists, event, producers, consumers, channels, suitable, large, distributed, systems, because, decouples]
+keywords: [Event-Driven, Software, Architecture, message-driven, consists, event, producers, consumers, channels, suitable, large, distributed, systems, because, decouples, thereby, simplifying, communication, model, connected, Bus]
 ---
-
-# Event-Driven Software Architecture
 
 > An event-driven (or message-driven) software architecture consists
       of event producers, event consumers, and channels. The architecture is suitable for large

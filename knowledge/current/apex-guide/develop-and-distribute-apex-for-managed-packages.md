@@ -5,12 +5,10 @@ topic: develop-and-distribute-apex-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.778Z
+lastCollected: 2026-04-07T18:36:17.999Z
 estimatedTokens: 2002
-keywords: [Develop, Distribute, Apex, Managed, Packages, independent, software, vendor, ISV, Salesforce, partner, code, customer, orgs, first-generation]
+keywords: [Develop, Distribute, Apex, Managed, Packages, independent, software, vendor, ISV, Salesforce, partner, code, customer, orgs, first-generation, 1GP, migrated, second-generation, 2GP, versioning, evolve, package, gracefully, breaking, integrations, Understand, how, behaves, specifically, agents]
 ---
-
-# Develop and Distribute Apex for Managed Packages
 
 > As an independent software vendor (ISV) or Salesforce partner, you can distribute
         Apex code to customer orgs by using managed packages. For first-generation managed packages

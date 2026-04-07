@@ -5,12 +5,10 @@ topic: salesforce-crm-group-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:07.498Z
+lastCollected: 2026-04-07T18:35:52.359Z
 estimatedTokens: 212
-keywords: [Salesforce, CRM, Group, Mapping, data, mappings, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
+keywords: [Salesforce, CRM, Group, Mapping, mappings, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---
-
-# Salesforce CRM: Group Mapping
 
 > These data mappings are for the Group DLO found in the Services bundle of the Salesforce
   CRM Connector for Data Cloud.

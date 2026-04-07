@@ -5,12 +5,10 @@ topic: connectapicontentattachmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:19.732Z
+lastCollected: 2026-04-07T18:36:05.091Z
 estimatedTokens: 218
-keywords: [ConnectApi.ContentAttachmentInput, attach, content, comment, feed, item]
+keywords: [ConnectApi.ContentAttachmentInput, attach, content, comment, item]
 ---
-
-# ConnectApi.ContentAttachmentInput
 
 > Used to attach existing content to a comment or feed item.
 

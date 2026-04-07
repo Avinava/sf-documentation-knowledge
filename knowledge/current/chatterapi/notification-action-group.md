@@ -5,12 +5,10 @@ topic: notification-action-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.875Z
+lastCollected: 2026-04-07T18:37:21.069Z
 estimatedTokens: 130
 keywords: [Notification, Action, Group]
 ---
-
-# Notification Action Group
 
 > Notification action group information.
 

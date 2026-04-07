@@ -5,12 +5,10 @@ topic: pipeline-stage-sfdevopspipelinestagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.611Z
+lastCollected: 2026-04-07T18:37:28.674Z
 estimatedTokens: 1486
-keywords: [Pipeline, Stage, sf_devops__Pipeline_Stage__c, connection, environment, collection, stages, project, release, orgs, DevOps, Center, installed, _devops, _Pipeline]
+keywords: [Pipeline, Stage, sf_devops__Pipeline_Stage__c, connection, environment, collection, stages, project, release, orgs, DevOps, Center, installed, _devops, _Pipeline, _Stage]
 ---
-
-# Pipeline Stage (sf_devops__Pipeline_Stage__c)
 
 > Represents a connection from a pipeline to an environment; the
          collection of all pipeline stages in a project make up the release pipeline. This

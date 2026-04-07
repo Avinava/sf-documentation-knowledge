@@ -5,12 +5,10 @@ topic: live-connection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.890Z
+lastCollected: 2026-04-07T18:36:57.411Z
 estimatedTokens: 320
 keywords: [Live, Connection, Analytics, dataset]
 ---
-
-# Live Connection
 
 > The connection details of an Analytics live dataset.
 

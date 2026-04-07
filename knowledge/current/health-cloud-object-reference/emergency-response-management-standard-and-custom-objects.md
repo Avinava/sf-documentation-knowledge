@@ -5,12 +5,10 @@ topic: emergency-response-management-standard-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.024Z
+lastCollected: 2026-04-07T18:37:42.189Z
 estimatedTokens: 415
-keywords: [Emergency, Management, Standard, Custom, Objects, Salesforce, rich, store, access]
+keywords: [Emergency, Management, Standard, Salesforce, rich, store]
 ---
-
-# Emergency Response Management Standard and Custom Objects
 
 > Salesforce Emergency Response Management provides a rich set of standard and custom
       objects to store and access emergency response information.

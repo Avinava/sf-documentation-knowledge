@@ -5,12 +5,10 @@ topic: unified-object-search-result-map-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.039Z
+lastCollected: 2026-04-07T18:39:03.267Z
 estimatedTokens: 91
-keywords: [Unified, Search, Result, Map, Data, Output, representation, records]
+keywords: [Unified, Search, Result, Map, records]
 ---
-
-# Unified Object Search Result Map Data
 
 > Output representation of the list of unified object search result map data
     records.

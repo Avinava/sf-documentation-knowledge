@@ -5,12 +5,10 @@ topic: account-user-territory-info-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.404Z
+lastCollected: 2026-04-07T18:37:54.734Z
 estimatedTokens: 139
-keywords: [Account, User, Territory, Info, Input, representation]
+keywords: [Account, User, Territory, Info]
 ---
-
-# Account User Territory Info Input
 
 > Input representation of the Account User Territory Information.
 

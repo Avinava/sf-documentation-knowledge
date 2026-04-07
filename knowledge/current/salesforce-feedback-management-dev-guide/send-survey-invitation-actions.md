@@ -5,12 +5,10 @@ topic: send-survey-invitation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:23.171Z
+lastCollected: 2026-04-07T18:39:16.766Z
 estimatedTokens: 549
-keywords: [Send, Survey, Invitation, Actions, email, invitations, leads, contacts, users, org, action, customer, support, case, closes]
+keywords: [Inputs, Outputs, Send, Survey, Invitation, Actions, email, invitations, leads, contacts, users, org, action, customer, support, case, closes, REST, HTTP]
 ---
-
-# Send Survey Invitation Actions
 
 > Send email survey invitations to leads, contacts, and users in your org
 			based on an action. For example, send a survey invitation when a customer support case

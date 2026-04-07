@@ -5,12 +5,10 @@ topic: connectapicorporatememberoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:16.780Z
+lastCollected: 2026-04-07T18:38:06.993Z
 estimatedTokens: 204
-keywords: [ConnectApi.CorporateMemberOutput, Output, representation, corporate, member, enrollment]
+keywords: [ConnectApi.CorporateMemberOutput, corporate, member, enrollment]
 ---
-
-# ConnectApi.CorporateMemberOutput
 
 > Output representation of the corporate member enrollment create
       request.

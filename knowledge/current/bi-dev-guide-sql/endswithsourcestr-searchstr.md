@@ -6,13 +6,10 @@ topic: endswithsourcestr-searchstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.393Z
+lastCollected: 2026-04-07T18:37:02.000Z
 estimatedTokens: 134
 keywords: [ends_with, source_str, search_str, indicating, whether, ends, search, _with, source, _str]
 ---
-
-# ends_with(source_str,
-    search_str)
 
 > Returns a Boolean indicating whether a string ends with the search string.
 

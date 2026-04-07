@@ -5,12 +5,10 @@ topic: cgcloudorderpaymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:20.644Z
+lastCollected: 2026-04-07T18:39:14.034Z
 estimatedTokens: 1512
-keywords: [cgcloud__Order_Payment__c, Holds, attributes, Order, Payment, API, version, 54.0, later, cgcloud, _Order, _Payment, Calls, Associated, Objects]
+keywords: [cgcloud__Order_Payment__c, Holds, attributes, Order, Payment, API, 54.0, cgcloud, _Order, _Payment]
 ---
-
-# cgcloud__Order_Payment__c
 
 > Holds the attributes of the Order Payment object. This object is
       available in API version 54.0 and later.

@@ -5,12 +5,10 @@ topic: cgcloudpromotionsalesfolderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.213Z
+lastCollected: 2026-04-07T18:39:14.614Z
 estimatedTokens: 1455
-keywords: [cgcloud__Promotion_Sales_Folder__c, Junction, Promotion, Sales, folder, API, version, 54.0, later, cgcloud, _Promotion, _Sales, _Folder, Calls, Associated]
+keywords: [cgcloud__Promotion_Sales_Folder__c, Junction, Promotion, Sales, folder, API, 54.0, cgcloud, _Promotion, _Sales, _Folder]
 ---
-
-# cgcloud__Promotion_Sales_Folder__c
 
 > Junction object between Promotion and Sales folder. This object
       is available in API version 54.0 and later.

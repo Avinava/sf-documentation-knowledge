@@ -5,12 +5,10 @@ topic: connectapicreatepolicylimitsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.857Z
+lastCollected: 2026-04-07T18:37:49.749Z
 estimatedTokens: 90
-keywords: [Input, representation, creating, insurance, policy, limit, records]
+keywords: [creating, insurance, policy, limit, records]
 ---
-
-# ConnectApi.CreatePolicyLimitsInputRepresentation
 
 > Input representation for creating insurance policy limit records.
 

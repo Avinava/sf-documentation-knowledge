@@ -5,12 +5,10 @@ topic: asset-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.519Z
+lastCollected: 2026-04-07T18:37:35.133Z
 estimatedTokens: 792
-keywords: [Asset, Output, borrower's, co-borrower's, current, personal, real]
+keywords: [Asset, borrower's, co-borrower's, current, personal, real]
 ---
-
-# Asset Output
 
 > Represents details about the borrower's and co-borrower's current
       personal and real property.

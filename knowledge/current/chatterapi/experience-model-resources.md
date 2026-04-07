@@ -5,12 +5,10 @@ topic: experience-model-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:26.456Z
+lastCollected: 2026-04-07T18:37:13.409Z
 estimatedTokens: 81
 keywords: [Experience, Model, Resources]
 ---
-
-# Experience Model Resources
 
 > Get experience model property types.
 

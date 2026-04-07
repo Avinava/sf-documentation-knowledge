@@ -5,12 +5,10 @@ topic: create-your-amazon-s3-bucket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.921Z
+lastCollected: 2026-04-07T18:38:09.215Z
 estimatedTokens: 135
-keywords: [Amazon, Bucket, store, receipt, images, any, data, AWS]
+keywords: [Amazon, Bucket, store, receipt, images, any, AWS]
 ---
-
-# Create Your Amazon S3 Bucket
 
 > Create a bucket to store your receipt images and any other data in AWS.
 

@@ -5,12 +5,10 @@ topic: dashboard-context-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.398Z
+lastCollected: 2026-04-07T18:36:56.927Z
 estimatedTokens: 240
-keywords: [Dashboard, Context, Asset, contextual, representation, embedded, Analytics]
+keywords: [Dashboard, Context, Asset, contextual, embedded, Analytics]
 ---
-
-# Dashboard Context Asset
 
 > A contextual representation of an embedded Analytics dashboard.
 

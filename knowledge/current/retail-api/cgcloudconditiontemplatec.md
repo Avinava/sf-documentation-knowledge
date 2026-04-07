@@ -5,12 +5,10 @@ topic: cgcloudconditiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.710Z
+lastCollected: 2026-04-07T18:39:13.120Z
 estimatedTokens: 1496
-keywords: [cgcloud__Condition_Template__c, Stores, condition, template, API, version, 54.0, later, cgcloud, _Condition, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Condition_Template__c, Stores, condition, template, API, 54.0, cgcloud, _Condition, _Template]
 ---
-
-# cgcloud__Condition_Template__c
 
 > Stores the details of the condition template object. This object
       is available in API version 54.0 and later.

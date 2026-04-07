@@ -5,12 +5,10 @@ topic: salesforce-crm-alert-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.097Z
+lastCollected: 2026-04-07T18:35:53.030Z
 estimatedTokens: 260
-keywords: [Salesforce, CRM, Alert, Mappings, data, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage, DMO, Mapping]
+keywords: [Salesforce, CRM, Alert, Mappings, DLO, found, Financial, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---
-
-# Salesforce CRM: Alert Mappings
 
 > These data mappings are for the Alert DLO found in the Financial Services Cloud bundle
   of the Salesforce CRM Connector for Data Cloud.

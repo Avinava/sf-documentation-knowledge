@@ -5,12 +5,10 @@ topic: case-create-deflection-signal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:39.663Z
+lastCollected: 2026-04-07T18:37:26.585Z
 estimatedTokens: 914
-keywords: [Case, Deflection, Signal, lightningcommunity, deflectionSignal, event, fired, Aura, site, user, deflected, away, creating, customer, views]
+keywords: [Attributes, Examples, Case, Deflection, Signal, lightningcommunity, deflectionSignal, event, fired, Aura, site, user, deflected, away, creating, customer, views, article, discussion, they’re, asked, interaction, helpful, whether, they, want, abandon, their]
 ---
-
-# Case Create Deflection Signal
 
 > The lightningcommunity:deflectionSignal event is
     fired in an Aura site when a user is deflected away from creating a customer case. After a user

@@ -5,12 +5,10 @@ topic: benefits-verification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:06.182Z
+lastCollected: 2026-04-07T18:37:55.642Z
 estimatedTokens: 344
 keywords: [Benefits, Verification, POST, Verify, API, call, main, resource, checking, health, patient]
 ---
-
-# Benefits Verification (POST)
 
 > The Verify Benefits API call is the main resource for checking which
       health benefits are available to a patient.

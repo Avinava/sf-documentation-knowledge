@@ -5,13 +5,11 @@ topic: benefitdisbursementiaoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:07.334Z
+lastCollected: 2026-04-07T18:39:00.404Z
 estimatedTokens: 732
 namespace: PublicSectrSltn
-keywords: [BenefitDisbursementIAOutput, disbursement, eligible, benefit, assignment, created, previewed, Usage, benefitAssignmentId, benefitDisbursements, isPreviewMode]
+keywords: [BenefitDisbursementIAOutput, disbursement, eligible, benefit, assignment, created, previewed, benefitAssignmentId, benefitDisbursements, isPreviewMode]
 ---
-
-# BenefitDisbursementIAOutput Class
 
 > This class contains details about the disbursement for the eligible
       benefit assignment that is created or is to be previewed.

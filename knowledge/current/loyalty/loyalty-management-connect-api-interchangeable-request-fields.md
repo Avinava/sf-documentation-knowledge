@@ -5,12 +5,10 @@ topic: loyalty-management-connect-api-interchangeable-request-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.589Z
+lastCollected: 2026-04-07T18:38:08.917Z
 estimatedTokens: 316
-keywords: [Loyalty, Management, Connect, API, Interchangeable, Business, supports, JSON, requests, either, number, don’t, want, store, Salesforce]
+keywords: [Loyalty, Management, Connect, API, Interchangeable, Business, supports, JSON, requests, either, number, don’t, want, store, Salesforce, IDs, accessing, Management-related, external, system, simply, numbers, instead]
 ---
-
-# Loyalty Management Connect API Interchangeable Request Fields
 
 > The Loyalty Management Business API supports interchangeable fields in JSON requests.
     For some of the request fields, you can use either an ID, number, or name. For example, if you

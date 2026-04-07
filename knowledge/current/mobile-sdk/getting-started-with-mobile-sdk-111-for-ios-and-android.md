@@ -6,13 +6,10 @@ topic: getting-started-with-mobile-sdk-111-for-ios-and-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.578Z
+lastCollected: 2026-04-07T18:40:25.960Z
 estimatedTokens: 195
-keywords: [Getting, Started, Mobile, SDK, 11.1, iOS, Android, Let’s, creating, custom, apps, haven’t, already, begin, signing]
+keywords: [Getting, Started, Mobile, SDK, 11.1, iOS, Android, Let’s, creating, apps, haven’t, already, begin, signing, Salesforce, installing, development, tools]
 ---
-
-# Getting Started With Mobile SDK 11.1 for
-    iOS and Android
 
 > Let’s get started creating custom mobile apps! If you haven’t done so already,
     begin by signing up for Salesforce and installing Mobile SDK development tools.

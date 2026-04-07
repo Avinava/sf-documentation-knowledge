@@ -5,13 +5,11 @@ topic: repricing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.496Z
+lastCollected: 2026-04-07T18:35:58.765Z
 estimatedTokens: 1617
 namespace: ConnectApi
-keywords: [Repricing, product, web, store, productDetails, webstoreId, skuOrProductId, effectiveAccountId, currencyCode, locale, API, Version, Requires, Chatter, searchProducts]
+keywords: [Repricing, product, web, store, productDetails, webstoreId, skuOrProductId, effectiveAccountId, currencyCode, locale, API, Requires, Chatter, searchProducts, searchTerm, pageParam, pageSize, facets]
 ---
-
-# Repricing Class
 
 > Get details of a product in a web store.
 

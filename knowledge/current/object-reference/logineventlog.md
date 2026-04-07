@@ -5,12 +5,10 @@ topic: logineventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:44.050Z
+lastCollected: 2026-04-07T18:38:35.290Z
 estimatedTokens: 2130
-keywords: [LoginEventLog, Login, event, logs, contain, Salesforce, org's, user, history, API, version, 61.0, later, Calls, Special]
+keywords: [LoginEventLog, Login, event, logs, contain, Salesforce, org's, user, API, 61.0]
 ---
-
-# LoginEventLog
 
 > Login event logs contain details about your Salesforce org's user login
 			history. This object is available in API version

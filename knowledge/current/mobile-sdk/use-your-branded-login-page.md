@@ -5,12 +5,10 @@ topic: use-your-branded-login-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:29.854Z
+lastCollected: 2026-04-07T18:40:25.238Z
 estimatedTokens: 126
 keywords: [Branded, Login, Starting, Mobile, SDK, 5.2, display, Experience, Cloud, site, client, app]
 ---
-
-# Use Your Branded Login Page
 
 > Starting with Mobile SDK 5.2, you can
   display a branded Experience Cloud site login page on your client app.

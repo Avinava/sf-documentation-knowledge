@@ -5,12 +5,10 @@ topic: automatic-recalculation-of-org-wide-defaults-and-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.087Z
+lastCollected: 2026-04-07T18:39:23.019Z
 estimatedTokens: 554
-keywords: [Automatic, Recalculation, Org-Wide, Defaults, Sharing, Rules, organization-wide, processed, asynchronously, parallel, General, Monitoring, Share, Locks]
+keywords: [General, Monitoring, Automatic, Recalculation, Org-Wide, Defaults, Sharing, organization-wide, processed, asynchronously, parallel, Share, Locks]
 ---
-
-# Automatic Recalculation of Org-Wide Defaults and Sharing Rules
 
 > When you update organization-wide defaults or sharing rules, automatic sharing
     recalculation is processed asynchronously and in parallel.

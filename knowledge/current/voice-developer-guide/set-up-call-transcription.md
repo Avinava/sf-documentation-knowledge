@@ -5,12 +5,10 @@ topic: set-up-call-transcription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:17.787Z
+lastCollected: 2026-04-07T18:40:12.752Z
 estimatedTokens: 482
-keywords: [Call, Transcription, convert, conversations, text, real-time, transcripts, appear, voice, record, real, time, Service, Cloud, supports]
+keywords: [Call, Transcription, convert, conversations, text, real-time, transcripts, appear, voice, record, real, time, Service, Cloud, supports, Amazon, Transcribe, Contact, Lens, services, Connect]
 ---
-
-# Set Up Call Transcription
 
 > To convert call conversations to text, set up real-time call
       transcription. The transcripts appear in the voice call record in real time and after the

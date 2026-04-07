@@ -5,12 +5,10 @@ topic: option-2-add-mobile-sdk-setup-code-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:31.086Z
+lastCollected: 2026-04-07T18:40:26.387Z
 estimatedTokens: 4555
-keywords: [Option, Add, Mobile, SDK, Setup, Code, Manually, prefer, freedom, writing, scratch, project, copying, template, files]
+keywords: [Prerequisites, Option, Add, Mobile, SDK, Setup, Code, Manually, prefer, freedom, writing, scratch, project, copying, template, files, workspace, can—and, should—consult, pick, boilerplate, implementations, certain, features, Edit, Info.plist, bootconfig.plist, main.swift, File, Customize, AppDelegate, InitialViewController, SceneDelegate, Build, New, App, Push, Notification, Support, Identity, Provider, Pre-Login, Screen, Include, SmartStore, Sync, Configuration]
 ---
-
-# Option 2: Add Mobile SDK Setup Code Manually
 
 > If you prefer the freedom of writing all your code from scratch, you can create a
     project without copying Mobile SDK template files into your workspace. You can—and

@@ -5,12 +5,10 @@ topic: format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.293Z
+lastCollected: 2026-04-07T18:40:10.267Z
 estimatedTokens: 184
-keywords: [clause, apply, localized, formatting, standard, custom, number, date, time, currency]
+keywords: [clause, apply, localized, formatting, standard, number, date, time, currency]
 ---
-
-# FORMAT()
 
 > Use FORMAT with the FIND clause to apply localized formatting to standard and custom number, date, time,
   and currency fields.

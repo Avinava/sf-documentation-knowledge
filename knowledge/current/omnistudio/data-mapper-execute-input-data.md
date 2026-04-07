@@ -5,12 +5,10 @@ topic: data-mapper-execute-input-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.139Z
+lastCollected: 2026-04-07T18:36:36.677Z
 estimatedTokens: 92
-keywords: [Data, Mapper, Execute, Input, representation, custom, execution]
+keywords: [Mapper, Execute, execution]
 ---
-
-# Data Mapper Execute Input Data
 
 > Input representation of the list of custom data for the execution of the data
     mapper.

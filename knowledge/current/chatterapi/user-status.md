@@ -5,12 +5,10 @@ topic: user-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.254Z
+lastCollected: 2026-04-07T18:37:16.321Z
 estimatedTokens: 244
-keywords: [User, Status, recent, feed, item]
+keywords: [User, Status, recent, item]
 ---
-
-# User Status
 
 > Get the most recent user status feed item. Update or delete
    user status.

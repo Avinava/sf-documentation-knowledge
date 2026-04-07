@@ -5,12 +5,10 @@ topic: create-a-test-drive-org-with-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.950Z
+lastCollected: 2026-04-07T18:38:46.906Z
 estimatedTokens: 324
-keywords: [Test, Drive, Org, Environment, Hub, preconfigured, Trialforce, template, managed, Salesforce, handles, several, configuration, steps, provisioned]
+keywords: [Test, Drive, Org, Environment, Hub, preconfigured, Trialforce, template, managed, Salesforce, handles, several, configuration, steps, provisioned, password, admin, user, log, install, solution, perform, additional, read-only, evaluation, gives, customers, opportunity, explore, needing, login, credentials]
 ---
-
-# Create a Test Drive Org with Environment Hub
 
 > Use Environment Hub and a preconfigured Trialforce template to create a test drive
       org. The Trialforce template is managed by Salesforce and handles several test drive

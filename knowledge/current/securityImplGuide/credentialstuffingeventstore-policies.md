@@ -5,12 +5,10 @@ topic: credentialstuffingeventstore-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:28.416Z
+lastCollected: 2026-04-07T18:39:22.307Z
 estimatedTokens: 290
-keywords: [CredentialStuffingEventStore, Policies, Credential, stuffing, event, monitor, user, successfully, logs, Salesforce, identified, attack, refers, large-scale, automated]
+keywords: [CredentialStuffingEventStore, Policies, Credential, stuffing, event, monitor, user, successfully, logs, Salesforce, identified, attack, refers, large-scale, automated, login, requests, stolen, credentials, Policy, Glance]
 ---
-
-# CredentialStuffingEventStore Policies
 
 > Credential stuffing event policies monitor when a user successfully logs into Salesforce during an identified credential stuffing attack. Credential stuffing refers to large-scale automated login requests using stolen user credentials.
 

@@ -5,12 +5,10 @@ topic: jobprofileshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.309Z
+lastCollected: 2026-04-07T18:39:45.878Z
 estimatedTokens: 248
 keywords: [JobProfileShare, Sharing, JobProfile]
 ---
-
-# JobProfileShare
 
 > Sharing for JobProfile.
 

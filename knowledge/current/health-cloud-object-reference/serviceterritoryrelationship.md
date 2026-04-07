@@ -5,12 +5,10 @@ topic: serviceterritoryrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.438Z
+lastCollected: 2026-04-07T18:37:48.049Z
 estimatedTokens: 1071
-keywords: [ServiceTerritoryRelationship, relationship, service, territories, work, performed, API, version, 56.0, later, Calls, Usage, Associated, Objects]
+keywords: [ServiceTerritoryRelationship, relationship, service, territories, work, performed, API, 56.0]
 ---
-
-# ServiceTerritoryRelationship
 
 > Represents the relationship between service territories based on work types
          performed. This object is available in API version 56.0 and later.

@@ -5,12 +5,10 @@ topic: dashboard-context-location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.403Z
+lastCollected: 2026-04-07T18:36:56.932Z
 estimatedTokens: 73
 keywords: [Dashboard, Context, Location, Analytics, embedded]
 ---
-
-# Dashboard Context Location
 
 > A location of an Analytics embedded dashboard.
 

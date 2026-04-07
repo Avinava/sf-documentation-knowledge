@@ -5,12 +5,10 @@ topic: acadtermenrlpolicyrulelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.522Z
+lastCollected: 2026-04-07T18:37:30.596Z
 estimatedTokens: 1049
-keywords: [AcadTermEnrlPolicyRuleLog, log, policy, rule, calculation, runs, academic, term, enrollment, API, version, 64.0, later, Calls, Associated]
+keywords: [AcadTermEnrlPolicyRuleLog, log, policy, rule, calculation, runs, academic, term, enrollment, API, 64.0]
 ---
-
-# AcadTermEnrlPolicyRuleLog
 
 > Represents the log of the policy rule calculation runs for an academic term
          enrollment. This object is available in API version 64.0 and later.

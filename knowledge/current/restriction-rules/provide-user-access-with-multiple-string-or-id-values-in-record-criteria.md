@@ -5,12 +5,10 @@ topic: provide-user-access-with-multiple-string-or-id-values-in-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.893Z
+lastCollected: 2026-04-07T18:39:10.337Z
 estimatedTokens: 213
-keywords: [Provide, User, Access, Multiple, Record, Criteria, restriction, rule, active, users, records, whose, Name__c, matches, rule’s]
+keywords: [Provide, User, Multiple, Record, Criteria, restriction, rule, active, users, records, whose, Name__c, matches, rule’s, strings, separated, comma, Double-quotes, specify, inside, quotes, isn’t, considered, delimiter, Tooling, API, Metadata]
 ---
-
-# Provide User Access With Multiple String or ID Values in Record Criteria
 
 > This restriction rule allows active users to see records whose Name__c field matches the
   rule’s record criteria value. The record criteria contains strings separated by a comma. ID values

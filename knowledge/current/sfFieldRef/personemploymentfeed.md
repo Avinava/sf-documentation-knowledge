@@ -5,12 +5,10 @@ topic: personemploymentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.371Z
+lastCollected: 2026-04-07T18:39:53.911Z
 estimatedTokens: 361
-keywords: [PersonEmploymentFeed, Feed, tracking, PersonEmployment]
+keywords: [PersonEmploymentFeed, PersonEmployment]
 ---
-
-# PersonEmploymentFeed
 
 > Feed tracking for PersonEmployment.
 

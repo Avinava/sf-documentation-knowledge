@@ -5,12 +5,10 @@ topic: provideracctterritoryinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.457Z
+lastCollected: 2026-04-07T18:38:01.294Z
 estimatedTokens: 1951
-keywords: [ProviderAcctTerritoryInfo, engagement, data, account, user, assigned, territory, includes, provider, visit, date, preferred, address, planned, activities]
+keywords: [ProviderAcctTerritoryInfo, engagement, account, user, assigned, territory, includes, provider, visit, date, preferred, address, planned, activities, API, 65.0]
 ---
-
-# ProviderAcctTerritoryInfo
 
 > Represents the engagement data between an account and a user within an
          assigned territory, which includes next provider visit date, preferred address, and planned

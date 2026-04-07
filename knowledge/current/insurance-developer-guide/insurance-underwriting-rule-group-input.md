@@ -5,12 +5,10 @@ topic: insurance-underwriting-rule-group-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.219Z
+lastCollected: 2026-04-07T18:37:51.171Z
 estimatedTokens: 314
-keywords: [Insurance, Underwriting, Rule, Group, Input, representation]
+keywords: [Insurance, Underwriting, Rule, Group]
 ---
-
-# Insurance Underwriting Rule Group Input
 
 > Input representation details of the insurance underwriting rule group.
 

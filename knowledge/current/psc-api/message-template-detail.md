@@ -5,12 +5,10 @@ topic: message-template-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.732Z
+lastCollected: 2026-04-07T18:39:02.968Z
 estimatedTokens: 312
-keywords: [Message, Template, Detail, Output, representation, explainability]
+keywords: [Message, Template, Detail, explainability]
 ---
-
-# Message Template Detail
 
 > Output representation of explainability message template
     details.

@@ -5,12 +5,10 @@ topic: voucherdefinitionshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.361Z
+lastCollected: 2026-04-07T18:40:06.257Z
 estimatedTokens: 251
 keywords: [VoucherDefinitionShare, Sharing, VoucherDefinition]
 ---
-
-# VoucherDefinitionShare
 
 > Sharing for VoucherDefinition.
 

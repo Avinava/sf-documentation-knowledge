@@ -5,12 +5,10 @@ topic: change-events-for-custom-field-type-conversions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.513Z
+lastCollected: 2026-04-07T18:37:05.250Z
 estimatedTokens: 507
-keywords: [Change, Events, Custom, Conversions, event, gap, generated, data, changes, preserve, truncate, don't, generate]
+keywords: [Change, Events, Conversions, event, gap, generated, changes, preserve, truncate, don't, generate]
 ---
-
-# Change Events for Custom Field Type Conversions
 
 > When you change the type of a custom field, a change event or gap event is generated for
   data changes for some conversions. Other conversions, such as those that preserve or truncate

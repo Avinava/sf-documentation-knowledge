@@ -5,12 +5,10 @@ topic: connectapirecordalertactionparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.287Z
+lastCollected: 2026-04-07T18:36:35.792Z
 estimatedTokens: 98
-keywords: [Representation, record, alert, action]
+keywords: [record, alert, action]
 ---
-
-# ConnectApi.RecordAlertActionParameterInput
 
 > Representation of the record alert action parameters.
 

@@ -5,12 +5,10 @@ topic: conversationparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:38.061Z
+lastCollected: 2026-04-07T18:38:28.969Z
 estimatedTokens: 618
-keywords: [ConversationParticipant, active, participant, conversation, new, record, created, time, joins, API, version, 49.0, later, Calls]
+keywords: [ConversationParticipant, active, participant, conversation, new, record, created, time, joins, API, 49.0]
 ---
-
-# ConversationParticipant
 
 > Represents an active participant in a conversation. A new
       ConversationParticipant record is created each time a participant joins a conversation.

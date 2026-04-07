@@ -5,12 +5,10 @@ topic: get-fo-capacity-values-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.525Z
+lastCollected: 2026-04-07T18:37:19.675Z
 estimatedTokens: 139
-keywords: [Capacity, Output, fulfillment, order, locations]
+keywords: [Capacity, fulfillment, order, locations]
 ---
-
-# Get FO Capacity Values Output
 
 > Response to a request for fulfillment order capacity values for one or
       more locations.

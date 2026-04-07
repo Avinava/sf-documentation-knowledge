@@ -5,12 +5,10 @@ topic: assessmentconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:12.286Z
+lastCollected: 2026-04-07T18:38:02.193Z
 estimatedTokens: 1158
-keywords: [AssessmentConfiguration, configuration, Assessment, component, entry, user, flows, sending, emails, reminder, actions, assessments, initiated, patient, API]
+keywords: [AssessmentConfiguration, configuration, Assessment, entry, user, flows, sending, emails, reminder, actions, assessments, initiated, patient, API, 58.0, SOAP, REST]
 ---
-
-# AssessmentConfiguration
 
 > Represents a configuration for Assessment component. An
          AssessmentConfiguration entry indicates configuration for user flows such as sending out

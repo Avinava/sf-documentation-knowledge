@@ -5,12 +5,10 @@ topic: upsertmscrmrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.892Z
+lastCollected: 2026-04-07T18:40:24.388Z
 estimatedTokens: 447
-keywords: [UpsertMscrmRecord, Function, Ordinal, Dynamics, CRM, entity, record, upsert, **Overview**, **Syntax**, Usage]
+keywords: [UpsertMscrmRecord, Function, Ordinal, Dynamics, CRM, entity, record, upsert, **Overview**, **Syntax**]
 ---
-
-# UpsertMscrmRecord
 
 > UpsertMscrmRecord(1, 2, 3, 4, 5, 6, 7, 8, 9)
 

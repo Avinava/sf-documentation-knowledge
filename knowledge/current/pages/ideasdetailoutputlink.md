@@ -5,12 +5,10 @@ topic: ideasdetailoutputlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.530Z
+lastCollected: 2026-04-07T18:38:49.666Z
 estimatedTokens: 449
-keywords: [ideas, detailOutputLink, link, displaying, idea, component, please, contact, Salesforce, representative, extended, standard, controllers, enabled, organization]
+keywords: [Attributes, ideas, detailOutputLink, link, displaying, idea, please, contact, Salesforce, representative, extended, standard, controllers, enabled, organization, controller]
 ---
-
-# ideas:detailOutputLink
 
 > A link to the page displaying an idea. Note: To use this component, please contact your
 			Salesforce representative and request that the Ideas extended standard controllers be

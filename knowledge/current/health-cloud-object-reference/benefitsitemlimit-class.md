@@ -5,13 +5,11 @@ topic: benefitsitemlimit-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.783Z
+lastCollected: 2026-04-07T18:37:39.729Z
 estimatedTokens: 997
 namespace: HealthCloudExt
 keywords: [BenefitsItemLimit, Services, covered, expenditures, coverage, benefitCode, benefitMetricType, benefitValue, coverageLevel, limitNotes, networkType, termType]
 ---
-
-# BenefitsItemLimit Class
 
 > Services not covered, or expenditures required for coverage.
 

@@ -5,12 +5,10 @@ topic: individualapplicationtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:50.063Z
+lastCollected: 2026-04-07T18:39:44.643Z
 estimatedTokens: 502
-keywords: [IndividualApplicationTask, task, application, API, version, 61.0, later]
+keywords: [IndividualApplicationTask, task, application, API, 61.0]
 ---
-
-# IndividualApplicationTask
 
 > Represents a task related to an application. This object is available in
       the API version 61.0 and later.

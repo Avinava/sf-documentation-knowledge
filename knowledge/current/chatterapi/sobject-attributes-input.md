@@ -5,12 +5,10 @@ topic: sobject-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.557Z
+lastCollected: 2026-04-07T18:37:10.259Z
 estimatedTokens: 276
-keywords: [sObject, Attributes, Input, Custom]
+keywords: [sObject, Attributes]
 ---
-
-# sObject Attributes Input
 
 > Custom fields for an sObject.
 

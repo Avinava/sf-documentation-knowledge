@@ -5,12 +5,10 @@ topic: caredeterminanttypefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.334Z
+lastCollected: 2026-04-07T18:39:31.698Z
 estimatedTokens: 362
-keywords: [CareDeterminantTypeFeed, Feed, tracking, CareDeterminantType]
+keywords: [CareDeterminantTypeFeed, CareDeterminantType]
 ---
-
-# CareDeterminantTypeFeed
 
 > Feed tracking for CareDeterminantType.
 

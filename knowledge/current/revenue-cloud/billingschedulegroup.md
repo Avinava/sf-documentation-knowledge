@@ -5,12 +5,10 @@ topic: billingschedulegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:03.693Z
+lastCollected: 2026-04-07T18:35:48.677Z
 estimatedTokens: 2976
-keywords: [BillingScheduleGroup, consolidated, view, billing, schedules, order, items, generated, asset, including, new, orders, amendment, API, version]
+keywords: [BillingScheduleGroup, consolidated, view, billing, schedules, order, items, generated, asset, including, new, orders, amendment, API, 62.0]
 ---
-
-# BillingScheduleGroup
 
 > Represents a consolidated view of all the billing schedules related
          to the order items generated from one asset, including new orders and amendment

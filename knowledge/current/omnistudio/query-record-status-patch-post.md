@@ -5,12 +5,10 @@ topic: query-record-status-patch-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.366Z
+lastCollected: 2026-04-07T18:36:37.975Z
 estimatedTokens: 280
-keywords: [Query, Record, Status, PATCH, POST, processing, error, messages, data, records]
+keywords: [Query, Record, Status, PATCH, POST, processing, error, messages, records]
 ---
-
-# Query Record Status (PATCH, POST)
 
 > Update the processing status and related error messages of query data records. Create
     the processing status and related error messages of query data records

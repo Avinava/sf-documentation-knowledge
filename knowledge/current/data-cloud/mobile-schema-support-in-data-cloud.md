@@ -5,12 +5,10 @@ topic: mobile-schema-support-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:06.496Z
+lastCollected: 2026-04-07T18:35:51.347Z
 estimatedTokens: 1832
-keywords: [Mobile, Schema, Support, Data, Cloud, unified, model, across, Salesforce, recommended, Connector, configuring, Translating, SDK, Events]
+keywords: [Mobile, Schema, Support, Cloud, unified, model, across, Salesforce, recommended, Connector, configuring, Translating, SDK, Events, Schemas, Automatic, Population, Module, Engagement, Naming]
 ---
-
-# Mobile Schema Support in Data Cloud
 
 > To use a unified data model across Salesforce, we recommended using the Mobile
     Connector Schema when configuring a Mobile Connector.

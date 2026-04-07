@@ -5,12 +5,10 @@ topic: size-limit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.144Z
+lastCollected: 2026-04-07T18:36:57.691Z
 estimatedTokens: 95
 keywords: [Size, Limit, Analytics, template, array, variable]
 ---
-
-# Size Limit
 
 > The size limit of an Analytics template array type variable.
 

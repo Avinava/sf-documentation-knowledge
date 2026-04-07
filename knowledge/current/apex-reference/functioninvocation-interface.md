@@ -5,12 +5,10 @@ topic: functioninvocation-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.146Z
+lastCollected: 2026-04-07T18:36:13.462Z
 estimatedTokens: 1092
-keywords: [FunctionInvocation, status, results, synchronous, asynchronous, Function, invocation, Usage, getError, getInvocationId, getResponse, getStatus, Implementation]
+keywords: [FunctionInvocation, status, results, synchronous, asynchronous, Function, invocation, getError, getInvocationId, getResponse, getStatus, Implementation]
 ---
-
-# FunctionInvocation Interface
 
 > Use FunctionInvocation to get the status and results of a synchronous
       or asynchronous Function invocation.

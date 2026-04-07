@@ -5,12 +5,10 @@ topic: record-alerts-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:52.676Z
+lastCollected: 2026-04-07T18:36:38.309Z
 estimatedTokens: 334
 keywords: [Record, Alerts, Retrieve, active]
 ---
-
-# Record Alerts (GET)
 
 > Retrieve a list of active record alerts.
 

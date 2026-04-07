@@ -5,12 +5,10 @@ topic: paymentintentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.445Z
+lastCollected: 2026-04-07T18:39:52.953Z
 estimatedTokens: 272
 keywords: [PaymentIntentEvent, payment, intent, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered]
 ---
-
-# PaymentIntentEvent
 
 > Represents a payment intent platform event. Subscribe to these events so you
          can listen and respond to them when they’re published. For example, create a Salesforce

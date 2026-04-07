@@ -5,12 +5,10 @@ topic: contractlineoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:37.945Z
+lastCollected: 2026-04-07T18:38:28.852Z
 estimatedTokens: 1795
-keywords: [ContractLineOutcome, contract, line, outcome’s, captured, data, capturing, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [ContractLineOutcome, contract, line, outcome’s, captured, capturing, API, 58.0]
 ---
-
-# ContractLineOutcome
 
 > Represents information on a contract line outcome’s captured data and other
          related parameters that are used when capturing data. This object is available in API

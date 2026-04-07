@@ -5,12 +5,10 @@ topic: mobsecuritycertpinconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:42.208Z
+lastCollected: 2026-04-07T18:36:27.740Z
 estimatedTokens: 985
-keywords: [MobSecurityCertPinConfig, authentication, server, certificate, pin, configuration, Salesforce, mobile, app, Enhanced, Security, Parent, File, Suffix, Directory]
+keywords: [MobSecurityCertPinConfig, authentication, server, certificate, pin, configuration, Salesforce, mobile, app, Enhanced, Security, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# MobSecurityCertPinConfig
 
 > Represents the authentication server
 			certificate pin configuration on the Salesforce mobile app with

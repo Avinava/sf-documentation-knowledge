@@ -5,12 +5,10 @@ topic: payment-link-create-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.171Z
+lastCollected: 2026-04-07T18:37:13.112Z
 estimatedTokens: 375
 keywords: [Payment, Link, Order]
 ---
-
-# Payment Link, Create Order
 
 > Create an order for a payment link.
 

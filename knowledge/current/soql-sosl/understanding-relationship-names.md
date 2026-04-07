@@ -5,12 +5,10 @@ topic: understanding-relationship-names
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:14.945Z
+lastCollected: 2026-04-07T18:40:09.899Z
 estimatedTokens: 839
-keywords: [Understanding, Relationship, Parent-to-child, child-to-parent, relationships, exist, objects, Account, parent, Contact]
+keywords: [Understanding, Relationship, Parent-to-child, child-to-parent, relationships, exist, Account, parent, Contact]
 ---
-
-# Understanding Relationship Names
 
 > Parent-to-child and child-to-parent relationships exist between many types of objects.
   For example, Account is a parent of Contact.

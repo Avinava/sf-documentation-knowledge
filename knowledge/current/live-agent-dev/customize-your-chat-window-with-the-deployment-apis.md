@@ -5,12 +5,10 @@ topic: customize-your-chat-window-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.889Z
+lastCollected: 2026-04-07T18:38:06.132Z
 estimatedTokens: 482
 keywords: [Customize, Chat, Window, Deployment, APIs, dimensions, customer-facing, windows, doesn’t, apply, mobile-based, browsers]
 ---
-
-# Customize Your Chat Window with the Deployment APIs
 
 > Customize the dimensions of your customer-facing chat windows. This doesn’t apply
             for mobile-based browsers.

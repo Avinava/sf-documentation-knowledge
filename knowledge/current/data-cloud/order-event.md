@@ -5,12 +5,10 @@ topic: order-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.511Z
+lastCollected: 2026-04-07T18:35:51.362Z
 estimatedTokens: 395
-keywords: [Order, Event, interaction, ecommerce, captures, actions, performed, customer, manage, new, progress, completed, orders, Purchase, Preorder]
+keywords: [Order, Event, interaction, ecommerce, captures, actions, performed, customer, manage, new, progress, completed, orders, Purchase, Preorder, Cancel, Ship, Deliver, Exchange]
 ---
-
-# Order Event
 
 > An order event interaction is an ecommerce event that captures actions performed by a
         customer to manage new, in progress, or completed orders.

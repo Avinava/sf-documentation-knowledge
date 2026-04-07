@@ -5,12 +5,10 @@ topic: clone-and-import-loyalty-management-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.332Z
+lastCollected: 2026-04-07T18:38:09.622Z
 estimatedTokens: 216
-keywords: [Clone, Import, Loyalty, Management, Mobile, SDK, iOS, GitHub, repository, local, copy, development, machine, code, MyNTORewards]
+keywords: [Clone, Import, Loyalty, Management, Mobile, SDK, iOS, GitHub, repository, local, copy, development, machine, code, MyNTORewards, sample, app]
 ---
-
-# Clone and Import Loyalty Management Mobile SDK for iOS
 
 > Clone the Loyalty Management Mobile SDK GitHub repository for iOS to create a local copy
     of the repository on your development machine. The repository contains the code for Loyalty

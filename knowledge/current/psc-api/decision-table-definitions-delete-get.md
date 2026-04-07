@@ -5,12 +5,10 @@ topic: decision-table-definitions-delete-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:08.619Z
+lastCollected: 2026-04-07T18:39:01.765Z
 estimatedTokens: 161
-keywords: [Decision, Definitions, definition, associated]
+keywords: [Decision, Definitions, definition]
 ---
-
-# Decision Table Definitions (DELETE, GET)
 
 > Get details of a decision table definition. Delete a decision table
       definition associated with a decision table.

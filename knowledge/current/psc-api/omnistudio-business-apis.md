@@ -5,12 +5,10 @@ topic: omnistudio-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:11.753Z
+lastCollected: 2026-04-07T18:39:04.778Z
 estimatedTokens: 288
 keywords: [Omnistudio, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Omnistudio Business APIs
 
 > Omnistudio Business APIs are RESTful APIs that are sometimes available as Apex classes
     and methods.

@@ -5,12 +5,10 @@ topic: enable-language-extension-packages-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:14.122Z
+lastCollected: 2026-04-07T18:40:09.073Z
 estimatedTokens: 262
-keywords: [Enable, Language, Extension, Packages, Beta, Dev, Hub, contain, translations, components, feature, unlocked, first-, second-generation, managed]
+keywords: [Enable, Language, Extension, Packages, Beta, Dev, Hub, contain, translations, feature, unlocked, first-, second-generation, managed]
 ---
-
-# Enable Language Extension Packages (Beta)
 
 > Enable Language Extension Packages in Dev Hub to create language extension packages that
   contain translations of components in other packages. This feature is available in unlocked and

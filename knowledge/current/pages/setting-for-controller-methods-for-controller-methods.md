@@ -5,12 +5,10 @@ topic: setting-for-controller-methods-for-controller-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.754Z
+lastCollected: 2026-04-07T18:38:50.988Z
 estimatedTokens: 441
 keywords: [Setting, Controller, Visualforce, limitations, Apex, ReadOnly, annotation, itself, isn’t, read-only, mode]
 ---
-
-# Setting  for Controller Methods for Controller Methods
 
 > Visualforce controller methods can, with some important limitations, use the Apex
    ReadOnly annotation, even if the page itself isn’t

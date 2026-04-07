@@ -5,12 +5,10 @@ topic: create-a-sandbox-definition-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.247Z
+lastCollected: 2026-04-07T18:40:08.202Z
 estimatedTokens: 1140
 keywords: [Sandbox, Definition, File, Salesforce, CLI, define, configuration, blueprint, different, files, development, process, Sample]
 ---
-
-# Create a Sandbox Definition File
 
 > Before you can create a sandbox using Salesforce CLI, define the configuration for it in
     a sandbox definition file. The sandbox definition file is a blueprint for the sandbox. You can

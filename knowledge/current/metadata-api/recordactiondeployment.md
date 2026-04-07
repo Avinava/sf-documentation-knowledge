@@ -5,12 +5,10 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.525Z
+lastCollected: 2026-04-07T18:36:29.011Z
 estimatedTokens: 2344
-keywords: [RecordActionDeployment, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, components, deployment, display, channels, users, add]
+keywords: [RecordActionDeployment, RecordActionDefaultItem, RecordActionDeploymentChannel, RecordActionDeploymentContext, RecordActionRecommendation, RecordActionSelectableItem, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, deployment, display, channels, users, add, runtime, Best, configures, strategies, how, appear, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest, Declarative, Sample, Definition]
 ---
-
-# RecordActionDeployment
 
 > Represents configuration settings for the Actions
       & Recommendations, Action Launcher, and Bulk Action Panel components. For example, you can

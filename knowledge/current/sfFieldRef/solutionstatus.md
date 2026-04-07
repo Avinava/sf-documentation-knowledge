@@ -5,12 +5,10 @@ topic: solutionstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.873Z
+lastCollected: 2026-04-07T18:40:02.556Z
 estimatedTokens: 294
 keywords: [SolutionStatus, status, Solution, Draft, Reviewed]
 ---
-
-# SolutionStatus
 
 > Represents the status of a Solution,
    such as Draft, Reviewed, and so on.

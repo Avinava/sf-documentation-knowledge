@@ -5,12 +5,10 @@ topic: attributesretrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:28.523Z
+lastCollected: 2026-04-07T18:40:23.954Z
 estimatedTokens: 71
 keywords: [Attributes.Retrieve, **Overview**, **Syntax**]
 ---
-
-# Attributes.Retrieve
 
 > Attributes.Retrieve()
 

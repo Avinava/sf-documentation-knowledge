@@ -5,12 +5,10 @@ topic: unsubscribe-and-log-an-unsubevent-with-a-logunsubevent-execute-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:28.645Z
+lastCollected: 2026-04-07T18:40:24.083Z
 estimatedTokens: 568
-keywords: [Unsubscribe, Log, UnsubEvent, LogUnsubEvent, Execute, Call, subscriber, tracked, against, specific, Job, own, landing, profile, center]
+keywords: [Unsubscribe, Log, UnsubEvent, LogUnsubEvent, Execute, Call, subscriber, tracked, against, specific, Job, own, landing, profile, center, functionality]
 ---
-
-# Unsubscribe and Log an UnsubEvent with a LogUnsubEvent Execute Call
 
 > This call allows you to unsubscribe a subscriber and log an UnsubEvent that is tracked against a specific Job. Use this call when you create your own landing page or profile center functionality.
 

@@ -5,12 +5,10 @@ topic: persondisability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.574Z
+lastCollected: 2026-04-07T18:37:31.707Z
 estimatedTokens: 803
-keywords: [PersonDisability, person's, disability, API, version, 57.0, later, Calls]
+keywords: [PersonDisability, person's, disability, API, 57.0]
 ---
-
-# PersonDisability
 
 > Represents information about a person's disability. This object is
       available in API version 57.0 and later.

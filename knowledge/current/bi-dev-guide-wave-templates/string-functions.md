@@ -5,12 +5,10 @@ topic: string-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.917Z
+lastCollected: 2026-04-07T18:37:02.470Z
 estimatedTokens: 607
-keywords: [Functions, rules, manipulate, text, strings, asset, JSON, runtime, toUpperCase, toLowerCase, replace, replaceAll, replaceFirst, split, match]
+keywords: [Functions, manipulate, text, strings, asset, JSON, runtime, toUpperCase, toLowerCase, replace, replaceAll, replaceFirst, split, match, join]
 ---
-
-# string Functions
 
 > Use string functions in rules to manipulate text
     strings in asset JSON at runtime.

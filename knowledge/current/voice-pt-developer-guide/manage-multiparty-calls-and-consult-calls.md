@@ -5,12 +5,10 @@ topic: manage-multiparty-calls-and-consult-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:18.590Z
+lastCollected: 2026-04-07T18:40:13.514Z
 estimatedTokens: 3944
-keywords: [Manage, Multiparty, Calls, Consult, Include, six, participants, voice, call, including, rep, customer, addition, supervisor, listen]
+keywords: [Manage, Multiparty, Consult, Include, six, participants, voice, call, including, rep, customer, addition, supervisor, listen, barge, separate, merging, together, ending, hold, Telephony, partners, specify, whether, disable, music, group, continue, their, conversation, Limitations, Considerations, Add, Mute, Unmute, Remove, Pause, Resume, Recording, End, Ongoing, Merge]
 ---
-
-# Manage Multiparty Calls and Consult Calls
 
 > Include up to six participants on a voice call, including the rep and customer. In
   addition to the six participants, a supervisor can listen in or barge in. While on a call with a

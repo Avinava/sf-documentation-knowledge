@@ -5,12 +5,10 @@ topic: product-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:39.144Z
+lastCollected: 2026-04-07T18:37:26.059Z
 estimatedTokens: 103
-keywords: [Product, Data, Input, representation, selling, model]
+keywords: [Product, selling, model]
 ---
-
-# Product Data Input
 
 > Input representation of the product details such as the product ID and product selling
     model ID.

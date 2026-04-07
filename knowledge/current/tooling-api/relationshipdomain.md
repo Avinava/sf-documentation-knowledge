@@ -5,12 +5,10 @@ topic: relationshipdomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:48.875Z
+lastCollected: 2026-04-07T18:36:34.243Z
 estimatedTokens: 806
-keywords: [RelationshipDomain, relationship, objects, write, simpler, queries, “which, child, defined, ParentSobject”, easier, Tooling, API, version, 34.0]
+keywords: [RelationshipDomain, Limitations, relationship, write, simpler, queries, “which, child, defined, ParentSobject”, easier, Tooling, API, 34.0, SOAP, REST, HTTP]
 ---
-
-# RelationshipDomain
 
 > Represents the relationship an object has with other objects. RelationshipDomain
         allows you to write simpler queries. For example, “which objects are the child objects for

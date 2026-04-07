@@ -5,12 +5,10 @@ topic: inventoryitemreservation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.585Z
+lastCollected: 2026-04-07T18:38:33.757Z
 estimatedTokens: 810
-keywords: [InventoryItemReservation, store, inventory, item, reservation, specific, product, location, API, version, 60.0, later, Calls, Special, Access]
+keywords: [InventoryItemReservation, store, inventory, item, reservation, specific, product, location, API, 60.0]
 ---
-
-# InventoryItemReservation
 
 > Used to store inventory item reservation information for a specific
          product and location. This object is available in API version 60.0 and later.

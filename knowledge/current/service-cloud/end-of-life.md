@@ -5,12 +5,10 @@ topic: end-of-life
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:02.864Z
+lastCollected: 2026-04-07T18:36:48.923Z
 estimatedTokens: 158
-keywords: [End-of-Life, Salesforce, committed, supporting, Console, Integration, Toolkit, version, minimum, three, years, date, release, improve, quality]
+keywords: [End-of-Life, Salesforce, committed, supporting, Console, Integration, Toolkit, minimum, three, years, date, release, improve, quality, performance, versions, old, may]
 ---
-
-# End-of-Life
 
 > Salesforce is committed to
   supporting each Salesforce Console Integration Toolkit version

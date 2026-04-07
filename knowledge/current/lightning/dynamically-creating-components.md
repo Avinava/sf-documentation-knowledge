@@ -5,12 +5,10 @@ topic: dynamically-creating-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.250Z
+lastCollected: 2026-04-07T18:38:04.385Z
 estimatedTokens: 1696
-keywords: [Dynamically, Creating, Components, component, client-side, JavaScript, code, $A.createComponent, multiple, $A.createComponents, Versus, Server-Side, Creation, Nested, Destroying]
+keywords: [Dynamically, Creating, client-side, JavaScript, code, $A.createComponent, multiple, $A.createComponents, Versus, Server-Side, Creation, Nested, Destroying, Created]
 ---
-
-# Dynamically Creating Components
 
 > Create a component dynamically in your client-side JavaScript code by using the
             $A.createComponent() method. To create multiple

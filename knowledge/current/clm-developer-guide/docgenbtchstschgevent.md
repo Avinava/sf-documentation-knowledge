@@ -5,12 +5,10 @@ topic: docgenbtchstschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.599Z
+lastCollected: 2026-04-07T18:37:25.525Z
 estimatedTokens: 554
-keywords: [DocGenBtchStsChgEvent, change, status, batch, document, generation, groups, multiple, requests, associating, individual, API, version, 62.0, later]
+keywords: [DocGenBtchStsChgEvent, change, status, batch, document, generation, groups, multiple, requests, associating, individual, API, 62.0]
 ---
-
-# DocGenBtchStsChgEvent
 
 > Represents the change in the status of the batch document generation request.
          A batch document generation request groups multiple document generation requests by

@@ -5,12 +5,10 @@ topic: connectapirecommendationaudienceinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.895Z
+lastCollected: 2026-04-07T18:36:06.242Z
 estimatedTokens: 459
-keywords: [ConnectApi.RecommendationAudienceInput, custom, recommendation, audience]
+keywords: [ConnectApi.RecommendationAudienceInput, recommendation, audience]
 ---
-
-# ConnectApi.RecommendationAudienceInput
 
 > A custom recommendation audience.
 

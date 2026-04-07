@@ -5,12 +5,10 @@ topic: aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.197Z
+lastCollected: 2026-04-07T18:38:04.331Z
 estimatedTokens: 450
-keywords: [Aura, Components, self-contained, reusable, units, app, They, represent, range, granularity, line, text, entire]
+keywords: [Aura, self-contained, reusable, units, app, They, represent, range, granularity, line, text, entire]
 ---
-
-# Aura Components
 
 > Aura components are the self-contained and reusable units of an app. They represent a
     reusable section of the UI, and can range in granularity from a single line of text to an entire

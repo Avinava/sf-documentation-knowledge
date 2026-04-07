@@ -5,12 +5,10 @@ topic: replicated-field-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.077Z
+lastCollected: 2026-04-07T18:36:57.597Z
 estimatedTokens: 195
 keywords: [Replicated, Collection, Analytics, dataset, known, connected]
 ---
-
-# Replicated Field Collection
 
 > A collection of fields for an Analytics replicated dataset, also known as a connected
   object.

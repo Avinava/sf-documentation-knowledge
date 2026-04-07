@@ -5,12 +5,10 @@ topic: variable-utility-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:28.780Z
+lastCollected: 2026-04-07T18:40:24.262Z
 estimatedTokens: 125
-keywords: [Variable, Utility, Functions, retrieve, contained, AMPscript, variables, passed, prefix, receive, processing, process, JavaScript, interact, Load]
+keywords: [Load, Variable, Utility, Functions, retrieve, contained, AMPscript, variables, passed, prefix, receive, processing, process, JavaScript, interact]
 ---
-
-# Variable Utility Functions
 
 > This Variable object allows you to set and retrieve information contained in AMPscript variables. A name passed without the @ prefix will receive that prefix during processing. This process allows your JavaScript to interact with your AMPscript.
 

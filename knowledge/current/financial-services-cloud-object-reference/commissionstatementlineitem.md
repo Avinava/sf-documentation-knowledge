@@ -5,12 +5,10 @@ topic: commissionstatementlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:49.059Z
+lastCollected: 2026-04-07T18:37:36.837Z
 estimatedTokens: 1874
-keywords: [CommissionStatementLineItem, commission, associated, service, item, API, version, later, Calls, Objects]
+keywords: [CommissionStatementLineItem, commission, service, item, API]
 ---
-
-# CommissionStatementLineItem
 
 > Represents commission information associated with a service or an item. This
       object is available in API version 61 and later.

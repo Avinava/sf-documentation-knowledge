@@ -5,12 +5,10 @@ topic: can-i-customize-appexchange-marketplace-analytics-visualizations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.105Z
+lastCollected: 2026-04-07T18:38:47.077Z
 estimatedTokens: 111
-keywords: [Customize, AppExchange, Marketplace, Analytics, Visualizations, Yes, filter, menu, adjust, time, period, certain, choose, activity, metrics]
+keywords: [Customize, AppExchange, Marketplace, Analytics, Visualizations, Yes, filter, menu, adjust, time, period, certain, choose, activity, metrics, appear]
 ---
-
-# Can I Customize AppExchange Marketplace Analytics Visualizations?
 
 > Yes. From the global filter menu, you can adjust the time period in visualizations.
   For

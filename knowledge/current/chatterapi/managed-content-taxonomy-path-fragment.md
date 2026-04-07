@@ -5,12 +5,10 @@ topic: managed-content-taxonomy-path-fragment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.373Z
+lastCollected: 2026-04-07T18:37:20.560Z
 estimatedTokens: 135
 keywords: [Managed, Content, Taxonomy, Path, Fragment]
 ---
-
-# Managed Content Taxonomy Path Fragment
 
 > Fragment of a managed content taxonomy path.
 

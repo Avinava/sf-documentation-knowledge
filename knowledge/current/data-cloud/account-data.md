@@ -5,12 +5,10 @@ topic: account-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.215Z
+lastCollected: 2026-04-07T18:35:51.073Z
 estimatedTokens: 369
-keywords: [Account, Data, represent, user, level, allow, capture, customers]
+keywords: [Account, represent, user, level, allow, capture, customers]
 ---
-
-# Account Data
 
 > Account data represent user information at the account level. The account fields allow
         you to capture data for many customers in one account.

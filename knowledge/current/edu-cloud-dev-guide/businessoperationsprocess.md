@@ -5,12 +5,10 @@ topic: businessoperationsprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.714Z
+lastCollected: 2026-04-07T18:37:30.774Z
 estimatedTokens: 137
-keywords: [BusinessOperationsProcess, business, operations, process, API, version, 63.0, later, Calls]
+keywords: [BusinessOperationsProcess, business, operations, process, API, 63.0]
 ---
-
-# BusinessOperationsProcess
 
 > Represents a business operations process. This object is available in
       API version 63.0 and later.

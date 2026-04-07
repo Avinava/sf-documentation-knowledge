@@ -5,12 +5,10 @@ topic: ios-simulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.946Z
+lastCollected: 2026-04-07T18:38:15.451Z
 estimatedTokens: 1019
-keywords: [iOS, Simulator, Setup, development, it’s, convenient, test, code, virtual, device, Xcode, install, build, mobile, app]
+keywords: [iOS, Simulator, Setup, development, it’s, convenient, test, code, virtual, device, Xcode, install, build, mobile, app, Configure, Minimum, Settings, Service]
 ---
-
-# iOS Simulator Setup
 
 > During development it’s convenient to test your code in a virtual device. Use Xcode to
     create a device simulator, and install the virtual device build of your mobile app into

@@ -5,12 +5,10 @@ topic: refresh-usage-entitlement-bucket-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:55.258Z
+lastCollected: 2026-04-07T18:35:40.031Z
 estimatedTokens: 366
-keywords: [Refresh, Usage, Entitlement, Bucket, Action, entitlements, evaluating, records, creating, new, entry, Special, Access, Rules, REST]
+keywords: [Inputs, Outputs, Refresh, Entitlement, Bucket, Action, entitlements, evaluating, records, creating, new, entry, REST, HTTP]
 ---
-
-# Refresh Usage Entitlement Bucket Action
 
 > Refresh entitlements by evaluating the usage entitlement bucket
 			records and creating a new usage entitlement entry.

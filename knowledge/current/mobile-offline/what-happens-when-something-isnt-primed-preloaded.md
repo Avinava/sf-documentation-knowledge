@@ -5,12 +5,10 @@ topic: what-happens-when-something-isnt-primed-preloaded
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.898Z
+lastCollected: 2026-04-07T18:38:15.395Z
 estimatedTokens: 190
-keywords: [Happens, Something, Isn’t, Primed, Preloaded, Priming, offline, “best, effort”, mechanism, Salesforce, mobile, apps, resilient, situations]
+keywords: [Happens, Something, Isn’t, Primed, Preloaded, Priming, offline, “best, effort”, mechanism, Salesforce, mobile, apps, resilient, situations, resources, client, weren’t]
 ---
-
-# What Happens When Something Isn’t Primed (Preloaded)
 
 > Priming for offline use is a “best effort” mechanism. Salesforce mobile apps are
   resilient in situations where resources are required by a mobile client but weren’t

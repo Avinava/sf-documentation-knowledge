@@ -5,12 +5,10 @@ topic: package-data-cloud-metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:02.645Z
+lastCollected: 2026-04-07T18:38:55.055Z
 estimatedTokens: 854
-keywords: [Package, Data, Cloud, Metadata, Components, Utilize, power, apps, including, managed, packages, Working, unique, requirements, Review]
+keywords: [Package, Cloud, Metadata, Utilize, power, apps, including, managed, packages, Working, unique, requirements, Review, understand, how, work, Enable, Scratch, Orgs, Dedicated, Add, Kit, Companion, Connected]
 ---
-
-# Package Data Cloud Metadata Components
 
 > Utilize the power of Data Cloud in your
   apps by including Data

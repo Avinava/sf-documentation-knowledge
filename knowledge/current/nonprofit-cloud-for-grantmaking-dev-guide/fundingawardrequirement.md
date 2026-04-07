@@ -5,12 +5,10 @@ topic: fundingawardrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.861Z
+lastCollected: 2026-04-07T18:38:23.737Z
 estimatedTokens: 1364
-keywords: [FundingAwardRequirement, deliverable, milestone, funding, award, disbursement, API, version, 57.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [FundingAwardRequirement, deliverable, milestone, funding, award, disbursement, API, 57.0]
 ---
-
-# FundingAwardRequirement
 
 > Represents a deliverable or milestone for a funding award or funding
             disbursement. This object is available in API version 57.0 and later.

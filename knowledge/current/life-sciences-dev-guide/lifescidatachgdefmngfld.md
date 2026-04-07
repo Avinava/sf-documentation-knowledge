@@ -5,12 +5,10 @@ topic: lifescidatachgdefmngfld
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.767Z
+lastCollected: 2026-04-07T18:38:00.534Z
 estimatedTokens: 798
-keywords: [LifeSciDataChgDefMngFld, data, change, configured, objects, API, version, 65.0, later, Calls, Associated]
+keywords: [LifeSciDataChgDefMngFld, change, configured, API, 65.0]
 ---
-
-# LifeSciDataChgDefMngFld
 
 > Represents the fields for which the data change request is configured for all
          objects. This object is available in API version 65.0 and later.

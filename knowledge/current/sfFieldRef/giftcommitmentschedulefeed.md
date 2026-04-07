@@ -5,12 +5,10 @@ topic: giftcommitmentschedulefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.944Z
+lastCollected: 2026-04-07T18:39:42.582Z
 estimatedTokens: 392
-keywords: [GiftCommitmentScheduleFeed, Feed, tracking, GiftCommitmentSchedule]
+keywords: [GiftCommitmentScheduleFeed, GiftCommitmentSchedule]
 ---
-
-# GiftCommitmentScheduleFeed
 
 > Feed tracking for GiftCommitmentSchedule.
 

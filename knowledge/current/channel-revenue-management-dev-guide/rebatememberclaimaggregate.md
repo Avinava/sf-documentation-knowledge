@@ -5,12 +5,10 @@ topic: rebatememberclaimaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.049Z
+lastCollected: 2026-04-07T18:37:06.754Z
 estimatedTokens: 628
-keywords: [RebateMemberClaimAggregate, aggregated, claim, quantity, amount, rebate, member, per, product, API, version, 58.0, later, Calls]
+keywords: [RebateMemberClaimAggregate, aggregated, claim, quantity, amount, rebate, member, per, product, API, 58.0]
 ---
-
-# RebateMemberClaimAggregate
 
 > Represents information about the aggregated claim quantity and amount
          for a rebate member per product. This object is available in API version 58.0 and

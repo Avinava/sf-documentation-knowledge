@@ -5,12 +5,10 @@ topic: clone-an-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.512Z
+lastCollected: 2026-04-07T18:38:46.379Z
 estimatedTokens: 166
 keywords: [Clone, Order, creating, that’s, similar, you’ve, submitted, previously, save, time, cloning, original]
 ---
-
-# Clone an Order
 
 > When creating an order that’s similar to one you’ve submitted previously, you can save
     time by cloning the original order.

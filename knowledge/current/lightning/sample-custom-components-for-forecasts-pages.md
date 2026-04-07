@@ -5,12 +5,10 @@ topic: sample-custom-components-for-forecasts-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.133Z
+lastCollected: 2026-04-07T18:38:03.128Z
 estimatedTokens: 223
-keywords: [Sample, Custom, Components, Forecasts, Pages, Review, samples, Aura, implement, Lightning, don’t, support, any, standard, events]
+keywords: [Sample, Forecasts, Pages, Review, samples, Aura, implement, Lightning, don’t, support, any, standard, events, published]
 ---
-
-# Sample Custom Components for Forecasts Pages
 
 > Review samples of custom Aura components that you can implement in Lightning
         forecasts pages. Lightning forecasts pages don’t support any standard or custom events

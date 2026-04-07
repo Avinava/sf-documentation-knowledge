@@ -5,12 +5,10 @@ topic: get-contactsv1attributesetsnamename
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.341Z
+lastCollected: 2026-04-07T18:40:15.427Z
 estimatedTokens: 459
-keywords: [contacts, attributeSets, Retrieves, collection, attribute, containers, data, rows, **Overview**, Usage]
+keywords: [contacts, attributeSets, Retrieves, collection, attribute, containers, rows, **Overview**]
 ---
-
-# GET /contacts/v1/attributeSets/name:{name}
 
 > Retrieves a collection of attribute value containers or the data rows of a specified attribute set by name.
 

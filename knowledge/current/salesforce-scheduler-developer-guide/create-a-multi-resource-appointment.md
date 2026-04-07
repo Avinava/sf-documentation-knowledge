@@ -5,12 +5,10 @@ topic: create-a-multi-resource-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:27.752Z
+lastCollected: 2026-04-07T18:39:21.617Z
 estimatedTokens: 1261
 keywords: [Multi-Resource, Appointment, Build, scheduling, application, Salesforce, Scheduler, APIs, book, service, lets, users, appointments, include, resource]
 ---
-
-# Create a Multi-Resource Appointment
 
 > Build a scheduling application using Salesforce Scheduler APIs to book a
    multi-resource service appointment. Multi-resource scheduling lets users create appointments that

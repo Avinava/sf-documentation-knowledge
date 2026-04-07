@@ -5,12 +5,10 @@ topic: contenttaxonomytermrelationshiptype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:37.754Z
+lastCollected: 2026-04-07T18:38:28.664Z
 estimatedTokens: 242
-keywords: [ContentTaxonomyTermRelationshipType, relationship, two, terms, content, taxonomy, API, version, 63.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [ContentTaxonomyTermRelationshipType, relationship, two, terms, content, taxonomy, API, 63.0]
 ---
-
-# ContentTaxonomyTermRelationshipType
 
 > Represents the type of relationship between two terms in a content
          taxonomy. This object is available in API version 63.0 and later.

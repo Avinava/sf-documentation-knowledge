@@ -5,12 +5,10 @@ topic: order-summaries-preview-adjust
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.639Z
+lastCollected: 2026-04-07T18:37:15.701Z
 estimatedTokens: 1068
-keywords: [Order, Summaries, Preview, Adjust, Retrieve, expected, results, adjusting, price, OrderItemSummaries, OrderSummary, actually, executing, adjustment, data]
+keywords: [Order, Summaries, Preview, Adjust, Retrieve, expected, results, adjusting, price, OrderItemSummaries, OrderSummary, actually, executing, adjustment, financial, changes, result, submitting, proposed]
 ---
-
-# Order Summaries, Preview Adjust
 
 > Retrieve the expected results of adjusting the price of one or more
       OrderItemSummaries from an OrderSummary, without actually executing the adjustment. The

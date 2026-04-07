@@ -5,12 +5,10 @@ topic: omniprocesselement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.819Z
+lastCollected: 2026-04-07T18:39:50.254Z
 estimatedTokens: 444
 keywords: [OmniProcessElement, internal]
 ---
-
-# OmniProcessElement
 
 > For internal use only.
 

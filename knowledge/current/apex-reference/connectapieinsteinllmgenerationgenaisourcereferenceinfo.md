@@ -5,12 +5,10 @@ topic: connectapieinsteinllmgenerationgenaisourcereferenceinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.397Z
+lastCollected: 2026-04-07T18:36:08.823Z
 estimatedTokens: 101
-keywords: [Metadata, source, data, provider]
+keywords: [Metadata, source, provider]
 ---
-
-# ConnectApi.EinsteinLlmGenerationGenAiSourceReferenceInfo
 
 > Metadata from a source from a data provider.
 

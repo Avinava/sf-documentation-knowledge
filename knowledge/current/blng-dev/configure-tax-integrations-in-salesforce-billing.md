@@ -5,12 +5,10 @@ topic: configure-tax-integrations-in-salesforce-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:16.583Z
+lastCollected: 2026-04-07T18:37:03.147Z
 estimatedTokens: 428
-keywords: [Configure, Tax, Integrations, Salesforce, Billing, Add, custom, settings, remote, site, engine]
+keywords: [Configure, Tax, Integrations, Salesforce, Billing, Add, settings, remote, site, engine]
 ---
-
-# Configure Tax Integrations in Salesforce Billing
 
 > Add custom settings and remote site settings for your tax engine in Salesforce
   Billing.

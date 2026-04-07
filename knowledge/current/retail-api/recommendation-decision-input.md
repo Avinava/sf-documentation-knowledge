@@ -5,12 +5,10 @@ topic: recommendation-decision-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.676Z
+lastCollected: 2026-04-07T18:39:11.197Z
 estimatedTokens: 182
-keywords: [Recommendation, Decision, Input, representation, recommendations, taken]
+keywords: [Recommendation, Decision, recommendations, taken]
 ---
-
-# Recommendation Decision Input
 
 > Input representation of recommendations details for which
       recommendation decision is taken.

@@ -5,12 +5,10 @@ topic: personalization-experiment-parameter-base-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:22.800Z
+lastCollected: 2026-04-07T18:37:09.520Z
 estimatedTokens: 111
-keywords: [Personalization, Experiment, Base, Input, engagement, signal]
+keywords: [Personalization, Experiment, Base, engagement, signal]
 ---
-
-# Personalization Experiment Parameter Base Input
 
 > Defines the required engagement signal parameters.
 

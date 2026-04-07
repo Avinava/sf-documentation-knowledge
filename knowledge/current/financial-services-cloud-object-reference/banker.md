@@ -5,12 +5,10 @@ topic: banker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.701Z
+lastCollected: 2026-04-07T18:37:36.478Z
 estimatedTokens: 1022
-keywords: [Banker, business, unit, member, assigned, role, branch, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [Banker, business, unit, member, assigned, role, branch, API, 51.0]
 ---
-
-# Banker
 
 > Represents a business unit member who is assigned the banker role for a branch
       unit. This object is available in API version 51.0 and later.

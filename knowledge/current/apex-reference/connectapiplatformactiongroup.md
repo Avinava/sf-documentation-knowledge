@@ -5,12 +5,10 @@ topic: connectapiplatformactiongroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.573Z
+lastCollected: 2026-04-07T18:36:10.846Z
 estimatedTokens: 488
 keywords: [ConnectApi.PlatformActionGroup, platform, action, group, instance, state, appropriate, context, user]
 ---
-
-# ConnectApi.PlatformActionGroup
 
 > A platform action group instance with state appropriate for the
       context user.

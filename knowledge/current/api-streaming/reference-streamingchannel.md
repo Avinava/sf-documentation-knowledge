@@ -5,12 +5,10 @@ topic: reference-streamingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.229Z
+lastCollected: 2026-04-07T18:36:51.559Z
 estimatedTokens: 63
 keywords: [StreamingChannel, Salesforce, Lightning, Platform]
 ---
-
-# Reference: StreamingChannel
 
 > See StreamingChannel in the Object Reference for
     Salesforce and Lightning Platform.

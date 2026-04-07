@@ -5,12 +5,10 @@ topic: insurance-group-benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.857Z
+lastCollected: 2026-04-07T18:37:53.090Z
 estimatedTokens: 459
-keywords: [Insurance, Group, Benefits, plans, offered, covering, people, employees, their, dependents, Manage, offerings, rapidly, evolving, marketplace]
+keywords: [Insurance, Group, Benefits, plans, offered, covering, people, employees, their, dependents, Manage, offerings, rapidly, evolving, marketplace, Digital, Platform]
 ---
-
-# Insurance Group Benefits
 
 > Group benefits are insurance plans offered to and covering a group of people, such as
   employees and their dependents. Manage these insurance offerings in a rapidly evolving marketplace

@@ -5,12 +5,10 @@ topic: track-object-field-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.182Z
+lastCollected: 2026-04-07T18:39:23.118Z
 estimatedTokens: 785
-keywords: [Track, History, Turn, tracking, standard, custom, objects, settings, Changes, made, added, monitor, business, critical, audit]
+keywords: [Track, Turn, standard, settings, Changes, made, added, monitor, business, critical, audit, text, require, extra, security, privacy]
 ---
-
-# Track Object Field History
 
 > Turn on field history tracking for standard or custom objects in the field history
     tracking settings. Changes made to a field are added to the History related list of an object.

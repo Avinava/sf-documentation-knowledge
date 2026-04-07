@@ -5,12 +5,10 @@ topic: get-started-with-the-php-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:29.213Z
+lastCollected: 2026-04-07T18:40:24.667Z
 estimatedTokens: 524
-keywords: [Started, PHP, SDK, Download, GitHub, sure, install, dependencies, described, SDK’s, README, Installation, Configuration]
+keywords: [Installation, Configuration, Started, PHP, SDK, Download, GitHub, sure, install, dependencies, described, SDK’s, README]
 ---
-
-# Get Started with the PHP SDK
 
 > Download the PHP SDK from GitHub. Make sure you install all dependencies as described in the SDK’s README.
 

@@ -5,12 +5,10 @@ topic: configure-components-for-lightning-pages-and-the-lightning-app-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:12.848Z
+lastCollected: 2026-04-07T18:38:02.778Z
 estimatedTokens: 1218
-keywords: [Configure, Components, Lightning, Pages, App, Builder, There, few, steps, take, custom, Aura, either, Add, New]
+keywords: [Configure, Lightning, Pages, App, Builder, There, few, steps, take, Aura, either, Add, New, Design, Resource, Bundle, SVG]
 ---
-
-# Configure Components for Lightning Pages and the Lightning App Builder
 
 > There are a few steps to take before you can use your custom Aura components in either
     Lightning pages or the Lightning App Builder.

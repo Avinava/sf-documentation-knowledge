@@ -5,12 +5,10 @@ topic: partyincome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.177Z
+lastCollected: 2026-04-07T18:39:08.456Z
 estimatedTokens: 1657
-keywords: [PartyIncome, income, earned, individual, various, sources, salary, commissions, fees, rental, Calls, Associated, Objects]
+keywords: [PartyIncome, income, earned, individual, various, sources, salary, commissions, fees, rental]
 ---
-
-# PartyIncome
 
 > Represents all income earned by an individual. The income could be from
          various sources such as salary, commissions, fees, rental properties, and so

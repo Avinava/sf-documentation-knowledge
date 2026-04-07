@@ -5,12 +5,10 @@ topic: capitationcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:57.080Z
+lastCollected: 2026-04-07T18:37:45.490Z
 estimatedTokens: 962
-keywords: [CapitationCareFeeAgreement, payment, terms, contracts, Capitation, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
+keywords: [CapitationCareFeeAgreement, payment, terms, contracts, Capitation, Care, Fee, Agreement, API, 54.0, Provider, Network, Management, permission, license]
 ---
-
-# CapitationCareFeeAgreement
 
 > Specifies the payment terms for contracts of Capitation Care Fee Agreement
          type. This object is available in API version 54.0 and later with the Provider Network

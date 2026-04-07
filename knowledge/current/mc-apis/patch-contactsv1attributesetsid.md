@@ -5,12 +5,10 @@ topic: patch-contactsv1attributesetsid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:20.334Z
+lastCollected: 2026-04-07T18:40:15.419Z
 estimatedTokens: 710
-keywords: [PATCH, contacts, attributeSets, Updates, collection, attribute, containers, data, rows, **Overview**, Usage]
+keywords: [PATCH, contacts, attributeSets, Updates, collection, attribute, containers, rows, **Overview**]
 ---
-
-# PATCH /contacts/v1/attributeSets/{id}
 
 > Updates a collection of attribute value containers or the data rows of a specified attribute set by ID or name.
 

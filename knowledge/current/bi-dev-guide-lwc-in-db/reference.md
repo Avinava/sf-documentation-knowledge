@@ -5,12 +5,10 @@ topic: reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:07.977Z
+lastCollected: 2026-04-07T18:36:54.347Z
 estimatedTokens: 1326
-keywords: [Detailed, Lightning, Web, Components, Analytics, dashboards, Component, Configuration, API, Hooks, Custom, Lifecycle]
+keywords: [Detailed, Lightning, Web, Analytics, dashboards, Configuration, API, Hooks, Lifecycle]
 ---
-
-# Reference
 
 > Detailed reference for Lightning Web Components in Analytics
     dashboards.

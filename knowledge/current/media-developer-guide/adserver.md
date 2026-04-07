@@ -5,12 +5,10 @@ topic: adserver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.039Z
+lastCollected: 2026-04-07T18:38:12.332Z
 estimatedTokens: 739
-keywords: [AdServer, external, server, serves, advertising, content, various, platforms, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [AdServer, external, server, serves, advertising, content, various, platforms, API, 54.0]
 ---
-
-# AdServer
 
 > Represents the details of an external ad server that serves advertising content on various platforms. This object is
       available in API version 54.0 and later.

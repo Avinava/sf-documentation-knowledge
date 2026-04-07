@@ -5,12 +5,10 @@ topic: esmcustomviewsetup-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:44.969Z
+lastCollected: 2026-04-07T18:37:32.142Z
 estimatedTokens: 205
-keywords: [ESM_CustomViewSetup, API, Store, custom, views, created, Summary, ESM, _CustomViewSetup, URI, HTTP]
+keywords: [ESM_CustomViewSetup, API, Store, views, created, Summary, ESM, _CustomViewSetup, URI, HTTP]
 ---
-
-# ESM_CustomViewSetup API
 
 > Store information about the custom views created for the Summary page.
 

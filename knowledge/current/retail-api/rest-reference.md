@@ -5,12 +5,10 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.079Z
+lastCollected: 2026-04-07T18:39:11.679Z
 estimatedTokens: 194
-keywords: [REST, access, Consumer, Goods, Business, APIs, endpoints, follow, similar, conventions, Connect]
+keywords: [REST, Consumer, Goods, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---
-
-# REST Reference
 
 > You can access Consumer Goods Business APIs using REST endpoints. These REST APIs
     follow similar conventions as Connect REST APIs.

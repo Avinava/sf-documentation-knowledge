@@ -5,12 +5,10 @@ topic: analyticsperfeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:34.380Z
+lastCollected: 2026-04-07T18:38:25.301Z
 estimatedTokens: 973
-keywords: [AnalyticsPerfEventLog, Analytics, Perf, Event, Log, helps, track, trends, performance, API, version, 61.0, later, Calls, Special]
+keywords: [AnalyticsPerfEventLog, Analytics, Perf, Event, Log, helps, track, trends, performance, API, 61.0]
 ---
-
-# AnalyticsPerfEventLog
 
 > Analytics Perf Event Log helps track trends in your Analytics
          performance. This object is available in API version 61.0 and later.

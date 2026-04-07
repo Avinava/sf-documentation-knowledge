@@ -5,12 +5,10 @@ topic: gettacticcompensationmodels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.825Z
+lastCollected: 2026-04-07T18:39:11.361Z
 estimatedTokens: 140
-keywords: [getTacticCompensationModels, compensation, model, tactic, template, defined, record, Input, Sample]
+keywords: [getTacticCompensationModels, compensation, model, tactic, template, defined, record, Sample]
 ---
-
-# getTacticCompensationModels
 
 > This method returns the list of valid compensation model values for
       a tactic template based on the tactic template defined tactic record type.

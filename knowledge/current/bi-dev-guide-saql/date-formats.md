@@ -5,12 +5,10 @@ topic: date-formats
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.742Z
+lastCollected: 2026-04-07T18:37:00.246Z
 estimatedTokens: 654
 keywords: [Date, Formats, specify, Dates, match, can't, any, extra, text]
 ---
-
-# Date Formats
 
 > For Date fields, specify the format of the date by using one of the following supported
   formats. Dates must match the format exactly and can't have any extra text.

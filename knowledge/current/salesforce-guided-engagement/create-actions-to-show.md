@@ -5,12 +5,10 @@ topic: create-actions-to-show
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:24.068Z
+lastCollected: 2026-04-07T18:39:17.745Z
 estimatedTokens: 1106
-keywords: [Actions, Show, recommendations, want, users, start, component, flows, quick, result, Best, Action, strategies]
+keywords: [Actions, Show, recommendations, want, users, start, flows, quick, result, Best, Action, strategies]
 ---
-
-# Create Actions to Show
 
 > Create the actions and recommendations that you want to users to start from the
         Actions & Recommendations component. You can show flows, quick actions, and

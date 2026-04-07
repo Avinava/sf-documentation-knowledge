@@ -5,12 +5,10 @@ topic: lightning-exit-by-page-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.518Z
+lastCollected: 2026-04-07T18:36:20.750Z
 estimatedTokens: 192
-keywords: [Lightning, Exit, Metrics, frequency, standard, pages, users, switched, Experience, Salesforce, Classic, resource, REST, API, version]
+keywords: [Lightning, Exit, Metrics, frequency, standard, pages, users, switched, Experience, Salesforce, Classic, resource, REST, API, 44.0]
 ---
-
-# Lightning Exit by Page Metrics
 
 > Returns frequency metrics about the standard pages
    within which users switched from Lightning Experience to Salesforce Classic. This resource

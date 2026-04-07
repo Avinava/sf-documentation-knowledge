@@ -5,12 +5,10 @@ topic: stnryassetwtrftprntitmhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.345Z
+lastCollected: 2026-04-07T18:40:03.033Z
 estimatedTokens: 279
-keywords: [StnryAssetWtrFtprntItmHistory, History, tracked, StnryAssetWtrFtprntItm]
+keywords: [StnryAssetWtrFtprntItmHistory, tracked, StnryAssetWtrFtprntItm]
 ---
-
-# StnryAssetWtrFtprntItmHistory
 
 > History for tracked fields of StnryAssetWtrFtprntItm.
 

@@ -5,12 +5,10 @@ topic: quotelineitemrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.064Z
+lastCollected: 2026-04-07T18:38:39.634Z
 estimatedTokens: 1322
-keywords: [QuoteLineItemRecipient, site, employee, entity, services, quoted, include, recipient's, contact, associated, location, any, specific, requirements, preferences]
+keywords: [QuoteLineItemRecipient, site, employee, entity, services, quoted, include, recipient's, contact, location, any, specific, requirements, preferences, API, 62.0]
 ---
-
-# QuoteLineItemRecipient
 
 > Represents a site, employee, or other entity for which services are being
          quoted. This could include details such as the recipient's name, contact information,

@@ -5,12 +5,10 @@ topic: control-flow-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.148Z
+lastCollected: 2026-04-07T18:36:19.372Z
 estimatedTokens: 211
-keywords: [Control, Flow, Statements, Apex, if-else, switch, loops, code, execution, generally, executed, line, order, they, appear]
+keywords: [Control, Flow, Statements, Apex, if-else, switch, loops, code, execution, generally, executed, line, order, they, appear, execute, certain, condition, block, repeatedly]
 ---
-
-# Control Flow Statements
 
 > Apex provides if-else statements, switch statements, and loops to control the flow of
         code execution. Statements are generally executed line by line, in the order they appear.

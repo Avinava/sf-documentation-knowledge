@@ -5,12 +5,10 @@ topic: upload-a-file-to-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.041Z
+lastCollected: 2026-04-07T18:40:07.992Z
 estimatedTokens: 420
-keywords: [Upload, File, Org, data, CLI, command, local, uploaded, ContentDocument, standard, finishes, outputs, new, record, Salesforce]
+keywords: [Upload, File, Org, CLI, command, local, uploaded, ContentDocument, standard, finishes, outputs, new, record, Salesforce, Files, tab, always, creates, can’t, duplicate, created]
 ---
-
-# Upload a File to Your Org
 
 > Use the data create file CLI command to upload a
     local file to your org. The file is uploaded to the ContentDocument standard object; when the

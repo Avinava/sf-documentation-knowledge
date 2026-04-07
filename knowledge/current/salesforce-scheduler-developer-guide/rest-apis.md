@@ -5,12 +5,10 @@ topic: rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:26.819Z
+lastCollected: 2026-04-07T18:39:20.579Z
 estimatedTokens: 484
 keywords: [REST, APIs, Salesforce, Scheduler, appointment, time, slots, service, resources, work, groups, territories]
 ---
-
-# REST APIs
 
 > Use Salesforce Scheduler REST APIs to get appointment time slots and available service
     resources based on work type groups and service territories.

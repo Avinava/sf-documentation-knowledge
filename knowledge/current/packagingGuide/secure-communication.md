@@ -5,12 +5,10 @@ topic: secure-communication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.396Z
+lastCollected: 2026-04-07T18:38:47.380Z
 estimatedTokens: 293
-keywords: [Secure, Communication, Ensure, solution, reachable, exclusively, over, connections, SFTP, HTTPS, Avoid, HTTP, FTP, because, protocols]
+keywords: [Secure, Communication, Ensure, solution, reachable, exclusively, over, connections, SFTP, HTTPS, Avoid, HTTP, FTP, because, protocols, don’t, encrypt, flows, internet]
 ---
-
-# Secure Communication
 
 > Ensure that your solution is reachable exclusively over secure connections such as SFTP
     and HTTPS. Avoid using HTTP and FTP because these protocols don’t encrypt the information that

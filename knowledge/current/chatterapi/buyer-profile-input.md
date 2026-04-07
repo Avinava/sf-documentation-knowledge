@@ -5,12 +5,10 @@ topic: buyer-profile-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:20.666Z
+lastCollected: 2026-04-07T18:37:07.385Z
 estimatedTokens: 403
-keywords: [Buyer, Profile, Input]
+keywords: [Buyer, Profile]
 ---
-
-# Buyer Profile Input
 
 > Input details for the buyer profile update request.
 

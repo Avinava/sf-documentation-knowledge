@@ -5,12 +5,10 @@ topic: back-sync-sfdevopsbacksyncc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.489Z
+lastCollected: 2026-04-07T18:37:28.510Z
 estimatedTokens: 1840
-keywords: [Back, Sync, sf_devops__Back_Sync__c, synchronization, DevOps, Center, user’s, development, environment, pipeline, stage’s, branch, particular, tracks, happened]
+keywords: [Back, Sync, sf_devops__Back_Sync__c, synchronization, DevOps, Center, user’s, development, environment, pipeline, stage’s, branch, particular, tracks, happened, records, Source, Member, ignore, orgs, installed, _devops, _Back, _Sync]
 ---
-
-# Back Sync (sf_devops__Back_Sync__c)
 
 > Represents the synchronization between a DevOps Center user’s development
          environment and the first pipeline stage’s branch. In particular, this object tracks when

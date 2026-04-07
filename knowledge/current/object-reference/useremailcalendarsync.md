@@ -5,12 +5,10 @@ topic: useremailcalendarsync
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.817Z
+lastCollected: 2026-04-07T18:38:43.586Z
 estimatedTokens: 381
-keywords: [UserEmailCalendarSync, user, assignments, Einstein, Activity, Capture, configuration, API, version, 49.0, later, Calls, Special, Access, Rules]
+keywords: [UserEmailCalendarSync, user, assignments, Einstein, Activity, Capture, configuration, API, 49.0]
 ---
-
-# UserEmailCalendarSync
 
 > Represents the user assignments of an Einstein Activity Capture
 			configuration. This object is available in API version 49.0 and later.

@@ -5,12 +5,10 @@ topic: best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:24.110Z
+lastCollected: 2026-04-07T18:39:17.783Z
 estimatedTokens: 579
-keywords: [Best, Practices, achieving, good, performance, deployments, large, data, volumes]
+keywords: [Best, Practices, achieving, good, performance, deployments, large, volumes]
 ---
-
-# Best Practices
 
 > This section lists best practices for achieving good performance
 in deployments with large data volumes.

@@ -5,12 +5,10 @@ topic: smart-data-discovery-prediction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.313Z
+lastCollected: 2026-04-07T18:36:59.806Z
 estimatedTokens: 287
-keywords: [Smart, Data, Discovery, Prediction, Einstein, result]
+keywords: [Smart, Discovery, Prediction, Einstein, result]
 ---
-
-# Smart Data Discovery Prediction
 
 > An Einstein Discovery prediction result.
 

@@ -5,12 +5,10 @@ topic: rental-car-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.274Z
+lastCollected: 2026-04-07T18:38:16.856Z
 estimatedTokens: 1521
 keywords: [Rental, Car, Energy, consumption, cars]
 ---
-
-# Rental Car Energy Use
 
 > The Rental Car Energy Use object represents the energy consumption related to rental
     cars.

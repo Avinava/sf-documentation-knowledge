@@ -5,12 +5,10 @@ topic: create-a-quick-action-with-an-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.599Z
+lastCollected: 2026-04-07T18:38:15.077Z
 estimatedTokens: 218
-keywords: [Quick, Action, LWC, actions, easy, way, add, launch, Lightning, web, components, It’s, simple, Test, Harness]
+keywords: [Quick, Action, LWC, actions, easy, way, add, launch, Lightning, web, It’s, simple, Test, Harness, app]
 ---
-
-# Create a Quick Action with an LWC
 
 > Quick actions are an easy way to add and launch your Lightning web components. It’s
     simple to add them to the Test Harness app.

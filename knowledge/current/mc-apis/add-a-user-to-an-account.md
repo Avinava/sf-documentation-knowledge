@@ -5,12 +5,10 @@ topic: add-a-user-to-an-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:20.082Z
+lastCollected: 2026-04-07T18:40:15.108Z
 estimatedTokens: 1386
-keywords: [Add, User, Account, Adding, provide, access, new, person, regulating, actions, perform, action, via, SOAP, API]
+keywords: [Add, User, Account, Adding, provide, new, person, regulating, actions, perform, action, via, SOAP, API, users, accounts, owned, embedded, partners, code, fro, Why, How, Sample, NET, Java, Axis, 1.4, Envelope, Items]
 ---
-
-# Add a User to an Account
 
 > Adding a user to your existing account allows you to provide access to the account to a new person while also regulating what actions that user can perform. You can perform this action via the SOAP API to add new users to accounts owned by embedded partners, or you can use this code to add users fro
 

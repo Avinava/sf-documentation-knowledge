@@ -5,12 +5,10 @@ topic: promotiondowork-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:22.768Z
+lastCollected: 2026-04-07T18:39:16.310Z
 estimatedTokens: 251
-keywords: [Promotion.DoWork, APEX, capability, perform, additional, work, once, promotion, completed, records, committed, database, transaction, rolled, back]
+keywords: [Promotion.DoWork, APEX, capability, perform, additional, work, once, promotion, completed, records, committed, database, transaction, rolled, back, there, any, errors, reported, doWork, execution, Implementation, TPM, _Promotion.DoWork, API]
 ---
-
-# Promotion.DoWork Class
 
 > This APEX interface provides the capability to perform additional work once a promotion
   is completed and the related records are committed to the database. The transaction will be rolled

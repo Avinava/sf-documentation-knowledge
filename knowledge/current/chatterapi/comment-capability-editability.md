@@ -5,12 +5,10 @@ topic: comment-capability-editability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.890Z
+lastCollected: 2026-04-07T18:37:11.694Z
 estimatedTokens: 191
 keywords: [Comment, Capability, Editability, Determines, whether, context, user, edit]
 ---
-
-# Comment Capability, Editability
 
 > Determines whether the context user can edit a
     comment.

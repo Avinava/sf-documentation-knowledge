@@ -5,12 +5,10 @@ topic: datetoepoch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.009Z
+lastCollected: 2026-04-07T18:37:00.531Z
 estimatedTokens: 51
-keywords: [date_to_epoch, Converts, date, Unix, epoch, seconds, _to, _epoch, Usage]
+keywords: [date_to_epoch, Converts, date, Unix, epoch, seconds, _to, _epoch]
 ---
-
-# date_to_epoch()
 
 > Converts a date to Unix epoch seconds.
 

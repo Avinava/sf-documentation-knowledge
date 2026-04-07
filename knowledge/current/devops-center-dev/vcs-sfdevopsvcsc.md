@@ -5,12 +5,10 @@ topic: vcs-sfdevopsvcsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.662Z
+lastCollected: 2026-04-07T18:37:28.736Z
 estimatedTokens: 402
-keywords: [VCS, sf_devops__Vcs__c, source, version, control, system, orgs, DevOps, Center, package, 8.2, later, API, 62.0, _devops]
+keywords: [VCS, sf_devops__Vcs__c, source, control, system, orgs, DevOps, Center, package, 8.2, API, 62.0, _devops, _Vcs]
 ---
-
-# VCS (sf_devops__Vcs__c)
 
 > Represents a supported source (version) control system. This
       object is available in all orgs that have DevOps Center package version 8.2 and later.

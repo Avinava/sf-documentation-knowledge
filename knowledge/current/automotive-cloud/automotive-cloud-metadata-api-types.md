@@ -5,12 +5,10 @@ topic: automotive-cloud-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.722Z
+lastCollected: 2026-04-07T18:36:52.120Z
 estimatedTokens: 852
-keywords: [Automotive, Cloud, Metadata, API, access, feature, settings, customize, user, Developer]
+keywords: [Automotive, Cloud, Metadata, API, feature, settings, customize, user, Developer]
 ---
-
-# Automotive Cloud Metadata API Types
 
 > Metadata API enables you to access some types and feature settings that you can
     customize in the user interface. For more information about Metadata API and to find a complete

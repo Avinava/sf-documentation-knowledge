@@ -5,12 +5,10 @@ topic: datadetplcymdatscancrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:38.801Z
+lastCollected: 2026-04-07T18:38:29.681Z
 estimatedTokens: 444
-keywords: [DataDetPlcyMdatScanCrit, inclusion, exclusion, criteria, filter, DataDetect, scan, policy, scanned, metadata, tags, API, version, 64.0, later]
+keywords: [DataDetPlcyMdatScanCrit, inclusion, exclusion, criteria, filter, DataDetect, scan, policy, scanned, metadata, tags, API, 64.0]
 ---
-
-# DataDetPlcyMdatScanCrit
 
 > Represents inclusion and exclusion criteria that filter what DataDetect scan
          policy object fields are to be scanned based on metadata tags. This object is

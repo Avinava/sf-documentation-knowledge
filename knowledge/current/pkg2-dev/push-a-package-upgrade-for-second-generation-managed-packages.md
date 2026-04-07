@@ -5,12 +5,10 @@ topic: push-a-package-upgrade-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:03.598Z
+lastCollected: 2026-04-07T18:38:56.143Z
 estimatedTokens: 989
-keywords: [Push, Package, Upgrade, Second-Generation, Managed, Packages, upgrades, enable, installed, subscriber, orgs, asking, customers, install, themselves]
+keywords: [Push, Package, Upgrade, Second-Generation, Managed, Packages, upgrades, enable, installed, subscriber, orgs, asking, customers, install, themselves, choose, receive, upgraded, want, occur, helpful, change, hot, bug, fix, Considerations]
 ---
-
-# Push a Package Upgrade for Second-Generation Managed Packages
 
 > Push upgrades enable you to upgrade second-generation managed packages installed in
     subscriber orgs, without asking customers to install the upgrade themselves. You can choose

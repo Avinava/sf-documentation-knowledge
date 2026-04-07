@@ -5,12 +5,10 @@ topic: productdisqualificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.137Z
+lastCollected: 2026-04-07T18:39:55.709Z
 estimatedTokens: 273
-keywords: [ProductDisqualificationHistory, History, tracked, ProductDisqualification]
+keywords: [ProductDisqualificationHistory, tracked, ProductDisqualification]
 ---
-
-# ProductDisqualificationHistory
 
 > History for tracked fields of ProductDisqualification.
 

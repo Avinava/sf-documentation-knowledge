@@ -5,12 +5,10 @@ topic: register-endpoint-for-custom-content-block-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.958Z
+lastCollected: 2026-04-07T18:40:21.240Z
 estimatedTokens: 246
-keywords: [Register, Endpoint, Custom, Content, Block, Component, Once, know, hosted, Marketing, Cloud, installed, package, Items]
+keywords: [Register, Endpoint, Content, Block, Once, know, hosted, Marketing, Cloud, installed, package, Items]
 ---
-
-# Register Endpoint for Custom Content Block Component
 
 > Once you know the hosted endpoint for your custom content block UI, you must register that endpoint in a Marketing Cloud installed package.
 

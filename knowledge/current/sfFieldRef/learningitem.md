@@ -5,12 +5,10 @@ topic: learningitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.579Z
+lastCollected: 2026-04-07T18:39:46.121Z
 estimatedTokens: 283
 keywords: [LearningItem, learning, item, walkthrough, Trailhead, module, URL, external, content, Users, assigned]
 ---
-
-# LearningItem
 
 > Represents a single learning item, such as a walkthrough, Trailhead
          module, or URL to external content. Users can be assigned a learning item to complete.

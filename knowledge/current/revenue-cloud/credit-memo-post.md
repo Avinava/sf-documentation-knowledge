@@ -5,12 +5,10 @@ topic: credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.701Z
+lastCollected: 2026-04-07T18:35:45.703Z
 estimatedTokens: 182
-keywords: [Credit, Memo, Post, Output, representation]
+keywords: [Credit, Memo, Post]
 ---
-
-# Credit Memo Post
 
 > Output representation of the request to post a credit memo.
 

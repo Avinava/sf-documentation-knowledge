@@ -5,12 +5,10 @@ topic: loyaltyapimanager
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:19.398Z
+lastCollected: 2026-04-07T18:38:09.699Z
 estimatedTokens: 3412
-keywords: [LoyaltyAPIManager, Manage, requests, loyalty, program, interactions, application, APIs, Define, Authentication, Instance, URL, Initialize, Sort, Results]
+keywords: [LoyaltyAPIManager, Manage, requests, loyalty, program, interactions, application, APIs, Define, Authentication, Instance, URL, Initialize, Sort, Results, Voucher, Status, Identify, Resource, API, Path, Member, Benefits, Profile, Community, Enroll, Opt, Promotion, Enrolled, Promotions, Membership, Number, Transaction, Journals, Vouchers]
 ---
-
-# LoyaltyAPIManager
 
 > Manage requests related to loyalty program and interactions between the application and
   the APIs.

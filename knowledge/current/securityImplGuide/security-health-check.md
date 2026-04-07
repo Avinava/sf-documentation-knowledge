@@ -5,12 +5,10 @@ topic: security-health-check
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.980Z
+lastCollected: 2026-04-07T18:39:22.901Z
 estimatedTokens: 746
-keywords: [Security, Health, Check, admin, identify, fix, potential, vulnerabilities, settings, summary, score, how, org, measures, against]
+keywords: [Security, Health, Check, admin, identify, fix, potential, vulnerabilities, settings, summary, score, how, org, measures, against, baseline, Salesforce, Standard, upload, five, baselines, instead, Risks, Limitations]
 ---
-
-# Security Health Check
 
 > As an admin, you can use Health Check to identify and fix potential vulnerabilities in
   your security settings, all from a single page. A summary score shows how your org measures

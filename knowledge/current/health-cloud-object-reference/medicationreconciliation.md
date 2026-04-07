@@ -5,12 +5,10 @@ topic: medicationreconciliation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:58.824Z
+lastCollected: 2026-04-07T18:37:47.407Z
 estimatedTokens: 1030
-keywords: [MedicationReconciliation, Stores, medication, reconciliation, conducted, patient, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [MedicationReconciliation, Stores, medication, reconciliation, conducted, patient, API, 54.0]
 ---
-
-# MedicationReconciliation
 
 > Stores information about a medication reconciliation conducted for a
          patient This object is available in API version 54.0 and later.

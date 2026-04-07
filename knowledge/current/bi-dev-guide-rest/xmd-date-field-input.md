@@ -5,12 +5,10 @@ topic: xmd-date-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.801Z
+lastCollected: 2026-04-07T18:36:55.212Z
 estimatedTokens: 485
-keywords: [Xmd, Date, Input, extended, metadata, formatting]
+keywords: [Xmd, Date, extended, metadata, formatting]
 ---
-
-# Xmd Date Field Input
 
 > The extended metadata (Xmd) for the formatting of a date field.
 

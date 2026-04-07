@@ -5,12 +5,10 @@ topic: authformrequestrecordfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.450Z
+lastCollected: 2026-04-07T18:39:28.522Z
 estimatedTokens: 363
-keywords: [AuthFormRequestRecordFeed, Feed, tracking, AuthFormRequestRecord]
+keywords: [AuthFormRequestRecordFeed, AuthFormRequestRecord]
 ---
-
-# AuthFormRequestRecordFeed
 
 > Feed tracking for AuthFormRequestRecord.
 

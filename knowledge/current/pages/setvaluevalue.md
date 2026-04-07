@@ -5,12 +5,10 @@ topic: setvaluevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.441Z
+lastCollected: 2026-04-07T18:38:48.392Z
 estimatedTokens: 59
 keywords: [setValue, option, controller, user, selects]
 ---
-
-# setValue(value)
 
 > Sets the value of the option value that is returned to
 the controller if a user selects the option.

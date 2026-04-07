@@ -5,12 +5,10 @@ topic: inquiryquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:10.638Z
+lastCollected: 2026-04-07T18:38:00.390Z
 estimatedTokens: 1187
-keywords: [InquiryQuestion, question, asked, healthcare, professional, HCP, inquiry, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [InquiryQuestion, question, asked, healthcare, professional, HCP, inquiry, API, 65.0]
 ---
-
-# InquiryQuestion
 
 > Represents a question asked by a healthcare professional (HCP) during an
          inquiry. This object is available in API version 65.0 and later.

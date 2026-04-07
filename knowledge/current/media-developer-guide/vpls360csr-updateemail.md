@@ -5,12 +5,10 @@ topic: vpls360csr-updateemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.506Z
+lastCollected: 2026-04-07T18:38:11.805Z
 estimatedTokens: 127
-keywords: [vpls360Csr-UpdateEmail, Omnistudio, Data, Mapper, loads, updates, email, address, user, IDs, updated, records, Sample, Input, Output]
+keywords: [vpls360Csr-UpdateEmail, Omnistudio, Mapper, loads, updates, email, address, user, IDs, updated, records, Sample]
 ---
-
-# vpls360Csr-UpdateEmail
 
 > This Omnistudio Data Mapper loads or updates the email
     address of a user, and returns the IDs for the updated records.

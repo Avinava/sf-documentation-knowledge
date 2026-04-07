@@ -5,12 +5,10 @@ topic: experience-cloud-site-moderation-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:23.933Z
+lastCollected: 2026-04-07T18:37:10.625Z
 estimatedTokens: 1213
-keywords: [Experience, Cloud, Site, Moderation, Feed, Resources, containing, elements, comments, flagged, URL]
+keywords: [Experience, Cloud, Site, Moderation, Resources, containing, comments, flagged, URL]
 ---
-
-# Experience Cloud Site Moderation Feed Resources
 
 > A feed containing feed elements and comments
          that have been flagged for moderation in an Experience Cloud site.

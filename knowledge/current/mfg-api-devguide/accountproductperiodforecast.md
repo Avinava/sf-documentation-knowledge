@@ -5,12 +5,10 @@ topic: accountproductperiodforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:23.126Z
+lastCollected: 2026-04-07T18:38:13.386Z
 estimatedTokens: 1160
-keywords: [AccountProductPeriodForecast, quantity, revenue, opportunities, sales, agreements, orders, resultant, forecasted, quantities, product, particular, time, period, forecast]
+keywords: [AccountProductPeriodForecast, quantity, revenue, opportunities, sales, agreements, orders, resultant, forecasted, quantities, product, particular, time, period, forecast, rolling, AdjustedForecastQuantity, AdjustedForecastRevenue, updated, API, 47.0]
 ---
-
-# AccountProductPeriodForecast
 
 > Represents the quantity and revenue information of opportunities, sales
       agreements, orders, and resultant forecasted quantities for a product in a particular time

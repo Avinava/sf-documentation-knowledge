@@ -5,12 +5,10 @@ topic: oauth-20-refresh-token-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.482Z
+lastCollected: 2026-04-07T18:40:26.752Z
 estimatedTokens: 268
-keywords: [OAuth, 2.0, Refresh, Token, Flow, client—via, connected, app—receives, access, new, session, current, expires, app’s, timeout]
+keywords: [OAuth, 2.0, Refresh, Token, Flow, client—via, connected, app—receives, new, session, current, expires, app’s, timeout, determines, longer, apply]
 ---
-
-# OAuth 2.0 Refresh Token Flow
 
 > After a client—via a connected app—receives an access
     token, it can use a refresh token to get a new session when its current session expires.

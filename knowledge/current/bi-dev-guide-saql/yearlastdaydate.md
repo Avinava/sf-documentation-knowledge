@@ -5,12 +5,10 @@ topic: yearlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.397Z
+lastCollected: 2026-04-07T18:37:00.966Z
 estimatedTokens: 90
 keywords: [year_last_day, date, day, year, specific, _last, _day]
 ---
-
-# year_last_day(date)
 
 > Returns the date of the last day of the year for a specific date.
 

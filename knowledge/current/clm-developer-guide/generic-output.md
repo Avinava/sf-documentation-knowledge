@@ -5,12 +5,10 @@ topic: generic-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.348Z
+lastCollected: 2026-04-07T18:37:25.275Z
 estimatedTokens: 93
-keywords: [Generic, Output]
+keywords: [Generic]
 ---
-
-# Generic Output
 
 > Generic output response.
 

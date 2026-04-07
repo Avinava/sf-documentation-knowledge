@@ -5,12 +5,10 @@ topic: template-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T09:03:09.924Z
+lastCollected: 2026-04-07T18:36:56.476Z
 estimatedTokens: 557
 keywords: [Template, Resources, Manage, Analytics, templates, configuration, release, notes]
 ---
-
-# Template Resources
 
 > Manage Analytics templates, template configuration, and template release
   notes.

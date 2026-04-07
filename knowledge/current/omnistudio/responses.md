@@ -5,12 +5,10 @@ topic: responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.293Z
+lastCollected: 2026-04-07T18:36:40.990Z
 estimatedTokens: 1756
 keywords: [Responses, Digital, Lending, APIs, include, bodies, Here’s, Identity, Verification, API, Process, Compliance, Navigator, Record, Rollup, Definitions, Business, Stage, Management]
 ---
-
-# Responses
 
 > Digital Lending APIs include these response bodies.
 

@@ -5,12 +5,10 @@ topic: net-zero-cloud-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.968Z
+lastCollected: 2026-04-07T18:38:16.531Z
 estimatedTokens: 282
 keywords: [Net, Zero, Cloud, Standard, Invocable, Actions, Track, manage, environmental, impact, precise, calculation, analysis, carbon, emissions]
 ---
-
-# Net Zero Cloud Standard Invocable Actions
 
 > Track and manage environmental impact for precise calculation
       and analysis of carbon emissions using invocable actions.

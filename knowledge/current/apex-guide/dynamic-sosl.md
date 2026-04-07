@@ -5,12 +5,10 @@ topic: dynamic-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.366Z
+lastCollected: 2026-04-07T18:36:17.594Z
 estimatedTokens: 837
-keywords: [Dynamic, SOSL, refers, creation, run, time, Apex, code, flexible, applications, search, input, end, user, records]
+keywords: [Dynamic, SOSL, refers, creation, run, time, Apex, code, flexible, applications, search, end, user, records, varying, Snippets, Injection]
 ---
-
-# Dynamic SOSL
 
 > Dynamic SOSL refers to the creation of a SOSL string at run time with Apex
             code. Dynamic SOSL enables you to create more flexible applications. For example, you

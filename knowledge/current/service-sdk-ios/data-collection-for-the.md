@@ -5,12 +5,10 @@ topic: data-collection-for-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:33.057Z
+lastCollected: 2026-04-07T18:40:28.190Z
 estimatedTokens: 638
-keywords: [Data, Collection, Service, Chat, SDK, collects, transmits, perform, basic, operations, falls, three, categories, pre-chat, message]
+keywords: [Collection, Service, Chat, SDK, collects, transmits, perform, basic, operations, falls, three, categories, pre-chat, message, logging]
 ---
-
-# Data Collection for the
 
 > The Service Chat SDK collects and transmits data
       to perform basic operations. This data falls into three categories: pre-chat data, chat

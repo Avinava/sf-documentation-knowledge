@@ -5,12 +5,10 @@ topic: ruleterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.805Z
+lastCollected: 2026-04-07T18:40:00.548Z
 estimatedTokens: 319
 keywords: [RuleTerritory2Association, record-assignment, rule, association, Account, Sales, Territories, enabled]
 ---
-
-# RuleTerritory2Association
 
 > Represents a record-assignment rule and its association to an object,
             such as Account. Available if Sales Territories has been enabled.

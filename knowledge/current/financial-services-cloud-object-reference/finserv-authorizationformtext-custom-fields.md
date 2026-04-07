@@ -5,12 +5,10 @@ topic: finserv-authorizationformtext-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.668Z
+lastCollected: 2026-04-07T18:37:36.443Z
 estimatedTokens: 588
-keywords: [FinServ, AuthorizationFormText, Custom, authorization, form’s, text, language, settings, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [FinServ, AuthorizationFormText, authorization, form’s, text, language, settings, API, 53.0]
 ---
-
-# FinServ AuthorizationFormText Custom Fields
 
 > Represents an authorization form’s text and language settings.
       This object is available in API version 53.0 and later.

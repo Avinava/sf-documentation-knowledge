@@ -5,12 +5,10 @@ topic: connectapimessagebodyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:20.465Z
+lastCollected: 2026-04-07T18:36:05.816Z
 estimatedTokens: 205
-keywords: [ConnectApi.MessageBodyInput, Add, rich, messages, feed, items, comments]
+keywords: [ConnectApi.MessageBodyInput, Add, rich, messages, items, comments]
 ---
-
-# ConnectApi.MessageBodyInput
 
 > Add rich messages to feed items and comments.
 

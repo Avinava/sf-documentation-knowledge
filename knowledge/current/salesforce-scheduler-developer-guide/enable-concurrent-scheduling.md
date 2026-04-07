@@ -5,12 +5,10 @@ topic: enable-concurrent-scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.350Z
+lastCollected: 2026-04-07T18:39:21.160Z
 estimatedTokens: 143
 keywords: [Enable, Concurrent, Scheduling, users, dummy, resource, schedule, multiple, appointments, time, slot]
 ---
-
-# Enable Concurrent Scheduling
 
 > Enable concurrent scheduling so that users can use the dummy resource to schedule
       multiple appointments within the same time slot.

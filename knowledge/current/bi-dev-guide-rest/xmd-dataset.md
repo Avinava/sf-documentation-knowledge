@@ -5,12 +5,10 @@ topic: xmd-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.601Z
+lastCollected: 2026-04-07T18:36:58.160Z
 estimatedTokens: 191
 keywords: [Xmd, Dataset, extended, metadata, currency, settings]
 ---
-
-# Xmd Dataset
 
 > The extended metadata (Xmd) for currency settings of a currency field.
 

@@ -5,12 +5,10 @@ topic: get-pushv1messagecontactmessageiddeliveriestokenid
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.088Z
+lastCollected: 2026-04-07T18:40:17.237Z
 estimatedTokens: 240
-keywords: [push, messageContact, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**, Usage]
+keywords: [push, messageContact, messageId, deliveries, tokenId, Retrieves, delivery, status, previous, send, job, **Overview**]
 ---
-
-# GET /push/v1/messageContact/{messageId}/deliveries/{tokenId}
 
 > Retrieves delivery status of a previous messageContact send job.
 

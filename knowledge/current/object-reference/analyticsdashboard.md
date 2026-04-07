@@ -5,12 +5,10 @@ topic: analyticsdashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:34.306Z
+lastCollected: 2026-04-07T18:38:25.255Z
 estimatedTokens: 589
-keywords: [AnalyticsDashboard, Tableau, dashboard, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [AnalyticsDashboard, Tableau, dashboard, API, 64.0]
 ---
-
-# AnalyticsDashboard
 
 > Represents a Tableau Next dashboard. This object is available in API version 64.0 and later.
 

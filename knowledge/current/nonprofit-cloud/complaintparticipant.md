@@ -5,12 +5,10 @@ topic: complaintparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.821Z
+lastCollected: 2026-04-07T18:38:22.794Z
 estimatedTokens: 1005
-keywords: [ComplaintParticipant, junction, complaint, account, contact, stores, participant, registers, authorities, applicant, co-applicant, household, business, API, version]
+keywords: [ComplaintParticipant, junction, complaint, account, contact, stores, participant, registers, authorities, applicant, co-applicant, household, business, API, 54.0]
 ---
-
-# ComplaintParticipant
 
 > Represents a junction between a public complaint, and an account or a
          contact. This object stores the details of the participant who registers a complaint with

@@ -5,12 +5,10 @@ topic: disallow-calling-global-object-properties-as-functions-no-obj-calls-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.679Z
+lastCollected: 2026-04-07T18:38:05.902Z
 estimatedTokens: 133
-keywords: [Disallow, Calling, Functions, no-obj-calls, Prevents, Math, JSON, Reflect, objects, though, they, were, disallowed, follows, ECMAScript]
+keywords: [Disallow, Calling, Functions, no-obj-calls, Prevents, Math, JSON, Reflect, though, they, were, disallowed, follows, ECMAScript, specification]
 ---
-
-# Disallow Calling Global Object Properties as Functions ( no-obj-calls ) )
 
 > Prevents calling the Math,
     JSON, and Reflect global objects as though they were functions. For example, Math() is disallowed. This follows the ECMAScript 5

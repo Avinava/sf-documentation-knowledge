@@ -5,12 +5,10 @@ topic: use-case-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.488Z
+lastCollected: 2026-04-07T18:40:14.500Z
 estimatedTokens: 385
 keywords: [Case, Examples, Extend, Workforce, Engagement, implementation, how, automate, time, sheet, creation, bot, communicate, agent, schedules]
 ---
-
-# Use Case Examples
 
 > Extend your Workforce Engagement implementation. Learn how to automate time sheet
     creation or use a bot to communicate agent schedules.

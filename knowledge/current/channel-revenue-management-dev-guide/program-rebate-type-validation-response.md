@@ -5,12 +5,10 @@ topic: program-rebate-type-validation-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:19.123Z
+lastCollected: 2026-04-07T18:37:05.820Z
 estimatedTokens: 207
 keywords: [Program, Rebate, Validation, result, validating, includes, status, messages, any, identified, configuration, issues]
 ---
-
-# Program Rebate Type Validation Response
 
 > The result of validating a program rebate type. It includes validation status, messages, and any identified configuration issues.
 

@@ -5,12 +5,10 @@ topic: performrecordalertactionalertid-actionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.927Z
+lastCollected: 2026-04-07T18:36:35.410Z
 estimatedTokens: 229
-keywords: [performRecordAlertAction, alertId, actionParameters, Snooze, internal, record, alerts, time, period, dismiss, API, Version, Requires, Chatter]
+keywords: [performRecordAlertAction, alertId, actionParameters, Snooze, internal, record, alerts, time, period, dismiss, API, Requires, Chatter]
 ---
-
-# performRecordAlertAction(alertId, actionParameters)
 
 > Snooze internal record alerts for a specified time period or dismiss
       them.

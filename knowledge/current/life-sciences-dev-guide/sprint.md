@@ -5,12 +5,10 @@ topic: sprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.962Z
+lastCollected: 2026-04-07T18:38:01.855Z
 estimatedTokens: 998
-keywords: [Sprint, specific, timeframe, account, action, plans, executed, key, management, API, version, 65.0, later, Calls, Associated]
+keywords: [Sprint, specific, timeframe, account, action, plans, executed, key, management, API, 65.0]
 ---
-
-# Sprint
 
 > Represents a specific timeframe within which account action plans are
          executed within key account management. This object is available in API version 65.0 and

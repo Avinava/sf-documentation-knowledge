@@ -5,12 +5,10 @@ topic: handling-authentication-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.980Z
+lastCollected: 2026-04-07T18:40:26.292Z
 estimatedTokens: 361
-keywords: [Handling, Authentication, Errors, Mobile, SDK, error, handlers, display, messages, divert, app, flow, occur, event, user]
+keywords: [Handling, Authentication, Errors, Mobile, SDK, error, handlers, display, messages, divert, app, flow, occur, event, user, account, manager, iterates, delegates, gives, chance, handle]
 ---
-
-# Handling Authentication Errors
 
 > Mobile SDK provides
    default error handlers that display messages and divert the app flow when authentication errors

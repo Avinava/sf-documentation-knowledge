@@ -5,12 +5,10 @@ topic: custompermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.874Z
+lastCollected: 2026-04-07T18:36:24.215Z
 estimatedTokens: 675
-keywords: [CustomPermission, permission, grants, access, custom, feature, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [CustomPermission, CustomPermissionDependencyRequired, permission, grants, feature, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomPermission
 
 > Represents a permission that grants access to a custom
          feature.

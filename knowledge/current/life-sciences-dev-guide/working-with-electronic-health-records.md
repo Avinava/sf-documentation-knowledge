@@ -5,12 +5,10 @@ topic: working-with-electronic-health-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:07.554Z
+lastCollected: 2026-04-07T18:37:57.046Z
 estimatedTokens: 541
-keywords: [Working, Electronic, Health, Records, HL7, Level, Seven, standard, exchanging, EHR, parse, data, transmitted, via, messages]
+keywords: [Working, Electronic, Health, Records, HL7, Level, Seven, standard, exchanging, EHR, parse, transmitted, via, messages, store, Salesforce]
 ---
-
-# Working With Electronic Health Records
 
 > HL7 (Health Level Seven) is a standard for exchanging electronic health records (EHR).
       You can parse EHR data transmitted via HL7 data messages and store it in

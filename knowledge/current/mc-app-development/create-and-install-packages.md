@@ -5,12 +5,10 @@ topic: create-and-install-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:26.116Z
+lastCollected: 2026-04-07T18:40:21.394Z
 estimatedTokens: 833
-keywords: [Install, Packages, installed, package, Marketing, Cloud, account, API, integrations, custom, apps, add, Journey, Builder, components]
+keywords: [Install, Packages, installed, package, Marketing, Cloud, account, API, integrations, apps, add, Journey, Builder, Uninstall, Items]
 ---
-
-# Create and Install Packages
 
 > Create an installed package in your Marketing Cloud account to create API integrations, install custom apps, or add custom Journey Builder components.
 

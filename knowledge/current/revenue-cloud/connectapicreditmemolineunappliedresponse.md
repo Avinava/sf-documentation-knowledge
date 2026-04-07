@@ -5,12 +5,10 @@ topic: connectapicreditmemolineunappliedresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:56.714Z
+lastCollected: 2026-04-07T18:35:41.583Z
 estimatedTokens: 146
-keywords: [Output, representation, credit, memo, line, invoice, record, status]
+keywords: [credit, memo, line, invoice, record, status]
 ---
-
-# ConnectApi.CreditMemoLineUnappliedResponse
 
 > Output representation of the details of the credit memo line invoice line record with the
     status of the request.

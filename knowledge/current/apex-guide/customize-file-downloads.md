@@ -5,13 +5,11 @@ topic: customize-file-downloads
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.202Z
+lastCollected: 2026-04-07T18:36:18.429Z
 estimatedTokens: 629
 namespace: Sfc
-keywords: [Customize, File, Downloads, behavior, files, users, attempt, download, Apex, callback, ContentVersion, supports, modified, antivirus, scanning]
+keywords: [Customize, File, Downloads, behavior, files, users, attempt, download, Apex, callback, ContentVersion, supports, modified, antivirus, scanning, rights, management, IRM, operation, customization, API, 39.0, Flow, Execution]
 ---
-
-# Customize File Downloads
 
 > You can customize the behavior of files when users attempt to download them using an
   Apex callback. ContentVersion supports modified file behavior, such as antivirus scanning and

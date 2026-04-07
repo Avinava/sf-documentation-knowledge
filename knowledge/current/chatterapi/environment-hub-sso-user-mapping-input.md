@@ -5,12 +5,10 @@ topic: environment-hub-sso-user-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.450Z
+lastCollected: 2026-04-07T18:37:08.277Z
 estimatedTokens: 227
-keywords: [Environment, Hub, SSO, User, Mapping, Input, Creates, org, member]
+keywords: [Environment, Hub, SSO, User, Mapping, Creates, org, member]
 ---
-
-# Environment Hub SSO User Mapping Input
 
 > Creates an SSO mapping between a user in an Environment Hub org and
       a user in an Environment Hub member org.

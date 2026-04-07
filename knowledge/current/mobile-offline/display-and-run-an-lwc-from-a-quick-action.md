@@ -5,12 +5,10 @@ topic: display-and-run-an-lwc-from-a-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:24.603Z
+lastCollected: 2026-04-07T18:38:15.087Z
 estimatedTokens: 310
-keywords: [Display, Run, LWC, Quick, Action, active, development, actions, Test, Harness, app, launch, Lightning, web, components]
+keywords: [Display, Run, LWC, Quick, Action, active, development, actions, Test, Harness, app, launch, Lightning, web]
 ---
-
-# Display and Run an LWC from a Quick Action
 
 > During active development, use quick actions in the Test Harness app to launch and test
     your Lightning web components.

@@ -5,12 +5,10 @@ topic: configure-salesforce-cpq-to-use-the-external-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:40.571Z
+lastCollected: 2026-04-07T18:37:27.575Z
 estimatedTokens: 461
-keywords: [Configure, Salesforce, CPQ, External, Configurator, package, launch, custom, quote, line, editor, Indicate, products, configured, externally]
+keywords: [Configure, Salesforce, CPQ, External, Configurator, package, launch, quote, line, editor, Indicate, products, configured, externally, setting, product’s, Configurable]
 ---
-
-# Configure Salesforce CPQ to Use the External Configurator
 
 > Configure the Salesforce CPQ package to launch your custom configurator from the quote
   line editor. Indicate which products are configured externally by setting the product’s

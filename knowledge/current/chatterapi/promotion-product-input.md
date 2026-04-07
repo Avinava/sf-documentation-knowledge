@@ -5,12 +5,10 @@ topic: promotion-product-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:23.167Z
+lastCollected: 2026-04-07T18:37:09.887Z
 estimatedTokens: 169
-keywords: [Promotion, Product, Input, Products, evaluation, Supports, domain, dependent, requests, productId, independent, sku]
+keywords: [Promotion, Product, Products, evaluation, Supports, domain, dependent, requests, productId, independent, sku]
 ---
-
-# Promotion Product Input
 
 > Products for promotion product evaluation.  Supports domain dependent
   requests based on productId and domain independent requests based on sku.

@@ -5,12 +5,10 @@ topic: promotionmarketsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:20.335Z
+lastCollected: 2026-04-07T18:38:10.612Z
 estimatedTokens: 863
-keywords: [PromotionMarketSegment, relationship, promotion, Data, Cloud, segment, segments, targeted, particular, API, version, 51.0, later, Calls, Associated]
+keywords: [PromotionMarketSegment, relationship, promotion, Cloud, segment, segments, targeted, particular, API, 51.0]
 ---
-
-# PromotionMarketSegment
 
 > Represents a relationship between a promotion and Data Cloud segment. It
       indicates the segments targeted for a particular promotion. This object is available in

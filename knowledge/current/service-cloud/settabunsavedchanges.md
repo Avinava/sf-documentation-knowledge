@@ -5,12 +5,10 @@ topic: settabunsavedchanges
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:04.662Z
+lastCollected: 2026-04-07T18:36:50.938Z
 estimatedTokens: 546
-keywords: [setTabUnsavedChanges, unsaved, changes, icon, subtabs, indicate, data, API, version, 23.0, later, Arguments, Sample, Code, Later–Visualforce]
+keywords: [Arguments, setTabUnsavedChanges, unsaved, changes, icon, subtabs, indicate, API, 23.0, Sample, Code, Later–Visualforce, 25.0]
 ---
-
-# setTabUnsavedChanges()
 
 > Sets the unsaved changes icon ( )
             on subtabs to indicate unsaved data. This method is only available in API version 23.0

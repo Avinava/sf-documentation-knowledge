@@ -5,12 +5,10 @@ topic: data-use-purpose-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.476Z
+lastCollected: 2026-04-07T18:35:53.423Z
 estimatedTokens: 707
-keywords: [Data, Purpose, DMO, Cloud, model, contacting, prospect, customer, billing, marketing, surveys, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Purpose, DMO, Cloud, model, contacting, prospect, customer, billing, marketing, surveys, API, Primary, Subject, Area, Key]
 ---
-
-# Data Use Purpose DMO
 
 > The Data Use Purpose DMO is a Data Cloud data model object 
       (DMO) for the purpose of contacting a prospect or customer, such as for billing, marketing, 

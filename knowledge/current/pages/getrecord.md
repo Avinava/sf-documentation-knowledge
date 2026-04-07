@@ -5,12 +5,10 @@ topic: getrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:56.066Z
+lastCollected: 2026-04-07T18:38:48.030Z
 estimatedTokens: 200
-keywords: [getRecord, record, currently, context, query, Visualforce, URL, Usage, sObject, changes, selected, records, retrieves, prototype, contained, performing, mass, updates]
+keywords: [getRecord, record, currently, context, query, Visualforce, URL, sObject, changes, selected, records, retrieves, prototype, contained, performing, mass, updates]
 ---
-
-# getRecord()
 
 > Returns the record that is currently in context, based
 on the value of the id query

@@ -5,12 +5,10 @@ topic: contactpointphonehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.662Z
+lastCollected: 2026-04-07T18:39:35.105Z
 estimatedTokens: 266
-keywords: [ContactPointPhoneHistory, History, tracked, ContactPointPhone]
+keywords: [ContactPointPhoneHistory, tracked, ContactPointPhone]
 ---
-
-# ContactPointPhoneHistory
 
 > History for tracked fields of ContactPointPhone.
 

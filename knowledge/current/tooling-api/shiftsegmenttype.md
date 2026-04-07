@@ -5,12 +5,10 @@ topic: shiftsegmenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.072Z
+lastCollected: 2026-04-07T18:36:34.488Z
 estimatedTokens: 1216
-keywords: [ShiftSegmentType, shift, segment, settings, Scheduling, Workforce, Engagement, API, version, 55.0, later, SOAP, Calls, REST, Special]
+keywords: [ShiftSegmentType, shift, segment, settings, Scheduling, Workforce, Engagement, API, 55.0, SOAP, REST]
 ---
-
-# ShiftSegmentType
 
 > Represents shift segment type settings for Shift Scheduling and Workforce
          Engagement. This object is available in API version 55.0 and later.

@@ -5,12 +5,10 @@ topic: quick-setup-chat-in-the
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.918Z
+lastCollected: 2026-04-07T18:40:28.061Z
 estimatedTokens: 2644
 keywords: [Quick, Setup, Chat, add, iOS, app, SCSChatConfiguration, pass, showChat]
 ---
-
-# Quick Setup: Chat in the
 
 > To add Chat to your iOS app, create an SCSChatConfiguration object and pass it to the showChat method.
 

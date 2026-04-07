@@ -5,12 +5,10 @@ topic: assignment-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.092Z
+lastCollected: 2026-04-07T18:36:19.315Z
 estimatedTokens: 302
 keywords: [Assignment, Statements, statement, any, places, variable]
 ---
-
-# Assignment Statements
 
 > An assignment statement is any statement that places a value into a
         variable.

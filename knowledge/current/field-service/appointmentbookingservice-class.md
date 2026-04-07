@@ -5,13 +5,11 @@ topic: appointmentbookingservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:00.533Z
+lastCollected: 2026-04-07T18:36:46.377Z
 estimatedTokens: 6148
 namespace: FSL
-keywords: [AppointmentBookingService, appointment, booking, scheduling, process, service, slots, considering, policies, work, rules, objectives, schedule, tomorrow, Monday]
+keywords: [AppointmentBookingService, appointment, booking, scheduling, process, service, slots, considering, policies, work, objectives, schedule, tomorrow, Monday, getSlots, serviceID, policyId, operatingHoursId, exactAppointment, calendar, sortResults, sortBy, getABSlots]
 ---
-
-# AppointmentBookingService Class
 
 > Represents the appointment booking scheduling process in field
       service. Appointment booking returns the available slots for a service appointment, while

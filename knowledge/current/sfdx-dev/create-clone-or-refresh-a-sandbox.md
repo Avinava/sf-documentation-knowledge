@@ -5,12 +5,10 @@ topic: create-clone-or-refresh-a-sandbox
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:13.002Z
+lastCollected: 2026-04-07T18:40:07.950Z
 estimatedTokens: 2018
-keywords: [Clone, Refresh, Sandbox, development, testing, training, copy, data, metadata, another, latest, sometimes, source, org, Why]
+keywords: [Clone, Refresh, Sandbox, development, testing, training, copy, metadata, another, latest, sometimes, source, org, Why, Recommend, Aliases, Check, Status, Open]
 ---
-
-# Create, Clone, or Refresh a Sandbox
 
 > Create a sandbox to use for development, testing, or training. Clone a sandbox to copy
     its data and metadata to another sandbox. Refresh an existing sandbox to get the latest

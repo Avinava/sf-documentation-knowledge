@@ -5,12 +5,10 @@ topic: troubleshoot-appexchange-leads
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.369Z
+lastCollected: 2026-04-07T18:38:46.233Z
 estimatedTokens: 1320
-keywords: [Troubleshoot, AppExchange, Leads, enabled, lead, collection, listing, However, count, org, different, expect, how, routing, rules]
+keywords: [Troubleshoot, AppExchange, Leads, enabled, lead, collection, listing, However, count, org, different, expect, how, routing, reCAPTCHA, verification, settings, determine, Salesforce, Customer, Contact, Preferences, Web-to-Lead, State, Country, Territory, Picklists]
 ---
-
-# Troubleshoot AppExchange Leads
 
 > You enabled lead collection for your AppExchange listing. However, the lead count in
     your org is different than you expect. Learn how lead routing rules, reCAPTCHA verification, and

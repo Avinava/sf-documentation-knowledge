@@ -5,12 +5,10 @@ topic: examples-from-amazon-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.584Z
+lastCollected: 2026-04-07T18:40:12.571Z
 estimatedTokens: 350
-keywords: [Examples, Amazon, Connect, Review, Service, Cloud, Voice, implementation, created, Connect’s, solutions, team, cover, scenarios, voicemail]
+keywords: [Examples, Amazon, Connect, Review, Service, Cloud, Voice, implementation, created, Connect’s, solutions, team, cover, scenarios, voicemail, setup, external, line, routing, reps]
 ---
-
-# Examples from Amazon Connect
 
 > Review Service Cloud Voice implementation examples created by Amazon Connect’s solutions
   team. The examples cover scenarios such as voicemail setup and external line routing for

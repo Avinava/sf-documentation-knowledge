@@ -5,12 +5,10 @@ topic: salesforce-contracts-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.621Z
+lastCollected: 2026-04-07T18:37:24.615Z
 estimatedTokens: 200
-keywords: [Salesforce, Contracts, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
+keywords: [Salesforce, Contracts, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
-
-# Salesforce Contracts Tooling API Objects
 
 > Tooling API exposes metadata used in developer tooling that you can access through REST
   or SOAP. Tooling API’s SOQL capabilities for many metadata types allow you to retrieve smaller

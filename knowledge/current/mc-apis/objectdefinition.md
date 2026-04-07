@@ -5,12 +5,10 @@ topic: objectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.800Z
+lastCollected: 2026-04-07T18:40:17.984Z
 estimatedTokens: 417
 keywords: [ObjectDefinition, stores, metadata, results, Describe, call's, ObjectDefinitionRequest]
 ---
-
-# ObjectDefinition
 
 > The ObjectDefinition object stores metadata about an object. This object contains the results of a Describe call's ObjectDefinitionRequest.
 

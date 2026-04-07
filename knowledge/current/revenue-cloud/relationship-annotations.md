@@ -5,12 +5,10 @@ topic: relationship-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:01:57.617Z
+lastCollected: 2026-04-07T18:35:42.503Z
 estimatedTokens: 1099
 keywords: [Relationship, Annotations, annotate, relationships, configurable, allowNewInstance, closeRelation, sourceContextNode]
 ---
-
-# Relationship Annotations
 
 > You can annotate relationships by using annotations, such as configurable,
     allowNewInstance, closeRelation, sourceContextNode, and so on.

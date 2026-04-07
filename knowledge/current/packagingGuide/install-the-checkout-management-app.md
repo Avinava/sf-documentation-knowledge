@@ -5,12 +5,10 @@ topic: install-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.458Z
+lastCollected: 2026-04-07T18:38:46.318Z
 estimatedTokens: 581
 keywords: [Install, Checkout, Management, App, CMA, Salesforce, org, manage, licenses, usually, Partner, Business, License, LMA, sure]
 ---
-
-# Install the Checkout Management App
 
 > Install the Checkout Management App (CMA) in the Salesforce org where you manage
         licenses, usually your Partner Business Org. The License Management App (LMA) is required to

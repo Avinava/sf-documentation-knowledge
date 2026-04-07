@@ -5,12 +5,10 @@ topic: batchjobpart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.194Z
+lastCollected: 2026-04-07T18:37:57.723Z
 estimatedTokens: 1051
-keywords: [BatchJobPart, part, batch, job, Life, Sciences, Cloud, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [BatchJobPart, part, batch, job, Life, Sciences, Cloud, API, 65.0]
 ---
-
-# BatchJobPart
 
 > Represents one part of a batch job. This object is available in Life
   Sciences Cloud in API version 65.0 and later.

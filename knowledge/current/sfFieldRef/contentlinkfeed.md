@@ -5,12 +5,10 @@ topic: contentlinkfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:40.848Z
+lastCollected: 2026-04-07T18:39:35.309Z
 estimatedTokens: 358
-keywords: [ContentLinkFeed, Feed, tracking, ContentLink]
+keywords: [ContentLinkFeed, ContentLink]
 ---
-
-# ContentLinkFeed
 
 > Feed tracking for ContentLink.
 

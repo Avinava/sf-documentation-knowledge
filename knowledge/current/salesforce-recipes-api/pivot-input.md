@@ -5,12 +5,10 @@ topic: pivot-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.820Z
+lastCollected: 2026-04-07T18:39:18.538Z
 estimatedTokens: 84
-keywords: [Pivot, Input, aggregate, data, node, recipe]
+keywords: [Pivot, aggregate, node, recipe]
 ---
-
-# Pivot Input
 
 > A pivot for an aggregate data node in a recipe.
 

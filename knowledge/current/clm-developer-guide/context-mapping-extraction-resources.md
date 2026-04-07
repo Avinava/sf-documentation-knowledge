@@ -5,12 +5,10 @@ topic: context-mapping-extraction-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:37.870Z
+lastCollected: 2026-04-07T18:37:24.843Z
 estimatedTokens: 411
-keywords: [Context, Mapping, Extraction, Resources, Manage, custom, mappings, flow, documents, their, sent, resource, map, extracted, own]
+keywords: [Context, Mapping, Extraction, Resources, Manage, mappings, flow, documents, their, sent, resource, map, extracted, own, relevant, contract, business, cases]
 ---
-
-# Context Mapping Extraction Resources
 
 > Manage custom mappings used in the extraction flow of documents before their fields
       are sent for extraction. Use the Extraction Context Mapping resource to map extracted field

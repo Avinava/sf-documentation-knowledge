@@ -5,12 +5,10 @@ topic: empbenefitsummaryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:44.420Z
+lastCollected: 2026-04-07T18:39:39.077Z
 estimatedTokens: 361
-keywords: [EmpBenefitSummaryFeed, Feed, tracking, EmpBenefitSummary]
+keywords: [EmpBenefitSummaryFeed, EmpBenefitSummary]
 ---
-
-# EmpBenefitSummaryFeed
 
 > Feed tracking for EmpBenefitSummary.
 

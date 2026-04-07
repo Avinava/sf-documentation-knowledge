@@ -5,12 +5,10 @@ topic: connectapieinsteinllmgenaisourcereference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.369Z
+lastCollected: 2026-04-07T18:36:08.802Z
 estimatedTokens: 120
-keywords: [Source, data, provider]
+keywords: [Source, provider]
 ---
-
-# ConnectApi.EinsteinLlmGenAiSourceReference
 
 > Source from a data provider.
 

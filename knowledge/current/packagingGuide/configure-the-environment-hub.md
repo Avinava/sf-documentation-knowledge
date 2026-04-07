@@ -5,12 +5,10 @@ topic: configure-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.841Z
+lastCollected: 2026-04-07T18:38:46.819Z
 estimatedTokens: 794
-keywords: [Configure, Environment, Hub, Enable, org, give, users, access, you’re, ISV, partner, already, installed, Business]
+keywords: [Configure, Environment, Hub, Enable, org, give, users, you’re, ISV, partner, already, installed, Business]
 ---
-
-# Configure the Environment Hub
 
 > Enable the Environment Hub in your org, and then configure it to give other users
   access. If you’re an ISV partner, the Environment Hub is already installed in your Partner

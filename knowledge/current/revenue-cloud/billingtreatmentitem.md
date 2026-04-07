@@ -5,12 +5,10 @@ topic: billingtreatmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.724Z
+lastCollected: 2026-04-07T18:35:48.701Z
 estimatedTokens: 1930
-keywords: [BillingTreatmentItem, allocation, total, amount, order, item, billing, schedules, throughout, item's, lifecycle, API, version, 62.0, later]
+keywords: [BillingTreatmentItem, allocation, total, amount, order, item, billing, schedules, throughout, item's, lifecycle, API, 62.0]
 ---
-
-# BillingTreatmentItem
 
 > Represents information about allocation of the total amount of an
          order item to billing schedules throughout the order item's lifecycle. This object is

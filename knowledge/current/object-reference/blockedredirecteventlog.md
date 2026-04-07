@@ -5,12 +5,10 @@ topic: blockedredirecteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:35.791Z
+lastCollected: 2026-04-07T18:38:26.771Z
 estimatedTokens: 528
-keywords: [BlockedRedirectEventLog, Blocked, Redirect, events, capture, redirections, Salesforce, untrusted, malformed, URLs, API, version, 65.0, later, Calls]
+keywords: [BlockedRedirectEventLog, Blocked, Redirect, events, capture, redirections, Salesforce, untrusted, malformed, URLs, API, 65.0]
 ---
-
-# BlockedRedirectEventLog
 
 > Blocked Redirect events capture information about blocked redirections from
          Salesforce to untrusted and malformed URLs.  This object is available in API version

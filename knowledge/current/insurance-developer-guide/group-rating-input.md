@@ -5,12 +5,10 @@ topic: group-rating-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.105Z
+lastCollected: 2026-04-07T18:37:51.050Z
 estimatedTokens: 153
-keywords: [Group, Rating, Input, representation, Benefits, API]
+keywords: [Group, Rating, Benefits, API]
 ---
-
-# Group Rating Input
 
 > Input representation for the Group Benefits Group Rating API.
 

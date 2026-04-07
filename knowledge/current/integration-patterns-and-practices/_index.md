@@ -2,7 +2,7 @@
 domain: integration-patterns-and-practices
 name: Integration Patterns and Practices
 documentCount: 17
-lastGenerated: 2026-04-07T09:06:36.881Z
+lastGenerated: 2026-04-07T18:40:42.161Z
 ---
 
 # Integration Patterns and Practices — Knowledge Index
@@ -32,7 +32,7 @@ in this document. |
 and Forget | api-reference | You use Salesforce to track leads, manage your pipeline, create opportunities, a |
 | [remote-process-invocationrequest-and-reply.md](./remote-process-invocationrequest-and-reply.md) | Remote Process Invocation—Request and Reply | api-reference | You use Salesforce to track leads, manage your pipeline, create opportunities, a |
 | [resourcesexternal.md](./resourcesexternal.md) | Resources—External | developer-guide | Resources—External |
-| [resourcessalesforce.md](./resourcessalesforce.md) | Resources—Salesforce | help-article | Resources—Salesforce, Developer, Documentation |
+| [resourcessalesforce.md](./resourcessalesforce.md) | Resources—Salesforce | help-article | Trailhead, Resources—Salesforce, Developer |
 | [security-considerations.md](./security-considerations.md) | Security Considerations | concept | To be effective members of the enterprise portfolio, all applications must be cr |
 | [ui-update-based-on-data-changes.md](./ui-update-based-on-data-changes.md) | UI Update Based on Data Changes | developer-guide | You use Salesforce to manage customer cases. A customer service rep is on the ph |
 

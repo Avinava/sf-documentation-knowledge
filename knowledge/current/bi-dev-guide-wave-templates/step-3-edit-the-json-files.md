@@ -5,12 +5,10 @@ topic: step-3-edit-the-json-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:15.802Z
+lastCollected: 2026-04-07T18:37:02.364Z
 estimatedTokens: 1515
-keywords: [Step, Edit, JSON, Files, source, app, looks, fantastic, widgets, rendered, beautifully, their, dashboards, template, gives]
+keywords: [Step, Edit, JSON, Files, source, app, looks, fantastic, widgets, rendered, beautifully, their, dashboards, template, gives, users, experience, unique, Salesforce, orgs, standard, apps, add, configuration, wizard, customize, creation, helps, admin, dashboard, label, chart, own, touches, embedded, auto-install.json, file, control, process, editing, constitute, assets, thetemplate-info.json, ui.json, variables.json, any, number, rules.json, open, world, flexibility, power, universe]
 ---
-
-# Step 3: Edit the JSON Files
 
 > Your source app looks fantastic, with widgets rendered beautifully in their dashboards.
   Next, create a template that gives users the same experience as your app but with data unique to

@@ -5,12 +5,10 @@ topic: minimize-bandwidth-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:25.536Z
+lastCollected: 2026-04-07T18:38:16.070Z
 estimatedTokens: 1224
-keywords: [Minimize, Bandwidth, Usage, Since, mobile, users, network, constraints, consider, devices, building, components, CSS, JavaScript, Libraries]
+keywords: [Minimize, Bandwidth, Since, mobile, users, network, constraints, consider, devices, building, CSS, JavaScript, Libraries, Reduce, Image, Size, Follow, General, Development, Offline, Management, Best, Practices]
 ---
-
-# Minimize Bandwidth Usage
 
 > Since mobile users have network constraints, consider bandwidth on mobile devices when
     building your components.

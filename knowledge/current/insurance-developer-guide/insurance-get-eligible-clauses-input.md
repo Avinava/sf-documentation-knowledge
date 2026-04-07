@@ -5,12 +5,10 @@ topic: insurance-get-eligible-clauses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.094Z
+lastCollected: 2026-04-07T18:37:51.039Z
 estimatedTokens: 173
-keywords: [Insurance, Eligible, Clauses, Input, representation, product]
+keywords: [Insurance, Eligible, Clauses, product]
 ---
-
-# Insurance Get Eligible Clauses Input
 
 > Input representation for get eligible insurance product clauses.
 

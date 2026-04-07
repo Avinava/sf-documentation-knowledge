@@ -5,12 +5,10 @@ topic: indicatorresultfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.960Z
+lastCollected: 2026-04-07T18:39:44.554Z
 estimatedTokens: 360
-keywords: [IndicatorResultFeed, Feed, tracking, IndicatorResult]
+keywords: [IndicatorResultFeed, IndicatorResult]
 ---
-
-# IndicatorResultFeed
 
 > Feed tracking for IndicatorResult.
 

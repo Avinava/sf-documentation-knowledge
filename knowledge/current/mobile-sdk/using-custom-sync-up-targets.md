@@ -5,12 +5,10 @@ topic: using-custom-sync-up-targets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:30.185Z
+lastCollected: 2026-04-07T18:40:25.548Z
 estimatedTokens: 146
-keywords: [Custom, Sync, Targets, operations, target, records, uploaded, REST, endpoint, updating, server, access, arbitrary, endpoints—both, inside]
+keywords: [Sync, Targets, operations, target, records, uploaded, REST, endpoint, updating, server, arbitrary, endpoints—both, inside, outside, Salesforce—by, creating]
 ---
-
-# Using Custom Sync Up Targets
 
 > During sync up operations, a sync up target controls the set of records to be uploaded and the
    REST endpoint for updating records on the server. You can access arbitrary REST

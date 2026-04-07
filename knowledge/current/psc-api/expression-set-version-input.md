@@ -5,12 +5,10 @@ topic: expression-set-version-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:08.140Z
+lastCollected: 2026-04-07T18:39:01.281Z
 estimatedTokens: 331
-keywords: [Expression, Version, Input, representation]
+keywords: [Expression]
 ---
-
-# Expression Set Version Input
 
 > Input representation of an expression set version.
 

@@ -5,12 +5,10 @@ topic: giftcommitmentschedulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.956Z
+lastCollected: 2026-04-07T18:39:42.589Z
 estimatedTokens: 273
-keywords: [GiftCommitmentScheduleHistory, History, tracked, GiftCommitmentSchedule]
+keywords: [GiftCommitmentScheduleHistory, tracked, GiftCommitmentSchedule]
 ---
-
-# GiftCommitmentScheduleHistory
 
 > History for tracked fields of GiftCommitmentSchedule.
 

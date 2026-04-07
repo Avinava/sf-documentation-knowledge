@@ -5,12 +5,10 @@ topic: participatingcustomersparticipatingcustomer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.123Z
+lastCollected: 2026-04-07T18:39:10.590Z
 estimatedTokens: 536
-keywords: [APEX, programmatic, access, Participating, Customer, associated, instance, TPM_ParticipatingCustomers, TPM, isIncluded, API, Version, ParticipatingCustomer, setIncluded, setAccountExternalId]
+keywords: [APEX, programmatic, Participating, Customer, instance, TPM_ParticipatingCustomers, TPM, isIncluded, API, ParticipatingCustomer, setIncluded, setAccountExternalId, getAccountExternalId]
 ---
-
-# ParticipatingCustomers.ParticipatingCustomer Class
 
 > This APEX class provides programmatic access to a Participating Customer associated to
   an instance of TPM_ParticipatingCustomers.

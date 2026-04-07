@@ -5,12 +5,10 @@ topic: connectapiinsurancecontactsanduserscreationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:01.073Z
+lastCollected: 2026-04-07T18:37:49.905Z
 estimatedTokens: 223
-keywords: [Input, representation, contacts, portal, users]
+keywords: [contacts, portal, users]
 ---
-
-# ConnectApi.InsuranceContactsAndUsersCreationInputRepresentation
 
 > Input representation to create contacts and portal users.
 

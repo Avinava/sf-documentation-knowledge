@@ -5,12 +5,10 @@ topic: mlmodelmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.540Z
+lastCollected: 2026-04-07T18:38:35.788Z
 estimatedTokens: 747
-keywords: [MLModelMetric, metric, statistic, model, accuracy, precision, RSquared, model’s, metrics, performance, compare, models, API, version, 53.0]
+keywords: [MLModelMetric, metric, statistic, model, accuracy, precision, RSquared, model’s, metrics, performance, compare, models, API, 53.0]
 ---
-
-# MLModelMetric
 
 > Represents a metric or statistic about the related model, such as accuracy,
          precision, or RSquared. Use a model’s metrics to learn about its performance and to compare

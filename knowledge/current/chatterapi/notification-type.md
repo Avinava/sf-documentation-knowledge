@@ -5,12 +5,10 @@ topic: notification-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.949Z
+lastCollected: 2026-04-07T18:37:21.123Z
 estimatedTokens: 212
 keywords: [Notification]
 ---
-
-# Notification Type
 
 > Notification type information.
 

@@ -5,12 +5,10 @@ topic: order-by-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.347Z
+lastCollected: 2026-04-07T18:40:10.322Z
 estimatedTokens: 331
-keywords: [ORDER, Clause, specify, search, results, SOSL, query, display, empty, records, beginning, end, Examples]
+keywords: [Examples, ORDER, Clause, specify, search, results, SOSL, query, display, empty, records, beginning, end]
 ---
-
-# ORDER BY  Clause
 
 > You can specify the order in which search results are returned from a SOSL query using
   the ORDER BY clause. You can also use the clause to display

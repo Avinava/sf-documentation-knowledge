@@ -5,13 +5,11 @@ topic: businesshours-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.296Z
+lastCollected: 2026-04-07T18:36:03.514Z
 estimatedTokens: 1817
 namespace: System
-keywords: [BusinessHours, business, hours, customer, support, team, operates, add, businessHoursId, startDate, intervalMilliseconds, addGmt, diff, endDate, isWithin]
+keywords: [BusinessHours, business, hours, customer, support, team, operates, add, businessHoursId, startDate, intervalMilliseconds, addGmt, diff, endDate, isWithin, targetDate, nextStartDate]
 ---
-
-# BusinessHours Class
 
 > Use the BusinessHours methods to set the business hours at which your customer support
 team operates.

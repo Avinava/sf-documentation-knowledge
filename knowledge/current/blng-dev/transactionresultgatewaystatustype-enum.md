@@ -5,12 +5,10 @@ topic: transactionresultgatewaystatustype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.837Z
+lastCollected: 2026-04-07T18:37:03.406Z
 estimatedTokens: 658
 keywords: [TransactionResult.GatewayStatusType, defining, appropriate, gateway, status, payment]
 ---
-
-# TransactionResult.GatewayStatusType Enum
 
 > An enum defining the appropriate gateway status values returned by the
       payment gateway.

@@ -5,12 +5,10 @@ topic: orderdeliverygroupsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:45.585Z
+lastCollected: 2026-04-07T18:38:36.754Z
 estimatedTokens: 2951
-keywords: [OrderDeliveryGroupSummary, current, state, group, OrderItemSummaries, belonging, OrderSummary, fulfilled, delivery, delivered, address, shipment, include, isn’t, guaranteed]
+keywords: [OrderDeliveryGroupSummary, current, state, group, OrderItemSummaries, belonging, OrderSummary, fulfilled, delivery, delivered, address, shipment, include, isn’t, guaranteed, Corresponds, order, consisting, original, any, change, applicable, API, 48.0]
 ---
-
-# OrderDeliveryGroupSummary
 
 > Represents the current properties and state of a group of OrderItemSummaries,
       belonging to one OrderSummary, to be fulfilled using the same delivery method and delivered to

@@ -5,12 +5,10 @@ topic: custom-address-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.073Z
+lastCollected: 2026-04-07T18:37:04.775Z
 estimatedTokens: 529
-keywords: [Custom, Address, store, data, structured, compound, abstraction, simplify, application, code, handles, leading, concise, understandable, addresses]
+keywords: [Address, store, structured, compound, abstraction, simplify, application, code, handles, leading, concise, understandable, addresses, accessible, individual]
 ---
-
-# Custom Address Fields
 
 > Use the Address field type to create custom fields that store address data in a
     structured compound data type. Compound fields are an abstraction that can simplify application

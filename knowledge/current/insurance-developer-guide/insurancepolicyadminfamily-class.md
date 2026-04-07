@@ -5,13 +5,11 @@ topic: insurancepolicyadminfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.672Z
+lastCollected: 2026-04-07T18:37:49.524Z
 estimatedTokens: 111
 namespace: ConnectApi
 keywords: [InsurancePolicyAdminFamily, Manage, insurance, policies, comprehensively, different, transaction, issuance, endorsement, renewal, cancellation]
 ---
-
-# InsurancePolicyAdminFamily Class
 
 > Manage insurance policies comprehensively, for different transaction types, such as
   issuance, endorsement, renewal, and cancellation.

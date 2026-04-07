@@ -5,12 +5,10 @@ topic: sql-formula-numeric-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.019Z
+lastCollected: 2026-04-07T18:39:18.747Z
 estimatedTokens: 169
-keywords: [SQL, Formula, Numeric, Input, recipe, node]
+keywords: [SQL, Formula, Numeric, recipe, node]
 ---
-
-# SQL Formula Numeric Field Input
 
 > The SQL formula numeric field for a recipe node.
 

@@ -5,12 +5,10 @@ topic: buyergrouppricebookfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.688Z
+lastCollected: 2026-04-07T18:39:30.956Z
 estimatedTokens: 300
-keywords: [BuyerGroupPricebookFeed, Feed, tracking, BuyerGroupPricebook]
+keywords: [BuyerGroupPricebookFeed, BuyerGroupPricebook]
 ---
-
-# BuyerGroupPricebookFeed
 
 > Feed tracking for BuyerGroupPricebook.
 

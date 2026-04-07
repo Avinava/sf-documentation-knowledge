@@ -5,13 +5,11 @@ topic: cdpquery-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:10.675Z
+lastCollected: 2026-04-07T18:35:55.821Z
 estimatedTokens: 32076
 namespace: ConnectApi
-keywords: [CdpQuery, Synchronously, query, data, across, model, lake, unified, linked, objects, Specify, batch, size, offset, order]
+keywords: [CdpQuery, Synchronously, query, across, model, lake, unified, linked, Specify, batch, size, offset, order, results, rows, getAllMetadata, API, Requires, Chatter, entityType, entityCategory, entityName, dataspace, getDataGraphData, dataGraphEntityName, live, getDataGraphDataWithLookupKeys, lookupKeys, noCache, getDataGraphMetadata, getInsightsMetadata, ciName, getMetadataEntities, getProfileMetadata, dataModelName, queryANSISql, batchSize, orderby, queryAnsiSqlV2, nextBatchAnsiSqlV2, nextBatchId, querySql, workloadName, querySqlRows, queryId, rowLimit, omitSchema, cancelQuerySql, querySqlStatus, waitTimeMs, queryCalculatedInsights, dimensions, measures, filters, timeGranularity, queryProfileApi, searchKey, childDataModelName, universalIdLookupBySourceId, dataSourceId, dataSourceObjectId, sourceRecordId]
 ---
-
-# CdpQuery Class
 
 > Synchronously query data across data model, lake, unified, and linked
   objects. Specify batch size, offset, and order of the results. This query

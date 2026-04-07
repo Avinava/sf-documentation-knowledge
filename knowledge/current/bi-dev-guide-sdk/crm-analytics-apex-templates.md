@@ -5,12 +5,10 @@ topic: crm-analytics-apex-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:14.772Z
+lastCollected: 2026-04-07T18:37:01.381Z
 estimatedTokens: 763
 keywords: [CRM, Analytics, Apex, Templates, retrieve, collection, describe, template, configuration, Wave.Templates]
 ---
-
-# CRM Analytics Apex Templates
 
 > Use the Templates class to retrieve a collection
     of CRM Analytics templates, describe a single template and template configuration.

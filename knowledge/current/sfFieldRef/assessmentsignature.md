@@ -5,12 +5,10 @@ topic: assessmentsignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:33.524Z
+lastCollected: 2026-04-07T18:39:27.506Z
 estimatedTokens: 372
-keywords: [AssessmentSignature, Stores, respondent’s, assessment, API, version, 57.0, later]
+keywords: [AssessmentSignature, Stores, respondent’s, assessment, API, 57.0]
 ---
-
-# AssessmentSignature
 
 > Stores the respondent’s signature during an assessment. This object is
       available in API version 57.0 and later.

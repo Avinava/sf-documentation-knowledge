@@ -5,12 +5,10 @@ topic: actionable-segmentation-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.618Z
+lastCollected: 2026-04-07T18:36:35.085Z
 estimatedTokens: 126
 keywords: [Actionable, Segmentation, Metadata, API, definitions, configure, visible, columns, member, statuses, activating]
 ---
-
-# Actionable Segmentation Metadata API Types
 
 > Use the Actionable Segmentation metadata types to set up actionable list definitions.
         Create actionable list definitions, configure visible columns for actionable lists, and

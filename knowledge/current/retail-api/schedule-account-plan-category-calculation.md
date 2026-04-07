@@ -5,12 +5,10 @@ topic: schedule-account-plan-category-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.582Z
+lastCollected: 2026-04-07T18:39:11.090Z
 estimatedTokens: 70
 keywords: [Schedule, Account, Plan, Category, Calculation, Schedules, multiple, categories, batch]
 ---
-
-# Schedule Account Plan Category Calculation
 
 > Schedules one or multiple account plan categories for batch
       calculation.

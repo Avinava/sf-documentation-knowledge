@@ -5,12 +5,10 @@ topic: decision-explainer-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:10.123Z
+lastCollected: 2026-04-07T18:39:03.353Z
 estimatedTokens: 422
 keywords: [Decision, Explainer, Business, APIs, Connect, REST, help, customers, partners, ISVs, integrate, Salesforce, software, UIs]
 ---
-
-# Decision Explainer Business APIs
 
 > Connect REST APIs help customers, partners, and ISVs integrate with Salesforce
         software and UIs.

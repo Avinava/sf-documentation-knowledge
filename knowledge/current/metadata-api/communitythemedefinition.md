@@ -5,12 +5,10 @@ topic: communitythemedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.342Z
+lastCollected: 2026-04-07T18:36:23.649Z
 estimatedTokens: 1590
-keywords: [CommunityThemeDefinition, definition, theme, Experience, Builder, site, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
+keywords: [CommunityThemeDefinition, CommunityThemeBundleInfo, CommunityCustomThemeLayoutType, CommunityThemeRouteOverride, definition, theme, Experience, Builder, site, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, CommunityTheme, Setting, Declarative, Sample, Wildcard, Support, Manifest]
 ---
-
-# CommunityThemeDefinition
 
 > Represents the definition of a theme for an Experience Builder site. 
     This type extends the Metadata metadata type and inherits its 

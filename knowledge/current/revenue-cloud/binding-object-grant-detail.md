@@ -5,12 +5,10 @@ topic: binding-object-grant-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.311Z
+lastCollected: 2026-04-07T18:35:45.286Z
 estimatedTokens: 370
-keywords: [Binding, Grant, Detail, Output, representation, usage, resource, grants]
+keywords: [Binding, Grant, Detail, resource, grants]
 ---
-
-# Binding Object Grant Detail
 
 > Output representation of the details of usage resource grants for a specified binding
     object.

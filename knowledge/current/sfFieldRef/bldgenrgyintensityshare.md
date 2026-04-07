@@ -5,12 +5,10 @@ topic: bldgenrgyintensityshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.713Z
+lastCollected: 2026-04-07T18:39:29.859Z
 estimatedTokens: 252
 keywords: [BldgEnrgyIntensityShare, Sharing, BldgEnrgyIntensity]
 ---
-
-# BldgEnrgyIntensityShare
 
 > Sharing for BldgEnrgyIntensity.
 

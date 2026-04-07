@@ -5,12 +5,10 @@ topic: triggeredsendexclusionlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.532Z
+lastCollected: 2026-04-07T18:40:20.782Z
 estimatedTokens: 479
 keywords: [TriggeredSendExclusionList, email, addresses, excluded, triggered]
 ---
-
-# TriggeredSendExclusionList
 
 > The TriggeredSendExclusionList object contains email addresses to be excluded from triggered sends.
 

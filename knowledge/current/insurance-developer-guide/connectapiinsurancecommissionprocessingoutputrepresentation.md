@@ -5,12 +5,10 @@ topic: connectapiinsurancecommissionprocessingoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.562Z
+lastCollected: 2026-04-07T18:37:50.417Z
 estimatedTokens: 93
-keywords: [Output, representation, commission, processing, resource]
+keywords: [commission, processing, resource]
 ---
-
-# ConnectApi.InsuranceCommissionProcessingOutputRepresentation
 
 > Output representation details of the commission processing resource.
 

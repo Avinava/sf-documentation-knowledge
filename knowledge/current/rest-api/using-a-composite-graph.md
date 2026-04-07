@@ -5,12 +5,10 @@ topic: using-a-composite-graph
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:36.417Z
+lastCollected: 2026-04-07T18:36:21.666Z
 estimatedTokens: 448
 keywords: [Composite, Graph, how, demonstrates]
 ---
-
-# Using a Composite Graph
 
 > This example shows how to use a composite graph. It also demonstrates how one request can use more than one composite graph.
 

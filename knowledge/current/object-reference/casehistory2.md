@@ -5,12 +5,10 @@ topic: casehistory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.611Z
+lastCollected: 2026-04-07T18:38:27.609Z
 estimatedTokens: 559
-keywords: [CaseHistory2, historical, owner, status, changes, made, associated, Case, API, version, 59.0, later, Calls, Special, Access]
+keywords: [CaseHistory2, historical, owner, status, changes, made, Case, API, 59.0]
 ---
-
-# CaseHistory2
 
 > Represents historical information about owner and status changes that have
          been made to the associated Case. This object is available in API version 59.0 and

@@ -6,13 +6,10 @@ topic: actionable-list-member-queues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:52.975Z
+lastCollected: 2026-04-07T18:36:38.635Z
 estimatedTokens: 135
-keywords: [Actionable, Member, Queues, Output, representation, fetch, contain]
+keywords: [Actionable, Member, Queues, fetch, contain]
 ---
-
-# Actionable List Member
-    Queues
 
 > Output representation of the fetch request of the queues that contain the actionable list
     member as a supported object.

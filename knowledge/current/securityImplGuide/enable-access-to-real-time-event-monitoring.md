@@ -5,12 +5,10 @@ topic: enable-access-to-real-time-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.888Z
+lastCollected: 2026-04-07T18:39:22.801Z
 estimatedTokens: 426
-keywords: [Enable, Access, Real-Time, Event, Monitoring, user, profiles, permission]
+keywords: [Enable, Real-Time, Event, Monitoring, user, profiles, permission]
 ---
-
-# Enable Access to Real-Time Event Monitoring
 
 > You can set user access to Real-Time Event Monitoring through profiles and permission
     sets.

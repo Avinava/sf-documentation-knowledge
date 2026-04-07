@@ -5,12 +5,10 @@ topic: notificationtypeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.460Z
+lastCollected: 2026-04-07T18:36:27.968Z
 estimatedTokens: 847
-keywords: [NotificationTypeConfig, metadata, associated, org-level, notification, settings, standard, custom, extends, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [NotificationTypeConfig, NotificationTypeSettings, AppSettings, NotificationChannels, metadata, org-level, notification, settings, standard, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# NotificationTypeConfig
 
 > Represents the metadata associated with
             org-level notification settings for standard and custom notification types.

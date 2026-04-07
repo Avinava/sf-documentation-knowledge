@@ -5,12 +5,10 @@ topic: processpastassessmentresponses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.313Z
+lastCollected: 2026-04-07T18:37:40.288Z
 estimatedTokens: 159
-keywords: [processPastAssessmentResponses, Calls, PreviousAssessmentResponses, Connect, API, retrieve, suggestions, prior, responses]
+keywords: [processPastAssessmentResponses, PreviousAssessmentResponses, Connect, API, retrieve, suggestions, prior, responses]
 ---
-
-# processPastAssessmentResponses
 
 > Calls the PreviousAssessmentResponses Connect API to retrieve
       suggestions based on prior responses.

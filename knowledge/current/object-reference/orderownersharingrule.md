@@ -5,12 +5,10 @@ topic: orderownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.801Z
+lastCollected: 2026-04-07T18:38:37.070Z
 estimatedTokens: 769
-keywords: [OrderOwnerSharingRule, rule, determines, order, sharing, access, order’s, owners, Calls, Special, Rules, Usage]
+keywords: [OrderOwnerSharingRule, rule, determines, order, sharing, order’s, owners]
 ---
-
-# OrderOwnerSharingRule
 
 > Represents a rule which determines order sharing access for the order’s
    owners.

@@ -5,12 +5,10 @@ topic: social-posts-intents-mass-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:28.863Z
+lastCollected: 2026-04-07T18:37:15.932Z
 estimatedTokens: 208
 keywords: [Social, Posts, Intents, Mass, Approval, Approve, reject, publishing, large, number]
 ---
-
-# Social Posts Intents, Mass Approval
 
 > Approve or reject the publishing of a large number of social
       posts.

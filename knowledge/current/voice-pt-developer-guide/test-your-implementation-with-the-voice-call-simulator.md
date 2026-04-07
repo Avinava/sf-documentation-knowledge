@@ -5,12 +5,10 @@ topic: test-your-implementation-with-the-voice-call-simulator
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.748Z
+lastCollected: 2026-04-07T18:40:13.674Z
 estimatedTokens: 1195
-keywords: [Test, Implementation, Voice, Call, Simulator, component, helps, comfortable, Service, Cloud, walk, variety, scenarios]
+keywords: [Test, Implementation, Voice, Call, Simulator, helps, comfortable, Service, Cloud, walk, variety, scenarios]
 ---
-
-# Test Your Implementation with the Voice Call Simulator
 
 > The Voice Call Simulator component helps you get comfortable with Service Cloud Voice.
   As you set up Service Cloud Voice, use the simulator to walk through a variety of call scenarios.

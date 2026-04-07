@@ -5,12 +5,10 @@ topic: topicswidget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.593Z
+lastCollected: 2026-04-07T18:38:50.827Z
 estimatedTokens: 332
-keywords: [topics, widget, component, displays, assigned, record, users, add, remove, enabled, objects, accounts, assets, campaigns, cases]
+keywords: [Attributes, topics, widget, displays, assigned, record, users, add, remove, enabled, accounts, assets, campaigns, cases, contacts, contracts, leads, opportunities, topic, editor, entity]
 ---
-
-# topics:widget
 
 > UI component that displays topics assigned to a record and allows users to add and remove topics. The UI component is available only if topics are enabled for these supported objects: accounts, assets, campaigns, cases, contacts, contracts, leads, opportunities, and custom objects.
 

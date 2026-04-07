@@ -5,12 +5,10 @@ topic: predict-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.928Z
+lastCollected: 2026-04-07T18:36:59.415Z
 estimatedTokens: 93
-keywords: [Predict, History, historical, predictions, target]
+keywords: [Predict, historical, predictions, target]
 ---
-
-# Predict History
 
 > The historical predictions for a target.
 

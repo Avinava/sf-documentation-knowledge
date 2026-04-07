@@ -5,12 +5,10 @@ topic: rendering-related-lists-with-large-data-volumes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.181Z
+lastCollected: 2026-04-07T18:39:17.856Z
 estimatedTokens: 291
-keywords: [Rendering, Large, Data, Volumes, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
+keywords: [Situation, Solution, Rendering, Large, Volumes, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
-
-# Rendering Related Lists with Large Data Volumes
 
 > Where possible, we changed noninclusive terms to align with our company
     value of Equality. We maintained certain terms to avoid any effect on customer

@@ -5,12 +5,10 @@ topic: rating-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.592Z
+lastCollected: 2026-04-07T18:37:52.793Z
 estimatedTokens: 116
-keywords: [Rating, Result, Output, representation, product, pricing, results]
+keywords: [Rating, Result, product, pricing, results]
 ---
-
-# Rating Result
 
 > Output representation for the details of the product rating pricing results.
 

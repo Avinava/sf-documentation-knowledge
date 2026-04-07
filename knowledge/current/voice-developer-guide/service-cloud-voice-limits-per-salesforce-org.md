@@ -5,12 +5,10 @@ topic: service-cloud-voice-limits-per-salesforce-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:18.114Z
+lastCollected: 2026-04-07T18:40:13.055Z
 estimatedTokens: 82
 keywords: [Service, Cloud, Voice, Limits, per, Salesforce, Org, observes]
 ---
-
-# Service Cloud Voice Limits per Salesforce Org
 
 > Service Cloud Voice observes limits for each Salesforce org.
 

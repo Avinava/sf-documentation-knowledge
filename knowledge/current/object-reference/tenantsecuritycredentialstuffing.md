@@ -5,12 +5,10 @@ topic: tenantsecuritycredentialstuffing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:50.582Z
+lastCollected: 2026-04-07T18:38:42.340Z
 estimatedTokens: 1423
-keywords: [TenantSecurityCredentialStuffing, Stores, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, Threat, Detection, Security, Center, subscribers]
+keywords: [TenantSecurityCredentialStuffing, Stores, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, Threat, Detection, Security, Center, subscribers, API, 53.0]
 ---
-
-# TenantSecurityCredentialStuffing
 
 > Stores when a user successfully logs in to Salesforce during an identified
          credential stuffing attack. For more information, see Threat Detection. This object is available to

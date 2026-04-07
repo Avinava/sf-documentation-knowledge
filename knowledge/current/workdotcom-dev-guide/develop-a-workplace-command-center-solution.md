@@ -5,12 +5,10 @@ topic: develop-a-workplace-command-center-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.926Z
+lastCollected: 2026-04-07T18:40:13.902Z
 estimatedTokens: 440
 keywords: [Develop, Workplace, Command, Center, Solution, best, user, experience, integrates]
 ---
-
-# Develop a Workplace Command Center Solution
 
 > For the best user experience, develop a solution that integrates with Workplace Command
   Center.

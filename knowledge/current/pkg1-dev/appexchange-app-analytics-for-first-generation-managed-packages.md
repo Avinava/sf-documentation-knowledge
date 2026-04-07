@@ -5,12 +5,10 @@ topic: appexchange-app-analytics-for-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:00.799Z
+lastCollected: 2026-04-07T18:38:53.097Z
 estimatedTokens: 533
-keywords: [AppExchange, App, Analytics, First-Generation, Managed, Packages, usage, data, how, subscribers, interact, 1GP, packaged, components, identify]
+keywords: [AppExchange, App, Analytics, First-Generation, Managed, Packages, how, subscribers, interact, 1GP, packaged, identify, attrition, risks, inform, feature, development, decisions, improve, user, experience]
 ---
-
-# AppExchange App Analytics for First-Generation Managed Packages
 
 > AppExchange App Analytics provides usage data about how subscribers interact with your
   first-generation (1GP) managed packages and packaged components. You can use these details to

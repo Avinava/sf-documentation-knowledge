@@ -5,12 +5,10 @@ topic: worktypesvcterrschdpriohistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:12.560Z
+lastCollected: 2026-04-07T18:40:07.503Z
 estimatedTokens: 285
-keywords: [WorkTypeSvcTerrSchdPrioHistory, History, tracked, WorkTypeSvcTerrSchdPrio]
+keywords: [WorkTypeSvcTerrSchdPrioHistory, tracked, WorkTypeSvcTerrSchdPrio]
 ---
-
-# WorkTypeSvcTerrSchdPrioHistory
 
 > History for tracked fields of WorkTypeSvcTerrSchdPrio.
 

@@ -5,12 +5,10 @@ topic: flowinterviewshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.548Z
+lastCollected: 2026-04-07T18:38:32.533Z
 estimatedTokens: 855
-keywords: [FlowInterviewShare, sharing, entry, FlowInterview, API, version, 33.0, later, Calls, Usage]
+keywords: [FlowInterviewShare, sharing, entry, FlowInterview, API, 33.0]
 ---
-
-# FlowInterviewShare
 
 > Represents a sharing entry on a FlowInterview. This object is
       available in API version 33.0 and later.

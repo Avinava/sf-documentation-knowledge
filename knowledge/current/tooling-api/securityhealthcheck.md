@@ -5,12 +5,10 @@ topic: securityhealthcheck
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:49.026Z
+lastCollected: 2026-04-07T18:36:34.432Z
 estimatedTokens: 394
-keywords: [SecurityHealthCheck, org’s, Health, Check, score, how, well, security, settings, comply, Salesforce-recommended, baseline, standard, users, “View]
+keywords: [SecurityHealthCheck, org’s, Health, Check, score, how, well, security, settings, comply, Salesforce-recommended, baseline, standard, users, “View, Setup, Configuration”, user, permission, retrieve, Tooling, API, 37.0, SOAP, REST, HTTP]
 ---
-
-# SecurityHealthCheck
 
 > Represents your org’s Health Check score. The score
             indicates how well your org’s security settings comply with Salesforce-recommended values

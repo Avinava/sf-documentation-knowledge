@@ -5,12 +5,10 @@ topic: connectapirecordviewsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.205Z
+lastCollected: 2026-04-07T18:36:11.494Z
 estimatedTokens: 289
 keywords: [ConnectApi.RecordViewSection, record, detail]
 ---
-
-# ConnectApi.RecordViewSection
 
 > Section of record fields and values on a record detail.
 

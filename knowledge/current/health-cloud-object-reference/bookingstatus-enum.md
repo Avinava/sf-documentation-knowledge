@@ -5,12 +5,10 @@ topic: bookingstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.034Z
+lastCollected: 2026-04-07T18:37:39.995Z
 estimatedTokens: 270
 keywords: [BookingStatus, possible, status, healthcare, appointment]
 ---
-
-# BookingStatus Enum
 
 > Represents a possible status of a healthcare
     appointment.

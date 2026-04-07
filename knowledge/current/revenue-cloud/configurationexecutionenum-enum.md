@@ -5,12 +5,10 @@ topic: configurationexecutionenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.807Z
+lastCollected: 2026-04-07T18:35:41.677Z
 estimatedTokens: 254
-keywords: [ConfigurationExecutionEnum, configuration, place, sales, transaction, Usage]
+keywords: [ConfigurationExecutionEnum, configuration, place, sales, transaction]
 ---
-
-# ConfigurationExecutionEnum Enum
 
 > Specifies the configuration method for the place sales transaction request.
 

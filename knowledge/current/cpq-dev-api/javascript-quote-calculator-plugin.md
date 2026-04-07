@@ -5,12 +5,10 @@ topic: javascript-quote-calculator-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.451Z
+lastCollected: 2026-04-07T18:37:27.454Z
 estimatedTokens: 696
-keywords: [Javascript, Quote, Calculator, Plugin, Add, extra, functionality, line, editor, Salesforce, CPQ, custom, code, Seven, allow]
+keywords: [Javascript, Quote, Calculator, Plugin, Add, extra, functionality, line, editor, Salesforce, CPQ, code, Seven, allow, change, how, calculations, performed, manage, page-level, security, visibility]
 ---
-
-# Javascript Quote Calculator Plugin
 
 > Add extra functionality to the quote line editor in Salesforce CPQ with custom
     JavaScript code. Seven available methods allow you to change how calculations are performed and

@@ -5,12 +5,10 @@ topic: connect-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.004Z
+lastCollected: 2026-04-07T18:37:12.902Z
 estimatedTokens: 387
-keywords: [Connect, Resources, context, user’s, org, settings, Experience, Cloud, sites, user, member, Organization]
+keywords: [Connect, Organization, Resources, context, user’s, org, settings, Experience, Cloud, sites, user, member]
 ---
-
-# Connect Resources
 
 > Information about the context user’s org and
    settings, and information about the Experience Cloud sites the context user is a member

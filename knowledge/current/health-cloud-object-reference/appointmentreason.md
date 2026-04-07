@@ -5,12 +5,10 @@ topic: appointmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:55.358Z
+lastCollected: 2026-04-07T18:37:43.524Z
 estimatedTokens: 1242
-keywords: [AppointmentReason, patient’s, reason, making, appointment, self-scheduling, Intelligent, Management, API, version, 53.0, later, Calls, Associated, Objects]
+keywords: [AppointmentReason, patient’s, reason, making, appointment, self-scheduling, Intelligent, Management, API, 53.0]
 ---
-
-# AppointmentReason
 
 > Represents a patient’s reason for making an appointment. Used for
          self-scheduling in Intelligent Appointment Management. This object is available in API

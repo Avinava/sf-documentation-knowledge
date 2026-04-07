@@ -5,12 +5,10 @@ topic: context-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:55.005Z
+lastCollected: 2026-04-07T18:36:40.710Z
 estimatedTokens: 183
 keywords: [Context, Mapping, new, mappings, retrieve, query]
 ---
-
-# Context Mapping
 
 > Create new context mappings, update existing mappings, retrieve or query mapping
         details, and delete mappings.

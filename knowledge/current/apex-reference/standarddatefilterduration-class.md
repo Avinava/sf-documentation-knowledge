@@ -5,13 +5,11 @@ topic: standarddatefilterduration-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.835Z
+lastCollected: 2026-04-07T18:36:03.042Z
 estimatedTokens: 785
 namespace: Reports
-keywords: [StandardDateFilterDuration, standard, date, filter—also, referred, relative, filter, API, display, label, duration, well, start, end, dates]
+keywords: [StandardDateFilterDuration, standard, date, filter—also, referred, relative, filter, API, display, label, duration, well, start, end, dates, getEndDate, getLabel, getStartDate, getValue]
 ---
-
-# StandardDateFilterDuration Class
 
 > Contains information about each standard date filter—also
       referred to as a relative date filter. It contains the API name and display label of the

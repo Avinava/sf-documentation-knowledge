@@ -5,12 +5,10 @@ topic: saved-payment-method-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.558Z
+lastCollected: 2026-04-07T18:37:21.672Z
 estimatedTokens: 854
-keywords: [Saved, Payment, Output, individual, account, contact]
+keywords: [Saved, Payment, individual, account, contact]
 ---
-
-# Saved Payment Method Output
 
 > An individual  saved payment method for an account or
     contact.

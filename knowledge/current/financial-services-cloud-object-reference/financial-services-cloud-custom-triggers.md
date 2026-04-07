@@ -5,13 +5,11 @@ topic: financial-services-cloud-custom-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.724Z
+lastCollected: 2026-04-07T18:37:35.359Z
 estimatedTokens: 3815
 namespace: FinServ
-keywords: [Financial, Services, Cloud, Custom, Triggers, ensure, data, flows, correctly, objects, Trigger, Behavior, sObjects, Relation, Rollup]
+keywords: [Financial, Services, Cloud, Triggers, ensure, flows, correctly, Trigger, Behavior, sObjects, Relation, Rollup]
 ---
-
-# Financial Services Cloud Custom Triggers
 
 > Custom triggers ensure that data flows correctly through the Financial Services Cloud
     custom objects and fields.

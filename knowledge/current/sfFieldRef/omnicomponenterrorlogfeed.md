@@ -5,12 +5,10 @@ topic: omnicomponenterrorlogfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.602Z
+lastCollected: 2026-04-07T18:39:50.049Z
 estimatedTokens: 363
-keywords: [OmniComponentErrorLogFeed, Feed, tracking, OmniComponentErrorLog]
+keywords: [OmniComponentErrorLogFeed, OmniComponentErrorLog]
 ---
-
-# OmniComponentErrorLogFeed
 
 > Feed tracking for OmniComponentErrorLog.
 

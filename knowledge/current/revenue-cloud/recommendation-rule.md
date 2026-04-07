@@ -5,12 +5,10 @@ topic: recommendation-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:01:57.609Z
+lastCollected: 2026-04-07T18:35:42.495Z
 estimatedTokens: 659
-keywords: [Recommendation, Rule, recommend, keyword, Constraint, Modeling, Language, CML, display, suggestions, products, Product, Configurator, condition, under]
+keywords: [Recommendation, Rule, recommend, keyword, Constraint, Modeling, Language, CML, display, suggestions, products, Product, Configurator, condition, under, specific, relation, suggested, user, Recommending, Attribute, Selection, Quantity, Virtual, System, Container]
 ---
-
-# Recommendation Rule
 
 > The recommend keyword is used within a Constraint Modeling Language (CML) rule to
     display suggestions for related products in the Product Configurator. The rule defines the

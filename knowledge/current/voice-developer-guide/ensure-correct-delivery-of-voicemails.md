@@ -5,13 +5,11 @@ topic: ensure-correct-delivery-of-voicemails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:18.141Z
+lastCollected: 2026-04-07T18:40:13.091Z
 estimatedTokens: 759
 namespace: External
-keywords: [Ensure, Correct, Delivery, Voicemails, voicemail, enabled, aren't, delivered, reps, subflow, callOrigin, VoiceCall, record, updated, time]
+keywords: [Ensure, Correct, Delivery, Voicemails, voicemail, enabled, aren't, delivered, reps, subflow, callOrigin, VoiceCall, record, updated, time, add, block, invoke, Lambda, call, REST, API, sure, correctly]
 ---
-
-# Ensure Correct Delivery of Voicemails
 
 > If you have voicemail enabled but voicemails aren't being delivered to the reps, update
   your Voicemail subflow to ensure the callOrigin field in the VoiceCall record is updated in time.

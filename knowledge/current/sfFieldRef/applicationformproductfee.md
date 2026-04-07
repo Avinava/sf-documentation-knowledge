@@ -5,12 +5,10 @@ topic: applicationformproductfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.352Z
+lastCollected: 2026-04-07T18:39:26.299Z
 estimatedTokens: 362
-keywords: [ApplicationFormProductFee, fees, associated, application, form, API, version, 61.0, later, Digital, Lending, permission]
+keywords: [ApplicationFormProductFee, fees, application, form, API, 61.0, Digital, Lending, permission]
 ---
-
-# ApplicationFormProductFee
 
 > Represents the fees associated with an application form. This
       object is available in API version 61.0 and later. Available with Digital Lending permission

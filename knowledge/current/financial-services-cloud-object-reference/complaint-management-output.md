@@ -5,12 +5,10 @@ topic: complaint-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.416Z
+lastCollected: 2026-04-07T18:37:35.021Z
 estimatedTokens: 127
-keywords: [Complaint, Management, Output, representation, created]
+keywords: [Complaint, Management, created]
 ---
-
-# Complaint Management Output
 
 > Output representation of the created public
     complaint.

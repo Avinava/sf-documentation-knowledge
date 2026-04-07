@@ -5,12 +5,10 @@ topic: clone-and-import-gamification-mobile-sdk-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.222Z
+lastCollected: 2026-04-07T18:38:08.489Z
 estimatedTokens: 419
-keywords: [Clone, Import, Gamification, Mobile, SDK, iOS, GitHub, repository, copy, code, base, revision, history, local, computer]
+keywords: [Clone, Import, Gamification, Mobile, SDK, iOS, GitHub, repository, copy, code, base, revision, local, computer, Xcode, project]
 ---
-
-# Clone and Import Gamification Mobile SDK for iOS
 
 > Clone the Gamification Mobile iOS SDK GitHub repository to copy the code base and
   revision history of the repository to your local computer. After you clone the repository, import

@@ -5,12 +5,10 @@ topic: supporting-multiple-editions-using-an-extension-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.746Z
+lastCollected: 2026-04-07T18:38:46.620Z
 estimatedTokens: 669
-keywords: [Supporting, Multiple, Editions, Extension, Package, approach, uses, base-managed, core, app, functionality, base, features, Group, Professional]
+keywords: [Supporting, Multiple, Editions, Extension, Package, approach, uses, base-managed, core, app, functionality, base, features, Group, Professional, second, managed, extends, enhances]
 ---
-
-# Supporting Multiple Editions Using an Extension Package
 
 > This approach uses a base-managed package that contains core app functionality. The base
          package only contains features supported in Group and Professional Editions. You then use a

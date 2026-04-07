@@ -5,12 +5,10 @@ topic: package-installation-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:13.770Z
+lastCollected: 2026-04-07T18:40:08.726Z
 estimatedTokens: 367
-keywords: [Package, Installation, Key, ensure, security, metadata, specify, creating, version, creators, provide, authorized, subscribers, they, install]
+keywords: [Package, Installation, Key, ensure, security, metadata, specify, creating, creators, provide, authorized, subscribers, they, install, installers, whether, installing, CLI, browser, step, ensures, disclosed, until, correct, supplied, Change, Check, Requires]
 ---
-
-# Package Installation Key
 
 > To ensure the security of the metadata in your package, you must specify an
     installation key when creating a package version. Package creators provide the key to authorized

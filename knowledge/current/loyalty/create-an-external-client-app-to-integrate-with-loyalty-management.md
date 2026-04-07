@@ -5,12 +5,10 @@ topic: create-an-external-client-app-to-integrate-with-loyalty-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:19.338Z
+lastCollected: 2026-04-07T18:38:09.628Z
 estimatedTokens: 609
-keywords: [External, Client, App, Integrate, Loyalty, Management, Mobile, SDK, access, Salesforce, APIs, enable, secure, integration, API]
+keywords: [External, Client, App, Integrate, Loyalty, Management, Mobile, SDK, Salesforce, APIs, enable, secure, integration, API, OAuth, 2.0, protocol]
 ---
-
-# Create an External Client App to Integrate with Loyalty Management
 
 > Create an external client app for Loyalty Management Mobile SDK to request access to
   Salesforce APIs and to enable secure integration with the APIs. To request access, integrate the

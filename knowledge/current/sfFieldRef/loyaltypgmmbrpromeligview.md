@@ -5,12 +5,10 @@ topic: loyaltypgmmbrpromeligview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.895Z
+lastCollected: 2026-04-07T18:39:47.378Z
 estimatedTokens: 725
 keywords: [LoyaltyPgmMbrPromEligView, virtual, consolidated, view, loyalty, program, member’s, eligibility, promotion, their, enrollment, status, eligible, promotions]
 ---
-
-# LoyaltyPgmMbrPromEligView
 
 > Represents a virtual object that provides a consolidated view of the
          loyalty program member’s eligibility for a promotion and their enrollment status in

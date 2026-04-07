@@ -5,12 +5,10 @@ topic: work-with-services-outside-of-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:02.894Z
+lastCollected: 2026-04-07T18:38:55.343Z
 estimatedTokens: 767
-keywords: [Work, Services, Outside, Salesforce, want, data, changes, occur, another, service, Likewise, send, mass, email, contacts]
+keywords: [Work, Services, Outside, Salesforce, want, changes, occur, another, service, Likewise, send, mass, email, contacts, leads, Provisioning, External]
 ---
-
-# Work with Services Outside of Salesforce
 
 > You might want to update your Salesforce data when changes occur in another service. Likewise,
    you might also want to update the data in a service outside of Salesforce based on changes to

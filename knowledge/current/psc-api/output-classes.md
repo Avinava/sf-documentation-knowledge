@@ -5,12 +5,10 @@ topic: output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.178Z
+lastCollected: 2026-04-07T18:39:03.407Z
 estimatedTokens: 112
-keywords: [Output, Classes, Decision, Apex, Record, Alerts, Engagements]
+keywords: [Classes, Decision, Apex, Record, Alerts, Engagements]
 ---
-
-# Output Classes
 
 > These are the Engagements Apex output classes.
 

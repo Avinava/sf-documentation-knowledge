@@ -5,12 +5,10 @@ topic: feed-items-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.301Z
+lastCollected: 2026-04-07T18:37:07.008Z
 estimatedTokens: 212
-keywords: [Feed-Items, Batch, feed, items]
+keywords: [Feed-Items, Batch, items]
 ---
-
-# Feed-Items Batch
 
 > Get up to 500 feed items in one request
 

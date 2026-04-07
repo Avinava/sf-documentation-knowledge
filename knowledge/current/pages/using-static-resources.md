@@ -5,12 +5,10 @@ topic: using-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.961Z
+lastCollected: 2026-04-07T18:38:52.278Z
 estimatedTokens: 465
-keywords: [Resources, allow, upload, content, Visualforce, including, archives, zip, jar, files, images, style, sheets, JavaScript, Salesforce]
+keywords: [Resources, allow, upload, content, Visualforce, including, archives, zip, jar, files, images, style, sheets, JavaScript, Salesforce, org, can’t, host, apps, websites]
 ---
-
-# Using Static Resources
 
 > Static resources allow you to upload content that you can reference in a Visualforce
       page, including archives (such as .zip and .jar files), images, style sheets, JavaScript, and

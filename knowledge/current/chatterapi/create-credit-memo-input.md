@@ -5,12 +5,10 @@ topic: create-credit-memo-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.172Z
+lastCollected: 2026-04-07T18:37:07.975Z
 estimatedTokens: 154
-keywords: [Credit, Memo, Input, change, orders]
+keywords: [Credit, Memo, change, orders]
 ---
-
-# Create Credit Memo Input
 
 > A list of change orders used to create a credit
     memo.

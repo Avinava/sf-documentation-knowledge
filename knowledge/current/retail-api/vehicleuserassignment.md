@@ -5,12 +5,10 @@ topic: vehicleuserassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.667Z
+lastCollected: 2026-04-07T18:39:16.205Z
 estimatedTokens: 653
-keywords: [VehicleUserAssignment, assignment, vehicle, driver, moving, location, API, version, 51.0, later, Calls, Associated, Objects]
+keywords: [VehicleUserAssignment, assignment, vehicle, driver, moving, location, API, 51.0]
 ---
-
-# VehicleUserAssignment
 
 > Represents the assignment of a vehicle to a driver. Vehicle is a moving
       location. This object is available in API version 51.0 and later.

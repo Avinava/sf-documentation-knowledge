@@ -5,12 +5,10 @@ topic: insurance-claims-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.726Z
+lastCollected: 2026-04-07T18:37:52.943Z
 estimatedTokens: 174
 keywords: [Insurance, Claims, Business, APIs, manage, lifecycle]
 ---
-
-# Insurance Claims Business APIs
 
 > Use the Insurance Claims APIs to manage claims lifecycle.
 

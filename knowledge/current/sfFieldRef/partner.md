@@ -5,12 +5,10 @@ topic: partner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.267Z
+lastCollected: 2026-04-07T18:39:51.682Z
 estimatedTokens: 330
 keywords: [Partner, relationship, two, Account, records, Opportunity, record]
 ---
-
-# Partner
 
 > Represents a partner relationship between two Account records or between an Opportunity record and an Account record.
 

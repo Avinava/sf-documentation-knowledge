@@ -5,12 +5,10 @@ topic: subscription-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.608Z
+lastCollected: 2026-04-07T18:36:54.974Z
 estimatedTokens: 217
-keywords: [Subscription, Schedule, Input, Analytics]
+keywords: [Subscription, Schedule, Analytics]
 ---
-
-# Subscription Schedule Input
 
 > An Analytics subscription input.
 

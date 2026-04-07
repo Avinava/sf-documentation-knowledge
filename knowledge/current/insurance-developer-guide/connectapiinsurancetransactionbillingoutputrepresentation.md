@@ -5,12 +5,10 @@ topic: connectapiinsurancetransactionbillingoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.724Z
+lastCollected: 2026-04-07T18:37:50.618Z
 estimatedTokens: 109
-keywords: [Output, representation, result, creating, billing, schedules, insurance, transaction]
+keywords: [result, creating, billing, schedules, insurance, transaction]
 ---
-
-# ConnectApi.InsuranceTransactionBillingOutputRepresentation
 
 > Output representation of the result of creating billing schedules from an insurance transaction.
 

@@ -5,12 +5,10 @@ topic: cgclouduserdocumentactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.976Z
+lastCollected: 2026-04-07T18:39:15.469Z
 estimatedTokens: 1055
-keywords: [cgcloud__User_Document_Activity__c, Stores, relationship, daily, report, user, activity, API, version, 54.0, later, cgcloud, _User, _Document, _Activity]
+keywords: [cgcloud__User_Document_Activity__c, Stores, relationship, daily, report, user, activity, API, 54.0, cgcloud, _User, _Document, _Activity]
 ---
-
-# cgcloud__User_Document_Activity__c
 
 > Stores the details of the relationship between the daily report and
          user activity. This object is available in API version 54.0 and later.

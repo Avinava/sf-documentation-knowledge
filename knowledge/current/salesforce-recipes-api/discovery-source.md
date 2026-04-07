@@ -5,12 +5,10 @@ topic: discovery-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.407Z
+lastCollected: 2026-04-07T18:39:19.090Z
 estimatedTokens: 87
 keywords: [Discovery, Source, Einstein]
 ---
-
-# Discovery Source
 
 > The discovery information for an Einstein Discovery source field.
 

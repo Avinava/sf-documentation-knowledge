@@ -5,12 +5,10 @@ topic: compute-relative-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.361Z
+lastCollected: 2026-04-07T18:39:19.047Z
 estimatedTokens: 185
 keywords: [Compute, Relative, node, recipe]
 ---
-
-# Compute Relative Parameters
 
 > The parameters for a compute relative node in a recipe.
 

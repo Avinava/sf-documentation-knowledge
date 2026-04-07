@@ -5,12 +5,10 @@ topic: topics-a-user-is-knowledgeable-about-batch-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:29.270Z
+lastCollected: 2026-04-07T18:37:16.336Z
 estimatedTokens: 107
 keywords: [Topics, User, Knowledgeable, Batch, Users, top, five]
 ---
-
-# Topics a User Is Knowledgeable About: Batch Users
 
 > Get the top five topics a user is knowledgeable about for a list of
       users.

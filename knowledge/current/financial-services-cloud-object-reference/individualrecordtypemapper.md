@@ -5,12 +5,10 @@ topic: individualrecordtypemapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.761Z
+lastCollected: 2026-04-07T18:37:35.398Z
 estimatedTokens: 479
-keywords: [IndividualRecordTypeMapper, Maps, new, custom, Individual, record, standard, Financial, Services, Cloud, Calls]
+keywords: [IndividualRecordTypeMapper, Maps, new, Individual, record, standard, Financial, Services, Cloud]
 ---
-
-# IndividualRecordTypeMapper
 
 > Maps a new custom Individual record type to the standard Individual
    record type from Financial Services Cloud.

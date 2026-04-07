@@ -5,12 +5,10 @@ topic: triggering-the-csv-export-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:18.380Z
+lastCollected: 2026-04-07T18:39:11.910Z
 estimatedTokens: 542
-keywords: [Triggering, CSV, Export, Process, configured, integration, metadata, report, triggered, endpoints, provided, RTR, gateway, finished, file]
+keywords: [Triggering, CSV, Export, Process, configured, integration, metadata, report, triggered, endpoints, provided, RTR, gateway, finished, file, downloaded, API]
 ---
-
-# Triggering the CSV Export Process
 
 > The CSV export for a configured integration metadata report is triggered with endpoints
   provided by the RTR gateway. When the CSV export process is finished, the CSV file can be

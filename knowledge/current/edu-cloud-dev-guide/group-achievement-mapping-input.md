@@ -5,12 +5,10 @@ topic: group-achievement-mapping-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.879Z
+lastCollected: 2026-04-07T18:37:28.973Z
 estimatedTokens: 143
-keywords: [Group, Achievement, Mapping, Input, representation, shared, attributes, across]
+keywords: [Group, Achievement, Mapping, shared, attributes, across]
 ---
-
-# Group Achievement Mapping Input
 
 > Input representation of a mapping to a given achievement that contains the shared
     attributes across the mapping types.

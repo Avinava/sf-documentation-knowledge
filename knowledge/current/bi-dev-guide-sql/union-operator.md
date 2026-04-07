@@ -5,12 +5,10 @@ topic: union-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.474Z
+lastCollected: 2026-04-07T18:37:02.083Z
 estimatedTokens: 398
-keywords: [UNION, Operator, combine, results, two, SELECT, statements, joined, number, columns, data, corresponding]
+keywords: [UNION, Operator, combine, results, two, SELECT, statements, joined, number, columns, corresponding]
 ---
-
-# UNION Operator
 
 > Use the UNION operator to combine the results of
   two or more SELECT statements. The joined statements must

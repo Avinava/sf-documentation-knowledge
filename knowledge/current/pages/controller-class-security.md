@@ -5,12 +5,10 @@ topic: controller-class-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.771Z
+lastCollected: 2026-04-07T18:38:51.005Z
 estimatedTokens: 431
-keywords: [Controller, Security, Apex, classes, specify, whether, user, execute, custom, extension, user's, profile]
+keywords: [Controller, Security, Apex, classes, specify, whether, user, execute, extension, user's, profile]
 ---
-
-# Controller Class Security
 
 > Like other Apex classes, you can specify whether a user can execute methods in a custom
    controller or controller extension class based on the user's profile.

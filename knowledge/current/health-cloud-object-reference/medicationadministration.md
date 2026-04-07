@@ -5,12 +5,10 @@ topic: medicationadministration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.233Z
+lastCollected: 2026-04-07T18:37:43.404Z
 estimatedTokens: 1727
-keywords: [MedicationAdministration, instance, medication, administered, patient, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [MedicationAdministration, instance, medication, administered, patient, API, 64.0]
 ---
-
-# MedicationAdministration
 
 > Represents an instance of medication administered to a patient. This
       object is available in API version 64.0 and later.

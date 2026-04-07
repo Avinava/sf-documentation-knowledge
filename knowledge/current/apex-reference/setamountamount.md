@@ -5,12 +5,10 @@ topic: setamountamount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.962Z
+lastCollected: 2026-04-07T18:36:04.185Z
 estimatedTokens: 92
 keywords: [setAmount, amount, payment, authorization, positive, negative, zero]
 ---
-
-# setAmount(amount)
 
 > Sets the amount for payment authorization. Can be positive, negative, or
     zero.

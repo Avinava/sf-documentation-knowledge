@@ -5,12 +5,10 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:43.969Z
+lastCollected: 2026-04-07T18:36:29.447Z
 estimatedTokens: 1281
-keywords: [Scontrol, Deprecated, component, corresponding, s-control, Salesforce, user, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample]
+keywords: [Scontrol, Deprecated, corresponding, s-control, Salesforce, user, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# Scontrol
 
 > Deprecated. Represents an Scontrol component, corresponding
    to an s-control in the Salesforce user interface.

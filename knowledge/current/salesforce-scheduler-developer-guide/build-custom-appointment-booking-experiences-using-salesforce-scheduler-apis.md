@@ -6,13 +6,10 @@ topic: build-custom-appointment-booking-experiences-using-salesforce-scheduler-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:26.772Z
+lastCollected: 2026-04-07T18:39:20.522Z
 estimatedTokens: 1457
-keywords: [Build, Custom, Appointment, Booking, Experiences, Salesforce, Scheduler, APIs, demonstrates, how, seamless, experience, cases, developers, scheduling]
+keywords: [Build, Appointment, Booking, Experiences, Salesforce, Scheduler, APIs, demonstrates, how, seamless, experience, cases, developers, scheduling, apps]
 ---
-
-# Build Custom Appointment Booking Experiences Using Salesforce
-      Scheduler APIs
 
 > This section demonstrates how to build a seamless appointment booking experience using our
       Salesforce Scheduler APIs. With these use cases, developers can learn how to build custom

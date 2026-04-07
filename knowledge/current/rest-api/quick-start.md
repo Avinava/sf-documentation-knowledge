@@ -6,13 +6,10 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:34.987Z
+lastCollected: 2026-04-07T18:36:20.206Z
 estimatedTokens: 432
-keywords: [Quick, Start, run, REST, API, send, few, basic, requests, Salesforce, explains, setting, environment, updating, record]
+keywords: [Quick, Start, run, REST, API, send, few, basic, requests, Salesforce, explains, setting, environment, updating, record, ways, examples, show, how, free, Developer, Edition, cURL]
 ---
-
-# Quick
-   Start
 
 > To set up and run REST API, send a few basic requests to
       Salesforce. This Quick Start explains setting up  a basic environment and updating a record

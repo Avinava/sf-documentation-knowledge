@@ -6,13 +6,10 @@ topic: replacestr-oldstr-newstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:15.425Z
+lastCollected: 2026-04-07T18:37:02.032Z
 estimatedTokens: 93
 keywords: [replace, str, old_str, new_str, Replaces, occurrences, substring, new, old, _str]
 ---
-
-# replace(str, old_str,
-    new_str)
 
 > Replaces all occurrences in string str of a substring
    old_str with a new substring new_str. Returns a new

@@ -5,12 +5,10 @@ topic: payment-instrument-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:42.077Z
+lastCollected: 2026-04-07T18:37:29.188Z
 estimatedTokens: 455
-keywords: [Payment, Instrument, Input, representation]
+keywords: [Payment, Instrument]
 ---
-
-# Payment Instrument Details Input
 
 > Input representation of the payment instrument used for the request.
 

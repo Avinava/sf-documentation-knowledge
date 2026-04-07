@@ -5,12 +5,10 @@ topic: deleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:39.262Z
+lastCollected: 2026-04-07T18:36:24.644Z
 estimatedTokens: 109
-keywords: [DeleteResult, result, deleteMetadata, call, Version]
+keywords: [DeleteResult, result, deleteMetadata, call]
 ---
-
-# DeleteResult
 
 > Contains result information
 for the deleteMetadata call.

@@ -5,12 +5,10 @@ topic: using-an-experience-cloud-site-with-streaming-api-based-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.238Z
+lastCollected: 2026-04-07T18:36:51.563Z
 estimatedTokens: 183
-keywords: [Experience, Cloud, Site, Streaming, API-Based, Features, enable, API, background, in-app, push, notifications, HTTP, POST, requests]
+keywords: [Experience, Cloud, Site, Streaming, API-Based, Features, enable, API, background, in-app, push, notifications, HTTP, POST, requests, sent, cometd, endpoint, Sending, problematic, sometimes, cause, hitting, rate, limits, hosted, third-party, Content, Delivery, Network, CDN, volume, depends, number, users, simultaneously, logged, logged-in, user, their, own, session, generated]
 ---
-
-# Using an Experience Cloud Site with Streaming API-Based Features
 
 > If you use an Experience Cloud site and enable features that use Streaming API in the
         background, such as in-app or push notifications, HTTP POST requests are sent to the /cometd/ endpoint. Sending many CometD requests can be

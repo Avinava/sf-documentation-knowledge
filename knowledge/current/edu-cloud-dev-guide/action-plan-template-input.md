@@ -5,12 +5,10 @@ topic: action-plan-template-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:41.889Z
+lastCollected: 2026-04-07T18:37:28.989Z
 estimatedTokens: 86
-keywords: [Action, Plan, Template, Input, representation, hold]
+keywords: [Action, Plan, Template, hold]
 ---
-
-# Action Plan Template Input
 
 > Input representation of the action plan template for a hold.
 

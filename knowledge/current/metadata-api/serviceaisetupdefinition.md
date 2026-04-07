@@ -5,12 +5,10 @@ topic: serviceaisetupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:44.132Z
+lastCollected: 2026-04-07T18:36:29.555Z
 estimatedTokens: 592
-keywords: [ServiceAISetupDefinition, settings, Einstein, Service, feature, Article, Recommendations, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
+keywords: [ServiceAISetupDefinition, settings, Einstein, Service, feature, Article, Recommendations, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---
-
-# ServiceAISetupDefinition
 
 > Represents settings for an Einstein for Service
     feature such as Einstein Article Recommendations. This type extends the Metadata metadata type 

@@ -5,12 +5,10 @@ topic: cgcloudtactictemplatefundtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:21.769Z
+lastCollected: 2026-04-07T18:39:15.251Z
 estimatedTokens: 1068
-keywords: [Junction, tactic, template, fund, API, version, 54.0, later, cgcloud, _Tactic, _Template, _Fund, Calls, Associated, Objects]
+keywords: [Junction, tactic, template, fund, API, 54.0, cgcloud, _Tactic, _Template, _Fund]
 ---
-
-# cgcloud__Tactic_Template_Fund_Template__c
 
 > Junction object between tactic template and fund template. This
          object defines the valid fund types for the given tactic template. This object is

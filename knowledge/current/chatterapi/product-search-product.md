@@ -5,12 +5,10 @@ topic: product-search-product
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.066Z
+lastCollected: 2026-04-07T18:37:22.175Z
 estimatedTokens: 170
 keywords: [Product, Search]
 ---
-
-# Product Search Product
 
 > Product returned by a product search.
 

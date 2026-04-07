@@ -5,12 +5,10 @@ topic: benefit-disbursements-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:30.102Z
+lastCollected: 2026-04-07T18:38:20.855Z
 estimatedTokens: 109
-keywords: [Benefit, Disbursements, Output, representation]
+keywords: [Benefit, Disbursements]
 ---
-
-# Benefit Disbursements Output
 
 > Output representation of the request to create benefit
       disbursements.

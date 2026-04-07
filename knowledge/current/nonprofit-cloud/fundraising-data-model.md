@@ -5,12 +5,10 @@ topic: fundraising-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.045Z
+lastCollected: 2026-04-07T18:38:22.010Z
 estimatedTokens: 142
-keywords: [Fundraising, Data, Model, objects, relationships]
+keywords: [Fundraising, Model, relationships]
 ---
-
-# Fundraising Data Model
 
 > Learn about the objects and relationships within the Fundraising data model.
 

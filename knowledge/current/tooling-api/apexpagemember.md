@@ -5,12 +5,10 @@ topic: apexpagemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:46.354Z
+lastCollected: 2026-04-07T18:36:31.729Z
 estimatedTokens: 1105
-keywords: [ApexPageMember, working, copy, Visualforce, editing, saving, compiling, MetadataContainer, SOAP, API, Calls, Special, Access, Rules, REST]
+keywords: [ApexPageMember, working, copy, Visualforce, editing, saving, compiling, MetadataContainer, SOAP, API, REST, HTTP]
 ---
-
-# ApexPageMember
 
 > Represents the working copy of a Visualforce page for editing, saving,
    or compiling in a MetadataContainer.

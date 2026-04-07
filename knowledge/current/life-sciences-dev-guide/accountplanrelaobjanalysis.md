@@ -5,12 +5,10 @@ topic: accountplanrelaobjanalysis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:09.263Z
+lastCollected: 2026-04-07T18:37:58.798Z
 estimatedTokens: 1642
-keywords: [AccountPlanRelaObjAnalysis, strategic, analysis, objects, account, plan, helps, identify, internal, external, factors, potentially, affect, objectives, any]
+keywords: [AccountPlanRelaObjAnalysis, strategic, analysis, account, plan, helps, identify, internal, external, factors, potentially, affect, objectives, any, API, 65.0]
 ---
-
-# AccountPlanRelaObjAnalysis
 
 > Represents the strategic analysis done on objects related to the account
          plan. This object helps to identify internal and external factors that could potentially

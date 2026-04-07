@@ -5,12 +5,10 @@ topic: associating-a-standard-controller-with-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.863Z
+lastCollected: 2026-04-07T18:38:51.103Z
 estimatedTokens: 163
-keywords: [Associating, Standard, Controller, Visualforce, associate, standardController, attribute, <apex, page>, tag, assign, any, Salesforce, queried, Lightning]
+keywords: [Associating, Standard, Controller, Visualforce, associate, standardController, attribute, <apex, page>, tag, assign, any, Salesforce, queried, Lightning, Platform, API]
 ---
-
-# Associating a Standard Controller with a Visualforce Page
 
 > To associate a standard controller with a Visualforce page, use the standardController attribute on the <apex:page> tag and assign it the name of any Salesforce
    object that can be queried using the Lightning Platform API.

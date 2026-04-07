@@ -5,13 +5,11 @@ topic: reportmetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.051Z
+lastCollected: 2026-04-07T18:36:03.265Z
 estimatedTokens: 9466
 namespace: Reports
-keywords: [ReportMetadata, bucket, report, Usage, getAggregates, getBuckets, getCrossFilters, getCurrencyCode, getCustomSummaryFormula, getDescription, getDetailColumns, getDeveloperName, getDivision, getGroupingsAcross, getGroupingsDown]
+keywords: [ReportMetadata, bucket, report, getAggregates, getBuckets, getCrossFilters, getCurrencyCode, getCustomSummaryFormula, getDescription, getDetailColumns, getDeveloperName, getDivision, getGroupingsAcross, getGroupingsDown, getHasDetailRows, getHasRecordCount, getHistoricalSnapshotDates, getId, getName, getReportBooleanFilter, getReportFilters, getReportFormat, getReportType, getScope, getShowGrandTotal, getShowSubtotals, getSortBy, getStandardDateFilter, getStandardFilters, getTopRows, setAggregates, aggregates, setBuckets, buckets, setCrossFilters, crossFilters, setCurrencyCode, currencyCode, setCustomSummaryFormula, customSummaryFormula, setDescription, setDetailColumns, detailColumns, setDeveloperName, developerName, setDivision, division, setGroupingsAcross, groupingInfo, setGroupingsDown, setHasDetailRows, hasDetailRows, setHasRecordCount, hasRecordCount, setHistoricalSnapshotDates, historicalSnapshot, setId, setName, setReportBooleanFilter, reportBooleanFilter, setReportFilters, reportFilters, setReportFormat, setReportType, reportType, setScope, scopeName, setShowGrandTotal, showGrandTotal, setShowSubtotals, showSubtotals, setSortBy, column, setStandardDateFilter, dateFilter, setStandardFilters, filters, setTopRows, topRows]
 ---
-
-# ReportMetadata Class
 
 > Returns a list of bucket fields in the report.
 

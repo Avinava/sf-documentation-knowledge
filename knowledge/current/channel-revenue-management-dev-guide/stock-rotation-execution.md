@@ -5,12 +5,10 @@ topic: stock-rotation-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:19.077Z
+lastCollected: 2026-04-07T18:37:05.772Z
 estimatedTokens: 145
-keywords: [Stock, Rotation, Execution, Output, representation, action]
+keywords: [Stock, Rotation, Execution, action]
 ---
-
-# Stock Rotation Execution
 
 > Output representation for a stock rotation action request.
 

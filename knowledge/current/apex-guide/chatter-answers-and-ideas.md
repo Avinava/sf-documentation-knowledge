@@ -5,12 +5,10 @@ topic: chatter-answers-and-ideas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.525Z
+lastCollected: 2026-04-07T18:36:17.764Z
 estimatedTokens: 232
 keywords: [Chatter, Answers, Ideas, zones, organize, groups, zone, own, focus, unique, topics, match]
 ---
-
-# Chatter Answers and Ideas
 
 > In Chatter Answers and Ideas, use zones to organize ideas and answers into groups. Each
 zone can have its own focus, with unique ideas and answers topics to match that focus.

@@ -5,12 +5,10 @@ topic: cgcloudfundtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:20.124Z
+lastCollected: 2026-04-07T18:39:13.534Z
 estimatedTokens: 2021
-keywords: [cgcloud__Fund_Template__c, Template, creation, Fund, API, version, 54.0, later, cgcloud, _Fund, _Template, Calls, Associated, Objects]
+keywords: [cgcloud__Fund_Template__c, Template, creation, Fund, API, 54.0, cgcloud, _Fund, _Template]
 ---
-
-# cgcloud__Fund_Template__c
 
 > Template for the creation of a Fund. This object is available in
       API version 54.0 and later.

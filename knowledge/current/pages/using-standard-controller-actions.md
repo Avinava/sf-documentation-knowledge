@@ -5,12 +5,10 @@ topic: using-standard-controller-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:58.858Z
+lastCollected: 2026-04-07T18:38:51.098Z
 estimatedTokens: 1124
-keywords: [Standard, Controller, Actions, Action, perform, logic, navigation, event, occurs, user, clicks, button, hovers, over, area]
+keywords: [Standard, Controller, Actions, Action, perform, logic, navigation, event, occurs, user, clicks, button, hovers, over, area, markup, notation]
 ---
-
-# Using Standard Controller Actions
 
 > Action methods perform logic or navigation when a page
                     event occurs, such as when a user clicks a button, or hovers over an area of the

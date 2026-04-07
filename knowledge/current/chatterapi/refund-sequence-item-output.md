@@ -5,12 +5,10 @@ topic: refund-sequence-item-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.571Z
+lastCollected: 2026-04-07T18:37:22.681Z
 estimatedTokens: 95
-keywords: [Refund, Sequence, Item, Output, order, payment, summary, amount, processed, items]
+keywords: [Refund, Sequence, Item, order, payment, summary, amount, processed, items]
 ---
-
-# Refund Sequence Item Output
 
 > The order payment summary ID and amount of the processed refund items.
 

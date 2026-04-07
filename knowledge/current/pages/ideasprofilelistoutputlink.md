@@ -5,12 +5,10 @@ topic: ideasprofilelistoutputlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.547Z
+lastCollected: 2026-04-07T18:38:49.686Z
 estimatedTokens: 613
-keywords: [ideas, profileListOutputLink, link, displaying, user's, profile, component, please, contact, Salesforce, representative, extended, standard, controllers, enabled]
+keywords: [Attributes, ideas, profileListOutputLink, link, displaying, user's, profile, please, contact, Salesforce, representative, extended, standard, controllers, enabled, organization, controller]
 ---
-
-# ideas:profileListOutputLink
 
 > A link to the page displaying a user's profile. Note: To use this component, please contact your
 			Salesforce representative and request that the Ideas extended standard controllers be

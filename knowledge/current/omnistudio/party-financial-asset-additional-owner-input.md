@@ -5,12 +5,10 @@ topic: party-financial-asset-additional-owner-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:51.675Z
+lastCollected: 2026-04-07T18:36:37.204Z
 estimatedTokens: 326
-keywords: [Party, Financial, Asset, Additional, Owner, Input, representation]
+keywords: [Party, Financial, Asset, Additional, Owner]
 ---
-
-# Party Financial Asset Additional Owner Input
 
 > Input representation of the details of the additional owner of the party financial
     asset.

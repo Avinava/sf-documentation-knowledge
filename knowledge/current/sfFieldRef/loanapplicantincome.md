@@ -5,12 +5,10 @@ topic: loanapplicantincome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.230Z
+lastCollected: 2026-04-07T18:39:46.739Z
 estimatedTokens: 368
-keywords: [LoanApplicantIncome, borrower, co-borrower, current, monthly, income, API, version, 47.0, later]
+keywords: [LoanApplicantIncome, borrower, co-borrower, current, monthly, income, API, 47.0]
 ---
-
-# LoanApplicantIncome
 
 > Represents details about the borrower and co-borrower current monthly
 			income. This object is available in API version 47.0 and later.

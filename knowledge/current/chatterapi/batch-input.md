@@ -5,12 +5,10 @@ topic: batch-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:20.595Z
+lastCollected: 2026-04-07T18:37:07.313Z
 estimatedTokens: 303
-keywords: [Batch, Input, nest, collection]
+keywords: [Batch, nest, collection]
 ---
-
-# Batch Input
 
 > A single batch input to nest in a batch collection
     input.

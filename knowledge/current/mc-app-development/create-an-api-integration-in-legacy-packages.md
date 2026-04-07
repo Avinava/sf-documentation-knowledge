@@ -5,12 +5,10 @@ topic: create-an-api-integration-in-legacy-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.966Z
+lastCollected: 2026-04-07T18:40:21.248Z
 estimatedTokens: 279
 keywords: [API, Integration, Legacy, Packages, August, Marketing, Cloud, removed, ability, new, enhanced, authentication, requests, Items]
 ---
-
-# Create an API Integration in Legacy Packages
 
 > As of August 1, 2019, Marketing Cloud has removed the ability to create legacy packages. All new packages are enhanced packages. You can still use legacy authentication and API requests with existing legacy packages.
 

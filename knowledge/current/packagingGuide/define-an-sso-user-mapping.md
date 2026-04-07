@@ -5,12 +5,10 @@ topic: define-an-sso-user-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:54.913Z
+lastCollected: 2026-04-07T18:38:46.870Z
 estimatedTokens: 246
 keywords: [Define, SSO, User, Mapping, manually, single-sign, Environment, Hub, member, org, enable]
 ---
-
-# Define an SSO User Mapping
 
 > You can manually define a single-sign on (SSO) user mapping between a user in the
   Environment Hub and a user in a member org. Before you define a user mapping, enable SSO in the

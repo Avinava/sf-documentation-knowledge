@@ -5,12 +5,10 @@ topic: event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.344Z
+lastCollected: 2026-04-07T18:38:05.554Z
 estimatedTokens: 842
-keywords: [Event, work, events, communicate, components]
+keywords: [Event, work, events, communicate]
 ---
-
-# Event
 
 > Event contains methods to work with events. Use
   an event to communicate between components.

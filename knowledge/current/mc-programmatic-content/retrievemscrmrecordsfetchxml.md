@@ -5,12 +5,10 @@ topic: retrievemscrmrecordsfetchxml
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:27.327Z
+lastCollected: 2026-04-07T18:40:22.745Z
 estimatedTokens: 265
-keywords: [RetrieveMscrmRecordsFetchXML, Function, Ordinal, Dynamics, CRM, Fetch, XML, query, **Overview**, **Syntax**, Usage]
+keywords: [RetrieveMscrmRecordsFetchXML, Function, Ordinal, Dynamics, CRM, Fetch, XML, query, **Overview**, **Syntax**]
 ---
-
-# RetrieveMscrmRecordsFetchXML
 
 > RetrieveMscrmRecordsFetchXML(1)
 

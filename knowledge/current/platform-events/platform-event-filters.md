@@ -5,12 +5,10 @@ topic: platform-event-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:05.167Z
+lastCollected: 2026-04-07T18:38:57.977Z
 estimatedTokens: 529
 keywords: [Platform, Event, Filters, Tooling, API, Metadata, administrator, Customize, Application, permission, configure, complex, filter, expression, multiple]
 ---
-
-# Platform Event Filters
 
 > Using Tooling API or Metadata API, an administrator with the Customize
                 Application permission can configure a complex filter expression that contains

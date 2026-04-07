@@ -5,12 +5,10 @@ topic: adjust-general-parameters-in-the-code-snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:14.605Z
+lastCollected: 2026-04-07T18:40:09.553Z
 estimatedTokens: 612
-keywords: [Adjust, General, Code, Snippet, Change, Embedded, Service, improve, functionality, across, chat, stages, Choose, resize, window]
+keywords: [Adjust, General, Code, Snippet, Change, Embedded, Service, improve, functionality, across, chat, stages, Choose, resize, window, font, match, branding, requirements, language, layout, right-to-left, languages, Add, domain, persist, site’s, subdomains]
 ---
-
-# Adjust General Parameters in the Code Snippet
 
 > Change the general parameters in your Embedded Service code snippet to improve
         functionality across all chat stages. Choose to resize the chat window or update the font to

@@ -5,12 +5,10 @@ topic: schema-slice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.975Z
+lastCollected: 2026-04-07T18:39:18.707Z
 estimatedTokens: 129
-keywords: [Schema, Slice, Input, definition, node, recipe]
+keywords: [Schema, Slice, definition, node, recipe]
 ---
-
-# Schema Slice Input
 
 > The slice definition for a schema node in a recipe.
 

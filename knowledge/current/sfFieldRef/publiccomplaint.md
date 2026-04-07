@@ -5,12 +5,10 @@ topic: publiccomplaint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:02.994Z
+lastCollected: 2026-04-07T18:39:57.591Z
 estimatedTokens: 794
-keywords: [PublicComplaint, complaints, submitted, users, API, version, 49.0, later]
+keywords: [PublicComplaint, complaints, submitted, users, API, 49.0]
 ---
-
-# PublicComplaint
 
 > Represents the complaints submitted by public users. This object is
       available in API version 49.0 and later.

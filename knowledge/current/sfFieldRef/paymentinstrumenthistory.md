@@ -5,12 +5,10 @@ topic: paymentinstrumenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:58.433Z
+lastCollected: 2026-04-07T18:39:52.941Z
 estimatedTokens: 266
-keywords: [PaymentInstrumentHistory, History, tracked, PaymentInstrument]
+keywords: [PaymentInstrumentHistory, tracked, PaymentInstrument]
 ---
-
-# PaymentInstrumentHistory
 
 > History for tracked fields of PaymentInstrument.
 

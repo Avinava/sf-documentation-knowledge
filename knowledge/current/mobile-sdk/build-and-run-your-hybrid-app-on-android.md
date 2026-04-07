@@ -5,12 +5,10 @@ topic: build-and-run-your-hybrid-app-on-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:30.789Z
+lastCollected: 2026-04-07T18:40:26.117Z
 estimatedTokens: 296
 keywords: [Build, Run, Hybrid, App, Android, you’ve, cordova, prepare, project]
 ---
-
-# Build and Run Your Hybrid App on Android
 
 > After you’ve run cordova prepare, build and run
                 the project.

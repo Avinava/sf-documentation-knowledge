@@ -5,12 +5,10 @@ topic: general-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:18.591Z
+lastCollected: 2026-04-07T18:37:05.336Z
 estimatedTokens: 1056
 keywords: [General, Considerations]
 ---
-
-# General Considerations
 
 # General Considerations
 

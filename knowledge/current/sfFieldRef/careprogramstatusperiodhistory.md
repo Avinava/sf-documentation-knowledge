@@ -5,12 +5,10 @@ topic: careprogramstatusperiodhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.261Z
+lastCollected: 2026-04-07T18:39:32.664Z
 estimatedTokens: 274
-keywords: [CareProgramStatusPeriodHistory, History, tracked, CareProgramStatusPeriod]
+keywords: [CareProgramStatusPeriodHistory, tracked, CareProgramStatusPeriod]
 ---
-
-# CareProgramStatusPeriodHistory
 
 > History for tracked fields of CareProgramStatusPeriod.
 

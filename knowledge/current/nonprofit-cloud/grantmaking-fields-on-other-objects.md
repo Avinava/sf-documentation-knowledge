@@ -5,12 +5,10 @@ topic: grantmaking-fields-on-other-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:31.160Z
+lastCollected: 2026-04-07T18:38:22.142Z
 estimatedTokens: 303
-keywords: [Grantmaking, Objects, includes, Salesforce, orgs, enabled]
+keywords: [Grantmaking, includes, Salesforce, orgs, enabled]
 ---
-
-# Grantmaking Fields on Other Objects
 
 > Grantmaking includes fields that are available on other Salesforce objects. These
     fields are available only in orgs with Grantmaking enabled.

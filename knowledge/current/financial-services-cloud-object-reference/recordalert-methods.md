@@ -5,12 +5,10 @@ topic: recordalert-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:48.287Z
+lastCollected: 2026-04-07T18:37:35.982Z
 estimatedTokens: 168
 keywords: [RecordAlert, Financial, Services, Cloud]
 ---
-
-# RecordAlert Methods
 
 > These are RecordAlert methods for Financial
     Services Cloud.

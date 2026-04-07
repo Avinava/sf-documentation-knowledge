@@ -5,12 +5,10 @@ topic: sustainability-purchase-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:25.658Z
+lastCollected: 2026-04-07T18:38:16.202Z
 estimatedTokens: 275
-keywords: [Sustainability, Purchase, Input, representation, carbon, credit]
+keywords: [Sustainability, Purchase, carbon, credit]
 ---
-
-# Sustainability Purchase Input
 
 > Input representation of the sustainability carbon credit
       purchase.

@@ -5,12 +5,10 @@ topic: integrate-referral-mobile-android-sdk-into-loyalty-management-mobile-andr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.425Z
+lastCollected: 2026-04-07T18:39:09.740Z
 estimatedTokens: 455
 keywords: [Integrate, Referral, Mobile, Android, SDK, Loyalty, Management, add, external, dependency]
 ---
-
-# Integrate Referral Mobile Android SDK into Loyalty Management Mobile Android SDK
 
 > To integrate the Referral Mobile Android SDK into the existing Loyalty Management
     Mobile Android SDK, add it as an external dependency.

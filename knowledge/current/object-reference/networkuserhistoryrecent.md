@@ -5,12 +5,10 @@ topic: networkuserhistoryrecent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:44.955Z
+lastCollected: 2026-04-07T18:38:36.142Z
 estimatedTokens: 552
-keywords: [NetworkUserHistoryRecent, Experience, Cloud, site, user’s, history, accessed, records, API, version, 42.0, later, Calls, Special, Access]
+keywords: [NetworkUserHistoryRecent, Experience, Cloud, site, user’s, accessed, records, API, 42.0]
 ---
-
-# NetworkUserHistoryRecent
 
 > Represents an Experience Cloud site user’s history of accessed
    records. This object is available in API version 42.0 and later.

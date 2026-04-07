@@ -5,13 +5,11 @@ topic: healthcloudext-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.388Z
+lastCollected: 2026-04-07T18:37:40.366Z
 estimatedTokens: 402
 namespace: HealthCloudExt
 keywords: [HealthCloudExt, classes, Health, Cloud, integrate, source, electronic, records, EHR, system]
 ---
-
-# HealthCloudExt Namespace
 
 > The HealthCloudExt namespace provides an
     interface and classes for Health Cloud to integrate with a source electronic health records

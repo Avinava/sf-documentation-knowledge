@@ -5,13 +5,11 @@ topic: limits-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.851Z
+lastCollected: 2026-04-07T18:36:14.154Z
 estimatedTokens: 8140
 namespace: System
-keywords: [Limits, Reserved, future, Usage, getAggregateQueries, getLimitAggregateQueries, getApexCursors, getLimitApexCursors, getApexCursorRows, getLimitApexCursorRows, getApexPaginationCursors, getLimitApexPaginationCursors, getApexPaginationCursorRows, getLimitApexPaginationCursorRows, getFetchCallsOnApexCursor]
+keywords: [Limits, Reserved, future, getAggregateQueries, getLimitAggregateQueries, getApexCursors, getLimitApexCursors, getApexCursorRows, getLimitApexCursorRows, getApexPaginationCursors, getLimitApexPaginationCursors, getApexPaginationCursorRows, getLimitApexPaginationCursorRows, getFetchCallsOnApexCursor, getLimitFetchCallsOnApexCursor, getAsyncCalls, getLimitAsyncCalls, getCallouts, getChildRelationshipsDescribes, getLimitCallouts, getCpuTime, getLimitCpuTime, getDMLRows, getLimitDMLRows, getDMLStatements, getLimitDMLStatements, getEmailInvocations, getLimitEmailInvocations, getFindSimilarCalls, getLimitFindSimilarCalls, getFutureCalls, getLimitFutureCalls, getHeapSize, getLimitHeapSize, getMobilePushApexCalls, getLimitMobilePushApexCalls, getPublishImmediateDML, getLimitPublishImmediateDML, getQueries, getLimitQueries, getQueryLocatorRows, getLimitQueryLocatorRows, getQueryRows, getLimitQueryRows, getQueueableJobs, getLimitQueueableJobs, getRunAs, getLimitRunAs, getSavepointRollbacks, getLimitSavepointRollbacks, getSavepoints, getLimitSavepoints, getSoslQueries, getLimitSoslQueries]
 ---
-
-# Limits Class
 
 > Reserved for future use.
 

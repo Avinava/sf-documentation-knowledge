@@ -5,12 +5,10 @@ topic: text-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.311Z
+lastCollected: 2026-04-07T18:36:57.865Z
 estimatedTokens: 144
 keywords: [Text, Item, panel, Analytics, template, wizard]
 ---
-
-# Text Item
 
 > A text item on a panel for an Analytics template wizard page.
 

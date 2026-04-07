@@ -5,12 +5,10 @@ topic: authlocationaccessschedulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.478Z
+lastCollected: 2026-04-07T18:39:28.553Z
 estimatedTokens: 283
-keywords: [AuthLocationAccessScheduleHistory, History, tracked, AuthLocationAccessSchedule]
+keywords: [AuthLocationAccessScheduleHistory, tracked, AuthLocationAccessSchedule]
 ---
-
-# AuthLocationAccessScheduleHistory
 
 > History for tracked fields of AuthLocationAccessSchedule.
 

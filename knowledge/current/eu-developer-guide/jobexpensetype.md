@@ -5,12 +5,10 @@ topic: jobexpensetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.450Z
+lastCollected: 2026-04-07T18:37:32.669Z
 estimatedTokens: 341
-keywords: [JobExpenseType, unique, expense, associated, standard, job, organization, measure, costs, budget, API, version, 61.0, later, Calls]
+keywords: [JobExpenseType, unique, expense, standard, job, organization, measure, costs, budget, API, 61.0]
 ---
-
-# JobExpenseType
 
 > Represents a unique expense type associated with a standard job in an
          organization, which is used to measure the job costs and budget. This object is

@@ -5,12 +5,10 @@ topic: set-up-governor-limit-email-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:32.565Z
+lastCollected: 2026-04-07T18:36:17.798Z
 estimatedTokens: 576
-keywords: [Governor, Limit, Email, Warnings, specify, users, organization, receive, notification, they, invoke, Apex, code, surpasses, 50%]
+keywords: [Governor, Limit, Email, Warnings, specify, users, organization, receive, notification, they, invoke, Apex, code, surpasses, 50%, allocated, limits, per-request, checked, sending, per-org, concurrent, long-running, requests, notifications, count, against, daily]
 ---
-
-# Set Up Governor Limit Email Warnings
 
 > You can specify users in your organization to receive an email notification when they
     invoke Apex code that surpasses 50% of allocated governor limits. Only per-request limits are

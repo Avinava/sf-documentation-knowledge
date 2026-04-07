@@ -5,12 +5,10 @@ topic: sql-formula-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:25.023Z
+lastCollected: 2026-04-07T18:39:18.752Z
 estimatedTokens: 174
-keywords: [SQL, Formula, Input]
+keywords: [SQL, Formula]
 ---
-
-# SQL Formula Parameters Input
 
 > The SQL formula parameters for a formula.
 

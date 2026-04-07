@@ -5,12 +5,10 @@ topic: issuepolicyissuepolicyinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.616Z
+lastCollected: 2026-04-07T18:37:49.466Z
 estimatedTokens: 215
-keywords: [IssuePolicy, IssuePolicyInput, context, provided, input, JSON, generate, new, insurance, policy, API, Version, Requires, Chatter]
+keywords: [IssuePolicy, IssuePolicyInput, context, provided, JSON, generate, new, insurance, policy, API, Requires, Chatter]
 ---
-
-# IssuePolicy(IssuePolicyInput)
 
 > Use the context ID provided in the input JSON to generate a new insurance
     policy.

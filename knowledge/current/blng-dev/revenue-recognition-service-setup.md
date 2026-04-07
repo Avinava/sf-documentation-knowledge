@@ -5,12 +5,10 @@ topic: revenue-recognition-service-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.569Z
+lastCollected: 2026-04-07T18:37:03.134Z
 estimatedTokens: 329
 keywords: [Revenue, Recognition, Service, Setup, Prepare, configuring, several, Salesforce, Billing]
 ---
-
-# Revenue Recognition Service Setup
 
 > Prepare the Revenue Recognition Service by configuring several revenue fields in
   Salesforce Billing.

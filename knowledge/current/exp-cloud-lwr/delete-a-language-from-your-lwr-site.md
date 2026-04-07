@@ -5,12 +5,10 @@ topic: delete-a-language-from-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.171Z
+lastCollected: 2026-04-07T18:37:33.549Z
 estimatedTokens: 459
 keywords: [Language, LWR, Site, added]
 ---
-
-# Delete a Language from Your LWR Site
 
 > You can delete a language that you added to your LWR site.
 

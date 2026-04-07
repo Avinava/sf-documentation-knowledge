@@ -5,12 +5,10 @@ topic: story-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.542Z
+lastCollected: 2026-04-07T18:37:00.040Z
 estimatedTokens: 272
 keywords: [Story, top, positive, negative, factors, contributing, outcome]
 ---
-
-# Story Details
 
 > The details for a story. These details are the top positive and negative factors contributing to story outcome.
 

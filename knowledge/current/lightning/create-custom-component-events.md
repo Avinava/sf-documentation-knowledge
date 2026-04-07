@@ -5,12 +5,10 @@ topic: create-custom-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.963Z
+lastCollected: 2026-04-07T18:38:04.068Z
 estimatedTokens: 218
-keywords: [Custom, Component, Events, event, <aura, event>, tag, evt, resource, contain, attributes, fired, handled]
+keywords: [Events, event, <aura, event>, tag, evt, resource, contain, attributes, fired, handled]
 ---
-
-# Create Custom Component Events
 
 > Create a custom component event using the <aura:event> tag in a .evt resource. Events can contain
     attributes that can be set before the event is fired and read when the event is

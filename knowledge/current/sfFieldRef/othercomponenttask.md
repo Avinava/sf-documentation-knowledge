@@ -5,12 +5,10 @@ topic: othercomponenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.002Z
+lastCollected: 2026-04-07T18:39:51.416Z
 estimatedTokens: 339
-keywords: [OtherComponentTask, component, task, performed, visit, customers, launch, components, framework, API, version, 50.0, later]
+keywords: [OtherComponentTask, task, performed, visit, customers, launch, framework, API, 50.0]
 ---
-
-# OtherComponentTask
 
 > Represents the details of a component task performed in a visit. A component
       task allows customers to launch components from the task framework. This object is

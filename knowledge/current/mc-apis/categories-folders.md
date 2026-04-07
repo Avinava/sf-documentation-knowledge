@@ -5,12 +5,10 @@ topic: categories-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:20.533Z
+lastCollected: 2026-04-07T18:40:15.632Z
 estimatedTokens: 184
 keywords: [Categories, Folders, assets, any, folder, known, users, move, asset, stores, attribute, category, Sample, Items]
 ---
-
-# Categories (Folders)
 
 > You can create assets in any folder known by your users, or move an existing asset into a folder. The asset stores the folder information in an attribute called category.
 

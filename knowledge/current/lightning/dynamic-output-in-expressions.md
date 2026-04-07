@@ -5,12 +5,10 @@ topic: dynamic-output-in-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:14.117Z
+lastCollected: 2026-04-07T18:38:04.236Z
 estimatedTokens: 329
-keywords: [Dynamic, Output, Expressions, simplest, way]
+keywords: [Dynamic, Expressions, simplest, way]
 ---
-
-# Dynamic Output in Expressions
 
 > The simplest way to use expressions is to output dynamic values.
 

@@ -5,12 +5,10 @@ topic: queries-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.787Z
+lastCollected: 2026-04-07T18:40:27.011Z
 estimatedTokens: 680
-keywords: [Queries, exert, full, control, over, queries—or, reuse, SQL, queries—you, define, custom, SmartStore, Smart, Restrictions, Sample]
+keywords: [Joins, Queries, exert, full, control, over, queries—or, reuse, SQL, queries—you, define, SmartStore, Smart, Restrictions, Sample, Aggregate, Functions]
 ---
-
-# Queries Queries
 
 > To exert full control over your queries—or to reuse existing SQL
         queries—you can define custom SmartStore

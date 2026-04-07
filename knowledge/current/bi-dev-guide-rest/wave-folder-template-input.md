@@ -5,12 +5,10 @@ topic: wave-folder-template-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:08.746Z
+lastCollected: 2026-04-07T18:36:55.148Z
 estimatedTokens: 326
-keywords: [Wave, Folder, Template, Input, templated, Analytics, implements, BaseWaveFolderInput]
+keywords: [Wave, Folder, Template, templated, Analytics, implements, BaseWaveFolderInput]
 ---
-
-# Wave Folder Template Input
 
 > A templated Analytics folder. This implements BaseWaveFolderInput.
 

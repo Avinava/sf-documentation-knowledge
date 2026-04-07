@@ -5,12 +5,10 @@ topic: sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.176Z
+lastCollected: 2026-04-07T18:36:21.413Z
 estimatedTokens: 425
-keywords: [sObject, Relationships, Accesses, records, traversing, via, friendly, URLs, retrieve, record, associated, traversed, relationship, there, multiple]
+keywords: [sObject, Relationships, Accesses, records, traversing, via, friendly, URLs, retrieve, record, traversed, relationship, there, multiple, resource, REST, API, 36.0]
 ---
-
-# sObject Relationships
 
 > Accesses records by traversing object relationships via
 			friendly URLs. You can retrieve, update, or delete the record associated with the

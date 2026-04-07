@@ -5,12 +5,10 @@ topic: agent-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.390Z
+lastCollected: 2026-04-07T18:40:13.319Z
 estimatedTokens: 431
 keywords: [Agent, Availability, topic, guidance]
 ---
-
-# Agent Availability
 
 > This topic provides guidance on agent availability.
 

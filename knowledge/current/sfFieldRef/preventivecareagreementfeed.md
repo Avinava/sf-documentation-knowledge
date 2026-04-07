@@ -5,12 +5,10 @@ topic: preventivecareagreementfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:59.917Z
+lastCollected: 2026-04-07T18:39:54.474Z
 estimatedTokens: 275
-keywords: [PreventiveCareAgreementFeed, Feed, tracking, PreventiveCareAgreement]
+keywords: [PreventiveCareAgreementFeed, PreventiveCareAgreement]
 ---
-
-# PreventiveCareAgreementFeed
 
 > Feed tracking for PreventiveCareAgreement.
 

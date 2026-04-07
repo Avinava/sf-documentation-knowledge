@@ -5,12 +5,10 @@ topic: pricingmodeloutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.268Z
+lastCollected: 2026-04-07T18:35:41.133Z
 estimatedTokens: 952
 keywords: [PricingModelOutputRepresentation, pricing, model, product, configuration, frequency, occurrence, pricingModelType, unitOfMeasure]
 ---
-
-# PricingModelOutputRepresentation Class
 
 > Contains details of a pricing model in a product configuration.
 

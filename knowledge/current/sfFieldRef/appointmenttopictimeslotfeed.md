@@ -5,12 +5,10 @@ topic: appointmenttopictimeslotfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.785Z
+lastCollected: 2026-04-07T18:39:26.743Z
 estimatedTokens: 365
-keywords: [AppointmentTopicTimeSlotFeed, Feed, tracking, AppointmentTopicTimeSlot]
+keywords: [AppointmentTopicTimeSlotFeed, AppointmentTopicTimeSlot]
 ---
-
-# AppointmentTopicTimeSlotFeed
 
 > Feed tracking for AppointmentTopicTimeSlot.
 

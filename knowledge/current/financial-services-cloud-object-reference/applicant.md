@@ -5,12 +5,10 @@ topic: applicant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.449Z
+lastCollected: 2026-04-07T18:37:36.188Z
 estimatedTokens: 1876
-keywords: [Applicant, individual, group, applying, API, version, 59.0, later, Calls, Associated, Objects]
+keywords: [Applicant, individual, group, applying, API, 59.0]
 ---
-
-# Applicant
 
 > Represents information about the individual or group that are applying.
       This object is available in API version 59.0 and later.

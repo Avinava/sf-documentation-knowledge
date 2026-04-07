@@ -5,12 +5,10 @@ topic: connectapireturnitemsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:20.968Z
+lastCollected: 2026-04-07T18:36:06.314Z
 estimatedTokens: 443
-keywords: [Data, products, delivery, charges, well, associated, fees]
+keywords: [products, delivery, charges, well, fees]
 ---
-
-# ConnectApi.ReturnItemsInputRepresentation
 
 > Data about products and delivery charges to return, as well as
       associated return fees.

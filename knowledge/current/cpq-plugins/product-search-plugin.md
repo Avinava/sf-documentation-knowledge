@@ -5,12 +5,10 @@ topic: product-search-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:40.822Z
+lastCollected: 2026-04-07T18:37:27.832Z
 estimatedTokens: 225
 keywords: [Product, Search, Plugin, Salesforce, CPQ, implement, customize, results, Guided, Selling, vary, slightly, implementations]
 ---
-
-# Product Search Plugin
 
 > The Salesforce CPQ product search plugin is an interface that you can implement to
 		customize product search results in the Product Search page and the Guided Selling page. The

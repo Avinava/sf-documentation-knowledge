@@ -5,12 +5,10 @@ topic: walkthrough-of-the-sample-app-for-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.346Z
+lastCollected: 2026-04-07T18:38:09.637Z
 estimatedTokens: 443
-keywords: [Walkthrough, Sample, App, Loyalty, Management, Mobile, SDK, Adam, enroll, program, member, experience, device, Let’s, look]
+keywords: [Walkthrough, Sample, App, Loyalty, Management, Mobile, SDK, Adam, enroll, program, member, experience, device, Let’s, look, how, uses]
 ---
-
-# Walkthrough of the Sample App for Loyalty Management Mobile SDK
 
 > Adam can enroll as a loyalty program member and can experience Loyalty Management on the
     mobile device. Let’s look at how Adam uses the sample app for Loyalty Management Mobile SDK.

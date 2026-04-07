@@ -5,12 +5,10 @@ topic: ai-accelerator-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:49.818Z
+lastCollected: 2026-04-07T18:36:35.288Z
 estimatedTokens: 439
-keywords: [Accelerator, Standard, Objects, configure, case, defining, feature, extractor, machine, learning, model, saving, prediction, results]
+keywords: [Accelerator, Standard, configure, case, defining, feature, extractor, machine, learning, model, saving, prediction, results]
 ---
-
-# AI Accelerator Standard Objects
 
 > Use the standard objects to configure your use case by defining the feature extractor,
     the machine learning model, and the objects and fields for saving the prediction results for

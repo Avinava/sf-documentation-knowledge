@@ -5,12 +5,10 @@ topic: knowledge-article-version-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.794Z
+lastCollected: 2026-04-07T18:37:19.946Z
 estimatedTokens: 78
-keywords: [Knowledge, Article, Version, Collection, versions]
+keywords: [Knowledge, Article, Collection, versions]
 ---
-
-# Knowledge Article Version Collection
 
 > A collection of knowledge article versions.
 

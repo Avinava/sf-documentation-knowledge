@@ -5,12 +5,10 @@ topic: memberplanshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:54.225Z
+lastCollected: 2026-04-07T18:39:48.681Z
 estimatedTokens: 248
 keywords: [MemberPlanShare, Sharing, MemberPlan]
 ---
-
-# MemberPlanShare
 
 > Sharing for MemberPlan.
 

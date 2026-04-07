@@ -5,12 +5,10 @@ topic: volunteerproject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.678Z
+lastCollected: 2026-04-07T18:39:07.893Z
 estimatedTokens: 670
-keywords: [VolunteerProject, activities, carried, certain, time, frame, location, volunteers, Calls]
+keywords: [VolunteerProject, activities, carried, certain, time, frame, location, volunteers]
 ---
-
-# VolunteerProject
 
 > Represents information about activities that must be carried out
       within a certain time frame, at a specified location, by one or more

@@ -5,12 +5,10 @@ topic: create-a-secure-connection-with-an-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:41.245Z
+lastCollected: 2026-04-07T18:37:28.283Z
 estimatedTokens: 640
-keywords: [Secure, Connection, External, Client, App, Salesforce, Data, Loader, org]
+keywords: [Secure, Connection, External, Client, App, Salesforce, Loader, org]
 ---
-
-# Create a Secure Connection with an External Client App
 
 > Use a Salesforce external client app to create a secure connection from Data Loader to your Salesforce org.
 

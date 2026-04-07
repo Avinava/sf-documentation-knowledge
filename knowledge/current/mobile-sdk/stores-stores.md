@@ -5,12 +5,10 @@ topic: stores-stores
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:31.859Z
+lastCollected: 2026-04-07T18:40:27.077Z
 estimatedTokens: 575
-keywords: [Stores, SmartStore, puts, encrypted, soup, data, underlying, system, database, known, store, stored, indexed, device, loses]
+keywords: [Stores, SmartStore, puts, encrypted, soup, underlying, system, database, known, store, stored, indexed, device, loses, connectivity, user, continue, work, until, Salesforce, cloud, again, accessible]
 ---
-
-# Stores Stores
 
 > SmartStore puts encrypted soup
   data in an underlying system database known as the store. The store is where all soup

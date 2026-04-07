@@ -5,12 +5,10 @@ topic: setstorable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.143Z
+lastCollected: 2026-04-07T18:38:05.331Z
 estimatedTokens: 440
-keywords: [setStorable, Marks, Apex, action, storable, stored, framework’s, client-side, cache, Enhance, component’s, performance, marking, actions, cacheable]
+keywords: [setStorable, Marks, Apex, action, storable, stored, framework’s, client-side, cache, Enhance, component’s, performance, marking, actions, cacheable, quickly, show, cached, storage, waiting, server, trip, stale, framework, retrieves, latest, Caching, especially, beneficial, users, high, latency, slow, unreliable, connections, networks]
 ---
-
-# setStorable()
 
 > Marks an Apex action as storable to have its response stored in the
    framework’s client-side cache . Enhance your component’s performance by marking actions as

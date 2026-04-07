@@ -5,12 +5,10 @@ topic: searchactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.031Z
+lastCollected: 2026-04-07T18:38:40.622Z
 estimatedTokens: 691
-keywords: [SearchActivity, search, activity, Knowledge, article, known, KnowledgeSearchActivity, API, version, 38.0, later, Calls, Special, Access, Rules]
+keywords: [SearchActivity, search, activity, Knowledge, article, known, KnowledgeSearchActivity, API, 38.0]
 ---
-
-# SearchActivity
 
 > Represents search activity on a Knowledge article. Also known as
          KnowledgeSearchActivity. This object is available in API version 38.0 and later.

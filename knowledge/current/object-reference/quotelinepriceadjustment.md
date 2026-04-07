@@ -5,12 +5,10 @@ topic: quotelinepriceadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:48.079Z
+lastCollected: 2026-04-07T18:38:39.646Z
 estimatedTokens: 1067
-keywords: [QuoteLinePriceAdjustment, calculated, price, adjustment, applied, quote, line, volume, discount, prorated, manual, inform, potential, customers, total]
+keywords: [QuoteLinePriceAdjustment, calculated, price, adjustment, applied, quote, line, volume, discount, prorated, manual, inform, potential, customers, total, amount, their, discounts, API, 56.0]
 ---
-
-# QuoteLinePriceAdjustment
 
 > Indicates the calculated price adjustment that is applied to the quote line,
          for example, a calculated volume discount or the prorated value of a manual discount. Use

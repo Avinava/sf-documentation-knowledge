@@ -5,13 +5,11 @@ topic: quickactiondefaultshandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.896Z
+lastCollected: 2026-04-07T18:36:13.201Z
 estimatedTokens: 1462
 namespace: QuickAction
-keywords: [QuickActionDefaultsHandler, QuickAction.QuickActionDefaultsHandler, lets, specify, standard, Email, Send, actions, case, feed, address, BCC, subject, action, pre-populate]
+keywords: [QuickActionDefaultsHandler, QuickAction.QuickActionDefaultsHandler, lets, specify, standard, Email, Send, actions, case, address, BCC, subject, action, pre-populate, context, origin, country, onInitDefaults, actionDefaults, Implementations]
 ---
-
-# QuickActionDefaultsHandler Interface
 
 > The QuickAction.QuickActionDefaultsHandler interface lets you specify the default
       values for the standard Email and Send Email actions in the case feed. You can use this

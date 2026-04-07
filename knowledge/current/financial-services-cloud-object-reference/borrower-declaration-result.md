@@ -5,12 +5,10 @@ topic: borrower-declaration-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.360Z
+lastCollected: 2026-04-07T18:37:34.953Z
 estimatedTokens: 100
 keywords: [Borrower, Declaration, Result, containing, borrower’s]
 ---
-
-# Borrower Declaration Result
 
 > Result containing details about borrower’s
     declaration.

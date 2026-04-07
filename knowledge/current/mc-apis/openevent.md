@@ -5,12 +5,10 @@ topic: openevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.822Z
+lastCollected: 2026-04-07T18:40:18.007Z
 estimatedTokens: 572
 keywords: [OpenEvent, opening, message, send, subscriber, Items]
 ---
-
-# OpenEvent
 
 > The OpenEvent object contains information about the opening of a message send by a subscriber.
 

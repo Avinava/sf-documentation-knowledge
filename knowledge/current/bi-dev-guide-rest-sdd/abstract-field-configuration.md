@@ -5,12 +5,10 @@ topic: abstract-field-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:12.721Z
+lastCollected: 2026-04-07T18:36:59.221Z
 estimatedTokens: 377
 keywords: [Abstract, Configuration, base, Einstein, Discovery]
 ---
-
-# Abstract Field Configuration
 
 > The base Einstein Discovery field configuration.
 

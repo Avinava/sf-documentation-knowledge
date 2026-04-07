@@ -5,12 +5,10 @@ topic: recordsetfltrcritmonitorfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:04.489Z
+lastCollected: 2026-04-07T18:39:59.154Z
 estimatedTokens: 365
-keywords: [RecordsetFltrCritMonitorFeed, Feed, tracking, RecordsetFltrCritMonitor]
+keywords: [RecordsetFltrCritMonitorFeed, RecordsetFltrCritMonitor]
 ---
-
-# RecordsetFltrCritMonitorFeed
 
 > Feed tracking for RecordsetFltrCritMonitor.
 

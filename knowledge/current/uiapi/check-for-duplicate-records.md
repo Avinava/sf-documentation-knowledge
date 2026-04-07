@@ -5,12 +5,10 @@ topic: check-for-duplicate-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.240Z
+lastCollected: 2026-04-07T18:40:11.232Z
 estimatedTokens: 793
 keywords: [Check, Duplicate, Records, updating, creating, record, whether, exists, block, allow, action, warn, user]
 ---
-
-# Check for Duplicate Records
 
 > Before updating or creating a record, you can check whether a
       duplicate record exists. Use the response to learn whether to block or allow the action, and

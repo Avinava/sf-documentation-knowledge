@@ -5,12 +5,10 @@ topic: stagecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:51.231Z
+lastCollected: 2026-04-07T18:37:39.155Z
 estimatedTokens: 470
-keywords: [StageCondition, collection, rules, transition, criteria, stage, change, including, state, logic, API, version, 62.0, later, SOAP]
+keywords: [StageCondition, collection, transition, criteria, stage, change, including, state, logic, API, 62.0, SOAP, REST]
 ---
-
-# StageCondition
 
 > Represents a collection of fields to set up the rules in transition criteria
          and stage change, including the object state, logic, and values. This object is available

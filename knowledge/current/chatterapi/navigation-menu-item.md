@@ -5,12 +5,10 @@ topic: navigation-menu-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.799Z
+lastCollected: 2026-04-07T18:37:20.983Z
 estimatedTokens: 566
 keywords: [Navigation, Menu, Item]
 ---
-
-# Navigation Menu Item
 
 > Navigation menu item.
 

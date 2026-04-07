@@ -5,12 +5,10 @@ topic: location-capacity-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.963Z
+lastCollected: 2026-04-07T18:37:20.130Z
 estimatedTokens: 183
-keywords: [Location, Capacity, Output, Fulfillment, order]
+keywords: [Location, Capacity, Fulfillment, order]
 ---
-
-# Location Capacity Output
 
 > Fulfillment order capacity values for a location.
 

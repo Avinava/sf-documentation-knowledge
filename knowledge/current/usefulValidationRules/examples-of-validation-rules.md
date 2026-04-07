@@ -5,12 +5,10 @@ topic: examples-of-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.407Z
+lastCollected: 2026-04-07T18:40:12.426Z
 estimatedTokens: 989
-keywords: [Examples, Validation, Rules, Review, various, apps, modify, own, purposes, verify, data, user, enters, record, meets]
+keywords: [Examples, Validation, Review, various, apps, modify, own, purposes, verify, user, enters, record, meets, standards, specify, save]
 ---
-
-# Examples of Validation Rules
 
 > Review examples of validation rules for various types of apps that you can use and
   modify for your own purposes. Validation rules verify that the data a user enters in

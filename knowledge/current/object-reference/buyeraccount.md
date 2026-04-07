@@ -5,12 +5,10 @@ topic: buyeraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.055Z
+lastCollected: 2026-04-07T18:38:27.030Z
 estimatedTokens: 1186
-keywords: [BuyerAccount, account, enabled, buyer, Lightning, B2B, Commerce, API, version, 48.0, later, Calls, Special, Access, Rules]
+keywords: [BuyerAccount, account, enabled, buyer, Lightning, B2B, Commerce, API, 48.0]
 ---
-
-# BuyerAccount
 
 > Represents an account that is enabled as a buyer for Lightning B2B
          Commerce. This object is available in API version 48.0 and later.

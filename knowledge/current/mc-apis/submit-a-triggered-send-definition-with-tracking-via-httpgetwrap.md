@@ -5,12 +5,10 @@ topic: submit-a-triggered-send-definition-with-tracking-via-httpgetwrap
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:25.243Z
+lastCollected: 2026-04-07T18:40:20.479Z
 estimatedTokens: 1283
-keywords: [Submit, Triggered, Send, Definition, Tracking, Via, HTTPGETWRAP, submitting, Marketing, Cloud, Why, How, Sample, Code, SOAP]
+keywords: [Submit, Triggered, Send, Definition, Via, HTTPGETWRAP, submitting, Marketing, Cloud, Why, How, Sample, Code, SOAP, Envelope, Items]
 ---
-
-# Submit a Triggered Send Definition with Tracking Via HTTPGETWRAP
 
 > This page contains information  about submitting a triggered send definition that can return tracking information to Marketing Cloud
 

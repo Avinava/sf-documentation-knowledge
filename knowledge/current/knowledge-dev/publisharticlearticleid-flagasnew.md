@@ -5,12 +5,10 @@ topic: publisharticlearticleid-flagasnew
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:04.515Z
+lastCollected: 2026-04-07T18:37:53.803Z
 estimatedTokens: 85
-keywords: [publishArticle, articleId, flagAsNew, Publishes, article, published, major, version]
+keywords: [publishArticle, articleId, flagAsNew, Publishes, article, published, major]
 ---
-
-# publishArticle(articleId, flagAsNew)
 
 > Publishes an article. If flagAsNew is
 set to true, the article is

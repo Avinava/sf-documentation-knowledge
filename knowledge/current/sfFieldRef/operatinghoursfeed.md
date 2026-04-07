@@ -5,12 +5,10 @@ topic: operatinghoursfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.038Z
+lastCollected: 2026-04-07T18:39:50.463Z
 estimatedTokens: 360
-keywords: [OperatingHoursFeed, Feed, tracking, OperatingHours]
+keywords: [OperatingHoursFeed, OperatingHours]
 ---
-
-# OperatingHoursFeed
 
 > Feed tracking for OperatingHours.
 

@@ -5,12 +5,10 @@ topic: health-cloud-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.711Z
+lastCollected: 2026-04-07T18:37:43.890Z
 estimatedTokens: 253
-keywords: [Health, Cloud, Platform, Events, ApplnFormAppealStsChgEvnt, event, notify, subscribers, status, Financial, Assistance, Program’s, appeal, changes, CareBnftVrfyRqstStsChgEvent]
+keywords: [Health, Cloud, Platform, Events, ApplnFormAppealStsChgEvnt, event, notify, subscribers, status, Financial, Assistance, Program’s, appeal, changes, CareBnftVrfyRqstStsChgEvent, care, benefit, verify]
 ---
-
-# Health Cloud Platform Events
 
 > Use the ApplnFormAppealStsChgEvnt platform event to notify subscribers when the status
     of the Financial Assistance Program’s appeal changes. Use the CareBnftVrfyRqstStsChgEvent

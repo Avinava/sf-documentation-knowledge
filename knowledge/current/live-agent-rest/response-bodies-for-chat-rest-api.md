@@ -5,12 +5,10 @@ topic: response-bodies-for-chat-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:16.409Z
+lastCollected: 2026-04-07T18:38:06.620Z
 estimatedTokens: 2551
-keywords: [Bodies, Chat, REST, API, resource, code, successful, execution, JSON, Availability, ChasitorSessionData, ChasitorIdleTimeoutWarningEvent, ChatEndReason, ChatEstablished, ChatMessage]
+keywords: [Availability, ChasitorSessionData, ChasitorIdleTimeoutWarningEvent, ChatEndReason, ChatEstablished, ChatMessage, ChatRequestFail, ChatRequestSuccess, ChatTransferred, CustomEvent, Messages, NewVisitorBreadcrumb, QueueUpdate, ReconnectSession, SensitiveDataRules, SessionId, Settings, SwitchServer, VisitorId, Bodies, Chat, REST, API, resource, code, successful, execution, JSON]
 ---
-
-# Response Bodies for Chat REST API
 
 > A request to a Chat REST API resource returns a response code. The successful
 execution of a resource request can also return a response body in JSON format.

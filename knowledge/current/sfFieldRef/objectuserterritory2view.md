@@ -5,12 +5,10 @@ topic: objectuserterritory2view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:55.419Z
+lastCollected: 2026-04-07T18:39:49.889Z
 estimatedTokens: 252
-keywords: [ObjectUserTerritory2View, user, account, lead, assigned, territory, API, version, 58.0, later]
+keywords: [ObjectUserTerritory2View, user, account, lead, assigned, territory, API, 58.0]
 ---
-
-# ObjectUserTerritory2View
 
 > Represents a user and object, such as an account or lead, assigned to a
          territory. This object is available in API version 58.0 and later.

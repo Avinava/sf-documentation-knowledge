@@ -5,12 +5,10 @@ topic: annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.996Z
+lastCollected: 2026-04-07T18:36:16.216Z
 estimatedTokens: 1490
 keywords: [Annotations, Apex, annotation, modifies, way, similar, Java, defined, initial, symbol, followed, appropriate, keyword]
 ---
-
-# Annotations
 
 > An Apex annotation modifies the way that a method or class is used, similar to
         annotations in Java. Annotations are defined with an initial @ symbol, followed by the appropriate keyword.

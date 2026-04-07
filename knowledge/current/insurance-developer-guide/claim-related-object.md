@@ -5,12 +5,10 @@ topic: claim-related-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.973Z
+lastCollected: 2026-04-07T18:37:52.093Z
 estimatedTokens: 101
-keywords: [Claim, Output, representation]
+keywords: [Claim]
 ---
-
-# Claim Related Object
 
 > Output representation for a related object on a claim.
 

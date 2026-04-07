@@ -5,12 +5,10 @@ topic: set-up-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.550Z
+lastCollected: 2026-04-07T18:38:46.413Z
 estimatedTokens: 735
-keywords: [Channel, Order, App, COA, ready, send, orders, Salesforce, isn’t, installed, Partner, Business, Org, prefer, different]
+keywords: [Channel, Order, App, COA, ready, send, orders, Salesforce, isn’t, installed, Partner, Business, Org, prefer, different, install, AppExchange, guided, onboarding, experience, assign, connect, configure, tab, display, customer, products]
 ---
-
-# Set Up the Channel Order App
 
 > Get the Channel Order App (COA) ready to send orders to Salesforce. If the COA isn’t
     installed in your Partner Business Org, or you prefer to use a different org, install the app

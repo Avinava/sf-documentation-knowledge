@@ -5,12 +5,10 @@ topic: configure-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:41.128Z
+lastCollected: 2026-04-07T18:37:28.166Z
 estimatedTokens: 2098
-keywords: [Configure, Data, Loader, Settings, menu, change, operation]
+keywords: [Configure, Loader, Settings, menu, change, operation]
 ---
-
-# Configure Data Loader
 
 > Use the Settings menu to change the Data Loader default operation settings.
 

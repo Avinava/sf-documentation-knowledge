@@ -5,12 +5,10 @@ topic: financialaccounttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.394Z
+lastCollected: 2026-04-07T18:36:52.808Z
 estimatedTokens: 1044
-keywords: [FinancialAccountTransaction, transaction, loan, lease, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [FinancialAccountTransaction, transaction, loan, lease, API, 60.0]
 ---
-
-# FinancialAccountTransaction
 
 > Represents a single transaction related to a loan or a lease. This
       object is available in API version 60.0 and later.

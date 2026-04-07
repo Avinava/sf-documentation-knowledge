@@ -5,12 +5,10 @@ topic: experience-cloud-sites-and-mobile-sdk-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:29.935Z
+lastCollected: 2026-04-07T18:40:25.302Z
 estimatedTokens: 491
-keywords: [Experience, Cloud, Sites, Mobile, SDK, Apps, enable, site, members, log, app, appropriate, permissions, Salesforce, change]
+keywords: [Experience, Cloud, Sites, Mobile, SDK, Apps, enable, site, members, log, app, appropriate, permissions, Salesforce, change, app’s, login, server, configuration, recognize, URL]
 ---
-
-# Experience Cloud Sites and Mobile SDK Apps
 
 > To enable Experience Cloud site members to log into your Mobile SDK app, set the
     appropriate permissions in Salesforce, and change your app’s login server configuration

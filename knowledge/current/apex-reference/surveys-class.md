@@ -5,13 +5,11 @@ topic: surveys-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:13.578Z
+lastCollected: 2026-04-07T18:35:58.849Z
 estimatedTokens: 472
 namespace: ConnectApi
-keywords: [Surveys, Email, survey, invitations, participants, either, leads, contacts, users, org, link, launch, question, embedded, sendSurveyInvitationEmail]
+keywords: [Surveys, Email, survey, invitations, participants, either, leads, contacts, users, org, link, launch, question, embedded, sendSurveyInvitationEmail, surveyID, SurveyEmailInput, API, Requires, Chatter]
 ---
-
-# Surveys Class
 
 > Email survey invitations to up to 300 participants. You can email
       either leads, contacts, or users in your org. Either a link to launch the survey or a question

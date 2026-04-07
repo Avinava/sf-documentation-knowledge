@@ -5,12 +5,10 @@ topic: promotion-limit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.492Z
+lastCollected: 2026-04-07T18:35:46.456Z
 estimatedTokens: 192
-keywords: [Promotion, Limit, Output, representation, eligible]
+keywords: [Promotion, Limit, eligible]
 ---
-
-# Promotion Limit
 
 > Output representation of the details of the promotion limit of an eligible
     promotion.

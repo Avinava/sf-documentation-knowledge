@@ -5,12 +5,10 @@ topic: connecting-to-the-api-using-java-and-axis2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:20.627Z
+lastCollected: 2026-04-07T18:40:15.739Z
 estimatedTokens: 1652
-keywords: [Connecting, API, Java, Axis2, development, environment, systems, Marketing, Cloud, SOAP, via, client, preferred, users, Prerequisites]
+keywords: [Prerequisites, Troubleshooting, Connecting, API, Java, Axis2, development, environment, systems, Marketing, Cloud, SOAP, via, client, preferred, users, Why, Connect, How, Eclipse, Handling, Accounts, Multiple, Environments, Codebase]
 ---
-
-# Connecting to the API using Java and Axis2
 
 > This page contains information on connecting your development environment or other systems to the Marketing Cloud SOAP API using Java via the Axis2 SOAP client. Axis2 is a SOAP client preferred by many Java users.
 

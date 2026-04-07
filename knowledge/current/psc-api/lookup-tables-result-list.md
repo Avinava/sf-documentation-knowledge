@@ -5,12 +5,10 @@ topic: lookup-tables-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:09.720Z
+lastCollected: 2026-04-07T18:39:02.957Z
 estimatedTokens: 155
-keywords: [Lookup, Tables, Result, Output, representation, search]
+keywords: [Lookup, Tables, Result, search]
 ---
-
-# Lookup Tables Result List
 
 > Output representation of the result of a lookup table search
       request.

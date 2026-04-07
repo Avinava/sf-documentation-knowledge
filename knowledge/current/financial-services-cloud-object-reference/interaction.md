@@ -5,12 +5,10 @@ topic: interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.205Z
+lastCollected: 2026-04-07T18:37:38.025Z
 estimatedTokens: 1431
-keywords: [Interaction, phone, call, in-person, meeting, video, conference, two, people, attendees, typically, including, least, representative, customer]
+keywords: [Interaction, phone, call, in-person, meeting, video, conference, two, people, attendees, typically, including, least, representative, customer, partner, API, 51.0]
 ---
-
-# Interaction
 
 > Represents an interaction (phone call, in-person meeting, or video
 			conference) between two or more people (attendees), typically including at least one

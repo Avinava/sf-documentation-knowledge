@@ -5,12 +5,10 @@ topic: discovery-framework-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.275Z
+lastCollected: 2026-04-07T18:39:03.460Z
 estimatedTokens: 199
 keywords: [Discovery, Framework, Connect, APIs, Document, Decision, invoke, accept, key-value, pairs, match, keys, either, Categories]
 ---
-
-# Discovery Framework Connect APIs
 
 > Use the Discovery Framework Document Decision Connect APIs to invoke a Decision Table,
     accept key-value pairs that match the Decision Table keys, and return either Document Types or

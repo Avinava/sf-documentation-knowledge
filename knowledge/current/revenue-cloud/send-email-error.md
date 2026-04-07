@@ -5,12 +5,10 @@ topic: send-email-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.705Z
+lastCollected: 2026-04-07T18:35:46.673Z
 estimatedTokens: 119
-keywords: [Send, Email, Error, Output, representation, API, emails, posted, invoices]
+keywords: [Send, Email, Error, API, emails, posted, invoices]
 ---
-
-# Send Email Error
 
 > Output representation of the error response of the API request to send emails for
     posted invoices.

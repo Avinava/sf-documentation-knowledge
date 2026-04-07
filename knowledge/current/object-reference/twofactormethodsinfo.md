@@ -5,12 +5,10 @@ topic: twofactormethodsinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:51.204Z
+lastCollected: 2026-04-07T18:38:42.902Z
 estimatedTokens: 1385
-keywords: [TwoFactorMethodsInfo, Stores, identity, verification, user, registered, API, version, 37.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [TwoFactorMethodsInfo, Stores, identity, verification, user, registered, API, 37.0]
 ---
-
-# TwoFactorMethodsInfo
 
 > Stores information about which identity verification methods a user
 			has registered. This object is available in API version 37.0 and later.

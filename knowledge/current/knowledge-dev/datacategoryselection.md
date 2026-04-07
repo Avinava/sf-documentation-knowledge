@@ -5,12 +5,10 @@ topic: datacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.063Z
+lastCollected: 2026-04-07T18:37:54.371Z
 estimatedTokens: 1044
-keywords: [dataCategorySelection, data, category, selection, clause, SOQL, query, includes, group, filter, selector, filtering, Selectors]
+keywords: [dataCategorySelection, category, selection, clause, SOQL, query, includes, group, filter, selector, filtering, Selectors]
 ---
-
-# dataCategorySelection
 
 > The syntax of the data category selection in a WITH DATA
    CATEGORY clause in a SOQL query includes a category group name to use as a filter, the

@@ -5,12 +5,10 @@ topic: configurator-qualification-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:00.549Z
+lastCollected: 2026-04-07T18:35:45.558Z
 estimatedTokens: 110
-keywords: [Configurator, Qualification, Context, Output, representation, product, configuration]
+keywords: [Configurator, Qualification, Context, product, configuration]
 ---
-
-# Configurator Qualification Context
 
 > Output representation of the qualification context in a product
     configuration.

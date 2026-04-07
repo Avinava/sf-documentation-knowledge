@@ -5,12 +5,10 @@ topic: trigger-a-process-rule-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:35.751Z
+lastCollected: 2026-04-07T18:36:20.989Z
 estimatedTokens: 106
 keywords: [Trigger, Process, Rule, sObject, Triggers, active, workflow, regardless, evaluation, criteria]
 ---
-
-# Trigger a Process Rule for an sObject
 
 > Triggers an active workflow rule regardless of the evaluation criteria.
 

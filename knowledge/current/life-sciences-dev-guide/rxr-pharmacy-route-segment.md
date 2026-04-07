@@ -5,12 +5,10 @@ topic: rxr---pharmacy-route-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:09.022Z
+lastCollected: 2026-04-07T18:37:58.549Z
 estimatedTokens: 226
-keywords: [RXR, Pharmacy, Route, Segment, HL7, maps, primarily, PatientImmunization, PatientMedicationDosage, objects, Salesforce, V2.3, Clinical, Data, Model]
+keywords: [RXR, Pharmacy, Route, Segment, HL7, maps, primarily, PatientImmunization, PatientMedicationDosage, Salesforce, V2.3, Clinical, Model, Mapping]
 ---
-
-# RXR - Pharmacy Route Segment
 
 > The Pharmacy Route Segment (RXR) HL7 segment maps primarily to the PatientImmunization and PatientMedicationDosage objects in Salesforce.
 

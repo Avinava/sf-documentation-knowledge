@@ -5,12 +5,10 @@ topic: getsocialpublishurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:26.926Z
+lastCollected: 2026-04-07T18:40:22.303Z
 estimatedTokens: 549
-keywords: [GetSocialPublishURL, Function, Ordinal, numeric, Number, social, network, lookup, content, area, share, **Overview**, **Syntax**, Usage]
+keywords: [GetSocialPublishURL, Function, Ordinal, numeric, Number, social, network, lookup, content, area, share, **Overview**, **Syntax**]
 ---
-
-# GetSocialPublishURL
 
 > GetSocialPublishURL(1, 2, 3, 4)
 

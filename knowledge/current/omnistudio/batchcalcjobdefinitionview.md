@@ -5,12 +5,10 @@ topic: batchcalcjobdefinitionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.449Z
+lastCollected: 2026-04-07T18:36:44.209Z
 estimatedTokens: 1729
-keywords: [BatchCalcJobDefinitionView, Data, Processing, Engine, definition, file-based, Salesforce, org, API, version, 51.0, later, Calls]
+keywords: [BatchCalcJobDefinitionView, Processing, Engine, definition, file-based, Salesforce, org, API, 51.0]
 ---
-
-# BatchCalcJobDefinitionView
 
 > Represents the details of a Data Processing Engine definition. The
       definition can also be a file-based definition that is available in your Salesforce org.

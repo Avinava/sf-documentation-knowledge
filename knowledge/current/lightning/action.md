@@ -5,12 +5,10 @@ topic: action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.084Z
+lastCollected: 2026-04-07T18:38:05.273Z
 estimatedTokens: 881
 keywords: [Action, work, JavaScript, actions, communicate, Apex, classes]
 ---
-
-# Action
 
 > Action contains methods to work with JavaScript
   actions that you can use to communicate with Apex classes.

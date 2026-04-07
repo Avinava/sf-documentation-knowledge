@@ -6,13 +6,10 @@ topic: billing-fields-on-finance-balance-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.780Z
+lastCollected: 2026-04-07T18:37:04.404Z
 estimatedTokens: 504
-keywords: [Billing, Finance, Balance, Snapshot, Standard, custom, extend, represent, snapshots]
+keywords: [Billing, Finance, Balance, Snapshot, Standard, extend, represent, snapshots]
 ---
-
-# Billing
-      Fields on Finance Balance Snapshot
 
 > Standard and custom fields extend the standard Finance Balance
          Snapshot object for use in Billing to represent information about finance balance

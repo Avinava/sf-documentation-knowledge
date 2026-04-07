@@ -5,12 +5,10 @@ topic: build-custom-activities-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:25.971Z
+lastCollected: 2026-04-07T18:40:21.254Z
 estimatedTokens: 638
-keywords: [Build, Custom, Activities, Events, Prerequisites, Steps, Items]
+keywords: [Prerequisites, Steps, Build, Activities, Events, Items]
 ---
-
-# Build Custom Activities and Events
 
 # Build Custom Activities and Events
 

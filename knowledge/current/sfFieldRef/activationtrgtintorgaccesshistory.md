@@ -5,12 +5,10 @@ topic: activationtrgtintorgaccesshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:30.804Z
+lastCollected: 2026-04-07T18:39:24.717Z
 estimatedTokens: 287
-keywords: [ActivationTrgtIntOrgAccessHistory, History, tracked, ActivationTrgtIntOrgAccess]
+keywords: [ActivationTrgtIntOrgAccessHistory, tracked, ActivationTrgtIntOrgAccess]
 ---
-
-# ActivationTrgtIntOrgAccessHistory
 
 > History for tracked fields of ActivationTrgtIntOrgAccess.
 

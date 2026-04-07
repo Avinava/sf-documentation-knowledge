@@ -5,12 +5,10 @@ topic: wishlistshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.744Z
+lastCollected: 2026-04-07T18:40:06.639Z
 estimatedTokens: 156
 keywords: [WishlistShare, Sharing, Wishlist]
 ---
-
-# WishlistShare
 
 > Sharing for Wishlist.
 

@@ -5,12 +5,10 @@ topic: controlling-the-appearance-of-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.727Z
+lastCollected: 2026-04-07T18:38:48.675Z
 estimatedTokens: 235
-keywords: [Controlling, Appearance, Charts, Visualforce, highly, customizable, combine, various, data, series, control, colors, elements, chart, look]
+keywords: [Controlling, Appearance, Charts, Visualforce, highly, customizable, combine, various, series, control, colors, chart, look, markers, lines]
 ---
-
-# Controlling the Appearance of Charts
 
 > Visualforce charts are highly customizable. You can combine various types of
 data series, control the colors of most elements in a chart, and control

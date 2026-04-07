@@ -5,12 +5,10 @@ topic: get-messagingv1smsdefinitionsdefinitionkeyqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:22.197Z
+lastCollected: 2026-04-07T18:40:17.353Z
 estimatedTokens: 226
-keywords: [messaging, sms, definitions, definitionKey, queue, metrics, messages, send, definition, accepted, yet, processed, **Overview**, Usage]
+keywords: [messaging, sms, definitions, definitionKey, queue, metrics, messages, send, definition, accepted, yet, processed, **Overview**]
 ---
-
-# GET /messaging/v1/sms/definitions/{definitionKey}/queue
 
 > Gets metrics for the messages of a send definition. Applies to messages that are accepted but not yet processed.
 

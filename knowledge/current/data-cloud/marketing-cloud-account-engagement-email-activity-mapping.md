@@ -5,12 +5,10 @@ topic: marketing-cloud-account-engagement-email-activity-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:09.062Z
+lastCollected: 2026-04-07T18:35:54.095Z
 estimatedTokens: 941
-keywords: [Marketing, Cloud, Account, Engagement, Email, Activity, Mapping, data, stream, deployed, maps, source, objects, model, DMOs]
+keywords: [Marketing, Cloud, Account, Engagement, Email, Activity, Mapping, stream, deployed, maps, source, model, DMOs, includes, DLO, DMO]
 ---
-
-# Marketing Cloud Account Engagement: Email Activity Mapping
 
 > After a data stream is deployed, the Marketing Cloud Account Engagement data stream
       maps source objects from Account Engagement to data model objects (DMOs) in Data Cloud. The Email Activity object includes email engagement

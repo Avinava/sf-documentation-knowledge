@@ -5,12 +5,10 @@ topic: data-category-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.254Z
+lastCollected: 2026-04-07T18:37:08.057Z
 estimatedTokens: 123
-keywords: [Data, Category, Input]
+keywords: [Category]
 ---
-
-# Data Category Input
 
 > Data category.
 

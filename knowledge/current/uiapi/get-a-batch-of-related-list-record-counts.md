@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-record-counts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.419Z
+lastCollected: 2026-04-07T18:40:11.412Z
 estimatedTokens: 236
 keywords: [Batch, Record, Counts, count]
 ---
-
-# Get a Batch of Related List Record Counts
 
 > Returns the record count for a batch of related
     lists.

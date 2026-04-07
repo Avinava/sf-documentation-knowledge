@@ -5,12 +5,10 @@ topic: connectapiuserdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.860Z
+lastCollected: 2026-04-07T18:36:12.138Z
 estimatedTokens: 468
 keywords: [ConnectApi.UserDetail, user, org]
 ---
-
-# ConnectApi.UserDetail
 
 > Details about a user in an org.
 

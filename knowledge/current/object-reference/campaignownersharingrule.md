@@ -5,12 +5,10 @@ topic: campaignownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.367Z
+lastCollected: 2026-04-07T18:38:27.365Z
 estimatedTokens: 762
-keywords: [CampaignOwnerSharingRule, rules, sharing, campaign, User, records, owner, anyone, above, role, hierarchy, Calls, Usage]
+keywords: [CampaignOwnerSharingRule, sharing, campaign, User, records, owner, anyone, above, role, hierarchy]
 ---
-
-# CampaignOwnerSharingRule
 
 > Represents the rules for sharing a campaign with User records other
       than the owner or anyone above the owner in the role hierarchy.

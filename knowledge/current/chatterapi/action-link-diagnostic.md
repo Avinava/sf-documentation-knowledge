@@ -5,12 +5,10 @@ topic: action-link-diagnostic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:29.498Z
+lastCollected: 2026-04-07T18:37:16.577Z
 estimatedTokens: 165
-keywords: [Action, Link, Diagnostic, Any, REST, endpoint, executed, users, access]
+keywords: [Action, Link, Diagnostic, Any, REST, endpoint, executed, users]
 ---
-
-# Action Link Diagnostic
 
 > Any diagnostic information that is returned from the REST endpoint
       when an action link has been executed. Diagnostic information is given only for users who can

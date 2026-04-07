@@ -5,12 +5,10 @@ topic: workrewardfundtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.124Z
+lastCollected: 2026-04-07T18:38:44.969Z
 estimatedTokens: 1264
-keywords: [WorkRewardFundType, WorkRewardFund, Calls, Associated, Objects]
+keywords: [WorkRewardFundType, WorkRewardFund]
 ---
-
-# WorkRewardFundType
 
 > Represents the type of WorkRewardFund
    object.

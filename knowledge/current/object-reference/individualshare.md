@@ -5,12 +5,10 @@ topic: individualshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.547Z
+lastCollected: 2026-04-07T18:38:33.729Z
 estimatedTokens: 832
-keywords: [IndividualShare, access, levels, data, privacy, record, along, explanation, level, because, own, IndividualAccessLevel, RowCause, Owner, API]
+keywords: [IndividualShare, levels, privacy, record, along, explanation, level, because, own, IndividualAccessLevel, RowCause, Owner, API, 42.0]
 ---
-
-# IndividualShare
 
 > Represents a list of access levels to a data privacy record along
 			with an explanation of the access level. For example, if you have access to a record

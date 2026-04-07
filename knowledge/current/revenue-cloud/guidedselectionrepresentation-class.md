@@ -5,12 +5,10 @@ topic: guidedselectionrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.237Z
+lastCollected: 2026-04-07T18:35:41.104Z
 estimatedTokens: 5575
-keywords: [GuidedSelectionRepresentation, represent, product, guided, selection, flow, Discovery, provide, structured, processes, additionalFields, attributeCategories, availabilityDate, catalogs, categories]
+keywords: [GuidedSelectionRepresentation, represent, product, guided, selection, flow, Discovery, provide, structured, processes, additionalFields, attributeCategories, availabilityDate, catalogs, categories, childProducts, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent, isQuantityEditable, isSoldOnlyWithOtherProds, nodeType, prices, productClassification, productCode, productComponentGroups, productInformation, productPricingInformation, productQuantity, productRelatedComponent, productSellingModelOptions, productSpecificationType, productType, qualificationContext, status, unitOfMeasure]
 ---
-
-# GuidedSelectionRepresentation Class
 
 > Contains properties to represent a product in a guided selection flow. This class is used in Product Discovery to provide structured product information during guided product selection processes.
 

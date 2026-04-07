@@ -5,12 +5,10 @@ topic: insurancepolicysurcharge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:50.094Z
+lastCollected: 2026-04-07T18:37:37.905Z
 estimatedTokens: 2024
-keywords: [InsurancePolicySurcharge, charges, calculated, insurance, policy, assets, coverages, participants, region, API, version, 51.0, later, Calls, Associated]
+keywords: [InsurancePolicySurcharge, charges, calculated, insurance, policy, assets, coverages, participants, region, API, 51.0]
 ---
-
-# InsurancePolicySurcharge
 
 > Represents the charges calculated for an insurance policy and its related
       assets, coverages, and participants in a region. This object is available in API version

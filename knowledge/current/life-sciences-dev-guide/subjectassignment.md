@@ -5,12 +5,10 @@ topic: subjectassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.391Z
+lastCollected: 2026-04-07T18:37:57.925Z
 estimatedTokens: 479
-keywords: [SubjectAssignment, junction, subject, inquiry, belongs, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [SubjectAssignment, junction, subject, inquiry, belongs, API, 65.0]
 ---
-
-# SubjectAssignment
 
 > Represents a junction between a subject and the inquiry that the subject
       belongs to. This object is available in API version 65.0 and later.

@@ -5,12 +5,10 @@ topic: radar-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:56.787Z
+lastCollected: 2026-04-07T18:38:48.729Z
 estimatedTokens: 343
 keywords: [Radar, Charts, line, they, circular, axis, instead, linear, grid]
 ---
-
-# Radar Charts
 
 > Radar charts are like line charts but they use a circular
 axis instead of a linear grid.

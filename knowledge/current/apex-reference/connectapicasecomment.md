@@ -5,12 +5,10 @@ topic: connectapicasecomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.372Z
+lastCollected: 2026-04-07T18:36:07.750Z
 estimatedTokens: 321
-keywords: [ConnectApi.CaseComment, Attachments, feed, items, CaseCommentPost]
+keywords: [ConnectApi.CaseComment, Attachments, items, CaseCommentPost]
 ---
-
-# ConnectApi.CaseComment
 
 > Attachments in feed items with type CaseCommentPost.
 

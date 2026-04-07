@@ -5,13 +5,11 @@ topic: setupflowperformance-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.007Z
+lastCollected: 2026-04-07T18:36:15.329Z
 estimatedTokens: 115
 namespace: The
 keywords: [setup_flow_performance, internal, setup, _flow, _performance]
 ---
-
-# setup_flow_performance Namespace
 
 > The class and methods in this namespace are for internal use only.
 

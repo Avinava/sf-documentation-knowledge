@@ -5,12 +5,10 @@ topic: create-a-transcript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.249Z
+lastCollected: 2026-04-07T18:40:13.183Z
 estimatedTokens: 1729
-keywords: [Transcript, Creates, transcribed, version, voice, call, real, time, URI, HTTP]
+keywords: [Transcript, Creates, transcribed, voice, call, real, time, URI, HTTP]
 ---
-
-# Create a Transcript
 
 > Creates a transcribed version of a voice call in real time.
 

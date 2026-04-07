@@ -5,12 +5,10 @@ topic: connectapisearchanswer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:26.443Z
+lastCollected: 2026-04-07T18:36:11.729Z
 estimatedTokens: 313
-keywords: [ConnectApi.SearchAnswer, Results, searching, objects, natural, language, query]
+keywords: [ConnectApi.SearchAnswer, Results, searching, natural, language, query]
 ---
-
-# ConnectApi.SearchAnswer
 
 > Results of searching objects using a natural language query.
 

@@ -5,12 +5,10 @@ topic: give-users-access-to-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:28.974Z
+lastCollected: 2026-04-07T18:39:22.894Z
 estimatedTokens: 604
-keywords: [Give, Users, Access, Data, Choosing, user, group, key, decisions, affects, security, balance, limiting, thereby, risk]
+keywords: [Give, Users, Choosing, user, group, key, decisions, affects, security, balance, limiting, thereby, risk, stolen, misused, versus, convenience]
 ---
-
-# Give Users Access to Data
 
 > Choosing the data set that each user or group of users can see is one of the key
             decisions that affects data security. You need to find a balance between limiting access to data, thereby limiting risk of

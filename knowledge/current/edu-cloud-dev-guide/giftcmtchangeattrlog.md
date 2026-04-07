@@ -5,12 +5,10 @@ topic: giftcmtchangeattrlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:43.068Z
+lastCollected: 2026-04-07T18:37:30.137Z
 estimatedTokens: 1115
-keywords: [GiftCmtChangeAttrLog, history, changes, Gift, Commitment, over, time, attribution, source, campaign, code, attributed, change, API, version]
+keywords: [GiftCmtChangeAttrLog, changes, Gift, Commitment, over, time, attribution, source, campaign, code, attributed, change, API, 60.0]
 ---
-
-# GiftCmtChangeAttrLog
 
 > Represents the history of changes to a Gift Commitment over time with
          attribution to the source campaign or source code attributed to that change. This

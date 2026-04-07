@@ -5,12 +5,10 @@ topic: publishing-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.357Z
+lastCollected: 2026-04-07T18:38:58.209Z
 estimatedTokens: 545
 keywords: [Publishing, Platform, Events, event, defined, Salesforce, org, publish, messages, app, processes, flows, Apex, external, APIs]
 ---
-
-# Publishing Platform Events
 
 > After a platform event has been defined in your Salesforce org,
             publish event messages from a Salesforce app using processes, flows, or Apex or an

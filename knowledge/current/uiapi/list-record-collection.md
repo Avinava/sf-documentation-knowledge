@@ -5,12 +5,10 @@ topic: list-record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.813Z
+lastCollected: 2026-04-07T18:40:11.819Z
 estimatedTokens: 640
 keywords: [Record, Collection, view, records]
 ---
-
-# List Record Collection
 
 > A collection of list view records.
 

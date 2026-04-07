@@ -5,12 +5,10 @@ topic: resume
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.517Z
+lastCollected: 2026-04-07T18:39:23.450Z
 estimatedTokens: 118
 keywords: [resume, call, hold]
 ---
-
-# resume
 
 > Resume a call that is on hold.
 

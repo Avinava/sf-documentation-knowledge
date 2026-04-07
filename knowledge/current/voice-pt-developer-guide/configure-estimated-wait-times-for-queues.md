@@ -5,12 +5,10 @@ topic: configure-estimated-wait-times-for-queues
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.535Z
+lastCollected: 2026-04-07T18:40:13.466Z
 estimatedTokens: 658
 keywords: [Configure, Estimated, Wait, Times, Queues, Reps, queue, skill, transferring, call, Let, Salesforce, Calculate, Telephony, Provider]
 ---
-
-# Configure Estimated Wait Times for Queues
 
 > Reps can see estimated wait times for a given queue or skill before
                 transferring a call.

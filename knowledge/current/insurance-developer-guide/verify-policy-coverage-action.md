@@ -5,12 +5,10 @@ topic: verify-policy-coverage-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.293Z
+lastCollected: 2026-04-07T18:37:49.090Z
 estimatedTokens: 273
-keywords: [Verify, Policy, Coverage, Action, whether, applicable, loss, date, under, insurance, eligible, coverages, processed, claims, REST]
+keywords: [Inputs, Outputs, Verify, Policy, Coverage, Action, whether, applicable, loss, date, under, insurance, eligible, coverages, processed, claims, REST, HTTP]
 ---
-
-# Verify Policy Coverage Action
 
 > Verify whether a policy coverage is applicable for a specified loss date under an
   insurance policy, so that only eligible coverages are processed for claims.

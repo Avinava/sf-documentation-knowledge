@@ -5,12 +5,10 @@ topic: referral-advocate-enrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.180Z
+lastCollected: 2026-04-07T18:39:09.499Z
 estimatedTokens: 325
-keywords: [Referral, Advocate, Enrollment, Output, representation, program]
+keywords: [Referral, Advocate, Enrollment, program]
 ---
-
-# Referral Advocate Enrollment
 
 > Output representation of the request to create a referral program advocate.
 

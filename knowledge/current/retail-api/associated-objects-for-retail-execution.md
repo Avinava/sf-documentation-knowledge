@@ -5,12 +5,10 @@ topic: associated-objects-for-retail-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:17.337Z
+lastCollected: 2026-04-07T18:39:10.820Z
 estimatedTokens: 637
-keywords: [Associated, Objects, Retail, Execution, standard, their]
+keywords: [Retail, Execution, standard, their]
 ---
-
-# Associated Objects for Retail Execution
 
 > This section provides a list of objects associated to Retail Execution standard
         objects with their standard fields.

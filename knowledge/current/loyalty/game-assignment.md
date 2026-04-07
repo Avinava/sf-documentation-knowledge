@@ -5,12 +5,10 @@ topic: game-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.664Z
+lastCollected: 2026-04-07T18:38:07.898Z
 estimatedTokens: 223
-keywords: [Game, Assignment, Output, representation, assigned, member]
+keywords: [Game, Assignment, assigned, member]
 ---
-
-# Game Assignment
 
 > Output representation of the details of a game assigned to a member.
 

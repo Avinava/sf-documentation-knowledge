@@ -5,12 +5,10 @@ topic: manual-inputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:17.902Z
+lastCollected: 2026-04-07T18:39:11.443Z
 estimatedTokens: 188
 keywords: [Manual, Inputs, handleManualInputs2]
 ---
-
-# Manual Inputs
 
 > This section provides information about manual inputs.
 

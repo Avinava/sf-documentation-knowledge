@@ -5,12 +5,10 @@ topic: shippingconfigsetproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:49.623Z
+lastCollected: 2026-04-07T18:38:41.288Z
 estimatedTokens: 294
-keywords: [ShippingConfigSetProduct, product, associated, shipping, configuration, API, version, 64.0, later, Calls, Special, Access, Rules]
+keywords: [ShippingConfigSetProduct, product, shipping, configuration, API, 64.0]
 ---
-
-# ShippingConfigSetProduct
 
 > Represents a product associated with a
          shipping configuration. This object is available in API version 64.0

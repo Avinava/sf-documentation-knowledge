@@ -5,12 +5,10 @@ topic: assign-the-headless-identity-admin-role-to-yourself
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.293Z
+lastCollected: 2026-04-07T18:37:39.225Z
 estimatedTokens: 236
 keywords: [Assign, Headless, Identity, Admin, Role, Yourself, created, System, Administrator, user]
 ---
-
-# Assign the Headless Identity Admin Role to Yourself
 
 > Assign the role that you created to your System Administrator user.
 

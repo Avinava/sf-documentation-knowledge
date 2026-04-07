@@ -5,12 +5,10 @@ topic: net-zero-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.938Z
+lastCollected: 2026-04-07T18:38:16.500Z
 estimatedTokens: 103
 keywords: [Net, Zero, Cloud, Business, APIs, RESTful, sometimes, Apex, classes]
 ---
-
-# Net Zero Cloud Business APIs
 
 > Net Zero Cloud Business APIs are RESTful APIs that are sometimes available as Apex
     classes and methods.

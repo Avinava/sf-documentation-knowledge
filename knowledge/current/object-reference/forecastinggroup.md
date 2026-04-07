@@ -5,12 +5,10 @@ topic: forecastinggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.929Z
+lastCollected: 2026-04-07T18:38:32.988Z
 estimatedTokens: 609
-keywords: [ForecastingGroup, groups, roll, forecast, totals, forecasts, group, industry, sales, API, version, 60.0, later, Calls, Special]
+keywords: [ForecastingGroup, groups, roll, forecast, totals, forecasts, group, industry, sales, API, 60.0]
 ---
-
-# ForecastingGroup
 
 > Represents groups used to roll up forecast totals on the forecasts
          page. For example, group forecasts by industry or sales type. This object is available

@@ -5,12 +5,10 @@ topic: retrieve-a-list-from-an-account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.574Z
+lastCollected: 2026-04-07T18:40:18.773Z
 estimatedTokens: 1998
-keywords: [Retrieve, Account, view, contained, Why, How, Sample, NET, Code, Filtering, ListID, ListName, PHP, Java, Axis]
+keywords: [Retrieve, Account, view, contained, Why, How, Sample, NET, Code, Filtering, ListID, ListName, PHP, Java, Axis, 2.0, SOAP, Envelope, Items]
 ---
-
-# Retrieve a List from an Account
 
 > You can retrieve a list from your account to view the information contained within that list.
 

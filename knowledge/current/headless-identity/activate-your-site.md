@@ -5,12 +5,10 @@ topic: activate-your-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.285Z
+lastCollected: 2026-04-07T18:37:39.218Z
 estimatedTokens: 156
 keywords: [Activate, Site, Experience, Cloud, setup, headless, identity, often, overlooked, step, expose, API, endpoints]
 ---
-
-# Activate Your Site
 
 > To complete your Experience Cloud site setup for headless identity, activate your site.
   This important but often overlooked step is required to expose Headless Identity API

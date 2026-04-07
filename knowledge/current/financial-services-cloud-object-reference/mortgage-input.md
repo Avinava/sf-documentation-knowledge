@@ -5,12 +5,10 @@ topic: mortgage-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.199Z
+lastCollected: 2026-04-07T18:37:34.767Z
 estimatedTokens: 1702
-keywords: [Mortgage, Input, POST, PATCH]
+keywords: [Mortgage, POST, PATCH]
 ---
-
-# Mortgage Input
 
 > Represents the input for mortgage POST or PATCH
     method.

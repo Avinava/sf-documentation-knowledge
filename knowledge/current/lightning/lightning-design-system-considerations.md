@@ -5,12 +5,10 @@ topic: lightning-design-system-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:14.514Z
+lastCollected: 2026-04-07T18:38:04.672Z
 estimatedTokens: 1471
-keywords: [Lightning, Design, System, Considerations, Although, base, components, provide, Salesforce, styling, out-of-the-box, may, want, write, CSS]
+keywords: [Lightning, Design, System, Considerations, Although, base, provide, Salesforce, styling, out-of-the-box, may, want, write, CSS, depending, requirements, Utility, Classes, Block-Element-Modifier, BEM, Notation, Applying, Showing, Hiding, Visibility, Grid, Layout]
 ---
-
-# Lightning Design System Considerations
 
 > Although the base components provide Salesforce Lightning Design System styling
     out-of-the-box, you may still want to write some CSS depending on your requirements.

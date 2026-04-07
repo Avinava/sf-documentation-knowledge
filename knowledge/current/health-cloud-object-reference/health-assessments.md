@@ -5,12 +5,10 @@ topic: health-assessments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:54.225Z
+lastCollected: 2026-04-07T18:37:42.365Z
 estimatedTokens: 366
 keywords: [Health, Assessments, Cloud, power, Discovery, Framework, OmniStudio, build, complex, questionnaire, paths]
 ---
-
-# Health Assessments
 
 > Health Cloud Assessments use the power of Discovery Framework and OmniStudio to build
   more complex questionnaire paths.

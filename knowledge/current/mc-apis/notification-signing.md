@@ -5,12 +5,10 @@ topic: notification-signing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.665Z
+lastCollected: 2026-04-07T18:40:16.822Z
 estimatedTokens: 192
-keywords: [Notification, Signing, Marketing, Cloud, Event, Service, signs, every, delivered, callback, HMAC-SHA256, produced, entire, payload, key]
+keywords: [Notification, Signing, Marketing, Cloud, Event, Service, signs, every, delivered, callback, HMAC-SHA256, produced, entire, payload, key, unique, receive]
 ---
-
-# Notification Signing
 
 > Marketing Cloud Event Notification Service signs every notification delivered to your callback with an HMAC-SHA256 signature. The signature is produced by signing the entire notification payload using a signature key unique to the callback. You receive the signature key when you create the callback.
 

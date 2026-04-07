@@ -5,12 +5,10 @@ topic: permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.025Z
+lastCollected: 2026-04-07T18:36:57.539Z
 estimatedTokens: 164
 keywords: [Permissions, user, Analytics, asset]
 ---
-
-# Permissions
 
 > The user permissions for an Analytics asset.
 

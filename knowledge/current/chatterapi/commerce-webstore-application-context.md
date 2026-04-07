@@ -5,12 +5,10 @@ topic: commerce-webstore-application-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:25.251Z
+lastCollected: 2026-04-07T18:37:12.094Z
 estimatedTokens: 89
 keywords: [Commerce, Webstore, Application, Context, store]
 ---
-
-# Commerce Webstore Application Context
 
 > Get application context information for a Commerce
     store.

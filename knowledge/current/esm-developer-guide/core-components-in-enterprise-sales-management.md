@@ -5,12 +5,10 @@ topic: core-components-in-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.945Z
+lastCollected: 2026-04-07T18:37:32.111Z
 estimatedTokens: 745
-keywords: [Core, Components, Enterprise, Sales, Management, library, reusable, building, blocks, implementation, handle, specific, functions, across, various]
+keywords: [Core, Enterprise, Sales, Management, library, reusable, building, blocks, implementation, handle, specific, functions, across, various, flows, built, solution, leverage, build, customized, solutions, projects]
 ---
-
-# Core Components in Enterprise Sales Management
 
 > Enterprise Sales Management provides a library of
                     reusable core components that are used as the building blocks for this

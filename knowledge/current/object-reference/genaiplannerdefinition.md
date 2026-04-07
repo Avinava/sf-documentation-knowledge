@@ -5,12 +5,10 @@ topic: genaiplannerdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:42.237Z
+lastCollected: 2026-04-07T18:38:33.350Z
 estimatedTokens: 570
-keywords: [GenAiPlannerDefinition, agent, planner, service, uses, large, language, model, LLM, reasoning, strategy, decompose, task, smaller, subtasks]
+keywords: [GenAiPlannerDefinition, agent, planner, service, uses, large, language, model, LLM, reasoning, strategy, decompose, task, smaller, subtasks, identify, suitable, actions, subtask, invoke, API, 60.0]
 ---
-
-# GenAiPlannerDefinition
 
 > Represents an agent planner service that uses a large language model (LLM)
          and a reasoning strategy to decompose a given task into smaller subtasks, identify the most

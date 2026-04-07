@@ -5,12 +5,10 @@ topic: scope-3-procurement-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:26.345Z
+lastCollected: 2026-04-07T18:38:16.936Z
 estimatedTokens: 1305
 keywords: [Scope, Procurement, Item, corporate, spending, entry, records, amount, organization, spends, goods, services]
 ---
-
-# Scope 3 Procurement Item
 
 > The Scope 3 Procurement Item object represents the procurement (corporate spending)
     entry records. Procurement is the amount that an organization spends on goods and

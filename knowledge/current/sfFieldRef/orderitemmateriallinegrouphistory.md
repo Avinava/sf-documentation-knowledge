@@ -5,12 +5,10 @@ topic: orderitemmateriallinegrouphistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:56.555Z
+lastCollected: 2026-04-07T18:39:50.961Z
 estimatedTokens: 280
-keywords: [OrderItemMaterialLineGroupHistory, History, tracked, OrderItemMaterialLineGroup]
+keywords: [OrderItemMaterialLineGroupHistory, tracked, OrderItemMaterialLineGroup]
 ---
-
-# OrderItemMaterialLineGroupHistory
 
 > History for tracked fields of OrderItemMaterialLineGroup.
 

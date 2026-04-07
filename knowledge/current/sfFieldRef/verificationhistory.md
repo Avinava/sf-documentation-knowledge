@@ -5,12 +5,10 @@ topic: verificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:10.916Z
+lastCollected: 2026-04-07T18:40:05.791Z
 estimatedTokens: 428
-keywords: [VerificationHistory, past, six, months, org, users’, attempts, verify, their, identity, API, version, 36.0, later]
+keywords: [VerificationHistory, past, six, months, org, users’, attempts, verify, their, identity, API, 36.0]
 ---
-
-# VerificationHistory
 
 > Represents the past six months of your org users’ attempts to verify
 			their identity. This object is available in API version 36.0 and later.

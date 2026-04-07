@@ -5,12 +5,10 @@ topic: create-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:34.771Z
+lastCollected: 2026-04-07T18:36:19.993Z
 estimatedTokens: 323
-keywords: [Record, sObject, Basic, resource, new, records, supply, data, send, POST, HTTP, call, successful]
+keywords: [Record, sObject, Basic, resource, new, records, supply, send, POST, HTTP, call, successful]
 ---
-
-# Create a Record
 
 > Use the sObject Basic Information resource to create new records. You
             supply the required field values in the request data, and send the request using the

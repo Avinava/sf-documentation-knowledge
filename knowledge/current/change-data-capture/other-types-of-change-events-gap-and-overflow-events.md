@@ -6,13 +6,10 @@ topic: other-types-of-change-events-gap-and-overflow-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:18.639Z
+lastCollected: 2026-04-07T18:37:05.389Z
 estimatedTokens: 226
-keywords: [Change, Events, Gap, Overflow, provided, handle, special, situations, capturing, changes, caught, Salesforce, application, servers, handling]
+keywords: [Change, Events, Gap, Overflow, provided, handle, situations, capturing, changes, caught, Salesforce, application, servers, handling, high, loads]
 ---
-
-# Other Types of Change Events: Gap and Overflow
-    Events
 
 > Other types of change events are provided to handle special situations, such as
     capturing changes not caught in the Salesforce application servers, or handling high loads of

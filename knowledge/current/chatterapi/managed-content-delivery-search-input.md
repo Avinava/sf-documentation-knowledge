@@ -5,12 +5,10 @@ topic: managed-content-delivery-search-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:22.142Z
+lastCollected: 2026-04-07T18:37:08.917Z
 estimatedTokens: 259
-keywords: [Managed, Content, Delivery, Search, Input, channel]
+keywords: [Managed, Content, Delivery, Search, channel]
 ---
-
-# Managed Content Delivery Search Input
 
 > Search managed content in a channel.
 

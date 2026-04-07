@@ -5,12 +5,10 @@ topic: email-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:08.530Z
+lastCollected: 2026-04-07T18:35:53.487Z
 estimatedTokens: 2383
-keywords: [Email, Engagement, DMO, Data, Cloud, model, captured, various, sources, channel, API, Category, Primary, Subject, Area]
+keywords: [Category, Relationships, Email, Engagement, DMO, Cloud, model, captured, various, sources, channel, API, Primary, Subject, Area, Key]
 ---
-
-# Email Engagement DMO
 
 > The Email Engagement DMO is a Data Cloud data model object (DMO) for data
       captured from various data sources about engagement in the Email channel.

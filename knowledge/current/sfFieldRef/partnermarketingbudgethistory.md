@@ -5,12 +5,10 @@ topic: partnermarketingbudgethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:57.389Z
+lastCollected: 2026-04-07T18:39:51.804Z
 estimatedTokens: 273
-keywords: [PartnerMarketingBudgetHistory, History, tracked, PartnerMarketingBudget]
+keywords: [PartnerMarketingBudgetHistory, tracked, PartnerMarketingBudget]
 ---
-
-# PartnerMarketingBudgetHistory
 
 > History for tracked fields of PartnerMarketingBudget.
 

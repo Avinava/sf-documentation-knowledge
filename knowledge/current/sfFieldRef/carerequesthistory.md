@@ -5,12 +5,10 @@ topic: carerequesthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:38.561Z
+lastCollected: 2026-04-07T18:39:32.953Z
 estimatedTokens: 258
-keywords: [CareRequestHistory, History, tracked, CareRequest]
+keywords: [CareRequestHistory, tracked, CareRequest]
 ---
-
-# CareRequestHistory
 
 > History for tracked fields of CareRequest.
 

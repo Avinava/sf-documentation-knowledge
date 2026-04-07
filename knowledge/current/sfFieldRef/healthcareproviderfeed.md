@@ -5,12 +5,10 @@ topic: healthcareproviderfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.137Z
+lastCollected: 2026-04-07T18:39:43.763Z
 estimatedTokens: 362
-keywords: [HealthcareProviderFeed, Feed, tracking, HealthcareProvider]
+keywords: [HealthcareProviderFeed, HealthcareProvider]
 ---
-
-# HealthcareProviderFeed
 
 > Feed tracking for HealthcareProvider.
 

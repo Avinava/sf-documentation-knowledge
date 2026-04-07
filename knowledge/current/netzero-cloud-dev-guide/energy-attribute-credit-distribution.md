@@ -5,12 +5,10 @@ topic: energy-attribute-credit-distribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:26.629Z
+lastCollected: 2026-04-07T18:38:17.200Z
 estimatedTokens: 173
 keywords: [Energy, Attribute, Credit, Distribution, junction, credits, stationary, asset, indicating, quantity, distributed, specific]
 ---
-
-# Energy Attribute Credit Distribution
 
 > The Energy Attribute Credit Distribution object represents a junction between energy
     attribute credits and stationary asset energy use indicating the quantity of credits distributed

@@ -5,12 +5,10 @@ topic: working-with-approval-processes-and-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.450Z
+lastCollected: 2026-04-07T18:36:21.695Z
 estimatedTokens: 580
-keywords: [Working, Approval, Processes, Process, Rules, examples, REST, API, resources, work]
+keywords: [Working, Approval, Processes, Process, examples, REST, API, resources, work]
 ---
-
-# Working with Approval Processes and Process Rules
 
 > The examples in this section use REST API resources to work with approval processes and
   process rules.

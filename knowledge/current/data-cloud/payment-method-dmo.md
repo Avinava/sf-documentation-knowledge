@@ -5,12 +5,10 @@ topic: payment-method-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:09.363Z
+lastCollected: 2026-04-07T18:35:54.411Z
 estimatedTokens: 1386
-keywords: [Payment, DMO, way, customer, pays, transaction, API, Category, Primary, Subject, Area, Key, Label, Relationships]
+keywords: [Category, Relationships, Payment, DMO, way, customer, pays, transaction, API, Primary, Subject, Area, Key, Label]
 ---
-
-# Payment Method DMO
 
 > Represents the way a customer pays for a transaction.
 

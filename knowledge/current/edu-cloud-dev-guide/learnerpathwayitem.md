@@ -5,12 +5,10 @@ topic: learnerpathwayitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.188Z
+lastCollected: 2026-04-07T18:37:31.318Z
 estimatedTokens: 1145
-keywords: [LearnerPathwayItem, requirement, completion, Learner, Pathway, API, version, 61.0, later, Calls, Associated, Objects]
+keywords: [LearnerPathwayItem, requirement, completion, Learner, Pathway, API, 61.0]
 ---
-
-# LearnerPathwayItem
 
 > Represents a requirement with completion details in the Learner Pathway.
       This object is available in API version 61.0 and later.

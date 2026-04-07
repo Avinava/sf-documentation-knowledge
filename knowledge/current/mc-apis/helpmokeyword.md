@@ -5,12 +5,10 @@ topic: helpmokeyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:22.353Z
+lastCollected: 2026-04-07T18:40:17.520Z
 estimatedTokens: 532
-keywords: [HelpMOKeyword, actions, associated, HELP, SMS, keyword, account, Items]
+keywords: [HelpMOKeyword, actions, HELP, SMS, keyword, account, Items]
 ---
-
-# HelpMOKeyword
 
 > The HelpMOKeyword object defines actions associated with the HELP SMS keyword for an account.
 

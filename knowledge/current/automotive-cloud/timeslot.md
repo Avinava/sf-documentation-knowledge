@@ -5,12 +5,10 @@ topic: timeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:06.862Z
+lastCollected: 2026-04-07T18:36:53.230Z
 estimatedTokens: 731
-keywords: [TimeSlot, period, time, day, week, appointment, scheduled, API, version, 58.0, later, Calls, Special, Access, Rules]
+keywords: [TimeSlot, period, time, day, week, appointment, scheduled, API, 58.0]
 ---
-
-# TimeSlot
 
 > Represents a period of time on a specified day of the week during which an
          appointment can be scheduled. This object is available in API version 58.0 and

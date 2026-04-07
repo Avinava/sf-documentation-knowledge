@@ -5,12 +5,10 @@ topic: announcements-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:24.509Z
+lastCollected: 2026-04-07T18:37:11.279Z
 estimatedTokens: 1017
 keywords: [Announcements, Resources, parent, announcement]
 ---
-
-# Announcements Resources
 
 > Get the announcements for the specified parent or create an
       announcement. Also get information about, update, or delete an announcement.

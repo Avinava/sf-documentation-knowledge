@@ -5,12 +5,10 @@ topic: insufficient-access-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:40.314Z
+lastCollected: 2026-04-07T18:38:31.142Z
 estimatedTokens: 1567
-keywords: [Insufficient, Access, Event, events, contain, errors, relating, account, case, contact, opportunity, record, troubleshoot, resolve, issues]
+keywords: [Insufficient, Event, events, contain, errors, relating, account, case, contact, opportunity, record, troubleshoot, resolve, issues, users]
 ---
-
-# Insufficient Access Event Type
 
 > Insufficient Access events contain details about errors relating to
          insufficient account, case, contact, and opportunity record access, so that you can

@@ -5,12 +5,10 @@ topic: object-input-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:58.506Z
+lastCollected: 2026-04-07T18:35:43.408Z
 estimatedTokens: 194
-keywords: [Input, Map, representation, sObject, record, key-value]
+keywords: [Map, sObject, record, key-value]
 ---
-
-# Object Input Map
 
 > Input representation of an sObject record in a key-value map format.
 

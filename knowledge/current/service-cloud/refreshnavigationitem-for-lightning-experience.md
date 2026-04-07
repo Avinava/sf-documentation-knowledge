@@ -5,12 +5,10 @@ topic: refreshnavigationitem-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:03.838Z
+lastCollected: 2026-04-07T18:36:50.020Z
 estimatedTokens: 228
-keywords: [refreshNavigationItem, Lightning, Experience, Refreshes, selected, navigation, object's, home, Typically, standard, custom, objects, open, view, split]
+keywords: [Arguments, refreshNavigationItem, Lightning, Experience, Refreshes, selected, navigation, object's, home, Typically, standard, open, view, split, it's, refreshed, works, console, apps, Sample, Code]
 ---
-
-# refreshNavigationItem() for Lightning Experience
 
 > Refreshes the selected navigation object's home page. Typically, standard and custom
         objects open the object's list view. If split view is open, it's refreshed. This method

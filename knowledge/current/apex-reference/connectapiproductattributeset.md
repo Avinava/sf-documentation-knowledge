@@ -5,12 +5,10 @@ topic: connectapiproductattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.665Z
+lastCollected: 2026-04-07T18:36:10.939Z
 estimatedTokens: 105
-keywords: [ConnectApi.ProductAttributeSet, Product, attribute, data]
+keywords: [ConnectApi.ProductAttributeSet, Product, attribute]
 ---
-
-# ConnectApi.ProductAttributeSet
 
 > Product attribute set data.
 

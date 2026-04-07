@@ -5,12 +5,10 @@ topic: story-day-of-week-field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.531Z
+lastCollected: 2026-04-07T18:37:00.020Z
 estimatedTokens: 147
-keywords: [Story, Day, Week, data]
+keywords: [Story, Day, Week]
 ---
-
-# Story Day of Week Field Value
 
 > The story data day of week property.
 

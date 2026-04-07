@@ -5,12 +5,10 @@ topic: provider-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:12.045Z
+lastCollected: 2026-04-07T18:39:05.056Z
 estimatedTokens: 157
-keywords: [Provider, Management, Data, Model, objects, relationships, Sector, Solutions]
+keywords: [Provider, Management, Model, relationships, Sector, Solutions]
 ---
-
-# Provider Management Data Model
 
 > Learn about the objects and relationships used for provider management in Public Sector
   Solutions.

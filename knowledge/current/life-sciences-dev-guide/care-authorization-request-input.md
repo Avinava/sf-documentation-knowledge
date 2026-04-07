@@ -5,12 +5,10 @@ topic: care-authorization-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:05.524Z
+lastCollected: 2026-04-07T18:37:54.850Z
 estimatedTokens: 514
-keywords: [Care, Authorization, Input]
+keywords: [Care, Authorization]
 ---
-
-# Care Authorization Request Input
 
 > A complete care authorization request.
 

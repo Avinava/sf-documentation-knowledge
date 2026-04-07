@@ -5,13 +5,11 @@ topic: insurance-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:03.645Z
+lastCollected: 2026-04-07T18:37:52.845Z
 estimatedTokens: 163
 namespace: The
 keywords: [Insurance, Apex, built-in, classes, grouped]
 ---
-
-# Insurance Apex Reference
 
 > Use built-in Apex classes grouped by namespace.
 

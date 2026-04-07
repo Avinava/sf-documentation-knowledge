@@ -5,12 +5,10 @@ topic: other-widgets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.949Z
+lastCollected: 2026-04-07T18:36:54.320Z
 estimatedTokens: 1991
-keywords: [Widgets, Hello, World, simplified, scenario, common, real, cases, custom, data, visualization, selection, widget, better, practice]
+keywords: [Widgets, Hello, World, simplified, scenario, common, real, cases, visualization, selection, widget, better, practice, add, anything, want, third-party, integration, hierarchy, check, GitHub, repository, Examples, TDX, Gantt, Chart, Demo, Word, Cloud]
 ---
-
-# Other Widgets
 
 > The Hello World example is a simplified scenario. The most common real world use cases
     are a custom data visualization, a selection widget, or even better, a widget that does both.

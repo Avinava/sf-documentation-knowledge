@@ -5,12 +5,10 @@ topic: productfulfillmentscenario
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:05.156Z
+lastCollected: 2026-04-07T18:35:50.087Z
 estimatedTokens: 994
-keywords: [ProductFulfillmentScenario, link, product, corresponding, group, fulfillment, steps, that's, necessary, fulfill, API, version, 61.0, later, Calls]
+keywords: [ProductFulfillmentScenario, link, product, corresponding, group, fulfillment, steps, that's, necessary, fulfill, API, 61.0]
 ---
-
-# ProductFulfillmentScenario
 
 > Represents a link between a product and the corresponding group of
          fulfillment steps that's necessary to fulfill that product. This object is available

@@ -5,12 +5,10 @@ topic: productcomponentgrpoverridehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:01.021Z
+lastCollected: 2026-04-07T18:39:55.592Z
 estimatedTokens: 280
-keywords: [ProductComponentGrpOverrideHistory, History, tracked, ProductComponentGrpOverride]
+keywords: [ProductComponentGrpOverrideHistory, tracked, ProductComponentGrpOverride]
 ---
-
-# ProductComponentGrpOverrideHistory
 
 > History for tracked fields of ProductComponentGrpOverride.
 

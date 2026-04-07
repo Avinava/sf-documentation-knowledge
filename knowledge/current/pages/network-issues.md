@@ -5,12 +5,10 @@ topic: network-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:00.573Z
+lastCollected: 2026-04-07T18:38:52.883Z
 estimatedTokens: 94
 keywords: [Network, Issues, affect, connectivity, Salesforce, mobile, app]
 ---
-
-# Network Issues
 
 > Network issues affect the connectivity of the Salesforce mobile app.
 

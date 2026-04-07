@@ -5,12 +5,10 @@ topic: related-list-user-preferences-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.862Z
+lastCollected: 2026-04-07T18:40:10.834Z
 estimatedTokens: 239
-keywords: [User, Preferences, Input]
+keywords: [User, Preferences]
 ---
-
-# Related List User Preferences Input
 
 > User preferences to update for a related list.
 

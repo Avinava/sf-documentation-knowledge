@@ -5,12 +5,10 @@ topic: creating-server-side-logic-with-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:13.670Z
+lastCollected: 2026-04-07T18:38:03.727Z
 estimatedTokens: 1179
-keywords: [Creating, Server-Side, Logic, Controllers, framework, supports, client-side, JavaScript, Apex, event, always, wired, controller, action, turn]
+keywords: [Creating, Server-Side, Logic, Controllers, framework, supports, client-side, JavaScript, Apex, event, always, wired, controller, action, turn, call, handle, persist, record]
 ---
-
-# Creating Server-Side Logic with Controllers
 
 > The framework supports client-side (JavaScript) and server-side (Apex) controllers. An
     event is always wired to a client-side controller action, which can in turn call an Apex

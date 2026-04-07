@@ -5,12 +5,10 @@ topic: slack-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:11.148Z
+lastCollected: 2026-04-07T18:36:57.696Z
 estimatedTokens: 64
 keywords: [Slack, entity]
 ---
-
-# Slack Reference
 
 > The reference for a Slack entity.
 

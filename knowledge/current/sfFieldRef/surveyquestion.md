@@ -5,12 +5,10 @@ topic: surveyquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.560Z
+lastCollected: 2026-04-07T18:40:03.249Z
 estimatedTokens: 327
 keywords: [SurveyQuestion, question, survey]
 ---
-
-# SurveyQuestion
 
 > Represents a question in a survey.
 

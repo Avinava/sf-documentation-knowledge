@@ -5,12 +5,10 @@ topic: positionqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:32.451Z
+lastCollected: 2026-04-07T18:38:23.347Z
 estimatedTokens: 962
-keywords: [PositionQualification, position-based, qualification, API, version, 64.0, later, Calls, Special, Access, Rules, Usage, Associated, Objects]
+keywords: [PositionQualification, position-based, qualification, API, 64.0]
 ---
-
-# PositionQualification
 
 > Represents a position-based qualification.  This object is
       available in API version 64.0 and later.

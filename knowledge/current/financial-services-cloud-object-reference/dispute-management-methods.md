@@ -5,12 +5,10 @@ topic: dispute-management-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:47.655Z
+lastCollected: 2026-04-07T18:37:35.283Z
 estimatedTokens: 105
 keywords: [Dispute, Management, IDisputeManagementConnectFamily, Financial, Services, Cloud]
 ---
-
-# Dispute Management Methods
 
 > These are ﻿IDisputeManagementConnectFamily
     methods for Financial Services Cloud.

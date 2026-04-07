@@ -5,12 +5,10 @@ topic: appointmentscheduleaggr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:32.746Z
+lastCollected: 2026-04-07T18:39:26.703Z
 estimatedTokens: 379
-keywords: [AppointmentScheduleAggr, Records, utilization, service, resource, date, Load, Balancing, appointment, assignment, policy, API, version, 52.0, later]
+keywords: [AppointmentScheduleAggr, Records, utilization, service, resource, date, Load, Balancing, appointment, assignment, policy, API, 52.0]
 ---
-
-# AppointmentScheduleAggr
 
 > Records the utilization of a service resource, by date, for the Load Balancing appointment assignment policy. This object is available in API version 52.0 and
 		later.

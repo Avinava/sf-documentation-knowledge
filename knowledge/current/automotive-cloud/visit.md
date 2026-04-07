@@ -5,12 +5,10 @@ topic: visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.027Z
+lastCollected: 2026-04-07T18:36:53.378Z
 estimatedTokens: 1419
-keywords: [Visit, manager, schedules, rep, perform, usually, dealer, locations, Automotive, Cloud, API, version, 56.0, later, Calls]
+keywords: [Visit, manager, schedules, rep, perform, usually, dealer, locations, Automotive, Cloud, API, 56.0]
 ---
-
-# Visit
 
 > Represents information about a visit that a manager schedules for a field rep
          to perform, usually at dealer locations. This object is available in Automotive Cloud

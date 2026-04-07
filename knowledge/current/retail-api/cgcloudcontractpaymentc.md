@@ -5,12 +5,10 @@ topic: cgcloudcontractpaymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.747Z
+lastCollected: 2026-04-07T18:39:13.160Z
 estimatedTokens: 1985
-keywords: [cgcloud__Contract_Payment__c, Stores, contract, payment, track, customer, requests, agreed, via, API, version, 54.0, later, cgcloud, _Contract]
+keywords: [cgcloud__Contract_Payment__c, Stores, contract, payment, track, customer, requests, agreed, via, API, 54.0, cgcloud, _Contract, _Payment]
 ---
-
-# cgcloud__Contract_Payment__c
 
 > Stores the details of the contract payment object. With this object,
          you can track the types of customer payment requests that are agreed via a contract.

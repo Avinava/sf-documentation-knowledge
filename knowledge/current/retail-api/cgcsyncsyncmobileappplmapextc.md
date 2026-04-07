@@ -5,12 +5,10 @@ topic: cgcsyncsyncmobileappplmapextc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:19.090Z
+lastCollected: 2026-04-07T18:39:12.553Z
 estimatedTokens: 822
-keywords: [cgc_sync__Sync_Mobile_App_PL_Map_Ext__c, mapping, picklists, dropdown, boxes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App]
+keywords: [cgc_sync__Sync_Mobile_App_PL_Map_Ext__c, mapping, picklists, dropdown, boxes, mobile, app, API, 53.0, cgc, _sync, _Mobile, _App, _PL, _Map, _Ext]
 ---
-
-# cgc_sync__Sync_Mobile_App_PL_Map_Ext__c
 
 > Contains the mapping information of picklists and dropdown boxes in
          the mobile app. This object is available in API version 53.0 and later.

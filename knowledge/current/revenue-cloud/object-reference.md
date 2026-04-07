@@ -5,12 +5,10 @@ topic: object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:01.056Z
+lastCollected: 2026-04-07T18:35:46.013Z
 estimatedTokens: 190
-keywords: [Output, representation, sObject, along, any, potential, error]
+keywords: [sObject, along, any, potential, error]
 ---
-
-# Object Reference
 
 > Output representation of an sObject with a reference ID along with any potential
     error.

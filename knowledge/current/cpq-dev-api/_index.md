@@ -2,7 +2,7 @@
 domain: cpq-dev-api
 name: Salesforce CPQ Developer Guide
 documentCount: 79
-lastGenerated: 2026-04-07T09:06:36.384Z
+lastGenerated: 2026-04-07T18:40:41.749Z
 ---
 
 # Salesforce CPQ Developer Guide — Knowledge Index

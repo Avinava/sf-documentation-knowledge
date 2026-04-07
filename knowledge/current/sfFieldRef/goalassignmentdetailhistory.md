@@ -5,12 +5,10 @@ topic: goalassignmentdetailhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:48.300Z
+lastCollected: 2026-04-07T18:39:42.880Z
 estimatedTokens: 270
-keywords: [GoalAssignmentDetailHistory, History, tracked, GoalAssignmentDetail]
+keywords: [GoalAssignmentDetailHistory, tracked, GoalAssignmentDetail]
 ---
-
-# GoalAssignmentDetailHistory
 
 > History for tracked fields of GoalAssignmentDetail.
 

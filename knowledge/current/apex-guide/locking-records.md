@@ -5,12 +5,10 @@ topic: locking-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:34.375Z
+lastCollected: 2026-04-07T18:36:19.593Z
 estimatedTokens: 202
-keywords: [Locking, Records, sObject, record, locked, client, user, allowed, updates, either, code, Salesforce, perform, logic, guarantee]
+keywords: [Locking, Records, sObject, record, locked, client, user, allowed, updates, either, code, Salesforce, perform, logic, guarantee, won’t, changed, another, lock, period]
 ---
-
-# Locking Records
 
 > When an sObject record is locked, no other client or user is allowed to make updates
         either through code or the Salesforce user interface. The client locking the records can

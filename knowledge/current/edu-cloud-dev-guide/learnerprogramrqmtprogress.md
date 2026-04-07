@@ -5,12 +5,10 @@ topic: learnerprogramrqmtprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:44.248Z
+lastCollected: 2026-04-07T18:37:31.377Z
 estimatedTokens: 833
-keywords: [LearnerProgramRqmtProgress, progress, requirement, learner, part, assigned, program, plan, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearnerProgramRqmtProgress, progress, requirement, learner, part, assigned, program, plan, API, 57.0]
 ---
-
-# LearnerProgramRqmtProgress
 
 > Represents information about the progress of a requirement that a learner is
          required to complete as a part of the assigned program plan. This object is available

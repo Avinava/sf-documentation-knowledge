@@ -5,12 +5,10 @@ topic: salesforce-platform-development-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:59.506Z
+lastCollected: 2026-04-07T18:38:51.773Z
 estimatedTokens: 504
-keywords: [Salesforce, Platform, Development, Process, processes, developing, Lightning, Experience, mobile, app, you’re, Classic, few, differences, much]
+keywords: [Salesforce, Platform, Development, Process, processes, developing, Lightning, Experience, mobile, app, you’re, Classic, few, differences, much, familiar]
 ---
-
-# Salesforce Platform Development Process
 
 > The processes used for developing in Lightning Experience and the Salesforce mobile app
   are the same. If you’re used to developing for Salesforce Classic, the development process for

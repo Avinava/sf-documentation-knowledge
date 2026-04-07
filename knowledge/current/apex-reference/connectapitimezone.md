@@ -5,12 +5,10 @@ topic: connectapitimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:26.736Z
+lastCollected: 2026-04-07T18:36:12.018Z
 estimatedTokens: 127
 keywords: [ConnectApi.TimeZone, User's, time, zone, selected, user’s, personal, settings, Salesforce, doesn’t, reflect, device's, current, location]
 ---
-
-# ConnectApi.TimeZone
 
 > User's time zone as selected in the user’s personal settings in Salesforce. This value
   doesn’t reflect a device's current location.

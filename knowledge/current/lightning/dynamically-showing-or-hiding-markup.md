@@ -5,12 +5,10 @@ topic: dynamically-showing-or-hiding-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:14.293Z
+lastCollected: 2026-04-07T18:38:04.434Z
 estimatedTokens: 511
-keywords: [Dynamically, Showing, Hiding, Markup, CSS, toggle, visibility, However, <aura, if>, preferred, approach, because, defers, creation]
+keywords: [Dynamically, Showing, Hiding, Markup, CSS, toggle, visibility, However, <aura, if>, preferred, approach, because, defers, creation, rendering, enclosed, tree, until, needed]
 ---
-
-# Dynamically Showing or Hiding Markup
 
 > You can use CSS to toggle markup visibility. However, <aura:if> is the preferred approach because it defers the creation and
         rendering of the enclosed element tree until needed.

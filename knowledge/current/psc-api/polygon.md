@@ -5,12 +5,10 @@ topic: polygon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.148Z
+lastCollected: 2026-04-07T18:39:07.357Z
 estimatedTokens: 661
-keywords: [Polygon, mapping, data, stored, blob, API, version, 50.0, later, Calls, Associated, Objects]
+keywords: [Polygon, mapping, stored, blob, API, 50.0]
 ---
-
-# Polygon
 
 > Represents a polygon with the polygon mapping data stored as a blob. This
     object is available in API version 50.0 and later.

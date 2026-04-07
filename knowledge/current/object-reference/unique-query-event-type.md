@@ -5,12 +5,10 @@ topic: unique-query-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:40.835Z
+lastCollected: 2026-04-07T18:38:31.708Z
 estimatedTokens: 442
-keywords: [Unique, Query, Event, events, capture, specific, search, queries, SOQL, filter, IDs, report, processed, along, underlying]
+keywords: [Unique, Query, Event, events, capture, specific, search, queries, SOQL, filter, IDs, report, processed, along, underlying, database, SQL, API, versions, 64.0]
 ---
-
-# Unique Query Event Type
 
 > Unique Query events capture specific search queries (SOQL), filter
          IDs, and report IDs that are processed, along with the underlying database queries (SQL).

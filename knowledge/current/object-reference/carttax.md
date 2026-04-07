@@ -5,12 +5,10 @@ topic: carttax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.536Z
+lastCollected: 2026-04-07T18:38:27.531Z
 estimatedTokens: 878
-keywords: [CartTax, taxes, line, item, WebCart, that’s, active, store, built, B2B, Commerce, D2C, API, version, 49.0]
+keywords: [CartTax, taxes, line, item, WebCart, that’s, active, store, built, B2B, Commerce, D2C, API, 49.0]
 ---
-
-# CartTax
 
 > Represents taxes for a line item in a WebCart
          that’s active in a store built with B2B Commerce or D2C Commerce. This object is

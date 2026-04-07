@@ -5,12 +5,10 @@ topic: summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:24.251Z
+lastCollected: 2026-04-07T18:39:17.928Z
 estimatedTokens: 160
-keywords: [Summary, Salesforce, platform, robust, environment, native, custom, applications, scale, large, volumes, data, quickly, continuing, perform]
+keywords: [Summary, Salesforce, platform, robust, environment, native, applications, scale, large, volumes, quickly, continuing, perform, well]
 ---
-
-# Summary
 
 > The Salesforce platform is a robust environment in which native and custom
 applications can scale to large volumes of data very quickly while

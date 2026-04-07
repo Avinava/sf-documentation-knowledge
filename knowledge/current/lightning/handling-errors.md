@@ -5,12 +5,10 @@ topic: handling-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:13.769Z
+lastCollected: 2026-04-07T18:38:03.855Z
 estimatedTokens: 791
-keywords: [Handling, Errors, Lightning, Data, Service, error, resource, record, inaccessible, server, Handle, Form-Based, Components, force, recordData]
+keywords: [Handling, Errors, Lightning, Service, error, resource, record, inaccessible, server, Handle, Form-Based, force, recordData]
 ---
-
-# Handling Errors
 
 > Lightning Data Service returns an error when a resource, such as a record or an object,
     is inaccessible on the server.

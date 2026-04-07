@@ -5,12 +5,10 @@ topic: time-series-input-confidence-interval-high-low
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:25.041Z
+lastCollected: 2026-04-07T18:39:18.780Z
 estimatedTokens: 100
-keywords: [Time, Series, Input, Confidence, Interval, High, Low, recipe, node]
+keywords: [Time, Series, Confidence, Interval, High, Low, recipe, node]
 ---
-
-# Time Series Input Confidence Interval High Low
 
 > A confidence interval for a time series recipe node.
 

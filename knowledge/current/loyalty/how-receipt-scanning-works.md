@@ -5,12 +5,10 @@ topic: how-receipt-scanning-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:18.897Z
+lastCollected: 2026-04-07T18:38:09.193Z
 estimatedTokens: 384
-keywords: [How, Receipt, Scanning, Works, Integrate, Loyalty, Management, enhance, brand’s, member, experience, streamline, members, earn, points]
+keywords: [How, Receipt, Scanning, Works, Integrate, Loyalty, Management, enhance, brand’s, member, experience, streamline, members, earn, points, their, store, purchases, workflow, designed, automatically, extract, organize, essential, scanned, receipts, reward]
 ---
-
-# How Receipt Scanning Works
 
 > Integrate Loyalty Management with receipt scanning to enhance your brand’s member
     experience and streamline how members can earn loyalty points for their store purchases. The

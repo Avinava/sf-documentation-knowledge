@@ -5,13 +5,11 @@ topic: pushnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.773Z
+lastCollected: 2026-04-07T18:39:09.089Z
 estimatedTokens: 117
 namespace: Messaging
 keywords: [PushNotification, configure, push, notifications, send, Apex, trigger]
 ---
-
-# PushNotification Class
 
 > PushNotification is used to
    configure push notifications and send them from an Apex trigger.

@@ -5,12 +5,10 @@ topic: stnryassetannualfactfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.074Z
+lastCollected: 2026-04-07T18:40:02.754Z
 estimatedTokens: 363
-keywords: [StnryAssetAnnualFactFeed, Feed, tracking, StnryAssetAnnualFact]
+keywords: [StnryAssetAnnualFactFeed, StnryAssetAnnualFact]
 ---
-
-# StnryAssetAnnualFactFeed
 
 > Feed tracking for StnryAssetAnnualFact.
 

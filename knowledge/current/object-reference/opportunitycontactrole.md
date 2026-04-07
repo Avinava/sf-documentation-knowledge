@@ -5,12 +5,10 @@ topic: opportunitycontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:45.258Z
+lastCollected: 2026-04-07T18:38:36.432Z
 estimatedTokens: 1182
-keywords: [OpportunityContactRole, role, Contact, plays, Opportunity, Calls, Usage, Associated, Objects]
+keywords: [OpportunityContactRole, role, Contact, plays, Opportunity]
 ---
-
-# OpportunityContactRole
 
 > Represents the role that a Contact
    plays on an Opportunity.

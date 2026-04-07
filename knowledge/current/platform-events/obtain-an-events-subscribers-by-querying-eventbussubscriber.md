@@ -5,12 +5,10 @@ topic: obtain-an-events-subscribers-by-querying-eventbussubscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:05.048Z
+lastCollected: 2026-04-07T18:38:57.890Z
 estimatedTokens: 117
 keywords: [Obtain, Event’s, Subscribers, Querying, EventBusSubscriber, standard, trigger, process, platform, events, query, SOQL]
 ---
-
-# Obtain an Event’s Subscribers by Querying EventBusSubscriber
 
 > The EventBusSubscriber standard object contains information about the trigger and process
   subscribers of all platform events. You can query this object using SOQL.

@@ -5,13 +5,11 @@ topic: schedulable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.238Z
+lastCollected: 2026-04-07T18:36:13.541Z
 estimatedTokens: 316
 namespace: System
 keywords: [Schedulable, implements, scheduled, run, different, intervals, execute, context]
 ---
-
-# Schedulable Interface
 
 > The class that implements this interface can be scheduled
 to run at different intervals.

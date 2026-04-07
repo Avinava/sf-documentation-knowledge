@@ -5,12 +5,10 @@ topic: translation-of-sdk-events-to-web-connector-schemas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:06.912Z
+lastCollected: 2026-04-07T18:35:51.765Z
 estimatedTokens: 7065
-keywords: [Translation, SDK, Events, Web, Connector, Schemas, Understanding, how, Event, Structure, Salesforce, Interactions, converted, data, ingested]
+keywords: [Translation, SDK, Events, Web, Connector, Schemas, Understanding, how, Event, Structure, Salesforce, Interactions, converted, ingested, Cloud, useful, troubleshooting, instrumentation, code, Knowing, extend, schema, capture, extra, covered, recommended, Automatic, Population, Cart, Interaction, Mapping, Catalog, Order, Consent, Profile, Contact, Point, Email, Phone, Identity, Party, Identification]
 ---
-
-# Translation of SDK Events to Web Connector Schemas
 
 > Understanding how the Event Structure from the Salesforce Interactions SDK is converted
   into data that can be ingested into Data Cloud can be useful for troubleshooting

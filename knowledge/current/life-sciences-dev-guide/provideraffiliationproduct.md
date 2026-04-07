@@ -5,12 +5,10 @@ topic: provideraffiliationproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.552Z
+lastCollected: 2026-04-07T18:38:01.409Z
 estimatedTokens: 1020
-keywords: [ProviderAffiliationProduct, relationship, two, healthcare, professionals, influences, regarding, product, API, version, 65.0, later, Calls, Associated, Objects]
+keywords: [ProviderAffiliationProduct, relationship, two, healthcare, professionals, influences, regarding, product, API, 65.0]
 ---
-
-# ProviderAffiliationProduct
 
 > Represents the relationship between two healthcare professionals, where one
          influences the other regarding a product. This object is available in API version 65.0

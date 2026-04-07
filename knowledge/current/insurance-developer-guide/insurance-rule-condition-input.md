@@ -5,12 +5,10 @@ topic: insurance-rule-condition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:02.206Z
+lastCollected: 2026-04-07T18:37:51.156Z
 estimatedTokens: 225
-keywords: [Insurance, Rule, Condition, Input, representation]
+keywords: [Insurance, Rule, Condition]
 ---
-
-# Insurance Rule Condition Input
 
 > Input representation details of insurance rule condition.
 

@@ -5,12 +5,10 @@ topic: rate-limiting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.241Z
+lastCollected: 2026-04-07T18:40:18.444Z
 estimatedTokens: 521
-keywords: [Rate, Limiting, Marketing, Cloud, reserves, right, throttle, SOAP, API, calls, specific, customer, cause, slowed, system]
+keywords: [Rate, Limiting, Marketing, Cloud, reserves, right, throttle, SOAP, API, specific, customer, cause, slowed, system, performance, throttling, depends, necessary, stabilize, operations, occurs, business, unit, user, causing, issue, receives, HTT, Sample, HTTP, Error, Payload]
 ---
-
-# Rate Limiting
 
 > Marketing Cloud reserves the right to throttle SOAP API calls from a specific customer when those API calls cause slowed system performance. The throttling rate depends on the rate necessary to stabilize operations. If this throttling occurs, the business unit or user causing this issue receives HTT
 

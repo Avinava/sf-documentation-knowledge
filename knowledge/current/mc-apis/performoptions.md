@@ -5,12 +5,10 @@ topic: performoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.941Z
+lastCollected: 2026-04-07T18:40:18.127Z
 estimatedTokens: 332
 keywords: [PerformOptions, options, Perform, call]
 ---
-
-# PerformOptions
 
 > The PerformOptions object contains the default options of the Perform call.
 

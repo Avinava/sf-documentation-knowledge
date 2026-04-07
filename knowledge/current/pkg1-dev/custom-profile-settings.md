@@ -5,12 +5,10 @@ topic: custom-profile-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.805Z
+lastCollected: 2026-04-07T18:38:54.185Z
 estimatedTokens: 503
-keywords: [Custom, Profile, Settings, profiles, define, how, users, access, objects, data, they, app, specify, permissions, tab]
+keywords: [Profile, Settings, profiles, define, how, users, they, app, specify, permissions, tab, visibility, installing, upgrading, admins, associate, non-standard, new, created, part, install, upgrade, added, security, standard, installer’s, organization, unaffected]
 ---
-
-# Custom Profile Settings
 
 > Create profiles to define how users access objects and data, and what they can do within
   your app. For example, profiles specify custom object permissions and the tab visibility for your

@@ -5,12 +5,10 @@ topic: story-version-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.701Z
+lastCollected: 2026-04-07T18:37:00.209Z
 estimatedTokens: 112
-keywords: [Story, Version, basic, Einstein, Discovery]
+keywords: [Story, basic, Einstein, Discovery]
 ---
-
-# Story Version Reference
 
 > The basic information for an Einstein Discovery story version.
 

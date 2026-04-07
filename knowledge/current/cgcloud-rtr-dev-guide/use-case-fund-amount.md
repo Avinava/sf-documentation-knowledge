@@ -5,12 +5,10 @@ topic: use-case-fund-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.365Z
+lastCollected: 2026-04-07T18:37:05.091Z
 estimatedTokens: 659
-keywords: [Case, Fund, Amount, stores, Salesforce, show, particular, category, brand, fetch, database, custom, data, sources, Prerequisites]
+keywords: [Prerequisites, Case, Fund, Amount, stores, Salesforce, show, particular, category, brand, fetch, database, sources, Report, Configuration, Apex, Classes]
 ---
-
-# Use Case: Fund Amount
 
 > The Fund object stores the fund amount in Salesforce. To show a fund amount for a
     particular category or brand, fetch it from the Salesforce database by using custom data

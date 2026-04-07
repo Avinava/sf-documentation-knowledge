@@ -5,12 +5,10 @@ topic: create-criteria-based-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:29.109Z
+lastCollected: 2026-04-07T18:39:23.043Z
 estimatedTokens: 1299
-keywords: [Criteria-Based, Sharing, Rules, rule, determines, share, records]
+keywords: [Criteria-Based, Sharing, rule, determines, share, records]
 ---
-
-# Create Criteria-Based Sharing Rules
 
 > A criteria-based sharing rule determines who to share records with based on field
   values.

@@ -5,12 +5,10 @@ topic: diseaseoutbreak
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:55.497Z
+lastCollected: 2026-04-07T18:37:43.667Z
 estimatedTokens: 1532
-keywords: [DiseaseOutbreak, disease, outbreak, monitored, health, organization, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [DiseaseOutbreak, disease, outbreak, monitored, health, organization, API, 64.0]
 ---
-
-# DiseaseOutbreak
 
 > Represents a disease outbreak monitored by the public health
          organization. This object is available in API version 64.0 and later.

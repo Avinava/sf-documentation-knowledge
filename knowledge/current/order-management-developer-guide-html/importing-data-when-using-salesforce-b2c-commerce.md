@@ -5,12 +5,10 @@ topic: importing-data-when-using-salesforce-b2c-commerce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:53.628Z
+lastCollected: 2026-04-07T18:38:45.425Z
 estimatedTokens: 629
-keywords: [Importing, Data, Salesforce, B2C, Commerce, import, that’s, integration, product, shopper, keep, synchronized, Otherwise, can’t, recognize]
+keywords: [Importing, Salesforce, B2C, Commerce, import, that’s, integration, product, shopper, keep, synchronized, Otherwise, can’t, recognize, OrderSummary, ExternalReferenceIdentifier]
 ---
-
-# Importing Data When Using Salesforce B2C Commerce
 
 > If you import data that’s used by the B2C Commerce integration,
       such as product or shopper data, keep it synchronized with your B2C Commerce data. Otherwise,

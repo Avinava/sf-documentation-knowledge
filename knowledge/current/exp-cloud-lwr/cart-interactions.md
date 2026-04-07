@@ -5,12 +5,10 @@ topic: cart-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:45.962Z
+lastCollected: 2026-04-07T18:37:33.266Z
 estimatedTokens: 679
 keywords: [Cart, Interactions, interaction, occurs, customer, interacts, their, checkout, Add, Event, Remove]
 ---
-
-# Cart Interactions
 
 > A cart interaction occurs when a customer interacts with their cart or
 			checkout.

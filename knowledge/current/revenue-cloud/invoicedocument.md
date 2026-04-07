@@ -5,12 +5,10 @@ topic: invoicedocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.463Z
+lastCollected: 2026-04-07T18:35:49.413Z
 estimatedTokens: 802
-keywords: [InvoiceDocument, PDF, document, generated, invoice, API, version, 63.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [InvoiceDocument, PDF, document, generated, invoice, API, 63.0]
 ---
-
-# InvoiceDocument
 
 > Represents the PDF document generated for an invoice. This object is
       available in API version 63.0 and later.

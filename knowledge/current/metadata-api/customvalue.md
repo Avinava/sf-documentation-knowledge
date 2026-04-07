@@ -5,12 +5,10 @@ topic: customvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:38.885Z
+lastCollected: 2026-04-07T18:36:24.226Z
 estimatedTokens: 1886
-keywords: [CustomValue, definition, local, custom, picklist, unique, inherit, their, API, version, 38.0, extends, Metadata, inherits, fullName]
+keywords: [CustomValue, StandardValue, definition, local, picklist, unique, inherit, their, API, 38.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample]
 ---
-
-# CustomValue
 
 > Represents the definition of a value used in a global value
       set or local custom picklist. Custom picklist fields can be local and unique, or can inherit

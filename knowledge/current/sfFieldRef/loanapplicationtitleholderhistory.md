@@ -5,12 +5,10 @@ topic: loanapplicationtitleholderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.457Z
+lastCollected: 2026-04-07T18:39:46.939Z
 estimatedTokens: 278
-keywords: [LoanApplicationTitleHolderHistory, History, tracked, LoanApplicationTitleHolder]
+keywords: [LoanApplicationTitleHolderHistory, tracked, LoanApplicationTitleHolder]
 ---
-
-# LoanApplicationTitleHolderHistory
 
 > History for tracked fields of LoanApplicationTitleHolder.
 

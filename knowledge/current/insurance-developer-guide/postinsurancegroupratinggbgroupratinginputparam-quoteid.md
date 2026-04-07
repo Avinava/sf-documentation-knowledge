@@ -5,12 +5,10 @@ topic: postinsurancegroupratinggbgroupratinginputparam-quoteid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.572Z
+lastCollected: 2026-04-07T18:37:49.419Z
 estimatedTokens: 288
-keywords: [postInsuranceGroupRating, gbGroupRatingInputParam, quoteId, Rate, group, benefits, quote, calculate, premiums, line, items, API, Version, Requires, Chatter]
+keywords: [postInsuranceGroupRating, gbGroupRatingInputParam, quoteId, Rate, group, benefits, quote, calculate, premiums, line, items, API, Requires, Chatter]
 ---
-
-# postInsuranceGroupRating(gbGroupRatingInputParam, quoteId)
 
 > Rate a group benefits quote to calculate premiums for all quote line items.
 

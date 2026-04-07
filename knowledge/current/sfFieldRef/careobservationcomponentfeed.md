@@ -5,12 +5,10 @@ topic: careobservationcomponentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:37.530Z
+lastCollected: 2026-04-07T18:39:31.885Z
 estimatedTokens: 365
-keywords: [CareObservationComponentFeed, Feed, tracking, CareObservationComponent]
+keywords: [CareObservationComponentFeed, CareObservationComponent]
 ---
-
-# CareObservationComponentFeed
 
 > Feed tracking for CareObservationComponent.
 

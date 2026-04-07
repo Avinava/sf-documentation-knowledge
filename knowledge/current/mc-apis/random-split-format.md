@@ -5,12 +5,10 @@ topic: random-split-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:23.229Z
+lastCollected: 2026-04-07T18:40:18.431Z
 estimatedTokens: 381
-keywords: [Random, Split, activity, marketer, multiple, outcomes, contacts, randomly, siphoned, journey, cannot, custom, Helpful, Hints, #journey-specification-format]
+keywords: [Random, Split, activity, marketer, multiple, outcomes, contacts, randomly, siphoned, journey, cannot, Helpful, Hints, #journey-specification-format, Specification, Sample, Items]
 ---
-
-# Random Split Format
 
 > The random split activity allows a marketer to create a multiple outcomes that contacts are randomly siphoned within a journey. This activity type cannot be used in a custom activity.
 

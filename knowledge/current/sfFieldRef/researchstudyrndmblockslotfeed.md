@@ -5,12 +5,10 @@ topic: researchstudyrndmblockslotfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:05.445Z
+lastCollected: 2026-04-07T18:40:00.164Z
 estimatedTokens: 394
-keywords: [ResearchStudyRndmBlockSlotFeed, Feed, tracking, ResearchStudyRndmBlockSlot]
+keywords: [ResearchStudyRndmBlockSlotFeed, ResearchStudyRndmBlockSlot]
 ---
-
-# ResearchStudyRndmBlockSlotFeed
 
 > Feed tracking for ResearchStudyRndmBlockSlot.
 

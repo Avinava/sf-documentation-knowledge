@@ -5,12 +5,10 @@ topic: busoperprocregclver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.564Z
+lastCollected: 2026-04-07T18:36:44.331Z
 estimatedTokens: 619
-keywords: [BusOperProcRegClVer, junction, Business, Operations, Process, Regulation, Clause, Version, API, 65.0, later, Calls, Associated, Objects]
+keywords: [BusOperProcRegClVer, junction, Business, Operations, Process, Regulation, Clause, API, 65.0]
 ---
-
-# BusOperProcRegClVer
 
 > Represents a junction between a Business Operations Process and a Regulation
          Clause Version. This object is available in API version 65.0 and later.

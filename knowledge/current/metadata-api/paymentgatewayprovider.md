@@ -5,12 +5,10 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:42.789Z
+lastCollected: 2026-04-07T18:36:28.331Z
 estimatedTokens: 605
-keywords: [PaymentGatewayProvider, metadata, associated, payment, gateway, provider, extends, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
+keywords: [PaymentGatewayProvider, metadata, payment, gateway, provider, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# PaymentGatewayProvider
 
 > Represents the metadata associated with a payment
       gateway provider. This type extends the Metadata metadata type and inherits its fullName field.

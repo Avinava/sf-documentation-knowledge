@@ -5,12 +5,10 @@ topic: customize-second-generation-managed-package-installs-and-uninstalls-using
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:03.806Z
+lastCollected: 2026-04-07T18:38:56.391Z
 estimatedTokens: 415
-keywords: [Customize, Second-Generation, Managed, Package, Installs, Uninstalls, Scripts, 2GP, install, upgrade, specifying, Apex, post, script, run]
+keywords: [Customize, Second-Generation, Managed, Package, Installs, Uninstalls, Scripts, 2GP, install, upgrade, specifying, Apex, post, script, run, automatically, subscriber, upgrades, specify, uninstall]
 ---
-
-# Customize Second-Generation Managed Package Installs and Uninstalls Using Scripts
 
 > Customize a second-generation managed package (managed 2GP) install or upgrade by
     specifying an Apex post install script to run automatically after a subscriber installs or

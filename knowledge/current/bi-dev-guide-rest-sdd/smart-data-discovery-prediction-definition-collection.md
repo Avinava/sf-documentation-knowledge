@@ -5,12 +5,10 @@ topic: smart-data-discovery-prediction-definition-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.159Z
+lastCollected: 2026-04-07T18:36:59.650Z
 estimatedTokens: 124
-keywords: [Smart, Data, Discovery, Prediction, Definition, Collection, Einstein, definitions]
+keywords: [Smart, Discovery, Prediction, Definition, Collection, Einstein, definitions]
 ---
-
-# Smart Data Discovery Prediction Definition Collection
 
 > A collection of Einstein Discovery prediction definitions.
 

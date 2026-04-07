@@ -5,12 +5,10 @@ topic: cgcloudproductassortmentordertemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:20.948Z
+lastCollected: 2026-04-07T18:39:14.338Z
 estimatedTokens: 974
-keywords: [Stores, relationship, product, assortment, order, template, API, version, 54.0, later, cgcloud, _Product, _Assortment, _Order, _Template]
+keywords: [Stores, relationship, product, assortment, order, template, API, 54.0, cgcloud, _Product, _Assortment, _Order, _Template]
 ---
-
-# cgcloud__Product_Assortment_Order_Template__c
 
 > Stores the details of the relationship between product assortment and
          order template. This object is available in API version 54.0 and later.

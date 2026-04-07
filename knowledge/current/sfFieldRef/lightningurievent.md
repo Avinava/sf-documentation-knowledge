@@ -5,12 +5,10 @@ topic: lightningurievent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:51.691Z
+lastCollected: 2026-04-07T18:39:46.233Z
 estimatedTokens: 715
-keywords: [LightningUriEvent, Detects, user, creates, accesses, updates, deletes, record, Lightning, Experience, big, stores, event, data, LightningUriEventStream]
+keywords: [LightningUriEvent, Detects, user, creates, accesses, updates, deletes, record, Lightning, Experience, big, stores, event, LightningUriEventStream, API, 46.0]
 ---
-
-# LightningUriEvent
 
 > Detects when a user creates, accesses, updates, or deletes a record in
 			Lightning Experience only. LightningUriEvent is a big object that stores the event

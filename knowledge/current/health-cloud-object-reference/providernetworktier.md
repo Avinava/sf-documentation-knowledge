@@ -5,12 +5,10 @@ topic: providernetworktier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:59.160Z
+lastCollected: 2026-04-07T18:37:47.785Z
 estimatedTokens: 822
-keywords: [ProviderNetworkTier, unique, tiers, provider, network, API, version, 53.0, later, Management, permission, license, Calls, Associated, Objects]
+keywords: [ProviderNetworkTier, unique, tiers, provider, network, API, 53.0, Management, permission, license]
 ---
-
-# ProviderNetworkTier
 
 > Represents unique tiers for each provider network. This object is
       available in API version 53.0 and later with the Provider Network Management permission set

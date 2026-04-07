@@ -5,12 +5,10 @@ topic: batch-delete-scheduled-async-api-conversation-and-non-conversation-messag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:21.451Z
+lastCollected: 2026-04-07T18:40:16.593Z
 estimatedTokens: 1175
-keywords: [Batch, Scheduled, Async, API, Conversation, Non-Conversation, Messages, conversations, ScheduledRequest, ScheduledConversation, objects, together, Specify, element, SOAP]
+keywords: [Batch, Scheduled, Async, API, Conversation, Non-Conversation, Messages, conversations, ScheduledRequest, ScheduledConversation, together, Specify, SOAP, envelope, deletion, examples, Sample, Envelopes, Synchronous, Asynchronous, Items]
 ---
-
-# Batch Delete Scheduled Async API Conversation and Non-Conversation Messages
 
 > To delete scheduled conversations and non-conversation messages in batch, use the ScheduledRequest and ScheduledConversation objects together in the same request. Specify more than one Objects element in the body of the SOAP envelope, and format each like a single deletion request. Use the examples 
 

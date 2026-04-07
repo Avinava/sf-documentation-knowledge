@@ -5,12 +5,10 @@ topic: billing-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:57.098Z
+lastCollected: 2026-04-07T18:35:41.943Z
 estimatedTokens: 2287
-keywords: [Billing, Business, APIs, manage, credit, application, handle, scenarios, Credits, Schedules, Invoices, Invoice, Scheduler, Sequencing, Account]
+keywords: [Credits, Invoices, Payments, Billing, Business, APIs, manage, credit, application, handle, scenarios, Schedules, Invoice, Scheduler, Sequencing, Account, Statement, Tax, Calculation, Salesforce, Commerce, API]
 ---
-
-# Billing Business APIs
 
 > Use the Billing Business APIs to manage credit application and to handle billing
     scenarios.

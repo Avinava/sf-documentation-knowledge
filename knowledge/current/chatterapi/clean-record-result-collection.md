@@ -5,12 +5,10 @@ topic: clean-record-result-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:30.414Z
+lastCollected: 2026-04-07T18:37:17.492Z
 estimatedTokens: 87
-keywords: [Clean, Record, Result, Collection, Results, updating, records, data, integration, rules]
+keywords: [Clean, Record, Result, Collection, Results, updating, records, integration]
 ---
-
-# Clean Record Result Collection
 
 > Results of updating records with data integration
     rules.

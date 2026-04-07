@@ -5,12 +5,10 @@ topic: medicationdispense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.876Z
+lastCollected: 2026-04-07T18:39:48.328Z
 estimatedTokens: 315
-keywords: [MedicationDispense, dispense, medication, patient, order, includes, instructions, how, administered, API, version, 54.0, later]
+keywords: [MedicationDispense, dispense, medication, patient, order, includes, instructions, how, administered, API, 54.0]
 ---
-
-# MedicationDispense
 
 > Represents the dispense of a medication to a patient in response to a
          medication request or order. This object also includes the instructions for how the

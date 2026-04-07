@@ -5,12 +5,10 @@ topic: jobposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:13.852Z
+lastCollected: 2026-04-07T18:39:07.005Z
 estimatedTokens: 1368
-keywords: [JobPosition, instance, employment, particular, position, organization, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
+keywords: [JobPosition, instance, employment, particular, position, organization, API, 62.0]
 ---
-
-# JobPosition
 
 > Represents an instance of employment in a particular position in the
          organization. This object is available in API version 62.0 and later.

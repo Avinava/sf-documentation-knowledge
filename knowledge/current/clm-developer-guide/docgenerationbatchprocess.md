@@ -5,12 +5,10 @@ topic: docgenerationbatchprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.609Z
+lastCollected: 2026-04-07T18:37:25.534Z
 estimatedTokens: 847
-keywords: [DocGenerationBatchProcess, grouping, document, generation, requests, associated, batch, processed, time, new, record, pause, cancel, current, API]
+keywords: [DocGenerationBatchProcess, grouping, document, generation, requests, batch, processed, time, new, record, pause, cancel, current, API, 58.0]
 ---
-
-# DocGenerationBatchProcess
 
 > Represents a grouping of document generation requests associated with the
          batch document generation ID. Only one batch document generation request can be processed

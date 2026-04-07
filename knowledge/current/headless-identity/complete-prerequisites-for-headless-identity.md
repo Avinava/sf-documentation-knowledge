@@ -5,12 +5,10 @@ topic: complete-prerequisites-for-headless-identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.513Z
+lastCollected: 2026-04-07T18:37:39.452Z
 estimatedTokens: 1018
 keywords: [Prerequisites, Headless, Identity, Cross, off, basic, setup, steps, Salesforce, Google]
 ---
-
-# Complete Prerequisites for Headless Identity
 
 > Cross off some basic setup steps in Salesforce and Google.
 

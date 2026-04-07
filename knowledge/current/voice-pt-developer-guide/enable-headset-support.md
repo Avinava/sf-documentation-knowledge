@@ -5,12 +5,10 @@ topic: enable-headset-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:18.523Z
+lastCollected: 2026-04-07T18:40:13.451Z
 estimatedTokens: 572
-keywords: [Enable, Headset, Support, reps, control, call, actions, accept, mute, unmute, decline, calls, their, headsets]
+keywords: [Enable, Headset, Support, reps, control, call, actions, accept, mute, unmute, decline, their, headsets]
 ---
-
-# Enable Headset Support
 
 > Enable headset support so that reps can control call actions such as accept, mute,
   unmute, and decline calls from their headsets.

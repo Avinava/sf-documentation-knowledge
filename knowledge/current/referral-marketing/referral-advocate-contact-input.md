@@ -5,12 +5,10 @@ topic: referral-advocate-contact-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.075Z
+lastCollected: 2026-04-07T18:39:09.400Z
 estimatedTokens: 160
-keywords: [Referral, Advocate, Contact, Input, representation]
+keywords: [Referral, Advocate, Contact]
 ---
-
-# Referral Advocate Contact Input
 
 > Input representation for Referral Advocate contact details.
 

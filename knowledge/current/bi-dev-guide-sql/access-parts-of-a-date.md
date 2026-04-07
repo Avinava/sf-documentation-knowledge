@@ -5,12 +5,10 @@ topic: access-parts-of-a-date
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.977Z
+lastCollected: 2026-04-07T18:37:01.584Z
 estimatedTokens: 153
-keywords: [Access, Parts, Date, EXTRACT, function, projections, filtering, grouping, ordering]
+keywords: [Parts, Date, EXTRACT, function, projections, filtering, grouping, ordering]
 ---
-
-# Access Parts of a Date
 
 > Use the EXTRACT() function to access parts of a
   date. You can use EXTRACT() in projections, filtering,

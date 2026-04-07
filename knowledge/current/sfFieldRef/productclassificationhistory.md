@@ -5,12 +5,10 @@ topic: productclassificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:00.961Z
+lastCollected: 2026-04-07T18:39:55.527Z
 estimatedTokens: 271
-keywords: [ProductClassificationHistory, History, tracked, ProductClassification]
+keywords: [ProductClassificationHistory, tracked, ProductClassification]
 ---
-
-# ProductClassificationHistory
 
 > History for tracked fields of ProductClassification.
 

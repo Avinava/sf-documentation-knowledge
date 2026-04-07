@@ -5,12 +5,10 @@ topic: how-should-i-plan-my-app-analytics-query-strategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:02.461Z
+lastCollected: 2026-04-07T18:38:54.842Z
 estimatedTokens: 1236
-keywords: [How, Plan, App, Analytics, Query, Strategy, detailed, depends, size, scope, business, data, you’re, querying, Compress]
+keywords: [How, Plan, App, Analytics, Query, Strategy, detailed, depends, size, scope, business, you’re, querying, Compress, Results, Files, Schedule, Automate, Queries, Catch-Up]
 ---
-
-# How Should I Plan My App Analytics Query Strategy?
 
 > Your detailed query strategy depends on the size and scope of your business and the data
   types that you’re querying.

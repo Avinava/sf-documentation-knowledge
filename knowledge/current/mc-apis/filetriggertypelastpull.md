@@ -5,12 +5,10 @@ topic: filetriggertypelastpull
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:21.872Z
+lastCollected: 2026-04-07T18:40:17.017Z
 estimatedTokens: 456
 keywords: [FileTriggerTypeLastPull, Items]
 ---
-
-# FileTriggerTypeLastPull
 
 # FileTriggerTypeLastPull
 

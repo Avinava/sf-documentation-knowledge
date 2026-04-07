@@ -5,12 +5,10 @@ topic: debit-points-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:17.625Z
+lastCollected: 2026-04-07T18:38:07.851Z
 estimatedTokens: 219
-keywords: [Debit, Points, Action, Output, representation]
+keywords: [Debit, Points, Action]
 ---
-
-# Debit Points Action
 
 > Output representation of the debit points action
     type.

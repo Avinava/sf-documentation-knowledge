@@ -5,12 +5,10 @@ topic: life-sciences-cloud-data-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:07.960Z
+lastCollected: 2026-04-07T18:37:57.512Z
 estimatedTokens: 331
-keywords: [Life, Sciences, Cloud, Data, Models, uses, suite, standard, Salesforce, objects, structure, store, Clinical, Engagement, Customer]
+keywords: [Life, Sciences, Cloud, Models, uses, suite, standard, Salesforce, structure, store, Clinical, Engagement, Customer, Patient, MedTech, Commercial, features, better, understand, how, work, helps, look, graphical, representations, collections, their, relationships]
 ---
-
-# Life Sciences Cloud Data Models
 
 > Life Sciences Cloud uses a suite of standard Salesforce objects to structure and store
     data related to Clinical Engagement, Customer Engagement, Patient Engagement, MedTech Commercial

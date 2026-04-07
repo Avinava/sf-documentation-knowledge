@@ -5,12 +5,10 @@ topic: boost-and-bury-rules-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:35.846Z
+lastCollected: 2026-04-07T18:37:22.960Z
 estimatedTokens: 82
-keywords: [Boost, Bury, Rules, Collection]
+keywords: [Boost, Bury, Collection]
 ---
-
-# Boost and Bury Rules Collection
 
 > Collection of boost and bury rules.
 

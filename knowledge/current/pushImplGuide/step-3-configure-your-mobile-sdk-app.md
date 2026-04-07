@@ -5,12 +5,10 @@ topic: step-3-configure-your-mobile-sdk-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:15.908Z
+lastCollected: 2026-04-07T18:39:09.231Z
 estimatedTokens: 456
 keywords: [Step, Configure, Mobile, SDK, App, implement, push, notification, protocols, Salesforce, device, provider]
 ---
-
-# Step 3. Configure Your Mobile SDK App
 
 > In your Mobile SDK app, implement push notification protocols required by Salesforce and the device OS
     provider.

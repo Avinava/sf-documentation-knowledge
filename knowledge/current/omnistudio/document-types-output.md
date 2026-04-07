@@ -5,12 +5,10 @@ topic: document-types-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.697Z
+lastCollected: 2026-04-07T18:36:39.412Z
 estimatedTokens: 225
-keywords: [Document, Output, representation]
+keywords: [Document]
 ---
-
-# Document Types Output
 
 > Output representation of the Document Type.
 

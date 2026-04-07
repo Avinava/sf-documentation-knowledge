@@ -5,12 +5,10 @@ topic: importdefinitionfieldmappingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:22.431Z
+lastCollected: 2026-04-07T18:40:17.611Z
 estimatedTokens: 210
-keywords: [ImportDefinitionFieldMappingType, how, import, file, mapped, data, extension]
+keywords: [ImportDefinitionFieldMappingType, how, import, file, mapped, extension]
 ---
-
-# ImportDefinitionFieldMappingType
 
 > The ImportDefinitionFieldMappingType object defines how fields in an import file are mapped to fields in a data extension.
 

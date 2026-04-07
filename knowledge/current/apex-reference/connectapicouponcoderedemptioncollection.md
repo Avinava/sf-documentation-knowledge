@@ -5,12 +5,10 @@ topic: connectapicouponcoderedemptioncollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:23.035Z
+lastCollected: 2026-04-07T18:36:08.395Z
 estimatedTokens: 77
 keywords: [Collection, coupon, code, redemption, results]
 ---
-
-# ConnectApi.CouponCodeRedemptionCollection
 
 > Collection of coupon code redemption results.
 

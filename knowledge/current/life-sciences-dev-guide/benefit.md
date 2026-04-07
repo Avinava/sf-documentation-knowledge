@@ -5,12 +5,10 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:08.205Z
+lastCollected: 2026-04-07T18:37:57.733Z
 estimatedTokens: 594
-keywords: [Benefit, benefits, associated, financial, assistance, program, mapped, members, rules, API, version, 51.0, later, Calls]
+keywords: [Benefit, benefits, financial, assistance, program, mapped, members, API, 51.0]
 ---
-
-# Benefit
 
 > Represents information about benefits associated with the financial
       assistance program. Benefits are mapped to the members based on the program rules. This

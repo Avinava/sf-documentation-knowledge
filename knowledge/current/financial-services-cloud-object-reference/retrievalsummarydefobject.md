@@ -5,12 +5,10 @@ topic: retrievalsummarydefobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:51.004Z
+lastCollected: 2026-04-07T18:37:38.900Z
 estimatedTokens: 269
-keywords: [RetrievalSummaryDefObject, stores, rollup, definitions, retrieval, definition, API, version, 61.0, later, Calls]
+keywords: [RetrievalSummaryDefObject, stores, rollup, definitions, retrieval, definition, API, 61.0]
 ---
-
-# RetrievalSummaryDefObject
 
 > Represents a table that stores the rollup definitions of a retrieval
          definition. This object is available in API version 61.0 and later.

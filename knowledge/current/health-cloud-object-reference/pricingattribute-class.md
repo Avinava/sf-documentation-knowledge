@@ -5,12 +5,10 @@ topic: pricingattribute-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.865Z
+lastCollected: 2026-04-07T18:37:39.813Z
 estimatedTokens: 336
 keywords: [PricingAttribute, attribute, key, indicating, picklist, product]
 ---
-
-# PricingAttribute Class
 
 > Represents the attribute key, attribute value, and a boolean
             indicating if the attribute is a picklist type for a product.

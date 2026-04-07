@@ -5,12 +5,10 @@ topic: connectapiadditionalfieldsmapvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:00.742Z
+lastCollected: 2026-04-07T18:37:49.605Z
 estimatedTokens: 88
 keywords: [ConnectApi.AdditionalFieldsMapValue, AdditionalFieldsMapValue, wrapper, child, AdditionalFieldsMap]
 ---
-
-# ConnectApi.AdditionalFieldsMapValue
 
 > AdditionalFieldsMapValue wrapper object for use as child wrapper of
   AdditionalFieldsMap.

@@ -5,12 +5,10 @@ topic: einstein-prompt-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:31.428Z
+lastCollected: 2026-04-07T18:37:18.526Z
 estimatedTokens: 211
 keywords: [Einstein, Prompt, Record, template]
 ---
-
-# Einstein Prompt Record
 
 > Prompt template record.
 

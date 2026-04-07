@@ -5,12 +5,10 @@ topic: differences-in-behavior-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.198Z
+lastCollected: 2026-04-07T18:37:33.576Z
 estimatedTokens: 552
 keywords: [Differences, Behavior, LWR, Sites, templates, Experience, Cloud, things, work, little, differently, Aura]
 ---
-
-# Differences in Behavior in LWR Sites
 
 > With LWR templates in Experience Cloud, some things work a little differently than with
   our Aura templates.

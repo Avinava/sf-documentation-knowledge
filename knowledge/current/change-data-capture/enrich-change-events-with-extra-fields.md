@@ -5,12 +5,10 @@ topic: enrich-change-events-with-extra-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:18.460Z
+lastCollected: 2026-04-07T18:37:05.199Z
 estimatedTokens: 1760
-keywords: [Enrich, Change, Events, Extra, event, messages, include, new, changed, sometimes, unchanged, needed, processing, replicating, data]
+keywords: [Enrich, Change, Events, Extra, event, messages, include, new, changed, sometimes, unchanged, needed, processing, replicating, enrichment, app, needs, external, matching, records, system, always, record, select, any, whose]
 ---
-
-# Enrich Change Events with Extra Fields
 
 > Change event messages include values for new and changed fields, but sometimes
     unchanged field values are needed for processing or replicating data. For example, use

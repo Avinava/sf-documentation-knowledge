@@ -5,12 +5,10 @@ topic: getlocalid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:15.217Z
+lastCollected: 2026-04-07T18:38:05.411Z
 estimatedTokens: 81
-keywords: [getLocalId, aura, attribute, Pass, local, parent, component, locate, child]
+keywords: [getLocalId, aura, attribute, Pass, local, parent, locate, child]
 ---
-
-# getLocalId()
 
 > Gets the ID set using the aura:id attribute. Pass the local ID into find()
    on the parent component to locate this child component.

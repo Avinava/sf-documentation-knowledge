@@ -5,12 +5,10 @@ topic: update-a-record-with-a-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.511Z
+lastCollected: 2026-04-07T18:40:11.504Z
 estimatedTokens: 234
 keywords: [Record, Quick, Action, Perform, creates, updates, POST]
 ---
-
-# Update a Record with a Quick Action
 
 > Perform an Update a Record quick action. To perform a quick action that creates or
   updates a record, you can also use the POST method.

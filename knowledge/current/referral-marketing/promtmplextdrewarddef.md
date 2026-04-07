@@ -5,12 +5,10 @@ topic: promtmplextdrewarddef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:16.782Z
+lastCollected: 2026-04-07T18:39:10.219Z
 estimatedTokens: 594
-keywords: [PromTmplExtdRewardDef, junction, promotion, template, extended, reward, definition, API, version, 64.0, later, Calls, Associated, Objects]
+keywords: [PromTmplExtdRewardDef, junction, promotion, template, extended, reward, definition, API, 64.0]
 ---
-
-# PromTmplExtdRewardDef
 
 > Represents a junction between promotion template and extended reward
          definition. This object is available in API version 64.0 and later.

@@ -5,12 +5,10 @@ topic: blngrefundlinecreditnotelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:17.395Z
+lastCollected: 2026-04-07T18:37:03.981Z
 estimatedTokens: 1335
-keywords: [blng__RefundLineCreditNoteLine__c, relationship, refund, line, credit, blng, _RefundLineCreditNoteLine, Calls]
+keywords: [blng__RefundLineCreditNoteLine__c, relationship, refund, line, credit, blng, _RefundLineCreditNoteLine]
 ---
-
-# blng__RefundLineCreditNoteLine__c
 
 > Represents a relationship between a refund line and a credit note
       line.

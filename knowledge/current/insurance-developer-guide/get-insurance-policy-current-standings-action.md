@@ -5,12 +5,10 @@ topic: get-insurance-policy-current-standings-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.105Z
+lastCollected: 2026-04-07T18:37:48.830Z
 estimatedTokens: 234
-keywords: [Insurance, Policy, Current, Standings, Action, REST, HTTP, Inputs, Outputs]
+keywords: [Inputs, Outputs, Insurance, Policy, Current, Standings, Action, REST, HTTP]
 ---
-
-# Get Insurance Policy Current Standings Action
 
 > Get the current standings of the insurance policy.
 

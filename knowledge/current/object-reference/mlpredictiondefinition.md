@@ -5,12 +5,10 @@ topic: mlpredictiondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:44.549Z
+lastCollected: 2026-04-07T18:38:35.797Z
 estimatedTokens: 645
-keywords: [MLPredictionDefinition, prediction, definition, API, version, 50.0, later, Calls]
+keywords: [MLPredictionDefinition, prediction, definition, API, 50.0]
 ---
-
-# MLPredictionDefinition
 
 > Represents a prediction definition that specifies details about the
       prediction. This object is available in API version 50.0 and later.

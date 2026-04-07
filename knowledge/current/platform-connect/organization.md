@@ -5,12 +5,10 @@ topic: organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:04.650Z
+lastCollected: 2026-04-07T18:38:57.456Z
 estimatedTokens: 247
 keywords: [Organization, JSON-formatted, containing, context, canvas, app, running]
 ---
-
-# Organization
 
 > The Organization object is a JSON-formatted object
                 containing context information about the organization in which the canvas app is

@@ -5,12 +5,10 @@ topic: standardobjectnamechangeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:03.117Z
+lastCollected: 2026-04-07T18:35:48.162Z
 estimatedTokens: 852
-keywords: [StandardObjectNameChangeEvent, ChangeEvent, supports, Change, Data, Capture, subscribe, stream, events, receive, tied, record, changes, Salesforce, include]
+keywords: [StandardObjectNameChangeEvent, ChangeEvent, supports, Change, Capture, subscribe, stream, events, receive, tied, record, changes, Salesforce, include, creation, updates, deletion, undeletion, event, isn’t, object—it, doesn’t, support, CRUD, operations, queries, It’s, included, discover, Message, API, Schema]
 ---
-
-# StandardObjectNameChangeEvent
 
 > A ChangeEvent object is available for each object that supports Change Data Capture.
     You can subscribe to a stream of change events using Change Data Capture to receive data tied to

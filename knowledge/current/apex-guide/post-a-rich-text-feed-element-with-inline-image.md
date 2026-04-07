@@ -5,12 +5,10 @@ topic: post-a-rich-text-feed-element-with-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.883Z
+lastCollected: 2026-04-07T18:36:19.106Z
 estimatedTokens: 414
-keywords: [Post, Rich-Text, Feed, Element, Inline, Image, Call, ConnectApiHelper, repository, already, uploaded]
+keywords: [Post, Rich-Text, Inline, Image, Call, ConnectApiHelper, repository, already, uploaded]
 ---
-
-# Post a Rich-Text Feed Element with Inline Image
 
 > Call a method or use the ConnectApiHelper repository to post a feed element with an
     already uploaded, inline image.

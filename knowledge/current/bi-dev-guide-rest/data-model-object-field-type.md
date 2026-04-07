@@ -5,12 +5,10 @@ topic: data-model-object-field-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:10.544Z
+lastCollected: 2026-04-07T18:36:57.063Z
 estimatedTokens: 148
-keywords: [Data, Model, Analytics, template, variable]
+keywords: [Model, Analytics, template, variable]
 ---
-
-# Data Model Object Field Type
 
 > The data model object field type of an Analytics template variable.
 

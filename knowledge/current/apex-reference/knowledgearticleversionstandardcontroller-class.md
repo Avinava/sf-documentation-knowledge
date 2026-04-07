@@ -5,13 +5,11 @@ topic: knowledgearticleversionstandardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:30.075Z
+lastCollected: 2026-04-07T18:36:15.392Z
 estimatedTokens: 1370
 namespace: ApexPages
-keywords: [objects, offer, article-specific, functionality, addition, provided, StandardController, Usage, article, getSourceId, setDataCategory, categoryGroup, category]
+keywords: [offer, article-specific, functionality, addition, provided, StandardController, article, getSourceId, setDataCategory, categoryGroup, category]
 ---
-
-# KnowledgeArticleVersionStandardController Class
 
 > KnowledgeArticleVersionStandardController
         objects offer article-specific functionality in addition to what is provided by the StandardController.

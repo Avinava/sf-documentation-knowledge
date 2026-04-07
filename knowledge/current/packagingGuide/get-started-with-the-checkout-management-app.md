@@ -5,12 +5,10 @@ topic: get-started-with-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.481Z
+lastCollected: 2026-04-07T18:38:46.348Z
 estimatedTokens: 600
-keywords: [Started, Checkout, Management, App, Install, CMA, Salesforce, org, configure, users, right, level, access, data, Enable]
+keywords: [Started, Checkout, Management, App, Install, CMA, Salesforce, org, configure, users, right, level, Enable, email, notifications, simplify, communication, customers, team, members, customize, notification, templates, meet, company’s, needs]
 ---
-
-# Get Started with the Checkout Management App
 
 > Install the Checkout Management App (CMA) into a Salesforce org, and then configure the app so
     that users get the right level of access to data. Enable email notifications to simplify

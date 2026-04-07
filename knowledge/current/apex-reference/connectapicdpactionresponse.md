@@ -5,12 +5,10 @@ topic: connectapicdpactionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.388Z
+lastCollected: 2026-04-07T18:36:07.767Z
 estimatedTokens: 201
-keywords: [ConnectApi.CdpActionResponse, Customer, Data, Platform, action]
+keywords: [ConnectApi.CdpActionResponse, Customer, Platform, action]
 ---
-
-# ConnectApi.CdpActionResponse
 
 > Customer Data Platform action response.
 

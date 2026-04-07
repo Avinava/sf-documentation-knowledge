@@ -5,12 +5,10 @@ topic: connectapiorderitemsummarycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.277Z
+lastCollected: 2026-04-07T18:36:10.568Z
 estimatedTokens: 178
 keywords: [ConnectApi.OrderItemSummaryCollection, Collection, order, item, summaries]
 ---
-
-# ConnectApi.OrderItemSummaryCollection
 
 > Collection of order item summaries.
 

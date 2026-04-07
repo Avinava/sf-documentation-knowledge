@@ -5,12 +5,10 @@ topic: shiftpatternhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:07.303Z
+lastCollected: 2026-04-07T18:40:02.018Z
 estimatedTokens: 260
-keywords: [ShiftPatternHistory, History, tracked, ShiftPattern]
+keywords: [ShiftPatternHistory, tracked, ShiftPattern]
 ---
-
-# ShiftPatternHistory
 
 > History for tracked fields of ShiftPattern.
 

@@ -5,12 +5,10 @@ topic: retrieverequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:23.556Z
+lastCollected: 2026-04-07T18:40:18.760Z
 estimatedTokens: 849
-keywords: [RetrieveRequest, retrieves, data, system, Items]
+keywords: [RetrieveRequest, retrieves, system, Items]
 ---
-
-# RetrieveRequest
 
 > The RetrieveRequest object retrieves data from the system.
 

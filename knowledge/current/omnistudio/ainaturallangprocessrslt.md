@@ -5,12 +5,10 @@ topic: ainaturallangprocessrslt
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:59.642Z
+lastCollected: 2026-04-07T18:36:45.403Z
 estimatedTokens: 653
-keywords: [AINaturalLangProcessRslt, stores, result, natural, language, processing, NLP, operation, API, version, 57.0, later, SOAP, Calls, REST]
+keywords: [AINaturalLangProcessRslt, stores, result, natural, language, processing, NLP, operation, API, 57.0, SOAP, REST]
 ---
-
-# AINaturalLangProcessRslt
 
 > Represents information about the object that stores the result of a
          natural language processing (NLP) operation. This object is available in API version

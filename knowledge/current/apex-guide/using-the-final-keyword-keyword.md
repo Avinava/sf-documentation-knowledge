@@ -5,12 +5,10 @@ topic: using-the-final-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:31.286Z
+lastCollected: 2026-04-07T18:36:16.505Z
 estimatedTokens: 278
 keywords: [final, Keyword]
 ---
-
-# Using the  final Keyword Keyword
 
 # Using the final Keyword Keyword
 

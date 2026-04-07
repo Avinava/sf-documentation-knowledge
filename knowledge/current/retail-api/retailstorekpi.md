@@ -5,12 +5,10 @@ topic: retailstorekpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:22.414Z
+lastCollected: 2026-04-07T18:39:15.949Z
 estimatedTokens: 1350
-keywords: [RetailStoreKpi, Map, store, groups, assessment, indicator, definition, products, in-store, location, categories, define, targets, expected, compliance]
+keywords: [RetailStoreKpi, Map, store, groups, assessment, indicator, definition, products, in-store, location, categories, define, targets, expected, compliance, markers, decided, task, API, 47.0]
 ---
-
-# RetailStoreKpi
 
 > Map store groups to assessment indicator definition, products, and in-store
       location categories and define targets. Targets are the expected compliance values for each

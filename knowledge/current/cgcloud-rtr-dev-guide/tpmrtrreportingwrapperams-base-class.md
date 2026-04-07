@@ -5,12 +5,10 @@ topic: tpmrtrreportingwrapperams-base-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:18.328Z
+lastCollected: 2026-04-07T18:37:05.056Z
 estimatedTokens: 231
-keywords: [TPM_RTRReportingWrapper_AMS, Base, structures, load, input, KPIs, filter, criteria, chose, report—selected, time, frame, customers, products, Depending, Apex, receives, payload, that's, constructed]
+keywords: [TPM_RTRReportingWrapper_AMS, Base, structures, load, KPIs, filter, criteria, chose, report—selected, time, frame, customers, products, Depending, various, cases, payload, contain, different, attributes, TPM, _RTRReportingWrapper, _AMS, Apex, receives, that's, constructed, selection, report, defined, customer, dates, deserializes, classes]
 ---
-
-# TPM_RTRReportingWrapper_AMS (Base Class)
 
 > TPM_RTRReportingWrapper_AMS is a base class that
     contains the structures to load the input. This class contains the list of KPIs and filter

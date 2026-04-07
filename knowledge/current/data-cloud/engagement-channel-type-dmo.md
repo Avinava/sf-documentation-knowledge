@@ -5,12 +5,10 @@ topic: engagement-channel-type-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.592Z
+lastCollected: 2026-04-07T18:35:53.549Z
 estimatedTokens: 984
-keywords: [Engagement, Channel, DMO, Data, Cloud, model, channels, individual, preferences, individuals, consent, SMS, phone, call, API]
+keywords: [Category, Relationships, Engagement, Channel, DMO, Cloud, model, channels, individual, preferences, individuals, consent, SMS, phone, call, API, Primary, Subject, Area, Key]
 ---
-
-# Engagement Channel Type DMO
 
 > The Engagement Channel Type DMO is a Data Cloud data model object (DMO)
       for which channels are supported by individual preferences. For example, individuals can set

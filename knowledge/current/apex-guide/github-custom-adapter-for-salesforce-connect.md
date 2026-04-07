@@ -5,12 +5,10 @@ topic: github-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:02:31.785Z
+lastCollected: 2026-04-07T18:36:16.970Z
 estimatedTokens: 177
-keywords: [GitHub, Custom, Adapter, Salesforce, Connect, illustrates, how, support, indirect, lookup, relationships, relationship, links, child, external]
+keywords: [GitHub, Adapter, Salesforce, Connect, illustrates, how, support, indirect, lookup, relationships, relationship, links, child, external, parent, standard, GitHubDataSourceConnection, GitHubDataSourceProvider]
 ---
-
-# GitHub Custom Adapter for Salesforce Connect
 
 > This example illustrates how to support indirect lookup relationships. An indirect
   lookup relationship links a child external object to a parent standard or custom

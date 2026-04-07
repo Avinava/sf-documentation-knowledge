@@ -5,12 +5,10 @@ topic: object-info-directory-entry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:16.965Z
+lastCollected: 2026-04-07T18:40:11.970Z
 estimatedTokens: 330
-keywords: [Info, Directory, Entry, objects, User, API, supports, context, access]
+keywords: [Info, Directory, Entry, User, API, supports, context]
 ---
-
-# Object Info Directory Entry
 
 > An entry in the Object Info Directory, which is a directory of
       objects that User Interface API supports and that the context user can

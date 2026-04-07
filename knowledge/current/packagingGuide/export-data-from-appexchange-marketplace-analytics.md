@@ -5,12 +5,10 @@ topic: export-data-from-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:55.076Z
+lastCollected: 2026-04-07T18:38:47.045Z
 estimatedTokens: 453
-keywords: [Export, Data, AppExchange, Marketplace, Analytics, explore, Salesforce, another, tool, exported, comma-separated, csv, filters, applied, across]
+keywords: [Export, AppExchange, Marketplace, Analytics, explore, Salesforce, another, tool, exported, comma-separated, csv, filters, applied, across, traffic, sources, activity, lead, time, periods, previous, two, years, relative, current, date]
 ---
-
-# Export Data from AppExchange Marketplace Analytics
 
 > To explore your AppExchange Marketplace Analytics data using Salesforce or another
     tool, export it. Data is exported in comma-separated value (.csv) format with your global

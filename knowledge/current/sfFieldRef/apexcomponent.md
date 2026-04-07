@@ -5,13 +5,11 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:31.875Z
+lastCollected: 2026-04-07T18:39:25.855Z
 estimatedTokens: 362
 namespace: NamespacePrefix
-keywords: [ApexComponent, definition, custom, component, Visualforce, alongside, standard, components, <apex, relatedList>, dataTable>]
+keywords: [ApexComponent, definition, Visualforce, alongside, standard, <apex, relatedList>, dataTable>]
 ---
-
-# ApexComponent
 
 > Represents a definition for a custom component that can be used in a
    Visualforce page alongside standard components such as <apex:relatedList> and <apex:dataTable>.

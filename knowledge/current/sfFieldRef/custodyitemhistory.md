@@ -5,12 +5,10 @@ topic: custodyitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:42.154Z
+lastCollected: 2026-04-07T18:39:36.716Z
 estimatedTokens: 258
-keywords: [CustodyItemHistory, History, tracked, CustodyItem]
+keywords: [CustodyItemHistory, tracked, CustodyItem]
 ---
-
-# CustodyItemHistory
 
 > History for tracked fields of CustodyItem.
 

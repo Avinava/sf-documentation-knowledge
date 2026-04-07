@@ -5,12 +5,10 @@ topic: best-practices-for-investigating-guest-user-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:28.749Z
+lastCollected: 2026-04-07T18:39:22.638Z
 estimatedTokens: 1011
-keywords: [Best, Practices, Investigating, Guest, User, Anomalies, Keep, tips, mind, investigate, unusual, behavior, require, well-informed, evaluation]
+keywords: [Best, Practices, Investigating, Guest, User, Anomalies, Keep, tips, mind, investigate, unusual, behavior, require, well-informed, evaluation, data’s, safety]
 ---
-
-# Best Practices for Investigating Guest User Anomalies
 
 > Keep these tips in mind when you investigate unusual user behavior. Find the information
     that you require to make a well-informed evaluation of your data’s safety.

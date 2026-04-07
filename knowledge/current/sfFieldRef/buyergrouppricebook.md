@@ -5,12 +5,10 @@ topic: buyergrouppricebook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:36.679Z
+lastCollected: 2026-04-07T18:39:30.944Z
 estimatedTokens: 308
 keywords: [BuyerGroupPricebook, buyer, group, price, book, Lightning, B2B, Commerce]
 ---
-
-# BuyerGroupPricebook
 
 > Represents a buyer group price book used in Lightning B2B Commerce.
 

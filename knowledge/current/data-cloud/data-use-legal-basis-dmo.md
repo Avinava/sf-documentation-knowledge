@@ -5,12 +5,10 @@ topic: data-use-legal-basis-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:08.453Z
+lastCollected: 2026-04-07T18:35:53.407Z
 estimatedTokens: 422
-keywords: [Data, Legal, Basis, DMO, Cloud, model, reason, contacting, customer, billing, contract, API, Category, Primary, Subject]
+keywords: [Category, Relationships, Legal, Basis, DMO, Cloud, model, reason, contacting, customer, billing, contract, API, Primary, Subject, Area, Key]
 ---
-
-# Data Use Legal Basis DMO
 
 > The Data Use Legal Basis DMO is a Data Cloud data model object (DMO) for
       the legal reason for contacting a customer, such as billing or contract.

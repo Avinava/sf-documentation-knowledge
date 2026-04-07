@@ -5,12 +5,10 @@ topic: loyalty-management-sample-app-for-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.444Z
+lastCollected: 2026-04-07T18:38:09.755Z
 estimatedTokens: 517
-keywords: [Loyalty, Management, Sample, App, Mobile, SDK, configurable, native, iOS, Android, delivers, personalized, experience, every, device]
+keywords: [Loyalty, Management, Sample, App, Mobile, SDK, configurable, native, iOS, Android, delivers, personalized, experience, every, device, Build, program, members, reward, capabilities, quick, turnaround, opposed, built, scratch]
 ---
-
-# Loyalty Management Sample App for Mobile SDK
 
 > Loyalty Management Sample App for Mobile SDK is a configurable, native iOS and Android
   mobile app that delivers a personalized loyalty experience with every iOS and Android mobile

@@ -5,12 +5,10 @@ topic: check-a-users-mobile-push-registrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:15.903Z
+lastCollected: 2026-04-07T18:39:09.227Z
 estimatedTokens: 201
-keywords: [Check, User's, Mobile, Push, Registrations, User, organization, administrator, easily, user’s, devices, currently, registered, notifications, Checking]
+keywords: [Check, User's, Mobile, Push, Registrations, User, organization, administrator, easily, user’s, devices, currently, registered, notifications, Checking, may, help, troubleshoot, notification, failures]
 ---
-
-# Check a User's Mobile Push Registrations
 
 > From a User page in your organization, an administrator
 can easily check which of the user’s devices are currently

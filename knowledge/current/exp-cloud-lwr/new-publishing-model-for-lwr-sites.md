@@ -5,12 +5,10 @@ topic: new-publishing-model-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:46.225Z
+lastCollected: 2026-04-07T18:37:33.608Z
 estimatedTokens: 481
-keywords: [New, Publishing, Model, LWR, Sites, Experience, Cloud, take, advantage, paradigm, components, frozen, site, published, served]
+keywords: [New, Publishing, Model, LWR, Sites, Experience, Cloud, take, advantage, paradigm, frozen, site, published, served, statically, runtime, Features, Affected]
 ---
-
-# New Publishing Model for LWR Sites
 
 > LWR sites in Experience Cloud take advantage of a new publishing paradigm, where
   components are frozen when the site is published and served statically at runtime.

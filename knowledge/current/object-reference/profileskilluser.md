@@ -5,12 +5,10 @@ topic: profileskilluser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:47.571Z
+lastCollected: 2026-04-07T18:38:39.038Z
 estimatedTokens: 578
-keywords: [ProfileSkillUser, detail, relationship, User, connects, profile, skills, users, Calls, Usage, Associated, Objects]
+keywords: [ProfileSkillUser, detail, relationship, User, connects, profile, skills, users]
 ---
-
-# ProfileSkillUser
 
 > Represents a detail relationship of User. The object connects
    profile skills with users.

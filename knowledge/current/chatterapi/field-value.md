@@ -5,12 +5,10 @@ topic: field-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:32.159Z
+lastCollected: 2026-04-07T18:37:19.281Z
 estimatedTokens: 93
 keywords: [Field's, product, search, results]
 ---
-
-# Field Value
 
 > Field's value in product search results.
 

@@ -5,12 +5,10 @@ topic: feed-items-specific-feed-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.542Z
+lastCollected: 2026-04-07T18:37:13.499Z
 estimatedTokens: 369
-keywords: [Feed-Items, Specific, Feed, Item, bookmark]
+keywords: [Feed-Items, Specific, Item, bookmark]
 ---
-
-# Feed-Items, Specific Feed Item
 
 > Get, delete, or bookmark a feed item.
 

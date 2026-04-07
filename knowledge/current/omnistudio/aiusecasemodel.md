@@ -5,12 +5,10 @@ topic: aiusecasemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:58.280Z
+lastCollected: 2026-04-07T18:36:44.031Z
 estimatedTokens: 857
-keywords: [AIUsecaseModel, machine, learning, models, generate, predictions, case, API, version, 55.0, later, Calls, Special, Access, Rules, stores, cases, SOAP, REST]
+keywords: [AIUsecaseModel, machine, learning, models, generate, predictions, case, API, 55.0, stores, cases, SOAP, REST]
 ---
-
-# AIUsecaseModel
 
 > Represents information about the machine learning models that
          generate predictions for your use case. This object is available in API version 55.0

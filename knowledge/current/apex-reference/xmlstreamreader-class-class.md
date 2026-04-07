@@ -5,13 +5,11 @@ topic: xmlstreamreader-class-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:18.819Z
+lastCollected: 2026-04-07T18:36:04.044Z
 estimatedTokens: 6479
 namespace: NAMESPACE
-keywords: [XmlStreamReader, forward, read-only, access, XML, data, pull, skip, unwanted, events, parse, nested, content, that’s, nodes]
+keywords: [XmlStreamReader, forward, read-only, XML, pull, skip, unwanted, events, parse, nested, content, that’s, nodes, deep, xmlInput, getAttributeCount, getAttributeLocalName, index, getAttributeNamespace, getAttributePrefix, getAttributeType, getAttributeValue, namespaceUri, localName, getAttributeValueAt, getEventType, XmlTag, getLocalName, getLocation, getNamespace, getNamespaceCount, getNamespacePrefix, getNamespaceURI, prefix, getNamespaceURIAt, getPIData, getPITarget, getPrefix, getText, getVersion, hasName, hasNext, hasText, isCharacters, isEndElement, isStartElement, isWhiteSpace, nextTag, setCoalescing, returnAsSingleBlock, setNamespaceAware, isNamespaceAware, toString]
 ---
-
-# XmlStreamReader Class Class
 
 > The XmlStreamReader class provides methods for
     forward, read-only access to XML data. You can pull data from XML or skip unwanted events. You

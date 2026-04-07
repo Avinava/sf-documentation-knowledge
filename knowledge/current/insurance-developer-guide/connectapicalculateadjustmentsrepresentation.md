@@ -5,12 +5,10 @@ topic: connectapicalculateadjustmentsrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.308Z
+lastCollected: 2026-04-07T18:37:50.143Z
 estimatedTokens: 246
-keywords: [Output, representation, calculating, adjustments, claim, loss, item]
+keywords: [calculating, adjustments, claim, loss, item]
 ---
-
-# ConnectApi.CalculateAdjustmentsRepresentation
 
 > Output representation of the details for calculating the adjustments for the claim loss
   item.

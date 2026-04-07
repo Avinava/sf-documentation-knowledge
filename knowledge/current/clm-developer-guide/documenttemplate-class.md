@@ -5,12 +5,10 @@ topic: documenttemplate-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:37.524Z
+lastCollected: 2026-04-07T18:37:24.523Z
 estimatedTokens: 363
 keywords: [DocumentTemplate, manage, document, generation, templates, Call, methodName, inputMap]
 ---
-
-# DocumentTemplate Class
 
 > The DocumentTemplate class provides methods to manage
         document generation

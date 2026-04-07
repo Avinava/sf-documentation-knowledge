@@ -5,12 +5,10 @@ topic: additionalcontextdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:56.091Z
+lastCollected: 2026-04-07T18:35:40.961Z
 estimatedTokens: 521
-keywords: [AdditionalContextData, include, additional, context, data, nodes, along, definition, hydration]
+keywords: [AdditionalContextData, include, additional, context, nodes, along, definition, hydration]
 ---
-
-# AdditionalContextData Class
 
 > Contains properties to include a list of additional context data nodes. These nodes are
     used along with the context definition nodes for data hydration.

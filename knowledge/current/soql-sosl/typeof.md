@@ -5,12 +5,10 @@ topic: typeof
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.204Z
+lastCollected: 2026-04-07T18:40:10.177Z
 estimatedTokens: 1571
-keywords: [TYPEOF, clause, SELECT, statement, SOQL, query, you’re, querying, data, polymorphic, relationships, expression, depend, runtime]
+keywords: [TYPEOF, clause, SELECT, statement, SOQL, query, you’re, querying, polymorphic, relationships, expression, depend, runtime]
 ---
-
-# TYPEOF
 
 > TYPEOF is an optional clause that can be used in a
 			SELECT statement of a SOQL query when you’re querying

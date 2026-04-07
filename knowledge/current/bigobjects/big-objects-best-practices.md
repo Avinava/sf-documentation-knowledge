@@ -5,12 +5,10 @@ topic: big-objects-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:03:16.339Z
+lastCollected: 2026-04-07T18:37:02.891Z
 estimatedTokens: 855
-keywords: [Big, Objects, Best, Practices, unique, because, ability, scale, massive, amounts, data, Considerations, Design, Resiliency, Mind]
+keywords: [Big, Best, Practices, unique, because, ability, scale, massive, amounts, Considerations, Design, Resiliency, Mind]
 ---
-
-# Big Objects Best Practices
 
 > A big object is unique because of its ability to scale for massive amounts of
   data.

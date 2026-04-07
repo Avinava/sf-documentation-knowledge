@@ -5,12 +5,10 @@ topic: add-a-support-app-to-employee-workspace-with-employee-concierge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:19.265Z
+lastCollected: 2026-04-07T18:40:14.273Z
 estimatedTokens: 343
-keywords: [Add, Support, App, Employee, Workspace, Concierge, searchable, knowledge, base, ticketing, system, site, includes, Agent, Desk]
+keywords: [Add, Support, App, Employee, Workspace, Concierge, searchable, knowledge, base, ticketing, system, site, includes, Agent, Desk, Salesforce, Agents, respond, resolve, tickets]
 ---
-
-# Add a Support App to Employee Workspace with Employee Concierge
 
 > With Employee Concierge, add a searchable knowledge base and ticketing system to your
   Employee Workspace site. Employee Concierge includes Agent Desk, a custom Salesforce app IT Agents

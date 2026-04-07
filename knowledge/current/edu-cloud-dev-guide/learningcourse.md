@@ -5,12 +5,10 @@ topic: learningcourse
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:44.305Z
+lastCollected: 2026-04-07T18:37:31.433Z
 estimatedTokens: 1487
-keywords: [LearningCourse, course, that’s, learning, framework, API, version, 57.0, later, Calls, Associated, Objects]
+keywords: [LearningCourse, course, that’s, learning, framework, API, 57.0]
 ---
-
-# LearningCourse
 
 > Represents information about a course that’s required in a learning
          framework.  This object is available in API version 57.0 and later.

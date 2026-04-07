@@ -5,13 +5,11 @@ topic: engagementrecorddetailslist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:50.035Z
+lastCollected: 2026-04-07T18:36:35.521Z
 estimatedTokens: 660
 namespace: DataRetrieval
 keywords: [EngagementRecordDetailsList, Stores, DataRetrieval.EngagementRecordDetails, records, engagementRecordDetails]
 ---
-
-# EngagementRecordDetailsList Class
 
 > Stores the DataRetrieval.EngagementRecordDetails
     records.

@@ -5,12 +5,10 @@ topic: hpi-score-sync-state-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:53.747Z
+lastCollected: 2026-04-07T18:37:41.869Z
 estimatedTokens: 266
-keywords: [HPI, Score, Sync, State, Output, representation, synchronization, status]
+keywords: [HPI, Score, Sync, State, synchronization, status]
 ---
-
-# HPI Score Sync State Output
 
 > Output representation of the score synchronization status
       request.

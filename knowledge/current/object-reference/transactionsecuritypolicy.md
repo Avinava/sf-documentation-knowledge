@@ -5,12 +5,10 @@ topic: transactionsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:51.144Z
+lastCollected: 2026-04-07T18:38:42.852Z
 estimatedTokens: 2189
-keywords: [TransactionSecurityPolicy, transaction, security, policy, definition, Calls]
+keywords: [TransactionSecurityPolicy, transaction, security, policy, definition]
 ---
-
-# TransactionSecurityPolicy
 
 > Represents a transaction security policy definition.
 

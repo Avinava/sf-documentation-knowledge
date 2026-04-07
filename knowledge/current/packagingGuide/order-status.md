@@ -5,12 +5,10 @@ topic: order-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:54.617Z
+lastCollected: 2026-04-07T18:38:46.489Z
 estimatedTokens: 431
-keywords: [Order, Status, Channel, App, COA, Salesforce, assigns, help, track, progress, needed, resolve, issues, determines, actions]
+keywords: [Order, Status, Channel, App, COA, Salesforce, assigns, help, track, progress, needed, resolve, issues, determines, actions, perform, editing, cloning]
 ---
-
-# Order Status
 
 > After you create an order in the Channel Order App (COA), Salesforce assigns an order
     status to help you track progress, and if needed, resolve issues. Order status also determines

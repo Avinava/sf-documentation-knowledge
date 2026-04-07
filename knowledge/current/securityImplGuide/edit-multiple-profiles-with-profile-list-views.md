@@ -5,12 +5,10 @@ topic: edit-multiple-profiles-with-profile-list-views
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:29.209Z
+lastCollected: 2026-04-07T18:39:23.144Z
 estimatedTokens: 847
 keywords: [Edit, Multiple, Profiles, Profile, Views, enhanced, enabled, organization, change, permissions, directly, view, accessing, individual, pages]
 ---
-
-# Edit Multiple Profiles with Profile List Views
 
 > If enhanced profile list views are enabled for your organization, you can change
         permissions in up to 200 profiles directly from the list view, without accessing individual

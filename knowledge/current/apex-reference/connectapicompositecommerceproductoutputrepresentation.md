@@ -5,12 +5,10 @@ topic: connectapicompositecommerceproductoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:22.884Z
+lastCollected: 2026-04-07T18:36:08.247Z
 estimatedTokens: 122
 keywords: [composite, product]
 ---
-
-# ConnectApi.CompositeCommerceProductOutputRepresentation
 
 > Details of a composite product.
 

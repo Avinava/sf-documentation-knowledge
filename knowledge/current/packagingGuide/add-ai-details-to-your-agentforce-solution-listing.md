@@ -5,12 +5,10 @@ topic: add-ai-details-to-your-agentforce-solution-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:53.914Z
+lastCollected: 2026-04-07T18:38:45.741Z
 estimatedTokens: 590
-keywords: [Add, Agentforce, Solution, Listing, Showcase, AppExchange, Explain, solution’s, capabilities, how, extends, State, number, agents, topics]
+keywords: [Add, Agentforce, Solution, Listing, Showcase, AppExchange, Explain, solution’s, capabilities, how, extends, State, number, agents, topics, actions, managed, package, aids, customer, understanding, filtering, AgentExchange, search, results]
 ---
-
-# Add AI Details to Your Agentforce Solution Listing
 
 > Showcase the value of your Agentforce solution on your AppExchange listing. Explain the
   solution’s capabilities and how it extends Agentforce. State the number of agents, topics, and

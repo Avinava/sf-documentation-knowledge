@@ -5,12 +5,10 @@ topic: retrieve-the-territories-in-which-the-records-reside
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:20.732Z
+lastCollected: 2026-04-07T18:38:10.994Z
 estimatedTokens: 445
-keywords: [Retrieve, Territories, Records, Reside, PointInPolygon, Apex, territory, shape, record, resides, reads, geographical, coordinates, compares, against]
+keywords: [Retrieve, Territories, Records, Reside, PointInPolygon, Apex, territory, shape, record, resides, reads, geographical, coordinates, compares, against, surrounding, Review, Considerations, Retrieving, Shapes, Sample, Code]
 ---
-
-# Retrieve the Territories in Which the Records Reside
 
 > The PointInPolygon() Apex method
       returns the territory shape in which each record resides. It reads in the geographical

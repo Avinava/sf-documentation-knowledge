@@ -5,12 +5,10 @@ topic: insurance-sales-transaction-item-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.424Z
+lastCollected: 2026-04-07T18:37:52.608Z
 estimatedTokens: 95
-keywords: [Insurance, Sales, Transaction, Item, Clause, Output, representation]
+keywords: [Insurance, Sales, Transaction, Item, Clause]
 ---
-
-# Insurance Sales Transaction Item Clause
 
 > Output representation for the details of the insurance sales transaction item
     clause.

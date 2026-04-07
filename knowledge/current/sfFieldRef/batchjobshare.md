@@ -5,12 +5,10 @@ topic: batchjobshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:34.880Z
+lastCollected: 2026-04-07T18:39:28.984Z
 estimatedTokens: 247
 keywords: [BatchJobShare, Sharing, BatchJob]
 ---
-
-# BatchJobShare
 
 > Sharing for BatchJob.
 

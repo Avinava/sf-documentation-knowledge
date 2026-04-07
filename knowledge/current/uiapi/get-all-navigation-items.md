@@ -5,12 +5,10 @@ topic: get-all-navigation-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:15.896Z
+lastCollected: 2026-04-07T18:40:10.872Z
 estimatedTokens: 336
-keywords: [Navigation, Items, tabs, user, access]
+keywords: [Navigation, Items, tabs, user]
 ---
-
-# Get All Navigation Items
 
 > Gets all navigation items (tabs) that the user has access
     to.

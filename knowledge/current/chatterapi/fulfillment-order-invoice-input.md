@@ -5,12 +5,10 @@ topic: fulfillment-order-invoice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:21.757Z
+lastCollected: 2026-04-07T18:37:08.582Z
 estimatedTokens: 98
-keywords: [Fulfillment, Order, Invoice, Input, empty]
+keywords: [Fulfillment, Order, Invoice, empty]
 ---
-
-# Fulfillment Order Invoice Input
 
 > Use an empty request body for this
     input.

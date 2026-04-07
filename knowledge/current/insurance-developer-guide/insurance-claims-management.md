@@ -5,12 +5,10 @@ topic: insurance-claims-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:03.771Z
+lastCollected: 2026-04-07T18:37:52.989Z
 estimatedTokens: 524
-keywords: [Insurance, Claims, Management, developer, resources, claim, products, dynamic, notice, loss, intake, flows, users, Give, adjusters]
+keywords: [Insurance, Claims, Management, developer, resources, claim, products, dynamic, notice, loss, intake, flows, users, Give, adjusters, cohesive, view, financial, they, efficiently, assess, settle, Establish, automatically, route, requests, approval, appropriate, supervisors, managers]
 ---
-
-# Insurance Claims Management
 
 > Use the Insurance Claims developer resources to set up claim products and create dynamic
   first notice of loss intake flows for your users. Give claim adjusters a cohesive view of claims

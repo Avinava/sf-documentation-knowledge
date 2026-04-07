@@ -5,12 +5,10 @@ topic: livechatuserconfigprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:43.920Z
+lastCollected: 2026-04-07T18:38:35.160Z
 estimatedTokens: 177
-keywords: [LiveChatUserConfigProfile, join, LiveChatUserConfig, Profile, API, version, 24.0, later, Calls, Special, Access, Rules, Usage]
+keywords: [LiveChatUserConfigProfile, join, LiveChatUserConfig, Profile, API, 24.0]
 ---
-
-# LiveChatUserConfigProfile
 
 > Represents a join between LiveChatUserConfig and Profile. This
         object is available in API version 24.0 and later.

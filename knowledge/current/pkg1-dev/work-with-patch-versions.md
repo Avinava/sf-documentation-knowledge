@@ -5,12 +5,10 @@ topic: work-with-patch-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:01.872Z
+lastCollected: 2026-04-07T18:38:54.268Z
 estimatedTokens: 850
-keywords: [Work, Patch, Versions, version, developer, change, functionality, components, managed, package, Subscribers, experience, visible, changes, Patches]
+keywords: [Work, Patch, Versions, developer, change, functionality, managed, package, Subscribers, experience, visible, changes, Patches, minor, upgrades, Released, fixing, bugs, errors, Development, Organizations, Integrating]
 ---
-
-# Work with Patch Versions
 
 > A patch version
         enables a developer to change the functionality of existing

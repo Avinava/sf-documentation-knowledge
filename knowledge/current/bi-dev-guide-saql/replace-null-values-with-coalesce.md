@@ -5,12 +5,10 @@ topic: replace-null-values-with-coalesce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:13.827Z
+lastCollected: 2026-04-07T18:37:00.341Z
 estimatedTokens: 420
-keywords: [Replace, coalesce, left, outer, full, cogroup, unmatched, data, comes, choice]
+keywords: [Replace, coalesce, left, outer, full, cogroup, unmatched, comes, choice]
 ---
-
-# Replace Null Values with coalesce()
 
 > When you use a left outer or full outer cogroup, unmatched data comes through as null. Use coalesce() to replace null values with the value of
             your choice.

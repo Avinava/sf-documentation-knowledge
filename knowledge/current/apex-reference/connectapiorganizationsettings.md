@@ -5,12 +5,10 @@ topic: connectapiorganizationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:25.422Z
+lastCollected: 2026-04-07T18:36:10.698Z
 estimatedTokens: 175
 keywords: [ConnectApi.OrganizationSettings, Org, settings]
 ---
-
-# ConnectApi.OrganizationSettings
 
 > Org settings.
 

@@ -5,12 +5,10 @@ topic: creditmemoaddressgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:41.901Z
+lastCollected: 2026-04-07T18:39:36.453Z
 estimatedTokens: 472
-keywords: [CreditMemoAddressGroup, Stores, buyer's, address, determine, amount, tax, credit, buyer, memo, issued, API, version, 55.0, later]
+keywords: [CreditMemoAddressGroup, Stores, buyer's, address, determine, amount, tax, credit, buyer, memo, issued, API, 55.0]
 ---
-
-# CreditMemoAddressGroup
 
 > Stores the buyer's address information, which is used to determine the amount
          of tax to credit to a buyer when a credit memo is issued. This object is available in

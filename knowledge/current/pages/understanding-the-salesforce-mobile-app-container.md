@@ -5,12 +5,10 @@ topic: understanding-the-salesforce-mobile-app-container
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:04:59.526Z
+lastCollected: 2026-04-07T18:38:51.808Z
 estimatedTokens: 1060
-keywords: [Understanding, Salesforce, Mobile, App, Container, Classic, Visualforce, “owns”, environment, application, Lightning, Experience, runs, inside, iframe]
+keywords: [Understanding, Salesforce, Mobile, App, Container, Classic, Visualforce, “owns”, environment, application, Lightning, Experience, runs, inside, iframe, that’s, larger, Outer, Inner, Code, Considerations, Security, Scope, Features, Avoid]
 ---
-
-# Understanding the Salesforce Mobile App Container
 
 > In Salesforce Classic, Visualforce “owns” the page,
    the request, and the environment. Visualforce is the application container. But in the Salesforce

@@ -5,12 +5,10 @@ topic: warrantyterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:07.043Z
+lastCollected: 2026-04-07T18:36:53.394Z
 estimatedTokens: 1566
-keywords: [WarrantyTerm, warranty, terms, defining, labor, parts, expenses, covered, along, any, exchange, options, provided, rectify, issues]
+keywords: [WarrantyTerm, warranty, terms, defining, labor, parts, expenses, covered, along, any, exchange, options, provided, rectify, issues, products, Manufacturing, Cloud, API, 55.0]
 ---
-
-# WarrantyTerm
 
 > Represents warranty terms defining the labor, parts, and expenses
          covered, along with any exchange options, provided to rectify issues with products.

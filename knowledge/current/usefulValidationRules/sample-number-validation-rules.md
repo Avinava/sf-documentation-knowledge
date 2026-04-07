@@ -5,12 +5,10 @@ topic: sample-number-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.488Z
+lastCollected: 2026-04-07T18:40:12.510Z
 estimatedTokens: 932
-keywords: [Sample, Number, Validation, Rules, Examples, how, validate, users, can't, save, time, card, record, hours, work]
+keywords: [Sample, Number, Validation, Examples, how, validate, users, can't, save, time, card, record, hours, work, week, numbers, negative, odd, Cards, Total, Cannot, Multiple, Five, -50, Range, Percentage, Zero]
 ---
-
-# Sample Number Validation Rules
 
 > Examples for how to validate that users can't save a time card record with more than
       40 hours in a work week, numbers can't be negative, and even or odd numbers.

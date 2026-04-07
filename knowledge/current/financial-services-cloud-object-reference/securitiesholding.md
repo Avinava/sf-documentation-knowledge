@@ -5,12 +5,10 @@ topic: securitiesholding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:51.032Z
+lastCollected: 2026-04-07T18:37:38.934Z
 estimatedTokens: 1689
-keywords: [SecuritiesHolding, securities, associated, insurance, policy, API, version, 47.0, later, Calls, Objects]
+keywords: [SecuritiesHolding, securities, insurance, policy, API, 47.0]
 ---
-
-# SecuritiesHolding
 
 > Represents the securities associated with an insurance policy. This
 		object is available in API version 47.0 and later.

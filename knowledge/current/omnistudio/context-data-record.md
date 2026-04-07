@@ -5,12 +5,10 @@ topic: context-data-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:53.281Z
+lastCollected: 2026-04-07T18:36:38.943Z
 estimatedTokens: 234
-keywords: [Context, Data, Record, Output, representation, including, attributes, associated, child, objects, relevant, metadata]
+keywords: [Context, Record, including, attributes, child, relevant, metadata]
 ---
-
-# Context Data Record
 
 > Output representation of context data record, including its attributes, type, associated
     child objects, and other relevant metadata.

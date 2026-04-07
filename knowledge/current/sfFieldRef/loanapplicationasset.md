@@ -5,12 +5,10 @@ topic: loanapplicationasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.295Z
+lastCollected: 2026-04-07T18:39:46.796Z
 estimatedTokens: 689
-keywords: [LoanApplicationAsset, borrower's, co-borrower's, current, personal, real, API, version, 47.0, later]
+keywords: [LoanApplicationAsset, borrower's, co-borrower's, current, personal, real, API, 47.0]
 ---
-
-# LoanApplicationAsset
 
 > Represents details about the borrower's and co-borrower's current personal
 			and real property. This object is available in API version 47.0 and later.

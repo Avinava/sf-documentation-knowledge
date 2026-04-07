@@ -5,12 +5,10 @@ topic: sample-expense-tracking-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:17.352Z
+lastCollected: 2026-04-07T18:40:12.368Z
 estimatedTokens: 174
-keywords: [Sample, Expense, Tracking, Formulas, Identifier, Mileage, Calculation]
+keywords: [Sample, Expense, Formulas, Identifier, Mileage, Calculation]
 ---
-
-# Sample Expense Tracking Formulas
 
 > Use these formulas for expense tracking.
 

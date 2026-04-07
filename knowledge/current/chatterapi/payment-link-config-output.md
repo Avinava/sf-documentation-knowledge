@@ -5,12 +5,10 @@ topic: payment-link-config-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:34.485Z
+lastCollected: 2026-04-07T18:37:21.602Z
 estimatedTokens: 347
-keywords: [Payment, Link, Config, Output, configuration]
+keywords: [Payment, Link, Config, configuration]
 ---
-
-# Payment Link Config Output
 
 > Payment link configuration details.
 

@@ -6,13 +6,10 @@ topic: use-images-uploaded-as-files-contentdocument-in-an-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.361Z
+lastCollected: 2026-04-07T18:38:15.888Z
 estimatedTokens: 798
-keywords: [Images, Uploaded, Files, ContentDocument, LWC, general, mechanism, upload, binary, Salesforce, org, associated, specific, record, ideal]
+keywords: [Images, Uploaded, Files, ContentDocument, LWC, general, mechanism, upload, binary, Salesforce, org, specific, record, ideal, product, photos, captured, service, call, transaction, otherwise, adding, business, activities, track]
 ---
-
-# Use Images Uploaded as Files (ContentDocument) in an
-  LWC
 
 > Files are a general mechanism to upload and make binary files, such as images, available
   in your Salesforce org. Files can be associated with a specific record, which makes them ideal for

@@ -5,12 +5,10 @@ topic: apexlineseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:57.789Z
+lastCollected: 2026-04-07T18:38:49.997Z
 estimatedTokens: 1220
-keywords: [apex, lineSeries, data, series, rendered, connected, points, linear, Visualforce, chart, minimum, specify, collection, point, well]
+keywords: [Attributes, apex, lineSeries, series, rendered, connected, points, linear, Visualforce, chart, minimum, specify, collection, point, well, axes, scale, against]
 ---
-
-# apex:lineSeries
 
 > A data series to be rendered as connected points in a linear Visualforce chart. At a minimum you must specify the fields in the data collection to use as X and Y values for each point, as well as the X and Y axes to scale against.
 

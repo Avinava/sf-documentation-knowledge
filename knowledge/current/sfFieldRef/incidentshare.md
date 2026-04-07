@@ -5,12 +5,10 @@ topic: incidentshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:49.798Z
+lastCollected: 2026-04-07T18:39:44.420Z
 estimatedTokens: 247
 keywords: [IncidentShare, Sharing, Incident]
 ---
-
-# IncidentShare
 
 > Sharing for Incident.
 

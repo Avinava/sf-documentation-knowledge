@@ -5,12 +5,10 @@ topic: considerations-for-building-custom-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:06:25.975Z
+lastCollected: 2026-04-07T18:40:21.258Z
 estimatedTokens: 301
-keywords: [Considerations, Building, Custom, Events, Journey, Builder, framework, activities, they, follow, structure, Build, detailed, steps, few]
+keywords: [Considerations, Building, Events, Journey, Builder, framework, activities, they, follow, structure, Build, detailed, steps, few, key, differences, Items]
 ---
-
-# Considerations for Building Custom Events
 
 > Custom events in Journey Builder use the same framework as activities, so they follow the same structure. See Build Custom Activities for detailed steps. Events have a few key differences:
 

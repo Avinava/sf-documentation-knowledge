@@ -5,12 +5,10 @@ topic: postinsurancedeletememberplansinsurancedeletememberplansinputrepresentati
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:00.563Z
+lastCollected: 2026-04-07T18:37:49.413Z
 estimatedTokens: 319
-keywords: [postInsuranceDeleteMemberPlans, memberId, plans, group, census, member, API, Version, Requires, Chatter]
+keywords: [postInsuranceDeleteMemberPlans, memberId, plans, group, census, member, API, Requires, Chatter]
 ---
-
-# postInsuranceDeleteMemberPlans(insuranceDeleteMemberPlansInputRepresentation, memberId)
 
 > Delete the specified plans for a group census member.
 

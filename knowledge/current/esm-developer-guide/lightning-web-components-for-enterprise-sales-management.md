@@ -5,12 +5,10 @@ topic: lightning-web-components-for-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:45.026Z
+lastCollected: 2026-04-07T18:37:32.196Z
 estimatedTokens: 1175
-keywords: [Lightning, Web, Components, Enterprise, Sales, Management, LWCs, supplement, Vlocity, incorporating, calls, SDK, APIs, Cart-Based, Digital]
+keywords: [Lightning, Web, Enterprise, Sales, Management, LWCs, supplement, Vlocity, incorporating, SDK, APIs, Cart-Based, Digital, Commerce, cacheable, Integration, Procedures]
 ---
-
-# Lightning Web Components for Enterprise Sales Management
 
 > Enterprise Sales Management Lightning Web Components (LWCs) supplement Vlocity Lightning Web Components by incorporating calls to the Enterprise Sales Management SDK, which makes calls to Enterprise Sales Management APIs, Cart-Based APIs, Digital Commerce cacheable APIs, and Integration Procedures.
 

@@ -5,12 +5,10 @@ topic: salutationsourceenum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:24.799Z
+lastCollected: 2026-04-07T18:40:20.027Z
 estimatedTokens: 158
 keywords: [SalutationSourceEnum, storage, area, footer, email, message]
 ---
-
-# SalutationSourceEnum
 
 > The SalutationSourceEnum object specifies storage area for header and footer used in an email message.
 

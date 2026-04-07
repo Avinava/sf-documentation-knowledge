@@ -5,12 +5,10 @@ topic: ocrtargetobject-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:07.290Z
+lastCollected: 2026-04-07T18:39:00.357Z
 estimatedTokens: 474
-keywords: [OcrTargetObject, OCR, target, associated, template, ocrTargetObjectId, targetObject, targetObjectRecordType]
+keywords: [OcrTargetObject, OCR, target, template, ocrTargetObjectId, targetObject, targetObjectRecordType]
 ---
-
-# OcrTargetObject Class
 
 > This class contains the details of the OCR target object that is associated with an OCR
     template.

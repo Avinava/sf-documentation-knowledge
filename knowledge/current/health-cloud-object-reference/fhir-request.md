@@ -5,12 +5,10 @@ topic: fhir-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:52.850Z
+lastCollected: 2026-04-07T18:37:40.837Z
 estimatedTokens: 274
-keywords: [FHIR, Input, representation, supply, medication, along, how, administered]
+keywords: [FHIR, supply, medication, along, how, administered]
 ---
-
-# FHIR Request
 
 > Input representation for the supply of medication, along with
       information about how it should be administered.

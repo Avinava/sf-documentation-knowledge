@@ -5,12 +5,10 @@ topic: cnfgmgmtdiscoveryagentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:10.123Z
+lastCollected: 2026-04-07T18:35:55.228Z
 estimatedTokens: 343
-keywords: [CnfgMgmtDiscoveryAgentDef, discovery, agents, installed, various, operating, systems, Acts, parent, groups, agent, instances, system, Captures, metadata]
+keywords: [CnfgMgmtDiscoveryAgentDef, discovery, agents, installed, various, operating, systems, Acts, parent, groups, agent, instances, system, Captures, metadata, upgrade, preferences, API, 65.0]
 ---
-
-# CnfgMgmtDiscoveryAgentDef
 
 > Represents discovery agents installed on various operating systems. Acts as a
          parent object that groups agent instances by type and operating system. Captures metadata

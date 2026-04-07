@@ -5,12 +5,10 @@ topic: omniscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.235Z
+lastCollected: 2026-04-07T18:37:35.928Z
 estimatedTokens: 2517
-keywords: [OmniScript, Discovery, Framework, guides, users, sales, service, business, processes, customization, discoveryframework, Parent, File, Suffix, Directory]
+keywords: [OmniScript, AssessmentDefinitionMetadata, OmniAssessmentTaskMetadata, OmniProcessElement, Discovery, Framework, guides, users, sales, service, business, processes, customization, discoveryframework, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# OmniScript
 
 > Represents an OmniScript for the Discovery Framework, which
 			guides users through sales, service, and other business processes. For Discovery

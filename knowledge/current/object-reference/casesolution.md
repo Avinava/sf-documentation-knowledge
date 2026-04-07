@@ -5,12 +5,10 @@ topic: casesolution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:36.690Z
+lastCollected: 2026-04-07T18:38:27.655Z
 estimatedTokens: 341
-keywords: [CaseSolution, association, Case, Solution, Calls, Usage]
+keywords: [CaseSolution, association, Case, Solution]
 ---
-
-# CaseSolution
 
 > Represents the association between a Case and a
         Solution.

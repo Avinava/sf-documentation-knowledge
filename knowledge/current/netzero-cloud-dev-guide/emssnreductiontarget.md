@@ -5,12 +5,10 @@ topic: emssnreductiontarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:27.964Z
+lastCollected: 2026-04-07T18:38:18.491Z
 estimatedTokens: 3680
-keywords: [EmssnReductionTarget, science-based, non-science-based, target, company, fulfill, emissions, reduction, commitment, company’s, goal, reduce, carbon, increase, renewable]
+keywords: [EmssnReductionTarget, science-based, non-science-based, target, company, fulfill, emissions, reduction, commitment, company’s, goal, reduce, carbon, increase, renewable, energy, reaching, metric, tonnes, CO2e, tCO2e, specific, timeframe, API, 54.0]
 ---
-
-# EmssnReductionTarget
 
 > Represents information about the science-based or non-science-based target set by a company to fulfill its emissions reduction commitment. This target indicates the company’s emissions reduction goal. A company’s emissions reduction goal could be to reduce carbon emissions or increase renewable energy for reaching a target metric tonnes of CO2e (tCO2e) within a specific timeframe. This object is available in API version 54.0 and later.
 

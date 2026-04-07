@@ -5,12 +5,10 @@ topic: documentrecipientfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:43.798Z
+lastCollected: 2026-04-07T18:39:38.479Z
 estimatedTokens: 361
-keywords: [DocumentRecipientFeed, Feed, tracking, DocumentRecipient]
+keywords: [DocumentRecipientFeed, DocumentRecipient]
 ---
-
-# DocumentRecipientFeed
 
 > Feed tracking for DocumentRecipient.
 

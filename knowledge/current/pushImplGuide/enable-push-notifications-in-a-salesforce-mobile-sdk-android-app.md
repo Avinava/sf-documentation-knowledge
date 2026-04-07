@@ -5,12 +5,10 @@ topic: enable-push-notifications-in-a-salesforce-mobile-sdk-android-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:15.914Z
+lastCollected: 2026-04-07T18:39:09.237Z
 estimatedTokens: 423
 keywords: [Enable, Push, Notifications, Salesforce, Mobile, SDK, Android, App, project, number, Google, authorized, send, devices]
 ---
-
-# Enable Push Notifications in a Salesforce Mobile SDK Android App
 
 > This example value represents the project number of the Google
 project that is authorized to send push notifications to Android devices.

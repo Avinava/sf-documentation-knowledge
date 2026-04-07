@@ -5,12 +5,10 @@ topic: field-service-recordset-filter-criteria-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:26.906Z
+lastCollected: 2026-04-07T18:37:13.870Z
 estimatedTokens: 249
 keywords: [Service, Recordset, Filter, Criteria, Resource, records]
 ---
-
-# Field Service Recordset Filter Criteria Resource
 
 > Filter records on recordset filter criteria.
 

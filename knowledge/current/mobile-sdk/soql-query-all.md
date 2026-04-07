@@ -5,12 +5,10 @@ topic: soql-query-all
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:32.212Z
+lastCollected: 2026-04-07T18:40:27.398Z
 estimatedTokens: 202
-keywords: [SOQL, Query, Executes, result, includes, current, deleted, objects, satisfy, iOS, Android]
+keywords: [Android, SOQL, Query, Executes, result, includes, current, deleted, satisfy, iOS]
 ---
-
-# SOQL Query All
 
 > Executes the given SOQL string. The result includes all current and deleted objects
         that satisfy the query.

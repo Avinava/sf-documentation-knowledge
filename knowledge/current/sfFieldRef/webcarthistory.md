@@ -5,12 +5,10 @@ topic: webcarthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:11.617Z
+lastCollected: 2026-04-07T18:40:06.523Z
 estimatedTokens: 262
-keywords: [WebCartHistory, history, changes, WebCart]
+keywords: [WebCartHistory, changes, WebCart]
 ---
-
-# WebCartHistory
 
 > WebCartHistory represents the history of changes to the values in
 			the fields of the WebCart object.

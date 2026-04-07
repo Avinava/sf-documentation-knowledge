@@ -5,12 +5,10 @@ topic: styling-pages-that-use-standard-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:58.873Z
+lastCollected: 2026-04-07T18:38:51.114Z
 estimatedTokens: 340
-keywords: [Styling, Pages, Standard, Controllers, Any, associated, controller, automatically, inherits, style, Salesforce, tab, appears, selected, color]
+keywords: [Styling, Pages, Standard, Controllers, Any, controller, automatically, inherits, style, Salesforce, tab, appears, selected, color]
 ---
-
-# Styling Pages that Use Standard Controllers
 
 > Any page associated with a standard controller automatically inherits
 the style that is used for standard Salesforce pages

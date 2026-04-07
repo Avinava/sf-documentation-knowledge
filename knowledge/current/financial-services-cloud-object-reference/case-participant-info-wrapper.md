@@ -5,12 +5,10 @@ topic: case-participant-info-wrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:47.032Z
+lastCollected: 2026-04-07T18:37:34.579Z
 estimatedTokens: 329
-keywords: [Case, Participant, Info, Wrapper, Input, representation, associated, complaint]
+keywords: [Case, Participant, Info, Wrapper, complaint]
 ---
-
-# Case Participant Info Wrapper
 
 > Input representation of a case participant associated with the
       complaint.

@@ -5,12 +5,10 @@ topic: aiscoringstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:29.946Z
+lastCollected: 2026-04-07T18:39:23.882Z
 estimatedTokens: 257
-keywords: [AIScoringStatusEvent, Notifies, subscribers, scoring, job, started, services, data, release, version, connect, aiaccelerator, predictions, REST, executed]
+keywords: [AIScoringStatusEvent, Notifies, subscribers, scoring, job, started, services, release, connect, aiaccelerator, predictions, REST, executed, asynchronous, mode]
 ---
-
-# AIScoringStatusEvent
 
 > Notifies subscribers when the scoring job started by the
 			/services/data/{release version}/connect/aiaccelerator/predictions REST request,

@@ -5,12 +5,10 @@ topic: link-program-member-partner
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:17.320Z
+lastCollected: 2026-04-07T18:38:07.544Z
 estimatedTokens: 272
-keywords: [Link, Program, Member, Partner, loyalty, Enable, integration, members, ecosystems, allowing, earn, redeem, manage, benefits, across, Output, representation, linkage]
+keywords: [Link, Program, Member, Partner, loyalty, Enable, integration, members, ecosystems, allowing, earn, redeem, manage, benefits, across, connected, programs, API, simplifies, account, linkage, enhances, transparency, supports, real-time, synchronization, systems]
 ---
-
-# Link Program Member Partner
 
 > Link a loyalty program member with a specified partner program. Enable integration
     between loyalty members and partner ecosystems, allowing members to earn, redeem, and manage

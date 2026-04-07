@@ -5,12 +5,10 @@ topic: authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:12.792Z
+lastCollected: 2026-04-07T18:40:07.727Z
 estimatedTokens: 1887
-keywords: [Authorization, refers, logging, org, run, commands, require, access, Creating, CLI, command, automatically, authorizes, authorize, Dev]
+keywords: [Authorization, refers, logging, org, run, commands, require, Creating, CLI, command, automatically, authorizes, authorize, Dev, Hub, allow, manage, Salesforce, scratch, orgs, project, local, machine]
 ---
-
-# Authorization
 
 > Authorization refers to logging into an org so you can run commands that require access
       to the org. Creating an org with a CLI command also automatically authorizes it. For example,

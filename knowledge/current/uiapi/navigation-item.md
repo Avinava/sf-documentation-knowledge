@@ -5,12 +5,10 @@ topic: navigation-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:06:16.918Z
+lastCollected: 2026-04-07T18:40:11.924Z
 estimatedTokens: 1012
 keywords: [Navigation, Item, metadata, tab]
 ---
-
-# Navigation Item
 
 > The metadata for a single navigation item (tab).
 

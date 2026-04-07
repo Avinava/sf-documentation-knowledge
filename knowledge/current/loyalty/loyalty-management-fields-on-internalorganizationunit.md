@@ -5,12 +5,10 @@ topic: loyalty-management-fields-on-internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:19.766Z
+lastCollected: 2026-04-07T18:38:10.082Z
 estimatedTokens: 332
-keywords: [Loyalty, Management, InternalOrganizationUnit, Standard, extend, represent, Promotion, Management’s, connection, Marketing, Cloud, business, unit, API, version]
+keywords: [Loyalty, Management, InternalOrganizationUnit, Standard, extend, represent, Promotion, Management’s, connection, Marketing, Cloud, business, unit, API, 60.0]
 ---
-
-# Loyalty Management Fields on InternalOrganizationUnit
 
 > Standard fields extend the InternalOrganizationUnit object for use in Loyalty
          Management to represent to information about Global Promotion Management’s connection with

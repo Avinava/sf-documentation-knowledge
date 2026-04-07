@@ -5,13 +5,11 @@ topic: database-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:28.558Z
+lastCollected: 2026-04-07T18:36:13.863Z
 estimatedTokens: 75645
 namespace: System
-keywords: [Database, Initiates, requests, external, data, corresponds, records, executed, asynchronously, background, operation, sent, system, that's, defined]
+keywords: [Database, Initiates, requests, external, corresponds, records, executed, asynchronously, background, operation, sent, system, that's, defined, object's, source, referencing, callback, whose, processDelete, record, deletion, convertLead, leadToConvert, allOrNone, leadsToConvert, dmlOptions, accessLevel, countQuery, query, countQueryWithBinds, bindMap, recordToDelete, recordsToDelete, recordID, recordIDs, deleteAsync, sobjects, sobject, deleteImmediate, emptyRecycleBin, obj, listOfSObjects, executeBatch, batchClassObject, Versioned, Behavior, Changes, scope, getAsyncDeleteResult, deleteResult, asyncLocator, getAsyncLocator, result, getAsyncSaveResult, saveResult, getCursor, getCursorWithBinds, getDeleted, sObjectType, startDate, endDate, getPaginationCursor, getPaginationCursorWithBinds, getQueryLocator, staticSoqlQueryResult, getQueryLocatorWithBinds, getUpdated, insert, recordToInsert, recordsToInsert, insertAsync, Signature>, Parameters>, Value>, Usage>, insertImmediate, merge, mergeToRecord, duplicateId, duplicateRecord, duplicateIds, duplicateRecords, queryString, queryWithBinds, releaseSavepoint, databaseSavepoint, rollback, setSavepoint, undelete, recordToUndelete, recordsToUndelete, recordToUpdate, recordsToUpdate, upsert, recordToUpsert, externalIdField, recordsToUpsert, updateAsync, updateImmediate]
 ---
-
-# Database Class
 
 > Initiates requests to delete the external data that corresponds to
             the specified external object records. The request is executed asynchronously, as a

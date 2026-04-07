@@ -5,12 +5,10 @@ topic: considerations-for-package-migrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T09:05:01.751Z
+lastCollected: 2026-04-07T18:38:54.120Z
 estimatedTokens: 460
 keywords: [Considerations, Package, Migrations, Review, limits, converting, migrating, packages]
 ---
-
-# Considerations for Package Migrations
 
 > Review these limits and considerations for converting and migrating packages.
 

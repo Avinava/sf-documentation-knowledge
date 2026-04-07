@@ -5,12 +5,10 @@ topic: document-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:38.238Z
+lastCollected: 2026-04-07T18:37:25.173Z
 estimatedTokens: 154
 keywords: [Document, Record]
 ---
-
-# Document Record
 
 > Document record.
 

@@ -5,12 +5,10 @@ topic: userprovisioninglog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:10.681Z
+lastCollected: 2026-04-07T18:40:05.548Z
 estimatedTokens: 367
-keywords: [UserProvisioningLog, messages, generated, process, provisioning, users, third-party, applications, API, version, 33.0, later]
+keywords: [UserProvisioningLog, messages, generated, process, provisioning, users, third-party, applications, API, 33.0]
 ---
-
-# UserProvisioningLog
 
 > Represents messages generated during the process of provisioning users
       for third-party applications. This object is available in API

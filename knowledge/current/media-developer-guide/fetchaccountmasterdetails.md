@@ -5,12 +5,10 @@ topic: fetchaccountmasterdetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:21.078Z
+lastCollected: 2026-04-07T18:38:11.344Z
 estimatedTokens: 138
-keywords: [FetchAccountMasterDetails, Omnistudio, Data, Mapper, fetch, account, custom, Sample, Input, Output]
+keywords: [FetchAccountMasterDetails, Omnistudio, Mapper, fetch, account, Sample]
 ---
-
-# FetchAccountMasterDetails
 
 > This Omnistudio Data Mapper is used to fetch account details
     for a custom account.

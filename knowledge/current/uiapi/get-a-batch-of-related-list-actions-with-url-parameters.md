@@ -5,12 +5,10 @@ topic: get-a-batch-of-related-list-actions-with-url-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:06:16.501Z
+lastCollected: 2026-04-07T18:40:11.495Z
 estimatedTokens: 630
 keywords: [Batch, Actions, URL, record, via]
 ---
-
-# Get a Batch of Related List Actions with URL Parameters
 
 > Get the actions on a batch of related lists for a record via URL
       parameters.

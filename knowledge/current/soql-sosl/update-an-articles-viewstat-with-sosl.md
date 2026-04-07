@@ -5,12 +5,10 @@ topic: update-an-articles-viewstat-with-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:15.388Z
+lastCollected: 2026-04-07T18:40:10.353Z
 estimatedTokens: 224
-keywords: [Article’s, Viewstat, SOSL, Determine, how, hits, Salesforce, Knowledge, article, had, clause, query, language, attribute, search]
+keywords: [Article’s, Viewstat, SOSL, Determine, how, hits, Salesforce, Knowledge, article, had, clause, query, language, attribute, search, locale]
 ---
-
-# Update an Article’s Viewstat with SOSL
 
 > Determine how many hits a Salesforce Knowledge article has had by using the
             UPDATE VIEWSTAT optional clause on a SOSL query. You

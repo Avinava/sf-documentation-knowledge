@@ -5,12 +5,10 @@ topic: create-a-custom-authentication-provider-plug-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:33.667Z
+lastCollected: 2026-04-07T18:36:18.887Z
 estimatedTokens: 583
-keywords: [Custom, Authentication, Provider, Plug-in, Apex, OAuth-based, sign-on, SSO, Salesforce, Sample, Classes, Test]
+keywords: [Authentication, Provider, Plug-in, Apex, OAuth-based, sign-on, SSO, Salesforce, Sample, Classes, Test]
 ---
-
-# Create a Custom Authentication Provider Plug-in
 
 > You can use Apex to create a custom OAuth-based authentication provider plug-in for
         single sign-on (SSO) to Salesforce.

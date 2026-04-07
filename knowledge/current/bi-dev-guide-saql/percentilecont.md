@@ -5,12 +5,10 @@ topic: percentilecont
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:13.927Z
+lastCollected: 2026-04-07T18:37:00.441Z
 estimatedTokens: 360
 keywords: [percentile_cont, Calculates, percentile, continuous, distribution, column, _cont, Display, Interpolated, Bottom, 15%, Deals]
 ---
-
-# percentile_cont()
 
 > Calculates a percentile based on a continuous distribution of the column
             value.

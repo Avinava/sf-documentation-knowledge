@@ -5,12 +5,10 @@ topic: decision-explainer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:10.158Z
+lastCollected: 2026-04-07T18:39:03.387Z
 estimatedTokens: 237
 keywords: [Decision, Explainer, Give, caseworkers, insights, eligibility, determinations, calculation, share, reasoning, behind, application, decisions, constituents]
 ---
-
-# Decision Explainer
 
 > Give caseworkers insights into eligibility determinations and
             calculation details, and share the reasoning behind application decisions with

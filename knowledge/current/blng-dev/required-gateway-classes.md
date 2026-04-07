@@ -5,12 +5,10 @@ topic: required-gateway-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:16.510Z
+lastCollected: 2026-04-07T18:37:03.073Z
 estimatedTokens: 543
 keywords: [Gateway, Classes, payment, records, require, several, communicate, regardless, Specific, may, additional]
 ---
-
-# Required Gateway Classes
 
 > All payment gateway and payment method records require several fields to communicate
   with the payment gateway, regardless of the gateway type. Specific gateway types may also require

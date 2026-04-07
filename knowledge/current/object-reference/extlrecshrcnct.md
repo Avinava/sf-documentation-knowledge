@@ -5,12 +5,10 @@ topic: extlrecshrcnct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:04:41.150Z
+lastCollected: 2026-04-07T18:38:32.110Z
 estimatedTokens: 450
-keywords: [ExtlRecShrCnct, authentication, data, outbound, calls, inbound, external, system, publish, events, Partner, Connect, API, version, 62.0]
+keywords: [ExtlRecShrCnct, authentication, outbound, inbound, external, system, publish, events, Partner, Connect, API, 62.0]
 ---
-
-# ExtlRecShrCnct
 
 > Represents authentication data to make outbound calls to and inbound
          calls from an external system to publish events for Partner Connect. This object is

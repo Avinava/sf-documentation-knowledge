@@ -5,12 +5,10 @@ topic: partyfinancialliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:48.121Z
+lastCollected: 2026-04-07T18:37:35.794Z
 estimatedTokens: 2670
-keywords: [PartyFinancialLiability, financial, liability, held, party, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
+keywords: [PartyFinancialLiability, financial, liability, held, party, API, 61.0]
 ---
-
-# PartyFinancialLiability
 
 > Represents information about a financial liability held by a
          party. This object is available in API version 61.0 and later.

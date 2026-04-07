@@ -5,12 +5,10 @@ topic: crm-analytics-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:07.931Z
+lastCollected: 2026-04-07T18:36:54.303Z
 estimatedTokens: 1840
-keywords: [CRM, Analytics, Configuration, Now, Lightning, Web, Component, code, ready, it’s, time, bring, dashboard, Basic, Advanced]
+keywords: [CRM, Analytics, Configuration, Now, Lightning, Web, code, ready, it’s, time, bring, dashboard, Basic, Advanced, SOQL, Query, End-User, Step]
 ---
-
-# CRM Analytics Configuration
 
 > Now that the Lightning Web Component code is ready to go, it’s time to bring the
     component into a CRM Analytics dashboard.

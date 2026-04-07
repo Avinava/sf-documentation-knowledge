@@ -5,12 +5,10 @@ topic: learning-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:42.532Z
+lastCollected: 2026-04-07T18:37:29.611Z
 estimatedTokens: 238
-keywords: [Learning, Output, representation, detailed, specific, item]
+keywords: [Learning, detailed, specific, item]
 ---
-
-# Learning Details
 
 > Output representation of the detailed information about a specific learning
     item.

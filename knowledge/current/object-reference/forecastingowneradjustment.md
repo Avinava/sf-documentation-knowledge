@@ -5,12 +5,10 @@ topic: forecastingowneradjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:41.970Z
+lastCollected: 2026-04-07T18:38:33.032Z
 estimatedTokens: 1951
-keywords: [ForecastingOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, including, territory, forecasts, they, via, ForecastingItem, API, versions]
+keywords: [ForecastingOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, including, territory, forecasts, they, via, ForecastingItem, API, versions, 33.0, different, ForecastingAdjustment, managers’, adjustments, subordinates’, child, territories’]
 ---
-
-# ForecastingOwnerAdjustment
 
 > This object represents an individual forecast user’s adjustment of
 			their own forecast, including territory forecasts they own, via a

@@ -5,12 +5,10 @@ topic: todate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:14.402Z
+lastCollected: 2026-04-07T18:37:00.972Z
 estimatedTokens: 612
-keywords: [toDate, Converts, Unix, epoch, seconds, date, another, function, daysBetween, cannot, filter, Display, Exact, Opportunity, Opened]
+keywords: [toDate, Converts, Unix, epoch, seconds, date, another, function, daysBetween, cannot, filter, Display, Exact, Opportunity, Opened, Number, Days, Since]
 ---
-
-# toDate()
 
 > Converts a string or Unix epoch seconds to a date. Returns a date that can be used in
         another function such as daysBetween(​). The returned

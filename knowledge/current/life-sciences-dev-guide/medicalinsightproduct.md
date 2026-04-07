@@ -5,12 +5,10 @@ topic: medicalinsightproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:11.099Z
+lastCollected: 2026-04-07T18:38:00.890Z
 estimatedTokens: 394
-keywords: [MedicalInsightProduct, product, medical, insight, Calls]
+keywords: [MedicalInsightProduct, product, medical, insight]
 ---
-
-# MedicalInsightProduct
 
 > Represents the product related to the medical insight.
 

@@ -5,12 +5,10 @@ topic: managed-content-channel-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:33.049Z
+lastCollected: 2026-04-07T18:37:20.244Z
 estimatedTokens: 171
-keywords: [Managed, Content, Channel, Domain, associated]
+keywords: [Managed, Content, Channel, Domain]
 ---
-
-# Managed Content Channel Domain
 
 > Domain associated with the managed content channel.
 

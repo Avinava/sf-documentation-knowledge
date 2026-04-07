@@ -5,12 +5,10 @@ topic: getevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:15.209Z
+lastCollected: 2026-04-07T18:38:05.403Z
 estimatedTokens: 49
-keywords: [getEvent, new, event, instance, named, component, Sample, Code]
+keywords: [getEvent, new, event, instance, named, Sample, Code]
 ---
-
-# getEvent()
 
 > Returns a new event instance of the named component
   event.

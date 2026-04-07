@@ -5,12 +5,10 @@ topic: eligible-plan-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.024Z
+lastCollected: 2026-04-07T18:37:52.153Z
 estimatedTokens: 121
-keywords: [Eligible, Plan, Output, representation, plans]
+keywords: [Eligible, Plan, plans]
 ---
-
-# Eligible Plan Details
 
 > Output representation for the details of the eligible plans.
 

@@ -5,12 +5,10 @@ topic: locationfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:52.486Z
+lastCollected: 2026-04-07T18:39:46.968Z
 estimatedTokens: 357
-keywords: [LocationFeed, Feed, tracking, Location]
+keywords: [LocationFeed, Location]
 ---
-
-# LocationFeed
 
 > Feed tracking for Location.
 

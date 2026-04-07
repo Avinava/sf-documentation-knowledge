@@ -5,13 +5,11 @@ topic: getappointmentcandidatesinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:17.441Z
+lastCollected: 2026-04-07T18:36:02.649Z
 estimatedTokens: 4338
 namespace: LxScheduler
-keywords: [GetAppointmentCandidatesInputBuilder, build, instance, setAccountId, accountId, setAllowConcurrent, allowConcurrent, setApiVersion, apiVersion, Usage, setCorrelationId, correlationId, setEndTime, endTime, setEngagementChannelTypeIds]
+keywords: [GetAppointmentCandidatesInputBuilder, build, instance, setAccountId, accountId, setAllowConcurrent, allowConcurrent, setApiVersion, apiVersion, setCorrelationId, correlationId, setEndTime, endTime, setEngagementChannelTypeIds, engagementChannelTypeIds, setFilterByResources, filterByResources, setResourceLimitApptDistribution, resourceLimitApptDistribution, setSchedulingPolicyId, schedulingPolicyId, setStartTime, startTime, setTerritoryIds, territoryIds, setWorkType, workType, setWorkTypeGroupId, workTypeGroupId]
 ---
-
-# GetAppointmentCandidatesInputBuilder Class
 
 > Contains methods to build an instance of the lxscheduler.GetAppointmentCandidatesInput
     class.

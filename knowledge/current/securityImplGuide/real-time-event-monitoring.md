@@ -5,12 +5,10 @@ topic: real-time-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:28.894Z
+lastCollected: 2026-04-07T18:39:22.808Z
 estimatedTokens: 1280
-keywords: [Real-Time, Event, Monitoring, helps, monitor, detect, standard, events, Salesforce, near, store, data, auditing, reporting, purposes]
+keywords: [Real-Time, Event, Monitoring, helps, monitor, detect, standard, events, Salesforce, near, store, auditing, reporting, purposes, transaction, security, policies, Condition, Builder—a, point-and-click, tool—or, Apex, code]
 ---
-
-# Real-Time Event Monitoring
 
 > Real-Time Event Monitoring helps you monitor and detect standard events
     in Salesforce in near real-time. You can store the event data for auditing or reporting

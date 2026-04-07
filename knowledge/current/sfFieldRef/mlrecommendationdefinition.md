@@ -5,13 +5,11 @@ topic: mlrecommendationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:53.370Z
+lastCollected: 2026-04-07T18:39:47.778Z
 estimatedTokens: 266
 namespace: NamespacePrefix
 keywords: [MLRecommendationDefinition, internal]
 ---
-
-# MLRecommendationDefinition
 
 > For internal use only.
 

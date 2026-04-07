@@ -5,12 +5,10 @@ topic: component-composition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:12.833Z
+lastCollected: 2026-04-07T18:38:02.764Z
 estimatedTokens: 872
-keywords: [Component, Composition, Composing, fine-grained, components, larger, build, interesting, applications, Attribute, Passing, Definitions, versus, Instances]
+keywords: [Composition, Composing, fine-grained, larger, build, interesting, applications, Attribute, Passing, Definitions, versus, Instances]
 ---
-
-# Component Composition
 
 > Composing fine-grained components in a larger component
 enables you to build more interesting components and applications.

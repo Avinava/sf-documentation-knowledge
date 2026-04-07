@@ -5,12 +5,10 @@ topic: merchaccpaymentmethodsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:05:54.238Z
+lastCollected: 2026-04-07T18:39:48.695Z
 estimatedTokens: 280
-keywords: [MerchAccPaymentMethodSetHistory, History, tracked, MerchAccPaymentMethodSet]
+keywords: [MerchAccPaymentMethodSetHistory, tracked, MerchAccPaymentMethodSet]
 ---
-
-# MerchAccPaymentMethodSetHistory
 
 > History for tracked fields of MerchAccPaymentMethodSet.
 

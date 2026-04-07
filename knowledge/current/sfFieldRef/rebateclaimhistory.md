@@ -5,12 +5,10 @@ topic: rebateclaimhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:03.861Z
+lastCollected: 2026-04-07T18:39:58.519Z
 estimatedTokens: 167
-keywords: [RebateClaimHistory, History, tracked, RebateClaim]
+keywords: [RebateClaimHistory, tracked, RebateClaim]
 ---
-
-# RebateClaimHistory
 
 > History for tracked fields of RebateClaim.
 

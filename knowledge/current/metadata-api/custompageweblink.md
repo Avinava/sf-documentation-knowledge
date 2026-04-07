@@ -5,12 +5,10 @@ topic: custompageweblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:36.627Z
+lastCollected: 2026-04-07T18:36:21.862Z
 estimatedTokens: 1884
-keywords: [CustomPageWebLink, custom, link, defined, home, component, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition]
+keywords: [CustomPageWebLink, link, defined, home, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---
-
-# CustomPageWebLink
 
 > Represents a custom link defined in a home page
             component.

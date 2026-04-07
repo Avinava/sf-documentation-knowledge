@@ -5,12 +5,10 @@ topic: connectapiiplstandingmappedscopes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:01.504Z
+lastCollected: 2026-04-07T18:37:50.339Z
 estimatedTokens: 152
-keywords: [ConnectApi.IPLStandingMappedScopes, Invocable, action, output, representation, insurance, policy, limit, standing, mapped, scopes]
+keywords: [ConnectApi.IPLStandingMappedScopes, Invocable, action, insurance, policy, limit, standing, mapped, scopes]
 ---
-
-# ConnectApi.IPLStandingMappedScopes
 
 > Invocable action output representation for insurance policy limit standing mapped
     scopes.

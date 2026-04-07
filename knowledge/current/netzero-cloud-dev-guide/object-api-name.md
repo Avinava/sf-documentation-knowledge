@@ -5,12 +5,10 @@ topic: object-api-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:04:25.704Z
+lastCollected: 2026-04-07T18:38:16.257Z
 estimatedTokens: 121
-keywords: [API, Retrieve, JSON, further, CSV, template, uploading, data]
+keywords: [API, Retrieve, JSON, further, CSV, template, uploading]
 ---
-
-# Object API Name
 
 > Retrieve information of an object in JSON format, which can be used
       further to create a CSV template for uploading data.

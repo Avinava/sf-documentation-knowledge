@@ -5,12 +5,10 @@ topic: base-components-with-built-in-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:24.862Z
+lastCollected: 2026-04-07T18:38:15.352Z
 estimatedTokens: 706
-keywords: [Base, Components, Built-In, Navigation, Actions, automatic]
+keywords: [Base, Built-In, Navigation, Actions, automatic]
 ---
-
-# Base Components with Built-In Navigation Actions
 
 > Use base components that have automatic or built-in navigation actions.
 

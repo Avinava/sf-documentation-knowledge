@@ -5,12 +5,10 @@ topic: verificationmethod-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:02:27.151Z
+lastCollected: 2026-04-07T18:36:12.440Z
 estimatedTokens: 606
 keywords: [VerificationMethod, different, ways, users, identify, themselves, logging, implement, mobile-centric, passwordless, login, pages, self-register, deregister, verification]
 ---
-
-# VerificationMethod Enum
 
 > Contains the different ways users can identify themselves when
       logging in. You can use it to implement mobile-centric passwordless login pages and to

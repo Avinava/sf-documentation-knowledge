@@ -5,12 +5,10 @@ topic: policy-limit-tracking-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:03.113Z
+lastCollected: 2026-04-07T18:37:52.260Z
 estimatedTokens: 377
-keywords: [Policy, Limit, Tracking, Output, representation, insurance]
+keywords: [Policy, Limit, insurance]
 ---
-
-# Policy Limit Tracking Details
 
 > Output representation for the insurance policy limit tracking details.
 

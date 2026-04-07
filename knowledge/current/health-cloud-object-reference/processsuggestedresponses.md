@@ -5,12 +5,10 @@ topic: processsuggestedresponses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:03:52.322Z
+lastCollected: 2026-04-07T18:37:40.292Z
 estimatedTokens: 146
-keywords: [processSuggestedResponses, Calls, prompt, service, suggested, responses]
+keywords: [processSuggestedResponses, prompt, service, suggested, responses]
 ---
-
-# processSuggestedResponses
 
 > Calls the prompt service to get the suggested
     responses.

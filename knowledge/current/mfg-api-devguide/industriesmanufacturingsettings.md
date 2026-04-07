@@ -5,12 +5,10 @@ topic: industriesmanufacturingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:22.763Z
+lastCollected: 2026-04-07T18:38:13.087Z
 estimatedTokens: 1060
-keywords: [IndustriesManufacturingSettings, settings, enabling, Manufacturing, cloud, features, Account, Forecasts, Manager, Targets, Programs, program-based, business, Sales, Agreements]
+keywords: [IndustriesManufacturingSettings, settings, enabling, Manufacturing, cloud, features, Account, Forecasts, Manager, Targets, Programs, program-based, business, Sales, Agreements, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
-
-# IndustriesManufacturingSettings
 
 > Represents the settings for enabling
       Manufacturing cloud features like Account Forecasts, Account Manager Targets, Manufacturing

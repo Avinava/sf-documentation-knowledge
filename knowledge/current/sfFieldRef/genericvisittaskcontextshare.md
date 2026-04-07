@@ -5,12 +5,10 @@ topic: genericvisittaskcontextshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:47.805Z
+lastCollected: 2026-04-07T18:39:42.435Z
 estimatedTokens: 254
 keywords: [GenericVisitTaskContextShare, Sharing, GenericVisitTaskContext]
 ---
-
-# GenericVisitTaskContextShare
 
 > Sharing for GenericVisitTaskContext.
 

@@ -5,12 +5,10 @@ topic: catalog-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.227Z
+lastCollected: 2026-04-07T18:35:44.187Z
 estimatedTokens: 298
 keywords: [Catalog, POST, paginated, catalogs, API, composite, Product, Discovery, Retrieve, search, filter, sort, records]
 ---
-
-# Catalog List (POST)
 
 > Retrieve, search, filter, or sort catalog
     records.

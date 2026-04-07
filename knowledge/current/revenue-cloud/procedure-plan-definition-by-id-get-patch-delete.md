@@ -5,12 +5,10 @@ topic: procedure-plan-definition-by-id-get-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T09:01:59.541Z
+lastCollected: 2026-04-07T18:35:44.533Z
 estimatedTokens: 713
 keywords: [Procedure, Plan, Definition, PATCH, record]
 ---
-
-# Procedure Plan Definition By ID (GET, PATCH, DELETE)
 
 > Get, update, or delete a procedure plan definition record by using the
       record ID.

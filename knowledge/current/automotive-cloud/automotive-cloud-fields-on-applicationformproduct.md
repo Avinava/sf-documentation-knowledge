@@ -5,12 +5,10 @@ topic: automotive-cloud-fields-on-applicationformproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:05.956Z
+lastCollected: 2026-04-07T18:36:52.384Z
 estimatedTokens: 426
 keywords: [Automotive, Cloud, ApplicationFormProduct, Standard, extend, represent, relationship, application, form, product, deviation]
 ---
-
-# Automotive Cloud Fields on ApplicationFormProduct
 
 > Standard fields extend the ApplicationFormProduct object for use in
          Automotive Cloud to represent the relationship between an application form product and a

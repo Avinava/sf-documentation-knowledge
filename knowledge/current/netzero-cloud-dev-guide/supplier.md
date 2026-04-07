@@ -5,12 +5,10 @@ topic: supplier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:04:29.102Z
+lastCollected: 2026-04-07T18:38:19.778Z
 estimatedTokens: 733
-keywords: [Supplier, that’s, climate-committed, company, API, version, 54.0, later, Calls, Associated, Objects]
+keywords: [Supplier, that’s, climate-committed, company, API, 54.0]
 ---
-
-# Supplier
 
 > Represents information about the supplier that’s related to a climate-committed company. This object is available in API version 54.0 and later.
 

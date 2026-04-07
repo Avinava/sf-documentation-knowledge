@@ -5,12 +5,10 @@ topic: date-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:03:15.072Z
+lastCollected: 2026-04-07T18:37:01.685Z
 estimatedTokens: 708
-keywords: [Date, Functions, SQL, CRM, Analytics, supports, DateTime, DateOnly, you’re, familiar, standard, corresponds, SQL’s, SQL's, Timestamp]
+keywords: [Date, Functions, SQL, CRM, Analytics, supports, DateTime, DateOnly, you’re, familiar, standard, corresponds, SQL’s, SQL's, Timestamp, time, zone, support, org, doesn’t, zones, GMT]
 ---
-
-# Date Functions
 
 > SQL for CRM Analytics supports DateTime, DateOnly, and Date date
     types. If you’re familiar with standard SQL, the DateOnly

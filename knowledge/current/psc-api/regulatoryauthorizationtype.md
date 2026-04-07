@@ -5,12 +5,10 @@ topic: regulatoryauthorizationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:14.441Z
+lastCollected: 2026-04-07T18:39:07.663Z
 estimatedTokens: 994
-keywords: [RegulatoryAuthorizationType, authorization, issued, regulatory, Calls, Associated, Objects]
+keywords: [RegulatoryAuthorizationType, authorization, issued, regulatory]
 ---
-
-# RegulatoryAuthorizationType
 
 > Represents the authorization issued by the regulatory body.
 

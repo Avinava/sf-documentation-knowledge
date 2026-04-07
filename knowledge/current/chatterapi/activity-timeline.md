@@ -5,12 +5,10 @@ topic: activity-timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.306Z
+lastCollected: 2026-04-07T18:37:23.421Z
 estimatedTokens: 401
-keywords: [Activity, Timeline, Output, representation, event, payment]
+keywords: [Activity, Timeline, event, payment]
 ---
-
-# Activity Timeline
 
 > Output representation of the event details of the payment activity timeline.
 

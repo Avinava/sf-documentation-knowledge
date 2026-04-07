@@ -5,12 +5,10 @@ topic: zone-search-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:03:36.797Z
+lastCollected: 2026-04-07T18:37:23.850Z
 estimatedTokens: 235
 keywords: [Zone, Search, Result, Chatter, Answers]
 ---
-
-# Zone Search Result
 
 > The result of a search within a Chatter Answers zone.
 

@@ -5,12 +5,10 @@ topic: result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:23.416Z
+lastCollected: 2026-04-07T18:40:18.616Z
 estimatedTokens: 263
-keywords: [Result, base, objects]
+keywords: [Result, base]
 ---
-
-# Result
 
 > The Result object is the base class for all result objects.
 

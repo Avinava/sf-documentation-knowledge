@@ -5,12 +5,10 @@ topic: scope3pcmtitemfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:06.164Z
+lastCollected: 2026-04-07T18:40:00.933Z
 estimatedTokens: 360
-keywords: [Scope3PcmtItemFeed, Feed, tracking, Scope3PcmtItem]
+keywords: [Scope3PcmtItemFeed, Scope3PcmtItem]
 ---
-
-# Scope3PcmtItemFeed
 
 > Feed tracking for Scope3PcmtItem.
 

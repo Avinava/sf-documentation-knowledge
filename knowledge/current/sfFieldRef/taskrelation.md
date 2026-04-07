@@ -5,12 +5,10 @@ topic: taskrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:06:08.981Z
+lastCollected: 2026-04-07T18:40:03.701Z
 estimatedTokens: 324
-keywords: [TaskRelation, relationship, task, lead, contacts, objects, Shared, Activities, enabled, doesn’t, support, triggers, workflow, data, validation]
+keywords: [TaskRelation, relationship, task, lead, contacts, Shared, Activities, enabled, doesn’t, support, triggers, workflow, validation]
 ---
-
-# TaskRelation
 
 > Represents the relationship between
                 a task and a lead, contacts, and other objects related to the task. If Shared

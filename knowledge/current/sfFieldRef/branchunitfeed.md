@@ -5,12 +5,10 @@ topic: branchunitfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:05:35.947Z
+lastCollected: 2026-04-07T18:39:30.072Z
 estimatedTokens: 386
-keywords: [BranchUnitFeed, Feed, tracking, BranchUnit]
+keywords: [BranchUnitFeed, BranchUnit]
 ---
-
-# BranchUnitFeed
 
 > Feed tracking for BranchUnit.
 

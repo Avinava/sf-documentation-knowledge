@@ -5,12 +5,10 @@ topic: fulfillmentassetattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T09:02:04.134Z
+lastCollected: 2026-04-07T18:35:49.099Z
 estimatedTokens: 438
-keywords: [FulfillmentAssetAttribute, attribute, fulfillment, asset, API, version, 61.0, later, Calls]
+keywords: [FulfillmentAssetAttribute, attribute, fulfillment, asset, API, 61.0]
 ---
-
-# FulfillmentAssetAttribute
 
 > Represents an attribute of a fulfillment asset. This object is
       available in API version 61.0 and later.

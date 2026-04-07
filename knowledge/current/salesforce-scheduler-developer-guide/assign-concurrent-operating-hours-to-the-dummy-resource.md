@@ -5,12 +5,10 @@ topic: assign-concurrent-operating-hours-to-the-dummy-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T09:05:27.309Z
+lastCollected: 2026-04-07T18:39:21.124Z
 estimatedTokens: 192
-keywords: [Assign, Concurrent, Operating, Hours, Dummy, Resource, service, territory, member, respective, record, time, slots, applicable, members]
+keywords: [Assign, Concurrent, Operating, Hours, Dummy, Resource, service, territory, member, respective, record, time, slots, applicable, members, visible, creating, appointment, scheduling]
 ---
-
-# Assign Concurrent Operating Hours to the Dummy Resource
 
 > Assign operating hours to a service territory member by using the Operating Hours
       field on the respective member record page. Concurrent time slots are applicable only to
