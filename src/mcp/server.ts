@@ -125,7 +125,7 @@ function suggestNext(
 // ─── Tool 1: sf_search ──────────────────────────────────────────
 server.tool(
   "sf_search",
-  "Search across all 121 Salesforce documentation domains for a topic. Returns matching documents with titles, domains, and descriptions.",
+  "Search across all Salesforce documentation domains for a topic. Returns matching documents with titles, domains, and descriptions. When domain restriction is active, only searches active domains.",
   {
     query: z
       .string()
@@ -149,11 +149,26 @@ server.tool(
       .describe("Max results to return (default 15)"),
   },
   async ({ query, domain, docType, limit }) => {
+    const effective = resolveEffectiveDomains(domain);
+
+    // If per-call domain was outside active set, return warning with empty results
+    if (effective.warning) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `${effective.warning}\n\nNo results returned. Remove the domain filter or update active domains with sf_set_active_domains.`,
+          },
+        ],
+      };
+    }
+
     // Pre-filter via SearchOptions — avoids scoring irrelevant nodes
     const results = gq.searchNodes(query, {
       type: "document",
       limit: limit || 15,
-      domain: domain || undefined,
+      domain: effective.domain || undefined,
+      domains: effective.domains || undefined,
       docType: docType || undefined,
     });
 
@@ -161,14 +176,15 @@ server.tool(
 
     if (filtered.length === 0) {
       // Fallback: try keyword-based search
-      const kwResults = gq.findDocsByKeyword(query, limit || 15);
-      if (domain) {
-        filtered = kwResults.filter((r) =>
-          r.nodeId.startsWith(`doc:${domain}:`),
+      let kwResults = gq.findDocsByKeyword(query, limit || 15);
+      if (effective.domain) {
+        kwResults = kwResults.filter((r) =>
+          r.nodeId.startsWith(`doc:${effective.domain}:`),
         );
-      } else {
-        filtered = kwResults;
+      } else if (effective.domains && effective.domains.length > 0) {
+        kwResults = filterResultsByActiveDomains(kwResults);
       }
+      filtered = kwResults;
     }
 
     const text = filtered
@@ -217,6 +233,12 @@ server.tool(
       ),
   },
   async ({ domain, topic, section }) => {
+    // Gentle warning if domain is outside active set (still allow reads)
+    let domainWarning = "";
+    if (activeDomains && activeDomains.size > 0 && !activeDomains.has(domain)) {
+      domainWarning = `⚠️ Note: Domain "${domain}" is not in the active domains (${[...activeDomains].join(", ")}). This content may be outside your current focus area.\n\n`;
+    }
+
     const filePath = path.join(KNOWLEDGE_DIR, domain, `${topic}.md`);
 
     if (!(await fs.pathExists(filePath))) {
@@ -282,7 +304,7 @@ server.tool(
       content: [
         {
           type: "text" as const,
-          text: `${content}\n\n${suggestNext("sf_read_topic", { topic })}`,
+          text: `${domainWarning}${content}\n\n${suggestNext("sf_read_topic", { topic })}`,
         },
       ],
     };
@@ -328,7 +350,8 @@ server.tool(
           text = "Error: nodeId is required for 'related' action.";
           break;
         }
-        const related = gq.findRelated(nodeId);
+        let related = gq.findRelated(nodeId);
+        related = filterResultsByActiveDomains(related);
         text =
           related.length > 0
             ? `${related.length} related documents:\n\n` +
@@ -352,7 +375,8 @@ server.tool(
               .map((ns) => `- **${ns.namespace}** (${ns.docCount} docs)`)
               .join("\n");
         } else {
-          const docs = gq.findByNamespace(namespace);
+          let docs = gq.findByNamespace(namespace);
+          docs = filterResultsByActiveDomains(docs);
           text =
             docs.length > 0
               ? `${docs.length} docs in ${namespace} namespace:\n\n` +
@@ -392,25 +416,28 @@ server.tool(
           text = `Document not found: ${nodeId}`;
           break;
         }
+        // Filter references/referencedBy by active domains
+        const references = filterResultsByActiveDomains(ctx.references);
+        const referencedBy = filterResultsByActiveDomains(ctx.referencedBy);
         text = [
           `## ${ctx.label}`,
           `- **Domain**: ${ctx.domain}`,
           `- **Type**: ${ctx.docType}`,
           ctx.namespace ? `- **Namespace**: ${ctx.namespace}` : "",
           `- **Keywords**: ${ctx.keywords.join(", ")}`,
-          `- **References out**: ${ctx.references.length} docs`,
-          `- **Referenced by**: ${ctx.referencedBy.length} docs`,
+          `- **References out**: ${references.length} docs`,
+          `- **Referenced by**: ${referencedBy.length} docs`,
           "",
-          ctx.references.length > 0
+          references.length > 0
             ? "### References:\n" +
-              ctx.references
+              references
                 .slice(0, 15)
                 .map((r) => `- ${r.label} (${r.nodeId})`)
                 .join("\n")
             : "",
-          ctx.referencedBy.length > 0
+          referencedBy.length > 0
             ? "### Referenced By:\n" +
-              ctx.referencedBy
+              referencedBy
                 .slice(0, 15)
                 .map((r) => `- ${r.label} (${r.nodeId})`)
                 .join("\n")
@@ -426,7 +453,8 @@ server.tool(
           text = "Error: keyword is required for 'search' action.";
           break;
         }
-        const docs = gq.findDocsByKeyword(keyword, 20);
+        let docs = gq.findDocsByKeyword(keyword, 20);
+        docs = filterResultsByActiveDomains(docs);
         text =
           docs.length > 0
             ? `${docs.length} docs tagged with "${keyword}":\n\n` +
@@ -466,10 +494,26 @@ server.tool(
       domains = domains.filter((d) => serviceDomainLabels.has(d.label));
     }
 
+    // Mark active domains if restriction is in place
+    const hasRestriction = activeDomains && activeDomains.size > 0;
+    const domainList = domains
+      .map((d) => {
+        const domainId = d.nodeId.replace("domain:", "");
+        const marker =
+          hasRestriction && activeDomains!.has(domainId) ? " ✅" : "";
+        return `- ${d.label}${marker}`;
+      })
+      .join("\n");
+
+    const restrictionNote = hasRestriction
+      ? `\n\n**Active domains** (${activeDomains!.size}): ${[...activeDomains!].join(", ")} (marked with ✅)\nUse sf_set_active_domains(clear: true) to search all domains.`
+      : "";
+
     const text =
       `${domains.length} documentation domains${service ? ` in "${service}"` : ""}:\n\n` +
-      domains.map((d) => `- ${d.label}`).join("\n") +
-      "\n\nUse sf_read_topic(domain, '_index') to see the routing table for a domain.";
+      domainList +
+      "\n\nUse sf_read_topic(domain, '_index') to see the routing table for a domain." +
+      restrictionNote;
 
     return { content: [{ type: "text" as const, text }] };
   },
@@ -493,6 +537,24 @@ server.tool(
       ),
   },
   async ({ className, namespace }) => {
+    // sf_apex_lookup is hardcoded to apex-reference and apex-guide domains.
+    // If domain restriction is active and neither domain is included, warn and return empty.
+    if (
+      activeDomains &&
+      activeDomains.size > 0 &&
+      !activeDomains.has("apex-reference") &&
+      !activeDomains.has("apex-guide")
+    ) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `Domain restriction is active but neither "apex-reference" nor "apex-guide" are in the active domains (${[...activeDomains].join(", ")}).\n\nApex lookup requires these domains. Use sf_set_active_domains to add them, or use sf_search for a broader search.`,
+          },
+        ],
+      };
+    }
+
     // Search by class name in the graph
     const results = gq.searchNodes(className, { type: "document", limit: 20 });
 
@@ -591,9 +653,24 @@ server.tool(
       .describe("Max snippets to return (default 5)"),
   },
   async ({ topic, language, domain, limit }) => {
+    const effective = resolveEffectiveDomains(domain);
+
+    // If per-call domain was outside active set, return warning with empty results
+    if (effective.warning) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `${effective.warning}\n\nNo code examples returned. Remove the domain filter or update active domains with sf_set_active_domains.`,
+          },
+        ],
+      };
+    }
+
     const snippets = codeIndex.search(topic, {
       language,
-      domain,
+      domain: effective.domain,
+      domains: effective.domains,
       limit: limit || 5,
     });
 
@@ -653,6 +730,24 @@ server.tool(
       ),
   },
   async ({ object, field }) => {
+    // sf_object_reference is hardcoded to sfFieldRef and object-reference domains.
+    // If domain restriction is active and neither domain is included, warn and return empty.
+    if (
+      activeDomains &&
+      activeDomains.size > 0 &&
+      !activeDomains.has("sfFieldRef") &&
+      !activeDomains.has("object-reference")
+    ) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `Domain restriction is active but neither "sfFieldRef" nor "object-reference" are in the active domains (${[...activeDomains].join(", ")}).\n\nObject reference lookup requires these domains. Use sf_set_active_domains to add them, or use sf_search for a broader search.`,
+          },
+        ],
+      };
+    }
+
     const searchQuery = field ? `${object} ${field}` : object;
     const results = gq.searchNodes(searchQuery, {
       type: "document",
@@ -751,16 +846,26 @@ server.tool(
       ),
   },
   async ({ error }) => {
+    const effective = resolveEffectiveDomains();
+
     // Search across all domains with priority on error-relevant ones
     // Split error codes on underscores/dots for better matching
     const errorWords = error.replace(/[._]/g, " ").toLowerCase();
 
     // Try multiple search strategies
-    let results = gq.searchNodes(errorWords, { type: "document", limit: 20 });
+    let results = gq.searchNodes(errorWords, {
+      type: "document",
+      limit: 20,
+      domains: effective.domains || undefined,
+    });
 
     // If no results, try the original error string
     if (results.length === 0) {
-      results = gq.searchNodes(error, { type: "document", limit: 20 });
+      results = gq.searchNodes(error, {
+        type: "document",
+        limit: 20,
+        domains: effective.domains || undefined,
+      });
     }
 
     // Prioritize apex, api, and guide domains
@@ -797,9 +902,12 @@ server.tool(
       kwResults.push(...kw);
     }
 
+    // Post-filter keyword results by active domains
+    const filteredKwResults = filterResultsByActiveDomains(kwResults);
+
     // Merge and deduplicate
     const allResults = [...sorted];
-    for (const r of kwResults) {
+    for (const r of filteredKwResults) {
       if (!allResults.some((a) => a.nodeId === r.nodeId)) {
         allResults.push(r);
       }
@@ -1006,6 +1114,11 @@ server.resource(
   async () => {
     const stats = gq.getStats();
     const cStats = codeIndex.getStats();
+    const allDomains = gq.listDomains();
+    const domainRestriction =
+      activeDomains && activeDomains.size > 0
+        ? `- **Domain restriction active**: ${[...activeDomains].join(", ")} (${activeDomains.size} of ${allDomains.length} domains)`
+        : `- ${allDomains.length} documentation domains (no restriction)`;
     return {
       contents: [
         {
@@ -1018,10 +1131,10 @@ server.resource(
             `- ${stats.nodes.toLocaleString()} graph nodes`,
             `- ${stats.edges.toLocaleString()} graph edges`,
             `- ${cStats.totalSnippets.toLocaleString()} code snippets`,
-            `- 121 documentation domains`,
+            domainRestriction,
             `- 33,000+ curated markdown files`,
             ``,
-            `## Tools (9)`,
+            `## Tools (12)`,
             `| Tool | Description |`,
             `|---|---|`,
             `| sf_search | Search docs by topic |`,
@@ -1033,11 +1146,17 @@ server.resource(
             `| sf_object_reference | Look up objects/fields |`,
             `| sf_explain_error | Decode error messages |`,
             `| sf_limits | Governor limits lookup |`,
+            `| sf_semantic_search | NLP-powered semantic search |`,
+            `| sf_set_active_domains | Restrict tools to specific domains |`,
+            `| sf_suggest_domains | Suggest relevant domains for a task |`,
             ``,
             `## Quick Start`,
             `1. sf_search("your topic") to find docs`,
             `2. sf_read_topic(domain, topic) to read one`,
             `3. sf_code_examples("your topic") for code`,
+            ``,
+            `## Domain Restriction`,
+            `Use sf_suggest_domains to find relevant domains, then sf_set_active_domains to focus all tools on those domains.`,
           ].join("\n"),
         },
       ],
@@ -1048,7 +1167,7 @@ server.resource(
 server.resource(
   "domains",
   "sf://domains",
-  { description: "All 121 Salesforce documentation domains with descriptions" },
+  { description: "All Salesforce documentation domains with descriptions" },
   async () => {
     const domains = gq.listDomains();
     const text = domains.map((d) => `- ${d.label}`).join("\n");
@@ -1323,6 +1442,20 @@ server.tool(
       .describe("Max results to return (default 10)"),
   },
   async ({ query, domain, limit }) => {
+    const effective = resolveEffectiveDomains(domain);
+
+    // If per-call domain was outside active set, return warning with empty results
+    if (effective.warning) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `${effective.warning}\n\nNo results returned. Remove the domain filter or update active domains with sf_set_active_domains.`,
+          },
+        ],
+      };
+    }
+
     // Lazy-load NLP parser to avoid crashing server startup if wink-nlp has issues
     let parsed: ParsedQuery;
     try {
@@ -1346,7 +1479,8 @@ server.tool(
     const results = gq.searchNodes(searchQuery, {
       type: "document",
       limit: (limit || 10) * 2, // Over-fetch for dedup
-      domain: domain || undefined,
+      domain: effective.domain || undefined,
+      domains: effective.domains || undefined,
     });
 
     // Also search with original if expanded is different
@@ -1355,7 +1489,8 @@ server.tool(
       const origResults = gq.searchNodes(parsed.original, {
         type: "document",
         limit: limit || 10,
-        domain: domain || undefined,
+        domain: effective.domain || undefined,
+        domains: effective.domains || undefined,
       });
       // Merge, keeping highest score per nodeId
       const seen = new Set(allResults.map((r) => r.nodeId.split("#")[0]));
