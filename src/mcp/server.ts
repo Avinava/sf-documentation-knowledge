@@ -1422,6 +1422,275 @@ server.tool(
   },
 );
 
+// ─── Tool 11: sf_set_active_domains ─────────────────────────────
+server.tool(
+  "sf_set_active_domains",
+  "Set the active domain restriction. When set, all tools only return results from the specified domains. Use sf_suggest_domains first to discover relevant domain IDs. Call with clear=true to remove restrictions.",
+  {
+    domains: z
+      .array(z.string())
+      .optional()
+      .describe(
+        "Array of domain IDs to restrict to (e.g. ['revenue-cloud', 'clm-developer-guide', 'cli-commands'])",
+      ),
+    clear: z
+      .boolean()
+      .optional()
+      .describe(
+        "Set to true to clear all domain restrictions and search all domains",
+      ),
+  },
+  async ({ domains: newDomains, clear }) => {
+    if (clear) {
+      activeDomains = null;
+      gq.clearCache();
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: "Domain restriction cleared. All domains are now active.\n\nUse sf_suggest_domains to find relevant domains, or sf_set_active_domains to restrict again.",
+          },
+        ],
+      };
+    }
+
+    if (!newDomains || newDomains.length === 0) {
+      // Report current state
+      if (!activeDomains || activeDomains.size === 0) {
+        return {
+          content: [
+            {
+              type: "text" as const,
+              text: "No domain restriction is active. All domains are being searched.\n\nUse sf_suggest_domains to find relevant domains, then sf_set_active_domains(domains: [...]) to restrict.",
+            },
+          ],
+        };
+      }
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `Active domains (${activeDomains.size}):\n\n${[...activeDomains].map((d) => `- ${d}`).join("\n")}\n\nUse sf_set_active_domains(clear: true) to remove restrictions.`,
+          },
+        ],
+      };
+    }
+
+    // Validate domain IDs against the graph
+    const allDomains = gq.listDomains();
+    const allDomainIds = new Set(
+      allDomains.map((d) => d.nodeId.replace("domain:", "")),
+    );
+    const valid: string[] = [];
+    const invalid: string[] = [];
+    for (const d of newDomains) {
+      if (allDomainIds.has(d)) {
+        valid.push(d);
+      } else {
+        invalid.push(d);
+      }
+    }
+
+    if (valid.length === 0) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `None of the specified domains were found: ${invalid.join(", ")}.\n\nUse sf_suggest_domains to find valid domain IDs, or sf_list_domains to see all available domains.`,
+          },
+        ],
+      };
+    }
+
+    activeDomains = new Set(valid);
+    gq.clearCache();
+
+    const domainDetails = valid
+      .map((d) => {
+        const info = allDomains.find((dom) => dom.nodeId === `domain:${d}`);
+        return `- **${d}** — ${info?.label || d}`;
+      })
+      .join("\n");
+
+    let text = `Domain restriction updated. Active domains (${valid.length}):\n\n${domainDetails}`;
+
+    if (invalid.length > 0) {
+      text += `\n\nDomains not found (skipped): ${invalid.join(", ")}`;
+    }
+
+    text +=
+      "\n\nAll search tools will now only return results from these domains. Use sf_set_active_domains(clear: true) to remove restrictions.";
+
+    return { content: [{ type: "text" as const, text }] };
+  },
+);
+
+// ─── Tool 12: sf_suggest_domains ────────────────────────────────
+server.tool(
+  "sf_suggest_domains",
+  "Suggest relevant documentation domains based on a description of what the user is working on. Returns domain IDs that can be passed to sf_set_active_domains. Use this when the user wants to focus their search on specific Salesforce products or features.",
+  {
+    description: z
+      .string()
+      .describe(
+        "What the user is working on (e.g. 'contract lifecycle management', 'revenue cloud billing', 'building LWC components with Apex', 'REST API integrations')",
+      ),
+  },
+  async ({ description }) => {
+    const allDomains = gq.listDomains();
+    const descLower = description.toLowerCase();
+    const descTerms = descLower
+      .replace(/[._\-/]/g, " ")
+      .split(/\s+/)
+      .filter((t) => t.length >= 3);
+
+    // Strategy 1: Match against domain labels and IDs
+    const domainScores = new Map<string, number>();
+    for (const d of allDomains) {
+      const domainId = d.nodeId.replace("domain:", "");
+      const label = d.label.toLowerCase();
+      let score = 0;
+
+      // Check label contains any description terms
+      for (const term of descTerms) {
+        if (label.includes(term)) score += 3;
+        if (domainId.includes(term)) score += 2;
+      }
+
+      // Check full description matches in domain ID
+      if (domainId.includes(descLower.replace(/\s+/g, "-"))) score += 10;
+      if (label.includes(descLower)) score += 10;
+
+      if (score > 0) {
+        domainScores.set(domainId, score);
+      }
+    }
+
+    // Strategy 2: Search the knowledge graph for matching docs and collect their domains
+    const searchResults = gq.searchNodes(description, {
+      type: "document",
+      limit: 50,
+    });
+    for (const r of searchResults) {
+      const parts = r.nodeId.split(":");
+      const domainId = parts[1];
+      const currentScore = domainScores.get(domainId) || 0;
+      domainScores.set(domainId, currentScore + (r.score || 1));
+    }
+
+    // Strategy 3: Try service category matching
+    const services = gq.listServices();
+    for (const svc of services) {
+      const svcName = svc.service.toLowerCase();
+      for (const term of descTerms) {
+        if (svcName.includes(term) || term.includes(svcName)) {
+          // Get all domains in this service
+          const svcDomains = gq.findByService(svc.service);
+          for (const sd of svcDomains) {
+            const domainId = sd.nodeId.replace("domain:", "");
+            const currentScore = domainScores.get(domainId) || 0;
+            domainScores.set(domainId, currentScore + 2);
+          }
+        }
+      }
+    }
+
+    // Sort by score and categorize
+    const sorted = [...domainScores.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .filter(([, score]) => score >= 2);
+
+    if (sorted.length === 0) {
+      return {
+        content: [
+          {
+            type: "text" as const,
+            text: `No matching domains found for "${description}". Try:\n- sf_list_domains to see all available domains\n- sf_search("${description}") to find relevant documentation\n- Use more specific Salesforce product names (e.g., "Revenue Cloud", "Lightning Web Components", "Apex")`,
+          },
+        ],
+      };
+    }
+
+    // Split into recommended (high score) and also relevant (lower score)
+    const maxScore = sorted[0][1];
+    const threshold = maxScore * 0.3;
+    const recommended = sorted.filter(([, s]) => s >= threshold).slice(0, 8);
+    const alsoRelevant = sorted
+      .filter(([, s]) => s < threshold && s >= 2)
+      .slice(0, 5);
+
+    const formatDomain = (domainId: string, score: number): string => {
+      const info = allDomains.find((d) => d.nodeId === `domain:${domainId}`);
+      return `- **${domainId}** — ${info?.label || domainId} (relevance: ${score.toFixed(1)})`;
+    };
+
+    let text = `Suggested domains for "${description}":\n\n`;
+    text += `### Recommended\n${recommended.map(([id, s]) => formatDomain(id, s)).join("\n")}`;
+
+    if (alsoRelevant.length > 0) {
+      text += `\n\n### Also Relevant\n${alsoRelevant.map(([id, s]) => formatDomain(id, s)).join("\n")}`;
+    }
+
+    const suggestedIds = recommended.map(([id]) => id);
+    text += `\n\nTo activate these domains:\n\`\`\`\nsf_set_active_domains(domains: ${JSON.stringify(suggestedIds)})\n\`\`\``;
+
+    return { content: [{ type: "text" as const, text }] };
+  },
+);
+
+// ─── Resource: sf://config ──────────────────────────────────────
+server.resource(
+  "config",
+  "sf://config",
+  {
+    description:
+      "Current MCP server configuration — active domain restrictions, cache stats",
+  },
+  async () => {
+    const allDomains = gq.listDomains();
+    const domainStatus =
+      activeDomains && activeDomains.size > 0
+        ? `Active Domains: ${[...activeDomains].join(", ")} (${activeDomains.size} of ${allDomains.length})`
+        : `Active Domains: All ${allDomains.length} domains (no restriction)`;
+
+    const configuredVia = SF_ACTIVE_DOMAINS_RAW
+      ? `Configured via: SF_ACTIVE_DOMAINS environment variable`
+      : `Configured via: Not set (defaults to all domains)`;
+
+    return {
+      contents: [
+        {
+          uri: "sf://config",
+          mimeType: "text/plain",
+          text: [
+            `# SF Documentation Knowledge — Configuration`,
+            ``,
+            `## Domain Restriction`,
+            domainStatus,
+            configuredVia,
+            ``,
+            `## Runtime Control`,
+            `- sf_set_active_domains(domains: [...]) — Restrict to specific domains`,
+            `- sf_set_active_domains(clear: true) — Remove all restrictions`,
+            `- sf_suggest_domains(description: "...") — Get domain suggestions`,
+            ``,
+            activeDomains && activeDomains.size > 0
+              ? `## Active Domain Details\n${[...activeDomains]
+                  .map((d) => {
+                    const info = allDomains.find(
+                      (dom) => dom.nodeId === `domain:${d}`,
+                    );
+                    return `- **${d}**: ${info?.label || d}`;
+                  })
+                  .join("\n")}`
+              : `## Quick Setup\nSet SF_ACTIVE_DOMAINS in your MCP client config, or use sf_suggest_domains at runtime.`,
+          ].join("\n"),
+        },
+      ],
+    };
+  },
+);
+
 // ─── Start the server ───────────────────────────────────────────
 async function main() {
   // Pre-load graph and code index in parallel
@@ -1434,8 +1703,13 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.1 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 10 tools + 4 prompts + 4 resources)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.1 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 12 tools + 4 prompts + 5 resources)`,
   );
+  if (activeDomains && activeDomains.size > 0) {
+    console.error(
+      `Domain restriction active: ${[...activeDomains].join(", ")} (${activeDomains.size} domains)`,
+    );
+  }
 }
 
 main().catch((err) => {
