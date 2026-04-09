@@ -36,14 +36,17 @@ data/                # Intermediate data (gitignored)
 ## Key Concepts
 
 ### Domains
+
 Each Salesforce documentation area (CLI, Revenue Cloud, Apex, etc.) is a "domain"
 defined in `src/config/domains.ts`. Each domain has:
+
 - An `id` (e.g. `cli-commands`)
 - An `atlas` deliverable identifier for the SF docs API
 - Priority (`P0`, `P1`, `P2`)
 - Tags for categorization
 
 ### Pipeline Flow
+
 ```
 Discover (index API) → Collect (fetch raw) → Process (HTML→MD + tag) → Generate (knowledge files + graph)
 ```
@@ -51,6 +54,7 @@ Discover (index API) → Collect (fetch raw) → Process (HTML→MD + tag) → G
 Each step is a separate CLI command. Use `--discover` on collect/process/generate to automatically handle all 121+ SF deliverables.
 
 ### Knowledge Output
+
 - `knowledge/current/<domain>/_index.md` — deduplicated routing table for LLMs (one row per file, with descriptions)
 - `knowledge/current/<domain>/<topic>.md` — self-contained topic with full page-level documentation
 - `knowledge/current/graph.json` — semantic knowledge graph (53k+ nodes, 450k+ edges)
@@ -59,7 +63,9 @@ Each step is a separate CLI command. Use `--discover` on collect/process/generat
 - Secrets (SF access tokens, JWTs) are automatically redacted during processing
 
 ### Knowledge Graph
+
 The graph connects documents with semantic edges:
+
 - `references` — doc → doc cross-references (52k+ edges)
 - `belongs_to_namespace` — doc → Apex namespace (System, ConnectApi, etc.)
 - `belongs_to_service` — domain → service category (analytics, commerce, etc.)
@@ -69,6 +75,7 @@ The graph connects documents with semantic edges:
 ## How to Add a New Documentation Domain
 
 1. Add domain config to `src/config/domains.ts`:
+
    ```typescript
    {
      id: 'my-domain',
@@ -81,12 +88,14 @@ The graph connects documents with semantic edges:
    ```
 
 2. Collect and verify:
+
    ```bash
    npm run build
    npm run collect -- --domain my-domain
    ```
 
 3. Process and generate:
+
    ```bash
    npm run process -- --domain my-domain
    npm run generate -- --domain my-domain
@@ -97,12 +106,17 @@ The graph connects documents with semantic edges:
 ## How to Add an MCP Tool
 
 1. Create tool file in `src/mcp/tools/`:
+
    ```typescript
    export const myTool = {
-     name: 'my_tool',
-     description: 'What this tool does',
-     parameters: { /* JSON Schema */ },
-     handler: async (params) => { /* return result */ },
+     name: "my_tool",
+     description: "What this tool does",
+     parameters: {
+       /* JSON Schema */
+     },
+     handler: async (params) => {
+       /* return result */
+     },
    };
    ```
 
@@ -124,7 +138,7 @@ npm run collect -- -d cli  # Collect specific domain
 npm run process -- -d cli  # Process specific domain
 npm run generate -- -d cli # Generate specific domain
 
-# Pipeline (full — all 121+ domains)
+# Pipeline (full — all 129 domains)
 npm run collect -- --discover   # Auto-discover + collect all
 npm run process -- --discover   # Process all collected
 npm run generate -- --discover  # Generate all + rebuild graph
@@ -139,6 +153,37 @@ npm run mcp:dev            # Start MCP server (dev)
 npm test                   # Run all tests
 npm run test:watch         # Watch mode
 ```
+
+## Domain Restriction
+
+The MCP server supports restricting all tools to specific documentation domains,
+reducing noise when working on a specific Salesforce product area.
+
+### Configuration
+
+- **Env var**: `SF_ACTIVE_DOMAINS=revenue-cloud,apex-guide` (comma-separated)
+- **Runtime tool**: `sf_set_active_domains(domains: ["revenue-cloud", "apex-guide"])`
+- **Discovery**: `sf_suggest_domains("contract lifecycle management")` suggests relevant domain IDs
+- **Clear**: `sf_set_active_domains(clear: true)` removes all restrictions
+
+### Implementation Details
+
+- `activeDomains` is a mutable `Set<string> | null` in `src/mcp/server.ts`
+- `resolveEffectiveDomains(perCallDomain?)` merges global + per-call filters
+- `filterResultsByActiveDomains()` post-filters graph results by nodeId prefix
+- `gq.clearCache()` is called when active domains change (LRU cache: 200 entries, 5-min TTL)
+- Orama search supports `domains?: string[]` in `where` clause for efficient pre-filtering
+- `sf_apex_lookup` and `sf_object_reference` are hardcoded to specific domains — they warn if those domains are not in the active set
+- `sf_read_topic` shows a gentle note but still allows reads outside the active set
+- `sf_limits` uses hardcoded data and is not affected by domain restriction
+
+### Files
+
+- `src/mcp/server.ts` — Main server: env var parsing, helpers, tool integrations
+- `src/utils/graph-query.ts` — `SearchOptions.domains`, `clearCache()`
+- `src/utils/search-engine.ts` — `SearchQuery.domains` for Orama
+- `src/mcp/code-index.ts` — `CodeIndex.search()` `domains` option
+- `docs/domains.md` — Comprehensive domain reference by service category
 
 ## Conventions
 
