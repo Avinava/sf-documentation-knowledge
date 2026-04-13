@@ -220,6 +220,8 @@ export class CodeIndex {
     if (!this.loaded) return [];
     const { language, domain, domains, limit = 5 } = options;
 
+    if (domains && domains.length === 0) return [];
+
     const terms = query
       .toLowerCase()
       .split(/\s+/)

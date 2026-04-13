@@ -32,6 +32,8 @@ const KNOWLEDGE_DIR = path.resolve(
 // Accepts comma-separated domain IDs via SF_ACTIVE_DOMAINS env var.
 // Can be changed at runtime via sf_set_active_domains tool.
 const SF_ACTIVE_DOMAINS_RAW = process.env.SF_ACTIVE_DOMAINS;
+// NOTE: activeDomains is single-tenant state. In a multi-tenant environment (e.g., SSE),
+// this would cause race conditions. It is safe here since this is typically a stdio-based MCP server.
 let activeDomains: Set<string> | null = SF_ACTIVE_DOMAINS_RAW
   ? new Set(
       SF_ACTIVE_DOMAINS_RAW.split(",")
@@ -39,6 +41,11 @@ let activeDomains: Set<string> | null = SF_ACTIVE_DOMAINS_RAW
         .filter(Boolean),
     )
   : null;
+
+/** Exported for testing */
+export function setActiveDomainsForTest(domains: Set<string> | null) {
+  activeDomains = domains;
+}
 
 /**
  * Resolve the effective domain filter by merging global activeDomains
@@ -50,7 +57,7 @@ let activeDomains: Set<string> | null = SF_ACTIVE_DOMAINS_RAW
  * - `restricted`: whether any restriction is active
  * - `warning`: message if per-call domain is outside the active set
  */
-function resolveEffectiveDomains(perCallDomain?: string): {
+export function resolveEffectiveDomains(perCallDomain?: string): {
   domains: string[] | undefined;
   domain: string | undefined;
   restricted: boolean;
@@ -81,11 +88,14 @@ function resolveEffectiveDomains(perCallDomain?: string): {
  * Filter an array of graph search results to only include nodes
  * belonging to one of the active domains.
  */
-function filterResultsByActiveDomains<T extends { nodeId: string }>(
+export function filterResultsByActiveDomains<T extends { nodeId: string }>(
   results: T[],
 ): T[] {
   if (!activeDomains || activeDomains.size === 0) return results;
   return results.filter((r) => {
+    // Only filter document/section nodes. Non-doc nodes pass through gracefully.
+    if (!r.nodeId.startsWith("doc:")) return true;
+
     for (const d of activeDomains!) {
       if (r.nodeId.startsWith(`doc:${d}:`)) return true;
     }
@@ -99,7 +109,7 @@ const codeIndex = new CodeIndex(KNOWLEDGE_DIR);
 
 const server = new McpServer({
   name: "sf-documentation-knowledge",
-  version: "2.0.1",
+  version: "2.1.0",
 });
 
 // ─── Helper: build next-action suggestions ──────────────────────
@@ -1838,9 +1848,16 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.1 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 12 tools + 4 prompts + 5 resources)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v2.1.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 12 tools + 4 prompts + 5 resources)`,
   );
   if (activeDomains && activeDomains.size > 0) {
+    const allDomains = gq.listDomains();
+    const allDomainIds = new Set(allDomains.map((d) => d.nodeId.replace("domain:", "")));
+    const invalid = [...activeDomains].filter(d => !allDomainIds.has(d));
+    if (invalid.length > 0) {
+      console.error(`⚠️ Warning: SF_ACTIVE_DOMAINS contains invalid domain IDs at startup: ${invalid.join(", ")}`);
+    }
+
     console.error(
       `Domain restriction active: ${[...activeDomains].join(", ")} (${activeDomains.size} domains)`,
     );

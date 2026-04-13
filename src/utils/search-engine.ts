@@ -69,8 +69,6 @@ export class SearchEngine {
    * Call once after loading the graph. Orama's create/insertMultiple are synchronous.
    */
   init(documents: IndexedDocument[]): void {
-    if (this.initialized) return;
-
     const startTime = Date.now();
 
     this.db = create({

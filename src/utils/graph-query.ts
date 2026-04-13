@@ -533,6 +533,9 @@ export class GraphQuery {
     this.ensureLoaded();
     const { type, limit = 25, domain, domains, docType } = options;
 
+    // If a domain restriction was applied but resulted in an empty array of allowed domains, return empty.
+    if (domains && domains.length === 0) return [];
+
     // Check cache
     const cacheKey = `search:${query}|${type || ""}|${domain || ""}|${(domains || []).join(",")}|${docType || ""}|${limit}`;
     const cached = this.getCached(cacheKey);
