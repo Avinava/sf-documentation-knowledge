@@ -1848,7 +1848,7 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v2.1.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 12 tools + 4 prompts + 5 resources)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v2.1.1 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 12 tools + 4 prompts + 5 resources)`,
   );
   if (activeDomains && activeDomains.size > 0) {
     const allDomains = gq.listDomains();
