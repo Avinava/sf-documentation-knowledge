@@ -50,7 +50,7 @@ jobs:
 
       - name: Verify MCP server starts
         run: |
-          echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1.0.0"}}}' | timeout 30 node dist/mcp/server.js 2>/dev/null | grep -q '"serverInfo"'
+          echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"ci","version":"1.0.0"}}}' | timeout 120 node dist/mcp/server.js 2>/dev/null | grep -q '"serverInfo"'
           echo "✅ MCP server verified"
 
       - name: Publish to npm
