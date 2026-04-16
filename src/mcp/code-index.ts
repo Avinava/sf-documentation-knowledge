@@ -210,10 +210,17 @@ export class CodeIndex {
    */
   search(
     query: string,
-    options: { language?: string; domain?: string; limit?: number } = {},
+    options: {
+      language?: string;
+      domain?: string;
+      domains?: string[];
+      limit?: number;
+    } = {},
   ): CodeSnippet[] {
     if (!this.loaded) return [];
-    const { language, domain, limit = 5 } = options;
+    const { language, domain, domains, limit = 5 } = options;
+
+    if (domains && domains.length === 0) return [];
 
     const terms = query
       .toLowerCase()
@@ -250,6 +257,10 @@ export class CodeIndex {
     }
     if (domain) {
       results = results.filter((s) => s.domain === domain);
+    }
+    if (domains && domains.length > 0) {
+      const domainSet = new Set(domains);
+      results = results.filter((s) => domainSet.has(s.domain));
     }
 
     return results.slice(0, limit);

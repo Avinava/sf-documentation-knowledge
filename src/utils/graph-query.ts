@@ -40,8 +40,10 @@ export interface DocContext {
 export interface SearchOptions {
   type?: string;
   limit?: number;
-  /** Pre-filter by domain prefix (e.g. "apex-reference") */
+  /** Pre-filter by single domain prefix (e.g. "apex-reference") */
   domain?: string;
+  /** Pre-filter by multiple domain prefixes (takes precedence over domain if set) */
+  domains?: string[];
   /** Pre-filter by docType */
   docType?: string;
 }
@@ -143,7 +145,10 @@ export class GraphQuery {
   private searchEngine = new SearchEngine();
 
   /** LRU query cache: cache key → { results, timestamp } */
-  private queryCache = new Map<string, { results: GraphSearchResult[]; ts: number }>();
+  private queryCache = new Map<
+    string,
+    { results: GraphSearchResult[]; ts: number }
+  >();
   private readonly CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
   private readonly CACHE_MAX_SIZE = 200;
 
@@ -158,7 +163,9 @@ export class GraphQuery {
     if (this.loaded) return;
 
     if (!(await fs.pathExists(this.graphPath))) {
-      throw new Error(`Graph not found at ${this.graphPath}. Run 'npm run generate' first.`);
+      throw new Error(
+        `Graph not found at ${this.graphPath}. Run 'npm run generate' first.`,
+      );
     }
 
     const data = await fs.readJson(this.graphPath);
@@ -182,7 +189,9 @@ export class GraphQuery {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
       if (attrs.type === "tagged_with") {
-        const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
+        const targetAttrs = this.graph.getNodeAttributes(
+          target,
+        ) as NodeAttributes;
         const keyword = targetAttrs.label?.toLowerCase();
         if (keyword) {
           if (!this.keywordIndex.has(keyword)) {
@@ -252,7 +261,9 @@ export class GraphQuery {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
       if (attrs.type !== "tagged_with") return;
-      const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
+      const targetAttrs = this.graph.getNodeAttributes(
+        target,
+      ) as NodeAttributes;
       const kwLabel = targetAttrs.label?.toLowerCase();
       if (!kwLabel) return;
 
@@ -303,7 +314,9 @@ export class GraphQuery {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachEdge((_: any, attrs: any, source: any, target: any) => {
       if (attrs.type !== "tagged_with") return;
-      const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
+      const targetAttrs = this.graph.getNodeAttributes(
+        target,
+      ) as NodeAttributes;
       const kw = targetAttrs.label;
       if (!kw) return;
       if (!docKeywordsMap.has(source)) docKeywordsMap.set(source, []);
@@ -370,13 +383,16 @@ export class GraphQuery {
 
       for (const domain of domains) {
         const domainPath = path.join(knowledgeDir, domain);
-        const files = fs.readdirSync(domainPath).filter((f: string) =>
-          f.endsWith(".md") && f !== "_index.md",
-        );
+        const files = fs
+          .readdirSync(domainPath)
+          .filter((f: string) => f.endsWith(".md") && f !== "_index.md");
 
         for (const file of files) {
           try {
-            const content = fs.readFileSync(path.join(domainPath, file), "utf-8");
+            const content = fs.readFileSync(
+              path.join(domainPath, file),
+              "utf-8",
+            );
             const topic = file.replace(/\.md$/, "");
             const parentDocId = `doc:${domain}:${topic}`;
             const parentKeywords = docKeywordsMap.get(parentDocId) || [];
@@ -422,17 +438,29 @@ export class GraphQuery {
   /**
    * Split markdown content into sections at ## heading boundaries.
    */
-  private splitIntoSections(
-    content: string,
-  ): Array<{ title: string; headerPath: string; body: string; tokens: number }> {
+  private splitIntoSections(content: string): Array<{
+    title: string;
+    headerPath: string;
+    body: string;
+    tokens: number;
+  }> {
     const lines = content.split("\n");
-    const sections: Array<{ title: string; headerPath: string; body: string; tokens: number }> = [];
+    const sections: Array<{
+      title: string;
+      headerPath: string;
+      body: string;
+      tokens: number;
+    }> = [];
 
     let h1Title = "";
     const headerStack: string[] = [];
 
     // Find headings
-    const headingPositions: Array<{ level: number; title: string; line: number }> = [];
+    const headingPositions: Array<{
+      level: number;
+      title: string;
+      line: number;
+    }> = [];
     for (let i = 0; i < lines.length; i++) {
       const match = lines[i].match(/^(#{1,4})\s+(.+)$/);
       if (match) {
@@ -488,6 +516,11 @@ export class GraphQuery {
     this.queryCache.set(key, { results, ts: Date.now() });
   }
 
+  /** Clear the LRU query cache (e.g. when active domain filter changes). */
+  clearCache(): void {
+    this.queryCache.clear();
+  }
+
   // ─── Query Methods ─────────────────────────────────────────────
 
   /**
@@ -496,15 +529,15 @@ export class GraphQuery {
    * Uses stemming + trigram fuzzy matching + TF-IDF scoring.
    * Supports optional pre-filters for domain and docType.
    */
-  searchNodes(
-    query: string,
-    options: SearchOptions = {},
-  ): GraphSearchResult[] {
+  searchNodes(query: string, options: SearchOptions = {}): GraphSearchResult[] {
     this.ensureLoaded();
-    const { type, limit = 25, domain, docType } = options;
+    const { type, limit = 25, domain, domains, docType } = options;
+
+    // If a domain restriction was applied but resulted in an empty array of allowed domains, return empty.
+    if (domains && domains.length === 0) return [];
 
     // Check cache
-    const cacheKey = `search:${query}|${type || ""}|${domain || ""}|${docType || ""}|${limit}`;
+    const cacheKey = `search:${query}|${type || ""}|${domain || ""}|${(domains || []).join(",")}|${docType || ""}|${limit}`;
     const cached = this.getCached(cacheKey);
     if (cached) return cached;
 
@@ -515,7 +548,12 @@ export class GraphQuery {
     const mergedResults = new Map<string, GraphSearchResult>();
 
     if (this.searchEngine.isReady() && (!type || type === "document")) {
-      const oramaResults = this.searchOrama(query, { domain, docType, limit });
+      const oramaResults = this.searchOrama(query, {
+        domain,
+        domains,
+        docType,
+        limit,
+      });
       for (const r of oramaResults) {
         const key = r.nodeId.split("#")[0]; // Group by parent doc
         const existing = mergedResults.get(key);
@@ -526,7 +564,13 @@ export class GraphQuery {
     }
 
     // Legacy search — always runs for document type to catch exact title matches
-    const legacyResults = this.searchLegacy(query, { type: type || "document", domain, docType, limit });
+    const legacyResults = this.searchLegacy(query, {
+      type: type || "document",
+      domain,
+      domains,
+      docType,
+      limit,
+    });
     for (const r of legacyResults) {
       const key = r.nodeId;
       const existing = mergedResults.get(key);
@@ -548,9 +592,14 @@ export class GraphQuery {
    */
   private searchOrama(
     query: string,
-    options: { domain?: string; docType?: string; limit?: number },
+    options: {
+      domain?: string;
+      domains?: string[];
+      docType?: string;
+      limit?: number;
+    },
   ): GraphSearchResult[] {
-    const { domain, docType, limit = 25 } = options;
+    const { domain, domains, docType, limit = 25 } = options;
 
     let oramaResults: { nodeId: string; score: number }[];
     try {
@@ -559,6 +608,7 @@ export class GraphQuery {
       oramaResults = this.searchEngine.search({
         term: query,
         domain,
+        domains,
         docType,
         limit: oramaLimit,
       });
@@ -571,7 +621,10 @@ export class GraphQuery {
     const seenParents = new Set<string>();
 
     // Find max BM25 score for normalization (BM25 raw scores vary widely)
-    const maxBm25 = oramaResults.reduce((max, h) => Math.max(max, h.score || 0), 1);
+    const maxBm25 = oramaResults.reduce(
+      (max, h) => Math.max(max, h.score || 0),
+      1,
+    );
 
     for (const hit of oramaResults) {
       const nodeId = hit.nodeId;
@@ -629,12 +682,19 @@ export class GraphQuery {
    */
   private searchLegacy(
     query: string,
-    options: { type?: string; domain?: string; docType?: string; limit?: number },
+    options: {
+      type?: string;
+      domain?: string;
+      domains?: string[];
+      docType?: string;
+      limit?: number;
+    },
   ): GraphSearchResult[] {
-    const { type, domain, docType, limit = 25 } = options;
+    const { type, domain, domains, docType, limit = 25 } = options;
 
     // Tokenise and stem the query
-    const rawTerms = query.toLowerCase()
+    const rawTerms = query
+      .toLowerCase()
       .replace(/[._]/g, " ")
       .replace(/([a-z])([A-Z])/g, "$1 $2")
       .split(/\s+/)
@@ -689,6 +749,12 @@ export class GraphQuery {
 
       if (type && attrs.type !== type) continue;
       if (domain && !nodeId.startsWith(`doc:${domain}:`)) continue;
+      if (
+        domains &&
+        domains.length > 0 &&
+        !domains.some((d) => nodeId.startsWith(`doc:${d}:`))
+      )
+        continue;
       if (docType && attrs.docType !== docType) continue;
 
       const label = attrs.label?.toLowerCase() || "";
@@ -758,27 +824,34 @@ export class GraphQuery {
       for (const nodeId of frontier) {
         // Outgoing reference edges
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        this.graph.forEachOutEdge(nodeId, (_: any, attrs: any, _src: any, target: any) => {
-          if (attrs.type === "references" && !visited.has(target)) {
-            visited.add(target);
-            nextFrontier.push(target);
-            const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
-            results.push({
-              nodeId: target,
-              type: targetAttrs.type,
-              label: targetAttrs.label,
-              docType: targetAttrs.docType,
-              url: targetAttrs.url,
-            });
-          }
-        });
+        this.graph.forEachOutEdge(
+          nodeId,
+          (_: any, attrs: any, _src: any, target: any) => {
+            if (attrs.type === "references" && !visited.has(target)) {
+              visited.add(target);
+              nextFrontier.push(target);
+              const targetAttrs = this.graph.getNodeAttributes(
+                target,
+              ) as NodeAttributes;
+              results.push({
+                nodeId: target,
+                type: targetAttrs.type,
+                label: targetAttrs.label,
+                docType: targetAttrs.docType,
+                url: targetAttrs.url,
+              });
+            }
+          },
+        );
         // Incoming reference edges
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         this.graph.forEachInEdge(nodeId, (_: any, attrs: any, source: any) => {
           if (attrs.type === "references" && !visited.has(source)) {
             visited.add(source);
             nextFrontier.push(source);
-            const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
+            const sourceAttrs = this.graph.getNodeAttributes(
+              source,
+            ) as NodeAttributes;
             results.push({
               nodeId: source,
               type: sourceAttrs.type,
@@ -807,7 +880,9 @@ export class GraphQuery {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(nsNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "belongs_to_namespace") {
-        const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
+        const sourceAttrs = this.graph.getNodeAttributes(
+          source,
+        ) as NodeAttributes;
         results.push({
           nodeId: source,
           type: sourceAttrs.type,
@@ -831,16 +906,21 @@ export class GraphQuery {
 
     const results: GraphSearchResult[] = [];
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    this.graph.forEachInEdge(serviceNodeId, (_: any, attrs: any, source: any) => {
-      if (attrs.type === "belongs_to_service") {
-        const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
-        results.push({
-          nodeId: source,
-          type: sourceAttrs.type,
-          label: sourceAttrs.label,
-        });
-      }
-    });
+    this.graph.forEachInEdge(
+      serviceNodeId,
+      (_: any, attrs: any, source: any) => {
+        if (attrs.type === "belongs_to_service") {
+          const sourceAttrs = this.graph.getNodeAttributes(
+            source,
+          ) as NodeAttributes;
+          results.push({
+            nodeId: source,
+            type: sourceAttrs.type,
+            label: sourceAttrs.label,
+          });
+        }
+      },
+    );
 
     return results;
   }
@@ -857,7 +937,9 @@ export class GraphQuery {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     this.graph.forEachInEdge(dtNodeId, (_: any, attrs: any, source: any) => {
       if (attrs.type === "is_type" && results.length < limit) {
-        const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
+        const sourceAttrs = this.graph.getNodeAttributes(
+          source,
+        ) as NodeAttributes;
         results.push({
           nodeId: source,
           type: sourceAttrs.type,
@@ -887,46 +969,56 @@ export class GraphQuery {
 
     // Traverse outgoing edges
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    this.graph.forEachOutEdge(docNodeId, (_: any, edgeAttrs: any, _src: any, target: any) => {
-      const targetAttrs = this.graph.getNodeAttributes(target) as NodeAttributes;
-      switch (edgeAttrs.type) {
-        case "tagged_with":
-          keywords.push(targetAttrs.label);
-          break;
-        case "belongs_to_namespace":
-          namespace = targetAttrs.label;
-          break;
-        case "references":
-          references.push({
-            nodeId: target,
-            type: targetAttrs.type,
-            label: targetAttrs.label,
-            docType: targetAttrs.docType,
-            url: targetAttrs.url,
-          });
-          break;
-      }
-    });
+    this.graph.forEachOutEdge(
+      docNodeId,
+      (_: any, edgeAttrs: any, _src: any, target: any) => {
+        const targetAttrs = this.graph.getNodeAttributes(
+          target,
+        ) as NodeAttributes;
+        switch (edgeAttrs.type) {
+          case "tagged_with":
+            keywords.push(targetAttrs.label);
+            break;
+          case "belongs_to_namespace":
+            namespace = targetAttrs.label;
+            break;
+          case "references":
+            references.push({
+              nodeId: target,
+              type: targetAttrs.type,
+              label: targetAttrs.label,
+              docType: targetAttrs.docType,
+              url: targetAttrs.url,
+            });
+            break;
+        }
+      },
+    );
 
     // Traverse incoming edges
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    this.graph.forEachInEdge(docNodeId, (_: any, edgeAttrs: any, source: any) => {
-      const sourceAttrs = this.graph.getNodeAttributes(source) as NodeAttributes;
-      switch (edgeAttrs.type) {
-        case "contains":
-          domain = sourceAttrs.label;
-          break;
-        case "references":
-          referencedBy.push({
-            nodeId: source,
-            type: sourceAttrs.type,
-            label: sourceAttrs.label,
-            docType: sourceAttrs.docType,
-            url: sourceAttrs.url,
-          });
-          break;
-      }
-    });
+    this.graph.forEachInEdge(
+      docNodeId,
+      (_: any, edgeAttrs: any, source: any) => {
+        const sourceAttrs = this.graph.getNodeAttributes(
+          source,
+        ) as NodeAttributes;
+        switch (edgeAttrs.type) {
+          case "contains":
+            domain = sourceAttrs.label;
+            break;
+          case "references":
+            referencedBy.push({
+              nodeId: source,
+              type: sourceAttrs.type,
+              label: sourceAttrs.label,
+              docType: sourceAttrs.docType,
+              url: sourceAttrs.url,
+            });
+            break;
+        }
+      },
+    );
 
     return {
       nodeId: docNodeId,

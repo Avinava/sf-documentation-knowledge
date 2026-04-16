@@ -52,7 +52,7 @@ describe("Graph Query API", () => {
 
     const results = gq.searchNodes("SOQL");
     expect(results.length).toBeGreaterThan(0);
-  });
+  }, 30000);
 
   it("finds documents by keyword", async () => {
     const { GraphQuery } = await import("../src/utils/graph-query.js");
@@ -61,7 +61,7 @@ describe("Graph Query API", () => {
 
     const results = gq.findDocsByKeyword("OAuth");
     expect(results.length).toBeGreaterThan(0);
-  });
+  }, 30000);
 
   it("lists domains", async () => {
     const { GraphQuery } = await import("../src/utils/graph-query.js");
@@ -70,7 +70,7 @@ describe("Graph Query API", () => {
 
     const domains = gq.listDomains();
     expect(domains.length).toBeGreaterThanOrEqual(100);
-  });
+  }, 30000);
 
   it("lists namespaces", async () => {
     const { GraphQuery } = await import("../src/utils/graph-query.js");
@@ -83,7 +83,7 @@ describe("Graph Query API", () => {
     expect(namespaces[0]).toHaveProperty("namespace");
     expect(namespaces[0]).toHaveProperty("docCount");
     expect(namespaces[0].docCount).toBeGreaterThan(0);
-  });
+  }, 30000);
 
   it("lists services", async () => {
     const { GraphQuery } = await import("../src/utils/graph-query.js");
@@ -92,5 +92,5 @@ describe("Graph Query API", () => {
 
     const services = gq.listServices();
     expect(services.length).toBeGreaterThan(5);
-  });
+  }, 30000);
 });

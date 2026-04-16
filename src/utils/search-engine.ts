@@ -50,8 +50,10 @@ export interface SearchResult {
 export interface SearchQuery {
   /** The search query text */
   term: string;
-  /** Optional domain filter */
+  /** Optional single-domain filter */
   domain?: string;
+  /** Optional multi-domain filter (takes precedence over domain if set) */
+  domains?: string[];
   /** Optional docType filter */
   docType?: string;
   /** Max results to return */
@@ -67,8 +69,6 @@ export class SearchEngine {
    * Call once after loading the graph. Orama's create/insertMultiple are synchronous.
    */
   init(documents: IndexedDocument[]): void {
-    if (this.initialized) return;
-
     const startTime = Date.now();
 
     this.db = create({
@@ -99,15 +99,21 @@ export class SearchEngine {
    * - Proper handling of multi-word queries
    */
   search(query: SearchQuery): SearchResult[] {
-    if (!this.db) throw new Error("Search engine not initialized. Call init() first.");
+    if (!this.db)
+      throw new Error("Search engine not initialized. Call init() first.");
 
-    const { term, domain, docType, limit = 25 } = query;
+    const { term, domain, domains, docType, limit = 25 } = query;
     if (!term.trim()) return [];
 
     // Build Orama filter from options
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const where: Record<string, any> = {};
-    if (domain) where["domain"] = domain;
+    if (domains && domains.length > 0) {
+      // Multi-domain: use Orama's array-based equality filter
+      where["domain"] = domains;
+    } else if (domain) {
+      where["domain"] = domain;
+    }
     if (docType) where["docType"] = docType;
 
     // Orama search() returns Results | Promise<Results> in its type signature,
