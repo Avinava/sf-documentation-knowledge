@@ -5,7 +5,7 @@ topic: rate-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:48.142Z
+lastCollected: 2026-05-03T00:28:16.084Z
 estimatedTokens: 1266
 keywords: [Rate, Management, Standard, model, manage, rates, discounts, product's, resource, consumption]
 ---

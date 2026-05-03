@@ -5,7 +5,7 @@ topic: productdiscoverysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.561Z
+lastCollected: 2026-05-03T00:28:15.371Z
 estimatedTokens: 834
 keywords: [ProductDiscoverySettings, settings, Product, Discovery, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

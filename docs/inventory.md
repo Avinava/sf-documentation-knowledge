@@ -1,7 +1,7 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-04-07T19:06:27.389Z*
+*Last Updated: 2026-05-03T00:28:19.189Z*
 
 **129 Domains** | **35,354 Knowledge Files**
 
@@ -45,7 +45,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [cli-commands](../../knowledge/current/cli-commands/_index.md) | **SF CLI Commands** | 221 | Salesforce CLI (sf) command reference — all commands across plugins |
 | [platform-events](../../knowledge/current/platform-events/_index.md) | **Platform Events Developer Guide** | 219 | Use platform events to connect business processes in Salesforce and external app |
 | [salesforce-scheduler-developer-guide](../../knowledge/current/salesforce-scheduler-developer-guide/_index.md) | **Salesforce Scheduler Developer Guide** | 205 | Create seamless appointment scheduling web applications using the Salesforce Sch |
-| [api](../../knowledge/current/api/_index.md) | **SOAP API Developer GuideSOA** | 199 | Build robust, server-side solutions that integrate your Salesforce data using SO |
+| [api](../../knowledge/current/api/_index.md) | **SOAP API Developer Guide** | 199 | Build robust, server-side solutions that integrate your Salesforce data using SO |
 | [pkg2-dev](../../knowledge/current/pkg2-dev/_index.md) | **Second-Generation Managed Packaging Developer Guide** | 190 | Second-generation managed packaging (2GP) is the preferred way for Salesforce pa |
 | [mfg-api-devguide](../../knowledge/current/mfg-api-devguide/_index.md) | **Manufacturing Cloud Developer Guide** | 187 | Configure a console for business negotiations and planning using the Manufacturi |
 | [sfdx-dev](../../knowledge/current/sfdx-dev/_index.md) | **Salesforce DX Developer Guide** | 180 | Learn how to use Salesforce DX to develop and manage apps on the Lightning Platf |
@@ -68,7 +68,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [referral-marketing](../../knowledge/current/referral-marketing/_index.md) | **Referral Marketing Developer Guide** | 92 | Use developer resources to design and run referral programs for your customers a |
 | [service-connector-api-developer-guide](../../knowledge/current/service-connector-api-developer-guide/_index.md) | **Service Cloud Connector API Reference** | 91 | Pass information between your partner telephony or Contact Center as a Service ( |
 | [voice-pt-developer-guide](../../knowledge/current/voice-pt-developer-guide/_index.md) | **Service Cloud Voice for Partner Telephony Developer Guide** | 88 | Connect your telephony system with Service Cloud Voice. |
-| [comms-developer-guide](../../knowledge/current/comms-developer-guide/_index.md) | **Revenue Cloud for Communications Developer Guide** | 87 | Use APIs and developer resources to configure, customize, and extend the capabil |
+| [comms-developer-guide](../../knowledge/current/comms-developer-guide/_index.md) | **Communications, Media, Energy and Utilities (CME) Developer Guide** | 87 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [api-streaming](../../knowledge/current/api-streaming/_index.md) | **Streaming API Developer Guide** | 85 | Receive notifications in a secure and scalable way with API Streaming. To receiv |
 | [soql-sosl](../../knowledge/current/soql-sosl/_index.md) | **SOQL and SOSL Reference** | 85 | Query and search your org’s data for specific information with Salesforce Object |
 | [api-analytics](../../knowledge/current/api-analytics/_index.md) | **Salesforce Reports and Dashboards REST API Developer Guide** | 82 | The Salesforce Reports and Dashboards REST API gives programmatic access to inte |

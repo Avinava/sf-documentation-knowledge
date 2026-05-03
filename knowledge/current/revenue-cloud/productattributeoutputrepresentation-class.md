@@ -5,7 +5,7 @@ topic: productattributeoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:41.148Z
+lastCollected: 2026-05-03T00:28:11.235Z
 estimatedTokens: 3928
 keywords: [ProductAttributeOutputRepresentation, attribute, product, configuration, additionalFields, attributeCategoryId, attributeNameOverride, attributePickList, code, dataType, defaultHelpText, defaultValue, developerName, displayTypeOverride, hidden, isCloneable, isConfigurable, isEncrypted, isPriceImpacting, isReadOnly, isRequired, label, maximumValue, minimumValue, sequence, status, stepValue, unitOfMeasure, userValue, valueDescription]
 ---

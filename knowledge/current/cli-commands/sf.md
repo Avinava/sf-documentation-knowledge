@@ -5,7 +5,7 @@ topic: sf
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T18:35:39.591Z
+lastCollected: 2026-05-03T00:28:10.637Z
 estimatedTokens: 1877
 keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, synchronize, source, install, packages]
 ---
@@ -16,31 +16,31 @@ keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, syn
 
 Commands to manage Salesforce DX projects, create and manage scratch orgs and sandboxes, synchronize source to and from orgs, create and install packages, and more.
 
-This version of the sf command reference includes details about version 2.130.7 of the sf executable of Salesforce CLI and the following plug-in versions:
+This version of the sf command reference includes details about version 2.131.6 of the sf executable of Salesforce CLI and the following plug-in versions:
 
--   @salesforce/plugin-deploy-retrieve version 3.24.23
--   @salesforce/plugin-settings version 2.4.63
--   @salesforce/plugin-info version 3.4.115
--   @salesforce/plugin-sobject version 1.4.93
--   @salesforce/plugin-limits version 3.3.83
--   @salesforce/plugin-schema version 3.3.102
--   @salesforce/plugin-custom-metadata version 3.3.90
--   @salesforce/plugin-data version 4.0.85
--   @salesforce/plugin-community version 3.3.53
--   @salesforce/plugin-signups version 2.6.60
--   @salesforce/plugin-user version 3.8.2
--   @salesforce/plugin-org version 5.9.79
--   @salesforce/plugin-packaging version 2.26.0
--   @salesforce/plugin-templates version 56.15.2
--   @salesforce/plugin-apex version 3.9.17
--   @salesforce/plugin-auth version 4.3.3
+-   @salesforce/plugin-deploy-retrieve version 3.24.27
+-   @salesforce/plugin-settings version 2.4.66
+-   @salesforce/plugin-info version 3.4.118
+-   @salesforce/plugin-sobject version 1.4.95
+-   @salesforce/plugin-limits version 3.3.84
+-   @salesforce/plugin-schema version 3.3.104
+-   @salesforce/plugin-custom-metadata version 3.3.92
+-   @salesforce/plugin-data version 4.0.89
+-   @salesforce/plugin-community version 3.3.55
+-   @salesforce/plugin-signups version 2.6.62
+-   @salesforce/plugin-user version 3.8.3
+-   @salesforce/plugin-org version 5.9.81
+-   @salesforce/plugin-packaging version 2.26.3
+-   @salesforce/plugin-templates version 56.15.5
+-   @salesforce/plugin-apex version 3.9.20
+-   @salesforce/plugin-auth version 4.3.4
 -   @salesforce/plugin-dev version 2.5.2
 -   @salesforce/sfdx-plugin-lwc-test version 1.2.1
 -   @salesforce/plugin-devops-center version 1.2.27
--   @salesforce/plugin-marketplace version 1.3.14
+-   @salesforce/plugin-marketplace version 1.3.15
 -   @salesforce/plugin-code-analyzer version 5.11.1
--   @salesforce/plugin-api version 1.3.14
--   @salesforce/plugin-agent version 1.32.16
+-   @salesforce/plugin-api version 1.3.16
+-   @salesforce/plugin-agent version 1.32.18
 -   @salesforce/plugin-flow version 1.0.5
 -   @salesforce/plugin-lightning-dev version 6.2.17
 -   @salesforce/plugin-ui-bundle-dev version 1.2.2

@@ -5,7 +5,7 @@ topic: configruleresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:41.056Z
+lastCollected: 2026-05-03T00:28:11.097Z
 estimatedTokens: 1675
 keywords: [ConfigRuleResult, results, configuration, rule, evaluation, including, message, product, recommendation, visibility, applied, transactionContextId, messageRules, productRecommendationRules, visibilityRules, errors]
 ---

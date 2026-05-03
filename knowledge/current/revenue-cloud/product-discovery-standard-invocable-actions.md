@@ -5,7 +5,7 @@ topic: product-discovery-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.892Z
+lastCollected: 2026-05-03T00:28:15.780Z
 estimatedTokens: 674
 keywords: [Product, Discovery, Standard, Invocable, Actions, retrieve, category, catalog, Additionally, execute, qualification, procedure, search, products, guided, selection]
 ---

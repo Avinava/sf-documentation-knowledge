@@ -5,7 +5,7 @@ topic: rating-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:46.546Z
+lastCollected: 2026-05-03T00:28:14.661Z
 estimatedTokens: 184
 keywords: [Rating, Waterfall]
 ---

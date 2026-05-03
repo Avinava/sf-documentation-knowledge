@@ -5,7 +5,7 @@ topic: contractitempriceadjtier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:48.802Z
+lastCollected: 2026-05-03T00:28:16.571Z
 estimatedTokens: 741
 keywords: [ContractItemPriceAdjTier, tiers, price, adjustment, product, contract, API, 63.0]
 ---

@@ -1,8 +1,8 @@
 ---
 domain: formula-date-time-tipsheet
 name: Using Date and Date/Time in Formulas
-documentCount: 2
-lastGenerated: 2026-04-07T19:05:21.202Z
+documentCount: 0
+lastGenerated: 2026-05-03T00:28:18.941Z
 ---
 
 # Using Date and Date/Time in Formulas — Knowledge Index
@@ -13,8 +13,6 @@ lastGenerated: 2026-04-07T19:05:21.202Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [sample-date-formulas.md](./sample-date-formulas.md) | Sample Date Formulas | help-article | Use the sample formulas in this topic to manipulate and perform calculations wit |
-| [using-date-datetime-and-time-values-in-formulas.md](./using-date-datetime-and-time-values-in-formulas.md) | Using Date, Date/Time, and Time Values in Formulas | api-reference | Date formulas are useful for managing payment deadlines, contract ages, or any o |
 
 ## How to Use
 

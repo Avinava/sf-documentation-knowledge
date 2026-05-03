@@ -5,7 +5,7 @@ topic: line-item-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:45.981Z
+lastCollected: 2026-05-03T00:28:14.229Z
 estimatedTokens: 390
 keywords: [Line, Item, Waterfall]
 ---

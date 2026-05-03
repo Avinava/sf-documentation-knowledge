@@ -5,7 +5,7 @@ topic: salesforce-pricing-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.669Z
+lastCollected: 2026-05-03T00:28:15.505Z
 estimatedTokens: 306
 keywords: [Salesforce, Pricing, Standard, Invocable, Actions]
 ---

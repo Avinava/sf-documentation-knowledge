@@ -5,7 +5,7 @@ topic: configurator-unit-of-measure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:45.572Z
+lastCollected: 2026-05-03T00:28:13.964Z
 estimatedTokens: 174
 keywords: [Configurator, Unit, Measure, record]
 ---

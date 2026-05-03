@@ -5,7 +5,7 @@ topic: closerelation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:42.227Z
+lastCollected: 2026-05-03T00:28:11.616Z
 estimatedTokens: 1303
 keywords: [closeRelation, Annotation, CML, addition, new, line, items, relationship, engine, Configurator, Result]
 ---

@@ -5,8 +5,8 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:48.273Z
-estimatedTokens: 5146
+lastCollected: 2026-05-03T00:28:16.151Z
+estimatedTokens: 5057
 keywords: [Asset, item, commercial, product, sold, company, competitor, customer, purchased]
 ---
 
@@ -77,7 +77,6 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | RenewalPricingType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe price used when renewing a subscription. Its UI label is Pricing Type for Renewal. This field is available in API version 55.0 and later. This field is available when Revenue Cloud is enabled.Possible values are:LastNegotiatedPriceListPrice |
 | RenewalTerm | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionWith Renewal Term Unit, defines the default subscription term for renewal quotes. This field is available in API version 55.0 and later. This field is available when Revenue Cloud is enabled. |
 | RenewalTermUnit | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe unit of time for a subscription term. This field is available in API version 55.0 and later. This field is available when Revenue Cloud is enabled.Possible values are:Annual—Available in API version 58.0 and later. —UI label is Years.Months |
-| RootAssetId | TypereferencePropertiesFilter, Group, Nillable, SortDescription(Read only) The top-level asset in an asset hierarchy. Depending on where an asset lies in the hierarchy, its root could be the same as its parent. Its UI label is Root Asset.This field is a relationship field.Relationship NameRootAssetRelationship TypeLookupRefers ToAsset |
 | SalesStoreId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the RetailStore or WebStore associated with this Asset.This field is a polymorphic relationship field.To access this field, your org must have a Salesforce Order Management license or a B2B Commerce License.This field is available in API v60.0 and later.Relationship NameSalesStoreRelationship TypeLookupRefers ToRetailStore, WebStore |
 | SerialNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSerial number for this asset. |
 | State | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe state detail for the address. |

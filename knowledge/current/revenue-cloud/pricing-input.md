@@ -5,7 +5,7 @@ topic: pricing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:43.065Z
+lastCollected: 2026-05-03T00:28:12.365Z
 estimatedTokens: 309
 keywords: [Pricing, API]
 ---

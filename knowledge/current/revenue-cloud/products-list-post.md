@@ -5,7 +5,7 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.577Z
+lastCollected: 2026-05-03T00:28:13.244Z
 estimatedTokens: 1278
 keywords: [Products, POST, Retrieve, search, filter, sort, catalog, category, subcategory, API, composite, Product, Discovery]
 ---

@@ -5,7 +5,7 @@ topic: business-centric-cml-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:42.377Z
+lastCollected: 2026-05-03T00:28:11.829Z
 estimatedTokens: 747
 keywords: [Business-Centric, CML, Examples, Constraint, Modeling, Language, structures, implement, quantity, aggregation, resolve, calculation, dependencies, Derived, Aggregates, Total, Sum, Configurator, Result, Resolving, Circular, Grouped, Users, Across, Regions]
 ---

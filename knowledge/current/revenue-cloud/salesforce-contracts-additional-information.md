@@ -5,7 +5,7 @@ topic: salesforce-contracts-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.081Z
+lastCollected: 2026-05-03T00:28:14.944Z
 estimatedTokens: 412
 keywords: [Salesforce, Contracts, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations]
 ---

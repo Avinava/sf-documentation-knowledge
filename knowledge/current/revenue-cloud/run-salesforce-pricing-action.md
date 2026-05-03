@@ -5,7 +5,7 @@ topic: run-salesforce-pricing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:40.095Z
+lastCollected: 2026-05-03T00:28:10.883Z
 estimatedTokens: 671
 keywords: [Inputs, Outputs, Run, Salesforce, Pricing, Action, Invoke, Connect, API, providing, context, procedure, price, waterfall, REST, HTTP]
 ---

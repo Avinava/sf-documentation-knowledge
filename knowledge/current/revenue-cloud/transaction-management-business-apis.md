@@ -5,8 +5,8 @@ topic: transaction-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.932Z
-estimatedTokens: 1314
+lastCollected: 2026-05-03T00:28:15.806Z
+estimatedTokens: 1398
 keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, quote, order]
 ---
 
@@ -31,15 +31,16 @@ This table lists the available Transaction Management resources.
 | /connect/revenue-management/sales-transaction-contexts/resourceId/actions/ramp-deal-update (POST) | Modify a ramp deal in scenarios where a segment has updates such as quantity, discount, or date change. |
 | /connect/revenue-management/sales-transaction-contexts/resourceId/actions/ramp-deal-view (GET) | View a ramp deal related to a quote line item or an order item. |
 | /connect/revenue-management/sales-transaction-contexts/resourceId/actions/ramp-deal-delete (POST) | Delete a ramp deal to convert a ramped product to include a single quote line item or order item. |
-| /connect/rev/sales-transaction/actions/place (POST) | Create a sales transaction, such as an order or a quote, with integrated pricing and configuration. Additionally, update an order or a quote, and insert and delete order or quote line items to calculate the estimated tax. |
+| /connect/rev/sales-transaction/actions/place (POST) | Create a sales transaction, such as an order or a quote, with integrated pricing and configuration. Also, update an order or a quote, and insert and delete order or quote line items to calculate the estimated tax. |
 | /connect/rev/sales-transaction/actions/clone (POST) | Create a clone of a sales transaction, such as a quote or an order. You can also clone a quote line item or an order item record with its related records and configurations. |
 | /connect/rev/sales-transaction/actions/place-supplemental-transaction (POST) | Create a supplemental order or change orders after they are submitted for processing, such as during the fulfillment process. |
 | /connect/revenue/transaction-management/sales-transactions/actions/read (POST) | Retrieve sales transaction data efficiently from an initialized or a hydrated context. |
 | /connect/advanced-approvals/approval-submission/preview (POST) | Preview the approval levels of a record and associated level details, approval chains, approvers, and conditions before you submit the record for an approval. |
+| /global-promotions-management/promotions (GET, POST, PUT) | Get rewards based on a product selling model template. |
 | /revenue/transaction-management/sales-transactions/actions/get-eligible-promotions (POST) | Get eligible promotions for line items within a quote or an order. |
-| /revenue/transaction-management/assets/actions/swap (POST) | Create an amendment that trades a quantity of one product for another. This change is tracked as a swap request with linked asset actions and a net-zero order total where applicable. |
-| /revenue/transaction-management/assets/actions/upgrade (POST) | Create an amendment that moves a lower-tier product to a higher-tier product. This change is tracked as an upgrade request with linked asset actions and quote or order line linkage for reporting and auditing. |
-| /revenue/transaction-management/assets/actions/downgrade (POST) | Create an amendment that moves a higher-tier product to a lower-tier product. This change is tracked as a downgrade request with linked asset actions and quote or order line linkage for reporting and auditing. |
+| /revenue/transaction-management/assets/actions/swap (POST) | Exchange one product for another of equivalent or different value. The change is tracked as a swap request with linked asset actions and a net-zero order total where applicable. The API creates an amendment quote and order with order actions and quote action subtypes. |
+| /revenue/transaction-management/assets/actions/upgrade (POST) | Move a lower-tier product to a higher-tier product. The change is tracked as an upgrade request with linked asset actions and quote or order line linkage for reporting and auditing. This API creates an amendment quote and order with order actions and quote action subtypes. |
+| /revenue/transaction-management/assets/actions/downgrade (POST) | Move to a lower-tier or lower-value product. The change is tracked as a downgrade request with linked asset actions and quote or order line linkage for reporting and auditing. This API creates an amendment quote and order with downgrade-specific order actions and quote action subtypes. |
 
 -   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/qoc_business_apis_rest_references.htm)**
     Learn more about the available Quote and Order Capture resources.

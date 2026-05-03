@@ -5,7 +5,7 @@ topic: procedure-plan-section-evaluation-runtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:46.295Z
+lastCollected: 2026-05-03T00:28:14.448Z
 estimatedTokens: 343
 keywords: [Procedure, Plan, Evaluation, Runtime, results]
 ---

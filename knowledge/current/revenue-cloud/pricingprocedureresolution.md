@@ -5,7 +5,7 @@ topic: pricingprocedureresolution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:49.890Z
+lastCollected: 2026-05-03T00:28:17.000Z
 estimatedTokens: 970
 keywords: [PricingProcedureResolution, selection, pricing, procedure, execute, process, procedures, API, 60.0]
 ---

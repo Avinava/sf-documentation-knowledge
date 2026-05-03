@@ -5,7 +5,7 @@ topic: salesforce-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:47.679Z
+lastCollected: 2026-05-03T00:28:15.520Z
 estimatedTokens: 749
 keywords: [Salesforce, Pricing, customized, price, adjustment, procedures, Determine, discounts, apply, products, services, visibility, calculation, process]
 ---

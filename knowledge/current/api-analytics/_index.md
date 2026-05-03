@@ -2,7 +2,7 @@
 domain: api-analytics
 name: Salesforce Reports and Dashboards REST API Developer Guide
 documentCount: 0
-lastGenerated: 2026-04-07T19:05:20.281Z
+lastGenerated: 2026-05-03T00:28:18.913Z
 ---
 
 # Salesforce Reports and Dashboards REST API Developer Guide — Knowledge Index

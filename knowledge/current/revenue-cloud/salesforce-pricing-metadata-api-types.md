@@ -5,7 +5,7 @@ topic: salesforce-pricing-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:47.674Z
+lastCollected: 2026-05-03T00:28:15.513Z
 estimatedTokens: 479
 keywords: [Salesforce, Pricing, Metadata, API, feature, settings, customize, user]
 ---

@@ -5,7 +5,7 @@ topic: pricing-recipe-mapping-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.792Z
+lastCollected: 2026-05-03T00:28:13.414Z
 estimatedTokens: 267
 keywords: [Pricing, Recipe, Mapping, POST, Decision, Tables, recipes, lookup, procedures]
 ---

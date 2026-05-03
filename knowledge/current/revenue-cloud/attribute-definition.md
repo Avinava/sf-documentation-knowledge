@@ -5,7 +5,7 @@ topic: attribute-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:45.202Z
+lastCollected: 2026-05-03T00:28:13.709Z
 estimatedTokens: 983
 keywords: [Attribute, Definition]
 ---

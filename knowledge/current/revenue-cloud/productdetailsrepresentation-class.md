@@ -5,7 +5,7 @@ topic: productdetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:41.193Z
+lastCollected: 2026-05-03T00:28:11.303Z
 estimatedTokens: 6230
 keywords: [ProductDetailsRepresentation, product, definition, additionalFields, attributeCategories, attributes, availabilityDate, catalogs, childProducts, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent, isQuantityEditable, isSoldOnlyWithOtherProds, nodeType, prices, productClassification, productCode, productComponentGroups, productInformation, productPricingInformation, productQuantity, productRelatedComponent, productSellingModelOptions, productSpecificationType, productType, qualificationContext, status, unitOfMeasure]
 ---

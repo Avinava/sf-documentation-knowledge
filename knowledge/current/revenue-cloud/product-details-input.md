@@ -5,7 +5,7 @@ topic: product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:43.640Z
+lastCollected: 2026-05-03T00:28:12.711Z
 estimatedTokens: 939
 keywords: [Product]
 ---

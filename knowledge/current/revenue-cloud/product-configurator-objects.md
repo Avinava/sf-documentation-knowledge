@@ -5,7 +5,7 @@ topic: product-configurator-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.238Z
+lastCollected: 2026-05-03T00:28:15.142Z
 estimatedTokens: 208
 keywords: [Product, Configurator, deployment, sequence, Revenue, Cloud, including, API, sequences, lookup]
 ---

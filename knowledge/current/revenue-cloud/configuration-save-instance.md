@@ -5,7 +5,7 @@ topic: configuration-save-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:46.656Z
+lastCollected: 2026-05-03T00:28:14.689Z
 estimatedTokens: 114
 keywords: [Configuration, Save, Instance, that’s]
 ---

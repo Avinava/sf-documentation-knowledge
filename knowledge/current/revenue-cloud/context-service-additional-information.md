@@ -5,7 +5,7 @@ topic: context-service-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:35:47.071Z
+lastCollected: 2026-05-03T00:28:14.938Z
 estimatedTokens: 523
 keywords: [Context, Service, Additional, know, deployment, Revenue, Cloud, Helpful, Links, Considerations, Unsupported, Scenarios]
 ---

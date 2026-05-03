@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:47.759Z
+lastCollected: 2026-05-03T00:28:15.622Z
 estimatedTokens: 701
 keywords: [Product, Catalog, Management, Product2, Standard, extend, represent, products]
 ---

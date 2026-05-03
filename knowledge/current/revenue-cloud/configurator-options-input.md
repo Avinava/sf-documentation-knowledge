@@ -5,7 +5,7 @@ topic: configurator-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:42.992Z
+lastCollected: 2026-05-03T00:28:12.332Z
 estimatedTokens: 488
 keywords: [Configurator, Options, product, configuration, that’s, passed]
 ---
@@ -30,7 +30,7 @@ Properties
 | add​Default​Configuration | Boolean | Indicates whether to add the default configurations (true) or not (false). | Optional | 60.0 |
 | execute​Configuration​Rules | Boolean | Indicates whether to execute the configuration rules (true) or not (false). | Optional | 60.0 |
 | execute​Pricing | Boolean | Indicates whether to execute pricing (true) or not (false). | Optional | 60.0 |
-| explainability​Enabled | Boolean | Indicates whether additional metadata about how the solver achieved the execution request solution must be collected and made available to the caller (true) or not (false).If you set this property to true, you can get explainability action logs by using the Action Logs API. See Troubleshoot Product Configurations to set up configuration logs. | Optional | 65.0 |
+| explainability​Enabled | Boolean | Indicates whether additional metadata about how the solver achieved the execution request solution must be collected and made available to the caller (true) or not (false).If you set this property to true, you can get explainability action logs by using the Action Logs API. See Troubleshoot Product Configurations to set up configuration logs. | Optional | 66.0 |
 | pricing​Procedure | String | Name of the pricing procedure to use during the API calls to Salesforce Pricing Management. | Optional | 60.0 |
 | qualifyAll​ProductsIn​Transaction | Boolean | Indicates whether to run the qualification rules on all the products in the context (true) or not (false). | Optional | 60.0 |
 | returnProduct​Catalog​Data | Boolean | Indicates whether to return the product catalog data (true) or not (false).Exclude this property or specify the property value as false if you’re using the API without the Product Configurator UI. | Optional | 60.0 |

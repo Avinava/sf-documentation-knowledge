@@ -5,7 +5,7 @@ topic: saved-configuration-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.962Z
+lastCollected: 2026-05-03T00:28:13.567Z
 estimatedTokens: 472
 keywords: [Saved, Configuration, POST, Save, reuse, record's, configurations, record]
 ---

@@ -5,7 +5,7 @@ topic: line-item-details-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:46.344Z
+lastCollected: 2026-05-03T00:28:14.473Z
 estimatedTokens: 134
 keywords: [Line, Item, pricing, process, execution, items]
 ---

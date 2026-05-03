@@ -1,11 +1,11 @@
 ---
 domain: api
-name: SOAP API Developer GuideSOA
+name: SOAP API Developer Guide
 documentCount: 0
-lastGenerated: 2026-04-07T19:05:20.280Z
+lastGenerated: 2026-05-03T00:28:18.912Z
 ---
 
-# SOAP API Developer GuideSOA — Knowledge Index
+# SOAP API Developer Guide — Knowledge Index
 
 > Build robust, server-side solutions that integrate your Salesforce data using SOAP API. Choose the W
 

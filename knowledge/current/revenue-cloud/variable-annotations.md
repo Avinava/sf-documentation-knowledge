@@ -5,7 +5,7 @@ topic: variable-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:42.597Z
+lastCollected: 2026-05-03T00:28:12.146Z
 estimatedTokens: 1342
 keywords: [Variable, Annotations, annotate, variables, configurable, defaultValue, domainComputation, relatedAttributes]
 ---

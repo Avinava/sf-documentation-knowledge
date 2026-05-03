@@ -5,7 +5,7 @@ topic: variable-domains-and-domain-restrictions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:42.613Z
+lastCollected: 2026-05-03T00:28:12.163Z
 estimatedTokens: 277
 keywords: [Variable, Domains, Domain, Restrictions, fixed, permitted, specify, discrete, continuous, range, combination]
 ---

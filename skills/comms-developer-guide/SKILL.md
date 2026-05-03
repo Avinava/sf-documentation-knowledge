@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-comms-developer-guide
-description: Apply Salesforce knowledge and best practices for Revenue Cloud for Communications Developer Guide
+description: Apply Salesforce knowledge and best practices for Communications, Media, Energy and Utilities (CME) Developer Guide
 ---
 
-# Salesforce Knowledge Skill: Revenue Cloud for Communications Developer Guide
+# Salesforce Knowledge Skill: Communications, Media, Energy and Utilities (CME) Developer Guide
 
-> Use APIs and developer resources to configure, customize, and extend the capabilities of Revenue Clo
+> Use APIs and developer resources to configure, customize, and extend the capabilities of Communicati
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Revenue Cloud for Communications Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Communications, Media, Energy and Utilities (CME) Developer Guide**.
 
 ## How to Use This Knowledge
 

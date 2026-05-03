@@ -5,7 +5,7 @@ topic: get-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:39.895Z
+lastCollected: 2026-05-03T00:28:10.821Z
 estimatedTokens: 1839
 keywords: [Inputs, Outputs, Products, Action, catalog, category, subcategory, including, product, qualification, pricing, REST, HTTP, Apex-Defined, Flow]
 ---

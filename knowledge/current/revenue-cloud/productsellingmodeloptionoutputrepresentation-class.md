@@ -5,7 +5,7 @@ topic: productsellingmodeloptionoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:41.275Z
+lastCollected: 2026-05-03T00:28:11.421Z
 estimatedTokens: 884
 keywords: [selling, model, option, product, how, sold, subscription, one-time, usage-based, productId, productSellingModel, productSellingModelId]
 ---

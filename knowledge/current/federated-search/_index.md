@@ -1,8 +1,8 @@
 ---
 domain: federated-search
 name: Federated Search Developer Guide
-documentCount: 7
-lastGenerated: 2026-04-07T19:05:23.828Z
+documentCount: 0
+lastGenerated: 2026-05-03T00:28:18.984Z
 ---
 
 # Federated Search Developer Guide — Knowledge Index
@@ -13,14 +13,6 @@ lastGenerated: 2026-04-07T19:05:23.828Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [constraints.md](./constraints.md) | Constraints | api-reference | Because this API follows the OpenSearch specification, the API requires the same |
-| [error-codes.md](./error-codes.md) | Error Codes | developer-guide | Codes from the federated search connector. |
-| [examples.md](./examples.md) | Examples | api-reference | The provided example uses a search for blog posts and medical records. A basic
-  |
-| [extensions.md](./extensions.md) | Extensions | api-reference | This API follows the OpenSearch specification with more Salesforce extensions de |
-| [federated-search-developer-guide.md](./federated-search-developer-guide.md) | Federated Search Developer Guide | api-reference | The Federated Search API connects the Salesforce federated search connector to t |
-| [request-url-template-parameters.md](./request-url-template-parameters.md) | Request: URL Template Parameters | api-reference | All URL template parameters are URL-encoded and sent via an HTTPS GET method. Th |
-| [response-elements.md](./response-elements.md) | Response: Elements | api-reference | The external search provider returns results to the federated search connector i |
 
 ## How to Use
 

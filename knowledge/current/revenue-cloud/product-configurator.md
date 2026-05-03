@@ -5,7 +5,7 @@ topic: product-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.706Z
+lastCollected: 2026-05-03T00:28:15.557Z
 estimatedTokens: 476
 keywords: [Product, Configurator, Customize, attributes, align, specific, business, requirements]
 ---

@@ -5,7 +5,7 @@ topic: product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:47.902Z
+lastCollected: 2026-05-03T00:28:15.792Z
 estimatedTokens: 549
 keywords: [Product, Discovery, hierarchical, catalog, browsing, experience, identify, suitable, products, text-based, faceted, search]
 ---

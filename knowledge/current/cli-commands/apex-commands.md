@@ -5,7 +5,7 @@ topic: apex-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:38.881Z
+lastCollected: 2026-05-03T00:28:09.650Z
 estimatedTokens: 3694
 keywords: [Flags, apex, Commands, Fetch, log, number, recent, logs, org, Examples, Aliases, test, run, tail]
 ---

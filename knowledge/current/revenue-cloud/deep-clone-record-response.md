@@ -5,7 +5,7 @@ topic: deep-clone-record-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:45.730Z
+lastCollected: 2026-05-03T00:28:14.061Z
 estimatedTokens: 122
 keywords: [Deep, Clone, Record, cloned, records]
 ---

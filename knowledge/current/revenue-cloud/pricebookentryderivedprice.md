@@ -5,7 +5,7 @@ topic: pricebookentryderivedprice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:49.798Z
+lastCollected: 2026-05-03T00:28:16.831Z
 estimatedTokens: 1285
 keywords: [PriceBookEntryDerivedPrice, price, product, that’s, derived, another, source, asset, API, 61.0]
 ---

@@ -5,21 +5,18 @@ topic: error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:45.381Z
+lastCollected: 2026-05-03T00:28:13.779Z
 estimatedTokens: 86
-keywords: [Error, encountered, API]
+keywords: [Error]
 ---
 
-> Output representation of the error details encountered during the API
-    request.
+> Output representation of the details of the error.
 
 # Error Response
 
-Output representation of the error details encountered during the API request.
+Output representation of the details of the error.
 
 JSON example
-
-This example shows a sample error response.
 
 ```
 
@@ -27,8 +24,8 @@ This example shows a sample error response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| errorCode | String | Code that indicates the type of error. | Big, 66.0 | 66.0 |
-| message | String | Message stating the reason for error, if any. | Big, 66.0 | 66.0 |
+| code | String | Code of the error. | Small, 63.0 | 63.0 |
+| message | String | Description of the error. | Small, 63.0 | 63.0 |
 
 ## Code Examples
 
@@ -38,17 +35,6 @@ This example shows a sample error response.
     {
       "code": "BAD_REQUEST",
       "message": "MISSING_REFERENCEOBJECTID"
-    }
-  ]
-}
-```
-
-```
-{
-  "errors": [
-    {
-      "errorCode": "INVALID_STATUS",
-      "message": "CreditMemo 50gxx00000000XtAAI is not in the Posted status."
     }
   ]
 }

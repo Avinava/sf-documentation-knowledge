@@ -5,7 +5,7 @@ topic: require-rule-vs-constraint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:42.525Z
+lastCollected: 2026-05-03T00:28:12.040Z
 estimatedTokens: 158
 keywords: [Require, Rule, Constraint, Modeling, Language, CML, enforce, behavior, they, operate, differently, focuses, logical, consistency, physical, presence, products]
 ---

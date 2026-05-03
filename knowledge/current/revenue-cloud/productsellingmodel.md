@@ -5,7 +5,7 @@ topic: productsellingmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:50.145Z
+lastCollected: 2026-05-03T00:28:17.291Z
 estimatedTokens: 843
 keywords: [ProductSellingModel, product, sold, one-time, sale, evergreen, subscription, termed, subscription’s, term, multiple, selling, models, API, 60.0]
 ---

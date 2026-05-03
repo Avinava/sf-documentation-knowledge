@@ -5,7 +5,7 @@ topic: procedure-plan-evaluation-by-definition-name-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.419Z
+lastCollected: 2026-05-03T00:28:13.066Z
 estimatedTokens: 537
 keywords: [Procedure, Plan, Evaluation, Definition, POST, Evaluate, check, prerequisites, context, mapping]
 ---

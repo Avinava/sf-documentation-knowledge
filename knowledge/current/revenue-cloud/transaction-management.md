@@ -5,7 +5,7 @@ topic: transaction-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:47.960Z
+lastCollected: 2026-05-03T00:28:15.823Z
 estimatedTokens: 788
 keywords: [Transaction, Management, Configure, price, sell, products, Revenue, Cloud, supports, subscription, lifecycles, ensures, end-to-end, integrity, quotes, orders]
 ---

@@ -5,7 +5,7 @@ topic: product-discovery-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:47.859Z
+lastCollected: 2026-05-03T00:28:15.732Z
 estimatedTokens: 106
 namespace: The
 keywords: [Product, Discovery, Apex, built-in, classes, interfaces, grouped]

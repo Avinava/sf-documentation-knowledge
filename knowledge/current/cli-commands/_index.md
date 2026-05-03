@@ -2,7 +2,7 @@
 domain: cli-commands
 name: SF CLI Commands
 documentCount: 28
-lastGenerated: 2026-04-07T19:05:18.962Z
+lastGenerated: 2026-05-03T00:28:18.787Z
 ---
 
 # SF CLI Commands — Knowledge Index

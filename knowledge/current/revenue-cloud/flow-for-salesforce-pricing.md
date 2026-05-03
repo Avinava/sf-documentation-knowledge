@@ -5,7 +5,7 @@ topic: flow-for-salesforce-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:47.665Z
+lastCollected: 2026-05-03T00:28:15.500Z
 estimatedTokens: 234
 keywords: [FlowActionCall, Flow, Salesforce, Pricing, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---

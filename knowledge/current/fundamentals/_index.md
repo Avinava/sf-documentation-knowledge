@@ -1,8 +1,8 @@
 ---
 domain: fundamentals
 name: Lightning Platform Fundamentals
-documentCount: 1
-lastGenerated: 2026-04-07T19:05:21.203Z
+documentCount: 0
+lastGenerated: 2026-05-03T00:28:18.942Z
 ---
 
 # Lightning Platform Fundamentals — Knowledge Index
@@ -13,7 +13,6 @@ lastGenerated: 2026-04-07T19:05:21.203Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [document-retired.md](./document-retired.md) | Document Retired | developer-guide | This guide is retired. Fear not, we've got even better content in Trailhead that |
 
 ## How to Use
 

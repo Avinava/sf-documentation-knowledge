@@ -5,7 +5,7 @@ topic: product-classification-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.849Z
+lastCollected: 2026-05-03T00:28:13.483Z
 estimatedTokens: 299
 keywords: [Product, Classification, POST, Retrieve, records]
 ---

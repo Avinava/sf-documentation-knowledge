@@ -5,7 +5,7 @@ topic: table-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:42.553Z
+lastCollected: 2026-05-03T00:28:12.075Z
 estimatedTokens: 724
 keywords: [Constraints, constraint, Modeling, Language, CML, define, combinations, two, attributes, rows, definition, Import, Salesforce, Populate, Imported, Explanation]
 ---

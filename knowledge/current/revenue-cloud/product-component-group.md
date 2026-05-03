@@ -5,7 +5,7 @@ topic: product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:46.372Z
+lastCollected: 2026-05-03T00:28:14.508Z
 estimatedTokens: 389
 keywords: [Product, Group]
 ---
