@@ -5,7 +5,7 @@ topic: singleemailmessage-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.688Z
+lastCollected: 2026-05-10T00:39:30.269Z
 estimatedTokens: 8125
 namespace: Messaging
 keywords: [SingleEmailMessage, Array, IDs, Document, ContentVersion, Attachment, items, attach, email, getOneClickPost, getTemplateName, setBccAddresses, bccAddresses, setCcAddresses, ccAddresses, setCharset, characterSet, setDocumentAttachments, documentIds, setEntityAttachments, setFileAttachments, fileNames, setHtmlBody, htmlBody, setInReplyTo, parentMessageIds, setOneClickPost, oneClickPost, setOptOutPolicy, emailOptOutPolicy, setPlainTextBody, plainTextBody, setOrgWideEmailAddressId, emailAddressId, setReferences, references, setSubject, subject, setTargetObjectId, targetObjectId, setTemplateId, templateId, setToAddresses, toAddresses, setTreatBodiesAsTemplate, treatAsTemplate, setTreatTargetObjectAsRecipient, treatAsRecipient, setUnsubscribeComment, unsubscribeComment, setUnsubscribeUrls, UnsubscribeUrls, setWhatId, whatId]

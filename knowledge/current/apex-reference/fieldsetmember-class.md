@@ -5,7 +5,7 @@ topic: fieldsetmember-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.804Z
+lastCollected: 2026-05-10T00:39:25.076Z
 estimatedTokens: 962
 namespace: Schema
 keywords: [FieldSetMember, accessing, metadata, member, getDBRequired, getFieldPath, getLabel, getRequired, getType, getSObjectField]

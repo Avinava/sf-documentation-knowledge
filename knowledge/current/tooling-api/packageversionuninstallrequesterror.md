@@ -5,7 +5,7 @@ topic: packageversionuninstallrequesterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.800Z
+lastCollected: 2026-05-10T00:40:18.679Z
 estimatedTokens: 184
 keywords: [PackageVersionUninstallRequestError, error, encountered, requesting, uninstall, Package2Version, second-generation, package, API, 41.0, SOAP, REST, HTTP]
 ---

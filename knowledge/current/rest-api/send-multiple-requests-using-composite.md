@@ -6,8 +6,8 @@ topic: send-multiple-requests-using-composite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.486Z
-estimatedTokens: 1082
+lastCollected: 2026-05-10T00:39:57.232Z
+estimatedTokens: 1140
 keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, call, subsequent, bodies, HTTP, statuses, entire, counts, toward, limits]
 ---
 
@@ -19,6 +19,12 @@ keywords: [Send, Multiple, Requests, Composite, Executes, series, REST, API, cal
 # Send Multiple Requests Using Composite
 
 Executes a series of REST API requests in a single call. You can use the output of one request as the input to a subsequent request. The response bodies and HTTP statuses of the requests are returned in a single response body. The entire series of requests counts as a single call toward your API limits.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
+
+#### Note
+
+The sObject Blob Get and sObject Rich Text Image Get APIs return  binary data. These APIs aren’t supported in a Composite API request.
 
 The requests in a composite call are called subrequests. All subrequests are executed in the context of the same user. In a subrequest’s body, you specify a reference ID that maps to the subrequest’s response. You can then refer to the ID in the url or body fields of later subrequests by using a JavaScript-like reference notation.
 

@@ -5,7 +5,7 @@ topic: query-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.037Z
+lastCollected: 2026-05-10T00:39:58.119Z
 estimatedTokens: 493
 keywords: [Query, Results, batch, SOQL, locator, Resources, Executing, Queries]
 ---

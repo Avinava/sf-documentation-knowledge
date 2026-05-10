@@ -5,7 +5,7 @@ topic: crypto-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.883Z
+lastCollected: 2026-05-10T00:39:30.613Z
 estimatedTokens: 13924
 namespace: ID
 keywords: [Crypto, Computes, unique, digital, blob, algorithm, supplied, certificate, key, pair, Encryption, Algorithms, Signing, Encrypt, Decrypt, Exceptions, Errors, Running, Samples, algorithmName, secretKey, initializationVector, cipherText, decryptWithManagedIV, IVAndCipherText, aaData, clearText, encryptWithManagedIV, generateAesKey, size, generateDigest, generateMac, privateKey, getRandomInteger, getRandomLong, sign, signWithCertificate, certDevName, signXML, node, idAttributeName, refChild, verify, publicKey, verifyHMac, macToVerify]

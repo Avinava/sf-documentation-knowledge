@@ -5,7 +5,7 @@ topic: what-is-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.856Z
+lastCollected: 2026-05-10T00:39:52.881Z
 estimatedTokens: 916
 keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, servers, conjunction, API, looks, Java, acts, database, stored, procedures, add, business, logic, system, events, including, button, clicks, record, updates, Visualforce, pages, code, initiated, Web, service, requests, triggers]
 ---

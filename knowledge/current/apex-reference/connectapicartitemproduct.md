@@ -5,7 +5,7 @@ topic: connectapicartitemproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.697Z
+lastCollected: 2026-05-10T00:39:36.683Z
 estimatedTokens: 314
 keywords: [ConnectApi.CartItemProduct, Product, summary, cart, item]
 ---

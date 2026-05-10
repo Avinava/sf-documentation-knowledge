@@ -5,7 +5,7 @@ topic: market-journey-activity-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.077Z
+lastCollected: 2026-05-10T00:39:13.547Z
 estimatedTokens: 753
 keywords: [Category, Relationships, Market, Journey, Activity, DMO, model, Cloud, step, Builder, API, Primary, Subject, Area, Key]
 ---

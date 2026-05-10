@@ -5,7 +5,7 @@ topic: connect-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.898Z
+lastCollected: 2026-05-10T00:39:54.601Z
 estimatedTokens: 952
 namespace: ConnectApi
 keywords: [Connect, Apex, develop, experiences, Salesforce, programmatic, B2B, Commerce, CMS, managed, content, Experience, Cloud, sites, topics, pages, display, Chatter, feeds, post, items, mentions, user, group, photos, triggers]

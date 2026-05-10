@@ -5,7 +5,7 @@ topic: connectapiactionlinkdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:06.978Z
+lastCollected: 2026-05-10T00:39:35.546Z
 estimatedTokens: 1428
 keywords: [ConnectApi.ActionLinkDefinition, definition, action, link, sensitive, third, party, OAuth, bearer, token, reason, made, Apex, created, modify, addition, user, making, call, View, permission]
 ---

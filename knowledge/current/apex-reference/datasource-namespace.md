@@ -5,7 +5,7 @@ topic: datasource-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.006Z
+lastCollected: 2026-05-10T00:39:48.292Z
 estimatedTokens: 2166
 namespace: DataSource
 keywords: [DataSource, classes, Apex, Connector, Framework, develop, adapter, Salesforce, Connect, organization, any, anywhere, via]

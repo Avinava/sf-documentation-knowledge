@@ -5,7 +5,7 @@ topic: creditlinerequestinputrepresentations-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:40.333Z
+lastCollected: 2026-05-10T00:39:01.033Z
 estimatedTokens: 1072
 namespace: IssueCreditMemo
 keywords: [CreditLineRequestInputRepresentations, line-level, credit, invoice, line, amount, apply, invoiceLineId, creditLineAmount]

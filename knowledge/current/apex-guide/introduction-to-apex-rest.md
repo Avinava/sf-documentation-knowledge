@@ -5,7 +5,7 @@ topic: introduction-to-apex-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.401Z
+lastCollected: 2026-05-10T00:39:53.764Z
 estimatedTokens: 500
 keywords: [Authentication, Introduction, Apex, REST, expose, external, applications, code, application, architecture, defining, @RestResource, annotation, resource, Similarly, add, annotations, Governor, Limits]
 ---

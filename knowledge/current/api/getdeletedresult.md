@@ -5,12 +5,10 @@ topic: getdeletedresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.312Z
+lastCollected: 2026-05-10T00:40:45.312Z
 estimatedTokens: 397
 keywords: [GetDeletedResult, getDeleted, call, array, deletedRecords, records]
 ---
-
-# GetDeletedResult
 
 > The getDeleted() call returns a GetDeletedResult
   object that contains an array of deletedRecords

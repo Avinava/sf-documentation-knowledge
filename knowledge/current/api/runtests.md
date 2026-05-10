@@ -5,12 +5,10 @@ topic: runtests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.507Z
+lastCollected: 2026-05-10T00:40:45.748Z
 estimatedTokens: 378
-keywords: [runTests, Run, Apex, unit, tests, Usage, Sample, Code—Java, Arguments]
+keywords: [Arguments, runTests, Run, Apex, unit, tests, Sample, Code—Java]
 ---
-
-# runTests()
 
 > Run your Apex unit tests.
 

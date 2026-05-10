@@ -5,7 +5,7 @@ topic: b2c-commerce-product-catalog-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.104Z
+lastCollected: 2026-05-10T00:39:11.586Z
 estimatedTokens: 186
 keywords: [B2C, Commerce, Product, Catalog, Mapping, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, model, DMO, Cloud, categories, products, organize, merchandise, DLO]
 ---

@@ -5,7 +5,7 @@ topic: connectapifeediteminput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:05.426Z
+lastCollected: 2026-05-10T00:39:32.870Z
 estimatedTokens: 702
 keywords: [ConnectApi.FeedItemInput, rich, items, include, @mentions, files]
 ---

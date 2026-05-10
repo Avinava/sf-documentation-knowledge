@@ -5,7 +5,7 @@ topic: assetattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:47.325Z
+lastCollected: 2026-05-10T00:40:38.402Z
 estimatedTokens: 468
 keywords: [AssetAttribute, Stores, asset, attributes, track, analyze, conditions, improve, their, uptime, API, 57.0]
 ---

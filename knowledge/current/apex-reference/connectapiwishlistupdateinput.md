@@ -5,7 +5,7 @@ topic: connectapiwishlistupdateinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:06.582Z
+lastCollected: 2026-05-10T00:39:34.845Z
 estimatedTokens: 58
 keywords: [ConnectApi.WishlistUpdateInput, wishlist]
 ---

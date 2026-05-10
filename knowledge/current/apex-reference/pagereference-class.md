@@ -5,7 +5,7 @@ topic: pagereference-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.546Z
+lastCollected: 2026-05-10T00:39:49.172Z
 estimatedTokens: 1865
 namespace: ApexPages
 keywords: [Instantiation, PageReference, Among, attributes, PageReferences, consist, URL, query, Retrieving, Navigating, New, Result, Action, Redirect, Users, Replacement, Experience, Cloud, Site]

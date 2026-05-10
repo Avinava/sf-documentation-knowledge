@@ -5,7 +5,7 @@ topic: cmsconnectsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.558Z
+lastCollected: 2026-05-10T00:40:02.189Z
 estimatedTokens: 3139
 keywords: [CMSConnectSource, CMSConnectAsset, CMSConnectLanguage, CMSConnectPersonalization, CMSConnectResourceType, CMSConnectResourceDefinition, connection, external, content, management, systems, Experience, Builder, sites, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

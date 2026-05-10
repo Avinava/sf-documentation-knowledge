@@ -5,7 +5,7 @@ topic: error-handling-for-session-expiration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.505Z
+lastCollected: 2026-05-10T00:40:05.286Z
 estimatedTokens: 154
 keywords: [Error, Handling, Session, Expiration, sign, via, login, call, new, client, begins, corresponding, unique, generated, Sessions, automatically, expire, amount, time, Security, setup, area, Salesforce, application, two, hours]
 ---

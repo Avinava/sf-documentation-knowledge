@@ -5,12 +5,10 @@ topic: invalidatesessionsresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.349Z
+lastCollected: 2026-05-10T00:40:45.401Z
 estimatedTokens: 151
-keywords: [InvalidateSessionsResult, invalidateSessions, call, array, LogoutResult, objects]
+keywords: [InvalidateSessionsResult, invalidateSessions, call, array, LogoutResult]
 ---
-
-# InvalidateSessionsResult
 
 > The invalidateSessions() call returns an array of
   LogoutResult objects.

@@ -5,7 +5,7 @@ topic: entityparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.751Z
+lastCollected: 2026-05-10T00:40:16.937Z
 estimatedTokens: 3877
 keywords: [EntityParticle, Limitations, presented, user, Contrast, FieldDefinition, defined, Metadata, API, parity, describe, accessible, entity, Tooling, 34.0, SOAP, REST, HTTP, RelationshipReferenceTo]
 ---

@@ -5,7 +5,7 @@ topic: bulk-api-20-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.504Z
+lastCollected: 2026-05-10T00:40:18.159Z
 estimatedTokens: 426
 keywords: [Bulk, API, 2.0, query, MetadataComponentDependency, Tooling, retrieve, records, SOQL, queries, relationships, metadata, org, Additional]
 ---

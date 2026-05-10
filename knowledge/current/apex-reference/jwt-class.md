@@ -5,7 +5,7 @@ topic: jwt-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.570Z
+lastCollected: 2026-05-10T00:39:22.611Z
 estimatedTokens: 2882
 namespace: Auth
 keywords: [JWT, Generates, JSON, Claims, Web, Token, resulting, Base64-encoded, payload, passed, argument, instance, Auth.JWS, clone, getAdditionalClaims, getAud, getIss, getNbfClockSkew, getSub, getValidityLength, setAdditionalClaims, additionalClaims, setAud, aud, setIss, iss, setNbfClockSkew, nbfClockSkew, setSub, sub, setValidityLength, validityLength, toJSONString]

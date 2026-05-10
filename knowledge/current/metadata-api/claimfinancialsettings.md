@@ -5,7 +5,7 @@ topic: claimfinancialsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.498Z
+lastCollected: 2026-05-10T00:40:02.091Z
 estimatedTokens: 610
 keywords: [ClaimFinancialSettings, configuration, settings, Insurance, Claim, Financial, Services, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

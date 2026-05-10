@@ -5,12 +5,10 @@ topic: ajax-proxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.641Z
+lastCollected: 2026-05-10T00:40:43.898Z
 estimatedTokens: 426
 keywords: [AJAX, Proxy, browsers, don't, allow, JavaScript, code, connect, external, servers, directly, Therefore, may, send, requests]
 ---
-
-# AJAX Proxy
 
 > Some browsers don't allow JavaScript code to connect to external servers directly.
         Therefore, you may need to send requests through the AJAX proxy.

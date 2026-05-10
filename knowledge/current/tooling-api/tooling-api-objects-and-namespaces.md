@@ -6,7 +6,7 @@ topic: tooling-api-objects-and-namespaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:31.429Z
+lastCollected: 2026-05-10T00:40:14.891Z
 estimatedTokens: 1105
 namespace: Used
 keywords: [Tooling, API, Namespaces, provide, programmatic, metadata, WSDL, includes, four, Quick-Reference, Tables, System, SOQL, Limitations]

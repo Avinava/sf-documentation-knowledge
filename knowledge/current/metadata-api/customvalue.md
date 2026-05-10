@@ -5,7 +5,7 @@ topic: customvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:24.226Z
+lastCollected: 2026-05-10T00:40:03.312Z
 estimatedTokens: 1886
 keywords: [CustomValue, StandardValue, definition, local, picklist, unique, inherit, their, API, 38.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample]
 ---

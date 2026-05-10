@@ -5,7 +5,7 @@ topic: assessment-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:36.441Z
+lastCollected: 2026-05-10T00:40:22.487Z
 estimatedTokens: 120
 keywords: [Assessment, Responses]
 ---

@@ -5,7 +5,7 @@ topic: consent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.601Z
+lastCollected: 2026-05-10T00:39:57.406Z
 estimatedTokens: 103
 keywords: [Consent, users, store, preferences, different, locations, possibly, inconsistently, locate, customers’, across, multiple, records, API, 44.0, helps, respect, restrictive, requests, specific, Cloud, 50.0]
 ---

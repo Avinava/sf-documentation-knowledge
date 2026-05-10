@@ -5,7 +5,7 @@ topic: digitalsignature
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:47.513Z
+lastCollected: 2026-05-10T00:40:38.652Z
 estimatedTokens: 905
 keywords: [DigitalSignature, captured, service, report]
 ---

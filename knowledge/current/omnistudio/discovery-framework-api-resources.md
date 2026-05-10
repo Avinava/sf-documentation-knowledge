@@ -5,7 +5,7 @@ topic: discovery-framework-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.967Z
+lastCollected: 2026-05-10T00:40:28.857Z
 estimatedTokens: 216
 keywords: [Discovery, Framework, API, Resources, Here’s, Document, Decision]
 ---

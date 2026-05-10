@@ -5,7 +5,7 @@ topic: party-financial-asset-additional-owner-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.070Z
+lastCollected: 2026-05-10T00:40:27.553Z
 estimatedTokens: 496
 keywords: [Party, Financial, Asset, Additional, Owner, Result]
 ---

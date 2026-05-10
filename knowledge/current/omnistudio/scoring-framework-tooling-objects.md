@@ -5,7 +5,7 @@ topic: scoring-framework-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:43.651Z
+lastCollected: 2026-05-10T00:40:32.931Z
 estimatedTokens: 542
 keywords: [Scoring, Framework, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces, Introducing]
 ---

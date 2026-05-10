@@ -5,7 +5,7 @@ topic: aiscoringmodeldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.338Z
+lastCollected: 2026-05-10T00:40:00.193Z
 estimatedTokens: 1141
 keywords: [AIScoringModelDefinition, AIScoringModelDefVersion, AIScoringStep, machine, learning, model, that’s, Scoring, Framework, Industries, Cloud, Einstein, including, configuration, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

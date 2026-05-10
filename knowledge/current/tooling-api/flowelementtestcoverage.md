@@ -5,7 +5,7 @@ topic: flowelementtestcoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.075Z
+lastCollected: 2026-05-10T00:40:17.451Z
 estimatedTokens: 390
 keywords: [FlowElementTestCoverage, flow, executed, Apex, test, SOAP, REST, HTTP, Sample, Queries]
 ---

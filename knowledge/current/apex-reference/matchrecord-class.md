@@ -5,7 +5,7 @@ topic: matchrecord-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.101Z
+lastCollected: 2026-05-10T00:39:23.891Z
 estimatedTokens: 879
 namespace: Datacloud
 keywords: [MatchRecord, duplicate, record, detected, matching, rule, getAdditionalInformation, getFieldDiffs, getMatchConfidence, getRecord]

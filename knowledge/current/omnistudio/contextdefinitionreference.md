@@ -5,7 +5,7 @@ topic: contextdefinitionreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:45.626Z
+lastCollected: 2026-05-10T00:40:35.969Z
 estimatedTokens: 395
 keywords: [ContextDefinitionReference, Context, Definition, another, API, 60.0, SOAP, REST]
 ---

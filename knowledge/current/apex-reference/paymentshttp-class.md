@@ -5,7 +5,7 @@ topic: paymentshttp-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.025Z
+lastCollected: 2026-05-10T00:39:27.083Z
 estimatedTokens: 528
 namespace: CommercePayments
 keywords: [PaymentsHttp, HTTP, start, interaction, payment, gateway, send]

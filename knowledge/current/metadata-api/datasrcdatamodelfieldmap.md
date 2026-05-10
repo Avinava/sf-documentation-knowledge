@@ -5,17 +5,17 @@ topic: datasrcdatamodelfieldmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.475Z
-estimatedTokens: 505
-keywords: [DataSrcDataModelFieldMap, entity, storing, design, time, bundle, level, mappings, source, model, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-05-10T00:40:03.752Z
+estimatedTokens: 688
+keywords: [DataSrcDataModelFieldMap, mappings, source, lake, DLO, target, model, DMO, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
-> Represents the entity that is used for storing the design
-      time bundle level mappings for the data source fields and data model fields.
+> Represents the mappings between source data lake object
+      (DLO) fields and target data model object (DMO) fields.
 
 # DataSrcDataModelFieldMap
 
-Represents the entity that is used for storing the design time bundle level mappings for the data source fields and data model fields.
+Represents the mappings between source data lake object (DLO) fields and target data model object (DMO) fields.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -37,16 +37,20 @@ DataSrcDataModelFieldMap components are available in API version 53.0 and later.
 
 ## Special Access Rules
 
-You need Data 360 permission to access this object.
+You need Data 360 permissions to access this object.
 
 ## Fields
 
 | Field Name | Description |
 | --- | --- |
-| masterLabel | Field TypestringDescriptionRequired. Indicates the name of the entity. |
-| sourceField | Field TypestringDescriptionRequired. Indicates the developer name of data source fields. |
-| targetField | Field TypestringDescriptionRequired. Indicates the developer name of data mapping object fields. |
-| versionNumber | Field TypedoubleDescriptionRequired. Indicates the version number of the entity. |
+| filterApplied | Field TypebooleanDescriptionIndicates whether a filter is applied to a DLO-to-DMO field mapping (true) or not (false). Available in API version 60.0 and later. |
+| filterOperationType | Field TypestringDescriptionRequired when filterApplied is true. The comparison operator used when filtering the DLO-to-DMO field mapping. Available in API version 60.0 and later. |
+| filterValue | Field TypestringDescriptionRequired when filterApplied is true. The value used for filtering the DLO-to-DMO field mapping. Available in API version 60.0 and later. |
+| masterLabel | Field TypestringDescriptionRequired. A user-friendly name for DataSrcDataModelFieldMap, which is defined when the DataSrcDataModelFieldMap is created. |
+| sourceField | Field TypestringDescriptionRequired. The developer name of the DLO field. |
+| targetField | Field TypestringDescriptionRequired. The developer name of the DMO field. |
+| templateVersion | Field TypeintDescriptionThe version number of the field mapping template. Available in API version 61.0 and later. |
+| versionNumber | Field TypedoubleDescriptionRequired. The version number of the DataSrcDataModelFieldMap. |
 
 ## Declarative Metadata Sample Definition
 
@@ -71,9 +75,13 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>true</filterApplied>
+    <filterOperationType>equals</filterOperationType>
+    <filterValue>Active</filtervalue>
     <masterLabel>DataSrcDataModel26</masterLabel>
     <sourceField>Account1.LastModifiedDate__c</sourceField>
     <targetField>ssot__Account__dlm.ssot__LastModifiedDate__c</targetField>
+    <tepmlateVersion>2</templateVersion>
     <versionNumber>1.0</versionNumber>
 </DataSrcDataModelFieldMap>
 ```

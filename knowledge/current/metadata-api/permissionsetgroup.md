@@ -5,7 +5,7 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.382Z
+lastCollected: 2026-05-10T00:40:09.799Z
 estimatedTokens: 845
 keywords: [PermissionSetGroup, group, permission, permissions, groups, organize, job, functions, tasks, package, needed, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

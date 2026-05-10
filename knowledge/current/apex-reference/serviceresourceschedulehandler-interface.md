@@ -5,7 +5,7 @@ topic: serviceresourceschedulehandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.488Z
+lastCollected: 2026-05-10T00:39:45.681Z
 estimatedTokens: 653
 namespace: LxScheduler
 keywords: [ServiceResourceScheduleHandler, implementing, check, external, calendar, events, already, booked, time, slots, requested, service, resources, part, Salesforce, Scheduler, getUnavailableTimeslots, var1, Implementation]

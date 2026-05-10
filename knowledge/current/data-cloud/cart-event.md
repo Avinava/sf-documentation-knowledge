@@ -5,7 +5,7 @@ topic: cart-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.228Z
+lastCollected: 2026-05-10T00:39:10.497Z
 estimatedTokens: 191
 keywords: [Cart, Event, interaction, capture, customer, modifies, contents, their, online, shopping, Add, Remove, Replace]
 ---

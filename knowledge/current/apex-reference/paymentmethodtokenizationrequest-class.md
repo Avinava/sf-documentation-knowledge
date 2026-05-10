@@ -5,7 +5,7 @@ topic: paymentmethodtokenizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.002Z
+lastCollected: 2026-05-10T00:39:27.028Z
 estimatedTokens: 2488
 namespace: CommercePayments
 keywords: [PaymentMethodTokenizationRequest, Stores, tokenize, card, payment, tokenization, process, occurs, gateway, replaces, sensitive, customer, number, CVV, unique, identification, symbols, handled, Salesforce, bank, allowing, store, token, storing, paymentGatewayId, address, bankPaymentMethod, cardPaymentMethod, savedByMerchant, equals, obj, hashCode, toString]

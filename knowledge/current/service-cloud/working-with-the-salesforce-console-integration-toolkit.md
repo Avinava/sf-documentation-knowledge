@@ -5,7 +5,7 @@ topic: working-with-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:51.000Z
+lastCollected: 2026-05-10T00:40:43.684Z
 estimatedTokens: 533
 keywords: [Working, Salesforce, Console, Integration, Toolkit, streamline, business, process]
 ---

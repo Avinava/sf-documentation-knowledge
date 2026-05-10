@@ -5,7 +5,7 @@ topic: post-a-batch-of-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.069Z
+lastCollected: 2026-05-10T00:39:54.887Z
 estimatedTokens: 104
 keywords: [Post, Batch, trigger, call, bulk, feeds, accounts]
 ---

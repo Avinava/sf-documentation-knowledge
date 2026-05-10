@@ -5,8 +5,8 @@ topic: run-unit-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.648Z
-estimatedTokens: 2604
+lastCollected: 2026-05-10T00:39:54.187Z
+estimatedTokens: 2601
 keywords: [Run, Unit, Test, verify, functionality, Apex, code, execute, tests, Developer, Console, Setup, Salesforce, extensions, Visual, Studio, API, Running, User, ApexTestQueueItem]
 ---
 
@@ -132,9 +132,9 @@ This example uses DML operations to insert and query the ApexTestQueueItem and A
 
 ```
 
-1.  [Using the runAs Method Method](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
+1.  [Using the runAs Method](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
     Generally, all Apex code runs in system mode, where the object-level and field-level permissions of the current user aren’t taken into account. With the System method runAs, you can write test methods that change the user context to an existing user or a new user. Then the user’s sharing rules and object-level and field-level permissions are enforced.
-2.  [Using Limits, startTest , and , and stopTest](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
+2.  [Using Limits, startTest , and stopTest](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
 
 3.  [Adding SOSL Queries to Unit Tests](atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)
 
@@ -210,7 +210,7 @@ public class TestUtil {
 ## Related Topics
 
 - Apex Scheduler (atlas.en-us.apexcode.meta/apexcode/apex_scheduler.htm)
-- Using the runAs Method Method (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
-- Using Limits, startTest , and , and stopTest (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
+- Using the runAs Method (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_runas.htm)
+- Using Limits, startTest , and stopTest (atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm)
 - Adding SOSL Queries to Unit Tests (atlas.en-us.apexcode.meta/apexcode/apex_testing_SOSL.htm)
 - Testing and Code Coverage (atlas.en-us.apexcode.meta/apexcode/apex_code_coverage_intro.htm)

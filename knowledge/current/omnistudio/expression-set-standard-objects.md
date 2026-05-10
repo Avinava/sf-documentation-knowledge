@@ -5,7 +5,7 @@ topic: expression-set-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.216Z
+lastCollected: 2026-05-10T00:40:29.241Z
 estimatedTokens: 555
 keywords: [Expression, Standard, activate]
 ---

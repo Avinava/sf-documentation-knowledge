@@ -5,7 +5,7 @@ topic: list-view-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.854Z
+lastCollected: 2026-05-10T00:39:57.810Z
 estimatedTokens: 171
 keywords: [View, Results, Executes, SOQL, query, resulting, presentation, resource, REST, API, 32.0]
 ---

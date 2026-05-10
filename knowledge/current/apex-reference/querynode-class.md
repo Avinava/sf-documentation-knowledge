@@ -5,7 +5,7 @@ topic: querynode-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.496Z
+lastCollected: 2026-05-10T00:39:29.948Z
 estimatedTokens: 1731
 keywords: [QueryNode, Define, node, query, projection, groups, order, filters, Execute, build, streamName, foreach, projections, group, orders, cap, filter, filterCondition, filterConditions]
 ---
@@ -40,15 +40,15 @@ The following are methods for QueryNode.
     Groups matched records (group by specific dataset attributes).
 -   **[group()](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#apex_wave_QueryNode_group_2)**
     Groups matched records (group by all).
--   **[order(orders)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_286777699)**
+-   **[order(orders)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_242777966)**
     Sorts in ascending or descending order on one or more fields.
--   **[cap(cap)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_568928972)**
+-   **[cap(cap)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_447183166)**
     Limits the number of results that are returned.
 -   **[filter(filterCondition)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#apex_wave_QueryNode_filter_2)**
     Selects rows from a dataset based on a filter condition (a predicate).
 -   **[filter(filterConditions)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#apex_wave_QueryNode_filter)**
     Selects rows from a dataset based on multiple filter conditions (predicates).
--   **[execute(streamName)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_950906399)**
+-   **[execute(streamName)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryNode.htm#unique_215586423)**
     Execute the query and return rows as JSON.
 
 ### build(streamName)

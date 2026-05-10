@@ -5,7 +5,7 @@ topic: describelayoutsection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.842Z
+lastCollected: 2026-05-10T00:39:28.540Z
 estimatedTokens: 1695
 namespace: QuickAction
 keywords: [DescribeLayoutSection, current, view, record, collapsed, expanded, layoutsectionid, getColumns, getHeading, getLayoutRows, getLayoutSectionId, getParentLayoutId, getRows, isCollapsed, isUseCollapsibleSection, isUseHeading]

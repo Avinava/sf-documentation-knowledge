@@ -5,7 +5,7 @@ topic: process-compliance-navigator
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:43.475Z
+lastCollected: 2026-05-10T00:40:32.675Z
 estimatedTokens: 593
 keywords: [Process, Compliance, Navigator, management, solution, sure, organization, meets, regulatory, requirements, internal, policies, industry, standards, validation, procedures, help, avoid, non-compliance, achieve, ongoing, Prevent, violations, checks, deadline, alerts, compliant, execution, features]
 ---

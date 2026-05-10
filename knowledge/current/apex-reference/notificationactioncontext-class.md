@@ -5,7 +5,7 @@ topic: notificationactioncontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.969Z
+lastCollected: 2026-05-10T00:39:29.054Z
 estimatedTokens: 866
 namespace: Reports
 keywords: [NotificationActionContext, report, instance, condition, threshold, notification, reportInstance, thresholdInformation, getReportInstance, getThresholdInformation]

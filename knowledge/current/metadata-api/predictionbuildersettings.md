@@ -5,7 +5,7 @@ topic: predictionbuildersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.531Z
+lastCollected: 2026-05-10T00:40:10.070Z
 estimatedTokens: 618
 keywords: [PredictionBuilderSettings, settings, determine, how, user, interact, Einstein, Prediction, Builder, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: get-application-form-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.730Z
+lastCollected: 2026-05-10T00:40:27.141Z
 estimatedTokens: 147
 keywords: [Application, Form, Result]
 ---

@@ -5,12 +5,10 @@ topic: describelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.061Z
-estimatedTokens: 1759
-keywords: [describeLayout, Retrieves, metadata, layouts, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+lastCollected: 2026-05-10T00:40:44.734Z
+estimatedTokens: 1760
+keywords: [Arguments, Faults, describeLayout, Retrieves, metadata, layouts, Sample, Code—Java, Code—C#]
 ---
-
-# describeLayout()
 
 > Retrieves metadata about page layouts for the 
         specified object type.
@@ -52,7 +50,7 @@ These restrictions apply to person account record types:
 -   [describeLayout()](# "Retrieves metadata about page layouts for the specified object type.") for version 7.0 and below returns the default business account record type as the default record type even if the tab default is a person account record type. In version 8.0 and after, it’s always the tab default.
 -   [describeLayout()](# "Retrieves metadata about page layouts for the specified object type.") for version 7.0 and below doesn’t return any person account record types.
 
-For more information about person account record types, see [Person Account Record Types](atlas.en-us.api.meta/api/sforce_api_guidelines_personaccounts.htm "The person account record types enable specialized business-to-consumer functionality for users who sell to or do business with individuals. For example, a doctor, hairdresser, or real estate agent whose clients are individuals.").
+For more information about person account record types, see [Person Account Record Types](atlas.en-us.api.meta/api/sforce_api_guidelines_personaccounts.htm "The person account record types enable specialized business-to-consumer (B2C) functionality for users who sell to or do business with individuals. For example, a doctor, hairdresser, or real estate agent whose clients are individuals.").
 
 ## Sample Code—Java
 

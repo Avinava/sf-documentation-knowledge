@@ -5,7 +5,7 @@ topic: connectapicdpcalculatedinsightmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.819Z
+lastCollected: 2026-05-10T00:39:36.863Z
 estimatedTokens: 214
 keywords: [ConnectApi.CdpCalculatedInsightMeasure, Calculated, insight, measure]
 ---

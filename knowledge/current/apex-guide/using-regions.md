@@ -5,7 +5,7 @@ topic: using-regions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.613Z
+lastCollected: 2026-05-10T00:39:50.877Z
 estimatedTokens: 211
 keywords: [Regions, Matcher, finds, matches, subset, region, always, entirety, However, change, start, end, points, query, region's]
 ---

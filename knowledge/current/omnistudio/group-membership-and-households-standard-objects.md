@@ -5,7 +5,7 @@ topic: group-membership-and-households-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.327Z
+lastCollected: 2026-05-10T00:40:29.402Z
 estimatedTokens: 420
 keywords: [Group, Membership, Households, Standard, model, represent, relationships, memberships]
 ---

@@ -5,7 +5,7 @@ topic: contentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.746Z
+lastCollected: 2026-05-10T00:40:02.525Z
 estimatedTokens: 1451
 keywords: [ContentAsset, ContentAssetRelationships, ContentAssetLink, ContentAssetVersions, ContentAssetVersion, metadata, creating, asset, file, files, enable, Salesforce, org, setup, configuration, purposes, extends, MetadataWithContent, inherits, content, fullName, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

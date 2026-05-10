@@ -5,12 +5,10 @@ topic: advanced-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.562Z
+lastCollected: 2026-05-10T00:40:43.700Z
 estimatedTokens: 329
 keywords: [Advanced, Topics, chapter, activities, AJAX, Toolkit]
 ---
-
-# Advanced Topics
 
 > This chapter contains information about advanced activities in the AJAX Toolkit.
 

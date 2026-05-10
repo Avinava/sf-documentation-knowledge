@@ -5,7 +5,7 @@ topic: accountcontactrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.828Z
+lastCollected: 2026-05-10T00:40:33.203Z
 estimatedTokens: 849
 keywords: [AccountContactRelation, Standard, extend, Account, Sector, Solutions, represent, members, household, API, 56.0]
 ---

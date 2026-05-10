@@ -5,7 +5,7 @@ topic: conversationmessagedefinitiontranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.923Z
+lastCollected: 2026-05-10T00:40:02.798Z
 estimatedTokens: 629
 keywords: [ConversationMessageDefinitionTranslation, ConversationMessageConstantValueTranslation, translated, labels, constant, conversation, message, definitions, Enhanced, Messaging, In-App, Web, Parent]
 ---

@@ -5,7 +5,7 @@ topic: serviceappointmentrequestinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.702Z
+lastCollected: 2026-05-10T00:39:28.290Z
 estimatedTokens: 2330
 namespace: LxScheduler
 keywords: [ServiceAppointmentRequestInfo, passed, ServiceResourceScheduleHandler, implemented, internally, Apex, startDate, endDate, ServiceResources, SchedulingPolicyId, workTypeGroupId, accountId, primaryResourceId, workTypeId, correlationId, getAccountId, getCorrelationId, getEndDate, getPrimaryResourceId, getSchedulingPolicyId, getServiceResources, getStartDate, getWorkTypeGroupId, getWorkTypeId]

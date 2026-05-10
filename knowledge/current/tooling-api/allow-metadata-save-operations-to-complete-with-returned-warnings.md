@@ -6,7 +6,7 @@ topic: allow-metadata-save-operations-to-complete-with-returned-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:34.960Z
+lastCollected: 2026-05-10T00:40:20.333Z
 estimatedTokens: 209
 keywords: [Allow, Metadata, Save, Operations, Warnings, operation, generates, behavior, Tooling, API, fail, returning, WSDLs, indicate, want, error-free, successfully, any]
 ---

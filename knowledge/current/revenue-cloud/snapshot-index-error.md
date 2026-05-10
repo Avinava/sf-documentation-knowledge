@@ -5,7 +5,7 @@ topic: snapshot-index-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.764Z
+lastCollected: 2026-05-10T00:39:06.389Z
 estimatedTokens: 145
 keywords: [Snapshot, Index, Error]
 ---

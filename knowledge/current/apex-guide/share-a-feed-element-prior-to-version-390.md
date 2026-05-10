@@ -5,7 +5,7 @@ topic: share-a-feed-element-prior-to-version-390
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.116Z
+lastCollected: 2026-05-10T00:39:54.957Z
 estimatedTokens: 215
 keywords: [Share, prior, 39.0, Call]
 ---

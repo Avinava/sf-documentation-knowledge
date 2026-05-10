@@ -5,12 +5,10 @@ topic: describesoqllistviews
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.228Z
+lastCollected: 2026-05-10T00:40:45.106Z
 estimatedTokens: 379
-keywords: [describeSoqlListViews, Retrieves, SOQL, query, view, Usage, Sample, Code—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describeSoqlListViews, Retrieves, SOQL, query, view, Sample, Code—Java]
 ---
-
-# describeSoqlListViews()
 
 > Retrieves the SOQL query and other information about a list view.
 

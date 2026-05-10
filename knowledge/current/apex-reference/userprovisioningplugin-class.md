@@ -5,7 +5,7 @@ topic: userprovisioningplugin-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.431Z
+lastCollected: 2026-05-10T00:39:26.010Z
 estimatedTokens: 1557
 namespace: UserProvisioning
 keywords: [UserProvisioningPlugin, base, implements, Process.Plugin, programmatic, customization, user, provisioning, process, connected, apps, buildDescribeCall, describe, getPluginClassName, invoke]

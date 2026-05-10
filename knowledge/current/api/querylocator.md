@@ -5,12 +5,10 @@ topic: querylocator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.461Z
+lastCollected: 2026-05-10T00:40:45.645Z
 estimatedTokens: 488
 keywords: [QueryLocator, QueryResult, queryMore, retrieve, additional, query, results, server-side, cursor]
 ---
-
-# QueryLocator
 
 > A string returned in QueryResult and used in queryMore() to find and retrieve additional query results. Represents a server-side
     cursor.

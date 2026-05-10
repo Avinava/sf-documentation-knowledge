@@ -5,7 +5,7 @@ topic: exceptions-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.626Z
+lastCollected: 2026-05-10T00:39:52.526Z
 estimatedTokens: 1206
 keywords: [Exceptions, Apex, errors, events, disrupt, normal, flow, code, execution, throw, statements, generate, try, catch, finally, gracefully, recover, Happens, Exception, Occurs, Unhandled, Emails, User]
 ---

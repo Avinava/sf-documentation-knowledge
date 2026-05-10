@@ -5,7 +5,7 @@ topic: collator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.970Z
+lastCollected: 2026-05-10T00:39:25.338Z
 estimatedTokens: 867
 namespace: System
 keywords: [Collator, locale-specific, instances, comparisons, sorting, getInstance, obtain, instance, locale, pass, Comparator, list.sort, compare, source, target]

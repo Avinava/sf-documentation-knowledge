@@ -5,7 +5,7 @@ topic: cancelfiletransferbyagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:48.836Z
+lastCollected: 2026-05-10T00:40:40.636Z
 estimatedTokens: 204
 keywords: [Arguments, cancelFileTransferByAgent, file, transfer, canceled, agent, API, 31.0, Sample, Code–Visualforce]
 ---

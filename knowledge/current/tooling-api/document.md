@@ -5,7 +5,7 @@ topic: document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.463Z
+lastCollected: 2026-05-10T00:40:16.483Z
 estimatedTokens: 1527
 keywords: [Document, Limitations, file, user, uploaded, Unlike, Attachment, records, documents, attached, parent, Tooling, API, 38.0, SOAP, REST, HTTP]
 ---

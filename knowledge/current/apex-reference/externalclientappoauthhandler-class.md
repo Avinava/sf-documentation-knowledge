@@ -5,7 +5,7 @@ topic: externalclientappoauthhandler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.519Z
+lastCollected: 2026-05-10T00:39:22.517Z
 estimatedTokens: 1849
 namespace: Auth
 keywords: [ExternalClientAppOauthHandler, extending, behavior, external, client, app, customize, how, invoked, depending, protocol, gives, control, over, interaction, Salesforce, authorize, userId, ecAppId, isAdminApproved, context, customAttributes, formulaDefinedAttributes, refresh]

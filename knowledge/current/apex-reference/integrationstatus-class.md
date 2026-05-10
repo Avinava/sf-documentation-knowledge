@@ -5,7 +5,7 @@ topic: integrationstatus-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:03.360Z
+lastCollected: 2026-05-10T00:39:29.711Z
 estimatedTokens: 346
 keywords: [IntegrationStatus, Supports, synchronous, execution, Apex, integrations, B2B, Commerce, implementation, status]
 ---

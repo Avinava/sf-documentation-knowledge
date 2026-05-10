@@ -5,12 +5,10 @@ topic: assignmentruleheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.690Z
+lastCollected: 2026-05-10T00:40:46.068Z
 estimatedTokens: 558
-keywords: [AssignmentRuleHeader, call, Case, Lead, assignment, rule, applied, Account, territory, rules, API, Calls, Sample, Code]
+keywords: [AssignmentRuleHeader, call, Case, Lead, assignment, rule, applied, Account, territory, API, Sample, Code]
 ---
-
-# AssignmentRuleHeader
 
 > The AssignmentRuleHeader must be specified in the create() or update() call of a Case or Lead for the specified assignment 
   rule to be applied, and it must be specified in the update() call of an Account for the territory 

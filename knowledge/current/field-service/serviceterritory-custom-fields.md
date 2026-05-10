@@ -5,7 +5,7 @@ topic: serviceterritory-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:46.618Z
+lastCollected: 2026-05-10T00:40:37.377Z
 estimatedTokens: 793
 keywords: [ServiceTerritory, geographic, functional, region, service, work, performed, Internal]
 ---

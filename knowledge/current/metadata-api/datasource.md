@@ -5,7 +5,7 @@ topic: datasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.433Z
+lastCollected: 2026-05-10T00:40:03.684Z
 estimatedTokens: 248
 keywords: [DataSource, represent, system, sourced, always, needed, creating, Stream, Definition, File, Suffix, Directory, Location]
 ---

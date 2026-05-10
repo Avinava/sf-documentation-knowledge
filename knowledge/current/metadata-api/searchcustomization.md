@@ -5,7 +5,7 @@ topic: searchcustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.461Z
+lastCollected: 2026-05-10T00:40:11.602Z
 estimatedTokens: 1176
 keywords: [SearchCustomization, SearchCustomizationObjectOverride, SearchCustomizationFieldOverride, SearchCustomizationRule, SearchCustomizationRuleValue, configuration, search, settings, created, Manager, includes, channel, searchable, filter, results, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

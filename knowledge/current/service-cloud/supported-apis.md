@@ -6,7 +6,7 @@ topic: supported-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.200Z
+lastCollected: 2026-05-10T00:40:42.545Z
 estimatedTokens: 889
 keywords: [APIs, events, support, utility, pop-out]
 ---

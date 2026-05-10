@@ -5,7 +5,7 @@ topic: salesforce-contracts-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:14.970Z
+lastCollected: 2026-05-10T00:39:06.655Z
 estimatedTokens: 103
 keywords: [Salesforce, Contracts, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

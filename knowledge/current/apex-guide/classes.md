@@ -5,7 +5,7 @@ topic: classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.703Z
+lastCollected: 2026-05-10T00:39:51.030Z
 estimatedTokens: 874
 keywords: [Classes, Java, Apex, template, blueprint, created, instance]
 ---

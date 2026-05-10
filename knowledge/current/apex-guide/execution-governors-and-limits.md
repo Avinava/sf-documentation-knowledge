@@ -5,10 +5,10 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.792Z
-estimatedTokens: 6608
+lastCollected: 2026-05-10T00:39:52.780Z
+estimatedTokens: 6610
 namespace: ConnectApi
-keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, runaway, code, processes, don’t, monopolize, shared, resources, exceeds, limit, governor, issues, exception, can’t, handled, Per-Transaction, Certified, Managed, Package, Lightning, Platform, Size-Specific, Miscellaneous, Email, Push, Notification]
+keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, runaway, code, processes, don’t, monopolize, shared, resources, exceeds, limit, governor, issues, exception, can’t, handled, Per-Transaction, Certified, Managed, Package, Salesforce, Platform, Size-Specific, Miscellaneous, Email, Push, Notification]
 ---
 
 > Because
@@ -70,7 +70,7 @@ This table lists limits for synchronous Apex and asynchronous Apex (Batch Apex a
 | Maximum number of EventBus.publish calls for platform events configured to publish immediately | 150 | 150 |
 | Maximum number of rows across all Apex cursors per transaction | 50 million | 50 million |
 | Maximum number of Apex cursors per day | 10,000 | 10,000 |
-| Maximum number of cursor fetch calls per transaction | 10 | 10 |
+| Maximum number of Cursor.fetch calls per transaction | 100 | 100 |
 | Maximum cumulative number of new cursor rows and pagination cursor rows per 24-hour period | 100 million | 100 million |
 | Maximum number of rows across all Apex pagination cursors per transaction | 100,000 | 100,000 |
 | Maximum number of Apex pagination cursor instances per transaction | 50 | 50 |
@@ -151,9 +151,9 @@ The code from a package from AppExchange, not created by a Salesforce ISV Partne
 
 For more information on Salesforce ISV Partner packages, see [Salesforce Partner Programs](http://sites.force.com/partners/PP2Page?p=P_PartnerPrograms "HTML (New Window)").
 
-## Lightning Platform Apex Limits
+## Salesforce Platform Apex Limits
 
-The limits in this table aren't specific to an Apex transaction; Lightning Platform enforces these limits.
+The limits in this table aren't specific to an Apex transaction; the Salesforce Platform enforces these limits.
 
 | Description | Limit |
 | --- | --- |

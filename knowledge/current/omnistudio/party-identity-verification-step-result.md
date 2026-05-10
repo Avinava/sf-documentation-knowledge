@@ -5,7 +5,7 @@ topic: party-identity-verification-step-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.138Z
+lastCollected: 2026-05-10T00:40:27.644Z
 estimatedTokens: 461
 keywords: [Party, Identity, Verification, Step, Result]
 ---

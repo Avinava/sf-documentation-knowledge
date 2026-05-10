@@ -5,7 +5,7 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.054Z
+lastCollected: 2026-05-10T00:40:10.896Z
 estimatedTokens: 1409
 keywords: [RecordType, RecordTypePicklistValue, metadata, record, let, offer, different, business, processes, picklist, layouts, users, definitions, Java, Sample, Declarative, Definition, Wildcard, Support, Manifest, File]
 ---

@@ -5,12 +5,10 @@ topic: describetabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.236Z
+lastCollected: 2026-05-10T00:40:45.134Z
 estimatedTokens: 936
-keywords: [describeTabs, Salesforce, Classic, standard, custom, apps, logged-in, user, Usage, Sample, Code—Java, Code—C#, Arguments]
+keywords: [Arguments, describeTabs, Salesforce, Classic, standard, apps, logged-in, user, Sample, Code—Java, Code—C#]
 ---
-
-# describeTabs()
 
 > Returns information about the Salesforce Classic standard and custom apps available
         to the logged-in user.

@@ -5,7 +5,7 @@ topic: continuation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.981Z
+lastCollected: 2026-05-10T00:39:25.360Z
 estimatedTokens: 1903
 namespace: System
 keywords: [Continuation, callouts, asynchronously, SOAP, REST, Web, service, timeout, continuationMethod, state, addHttpRequest, getRequests, getResponse, requestLabel]

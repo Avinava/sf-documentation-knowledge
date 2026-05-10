@@ -5,12 +5,10 @@ topic: about-soap-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.845Z
+lastCollected: 2026-05-10T00:40:46.283Z
 estimatedTokens: 2623
-keywords: [SOAP, API, Salesforce, programmatic, access, org’s, simple, powerful, secure, application, programming, interfaces, reading, basic, familiarity]
+keywords: [Compatibility, SOAP, API, Salesforce, programmatic, org’s, simple, powerful, secure, application, programming, interfaces, reading, basic, familiarity, software, development, web, services, user, Customize, Integrate, Extend, Solutions, Editions, Permissions, Standards, Compliance, Platforms, Support, Policy, Choosing, WSDL, Resources]
 ---
-
-# About SOAP API
 
 > Salesforce provides programmatic access to your org’s information using simple, powerful, and secure application programming interfaces. Before reading more about SOAP API, you should have
 			a basic familiarity with software development, web services, and the Salesforce user interface.

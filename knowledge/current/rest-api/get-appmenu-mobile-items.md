@@ -5,7 +5,7 @@ topic: get-appmenu-mobile-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.431Z
+lastCollected: 2026-05-10T00:39:57.147Z
 estimatedTokens: 120
 keywords: [AppMenu, Mobile, Items, App, Menu, Salesforce, Android, iOS, web, navigation, resource, REST, API, 29.0]
 ---

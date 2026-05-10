@@ -5,7 +5,7 @@ topic: search-product-with-guided-selection-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:10.912Z
+lastCollected: 2026-05-10T00:39:00.971Z
 estimatedTokens: 1592
 keywords: [Inputs, Outputs, Search, Product, Guided, Selection, Action, products, REST, HTTP]
 ---

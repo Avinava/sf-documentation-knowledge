@@ -5,7 +5,7 @@ topic: httprequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.921Z
+lastCollected: 2026-05-10T00:39:30.684Z
 estimatedTokens: 3915
 namespace: System
 keywords: [Compression, HttpRequest, programmatically, HTTP, requests, POST, PATCH, PUT, getBody, getBodyAsBlob, getBodyDocument, getCompressed, getEndpoint, getHeader, key, getMethod, setBody, setBodyAsBlob, setBodyDocument, document, setClientCertificate, clientCert, password, setClientCertificateName, certDevName, setCompressed, flag, setEndpoint, endpoint, setHeader, setMethod, setTimeout, timeout, toString]

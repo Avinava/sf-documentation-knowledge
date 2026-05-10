@@ -5,7 +5,7 @@ topic: customfeedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.105Z
+lastCollected: 2026-05-10T00:40:03.101Z
 estimatedTokens: 798
 keywords: [CustomFeedFilter, FeedFilterCriterion, filter, limits, view, feeds, Cases, items, satisfy, criteria, definition, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---

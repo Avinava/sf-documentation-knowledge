@@ -5,7 +5,7 @@ topic: batchcalcjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:42.417Z
+lastCollected: 2026-05-10T00:40:30.996Z
 estimatedTokens: 7576
 keywords: [BatchCalcJobDefinition, BatchCalcJobAtomicWriteback, BatchCalcJobAtomicWritebackRelationship, BatchCalcJobFilter, BatchCalcJobForecast, BtchCalcJobFrcstAggrFld, BatchCalcJobFrcstGrpFld, BatchCalcJobHierarchyPath, BatchCalcJobParameter, BatchCalcJobTransform, BatchCalcJobOrderByField, BatchCalcJobUnion, Processing, Engine, definition, Parent, File, Suffix, Directory, Location, BatchCalcJob​​​Aggregate, BatchCalcJob​AggregateField, BatchCalcJob​​​CustomNode, BatchCalcJob​​​CustomNodeParameter, BatchCalcJob​Datasource, BatchCalcJob​DatasourceField, BatchCalcJobFilter​Criteria, BatchCalcJobSource​Join, BatchCalcJobJoin​Key, BatchCalcJobJoin​ResultField, BatchCalcJobTransform​DroppedField, BatchCalcJobTransform​AddedField, BatchCalcJobWriteback​Object, BatchCalcJobWriteback​Mapping, Declarative, Metadata, Sample, Wildcard, Support, Manifest, DPE, API, 51.0, SOAP, REST]
 ---

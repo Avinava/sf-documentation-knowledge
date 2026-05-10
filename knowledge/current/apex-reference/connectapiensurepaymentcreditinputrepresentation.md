@@ -5,7 +5,7 @@ topic: connectapiensurepaymentcreditinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:05.331Z
+lastCollected: 2026-05-10T00:39:32.714Z
 estimatedTokens: 195
 keywords: [credit, memo, optionally, payment, sequence, issuing, credits, amount, distributed, until, fully, applied, don’t, specify, Ensure]
 ---

@@ -7,7 +7,7 @@ topic: choose-a-salesforce-org-for-apex-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.837Z
+lastCollected: 2026-05-10T00:39:52.846Z
 estimatedTokens: 764
 keywords: [Choose, Salesforce, Org, Apex, Development, develop, sandbox, scratch, Developer, Edition, directly, production, choices, here’s, help, determine, right, how, Sandboxes, Recommended, Orgs, Trial]
 ---

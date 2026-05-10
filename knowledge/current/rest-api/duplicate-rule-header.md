@@ -5,7 +5,7 @@ topic: duplicate-rule-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:20.111Z
+lastCollected: 2026-05-10T00:39:56.602Z
 estimatedTokens: 351
 keywords: [Duplicate, Rule, Configure, options, Salesforce, uses, record, created, updated, upserted, part, Management]
 ---

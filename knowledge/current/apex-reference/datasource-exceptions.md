@@ -5,7 +5,7 @@ topic: datasource-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.989Z
+lastCollected: 2026-05-10T00:39:21.551Z
 estimatedTokens: 280
 namespace: DataSource
 keywords: [DataSource, Exceptions, exception, classes]

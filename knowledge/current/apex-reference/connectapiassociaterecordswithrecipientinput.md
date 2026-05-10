@@ -5,7 +5,7 @@ topic: connectapiassociaterecordswithrecipientinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:06.478Z
+lastCollected: 2026-05-10T00:39:34.682Z
 estimatedTokens: 143
 keywords: [Records, survey, invitation]
 ---

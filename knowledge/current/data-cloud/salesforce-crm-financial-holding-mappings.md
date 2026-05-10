@@ -5,7 +5,7 @@ topic: salesforce-crm-financial-holding-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.056Z
+lastCollected: 2026-05-10T00:39:12.445Z
 estimatedTokens: 443
 keywords: [Salesforce, CRM, Financial, Holding, Mappings, FinancialHolding, DLO, found, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---

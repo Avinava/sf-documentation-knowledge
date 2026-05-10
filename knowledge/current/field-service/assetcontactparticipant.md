@@ -5,7 +5,7 @@ topic: assetcontactparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.337Z
+lastCollected: 2026-05-10T00:40:38.419Z
 estimatedTokens: 849
 keywords: [AssetContactParticipant, junction, Asset, Contact, describing, association, participating, API, 56.0]
 ---

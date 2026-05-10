@@ -5,7 +5,7 @@ topic: record-alert-bulk-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:37.373Z
+lastCollected: 2026-05-10T00:40:23.872Z
 estimatedTokens: 100
 keywords: [Record, Alert, Bulk, Action, actions, alerts]
 ---

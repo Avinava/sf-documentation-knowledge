@@ -5,7 +5,7 @@ topic: salesforce-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.740Z
+lastCollected: 2026-05-10T00:39:52.696Z
 estimatedTokens: 264
 keywords: [Salesforce, Sites, lets, build, pages, Web, applications, inheriting, Lightning, Platform, capabilities, including, analytics, workflow, approvals, programmable, logic]
 ---

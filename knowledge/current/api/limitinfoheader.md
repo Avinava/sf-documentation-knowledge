@@ -5,12 +5,10 @@ topic: limitinfoheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.719Z
+lastCollected: 2026-05-10T00:40:46.116Z
 estimatedTokens: 245
-keywords: [LimitInfoHeader, calls, SOAP, API, limit, organization, monitor, limits, against, Sample, Code]
+keywords: [LimitInfoHeader, SOAP, API, limit, organization, monitor, limits, against, Sample, Code]
 ---
-
-# LimitInfoHeader
 
 > A response header returned from calls to SOAP API. This
             header returns limit information for the organization. Use this header to monitor your

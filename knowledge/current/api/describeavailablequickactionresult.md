@@ -5,12 +5,10 @@ topic: describeavailablequickactionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.984Z
+lastCollected: 2026-05-10T00:40:44.563Z
 estimatedTokens: 282
-keywords: [DescribeAvailableQuickActionResult, array, objects]
+keywords: [DescribeAvailableQuickActionResult, array]
 ---
-
-# DescribeAvailableQuickActionResult
 
 > Returns an array of DescribeAvailableQuickActionResult objects.
 

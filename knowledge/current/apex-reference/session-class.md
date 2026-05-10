@@ -5,7 +5,7 @@ topic: session-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.659Z
+lastCollected: 2026-05-10T00:39:26.406Z
 estimatedTokens: 7158
 namespace: Cache
 keywords: [Session, Cache.Session, add, retrieve, manage, cache, active, long, user’s, Salesforce, user, logged, expired, Constants, key, setOfKeys, keys, cacheBuilder, getAvgGetSize, getAvgGetTime, getAvgValueSize, getCapacity, getKeys, getMaxGetSize, getMaxGetTime, getMaxValueSize, getMissRate, getName, getNumKeys, getPartition, partitionName, isAvailable, put, visibility, ttlSecs, immutable, remove]

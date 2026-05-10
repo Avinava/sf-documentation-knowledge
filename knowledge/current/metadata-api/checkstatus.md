@@ -5,7 +5,7 @@ topic: checkstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.481Z
+lastCollected: 2026-05-10T00:40:02.062Z
 estimatedTokens: 754
 keywords: [Arguments, checkStatus, Deprecated, Checks, status, asynchronous, metadata, declarative, call, retrieve, removed, API, 31.0, earlier, versions, Sample, Code—Java]
 ---

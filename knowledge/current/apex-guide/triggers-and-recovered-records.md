@@ -5,7 +5,7 @@ topic: triggers-and-recovered-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:18.792Z
+lastCollected: 2026-05-10T00:39:54.428Z
 estimatedTokens: 282
 keywords: [Triggers, Recovered, Records, undelete, trigger, event, works, records—that, were, deleted, Recycle, Bin, DML, statement, undeleted]
 ---

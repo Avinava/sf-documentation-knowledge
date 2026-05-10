@@ -5,12 +5,10 @@ topic: describealltabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.964Z
+lastCollected: 2026-05-10T00:40:44.515Z
 estimatedTokens: 230
-keywords: [describeAllTabs, tabs, including, Lightning, logged-in, user, regardless, whether, chosen, hide, own, via, tab, customization, feature]
+keywords: [Arguments, describeAllTabs, tabs, including, Lightning, logged-in, user, regardless, whether, chosen, hide, own, via, tab, customization, feature, Sample, Code—Java]
 ---
-
-# describeAllTabs()
 
 > Returns information about all the tabs, including Lightning page tabs, available to
       the logged-in user, regardless of whether the user has chosen to hide tabs in his own user

@@ -5,7 +5,7 @@ topic: processrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.044Z
+lastCollected: 2026-05-10T00:39:21.654Z
 estimatedTokens: 818
 namespace: Approval
 keywords: [ProcessRequest, parent, ProcessSubmitRequest, ProcessWorkitemRequest, classes, write, generic, Apex, process, either, getComments, getNextApproverIds, setComments, comments, setNextApproverIds, nextApproverIds]

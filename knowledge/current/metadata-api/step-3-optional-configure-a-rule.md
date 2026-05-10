@@ -5,21 +5,21 @@ topic: step-3-optional-configure-a-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.512Z
-estimatedTokens: 224
-keywords: [Step, Configure, Rule, ​​To, help, MCP, server, function, optimally, guides, assistant, Agentforce, Vibes, Cursor, Agent, call, Metadata, API, Context, tool, plain-text, file, Markdown, specific, instructions, constraints]
+lastCollected: 2026-05-10T00:40:08.446Z
+estimatedTokens: 226
+keywords: [Step, Configure, Rule, ​​To, help, MCP, server, function, optimally, guides, assistant, Agentforce, Vibes, Cursor, Agent, call, Metadata, API, Context, tools, plain-text, file, markdown, specific, instructions, constraints]
 ---
 
 > ​​To help the MCP server function optimally, you can create a rule that guides your AI
-  assistant, such as Agentforce Vibes or Cursor Agent, to call the Metadata API Context MCP tool. An
-  AI rule is a plain-text file like Markdown that provides specific instructions, context, or
+  assistant, such as Agentforce Vibes or Cursor Agent, to call the Metadata API Context MCP tools.
+  An AI rule is a plain-text file like markdown that provides specific instructions, context, or
   constraints to your AI assistant.
 
 # Step 3 \[Optional\]: Configure a Rule
 
-​​To help the MCP server function optimally, you can create a rule that guides your AI assistant, such as Agentforce Vibes or Cursor Agent, to call the Metadata API Context MCP tool. An AI rule is a plain-text file like Markdown that provides specific instructions, context, or constraints to your AI assistant.
+​​To help the MCP server function optimally, you can create a rule that guides your AI assistant, such as Agentforce Vibes or Cursor Agent, to call the Metadata API Context MCP tools. An AI rule is a plain-text file like markdown that provides specific instructions, context, or constraints to your AI assistant.
 
-Use this example rule to ensure that the Metadata API Context MCP tool is called to provide AI with additional context when generating metadata XML files. This helps ensure the structural integrity of the metadata XML files generated, and minimize errors during deployment.
+Use this example rule to make sure that the Metadata API Context MCP tools are called to provide AI with additional context when generating metadata XML files. This helps ensure the structural integrity of the metadata XML files generated, and minimize errors during deployment.
 
 ```
 
@@ -33,13 +33,39 @@ For more details about configuring AI rules, see:
 ## Code Examples
 
 ```
-# Rule: Metadata Context and XML Structure
+# Rule: Salesforce Metadata Generation
 
-**Description:** To guarantee the creation of accurate and deployable Salesforce metadata files, you must call the get_metadata_api_context MCP tool. This step provides comprehensive contextual information—including complete field definitions, valid values, and constraints—that is essential for correctly determining the required entity shape and creating a valid Metadata XML structure.
+##Description: To guarantee the creation of accurate and deployable Salesforce metadata files, you must use these tools from the `salesforce-api-context` MCP server:
+    - `get_metadata_type_sections`
+    - `get_metadata_type_context`
+    - `get_metadata_type_fields`
+    - `get_metadata_type_fields_properties`
+    - `search_metadata_types`
 
-**Guidelines:**
-- Before generating the XML structure for any Salesforce Metadata Type, the get_metadata_api_context MCP tool must be called.
-- The returned information—which includes field definitions, valid values, constraints, and examples—must be used to correctly determine the required shape of the entity.
-- The resulting Metadata XML structure must strictly adhere to the determined shape to leverage the complete field definitions and constraints provided by the tool.
-- Following these constraints is mandatory to ensure the resulting XML file is valid and will pass Salesforce validation upon deployment.
+These tools provide comprehensive contextual information—including complete field definitions, valid values, and constraints—that's essential for correctly determining the required entity shape and creating a valid Salesforce metadata file structure.
+
+## Constraints
+1. **One metadata type at a time** - finish one metadata type before starting the next one
+3. **One metadata type per tool call** - don't batch metadata types when calling the MCP tools
+4. **Child metadata types need their own context** - if adding any child metadata inside a parent metadata's file, treat the child metadata seperately; don't rely on the parent's schema for creating child metadata
+
+## Workflow
+### Step 1: Metadata loop - Execute for each metadata type
+For each metadata type, use these tools from `salesforce-api-context` MCP server to get metadata type context:
+- `get_metadata_type_sections`
+- `get_metadata_type_context`
+- `get_metadata_type_fields`
+- `get_metadata_type_fields_properties`
+- `search_metadata_types`
+
+### Step 2. Verify deployment
+```bash
+sf project deploy start --dry-run -d "force-app/main/default" --target-org <alias> --test-level NoTestRun --wait 10 --json
+```
+On failure: attempt to fix the errors and re-run, retrying up to a maximum of 3 times until it succeeds.
+
+## Anti-patterns
+| Don't | Why | Do |
+|-------|-----|-----|
+| Batch types in calls to MCP tools | Violates constraint | One type per call |
 ```

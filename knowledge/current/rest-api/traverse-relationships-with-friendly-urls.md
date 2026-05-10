@@ -5,7 +5,7 @@ topic: traverse-relationships-with-friendly-urls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.959Z
+lastCollected: 2026-05-10T00:39:56.353Z
 estimatedTokens: 1905
 keywords: [Traverse, Relationships, Friendly, URLs, relationship, standard, constructing, sObject, resource, approach, directly, records, easier, alternative, accessing, obtaining, IDs, inspecting, record, Traversing, Multiple, Filtering, Result]
 ---

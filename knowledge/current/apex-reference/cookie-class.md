@@ -5,7 +5,7 @@ topic: cookie-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T18:36:04.011Z
+lastCollected: 2026-05-10T00:39:30.838Z
 estimatedTokens: 3927
 namespace: System
 keywords: [Cookie, lets, cookies, Salesforce, site, Apex, path, maxAge, isSecure, SameSite, isHttpOnly, getDomain, getMaxAge, getName, getPath, getSameSite, getValue]

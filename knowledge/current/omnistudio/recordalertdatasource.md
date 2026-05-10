@@ -5,7 +5,7 @@ topic: recordalertdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.003Z
+lastCollected: 2026-05-10T00:40:31.992Z
 estimatedTokens: 524
 keywords: [RecordAlertDataSource, internal, external, source, record, alert, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 54.0, SOAP, REST]
 ---

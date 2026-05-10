@@ -6,7 +6,7 @@ topic: isconsolenavigation-context-wire-adapter-for-lightning-experience-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.271Z
+lastCollected: 2026-05-10T00:40:42.651Z
 estimatedTokens: 355
 keywords: [IsConsoleNavigation, Context, Wire, Adapter, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, Web, LWC, Sample, Code]
 ---

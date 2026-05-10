@@ -5,7 +5,7 @@ topic: queue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.771Z
+lastCollected: 2026-05-10T00:40:10.449Z
 estimatedTokens: 1432
 keywords: [Queue, QueueMembers, PublicGroups, RoleAndSubordinates, RoleAndSubordinatesInternal, Roles, Users, QueueSobject, holding, area, items, they, processed, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

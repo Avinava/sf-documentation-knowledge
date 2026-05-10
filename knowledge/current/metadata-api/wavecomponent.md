@@ -5,7 +5,7 @@ topic: wavecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:30.822Z
+lastCollected: 2026-05-10T00:40:13.879Z
 estimatedTokens: 486
 keywords: [WaveComponent, Analytics, application, extends, MetadataWithContent, metadata, inherits, content, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

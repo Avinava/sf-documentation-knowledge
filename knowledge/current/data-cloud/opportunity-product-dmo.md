@@ -5,7 +5,7 @@ topic: opportunity-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.306Z
+lastCollected: 2026-05-10T00:39:13.725Z
 estimatedTokens: 867
 keywords: [Category, Relationships, Opportunity, Product, DMO, Cloud, model, connecting, allowing, many-to-many, relationship, API, Primary, Subject, Area, Key]
 ---

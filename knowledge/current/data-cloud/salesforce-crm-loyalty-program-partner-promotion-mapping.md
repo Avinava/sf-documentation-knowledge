@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-partner-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.268Z
+lastCollected: 2026-05-10T00:39:12.702Z
 estimatedTokens: 316
 keywords: [Salesforce, CRM, Loyalty, Program, Partner, Promotion, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, refers, runs, collaboration, DMO]
 ---

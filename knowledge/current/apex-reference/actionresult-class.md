@@ -5,7 +5,7 @@ topic: actionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.138Z
+lastCollected: 2026-05-10T00:39:23.968Z
 estimatedTokens: 1284
 namespace: Invocable
 keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess, ActionResult, execution, actionable, notification, getErrorCode, getMessage]

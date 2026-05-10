@@ -5,7 +5,7 @@ topic: managedcontenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:27.432Z
+lastCollected: 2026-05-10T00:40:08.331Z
 estimatedTokens: 1739
 keywords: [ManagedContentType, ManagedContentNodeType, definition, content, Salesforce, CMS, forms, defined, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

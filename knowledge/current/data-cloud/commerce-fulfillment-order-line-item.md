@@ -5,7 +5,7 @@ topic: commerce-fulfillment-order-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.527Z
+lastCollected: 2026-05-10T00:39:12.019Z
 estimatedTokens: 554
 keywords: [Commerce, Fulfillment, Order, Line, Item, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, shippable, product, service, part, DLO, Mapping]
 ---

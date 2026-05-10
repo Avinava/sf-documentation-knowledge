@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.261Z
+lastCollected: 2026-05-10T00:40:20.748Z
 estimatedTokens: 354
 keywords: [Bodies, Here’s, Accelerator, API, Context, Service, Decision, Explainer, Expression, includes, Intelligent, Form, Reader, Group, Membership, Households, APIs, Document, Interest, Tags, Lookup, known, Calculation, Procedure, Matrix, Mapper, Integration, Record, Alerts, Scheduled, Reminders, Business, Process, Studio, Unified, Catalog]
 ---

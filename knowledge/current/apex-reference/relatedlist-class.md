@@ -5,7 +5,7 @@ topic: relatedlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.493Z
+lastCollected: 2026-05-10T00:39:24.574Z
 estimatedTokens: 649
 namespace: Metadata
 keywords: [RelatedList, sidebars, Salesforce, console, hideOnDetail, clone]

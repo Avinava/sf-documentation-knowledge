@@ -5,7 +5,7 @@ topic: relationship-variable-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.020Z
+lastCollected: 2026-05-10T00:39:02.675Z
 estimatedTokens: 1122
 keywords: [Relationship, Variable, Functions, CML, fundamental, tools, perform, aggregation, summarizing, complex, mathematical, calculations, attribute, variables, configuration, model, crucial, enforcing, dimensional, validity, calculating, derived, attributes, Aggregate, sum, max, count, total]
 ---

@@ -5,7 +5,7 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.791Z
+lastCollected: 2026-05-10T00:40:12.118Z
 estimatedTokens: 679
 keywords: [Skill, SkillAssignments, SkillProfileAssignments, SkillUserAssignments, settings, service, route, chats, agents, Chat, skills, assigned, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

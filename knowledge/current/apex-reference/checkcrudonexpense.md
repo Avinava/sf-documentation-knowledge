@@ -5,7 +5,7 @@ topic: checkcrudonexpense
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:12.943Z
+lastCollected: 2026-05-10T00:39:44.843Z
 estimatedTokens: 108
 keywords: [CheckCrudOnExpense, Examples, Checks, partyExpense, entity]
 ---

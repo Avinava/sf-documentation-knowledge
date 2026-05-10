@@ -5,7 +5,7 @@ topic: date-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.950Z
+lastCollected: 2026-05-10T00:39:46.517Z
 estimatedTokens: 3769
 namespace: System
 keywords: [Date, primitive, addDays, additionalDays, addMonths, additionalMonths, addYears, additionalYears, day, dayOfYear, daysBetween, secondDate, daysInMonth, year, month, isLeapYear, isSameDay, dateToCompare, monthsBetween, newInstance, parse, stringDate, today, toStartOfMonth, toStartOfWeek, valueOf, fieldValue, Versioned, Behavior, Changes]

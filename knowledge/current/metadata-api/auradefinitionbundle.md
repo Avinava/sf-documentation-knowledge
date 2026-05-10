@@ -5,7 +5,7 @@ topic: auradefinitionbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.758Z
+lastCollected: 2026-05-10T00:40:00.901Z
 estimatedTokens: 1111
 keywords: [AuraDefinitionBundle, Aura, definition, bundle, resources, JavaScript, controller, application, event, tokens, collection, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

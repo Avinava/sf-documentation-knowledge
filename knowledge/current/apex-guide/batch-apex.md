@@ -5,7 +5,7 @@ topic: batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:15.954Z
+lastCollected: 2026-05-10T00:39:49.809Z
 estimatedTokens: 1112
 keywords: [Batch, Apex, developer, now, employ, build, complex, long-running, processes, run, thousands, records, Lightning, Platform, operates, over, small, batches, covering, entire, record, breaking, processing, down, manage]
 ---

@@ -5,7 +5,7 @@ topic: apptbundleaggrpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.157Z
+lastCollected: 2026-05-10T00:40:38.214Z
 estimatedTokens: 1170
 keywords: [ApptBundleAggrPolicy, Policy, how, bundle, members, aggregated, assigned, API, 54.0]
 ---

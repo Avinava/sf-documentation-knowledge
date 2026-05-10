@@ -5,7 +5,7 @@ topic: create-named-query-apis-in-vs-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.909Z
+lastCollected: 2026-05-10T00:39:57.893Z
 estimatedTokens: 465
 keywords: [Named, Query, APIs, Code, API, deploy, org, Setup, view, edit]
 ---

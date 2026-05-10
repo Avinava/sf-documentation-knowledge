@@ -5,7 +5,7 @@ topic: simulation-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:37.533Z
+lastCollected: 2026-05-10T00:40:24.093Z
 estimatedTokens: 103
 keywords: [Simulation, Context]
 ---

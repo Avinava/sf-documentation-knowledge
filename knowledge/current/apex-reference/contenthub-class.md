@@ -5,7 +5,7 @@ topic: contenthub-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:57.994Z
+lastCollected: 2026-05-10T00:39:19.788Z
 estimatedTokens: 43550
 namespace: ConnectApi
 keywords: [ContentHub, repository, file, preview, Experience, Cloud, site, addRepositoryItem, repositoryId, repositoryFolderId, API, Requires, Chatter, communityId, fileData, getAllowedItemTypes, filter, getFilePreview, repositoryFileId, formatType, startPageNumber, endPageNumber, getItemType, repositoryItemTypeId, getPreviews, getRepositories, pageParam, pageSize, getRepository, getRepositoryFile, includeExternalFilePermissionsInfo, getRepositoryFolder, getRepositoryFolderItems, updateRepositoryFile, Test, setTestAddRepositoryItem, result, setTestGetAllowedItemTypes, setTestGetFilePreview, setTestGetItemType, setTestGetPreviews, setTestGetRepositories, setTestGetRepository, setTestGetRepositoryFile, setTestGetRepositoryFolder, setTestGetRepositoryFolderItems, setTestUpdateRepositoryFile]

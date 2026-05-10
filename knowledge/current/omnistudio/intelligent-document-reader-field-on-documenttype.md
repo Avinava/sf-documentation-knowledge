@@ -5,7 +5,7 @@ topic: intelligent-document-reader-field-on-documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.911Z
+lastCollected: 2026-05-10T00:40:30.193Z
 estimatedTokens: 290
 keywords: [Intelligent, Document, Reader, DocumentType, Standard, extend, represent, identity, documents, containing, want, extract]
 ---

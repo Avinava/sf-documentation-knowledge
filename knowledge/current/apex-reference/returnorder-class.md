@@ -5,7 +5,7 @@ topic: returnorder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.772Z
+lastCollected: 2026-05-10T00:39:21.159Z
 estimatedTokens: 1510
 namespace: ConnectApi
 keywords: [ReturnOrder, ReturnOrderLineItems, items, belonging, OrderSummary, createReturnOrder, returnOrderInput, API, Requires, Chatter, returnItems, returnOrderId, returnItemsInput]

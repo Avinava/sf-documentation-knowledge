@@ -5,7 +5,7 @@ topic: categories-list-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.118Z
+lastCollected: 2026-05-10T00:39:04.274Z
 estimatedTokens: 378
 keywords: [Categories, Retrieve, root-level, catalog, subcategories, parent, category, search, filter, sort]
 ---

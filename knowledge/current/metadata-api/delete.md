@@ -5,7 +5,7 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:24.627Z
+lastCollected: 2026-05-10T00:40:03.950Z
 estimatedTokens: 1596
 keywords: [Permissions, Arguments, Deprecated, Deletes, organization, asynchronously, call, removed, API, 31.0, earlier, versions, deleteMetadata, instead, Guidelines, Basic, Steps, Deleting, Metadata, Sample, Code—Java]
 ---

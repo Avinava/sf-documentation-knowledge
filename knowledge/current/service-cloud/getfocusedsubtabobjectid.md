@@ -5,7 +5,7 @@ topic: getfocusedsubtabobjectid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.342Z
+lastCollected: 2026-05-10T00:40:41.389Z
 estimatedTokens: 314
 keywords: [Arguments, getFocusedSubtabObjectId, subtab, browser, focused, case, account, API, 24.0, Sample, Code–Visualforce]
 ---

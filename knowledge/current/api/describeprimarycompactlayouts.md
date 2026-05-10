@@ -5,12 +5,10 @@ topic: describeprimarycompactlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.105Z
+lastCollected: 2026-05-10T00:40:44.820Z
 estimatedTokens: 263
-keywords: [describePrimaryCompactLayouts, Retrieves, metadata, primary, compact, layout, Usage, Sample, Code—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describePrimaryCompactLayouts, Retrieves, metadata, primary, compact, layout, Sample, Code—Java]
 ---
-
-# describePrimaryCompactLayouts()
 
 > Retrieves metadata about the primary compact layout for each of the specified object
     types.

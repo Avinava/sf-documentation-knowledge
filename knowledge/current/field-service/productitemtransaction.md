@@ -5,7 +5,7 @@ topic: productitemtransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:47.831Z
+lastCollected: 2026-05-10T00:40:39.135Z
 estimatedTokens: 828
 keywords: [ProductItemTransaction, action, taken, product, item, service, transactions, auto-generated, records, help, track, replenished, consumed, adjusted]
 ---

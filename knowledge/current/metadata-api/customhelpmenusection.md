@@ -5,7 +5,7 @@ topic: customhelpmenusection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:24.124Z
+lastCollected: 2026-05-10T00:40:03.126Z
 estimatedTokens: 459
 keywords: [CustomHelpMenuSection, CustomHelpMenuItems, Lightning, Experience, help, menu, admin, added, display, org-specific, resources, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---

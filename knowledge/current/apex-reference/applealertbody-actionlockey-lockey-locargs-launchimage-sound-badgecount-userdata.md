@@ -5,7 +5,7 @@ topic: applealertbody-actionlockey-lockey-locargs-launchimage-sound-badgecount-u
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.001Z
+lastCollected: 2026-05-10T00:39:21.570Z
 estimatedTokens: 878
 keywords: [apple, alertBody, actionLocKey, locKey, locArgs, launchImage, sound, badgeCount, userData, Helper, creates, payload, arguments]
 ---

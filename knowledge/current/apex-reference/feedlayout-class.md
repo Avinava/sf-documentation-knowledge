@@ -5,7 +5,7 @@ topic: feedlayout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.349Z
+lastCollected: 2026-05-10T00:39:24.320Z
 estimatedTokens: 2078
 namespace: Metadata
 keywords: [FeedLayout, define, view, feed-based, layout, layouts, Account, Case, Contact, Lead, Opportunity, external, They, include, detail, autocollapsePublisher, compactFeed, feedFilterPosition, feedFilters, fullWidthFeed, hideSidebar, highlightExternalFeedItems, leftComponents, rightComponents, useInlineFiltersInConsole, clone]

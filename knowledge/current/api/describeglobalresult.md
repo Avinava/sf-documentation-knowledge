@@ -5,12 +5,10 @@ topic: describeglobalresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.037Z
+lastCollected: 2026-05-10T00:40:44.676Z
 estimatedTokens: 1157
-keywords: [DescribeGlobalResult, describeGlobal, call, DescribeGlobalSObjectResult]
+keywords: [DescribeGlobalResult, DescribeGlobalSObjectResult, describeGlobal, call]
 ---
-
-# DescribeGlobalResult
 
 > The describeGlobal() call returns a DescribeGlobalResult object.
 

@@ -5,7 +5,7 @@ topic: emailmergefieldservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.030Z
+lastCollected: 2026-05-10T00:39:19.841Z
 estimatedTokens: 429
 namespace: ConnectApi
 keywords: [EmailMergeFieldService, Extract, merge, put, email, template, mail, link, formula, incorporate, record, getMergeFields, objectApiNames, API, Requires, Chatter]

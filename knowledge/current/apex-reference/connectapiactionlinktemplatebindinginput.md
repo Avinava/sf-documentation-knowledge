@@ -5,7 +5,7 @@ topic: connectapiactionlinktemplatebindinginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:04.347Z
+lastCollected: 2026-05-10T00:39:31.367Z
 estimatedTokens: 241
 keywords: [key-value, pair, fill, binding, variable, action, link, template]
 ---

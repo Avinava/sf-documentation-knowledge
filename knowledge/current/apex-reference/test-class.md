@@ -5,7 +5,7 @@ topic: test-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.677Z
+lastCollected: 2026-05-10T00:39:26.429Z
 estimatedTokens: 376
 namespace: Canvas
 keywords: [Test, automated, testing, Canvas, classes, Calculates, aggregate, permissions, permission, groups, calculatePermissionSetGroup, psgIds, psgId, clearApexPageMessages, createSoqlStub, targetType, soqlStub, createStub, parentType, stubProvider, createStubQueryRow, fieldMapWithRelationshipKeys, createStubQueryRows, enableChangeDataCapture, enqueueBatchJobs, numberOfJobs, getEventBus, getFlexQueueOrder, getStandardPricebookId, invokeContinuationMethod, controller, isRunningTest, isSoqlStubDefined, loadData, sObjectToken, resourceName, testNotificationActionHandler, handler, actionableNotification, newSendEmailQuickActionDefaults, contextId, replyToId, setContinuationResponse, requestLabel, mockResponse, setCreatedDate, recordId, createdDatetime, setCurrentPage, setCurrentPageReference, setFixedSearchResults, fixedSearchResults, setMock, interfaceType, instance, setReadOnlyApplicationMode, applicationMode, startTest, stopTest, testInstall, installImplementation, isPush, testSandboxPostCopyScript, script, organizationId, sandboxId, sandboxName, RunAsAutoProcUser, testUninstall, uninstallImplementation]

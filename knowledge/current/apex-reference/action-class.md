@@ -5,8 +5,8 @@ topic: action-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.124Z
-estimatedTokens: 3262
+lastCollected: 2026-05-10T00:39:23.940Z
+estimatedTokens: 3261
 namespace: Invocable
 keywords: [Action, retrieve, invocable, actions, addInvocation, clearInvocations, clone, createCustomAction, createStandardAction, getName, getNamespace, getType, getVersion, invoke, isStandard, setInvocationParameter, parameterName, parameterValue, setInvocations, invocations, Instantiation, ApexPages.Action, Visualforce, controller, extension, getExpression]
 ---
@@ -46,7 +46,7 @@ These methods are for Action.
     Creates a copy of the Invocable.Action.
 -   **[createCustomAction(type, namespace, name, version)](atlas.en-us.apexref.meta/apexref/apex_class_Invocable_Action.htm#apex_Invocable_Action_createCustomAction)**
     Creates a wrapper for the specified version of a custom invocable action in a specified package namespace.
--   **[createCustomAction(type, namespace, name)](atlas.en-us.apexref.meta/apexref/apex_class_Invocable_Action.htm#unique_1487705392)**
+-   **[createCustomAction(type, namespace, name)](atlas.en-us.apexref.meta/apexref/apex_class_Invocable_Action.htm#unique_352645547)**
     Creates a wrapper for a custom invocable action in a specified package namespace.
 -   **[createCustomAction(type, name)](atlas.en-us.apexref.meta/apexref/apex_class_Invocable_Action.htm#apex_Invocable_Action_createCustomAction_2)**
     Creates a wrapper for a custom invocable action.

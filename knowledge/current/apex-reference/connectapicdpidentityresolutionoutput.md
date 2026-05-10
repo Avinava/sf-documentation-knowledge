@@ -5,7 +5,7 @@ topic: connectapicdpidentityresolutionoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.855Z
+lastCollected: 2026-05-10T00:39:36.924Z
 estimatedTokens: 655
 keywords: [ConnectApi.CdpIdentityResolutionOutput, Identity, resolution, ruleset]
 ---

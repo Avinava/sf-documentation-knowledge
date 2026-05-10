@@ -5,7 +5,7 @@ topic: field-service-product-service-campaign-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:46.942Z
+lastCollected: 2026-05-10T00:40:37.875Z
 estimatedTokens: 190
 keywords: [Service, Product, Campaign, Model, record, actions, address, situations, recalls, manual, firmware, upgrades, safety, compliance, audits, end-of-life, communications, Assets, affected, items, work, orders, needed]
 ---

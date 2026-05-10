@@ -5,7 +5,7 @@ topic: saveresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.912Z
+lastCollected: 2026-05-10T00:39:46.453Z
 estimatedTokens: 1230
 namespace: Database
 keywords: [SaveResult, result, insert, DML, operation, Database, getErrors, getId, Versioned, Behavior, Changes, isSuccess]

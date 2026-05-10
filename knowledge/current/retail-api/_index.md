@@ -2,7 +2,7 @@
 domain: retail-api
 name: Consumer Goods Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.965Z
+lastGenerated: 2026-05-10T00:40:49.340Z
 ---
 
 # Consumer Goods Cloud Developer Guide — Knowledge Index

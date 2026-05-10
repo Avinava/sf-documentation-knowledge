@@ -5,7 +5,7 @@ topic: compile-consent-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.616Z
+lastCollected: 2026-05-10T00:39:57.434Z
 estimatedTokens: 2375
 keywords: [Compile, Consent, Settings, action, email, track, across, specific, management, records, lookup, relationship, resource, REST, API, 45.0]
 ---

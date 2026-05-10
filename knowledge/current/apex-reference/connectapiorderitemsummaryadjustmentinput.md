@@ -5,7 +5,7 @@ topic: connectapiorderitemsummaryadjustmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:05.993Z
+lastCollected: 2026-05-10T00:39:33.859Z
 estimatedTokens: 118
 keywords: [Order, item, summary]
 ---

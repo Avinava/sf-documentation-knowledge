@@ -5,7 +5,7 @@ topic: things-you-should-know-about-data-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.497Z
+lastCollected: 2026-05-10T00:39:55.618Z
 estimatedTokens: 2131
 keywords: [Things, Know, Apex, upsert, statement, consists, two, operations, inserting, records, updating, subject, runtime, limits, insert, respectively]
 ---

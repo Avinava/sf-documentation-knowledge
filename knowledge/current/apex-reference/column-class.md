@@ -5,7 +5,7 @@ topic: column-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.808Z
+lastCollected: 2026-05-10T00:39:23.060Z
 estimatedTokens: 12189
 namespace: DataSource
 keywords: [Column, DataSource.Table, extends, DataSourceUtil, inherits, decimalPlaces, filterable, isPicklistAlphabeticallySorted, isPicklistRestricted, label, length, picklistValues, referenceTargetField, referenceTo, sortable, currency, date, datetime, email, externalLookup, domain, isSortable, isFilterable, picklistValuesObj, indirectLookup, targetField, lookup, multipicklist, number, percent, phone, picklist, text, textarea, time, url]

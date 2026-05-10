@@ -5,7 +5,7 @@ topic: working-with-soql-and-sosl-query-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.266Z
+lastCollected: 2026-05-10T00:39:55.205Z
 estimatedTokens: 435
 keywords: [Working, SOQL, SOSL, Query, Results, queries, sObject, selected, original, try, receive, runtime, error, database, code]
 ---

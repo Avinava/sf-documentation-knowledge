@@ -5,8 +5,8 @@ topic: invocablevariable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.250Z
-estimatedTokens: 1276
+lastCollected: 2026-05-10T00:39:50.299Z
+estimatedTokens: 1376
 keywords: [InvocableVariable, Annotation, identify, variables, invocable, classes, Modifiers, Considerations]
 ---
 
@@ -140,6 +140,7 @@ The invocable variable annotation supports defaultValue in this example.
 -   For managed packages:
     -   Public invocable variables can be set in flows and processes within the same managed package.
     -   Global invocable variables can be set anywhere in the subscriber org. Only global invocable variables appear in Flow Builder and Process Builder in the subscriber org.
+-   Starting in API version 66.0, Apex classes used for invocable action parameters must have a visible no-argument constructor. Use the default constructor or add your own constructor. The constructor must be public for non-packaged classes or global for packaged classes invoked from outside the package. See [Using Constructors](atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm).
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "InvocableMethod Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm "IsTest Annotation")
@@ -304,6 +305,7 @@ public Double myDouble;
 
 ## Related Topics
 
+- Using Constructors (atlas.en-us.apexcode.meta/apexcode/apex_classes_constructors.htm)
 - ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
 - Next → (atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm)
 - Customize Invocable Action Input Order in Flow Builder (atlas.en-us.apexcode.meta/apexcode/apex_forcecom_flow_invocable_action_extension_customize_input_order_example.htm)

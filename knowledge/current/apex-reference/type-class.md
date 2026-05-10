@@ -5,7 +5,7 @@ topic: type-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.893Z
+lastCollected: 2026-05-10T00:39:48.107Z
 estimatedTokens: 3232
 namespace: MyNamespace.ClassName
 keywords: [getting, Apex, corresponds, instantiating, new, equals, typeToCompare, forName, fullyQualifiedName, Versioned, Behavior, Changes, getName, hashCode, isAssignableFrom, sourceType, newInstance, toString]
@@ -88,7 +88,7 @@ The following are methods for Type.
     Returns the name of the current type.
 -   **[hashCode()](atlas.en-us.apexref.meta/apexref/apex_methods_system_type.htm#apex_System_Type_hashCode)**
     Returns a hash code value for the current type.
--   **[isAssignableFrom(sourceType)](atlas.en-us.apexref.meta/apexref/apex_methods_system_type.htm#unique_779049874)**
+-   **[isAssignableFrom(sourceType)](atlas.en-us.apexref.meta/apexref/apex_methods_system_type.htm#unique_1326421135)**
     Returns true if an object reference of the specified type can be assigned from the child type; otherwise, returns false.
 -   **[newInstance()](atlas.en-us.apexref.meta/apexref/apex_methods_system_type.htm#apex_System_Type_newInstance)**
     Creates an instance of the current type and returns this new instance.

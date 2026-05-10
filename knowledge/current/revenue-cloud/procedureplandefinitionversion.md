@@ -5,7 +5,7 @@ topic: procedureplandefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:17.641Z
+lastCollected: 2026-05-10T00:39:10.174Z
 estimatedTokens: 811
 keywords: [ProcedurePlanDefinitionVersion, versions, procedure, plan, definition, Multiple, under, active, time, resolved, run, rank, API, 62.0, SOAP, REST]
 ---

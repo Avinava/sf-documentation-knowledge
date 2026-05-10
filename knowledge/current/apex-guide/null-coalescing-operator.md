@@ -5,7 +5,7 @@ topic: null-coalescing-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.202Z
+lastCollected: 2026-05-10T00:39:55.100Z
 estimatedTokens: 904
 keywords: [Coalescing, Operator, right-hand, side, operand, left-hand, Similar, safe, navigation, replaces, verbose, explicit, checks, references, code]
 ---

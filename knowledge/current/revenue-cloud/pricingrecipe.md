@@ -5,7 +5,7 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.325Z
+lastCollected: 2026-05-10T00:39:07.213Z
 estimatedTokens: 1281
 keywords: [PricingRecipe, PricingRecipeTableMapping, PricingProcedureOutputMap, models, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, various, entities, that'll, consumed, API, 60.0]
 ---

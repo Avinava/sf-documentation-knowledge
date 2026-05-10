@@ -5,12 +5,10 @@ topic: saveresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.939Z
+lastCollected: 2026-05-10T00:40:44.460Z
 estimatedTokens: 341
-keywords: [SaveResult, call, array, objects]
+keywords: [SaveResult, call, array]
 ---
-
-# SaveResult
 
 > The create() call returns an array of 
     SaveResult objects.

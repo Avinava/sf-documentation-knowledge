@@ -5,7 +5,7 @@ topic: actionable-list-members-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:38.442Z
+lastCollected: 2026-05-10T00:40:25.273Z
 estimatedTokens: 270
 keywords: [Actionable, Members, Assignments, priority, OmniScript, key, assignee, Member]
 ---

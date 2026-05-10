@@ -5,12 +5,10 @@ topic: describecolor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.990Z
+lastCollected: 2026-05-10T00:40:44.579Z
 estimatedTokens: 603
 keywords: [DescribeColor, color, metadata, tab]
 ---
-
-# DescribeColor
 
 > DescribeColor contains color metadata information for a tab.
 

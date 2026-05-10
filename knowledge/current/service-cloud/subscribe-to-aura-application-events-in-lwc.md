@@ -5,7 +5,7 @@ topic: subscribe-to-aura-application-events-in-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:50.266Z
+lastCollected: 2026-05-10T00:40:42.640Z
 estimatedTokens: 610
 keywords: [Subscribe, Aura, Application, Events, LWC, their, corresponding, Lightning, message, channels]
 ---

@@ -5,7 +5,7 @@ topic: assessmentqstnverchoice2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.070Z
+lastCollected: 2026-05-10T00:40:33.565Z
 estimatedTokens: 614
 keywords: [AssessmentQstnVerChoice2, choice, user, select, assessment, question, API, 63.0]
 ---

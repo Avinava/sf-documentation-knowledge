@@ -5,22 +5,21 @@ topic: initiate-downgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.642Z
-estimatedTokens: 570
-keywords: [Initiate, Downgrade, POST, amendment, moves, higher-tier, product, lower-tier, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing]
+lastCollected: 2026-05-10T00:39:04.517Z
+estimatedTokens: 502
+keywords: [Initiate, Downgrade, POST, Move, lower-tier, lower-value, product, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing, API, creates, amendment, downgrade-specific, action, subtypes]
 ---
 
-> Create an amendment that moves a higher-tier product to a lower-tier
-      product. This change is tracked as a downgrade request with linked asset actions and quote or
-      order line linkage for reporting and auditing.
+> Move to a lower-tier or lower-value product. The change is tracked as a
+      downgrade request with linked asset actions and quote or order line linkage for reporting and
+      auditing. This API creates an amendment quote and order with downgrade-specific order actions
+      and quote action subtypes.
 
 # Initiate Downgrade (POST)
 
-Create an amendment that moves a higher-tier product to a lower-tier product. This change is tracked as a downgrade request with linked asset actions and quote or order line linkage for reporting and auditing.
+Move to a lower-tier or lower-value product. The change is tracked as a downgrade request with linked asset actions and quote or order line linkage for reporting and auditing. This API creates an amendment quote and order with downgrade-specific order actions and quote action subtypes.
 
-Use this API to move to a lower-tier or lower-value product. For example, from Sales Cloud Unlimited to Sales Cloud Enterprise, or to a product in a restricted-use or professional edition.
-
-This API creates an amendment quote and order with downgrade-specific order actions and quote action subtypes. After assetization, the original asset receives an asset action with business category as Downgrade (or equivalent). This step indicates that the downgrade-from product and the new asset is created with an asset action (downgraded to), with relationships between the two. This step also enables sales reps to process downgrades and makes sure that downgrades are auditable and reportable separately from cancellations and new sales.
+After assetization, the original asset receives an asset action with business category as Downgrade (or equivalent). This step indicates that the downgrade-from product and the new asset is created with an asset action (downgraded to), with relationships between the two. This step also enables sales reps to process downgrades and makes sure that downgrades are auditable and reportable separately from cancellations and new sales.
 
 Resource
 
@@ -54,10 +53,10 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| contractId | String | ID of the contract record for the downgrade action. | Optional | 66.0 |
-| opportunityId | String | ID of the opportunity record for the downgrade action. | Optional | 66.0 |
-| outputRecordType | String | Output record type for the downgrade action. | Required | 66.0 |
-| swapGroups | Swap Group[] | List of swap groupings that contain the asset details for the downgrade action. | Required | 66.0 |
+| contractId | String | ID of the contract record to downgrade. | Optional | 66.0 |
+| opportunityId | String | ID of the opportunity record to downgrade. | Optional | 66.0 |
+| outputRecordType | String | Record type of the output for the downgrade. | Required | 66.0 |
+| swapGroups | Swap Group[] | Groups that contain the asset details for the downgrade. | Required | 66.0 |
 | swapStartDate | String | Amendment start date for the downgrade action. | Required | 66.0 |
 
 Response body for POST

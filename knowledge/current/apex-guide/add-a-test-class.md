@@ -5,7 +5,7 @@ topic: add-a-test-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.315Z
+lastCollected: 2026-05-10T00:39:53.635Z
 estimatedTokens: 1530
 keywords: [Add, Test, step, run, verify, code, coverage, exercises, validates, trigger, reach, 100%]
 ---

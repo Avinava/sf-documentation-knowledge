@@ -6,7 +6,7 @@ topic: return-layout-headers-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.310Z
+lastCollected: 2026-05-10T00:39:58.556Z
 estimatedTokens: 124
 keywords: [Layout, Multiple, Record, sObject, Layouts, resources, gives, chance, ahead, time, retrieving, content, resource]
 ---

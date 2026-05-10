@@ -5,7 +5,7 @@ topic: zipwriter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.449Z
+lastCollected: 2026-05-10T00:39:27.839Z
 estimatedTokens: 2977
 namespace: Compression
 keywords: [ZipWriter, add, zip, entries, generate, zipped, archive, result, Apex, blob, addEntry, prototype, comment, modTime, getArchive, getEntries, getEntry, getEntryNames, getLevel, getMethod, removeEntry, setLevel, level, setMethod]

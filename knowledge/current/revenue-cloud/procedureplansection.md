@@ -5,7 +5,7 @@ topic: procedureplansection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:17.668Z
+lastCollected: 2026-05-10T00:39:10.208Z
 estimatedTokens: 594
 keywords: [ProcedurePlanSection, various, procedure, setup, sections, plan, definition, further, determined, rule-based, criteria, selected, lookup, API, 62.0, SOAP, REST]
 ---

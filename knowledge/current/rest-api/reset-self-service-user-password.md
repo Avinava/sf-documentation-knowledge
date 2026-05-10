@@ -5,7 +5,7 @@ topic: reset-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.477Z
+lastCollected: 2026-05-10T00:39:58.804Z
 estimatedTokens: 376
 keywords: [Reset, Self-Service, User, Password, Initiates, user’s, current, becomes, invalid, receives, email, link, log, again, finish, resetting, their, resource, REST, API, 24.0]
 ---

@@ -5,7 +5,7 @@ topic: briefcasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.140Z
+lastCollected: 2026-05-10T00:40:01.541Z
 estimatedTokens: 2255
 keywords: [BriefcaseDefinition, BriefcaseRule, BriefcaseRuleFilter, briefcase, definition, selected, records, specific, users, groups, view, they’re, offline, Salesforce, Service, mobile, app, iOS, Android, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---

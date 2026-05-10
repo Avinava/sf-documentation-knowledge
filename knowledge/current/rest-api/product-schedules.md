@@ -5,7 +5,7 @@ topic: product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:20.913Z
+lastCollected: 2026-05-10T00:39:57.917Z
 estimatedTokens: 405
 keywords: [Product, Schedules, Work, revenue, quantity, opportunity, products, Establish, reestablish, schedule, multiple, installments]
 ---

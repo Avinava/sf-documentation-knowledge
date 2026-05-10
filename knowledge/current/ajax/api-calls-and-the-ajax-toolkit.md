@@ -5,12 +5,10 @@ topic: api-calls-and-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.572Z
+lastCollected: 2026-05-10T00:40:43.725Z
 estimatedTokens: 324
-keywords: [API, Calls, AJAX, Toolkit, supports, SOAP, well, runTests, Apex]
+keywords: [API, AJAX, Toolkit, supports, SOAP, well, runTests, Apex]
 ---
-
-# API Calls and the AJAX Toolkit
 
 > This toolkit supports all SOAP API calls, as well as runTests() from Apex.
 

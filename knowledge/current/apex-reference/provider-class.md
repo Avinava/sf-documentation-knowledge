@@ -5,7 +5,7 @@ topic: provider-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.890Z
+lastCollected: 2026-05-10T00:39:23.208Z
 estimatedTokens: 1423
 namespace: DataSource
 keywords: [Provider, authentication, external, system, getAuthenticationCapabilities, getCapabilities, getConnection, connectionParams]

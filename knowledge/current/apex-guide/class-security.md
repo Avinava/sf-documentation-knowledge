@@ -5,7 +5,7 @@ topic: class-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.688Z
+lastCollected: 2026-05-10T00:39:51.000Z
 estimatedTokens: 388
 keywords: [Security, specify, users, execute, particular, top-level, their, user, profile, permission, Apex, classes, triggers]
 ---

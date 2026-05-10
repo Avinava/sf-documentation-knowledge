@@ -5,7 +5,7 @@ topic: form-verification-field-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.709Z
+lastCollected: 2026-05-10T00:40:27.110Z
 estimatedTokens: 106
 keywords: [Form, Verification, responses]
 ---

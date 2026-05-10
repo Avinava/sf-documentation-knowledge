@@ -5,8 +5,8 @@ topic: best-practices-for-using-global-apex-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.028Z
-estimatedTokens: 4376
+lastCollected: 2026-05-10T00:39:53.163Z
+estimatedTokens: 4373
 keywords: [Best, Practices, Apex, Managed, Packages, independent, software, vendor, ISV, developer, understand, how, design, patterns, maximize, flexibility, comply, strict, manageability, applied, package’s, release, improve, stability, maintainability, API, Necessary, Delegate, Thin, Entry, Points, Inputs, Alternative, Unpredictable, Map, Pattern, Interfaces, Factory, Strategies, Retiring]
 ---
 
@@ -190,7 +190,7 @@ Always thoroughly test changes related to deprecating global Apex, including tes
 
 -   [Exposing Apex Methods as SOAP Web Services](atlas.en-us.apexcode.meta/apexcode/apex_web_services.htm "You can expose your Apex methods as SOAP web services so that external applications can access your code and your application.")
 
--   [NamespaceAccessible Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+-   [NamespaceAccessible Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
 
 -   [Deprecate Managed Apex](atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_deprecated.htm "Use the @Deprecated annotation to specify Apex identifiers that can subscribers can no longer reference in subsequent releases of the managed package. Deprecation is useful when you’re refactoring code in managed packages as the requirements evolve.")
 

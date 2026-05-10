@@ -5,7 +5,7 @@ topic: partition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.625Z
+lastCollected: 2026-05-10T00:39:26.337Z
 estimatedTokens: 7878
 namespace: Cache.OrgPartition
 keywords: [Examples, Partition, Base, Cache.OrgPartition, Cache.SessionPartition, subclasses, manage, cache, org, caches, session, Key, setOfKeys, createFullyQualifiedKey, createFullyQualifiedPartition, keys, cacheBuilder, getAvgGetSize, getAvgGetTime, getAvgValueSize, getCapacity, getKeys, getMaxGetSize, getMaxGetTime, getMaxValueSize, getMissRate, getName, getNumKeys, isAvailable, put, visibility, ttlSecs, immutable, remove, validateCacheBuilder, validateKey, isDefault, validateKeyValue, validateKeys, validatePartitionName]

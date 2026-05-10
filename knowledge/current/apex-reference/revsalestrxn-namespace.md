@@ -5,7 +5,7 @@ topic: revsalestrxn-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.312Z
+lastCollected: 2026-05-10T00:39:48.774Z
 estimatedTokens: 559
 namespace: RevSalesTrxn
 keywords: [RevSalesTrxn, classes, sales, transaction, quote, order, integrated, pricing, configuration]

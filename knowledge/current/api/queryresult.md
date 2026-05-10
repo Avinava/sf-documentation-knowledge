@@ -5,12 +5,10 @@ topic: queryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.464Z
+lastCollected: 2026-05-10T00:40:45.653Z
 estimatedTokens: 489
-keywords: [QueryResult, read-only, SObject, query, results, additional, data, queryMore, call]
+keywords: [QueryResult, read-only, SObject, query, results, additional, queryMore, call]
 ---
-
-# QueryResult
 
 > A read-only SObject that contains query results and additional data about the query,
     returned in response to a query() or queryMore() call.

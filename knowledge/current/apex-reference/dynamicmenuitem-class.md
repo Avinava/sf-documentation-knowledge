@@ -5,7 +5,7 @@ topic: dynamicmenuitem-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.626Z
+lastCollected: 2026-05-10T00:39:28.147Z
 estimatedTokens: 1772
 keywords: [EntityId, EntityIdValue, EntityName, EntityNameValue, Label, LabelValue, SummaryTextWithFormula, SummaryTextWithFormulaValue, DynamicMenuItem, define, hold, dynamic, menu, item, identifiers, labels, summaries, sorting, logic, bots, present, context-aware, user-relevant, choices, dynamically, conversations, sortByDate, sortByDateValue]
 ---

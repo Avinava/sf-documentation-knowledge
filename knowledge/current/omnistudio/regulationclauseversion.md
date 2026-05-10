@@ -5,7 +5,7 @@ topic: regulationclauseversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.174Z
+lastCollected: 2026-05-10T00:40:35.272Z
 estimatedTokens: 1002
 keywords: [RegulationClauseVersion, Regulation, Clause, tracks, amendments, API, 65.0]
 ---

@@ -5,7 +5,7 @@ topic: constants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.367Z
+lastCollected: 2026-05-10T00:39:55.372Z
 estimatedTokens: 208
 keywords: [Constants, Apex, variables, whose, don’t, change, initialized, once, defined, final, keyword]
 ---

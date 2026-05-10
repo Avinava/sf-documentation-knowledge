@@ -5,7 +5,7 @@ topic: actnbllistkeyprfminddef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:42.263Z
+lastCollected: 2026-05-10T00:40:30.730Z
 estimatedTokens: 694
 keywords: [ActnblListKeyPrfmIndDef, key, performance, indicators, that're, defined, specific, API, 64.0, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, 60.0]
 ---

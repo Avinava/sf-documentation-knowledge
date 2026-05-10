@@ -5,7 +5,7 @@ topic: connectapimanagedcontentreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:09.961Z
+lastCollected: 2026-05-10T00:39:40.154Z
 estimatedTokens: 181
 keywords: [ConnectApi.ManagedContentReference, Managed, content]
 ---

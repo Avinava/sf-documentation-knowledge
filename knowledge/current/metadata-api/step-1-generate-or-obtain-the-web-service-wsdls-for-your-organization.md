@@ -6,7 +6,7 @@ topic: step-1-generate-or-obtain-the-web-service-wsdls-for-your-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.819Z
+lastCollected: 2026-05-10T00:40:10.518Z
 estimatedTokens: 513
 keywords: [Step, Generate, Obtain, Web, Service, WSDLs, Organization, Metadata, API, Language, WSDL, file, development, platform, uses, stub, code]
 ---

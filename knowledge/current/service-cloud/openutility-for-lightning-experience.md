@@ -5,7 +5,7 @@ topic: openutility-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.985Z
+lastCollected: 2026-05-10T00:40:42.219Z
 estimatedTokens: 313
 keywords: [Arguments, openUtility, Lightning, Experience, Opens, utility, already, open, effect, time, another, minimizes, isn’t, Web, LWC, Aura, Sample, Code]
 ---

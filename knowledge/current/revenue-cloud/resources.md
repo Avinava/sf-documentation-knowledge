@@ -5,7 +5,7 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.494Z
+lastCollected: 2026-05-10T00:39:07.420Z
 estimatedTokens: 1416
 keywords: [Resources, Salesforce, Pricing, Product, Catalog, Management, API, Configurator, Discovery, Quote, Order, Capture, Rate]
 ---

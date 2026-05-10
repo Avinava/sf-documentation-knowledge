@@ -5,7 +5,7 @@ topic: column
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:38.854Z
+lastCollected: 2026-05-10T00:40:25.870Z
 estimatedTokens: 146
 keywords: [Column, model, features, show, insights, score, improvement, suggestion]
 ---

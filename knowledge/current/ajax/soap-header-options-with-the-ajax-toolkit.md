@@ -5,12 +5,10 @@ topic: soap-header-options-with-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.603Z
+lastCollected: 2026-05-10T00:40:43.807Z
 estimatedTokens: 1015
 keywords: [SOAP, Options, AJAX, Toolkit, API, they, differently, Specifying]
 ---
-
-# SOAP Header Options with the AJAX Toolkit
 
 > All header options in the SOAP API are supported in the toolkit, but they are specified
                 differently than in the API.

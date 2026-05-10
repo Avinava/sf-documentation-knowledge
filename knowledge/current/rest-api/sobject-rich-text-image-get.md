@@ -5,8 +5,8 @@ topic: sobject-rich-text-image-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.467Z
-estimatedTokens: 497
+lastCollected: 2026-05-10T00:39:58.787Z
+estimatedTokens: 580
 keywords: [sObject, Rich, Text, Image, specific, area, record, uploaded]
 ---
 
@@ -17,6 +17,12 @@ keywords: [sObject, Rich, Text, Image, specific, area, record, uploaded]
 # sObject Rich Text Image Get
 
 Gets the specified image data from a specific rich text area field in a given record. To get an image, you must have a record with an image uploaded to a rich text area field.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_rest)
+
+#### Note
+
+The sObject Rich Text Image Get resource isn’t compatible with Composite API requests, because it returns binary data instead of data in JSON or XML formats. Instead, make individual sObject Blob Get requests to retrieve blob data.
 
 ## Syntax
 

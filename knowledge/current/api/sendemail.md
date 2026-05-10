@@ -5,12 +5,10 @@ topic: sendemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.580Z
+lastCollected: 2026-05-10T00:40:45.891Z
 estimatedTokens: 4886
-keywords: [sendEmail, Immediately, email, message, Usage, Sample, Code—Java, Code—C#, BaseEmail, SingleEmailMessage, MassEmailMessage, EmailFileAttachment, Fault]
+keywords: [BaseEmail, SingleEmailMessage, MassEmailMessage, EmailFileAttachment, Fault, sendEmail, Immediately, email, message, Sample, Code—Java, Code—C#]
 ---
-
-# sendEmail()
 
 > Immediately sends an email message.
 

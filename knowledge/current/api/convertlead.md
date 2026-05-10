@@ -5,12 +5,10 @@ topic: convertlead
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.912Z
+lastCollected: 2026-05-10T00:40:44.408Z
 estimatedTokens: 3505
-keywords: [convertLead, Converts, Lead, another, Usage, Mappings, Record, Picklist, Errors, Automatic, Subscriptions, Chatter, Feeds, Basic, Steps]
+keywords: [Errors, Fault, convertLead, Converts, Lead, another, Mappings, Record, Picklist, Automatic, Subscriptions, Chatter, Feeds, Basic, Steps, Converting, Leads, Sample, Code—Java, Code—C#, LeadConvert, Arguments]
 ---
-
-# convertLead()
 
 > Converts a Lead into another object.
 

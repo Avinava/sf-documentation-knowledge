@@ -6,7 +6,7 @@ topic: isolation-of-test-data-from-organization-data-in-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.557Z
+lastCollected: 2026-05-10T00:39:54.032Z
 estimatedTokens: 1116
 keywords: [Isolation, Test, Organization, Unit, Tests, Whenever, possible, disable, restriction, annotating, IsTest, SeeAllData=true, annotation]
 ---

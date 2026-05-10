@@ -5,7 +5,7 @@ topic: productconsumedstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.812Z
+lastCollected: 2026-05-10T00:40:39.105Z
 estimatedTokens: 590
 keywords: [ProductConsumedState, status, item, inventory, work, order, line, Service, API, 57.0]
 ---

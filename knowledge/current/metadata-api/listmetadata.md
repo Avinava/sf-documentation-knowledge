@@ -5,7 +5,7 @@ topic: listmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.227Z
+lastCollected: 2026-05-10T00:40:08.074Z
 estimatedTokens: 872
 keywords: [Permissions, Arguments, listMetadata, call, retrieves, metadata, organization, match, criteria, queries, array, contain, three, ListMetadataQuery, supports, every, top-level, CustomObject, ApexClass, child, CustomField, RecordType, Sample, Code—Java]
 ---

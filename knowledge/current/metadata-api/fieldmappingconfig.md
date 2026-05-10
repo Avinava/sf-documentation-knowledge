@@ -5,7 +5,7 @@ topic: fieldmappingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:31.069Z
+lastCollected: 2026-05-10T00:40:14.325Z
 estimatedTokens: 796
 keywords: [FieldMappingConfig, configuration, mapped, source, destination, API, 63.0]
 ---

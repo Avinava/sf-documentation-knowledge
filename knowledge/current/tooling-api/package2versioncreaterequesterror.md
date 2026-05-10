@@ -5,7 +5,7 @@ topic: package2versioncreaterequesterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.764Z
+lastCollected: 2026-05-10T00:40:18.605Z
 estimatedTokens: 157
 keywords: [Package2VersionCreateRequestError, error, encountered, creating, second-generation, managed, package, unlocked, API, 41.0, SOAP, REST, HTTP]
 ---

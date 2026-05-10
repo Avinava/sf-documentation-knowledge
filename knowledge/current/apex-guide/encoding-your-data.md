@@ -5,7 +5,7 @@ topic: encoding-your-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.599Z
+lastCollected: 2026-05-10T00:39:52.475Z
 estimatedTokens: 156
 keywords: [Encoding, encode, decode, URLs, convert, strings, hexadecimal, provided, EncodingUtil]
 ---

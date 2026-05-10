@@ -5,7 +5,7 @@ topic: common-tooling-api-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:36.169Z
+lastCollected: 2026-05-10T00:40:22.099Z
 estimatedTokens: 255
 keywords: [Common, Tooling, API, BatchJobDefinition, shared, Processing, Engine, Batch, Management]
 ---

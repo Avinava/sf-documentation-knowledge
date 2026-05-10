@@ -5,7 +5,7 @@ topic: costbook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.595Z
+lastCollected: 2026-05-10T00:39:08.781Z
 estimatedTokens: 716
 keywords: [CostBook, cost, book, multiple, entries, API, 61.0]
 ---

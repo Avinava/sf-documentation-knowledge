@@ -5,7 +5,7 @@ topic: metadatacomponentdependency-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.494Z
+lastCollected: 2026-05-10T00:40:18.147Z
 estimatedTokens: 1730
 namespace: Type
 keywords: [Limitations, MetadataComponentDependency, Beta, dependency, relationships, metadata, org, query, Tooling, API, 43.0, Bulk, 2.0, 49.0, SOAP, REST, HTTP]

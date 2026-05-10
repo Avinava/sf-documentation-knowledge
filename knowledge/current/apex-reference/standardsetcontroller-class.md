@@ -5,7 +5,7 @@ topic: standardsetcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.462Z
+lastCollected: 2026-05-10T00:39:49.026Z
 estimatedTokens: 5196
 namespace: ApexPages
 keywords: [Instantiation, StandardSetController, allow, controllers, similar, extensions, pre-built, Visualforce, provided, Salesforce, queryLocator, controllerSObjects, cancel, getCompleteResult, getFilterId, getHasNext, getHasPrevious, getListViewOptions, getPageNumber, getPageSize, getRecord, getRecords, getResultSize, getSelected, previous, save, setFilterID, filterId, setpageNumber, pageNumber, setPageSize, pageSize, setSelected, selectedRecords]

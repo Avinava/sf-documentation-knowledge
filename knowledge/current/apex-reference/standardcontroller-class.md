@@ -5,7 +5,7 @@ topic: standardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.435Z
+lastCollected: 2026-05-10T00:39:48.988Z
 estimatedTokens: 2296
 namespace: ApexPages
 keywords: [Instantiation, StandardController, defining, extension, standard, controller, controllerSObject, addFields, fieldNames, cancel, edit, getId, getRecord, reset, save, view]

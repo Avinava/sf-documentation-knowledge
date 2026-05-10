@@ -5,12 +5,10 @@ topic: tooling-api-objects-in-the-enterprise-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.679Z
+lastCollected: 2026-05-10T00:40:44.007Z
 estimatedTokens: 208
-keywords: [Tooling, API, Objects, Enterprise, WSDL, included, Partner, WSDLs, instead, field-level, security]
+keywords: [Tooling, API, Enterprise, WSDL, included, Partner, WSDLs, instead, field-level, security]
 ---
-
-# Tooling API Objects in the Enterprise WSDL
 
 > Some objects used by the Tooling API are included in the Enterprise and Partner WSDL.
     Use the objects from these WSDLs instead of the Tooling WSDL if you need field-level

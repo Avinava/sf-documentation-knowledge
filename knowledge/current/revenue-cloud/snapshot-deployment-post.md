@@ -5,7 +5,7 @@ topic: snapshot-deployment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.605Z
+lastCollected: 2026-05-10T00:39:04.899Z
 estimatedTokens: 288
 keywords: [Snapshot, Deployment, POST, indexes, improve, search, results, easier, products, run, time, terms]
 ---

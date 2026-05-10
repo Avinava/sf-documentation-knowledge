@@ -5,7 +5,7 @@ topic: loopback-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.026Z
+lastCollected: 2026-05-10T00:39:51.593Z
 estimatedTokens: 75
 keywords: [Loopback, Adapter, Salesforce, Connect, illustrates, how, handle, filtering, queries, simplicity, connects, org, itself, external, system, LoopbackDataSourceConnection, LoopbackDataSourceProvider]
 ---

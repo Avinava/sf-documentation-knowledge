@@ -5,7 +5,7 @@ topic: flexqueue-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.055Z
+lastCollected: 2026-05-10T00:39:25.472Z
 estimatedTokens: 1863
 namespace: System
 keywords: [FlexQueue, reorder, batch, jobs, Apex, flex, queue, moveAfterJob, jobToMoveId, jobInQueueId, moveBeforeJob, moveJobToEnd, jobId, moveJobToFront]

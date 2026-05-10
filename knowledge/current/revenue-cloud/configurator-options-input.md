@@ -5,7 +5,7 @@ topic: configurator-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.332Z
+lastCollected: 2026-05-10T00:39:03.098Z
 estimatedTokens: 488
 keywords: [Configurator, Options, product, configuration, that’s, passed]
 ---

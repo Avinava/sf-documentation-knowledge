@@ -5,7 +5,7 @@ topic: macrosettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.408Z
+lastCollected: 2026-05-10T00:40:08.292Z
 estimatedTokens: 573
 keywords: [MacroSettings, organization’s, Macro, settings, whether, folders, enabled, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

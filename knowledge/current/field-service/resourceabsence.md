@@ -5,7 +5,7 @@ topic: resourceabsence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.979Z
+lastCollected: 2026-05-10T00:40:39.368Z
 estimatedTokens: 1218
 keywords: [ResourceAbsence, time, period, service, resource, unavailable, work, Salesforce, Scheduler, Workforce, Engagement, API, 38.0]
 ---

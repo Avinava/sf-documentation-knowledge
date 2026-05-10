@@ -5,7 +5,7 @@ topic: sequencingwithoutaura-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:40.285Z
+lastCollected: 2026-05-10T00:39:00.994Z
 estimatedTokens: 944
 namespace: ConnectApi
 keywords: [SequencingWithoutAura, Manage, invoice, sequencing, processes, reconcileSequences, API, Requires, Chatter, sequenceAssignment, sequencesAssignmentInputRepresentation]

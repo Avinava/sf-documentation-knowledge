@@ -5,7 +5,7 @@ topic: support-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.746Z
+lastCollected: 2026-05-10T00:39:52.705Z
 estimatedTokens: 394
 keywords: [Support, Classes, allow, interact, records, commonly, centers, business, hours, cases, Working]
 ---

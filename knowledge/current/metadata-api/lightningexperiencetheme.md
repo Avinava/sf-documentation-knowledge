@@ -5,7 +5,7 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.182Z
+lastCollected: 2026-05-10T00:40:08.015Z
 estimatedTokens: 1038
 keywords: [LightningExperienceTheme, theme, including, BrandingSet, Themes, enable, admins, specify, configurable, attributes, three, colors, five, images, override, SLDS, token, influence, generation, app.css, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

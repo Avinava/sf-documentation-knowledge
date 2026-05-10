@@ -5,7 +5,7 @@ topic: genaiplannerbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.481Z
+lastCollected: 2026-05-10T00:40:06.902Z
 estimatedTokens: 2407
 namespace: Namespace.TopicName.ActionName.AttributeName
 keywords: [GenAiPlannerBundle, GenAiPlannerAttrMapping, GenAiPlannerFunctionDef, GenAiLocalPlugin, GenAiPlannerRuleExprAsgn, GenAiPlannerRuleExprDef, GenAiPlannerRuleExprCondition, planner, agent, template, It’s, container, topics, actions, interact, large, language, model, LLM, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]

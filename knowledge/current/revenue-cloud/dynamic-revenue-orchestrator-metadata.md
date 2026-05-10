@@ -5,7 +5,7 @@ topic: dynamic-revenue-orchestrator-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:15.016Z
+lastCollected: 2026-05-10T00:39:06.712Z
 estimatedTokens: 1269
 keywords: [Dynamic, Revenue, Orchestrator, Metadata, deployment, DRO, Cloud, including, setup, paths, configuration]
 ---

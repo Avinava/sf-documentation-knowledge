@@ -5,7 +5,7 @@ topic: how-dml-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:19.432Z
+lastCollected: 2026-05-10T00:39:55.503Z
 estimatedTokens: 705
 keywords: [How, DML, Works, perform, operations, either, sObject, bulk, sObjects, Performing, recommended, way, because, helps, avoid, hitting, governor, limits, limit, statements, per, Apex, transact, System, Context, Sharing, Best, Practices]
 ---

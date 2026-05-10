@@ -5,7 +5,7 @@ topic: financial-customer-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.635Z
+lastCollected: 2026-05-10T00:39:13.081Z
 estimatedTokens: 441
 keywords: [Category, Relationships, Financial, Customer, DMO, extension, account, capture, services, attributes, Provided, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

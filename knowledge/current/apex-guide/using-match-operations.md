@@ -5,7 +5,7 @@ topic: using-match-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.607Z
+lastCollected: 2026-05-10T00:39:50.869Z
 estimatedTokens: 310
 keywords: [Match, Operations, Matcher, performs, character, sequence, interpreting, Pattern]
 ---

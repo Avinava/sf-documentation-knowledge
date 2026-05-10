@@ -5,7 +5,7 @@ topic: double-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.033Z
+lastCollected: 2026-05-10T00:39:46.662Z
 estimatedTokens: 1043
 namespace: System
 keywords: [Double, primitive, intValue, longValue, round, valueOf, stringToDouble, fieldValue]

@@ -5,7 +5,7 @@ topic: batch-management-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:36.237Z
+lastCollected: 2026-05-10T00:40:22.186Z
 estimatedTokens: 234
 keywords: [Batch, Management, Invocable, Actions, Run, active, job, definition, REST, API, Developer]
 ---

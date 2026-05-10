@@ -5,7 +5,7 @@ topic: customonetimepassworddeliveryresult-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:12.392Z
+lastCollected: 2026-05-10T00:39:43.960Z
 estimatedTokens: 282
 keywords: [CustomOneTimePasswordDeliveryResult, status, attempt, send, one-time, password, OTP, external, user, via, messaging, provider]
 ---

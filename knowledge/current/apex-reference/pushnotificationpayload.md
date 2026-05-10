@@ -5,7 +5,7 @@ topic: pushnotificationpayload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.020Z
+lastCollected: 2026-05-10T00:39:21.603Z
 estimatedTokens: 162
 keywords: [PushNotification, payload, Creates, new, instance, Messaging.PushNotification, key-value, pairs, don’t, call, setPayload]
 ---

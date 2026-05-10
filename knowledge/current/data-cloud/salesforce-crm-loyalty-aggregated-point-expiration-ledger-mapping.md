@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-aggregated-point-expiration-ledger-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.298Z
+lastCollected: 2026-05-10T00:39:12.742Z
 estimatedTokens: 398
 keywords: [Salesforce, CRM, Loyalty, Aggregated, Point, Expiration, Ledger, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, member’s, fixed-type, non-qualifying, points, expire, particular, date, DMO]
 ---

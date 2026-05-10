@@ -5,7 +5,7 @@ topic: deleting-components-from-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.703Z
+lastCollected: 2026-05-10T00:40:04.051Z
 estimatedTokens: 1124
 keywords: [Deleting, Organization, perform, deployment, deploy, call, destructive, changes, manifest, file, remove, deletes, adds, API, 33.0, specify, added, updated, earlier, versions, deletions, additions, performs, Adding]
 ---

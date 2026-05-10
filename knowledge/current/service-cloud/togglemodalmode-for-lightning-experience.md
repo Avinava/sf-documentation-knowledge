@@ -5,7 +5,7 @@ topic: togglemodalmode-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.180Z
+lastCollected: 2026-05-10T00:40:42.508Z
 estimatedTokens: 275
 keywords: [Arguments, toggleModalMode, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, isn’t, Web, LWC, Aura, Sample, Code]
 ---

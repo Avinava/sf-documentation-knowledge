@@ -5,7 +5,7 @@ topic: resourcesevaluated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.317Z
+lastCollected: 2026-05-10T00:40:36.944Z
 estimatedTokens: 85
 keywords: [resourcesEvaluated, total, number, service, resources, loaded, fetch, evaluated, getAppointmentInsights]
 ---

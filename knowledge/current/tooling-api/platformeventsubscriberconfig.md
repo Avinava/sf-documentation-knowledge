@@ -5,7 +5,7 @@ topic: platformeventsubscriberconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.956Z
+lastCollected: 2026-05-10T00:40:18.956Z
 estimatedTokens: 1808
 keywords: [PlatformEventSubscriberConfig, configuration, settings, platform, event, Apex, trigger, including, batch, size, trigger’s, running, user, API, 51.0, SOAP, REST]
 ---

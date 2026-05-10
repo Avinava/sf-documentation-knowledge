@@ -5,7 +5,7 @@ topic: allornone-parameters-in-composite-and-collections-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.460Z
+lastCollected: 2026-05-10T00:39:57.197Z
 estimatedTokens: 733
 keywords: [allOrNone, Composite, Collections, Requests, uses, sObject, there, two, interact, subrequest]
 ---

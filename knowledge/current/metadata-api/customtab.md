@@ -5,7 +5,7 @@ topic: customtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:30.011Z
+lastCollected: 2026-05-10T00:40:12.471Z
 estimatedTokens: 1911
 keywords: [CustomTab, tab, tabs, let, display, web, content, Salesforce, add, app, Classic, appears, Lightning, Experience, item, app’s, navigation, bar, Launcher, displays, s-control, URL, arbitrary, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

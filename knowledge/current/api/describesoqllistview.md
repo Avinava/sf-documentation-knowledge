@@ -5,12 +5,10 @@ topic: describesoqllistview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.214Z
+lastCollected: 2026-05-10T00:40:45.054Z
 estimatedTokens: 340
 keywords: [DescribeSoqlListView, view, including, columns, sObject, SOQL, query]
 ---
-
-# DescribeSoqlListView
 
 > Contains information about the specified list view, including the columns, sObject
     type, and SOQL query.

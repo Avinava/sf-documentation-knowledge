@@ -5,7 +5,7 @@ topic: party-financial-asset-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.354Z
+lastCollected: 2026-05-10T00:39:13.802Z
 estimatedTokens: 485
 keywords: [Category, Relationships, Party, Financial, Asset, DMO, individual, organization, cash, hand, owned, forth, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key]
 ---

@@ -6,7 +6,7 @@ topic: describedatacategorygroupstructureresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.789Z
+lastCollected: 2026-05-10T00:39:25.060Z
 estimatedTokens: 1099
 namespace: Schema
 keywords: [category, groups, categories, KnowledgeArticleVersion, Question, getDescription, getLabel, getName, getSobject, getTopCategories]

@@ -6,8 +6,8 @@ topic: jsonaccess-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.255Z
-estimatedTokens: 512
+lastCollected: 2026-05-10T00:39:50.308Z
+estimatedTokens: 509
 keywords: [JsonAccess, Annotation, @JsonAccess, defined, Apex, level, whether, instances, serialized, deserialized, restricts, JSON, XML, serialization, deserialization, runtime, JSONException, exception, thrown, Considerations, Versioned, Behavior, Changes]
 ---
 
@@ -42,7 +42,7 @@ This example code shows an Apex class marked with the @JsonAccess annotation.
 In versions 48.0 and earlier, the default access for deserialization is always and the default access for serialization is sameNamespace to preserve the existing behavior. From version 49.0 onwards, the default access for both serialization and deserialization is sameNamespace.
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_isTest.htm "IsTest Annotation")
--   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm "NamespaceAccessible Annotation Annotation")
+-   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm "NamespaceAccessible Annotation")
 
 ## Code Examples
 

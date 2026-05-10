@@ -5,7 +5,7 @@ topic: reset-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.552Z
+lastCollected: 2026-05-10T00:39:58.947Z
 estimatedTokens: 364
 keywords: [Reset, User, Password, Initiates, user’s, current, becomes, invalid, receives, email, link, log, again, finish, resetting, their, resource, REST, API, 24.0]
 ---

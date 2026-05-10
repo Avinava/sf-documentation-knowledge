@@ -5,7 +5,7 @@ topic: syntax-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:49.572Z
+lastCollected: 2026-05-10T00:40:41.650Z
 estimatedTokens: 1117
 keywords: [Lightning, Console, JavaScript, API, file, web, controller, Aura, LWC, Guidelines]
 ---

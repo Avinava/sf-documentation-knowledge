@@ -5,7 +5,7 @@ topic: omniintegrationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:42.873Z
+lastCollected: 2026-05-10T00:40:31.768Z
 estimatedTokens: 2039
 keywords: [OmniIntegrationProcedure, OmniProcessElement, Omnistudio, Integration, Procedure, Discovery, Framework, declarative, server-side, processing, perform, multiple, actions, server, call, supporting, sales, service, business, workflows, customization, discoveryframework, Parent, File, Suffix, Directory, Location, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: notificationstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.765Z
+lastCollected: 2026-05-10T00:39:44.565Z
 estimatedTokens: 219
 keywords: [NotificationStatus, whether, payments, platform, successfully, received, notification, gateway]
 ---

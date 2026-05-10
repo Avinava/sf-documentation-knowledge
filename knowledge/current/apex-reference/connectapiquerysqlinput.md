@@ -5,8 +5,8 @@ topic: connectapiquerysqlinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:06.200Z
-estimatedTokens: 407
+lastCollected: 2026-05-10T00:39:34.216Z
+estimatedTokens: 457
 keywords: [ConnectApi.QuerySqlInput, SQL, query]
 ---
 
@@ -19,7 +19,7 @@ Represents the input to create an SQL query.
 | Property | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | adaptiveTimeout | Integer | Amount of time (in seconds) for the query engine to respond to the request. 0 will return the queryId, status, and metadata, but no data associated with the SQL. The maximum value is 15. | Optional | 63.0 |
-| querySettings | Map<String, String> | Settings to allow the adjustment of query execution, such as date and time. For example, lc_time, date_style, and external_client_context. | Optional | 62.0 |
+| querySettings | Map<String, String> | Settings to adjust the query execution behavior:date_style—Order of Year, Month, and Day for parsing date strings, for example MDY and DMY.lc_time—Locale for date literals using ISO language and country code, for example en_US and de_AT.query_timeout—Execution limit in milliseconds before the query is terminated, for example 1800000ms. | Optional | 62.0 |
 | rowLimit | Long | Maximum number of rows to include in the response. Fewer rows may be returned. | Optional | 62.0 |
 | sql | String | SQL expression. | Required | 62.0 |
 | sqlParameters | List<ConnectApi.QuerySqlParameterItem> | Value and type information about the SQL parameters. | Optional | 62.0 |

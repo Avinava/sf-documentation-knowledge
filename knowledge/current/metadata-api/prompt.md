@@ -5,7 +5,7 @@ topic: prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.741Z
+lastCollected: 2026-05-10T00:40:10.398Z
 estimatedTokens: 3758
 keywords: [Prompt, PromptVersion, UiFormulaRule, UiFormulaCriterion, metadata, in-app, guidance, includes, prompts, walkthroughs, Help, users, discover, products, services, adopt, processes, how, new, feature, Write, content, select, target, audience, specify, appears, Parent, File, Suffix, Directory, Location, Managed, Packages, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: recordactiondeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:42.965Z
+lastCollected: 2026-05-10T00:40:31.928Z
 estimatedTokens: 2191
 keywords: [RecordActionDeployment, RecordActionDefaultItem, RecordActionDeploymentChannel, RecordActionDeploymentContext, RecordActionRecommendation, RecordActionSelectableItem, configuration, settings, Actions, Recommendations, Action, Launcher, Bulk, Panel, deployment, display, channels, users, add, runtime, Best, configures, strategies, how, appear, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest, Declarative, Sample, Definition, API, 45.0, SOAP, REST, HTTP]
 ---

@@ -5,7 +5,7 @@ topic: rating-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.539Z
+lastCollected: 2026-05-10T00:39:04.811Z
 estimatedTokens: 252
 keywords: [Rating, Waterfall, persisted, stores, process, logs, insights, internal]
 ---

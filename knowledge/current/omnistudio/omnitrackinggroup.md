@@ -5,7 +5,7 @@ topic: omnitrackinggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:42.948Z
+lastCollected: 2026-05-10T00:40:31.894Z
 estimatedTokens: 1399
 keywords: [OmniTrackingGroup, OmniTrackingComponentDef, group, FlexCard, OmniScript, their, user, interactions, tracked, together, OmniAnalytics, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 60.0]
 ---

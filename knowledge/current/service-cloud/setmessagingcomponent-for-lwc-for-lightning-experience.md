@@ -5,7 +5,7 @@ topic: setmessagingcomponent-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.076Z
+lastCollected: 2026-05-10T00:40:42.353Z
 estimatedTokens: 293
 keywords: [Arguments, setMessagingComponent, LWC, Lightning, Experience, Inserts, messaging, service, rep’s, text, box, insert, works, console, apps, Sample, Code]
 ---

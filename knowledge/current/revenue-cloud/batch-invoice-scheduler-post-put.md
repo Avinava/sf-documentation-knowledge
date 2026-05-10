@@ -5,7 +5,7 @@ topic: batch-invoice-scheduler-post-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.267Z
+lastCollected: 2026-05-10T00:39:04.130Z
 estimatedTokens: 1013
 keywords: [Batch, Invoice, Scheduler, POST, PUT, automatically, generate, invoices, criteria, filters, run, schedules, requirements]
 ---

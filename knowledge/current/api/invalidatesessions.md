@@ -5,12 +5,10 @@ topic: invalidatesessions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.347Z
+lastCollected: 2026-05-10T00:40:45.391Z
 estimatedTokens: 381
-keywords: [invalidateSessions, Ends, sessions, sessionId, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, invalidateSessions, Ends, sessions, sessionId, Sample, Code—Java, Code—C#]
 ---
-
-# invalidateSessions()
 
 > Ends one or more sessions specified by a sessionId.
 

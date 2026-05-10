@@ -5,7 +5,7 @@ topic: associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.780Z
+lastCollected: 2026-05-10T00:40:33.128Z
 estimatedTokens: 650
 keywords: [Industries, standard, their]
 ---

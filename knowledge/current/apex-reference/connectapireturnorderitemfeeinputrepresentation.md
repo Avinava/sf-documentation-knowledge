@@ -5,7 +5,7 @@ topic: connectapireturnorderitemfeeinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:06.339Z
+lastCollected: 2026-05-10T00:39:34.443Z
 estimatedTokens: 647
 keywords: [ReturnOrderLineItem, representing, fee, instructions, updating, read-only, Any, remaining, quantity, processed, added, new]
 ---

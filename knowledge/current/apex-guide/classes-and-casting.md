@@ -5,7 +5,7 @@ topic: classes-and-casting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:16.356Z
+lastCollected: 2026-05-10T00:39:50.479Z
 estimatedTokens: 459
 keywords: [Classes, Casting, general, run, time, means, Apex, assigned, another, subclass, want, convert]
 ---

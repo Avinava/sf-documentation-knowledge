@@ -5,7 +5,7 @@ topic: connectapiphoto
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.799Z
+lastCollected: 2026-05-10T00:39:41.475Z
 estimatedTokens: 574
 keywords: [ConnectApi.Photo, Profile, photo]
 ---

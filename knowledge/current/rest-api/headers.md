@@ -5,7 +5,7 @@ topic: headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:20.091Z
+lastCollected: 2026-05-10T00:39:56.569Z
 estimatedTokens: 879
 keywords: [REST, API, supports, several, standard, HTTP, including]
 ---

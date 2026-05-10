@@ -5,7 +5,7 @@ topic: future-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:17.892Z
+lastCollected: 2026-05-10T00:39:52.935Z
 estimatedTokens: 2047
 keywords: [Future, runs, asynchronously, call, run, long-running, operations, callouts, external, web, services, any, operation, want, own, thread, isolate, Manipulation, Language, DML, different, sObject, prevent, mixed, error, queued, system, resources, become, way, execution, code, doesn’t, wait, completion, benefit, governor, limits, higher, SOQL, query, heap, size, Testing, Performance, Best, Practices]
 ---

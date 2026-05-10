@@ -5,7 +5,7 @@ topic: custom-metadata-type-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.619Z
+lastCollected: 2026-05-10T00:39:45.922Z
 estimatedTokens: 1543
 keywords: [Metadata, customizable, deployable, packageable, upgradeable, application, exposed, cache, repeated, queries, database, formula, validation, flows, Apex, SOAP, API, getAll, getInstance, recordId, developerName, qualifiedApiName]
 ---

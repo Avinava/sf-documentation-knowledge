@@ -5,7 +5,7 @@ topic: requirements-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.891Z
+lastCollected: 2026-05-10T00:39:49.709Z
 estimatedTokens: 729
 keywords: [Requirements, Limitations, Salesforce, Reports, Dashboards, API, via, Apex, organizations, enabled]
 ---

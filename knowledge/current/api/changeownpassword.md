@@ -5,12 +5,10 @@ topic: changeownpassword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.800Z
+lastCollected: 2026-05-10T00:40:44.203Z
 estimatedTokens: 464
-keywords: [changeOwnPassword, Lets, users, change, their, passwords, old, new, they, specify, Usage, Sample, Code—Java, Code—C#, Arguments]
+keywords: [Arguments, Fault, changeOwnPassword, Lets, users, change, their, passwords, old, new, they, specify, Sample, Code—Java, Code—C#]
 ---
-
-# changeOwnPassword()
 
 > Lets users change their passwords from old values to new values that they
       specify.

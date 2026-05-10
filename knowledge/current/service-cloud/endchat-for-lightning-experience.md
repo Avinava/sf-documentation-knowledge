@@ -5,7 +5,7 @@ topic: endchat-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.715Z
+lastCollected: 2026-05-10T00:40:41.831Z
 estimatedTokens: 165
 keywords: [Arguments, endChat, Lightning, Experience, Ends, chat, agent, currently, engaged, works, console, apps, argumentObj, Sample, Code]
 ---

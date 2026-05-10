@@ -5,7 +5,7 @@ topic: stack-overflow-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.042Z
+lastCollected: 2026-05-10T00:39:51.616Z
 estimatedTokens: 151
 keywords: [Stack, Overflow, Adapter, Salesforce, Connect, illustrates, how, support, external, lookup, relationships, multiple, tables, relationship, links, child, standard, parent, become, org, StackOverflowDataSourceConnection, StackOverflowPostDataSourceProvider]
 ---

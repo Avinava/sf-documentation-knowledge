@@ -5,7 +5,7 @@ topic: indexfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.298Z
+lastCollected: 2026-05-10T00:40:17.836Z
 estimatedTokens: 448
 keywords: [IndexField, Limitations, index, big, Tooling, API, 41.0, SOAP, REST, HTTP]
 ---

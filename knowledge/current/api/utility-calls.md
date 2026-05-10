@@ -5,12 +5,10 @@ topic: utility-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.901Z
+lastCollected: 2026-05-10T00:40:46.397Z
 estimatedTokens: 602
-keywords: [Utility, Calls, topic, API, client, applications, invoke, obtain, system, timestamp, user, change, passwords, Samples]
+keywords: [Samples, Utility, topic, API, client, applications, invoke, obtain, system, timestamp, user, change, passwords]
 ---
-
-# Utility Calls
 
 > This topic describes API calls that your client applications can invoke to obtain the
     system timestamp, user information, and change user passwords.

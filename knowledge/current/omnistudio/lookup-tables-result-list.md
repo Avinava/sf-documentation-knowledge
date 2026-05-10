@@ -5,7 +5,7 @@ topic: lookup-tables-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.846Z
+lastCollected: 2026-05-10T00:40:27.312Z
 estimatedTokens: 155
 keywords: [Lookup, Tables, Result, search]
 ---

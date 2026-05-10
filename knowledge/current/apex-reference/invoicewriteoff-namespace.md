@@ -5,7 +5,7 @@ topic: invoicewriteoff-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.260Z
+lastCollected: 2026-05-10T00:39:48.713Z
 estimatedTokens: 373
 namespace: InvoiceWriteOff
 keywords: [InvoiceWriteOff, classes, credit, memos, total, charge, amount, invoice, write-off]

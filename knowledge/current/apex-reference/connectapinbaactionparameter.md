@@ -5,7 +5,7 @@ topic: connectapinbaactionparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.229Z
+lastCollected: 2026-05-10T00:39:40.600Z
 estimatedTokens: 75
 keywords: [ConnectApi.NBAActionParameter, action]
 ---

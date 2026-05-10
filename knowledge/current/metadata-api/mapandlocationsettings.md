@@ -5,7 +5,7 @@ topic: mapandlocationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.463Z
+lastCollected: 2026-05-10T00:40:08.374Z
 estimatedTokens: 556
 keywords: [MapAndLocationSettings, org’s, map, location, settings, Declarative, Metadata, File, Suffix, Directory, Sample, Definition, Wildcard, Support, Manifest]
 ---

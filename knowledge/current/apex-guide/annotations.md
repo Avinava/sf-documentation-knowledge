@@ -5,8 +5,8 @@ topic: annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.216Z
-estimatedTokens: 1490
+lastCollected: 2026-05-10T00:39:50.246Z
+estimatedTokens: 1468
 keywords: [Annotations, Apex, annotation, modifies, way, similar, Java, defined, initial, symbol, followed, appropriate, keyword]
 ---
 
@@ -49,9 +49,9 @@ Apex supports these annotations.
 
 You can use multiple annotations for the same class or method. Specify each annotation on a separate line immediately before the class or method definition. Some annotations can’t be used together. If applicable, these limitations are documented on the page for the annotation.
 
-1.  [AuraEnabled Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm)
+1.  [AuraEnabled Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_AuraEnabled.htm)
 
-2.  [Deprecated Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm)
+2.  [Deprecated Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm)
 
 3.  [Future Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_future.htm)
     Use the Future annotation to identify methods that run asynchronously. A future method runs when Salesforce has available resources.
@@ -63,17 +63,17 @@ You can use multiple annotations for the same class or method. Specify each anno
 
 7.  [JsonAccess Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_JsonAccess.htm)
     The @JsonAccess annotation defined at Apex class level controls whether instances of the class can be serialized or deserialized. If the annotation restricts the JSON or XML serialization and deserialization, a runtime JSONException exception is thrown.
-8.  [NamespaceAccessible Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
+8.  [NamespaceAccessible Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_NamespaceAccessible.htm)
 
-9.  [ReadOnly Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm)
+9.  [ReadOnly Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_ReadOnly.htm)
 
-10.  [RemoteAction Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_RemoteAction.htm)
+10.  [RemoteAction Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_RemoteAction.htm)
 
-11.  [SuppressWarnings Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm)
+11.  [SuppressWarnings Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_SuppressWarnings.htm)
      This annotation does nothing in Apex but can be used to provide information to third-party tools.
-12.  [TestSetup Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testsetup.htm)
+12.  [TestSetup Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testsetup.htm)
      Methods defined with the @TestSetup annotation are used for creating common test records that are available for all test methods in the class.
-13.  [TestVisible Annotation Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testvisible.htm)
+13.  [TestVisible Annotation](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_testvisible.htm)
 
 
 -   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords.htm "Keywords")

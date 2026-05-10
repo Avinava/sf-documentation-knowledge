@@ -5,12 +5,10 @@ topic: step-4-walk-through-the-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.886Z
+lastCollected: 2026-05-10T00:40:46.369Z
 estimatedTokens: 1577
 keywords: [Step, Walk, Sample, Code, Once, imported, WSDL, file, begin, building, client, applications, API, Java]
 ---
-
-# Step 4: Walk Through the Sample Code
 
 > Once you have imported your WSDL file, you can begin building client
         applications that use the API.

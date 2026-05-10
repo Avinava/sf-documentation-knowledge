@@ -5,7 +5,7 @@ topic: servicesetupassistantsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.618Z
+lastCollected: 2026-05-10T00:40:11.862Z
 estimatedTokens: 617
 keywords: [ServiceSetupAssistantSettings, organization’s, Service, Setup, Assistant, settings, basic, console, app, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

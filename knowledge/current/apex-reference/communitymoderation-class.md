@@ -5,7 +5,7 @@ topic: communitymoderation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:57.841Z
+lastCollected: 2026-05-10T00:39:19.516Z
 estimatedTokens: 15323
 namespace: ConnectApi
 keywords: [CommunityModeration, Add, moderation, flag, comment, addFlagToComment, communityId, commentId, API, Requires, Chatter, visibility, addFlagToFeedElement, feedElementId, getFlagsOnComment, pageSize, pageParam, getFlagsOnFeedElement, removeFlagFromComment, userId, removeFlagFromFeedElement, Retired, addFlagToFeedItem, feedItemId, getFlagsOnFeedItem, removeFlagsOnFeedItem]

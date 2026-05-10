@@ -5,7 +5,7 @@ topic: understanding-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.043Z
+lastCollected: 2026-05-10T00:39:49.967Z
 estimatedTokens: 1540
 keywords: [Understanding, Sharing, record-level, control, well, standard, Account, Contact, Opportunity, Case, Administrators, object’s, organization-wide, level, grant, additional, record, ownership, role, hierarchy, manual, Developers, Apex, managed, programmatically, Reason, Levels, Considerations]
 ---

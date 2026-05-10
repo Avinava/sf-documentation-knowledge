@@ -5,7 +5,7 @@ topic: post-a-feed-element-with-existing-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.084Z
+lastCollected: 2026-05-10T00:39:54.908Z
 estimatedTokens: 102
 keywords: [Post, Files, Call, already, uploaded]
 ---

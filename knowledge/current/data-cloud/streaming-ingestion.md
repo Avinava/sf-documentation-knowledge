@@ -5,7 +5,7 @@ topic: streaming-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.716Z
+lastCollected: 2026-05-10T00:39:11.176Z
 estimatedTokens: 450
 keywords: [Streaming, Ingestion, Cloud, API, uses, fire-and-forget, pattern, synchronize, micro-batches, updates, source, system, near-real, time, processed, asynchronously, approximately, every, minutes]
 ---

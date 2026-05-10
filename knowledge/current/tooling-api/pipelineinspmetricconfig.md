@@ -5,7 +5,7 @@ topic: pipelineinspmetricconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.914Z
+lastCollected: 2026-05-10T00:40:18.887Z
 estimatedTokens: 394
 keywords: [PipelineInspMetricConfig, configuration, forecast, category, metric, appears, Pipeline, Inspection, view, API, 55.0, SOAP, REST]
 ---

@@ -5,7 +5,7 @@ topic: zones-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.982Z
+lastCollected: 2026-05-10T00:39:21.542Z
 estimatedTokens: 6251
 namespace: ConnectApi
 keywords: [Zones, Search, articles, questions, zone, specify, language, results, getZone, communityId, zoneId, API, Requires, Chatter, getZones, pageParam, pageSize, searchInZone, filter, Guest, Users, Test, setTestSearchInZone, result]

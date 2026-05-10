@@ -5,7 +5,7 @@ topic: connectapi-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.261Z
+lastCollected: 2026-05-10T00:39:31.229Z
 estimatedTokens: 126
 keywords: [ConnectApi, Classes, take, arguments, instances]
 ---

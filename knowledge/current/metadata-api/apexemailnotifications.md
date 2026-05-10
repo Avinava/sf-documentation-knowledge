@@ -5,7 +5,7 @@ topic: apexemailnotifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.509Z
+lastCollected: 2026-05-10T00:40:00.489Z
 estimatedTokens: 761
 keywords: [ApexEmailNotifications, ApexEmailNotification, define, users, email, addresses, receive, unhandled, Apex, errors, Flow, metadata, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

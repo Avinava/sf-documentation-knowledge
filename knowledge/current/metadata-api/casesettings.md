@@ -5,7 +5,7 @@ topic: casesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.355Z
+lastCollected: 2026-05-10T00:40:01.862Z
 estimatedTokens: 5338
 keywords: [CaseSettings, EmailToCaseSettings, EmailToCaseRoutingAddress, FeedItemSettings, WebToCaseSettings, organization’s, case, settings, owner, case-related, features, enabled, Classic, email, templates, various, activities, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

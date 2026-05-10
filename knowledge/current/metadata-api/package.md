@@ -5,7 +5,7 @@ topic: package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.265Z
+lastCollected: 2026-05-10T00:40:09.619Z
 estimatedTokens: 1095
 keywords: [Package, PackageTypeMembers, metadata, retrieve, part, call, Wildcard, Support, Manifest, File]
 ---

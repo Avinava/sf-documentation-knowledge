@@ -5,7 +5,7 @@ topic: customfeatureextractor-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:36.071Z
+lastCollected: 2026-05-10T00:40:21.967Z
 estimatedTokens: 1712
 namespace: AiAccelerator
 keywords: [CustomFeatureExtractor, apex-based, feature, extractor, override, extend, implementation, extractFeatures, var1, var2]

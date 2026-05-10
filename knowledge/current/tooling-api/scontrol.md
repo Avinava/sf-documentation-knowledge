@@ -5,7 +5,7 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.411Z
+lastCollected: 2026-05-10T00:40:19.526Z
 estimatedTokens: 1045
 keywords: [Scontrol, s-control, content, system, hosts, client, applications, execute, contain, any, display, run, Web, browser, SOAP, REST]
 ---

@@ -5,7 +5,7 @@ topic: focussubtabbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.172Z
+lastCollected: 2026-05-10T00:40:41.129Z
 estimatedTokens: 273
 keywords: [Arguments, focusSubtabById, Focuses, browser, subtab, already, open, API, 22.0, Sample, Code–Visualforce]
 ---

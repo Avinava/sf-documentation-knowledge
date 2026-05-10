@@ -5,7 +5,7 @@ topic: getparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.174Z
+lastCollected: 2026-05-10T00:39:21.890Z
 estimatedTokens: 241
 keywords: [getParameters, map, query, PageReference, POST, included, key]
 ---

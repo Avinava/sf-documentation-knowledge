@@ -5,7 +5,7 @@ topic: decisiontable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:24.558Z
+lastCollected: 2026-05-10T00:40:03.903Z
 estimatedTokens: 2365
 keywords: [DecisionTable, DecisionTableParameter, DecisionTableSourceCriteria, decision, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---

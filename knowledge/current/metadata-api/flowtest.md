@@ -5,18 +5,18 @@ topic: flowtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:26.225Z
-estimatedTokens: 1696
-keywords: [FlowTest, FlowTestFlowVersion, FlowTestPoint, FlowTestAssertion, FlowTestCondition, FlowTestReferenceOrValue, FlowTestParameter, metadata, flow, test, activate, record-triggered, verify, expected, results, identify, run-time, failures, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
+lastCollected: 2026-05-10T00:40:06.486Z
+estimatedTokens: 2214
+keywords: [FlowTest, FlowTestFlowVersion, FlowTestDataSource, FlowTestIsolObjExtlKey, FlowTestExtKeyField, FlowTestPoint, FlowTestAssertion, FlowTestCondition, FlowTestReferenceOrValue, FlowTestParameter, metadata, flow, test, activate, record-triggered, autolaunched, Cloud-triggered, verify, expected, results, identify, run-time, failures, Parent, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 > Represents the metadata associated with a flow test. Before you activate a
-			record-triggered flow, you can test it to verify its expected results and identify flow
-			run-time failures.
+			record-triggered, autolaunched, or Data Cloud-triggered flow, you can test it to verify
+			its expected results and identify flow run-time failures.
 
 # FlowTest
 
-Represents the metadata associated with a flow test. Before you activate a record-triggered flow, you can test it to verify its expected results and identify flow run-time failures.
+Represents the metadata associated with a flow test. Before you activate a record-triggered, autolaunched, or Data Cloud-triggered flow, you can test it to verify its expected results and identify flow run-time failures.
 
 ## Parent Type
 
@@ -40,9 +40,9 @@ There are no additional access requirements that are specific to this type.
 | --- | --- |
 | description | Field TypestringDescriptionThe description of the flow test, such as what it does or how it works. |
 | flowApiName | Field TypestringDescriptionRequired.The API name of the flow associated with the flow test. |
-| flowTestDataSources | Reserved for future use. |
+| flowTestDataSources | Field TypeFlowTestDataSource[]DescriptionAn array of data sources for the flow test of a record-triggered flow or an autolaunched flow. This field is available in API version 66.0 and later. |
 | flowTestFlowVersions | Field TypeFlowTestFlowVersion[]DescriptionAn array of flow versions that are associated with the flow test. This field is available in API version 66.0 and later. |
-| isolatedObjectExternalKeys | Reserved for future use. |
+| isolatedObjectExternalKeys | Field TypeFlowTestIsolObjExtlKey[]DescriptionAn array of isolated objects and the key fields that uniquely identify each record for the flow test of a record-triggered flow or an autolaunched flow. This field is available in API version 66.0 and later. |
 | label | Field TypestringDescriptionRequired.The label of the flow test. |
 | testPoints | Field TypeFlowTestPoint[]DescriptionAn array of test points for the test. |
 | testType | Field TypeFlowTestType (enumeration of type string)DescriptionRequired.Specifies whether the test contains assertions. This field is available in API version 66.0 and later.Possible values are:WithAssertion—The automated comparison of the actual flow outcome with the user-defined expected outcome that assertions define. |
@@ -54,6 +54,32 @@ Defines the flow version for the flow test. This subtype is available in API ver
 | Field Name | Description |
 | --- | --- |
 | flowVersionNumber | Field TypestringDescriptionThe version number of the flow version that’s associated with the flow test. |
+
+## FlowTestDataSource
+
+Defines the data source for a flow test of a record-triggered flow or an autolaunched flow. This subtype is available in API version 66.0 and later.
+
+| Field Name | Description |
+| --- | --- |
+| apexClass | Field TypestringDescriptionRequired.The Apex class associated with the data source when dataSourceType is ApexClass. |
+| dataSourceType | Field TypeFlowTestDataSourceType (enumeration of type string)DescriptionRequired.The data source type for the flow test.Possible value is ApexClass. |
+
+## FlowTestIsolObjExtlKey
+
+Defines an external isolated object and the fields that identify unique records to test for a record-triggered flow or an autolaunched flow. This subtype is available in API version 66.0 and later.
+
+| Field Name | Description |
+| --- | --- |
+| keyFields | Field TypeFlowTestExtKeyField[]DescriptionThe key fields that identify unique records to test. Don’t use fields of the lookup data type. |
+| objectType | Field TypestringDescriptionRequired.The object type of the isolated data to test. |
+
+## FlowTestExtKeyField
+
+Defines the external key fields that identify the unique records in isolated test data for a record-triggered flow or an autolaunched flow. This subtype is available in API version 66.0 and later.
+
+| Field Name | Description |
+| --- | --- |
+| fieldName | Field TypestringDescriptionRequired.The field API name to identify the unique records to test. |
 
 ## FlowTestPoint
 
@@ -95,7 +121,7 @@ Defines a specific value that the operator applies to the resource reference in 
 | dateTimeValue | Field TypedateTimeDescriptionSpecifies a dateTime value. |
 | dateValue | Field TypedateDescriptionSpecifies a dateValue value. |
 | elementReference | Reserved for future use. |
-| jsonValue | Reserved for future use. |
+| jsonValue | Field TypestringDescriptionSpecifies a JSON value for the isolated test data record. This field is available in API version 66.0 and later. |
 | numberValue | Field TypedoubleDescriptionSpecifies a number value. |
 | sobjectValue | Field TypestringDescriptionSpecifies an sObject value. |
 | stringValue | Field TypestringDescriptionSpecifies a string value. |
@@ -103,17 +129,23 @@ Defines a specific value that the operator applies to the resource reference in 
 
 ## FlowTestParameter
 
-Defines parameters for the triggering record in the Start test point.
+Defines parameters for the triggering record, flow path, and input variable in the Start test point.
 
 | Field Name | Description |
 | --- | --- |
 | leftValueReference | Field TypestringDescriptionRequired.The name of the parameter. When type is InputTriggeringRecordInitial or InputTriggeringRecordUpdated, the value for leftValueReference must be $Record. When type is ScheduledPath, the value for leftValueReference must be ScheduledPathApiName. |
-| type | Field TypeFlowTestParameterType (enumeration of type string)DescriptionRequired.The type of parameter.Possible values are:InputTriggeringRecordInitialInputTriggeringRecordUpdatedInputVariable—Reserved for future use.ScheduledPath—Available in API version 56.0 and later. |
+| type | Field TypeFlowTestParameterType (enumeration of type string)DescriptionRequired.The type of parameter.Possible values are:InputTriggeringRecordInitialInputTriggeringRecordUpdatedInputVariable—This value is available in API version 66.0 and later.ScheduledPath—Available in API version 56.0 and later. |
 | value | Field TypeFlowTestReferenceOrValueDescriptionRequired.The value that the operator applies to the resource reference in the leftValueReference field. |
 
 ## Declarative Metadata Sample Definition
 
 The following is an example of a FlowTest component.
+
+```
+
+```
+
+For isolated test data sample:
 
 ```
 
@@ -176,12 +208,57 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
+<FlowTest xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flowApiName>Example_Test</flowApiName>
+    <label>Test Two</label>
+    <flowTestDataSources>
+        <apexClass>FlowTestDataFactory</apexClass>
+        <dataSourceType>ApexClass</dataSourceType>
+    </flowTestDataSources>
+    <flowTestFlowVersions>
+        <flowVersionNumber>1</flowVersionNumber>
+    </flowTestFlowVersions>   
+    <isolatedObjectExternalKeys>
+        <keyFields>
+            <fieldName>Phone</fieldName>
+        </keyFields>
+        <objectType>Account</objectType>
+    </isolatedObjectExternalKeys>
+    <testPoints>
+        <elementApiName>Start</elementApiName>                  
+        <parameters>
+            <leftValueReference>Accounts</leftValueReference>
+            <type>InputVariable</type>
+            <value>
+                <jsonValue>{&quot;fields&quot;:{&quot;Phone&quot;:&quot;4155551212&quot;},&quot;attributes&quot;:{&quot;type&quot;:&quot;Account&quot;}}</jsonValue>
+            </value>
+        </parameters>
+    </testPoints>
+    <testPoints>
+        <assertions>
+            <conditions>
+                <leftValueReference>Accounts.Phone</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>4155551212</stringValue>
+                </rightValue>
+            </conditions>         
+            <errorMessage>Account not found.</errorMessage>
+        </assertions>
+        <elementApiName>Finish</elementApiName>
+    </testPoints>
+    <testType>WithAssertion</testType>
+</FlowTest>
+```
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 <types>
 <members>Test_Two</members>
 <name>FlowTest</name>
 </types>
-<version>55.0</version>
+<version>66.0</version>
 </Package>
 ```
 

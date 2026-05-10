@@ -5,8 +5,8 @@ topic: querybuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.485Z
-estimatedTokens: 1309
+lastCollected: 2026-05-10T00:39:29.926Z
+estimatedTokens: 1308
 keywords: [Examples, QueryBuilder, constructing, well-formed, SAQL, queries, pass, CRM, Analytics, load, datasetID, datasetVersionID, count, projection, union, unionNodes, cogroup, cogroupNodes, groups]
 ---
 
@@ -68,9 +68,9 @@ The following are methods for QueryBuilder.
     Calculate the number of rows that match the query criteria.
 -   **[get(projection)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryBuilder.htm#apex_wave_QueryBuilder_get)**
     Query by selecting specific attributes.
--   **[union(unionNodes)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryBuilder.htm#unique_2077175543)**
+-   **[union(unionNodes)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryBuilder.htm#unique_1292912424)**
     Combine multiple result sets into one result set.
--   **[cogroup(cogroupNodes, groups)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryBuilder.htm#unique_1229121150)**
+-   **[cogroup(cogroupNodes, groups)](atlas.en-us.apexref.meta/apexref/apex_class_wave_QueryBuilder.htm#unique_36519612)**
     Cogrouping means that two input streams are grouped independently and arranged side by side. Only data that exists in both groups appears in the results.
 
 ### load(datasetID, datasetVersionID)

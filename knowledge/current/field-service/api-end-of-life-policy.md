@@ -5,7 +5,7 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:46.551Z
+lastCollected: 2026-05-10T00:40:37.281Z
 estimatedTokens: 349
 keywords: [API, End-of-Life, Policy, Salesforce, committed, supporting, minimum, years, date, release, improve, quality, performance, versions, over, old, sometimes, longer]
 ---

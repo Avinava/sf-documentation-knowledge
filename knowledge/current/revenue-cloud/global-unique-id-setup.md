@@ -5,7 +5,7 @@ topic: global-unique-id-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:15.033Z
+lastCollected: 2026-05-10T00:39:06.734Z
 estimatedTokens: 462
 keywords: [Unique, Setup, establishment, GUID, column, day-one, initialization, recommended, practice, Salesforce, DevOps]
 ---

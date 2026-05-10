@@ -2,7 +2,7 @@
 domain: blng-dev
 name: Salesforce Billing Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.926Z
+lastGenerated: 2026-05-10T00:40:49.293Z
 ---
 
 # Salesforce Billing Developer Guide — Knowledge Index

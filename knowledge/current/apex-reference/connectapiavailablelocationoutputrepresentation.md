@@ -5,7 +5,7 @@ topic: connectapiavailablelocationoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:07.316Z
+lastCollected: 2026-05-10T00:39:36.096Z
 estimatedTokens: 458
 keywords: [inventory, locations, combine, fulfill, order]
 ---

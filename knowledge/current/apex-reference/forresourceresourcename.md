@@ -5,7 +5,7 @@ topic: forresourceresourcename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.148Z
+lastCollected: 2026-05-10T00:39:21.840Z
 estimatedTokens: 164
 keywords: [forResource, resourceName, PageReference, resource]
 ---

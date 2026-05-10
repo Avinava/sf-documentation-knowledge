@@ -5,7 +5,7 @@ topic: categoryoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:11.086Z
+lastCollected: 2026-05-10T00:39:01.265Z
 estimatedTokens: 1678
 keywords: [CategoryOutputRepresentation, store, category, catalogId, hasSubCategories, isNavigational, parentCategoryId, qualificationContext, sortOrder, childCategories]
 ---

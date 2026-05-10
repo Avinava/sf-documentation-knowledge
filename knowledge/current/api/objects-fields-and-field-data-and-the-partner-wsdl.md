@@ -5,12 +5,10 @@ topic: objects-fields-and-field-data-and-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.829Z
+lastCollected: 2026-05-10T00:40:46.235Z
 estimatedTokens: 343
-keywords: [Objects, Data, Partner, WSDL, enterprise, file, specific, Account, Contact, Salesforce, org, contrast, generic, sObject, particular]
+keywords: [Partner, WSDL, enterprise, file, specific, Account, Contact, Salesforce, org, contrast, generic, sObject, particular, defined, DescribeSObjectResult]
 ---
-
-# Objects, Fields, and Field Data and the Partner WSDL
 
 > The enterprise WSDL file defines all the specific objects (such as Account and Contact)
   in a Salesforce org. In contrast, the partner WSDL file defines a single, generic object (sObject)

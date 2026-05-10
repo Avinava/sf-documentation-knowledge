@@ -5,12 +5,10 @@ topic: debugging-with-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.584Z
+lastCollected: 2026-05-10T00:40:43.757Z
 estimatedTokens: 116
 keywords: [Debugging, AJAX, Toolkit, window, pops, certain, errors, encountered]
 ---
-
-# Debugging with the AJAX Toolkit
 
 > The AJAX Toolkit provides a debugging window that pops up when certain errors are
   encountered.

@@ -5,7 +5,7 @@ topic: complianceevaluationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.441Z
+lastCollected: 2026-05-10T00:40:21.014Z
 estimatedTokens: 1209
 namespace: ComplianceMgmt
 keywords: [ComplianceEvaluationResponse, compliance, evaluation, control, It's, ComplianceEvaluation, interface's, evaluate, includes, two, properties—evaluationResult, complianceControlLog, evaluationResult, getComplianceControlLog, getEvaluationResult]

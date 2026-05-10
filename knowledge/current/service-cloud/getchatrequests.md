@@ -5,7 +5,7 @@ topic: getchatrequests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.226Z
+lastCollected: 2026-05-10T00:40:41.216Z
 estimatedTokens: 192
 keywords: [Arguments, getChatRequests, chat, keys, requests, assigned, agent, API, 29.0, Sample, Code–Visualforce]
 ---

@@ -2,7 +2,7 @@
 domain: headless-identity
 name: Headless Identity Implementation Guide
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.943Z
+lastGenerated: 2026-05-10T00:40:49.315Z
 ---
 
 # Headless Identity Implementation Guide — Knowledge Index

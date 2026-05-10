@@ -5,7 +5,7 @@ topic: zipentry-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.423Z
+lastCollected: 2026-05-10T00:39:27.800Z
 estimatedTokens: 2392
 namespace: Compression
 keywords: [ZipEntry, zip, file, entry, equals, obj, hashcode, getComment, getCompressedSize, getContent, getCrc, getLastModifiedTime, getMethod, getName, getUncompressedSize, setComment, comment, setContent, blob, setLastModifiedTime, modTime, setMethod, toString]

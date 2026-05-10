@@ -5,7 +5,7 @@ topic: salesforce-pricing-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:15.164Z
+lastCollected: 2026-05-10T00:39:06.902Z
 estimatedTokens: 953
 keywords: [Salesforce, Pricing, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

@@ -5,7 +5,7 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.248Z
+lastCollected: 2026-05-10T00:40:08.106Z
 estimatedTokens: 2008
 keywords: [ListView, ListViewFilter, FilterScope, filtered, records, contacts, accounts, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

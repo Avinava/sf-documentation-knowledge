@@ -5,12 +5,10 @@ topic: executeanonymousresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.269Z
+lastCollected: 2026-05-10T00:40:45.218Z
 estimatedTokens: 299
 keywords: [ExecuteAnonymousResult, executeanonymous, call, whether, compile, run, code, successful]
 ---
-
-# ExecuteAnonymousResult
 
 > The executeanonymous() call returns information
 			about whether or not the compile and run of the code was successful.

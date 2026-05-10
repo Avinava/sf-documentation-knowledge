@@ -5,7 +5,7 @@ topic: delegategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.393Z
+lastCollected: 2026-05-10T00:40:16.402Z
 estimatedTokens: 202
 keywords: [DelegateGroup, Delegate, Group, queries, Tooling, API, 57.0, SOAP, REST]
 ---

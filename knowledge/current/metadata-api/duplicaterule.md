@@ -5,7 +5,7 @@ topic: duplicaterule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.141Z
+lastCollected: 2026-05-10T00:40:04.679Z
 estimatedTokens: 2598
 keywords: [DuplicateRule, DuplicateRuleMatchRule, DuplicateRuleFilter, DuplicateRuleFilterItem, ObjectMapping, ObjectMappingField, rule, how, duplicate, records, detected, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

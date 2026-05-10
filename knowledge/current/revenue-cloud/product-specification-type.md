@@ -5,7 +5,7 @@ topic: product-specification-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.571Z
+lastCollected: 2026-05-10T00:39:06.198Z
 estimatedTokens: 78
 keywords: [Product, Specification]
 ---

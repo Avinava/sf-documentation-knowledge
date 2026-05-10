@@ -5,7 +5,7 @@ topic: actionerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.130Z
+lastCollected: 2026-05-10T00:39:23.955Z
 estimatedTokens: 436
 namespace: Invocable
 keywords: [Action.Error, retrieve, errors, invocable, actions, clone, getCode, getMessage]

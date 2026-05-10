@@ -5,7 +5,7 @@ topic: embeddedserviceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:25.317Z
+lastCollected: 2026-05-10T00:40:04.992Z
 estimatedTokens: 3851
 keywords: [EmbeddedServiceConfig, EmbeddedServiceAppointmentSettings, EmbeddedServiceCustomComponent, EmbeddedServiceCustomLabel, EmbeddedServiceCustomization, EmbeddedServiceForm, EmbeddedServiceFormField, EmbeddedServiceResource, EmbeddedServiceFlow, EmbeddedServiceFlowConfig, EmbeddedServiceLayout, EmbeddedServiceLayoutRule, setup, node, creating, Embedded, Service, Web, deployment, extends, Metadata, inherits, fullName, Parent, File, Suffix, Directory, Location, embeddedServiceMessagingChannel, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

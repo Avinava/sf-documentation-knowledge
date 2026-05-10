@@ -5,7 +5,7 @@ topic: featuremanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.037Z
+lastCollected: 2026-05-10T00:39:25.448Z
 estimatedTokens: 3131
 namespace: System
 keywords: [FeatureManagement, System.FeatureManagement, check, modify, feature, show, hide, permissions, subscribers’, orgs, changeProtection, apiName, typeApiName, protection, checkPackageBooleanValue, checkPackageDateValue, checkPackageIntegerValue, checkPermission, setPackageBooleanValue, setPackageDateValue, setPackageIntegerValue]

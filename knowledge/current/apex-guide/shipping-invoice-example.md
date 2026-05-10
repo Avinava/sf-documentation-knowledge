@@ -5,7 +5,7 @@ topic: shipping-invoice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:18.481Z
+lastCollected: 2026-05-10T00:39:53.903Z
 estimatedTokens: 150
 keywords: [Shipping, Invoice, appendix, Apex, application, complex, Hello, World]
 ---

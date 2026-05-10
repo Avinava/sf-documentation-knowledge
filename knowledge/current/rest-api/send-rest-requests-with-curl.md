@@ -5,7 +5,7 @@ topic: send-rest-requests-with-curl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:20.134Z
+lastCollected: 2026-05-10T00:39:56.640Z
 estimatedTokens: 462
 keywords: [Send, REST, Requests, cURL, examples, tool, HTTP, manipulate, resources, Salesforce, different, Attaching, Bodies, Handling, Exclamation, Marks, Tokens]
 ---

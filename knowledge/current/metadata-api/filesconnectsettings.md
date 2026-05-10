@@ -5,7 +5,7 @@ topic: filesconnectsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.100Z
+lastCollected: 2026-05-10T00:40:06.267Z
 estimatedTokens: 646
 keywords: [FilesConnectSettings, settings, modify, Files, Connect, feature.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

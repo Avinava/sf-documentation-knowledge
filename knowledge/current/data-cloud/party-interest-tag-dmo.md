@@ -5,7 +5,7 @@ topic: party-interest-tag-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.389Z
+lastCollected: 2026-05-10T00:39:13.845Z
 estimatedTokens: 350
 keywords: [Category, Relationships, Party, Interest, Tag, DMO, association, Provided, Financial, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

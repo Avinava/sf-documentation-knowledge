@@ -5,7 +5,7 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:28.369Z
+lastCollected: 2026-05-10T00:40:09.782Z
 estimatedTokens: 5038
 keywords: [PermissionSet, PermissionSetAgentAccess, PermissionSetApplicationVisibility, PermissionSetApexClassAccess, PermissionSetCustomMetadataTypeAccess, PermissionSetCustomPermissions, PermissionSetCustomSettingAccesses, PermissionSetEmailRoutingAddressAccess, PermissionSetExternalCredentialPrincipalAccess, PermissionSetExternalDataSourceAccess, PermissionSetFieldPermissions, PermissionSetFlowAccess, PermissionSetObjectPermissions, PermissionSetApexPageAccess, PermissionSetRecordTypeVisibility, PermissionSetTabSetting, PermissionSetUserPermission, PermissionSetServicePresenceStatusAccess, permissions, that's, grant, users, changing, their, profile, reassigning, profiles, permission, deny, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

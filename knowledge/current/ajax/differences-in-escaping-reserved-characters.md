@@ -5,12 +5,10 @@ topic: differences-in-escaping-reserved-characters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.598Z
+lastCollected: 2026-05-10T00:40:43.796Z
 estimatedTokens: 91
 keywords: [Differences, Escaping, Reserved, Characters, quote, backslash, literal, two, backslashes, instead, escape]
 ---
-
-# Differences in Escaping Reserved Characters
 
 > If you have a single quote or backslash in a string literal, use two backslashes instead
   of one to escape it.

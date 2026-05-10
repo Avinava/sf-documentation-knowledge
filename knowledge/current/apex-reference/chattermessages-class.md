@@ -5,7 +5,7 @@ topic: chattermessages-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:57.192Z
+lastCollected: 2026-05-10T00:39:18.542Z
 estimatedTokens: 11945
 namespace: ConnectApi
 keywords: [ChatterMessages, send, search, reply, messages, conversations, mark, count, unread, getConversation, conversationId, API, Requires, Chatter, pageParam, pageSize, communityId, getConversations, getMessage, messageId, getMessages, getUnreadCount, markConversationRead, replyToMessage, text, inReplyTo, searchConversation, searchConversations, searchMessages, sendMessage, recipients]

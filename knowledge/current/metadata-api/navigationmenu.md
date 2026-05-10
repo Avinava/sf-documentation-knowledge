@@ -5,7 +5,7 @@ topic: navigationmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.848Z
+lastCollected: 2026-05-10T00:40:09.062Z
 estimatedTokens: 1291
 keywords: [NavigationMenu, NavigationMenuItem, NavigationMenuItemBranding, NavigationSubMenu, navigation, menu, Experience, Builder, site, consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network, API, 47.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

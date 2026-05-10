@@ -5,7 +5,7 @@ topic: filterinputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:11.139Z
+lastCollected: 2026-05-10T00:39:01.345Z
 estimatedTokens: 538
 keywords: [FilterInputRepresentation, filter, filters, records, criteria]
 ---

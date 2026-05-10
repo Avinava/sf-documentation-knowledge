@@ -5,7 +5,7 @@ topic: connectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:23.727Z
+lastCollected: 2026-05-10T00:40:02.491Z
 estimatedTokens: 9428
 keywords: [ConnectedApp, ConnectedAppAttribute, ConnectedAppCanvasConfig, ConnectedAppIpRange, ConnectedAppOauthConfig, ConnectedAppOauthAssetToken, ConnectedAppOauthIdToken, ConnectedAppOauthPolicy, ConnectedAppSamlConfig, ConnectedAppSessionPolicy, connected, app, configuration, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect, apps, authenticate, authorize, provide, sign-on, SSO, integrated, run, customer, success, platform, platforms, devices, SaaS, subscriptions, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

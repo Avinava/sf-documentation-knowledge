@@ -5,7 +5,7 @@ topic: database-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.017Z
+lastCollected: 2026-05-10T00:39:48.305Z
 estimatedTokens: 1524
 namespace: Database
 keywords: [Database, classes, DML, operations]

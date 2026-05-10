@@ -5,7 +5,7 @@ topic: jsonparser-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.144Z
+lastCollected: 2026-05-10T00:39:25.631Z
 estimatedTokens: 4189
 namespace: System
 keywords: [JSONParser, parser, JSON-encoded, content, clearCurrentToken, getBlobValue, getBooleanValue, getCurrentName, getCurrentToken, getDatetimeValue, getDateValue, getDecimalValue, getDoubleValue, getIdValue, getIntegerValue, getLastClearedToken, getLongValue, getText, getTimeValue, hasCurrentToken, nextToken, nextValue, readValueAs, apexType, readValueAsStrict, skipChildren]

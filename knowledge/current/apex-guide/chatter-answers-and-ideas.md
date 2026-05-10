@@ -5,7 +5,7 @@ topic: chatter-answers-and-ideas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.764Z
+lastCollected: 2026-05-10T00:39:52.727Z
 estimatedTokens: 232
 keywords: [Chatter, Answers, Ideas, zones, organize, groups, zone, own, focus, unique, topics, match]
 ---

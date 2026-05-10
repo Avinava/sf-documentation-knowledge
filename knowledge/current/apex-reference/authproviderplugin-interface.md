@@ -5,7 +5,7 @@ topic: authproviderplugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.049Z
+lastCollected: 2026-05-10T00:39:45.003Z
 estimatedTokens: 2339
 namespace: Auth
 keywords: [AuthProviderPlugin, deprecated, new, development, abstract, Auth.AuthProviderPluginClass, OAuth-based, authentication, provider, plug-in, sign-on, Salesforce, getCustomMetadataType, getUserInfo, authProviderConfiguration, handleCallback, callbackState, initiate, stateToPropagate, Implementation]

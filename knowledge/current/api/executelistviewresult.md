@@ -5,12 +5,10 @@ topic: executelistviewresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.278Z
+lastCollected: 2026-05-10T00:40:45.244Z
 estimatedTokens: 230
-keywords: [ExecuteListViewResult, view, data, retrieve, programmatically]
+keywords: [ExecuteListViewResult, view, retrieve, programmatically]
 ---
-
-# ExecuteListViewResult
 
 > Contains list view data that you retrieve programmatically.
 

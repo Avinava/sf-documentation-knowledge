@@ -5,7 +5,7 @@ topic: assetcontractrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.230Z
+lastCollected: 2026-05-10T00:39:08.324Z
 estimatedTokens: 648
 keywords: [AssetContractRelationship, relationship, asset, contract, API, 60.0]
 ---

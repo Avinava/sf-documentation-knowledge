@@ -5,12 +5,10 @@ topic: core-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.357Z
+lastCollected: 2026-05-10T00:40:45.414Z
 estimatedTokens: 1089
-keywords: [Core, Calls, API, alphabetical, order, brief, Click, call, usage, Samples]
+keywords: [Samples, Core, API, alphabetical, order, brief, Click, call]
 ---
-
-# Core Calls
 
 > A list of supported calls in the API in alphabetical order, and provides a brief
 		description for each. Click a call name to see syntax, usage, and more information for that

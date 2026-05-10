@@ -5,7 +5,7 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:30.332Z
+lastCollected: 2026-05-10T00:40:13.067Z
 estimatedTokens: 1832
 keywords: [Permissions, Arguments, UpdateMetadata, Deprecated, Updates, organization, asynchronously, call, removed, API, 31.0, earlier, versions, renameMetadata, instead, Basic, Steps, Updating, Metadata, Sample, Code—Java]
 ---

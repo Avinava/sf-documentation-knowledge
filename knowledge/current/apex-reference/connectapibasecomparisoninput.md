@@ -5,7 +5,7 @@ topic: connectapibasecomparisoninput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:04.641Z
+lastCollected: 2026-05-10T00:39:31.687Z
 estimatedTokens: 88
 keywords: [ConnectApi.BaseComparisonInput, base, comparison]
 ---

@@ -6,7 +6,7 @@ topic: understanding-foreign-key-and-parent-child-relationship-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:19.239Z
+lastCollected: 2026-05-10T00:39:55.157Z
 estimatedTokens: 174
 keywords: [Understanding, Foreign, Key, Parent-Child, Relationship, SOQL, Queries, SELECT, statement, query, any, including, record, joins, included, resulting, sObjects, referenced, normal, notation]
 ---

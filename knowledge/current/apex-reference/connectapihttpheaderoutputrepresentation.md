@@ -5,7 +5,7 @@ topic: connectapihttpheaderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:09.555Z
+lastCollected: 2026-05-10T00:39:39.521Z
 estimatedTokens: 74
 keywords: [HTTP, text, classification]
 ---

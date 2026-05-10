@@ -5,7 +5,7 @@ topic: apexcodecoverageaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.643Z
+lastCollected: 2026-05-10T00:40:15.272Z
 estimatedTokens: 386
 keywords: [ApexCodeCoverageAggregate, aggregate, code, coverage, test, results, Apex, trigger, Tooling, API, 29.0, SOAP, REST, HTTP]
 ---

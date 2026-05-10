@@ -5,7 +5,7 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:36.273Z
+lastCollected: 2026-05-10T00:40:22.230Z
 estimatedTokens: 443
 keywords: [Standard, Collections, collection, plan, records]
 ---

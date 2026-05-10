@@ -5,7 +5,7 @@ topic: forecastingfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.113Z
+lastCollected: 2026-05-10T00:40:17.526Z
 estimatedTokens: 622
 keywords: [ForecastingFilter, filter, including, excluding, opportunity, forecasts, API, 55.0, SOAP, REST]
 ---

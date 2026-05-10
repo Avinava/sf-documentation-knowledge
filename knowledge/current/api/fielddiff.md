@@ -5,12 +5,10 @@ topic: fielddiff
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.770Z
+lastCollected: 2026-05-10T00:40:46.177Z
 estimatedTokens: 286
 keywords: [FieldDiff, matching, rule, how, compare, duplicate, record, Java, Sample]
 ---
-
-# FieldDiff
 
 > Represents the name of a matching rule field and how the values of the field compare for the duplicate and its matching record.
 

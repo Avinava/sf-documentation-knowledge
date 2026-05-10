@@ -5,7 +5,7 @@ topic: commerce-location-group-product-exclusion-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.256Z
+lastCollected: 2026-05-10T00:39:13.648Z
 estimatedTokens: 332
 keywords: [Commerce, Location, Group, Product, Exclusion, Change, Mapping, Omnichannel, Inventory, connector, Cloud, automatically, maps, source, model, DMO, establishes, relationships, Bundle, DLO]
 ---

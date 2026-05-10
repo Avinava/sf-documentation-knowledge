@@ -5,7 +5,7 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:24.081Z
+lastCollected: 2026-05-10T00:40:03.063Z
 estimatedTokens: 7760
 namespace: PackageApp
 keywords: [CustomApplication, AppActionOverride, AppBrand, AppComponentList, AppPreferences, AppProfileActionOverride, AppWorkspaceConfig, WorkspaceMapping, CustomShortcut, DefaultShortcut, KeyboardShortcuts, ListPlacement, LiveAgentConfig, PushNotification, ServiceCloudConsoleConfig, TabLimitConfig, standard, application, API, 29.0, earlier, tab, references, logo, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Retrieving, Apps, Declarative, Sample, Definition, Definition—Salesforce, Console, Wildcard, Support, Manifest]

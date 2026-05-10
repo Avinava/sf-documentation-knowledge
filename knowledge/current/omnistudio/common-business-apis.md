@@ -5,7 +5,7 @@ topic: common-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:36.185Z
+lastCollected: 2026-05-10T00:40:22.114Z
 estimatedTokens: 94
 keywords: [Common, Business, APIs, RESTful, sometimes, Apex, classes]
 ---

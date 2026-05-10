@@ -5,7 +5,7 @@ topic: servicereport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:48.142Z
+lastCollected: 2026-05-10T00:40:39.624Z
 estimatedTokens: 996
 keywords: [ServiceReport, report, summarizes, work, order, line, item, service, appointment]
 ---

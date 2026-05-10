@@ -5,7 +5,7 @@ topic: productspecificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.393Z
+lastCollected: 2026-05-10T00:39:07.292Z
 estimatedTokens: 490
 keywords: [ProductSpecificationType, specification, org, define, products, unique, terminology, specific, industry, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, product, provided, user, record, API, 60.0, SOAP, REST]
 ---

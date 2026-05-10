@@ -5,7 +5,7 @@ topic: cnfgmgmtdiscoveryagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.220Z
+lastCollected: 2026-05-10T00:39:15.089Z
 estimatedTokens: 452
 keywords: [CnfgMgmtDiscoveryAgent, installed, discovery, agent, system, Serves, child, tracks, individual, instances, across, environment, API, 65.0]
 ---

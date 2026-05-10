@@ -5,7 +5,7 @@ topic: engagement-interaction-delete-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:38.124Z
+lastCollected: 2026-05-10T00:40:24.814Z
 estimatedTokens: 125
 keywords: [Engagement, Interaction, Resource, getting, deleting, record]
 ---

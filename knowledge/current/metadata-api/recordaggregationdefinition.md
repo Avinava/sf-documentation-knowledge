@@ -5,7 +5,7 @@ topic: recordaggregationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.029Z
+lastCollected: 2026-05-10T00:40:10.850Z
 estimatedTokens: 1703
 keywords: [RecordAggregationDefinition, RecordAggregationObject, RecordAggregationJoinCondition, RecordAggregationObjectFilter, aggregation, another, connected, model, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

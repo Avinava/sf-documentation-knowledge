@@ -5,7 +5,7 @@ topic: inbound-email
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:16.414Z
+lastCollected: 2026-05-10T00:39:50.569Z
 estimatedTokens: 198
 keywords: [Inbound, Email, Apex, work, sent, Salesforce]
 ---

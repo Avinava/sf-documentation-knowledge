@@ -5,7 +5,7 @@ topic: appextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.136Z
+lastCollected: 2026-05-10T00:40:38.179Z
 estimatedTokens: 606
 keywords: [AppExtension, connection, Service, mobile, app, another, typically, passing, record, Salesforce, apps, API, 41.0]
 ---

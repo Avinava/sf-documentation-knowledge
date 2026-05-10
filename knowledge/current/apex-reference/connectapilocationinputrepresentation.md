@@ -5,7 +5,7 @@ topic: connectapilocationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:05.656Z
+lastCollected: 2026-05-10T00:39:33.228Z
 estimatedTokens: 113
 keywords: [ConnectApi.LocationInputRepresentation, Inventory, location, calculate, shipping, distance]
 ---

@@ -5,7 +5,7 @@ topic: tokenization-service-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.862Z
+lastCollected: 2026-05-10T00:39:51.319Z
 estimatedTokens: 766
 keywords: [Tokenization, Service, API, credit, card, process, replaces, sensitive, customer, one-time, algorithmically, generated, number, token, payment, transaction, Salesforce, stores, uses, transactions, storing, numbers, add, capabilities, services, implement, Sample]
 ---

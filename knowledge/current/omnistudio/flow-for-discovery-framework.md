@@ -5,7 +5,7 @@ topic: flow-for-discovery-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.042Z
+lastCollected: 2026-05-10T00:40:28.970Z
 estimatedTokens: 244
 keywords: [FlowActionCall, Flow, Discovery, Framework, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---

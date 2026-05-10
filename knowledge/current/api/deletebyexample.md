@@ -5,12 +5,10 @@ topic: deletebyexample
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:56.956Z
+lastCollected: 2026-05-10T00:40:44.497Z
 estimatedTokens: 737
-keywords: [deleteByExample, big, data, org, sObject, template, matching, templates, deleted, Rules, Guidelines, Basic, Steps, Deleting, Sample]
+keywords: [Arguments, Faults, deleteByExample, big, org, sObject, template, matching, templates, deleted, Guidelines, Basic, Steps, Deleting, Sample, Code—Custom, Code—Field, Audit, Trail]
 ---
-
-# deleteByExample()
 
 > Use deleteByExample() to delete big object data
       from your org using an sObject as a template for what to delete. All data in a big object

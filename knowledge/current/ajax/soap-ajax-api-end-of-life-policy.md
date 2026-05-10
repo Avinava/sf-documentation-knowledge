@@ -5,12 +5,10 @@ topic: soap-ajax-api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.592Z
+lastCollected: 2026-05-10T00:40:43.779Z
 estimatedTokens: 407
 keywords: [SOAP, AJAX, API, End-of-Life, Policy, versions, unsupported, unavailable]
 ---
-
-# SOAP (AJAX) API End-of-Life Policy
 
 > See which SOAP API versions are supported, unsupported, or unavailable.
 

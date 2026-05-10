@@ -5,7 +5,7 @@ topic: authentication-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:16.941Z
+lastCollected: 2026-05-10T00:39:51.444Z
 estimatedTokens: 519
 keywords: [Authentication, Salesforce, Connect, Adapters, DataSource.Provider, declares, credentials, authenticate, external, system]
 ---

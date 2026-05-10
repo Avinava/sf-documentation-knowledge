@@ -5,7 +5,7 @@ topic: productconsumed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.800Z
+lastCollected: 2026-05-10T00:40:39.093Z
 estimatedTokens: 1360
 keywords: [ProductConsumed, item, inventory, work, order, line, service]
 ---

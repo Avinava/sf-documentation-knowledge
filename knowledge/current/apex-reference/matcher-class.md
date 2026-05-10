@@ -5,7 +5,7 @@ topic: matcher-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.794Z
+lastCollected: 2026-05-10T00:39:30.455Z
 estimatedTokens: 7157
 namespace: System
 keywords: [Matcher, Matchers, Patterns, perform, match, operations, character, end, groupIndex, group, groupCount, hasAnchoringBounds, hasTransparentBounds, hitEnd, lookingAt, matches, pattern, quoteReplacement, inputString, region, start, regionEnd, regionStart, replaceAll, replacementString, replaceFirst, requireEnd, reset, inputSequence, useAnchoringBounds, anchoringBounds, usePattern, useTransparentBounds, transparentBounds]

@@ -5,7 +5,7 @@ topic: apexclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:23.508Z
+lastCollected: 2026-05-10T00:40:02.110Z
 estimatedTokens: 1648
 keywords: [ApexClass, PackageVersion, Apex, template, blueprint, created, Classes, consist, user-defined, variables, exception, initialization, code, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

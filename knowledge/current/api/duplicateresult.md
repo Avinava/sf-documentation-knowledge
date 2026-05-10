@@ -5,12 +5,10 @@ topic: duplicateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.766Z
+lastCollected: 2026-05-10T00:40:46.169Z
 estimatedTokens: 276
-keywords: [DuplicateResult, duplicate, rule, detected, records, Usage, Java, Sample]
+keywords: [DuplicateResult, duplicate, rule, detected, records, Java, Sample]
 ---
-
-# DuplicateResult
 
 > Represents the details of a duplicate rule that detected duplicate records and information about those duplicate records.
 

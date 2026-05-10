@@ -5,7 +5,7 @@ topic: columnselection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.815Z
+lastCollected: 2026-05-10T00:39:23.076Z
 estimatedTokens: 558
 namespace: DataSource
 keywords: [ColumnSelection, Identifies, columns, query, search, aggregation, columnName, tableName]

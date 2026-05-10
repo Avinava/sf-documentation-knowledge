@@ -5,7 +5,7 @@ topic: connectapiquerysqloutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:11.319Z
+lastCollected: 2026-05-10T00:39:42.297Z
 estimatedTokens: 301
 keywords: [ConnectApi.QuerySqlOutput, SQL, query]
 ---

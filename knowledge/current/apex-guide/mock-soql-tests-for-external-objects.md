@@ -5,7 +5,7 @@ topic: mock-soql-tests-for-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.105Z
+lastCollected: 2026-05-10T00:39:51.649Z
 estimatedTokens: 289
 keywords: [Mock, SOQL, Tests, External, query, responses, Apex, testing, stub, new, test, basic, joined, queries, against, records, context]
 ---

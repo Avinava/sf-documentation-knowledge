@@ -5,12 +5,10 @@ topic: retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.503Z
+lastCollected: 2026-05-10T00:40:45.737Z
 estimatedTokens: 984
-keywords: [retrieve, Retrieves, records, IDs, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, retrieve, Retrieves, records, IDs, Sample, Code—Java, Code—C#]
 ---
-
-# retrieve()
 
 > Retrieves one or more records based on the specified IDs.
 

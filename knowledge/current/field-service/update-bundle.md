@@ -5,7 +5,7 @@ topic: update-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.060Z
+lastCollected: 2026-05-10T00:40:38.059Z
 estimatedTokens: 1917
 keywords: [Bundle, Adds, service, appointments, resource, accepts, appointment, IDs, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---

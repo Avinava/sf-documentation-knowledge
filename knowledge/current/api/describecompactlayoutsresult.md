@@ -5,12 +5,10 @@ topic: describecompactlayoutsresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.002Z
+lastCollected: 2026-05-10T00:40:44.603Z
 estimatedTokens: 664
-keywords: [DescribeCompactLayoutsResult, containing, top-level, record, DescribeCompactLayout, RecordTypeCompactLayoutMapping]
+keywords: [DescribeCompactLayoutsResult, DescribeCompactLayout, RecordTypeCompactLayoutMapping, containing, top-level, record]
 ---
-
-# DescribeCompactLayoutsResult
 
 > Returns a DescribeCompactLayoutsResult object containing top-level record type
     information.

@@ -5,7 +5,7 @@ topic: omnitrackingcomponentdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:44.951Z
+lastCollected: 2026-05-10T00:40:34.937Z
 estimatedTokens: 721
 keywords: [OmniTrackingComponentDef, FlexCard, OmniScript, member, OmniTrackingGroup, tracks, user, interactions, OmniAnalytics, API, 60.0]
 ---

@@ -5,7 +5,7 @@ topic: functioncallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.454Z
+lastCollected: 2026-05-10T00:39:45.621Z
 estimatedTokens: 483
 keywords: [FunctionCallback, callback, Salesforce, asynchronous, queued, Function, invocation, completed, handleResponse, var1, Implementation]
 ---

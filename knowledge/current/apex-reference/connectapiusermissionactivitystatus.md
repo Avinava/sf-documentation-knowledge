@@ -5,7 +5,7 @@ topic: connectapiusermissionactivitystatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.188Z
+lastCollected: 2026-05-10T00:39:43.634Z
 estimatedTokens: 72
 keywords: [ConnectApi.UserMissionActivityStatus, Status, mission, activity, user]
 ---

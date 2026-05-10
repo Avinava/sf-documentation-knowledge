@@ -5,7 +5,7 @@ topic: connectapischeduledrecommendationpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.714Z
+lastCollected: 2026-05-10T00:39:42.880Z
 estimatedTokens: 104
 keywords: [ConnectApi.ScheduledRecommendationPage, scheduled, recommendations]
 ---

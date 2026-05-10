@@ -5,7 +5,7 @@ topic: search-for-a-string
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.975Z
+lastCollected: 2026-05-10T00:39:56.379Z
 estimatedTokens: 451
 keywords: [Search, resource, execute, SOSL, Parameterized, simple, RESTful, POST]
 ---

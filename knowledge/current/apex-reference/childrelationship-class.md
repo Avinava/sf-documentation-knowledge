@@ -5,7 +5,7 @@ topic: childrelationship-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.760Z
+lastCollected: 2026-05-10T00:39:25.013Z
 estimatedTokens: 1049
 namespace: Schema
 keywords: [ChildRelationship, accessing, child, relationship, well, sObject, parent, getChildSObject, getField, getRelationshipName, isCascadeDelete, isDeprecatedAndHidden, isRestrictedDelete]

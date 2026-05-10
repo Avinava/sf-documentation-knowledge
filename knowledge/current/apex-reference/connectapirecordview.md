@@ -5,7 +5,7 @@ topic: connectapirecordview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.489Z
+lastCollected: 2026-05-10T00:39:42.542Z
 estimatedTokens: 238
 keywords: [ConnectApi.RecordView, view, any, record, org, including, specialized, User, ChatterGroup, isn’t]
 ---

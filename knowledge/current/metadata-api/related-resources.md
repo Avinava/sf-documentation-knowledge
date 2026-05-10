@@ -5,7 +5,7 @@ topic: related-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.088Z
+lastCollected: 2026-05-10T00:40:10.943Z
 estimatedTokens: 271
 keywords: [Resources, Salesforce, developer, website, full, suite, toolkits, sample, code, SOAP, messages, community-based, support, help, development, projects, sure, visit, https, developer.salesforce.com, Getting_Started]
 ---

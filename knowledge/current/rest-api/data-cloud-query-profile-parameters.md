@@ -5,7 +5,7 @@ topic: data-cloud-query-profile-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.447Z
+lastCollected: 2026-05-10T00:39:57.174Z
 estimatedTokens: 707
 keywords: [Cloud, Query, Profile, Unified, allow, leverage, Salesforce, REST, API, endpoint, execute, SOQL, queries, against, Source, Model, org, functionality, 51.0, Limitations, Sample]
 ---

@@ -5,12 +5,10 @@ topic: describesoqllistviewsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.230Z
+lastCollected: 2026-05-10T00:40:45.121Z
 estimatedTokens: 112
 keywords: [DescribeSoqlListViewsRequest, describeSoqlListViews, retrieve, view]
 ---
-
-# DescribeSoqlListViewsRequest
 
 > Use the DescribeSoqlListViewsRequest object with
       describeSoqlListViews() to retrieve information about a list

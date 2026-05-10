@@ -5,7 +5,7 @@ topic: historyretentionjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.241Z
+lastCollected: 2026-05-10T00:40:17.745Z
 estimatedTokens: 423
 keywords: [HistoryRetentionJob, retained, archive, status, archived, API, 29.0, SOAP, REST, HTTP]
 ---

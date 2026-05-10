@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-group-member-relationship-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.224Z
+lastCollected: 2026-05-10T00:39:12.672Z
 estimatedTokens: 507
 keywords: [Salesforce, CRM, Loyalty, Program, Group, Member, Relationship, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, includes, association, their, groups, along, member’s, points, contribution, towards, DMO]
 ---

@@ -5,7 +5,7 @@ topic: servicefielddatatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:34.469Z
+lastCollected: 2026-05-10T00:40:19.601Z
 estimatedTokens: 32
 keywords: [ServiceFieldDataType, Deprecated, API, 34.0, removed, 58.0]
 ---

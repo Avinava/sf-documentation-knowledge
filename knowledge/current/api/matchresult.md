@@ -5,12 +5,10 @@ topic: matchresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.780Z
+lastCollected: 2026-05-10T00:40:46.197Z
 estimatedTokens: 392
-keywords: [MatchResult, duplicate, results, matching, rule, Usage, Java, Sample]
+keywords: [MatchResult, duplicate, results, matching, rule, Java, Sample]
 ---
-
-# MatchResult
 
 > Represents the duplicate results for a matching rule.
 

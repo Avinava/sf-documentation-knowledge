@@ -5,7 +5,7 @@ topic: create-multiple-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.813Z
+lastCollected: 2026-05-10T00:39:56.128Z
 estimatedTokens: 298
 keywords: [Multiple, Records, resource, nested, unrelated, two, hundred, supply, record, record’s, POST, contain, IDs, created, successful, Otherwise, caused, error]
 ---

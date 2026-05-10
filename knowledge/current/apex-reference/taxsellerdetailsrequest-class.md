@@ -5,7 +5,7 @@ topic: taxsellerdetailsrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.396Z
+lastCollected: 2026-05-10T00:39:27.740Z
 estimatedTokens: 1227
 namespace: CommerceTax
 keywords: [TaxSellerDetailsRequest, tax, code, calculation, equals, obj, hashCode, toString]

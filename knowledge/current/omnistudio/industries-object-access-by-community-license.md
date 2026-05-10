@@ -5,7 +5,7 @@ topic: industries-object-access-by-community-license
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:41.581Z
+lastCollected: 2026-05-10T00:40:29.716Z
 estimatedTokens: 8107
 keywords: [Industries, Community, License, determines, baseline, Experience, Cloud, user, levels, grant, site, users, clouds, under, licenses, Customer, Plus, Partner, External, Apps]
 ---

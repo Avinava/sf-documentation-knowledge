@@ -5,12 +5,10 @@ topic: describetab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.244Z
+lastCollected: 2026-05-10T00:40:45.153Z
 estimatedTokens: 424
-keywords: [DescribeTab, describeTabs, call, array, DescribeTabSetResult, objects]
+keywords: [DescribeTab, describeTabs, call, array, DescribeTabSetResult]
 ---
-
-# DescribeTab
 
 > The describeTabs() call returns an array of
     DescribeTabSetResult objects, of which DescribeTab is a property.

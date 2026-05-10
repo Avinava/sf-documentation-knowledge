@@ -5,7 +5,7 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:22.253Z
+lastCollected: 2026-05-10T00:40:00.057Z
 estimatedTokens: 2676
 keywords: [AdvAccountForecastSet, AdvAccountForecastFormula, AdvAcctForecastAdjPeriod, AdvAcctForecastDimension, AdvAcctForecastMeasureDef, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, manage, configuration, updates, impacting, any, unit’s, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

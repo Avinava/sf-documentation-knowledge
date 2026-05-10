@@ -5,7 +5,7 @@ topic: quick-start-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.859Z
+lastCollected: 2026-05-10T00:40:10.576Z
 estimatedTokens: 694
 keywords: [Quick, Start, Metadata, API, started, retrieving, small, org, Salesforce, CLI, Resources, Beginner, Developers, Developing]
 ---

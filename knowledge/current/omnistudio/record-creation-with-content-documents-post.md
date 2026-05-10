@@ -5,7 +5,7 @@ topic: record-creation-with-content-documents-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:37.934Z
+lastCollected: 2026-05-10T00:40:24.559Z
 estimatedTokens: 555
 keywords: [Record, Creation, Content, Documents, POST, records, Salesforce, document]
 ---

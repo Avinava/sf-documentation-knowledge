@@ -5,7 +5,7 @@ topic: connectapimediareferencecapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.119Z
+lastCollected: 2026-05-10T00:39:40.398Z
 estimatedTokens: 126
 keywords: [ConnectApi.MediaReferenceCapability, capability, media, references]
 ---

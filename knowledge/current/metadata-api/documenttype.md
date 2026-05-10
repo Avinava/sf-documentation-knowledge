@@ -5,7 +5,7 @@ topic: documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.118Z
+lastCollected: 2026-05-10T00:40:04.648Z
 estimatedTokens: 418
 keywords: [DocumentType, document, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

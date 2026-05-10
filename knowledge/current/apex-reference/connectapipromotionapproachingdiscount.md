@@ -5,7 +5,7 @@ topic: connectapipromotionapproachingdiscount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.236Z
+lastCollected: 2026-05-10T00:39:42.168Z
 estimatedTokens: 170
 keywords: [ConnectApi.PromotionApproachingDiscount, Qualifier, promotion, approaching, discount]
 ---

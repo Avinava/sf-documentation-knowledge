@@ -5,7 +5,7 @@ topic: working-with-action-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.146Z
+lastCollected: 2026-05-10T00:39:55.009Z
 estimatedTokens: 1057
 keywords: [Workflow, Working, Action, Links, link, button, Clicking, take, user, Web, initiate, file, download, invoke, API, call, Salesforce, external, server, includes, URL, HTTP, include, OAuth, token, authentication, integrate, third-party, services, users, drive, productivity, accelerate, innovation]
 ---

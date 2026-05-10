@@ -5,7 +5,7 @@ topic: trigger-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.329Z
+lastCollected: 2026-05-10T00:39:25.818Z
 estimatedTokens: 872
 namespace: System
 keywords: [Trigger, run-time, context, sObject, records, operates, Variables]

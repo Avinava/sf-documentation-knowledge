@@ -5,7 +5,7 @@ topic: rulesapplicationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:40.477Z
+lastCollected: 2026-05-10T00:39:01.084Z
 estimatedTokens: 1770
 namespace: RulesAppln
 keywords: [RulesApplicationResponse, store, application, isSuccess, appliedRules, rulesApplicationSummary, errors]

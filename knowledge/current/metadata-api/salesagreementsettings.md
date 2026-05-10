@@ -5,8 +5,8 @@ topic: salesagreementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.043Z
-estimatedTokens: 2102
+lastCollected: 2026-05-10T00:40:14.289Z
+estimatedTokens: 2168
 keywords: [SalesAgreementSettings, AdvAcctFrcstDisplayGroup, AdvAcctFrcstDplyGroupItem, AdvAcctForecastMeasureDef, ObjectMapping, ObjectMappingField, settings, control, display, agreement, terms, metrics, sales, agreements, calculation, actual, quantity, products, approval, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
@@ -36,6 +36,7 @@ SalesAgreementSettings components are available in API version 47.0 and later.
 | Field Name | Field Type | Description |
 | --- | --- | --- |
 | actualsCalculationMode | ActualsCalculationMode(enumeration of type string) | Required. Source from which the actual ordered quantity of a product in a sales agreement is calculated. Valid values are:DataProcessingEngine—Available in API version 63.0 and later.Manual: DefaultOrdersOrdersThroughContracts |
+| arePredfndStatusValOveride | boolean | Indicates whether predefined status validations are overridden (true) or not (false) when the Override Predefined Status Validations feature is enabled. The default value is false. Available in API version 65.0 and later. |
 | decimalScale | int | Required. Number of decimal places applied to values in sales agreements. Available in API version 62.0 and later. |
 | displayGroups | AdvAcctFrcstDisplayGroup | Represents information about the groups for the advanced account forecast set measures or dimensions. Available in API version 56.0 and later. |
 | displayedAgreementTermsMetrics | string | Required. Metrics that are selected for display in the sales agreement terms in the specified sequence. There can be a maximum of 10 comma-separated metric names in this list. |
@@ -129,6 +130,7 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 	xmlns="http://soap.sforce.com/2006/04/metadata"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<actualsCalculationMode>Orders</actualsCalculationMode>
+	<arePredfndStatusValOveride>false</arePredfndStatusValOveride>
       <decimalScale>0.2</decimalScale>
 	<displayGroups>
 		<advAcctFrcstDisplayGroupName>Test Measure Group</advAcctFrcstDisplayGroupName>

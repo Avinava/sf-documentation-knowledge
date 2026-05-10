@@ -5,7 +5,7 @@ topic: sobject-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:10.544Z
+lastCollected: 2026-05-10T00:39:00.476Z
 estimatedTokens: 754
 keywords: [Flags, sobject, Commands, Display, metadata, standard, Tooling, API, describe, Examples, Aliases]
 ---

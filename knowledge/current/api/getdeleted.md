@@ -5,12 +5,10 @@ topic: getdeleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:57.309Z
+lastCollected: 2026-05-10T00:40:45.301Z
 estimatedTokens: 2377
-keywords: [getDeleted, Retrieves, individual, records, deleted, timespan, Usage, Rules, Guidelines, Basic, Steps, Replicating, Sample, Code—Java, Code—C#]
+keywords: [Arguments, Limits, Faults, getDeleted, Retrieves, individual, records, deleted, timespan, Guidelines, Basic, Steps, Replicating, Sample, Code—Java, Code—C#]
 ---
-
-# getDeleted()
 
 > Retrieves the list of individual records that have
          been deleted within the given timespan for the specified object.

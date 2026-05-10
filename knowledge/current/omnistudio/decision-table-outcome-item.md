@@ -5,7 +5,7 @@ topic: decision-table-outcome-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.322Z
+lastCollected: 2026-05-10T00:40:26.541Z
 estimatedTokens: 120
 keywords: [Decision, Outcome, Item]
 ---

@@ -5,12 +5,10 @@ topic: compileandtestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.817Z
+lastCollected: 2026-05-10T00:40:44.241Z
 estimatedTokens: 1079
-keywords: [CompileAndTestResult, compileAndTest, call, compile, unit, test, run, Apex, including, whether, succeeded, failed, CompileClassResult, CompileTriggerResult, DeleteApexResult]
+keywords: [CompileAndTestResult, CompileClassResult, CompileTriggerResult, DeleteApexResult, compileAndTest, call, compile, unit, test, run, Apex, including, whether, succeeded, failed]
 ---
-
-# CompileAndTestResult
 
 > The compileAndTest() call returns information
 			about the compile and unit test run of the specified Apex, including whether it

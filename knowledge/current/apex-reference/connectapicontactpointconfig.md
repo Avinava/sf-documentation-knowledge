@@ -5,7 +5,7 @@ topic: connectapicontactpointconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:08.282Z
+lastCollected: 2026-05-10T00:39:37.599Z
 estimatedTokens: 248
 keywords: [ConnectApi.ContactPointConfig, activation, contact, point, configuration]
 ---

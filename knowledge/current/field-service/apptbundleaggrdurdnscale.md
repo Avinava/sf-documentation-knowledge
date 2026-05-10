@@ -5,7 +5,7 @@ topic: apptbundleaggrdurdnscale
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.144Z
+lastCollected: 2026-05-10T00:40:38.193Z
 estimatedTokens: 550
 keywords: [ApptBundleAggrDurDnscale, Sums, duration, bundle, members, reduced, predefined, percentage, API, 54.0]
 ---

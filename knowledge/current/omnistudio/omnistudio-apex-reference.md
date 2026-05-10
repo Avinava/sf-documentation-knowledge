@@ -5,7 +5,7 @@ topic: omnistudio-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.183Z
+lastCollected: 2026-05-10T00:40:32.197Z
 estimatedTokens: 134
 namespace: Omnistudiocore
 keywords: [Omnistudio, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, grouped]

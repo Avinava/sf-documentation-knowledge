@@ -5,7 +5,7 @@ topic: building-a-synchronous-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.841Z
+lastCollected: 2026-05-10T00:39:51.274Z
 estimatedTokens: 951
 keywords: [PaymentGatewayAdapter, Building, Synchronous, Gateway, Adapter, payment, configurations, Salesforce, platform, transaction, waits, final, status, creates, successful, Processing, Initial]
 ---

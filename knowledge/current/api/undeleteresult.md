@@ -5,12 +5,10 @@ topic: undeleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.599Z
+lastCollected: 2026-05-10T00:40:45.942Z
 estimatedTokens: 137
 keywords: [UndeleteResult, undelete, call]
 ---
-
-# UndeleteResult
 
 > The undelete() call returns an
    undeleteResult object with the following properties:

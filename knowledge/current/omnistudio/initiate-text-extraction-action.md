@@ -5,7 +5,7 @@ topic: initiate-text-extraction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:41.250Z
+lastCollected: 2026-05-10T00:40:29.289Z
 estimatedTokens: 587
 keywords: [Inputs, Outputs, Initiate, Text, Extraction, Action, Extract, uploaded, document, Amazon, Textract, API, REST, HTTP]
 ---

@@ -5,7 +5,7 @@ topic: authorizedemaildomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.892Z
+lastCollected: 2026-05-10T00:40:15.605Z
 estimatedTokens: 1217
 keywords: [AuthorizedEmailDomain, authorized, domain, email, verification, API, 64.0, SOAP, REST]
 ---

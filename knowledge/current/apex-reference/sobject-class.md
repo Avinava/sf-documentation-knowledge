@@ -5,7 +5,7 @@ topic: sobject-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.504Z
+lastCollected: 2026-05-10T00:39:47.398Z
 estimatedTokens: 13489
 namespace: System
 keywords: [SObject, Dynamically, add, errors, addError, errorMsg, escape, exceptionError, fieldName, fieldToken, clear, clone, preserveId, isDeepClone, preserveReadonlyTimestamps, preserveAutonumber, Versioned, Behavior, Changes, getCloneSourceId, getErrors, getOptions, getPopulatedFieldsAsMap, getSObject, getSObjects, getSObjectType, getQuickActionName, hasErrors, isClone, isSet, put, putSObject, recalculateFormulas, setOptions, DMLOptions]
@@ -46,23 +46,23 @@ The following are methods for SObject. All are instance methods.
     Places the specified error message on a trigger record field in the Salesforce user interface and prevents any DML operation from occurring.
 -   **[addError(errorMsg, escape)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_System_SObject_field_addError_2)**
     Places the specified error message, which can be escaped or unescaped, on a trigger record field in the Salesforce user interface, and prevents any DML operation from occurring.
--   **[addError(fieldName, errorMsg)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1668447109)**
+-   **[addError(fieldName, errorMsg)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_846144089)**
     Dynamically add errors to fields of an SObject associated with the specified field name.
--   **[addError(fieldToken, errorMsg)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_161003109)**
+-   **[addError(fieldToken, errorMsg)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_972493482)**
     Dynamically add errors to an SObject instance associated with the specified field.
--   **[addError(fieldName, errorMsg, escape)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1681951681)**
+-   **[addError(fieldName, errorMsg, escape)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_309936584)**
     Dynamically add errors to fields of an SObject associated with the specified field name.
--   **[addError(fieldToken, errorMsg, escape)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_788195234)**
+-   **[addError(fieldToken, errorMsg, escape)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1024718954)**
     Dynamically add errors to an SObject instance associated with the specified field.
 -   **[clear()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_System_SObject_clear)**
     Clears all field values
 -   **[clone(preserveId)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_System_SObject_clone)**
     Creates a copy of the SObject record.
--   **[clone(preserveId, isDeepClone)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_389995094)**
+-   **[clone(preserveId, isDeepClone)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1443053235)**
     Creates a copy of the SObject record.
--   **[clone(preserveId, isDeepClone, preserveReadonlyTimestamps)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_985102293)**
+-   **[clone(preserveId, isDeepClone, preserveReadonlyTimestamps)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1089570575)**
     Creates a copy of the SObject record.
--   **[clone(preserveId, isDeepClone, preserveReadonlyTimestamps, preserveAutonumber)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1597443077)**
+-   **[clone(preserveId, isDeepClone, preserveReadonlyTimestamps, preserveAutonumber)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#unique_1405577760)**
     Creates a copy of the SObject record.
 -   **[get(fieldName)](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject.htm#apex_System_SObject_get)**
     Returns the value for the field specified by fieldName, such as AccountNumber.
@@ -470,7 +470,7 @@ The escaped characters are: , <, \>, &, ", \\, \\u2028, \\u2029, and \\u00a9. As
 #### Warning
 
 -   The escape parameter cannot be disabled in Lightning Experience and in the Salesforce mobile app, and will be ignored.
--   Be cautious if you specify false for the escape argument. Unescaped strings displayed in the Salesforce user interface can represent a vulnerability in the system because these strings might contain harmful code. If you want to include HTML markup in the error message, call this method with a false escape argument. Make sure that you escape any dynamic content, such as input field values. Otherwise, specify true for the escape argument or call [addError(String fieldName, String errorMsg)](#unique_1668447109 "Dynamically add errors to fields of an SObject associated with the specified field name.") instead.
+-   Be cautious if you specify false for the escape argument. Unescaped strings displayed in the Salesforce user interface can represent a vulnerability in the system because these strings might contain harmful code. If you want to include HTML markup in the error message, call this method with a false escape argument. Make sure that you escape any dynamic content, such as input field values. Otherwise, specify true for the escape argument or call [addError(String fieldName, String errorMsg)](#unique_846144089 "Dynamically add errors to fields of an SObject associated with the specified field name.") instead.
 
 #### Example
 
@@ -521,7 +521,7 @@ The escaped characters are: , <, \>, &, ", \\, \\u2028, \\u2029, and \\u00a9. As
 #### Warning
 
 -   The escape parameter cannot be disabled in Lightning Experience and in the Salesforce mobile app, and will be ignored.
--   Be cautious if you specify false for the escape argument. Unescaped strings displayed in the Salesforce user interface can represent a vulnerability in the system because these strings might contain harmful code. If you want to include HTML markup in the error message, call this method with a false escape argument. Make sure that you escape any dynamic content, such as input field values. Otherwise, specify true for the escape argument or call [addError(Schema.SObjectField fieldToken, String errorMsg)](#unique_161003109 "Dynamically add errors to an SObject instance associated with the specified field.") instead.
+-   Be cautious if you specify false for the escape argument. Unescaped strings displayed in the Salesforce user interface can represent a vulnerability in the system because these strings might contain harmful code. If you want to include HTML markup in the error message, call this method with a false escape argument. Make sure that you escape any dynamic content, such as input field values. Otherwise, specify true for the escape argument or call [addError(Schema.SObjectField fieldToken, String errorMsg)](#unique_972493482 "Dynamically add errors to an SObject instance associated with the specified field.") instead.
 
 #### Example
 

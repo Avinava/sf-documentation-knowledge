@@ -5,12 +5,10 @@ topic: create
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.936Z
+lastCollected: 2026-05-10T00:40:44.451Z
 estimatedTokens: 4150
-keywords: [Adds, new, records, organization’s, data, Usage, Permissions, Special, Handling, Createable, Automatically, Maintained, Referential, Integrity, Assignment]
+keywords: [Permissions, Arguments, Faults, Adds, new, records, organization’s, Handling, Createable, Automatically, Maintained, Referential, Integrity, Assignment, Maximum, Number, Created, Rollback, Error, Automatic, Subscriptions, Chatter, Feeds, Disabling, Notifications, Creating, Different, Foreign, Keys, Parent, Child, Call, Basic, Steps, Sample, Code—Java, Code—C#]
 ---
-
-# create()
 
 > Adds one or more new records to your organization’s data.
 

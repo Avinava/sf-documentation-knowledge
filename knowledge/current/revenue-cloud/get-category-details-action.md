@@ -5,7 +5,7 @@ topic: get-category-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:10.749Z
+lastCollected: 2026-05-10T00:39:00.759Z
 estimatedTokens: 767
 keywords: [Inputs, Outputs, Category, Action, record, REST, HTTP]
 ---

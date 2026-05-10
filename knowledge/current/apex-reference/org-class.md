@@ -5,7 +5,7 @@ topic: org-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.579Z
+lastCollected: 2026-05-10T00:39:26.258Z
 estimatedTokens: 7173
 namespace: Cache
 keywords: [Examples, Org, Cache.Org, add, retrieve, manage, cache, Unlike, session, tied, any, organization, across, requests, users, Constants, key, keys, setOfKeys, cacheBuilder, getAvgGetSize, getAvgGetTime, getAvgValueSize, getCapacity, getKeys, getMaxGetSize, getMaxGetTime, getMaxValueSize, getMissRate, getName, getNumKeys, getPartition, partitionName, put, visibility, ttlSecs, immutable, remove]

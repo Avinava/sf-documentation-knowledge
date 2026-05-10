@@ -5,7 +5,7 @@ topic: getchatlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.220Z
+lastCollected: 2026-05-10T00:40:41.207Z
 estimatedTokens: 542
 keywords: [Arguments, getChatLog, chat, log, specific, key, API, 29.0, Sample, Code–Visualforce, customEvent, message]
 ---

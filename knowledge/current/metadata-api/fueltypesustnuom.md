@@ -5,7 +5,7 @@ topic: fueltypesustnuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.388Z
+lastCollected: 2026-05-10T00:40:06.739Z
 estimatedTokens: 589
 keywords: [FuelTypeSustnUom, mapping, fuel, their, corresponding, unit, measure, UOM, defined, customer, org, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

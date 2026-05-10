@@ -5,7 +5,7 @@ topic: split-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:11.756Z
+lastCollected: 2026-05-10T00:39:02.338Z
 estimatedTokens: 1024
 keywords: [split, Annotation, Constraint, Modeling, Language, CML, whether, instances, Configurator, Result, Configuration, Settings]
 ---

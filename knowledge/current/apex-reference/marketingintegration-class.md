@@ -5,7 +5,7 @@ topic: marketingintegration-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.333Z
+lastCollected: 2026-05-10T00:39:20.355Z
 estimatedTokens: 1164
 namespace: ConnectApi
 keywords: [MarketingIntegration, marketing, integration, form, Experience, Cloud, site, getForm, siteId, formId, API, Requires, Chatter, saveForm, formInput, submitForm, formSubmissionInput, Guest, Users]

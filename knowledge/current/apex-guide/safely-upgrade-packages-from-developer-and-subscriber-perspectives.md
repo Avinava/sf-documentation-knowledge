@@ -5,7 +5,7 @@ topic: safely-upgrade-packages-from-developer-and-subscriber-perspectives
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.058Z
+lastCollected: 2026-05-10T00:39:53.194Z
 estimatedTokens: 3049
 namespace: CustomCart
 keywords: [Safely, Upgrade, Packages, Developer, Subscriber, Perspectives, how, managed, package, extended, actions, developers, subscribers, take, ensure, smooth, transition, safeguard, backwards, compatibility, integrations, Publishes, 1.0, Adds, Functionality, Overriding, Releases, 2.0, Implements, Subscriber’s, Upgrades, Specifying, Apex, getTotalPrice, Incorrect, Backward, System.requestVersion, Tests, System.runAs, Summary, Shared, Responsibilities, Safe]

@@ -5,7 +5,7 @@ topic: account-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.073Z
+lastCollected: 2026-05-10T00:39:10.310Z
 estimatedTokens: 369
 keywords: [Account, represent, user, level, allow, capture, customers]
 ---

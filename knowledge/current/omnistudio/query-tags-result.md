@@ -5,7 +5,7 @@ topic: query-tags-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.279Z
+lastCollected: 2026-05-10T00:40:27.838Z
 estimatedTokens: 143
 keywords: [Query, Tags, Result, results, querying, context]
 ---

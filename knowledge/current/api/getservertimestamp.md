@@ -5,12 +5,10 @@ topic: getservertimestamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.316Z
+lastCollected: 2026-05-10T00:40:45.321Z
 estimatedTokens: 471
-keywords: [getServerTimestamp, Retrieves, current, system, timestamp, Coordinated, Universal, Time, UTC, zone, API, Usage, Sample, Code—Java, Code—C#]
+keywords: [Arguments, Fault, getServerTimestamp, Retrieves, current, system, timestamp, Coordinated, Universal, Time, UTC, zone, API, Sample, Code—Java, Code—C#]
 ---
-
-# getServerTimestamp()
 
 > Retrieves the current system timestamp (Coordinated Universal Time (UTC) time zone)
       from the API.

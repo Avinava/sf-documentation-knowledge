@@ -5,7 +5,7 @@ topic: forecastingtypesource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.364Z
+lastCollected: 2026-05-10T00:40:06.708Z
 estimatedTokens: 939
 keywords: [ForecastingTypeSource, mapping, forecasting, source, definition, forecast, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

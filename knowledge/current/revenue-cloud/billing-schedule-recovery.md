@@ -5,7 +5,7 @@ topic: billing-schedule-recovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:45.273Z
+lastCollected: 2026-05-10T00:39:05.077Z
 estimatedTokens: 109
 keywords: [Billing, Schedule, Recovery, recovered, schedules]
 ---

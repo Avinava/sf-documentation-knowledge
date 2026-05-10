@@ -5,7 +5,7 @@ topic: pagereferencerecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.135Z
+lastCollected: 2026-05-10T00:39:21.813Z
 estimatedTokens: 148
 keywords: [PageReference, record, Generate, new, instance, sObject]
 ---

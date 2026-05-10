@@ -5,7 +5,7 @@ topic: triggercontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.551Z
+lastCollected: 2026-05-10T00:39:28.020Z
 estimatedTokens: 1524
 namespace: EventBus
 keywords: [TriggerContext, platform, event, change, trigger, that’s, currently, executing, how, times, retried, due, EventBus.RetryableException, resume, executions, lastError, retries, currentContext, getResumeCheckpoint, setResumeCheckpoint, resumeReplayId]

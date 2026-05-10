@@ -5,12 +5,10 @@ topic: compiletriggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.825Z
+lastCollected: 2026-05-10T00:40:44.261Z
 estimatedTokens: 288
-keywords: [compileTriggers, Compile, Apex, triggers, Developer, Edition, sandbox, organizations, Usage, Arguments]
+keywords: [Arguments, compileTriggers, Compile, Apex, triggers, Developer, Edition, sandbox, organizations]
 ---
-
-# compileTriggers()
 
 > Compile your Apex triggers in Developer Edition or sandbox organizations.
 

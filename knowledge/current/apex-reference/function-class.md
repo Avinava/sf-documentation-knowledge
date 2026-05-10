@@ -5,7 +5,7 @@ topic: function-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.602Z
+lastCollected: 2026-05-10T00:39:28.106Z
 estimatedTokens: 2889
 namespace: RuntimeException
 keywords: [Function, deployed, Salesforce, Functions, invoke, synchronously, asynchronously, functionName, payload, callback]

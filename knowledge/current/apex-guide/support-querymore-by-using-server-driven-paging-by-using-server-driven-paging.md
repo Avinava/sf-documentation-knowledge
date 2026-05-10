@@ -6,7 +6,7 @@ topic: support-querymore-by-using-server-driven-paging-by-using-server-driven-pa
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.165Z
+lastCollected: 2026-05-10T00:39:51.741Z
 estimatedTokens: 381
 keywords: [Support, queryMore, Server-Driven, Paging, external, system, ignores, any, batch, boundaries, sizes, queries, enable, declare, QUERY_PAGINATION_SERVER_DRIVEN, capability, DataSource.Provider]
 ---

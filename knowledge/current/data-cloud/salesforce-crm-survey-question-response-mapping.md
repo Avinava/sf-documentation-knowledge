@@ -5,7 +5,7 @@ topic: salesforce-crm-survey-question-response-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.427Z
+lastCollected: 2026-05-10T00:39:11.888Z
 estimatedTokens: 455
 keywords: [Salesforce, CRM, Survey, Question, Mapping, mappings, SurveyQuestionResponse, DLO, found, Services, bundle, Connector, Cloud, DMO]
 ---

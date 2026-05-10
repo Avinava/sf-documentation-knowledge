@@ -5,7 +5,7 @@ topic: methods-for-push-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.425Z
+lastCollected: 2026-05-10T00:40:42.870Z
 estimatedTokens: 773
 keywords: [Push, Notifications, visual, indicators, detail, pages, console, show, record, changed, user’s, session, two, support, agents, working, case, agent, changes, Priority, notification, appears]
 ---

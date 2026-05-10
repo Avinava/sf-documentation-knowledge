@@ -5,7 +5,7 @@ topic: get-components-for-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.089Z
+lastCollected: 2026-05-10T00:39:14.894Z
 estimatedTokens: 558
 keywords: [CIComponent, Configuration, Item, Retrieve, child, specific, unique, identifier]
 ---

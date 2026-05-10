@@ -5,7 +5,7 @@ topic: createassetorderdtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.621Z
+lastCollected: 2026-05-10T00:39:08.813Z
 estimatedTokens: 597
 keywords: [CreateAssetOrderDtlEvent, attempt, asset, result, actions, standard, createOrUpdateAssetFromOrder, successful, event, failed, error, included, CreateAssetOrderEvent, message, can't, subscribe, directly, API, 55.0, Subscribers, Subscription, Channel]
 ---

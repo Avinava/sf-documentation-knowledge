@@ -5,7 +5,7 @@ topic: describefieldresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.079Z
+lastCollected: 2026-05-10T00:39:46.741Z
 estimatedTokens: 9488
 namespace: Schema
 keywords: [DescribeFieldResult, parent, standard, whose, matched, against, child, external, object's, indirect, lookup, relationship, match, determine, records, getByteLength, getCalculatedFormula, getController, getDefaultValue, getDefaultValueFormula, getDigits, getInlineHelpText, getLabel, getLength, getLocalName, getName, getPicklistValues, getPrecision, getReferenceTargetField, getReferenceTo, Versioned, Behavior, Changes, getRelationshipName, getRelationshipOrder, getScale, getSOAPType, getSObjectField, getSObjectType, getType, isAccessible, isAiPredictionField, Beta, isAutoNumber, isCalculated, isCascadeDelete, isCaseSensitive, isCreateable, isCustom, isDefaultedOnCreate, isDependentPicklist, isDeprecatedAndHidden, isEncrypted, isExternalID, isFilterable, isFormulaTreatNullNumberAsZero, isGroupable, isHtmlFormatted, isIdLookup, isNameField, isNamePointing, isNillable, isPermissionable, isRestrictedDelete, isRestrictedPicklist, isSearchPrefilterable, isSortable, isUnique, isUpdateable, isWriteRequiresMasterRead]

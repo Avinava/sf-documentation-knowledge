@@ -5,7 +5,7 @@ topic: multistaticresourcecalloutmock-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.284Z
+lastCollected: 2026-05-10T00:39:47.100Z
 estimatedTokens: 1135
 namespace: System
 keywords: [MultiStaticResourceCalloutMock, Utility, specify, fake, multiple, resources, testing, HTTP, callouts, setHeader, headerName, headerValue, setStaticResource, endpoint, resourceName, setStatus, httpStatus, setStatusCode, httpStatusCode]

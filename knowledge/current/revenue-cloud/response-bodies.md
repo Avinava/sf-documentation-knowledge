@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.473Z
+lastCollected: 2026-05-10T00:39:07.392Z
 estimatedTokens: 2242
 keywords: [Bodies, Salesforce, Pricing, API, Product, Catalog, Management, Configurator, Discovery, Rate, APIs]
 ---

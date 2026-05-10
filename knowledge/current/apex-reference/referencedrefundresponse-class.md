@@ -5,7 +5,7 @@ topic: referencedrefundresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.073Z
+lastCollected: 2026-05-10T00:39:27.163Z
 estimatedTokens: 2083
 namespace: CommercePayments
 keywords: [ReferencedRefundResponse, payment, gateway, adapter, ReferencedRefund, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setSalesforceResultCodeInfo, salesforceResultCodeInfo]

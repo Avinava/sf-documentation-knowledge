@@ -5,7 +5,7 @@ topic: ai-accelerator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:35.243Z
+lastCollected: 2026-05-10T00:40:20.730Z
 estimatedTokens: 673
 keywords: [Accelerator, Building, machine, learning, cases, becomes, quick, easy, maintainable, Customize, configuration, updating, models, feature, extractors, suit, requirements, Save, extracted, features, scoring, responses, Connect, API, generate, predictions, real, time]
 ---

@@ -5,7 +5,7 @@ topic: sharingrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.704Z
+lastCollected: 2026-05-10T00:40:11.987Z
 estimatedTokens: 3379
 keywords: [SharingRules, SharingCriteriaRule, SharingGuestRule, SharingOwnerRule, SharingTerritoryRule, AccountSharingRules, CampaignSharingRules, CaseSharingRules, ContactSharingRules, LeadSharingRules, OpportunitySharingRules, AccountTerritorySharingRules, CustomObjectSharingRules, UserSharingRules, base, container, sharing, criteria-based, ownership-based, territory-based, guest, user, share, records, users, specify, level, target, group, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

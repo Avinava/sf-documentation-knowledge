@@ -5,7 +5,7 @@ topic: connectapialternativepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.509Z
+lastCollected: 2026-05-10T00:39:31.507Z
 estimatedTokens: 364
 keywords: [ConnectApi.AlternativePaymentMethod, payment, doesn't, defined, Salesforce, entity, CardPaymentMethod, DigitalWallet, Common, examples, alternative, include, CashOnDeliver, Klarna, Direct, Debit, AlternativePaymentMethod, functions, any, processing, transactions, gateway]
 ---

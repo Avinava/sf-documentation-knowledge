@@ -5,12 +5,10 @@ topic: example-calls-using-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.662Z
+lastCollected: 2026-05-10T00:40:43.964Z
 estimatedTokens: 230
-keywords: [Calls, Ajax, Toolkit, two, sections, contain, examples, synchrononous, asynchronous]
+keywords: [Ajax, Toolkit, two, sections, contain, examples, synchrononous, asynchronous]
 ---
-
-# Example Calls Using the Ajax Toolkit
 
 > The next two sections contain examples of synchrononous and asynchronous calls.
 

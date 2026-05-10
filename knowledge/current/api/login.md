@@ -5,12 +5,10 @@ topic: login
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.394Z
+lastCollected: 2026-05-10T00:40:45.495Z
 estimatedTokens: 2704
-keywords: [login, Logs, server, starts, client, session, Usage, Enterprise, Partner, Endpoints, Endpoint, Base, URLs, Proxy, Expiration]
+keywords: [Logout, Arguments, Faults, login, Logs, server, starts, client, session, Enterprise, Partner, Endpoints, Endpoint, Base, URLs, Proxy, Expiration, Active, Self-Service, Users, Authentication, Customer, Experience, Cloud, Site, User, Sample, Code—Java, Code—C#]
 ---
-
-# login()
 
 > Logs in to the login server and starts a client session.
 

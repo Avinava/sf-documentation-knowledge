@@ -5,7 +5,7 @@ topic: invocableactionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.912Z
+lastCollected: 2026-05-10T00:40:07.658Z
 estimatedTokens: 608
 keywords: [InvocableActionSettings, org’s, invocable, action, settings, whether, partial, save, allowed.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

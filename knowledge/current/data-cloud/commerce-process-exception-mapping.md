@@ -5,7 +5,7 @@ topic: commerce-process-exception-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.641Z
+lastCollected: 2026-05-10T00:39:12.145Z
 estimatedTokens: 375
 keywords: [Commerce, Process, Exception, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, events, business, affects, normal, order, processing, Errors, programs, communication, aren’t, exceptions, cause, DLO]
 ---

@@ -5,7 +5,7 @@ topic: policycondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.293Z
+lastCollected: 2026-05-10T00:39:45.372Z
 estimatedTokens: 921
 namespace: TxnSecurity
 keywords: [PolicyCondition, Evaluates, event, against, transaction, security, policy, triggers, evaluate]

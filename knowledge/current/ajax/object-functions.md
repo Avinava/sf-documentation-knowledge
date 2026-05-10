@@ -5,12 +5,10 @@ topic: object-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.635Z
+lastCollected: 2026-05-10T00:40:43.882Z
 estimatedTokens: 227
-keywords: [Functions, accessed, directly, generic, Examples]
+keywords: [Examples, Functions, accessed, directly, generic]
 ---
-
-# Object Functions
 
 > Property values can be accessed directly or by using a generic set or get
   method.

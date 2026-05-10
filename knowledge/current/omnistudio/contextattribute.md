@@ -5,7 +5,7 @@ topic: contextattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:45.595Z
+lastCollected: 2026-05-10T00:40:35.925Z
 estimatedTokens: 746
 keywords: [ContextAttribute, attribute, describe, context, node, attributes, API, 59.0, SOAP, REST]
 ---

@@ -5,7 +5,7 @@ topic: preference-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:11.986Z
+lastCollected: 2026-05-10T00:39:02.633Z
 estimatedTokens: 170
 keywords: [Preference, Rule, encourages, constraint, solver, satisfy, condition, doesn't, enforce, can't, met]
 ---

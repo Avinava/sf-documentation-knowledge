@@ -5,8 +5,8 @@ topic: tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.417Z
-estimatedTokens: 20153
+lastCollected: 2026-05-10T00:40:14.873Z
+estimatedTokens: 20222
 keywords: [Tooling, API, includes]
 ---
 
@@ -214,6 +214,8 @@ Tooling API includes the following objects:
     Returns a quick action that is associated with an EmbeddedServiceLiveAgent setup. The quick action includes the pre-chat form fields that the embedded chat window displays and shows the order in which the fields are displayed. Available in Tooling API version 39.0 and later.
 -   **[EmbeddedServiceResource](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_embeddedserviceresource.htm)**
     Represents a mapping from an EmbeddedServiceCustomization record parent to a set of resources. Each resource is a set of customizations applied via an uploaded static resource for your Embedded Chat. This object is available in API version 50.0 and later.
+-   **[EngagementInsightType](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_engagementinsighttype.htm)**
+    Represents the configuration for engagement insight types for voice and video call insights. This object is available in API version 65.0 and later.
 -   **[EnrichedField](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_enrichedfield.htm)**
     Represents a field selected for Change Data Capture Enrichment for a channel and channel member. A non-empty enriched field is added to an update or delete change event even when not changed. Available in API version 51.0 and later.
 -   **[EntityDefinition](atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_entitydefinition.htm)**

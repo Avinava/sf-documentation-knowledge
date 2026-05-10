@@ -5,7 +5,7 @@ topic: embeddedserviceliveagent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.611Z
+lastCollected: 2026-05-10T00:40:16.697Z
 estimatedTokens: 2046
 keywords: [EmbeddedServiceLiveAgent, setup, node, creating, Embedded, Chat, deployment, Tooling, API, 38.0, REST, HTTP]
 ---

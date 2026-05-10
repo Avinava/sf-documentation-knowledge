@@ -5,7 +5,7 @@ topic: incidentmgmtsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:26.743Z
+lastCollected: 2026-05-10T00:40:07.377Z
 estimatedTokens: 2446
 keywords: [IncidentMgmtSettings, settings, Customer, Service, Incident, Management, Broadcast, Communications, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

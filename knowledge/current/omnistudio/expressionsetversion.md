@@ -5,7 +5,7 @@ topic: expressionsetversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.750Z
+lastCollected: 2026-05-10T00:40:34.685Z
 estimatedTokens: 1240
 keywords: [ExpressionSetVersion, specific, expression, accessible, API, Lightning, Web, LWC, 55.0]
 ---

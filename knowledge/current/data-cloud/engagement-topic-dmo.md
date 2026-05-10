@@ -5,7 +5,7 @@ topic: engagement-topic-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.558Z
+lastCollected: 2026-05-10T00:39:12.991Z
 estimatedTokens: 790
 keywords: [Category, Relationships, Engagement, Topic, DMO, Cloud, model, represent, topics, discussed, customer, attendees, may, multiple, campaigns, promotions, opportunities, tasks, API, Primary, Subject, Area, Key]
 ---

@@ -5,7 +5,7 @@ topic: sitemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:51.711Z
+lastCollected: 2026-05-10T00:39:11.166Z
 estimatedTokens: 2372
 keywords: [Sitemap, GlobalPageConfig, DefaultPageConfig, PageConfig, Salesforce, Interactions, SDK, ability, extract, navigation, share, capture, logic, across, multiple, pages, separate, web, presentation]
 ---

@@ -5,8 +5,8 @@ topic: servicecloudvoicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.588Z
-estimatedTokens: 1423
+lastCollected: 2026-05-10T00:40:11.808Z
+estimatedTokens: 1360
 keywords: [ServiceCloudVoiceSettings, organization’s, Service, Cloud, Voice, settings, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
 
@@ -41,7 +41,6 @@ ServiceCloudVoiceSettings is available in API versions 52.0 and later.
 | enablePhoneNumberMaskingForSCV | boolean | Indicates whether to enable phone number masking functionality in Service Could Voice to protect sensitive data by redacting inbound and outbound phone numbers. When enabled, phone numbers are masked in Omni-Channel views, call recordings, and call transcripts. Masking doesn't apply to numbers used in rep-to-rep calls managed by partner telephony providers. The default value is false. Available in API version 61.0 and later. This field is optional. |
 | enablePTQueueManagement | boolean | Indicates whether to enable queue management for Service Cloud Voice with Partner Telephony. When enabled, the system automatically synchronizes contact center queues across Salesforce and partner telephony services, including groups and users. The default value is false. Available in API version 56.0 and later. This field is optional. |
 | enableRZoneCloudVoiceOptIn | boolean | Indicates whether you agree to the terms of using Service Cloud Voice with Amazon Connect in a Salesforce Government Cloud environment. The default value is false. This field is optional.Amazon Connect is a third-party Amazon service that sits outside the Salesforce Government Cloud FedRAMP environment. Amazon Connect is a separate service offered by Amazon and not a FedRAMP authorized service. Therefore, Amazon Connect’s processing environment falls outside the Government Cloud FedRAMP authorization boundary. To learn more, see Amazon Connect. |
-| enableSCVASAContextLinkingEnabled | boolean | Indicates whether to link related voice calls, specifically the partner telephony/rep call and the voice-enabled agent (PSTN Voice) call. Available in API version 65.0 and later. This field is optional. |
 | enableSCVBYOT |  | Indicates whether to enable Service Cloud Voice with Partner Telephony. The default value is false. This field is optional. For API version 52.0 and later, we recommend using enableSCVExternalTelephony instead. |
 | enableSCVExternalTelephony | boolean | Indicates whether to enable a third-party telephony service to work with Service Cloud Voice with Partner Telephony. The default value is false. This field is optional. |
 | enableSCVOpenVCAsNewTabHVS | boolean | Indicates whether to open the Service Cloud Voice Console in a new tab for Sales Engagement scenarios. The default value is false. Available in API version 62.0 and later. This field is optional. |

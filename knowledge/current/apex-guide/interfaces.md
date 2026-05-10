@@ -5,7 +5,7 @@ topic: interfaces
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.481Z
+lastCollected: 2026-05-10T00:39:50.659Z
 estimatedTokens: 1024
 keywords: [Interfaces, none, implemented—the, signatures, there, empty, another, implement, providing, contained, Versioned, Behavior, Changes]
 ---

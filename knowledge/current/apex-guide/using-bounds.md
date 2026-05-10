@@ -5,7 +5,7 @@ topic: using-bounds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.585Z
+lastCollected: 2026-05-10T00:39:50.842Z
 estimatedTokens: 269
 keywords: [Bounds, region, delimited, anchoring, means, line, anchors, match, boundaries, moved, start, end, specify, whether, uses, useAncho]
 ---

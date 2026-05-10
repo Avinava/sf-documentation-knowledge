@@ -5,12 +5,10 @@ topic: findduplicates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.289Z
+lastCollected: 2026-05-10T00:40:45.264Z
 estimatedTokens: 1512
-keywords: [findDuplicates, Performs, rule-based, searches, duplicate, records, Usage, Basic, Steps, Sample, Arguments, FindDuplicatesResult, Faults]
+keywords: [Sample, Arguments, FindDuplicatesResult, Faults, findDuplicates, Performs, rule-based, searches, duplicate, records, Basic, Steps]
 ---
-
-# findDuplicates()
 
 > Performs rule-based searches for duplicate records.
 

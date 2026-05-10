@@ -5,7 +5,7 @@ topic: oauthtokentype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:12.423Z
+lastCollected: 2026-05-10T00:39:44.015Z
 estimatedTokens: 242
 keywords: [OauthTokenType, Salesforce-issued, OAuth, 2.0, token, revoked, OauthToken.revokeToken]
 ---

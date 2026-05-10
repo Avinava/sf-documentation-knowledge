@@ -5,12 +5,10 @@ topic: logout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.402Z
+lastCollected: 2026-05-10T00:40:45.512Z
 estimatedTokens: 400
-keywords: [logout, Ends, session, logged-in, user, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, logout, Ends, session, logged-in, user, Sample, Code—Java, Code—C#]
 ---
-
-# logout()
 
 > Ends the session of the logged-in user.
 

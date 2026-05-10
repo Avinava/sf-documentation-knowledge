@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-badge-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.198Z
+lastCollected: 2026-05-10T00:39:12.649Z
 estimatedTokens: 376
 keywords: [Salesforce, CRM, Loyalty, Program, Badge, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, refers, assigned, member, reward, engaging, DMO]
 ---

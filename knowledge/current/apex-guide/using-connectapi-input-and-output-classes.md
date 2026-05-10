@@ -5,7 +5,7 @@ topic: using-connectapi-input-and-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.907Z
+lastCollected: 2026-05-10T00:39:51.383Z
 estimatedTokens: 417
 namespace: ConnectApi
 keywords: [ConnectApi, Classes, contain, Connect, REST, API, pass]

@@ -5,12 +5,10 @@ topic: upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.624Z
+lastCollected: 2026-05-10T00:40:45.995Z
 estimatedTokens: 2297
-keywords: [upsert, Creates, records, updates, uses, custom, determine, presence, cases, recommend, instead, avoid, creating, unwanted, duplicate]
+keywords: [Arguments, Faults, upsert, Creates, records, updates, uses, determine, presence, cases, recommend, instead, avoid, creating, unwanted, duplicate, idempotent, call, API, 7.0, How, Chooses, Rollback, Error, Automatic, Subscriptions, Chatter, Feeds, Foreign, Keys, Sample, Code—Java, Code—C#]
 ---
-
-# upsert()
 
 > Creates records and updates existing records; uses a custom field to determine the
 		presence of existing records. In most cases, we recommend that you use upsert() instead of create() to avoid creating unwanted duplicate records (idempotent). This call

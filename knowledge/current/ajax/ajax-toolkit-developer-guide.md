@@ -5,12 +5,10 @@ topic: ajax-toolkit-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.606Z
+lastCollected: 2026-05-10T00:40:43.814Z
 estimatedTokens: 491
-keywords: [AJAX, Toolkit, Developer, Embed, API, calls, Visualforce, pages, buttons, links, JavaScript, wrapper, around, SOAP]
+keywords: [AJAX, Toolkit, Developer, Embed, API, Visualforce, pages, buttons, links, JavaScript, wrapper, around, SOAP]
 ---
-
-# AJAX Toolkit Developer Guide
 
 > Embed API calls in Visualforce pages, buttons, and links with AJAX Toolkit — a
     JavaScript wrapper around SOAP API.

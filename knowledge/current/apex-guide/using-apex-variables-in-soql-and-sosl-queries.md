@@ -5,7 +5,7 @@ topic: using-apex-variables-in-soql-and-sosl-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.260Z
+lastCollected: 2026-05-10T00:39:55.197Z
 estimatedTokens: 340
 keywords: [Apex, Variables, SOQL, SOSL, Queries, statements, code, expressions, they’re, preceded, colon, local, variable, statement, bind, parser, evaluates]
 ---

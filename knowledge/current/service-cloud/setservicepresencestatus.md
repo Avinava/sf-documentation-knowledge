@@ -5,7 +5,7 @@ topic: setservicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.914Z
+lastCollected: 2026-05-10T00:40:43.571Z
 estimatedTokens: 367
 keywords: [Arguments, setServicePresenceStatus, agent's, presence, status, particular, API, 35.0, log, user, already, logged, don’t, additional, reconnect, Omni-Channel, connection, error, Sample, Code–Visualforce]
 ---

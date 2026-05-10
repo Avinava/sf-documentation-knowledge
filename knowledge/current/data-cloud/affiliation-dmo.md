@@ -5,7 +5,7 @@ topic: affiliation-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:51.955Z
+lastCollected: 2026-05-10T00:39:11.448Z
 estimatedTokens: 517
 keywords: [Category, Relationships, Affiliation, DMO, Cloud, model, how, map, Marketing, Engagement, business, unit, cases, API, Primary, Subject, Area, Key]
 ---

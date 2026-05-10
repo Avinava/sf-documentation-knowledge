@@ -5,7 +5,7 @@ topic: installhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.034Z
+lastCollected: 2026-05-10T00:39:44.984Z
 estimatedTokens: 1241
 namespace: System
 keywords: [InstallHandler, code, run, managed, package, installation, upgrade, onInstall, context, Implementation]

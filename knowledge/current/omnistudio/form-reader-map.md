@@ -5,7 +5,7 @@ topic: form-reader-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.675Z
+lastCollected: 2026-05-10T00:40:27.059Z
 estimatedTokens: 149
 keywords: [Form, Reader, Map, mappings, extracted, text]
 ---

@@ -5,7 +5,7 @@ topic: locking-in-a-soql-for-loop
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.598Z
+lastCollected: 2026-05-10T00:39:55.781Z
 estimatedTokens: 162
 keywords: [Locking, SOQL, Loop, discussed, Loops, above, corresponds, internally, query, queryMore, SOAP, API]
 ---

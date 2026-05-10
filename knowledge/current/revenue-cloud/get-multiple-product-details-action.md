@@ -5,7 +5,7 @@ topic: get-multiple-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:10.771Z
+lastCollected: 2026-05-10T00:39:00.787Z
 estimatedTokens: 985
 keywords: [Inputs, Outputs, Multiple, Product, Action, products, REST, HTTP]
 ---

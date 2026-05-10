@@ -5,7 +5,7 @@ topic: asynchronous-callout-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.225Z
+lastCollected: 2026-05-10T00:39:51.838Z
 estimatedTokens: 728
 keywords: [Asynchronous, Callout, Limits, continuation, executing, continuation-specific, apply, resumes, new, Apex, transaction, starts, Visualforce, reset, including, Differences, Controller, State, View]
 ---

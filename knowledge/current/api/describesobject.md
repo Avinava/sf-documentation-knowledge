@@ -5,12 +5,10 @@ topic: describesobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.146Z
+lastCollected: 2026-05-10T00:40:44.913Z
 estimatedTokens: 838
-keywords: [describeSObject, metadata, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, describeSObject, metadata, Sample, Code—Java, Code—C#]
 ---
-
-# describeSObject()
 
 > Describes metadata (field list and object properties) for the specified
         object.

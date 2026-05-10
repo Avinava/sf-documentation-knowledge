@@ -5,7 +5,7 @@ topic: using-the-schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.683Z
+lastCollected: 2026-05-10T00:39:50.992Z
 estimatedTokens: 328
 namespace: Schema
 keywords: [Schema, classes, working, metadata, implicitly, import, Schema.*, fully, qualify, uses, they, naming, conflicts, items, unmanaged, code, org, Apex, sObject, add, prefix, Disambiguation]

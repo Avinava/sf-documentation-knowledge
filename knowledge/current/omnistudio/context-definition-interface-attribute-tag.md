@@ -5,7 +5,7 @@ topic: context-definition-interface-attribute-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:38.991Z
+lastCollected: 2026-05-10T00:40:26.095Z
 estimatedTokens: 282
 keywords: [Context, Definition, Attribute, Tag, tags]
 ---

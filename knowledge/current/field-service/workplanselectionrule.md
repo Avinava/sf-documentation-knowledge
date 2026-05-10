@@ -5,7 +5,7 @@ topic: workplanselectionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:48.510Z
+lastCollected: 2026-05-10T00:40:40.241Z
 estimatedTokens: 713
 keywords: [WorkPlanSelectionRule, rule, selects, work, plan, order, line, item, API, 52.0]
 ---

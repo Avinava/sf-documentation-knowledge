@@ -5,7 +5,7 @@ topic: getalltabinfo-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.769Z
+lastCollected: 2026-05-10T00:40:41.899Z
 estimatedTokens: 306
 keywords: [Arguments, getAllTabInfo, Lightning, Experience, open, tabs, works, console, apps, LWC, Sample, Code, Aura]
 ---

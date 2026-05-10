@@ -5,7 +5,7 @@ topic: cmplpolicyparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.455Z
+lastCollected: 2026-05-10T00:40:34.212Z
 estimatedTokens: 764
 keywords: [CmplPolicyParticipant, Compliant, Sharing, participant, user, group, whom, compliance, policy, shared, API, 66.0]
 ---

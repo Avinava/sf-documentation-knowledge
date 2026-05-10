@@ -5,12 +5,10 @@ topic: process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.443Z
+lastCollected: 2026-05-10T00:40:45.600Z
 estimatedTokens: 1266
-keywords: [process, Submits, array, approval, instances, processes, approved, rejected, removed, Salesforce, Help, Usage, Sample, Code—Java, Code—C#]
+keywords: [Faults, process, Submits, array, approval, instances, processes, approved, rejected, removed, Salesforce, Help, Sample, Code—Java, Code—C#, ProcessSubmitRequest, Arguments, ProcessWorkitemRequest]
 ---
-
-# process()
 
 > Submits an array of approval process instances for approval, or
          processes an array of approval process instances to be approved, rejected, or removed.

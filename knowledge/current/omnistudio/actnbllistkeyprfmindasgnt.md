@@ -5,7 +5,7 @@ topic: actnbllistkeyprfmindasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.940Z
+lastCollected: 2026-05-10T00:40:33.372Z
 estimatedTokens: 422
 keywords: [ActnblListKeyPrfmIndAsgnt, key, performance, indicators, KPIs, shown, KPI, Bar, API, 60.0]
 ---

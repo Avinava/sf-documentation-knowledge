@@ -5,12 +5,10 @@ topic: renderemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.486Z
+lastCollected: 2026-05-10T00:40:45.698Z
 estimatedTokens: 995
-keywords: [renderEmailTemplate, Replaces, merge, text, bodies, email, templates, Salesforce, records, polymorphic, template, their, corresponding, whoId, whatId]
+keywords: [RenderEmailTemplateRequest, Fault, renderEmailTemplate, Replaces, merge, text, bodies, email, templates, Salesforce, records, polymorphic, template, their, corresponding, whoId, whatId, argument, Sample, Code—Java]
 ---
-
-# renderEmailTemplate()
 
 > Replaces merge fields in text bodies of email templates with
             values from Salesforce records, even for polymorphic fields. The email template bodies

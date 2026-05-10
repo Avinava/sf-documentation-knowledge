@@ -5,7 +5,7 @@ topic: introduction-to-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:20.149Z
+lastCollected: 2026-05-10T00:39:56.659Z
 estimatedTokens: 336
 keywords: [Introduction, REST, API, programmatic, Salesforce, flexibility, scalability, excellent, choice, integrating, applications, performing, complex, operations, large, scale]
 ---

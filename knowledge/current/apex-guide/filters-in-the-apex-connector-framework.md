@@ -5,7 +5,7 @@ topic: filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.124Z
+lastCollected: 2026-05-10T00:39:51.678Z
 estimatedTokens: 323
 keywords: [Filters, Apex, Connector, Framework, DataSource.QueryContext, DataSource.TableSelection, DataSource.SearchContext, TableSelection, filter, clause, SOQL, SOSL, query]
 ---

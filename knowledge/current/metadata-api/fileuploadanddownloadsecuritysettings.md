@@ -5,7 +5,7 @@ topic: fileuploadanddownloadsecuritysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.114Z
+lastCollected: 2026-05-10T00:40:06.295Z
 estimatedTokens: 718
 keywords: [FileUploadAndDownloadSecuritySettings, FileTypeDispositionAssignmentBean, security, settings, uploading, downloading, files, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

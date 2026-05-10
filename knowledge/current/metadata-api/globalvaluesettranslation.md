@@ -5,7 +5,7 @@ topic: globalvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.576Z
+lastCollected: 2026-05-10T00:40:07.067Z
 estimatedTokens: 712
 keywords: [GlobalValueSetTranslation, ValueTranslation, translation, shared, multiple, picklist, optionally, across, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

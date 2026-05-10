@@ -5,7 +5,7 @@ topic: commerce-fulfillment-order-item-adjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.511Z
+lastCollected: 2026-05-10T00:39:11.998Z
 estimatedTokens: 365
 keywords: [Commerce, Fulfillment, Order, Item, Adjustment, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, price, calculated, level, specific, product, DLO, Mapping]
 ---

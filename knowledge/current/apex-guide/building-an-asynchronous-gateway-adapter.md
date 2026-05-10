@@ -5,7 +5,7 @@ topic: building-an-asynchronous-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.780Z
+lastCollected: 2026-05-10T00:39:51.149Z
 estimatedTokens: 1770
 keywords: [Debugging, Building, Asynchronous, Gateway, Adapter, payments, configuration, platform, transaction, responds, acknowledgment, received, creates, pending, notification, final, status, updates, transaction’s, accordingly, Payment, Definition, Processing, Initial]
 ---

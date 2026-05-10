@@ -5,7 +5,7 @@ topic: matchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.109Z
+lastCollected: 2026-05-10T00:39:23.909Z
 estimatedTokens: 1086
 namespace: Datacloud
 keywords: [MatchResult, duplicate, results, matching, rule, getEntityType, getErrors, getMatchEngine, getMatchRecords, getRule, getSize, isSuccess]

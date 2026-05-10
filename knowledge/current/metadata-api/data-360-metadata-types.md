@@ -5,8 +5,8 @@ topic: data-360-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.305Z
-estimatedTokens: 1997
+lastCollected: 2026-05-10T00:40:03.445Z
+estimatedTokens: 1991
 keywords: [Metadata, Check, development]
 ---
 
@@ -59,7 +59,7 @@ Check out the metadata types that are used for development in Data 360.
 -   **[DataSourceTenant](atlas.en-us.api_meta.meta/api_meta/meta_datasourcetenant.htm)**
     For internal use only.
 -   **[DataSrcDataModelFieldMap](atlas.en-us.api_meta.meta/api_meta/meta_datasrcdatamodelfieldmap.htm)**
-    Represents the entity that is used for storing the design time bundle level mappings for the data source fields and data model fields.
+    Represents the mappings between source data lake object (DLO) fields and target data model object (DMO) fields.
 -   **[DataStreamDefinition](atlas.en-us.api_meta.meta/api_meta/meta_datastreamdefinition.htm)**
     Contains data ingestion information such as connection, API, and file retrieval settings.
 -   **[DataStreamTemplate](atlas.en-us.api_meta.meta/api_meta/meta_datastreamtemplate.htm)**

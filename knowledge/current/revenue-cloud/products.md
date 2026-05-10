@@ -5,7 +5,7 @@ topic: products
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:14.578Z
+lastCollected: 2026-05-10T00:39:06.207Z
 estimatedTokens: 235
 keywords: [Products, retrieved]
 ---

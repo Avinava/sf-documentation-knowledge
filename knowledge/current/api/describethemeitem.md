@@ -5,12 +5,10 @@ topic: describethemeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.250Z
+lastCollected: 2026-05-10T00:40:45.169Z
 estimatedTokens: 261
 keywords: [DescribeThemeItem, DescribeThemeResult, array]
 ---
-
-# DescribeThemeItem
 
 > Returns a DescribeThemeResult object, which contains an array of DescribeThemeItem
   values.

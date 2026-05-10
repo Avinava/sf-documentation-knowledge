@@ -5,7 +5,7 @@ topic: commerce-product-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.660Z
+lastCollected: 2026-05-10T00:39:12.165Z
 estimatedTokens: 276
 keywords: [Commerce, Product, Category, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, categories, subcategories, organize, group, products, catalog, storefront, outdoors, outfitter, site, uses, Boots, Climbing, Gear, Outerwear, their, DLO]
 ---

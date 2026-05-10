@@ -5,7 +5,7 @@ topic: table-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.942Z
+lastCollected: 2026-05-10T00:39:23.309Z
 estimatedTokens: 2286
 namespace: DataSource
 keywords: [columns, labelPlural, labelSingular, nameColumn]

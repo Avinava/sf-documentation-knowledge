@@ -5,7 +5,7 @@ topic: string-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.730Z
+lastCollected: 2026-05-10T00:39:47.834Z
 estimatedTokens: 28787
 namespace: System
 keywords: [character, index, abbreviate, maxWidth, offset, capitalize, center, size, paddingString, charAt, codePointAt, codePointBefore, codePointCount, beginIndex, endIndex, compareTo, secondString, substring, containsAny, inputString, containsIgnoreCase, containsNone, containsOnly, containsWhitespace, countMatches, deleteWhitespace, difference, endsWith, suffix, endsWithIgnoreCase, equals, stringOrId, equalsIgnoreCase, escapeCsv, escapeEcmaScript, escapeHtml3, escapeHtml4, escapeJava, escapeSingleQuotes, stringToEscape, escapeUnicode, escapeXml, stringToFormat, formattingArguments, Versioned, Behavior, Changes, fromCharArray, charArray, getChars, getCommonPrefix, strings, getLevenshteinDistance, stringToCompare, threshold, hashCode, indexOf, indexOfAny, indexOfAnyBut, indexOfChar, startIndex, indexOfDifference, indexOfIgnoreCase, startPosition, isAllLowerCase, isAllUpperCase, isAlpha, isAlphaSpace, isAlphanumeric, isAlphanumericSpace, isAsciiPrintable, isBlank, isEmpty, isNotBlank, isNotEmpty, isNumeric, isNumericSpace, isWhitespace, join, iterableObj, separator, lastIndexOf, endPosition, lastIndexOfChar, lastIndexOfIgnoreCase, left, length, leftPad, padStr, mid, normalizeSpace, offsetByCodePoints, codePointOffset, remove, removeEnd, removeEndIgnoreCase, removeStart, removeStartIgnoreCase, repeat, numberOfTimes]
@@ -176,7 +176,7 @@ The following are methods for String.
     Returns the leftmost characters of the current String of the specified length.
 -   **[leftPad(length)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_System_String_leftPad)**
     Returns the current String padded with spaces on the left and of the specified length.
--   **[leftPad(length, padStr)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#unique_2107786252)**
+-   **[leftPad(length, padStr)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#unique_1469404234)**
     Returns the current String padded with String padStr on the left and of the specified length.
 -   **[length()](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_System_String_length)**
     Returns the number of 16-bit Unicode characters contained in the String.
@@ -212,7 +212,7 @@ The following are methods for String.
     Returns the rightmost characters of the current String of the specified length.
 -   **[rightPad(length)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_System_String_rightPad)**
     Returns the current String padded with spaces on the right and of the specified length.
--   **[rightPad(length, padStr)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#unique_1782418313)**
+-   **[rightPad(length, padStr)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#unique_1159553058)**
     Returns the current String padded with String padStr on the right and of the specified length.
 -   **[split(regExp)](atlas.en-us.apexref.meta/apexref/apex_methods_system_string.htm#apex_System_String_split)**
     Returns a list that contains each substring of the String that is terminated by either the regular expression regExp or the end of the String.

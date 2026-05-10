@@ -5,7 +5,7 @@ topic: colordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.050Z
+lastCollected: 2026-05-10T00:40:15.844Z
 estimatedTokens: 325
 keywords: [ColorDefinition, color, metadata, tab, API, 43.0, SOAP, REST, HTTP]
 ---

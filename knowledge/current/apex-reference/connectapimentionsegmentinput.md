@@ -5,7 +5,7 @@ topic: connectapimentionsegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:05.805Z
+lastCollected: 2026-05-10T00:39:33.492Z
 estimatedTokens: 235
 keywords: [ConnectApi.MentionSegmentInput, Include, @mention, user, group, post, comment, creating, mentions]
 ---

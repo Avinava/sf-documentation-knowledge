@@ -5,7 +5,7 @@ topic: configurator-add-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:12.916Z
+lastCollected: 2026-05-10T00:39:03.921Z
 estimatedTokens: 276
 keywords: [Configurator, Add, Nodes, POST, node, context, runtime, system, Salesforce, user]
 ---

@@ -5,7 +5,7 @@ topic: customsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.773Z
+lastCollected: 2026-05-10T00:40:12.089Z
 estimatedTokens: 4055
 keywords: [CustomSite, SiteIframeWhiteListUrl, SiteRedirectMapping, SiteWebAddress, Salesforce, site, websites, applications, directly, integrated, organization, don't, require, users, log, username, password, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

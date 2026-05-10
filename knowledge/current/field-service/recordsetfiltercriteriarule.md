@@ -5,7 +5,7 @@ topic: recordsetfiltercriteriarule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.960Z
+lastCollected: 2026-05-10T00:40:39.336Z
 estimatedTokens: 991
 keywords: [RecordsetFilterCriteriaRule, rule, designated, source, filters, filtered, target, RecordsetFilterCriteria, API, 50.0]
 ---

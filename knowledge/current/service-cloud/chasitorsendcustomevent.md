@@ -5,7 +5,7 @@ topic: chasitorsendcustomevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:48.863Z
+lastCollected: 2026-05-10T00:40:40.674Z
 estimatedTokens: 131
 keywords: [Arguments, chasitor.sendCustomEvent, event, agent, console, currently, chatting, customer, API, 29.0, Sample, Code–Visualforce]
 ---

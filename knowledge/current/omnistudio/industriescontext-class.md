@@ -5,7 +5,7 @@ topic: industriescontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.499Z
+lastCollected: 2026-05-10T00:40:21.104Z
 estimatedTokens: 2934
 namespace: Context
 keywords: [IndustriesContext, query, persist, context, record's, status, tags, attributes, addRecordsToContext, buildContext, deleteContext, evictContextDefinition, filteringContext, getContext, getContextTranslation, leanerQueryTags, persistContext, queryContextRecordsAndChildren, queryRecordStatus, queryTags, updateContextAttributes]

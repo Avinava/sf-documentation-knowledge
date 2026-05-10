@@ -5,7 +5,7 @@ topic: postauthapipaymentmethodrequestcardpaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.116Z
+lastCollected: 2026-05-10T00:39:31.016Z
 estimatedTokens: 197
 keywords: [PostAuthApiPaymentMethodRequest, cardPaymentMethodRequest, Constructs, sample, intended, test, throws, exception, outside, Apex, context]
 ---

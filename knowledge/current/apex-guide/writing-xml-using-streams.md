@@ -5,7 +5,7 @@ topic: writing-xml-using-streams
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.856Z
+lastCollected: 2026-05-10T00:39:54.532Z
 estimatedTokens: 284
 keywords: [Writing, XML, Streams, XmlStreamWriter, enable, Writer]
 ---

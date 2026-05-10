@@ -5,7 +5,7 @@ topic: search-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.807Z
+lastCollected: 2026-05-10T00:39:21.228Z
 estimatedTokens: 4624
 namespace: ConnectApi
 keywords: [Search, keywords, natural, language, query, answer, API, Guest, Users, Requires, Chatter, objectApiName, displayFields, findAndGroup, configurationName, highlights, Test, setTestAnswer, result, setTestFindAndGroup, setTestFind, Performs, dynamic, SOSL, include, SNIPPET, clause, Snippets, provide, context, users, Salesforce, Knowledge, article, results, searchQuery, accessLevel, suggest, sObjectType, suggestions]

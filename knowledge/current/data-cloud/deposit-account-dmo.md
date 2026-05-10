@@ -5,7 +5,7 @@ topic: deposit-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.430Z
+lastCollected: 2026-05-10T00:39:12.867Z
 estimatedTokens: 352
 keywords: [Category, Relationships, Deposit, Account, DMO, subtype, financial, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

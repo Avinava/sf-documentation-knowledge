@@ -5,7 +5,7 @@ topic: class-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.391Z
+lastCollected: 2026-05-10T00:39:50.530Z
 estimatedTokens: 305
 keywords: [Variables, API, 50.0, scope, accessibility, enforced, Apex, inner, classes, interfaces, annotated, @namespaceAccessible, considerations, NamespaceAcc, Versioned, Behavior, Changes]
 ---

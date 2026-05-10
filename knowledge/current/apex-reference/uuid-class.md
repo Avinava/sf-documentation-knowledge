@@ -5,7 +5,7 @@ topic: uuid-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.337Z
+lastCollected: 2026-05-10T00:39:25.830Z
 estimatedTokens: 989
 namespace: System
 keywords: [UUID, randomly, generate, universally, unique, identifier, compare, UUIDs, convert, instance, equals, obj, fromString, str, hashCode, randomUUID, toString]

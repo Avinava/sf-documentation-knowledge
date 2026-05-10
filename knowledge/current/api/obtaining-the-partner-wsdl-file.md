@@ -5,12 +5,10 @@ topic: obtaining-the-partner-wsdl-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.766Z
+lastCollected: 2026-05-10T00:40:44.123Z
 estimatedTokens: 219
 keywords: [Obtaining, Partner, WSDL, File, download, copy, either]
 ---
-
-# Obtaining the Partner WSDL File
 
 > To use the partner WSDL, download a copy of the file using either of the following methods:
 

@@ -5,7 +5,7 @@ topic: consent-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.264Z
+lastCollected: 2026-05-10T00:39:10.562Z
 estimatedTokens: 447
 keywords: [Consent, Schema, Management, either, grant, revoke, Engagement, Mobile, SDK, customer, opts, application, consentLog, event, indicating, choice, along, events, got, collected, sent, containing, their, Cloud]
 ---

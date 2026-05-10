@@ -5,12 +5,10 @@ topic: soap-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:33:57.897Z
+lastCollected: 2026-05-10T00:40:46.388Z
 estimatedTokens: 134
 keywords: [SOAP, API, Release, Notes, Salesforce, recent, updates, changes]
 ---
-
-# SOAP API Release Notes
 
 > Use the Salesforce Release Notes to learn about the most recent updates and changes to
   SOAP API.

@@ -5,7 +5,7 @@ topic: cleanrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:48.729Z
+lastCollected: 2026-05-10T00:40:40.502Z
 estimatedTokens: 1512
 keywords: [CleanRule, integration, rule, how, service, adds, updates, records, org, SOAP, REST, HTTP]
 ---

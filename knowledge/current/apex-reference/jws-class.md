@@ -5,7 +5,7 @@ topic: jws-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.555Z
+lastCollected: 2026-05-10T00:39:22.580Z
 estimatedTokens: 1222
 namespace: Auth
 keywords: [JWS, apply, digital, JSON, Web, Token, JWT, structure, creates, signed, bearer, OAuth, 2.0, flow, certDevName, payload, clone, getCompactSerialization]

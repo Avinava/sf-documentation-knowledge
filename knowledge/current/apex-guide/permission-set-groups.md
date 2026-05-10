@@ -5,7 +5,7 @@ topic: permission-set-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.134Z
+lastCollected: 2026-05-10T00:39:53.319Z
 estimatedTokens: 368
 keywords: [Permission, Groups, provide, Apex, test, coverage, write, tests, calculatePermissionSetGroup, System.Test]
 ---

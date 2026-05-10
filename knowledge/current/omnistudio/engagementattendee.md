@@ -5,7 +5,7 @@ topic: engagementattendee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.672Z
+lastCollected: 2026-05-10T00:40:34.561Z
 estimatedTokens: 1336
 keywords: [EngagementAttendee, attendee, engagement, customer, initiates, interaction, calling, service, representative, inquire, insurance, claim, stores, API, 55.0]
 ---

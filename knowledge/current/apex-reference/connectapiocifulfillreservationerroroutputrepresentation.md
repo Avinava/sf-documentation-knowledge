@@ -5,7 +5,7 @@ topic: connectapiocifulfillreservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.380Z
+lastCollected: 2026-05-10T00:39:40.825Z
 estimatedTokens: 116
 keywords: [fulfill, inventory, reservation]
 ---

@@ -5,7 +5,7 @@ topic: sfdcsurveys-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.343Z
+lastCollected: 2026-05-10T00:39:48.824Z
 estimatedTokens: 214
 namespace: The
 keywords: [sfdc_surveys, shortening, survey, invitations, sfdc, _surveys]

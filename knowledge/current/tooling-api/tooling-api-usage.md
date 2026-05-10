@@ -5,7 +5,7 @@ topic: tooling-api-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:33.512Z
+lastCollected: 2026-05-10T00:40:18.174Z
 estimatedTokens: 924
 namespace: ClassA
 keywords: [Tooling, API, SOQL, queries, relationships, metadata, org, query, results, include, row, relationship, directional, dependency, two]

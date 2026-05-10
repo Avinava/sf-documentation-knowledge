@@ -6,13 +6,10 @@ topic: sample-visualforce-page-using-the-ajax-toolkit-using-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.666Z
-estimatedTokens: 291
+lastCollected: 2026-05-10T00:40:43.974Z
+estimatedTokens: 288
 keywords: [Sample, Visualforce, AJAX, Toolkit, demonstrates]
 ---
-
-# Sample Visualforce Page Using the AJAX Toolkit Using the
-      AJAX Toolkit
 
 > This example demonstrates using the AJAX Toolkit in a Visualforce page.
 
@@ -34,7 +31,7 @@ To add JavaScript to a Visualforce page, use this procedure:
 
 After you created and navigated to the Visualforce page, you see text similar to this image:
 
-![output of scontrol, list of Ids, names, and value for industry](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fajax%2Fimages%2Fscontrol_output.gif&folder=ajax)
+![output of scontrol, list of Ids, names, and value for industry](/docs/resources/img/en-us/260.0?doc_id=ajax%2Fimages%2Fscontrol_output.gif&folder=ajax)
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=ajax)
 

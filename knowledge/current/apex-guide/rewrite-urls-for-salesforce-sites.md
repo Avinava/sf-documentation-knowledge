@@ -5,7 +5,7 @@ topic: rewrite-urls-for-salesforce-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.523Z
+lastCollected: 2026-05-10T00:39:53.975Z
 estimatedTokens: 2333
 keywords: [Rewrite, URLs, Salesforce, Sites, built-in, logic, helps, display, user-friendly, links, site, visitors, URL, requests, typed, address, bar, launched, bookmarks, linked, external, websites, pages, rewriting, descriptive, intuitive, users, search, engines, better, index, Creating, Apex, Adding, Code]
 ---

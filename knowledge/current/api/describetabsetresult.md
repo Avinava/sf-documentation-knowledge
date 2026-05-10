@@ -5,12 +5,10 @@ topic: describetabsetresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.240Z
+lastCollected: 2026-05-10T00:40:45.142Z
 estimatedTokens: 297
-keywords: [DescribeTabSetResult, describeTabs, call, array, objects]
+keywords: [DescribeTabSetResult, describeTabs, call, array]
 ---
-
-# DescribeTabSetResult
 
 > The describeTabs() call returns an array of
     DescribeTabSetResult objects.

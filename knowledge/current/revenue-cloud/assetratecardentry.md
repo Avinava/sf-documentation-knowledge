@@ -5,7 +5,7 @@ topic: assetratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.278Z
+lastCollected: 2026-05-10T00:39:08.384Z
 estimatedTokens: 1010
 keywords: [AssetRateCardEntry, Stores, negotiated, rate, card, entries, asset, Revenue, Cloud, API, 62.0]
 ---

@@ -5,7 +5,7 @@ topic: connectapi-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.719Z
+lastCollected: 2026-05-10T00:39:49.454Z
 estimatedTokens: 196
 namespace: ConnectApi
 keywords: [ConnectApi, Utilities, utility]

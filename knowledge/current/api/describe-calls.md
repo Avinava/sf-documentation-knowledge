@@ -5,12 +5,10 @@ topic: describe-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.362Z
+lastCollected: 2026-05-10T00:40:45.429Z
 estimatedTokens: 1014
-keywords: [Describe, Calls, API, Samples]
+keywords: [Samples, Describe, API]
 ---
-
-# Describe Calls
 
 > Lists supported describe calls in the API.
 

@@ -5,7 +5,7 @@ topic: appexperiencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.560Z
+lastCollected: 2026-05-10T00:40:00.576Z
 estimatedTokens: 606
 keywords: [AppExperienceSettings, settings, app, experience.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

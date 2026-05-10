@@ -5,8 +5,8 @@ topic: genaifunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.432Z
-estimatedTokens: 2807
+lastCollected: 2026-05-10T00:40:06.819Z
+estimatedTokens: 2828
 keywords: [GenAiFunction, GenAiPlannerAttr, agent, action, added, Parent, File, Suffix, Directory, Location, Folder, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
@@ -44,7 +44,7 @@ GenAiFunction is available only if Agents is enabled in your org.
 | --- | --- |
 | description | Field TypestringDescriptionA description explaining the general purpose and domain of the action. |
 | invocationTarget | Field TypestringDescriptionRequired. Target invocation used by invocation operations. |
-| invocationTargetType | Field TypePlannerFunctionInvocableTargetType (enumeration of type string)DescriptionRequired. Invocable action type used by invocation operations.Values are:apexapicreateCatalogItemRequestflowgeneratePromptResponseexternalServicequickActionslackstandardInvocableAction |
+| invocationTargetType | Field TypePlannerFunctionInvocableTargetType (enumeration of type string)DescriptionRequired. Invocable action type used by invocation operations.Values are:apiapexauraEnabledcreateCatalogItemRequestexecuteIntegrationProcedureexternalServiceflowgeneratePromptResponsemcpToolnamedQueryquickActionretrieverrunExpressionSetslackstandardInvocableActionstub |
 | isConfirmationRequired | Field TypebooleanDescriptionIndicates whether confirmation is required for this action. |
 | isIncludeInProgressIndicator | Field TypebooleanDescriptionIndicates whether to display the progress indicator for this action. |
 | mappingAttributes | Field TypeGenAiPlannerAttr[]DescriptionList of attributes for the planner. |

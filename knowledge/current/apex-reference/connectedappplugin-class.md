@@ -5,7 +5,7 @@ topic: connectedappplugin-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.510Z
+lastCollected: 2026-05-10T00:39:22.498Z
 estimatedTokens: 4122
 namespace: Auth
 keywords: [ConnectedAppPlugin, Deprecated, API, versions, 35.0, 36.0, 37.0, authorize, userId, connectedAppId, isAdminApproved, context, instead, customAttributes, formulaDefinedAttributes, modifySAMLResponse, authSession, samlResponse, refresh]

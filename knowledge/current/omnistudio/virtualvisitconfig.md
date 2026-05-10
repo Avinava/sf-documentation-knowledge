@@ -5,7 +5,7 @@ topic: virtualvisitconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.330Z
+lastCollected: 2026-05-10T00:40:35.511Z
 estimatedTokens: 1476
 keywords: [VirtualVisitConfig, configuration, external, video, provider, API, 54.0]
 ---

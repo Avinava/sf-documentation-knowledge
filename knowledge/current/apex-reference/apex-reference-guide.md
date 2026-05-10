@@ -5,8 +5,8 @@ topic: apex-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T18:36:15.483Z
-estimatedTokens: 4331
+lastCollected: 2026-05-10T00:39:49.065Z
+estimatedTokens: 4439
 namespace: ApexPages
 keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, enums, exceptions, grouped, DML, insert, merge, restore]
 ---
@@ -101,6 +101,8 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
     The ise\_bots\_apex namespace provides classes and properties to facilitate dynamic content generation and data handling for menu-driven bot interactions. Create and manage dynamic menu items that adapt to user inputs, context, and underlying object data.
 -   **[IssueCreditMemo Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_issuecreditmemo.htm)**
     The IssueCreditMemo namespace provides classes to create and apply credit memos against invoices or invoice lines based on dispute adjustments.
+-   **[ind\_mfg\_sample\_mgmt\_apex Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_ind_mfg_sample_mgmt_apex.htm)**
+    The ind\_mfg\_sample\_mgmt\_apex namespace provides classes and properties to manage the lifecycle and documentation of product requirements in manufacturing. Create, update, or version Product Requirement Specification records to ensure sample data remains consistent and compliant with production standards.
 -   **[industriesNlpSvc](atlas.en-us.apexref.meta/apexref/apex_namespace_industriesNlpSvc.htm)**
     Stores the objects used in Industries Einstein Natural Language Processing (NLP) services.
 -   **[IndustriesDigitalLending Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_industriesDigitalLending.htm)**
@@ -173,7 +175,7 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
     The UserProvisioning namespace provides methods for monitoring outbound user provisioning requests.
 -   **[VisualEditor Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_VisualEditor.htm)**
     The VisualEditor namespace provides classes and methods for interacting with the Lightning App Builder. The classes and methods in this namespace operate on Lightning components, which include Lightning web components and Aura components.
--   **[Wave Namespace Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_wave.htm)**
+-   **[Wave Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_wave.htm)**
     The classes in the Wave namespace are part of the CRM Analytics Analytics SDK, designed to facilitate querying CRM Analytics data from Apex code.
 -   **[Appendices](atlas.en-us.apexref.meta/apexref/apex_appendices.htm)**
 

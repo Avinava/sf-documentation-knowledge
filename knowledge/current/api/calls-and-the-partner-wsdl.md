@@ -5,12 +5,10 @@ topic: calls-and-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.699Z
+lastCollected: 2026-05-10T00:40:44.075Z
 estimatedTokens: 649
-keywords: [Calls, Partner, WSDL, file, API, found, enterprise, client, application, likely, determine, organization’s, metadata, sObject, Reuse]
+keywords: [Partner, WSDL, file, API, found, enterprise, client, application, likely, determine, organization’s, metadata, sObject, Reuse]
 ---
-
-# Calls and the Partner WSDL
 
 > The partner WSDL file defines exactly the same API calls found in the enterprise WSDL file. A
    client application using the partner WSDL will likely use the following API calls to determine an

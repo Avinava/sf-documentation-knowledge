@@ -5,7 +5,7 @@ topic: run-unit-tests-synchronously
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.328Z
+lastCollected: 2026-05-10T00:40:14.729Z
 estimatedTokens: 1922
 keywords: [Run, Unit, Tests, Synchronously, Test, Runner, API, execute, Apex, flow, synchronous, 30.0, automated, 65.0]
 ---

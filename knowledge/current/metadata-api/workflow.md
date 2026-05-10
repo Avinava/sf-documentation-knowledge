@@ -5,7 +5,7 @@ topic: workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:30.976Z
+lastCollected: 2026-05-10T00:40:14.174Z
 estimatedTokens: 6513
 keywords: [Workflow, WorkflowActionReference, WorkflowAlert, WorkflowEmailRecipient, WorkflowFieldUpdate, WorkflowFlowAction, WorkflowFlowActionParameter, WorkflowKnowledgePublish, WorkflowOutboundMessage, WorkflowRule, WorkflowTask, WorkflowTimeTrigger, metadata, rule, actions, motion, designated, conditions, met, configure, execute, immediately, record, meets, time, triggers, specific, day, definitions, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

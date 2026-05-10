@@ -5,12 +5,10 @@ topic: compileandtest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.805Z
+lastCollected: 2026-05-10T00:40:44.212Z
 estimatedTokens: 464
-keywords: [compileAndTest, Compile, test, Apex, call, Usage, Sample, Code—Java, Arguments]
+keywords: [Arguments, compileAndTest, Compile, test, Apex, call, Sample, Code—Java]
 ---
-
-# compileAndTest()
 
 > Compile and test your Apex in a single call.
 

@@ -5,7 +5,7 @@ topic: configuration-set-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.586Z
+lastCollected: 2026-05-10T00:39:04.880Z
 estimatedTokens: 327
 keywords: [Configuration, Instance, POST, product, API, scenarios, different, database, Salesforce, catalog, management]
 ---

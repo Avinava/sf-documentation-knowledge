@@ -5,7 +5,7 @@ topic: procedureoutputresolution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.335Z
+lastCollected: 2026-05-10T00:39:07.226Z
 estimatedTokens: 501
 keywords: [ProcedureOutputResolution, pricing, resolution, determined, strategy, formula, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, API, 63.0]
 ---

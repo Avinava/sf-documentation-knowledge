@@ -5,7 +5,7 @@ topic: data-processing-engine-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.088Z
+lastCollected: 2026-05-10T00:40:29.057Z
 estimatedTokens: 153
 keywords: [Processing, Engine, Metadata, API, activate, definitions]
 ---

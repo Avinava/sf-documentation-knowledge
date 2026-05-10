@@ -2,7 +2,7 @@
 domain: order-management-developer-guide-html
 name: Salesforce Order Management Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.957Z
+lastGenerated: 2026-05-10T00:40:49.330Z
 ---
 
 # Salesforce Order Management Developer Guide — Knowledge Index

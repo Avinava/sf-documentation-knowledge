@@ -5,7 +5,7 @@ topic: integrationinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.350Z
+lastCollected: 2026-05-10T00:39:29.704Z
 estimatedTokens: 577
 keywords: [IntegrationInfo, B2B, Commerce, Checkout, uses, map, requests, responses, necessary, metadata, context, integrationId, jobId, siteLanguage]
 ---

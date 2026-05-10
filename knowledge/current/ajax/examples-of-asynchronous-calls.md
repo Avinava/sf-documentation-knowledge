@@ -5,12 +5,10 @@ topic: examples-of-asynchronous-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.632Z
+lastCollected: 2026-05-10T00:40:43.874Z
 estimatedTokens: 78
-keywords: [Examples, Asynchronous, Calls]
+keywords: [Examples, Asynchronous]
 ---
-
-# Examples of Asynchronous Calls
 
 # Examples of Asynchronous Calls
 

@@ -5,7 +5,7 @@ topic: validationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.826Z
+lastCollected: 2026-05-10T00:40:20.135Z
 estimatedTokens: 1083
 keywords: [ValidationRule, validation, rule, workflow, formula, condition, met, API, 34.0, SOAP, REST, HTTP, Metadata]
 ---

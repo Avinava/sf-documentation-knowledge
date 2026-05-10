@@ -5,7 +5,7 @@ topic: use-a-visualforce-global-variable-for-the-platform-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.164Z
+lastCollected: 2026-05-10T00:39:53.365Z
 estimatedTokens: 465
 namespace: CacheBuilder
 keywords: [Visualforce, Variable, Platform, Cache, cached, stored, session, org, variables]

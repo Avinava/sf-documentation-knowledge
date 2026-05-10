@@ -5,12 +5,10 @@ topic: sample-update-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.794Z
+lastCollected: 2026-05-10T00:40:44.191Z
 estimatedTokens: 333
 keywords: [Sample, Call, Java, examples, show, how, Partner, WSDL]
 ---
-
-# Sample update() Call
 
 > These Java and C# examples show how to use the update() call for the Partner WSDL.
 

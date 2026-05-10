@@ -6,7 +6,7 @@ topic: type-resolution-and-system-namespace-for-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:16.569Z
+lastCollected: 2026-05-10T00:39:50.814Z
 estimatedTokens: 203
 keywords: [Resolution, System, T1.T2, mean, inner, top-level, order, precedence]
 ---

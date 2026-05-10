@@ -5,7 +5,7 @@ topic: livechatagentconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.273Z
+lastCollected: 2026-05-10T00:40:08.149Z
 estimatedTokens: 2018
 keywords: [LiveChatAgentConfig, AgentConfigAssignments, AgentConfigButtons, AgentConfigProfileAssignments, AgentConfigSkills, AgentConfigUserAssignments, SupervisorAgentConfigSkills, configuration, organization’s, Chat, deployment, how, chats, assigned, agent, whether, sounds, enabled, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

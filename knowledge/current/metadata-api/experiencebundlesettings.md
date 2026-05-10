@@ -5,7 +5,7 @@ topic: experiencebundlesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.633Z
+lastCollected: 2026-05-10T00:40:05.489Z
 estimatedTokens: 720
 keywords: [ExperienceBundleSettings, org, setting, ExperienceBundle, metadata, Aura, sites, Experience, Cloud, doesn’t, affect, LWR, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

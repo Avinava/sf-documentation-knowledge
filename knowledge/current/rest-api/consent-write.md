@@ -5,7 +5,7 @@ topic: consent-write
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.643Z
+lastCollected: 2026-05-10T00:39:57.477Z
 estimatedTokens: 1400
 keywords: [Security, Consent, Write, users, store, preferences, different, locations, API, across, multiple, records, call, helping, sync, populate, new, model, resource, REST, 48.0]
 ---

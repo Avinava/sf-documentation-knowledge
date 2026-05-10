@@ -5,7 +5,7 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.121Z
+lastCollected: 2026-05-10T00:40:01.510Z
 estimatedTokens: 2331
 keywords: [BrandingSet, BrandingSetProperty, definition, branding, Experience, Builder, site, org's, Lightning, theme, File, Suffix, Directory, Location, Themes, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

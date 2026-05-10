@@ -5,7 +5,7 @@ topic: pricing-recipe-lookup-table-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:12.564Z
+lastCollected: 2026-05-10T00:39:03.429Z
 estimatedTokens: 124
 keywords: [Pricing, Recipe, LookUp, tables, setup]
 ---

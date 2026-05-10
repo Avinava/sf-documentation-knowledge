@@ -5,7 +5,7 @@ topic: custom-event-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.299Z
+lastCollected: 2026-05-10T00:39:10.594Z
 estimatedTokens: 517
 keywords: [Event, Schema, models, provided, Engagement, Mobile, SDK, cart, catalog, order, unified, model, across, Salesforce, capture]
 ---

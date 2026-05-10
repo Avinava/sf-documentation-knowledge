@@ -5,7 +5,7 @@ topic: tabdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.664Z
+lastCollected: 2026-05-10T00:40:19.905Z
 estimatedTokens: 584
 keywords: [TabDefinition, tab, tabs, org, API, 43.0, SOAP, REST, HTTP]
 ---

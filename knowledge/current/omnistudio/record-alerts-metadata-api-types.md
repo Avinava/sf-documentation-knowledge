@@ -5,7 +5,7 @@ topic: record-alerts-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.528Z
+lastCollected: 2026-05-10T00:40:32.752Z
 estimatedTokens: 190
 keywords: [Record, Alerts, Metadata, API, feature, settings, customize, user, Developer]
 ---

@@ -5,7 +5,7 @@ topic: fieldset-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.093Z
+lastCollected: 2026-05-10T00:39:46.758Z
 estimatedTokens: 1267
 namespace: Schema.FieldSet
 keywords: [FieldSet, translation, text, label, Salesforce, user, Displaying, Visualforce, getDescription, getFields, getLabel, getName, getNamespace, getSObjectType]

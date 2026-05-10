@@ -6,7 +6,7 @@ topic: what-can-i-do-with-lightning-web-components-in-the-field-service-field-se
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:48.707Z
+lastCollected: 2026-05-10T00:40:40.471Z
 estimatedTokens: 190
 keywords: [Lightning, Web, Service, Mobile, App, accessed, Actions, menu, built, LWCs, simple, complex, depending, problem, you’re, solving, work, devices, offline, add, annotate, image, attach, report, order, part, contact, SME, dashboard, workers, pretty, much, anything, Salesforce]
 ---

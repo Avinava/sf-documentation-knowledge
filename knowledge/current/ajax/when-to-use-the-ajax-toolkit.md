@@ -5,12 +5,10 @@ topic: when-to-use-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.670Z
+lastCollected: 2026-05-10T00:40:43.981Z
 estimatedTokens: 536
-keywords: [AJAX, Toolkit, best, performance, working, small, amounts, data]
+keywords: [AJAX, Toolkit, best, performance, working, small, amounts]
 ---
-
-# When to Use the AJAX Toolkit
 
 > For best performance, use the AJAX Toolkit when working with small amounts of
   data.

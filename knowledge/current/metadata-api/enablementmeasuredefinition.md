@@ -5,7 +5,7 @@ topic: enablementmeasuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:25.391Z
+lastCollected: 2026-05-10T00:40:05.111Z
 estimatedTokens: 2176
 keywords: [EnablementMeasureDefinition, EnablementMeasureSourceObjectDefinition, EnablementMeasureFilterDefinition, EnablementMeasureRelatedObjectDefinition, Enablement, measure, job-related, activity, user, performs, milestone, outcome, program, identifies, source, filters, filter, logic, avoid, deployment, errors, deploy, measures, programs, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

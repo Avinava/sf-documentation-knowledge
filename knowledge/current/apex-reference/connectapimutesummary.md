@@ -5,7 +5,7 @@ topic: connectapimutesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.224Z
+lastCollected: 2026-05-10T00:39:40.593Z
 estimatedTokens: 66
 keywords: [ConnectApi.MuteSummary, Summary, mute]
 ---

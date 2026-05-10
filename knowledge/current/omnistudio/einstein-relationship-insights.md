@@ -5,7 +5,7 @@ topic: einstein-relationship-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:41.166Z
+lastCollected: 2026-05-10T00:40:29.165Z
 estimatedTokens: 129
 keywords: [Einstein, Relationship, Insights, Explore, interconnected, relationships, people, companies, web, helps, discover, critical, exploring, disparate, sources, unstructured, pages, structured, Salesforce, records]
 ---

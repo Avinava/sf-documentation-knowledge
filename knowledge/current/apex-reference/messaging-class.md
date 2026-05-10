@@ -5,7 +5,7 @@ topic: messaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.634Z
+lastCollected: 2026-05-10T00:39:30.180Z
 estimatedTokens: 6099
 namespace: System
 keywords: [Messaging, email, service, code, control, how, parse, process, forwarded, attached, emails, instance, Messaging.InboundEmail, stream, RFC822, attachment, InboundEmail, another, source, extractInboundEmail, includeForwardedAttachments, reserveMassEmailCapacity, amountReserved, reserveSingleEmailCapacity, sendEmail, allOrNothing, sendEmailMessage, emailMessageIds, Versioned, Behavior, Changes, renderEmailTemplate, whoId, whatId, bodies, renderStoredEmailTemplate, templateId, attachmentRetrievalOption, updateEmailTemplateUsage]

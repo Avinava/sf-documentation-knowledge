@@ -5,7 +5,7 @@ topic: inboundemail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.565Z
+lastCollected: 2026-05-10T00:39:30.067Z
 estimatedTokens: 2861
 namespace: Messaging
 keywords: [InboundEmail, inbound, email, authenticationResults, binaryAttachments, ccAddresses, fromAddress, fromName, htmlBody, htmlBodyIsTruncated, inReplyTo, messageId, plainTextBody, plainTextBodyIsTruncated, references, replyTo, subject, textAttachments, toAddresses]

@@ -5,7 +5,7 @@ topic: groupingcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.119Z
+lastCollected: 2026-05-10T00:39:29.314Z
 estimatedTokens: 746
 namespace: Reports
 keywords: [GroupingColumn, describing, column, grouping, getName, getLabel, getDataType, getGroupingLevel]

@@ -5,7 +5,7 @@ topic: set-up-an-asynchronous-payment-gateway-adapter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:16.787Z
+lastCollected: 2026-05-10T00:39:51.161Z
 estimatedTokens: 1321
 keywords: [Asynchronous, Payment, Gateway, Adapter, payments, transactions, configure, Salesforce]
 ---

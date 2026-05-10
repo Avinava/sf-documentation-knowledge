@@ -5,7 +5,7 @@ topic: buyergroupevaluationservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.703Z
+lastCollected: 2026-05-10T00:39:22.862Z
 estimatedTokens: 1186
 namespace: CommerceBuyGrp
 keywords: [Consideration, BuyerGroupEvaluationService, define, execute, business, logic, dynamically, assigning, users, buyer, groups, Unlike, out-of-the-box, configurations, limited, account, market, segment-based, service, supports, extensibility, empowers, implement, tailored, group, evaluation, strategies, guest, logged-in, user, scenarios, enabling, highly, customizable, context-specific, determination, getBuyerGroupIds]

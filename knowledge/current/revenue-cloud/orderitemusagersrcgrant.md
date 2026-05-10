@@ -5,7 +5,7 @@ topic: orderitemusagersrcgrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.725Z
+lastCollected: 2026-05-10T00:39:09.027Z
 estimatedTokens: 899
 keywords: [OrderItemUsageRsrcGrant, negotiated, grants, resource, that's, product, added, order, item, API, 65.0]
 ---

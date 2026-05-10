@@ -5,7 +5,7 @@ topic: category-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:13.773Z
+lastCollected: 2026-05-10T00:39:05.125Z
 estimatedTokens: 383
 keywords: [Category, definition]
 ---

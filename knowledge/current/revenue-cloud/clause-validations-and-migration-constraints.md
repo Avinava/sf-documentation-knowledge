@@ -5,7 +5,7 @@ topic: clause-validations-and-migration-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:14.965Z
+lastCollected: 2026-05-10T00:39:06.648Z
 estimatedTokens: 1239
 keywords: [Clause, Validations, Migration, Constraints, Validation, model, known, behaviors, affect, records, Review, understand, sequencing, status, handling, dependency, requirements, impact, success, Mapping]
 ---

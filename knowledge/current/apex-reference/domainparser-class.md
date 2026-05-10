@@ -5,7 +5,7 @@ topic: domainparser-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.016Z
+lastCollected: 2026-05-10T00:39:25.406Z
 estimatedTokens: 1217
 namespace: System
 keywords: [Examples, DomainParser, parse, domain, Salesforce, hosts, org, extract, hostname, url]

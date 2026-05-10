@@ -5,7 +5,7 @@ topic: connectapiexternalmanagedaccountoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:09.124Z
+lastCollected: 2026-05-10T00:39:38.820Z
 estimatedTokens: 219
 keywords: [ConnectApi.ExternalManagedAccountOutput, Externally, managed, account]
 ---

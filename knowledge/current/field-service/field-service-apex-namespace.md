@@ -5,7 +5,7 @@ topic: field-service-apex-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.869Z
+lastCollected: 2026-05-10T00:40:37.760Z
 estimatedTokens: 218
 namespace: The
 keywords: [Service, Apex, managed, package, FSL, whose, functions, extend, features, programmatically]

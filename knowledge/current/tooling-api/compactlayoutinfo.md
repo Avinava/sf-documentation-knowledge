@@ -5,7 +5,7 @@ topic: compactlayoutinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.082Z
+lastCollected: 2026-05-10T00:40:15.891Z
 estimatedTokens: 1067
 keywords: [CompactLayoutInfo, Limitations, metadata, standard, compact, layout, SOAP, REST, HTTP]
 ---

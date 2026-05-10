@@ -5,7 +5,7 @@ topic: actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:18.344Z
+lastCollected: 2026-05-10T00:39:53.679Z
 estimatedTokens: 924
 keywords: [Actions, quick, add, Salesforce, Classic, home, Chatter, tab, groups, record, detail, pages, Choose, standard, company’s, needs]
 ---

@@ -5,7 +5,7 @@ topic: minimize-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.283Z
+lastCollected: 2026-05-10T00:40:42.659Z
 estimatedTokens: 221
 keywords: [Arguments, minimize, Lightning, Experience, Minimizes, utility, Web, LWC, Sample, Code]
 ---

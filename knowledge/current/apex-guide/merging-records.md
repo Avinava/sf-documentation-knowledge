@@ -5,7 +5,7 @@ topic: merging-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:19.458Z
+lastCollected: 2026-05-10T00:39:55.554Z
 estimatedTokens: 646
 keywords: [Merging, Records, duplicate, lead, contact, case, account, database, cleaning, consolidating, good, idea, merge, three, sObject, operation, merges, main, record, deletes, reparents, any, Statement, Database.merge, Considerations]
 ---

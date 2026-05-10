@@ -5,7 +5,7 @@ topic: pricebook2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:47.761Z
+lastCollected: 2026-05-10T00:40:39.025Z
 estimatedTokens: 1660
 keywords: [Pricebook2, price, book, products, org, sells, Product2, PricebookEntry, Relationships, Setup, Code, Sample—Java]
 ---

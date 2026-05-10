@@ -5,12 +5,10 @@ topic: describesearchscopeorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.135Z
+lastCollected: 2026-05-10T00:40:44.889Z
 estimatedTokens: 388
-keywords: [describeSearchScopeOrder, Retrieves, ordered, objects, user's, search, scope, Usage, Sample, Code—Java, Arguments, Fault]
+keywords: [Arguments, Fault, describeSearchScopeOrder, Retrieves, ordered, user's, search, scope, Sample, Code—Java]
 ---
-
-# describeSearchScopeOrder()
 
 > Retrieves an ordered list of the objects in a user's default global search
     scope.

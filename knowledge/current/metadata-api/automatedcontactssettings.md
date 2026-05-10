@@ -5,7 +5,7 @@ topic: automatedcontactssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.784Z
+lastCollected: 2026-05-10T00:40:00.950Z
 estimatedTokens: 886
 keywords: [AutomatedContactsSettings, org’s, Einstein, Automated, Contacts, settings, let, new, opportunity, contact, roles, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

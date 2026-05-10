@@ -5,7 +5,7 @@ topic: confirmuserregistrationhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.070Z
+lastCollected: 2026-05-10T00:39:45.040Z
 estimatedTokens: 1294
 namespace: Auth
 keywords: [ConfirmUserRegistrationHandler, Manages, sign-on, SSO, user, mappings, Salesforce, third-party, identity, provider, confirm, updating, confirmUser, userId, tpalId, portalId, userdata, Implementation]

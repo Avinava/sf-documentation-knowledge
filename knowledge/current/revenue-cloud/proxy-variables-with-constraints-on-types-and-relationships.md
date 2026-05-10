@@ -5,7 +5,7 @@ topic: proxy-variables-with-constraints-on-types-and-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:12.131Z
+lastCollected: 2026-05-10T00:39:02.815Z
 estimatedTokens: 2431
 keywords: [Cardinality, Parent, Proxy, Variables, Constraints, Relationships, including, root, sibling, Examples, Full, Partial, Defining, Relations, Enforcing, Conditional, via, require, Count, Similarity, Difference, Key, Characteristics, Standards, Compliance, Synchronization, Attribute, Explanation, this.quantity, Calculation]
 ---

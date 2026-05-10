@@ -5,7 +5,7 @@ topic: retrycategory-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.780Z
+lastCollected: 2026-05-10T00:39:44.591Z
 estimatedTokens: 216
 keywords: [RetryCategory, retry, category]
 ---

@@ -5,7 +5,7 @@ topic: filter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.871Z
+lastCollected: 2026-05-10T00:39:23.179Z
 estimatedTokens: 854
 namespace: DataSource
 keywords: [Filter, columnName, columnValue, subfilters, tableName]

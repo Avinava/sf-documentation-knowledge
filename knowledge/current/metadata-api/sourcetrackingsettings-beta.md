@@ -5,7 +5,7 @@ topic: sourcetrackingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.816Z
+lastCollected: 2026-05-10T00:40:12.154Z
 estimatedTokens: 676
 keywords: [SourceTrackingSettings, Beta, settings, source, changes, Developer, Pro, sandboxes, local, workspace, tracked, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

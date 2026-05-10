@@ -5,7 +5,7 @@ topic: ordersummary-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.522Z
+lastCollected: 2026-05-10T00:39:20.697Z
 estimatedTokens: 11166
 namespace: ConnectApi
 keywords: [OrderSummary, Retrieve, expected, results, adjusting, price, OrderItemSummaries, actually, executing, adjustment, financial, changes, result, submitting, proposed, adjustPreview, orderSummaryId, adjustInput, API, Requires, Chatter, adjustSubmit, createCreditMemo, creditMemoInput, createMultipleInvoices, invoicesInput, ensureFundsAsync, ensureFundsInput, ensureRefundsAsync, ensureRefundsInput, multipleEnsureFundsAsync, multipleEnsureFundsInput, previewCancel, changeInput, previewReturn, submitCancel, submitReturn]

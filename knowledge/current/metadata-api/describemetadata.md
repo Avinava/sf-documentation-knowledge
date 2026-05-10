@@ -5,7 +5,7 @@ topic: describemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.794Z
+lastCollected: 2026-05-10T00:40:04.173Z
 estimatedTokens: 395
 keywords: [Arguments, Permissions, describeMetadata, call, retrieves, metadata, organization, includes, Apex, classes, triggers, standard, tab, define, app, Sample, Code—Java, describeValueType]
 ---

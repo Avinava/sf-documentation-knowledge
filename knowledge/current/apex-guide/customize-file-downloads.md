@@ -5,7 +5,7 @@ topic: customize-file-downloads
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.429Z
+lastCollected: 2026-05-10T00:39:53.814Z
 estimatedTokens: 629
 namespace: Sfc
 keywords: [Customize, File, Downloads, behavior, files, users, attempt, download, Apex, callback, ContentVersion, supports, modified, antivirus, scanning, rights, management, IRM, operation, customization, API, 39.0, Flow, Execution]

@@ -5,7 +5,7 @@ topic: serviceprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.612Z
+lastCollected: 2026-05-10T00:40:11.853Z
 estimatedTokens: 1826
 keywords: [ServiceProcess, ServiceProcessAttribute, ServiceProcessDependency, ServiceProcessItemGroup, process, created, Service, Studio, attributes, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

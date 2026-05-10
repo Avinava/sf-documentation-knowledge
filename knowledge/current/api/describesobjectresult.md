@@ -5,12 +5,10 @@ topic: describesobjectresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.149Z
+lastCollected: 2026-05-10T00:40:44.919Z
 estimatedTokens: 72
-keywords: [describeSObjectResult, describeSObject, call, DescribeSObjectResult, possible, changed, noninclusive, terms, align, company, Equality, Because, changing, code, break, current, implementations, maintained]
+keywords: [describeSObjectResult, describeSObject, call, DescribeSObjectResult, ActionOverride, ChildRelationship, FieldType, FilteredLookupInfo, SOAPType, PicklistEntry, RecordTypeInfo, NamedLayoutInfo, ScopeInfo, possible, changed, noninclusive, terms, align, company, Equality, Because, changing, code, break, current, implementations, maintained, object’s, Dependent, Picklists, Sample, Java]
 ---
-
-# describeSObjectResult
 
 > Where possible, we changed noninclusive terms to align with our company value of Equality. Because changing terms in our code can break current implementations, we maintained this object’s name.
 
@@ -113,6 +111,7 @@ In the DescribeSObjectResult, the fields property contains an array of Field obj
 | autonumber | boolean | Indicates whether this field is an autonumber field (true) or not (false). Analogous to a SQL IDENTITY type, autonumber fields are read only, non-createable text fields with a maximum length of 30 characters. Autonumber fields are read-only fields used to provide a unique ID that is independent of the internal object ID (such as a purchase order number or invoice number). Autonumber fields are configured entirely in the Salesforce user interface. The API provides access to this attribute so that client applications can determine whether a given field is an autonumber field. |
 | byteLength | int | For variable-length fields (including binary fields), the maximum size of the field, in bytes. |
 | calculated | boolean | Indicates whether the field is a custom formula field (true) or not (false). Note that custom formula fields are always read-only. |
+| calculatedFormula | string | The formula used to calculate the value of a formula field. Returns the formula expression as a string. This property is populated only when calculated is (true). If the field is not a formula field, this value is null. |
 | caseSensitive | boolean | Indicates whether the field is case sensitive (true) or not (false). |
 | controllerName | string | The name of the field that controls the values of this picklist. It only applies if type is picklist or multipicklist and dependentPicklist is true. The mapping of controlling field to dependent field is stored in the validFor attribute of each PicklistEntry for this picklist. |
 | createable | boolean | Indicates whether the field can be created (true) or not (false). If true, then this field value can be set in a create() call. |

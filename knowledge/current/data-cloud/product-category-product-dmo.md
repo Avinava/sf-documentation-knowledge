@@ -5,7 +5,7 @@ topic: product-category-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.484Z
+lastCollected: 2026-05-10T00:39:13.975Z
 estimatedTokens: 715
 keywords: [Category, Relationships, Product, DMO, model, Cloud, identify, how, products, assigned, categories, Northern, Trail, Outfitters, specific, running, shoe, API, Primary, Subject, Area, Key]
 ---

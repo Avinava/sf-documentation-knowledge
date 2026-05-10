@@ -5,7 +5,7 @@ topic: remoteproxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.295Z
+lastCollected: 2026-05-10T00:40:19.378Z
 estimatedTokens: 977
 keywords: [RemoteProxy, remote, site, settings, external, Salesforce, accessing, sites, Visualforce, pages, Apex, callouts, JavaScript, codes, XmlHttpRequest, s-control, button, accessible, defined, registered, Tooling, API, 37.0, SOAP, REST, HTTP]
 ---

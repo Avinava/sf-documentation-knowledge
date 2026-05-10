@@ -5,7 +5,7 @@ topic: mock-soql-tests-for-data-cloud-data-model-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.854Z
+lastCollected: 2026-05-10T00:39:49.653Z
 estimatedTokens: 1002
 keywords: [Mock, SOQL, Tests, Cloud, Model, query, responses, DMOs, Apex, testing, new, stub, test, dynamic, queries, against, records, context]
 ---

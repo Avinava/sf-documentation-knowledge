@@ -5,7 +5,7 @@ topic: call-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:20.105Z
+lastCollected: 2026-05-10T00:39:56.591Z
 estimatedTokens: 460
 keywords: [Call, Options, client, you’re, REST, API, resources, provide, prefix, don’t, specify, code]
 ---

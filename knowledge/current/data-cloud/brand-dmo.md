@@ -5,7 +5,7 @@ topic: brand-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.254Z
+lastCollected: 2026-05-10T00:39:11.721Z
 estimatedTokens: 539
 keywords: [Category, Relationships, Brand, DMO, Cloud, model, product’s, Northern, Trail, Outfitters, API, Primary, Subject, Area, Key]
 ---

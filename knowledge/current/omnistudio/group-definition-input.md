@@ -5,7 +5,7 @@ topic: group-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:37.062Z
+lastCollected: 2026-05-10T00:40:23.404Z
 estimatedTokens: 263
 keywords: [Group, Definition, party, relationship]
 ---

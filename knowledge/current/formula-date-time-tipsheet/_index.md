@@ -2,7 +2,7 @@
 domain: formula-date-time-tipsheet
 name: Using Date and Date/Time in Formulas
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.941Z
+lastGenerated: 2026-05-10T00:40:49.313Z
 ---
 
 # Using Date and Date/Time in Formulas — Knowledge Index

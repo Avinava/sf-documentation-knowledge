@@ -5,7 +5,7 @@ topic: opportunity-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:54.296Z
+lastCollected: 2026-05-10T00:39:13.707Z
 estimatedTokens: 1233
 keywords: [Category, Relationships, Opportunity, DMO, Cloud, model, deals, sales, progress, yet, completed, API, Primary, Subject, Area, Key]
 ---

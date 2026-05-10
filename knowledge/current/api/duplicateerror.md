@@ -5,12 +5,10 @@ topic: duplicateerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.760Z
+lastCollected: 2026-05-10T00:40:46.148Z
 estimatedTokens: 463
-keywords: [DuplicateError, error, occurred, attempt, made, save, duplicate, record, organization, rules, part, Management, feature, Usage, Java]
+keywords: [DuplicateError, error, occurred, attempt, made, save, duplicate, record, organization, part, Management, feature, Java, Sample]
 ---
-
-# DuplicateError
 
 > Contains information about an error that occurred when an attempt was made to save a
       duplicate record. Use if your organization has set up duplicate rules, which are part of the

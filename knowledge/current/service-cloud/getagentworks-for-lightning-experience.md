@@ -5,7 +5,7 @@ topic: getagentworks-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.862Z
+lastCollected: 2026-05-10T00:40:42.049Z
 estimatedTokens: 192
 keywords: [getAgentWorks, Lightning, Experience, work, items, assigned, agent, open, agent’s, workspace, Sample, Code]
 ---

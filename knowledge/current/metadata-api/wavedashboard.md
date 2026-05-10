@@ -5,7 +5,7 @@ topic: wavedashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:30.829Z
+lastCollected: 2026-05-10T00:40:13.893Z
 estimatedTokens: 578
 keywords: [WaveDashboard, Analytics, application, extends, MetadataWithContent, metadata, inherits, content, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

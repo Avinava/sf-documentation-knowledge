@@ -5,7 +5,7 @@ topic: delete-event-monitoring-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.065Z
+lastCollected: 2026-05-10T00:39:56.530Z
 estimatedTokens: 782
 keywords: [Event, Monitoring, log, files, contain, user’s, Deleting, helps, comply, protection, privacy, regulations, others, can’t, individual, rows, logs, Instead, entire, file, user, activity]
 ---

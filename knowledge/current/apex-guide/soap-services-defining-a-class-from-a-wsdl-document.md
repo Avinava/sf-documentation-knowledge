@@ -5,7 +5,7 @@ topic: soap-services-defining-a-class-from-a-wsdl-document
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.147Z
+lastCollected: 2026-05-10T00:39:50.138Z
 estimatedTokens: 2850
 keywords: [SOAP, Services, Defining, WSDL, Document, Classes, automatically, generated, stored, local, hard, drive, network, Creating, consuming, developers, callouts, external, Web, service, their, Apex, code, Invoking, HTTP, Support, Sending, Callout, Accessing, Features]
 ---

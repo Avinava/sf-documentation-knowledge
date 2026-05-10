@@ -5,12 +5,10 @@ topic: executelistviewrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.275Z
+lastCollected: 2026-05-10T00:40:45.233Z
 estimatedTokens: 157
-keywords: [ExecuteListViewRequest, executeListView, retrieve, data, labels, actions, view]
+keywords: [ExecuteListViewRequest, executeListView, retrieve, labels, actions, view]
 ---
-
-# ExecuteListViewRequest
 
 > Use the ExecuteListViewRequest object with executeListView() to retrieve
   data, labels, and actions from a list view.

@@ -5,7 +5,7 @@ topic: get-apiv1profilemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:51.618Z
+lastCollected: 2026-05-10T00:39:11.037Z
 estimatedTokens: 175
 keywords: [Examples, api, profile, metadata, model, their, category, HTTP, Responses]
 ---

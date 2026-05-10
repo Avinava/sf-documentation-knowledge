@@ -5,7 +5,7 @@ topic: setservicepresencestatus-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.174Z
+lastCollected: 2026-05-10T00:40:42.500Z
 estimatedTokens: 283
 keywords: [Arguments, setServicePresenceStatus, Lightning, Experience, agent's, presence, status, particular, agent, already, logged, log, removes, Sample, Code]
 ---

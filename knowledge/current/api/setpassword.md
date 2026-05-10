@@ -5,12 +5,10 @@ topic: setpassword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.591Z
+lastCollected: 2026-05-10T00:40:45.919Z
 estimatedTokens: 881
-keywords: [setPassword, user's, password, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Arguments, Fault, setPassword, user's, password, Sample, Code—Java, Code—C#]
 ---
-
-# setPassword()
 
 > Sets the specified user's password to the specified value.
 

@@ -5,13 +5,14 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:48.316Z
-estimatedTokens: 826
+lastCollected: 2026-05-10T00:40:39.924Z
+estimatedTokens: 829
 keywords: [TimeSheet, schedule, service, resource’s, time, Workforce, Engagement, API, v47.0]
 ---
 
-> Represents a schedule of a service resource’s time in Field Service or
-			Workforce Engagement. This object is available in API v47.0 and later.
+> Represents a schedule of a service resource’s time in Field Service
+			or Workforce Engagement. This object is available in API v47.0 and
+		later.
 
 # TimeSheet
 
@@ -36,7 +37,7 @@ Field Service or Workforce Engagement must be enabled.
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe owner of the time sheet. |
-| ServiceResourceId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe service resource whose time is being tracked with the time sheet. |
+| ServiceResourceId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe service resource whose time is being tracked with the time sheet. |
 | StartDate | TypedatePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe first day the time sheet covers. |
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe status of the time sheet. The picklist includes the following values, which can be customized:NewSubmittedApproved |
 | TimeSheetEntryCount | TypeintPropertiesFilter, Group, Nillable, SortDescription(Read Only) The number of related time sheet entries. |

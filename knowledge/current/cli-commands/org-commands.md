@@ -5,9 +5,9 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:10.210Z
-estimatedTokens: 22446
-keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, auth, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, refresh, resume]
+lastCollected: 2026-05-10T00:39:00.054Z
+estimatedTokens: 22690
+keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, auth, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, Deprecated, refresh, resume]
 ---
 
 > Assign a permission set to one or more org users.
@@ -84,8 +84,8 @@ Commands to create and manage orgs and scratch org users.
     Open your default scratch org, or another specified org, in a browser.
 -   **[org open agent](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_agent_unified)**
     Open an agent in your org's Agent Builder UI in a browser.
--   **[org open authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_authoring-bundle_unified)**
-    Open your org in Agentforce Studio, specifically in the list view showing the list of agents.
+-   **[org open authoring-bundle (Deprecated)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_authoring-bundle_unified)**
+    The command org open authoring-bundle has been deprecated. Open your org in Agentforce Studio, specifically in the list view showing the list of agents.
 -   **[org refresh sandbox](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_refresh_sandbox_unified)**
     Refresh a sandbox org using the sandbox name.
 -   **[org resume sandbox](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_resume_sandbox_unified)**
@@ -3247,6 +3247,8 @@ Open an agent in your org's Agent Builder UI in a browser.
 
 Use the --api-name flag to open an agent using its API name in the Agent Builder UI of your org. To find the agent's API name, go to Setup in your org and navigate to the agent's details page.
 
+Alternatively, use the --authoring-bundle flag to open an agent in Agentforce Builder. Optionally include --version to open a specific version of the agent. You'll specify the api name of the authoring bundle.
+
 To generate the URL but not launch it in your browser, specify --url-only.
 
 To open Agent Builder in a specific browser, use the --browser flag. Supported browsers are "chrome", "edge", and "firefox". If you don't specify --browser, the org opens in your default browser.
@@ -3266,6 +3268,18 @@ Open the agent in an incognito window of your default browser:
 ```
 
 Open the agent in an org with alias MyTestOrg1 using the Firefox browser:
+
+```
+
+```
+
+Open an agent in Agentforce Builder using its authoring bundle name:
+
+```
+
+```
+
+Open a specific version of an agent in Agentforce Builder:
 
 ```
 
@@ -3307,7 +3321,7 @@ Type: option
 
 \-n | \--api-name API-NAME
 
-Required
+Optional
 
 API name, also known as developer name, of the agent you want to open in the org's Agent Builder UI.
 
@@ -3339,9 +3353,33 @@ Display navigation URL, but don’t launch browser.
 
 Type: boolean
 
-## org open authoring-bundle
+\--authoring-bundle AUTHORING-BUNDLE
 
-Open your org in Agentforce Studio, specifically in the list view showing the list of agents.
+Optional
+
+API name of the agent to open in Agentforce Builder.
+
+The API name of the agent to open directly in Agentforce Builder. Optionally specify --version to open a specific
+
+version.
+
+Type: option
+
+\--version VERSION
+
+Optional
+
+Version number of the agent to open in Agentforce Builder.
+
+The version number of the agent to open directly in Agentforce Builder. Can only be used with the --authoring-bundle
+
+flag.
+
+Type: option
+
+## org open authoring-bundle (Deprecated)
+
+The command org open authoring-bundle has been deprecated. Open your org in Agentforce Studio, specifically in the list view showing the list of agents.
 
 ### Description for org open authoring-bundle
 

@@ -5,7 +5,7 @@ topic: salesforce-crm-knowledge-article-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.127Z
+lastCollected: 2026-05-10T00:39:12.545Z
 estimatedTokens: 241
 keywords: [Salesforce, CRM, Knowledge, Article, Mapping, mappings, Knowledge_ka, DLO, found, bundle, Connector, Cloud, DMO]
 ---

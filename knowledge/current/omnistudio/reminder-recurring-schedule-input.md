@@ -5,7 +5,7 @@ topic: reminder-recurring-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:37.443Z
+lastCollected: 2026-05-10T00:40:24.004Z
 estimatedTokens: 120
 keywords: [Reminder, Recurring, Schedule]
 ---

@@ -5,7 +5,7 @@ topic: inboundemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.571Z
+lastCollected: 2026-05-10T00:39:30.076Z
 estimatedTokens: 464
 namespace: Messaging
 keywords: [InboundEmailResult, result, email, service, assumed, successful, message, success]

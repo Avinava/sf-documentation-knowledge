@@ -5,12 +5,10 @@ topic: getupdated
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:57.327Z
+lastCollected: 2026-05-10T00:40:45.346Z
 estimatedTokens: 1840
-keywords: [getUpdated, Retrieves, individual, records, updated, added, changed, timespan, Usage, Rules, Guidelines, Basic, Steps, Replicating, Objects]
+keywords: [Arguments, Faults, getUpdated, Retrieves, individual, records, updated, added, changed, timespan, Guidelines, Basic, Steps, Replicating, Sample, Code—Java, Code—C#]
 ---
-
-# getUpdated()
 
 > Retrieves the list of individual records that have been updated (added or changed)
       within the given timespan for the specified object.

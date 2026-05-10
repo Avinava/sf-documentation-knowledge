@@ -5,7 +5,7 @@ topic: use-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:15.992Z
+lastCollected: 2026-05-10T00:39:49.871Z
 estimatedTokens: 8392
 keywords: [Batch, Apex, write, implements, Salesforce-provided, Database.Batchable, invoke, programmatically, monitor, stop, execution, job, Setup, enter, Jobs, Quick, box, select, Implement, Database.BatchableContext, Database.QueryLocator, Define, Scope, Iterable, Database.executeBatch, Submit, Holding, Flex, Queue, Statuses, System.scheduleBatch, Examples, Callouts, State, Testing, Limitations, Considerations, Best, Practices, Chaining]
 ---

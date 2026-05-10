@@ -5,7 +5,7 @@ topic: financial-plan-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.674Z
+lastCollected: 2026-05-10T00:39:13.105Z
 estimatedTokens: 394
 keywords: [Category, Relationships, Financial, Plan, DMO, person, account, API, Primary, Subject, Area, Key, Label]
 ---

@@ -5,7 +5,7 @@ topic: stubprovider-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.260Z
+lastCollected: 2026-05-10T00:39:45.324Z
 estimatedTokens: 1147
 namespace: System
 keywords: [StubProvider, callback, part, Apex, stub, API, implement, mocking, framework, Test.createStub, stubbed, testing, handleMethodCall, stubbedObject, stubbedMethodName, returnType, listOfParamTypes, listOfParamNames, listOfArgs]

@@ -5,8 +5,8 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.648Z
-estimatedTokens: 9565
+lastCollected: 2026-05-10T00:40:11.913Z
+estimatedTokens: 9597
 keywords: [Settings, organization, feature, password, policies, session, network, SecuritySettings, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition]
 ---
 
@@ -144,6 +144,8 @@ The following is an example package manifest used to deploy or retrieve all the 
     Represents settings for Einstein Generative AI features in an org. This type extends the Metadata metadata type and inherits its fullName field
 -   **[EmailAdministrationSettings](atlas.en-us.api_meta.meta/api_meta/meta_emailadministrationsettings.htm)**
     Represents an organization’s email administration settings, including email deliverability, security compliance, relay configurations, and system notifications. This type extends the Metadata metadata type and inherits its fullName field.
+-   **[EmailAuthorizationSettings](atlas.en-us.api_meta.meta/api_meta/meta_emailauthorizationsettings.htm)**
+    Represents your org’s email authorization settings. This type extends the MetadataForSettings metadata type and inherits its fullName field.
 -   **[EmailIntegrationSettings](atlas.en-us.api_meta.meta/api_meta/meta_emailintegrationsettings.htm)**
     Represents an org’s settings for the Outlook integration, Gmail integration, and Salesforce Inbox. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmailTemplateSettings](atlas.en-us.api_meta.meta/api_meta/meta_emailtemplatesettings.htm)**
@@ -161,7 +163,7 @@ The following is an example package manifest used to deploy or retrieve all the 
 -   **[ExperienceBundleSettings](atlas.en-us.api_meta.meta/api_meta/meta_experiencebundlesettings.htm)**
     Represents the org setting that enables the ExperienceBundle metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ExternalClientAppSettings](atlas.en-us.api_meta.meta/api_meta/meta_externalclientappsettings.htm)**
-    Represents settings to enable the External Client App feature and provide access to the OAuth consumer secret.
+    Represents settings to enable external client app features.
 -   **[ExternalServicesSettings](atlas.en-us.api_meta.meta/api_meta/meta_externalservicessettings.htm)**
     Represents settings for an External Services registration.
 -   **[FieldServiceSettings](atlas.en-us.api_meta.meta/api_meta/meta_fieldservicesettings.htm)**
@@ -227,7 +229,7 @@ The following is an example package manifest used to deploy or retrieve all the 
 -   **[MyDomainSettings](atlas.en-us.api_meta.meta/api_meta/meta_mydomainsettings.htm)**
     Represents your org’s My Domain settings. With My Domain, you can include your company name in your URLs, for example, https://yourcompanyname.my.salesforce.com. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[MfgServiceConsoleSettings](atlas.en-us.api_meta.meta/api_meta/mfg_mfgserviceconsolesettings_metadata_api.htm)**
-    Represents the settings to access the Service Console for Manufacturing.This type extends the Metadata metadata type and inherits its fullName field.
+    Represents the settings to access the Service Console for Manufacturing.
 -   **[NameSettings](atlas.en-us.api_meta.meta/api_meta/meta_namesettings.htm)**
     Enables or disables the formal name, middle name, and suffix attributes for these person objects: Contact, Lead, Person Account, and User. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[NotificationsSettings](atlas.en-us.api_meta.meta/api_meta/meta_notificationssettings.htm)**

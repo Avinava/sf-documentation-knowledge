@@ -5,7 +5,7 @@ topic: address-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.406Z
+lastCollected: 2026-05-10T00:39:29.798Z
 estimatedTokens: 2347
 namespace: System
 keywords: [Address, accessing, compound, getCity, getCountry, getCountryCode, getDistance, toLocation, unit, getGeocodeAccuracy, getLatitude, getLongitude, getPostalCode, getState, getStateCode, getStreet]

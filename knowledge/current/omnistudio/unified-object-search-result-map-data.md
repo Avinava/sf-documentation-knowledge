@@ -5,7 +5,7 @@ topic: unified-object-search-result-map-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.657Z
+lastCollected: 2026-05-10T00:40:28.401Z
 estimatedTokens: 91
 keywords: [Unified, Search, Result, Map, records]
 ---

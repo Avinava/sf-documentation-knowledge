@@ -5,12 +5,10 @@ topic: synchronous-and-asynchronous-calls-with-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.655Z
+lastCollected: 2026-05-10T00:40:43.938Z
 estimatedTokens: 170
-keywords: [Synchronous, Asynchronous, Calls, AJAX, Toolkit, supports]
+keywords: [Synchronous, Asynchronous, AJAX, Toolkit, supports]
 ---
-
-# Synchronous and Asynchronous Calls with the AJAX Toolkit
 
 > The AJAX Toolkit supports both synchronous and asynchronous calls.
 

@@ -5,7 +5,7 @@ topic: connect-in-apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.906Z
+lastCollected: 2026-05-10T00:39:54.617Z
 estimatedTokens: 2228
 keywords: [Connect, Apex, Examples, perform, common, tasks]
 ---

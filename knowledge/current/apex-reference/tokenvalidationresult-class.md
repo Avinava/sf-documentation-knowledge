@@ -5,7 +5,7 @@ topic: tokenvalidationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.670Z
+lastCollected: 2026-05-10T00:39:22.797Z
 estimatedTokens: 3056
 namespace: Auth
 keywords: [TokenValidationResult, describe, result, token, validation, performed, exchange, handler, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, OAuth, 2.0, flow, isValid, userData, tokenType, customErrorMsg, getCustomErrorMessage, getData, getToken, getTokenType, getUserData]
@@ -217,7 +217,7 @@ The following are methods for TokenValidationResult.
     Retrieves the type of token that was passed from the external identity provider.
 -   **[getUserData()](atlas.en-us.apexref.meta/apexref/apex_class_Auth_TokenValidationResult.htm#apex_Auth_TokenValidationResult_getUserData)**
     Retrieves information about the user. The user information can be obtained from the identity provider’s token or from callouts to the identity provider, if applicable.
--   **[isValid](atlas.en-us.apexref.meta/apexref/apex_class_Auth_TokenValidationResult.htm#unique_1843536435)**
+-   **[isValid](atlas.en-us.apexref.meta/apexref/apex_class_Auth_TokenValidationResult.htm#unique_1122123810)**
     Indicates whether the token is valid or not, based on the custom validation logic in your token exchange handler.
 
 ### getCustomErrorMessage()

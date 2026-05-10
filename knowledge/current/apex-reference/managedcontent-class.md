@@ -5,7 +5,7 @@ topic: managedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.288Z
+lastCollected: 2026-05-10T00:39:20.281Z
 estimatedTokens: 19548
 namespace: ConnectApi
 keywords: [ManagedContent, Clone, managed, content, digital, asset, management, DAM, provider, instance, replace, variants, channels, space, providers, targets, folders, shared, Publish, unpublish, cloneManagedContentDocument, contentKeyOrId, ManagedContentCloneInputParam, API, Requires, Chatter, createManagedContent, ManagedContentInputParam, createManagedContentProvider, providerInstanceInput, createManagedContentWithMedia, contentData, deleteManagedContentProviderInstance, providerInstanceId, deleteManagedContentVariant, variantId, getAllContent, channelId, pageParam, pageSize, language, managedContentType, includeMetadata, startDate, endDate, Guest, Users, showAbsoluteUrl, getAllDeliveryChannels, getAllManagedContent, communityId, getContentByContentKeys, contentKeys, getContentByIds, managedContentIds, getManagedContentByContentKeys, getManagedContentByIds, getManagedContentByTopics, topics, getManagedContentByTopicsAndContentKeys, getManagedContentByTopicsAndIds, getManagedContentProviders, getManagedContentProvidersForSpace, contentSpaceId, getMCSFolderShares, folderId, getMCSFolderShareTargets, patchMCSFolderShares, mcsFolderShareCollectionUpdateInput, publishInput, replaceManagedContentVariant, ManagedContentVariantInputParam, replaceManagedContentVariantWithMedia, unpublishInput, updateManagedContentProviderInstance, Retired, getManagedContentSpace]
@@ -1698,7 +1698,7 @@ Type: [ConnectApi.ManagedContentProviderInstance](atlas.en-us.apexref.meta/apexr
 
 These methods for ManagedContent are retired.
 
--   **[getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_879860787)**
+-   **[getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_1675719845)**
     Get managed content delivery channels for the context user.
 -   **[getManagedContentSpace(contentSpaceId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_getManagedContentSpace_1)**
     Get a managed content space.

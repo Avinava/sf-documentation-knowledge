@@ -5,7 +5,7 @@ topic: quickaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.805Z
+lastCollected: 2026-05-10T00:40:10.502Z
 estimatedTokens: 2376
 namespace: Canvas
 keywords: [QuickAction, FieldOverride, QuickActionLayout, QuickActionLayoutColumn, QuickActionLayoutItem, QuickActionParameter, quick, action, becomes, Chatter, publisher, detail, account, user, contact, created, permit, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]

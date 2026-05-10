@@ -5,7 +5,7 @@ topic: about-the-apex-debugging-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:11.592Z
+lastCollected: 2026-05-10T00:39:02.134Z
 estimatedTokens: 133
 keywords: [Apex, Debugging, Log, File, three, sections, RLM_CONFIGURATOR_BEGIN, RLM_CONFIGURATOR_STATS, RLM_CONFIGURATOR_END, RLM, _CONFIGURATOR, _BEGIN, _STATS, _END]
 ---

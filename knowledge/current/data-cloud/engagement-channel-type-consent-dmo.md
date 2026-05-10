@@ -5,7 +5,7 @@ topic: engagement-channel-type-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:53.540Z
+lastCollected: 2026-05-10T00:39:12.970Z
 estimatedTokens: 757
 keywords: [Category, Relationships, Engagement, Channel, Consent, DMO, Cloud, model, individual’s, preferences, specific, communication, email, API, Primary, Subject, Area, Key]
 ---

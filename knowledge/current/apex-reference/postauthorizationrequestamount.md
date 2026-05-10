@@ -5,7 +5,7 @@ topic: postauthorizationrequestamount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.151Z
+lastCollected: 2026-05-10T00:39:31.072Z
 estimatedTokens: 124
 keywords: [PostAuthorizationRequest, amount, building, postauthorization, intended, test, throws, exception, outside, Apex, context]
 ---

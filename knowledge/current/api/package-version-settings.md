@@ -5,12 +5,10 @@ topic: package-version-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.705Z
+lastCollected: 2026-05-10T00:40:44.084Z
 estimatedTokens: 1125
-keywords: [Package, Version, Settings, API, client, referencing, components, managed, packages, specify, installed, want, integration, continue, function]
+keywords: [Package, Settings, API, client, referencing, managed, packages, specify, installed, want, integration, continue, function, specific, known, behavior, install, subsequent, versi]
 ---
-
-# Package Version Settings
 
 > When your API client is referencing components in managed packages, you can specify the version
    of each installed package that you want to reference for your integration. This allows your API

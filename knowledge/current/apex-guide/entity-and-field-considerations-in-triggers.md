@@ -5,7 +5,7 @@ topic: entity-and-field-considerations-in-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.754Z
+lastCollected: 2026-05-10T00:39:54.357Z
 estimatedTokens: 1019
 keywords: [Entity, Considerations, Triggers, consider, behavior, certain, entities, operations, QuestionDataCategorySelection, Insert, Updateable, Event, DateTime, Undelete, Salesforce, Side, Panel, Outlook]
 ---

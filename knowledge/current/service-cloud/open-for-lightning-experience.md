@@ -5,7 +5,7 @@ topic: open-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.289Z
+lastCollected: 2026-05-10T00:40:42.667Z
 estimatedTokens: 252
 keywords: [Arguments, open, Lightning, Experience, Opens, utility, already, effect, time, another, minimizes, Web, LWC, Sample, Code]
 ---

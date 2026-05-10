@@ -5,7 +5,7 @@ topic: submit-failed-records-batch-job
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.232Z
+lastCollected: 2026-05-10T00:40:20.711Z
 estimatedTokens: 264
 keywords: [Inputs, Outputs, Submit, Failed, Records, Batch, Job, Run, resubmit, processing, action, executes, asynchronously, REST, HTTP]
 ---

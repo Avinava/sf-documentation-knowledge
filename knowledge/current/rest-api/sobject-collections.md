@@ -5,7 +5,7 @@ topic: sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.535Z
+lastCollected: 2026-05-10T00:39:57.310Z
 estimatedTokens: 134
 keywords: [sObject, Collections, Executes, actions, multiple, records, reduce, number, round-trips, client, server, bodies, HTTP, statuses, requests, entire, counts, call, toward, API, limits, resource, 42.0]
 ---

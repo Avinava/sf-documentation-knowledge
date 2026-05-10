@@ -5,7 +5,7 @@ topic: connectapiformsubmission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:09.458Z
+lastCollected: 2026-05-10T00:39:39.374Z
 estimatedTokens: 67
 keywords: [ConnectApi.FormSubmission, Marketing, integration, form, submission]
 ---

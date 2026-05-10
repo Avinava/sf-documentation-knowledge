@@ -5,12 +5,10 @@ topic: describequickactionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.120Z
+lastCollected: 2026-05-10T00:40:44.849Z
 estimatedTokens: 2801
-keywords: [DescribeQuickActionResult, array, objects, DescribeQuickActionDefaultValue, DescribeLayoutSection, DescribeLayoutRow, DescribeLayoutItem, DescribeLayoutComponent, LayoutComponentType]
+keywords: [DescribeQuickActionResult, DescribeQuickActionDefaultValue, DescribeLayoutSection, DescribeLayoutRow, DescribeLayoutItem, DescribeLayoutComponent, LayoutComponentType, array]
 ---
-
-# DescribeQuickActionResult
 
 > Returns an array of DescribeQuickActionResult objects.
 

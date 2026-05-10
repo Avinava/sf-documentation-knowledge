@@ -5,7 +5,7 @@ topic: case-update-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.299Z
+lastCollected: 2026-05-10T00:39:11.763Z
 estimatedTokens: 554
 keywords: [Category, Relationships, Case, DMO, Cloud, model, historical, changes, made, API, Primary, Subject, Area, Key]
 ---

@@ -5,7 +5,7 @@ topic: understanding-test-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.550Z
+lastCollected: 2026-05-10T00:39:54.023Z
 estimatedTokens: 631
 keywords: [Understanding, Test, Apex, transient, isn’t, committed, database]
 ---

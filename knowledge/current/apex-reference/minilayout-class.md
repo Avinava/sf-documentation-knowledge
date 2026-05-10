@@ -5,7 +5,7 @@ topic: minilayout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.429Z
+lastCollected: 2026-05-10T00:39:24.460Z
 estimatedTokens: 804
 namespace: Metadata
 keywords: [MiniLayout, mini, view, record, Console, tab, hover, event, overlays, relatedLists, clone]

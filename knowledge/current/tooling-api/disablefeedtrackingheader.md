@@ -5,7 +5,7 @@ topic: disablefeedtrackingheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:31.484Z
+lastCollected: 2026-05-10T00:40:14.978Z
 estimatedTokens: 199
 keywords: [DisableFeedTrackingHeader, changes, made, current, call, tracked, feeds, API, Sample, Code—Java]
 ---

@@ -5,7 +5,7 @@ topic: assetdowntimeperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.240Z
+lastCollected: 2026-05-10T00:39:08.338Z
 estimatedTokens: 520
 keywords: [AssetDowntimePeriod, period, asset, able, perform, expected, Downtime, periods, include, planned, activities, maintenance, unplanned, events, mechanical, breakdown, API, 49.0]
 ---

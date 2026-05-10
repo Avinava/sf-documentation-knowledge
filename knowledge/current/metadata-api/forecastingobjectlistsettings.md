@@ -5,7 +5,7 @@ topic: forecastingobjectlistsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.296Z
+lastCollected: 2026-05-10T00:40:06.589Z
 estimatedTokens: 1188
 keywords: [ForecastingObjectListSettings, ForecastingTypeObjectListSettings, ForecastingObjectListLabelMapping, org’s, forecasting, settings, control, appear, forecasts, pipeline, Opportunity, specify, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, forecastingObjectListSelectedSettings, forecastingObjectListUnselectedSettings, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

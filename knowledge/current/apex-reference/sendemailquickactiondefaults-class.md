@@ -5,7 +5,7 @@ topic: sendemailquickactiondefaults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.624Z
+lastCollected: 2026-05-10T00:39:24.783Z
 estimatedTokens: 1180
 namespace: QuickAction
 keywords: [SendEmailQuickActionDefaults, Apex, address, original, email’s, email, message, provided, reply, action, invoked, item, specify, settings, templates, override, standard, rendered, getFromAddressList, getInReplyToId, setIgnoreTemplateSubject, useOriginalSubject, setInsertTemplateBody, keepOriginalBodyContent, setTemplateId, templateId]

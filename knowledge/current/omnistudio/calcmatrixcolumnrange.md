@@ -5,7 +5,7 @@ topic: calcmatrixcolumnrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.343Z
+lastCollected: 2026-05-10T00:40:34.025Z
 estimatedTokens: 355
 keywords: [CalcMatrixColumnRange, decision, matrix, column, number, range, text, API, 59.0]
 ---

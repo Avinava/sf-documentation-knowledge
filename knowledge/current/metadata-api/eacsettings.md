@@ -5,15 +5,16 @@ topic: eacsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.161Z
-estimatedTokens: 1761
+lastCollected: 2026-05-10T00:40:04.734Z
+estimatedTokens: 1803
 keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically, sync, contact, event, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---
 
 > Represents the Einstein Activity Capture metadata type.
     Use Einstein Activity Capture to add emails and events from your Microsoft or Google account to
     the activity timeline of related Salesforce records. Automatically sync contact and event data
-    between your Microsoft or Google account and Salesforce. This type extends the Metadata metadata type and inherits its fullName field.
+    between your Microsoft or Google account and Salesforce. This type extends the Metadata metadata
+    type and inherits its fullName field.
 
 # EACSettings
 
@@ -51,6 +52,7 @@ EACSettings components are available in API version 48.0 and later.
 | relationshipGraphPref | boolean | Indicates whether Buyer Relationship Map is enabled (true) or not (false).Default value is true.Available in API version 61.0 and later. |
 | salesforceEventsOnlyPref | boolean | Indicates whether the activity timeline shows only events that are Salesforce records (true) or not (false). For more information, see Guidelines for Using Events with Einstein Activity CaptureAvailable in API version 53.0 and later. |
 | sensitiveEmailFilter | boolean | Indicates whether the setting to prevent sensitive emails from being shared is on (true) or not (false).Available in API version 54.0 and later. |
+| syncEmailToCoreActivity | boolean | Indicates whether Sync Email as Salesforce Activity is turned on (true) or not (false).Available in API version 63.0 and later. |
 | syncInternalEvents | boolean | Indicates whether internal events sync between the connected account and Salesforce (true) or not (false). Events are internal when all attendees are part of the internal domain.Available in API version 53.0 and later. |
 | s2XSvcAccEmail | boolean | Indicates whether a warning email has be sent to the customer if they're using Service Account OAuth on Exchange Online (true) or not (false).Default value is false.Available in API version 62.0 and later. |
 

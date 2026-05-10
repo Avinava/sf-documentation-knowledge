@@ -5,7 +5,7 @@ topic: authproviderpluginclass-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.456Z
+lastCollected: 2026-05-10T00:39:22.401Z
 estimatedTokens: 3276
 namespace: Auth
 keywords: [AuthProviderPluginClass, metadata, API, OAuth-based, authentication, provider, sign-on, Salesforce, getCustomMetadataType, getUserInfo, authProviderConfiguration, handleCallback, callbackState, initiate, stateToPropagate, refresh, refreshToken, Code, Sample, Test, Classes]

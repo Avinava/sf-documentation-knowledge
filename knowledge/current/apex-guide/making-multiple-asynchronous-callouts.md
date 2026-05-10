@@ -5,7 +5,7 @@ topic: making-multiple-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.232Z
+lastCollected: 2026-05-10T00:39:51.848Z
 estimatedTokens: 325
 keywords: [Making, Multiple, Asynchronous, Callouts, long-running, service, simultaneously, Visualforce, add, three, requests, Continuation, instance, simultaneous, you’re, independent, getting, inventory, statistics, two, products]
 ---

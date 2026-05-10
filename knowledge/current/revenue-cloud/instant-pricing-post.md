@@ -5,7 +5,7 @@ topic: instant-pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.238Z
+lastCollected: 2026-05-10T00:39:04.093Z
 estimatedTokens: 467
 keywords: [Instant, Pricing, POST, Fetch, quote, order, line, grid, summary, API, offers, capabilities, either, context, provided]
 ---
@@ -112,8 +112,8 @@ https://yourInstance.salesforce.com/services/data/v66.0/industries/cpq/quotes/ac
 
 ```
 {
-  "correlationId": "8dbb7089-f81f-4272-9efe-0203c91f1fd4",
-  "contextId": "",
+  "correlationId": "7847127122596",
+  "contextId": "0000000b28op21g00281751271041790cc1e5686282849a387dd3c59b310418b",
   "records": [
     {
       "referenceId": "0Q0xx0000004DOSCA2",
@@ -151,8 +151,8 @@ https://yourInstance.salesforce.com/services/data/v66.0/industries/cpq/quotes/ac
 
 ```
 {
-    "contextId": "",
-    "correlationId": "",
+    "contextId": "0000000b28op21g00281751271041790cc1e5686282849a387dd3c59b310418b",
+    "correlationId": "7847127122596",
     "records": [
         {
             "referenceId": "0Q0xx0000004DOSCA2",
@@ -215,8 +215,8 @@ https://yourInstance.salesforce.com/services/data/v66.0/industries/cpq/quotes/ac
 
 ```
 {
-    "contextId": "",
-    "correlationId": "",
+    "contextId": "0000000b28op21g00281751271041790cc1e5686282849a387dd3c59b310418b",
+    "correlationId": "7847127122596",
     "records": [
         {
             "referenceId": "0Q0xx0000004CAgCAM",

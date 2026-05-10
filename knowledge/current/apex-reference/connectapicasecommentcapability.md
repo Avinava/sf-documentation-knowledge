@@ -5,7 +5,7 @@ topic: connectapicasecommentcapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.757Z
+lastCollected: 2026-05-10T00:39:36.770Z
 estimatedTokens: 310
 keywords: [ConnectApi.CaseCommentCapability, capability, case, comment]
 ---

@@ -5,7 +5,7 @@ topic: personalization-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.575Z
+lastCollected: 2026-05-10T00:39:20.799Z
 estimatedTokens: 6196
 namespace: ConnectApi
 keywords: [Personalization, audience, createAudience, communityId, API, Requires, Chatter, createTargets, target, deleteAudience, audienceId, deleteTarget, targetId, getAudience, includeAudienceCriteria, Guest, Users, getAudienceBatch, audienceIds, getAudiences, ipAddress, domain, userId, publishStatus, targetTypes, recordId, getTarget, getTargetBatch, targetIds, getTargets, includeAudience, includeAllMatchingTargetsWithinGroup, groupNames, updateAudience, updateTargets]

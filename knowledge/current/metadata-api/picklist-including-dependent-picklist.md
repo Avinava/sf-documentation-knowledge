@@ -5,7 +5,7 @@ topic: picklist-including-dependent-picklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.411Z
+lastCollected: 2026-05-10T00:40:09.849Z
 estimatedTokens: 853
 keywords: [Picklist, Including, Dependent, Deprecated, definition, standard, account, Declarative, Metadata, File, Suffix, Directory, Location, Java, Sample, Wildcard, Support, Manifest]
 ---

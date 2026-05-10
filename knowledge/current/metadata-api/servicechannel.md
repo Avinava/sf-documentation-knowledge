@@ -5,7 +5,7 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:29.579Z
+lastCollected: 2026-05-10T00:40:11.794Z
 estimatedTokens: 1785
 keywords: [ServiceChannel, ServiceChannelFieldPriority, channel, work, items, received, organization—for, cases, chats, leads, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

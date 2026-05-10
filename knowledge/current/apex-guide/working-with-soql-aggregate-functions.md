@@ -5,7 +5,7 @@ topic: working-with-soql-aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.229Z
+lastCollected: 2026-05-10T00:39:55.142Z
 estimatedTokens: 641
 keywords: [Working, SOQL, Aggregate, Functions, SUM, MAX, allow, roll, summarize, query]
 ---

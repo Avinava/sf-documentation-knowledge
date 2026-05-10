@@ -5,7 +5,7 @@ topic: additionalcontextdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:10.949Z
+lastCollected: 2026-05-10T00:39:01.093Z
 estimatedTokens: 521
 keywords: [AdditionalContextData, include, additional, context, nodes, along, definition, hydration]
 ---

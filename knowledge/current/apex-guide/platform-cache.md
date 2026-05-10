@@ -5,7 +5,7 @@ topic: platform-cache
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.053Z
+lastCollected: 2026-05-10T00:39:49.975Z
 estimatedTokens: 992
 namespace: Session
 keywords: [Platform, Cache, Lightning, layer, faster, performance, better, reliability, caching, Salesforce, session, org, Specify, how, long, settings, overloading, Visualforce, view, state, improves, distributing, space, applications, operations, don’t, steal, capacity, others]

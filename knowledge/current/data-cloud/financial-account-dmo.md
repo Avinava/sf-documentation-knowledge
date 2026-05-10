@@ -5,7 +5,7 @@ topic: financial-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:53.582Z
+lastCollected: 2026-05-10T00:39:13.023Z
 estimatedTokens: 1283
 keywords: [Category, Relationships, Financial, Account, DMO, held, institution, bank, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

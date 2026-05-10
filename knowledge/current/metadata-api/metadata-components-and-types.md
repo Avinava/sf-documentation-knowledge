@@ -5,7 +5,7 @@ topic: metadata-components-and-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.026Z
+lastCollected: 2026-05-10T00:40:09.285Z
 estimatedTokens: 1459
 keywords: [Metadata, sObjects, API, Instead, they, ApexClass, CustomObject, extend, base, instance]
 ---

@@ -5,7 +5,7 @@ topic: mldomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.672Z
+lastCollected: 2026-05-10T00:40:08.751Z
 estimatedTokens: 1345
 keywords: [MlDomain, MlIntent, MlIntentUtterance, MlRelatedIntent, MlSlotClass, MlSlotClassValue, SynonymGroup, Einstein, Intent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

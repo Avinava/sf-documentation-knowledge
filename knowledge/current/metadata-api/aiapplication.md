@@ -5,7 +5,7 @@ topic: aiapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.274Z
+lastCollected: 2026-05-10T00:40:00.091Z
 estimatedTokens: 566
 keywords: [AIApplication, instance, application, Einstein, Prediction, Builder, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---

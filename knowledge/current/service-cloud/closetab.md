@@ -5,7 +5,7 @@ topic: closetab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:48.879Z
+lastCollected: 2026-05-10T00:40:40.698Z
 estimatedTokens: 561
 keywords: [Arguments, closeTab, Closes, primary, tab, subtab, Keep, mind, closing, itself, API, 20.0, Sample, Code, Later–Visualforce, 35.0]
 ---

@@ -5,12 +5,10 @@ topic: renderemailtemplateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.491Z
+lastCollected: 2026-05-10T00:40:45.711Z
 estimatedTokens: 659
-keywords: [RenderEmailTemplateResult, status, error, processed, renderEmailTemplate, call, including, individual, results, rendered, email, templates, RenderEmailTemplateBodyResult, RenderEmailTemplateError]
+keywords: [RenderEmailTemplateResult, RenderEmailTemplateBodyResult, RenderEmailTemplateError, status, error, processed, renderEmailTemplate, call, including, individual, results, rendered, email, templates]
 ---
-
-# RenderEmailTemplateResult
 
 > Contains status and error information for a request processed by the renderEmailTemplate() call, including individual results of
     rendered email templates.

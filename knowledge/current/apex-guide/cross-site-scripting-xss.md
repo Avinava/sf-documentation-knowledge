@@ -5,7 +5,7 @@ topic: cross-site-scripting-xss
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.737Z
+lastCollected: 2026-05-10T00:39:56.034Z
 estimatedTokens: 1144
 keywords: [Cross, Site, Scripting, XSS, Cross-site, attacks, malicious, HTML, client-side, provided, web, application, includes, user, unknowingly, becomes, victim, attack, attacker, uses, applicat, Protection, Disabling, Escape, Visualforce, Tags, Programming, Items, Protected]
 ---

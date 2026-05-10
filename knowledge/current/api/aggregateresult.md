@@ -5,12 +5,10 @@ topic: aggregateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.459Z
+lastCollected: 2026-05-10T00:40:45.639Z
 estimatedTokens: 323
 keywords: [AggregateResult, read-only, SObject, query, results, call, aggregate, function, MAX, Sample, Code—Java, Code—C#]
 ---
-
-# AggregateResult
 
 > A read-only
         SObject

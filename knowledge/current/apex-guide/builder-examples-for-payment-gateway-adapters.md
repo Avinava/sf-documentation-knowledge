@@ -5,7 +5,7 @@ topic: builder-examples-for-payment-gateway-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:16.792Z
+lastCollected: 2026-05-10T00:39:51.168Z
 estimatedTokens: 100
 keywords: [Builder, Examples, Payment, Gateway, Adapters, final, sections, adapter, define, how, creates, requests, responses, implementation, classes, vary, widely, platform, requirements, We’ve, provided, several, generics, review]
 ---

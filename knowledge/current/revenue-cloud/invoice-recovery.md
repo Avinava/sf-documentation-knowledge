@@ -5,7 +5,7 @@ topic: invoice-recovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:45.961Z
+lastCollected: 2026-05-10T00:39:05.755Z
 estimatedTokens: 194
 keywords: [Invoice, Recovery, recovered, billing, schedules]
 ---

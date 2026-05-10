@@ -5,7 +5,7 @@ topic: flow-for-expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.179Z
+lastCollected: 2026-05-10T00:40:29.183Z
 estimatedTokens: 234
 keywords: [FlowActionCall, Flow, Expression, metadata, application, navigates, users, series, screens, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---

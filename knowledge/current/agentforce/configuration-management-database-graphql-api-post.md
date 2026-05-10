@@ -5,7 +5,7 @@ topic: configuration-management-database-graphql-api-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:54.913Z
+lastCollected: 2026-05-10T00:39:14.623Z
 estimatedTokens: 2418
 keywords: [Authorization, Configuration, Management, Database, GraphQL, API, POST, manage, items, Agentforce, Service, CMDB, Execute, operations, assets, query, search, CIs, Endpoint, Attributes, Operation]
 ---

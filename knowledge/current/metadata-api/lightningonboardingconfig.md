@@ -5,7 +5,7 @@ topic: lightningonboardingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.200Z
+lastCollected: 2026-05-10T00:40:08.043Z
 estimatedTokens: 786
 keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic, Admins, customize, question, how, frequently, form, appears, stored, Chatter, Adoption, Assistance, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

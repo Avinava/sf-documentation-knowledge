@@ -5,7 +5,7 @@ topic: what-are-apex-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.637Z
+lastCollected: 2026-05-10T00:39:54.166Z
 estimatedTokens: 1450
 keywords: [Apex, Unit, Tests, facilitate, development, robust, error-free, code, supports, creation, execution, verify, whether, particular, piece, working, properly, test, take, arguments, commit, Considerations]
 ---

@@ -5,7 +5,7 @@ topic: debug-lightning-web-components-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.671Z
+lastCollected: 2026-05-10T00:40:40.419Z
 estimatedTokens: 367
 keywords: [Debug, Lightning, Web, Service, Mobile, App, best, way, develop, anything, built, HTML, CSS, JavaScript, debugging, tools, browser]
 ---

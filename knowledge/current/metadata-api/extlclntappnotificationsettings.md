@@ -5,7 +5,7 @@ topic: extlclntappnotificationsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.922Z
+lastCollected: 2026-05-10T00:40:05.950Z
 estimatedTokens: 770
 keywords: [ExtlClntAppNotificationSettings, ExtlClntAppNotificationType, external, client, app’s, notification, subscriptions, mobile, Parent, File, Suffix, Directory, Location]
 ---

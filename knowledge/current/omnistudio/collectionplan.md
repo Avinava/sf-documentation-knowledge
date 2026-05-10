@@ -5,7 +5,7 @@ topic: collectionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.523Z
+lastCollected: 2026-05-10T00:40:34.324Z
 estimatedTokens: 2406
 keywords: [CollectionPlan, outstanding, amounts, linked, financial, accounts, billing, contacts, cases, individuals, organization, API, 63.0]
 ---

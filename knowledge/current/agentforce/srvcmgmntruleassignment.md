@@ -5,7 +5,7 @@ topic: srvcmgmntruleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.408Z
+lastCollected: 2026-05-10T00:39:15.386Z
 estimatedTokens: 435
 keywords: [SrvcMgmntRuleAssignment, relationship, business, operation, group, user, assigned, API, 65.0]
 ---

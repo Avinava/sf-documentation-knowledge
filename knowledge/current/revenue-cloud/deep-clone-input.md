@@ -5,7 +5,7 @@ topic: deep-clone-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.398Z
+lastCollected: 2026-05-10T00:39:03.216Z
 estimatedTokens: 166
 keywords: [Deep, Clone, record, cloned]
 ---

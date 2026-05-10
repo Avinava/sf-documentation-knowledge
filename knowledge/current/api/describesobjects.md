@@ -5,12 +5,10 @@ topic: describesobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.156Z
+lastCollected: 2026-05-10T00:40:44.938Z
 estimatedTokens: 980
-keywords: [describeSObjects, array-based, version, describeSObject, metadata, array, objects, call, instead, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, describeSObjects, array-based, describeSObject, metadata, array, call, instead, Sample, Code—Java, Code—C#]
 ---
-
-# describeSObjects()
 
 > An array-based version of describeSObject();
         describes metadata (field list and object properties) for the specified

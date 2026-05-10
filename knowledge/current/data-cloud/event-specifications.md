@@ -5,9 +5,9 @@ topic: event-specifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.303Z
-estimatedTokens: 406
-keywords: [Event, Specifications, Engagement, Mobile, SDK, Salesforce, Interactions]
+lastCollected: 2026-05-10T00:39:10.743Z
+estimatedTokens: 497
+keywords: [Event, Specifications, Salesforce, Interactions, SDK]
 ---
 
 > Event specifications for Salesforce Interactions SDK.
@@ -35,13 +35,11 @@ Event specifications for Salesforce Interactions SDK.
 
 ## Related Topics
 
-- Cart Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_cart_event.htm)
-- Catalog Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_catalog_event.htm)
-- Order Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_order_event.htm)
-- Custom Event (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_custom_event.htm)
-- Line Item Attribute (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_line_item_attribute.htm)
-- Order Attribute (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_engagement_mobile_sdk_order_attribute.htm)
 - Event Structure (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_event_structure.htm)
 - Cart Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_cart_interaction.htm)
 - Catalog Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_catalog_interaction.htm)
 - Order Interaction (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_order_interaction.htm)
+- Line Item Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_line_item_data.htm)
+- User Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_user_data.htm)
+- Account Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_account_data.htm)
+- Consent Data (atlas.en-us.252.0.c360a_api.meta/c360a_api/c360a_api_consent_data.htm)

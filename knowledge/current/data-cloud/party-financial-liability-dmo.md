@@ -5,7 +5,7 @@ topic: party-financial-liability-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.362Z
+lastCollected: 2026-05-10T00:39:13.812Z
 estimatedTokens: 502
 keywords: [Category, Relationships, Party, Financial, Liability, DMO, individual, organization, mortgage, loan, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

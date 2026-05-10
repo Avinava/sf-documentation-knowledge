@@ -5,7 +5,7 @@ topic: place-order-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.397Z
+lastCollected: 2026-05-10T00:39:04.581Z
 estimatedTokens: 920
 keywords: [Place, Order, POST, orders, integrated, pricing, configuration, validation, manage, throughout, their, entire, lifecycle, Additionally, insert, items]
 ---

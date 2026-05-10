@@ -5,7 +5,7 @@ topic: sobject-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:21.413Z
+lastCollected: 2026-05-10T00:39:58.699Z
 estimatedTokens: 425
 keywords: [sObject, Relationships, Accesses, records, traversing, via, friendly, URLs, retrieve, record, traversed, relationship, there, multiple, resource, REST, API, 36.0]
 ---

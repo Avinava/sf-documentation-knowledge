@@ -5,8 +5,8 @@ topic: getappointmentcandidatesinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.633Z
-estimatedTokens: 817
+lastCollected: 2026-05-10T00:39:28.159Z
+estimatedTokens: 905
 namespace: LxScheduler
 keywords: [GetAppointmentCandidatesInput, service, resources, appointment, candidates, work, group, territories]
 ---
@@ -74,7 +74,8 @@ This example shows how to get a list of available candidate appointments based o
 
 #### Important
 
-If you're using shifts, you must specify the workTypeGroupId or workType field.
+-   When you're using shifts: You must specify workTypeGroupId or the ID of the work type. When you specify the ID of the work type, all other Builder parameters are optional and Scheduler retrieves their values from the database.
+-   When you're using operating hours: You don't need to specify workTypeGroupId or the ID of the work type. Scheduler applies durationInMinutes and all other builder parameters as you configure them.
 
 ```
 

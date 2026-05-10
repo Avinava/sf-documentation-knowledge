@@ -5,7 +5,7 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.525Z
+lastCollected: 2026-05-10T00:40:10.061Z
 estimatedTokens: 618
 keywords: [PostTemplate, metadata, approval, post, template, Approvals, Chatter, templates, customize, included, posts, appear, feeds, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

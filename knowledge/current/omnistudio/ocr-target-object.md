@@ -5,7 +5,7 @@ topic: ocr-target-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.960Z
+lastCollected: 2026-05-10T00:40:27.434Z
 estimatedTokens: 160
 keywords: [OCR, Target]
 ---

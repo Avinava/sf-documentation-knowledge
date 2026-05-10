@@ -5,7 +5,7 @@ topic: sendctimessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.817Z
+lastCollected: 2026-05-10T00:40:43.427Z
 estimatedTokens: 187
 keywords: [Arguments, sendCTIMessage, message, CTI, adapter, Open, computer-telephony, integration, it’s, API, 24.0, Sample, Code–Visualforce]
 ---

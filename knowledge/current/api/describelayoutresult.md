@@ -5,12 +5,10 @@ topic: describelayoutresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.100Z
+lastCollected: 2026-05-10T00:40:44.810Z
 estimatedTokens: 6911
-keywords: [DescribeLayoutResult, describeLayout, call, containing, top-level, record, passed-in, sObjectType, well, mapping, layouts, client, application, traverse, retrieve]
+keywords: [DescribeLayoutResult, DescribeLayout, DescribeLayoutButtonSection, DescribeLayoutButton, DescribeLayoutComponent, DescribeLayoutFeedFilter, DescribeLayoutFeedView, DescribeLayoutItem, DescribeLayoutRow, DescribeLayoutSection, DescribeQuickActionListResult, DescribeQuickActionListItemResult, CustomLinkComponent, FieldLayoutComponent, LayoutComponentType, PicklistForRecordType, RecordTypeMapping, RelatedContent, DescribeRelatedContentItem, RelatedList, RelatedListColumn, RelatedListSort, DescribeLayoutSaveOption, WebLinkPosition, WebLinkType, WebLinkWindowType, call, containing, top-level, record, passed-in, sObjectType, well, mapping, layouts, client, application, traverse, retrieve, detailed, metadata, layout, Sample, Code]
 ---
-
-# DescribeLayoutResult
 
 > The describeLayout() call returns a
     DescribeLayoutResult object containing top-level record type information about the passed-in

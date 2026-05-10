@@ -5,7 +5,7 @@ topic: flowsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:26.206Z
+lastCollected: 2026-05-10T00:40:06.441Z
 estimatedTokens: 3058
 keywords: [FlowSettings, Salesforce, settings, processes, flows, whether, Lightning, runtime, enabled, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

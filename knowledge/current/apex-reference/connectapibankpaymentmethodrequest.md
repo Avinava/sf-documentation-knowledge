@@ -5,7 +5,7 @@ topic: connectapibankpaymentmethodrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.615Z
+lastCollected: 2026-05-10T00:39:31.658Z
 estimatedTokens: 564
 keywords: [ConnectApi.BankPaymentMethodRequest, Bank, payment]
 ---

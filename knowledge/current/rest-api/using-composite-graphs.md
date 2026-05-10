@@ -5,7 +5,7 @@ topic: using-composite-graphs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:20.513Z
+lastCollected: 2026-05-10T00:39:57.283Z
 estimatedTokens: 1717
 keywords: [Composite, Graphs, provide, enhanced, way, perform, requests, execute, series, REST, API, call, Defining, JSON, Accounts, Contacts, Campaigns, Opportunities, Leads, CampaignMembers, Graph, Resource, Depth, AllOrNone, Best, Practices, Submitting, Job]
 ---

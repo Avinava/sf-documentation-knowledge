@@ -5,7 +5,7 @@ topic: agent-work-skill-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.983Z
+lastCollected: 2026-05-10T00:39:11.460Z
 estimatedTokens: 518
 keywords: [Category, Relationships, Agent, Work, Skill, DMO, Cloud, model, route, assignment, API, Primary, Subject, Area, Key]
 ---

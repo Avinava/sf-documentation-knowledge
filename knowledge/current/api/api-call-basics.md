@@ -5,12 +5,10 @@ topic: api-call-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.694Z
+lastCollected: 2026-05-10T00:40:44.052Z
 estimatedTokens: 2968
-keywords: [API, Call, Basics, development, environment, construct, Web, service, client, applications, standard, protocols, programmatically, Characteristics, Calls]
+keywords: [API, Call, Basics, development, environment, construct, Web, service, client, applications, standard, protocols, programmatically, Characteristics, Factors, Affect]
 ---
-
-# API Call Basics
 
 > Using your development environment, you can construct Web service client applications that
       use standard Web service protocols to programmatically:

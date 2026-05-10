@@ -5,7 +5,7 @@ topic: bucketfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.923Z
+lastCollected: 2026-05-10T00:39:28.969Z
 estimatedTokens: 3191
 namespace: Reports
 keywords: [BucketField, work, bucket, including, bucketed, bucketType, devloperName, label, nullTreatedAsZero, otherBucketLabel, sourceColumnName, getBucketType, getDevloperName, getLabel, getNullTreatedAsZero, getOtherBucketLabel, getSourceColumnName, getValues, setBucketType, setDevloperName, setLabel, setNullTreatedAsZero, setOtherBucketLabel, setSourceColumnName, setValues, toString]

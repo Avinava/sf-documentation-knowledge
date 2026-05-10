@@ -5,7 +5,7 @@ topic: composite-graph-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.519Z
+lastCollected: 2026-05-10T00:39:57.293Z
 estimatedTokens: 430
 keywords: [Composite, Graph, Limits, specific, resources, Review, platform, API, allocations, comprehensive, applicable, General, Graphs, Nodes]
 ---

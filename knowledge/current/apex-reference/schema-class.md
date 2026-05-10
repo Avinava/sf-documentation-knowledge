@@ -5,7 +5,7 @@ topic: schema-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.378Z
+lastCollected: 2026-05-10T00:39:47.180Z
 estimatedTokens: 2669
 namespace: System
 keywords: [Schema, metadata, SObjects, describe, option, SObjectDescribeOptions.DEFERRED, lazy, initialization, attributes, getGlobalDescribe, describeDataCategoryGroups, sObjectNames, describeSObjects, sObjectTypes, SObjectDescribeOptions, describeTabs, describeDataCategoryGroupStructures, pairs, topCategoriesOnly]

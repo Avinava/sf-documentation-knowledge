@@ -5,7 +5,7 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.926Z
+lastCollected: 2026-05-10T00:40:18.910Z
 estimatedTokens: 1657
 keywords: [PlatformEventChannel, channel, subscribe, order, receive, stream, change, capture, events, SOAP, REST, HTTP]
 ---

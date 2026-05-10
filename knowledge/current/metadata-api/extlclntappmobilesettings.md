@@ -5,7 +5,7 @@ topic: extlclntappmobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.916Z
+lastCollected: 2026-05-10T00:40:05.940Z
 estimatedTokens: 425
 keywords: [ExtlClntAppMobileSettings, external, client, app’s, mobile, app, settings, screen, lock, device, Parent, File, Suffix, Directory, Location]
 ---

@@ -5,7 +5,7 @@ topic: flow-for-omnistudio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.256Z
+lastCollected: 2026-05-10T00:40:32.305Z
 estimatedTokens: 188
 keywords: [FlowActionCall, Flow, Omnistudio, metadata, application, users, series, pages, query, records, database, execute, logic, provide, branching, capability, user, build, dynamic, applications]
 ---

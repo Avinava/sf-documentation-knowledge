@@ -5,7 +5,7 @@ topic: delete-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.010Z
+lastCollected: 2026-05-10T00:39:14.766Z
 estimatedTokens: 218
 keywords: [Configuration, Item, Management, Database, unique, identifier]
 ---

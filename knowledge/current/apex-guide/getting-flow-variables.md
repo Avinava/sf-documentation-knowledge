@@ -5,7 +5,7 @@ topic: getting-flow-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.760Z
+lastCollected: 2026-05-10T00:39:52.718Z
 estimatedTokens: 224
 keywords: [Getting, Flow, Variables, retrieve, specific, Apex]
 ---

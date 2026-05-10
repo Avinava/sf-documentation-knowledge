@@ -5,12 +5,10 @@ topic: describecompactlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.996Z
+lastCollected: 2026-05-10T00:40:44.592Z
 estimatedTokens: 433
-keywords: [describeCompactLayouts, call, retrieve, compact, layout, Usage, Sample, Code—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describeCompactLayouts, call, retrieve, compact, layout, Sample, Code—Java]
 ---
-
-# describeCompactLayouts()
 
 > Use this call to retrieve information about the compact layout for a given object
         type.

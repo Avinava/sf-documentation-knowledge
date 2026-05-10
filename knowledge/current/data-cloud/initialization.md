@@ -5,7 +5,7 @@ topic: initialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:51.319Z
+lastCollected: 2026-05-10T00:39:10.626Z
 estimatedTokens: 753
 keywords: [Initialization, Cloud, Module, Engagement, Mobile, SDK, invoke, web, services, API, configured, CdpConfigBuilder, iOS, CdpConfig.Builder, Android, helper, build, configuration, providing, settings, appId, endpoint, obtained, Connector, Optionally, provided, trackScreens, trackLifecycle, sessionTimeoutInSeconds, recommended, flow, Salesforce, Interactions, follows, general, pattern]
 ---

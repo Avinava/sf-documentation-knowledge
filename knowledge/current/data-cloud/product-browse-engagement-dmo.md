@@ -5,7 +5,7 @@ topic: product-browse-engagement-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.448Z
+lastCollected: 2026-05-10T00:39:13.921Z
 estimatedTokens: 2872
 keywords: [Category, Relationships, Product, Browse, Engagement, DMO, Cloud, model, captured, user, action, searching, products, viewing, API, Primary, Subject, Area, Key]
 ---

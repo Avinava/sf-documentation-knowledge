@@ -5,12 +5,10 @@ topic: sendemailmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.556Z
+lastCollected: 2026-05-10T00:40:45.847Z
 estimatedTokens: 1183
-keywords: [sendEmailMessage, Immediately, draft, email, messages, Usage, Sample, Code—Java, Arguments, Fault]
+keywords: [Arguments, Fault, sendEmailMessage, Immediately, draft, email, messages, Sample, Code—Java]
 ---
-
-# sendEmailMessage()
 
 > Immediately sends up to 10 draft email
       messages.

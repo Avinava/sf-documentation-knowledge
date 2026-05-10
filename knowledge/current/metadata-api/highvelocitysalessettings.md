@@ -5,7 +5,7 @@ topic: highvelocitysalessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:26.610Z
+lastCollected: 2026-05-10T00:40:07.117Z
 estimatedTokens: 1252
 keywords: [HighVelocitySalesSettings, org’s, Sales, Engagement, settings, inside, team, effective, possible, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest]
 ---

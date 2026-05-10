@@ -5,12 +5,10 @@ topic: processresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.446Z
+lastCollected: 2026-05-10T00:40:45.612Z
 estimatedTokens: 318
 keywords: [ProcessResult, process, call, depending, submit, approval, already, submitted]
 ---
-
-# ProcessResult
 
 > The process() call returns a
    ProcessResult object, which has the following properties, depending on the type of call (submit

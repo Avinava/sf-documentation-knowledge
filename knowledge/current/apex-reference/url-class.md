@@ -5,7 +5,7 @@ topic: url-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.919Z
+lastCollected: 2026-05-10T00:39:48.149Z
 estimatedTokens: 4607
 namespace: System
 keywords: [URL, canonical, org, https, MyDomainName.my.salesforce.com, Versioned, Behavior, Changes, spec, context, protocol, host, file, port, getAuthority, getCurrentRequestUrl, getDefaultPort, getFile, getFileFieldURL, entityId, fieldName, getHost, getOrgDomainUrl, getPath, getPort, getProtocol, getQuery, getRef, getSalesforceBaseUrl, getUserInfo, sameFile, URLToCompare, toExternalForm]

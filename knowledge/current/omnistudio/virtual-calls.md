@@ -5,7 +5,7 @@ topic: virtual-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:46.236Z
+lastCollected: 2026-05-10T00:40:36.851Z
 estimatedTokens: 85
 keywords: [Virtual, enable, communication, anywhere, video, connect, customer, service, agents, their, customers]
 ---

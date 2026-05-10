@@ -5,7 +5,7 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:28.663Z
+lastCollected: 2026-05-10T00:40:10.287Z
 estimatedTokens: 8406
 keywords: [Profile, LoginFlow, ProfileActionOverride, ProfileAgentAccess, ProfileApplicationVisibility, ProfileCategoryGroupVisibility, ProfileCustomMetadataTypeAccess, ProfileApexClassAccess, ProfileCustomPermissions, ProfileCustomSettingAccesses, ProfileExternalDataSourceAccess, ProfileFieldLevelSecurity, ProfileFlowAccess, ProfileLayoutAssignments, ProfileLoginHours, ProfileLoginIpRange, ProfileObjectPermissions, ProfileApexPageAccess, ProfileRecordTypeVisibility, ProfileTabVisibility, ProfileUserPermission, ProfileServicePresenceStatusAccess, user, user’s, permission, perform, different, functions, Salesforce, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location, Java, Sample, Definition, Wildcard, Support, Manifest]
 ---

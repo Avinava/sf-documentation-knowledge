@@ -5,7 +5,7 @@ topic: apex-transactions-and-governor-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.923Z
+lastCollected: 2026-05-10T00:39:52.991Z
 estimatedTokens: 576
 keywords: [Apex, Transactions, Governor, Limits, ensure, integrity, code, runs, part, atomic, execution, efficient, resources, Lightning, Platform, multitenant]
 ---

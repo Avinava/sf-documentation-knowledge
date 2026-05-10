@@ -5,7 +5,7 @@ topic: loyalty-partner-product-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.968Z
+lastCollected: 2026-05-10T00:39:13.389Z
 estimatedTokens: 834
 keywords: [Category, Relationships, Loyalty, Partner, Product, DMO, Cloud, model, offered, program, coupon, another, company, API, Primary, Subject, Area, Key]
 ---

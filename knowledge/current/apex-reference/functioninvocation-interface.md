@@ -5,7 +5,7 @@ topic: functioninvocation-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.462Z
+lastCollected: 2026-05-10T00:39:45.638Z
 estimatedTokens: 1092
 keywords: [FunctionInvocation, status, results, synchronous, asynchronous, Function, invocation, getError, getInvocationId, getResponse, getStatus, Implementation]
 ---

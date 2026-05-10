@@ -5,7 +5,7 @@ topic: index-configuration-collection-get-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.367Z
+lastCollected: 2026-05-10T00:39:04.502Z
 estimatedTokens: 527
 keywords: [Index, Configuration, Collection, PUT, Retrieve, saved, configurations, Additionally, persist]
 ---

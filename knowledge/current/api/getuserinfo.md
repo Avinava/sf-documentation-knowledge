@@ -5,12 +5,10 @@ topic: getuserinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.334Z
+lastCollected: 2026-05-10T00:40:45.363Z
 estimatedTokens: 622
-keywords: [getUserInfo, Retrieves, personal, user, associated, current, session, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Arguments, Fault, getUserInfo, Retrieves, personal, user, current, session, Sample, Code—Java, Code—C#]
 ---
-
-# getUserInfo()
 
 > Retrieves personal information for the user associated with the current
       session.

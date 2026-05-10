@@ -5,7 +5,7 @@ topic: b2c-commerce-goods-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.088Z
+lastCollected: 2026-05-10T00:39:11.566Z
 estimatedTokens: 395
 keywords: [B2C, Commerce, Goods, Product, Mapping, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source, model, DMO, Cloud, hard, purchased, DLO]
 ---

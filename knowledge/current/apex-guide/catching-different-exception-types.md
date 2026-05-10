@@ -5,7 +5,7 @@ topic: catching-different-exception-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:17.653Z
+lastCollected: 2026-05-10T00:39:52.562Z
 estimatedTokens: 510
 keywords: [Catching, Different, Exception, previous, examples, specific, catch, block, caught, generic, catches, try, running, throws, SObjectException, statement, argu]
 ---

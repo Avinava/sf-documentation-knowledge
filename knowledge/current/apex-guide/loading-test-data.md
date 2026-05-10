@@ -5,7 +5,7 @@ topic: loading-test-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.582Z
+lastCollected: 2026-05-10T00:39:54.070Z
 estimatedTokens: 476
 keywords: [Loading, Test, Test.loadData, populate, having, write, lines, code]
 ---

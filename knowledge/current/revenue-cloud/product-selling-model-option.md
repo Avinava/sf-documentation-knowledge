@@ -5,7 +5,7 @@ topic: product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.554Z
+lastCollected: 2026-05-10T00:39:06.176Z
 estimatedTokens: 242
 keywords: [Product, Selling, Model, Option, definition]
 ---

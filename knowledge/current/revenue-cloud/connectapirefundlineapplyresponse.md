@@ -5,7 +5,7 @@ topic: connectapirefundlineapplyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:41.616Z
+lastCollected: 2026-05-10T00:39:02.019Z
 estimatedTokens: 121
 keywords: [ConnectApi.RefundLineApplyResponse, applied, refund, includes, line, date, against, payment, record]
 ---

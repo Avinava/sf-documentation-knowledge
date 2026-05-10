@@ -5,7 +5,7 @@ topic: postaladdress-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.701Z
+lastCollected: 2026-05-10T00:39:24.915Z
 estimatedTokens: 1612
 namespace: RichMessaging
 keywords: [PostalAddress, postal, address, addressLines, subLocality, locality, postalCode, subAdministrativeArea, administrativeArea, country, countryCode]

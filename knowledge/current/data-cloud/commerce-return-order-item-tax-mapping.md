@@ -5,7 +5,7 @@ topic: commerce-return-order-item-tax-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.700Z
+lastCollected: 2026-05-10T00:39:12.223Z
 estimatedTokens: 348
 keywords: [Commerce, Order, Item, Tax, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, amount, adjustments, made, product, DLO]
 ---

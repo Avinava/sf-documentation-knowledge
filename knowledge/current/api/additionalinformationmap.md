@@ -5,12 +5,10 @@ topic: additionalinformationmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.756Z
+lastCollected: 2026-05-10T00:40:46.122Z
 estimatedTokens: 63
 keywords: [AdditionalInformationMap, any, matched, records]
 ---
-
-# AdditionalInformationMap
 
 > Represents other information, if any, about matched
       records.

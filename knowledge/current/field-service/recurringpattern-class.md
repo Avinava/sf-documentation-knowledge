@@ -5,7 +5,7 @@ topic: recurringpattern-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.481Z
+lastCollected: 2026-05-10T00:40:37.181Z
 estimatedTokens: 1150
 namespace: FSL
 keywords: [DaysOfWeek, Frequency, FrequencyType, NumberOfVisits, RecurringPattern, sharing, RecurringAppointmentsManager, pattern, appointments, recur, weekly, Recurring]

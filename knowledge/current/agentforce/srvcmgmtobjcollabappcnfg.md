@@ -5,7 +5,7 @@ topic: srvcmgmtobjcollabappcnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.532Z
+lastCollected: 2026-05-10T00:39:15.572Z
 estimatedTokens: 708
 keywords: [SrvcMgmtObjCollabAppCnfg, configuration, specific, service, management, collaboration, apps, whether, swarming, enabled, record, layout, that's, app, API, 65.0, SOAP, REST]
 ---

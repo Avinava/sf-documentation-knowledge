@@ -5,12 +5,10 @@ topic: describeavailablequickactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.987Z
+lastCollected: 2026-05-10T00:40:44.571Z
 estimatedTokens: 325
-keywords: [describeAvailableQuickActions, API, version, 28.0, actions, parent, 29.0, greater, context, Usage, Sample—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describeAvailableQuickActions, API, 28.0, actions, parent, 29.0, greater, context, Sample—Java]
 ---
-
-# describeAvailableQuickActions()
 
 > In API version 28.0, describes details about actions available for a specified
         parent. In API version 29.0 and greater, describes details about actions available for a

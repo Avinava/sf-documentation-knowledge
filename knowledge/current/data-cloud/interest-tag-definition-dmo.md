@@ -5,7 +5,7 @@ topic: interest-tag-definition-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.840Z
+lastCollected: 2026-05-10T00:39:13.227Z
 estimatedTokens: 309
 keywords: [Category, Relationships, Interest, Tag, Definition, DMO, products, services, features, party, expressed, Provided, Financial, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

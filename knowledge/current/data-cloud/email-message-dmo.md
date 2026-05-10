@@ -5,7 +5,7 @@ topic: email-message-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.500Z
+lastCollected: 2026-05-10T00:39:12.918Z
 estimatedTokens: 1359
 keywords: [Category, Relationships, Email, Message, DMO, Cloud, model, usually, text, possibly, HTML, including, attachments, sent, received, over, network, API, Primary, Subject, Area, Key]
 ---

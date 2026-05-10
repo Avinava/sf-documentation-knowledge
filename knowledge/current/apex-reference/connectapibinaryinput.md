@@ -5,7 +5,7 @@ topic: connectapibinaryinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.660Z
+lastCollected: 2026-05-10T00:39:31.714Z
 estimatedTokens: 319
 keywords: [ConnectApi.BinaryInput, attach, files, items, comments, add, repository, managed, content, replace, variants]
 ---

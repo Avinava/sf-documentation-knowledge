@@ -5,7 +5,7 @@ topic: processpaymentresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.717Z
+lastCollected: 2026-05-10T00:39:24.944Z
 estimatedTokens: 935
 namespace: RichMessaging
 keywords: [ProcessPaymentResult, result, payment, processing, operation, resultStatus, errorMessage]

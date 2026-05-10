@@ -5,7 +5,7 @@ topic: connectapimultiplefulfillmentorderoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.216Z
+lastCollected: 2026-05-10T00:39:40.581Z
 estimatedTokens: 155
 keywords: [responses, individual, FulfillmentOrder, creation, attempts, multiple, fulfillment, orders]
 ---

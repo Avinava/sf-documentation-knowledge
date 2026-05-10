@@ -5,7 +5,7 @@ topic: jwtutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.592Z
+lastCollected: 2026-05-10T00:39:22.652Z
 estimatedTokens: 1545
 namespace: Auth
 keywords: [JWTUtil, validating, JSON, Web, Token, JWT, external, identity, provider, part, OAuth, 2.0, exchange, flow, validateIncomingToken, Auth.Oauth2TokenExchangeHandler, parseJWTFromStringWithoutValidation, incomingJWT, validateJWTWithCert, certDeveloperName, validateJWTWithKey, publicKey, validateJWTWithKeysEndpoint, keysEndpoint, shouldUseCache]

@@ -5,7 +5,7 @@ topic: methods-available-to-experience-cloud-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.921Z
+lastCollected: 2026-05-10T00:39:51.411Z
 estimatedTokens: 6942
 keywords: [Experience, Cloud, Guest, Users, site, logging, Apex, user]
 ---

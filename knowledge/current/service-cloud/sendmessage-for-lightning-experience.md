@@ -5,7 +5,7 @@ topic: sendmessage-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.052Z
+lastCollected: 2026-05-10T00:40:42.319Z
 estimatedTokens: 225
 keywords: [Arguments, sendMessage, Lightning, Experience, new, chat, message, agent, specific, key, works, console, apps, argumentObj, Sample, Code]
 ---

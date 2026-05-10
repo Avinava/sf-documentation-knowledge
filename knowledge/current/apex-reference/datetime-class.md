@@ -5,7 +5,7 @@ topic: datetime-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.996Z
+lastCollected: 2026-05-10T00:39:46.594Z
 estimatedTokens: 9145
 namespace: System
 keywords: [Datetime, primitive, addDays, additionalDays, addHours, additionalHours, addMinutes, additionalMinutes, addMonths, additionalMonths, addSeconds, additionalSeconds, addYears, additionalYears, date, dateGMT, day, dayGmt, dayOfYear, dayOfYearGmt, dateFormatString, timezone, formatGmt, formatLong, getTime, hour, hourGmt, isSameDay, dateToCompare, millisecond, millisecondGmt, minute, minuteGmt, month, monthGmt, newInstance, milliseconds, time, year, second, newInstanceGmt, now, parse, datetimeString, secondGmt, timeGmt, valueOf, fieldValue, valueOfGmt, yearGmt]

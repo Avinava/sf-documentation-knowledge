@@ -5,7 +5,7 @@ topic: webservicemock-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.552Z
+lastCollected: 2026-05-10T00:39:45.787Z
 estimatedTokens: 879
 namespace: System
 keywords: [WebServiceMock, sending, fake, responses, testing, Web, service, callouts, auto-generated, WSDL, doInvoke, stub, soapRequest, responseMap, endpoint, soapAction, requestName, responseNamespace, responseName, responseType]

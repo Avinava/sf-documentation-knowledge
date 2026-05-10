@@ -5,7 +5,7 @@ topic: communication-subscription-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.754Z
+lastCollected: 2026-05-10T00:39:12.264Z
 estimatedTokens: 898
 keywords: [Category, Relationships, Communication, Subscription, Consent, DMO, Cloud, model, engagement, channel, preferences, customer, API, Primary, Subject, Area, Key]
 ---

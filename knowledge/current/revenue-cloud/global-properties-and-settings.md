@@ -5,7 +5,7 @@ topic: global-properties-and-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:11.920Z
+lastCollected: 2026-05-10T00:39:02.551Z
 estimatedTokens: 659
 keywords: [Settings, Header-level, declarations, define, model, including, constants, external, foundation, CML, code, Regex, Pattern]
 ---

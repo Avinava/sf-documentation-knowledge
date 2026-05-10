@@ -5,7 +5,7 @@ topic: datatype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.367Z
+lastCollected: 2026-05-10T00:40:16.336Z
 estimatedTokens: 1018
 keywords: [DataType, Limitations, EntityDefinition, EntityParticle, FieldDefinition, simplify, queries, Tooling, API, 34.0, SOAP, REST, HTTP, SOQL]
 ---

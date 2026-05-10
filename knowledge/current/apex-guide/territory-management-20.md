@@ -5,7 +5,7 @@ topic: territory-management-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.865Z
+lastCollected: 2026-05-10T00:39:49.662Z
 estimatedTokens: 287
 keywords: [Territory, Management, 2.0, trigger, support, Territory2, UserTerritory2Association, standard, automate, actions, processes, changes, records, Sample]
 ---

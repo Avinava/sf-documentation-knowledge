@@ -5,7 +5,7 @@ topic: lwc-methods-for-enhanced-messaging-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.370Z
+lastCollected: 2026-05-10T00:40:42.790Z
 estimatedTokens: 1131
 keywords: [LWC, Enhanced, Messaging, Lightning, Experience, Conversation, Toolkit, API, interact, customer, web, apply, Sample, Code]
 ---

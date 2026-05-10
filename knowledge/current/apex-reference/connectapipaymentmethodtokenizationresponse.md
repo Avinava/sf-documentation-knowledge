@@ -5,7 +5,7 @@ topic: connectapipaymentmethodtokenizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:10.770Z
+lastCollected: 2026-05-10T00:39:41.438Z
 estimatedTokens: 208
 keywords: [Payment, tokenization]
 ---

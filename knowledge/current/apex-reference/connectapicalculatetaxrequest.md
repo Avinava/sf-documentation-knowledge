@@ -5,7 +5,7 @@ topic: connectapicalculatetaxrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:04.720Z
+lastCollected: 2026-05-10T00:39:31.805Z
 estimatedTokens: 704
 keywords: [ConnectApi.CalculateTaxRequest, sent, tax, adapter, external, engine, Inputs, TaxTransactionType, Debit, represent, calculation, Credit, cancellation]
 ---

@@ -5,12 +5,10 @@ topic: resetpassword
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.497Z
+lastCollected: 2026-05-10T00:40:45.721Z
 estimatedTokens: 685
-keywords: [resetPassword, Changes, user's, password, temporary, system-generated, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Arguments, Fault, resetPassword, Changes, user's, password, temporary, system-generated, Sample, Code—Java, Code—C#]
 ---
-
-# resetPassword()
 
 > Changes a user's password to a temporary, system-generated value.
 

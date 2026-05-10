@@ -5,7 +5,7 @@ topic: attributecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.427Z
+lastCollected: 2026-05-10T00:39:08.571Z
 estimatedTokens: 796
 keywords: [AttributeCategory, logical, grouping, attributes, reused, defining, products, Attribute, Categories, searching, managing, product, Mobile, Handset, category, color, storage, model, size, API, 60.0]
 ---

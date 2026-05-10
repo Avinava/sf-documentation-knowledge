@@ -5,12 +5,10 @@ topic: match
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.405Z
+lastCollected: 2026-05-10T00:40:45.519Z
 estimatedTokens: 216
-keywords: [match, Evaluates, sObjects, provided, input, matches, among, Leads, matching, rule, MatchOptions, call, Standard, Accounts, Arguments]
+keywords: [Arguments, match, Evaluates, sObjects, provided, matches, among, Leads, matching, rule, MatchOptions, call, Standard, Accounts]
 ---
-
-# match()
 
 > Evaluates sObjects provided as an input for matches among Leads, using
       the matching rule specified in the input MatchOptions. This call can be used only with the

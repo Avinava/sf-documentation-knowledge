@@ -5,12 +5,10 @@ topic: describedatacategorygroups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.010Z
+lastCollected: 2026-05-10T00:40:44.616Z
 estimatedTokens: 437
-keywords: [describeDataCategoryGroups, Retrieves, category, groups, objects, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, describeDataCategoryGroups, Retrieves, category, groups, Sample, Code—Java, Code—C#]
 ---
-
-# describeDataCategoryGroups()
 
 > Retrieves available category groups for objects specified in the request.
 

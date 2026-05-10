@@ -5,7 +5,7 @@ topic: attributecategoryattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.437Z
+lastCollected: 2026-05-10T00:39:08.583Z
 estimatedTokens: 821
 keywords: [AttributeCategoryAttribute, relationship, attribute, category, definition, API, 60.0]
 ---

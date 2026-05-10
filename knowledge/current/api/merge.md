@@ -5,12 +5,10 @@ topic: merge
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:57.421Z
+lastCollected: 2026-05-10T00:40:45.554Z
 estimatedTokens: 1971
-keywords: [merge, Combines, three, records, record, input, array, MergeRequest, elements, combine, output, MergeResult, result, Usage, Rules]
+keywords: [Arguments, Faults, merge, Combines, three, records, record, array, MergeRequest, combine, MergeResult, result, Guidelines, Sample, Code—Java, Code—C#]
 ---
-
-# merge()
 
 > Combines up to three records of the same type into one
          record. The input is an array of MergeRequest

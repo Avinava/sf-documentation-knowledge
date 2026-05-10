@@ -5,7 +5,7 @@ topic: layout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.385Z
+lastCollected: 2026-05-10T00:39:24.377Z
 estimatedTokens: 4219
 namespace: Metadata
 keywords: [Layout, metadata, customButtons, customConsoleComponents, emailDefault, excludeButtons, feedLayout, layoutSections, miniLayout, multilineLayoutFields, platformActionList, quickActionList, relatedContent, relatedLists, relatedObjects, runAssignmentRulesDefault, showEmailCheckbox, showHighlightsPanel, showInteractionLogPanel, showKnowledgeComponent, showRunAssignmentRulesCheckbox, showSolutionSection, showSubmitAndAttachButton, summaryLayout, clone]

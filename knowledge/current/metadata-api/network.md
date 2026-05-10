@@ -5,7 +5,7 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:27.910Z
+lastCollected: 2026-05-10T00:40:09.169Z
 estimatedTokens: 9799
 keywords: [Network, Branding, CommunityRoles, NavigationLinkSet, NavigationMenuItem, NavigationSubMenu, NetworkAuthApiSettings, NetworkEmailTmplAllowlist, NetworkMemberGroup, NetworkPageOverride, RecommendationAudience, RecommendationAudienceDetail, RecommendationDefinition, RecommendationDefinitionDetail, ReputationBranding, ReputationLevelDefinitions, ReputationLevel, ReputationPointsRules, ReputationPointsRule, ScheduledRecommendation, ScheduledRecommendationDetail, NetworkTabSet, Experience, Cloud, site, Salesforce, lets, branded, spaces, employees, customers, partners, customize, experiences, whether, they’re, communities, sites, portals, meet, business, needs, transition, seamlessly, want, zones, contain, Chatter, Answers, Ideas, Community, Zone, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

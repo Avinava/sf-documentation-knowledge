@@ -5,7 +5,7 @@ topic: isconsolenavigation-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.885Z
+lastCollected: 2026-05-10T00:40:42.086Z
 estimatedTokens: 224
 keywords: [Arguments, isConsoleNavigation, Lightning, Experience, Determines, whether, app, it’s, uses, console, navigation, isn’t, Web, LWC, Aura, Sample, Code]
 ---

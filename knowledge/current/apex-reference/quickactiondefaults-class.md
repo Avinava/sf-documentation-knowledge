@@ -5,7 +5,7 @@ topic: quickactiondefaults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.616Z
+lastCollected: 2026-05-10T00:39:24.771Z
 estimatedTokens: 825
 namespace: QuickAction
 keywords: [QuickActionDefaults, abstract, Apex, context, running, standard, Email, Action, Case, container, Message, payload, override, target, rendered, getActionName, getActionType, getContextId, getTargetSObject]

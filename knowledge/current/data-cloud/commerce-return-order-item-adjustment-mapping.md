@@ -5,7 +5,7 @@ topic: commerce-return-order-item-adjustment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.694Z
+lastCollected: 2026-05-10T00:39:12.210Z
 estimatedTokens: 333
 keywords: [Commerce, Order, Item, Adjustment, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, change, price, product, DLO]
 ---

@@ -2,7 +2,7 @@
 domain: cgcloud-rtr-dev-guide
 name: Consumer Goods Cloud Real Time Reporting Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.928Z
+lastGenerated: 2026-05-10T00:40:49.296Z
 ---
 
 # Consumer Goods Cloud Real Time Reporting Developer Guide — Knowledge Index

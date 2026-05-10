@@ -5,7 +5,7 @@ topic: understanding-apex-managed-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.005Z
+lastCollected: 2026-05-10T00:39:49.897Z
 estimatedTokens: 299
 keywords: [Understanding, Apex, Managed, Sharing, act, granting, user, group, users, permission, perform, actions, record, records, granted, Salesforce, Lightning, Platform, programmatically]
 ---

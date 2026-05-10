@@ -5,12 +5,10 @@ topic: query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.455Z
+lastCollected: 2026-05-10T00:40:45.627Z
 estimatedTokens: 1797
-keywords: [query, Executes, against, data, matches, stated, conditions, Usage, Arguments, Sample, Code—Java, Code—C#, Faults]
+keywords: [Arguments, Faults, query, Executes, against, matches, stated, conditions, Sample, Code—Java, Code—C#]
 ---
-
-# query()
 
 > Executes a query against the specified object and returns data that matches the
       stated conditions.

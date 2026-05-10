@@ -5,7 +5,7 @@ topic: sandboxprocessstage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.373Z
+lastCollected: 2026-05-10T00:40:19.477Z
 estimatedTokens: 1390
 keywords: [SandboxProcessStage, status, progress, spectific, stage, SandboxProcess, record, SOAP, REST, HTTP, Creating, Sandbox, Refreshing, Deleting, Checking]
 ---

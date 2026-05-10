@@ -6,7 +6,7 @@ topic: execute-a-soql-query-that-includes-deleted-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.945Z
+lastCollected: 2026-05-10T00:39:56.338Z
 estimatedTokens: 416
 keywords: [Execute, SOQL, Query, Includes, Deleted, Items, QueryAll, resource, records, because, merge, rather, automatically, filter, Retrieving, Remaining, Results]
 ---

@@ -5,7 +5,7 @@ topic: sales-store-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.590Z
+lastCollected: 2026-05-10T00:39:14.144Z
 estimatedTokens: 439
 keywords: [Category, Relationships, Sales, Store, DMO, Cloud, model, regarding, retail, establishment, selling, items, API, Primary, Subject, Area, Key]
 ---

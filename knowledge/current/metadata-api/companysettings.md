@@ -5,7 +5,7 @@ topic: companysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.671Z
+lastCollected: 2026-05-10T00:40:02.398Z
 estimatedTokens: 843
 keywords: [CompanySettings, FiscalYearSetting, settings, affect, multiple, features, organization, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location, Sample, Definition, Fiscal, Year, Setting, Wildcard, Support, Manifest]
 ---

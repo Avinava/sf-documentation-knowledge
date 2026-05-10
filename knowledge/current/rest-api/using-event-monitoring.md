@@ -5,7 +5,7 @@ topic: using-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.673Z
+lastCollected: 2026-05-10T00:39:59.132Z
 estimatedTokens: 1748
 keywords: [Event, Monitoring, examples, REST, API, useful, assessing, org, trends, user, behavior, accessed, Lightning, Platform, SOAP, way, EventLogFile, Therefore, integrate, log, own, back-end, storage, marts, correlate, multiple, orgs, across, disparate, systems]
 ---

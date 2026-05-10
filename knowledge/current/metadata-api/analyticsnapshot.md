@@ -5,7 +5,7 @@ topic: analyticsnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.427Z
+lastCollected: 2026-05-10T00:40:00.345Z
 estimatedTokens: 1023
 keywords: [AnalyticSnapshot, AnalyticSnapshotMapping, ReportJobSourceTypes, reporting, snapshot, lets, report, historical, Authorized, users, save, tabular, summary, results, map, corresponding, target, They, schedule, run, load, object's, report's, snapshots, enable, work, similarly, how, records, Salesforce, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -6,7 +6,7 @@ topic: get-a-layout-for-a-single-approval-process-on-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.214Z
+lastCollected: 2026-05-10T00:39:58.404Z
 estimatedTokens: 126
 keywords: [Layout, Approval, Process, Retrieves, named, resource, REST, API, 30.0]
 ---

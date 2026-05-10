@@ -5,7 +5,7 @@ topic: digitalexperiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.892Z
+lastCollected: 2026-05-10T00:40:04.300Z
 estimatedTokens: 2955
 keywords: [DigitalExperienceBundle, DigitalExperience, DigitalExperienceFolderShare, SharedWith, text-based, code, structure, organization’s, workspaces, organized, workspace, workspace’s, content, items, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

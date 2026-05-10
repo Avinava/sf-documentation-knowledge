@@ -5,7 +5,7 @@ topic: aiauthoringbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.290Z
+lastCollected: 2026-05-10T00:40:00.115Z
 estimatedTokens: 1159
 keywords: [AiAuthoringBundle, authoring, bundle, container, AI-related, content, Agentforce, agent, Script, file, metadata, Parent, Directory, Structure, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

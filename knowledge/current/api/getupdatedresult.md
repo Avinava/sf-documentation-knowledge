@@ -5,12 +5,10 @@ topic: getupdatedresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.330Z
+lastCollected: 2026-05-10T00:40:45.354Z
 estimatedTokens: 321
 keywords: [GetUpdatedResult, getUpdated, call, record, inserted, updated, timespan]
 ---
-
-# GetUpdatedResult
 
 > The getUpdated() call returns a
     GetUpdatedResult object that contains information about

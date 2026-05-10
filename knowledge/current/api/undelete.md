@@ -5,12 +5,10 @@ topic: undelete
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.596Z
+lastCollected: 2026-05-10T00:40:45.931Z
 estimatedTokens: 1212
-keywords: [undelete, Undeletes, records, Recycle, Bin, Usage, Rollback, Error, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, undelete, Undeletes, records, Recycle, Bin, Rollback, Error, Sample, Code—Java, Code—C#]
 ---
-
-# undelete()
 
 > Undeletes records from the Recycle Bin.
 

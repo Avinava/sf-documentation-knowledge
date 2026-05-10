@@ -5,12 +5,10 @@ topic: describeglobaltheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.041Z
+lastCollected: 2026-05-10T00:40:44.690Z
 estimatedTokens: 546
-keywords: [describeGlobalTheme, objects, themes, current, logged-in, user, Usage, Sample, Faults, DescribeGlobalTheme]
+keywords: [Sample, Faults, describeGlobalTheme, themes, current, logged-in, user, DescribeGlobalTheme]
 ---
-
-# describeGlobalTheme()
 
 > Returns information about both objects and themes available to the current logged-in
         user.

@@ -5,7 +5,7 @@ topic: connectapiregisterguestbuyeroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.576Z
+lastCollected: 2026-05-10T00:39:42.671Z
 estimatedTokens: 133
 keywords: [success, failure, register, guest, buyer, action]
 ---

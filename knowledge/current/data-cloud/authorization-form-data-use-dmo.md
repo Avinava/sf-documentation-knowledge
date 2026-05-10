@@ -5,7 +5,7 @@ topic: authorization-form-data-use-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.056Z
+lastCollected: 2026-05-10T00:39:11.518Z
 estimatedTokens: 541
 keywords: [Category, Relationships, Authorization, Form, DMO, model, Cloud, uses, consented, API, Primary, Subject, Area, Key]
 ---

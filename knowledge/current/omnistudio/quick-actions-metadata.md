@@ -5,7 +5,7 @@ topic: quick-actions-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.285Z
+lastCollected: 2026-05-10T00:40:27.845Z
 estimatedTokens: 113
 keywords: [Quick, Actions, Metadata]
 ---

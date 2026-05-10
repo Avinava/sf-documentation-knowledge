@@ -5,7 +5,7 @@ topic: retrievalsummarydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.311Z
+lastCollected: 2026-05-10T00:40:11.346Z
 estimatedTokens: 1373
 keywords: [RetrievalSummaryDefinition, RetrievalSummaryDefField, RetrievalSummaryDefObject, metadata, stores, retrieval, definition, configuration, patterns, summarizing, records, across, relationships, Parent, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---

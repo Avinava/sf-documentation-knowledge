@@ -5,7 +5,7 @@ topic: metadatapackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.525Z
+lastCollected: 2026-05-10T00:40:18.192Z
 estimatedTokens: 315
 keywords: [MetadataPackage, package, developed, org, you’re, logged, unlocked, unmanaged, first-generation, second-generation, managed, packages, Tooling, API, 38.0, SOAP, REST, HTTP]
 ---

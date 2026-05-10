@@ -5,7 +5,7 @@ topic: opensubtabbyprimarytabname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.672Z
+lastCollected: 2026-05-10T00:40:43.230Z
 estimatedTokens: 595
 keywords: [Arguments, openSubtabByPrimaryTabName, Opens, new, subtab, primary, tab, displays, content, URL, relative, absolute, override, open, via, tab's, API, 22.0, Sample, Code–Visualforce]
 ---

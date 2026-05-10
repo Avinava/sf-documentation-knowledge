@@ -5,7 +5,7 @@ topic: maintenanceworkrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.729Z
+lastCollected: 2026-05-10T00:40:38.983Z
 estimatedTokens: 818
 keywords: [MaintenanceWorkRule, recurrence, pattern, maintenance, record, API, 49.0]
 ---

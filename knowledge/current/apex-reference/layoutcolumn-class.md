@@ -5,7 +5,7 @@ topic: layoutcolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.392Z
+lastCollected: 2026-05-10T00:39:24.391Z
 estimatedTokens: 649
 namespace: Metadata
 keywords: [LayoutColumn, items, column, layout, layoutItems, reserved, clone]

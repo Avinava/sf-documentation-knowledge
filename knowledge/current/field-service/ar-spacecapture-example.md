@@ -5,7 +5,7 @@ topic: ar-spacecapture-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:46.855Z
+lastCollected: 2026-05-10T00:40:37.738Z
 estimatedTokens: 51
 keywords: [SpaceCapture, component’s, HTML, template, minimal, includes, button, initiates, room, scan]
 ---

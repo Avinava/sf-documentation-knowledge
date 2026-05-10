@@ -5,7 +5,7 @@ topic: partyrelationshipgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.990Z
+lastCollected: 2026-05-10T00:40:35.014Z
 estimatedTokens: 1499
 keywords: [PartyRelationshipGroup, group, people, living, together, household, affiliated, API, 56.0]
 ---

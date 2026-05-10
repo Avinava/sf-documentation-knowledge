@@ -5,7 +5,7 @@ topic: refreshnavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.679Z
+lastCollected: 2026-05-10T00:40:43.239Z
 estimatedTokens: 160
 keywords: [Arguments, refreshNavigationTab, Refreshes, selected, navigation, tab, API, 31.0, Sample, Code–Visualforce]
 ---

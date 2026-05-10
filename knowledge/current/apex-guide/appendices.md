@@ -5,7 +5,7 @@ topic: appendices
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.941Z
+lastCollected: 2026-05-10T00:39:49.787Z
 estimatedTokens: 110
 keywords: [Appendices]
 ---

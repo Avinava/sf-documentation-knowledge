@@ -5,12 +5,10 @@ topic: describesearchlayoutresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.132Z
+lastCollected: 2026-05-10T00:40:44.879Z
 estimatedTokens: 360
-keywords: [DescribeSearchLayoutResult, describeSearchLayouts, call, array, objects, DescribeColumn]
+keywords: [DescribeSearchLayoutResult, DescribeColumn, describeSearchLayouts, call, array]
 ---
-
-# DescribeSearchLayoutResult
 
 > The describeSearchLayouts() call returns an array of DescribeSearchLayoutResult
   objects.

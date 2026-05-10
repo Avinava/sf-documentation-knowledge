@@ -5,7 +5,7 @@ topic: usermanagement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.375Z
+lastCollected: 2026-05-10T00:39:25.907Z
 estimatedTokens: 12220
 namespace: System
 keywords: [Examples, UserManagement, manage, end, users, register, their, verification, verify, identity, remove, personal, clone, deregisterVerificationMethod, userId, formatPhoneNumber, countryCode, phoneNumber, Phone, Number, Code, initPasswordlessLogin, initRegisterVerificationMethod, initSelfRegistration, user, initVerificationMethod, Email, actionName, extras, Salesforce, Authenticator, obfuscateUser, username, registerVerificationMethod, startUrl, sendAsyncEmailConfirmation, emailTemplateId, networkId, verifyPasswordlessLogin, identifier, verifyRegisterVerificationMethod, verifySelfRegistration, verifyVerificationMethod]
@@ -52,7 +52,7 @@ The following are methods for UserManagement.
     Invokes a verification challenge for self-registration when creating a custom (Visualforce) Verify page for Experience Cloud self-registration.
 -   **[initVerificationMethod(method)](atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm#apex_System_UserManagement_initVerificationMethod)**
     Initiates a verification service for email, phone (SMS), and the Salesforce Authenticator verification methods.
--   **[initVerificationMethod(method, actionName, extras)](atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm#unique_342958018)**
+-   **[initVerificationMethod(method, actionName, extras)](atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm#unique_1456988520)**
     Initiates a verification service for email, phone (SMS), and the Salesforce Authenticator verification methods.
 -   **[obfuscateUser(userId, username)](atlas.en-us.apexref.meta/apexref/apex_class_System_UserManagement.htm#apex_System_UserManagement_obfuscateUser)**
     Scrambles users’ data on their request when they no longer want their personal data recognized in Salesforce. When you invoke the method for the user, the data becomes anonymous, and you can never recover it. Use this method to set the username to a specific value after it’s scrambled.

@@ -5,7 +5,7 @@ topic: aiusecasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:22.365Z
+lastCollected: 2026-05-10T00:40:00.245Z
 estimatedTokens: 2860
 keywords: [AIUsecaseDefinition, AIUsecaseFieldMapping, AIUsecaseModel, AIFeatureExtractor, collection, Salesforce, org, define, machine, learning, case, real-time, predictions, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

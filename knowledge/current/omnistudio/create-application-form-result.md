@@ -5,7 +5,7 @@ topic: create-application-form-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.164Z
+lastCollected: 2026-05-10T00:40:26.326Z
 estimatedTokens: 167
 keywords: [Application, Form, Result, created, record]
 ---

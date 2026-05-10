@@ -5,7 +5,7 @@ topic: formulafunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.166Z
+lastCollected: 2026-05-10T00:40:17.619Z
 estimatedTokens: 925
 keywords: [FormulaFunction, FormulaFunctionCategory, function, building, formula, including, examples, uses, Tooling, API, 39.0, SOAP, REST, HTTP, Query]
 ---

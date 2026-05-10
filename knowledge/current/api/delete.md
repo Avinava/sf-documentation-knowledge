@@ -5,12 +5,10 @@ topic: delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:56.947Z
+lastCollected: 2026-05-10T00:40:44.477Z
 estimatedTokens: 1688
-keywords: [Deletes, records, organization's, data, Usage, Rules, Guidelines, Rollback, Error, Basic, Steps, Deleting, Sample, Code—Java, Code—C#]
+keywords: [Arguments, Faults, Deletes, records, organization's, Guidelines, Rollback, Error, Basic, Steps, Deleting, Sample, Code—Java, Code—C#]
 ---
-
-# delete()
 
 > Deletes one or more records from your organization's data.
 

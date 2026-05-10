@@ -5,7 +5,7 @@ topic: timesheettemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.701Z
+lastCollected: 2026-05-10T00:40:19.957Z
 estimatedTokens: 353
 keywords: [TimeSheetTemplateAssignment, Limitations, assignment, time, sheet, template, profile, API, 48.0, SOAP, REST, HTTP]
 ---

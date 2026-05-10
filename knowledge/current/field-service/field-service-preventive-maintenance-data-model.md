@@ -5,7 +5,7 @@ topic: field-service-preventive-maintenance-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:46.913Z
+lastCollected: 2026-05-10T00:40:37.832Z
 estimatedTokens: 736
 keywords: [Service, Preventive, Maintenance, Model, Manage, periodic, help, plans, define, schedule, specific, assets, typically, reflect, terms, customer’s, contract, entitlements]
 ---

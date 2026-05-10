@@ -5,7 +5,7 @@ topic: deploy-a-recently-validated-component-set-without-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:29.274Z
+lastCollected: 2026-05-10T00:40:11.284Z
 estimatedTokens: 645
 keywords: [Deploy, Recently, Validated, Tests, production, less, time, skipping, execution, Apex, testing, requirements, already, met]
 ---

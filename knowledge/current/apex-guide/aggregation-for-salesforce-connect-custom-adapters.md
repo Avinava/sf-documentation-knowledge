@@ -5,8 +5,8 @@ topic: aggregation-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.936Z
-estimatedTokens: 285
+lastCollected: 2026-05-10T00:39:51.437Z
+estimatedTokens: 284
 keywords: [Aggregation, Salesforce, Connect, Adapters, receive, COUNT, query, selected, column, QueryAggregation.COUNT, provided, columnsSelected, tableSelection, DataSource.QueryContext]
 ---
 
@@ -36,7 +36,7 @@ An aggregate query can still have filters, so your query method can be implement
 
 -   [*Apex Reference Guide*: QueryContext Class](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexref.meta/apexref/apex_class_DataSource_QueryContext.htm "Apex Reference Guide: QueryContext Class - HTML (New Window)")
 
--   [Create a Sample DataSource.Connection Class Class](atlas.en-us.apexcode.meta/apexcode/apex_connector_start_connection_class.htm "First, create a DataSource.Connection class to enable Salesforce to obtain the external system’s schema and to handle queries and searches of the external data.")
+-   [Create a Sample DataSource.Connection Class](atlas.en-us.apexcode.meta/apexcode/apex_connector_start_connection_class.htm "First, create a DataSource.Connection class to enable Salesforce to obtain the external system’s schema and to handle queries and searches of the external data.")
 
 ## Code Examples
 
@@ -76,4 +76,4 @@ override global DataSource.TableResult query(DataSource.QueryContext context) {
 
 ## Related Topics
 
-- Create a Sample DataSource.Connection Class Class (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_connection_class.htm)
+- Create a Sample DataSource.Connection Class (atlas.en-us.apexcode.meta/apexcode/apex_connector_start_connection_class.htm)

@@ -5,26 +5,27 @@ topic: place-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.747Z
-estimatedTokens: 1718
-keywords: [Place, Sales, Transaction, POST, order, quote, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated, tax]
+lastCollected: 2026-05-10T00:39:04.625Z
+estimatedTokens: 1751
+keywords: [Place, Sales, Transaction, POST, order, quote, integrated, pricing, configuration, insert, line, items, calculate, estimated, tax]
 ---
 
 > Create a sales transaction, such as an order or a quote, with
-      integrated pricing and configuration. Additionally, update an order or a quote, and insert and
-      delete order or quote line items to calculate the estimated tax.
+      integrated pricing and configuration. Also, update an order or a quote, and insert and delete
+      order or quote line items to calculate the estimated tax.
 
 # Place Sales Transaction (POST)
 
-Create a sales transaction, such as an order or a quote, with integrated pricing and configuration. Additionally, update an order or a quote, and insert and delete order or quote line items to calculate the estimated tax.
+Create a sales transaction, such as an order or a quote, with integrated pricing and configuration. Also, update an order or a quote, and insert and delete order or quote line items to calculate the estimated tax.
 
 You can also group order or quote line items based on location, work types, or departments, if groups are enabled for your org. Groups provide a visualization of the products to view large quotes.
 
 Keep these considerations in mind when you use this API.
 
--   You can add up to 1000 quote line items for a quote, and 1000 order products for an order. For complex flows that involve a large volume of records, ensure that the number of line items that are sent to this API are within this limit.
+-   You can add up to 1000 quote line items for a quote, and 1000 order products for an order. For complex flows that involve a large volume of records, make sure that the number of line items that are sent to this API are within this limit.
 -   A quote can have up to 3000 quote line item attributes, and an order can have up to 3000 order line item attributes.
 -   This API doesn't support creation of amendment, renewal, or cancellation quote or order. Use the amendment, renewal, or cancellation APIs or invocable actions.
+-   Create or update quote lines with an associated group ID if you plan to use the sales transaction line editor after the API request.
 
 Resource
 
@@ -186,6 +187,45 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/rev/sales-transa
           "StartDate": "2024-10-29",
           "EndDate": "2025-03-01",
           "PeriodBoundary": "Anniversary"
+        }
+      },
+      {
+        "referenceId": "refQuoteLine1",
+        "record": {
+          "attributes": {
+            "type": "QuoteLineItem",
+            "method": "POST"
+          },
+          "QuoteId": "@{refQuote.id}",
+          "Product2Id": "01tLT00000AA2M9YAL",
+          "PricebookEntryId": "01uLT000007PTafYAG",
+          "Quantity": "1"
+        }
+      },
+      {
+        "referenceId": "refQuoteLineItemAttribute1",
+        "record": {
+          "attributes": {
+            "type": "QuoteLineItemAttribute",
+            "method": "POST"
+          },
+          "QuoteLineItemId": "@{refQuoteLine0.id}",
+          "AttributeDefinitionId": "0tjRT0000000XbtYAE",
+          "AttributeValue": "True"
+        }
+      },
+      {
+        "referenceId": "refQuoteLineRelationship1",
+        "record": {
+          "attributes": {
+            "type": "QuoteLineRelationship",
+            "method": "POST"
+          },
+          "ProductRelationshipTypeId": "0yoLT000000wHq6YAE",
+          "ProductRelatedComponentId": "0dSLT00000076IP2AY",
+          "MainQuoteLineId": "@{refQuoteLine0.id}",
+          "AssociatedQuoteLineId": "@{refQuoteLine1.id}",
+          "AssociatedQuoteLinePricing": "NotIncludedInBundlePrice"
         }
       }
     ]

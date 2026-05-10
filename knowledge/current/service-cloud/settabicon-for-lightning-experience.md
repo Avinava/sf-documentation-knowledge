@@ -5,7 +5,7 @@ topic: settabicon-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.135Z
+lastCollected: 2026-05-10T00:40:42.442Z
 estimatedTokens: 480
 keywords: [Arguments, setTabIcon, Lightning, Experience, icon, alternative, text, tab, works, console, apps, LWC, Sample, Code, Aura]
 ---

@@ -5,7 +5,7 @@ topic: articletype-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.665Z
+lastCollected: 2026-05-10T00:40:00.750Z
 estimatedTokens: 787
 keywords: [LayoutSection, LayoutColumn, LayoutItem, ArticleType, Layout, metadata, article, layouts, determine, users, view, edit, entering, sections, appear, articles, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---

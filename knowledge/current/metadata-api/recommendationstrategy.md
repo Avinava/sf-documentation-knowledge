@@ -5,7 +5,7 @@ topic: recommendationstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:28.988Z
+lastCollected: 2026-05-10T00:40:10.784Z
 estimatedTokens: 18057
 keywords: [RecommendationStrategy, StrategyNodeBase, StrategyAction, StrategyActionArg, StrategyNodeUnionBase, StrategyNodeFilter, StrategyNodeIf, IfExpression, StrategyNodeInvocableAction, StrategyNodeInvocableActionArg, StrategyNodeRecommendationLimit, StrategyNodeRecommendationLoad, RecommendationLoadCondition, RecommendationConditionValue, StrategyNodeSortField, StrategyNodeSort, StrategyNodeUnion, StrategyNodeMap, StrategyNodeExclusive, MapExpression, recommendation, strategy, strategies, applications, similar, flows, determine, recommendations, delivered, client, retrieval, branching, logic, operations, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

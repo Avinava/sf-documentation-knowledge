@@ -5,7 +5,7 @@ topic: topics-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.932Z
+lastCollected: 2026-05-10T00:39:21.448Z
 estimatedTokens: 19259
 namespace: ConnectApi
 keywords: [Topics, topic, assignTopic, communityId, recordId, topicId, API, Requires, Chatter, assignTopicByName, topicName, createTopic, createTopicDataCategoryRules, dataCategoryGroup, dataCategory, topicNames, deleteTopic, getGroupsRecentlyTalkingAboutTopic, Guest, Users, getRecentlyTalkingAboutTopicsForGroup, groupId, getRecentlyTalkingAboutTopicsForUser, userId, getRelatedTopics, getTopic, getTopicDataCategoryRules, getTopics, sortParam, pageParam, pageSize, exactMatch, getTopicsOrFallBackToRenamedTopics, fallBackToRenamedTopics, getTopicSuggestions, maxResults, getTopicSuggestionsForText, text, getTrendingTopics, mergeTopics, idsToMerge, reassignTopicDataCategoryRules, reassignTopicsByName, unassignTopic, updateTopic, updateTopicsForArticlesInDataCategory, articleTopicAssignmentJob, Test, result, setTestGetRelatedTopics, setTestGetTopicSuggestions, setTestGetTopicSuggestionsForText, setTestGetTrendingTopics]

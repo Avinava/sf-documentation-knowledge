@@ -5,7 +5,7 @@ topic: version-apex-code-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.973Z
+lastCollected: 2026-05-10T00:39:53.073Z
 estimatedTokens: 928
 keywords: [Apex, Code, Behavior, Package, developers, conditional, logic, classes, triggers, exhibit, different, versions, support, previous, evolving]
 ---

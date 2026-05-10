@@ -5,7 +5,7 @@ topic: flow-for-rate-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.058Z
+lastCollected: 2026-05-10T00:39:08.057Z
 estimatedTokens: 177
 keywords: [FlowActionCall, Flow, Rate, Management, metadata, application, users, series, pages, query, records, database, run, logic, provide, branching, capability, user, build, dynamic, applications]
 ---

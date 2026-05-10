@@ -5,13 +5,11 @@ topic: namespaces-in-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.827Z
+lastCollected: 2026-05-10T00:40:46.229Z
 estimatedTokens: 145
 namespace: API
-keywords: [Namespaces, Partner, WSDL, XML, every, tag, defined, enterprise.wsdl, handled, implicitly, API, calls, however, explicitly, specify]
+keywords: [Namespaces, Partner, WSDL, XML, every, tag, defined, enterprise.wsdl, handled, implicitly, API, however, explicitly, specify, correct, faults, rule, predefined]
 ---
-
-# Namespaces in the Partner WSDL
 
 > In XML, every tag has a defined namespace. In the enterprise.wsdl,
    namespaces are handled implicitly. When using API calls with the partner WSDL, however, you need

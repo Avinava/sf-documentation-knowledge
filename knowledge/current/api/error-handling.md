@@ -5,12 +5,10 @@ topic: error-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.630Z
+lastCollected: 2026-05-10T00:40:46.009Z
 estimatedTokens: 525
-keywords: [Error, Handling, API, calls, data, client, application, identify, resolve, runtime, errors, Session, Expiration]
+keywords: [Error, Handling, API, client, application, identify, resolve, runtime, errors, Session, Expiration]
 ---
-
-# Error Handling
 
 > The API calls return error data that your client application can use to identify and
     resolve runtime errors.

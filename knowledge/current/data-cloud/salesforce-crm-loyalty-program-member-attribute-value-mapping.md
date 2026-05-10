@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-member-attribute-value-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.239Z
+lastCollected: 2026-05-10T00:39:12.682Z
 estimatedTokens: 463
 keywords: [Salesforce, CRM, Loyalty, Program, Member, Attribute, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, refers, achieved, engagement, member’s, progress, towards, target, tracked, across, periods, individual, DMO]
 ---

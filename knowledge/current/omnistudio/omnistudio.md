@@ -5,7 +5,7 @@ topic: omnistudio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:43.282Z
+lastCollected: 2026-05-10T00:40:32.344Z
 estimatedTokens: 447
 keywords: [Omnistudio, suite, services, model, combine, Industry, Cloud, applications, guided, interactions, Salesforce, org, external, sources, Omniscripts, users, sales, service, processes, fast, personalized, responses, post, Mappers, Integration, Procedures]
 ---

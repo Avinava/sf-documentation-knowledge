@@ -5,7 +5,7 @@ topic: detecting-duplicate-queueable-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.400Z
+lastCollected: 2026-05-10T00:39:52.110Z
 estimatedTokens: 930
 keywords: [Examples, Detecting, Duplicate, Queueable, Jobs, Reduce, resource, contention, race, conditions, enqueuing, instance, async, job, Attempting, add, processing, queue, results, DuplicateMessageException, try, enqueue, subsequent, Build]
 ---

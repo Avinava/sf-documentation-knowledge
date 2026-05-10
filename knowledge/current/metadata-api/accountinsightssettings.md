@@ -5,7 +5,7 @@ topic: accountinsightssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:21.986Z
+lastCollected: 2026-05-10T00:39:59.664Z
 estimatedTokens: 692
 keywords: [AccountInsightsSettings, org’s, Einstein, Account, Insights, settings, setting, features, help, reps, maintain, their, relationships, customers, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: soap-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.344Z
+lastCollected: 2026-05-10T00:40:14.757Z
 estimatedTokens: 2780
 keywords: [Examples, SOAP, you’re, strongly, typed, language, Java, generates, Web, service, client, code, authentication, API, Developer]
 ---

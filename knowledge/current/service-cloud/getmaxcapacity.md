@@ -5,7 +5,7 @@ topic: getmaxcapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.273Z
+lastCollected: 2026-05-10T00:40:41.288Z
 estimatedTokens: 197
 keywords: [Arguments, getMaxCapacity, maximum, chat, capacity, current, agent, agent's, assigned, configuration, API, 29.0, Sample, Code–Visualforce]
 ---

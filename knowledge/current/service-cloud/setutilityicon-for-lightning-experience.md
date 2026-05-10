@@ -5,7 +5,7 @@ topic: setutilityicon-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.155Z
+lastCollected: 2026-05-10T00:40:42.473Z
 estimatedTokens: 339
 keywords: [Arguments, setUtilityIcon, Lightning, Experience, icon, utility, bar, isn’t, Web, LWC, Aura, Sample, Code]
 ---

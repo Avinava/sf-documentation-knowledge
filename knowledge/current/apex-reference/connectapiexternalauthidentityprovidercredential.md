@@ -5,7 +5,7 @@ topic: connectapiexternalauthidentityprovidercredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:09.046Z
+lastCollected: 2026-05-10T00:39:38.698Z
 estimatedTokens: 186
 keywords: [External, auth, identity, provider, credential]
 ---

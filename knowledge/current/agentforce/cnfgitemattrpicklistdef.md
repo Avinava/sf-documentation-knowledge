@@ -5,7 +5,7 @@ topic: cnfgitemattrpicklistdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.440Z
+lastCollected: 2026-05-10T00:39:15.437Z
 estimatedTokens: 560
 keywords: [CnfgItemAttrPicklistDef, definition, configuration, item, attribute, multiple, possible, Business, Criticality, API, 65.0, SOAP, REST]
 ---

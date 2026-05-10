@@ -5,7 +5,7 @@ topic: redirectwhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:29.065Z
+lastCollected: 2026-05-10T00:40:10.905Z
 estimatedTokens: 523
 keywords: [RedirectWhitelistUrl, trusted, URL, that’s, excluded, redirection, restrictions, redirectionWarning, redirectBlockModeEnabled, SessionSettings, Metadata, extends, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: appanalyticssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.554Z
+lastCollected: 2026-05-10T00:40:00.566Z
 estimatedTokens: 690
 keywords: [AppAnalyticsSettings, settings, retrieve, AppExchange, App, Analytics, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

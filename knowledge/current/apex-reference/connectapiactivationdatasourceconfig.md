@@ -5,7 +5,7 @@ topic: connectapiactivationdatasourceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.066Z
+lastCollected: 2026-05-10T00:39:35.681Z
 estimatedTokens: 107
 keywords: [ConnectApi.ActivationDataSourceConfig, activation, source, configuration]
 ---

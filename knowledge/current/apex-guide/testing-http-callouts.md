@@ -5,8 +5,8 @@ topic: testing-http-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.648Z
-estimatedTokens: 356
+lastCollected: 2026-05-10T00:39:50.936Z
+estimatedTokens: 353
 keywords: [Testing, HTTP, Callouts, deploy, package, Apex, 75%, code, test, coverage, don’t, support, tests, perform, fail, Enable, callout, instructing, generate, mock, responses, Test.setMock]
 ---
 
@@ -25,7 +25,7 @@ Specify the mock response in one of the following ways.
 
 To enable running DML operations before mock callouts in your test methods, see [Performing DML Operations and Mock Callouts](atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_dml.htm).
 
--   **[Testing HTTP Callouts by Implementing the HttpCalloutMock Interface Interface](atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_httpcalloutmock.htm)**
+-   **[Testing HTTP Callouts by Implementing the HttpCalloutMock Interface](atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_httpcalloutmock.htm)**
 
 -   **[Testing HTTP Callouts Using Static Resources](atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_static.htm)**
 
@@ -39,6 +39,6 @@ To enable running DML operations before mock callouts in your test methods, see 
 - By implementing the HttpCalloutMock interface (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_httpcalloutmock.htm)
 - By using Static Resources with StaticResourceCalloutMock or MultiStaticResourceCalloutMock (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_static.htm)
 - Performing DML Operations and Mock Callouts (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_dml.htm)
-- Testing HTTP Callouts by Implementing the HttpCalloutMock Interface Interface (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_httpcalloutmock.htm)
+- Testing HTTP Callouts by Implementing the HttpCalloutMock Interface (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_httpcalloutmock.htm)
 - Testing HTTP Callouts Using Static Resources (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http_testing_static.htm)
 - ← Previous (atlas.en-us.apexcode.meta/apexcode/apex_classes_restful_http.htm)

@@ -5,7 +5,7 @@ topic: setcallattacheddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.838Z
+lastCollected: 2026-05-10T00:40:43.461Z
 estimatedTokens: 243
 keywords: [Arguments, setCallAttachedData, call, send, interaction, log, console, component.This, API, 31.0, Sample, Code–Visualforce]
 ---

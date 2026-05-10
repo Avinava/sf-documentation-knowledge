@@ -5,7 +5,7 @@ topic: sample-apex-class-to-create-case-records-for-service-process-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:43.711Z
+lastCollected: 2026-05-10T00:40:33.031Z
 estimatedTokens: 799
 keywords: [Sample, Apex, Case, Records, Service, Process, Requests, submitted, invokes, connect, API, extracts, provided, assigns, attributes, defined, Studio, passes, their, Record, Transaction, Dispute]
 ---

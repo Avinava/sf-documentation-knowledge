@@ -5,7 +5,7 @@ topic: field-service-custom-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.708Z
+lastCollected: 2026-05-10T00:40:37.512Z
 estimatedTokens: 10733
 keywords: [Event, Service, Triggers, ensure, respective, processed, scheduling, Assigned, Resource, Gantt, Filter, Palette, Map, Polygon, Operating, Hours, Optimization, Absence, Policy, Work, Rule, Appointment, Objective, Capacity, Skill, Territory, Member, Requirement, Time, Dependency, Slot, User, Order, Line, Item]
 ---

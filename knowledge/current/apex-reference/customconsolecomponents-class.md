@@ -5,7 +5,7 @@ topic: customconsolecomponents-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.265Z
+lastCollected: 2026-05-10T00:39:24.177Z
 estimatedTokens: 756
 namespace: Metadata
 keywords: [CustomConsoleComponents, console, Visualforce, pages, lookup, layout, primaryTabComponents, subtabComponents, clone]

@@ -5,12 +5,10 @@ topic: package-versions-and-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.836Z
+lastCollected: 2026-05-10T00:40:46.259Z
 estimatedTokens: 496
-keywords: [Package, Versions, Partner, WSDL, loosely, typed, flexible, partners, want, integrate, multiple, organizations, API, calls, provide]
+keywords: [Package, Versions, Partner, WSDL, loosely, typed, flexible, partners, want, integrate, multiple, organizations, API, provide, fallback, settings, provided, call]
 ---
-
-# Package Versions and the Partner WSDL
 
 > The partner WSDL is loosely typed. This makes it more flexible for
   partners who want to integrate with multiple organizations. Default package

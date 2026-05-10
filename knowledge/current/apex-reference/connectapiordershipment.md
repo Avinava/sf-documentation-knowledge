@@ -5,7 +5,7 @@ topic: connectapiordershipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.601Z
+lastCollected: 2026-05-10T00:39:41.169Z
 estimatedTokens: 177
 keywords: [ConnectApi.OrderShipment, Order, shipment]
 ---

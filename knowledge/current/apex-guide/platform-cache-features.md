@@ -5,7 +5,7 @@ topic: platform-cache-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:18.158Z
+lastCollected: 2026-05-10T00:39:53.354Z
 estimatedTokens: 1152
 namespace: Session
 keywords: [Platform, Cache, Features, API, lets, store, retrieve, that’s, tied, Salesforce, sessions, shared, across, org, Put, remove, Session, SessionPartition, OrgPartition, classes, Partition, tool, Setup, partitions, allocate, their, capacities, balance, performance, apps, Try]

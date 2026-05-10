@@ -5,8 +5,8 @@ topic: adding-sosl-queries-to-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.538Z
-estimatedTokens: 522
+lastCollected: 2026-05-10T00:39:54.001Z
+estimatedTokens: 521
 keywords: [Adding, SOSL, Queries, Unit, Tests, ensure, test, always, behave, predictable, way, any, Salesforce, Search, Language, query, added, Apex, empty, results, executes, want, lis]
 ---
 
@@ -33,7 +33,7 @@ SOSL queries for ContentDocument (File) or ContentNote (Note) entities require u
 
 Although the account record with an ID of 001x0000003G89h may not match the query string in the FIND clause ('test'), the record is passed into the RETURNING clause of the SOSL statement. If the record with ID 001x0000003G89h matches the WHERE clause filter, the record is returned. If it does not match the WHERE clause, no record is returned.
 
--   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm "Using Limits, startTest , and , and stopTest")
+-   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_testing_tools_start_stop_test.htm "Using Limits, startTest , and stopTest")
 
 ## Code Examples
 

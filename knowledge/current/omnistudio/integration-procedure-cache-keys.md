@@ -5,7 +5,7 @@ topic: integration-procedure-cache-keys
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:37.100Z
+lastCollected: 2026-05-10T00:40:23.456Z
 estimatedTokens: 84
 keywords: [Integration, Procedure, Cache, Keys, clear, execution]
 ---

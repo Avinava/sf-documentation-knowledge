@@ -5,8 +5,8 @@ topic: use-the-with-sharing-without-sharing-and-inherited-sharing-keywords
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.522Z
-estimatedTokens: 2250
+lastCollected: 2026-05-10T00:39:50.732Z
+estimatedTokens: 2248
 keywords: [sharing, inherited, Keywords, specify, whether, enforced, keyword, run, mode, Omitted, Declarations, Implementation, Apex, Triggers, Best, Practices]
 ---
 
@@ -133,7 +133,7 @@ Regardless of the sharing mode, object-level access and field-level security are
 | without sharing | Use this mode with caution. Ensure that you don’t inadvertently expose sensitive data that’s normally hidden by the sharing mode. This sharing mechanism is best used to grant targeted elevation of sharing privileges to the current user.For example, use without sharing to allow community users to read records to which they wouldn’t otherwise have access. |
 | inherited sharing | Use this mode for service classes that must be flexible and support use cases with different sharing modes. |
 
--   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm "Using the transient Keyword Keyword")
+-   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_keywords_transient.htm "Using the transient Keyword")
 
 ## Code Examples
 

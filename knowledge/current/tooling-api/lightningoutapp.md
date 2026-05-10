@@ -5,7 +5,7 @@ topic: lightningoutapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.374Z
+lastCollected: 2026-05-10T00:40:17.962Z
 estimatedTokens: 534
 keywords: [LightningOutApp, Lightning, 2.0, application, app, embed, web, LWC, external, applications, API, 65.0, SOAP, REST]
 ---

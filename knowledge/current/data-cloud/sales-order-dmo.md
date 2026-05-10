@@ -5,7 +5,7 @@ topic: sales-order-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.558Z
+lastCollected: 2026-05-10T00:39:14.132Z
 estimatedTokens: 2725
 keywords: [Category, Relationships, Sales, Order, DMO, Cloud, model, around, current, pending, orders, API, Primary, Subject, Area, Key]
 ---

@@ -5,7 +5,7 @@ topic: connectapiociupdatereservationinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:05.971Z
+lastCollected: 2026-05-10T00:39:33.776Z
 estimatedTokens: 324
 keywords: [Omnichannel, Inventory, item, reservations]
 ---

@@ -5,7 +5,7 @@ topic: sharedto
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.658Z
+lastCollected: 2026-05-10T00:40:11.929Z
 estimatedTokens: 1805
 keywords: [SharedTo, sharing, view, folder, specify, target, source, owner-based, Declarative, Metadata, File, Suffix, Directory, Location]
 ---

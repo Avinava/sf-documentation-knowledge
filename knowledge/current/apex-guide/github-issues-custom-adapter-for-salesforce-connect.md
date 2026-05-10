@@ -5,7 +5,7 @@ topic: github-issues-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.993Z
+lastCollected: 2026-05-10T00:39:51.535Z
 estimatedTokens: 420
 keywords: [GitHub, Issues, Adapter, Salesforce, Connect, creates, links, products, indirect, lookup, relationship, external, comments, issue, DataSource.Connection, DataSource.Provider]
 ---

@@ -5,7 +5,7 @@ topic: operationlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.673Z
+lastCollected: 2026-05-10T00:40:18.443Z
 estimatedTokens: 1667
 keywords: [OperationLog, OperationParameters, OperationPayload, Territory2RunTerritoryRulesPayload, Territory2RunOppTerrAssignmentApexPayload, long-running, asynchronous, operations, triggered, tracked, Tooling, API, 37.0, SOAP, REST, HTTP, changeOwnPassword]
 ---

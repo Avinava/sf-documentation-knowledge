@@ -5,7 +5,7 @@ topic: embeddedservicequickaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.652Z
+lastCollected: 2026-05-10T00:40:16.748Z
 estimatedTokens: 300
 keywords: [EmbeddedServiceQuickAction, quick, action, EmbeddedServiceLiveAgent, setup, includes, pre-chat, form, embedded, chat, window, displays, order, Tooling, API, 39.0, SOAP, REST, HTTP]
 ---

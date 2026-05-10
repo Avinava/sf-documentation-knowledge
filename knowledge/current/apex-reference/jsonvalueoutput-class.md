@@ -5,7 +5,7 @@ topic: jsonvalueoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.601Z
+lastCollected: 2026-05-10T00:39:22.672Z
 estimatedTokens: 2149
 namespace: Auth
 keywords: [JsonValueOutput, Stores, User, JSON, invocable, action, Flow, Builder, stringValue, booleanValue, integerValue, doubleValue, jsonStringValue, jsonArrayValue]

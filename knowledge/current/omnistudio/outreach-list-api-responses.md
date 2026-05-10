@@ -5,7 +5,7 @@ topic: outreach-list-api-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.411Z
+lastCollected: 2026-05-10T00:40:32.576Z
 estimatedTokens: 332
 keywords: [Outreach, API, Responses, Here’s, bodies]
 ---

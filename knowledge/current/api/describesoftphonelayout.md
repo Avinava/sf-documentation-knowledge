@@ -5,12 +5,10 @@ topic: describesoftphonelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.209Z
+lastCollected: 2026-05-10T00:40:45.045Z
 estimatedTokens: 1112
-keywords: [describeSoftphoneLayout, Retrieves, layout, Salesforce, CRM, Call, Center, Softphone, Usage, Arguments, DescribeSoftphoneLayoutCallType, DescribeSoftphoneLayoutInfoField, DescribeSoftphoneLayoutSection, DescribeSoftphoneLayoutItem, DescribeSoftphoneScreenPopOption]
+keywords: [Arguments, DescribeSoftphoneLayoutCallType, DescribeSoftphoneLayoutInfoField, DescribeSoftphoneLayoutSection, DescribeSoftphoneLayoutItem, DescribeSoftphoneScreenPopOption, describeSoftphoneLayout, Retrieves, layout, Salesforce, CRM, Call, Center, Softphone, Sample, Code—Java, Code—C#]
 ---
-
-# describeSoftphoneLayout()
 
 > Retrieves layout information for a Salesforce CRM Call Center Softphone.
 

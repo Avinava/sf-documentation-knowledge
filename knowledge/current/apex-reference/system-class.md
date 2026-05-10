@@ -5,7 +5,7 @@ topic: system-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.802Z
+lastCollected: 2026-05-10T00:39:47.954Z
 estimatedTokens: 15856
 namespace: System
 keywords: [System, Adds, job, Apex, queue, corresponds, queueable, abortJob, jobId, assert, condition, msg, assertEquals, expected, actual, assertNotEquals, currentPageReference, currentTimeMillis, debug, logLevel, enqueueJob, queueableObj, delay, asyncOptions, equals, obj1, obj2, getApplicationReadWriteMode, System.ApplicationReadWriteMode, getQuiddityShortCode, QuiddityValue, hashCode, obj, Versioned, Behavior, Changes, isBatch, isFunctionCallback, isFuture, isQueueable, isRunningElasticCompute, isScheduled, movePassword, targetUserId, sourceUserId, now, pauseJobById, cronTriggerId, pauseJobByName, jobName, process, workItemIds, action, comments, nextApprover, purgeOldAsyncJobs, numOfJobs, requestVersion, resetPassword, userId, sendUserEmail, resetPasswordWithEmailTemplate, emailTemplateName, resumeJobById, resumeJobByName, runAs, userSObject, schedule, cronExpression, schedulableClass, System.Schedule, scheduleBatch, batchable, minutesFromNow, scopeSize, setPassword, password, submit, today]

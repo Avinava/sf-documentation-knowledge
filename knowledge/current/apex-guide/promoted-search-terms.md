@@ -5,7 +5,7 @@ topic: promoted-search-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.736Z
+lastCollected: 2026-05-10T00:39:52.686Z
 estimatedTokens: 247
 keywords: [Promoted, Search, Terms, useful, promoting, Salesforce, Knowledge, article, know, commonly, resolve, support, issue, end, user’s, certain, keywords, Users, promote, results, associating, Apex, SearchPromotionRule, sObject, addition, user]
 ---

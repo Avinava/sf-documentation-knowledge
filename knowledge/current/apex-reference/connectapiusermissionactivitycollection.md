@@ -5,7 +5,7 @@ topic: connectapiusermissionactivitycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.184Z
+lastCollected: 2026-05-10T00:39:43.627Z
 estimatedTokens: 173
 keywords: [mission, activities, user]
 ---

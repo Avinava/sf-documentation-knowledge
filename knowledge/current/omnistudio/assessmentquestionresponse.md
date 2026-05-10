@@ -5,7 +5,7 @@ topic: assessmentquestionresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.113Z
+lastCollected: 2026-05-10T00:40:33.626Z
 estimatedTokens: 1587
 keywords: [AssessmentQuestionResponse, Stores, responses, submitted, assessment, API, 55.0]
 ---

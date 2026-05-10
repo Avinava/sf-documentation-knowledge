@@ -5,12 +5,10 @@ topic: leadconvertresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.919Z
+lastCollected: 2026-05-10T00:40:44.417Z
 estimatedTokens: 391
-keywords: [LeadConvertResult, convertLead, call, array, objects, element, corresponds, LeadConvert, passed, leadConverts, index, matches]
+keywords: [LeadConvertResult, convertLead, call, array, corresponds, LeadConvert, passed, leadConverts, index, matches]
 ---
-
-# LeadConvertResult
 
 > The convertLead() call returns an array of
     LeadConvertResult objects. Each element in the LeadConvertResult array corresponds to the

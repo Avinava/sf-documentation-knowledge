@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-partner-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.181Z
+lastCollected: 2026-05-10T00:39:12.628Z
 estimatedTokens: 330
 keywords: [Salesforce, CRM, Loyalty, Partner, Product, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, refers, service, offered, program, members, accrue, redeem, points, purchasing, products, services, DMO]
 ---

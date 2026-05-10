@@ -5,7 +5,7 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:29.395Z
+lastCollected: 2026-05-10T00:40:11.492Z
 estimatedTokens: 1862
 keywords: [SamlSsoConfig, SAML, Sign-On, configuration, extends, Metadata, inherits, fullName, SSO, authentication, users, multiple, applications, login, credentials, log, org, they, automatically, apps, App, Launcher, Salesforce, trust, third-party, identity, provider, authenticate, configure, rely, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

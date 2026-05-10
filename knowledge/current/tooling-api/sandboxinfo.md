@@ -5,7 +5,7 @@ topic: sandboxinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.329Z
+lastCollected: 2026-05-10T00:40:19.425Z
 estimatedTokens: 1890
 keywords: [SandboxInfo, sandbox, SOAP, REST, HTTP, Creating, Refreshing, Deleting, Checking, Progress]
 ---

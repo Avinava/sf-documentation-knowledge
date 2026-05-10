@@ -5,7 +5,7 @@ topic: query-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.057Z
+lastCollected: 2026-05-10T00:39:14.848Z
 estimatedTokens: 939
 keywords: [CnfgItemTypeDef, DiscoveryInformation, LastDiscoveredBySource, Query, Configuration, Item, unique, identifier, operation, detailed]
 ---

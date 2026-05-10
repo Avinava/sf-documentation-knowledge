@@ -5,7 +5,7 @@ topic: refreshtab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.028Z
+lastCollected: 2026-05-10T00:40:42.288Z
 estimatedTokens: 718
 keywords: [Arguments, refreshTab, Lightning, Experience, Refreshes, workspace, tab, subtab, tabId, Keep, mind, works, console, apps, LWC, Sample, Code, Aura]
 ---

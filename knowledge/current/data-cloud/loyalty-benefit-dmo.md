@@ -5,7 +5,7 @@ topic: loyalty-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.902Z
+lastCollected: 2026-05-10T00:39:13.301Z
 estimatedTokens: 904
 keywords: [Category, Relationships, Loyalty, Benefit, DMO, Cloud, model, perk, betterment, members, Program, Examples, include, waived, airline, baggage, fees, complimentary, hotel, stays, rental, car, upgrade, API, Primary, Subject, Area, Key]
 ---

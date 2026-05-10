@@ -5,7 +5,7 @@ topic: connectapitimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.018Z
+lastCollected: 2026-05-10T00:39:43.389Z
 estimatedTokens: 127
 keywords: [ConnectApi.TimeZone, User's, time, zone, selected, user’s, personal, settings, Salesforce, doesn’t, reflect, device's, current, location]
 ---

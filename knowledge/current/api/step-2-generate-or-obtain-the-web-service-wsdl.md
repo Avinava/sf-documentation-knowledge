@@ -5,12 +5,10 @@ topic: step-2-generate-or-obtain-the-web-service-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.850Z
+lastCollected: 2026-05-10T00:40:46.296Z
 estimatedTokens: 542
-keywords: [Step, Generate, Obtain, Web, Service, WSDL, access, Lightning, Platform, Language, file, Generating, Organization]
+keywords: [Step, Generate, Obtain, Web, Service, WSDL, Lightning, Platform, Language, file, Generating, Organization]
 ---
-
-# Step 2: Generate or Obtain the Web Service WSDL
 
 > To access the Lightning Platform Web service, you need a Web Service Description
   Language (WSDL) file. The WSDL file defines the Web service that is available to you.

@@ -5,7 +5,7 @@ topic: search-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.100Z
+lastCollected: 2026-05-10T00:39:48.447Z
 estimatedTokens: 670
 namespace: Search
 keywords: [Search, classes, getting, results, suggestion]

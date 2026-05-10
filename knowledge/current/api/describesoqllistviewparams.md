@@ -5,12 +5,10 @@ topic: describesoqllistviewparams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.221Z
+lastCollected: 2026-05-10T00:40:45.074Z
 estimatedTokens: 150
 keywords: [DescribeSoqlListViewParams, describeSoqlListViews, retrieve, SOQL, view]
 ---
-
-# DescribeSoqlListViewParams
 
 > Use the DescribeSoqlListViewParams object with
       describeSoqlListViews() to retrieve the SOQL from a list

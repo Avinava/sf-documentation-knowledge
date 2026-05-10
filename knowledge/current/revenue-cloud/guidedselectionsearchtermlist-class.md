@@ -5,7 +5,7 @@ topic: guidedselectionsearchtermlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:11.188Z
+lastCollected: 2026-05-10T00:39:01.412Z
 estimatedTokens: 786
 keywords: [GuidedSelectionSearchTermList, search, terms, guided, product, selection, pass, multiple, filtering, searching, products, Discovery, searchTerms]
 ---

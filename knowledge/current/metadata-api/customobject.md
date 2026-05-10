@@ -5,7 +5,7 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:21.819Z
+lastCollected: 2026-05-10T00:39:59.379Z
 estimatedTokens: 8068
 keywords: [CustomObject, MktDataModelAttributes, MktDataLakeAttributes, stores, unique, org, external, maps, stored, outside, Declarative, Metadata, File, Suffix, Directory, Location, Additional, Sample, Definition, Wildcard, Support, Manifest]
 ---

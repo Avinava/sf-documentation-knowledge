@@ -5,7 +5,7 @@ topic: chaining-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.218Z
+lastCollected: 2026-05-10T00:39:51.829Z
 estimatedTokens: 439
 keywords: [Chaining, Asynchronous, Callouts, order, matters, callout, conditional, another, chain, requests, means, made, previous, warranty, extension, service, expired, three]
 ---

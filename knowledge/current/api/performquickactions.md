@@ -5,12 +5,10 @@ topic: performquickactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.434Z
+lastCollected: 2026-05-10T00:40:45.585Z
 estimatedTokens: 489
-keywords: [performQuickActions, Executes, quick, actions, Usage, Sample—Java, Arguments, PerformQuickActionRequest]
+keywords: [Arguments, PerformQuickActionRequest, performQuickActions, Executes, quick, actions, Sample—Java]
 ---
-
-# performQuickActions()
 
 > Executes quick actions of type create or
                     update.

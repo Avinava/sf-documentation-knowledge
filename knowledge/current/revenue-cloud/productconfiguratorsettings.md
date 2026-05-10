@@ -5,7 +5,7 @@ topic: productconfiguratorsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.357Z
+lastCollected: 2026-05-10T00:39:07.251Z
 estimatedTokens: 522
 keywords: [ProductConfiguratorSettings, settings, Product, Configurator, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

@@ -5,12 +5,10 @@ topic: ajax-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.660Z
+lastCollected: 2026-05-10T00:40:43.952Z
 estimatedTokens: 144
 keywords: [AJAX, Typographical, Conventions]
 ---
-
-# AJAX Typographical Conventions
 
 # AJAX Typographical Conventions
 

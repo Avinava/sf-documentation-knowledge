@@ -5,12 +5,10 @@ topic: querymore
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.479Z
+lastCollected: 2026-05-10T00:40:45.685Z
 estimatedTokens: 1152
-keywords: [queryMore, Retrieves, batch, query, results, Usage, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, queryMore, Retrieves, batch, query, results, Sample, Code—Java, Code—C#]
 ---
-
-# queryMore()
 
 > Retrieves the next batch of query results.
 

@@ -5,7 +5,7 @@ topic: knowledgearticleversionstandardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.392Z
+lastCollected: 2026-05-10T00:39:48.911Z
 estimatedTokens: 1370
 namespace: ApexPages
 keywords: [offer, article-specific, functionality, addition, provided, StandardController, article, getSourceId, setDataCategory, categoryGroup, category]

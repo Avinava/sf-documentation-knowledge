@@ -5,7 +5,7 @@ topic: assessmentsavedsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.155Z
+lastCollected: 2026-05-10T00:40:33.724Z
 estimatedTokens: 308
 keywords: [AssessmentSavedSession, session, assessment, that's, saved, resume, API, 62.0]
 ---

@@ -5,7 +5,7 @@ topic: genaiprompttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:26.526Z
+lastCollected: 2026-05-10T00:40:06.981Z
 estimatedTokens: 1880
 keywords: [GenAiPromptTemplate, GenAiPromptTemplateVersion, GenAiPromptTemplateGenerationConfig, GenAiPromptTemplateInput, GenAiPromptTemplateDataProvider, GenAiPromptTemplateDataProviderParam, definition, prompt, template, including, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

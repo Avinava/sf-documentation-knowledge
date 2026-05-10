@@ -5,7 +5,7 @@ topic: locking-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:19.603Z
+lastCollected: 2026-05-10T00:39:55.789Z
 estimatedTokens: 790
 keywords: [Locking, Statements, Apex, lock, sObject, records, they’re, updated, order, prevent, race, conditions, thread, safety, problems, Considerations]
 ---

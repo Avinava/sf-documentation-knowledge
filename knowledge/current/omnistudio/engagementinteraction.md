@@ -5,7 +5,7 @@ topic: engagementinteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.686Z
+lastCollected: 2026-05-10T00:40:34.587Z
 estimatedTokens: 1910
 keywords: [EngagementInteraction, interaction, service, representative, any, specialist, organization, organization’s, customer, Engagement, interactions, initiated, communication, channels, cover, topics, initiate, calling, inquire, insurance, claim, API, 55.0]
 ---

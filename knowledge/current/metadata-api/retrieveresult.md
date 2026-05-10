@@ -5,7 +5,7 @@ topic: retrieveresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.347Z
+lastCollected: 2026-05-10T00:40:11.405Z
 estimatedTokens: 1124
 keywords: [RetrieveResult, FileProperties, RetrieveMessage, retrieve, call, array]
 ---

@@ -5,7 +5,7 @@ topic: use-apex-referenced-by-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:18.073Z
+lastCollected: 2026-05-10T00:39:53.206Z
 estimatedTokens: 175
 keywords: [Apex, Referenced, Managed, Packages, how, effectively, package, subscriber]
 ---

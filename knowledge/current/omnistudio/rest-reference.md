@@ -5,7 +5,7 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:35.275Z
+lastCollected: 2026-05-10T00:40:20.770Z
 estimatedTokens: 235
 keywords: [REST, Accelerator, APIs, endpoints, follow, similar, conventions, Connect, Common, Business, Context, Service, Decision, Digital, Lending, give, users, seamless, API, experience, creating, modifying, loan, applications, Intelligent, Form, Reader, Group, Membership, Households, Document, Interest, Tags, Omnistudio, Record, Alerts, Scheduled, Reminders, endpoint, follows, Rollup, Definitions, Stage, Management]
 ---

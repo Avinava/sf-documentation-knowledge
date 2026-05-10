@@ -5,7 +5,7 @@ topic: heapdump
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:33.234Z
+lastCollected: 2026-05-10T00:40:17.734Z
 estimatedTokens: 183
 keywords: [HeapDump, complex, heap, dump, ApexExecutionOverlayResult, API, 28.0]
 ---

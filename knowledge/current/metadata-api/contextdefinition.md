@@ -5,7 +5,7 @@ topic: contextdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.816Z
+lastCollected: 2026-05-10T00:40:02.630Z
 estimatedTokens: 3230
 keywords: [ContextDefinition, ContextDefinitionReference, ContextDefinitionVersion, ContextMapping, ContextMappingIntent, ContextNodeMapping, ContextAttributeMapping, ContextAttrHydrationDetail, CtxAttrHydrationCtx, ContextNodeAttrDictionary, ContextNode, ContextAttribute, ContextTag, context, definition, describe, relationship, node, structures, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: connectapicdpidentityresolutionmatchcriterionoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:07.836Z
+lastCollected: 2026-05-10T00:39:36.891Z
 estimatedTokens: 337
 keywords: [Identity, resolution, ruleset's, match, rule, criterion]
 ---

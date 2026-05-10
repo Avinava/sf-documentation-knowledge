@@ -5,7 +5,7 @@ topic: forecastingdisplayedfamily
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.105Z
+lastCollected: 2026-05-10T00:40:17.508Z
 estimatedTokens: 171
 keywords: [ForecastingDisplayedFamily, product, families, admin, chooses, allow, forecasting, Lightning, Experience, Tooling, API, 40.0, SOAP, REST, HTTP]
 ---

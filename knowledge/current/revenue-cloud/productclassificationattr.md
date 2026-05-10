@@ -5,7 +5,7 @@ topic: productclassificationattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:17.147Z
+lastCollected: 2026-05-10T00:39:09.490Z
 estimatedTokens: 1862
 keywords: [ProductClassificationAttr, relationship, product, classification, attributes, configuration, products, API, 60.0]
 ---

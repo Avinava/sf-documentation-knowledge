@@ -5,7 +5,7 @@ topic: standardobjectnameshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.803Z
+lastCollected: 2026-05-10T00:40:33.169Z
 estimatedTokens: 4590
 keywords: [StandardObjectNameShare, model, share, standard, represent, sharing, entry, Follow]
 ---

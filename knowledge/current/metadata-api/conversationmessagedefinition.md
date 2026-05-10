@@ -5,7 +5,7 @@ topic: conversationmessagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:23.914Z
+lastCollected: 2026-05-10T00:40:02.786Z
 estimatedTokens: 3737
 keywords: [ConversationMessageDefinition, ConversationMessageConstant, ConversationMessageConstantCompositeValue, ConversationMessageConstantPrimitiveValue, ConversationMessageHandler, ConversationMessageLayout, ConvMsgExternalTemplateVersion, ConversationMessageLayoutItem, ConversationMessageLayoutCompositeValue, ConversationMessageLayoutPrimitiveValue, ConversationMessageMergeField, ConversationMessageOptionsParameter, ConversationMessageParameterCompositeDetails, ConversationMessageParameterPrimitiveDetails, ConversationMessageParameter, messaging, Enhanced, channel, In-App, Web, session, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

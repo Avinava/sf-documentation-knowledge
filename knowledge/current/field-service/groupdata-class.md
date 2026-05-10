@@ -5,7 +5,7 @@ topic: groupdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.415Z
+lastCollected: 2026-05-10T00:40:37.082Z
 estimatedTokens: 843
 namespace: FSL
 keywords: [GroupData, combines, group, policy, service, territory, IDs, FSL.ScheduleJobsApi.getJob.setTerritory, groupPolicyId, territoryIds]

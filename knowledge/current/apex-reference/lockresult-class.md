@@ -5,7 +5,7 @@ topic: lockresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.387Z
+lastCollected: 2026-05-10T00:39:22.269Z
 estimatedTokens: 893
 namespace: Approval
 keywords: [LockResult, result, record, lock, System.Approval.lock, getErrors, getId, isSuccess]

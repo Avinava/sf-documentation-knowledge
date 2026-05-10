@@ -5,7 +5,7 @@ topic: reporttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.237Z
+lastCollected: 2026-05-10T00:40:11.209Z
 estimatedTokens: 1549
 keywords: [ReportType, ObjectRelationship, ReportLayoutSection, ReportTypeColumn, metadata, report, allow, build, framework, users, customize, reports, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

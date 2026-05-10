@@ -5,7 +5,7 @@ topic: flowuiruntime-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.234Z
+lastCollected: 2026-05-10T00:39:48.659Z
 estimatedTokens: 220
 namespace: The
 keywords: [flowuiruntime, classes, reserved, internal, future]

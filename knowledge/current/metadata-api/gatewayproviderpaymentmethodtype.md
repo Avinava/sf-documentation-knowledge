@@ -5,7 +5,7 @@ topic: gatewayproviderpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:26.412Z
+lastCollected: 2026-05-10T00:40:06.780Z
 estimatedTokens: 622
 keywords: [GatewayProviderPaymentMethodType, entity, integrators, payment, providers, choose, active, receive, order's, rather, allowing, Salesforce, Order, Management, platform, select, API, Declarative, Metadata, Sample, Definition]
 ---

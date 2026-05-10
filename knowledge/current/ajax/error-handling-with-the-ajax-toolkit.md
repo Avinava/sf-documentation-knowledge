@@ -5,12 +5,10 @@ topic: error-handling-with-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.596Z
+lastCollected: 2026-05-10T00:40:43.787Z
 estimatedTokens: 149
-keywords: [Error, Handling, AJAX, Toolkit, ability, handle, errors, synchronous, asynchronous, calls]
+keywords: [Error, Handling, AJAX, Toolkit, ability, handle, errors, synchronous, asynchronous]
 ---
-
-# Error Handling with the AJAX Toolkit
 
 > The AJAX Toolkit provides the ability to handle errors for synchronous and
         asynchronous calls.

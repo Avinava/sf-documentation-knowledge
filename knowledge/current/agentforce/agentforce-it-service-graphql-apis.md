@@ -5,7 +5,7 @@ topic: agentforce-it-service-graphql-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:54.876Z
+lastCollected: 2026-05-10T00:39:14.566Z
 estimatedTokens: 635
 keywords: [Agentforce, Service, GraphQL, APIs, Canonical, API, standard, endpoint, connects, Configuration, Management, Database, CMDB]
 ---

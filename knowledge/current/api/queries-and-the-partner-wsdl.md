@@ -5,12 +5,10 @@ topic: queries-and-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.831Z
+lastCollected: 2026-05-10T00:40:46.242Z
 estimatedTokens: 631
 keywords: [Queries, Partner, WSDL, query, call, consider, guidelines]
 ---
-
-# Queries and the Partner WSDL
 
 > When using the query() call with the partner WSDL,
             consider the following guidelines:

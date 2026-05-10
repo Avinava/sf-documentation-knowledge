@@ -5,7 +5,7 @@ topic: conversationalintelligencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.834Z
+lastCollected: 2026-05-10T00:40:02.659Z
 estimatedTokens: 1333
 keywords: [ConversationalIntelligenceSettings, org's, Einstein, Conversation, Insights, settings, whether, enabled, lets, analyze, rep's, call, recordings, gives, optimize, every, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

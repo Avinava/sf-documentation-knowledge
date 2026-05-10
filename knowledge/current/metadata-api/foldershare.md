@@ -5,7 +5,7 @@ topic: foldershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.256Z
+lastCollected: 2026-05-10T00:40:06.525Z
 estimatedTokens: 1178
 keywords: [FolderShare, settings, enhanced, analytics, folder, sharing, Users, control, reports, dashboards, giving, others, Viewer, Editor, Manager, report, dashboard, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

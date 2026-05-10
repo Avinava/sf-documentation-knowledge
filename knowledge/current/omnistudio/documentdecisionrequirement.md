@@ -5,7 +5,7 @@ topic: documentdecisionrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:44.651Z
+lastCollected: 2026-05-10T00:40:34.525Z
 estimatedTokens: 882
 keywords: [DocumentDecisionRequirement, decision, criteria, determine, applicable, documents, API, 59.0]
 ---

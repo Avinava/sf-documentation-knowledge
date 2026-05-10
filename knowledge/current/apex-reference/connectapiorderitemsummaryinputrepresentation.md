@@ -5,7 +5,7 @@ topic: connectapiorderitemsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:05.988Z
+lastCollected: 2026-05-10T00:39:33.850Z
 estimatedTokens: 513
 keywords: [OrderItemSummary, quantity]
 ---

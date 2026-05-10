@@ -5,7 +5,7 @@ topic: connectapidecisiontableoutcomeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:35.867Z
+lastCollected: 2026-05-10T00:40:21.611Z
 estimatedTokens: 110
 keywords: [ConnectApi.DecisionTableOutcomeItem, decision, outcome, item]
 ---

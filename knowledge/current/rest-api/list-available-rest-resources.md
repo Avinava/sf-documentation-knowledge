@@ -5,7 +5,7 @@ topic: list-available-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:19.831Z
+lastCollected: 2026-05-10T00:39:56.157Z
 estimatedTokens: 227
 keywords: [REST, Resources, resource, API, URI, additional, Further]
 ---

@@ -5,7 +5,7 @@ topic: create-a-repository-file-with-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.916Z
+lastCollected: 2026-05-10T00:39:54.625Z
 estimatedTokens: 338
 keywords: [Repository, File, Content, Call, binary, Google, Drive, folder]
 ---

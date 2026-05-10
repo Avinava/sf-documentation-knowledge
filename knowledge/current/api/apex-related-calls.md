@@ -5,12 +5,10 @@ topic: apex-related-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.686Z
+lastCollected: 2026-05-10T00:40:44.014Z
 estimatedTokens: 345
-keywords: [Apex-Related, Calls, API, alphabetical, order, brief, Click, call, usage]
+keywords: [Apex-Related, API, alphabetical, order, brief, Click, call]
 ---
-
-# Apex-Related Calls
 
 > The following table lists supported calls in the API in alphabetical order, and
 		provides a brief description for each. Click a call name to see syntax, usage, and more

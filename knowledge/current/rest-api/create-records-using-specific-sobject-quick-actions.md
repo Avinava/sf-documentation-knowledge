@@ -5,7 +5,7 @@ topic: create-records-using-specific-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.408Z
+lastCollected: 2026-05-10T00:39:58.692Z
 estimatedTokens: 206
 keywords: [Records, Specific, sObject, Quick, Actions, Creates, record, via, action, included, resource, REST, API, 28.0]
 ---

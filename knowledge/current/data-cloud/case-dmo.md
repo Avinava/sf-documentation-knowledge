@@ -5,7 +5,7 @@ topic: case-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.288Z
+lastCollected: 2026-05-10T00:39:11.747Z
 estimatedTokens: 1547
 keywords: [Category, Relationships, Case, DMO, Cloud, model, support, cases, recorded, issues, laptop, connectivity, problem, Provided, Sales, Service, Kits, API, Primary, Subject, Area, Key]
 ---

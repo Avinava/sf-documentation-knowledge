@@ -5,12 +5,10 @@ topic: queryall
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.472Z
+lastCollected: 2026-05-10T00:40:45.669Z
 estimatedTokens: 842
-keywords: [queryAll, Retrieves, data, objects, including, records, deleted, archived, Usage, Arguments, Sample, Code—Java, Code—C#, Faults]
+keywords: [Arguments, Faults, queryAll, Retrieves, including, records, deleted, archived, Sample, Code—Java, Code—C#]
 ---
-
-# queryAll()
 
 > Retrieves data from specified objects, including records that have been deleted or
       archived.

@@ -5,7 +5,7 @@ topic: contentdownloadhandlerfactory-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.229Z
+lastCollected: 2026-05-10T00:39:45.271Z
 estimatedTokens: 561
 namespace: Sfc
 keywords: [ContentDownloadHandlerFactory, provide, factory, Salesforce, call, instances, ContentDownloadHandler, getContentDownloadHandler, var1, var2, Implementation]

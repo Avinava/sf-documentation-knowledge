@@ -5,7 +5,7 @@ topic: fieldrestrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.016Z
+lastCollected: 2026-05-10T00:40:17.356Z
 estimatedTokens: 1348
 keywords: [FieldRestrictionRule, visibility, rule, whether, visible, user, field’s, inclusion, PersonalInfo_EPIM, Enhanced, Personal, Management, setting, enabled, Spring, ’22, compliance, categorization, API, 52.0, SOAP, REST]
 ---

@@ -5,12 +5,10 @@ topic: findduplicatesbyids
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.299Z
+lastCollected: 2026-05-10T00:40:45.281Z
 estimatedTokens: 1227
-keywords: [findDuplicatesByIds, performs, rule-based, searches, duplicate, records, input, array, record, IDs, search, duplicates, output, identifies, detected]
+keywords: [Sample, Arguments, FindDuplicatesResult, Faults, findDuplicatesByIds, performs, rule-based, searches, duplicate, records, array, record, IDs, search, duplicates, identifies, detected, Basic, Steps]
 ---
-
-# findDuplicatesByIds()
 
 > findDuplicatesByIds() performs rule-based searches for duplicate records.
             The input is an array of record IDs, each of which specifies what records to search for

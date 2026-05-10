@@ -5,7 +5,7 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:24.296Z
+lastCollected: 2026-05-10T00:40:03.432Z
 estimatedTokens: 7034
 keywords: [Dashboard, DashboardFilter, DashboardFilterOption, DashboardGridLayout, DashboardGridComponent, DashboardComponent, DashboardComponentContent, DashboardDynamicValue, DashboardFilterColumn, DashboardTableColumn, DashboardFlexTableComponentProperties, DashboardComponentGroupingSortProperties, DashboardComponentGroupingSort, DashboardComponentColumn, DashboardComponentSortInfo, DashboardComponentSection, DashboardComponentFilter, Dashboards, visual, representations, allow, key, metrics, performance, glance, Declarative, Metadata, File, Suffix, Directory, Location, Retrieving, Sample, Definition, Filtered, Unfiltered, Lightning, Experience, isGridLayout, Equals, Wildcard, Support, Manifest]
 ---

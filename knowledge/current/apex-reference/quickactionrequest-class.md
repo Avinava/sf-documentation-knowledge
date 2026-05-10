@@ -5,7 +5,7 @@ topic: quickactionrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.899Z
+lastCollected: 2026-05-10T00:39:28.652Z
 estimatedTokens: 1321
 namespace: QuickAction
 keywords: [QuickActionRequest, QuickAction.QuickActionRequest, providing, action, quick, actions, performed, QuickAction, includes, context, record, getContextId, getQuickActionName, getRecord, setContextId, contextId, setQuickActionName, setRecord]

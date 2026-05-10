@@ -5,7 +5,7 @@ topic: responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.990Z
+lastCollected: 2026-05-10T00:40:28.892Z
 estimatedTokens: 1756
 keywords: [Responses, Digital, Lending, APIs, include, bodies, Here’s, Identity, Verification, API, Process, Compliance, Navigator, Record, Rollup, Definitions, Business, Stage, Management]
 ---

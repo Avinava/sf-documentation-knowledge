@@ -5,7 +5,7 @@ topic: serviceappointment-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:46.595Z
+lastCollected: 2026-05-10T00:40:37.341Z
 estimatedTokens: 2885
 keywords: [ServiceAppointment, appointment, work, customer, Service, Internal]
 ---

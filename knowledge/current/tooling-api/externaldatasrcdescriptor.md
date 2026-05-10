@@ -5,7 +5,7 @@ topic: externaldatasrcdescriptor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.878Z
+lastCollected: 2026-05-10T00:40:17.134Z
 estimatedTokens: 867
 keywords: [ExternalDataSrcDescriptor, metadata, external, schema, source, map, attributes, AWS, Amazon, DynamoDB, Athena, Salesforce, customize, retrieval, queries, API, 55.0, 56.0, SOAP, REST]
 ---

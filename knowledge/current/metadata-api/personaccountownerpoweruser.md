@@ -5,7 +5,7 @@ topic: personaccountownerpoweruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.398Z
+lastCollected: 2026-05-10T00:40:09.826Z
 estimatedTokens: 287
 keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either, They, can’t, change, their, role, look, parent, reparent, can't, created, deferred, sharing, turned, org, API, 57.0]
 ---

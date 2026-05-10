@@ -5,7 +5,7 @@ topic: platformeventchannelmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.941Z
+lastCollected: 2026-05-10T00:40:18.933Z
 estimatedTokens: 2158
 keywords: [PlatformEventChannelMember, entity, selected, Change, Capture, notifications, standard, channel, platform, event, SOAP, REST, HTTP]
 ---

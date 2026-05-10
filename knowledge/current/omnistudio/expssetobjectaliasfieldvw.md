@@ -5,7 +5,7 @@ topic: expssetobjectaliasfieldvw
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.779Z
+lastCollected: 2026-05-10T00:40:34.723Z
 estimatedTokens: 1229
 keywords: [ExpsSetObjectAliasFieldVw, virtual, consolidated, view, source, alias, their, aliases, expression, check, permission, level, underlying, API, 56.0]
 ---

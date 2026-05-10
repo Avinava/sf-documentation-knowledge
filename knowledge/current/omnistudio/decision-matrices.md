@@ -5,7 +5,7 @@ topic: decision-matrices
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:38.019Z
+lastCollected: 2026-05-10T00:40:24.672Z
 estimatedTokens: 198
 keywords: [Decision, Matrices, known, calculation, matrix, search, text, API, maximum, ten, records, contain, keyword]
 ---

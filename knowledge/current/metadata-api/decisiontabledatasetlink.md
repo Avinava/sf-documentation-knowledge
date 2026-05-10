@@ -5,7 +5,7 @@ topic: decisiontabledatasetlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:24.598Z
+lastCollected: 2026-05-10T00:40:03.922Z
 estimatedTokens: 630
 keywords: [DecisionTableDatasetLink, DecisionTblDatasetParameters, dataset, link, decision, select, whose, records, provide, outcome, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---

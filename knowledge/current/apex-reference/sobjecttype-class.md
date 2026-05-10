@@ -5,7 +5,7 @@ topic: sobjecttype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.836Z
+lastCollected: 2026-05-10T00:39:25.136Z
 estimatedTokens: 2078
 namespace: SObjectDescribeOptions.FULL
 keywords: [SObjectType, Schema.sObjectType, describe, result, getReferenceTo, sObject, getSObjectType, getDescribe, options, newSObject, recordTypeId, loadDefaults, Creating, New]
@@ -36,7 +36,7 @@ The following are methods for SObjectType. All are instance methods.
 
 -   **[getDescribe()](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_getDescribe)**
     Returns the describe sObject result for this field.
--   **[getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1020400855)**
+-   **[getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1768814447)**
     Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.
 -   **[newSObject()](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#apex_Schema_SObjectType_newSObject)**
     Constructs a new sObject of this type.

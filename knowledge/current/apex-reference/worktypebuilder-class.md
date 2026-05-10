@@ -5,7 +5,7 @@ topic: worktypebuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.753Z
+lastCollected: 2026-05-10T00:39:28.377Z
 estimatedTokens: 2120
 namespace: LxScheduler
 keywords: [WorkTypeBuilder, build, instance, lxscheduler.WorkType, setBlockTimeAfterAppointmentInMinutes, blockTimeAfterAppointmentInMinutes, setBlockTimeBeforeAppointmentInMinutes, blockTimeBeforeAppointmentInMinutes, setDurationInMinutes, durationInMinutes, setId, setOperatingHoursId, operatingHoursId, setSkillRequirements, skillRequirements, setTimeFrameEndInMinutes, timeFrameEndInMinutes, setTimeFrameStartInMinutes, timeFrameStartInMinutes]

@@ -5,7 +5,7 @@ topic: actionlinkgrouptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:22.064Z
+lastCollected: 2026-05-10T00:39:59.793Z
 estimatedTokens: 2027
 keywords: [ActionLinkGroupTemplate, ActionLinkTemplate, action, link, group, template, templates, let, reuse, definitions, package, distribute, links, button, Clicking, take, user, another, Web, initiate, file, download, invoke, API, call, external, server, Salesforce, integrate, third-party, services, Every, belongs, mutually, exclusive, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

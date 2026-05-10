@@ -5,22 +5,21 @@ topic: initiate-upgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:44.656Z
-estimatedTokens: 588
-keywords: [Initiate, Upgrade, POST, amendment, moves, lower-tier, product, higher-tier, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing]
+lastCollected: 2026-05-10T00:39:04.543Z
+estimatedTokens: 489
+keywords: [Initiate, Upgrade, POST, Move, lower-tier, product, higher-tier, change, tracked, linked, asset, actions, quote, order, line, linkage, reporting, auditing, API, creates, amendment, action, subtypes]
 ---
 
-> Create an amendment that moves a lower-tier product to a higher-tier
-      product. This change is tracked as an upgrade request with linked asset actions and quote or
-      order line linkage for reporting and auditing.
+> Move a lower-tier product to a higher-tier product. The change is
+      tracked as an upgrade request with linked asset actions and quote or order line linkage for
+      reporting and auditing. This API creates an amendment quote and order with order actions and
+      quote action subtypes.
 
 # Initiate Upgrade (POST)
 
-Create an amendment that moves a lower-tier product to a higher-tier product. This change is tracked as an upgrade request with linked asset actions and quote or order line linkage for reporting and auditing.
+Move a lower-tier product to a higher-tier product. The change is tracked as an upgrade request with linked asset actions and quote or order line linkage for reporting and auditing. This API creates an amendment quote and order with order actions and quote action subtypes.
 
-Use this API to move to a higher-tier or higher-value product. For example, from Sales Cloud Enterprise to Sales Cloud Unlimited, or from a product in an Enterprise edition to an Unlimited edition.
-
-This API creates an amendment quote and order with upgrade-specific order actions and quote action subtypes. After assetization, the original asset receives an asset action with business category as Upgrade (or equivalent). This step indicates that the upgrade-from product and the new asset is created with an asset action (upgraded to), with relationships between the two. This step also enables sales reps to process upgrades and makes sure that upgrades are distinguishable in reporting and analytics from cancellations plus new sales.
+The original asset receives an asset action with an Upgrade (or equivalent) business category. This step indicates that the upgrade-from product and the new asset is created with an asset action (upgraded to), with relationships between the two. This step also enables sales reps to process upgrades and makes sure that upgrades are distinguishable in reporting and analytics from cancellations plus new sales.
 
 Resource
 
@@ -54,15 +53,15 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| contractId | String | ID of the contract record for the upgrade action. | Optional | 66.0 |
-| opportunityId | String | ID of the opportunity record for the upgrade action. | Optional | 66.0 |
-| outputRecordType | String | Output record type for the upgrade action. | Required | 66.0 |
-| swapGroups | Swap Group[] | List of swap groupings that contain the asset details for the upgrade action. | Required | 66.0 |
+| contractId | String | ID of the contract record to upgrade. | Optional | 66.0 |
+| opportunityId | String | ID of the opportunity record to upgrade. | Optional | 66.0 |
+| outputRecordType | String | Record type of the output for the upgrade. | Required | 66.0 |
+| swapGroups | Swap Group[] | Groups that contain the asset details for the upgrade. | Required | 66.0 |
 | swapStartDate | String | Amendment start date for the upgrade action. | Required | 66.0 |
 
 Response body for POST
 
-[Initiate Upgrade Response](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_initiate_upgrade_output.htm "Output representation of the request to initiate an upgrade action. The response includes the ID of the sales transaction that the upgrade action creates.")
+[Initiate Upgrade Response](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_initiate_upgrade_output.htm "Output representation of the request to initiate an upgrade action.")
 
 #### See Also
 

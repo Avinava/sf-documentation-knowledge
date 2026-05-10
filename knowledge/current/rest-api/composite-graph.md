@@ -5,7 +5,7 @@ topic: composite-graph
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.493Z
+lastCollected: 2026-05-10T00:39:57.244Z
 estimatedTokens: 346
 keywords: [Composite, Graph, resource, lets, submit, operations, REST, API, 50.0]
 ---

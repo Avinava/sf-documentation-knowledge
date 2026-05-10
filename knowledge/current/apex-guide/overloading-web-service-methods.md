@@ -5,7 +5,7 @@ topic: overloading-web-service-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.826Z
+lastCollected: 2026-05-10T00:39:54.477Z
 estimatedTokens: 75
 keywords: [Overloading, Web, Service, SOAP, WSDL, provide, good, support, Consequently, Apex, allow, two, marked, webservice, keyword, generate, compile-time, error]
 ---

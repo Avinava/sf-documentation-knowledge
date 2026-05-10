@@ -5,7 +5,7 @@ topic: logical-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:11.967Z
+lastCollected: 2026-05-10T00:39:02.606Z
 estimatedTokens: 2377
 keywords: [Logical, Constraints, constraint, statement, hold, logically, any, expression, operator, Patterns, Key, Operators, Explanation, How, User, Order, Affects, Engine, Behavior, Evaluation, Generator, Left-Hand, Side, Right-Hand, Resolution, Implication, Directional, Enforcement, Bi-conditional, <->, Symmetrical, Equivalence, Exception, exclude, Rule]
 ---

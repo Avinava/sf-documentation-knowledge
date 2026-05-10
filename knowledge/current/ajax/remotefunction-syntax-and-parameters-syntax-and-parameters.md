@@ -5,12 +5,10 @@ topic: remotefunction-syntax-and-parameters-syntax-and-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.645Z
+lastCollected: 2026-05-10T00:40:43.910Z
 estimatedTokens: 79
-keywords: [remoteFunction, AJAX, proxy, uses, calls]
+keywords: [remoteFunction, AJAX, proxy, uses]
 ---
-
-# remoteFunction Syntax and Parameters Syntax and Parameters
 
 > AJAX proxy uses remoteFunction to proxy calls.
 

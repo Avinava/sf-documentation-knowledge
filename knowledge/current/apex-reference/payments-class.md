@@ -5,7 +5,7 @@ topic: payments-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.545Z
+lastCollected: 2026-05-10T00:39:20.744Z
 estimatedTokens: 2534
 namespace: ConnectApi
 keywords: [Payments, Authorize, payment, authorizePayment, API, Requires, Chatter, postAuth, postAuthorizePayment, reverseAuthorization, AuthReversalInput, authorizationId, capture, AuthCaptureInput, refund, ReferencedRefundInput, paymentId, sale, tokenizePaymentMethod, tokenizePaymentMethodInput]

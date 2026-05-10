@@ -5,7 +5,7 @@ topic: channellayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.644Z
+lastCollected: 2026-05-10T00:40:00.714Z
 estimatedTokens: 642
 keywords: [ChannelLayout, ChannelLayoutItem, metadata, communication, channel, layout, layouts, let, admins, share, article, content, inline, channels, email, publishers, Experience, Builder, sites, social, media, record, they, want, customize, order, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---

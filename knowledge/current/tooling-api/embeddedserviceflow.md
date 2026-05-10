@@ -5,7 +5,7 @@ topic: embeddedserviceflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.580Z
+lastCollected: 2026-05-10T00:40:16.654Z
 estimatedTokens: 708
 keywords: [EmbeddedServiceFlow, Flow, Definition, Embedded, Service, deployment, API, 45.0, SOAP, REST]
 ---

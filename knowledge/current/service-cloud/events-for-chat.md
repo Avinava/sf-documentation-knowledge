@@ -5,7 +5,7 @@ topic: events-for-chat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.907Z
+lastCollected: 2026-05-10T00:40:42.108Z
 estimatedTokens: 771
 keywords: [Events, Chat, JavaScript, executed, certain, occur, console, user, closes, tab, few, specific, apply, Lightning, Experience]
 ---

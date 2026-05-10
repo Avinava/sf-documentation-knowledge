@@ -5,7 +5,7 @@ topic: complianceevaluation-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:36.061Z
+lastCollected: 2026-05-10T00:40:21.936Z
 estimatedTokens: 777
 namespace: ComplianceMgmt
 keywords: [ComplianceEvaluation, evaluate, compliance, control, Add, logic, compute, var1, ControlEvaluationInput, Implementation]

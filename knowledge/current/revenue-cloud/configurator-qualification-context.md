@@ -5,7 +5,7 @@ topic: configurator-qualification-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:13.946Z
+lastCollected: 2026-05-10T00:39:05.343Z
 estimatedTokens: 110
 keywords: [Configurator, Qualification, Context, product, configuration]
 ---

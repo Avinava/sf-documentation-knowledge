@@ -5,7 +5,7 @@ topic: related-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.804Z
+lastCollected: 2026-05-10T00:39:03.725Z
 estimatedTokens: 214
 keywords: [Records, retrieve, ProductRampSegment, ProductUsageGrant, Product2]
 ---

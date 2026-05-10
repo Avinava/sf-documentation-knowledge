@@ -5,7 +5,7 @@ topic: use-cases-for-the-commercepayments-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.872Z
+lastCollected: 2026-05-10T00:39:51.333Z
 estimatedTokens: 741
 namespace: CommercePayments
 keywords: [Cases, CommercePayments, Review, walkthroughs, material, platform]

@@ -5,7 +5,7 @@ topic: wavexmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:30.897Z
+lastCollected: 2026-05-10T00:40:14.036Z
 estimatedTokens: 3133
 keywords: [WaveXmd, WaveXmdDate, WaveXmdDimension, WaveXmdFormattingProperty, WaveXmdFormattingBin, WaveXmdFormattingPredicate, WaveXmdDimensionCustomAction, WaveXmdDimensionMember, WaveXmdRecordDisplayLookup, WaveXmdDimensionSalesforceAction, WaveXmdMeasure, WaveXmdOrganization, Analytics, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition]
 ---

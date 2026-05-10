@@ -5,7 +5,7 @@ topic: disableutilitypopout-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.709Z
+lastCollected: 2026-05-10T00:40:41.819Z
 estimatedTokens: 312
 keywords: [Arguments, disableUtilityPopOut, Lightning, Experience, Disables, pop-out, utility, isn’t, Web, LWC, Aura, Sample, Code]
 ---

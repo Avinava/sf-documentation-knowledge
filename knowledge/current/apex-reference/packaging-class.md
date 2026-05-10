@@ -5,7 +5,7 @@ topic: packaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.426Z
+lastCollected: 2026-05-10T00:39:29.822Z
 estimatedTokens: 363
 namespace: System
 keywords: [Packaging, obtaining, managed, unlocked, packages, getCurrentPackageId]

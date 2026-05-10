@@ -5,7 +5,7 @@ topic: sfc-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.104Z
+lastCollected: 2026-05-10T00:39:48.453Z
 estimatedTokens: 218
 namespace: Sfc
 keywords: [Sfc, classes, Salesforce, Files]

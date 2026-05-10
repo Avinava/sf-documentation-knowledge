@@ -5,12 +5,10 @@ topic: describeapprovallayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.976Z
+lastCollected: 2026-05-10T00:40:44.544Z
 estimatedTokens: 406
-keywords: [describeApprovalLayout, Retrieves, metadata, approval, layouts, Usage, Sample, Code—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describeApprovalLayout, Retrieves, metadata, approval, layouts, Sample, Code—Java]
 ---
-
-# describeApprovalLayout()
 
 > Retrieves metadata about approval layouts for the specified object type.
 

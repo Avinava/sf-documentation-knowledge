@@ -5,7 +5,7 @@ topic: platformencryptionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.448Z
+lastCollected: 2026-05-10T00:40:09.931Z
 estimatedTokens: 1008
 keywords: [PlatformEncryptionSettings, org’s, Platform, Encryption, settings, schemes, permissions, policy, encrypted, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

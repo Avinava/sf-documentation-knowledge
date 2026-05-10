@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-currency-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:53.205Z
+lastCollected: 2026-05-10T00:39:12.659Z
 estimatedTokens: 494
 keywords: [Salesforce, CRM, Loyalty, Program, Currency, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, credits, points, specific, members, they, engage, Qualifying, help, qualify, tiers, redeem, non-qualifying, credited, their, purchases, DMO]
 ---

@@ -5,7 +5,7 @@ topic: assessmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.061Z
+lastCollected: 2026-05-10T00:40:33.549Z
 estimatedTokens: 864
 keywords: [AssessmentDefinition, definition, assessment, including, revised, date, purpose, API, 63.0]
 ---

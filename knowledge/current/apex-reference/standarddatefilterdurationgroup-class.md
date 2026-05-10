@@ -5,7 +5,7 @@ topic: standarddatefilterdurationgroup-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.048Z
+lastCollected: 2026-05-10T00:39:29.191Z
 estimatedTokens: 591
 namespace: Reports
 keywords: [StandardDateFilterDurationGroup, standard, date, filter, groupings, grouping, display, label, filters, fall, under, include, Calendar, Year, Quarter, Month, Week, Fiscal, Day, user-defined, ranges, getLabel, getStandardDateFilterDurations]

@@ -5,7 +5,7 @@ topic: reportdetailrow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.159Z
+lastCollected: 2026-05-10T00:39:29.374Z
 estimatedTokens: 278
 namespace: Reports
 keywords: [ReportDetailRow, cells, detail, row, report, getDataCells]

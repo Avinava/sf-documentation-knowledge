@@ -4,9 +4,9 @@ domain: apex-reference
 topic: blob-class
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-04-07T18:36:13.599Z
-estimatedTokens: 878
+docType: release-note
+lastCollected: 2026-05-10T00:39:45.879Z
+estimatedTokens: 979
 namespace: System
 keywords: [Blob, primitive, size, toPdf, stringToConvert, toString, valueOf, stringToBlob]
 ---
@@ -78,9 +78,11 @@ Type: [Blob](#apex_methods_system_blob "Contains methods for the Blob primitive 
 
 #### Usage
 
-Blob.toPDF(stringToConvert) works with any string value. Since the Spring ’26 release, Blob.toPDF() uses the same PDF rendering service as Visualforce. See [Render a Visualforce Page as a PDF File](https://developer.salesforce.com/docs/atlas.en-us.260.0.pages.meta/pages/pages_output_pdf_renderas.htm "html (New Window)") for details, including considerations and limitations for rendering PDF files.
+Blob.toPDF(stringToConvert) works with any string value. Since the Spring ’26 release, Blob.toPDF() can use the same PDF rendering service as Visualforce. This change is currently controlled by a Release Update. See [Use Visualforce PDF Rendering Service with Apex Blob.toPdf() (Release Update)](https://help.salesforce.com/s/articleView?id=release-notes.rn_apex_system_blob_topdf.htm&release=260&type=5&language=en_US) in the Salesforce release notes.
 
-The Visualforce PDF rendering service expands the range of fonts available, and includes a multibyte-capable font. The default font is sans-serif. See [Fonts Available When Using Visualforce PDF Rendering](https://developer.salesforce.com/docs/atlas.en-us.260.0.pages.meta/pages/pages_output_pdf_supported_fonts.htm).
+See [Render a Visualforce Page as a PDF File](https://developer.salesforce.com/docs/atlas.en-us.260.0.pages.meta/pages/pages_output_pdf_renderas.htm "html (New Window)") for details of the improved PDF rendering service, including considerations and limitations for rendering PDF files.
+
+The Visualforce PDF rendering service expands the range of fonts available, and includes a multibyte-capable font. The default font is serif, which is a change from the default sans-serif used by Blob.toPDF(). See [Fonts Available When Using Visualforce PDF Rendering](https://developer.salesforce.com/docs/atlas.en-us.260.0.pages.meta/pages/pages_output_pdf_supported_fonts.htm).
 
 #### Example
 

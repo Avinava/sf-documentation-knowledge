@@ -5,7 +5,7 @@ topic: enrichedfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.667Z
+lastCollected: 2026-05-10T00:40:16.789Z
 estimatedTokens: 746
 keywords: [EnrichedField, selected, Change, Capture, Enrichment, channel, member, non-empty, enriched, added, event, changed, API, 51.0, SOAP, REST, HTTP]
 ---

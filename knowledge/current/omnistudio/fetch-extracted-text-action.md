@@ -5,7 +5,7 @@ topic: fetch-extracted-text-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:41.242Z
+lastCollected: 2026-05-10T00:40:29.277Z
 estimatedTokens: 399
 keywords: [Inputs, Outputs, Fetch, Extracted, Text, Action, uploaded, document, REST, HTTP]
 ---

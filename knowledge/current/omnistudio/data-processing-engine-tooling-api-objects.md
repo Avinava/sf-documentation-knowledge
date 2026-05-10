@@ -5,7 +5,7 @@ topic: data-processing-engine-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:40.830Z
+lastCollected: 2026-05-10T00:40:28.643Z
 estimatedTokens: 225
 keywords: [Processing, Engine, Tooling, API, consists, BatchCalcJobDefinition, edit, definition]
 ---

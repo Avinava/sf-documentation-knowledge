@@ -5,7 +5,7 @@ topic: trigger-considerations-for-knowledge-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.774Z
+lastCollected: 2026-05-10T00:39:54.392Z
 estimatedTokens: 1049
 keywords: [Trigger, Considerations, Knowledge, Articles, write, triggers, KnowledgeArticleVersion, actions, don’t, fire, archiving, Apex, Impact, Lightning, Migration, Sample]
 ---

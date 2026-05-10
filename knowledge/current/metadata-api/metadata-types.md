@@ -5,8 +5,8 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:30.276Z
-estimatedTokens: 26013
+lastCollected: 2026-05-10T00:40:12.959Z
+estimatedTokens: 26060
 keywords: [Metadata, API, entities, feature, settings, customize, user]
 ---
 
@@ -382,7 +382,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[FlowDefinition](atlas.en-us.api_meta.meta/api_meta/meta_flowdefinition.htm)**
     Represents the flow definition’s description and active flow version number.
 -   **[FlowTest](atlas.en-us.api_meta.meta/api_meta/meta_flowtest.htm)**
-    Represents the metadata associated with a flow test. Before you activate a record-triggered flow, you can test it to verify its expected results and identify flow run-time failures.
+    Represents the metadata associated with a flow test. Before you activate a record-triggered, autolaunched, or Data Cloud-triggered flow, you can test it to verify its expected results and identify flow run-time failures.
 -   **[FlowValueMap](atlas.en-us.api_meta.meta/api_meta/meta_flowvaluemap.htm)**
     Reserved for future use.
 -   **[Folder](atlas.en-us.api_meta.meta/api_meta/meta_folder.htm)**
@@ -735,6 +735,8 @@ Metadata API enables you to access some entities and feature settings that you c
     Represents a transaction security policy definition. Transaction security policies give you a way to look through events in your organization and specify actions to take when certain combinations occur.
 -   **[Translations](atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)**
     Metadata type that enables work with translations for various supported languages. The ability to translate component labels is part of the Translation Workbench.
+-   **[UIBundle (Beta)](atlas.en-us.api_meta.meta/api_meta/meta_uibundle.htm)**
+    Represents a Salesforce Multi-Framework app, such as a React app.
 -   **[UiFormatSpecificationSet](atlas.en-us.api_meta.meta/api_meta/meta_uiformatspecificationset.htm)**
     Represents a set of rules that define the style and visibility of conditional field formatting on Dynamic Forms-enabled Lightning page field instances.
 -   **[UIObjectRelationConfig](atlas.en-us.api_meta.meta/api_meta/meta_uiobjectrelationconfig.htm)**

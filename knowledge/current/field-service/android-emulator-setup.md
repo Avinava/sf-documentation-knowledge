@@ -5,7 +5,7 @@ topic: android-emulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.642Z
+lastCollected: 2026-05-10T00:40:40.380Z
 estimatedTokens: 1398
 keywords: [Android, Emulator, Setup, development, it’s, convenient, test, code, virtual, device, Studio, install, build, mobile, app, Configure, Minimum, Settings, Service]
 ---

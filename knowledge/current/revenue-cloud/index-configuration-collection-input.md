@@ -5,7 +5,7 @@ topic: index-configuration-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.502Z
+lastCollected: 2026-05-10T00:39:03.340Z
 estimatedTokens: 146
 keywords: [Index, Configuration, Collection, configurations]
 ---

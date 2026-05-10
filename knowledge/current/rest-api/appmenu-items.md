@@ -5,7 +5,7 @@ topic: appmenu-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.413Z
+lastCollected: 2026-05-10T00:39:57.117Z
 estimatedTokens: 271
 keywords: [AppMenu, Items, Accesses, App, Menu, Salesforce, dropdown, retrieve, HEAD]
 ---

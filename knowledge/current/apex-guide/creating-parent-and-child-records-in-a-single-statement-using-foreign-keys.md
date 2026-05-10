@@ -6,7 +6,7 @@ topic: creating-parent-and-child-records-in-a-single-statement-using-foreign-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:19.488Z
+lastCollected: 2026-05-10T00:39:55.599Z
 estimatedTokens: 599
 keywords: [Creating, Parent, Child, Records, Statement, Foreign, Keys, levels, deep, created, call, different, sObject, SOAP, API, Developer, Guid]
 ---

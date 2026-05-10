@@ -5,7 +5,7 @@ topic: experiencepropertytypebundle-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.642Z
+lastCollected: 2026-05-10T00:40:05.506Z
 estimatedTokens: 1447
 keywords: [ExperiencePropertyTypeBundleResource, ExperiencePropertyTypeBundle, Beta, Replaced, Spring, ’26, updated, LightningPropertyType, Lightning, web, instead, deploy, bundle, org, Parent, File, Structure, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

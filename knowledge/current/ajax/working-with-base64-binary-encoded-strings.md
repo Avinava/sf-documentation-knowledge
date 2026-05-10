@@ -5,12 +5,10 @@ topic: working-with-base64-binary-encoded-strings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.565Z
+lastCollected: 2026-05-10T00:40:43.712Z
 estimatedTokens: 256
-keywords: [Working, Base64, Binary, Encoded, Strings, documents, access, document, directly, rather, decoding, JavaScript]
+keywords: [Working, Base64, Binary, Encoded, Strings, documents, document, directly, rather, decoding, JavaScript]
 ---
-
-# Working with Base64 Binary Encoded Strings
 
 > When working with Base64 encoded binary documents, access the document directly using
     the Id, rather than decoding Base64 in JavaScript.

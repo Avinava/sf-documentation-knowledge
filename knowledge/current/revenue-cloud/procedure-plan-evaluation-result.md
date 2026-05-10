@@ -5,7 +5,7 @@ topic: procedure-plan-evaluation-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.415Z
+lastCollected: 2026-05-10T00:39:06.004Z
 estimatedTokens: 132
 keywords: [Procedure, Plan, Evaluation, Result, definition]
 ---

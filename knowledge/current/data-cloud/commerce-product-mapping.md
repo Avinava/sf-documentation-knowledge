@@ -5,7 +5,7 @@ topic: commerce-product-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.647Z
+lastCollected: 2026-05-10T00:39:12.154Z
 estimatedTokens: 262
 keywords: [Commerce, Product, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, company, selling, includes, quantity, revenue, DLO]
 ---

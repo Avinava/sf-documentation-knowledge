@@ -5,7 +5,7 @@ topic: accountplanobjmeascalccond
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.514Z
+lastCollected: 2026-05-10T00:40:15.027Z
 estimatedTokens: 403
 keywords: [AccountPlanObjMeasCalcCond, combination, filtering, records, include, calculation, sales, account, plan, objective, measure’s, current, API, 63.0, SOAP, REST]
 ---

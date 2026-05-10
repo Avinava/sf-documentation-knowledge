@@ -5,7 +5,7 @@ topic: cnfgmgmtdiscoverytarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.264Z
+lastCollected: 2026-05-10T00:39:15.168Z
 estimatedTokens: 748
 keywords: [CnfgMgmtDiscoveryTarget, definition, logical, grouping, endpoints, environments, scanned, infrastructure, asset, discovery, New, York, datacenter, Washington, office, ground, floor, AWS, Staging, API, 65.0]
 ---

@@ -5,7 +5,7 @@ topic: using-events-with-the-lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:49.507Z
+lastCollected: 2026-05-10T00:40:41.565Z
 estimatedTokens: 952
 keywords: [Events, Lightning, Console, JavaScript, API, framework, uses, event-driven, programming, handlers, respond, they, occur, several, specific, apps, Work, Web, LWC, Subscribe, LMS, Channels, Aura]
 ---

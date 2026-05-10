@@ -5,7 +5,7 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.685Z
+lastCollected: 2026-05-10T00:40:38.925Z
 estimatedTokens: 3005
 keywords: [Location, warehouse, service, vehicle, work, site, region, team, performs, API, 49.0, associate, activities, specific, locations, tasks, events, appear, timeline, view, detail, Work.com, users, Employees, records, 51.0, Omnichannel, Inventory, physical, fulfilling, orders]
 ---

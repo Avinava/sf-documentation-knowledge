@@ -5,12 +5,10 @@ topic: deleteresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.950Z
+lastCollected: 2026-05-10T00:40:44.485Z
 estimatedTokens: 244
-keywords: [DeleteResult, call, array, objects]
+keywords: [DeleteResult, call, array]
 ---
-
-# DeleteResult
 
 > The delete() call returns an array of DeleteResult objects.
 

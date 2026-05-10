@@ -5,7 +5,7 @@ topic: integartifactdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.846Z
+lastCollected: 2026-05-10T00:40:07.548Z
 estimatedTokens: 11
 keywords: [IntegArtifactDef, internal]
 ---

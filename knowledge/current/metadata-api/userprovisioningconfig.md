@@ -5,7 +5,7 @@ topic: userprovisioningconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:30.483Z
+lastCollected: 2026-05-10T00:40:13.312Z
 estimatedTokens: 892
 keywords: [UserProvisioningConfig, user, provisioning, flow, attributes, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,12 +5,10 @@ topic: runtestsresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.533Z
+lastCollected: 2026-05-10T00:40:45.799Z
 estimatedTokens: 2264
-keywords: [RunTestsResult, execution, unit, tests, including, whether, were, completed, successfully, code, coverage, results, failures, CodeCoverageResult, CodeCoverageWarning]
+keywords: [RunTestsResult, CodeCoverageResult, CodeCoverageWarning, RunTestFailure, FlowCoverageResult, FlowCoverageWarning, RunTestSuccess, CodeLocation, execution, unit, tests, including, whether, were, completed, successfully, code, coverage, results, failures]
 ---
-
-# RunTestsResult
 
 > Contains information about the execution of unit tests,
   including whether unit tests were completed successfully, code coverage results, and

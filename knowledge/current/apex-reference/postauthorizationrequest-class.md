@@ -6,7 +6,7 @@ topic: postauthorizationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:02.034Z
+lastCollected: 2026-05-10T00:39:27.100Z
 estimatedTokens: 356
 namespace: CommercePayments
 keywords: [PostAuthorizationRequest, postauthorization, gateway, adapter, service, call]

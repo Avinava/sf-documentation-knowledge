@@ -5,7 +5,7 @@ topic: ocrsampledocumentpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.409Z
+lastCollected: 2026-05-10T00:40:29.531Z
 estimatedTokens: 215
 keywords: [OcrSampleDocumentPage, define, OCR, sample, document, API, 52.0, 55.0, collection, SOAP, REST]
 ---

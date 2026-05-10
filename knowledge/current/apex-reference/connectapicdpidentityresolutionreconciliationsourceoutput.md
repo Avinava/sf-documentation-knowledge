@@ -5,7 +5,7 @@ topic: connectapicdpidentityresolutionreconciliationsourceoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:07.878Z
+lastCollected: 2026-05-10T00:39:36.953Z
 estimatedTokens: 227
 keywords: [Source, identity, resolution, reconciliation, rule, field-specific, SourceSequence, match]
 ---

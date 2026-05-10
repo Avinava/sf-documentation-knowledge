@@ -5,7 +5,7 @@ topic: associationenginesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.706Z
+lastCollected: 2026-05-10T00:40:00.813Z
 estimatedTokens: 539
 keywords: [AssociationEngineSettings, record, association, builder, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support]
 ---

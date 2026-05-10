@@ -5,7 +5,7 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:31.029Z
+lastCollected: 2026-05-10T00:40:14.261Z
 estimatedTokens: 1570
 keywords: [ObjectHierarchyRelationship, ObjectMapping, ObjectMappingField, organization’s, mappings, sales, agreement, conversion, mapped, Opportunity, Quotes, SalesAgreement, SalesAgreementProduct, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: animationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.502Z
+lastCollected: 2026-05-10T00:40:00.478Z
 estimatedTokens: 750
 keywords: [AnimationRule, criteria, determining, animation, Path, users.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

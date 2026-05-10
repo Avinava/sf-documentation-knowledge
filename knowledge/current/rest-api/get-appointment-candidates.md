@@ -5,8 +5,8 @@ topic: get-appointment-candidates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.332Z
-estimatedTokens: 1580
+lastCollected: 2026-05-10T00:39:56.997Z
+estimatedTokens: 1718
 keywords: [Examples, Appointment, Candidates, service, resources, work, group, territories]
 ---
 
@@ -89,6 +89,13 @@ To determine the required fields in your request body, consider the following po
 -   Provide either the workTypeGroupId or workType parameter in your request body, but not both.
 -   If the workType parameter is specified, then you must provide either the id or durationInMinutes parameter.
 -   If id of the workType parameter is specified, then the rest of the workType fields are optional.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_rest)
+
+#### Important
+
+-   When you're using shifts: You must specify workTypeGroupId or the ID of the work type. When you specify the ID of the work type, all other workType fields become optional, and Scheduler retrieves their values from the database.
+-   When you're using operating hours: You don't need to specify workTypeGroupId or the ID of the work type. Scheduler applies durationInMinutes and all other workType fields as you configure them.
 
 Response Body
 

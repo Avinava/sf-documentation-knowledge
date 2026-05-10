@@ -5,7 +5,7 @@ topic: mru-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:20.116Z
+lastCollected: 2026-05-10T00:39:56.610Z
 estimatedTokens: 515
 keywords: [MRU, record, created, updated, upserted, retrieved, updates, recently, items, shown, Recent, sidebar, Salesforce, user, API, 60.0]
 ---

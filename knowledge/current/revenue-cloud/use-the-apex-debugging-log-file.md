@@ -5,7 +5,7 @@ topic: use-the-apex-debugging-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:12.111Z
+lastCollected: 2026-05-10T00:39:02.791Z
 estimatedTokens: 348
 keywords: [Apex, Debugging, Log, File, possible, reasons, performance, problems, identify, solutions, look, RLM_CONFIGURATOR_STATS]
 ---

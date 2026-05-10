@@ -2,7 +2,7 @@
 domain: mc-programmatic-content
 name: Programmatic Marketing Content
 documentCount: 0
-lastGenerated: 2026-05-03T00:28:18.987Z
+lastGenerated: 2026-05-10T00:40:49.367Z
 ---
 
 # Programmatic Marketing Content — Knowledge Index

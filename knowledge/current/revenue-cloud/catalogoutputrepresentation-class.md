@@ -5,7 +5,7 @@ topic: catalogoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:11.070Z
+lastCollected: 2026-05-10T00:39:01.245Z
 estimatedTokens: 1474
 keywords: [CatalogOutputRepresentation, store, catalog, definition, catalogCode, catalogType, customFields, effectiveEndDate, effectiveStartDate, numberOfCategories, status]
 ---

@@ -5,8 +5,8 @@ topic: system-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.134Z
-estimatedTokens: 7166
+lastCollected: 2026-05-10T00:39:48.510Z
+estimatedTokens: 7165
 namespace: System
 keywords: [System, classes, core, Apex, functionality]
 ---
@@ -252,7 +252,7 @@ The following are the classes in the System namespace.
     Enables making callouts to SOAP operations on an external Web service. This class is used in the Apex stub class that is auto-generated from a WSDL.
 -   **[WebServiceMock Interface](atlas.en-us.apexref.meta/apexref/apex_interface_webservicemock.htm#apex_interface_webservicemock)**
     Enables sending fake responses when testing Web service callouts of a class auto-generated from a WSDL.
--   **[XmlStreamReader Class Class](atlas.en-us.apexref.meta/apexref/apex_classes_xml_XmlStream_reader.htm#apex_classes_xml_XmlStream_reader)**
+-   **[XmlStreamReader Class](atlas.en-us.apexref.meta/apexref/apex_classes_xml_XmlStream_reader.htm#apex_classes_xml_XmlStream_reader)**
     The XmlStreamReader class provides methods for forward, read-only access to XML data. You can pull data from XML or skip unwanted events. You can parse nested XML content that’s up to 50 nodes deep.
 -   **[XmlStreamWriter Class](atlas.en-us.apexref.meta/apexref/apex_classes_xml_XmlStream_writer.htm#apex_classes_XmlStream_writer)**
     The XmlStreamWriter class provides methods for writing XML data.

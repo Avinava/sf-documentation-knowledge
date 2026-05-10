@@ -5,7 +5,7 @@ topic: create-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.929Z
+lastCollected: 2026-05-10T00:39:57.949Z
 estimatedTokens: 582
 keywords: [Examples, Product, Schedules, Establish, reestablish, schedule, multiple, installments, opportunity, resource, REST, API, 43.0, 46.0, established, re-established, support, validation, Apex, triggers]
 ---

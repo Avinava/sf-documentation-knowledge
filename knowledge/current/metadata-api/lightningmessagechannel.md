@@ -5,7 +5,7 @@ topic: lightningmessagechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.192Z
+lastCollected: 2026-05-10T00:40:08.028Z
 estimatedTokens: 1118
 keywords: [LightningMessageChannel, LightningMessageField, metadata, Lightning, Message, Channel, secure, communicate, across, technologies, Web, Aura, Visualforce, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: describequickactionparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.602Z
+lastCollected: 2026-05-10T00:39:24.757Z
 estimatedTokens: 1222
 namespace: QuickAction
 keywords: [DescribeQuickActionParameter, corresponding, quick, action, parametername, parametertype, parametervalue, getParameterName, getParameterType, getParameterValue]

@@ -5,7 +5,7 @@ topic: prefcenter-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.290Z
+lastCollected: 2026-05-10T00:39:48.750Z
 estimatedTokens: 534
 namespace: The
 keywords: [Pref_center, classes, retrieve, forms, Preference, Manager, previously, Center, feature, Privacy, app, Pref, _center]

@@ -5,12 +5,10 @@ topic: deletebyexampleresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.960Z
+lastCollected: 2026-05-10T00:40:44.508Z
 estimatedTokens: 250
-keywords: [DeleteByExampleResult, deleteByExample, call, array, objects]
+keywords: [DeleteByExampleResult, deleteByExample, call, array]
 ---
-
-# DeleteByExampleResult
 
 > The deleteByExample() call returns an array of
   DeleteByExampleResult objects.

@@ -5,7 +5,7 @@ topic: sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.527Z
+lastCollected: 2026-05-10T00:39:53.982Z
 estimatedTokens: 225
 keywords: [sObject, Collections, manage, sObjects, maps]
 ---

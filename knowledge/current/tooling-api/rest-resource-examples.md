@@ -5,7 +5,7 @@ topic: rest-resource-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:31.272Z
+lastCollected: 2026-05-10T00:40:14.636Z
 estimatedTokens: 1036
 keywords: [REST, Resource, Examples, Robust, resources, Tooling, API, Setup, Retrieve, Manipulate, Query, MetadataContainer, Check, Deployment, Status, Execute, Anonymous, Apex, Unit, Tests]
 ---

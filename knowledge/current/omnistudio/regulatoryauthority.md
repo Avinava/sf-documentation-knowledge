@@ -5,7 +5,7 @@ topic: regulatoryauthority
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.220Z
+lastCollected: 2026-05-10T00:40:35.339Z
 estimatedTokens: 789
 keywords: [RegulatoryAuthority, authority, responsible, issuing, licenses, permits, defining, regulatory, code, API, 65.0]
 ---

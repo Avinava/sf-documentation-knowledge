@@ -5,7 +5,7 @@ topic: engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:41.128Z
+lastCollected: 2026-05-10T00:40:29.115Z
 estimatedTokens: 548
 keywords: [Engagement, store, customer, service, representative]
 ---

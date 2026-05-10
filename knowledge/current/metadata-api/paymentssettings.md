@@ -5,7 +5,7 @@ topic: paymentssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:28.338Z
+lastCollected: 2026-05-10T00:40:09.728Z
 estimatedTokens: 650
 keywords: [PaymentsSettings, Salesforce, Payments, settings, feature, enabled, org, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: auth-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.975Z
+lastCollected: 2026-05-10T00:39:48.241Z
 estimatedTokens: 3827
 namespace: Auth
 keywords: [Auth, classes, sign-on, Salesforce, session, security, management]

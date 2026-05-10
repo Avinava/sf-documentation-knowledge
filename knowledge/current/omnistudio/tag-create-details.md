@@ -5,7 +5,7 @@ topic: tag-create-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.575Z
+lastCollected: 2026-05-10T00:40:28.283Z
 estimatedTokens: 90
 keywords: [Tag, creation, results]
 ---

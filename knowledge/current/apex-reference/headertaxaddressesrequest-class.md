@@ -5,7 +5,7 @@ topic: headertaxaddressesrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.247Z
+lastCollected: 2026-05-10T00:39:27.476Z
 estimatedTokens: 2294
 namespace: CommerceTax
 keywords: [HeaderTaxAddressesRequest, Captures, address, applicable, quote, order, transaction, shipFrom, shipTo, soldTo, billTo, taxEngineAddress, equals, obj, hashCode, toString]

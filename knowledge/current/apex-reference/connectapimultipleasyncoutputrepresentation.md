@@ -5,7 +5,7 @@ topic: connectapimultipleasyncoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:10.202Z
+lastCollected: 2026-05-10T00:39:40.557Z
 estimatedTokens: 303
 keywords: [IDs, asynchronous, background, operations, includes, operation, regardless, whether, made, external, payment, gateway, doesn’t, include, any, errors]
 ---

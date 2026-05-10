@@ -5,7 +5,7 @@ topic: site-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.108Z
+lastCollected: 2026-05-10T00:39:48.459Z
 estimatedTokens: 112
 namespace: Site
 keywords: [Site, rewriting, Sites, URLs]

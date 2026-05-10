@@ -5,7 +5,7 @@ topic: record-alert-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.346Z
+lastCollected: 2026-05-10T00:40:27.929Z
 estimatedTokens: 126
 keywords: [Record, Alert, Action]
 ---

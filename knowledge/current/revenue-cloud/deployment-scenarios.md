@@ -5,7 +5,7 @@ topic: deployment-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:15.206Z
+lastCollected: 2026-05-10T00:39:06.974Z
 estimatedTokens: 2416
 keywords: [Deployment, Scenarios, specific, including, new, environment, setup, refreshes, retiring, records, deploying, patches, Product, Catalog, Management, Salesforce, Pricing]
 ---

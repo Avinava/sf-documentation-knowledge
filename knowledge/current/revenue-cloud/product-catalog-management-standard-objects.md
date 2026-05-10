@@ -5,7 +5,7 @@ topic: product-catalog-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.436Z
+lastCollected: 2026-05-10T00:39:07.348Z
 estimatedTokens: 1617
 keywords: [Product, Catalog, Management, Standard, model, manage, products, catalogs]
 ---

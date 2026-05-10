@@ -5,8 +5,8 @@ topic: userdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.687Z
-estimatedTokens: 4736
+lastCollected: 2026-05-10T00:39:22.831Z
+estimatedTokens: 4735
 namespace: Auth
 keywords: [UserData, Stores, user, authentication, provider, registration, handlers, including, implement, Auth.RegistrationHandler, built, Flow, Builder, identifier, firstName, lastName, fullName, email, link, userName, locale, siteLoginUrl, attributeMap, idToken, userInfoJSONString, idTokenJSONString]
 ---
@@ -42,7 +42,7 @@ The following are constructors for UserData.
 
 -   **[UserData(identifier, firstName, lastName, fullName, email, link, userName, locale, provider, siteLoginUrl, attributeMap)](atlas.en-us.apexref.meta/apexref/apex_class_Auth_UserData.htm#apex_Auth_UserData_ctor)**
     Creates a new instance of the Auth.UserData class using the specified arguments.
--   **[UserData(identifier, firstName, lastName, fullName, email, link, username, locale, provider, siteLoginUrl, attributeMap, idToken, userInfoJSONString)](atlas.en-us.apexref.meta/apexref/apex_class_Auth_UserData.htm#unique_1222181616)**
+-   **[UserData(identifier, firstName, lastName, fullName, email, link, username, locale, provider, siteLoginUrl, attributeMap, idToken, userInfoJSONString)](atlas.en-us.apexref.meta/apexref/apex_class_Auth_UserData.htm#unique_813953119)**
     Creates an instance of the Auth.UserData class that includes the ID token and user info response from the identity provider, if returned during single sign-on.
 
 ### UserData(identifier, firstName, lastName, fullName, email, link, userName, locale, provider, siteLoginUrl, attributeMap)

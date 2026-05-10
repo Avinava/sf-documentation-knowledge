@@ -5,7 +5,7 @@ topic: delegategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:24.614Z
+lastCollected: 2026-05-10T00:40:03.934Z
 estimatedTokens: 822
 keywords: [DelegateGroup, group, users, administrative, privileges, groups, different, sharing, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

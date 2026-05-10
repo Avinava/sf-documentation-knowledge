@@ -5,12 +5,10 @@ topic: examples-using-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.823Z
+lastCollected: 2026-05-10T00:40:46.222Z
 estimatedTokens: 581
-keywords: [Examples, Partner, WSDL, generate, proxy, client, code, development, environment, start, writing, application, needs, log, Salesforce]
+keywords: [Examples, Partner, WSDL, generate, proxy, client, code, development, environment, start, writing, application, needs, log, Salesforce, service, authentication, endpoint, successful, login]
 ---
-
-# Examples Using the Partner WSDL
 
 > After you generate the proxy client code and set up your development environment, you can
             start writing your client application. First, your application needs to log into the

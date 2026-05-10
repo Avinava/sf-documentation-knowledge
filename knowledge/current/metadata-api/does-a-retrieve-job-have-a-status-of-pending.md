@@ -5,7 +5,7 @@ topic: does-a-retrieve-job-have-a-status-of-pending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.692Z
+lastCollected: 2026-05-10T00:40:04.038Z
 estimatedTokens: 159
 keywords: [Retrieve, Job, Status, Pending, initiate, several, concurrent, operations, org, Metadata, API, automatically, puts, jobs, queue, becomes, necessary, service, protection, it’s, active, completes, activates, InProgress, process, repeats, until, cleared]
 ---

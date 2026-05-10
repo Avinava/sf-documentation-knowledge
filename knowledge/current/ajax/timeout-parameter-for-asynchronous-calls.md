@@ -5,12 +5,10 @@ topic: timeout-parameter-for-asynchronous-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.657Z
+lastCollected: 2026-05-10T00:40:43.945Z
 estimatedTokens: 260
-keywords: [Timeout, Asynchronous, Calls, call, appropriate, amount, time, end, specify, callback, any]
+keywords: [Timeout, Asynchronous, call, appropriate, amount, time, end, specify, callback, any]
 ---
-
-# Timeout Parameter for Asynchronous Calls
 
 > If an asynchronous call does not complete in an appropriate amount of time, you can end
   the call. To do this, specify the timeout parameter in

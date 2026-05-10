@@ -5,7 +5,7 @@ topic: schedulejobsapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.501Z
+lastCollected: 2026-05-10T00:40:37.210Z
 estimatedTokens: 899
 namespace: FSL
 keywords: [ScheduleJobsApi, configurations, Territory, tab, scheduled, jobs, categorized, under, Enhanced, Optimization, getJob, setTerritory]

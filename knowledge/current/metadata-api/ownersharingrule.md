@@ -5,7 +5,7 @@ topic: ownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.255Z
+lastCollected: 2026-05-10T00:40:09.603Z
 estimatedTokens: 3111
 keywords: [OwnerSharingRule, AccountOwnerSharingRule, CampaignOwnerSharingRule, CaseOwnerSharingRule, ContactOwnerSharingRule, LeadOwnerSharingRule, OpportunityOwnerSharingRule, AccountTerritorySharingRule, CustomObjectOwnerSharingRule, UserMembershipSharingRule, ownership-based, sharing, rule, share, records, owned, users, another, specify, level, target, user, group, removed, API, 33.0, earlier, versions, Declarative, Metadata, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---

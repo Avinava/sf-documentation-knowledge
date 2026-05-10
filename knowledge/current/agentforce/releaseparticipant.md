@@ -5,7 +5,7 @@ topic: releaseparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.365Z
+lastCollected: 2026-05-10T00:39:15.320Z
 estimatedTokens: 352
 keywords: [ReleaseParticipant, relationship, release, user, group, participates, owner, manager, API, 65.0]
 ---

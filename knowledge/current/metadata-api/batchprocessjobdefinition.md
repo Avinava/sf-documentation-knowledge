@@ -5,7 +5,7 @@ topic: batchprocessjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:22.894Z
+lastCollected: 2026-05-10T00:40:01.162Z
 estimatedTokens: 2089
 keywords: [BatchProcessJobDefinition, BatchDataSource, BatchDataSrcFilterCriteria, BatchDataSourceOrderField, Batch, Management, job, definition, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

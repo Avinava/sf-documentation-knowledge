@@ -5,7 +5,7 @@ topic: eventcondition-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.287Z
+lastCollected: 2026-05-10T00:39:45.363Z
 estimatedTokens: 1019
 keywords: [EventCondition, implementing, specify, whether, take, action, certain, events, occur, transaction, security, policy, Apex, policies, created, Real-Time, Event, Monitoring, evaluate, Implementation]
 ---

@@ -5,7 +5,7 @@ topic: index-configuration-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.171Z
+lastCollected: 2026-05-10T00:39:05.681Z
 estimatedTokens: 214
 keywords: [Index, Configuration, Collection]
 ---

@@ -5,7 +5,7 @@ topic: batchjobstatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.261Z
+lastCollected: 2026-05-10T00:40:33.895Z
 estimatedTokens: 367
 keywords: [BatchJobStatusChangedEvent, Notifies, subscribers, batch, job, completed, flow, API, 51.0]
 ---

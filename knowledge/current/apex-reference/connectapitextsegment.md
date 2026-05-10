@@ -5,7 +5,7 @@ topic: connectapitextsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.086Z
+lastCollected: 2026-05-10T00:39:43.494Z
 estimatedTokens: 49
 keywords: [ConnectApi.TextSegment, Text, segment]
 ---

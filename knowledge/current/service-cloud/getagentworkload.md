@@ -5,7 +5,7 @@ topic: getagentworkload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.212Z
+lastCollected: 2026-05-10T00:40:41.192Z
 estimatedTokens: 322
 keywords: [Arguments, getAgentWorkload, API, 35.0, retrieve, agent’s, currently, assigned, workload, rerouting, work, agents, Sample, Code–Visualforce]
 ---

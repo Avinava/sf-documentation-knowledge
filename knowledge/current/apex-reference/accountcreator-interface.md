@@ -5,7 +5,7 @@ topic: accountcreator-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.327Z
+lastCollected: 2026-05-10T00:39:45.424Z
 estimatedTokens: 767
 namespace: ChatterAnswers
 keywords: [AccountCreator, Creates, Account, records, Chatter, Answers, users, createAccount, firstName, lastName, siteAdminId, Implementation]

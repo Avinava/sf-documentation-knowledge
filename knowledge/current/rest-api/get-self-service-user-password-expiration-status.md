@@ -5,7 +5,7 @@ topic: get-self-service-user-password-expiration-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.481Z
+lastCollected: 2026-05-10T00:39:58.811Z
 estimatedTokens: 298
 keywords: [Self-Service, User, Password, Expiration, Status, Retrieves, user’s, resource, REST, API, 24.0]
 ---

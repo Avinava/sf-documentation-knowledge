@@ -5,7 +5,7 @@ topic: generated-wsdl2apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.163Z
+lastCollected: 2026-05-10T00:39:50.167Z
 estimatedTokens: 321
 keywords: [Generated, WSDL2Apex, Code, generate, Apex, classes, WSDL, document, tool, open, source, GitHub]
 ---

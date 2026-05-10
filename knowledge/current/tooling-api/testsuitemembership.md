@@ -5,7 +5,7 @@ topic: testsuitemembership
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.683Z
+lastCollected: 2026-05-10T00:40:19.928Z
 estimatedTokens: 333
 keywords: [TestSuiteMembership, Associates, Apex, ApexTestSuite, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---

@@ -5,7 +5,7 @@ topic: pricing-execution-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:13.679Z
+lastCollected: 2026-05-10T00:39:04.998Z
 estimatedTokens: 291
 keywords: [Pricing, Execution, Waterfall, process, that's]
 ---

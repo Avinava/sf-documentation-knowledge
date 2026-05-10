@@ -5,12 +5,10 @@ topic: security-and-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.641Z
+lastCollected: 2026-05-10T00:40:46.034Z
 estimatedTokens: 3370
-keywords: [Security, API, Client, apps, access, Salesforce, data, subject, protections, user, Additional, protection, orgs, install, AppExchange]
+keywords: [Sharing, Security, API, Client, apps, Salesforce, subject, protections, user, Additional, protection, orgs, install, AppExchange, managed, packages, contain, via, Authentication, Profile, Permission, Configuration, Token, Implicit, Restrictions, Outbound, Port]
 ---
-
-# Security and the API
 
 > Client apps that access your Salesforce data are subject to the same security
         protections that are used in the Salesforce user interface. Additional protection is

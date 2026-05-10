@@ -5,7 +5,7 @@ topic: regulationparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.187Z
+lastCollected: 2026-05-10T00:40:35.284Z
 estimatedTokens: 754
 keywords: [RegulationParticipant, Compliant, Sharing, participant, user, group, whom, regulation, shared, API, 66.0]
 ---

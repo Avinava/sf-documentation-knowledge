@@ -5,7 +5,7 @@ topic: get-the-translated-values-of-multiple-survey-fields-in-one-or-more-langua
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.289Z
+lastCollected: 2026-05-10T00:39:56.911Z
 estimatedTokens: 310
 keywords: [Translated, Multiple, Survey, Languages, view, resource, REST, API, versions, 48.0]
 ---

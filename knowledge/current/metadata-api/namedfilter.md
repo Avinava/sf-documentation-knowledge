@@ -5,7 +5,7 @@ topic: namedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:31.059Z
+lastCollected: 2026-05-10T00:40:14.307Z
 estimatedTokens: 1582
 keywords: [NamedFilter, FilterItems, FilterOperation, metadata, lookup, filter, definitions, removed, API, 30.0, previous, versions, now, represented, lookupFilter, CustomField, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,12 +5,10 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.611Z
+lastCollected: 2026-05-10T00:40:45.966Z
 estimatedTokens: 3116
-keywords: [Updates, records, organization's, data, Usage, Permissions, Special, Handling, Updateable, Objects, Automatically, Updated, Resetting, Assignment, Rules]
+keywords: [Permissions, Arguments, Faults, Updates, records, organization's, Handling, Updateable, Automatically, Updated, Resetting, Assignment, Maximum, Number, Rollback, Error, Automatic, Subscriptions, Chatter, Feeds, Different, Foreign, Keys, Basic, Steps, Updating, Sample, Code—Java, Code—C#]
 ---
-
-# update()
 
 > Updates one or more existing records in your organization's data.
 

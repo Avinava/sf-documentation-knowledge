@@ -5,7 +5,7 @@ topic: assetactionsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.207Z
+lastCollected: 2026-05-10T00:39:08.286Z
 estimatedTokens: 2167
 keywords: [AssetActionSource, way, record, transactions, caused, changes, lifecycle-managed, assets, trace, financial, asset, actions, supports, Salesforce, order, products, work, line, items, transaction, IDs, systems, can’t, edited, API, 50.0]
 ---

@@ -5,7 +5,7 @@ topic: currencysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.019Z
+lastCollected: 2026-05-10T00:40:02.954Z
 estimatedTokens: 1122
 keywords: [CurrencySettings, organization’s, currency, settings, including, supporting, multiple, currencies, effective, dates, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: decision-explainer-for-expression-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:40.870Z
+lastCollected: 2026-05-10T00:40:28.692Z
 estimatedTokens: 410
 keywords: [Decision, Explainer, Expression, audit-like, service, applications, store, their, application, explain, past, events, stored, retrieved, reporting, custom-built, user, interfaces]
 ---

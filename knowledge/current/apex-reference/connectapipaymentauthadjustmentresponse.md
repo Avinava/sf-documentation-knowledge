@@ -5,7 +5,7 @@ topic: connectapipaymentauthadjustmentresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.292Z
+lastCollected: 2026-05-10T00:39:36.051Z
 estimatedTokens: 331
 keywords: [Authorization, Adjustment]
 ---

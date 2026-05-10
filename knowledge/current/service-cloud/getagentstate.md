@@ -5,7 +5,7 @@ topic: getagentstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.205Z
+lastCollected: 2026-05-10T00:40:41.182Z
 estimatedTokens: 199
 keywords: [Arguments, getAgentState, agent's, current, Chat, status, Online, Away, Offline, API, 29.0, Sample, Code–Visualforce]
 ---

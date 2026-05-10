@@ -5,7 +5,7 @@ topic: connectapipreservecart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.874Z
+lastCollected: 2026-05-10T00:39:41.593Z
 estimatedTokens: 252
 keywords: [ConnectApi.PreserveCart, preserved, cart]
 ---

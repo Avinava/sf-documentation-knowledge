@@ -5,7 +5,7 @@ topic: lightningtypebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.219Z
+lastCollected: 2026-05-10T00:40:08.061Z
 estimatedTokens: 1456
 keywords: [LightningTypeBundle, LightningTypeBundleResource, Lightning, override, user, customized, appearance, business, requirements, Deploy, bundle, organization, implement, overrides, Parent, File, Structure, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

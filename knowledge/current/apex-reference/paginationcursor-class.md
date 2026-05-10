@@ -5,7 +5,7 @@ topic: paginationcursor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.036Z
+lastCollected: 2026-05-10T00:39:23.782Z
 estimatedTokens: 1750
 namespace: Database
 keywords: [PaginationCursor, pagination, cursor, traverse, SOQL, query, result, fetch, rows, total, number, fetchDeleted, start, pageSize, fetchPage, getNumRecords]

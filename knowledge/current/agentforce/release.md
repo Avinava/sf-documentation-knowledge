@@ -5,7 +5,7 @@ topic: release
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.357Z
+lastCollected: 2026-05-10T00:39:15.309Z
 estimatedTokens: 1022
 keywords: [Release, service, management, operations, incidents, problems, change, requests, period, new, updated, deployed, API, 65.0]
 ---

@@ -5,7 +5,7 @@ topic: connectapireference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.536Z
+lastCollected: 2026-05-10T00:39:42.607Z
 estimatedTokens: 79
 keywords: [ConnectApi.Reference, record]
 ---

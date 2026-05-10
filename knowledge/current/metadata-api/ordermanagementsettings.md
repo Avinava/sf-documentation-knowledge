@@ -5,7 +5,7 @@ topic: ordermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.189Z
+lastCollected: 2026-05-10T00:40:09.509Z
 estimatedTokens: 917
 keywords: [OrderManagementSettings, options, Salesforce, Order, Management, product, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

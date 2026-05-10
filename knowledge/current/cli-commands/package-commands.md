@@ -5,7 +5,7 @@ topic: package-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-05-03T00:28:10.336Z
+lastCollected: 2026-05-10T00:39:00.217Z
 estimatedTokens: 14557
 keywords: [Flags, package, Commands, Convert, managed-released, first-generation, managed, second-generation, Examples, Aliases, install, report, installed, push-upgrade, abort, schedule, uninstall, displayancestry, displaydependencies, promote, retrieve]
 ---

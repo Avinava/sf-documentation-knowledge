@@ -5,7 +5,7 @@ topic: customfieldmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.214Z
+lastCollected: 2026-05-10T00:40:16.096Z
 estimatedTokens: 474
 keywords: [CustomFieldMember, working, copy, editing, saving, MetadataContainer, API, 33.0, SOAP, REST, HTTP]
 ---

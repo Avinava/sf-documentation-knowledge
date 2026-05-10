@@ -5,7 +5,7 @@ topic: guardrails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.757Z
+lastCollected: 2026-05-10T00:40:27.176Z
 estimatedTokens: 300
 keywords: [Guardrails, guardrail, includes, manage, system, thresholds, notifications, BRE]
 ---

@@ -5,7 +5,7 @@ topic: validating-sobjects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.300Z
+lastCollected: 2026-05-10T00:39:55.257Z
 estimatedTokens: 185
 keywords: [Validating, sObjects, Apex, code, parsed, validated, sObject, references, against, actual, parse-time, exception, thrown, invalid]
 ---

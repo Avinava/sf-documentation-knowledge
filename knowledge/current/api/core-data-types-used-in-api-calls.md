@@ -5,12 +5,10 @@ topic: core-data-types-used-in-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.890Z
+lastCollected: 2026-05-10T00:40:44.381Z
 estimatedTokens: 18764
-keywords: [Core, Data, API, Calls, extensive, error-handling, objects, sObject, Fault, Element, ExceptionCode, Error, StatusCode, ExtendedErrorDetails, ExtendedErrorCode]
+keywords: [ExceptionCode, Error, StatusCode, ExtendedErrorDetails, ExtendedErrorCode, Core, API, extensive, error-handling, sObject, Fault]
 ---
-
-# Core Data Types Used in API Calls
 
 > An extensive list of core data types and error-handling objects used in API calls.
 

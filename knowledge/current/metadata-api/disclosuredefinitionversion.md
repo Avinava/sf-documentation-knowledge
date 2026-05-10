@@ -5,7 +5,7 @@ topic: disclosuredefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:24.996Z
+lastCollected: 2026-05-10T00:40:04.455Z
 estimatedTokens: 879
 keywords: [DisclosureDefinitionVersion, disclosure, definition, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

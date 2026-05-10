@@ -5,7 +5,7 @@ topic: connectapicdpidentityresolutionmatchcriterionpartyidentificationinfooutpu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.841Z
+lastCollected: 2026-05-10T00:39:36.898Z
 estimatedTokens: 156
 keywords: [party, identification, identity, resolution, ruleset's, match, rule, criterion]
 ---

@@ -5,7 +5,7 @@ topic: connectapimessagesegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:05.811Z
+lastCollected: 2026-05-10T00:39:33.501Z
 estimatedTokens: 792
 keywords: [ConnectApi.MessageSegmentInput, add, rich, message, segments, items, comments]
 ---

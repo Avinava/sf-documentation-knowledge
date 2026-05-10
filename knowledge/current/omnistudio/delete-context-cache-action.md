@@ -5,7 +5,7 @@ topic: delete-context-cache-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.131Z
+lastCollected: 2026-05-10T00:40:20.562Z
 estimatedTokens: 220
 keywords: [Inputs, Outputs, Context, Cache, Action, instance, in-memory, provided, removes, cached, maintained, service, performing, any, database, write, operations, REST, HTTP]
 ---

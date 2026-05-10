@@ -5,7 +5,7 @@ topic: http-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.643Z
+lastCollected: 2026-05-10T00:39:50.929Z
 estimatedTokens: 1171
 keywords: [Considerations, HTTP, Classes, expose, functionality]
 ---

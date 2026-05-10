@@ -5,7 +5,7 @@ topic: moderate-chatter-private-messages-with-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.193Z
+lastCollected: 2026-05-10T00:39:50.208Z
 estimatedTokens: 677
 keywords: [Moderate, Chatter, Messages, Triggers, Write, trigger, ChatterMessage, automate, moderation, org, Experience, Cloud, site, ensure, conform, company’s, messaging, policies, don’t, contain, blocklisted, words]
 ---

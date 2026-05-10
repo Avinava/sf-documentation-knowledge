@@ -5,7 +5,7 @@ topic: process-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.802Z
+lastCollected: 2026-05-10T00:39:51.205Z
 estimatedTokens: 334
 keywords: [Process, Payments, payment, gateway]
 ---

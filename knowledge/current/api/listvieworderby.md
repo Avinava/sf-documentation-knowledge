@@ -5,12 +5,10 @@ topic: listvieworderby
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.379Z
+lastCollected: 2026-05-10T00:40:45.458Z
 estimatedTokens: 260
 keywords: [ListViewOrderBy, determine, order, records, view, executeListView]
 ---
-
-# ListViewOrderBy
 
 > To determine the order in which records are returned from a list view, use the
     ListViewOrderBy object with executeListView().

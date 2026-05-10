@@ -5,7 +5,7 @@ topic: connectapiassociatedactionscapabilityinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.528Z
+lastCollected: 2026-05-10T00:39:31.537Z
 estimatedTokens: 398
 keywords: [action, link, groups, associate, group, call, made, Apex, created, definition, addition, user, making, View, permission]
 ---

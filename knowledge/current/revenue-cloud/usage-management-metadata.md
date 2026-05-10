@@ -5,7 +5,7 @@ topic: usage-management-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:15.242Z
+lastCollected: 2026-05-10T00:39:07.034Z
 estimatedTokens: 905
 keywords: [Management, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

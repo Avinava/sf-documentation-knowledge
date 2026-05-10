@@ -5,7 +5,7 @@ topic: deletemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:24.638Z
+lastCollected: 2026-05-10T00:40:03.963Z
 estimatedTokens: 1244
 namespace: MyNS
 keywords: [Permissions, Arguments, deleteMetadata, Deletes, metadata, organization, synchronously, Guidelines, Basic, Steps, Deleting, Sample, Code—Java]

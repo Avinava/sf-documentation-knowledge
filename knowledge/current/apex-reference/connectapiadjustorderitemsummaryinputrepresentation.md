@@ -5,7 +5,7 @@ topic: connectapiadjustorderitemsummaryinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:04.495Z
+lastCollected: 2026-05-10T00:39:31.490Z
 estimatedTokens: 356
 keywords: [Price, adjustments, order, item, summaries, together, adjustment, options, adjusting, items, process, fulfilled]
 ---

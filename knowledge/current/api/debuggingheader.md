@@ -5,12 +5,10 @@ topic: debuggingheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.702Z
+lastCollected: 2026-05-10T00:40:46.092Z
 estimatedTokens: 484
-keywords: [DebuggingHeader, debug, log, output, DebuggingInfo, specify, level, detail, API, Calls, LogInfo]
+keywords: [DebuggingHeader, LogInfo, debug, log, DebuggingInfo, specify, level, detail, API]
 ---
-
-# DebuggingHeader
 
 > Return the debug log in the output header, DebuggingInfo, and specify the level of detail in the debug
       log.

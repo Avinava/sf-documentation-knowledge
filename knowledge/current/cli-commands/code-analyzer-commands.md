@@ -5,8 +5,8 @@ topic: code-analyzer-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:09.774Z
-estimatedTokens: 6757
+lastCollected: 2026-05-10T00:38:59.512Z
+estimatedTokens: 7033
 keywords: [Flags, code-analyzer, Commands, current, state, configuration, Code, Analyzer, config, Examples, run]
 ---
 
@@ -182,6 +182,16 @@ Optional
 Include unmodified rules in the rule override settings.
 
 The default behavior of the config command is to not include the unmodified rules with their default values in the rule override settings (for the rules selected via the \`–-rule-selector\` flag). This default behavior prevents your configuration file from being unnecessarily large. If you want to include the unmodified rules, in addition to the modified rules, then specify this flag.
+
+Type: boolean
+
+\--no-suppressions
+
+Optional
+
+Exclude suppressions from the output configuration.
+
+When specified, the 'suppressions' field is not included in the configuration state. Since the 'suppressions' field may contain file or folder paths specific to a specific path, use this flag to make it easy to share your configuration state to be used for a different workspace.
 
 Type: boolean
 
@@ -587,13 +597,33 @@ To help you get started, use the \`code-analyzer config\` command to create your
 
 Type: option
 
+\--include-fixes
+
+Optional
+
+Include fix data for violations when available.
+
+When enabled, the output includes fix information for violations that have auto-fixes available. Each fix contains a code location and the replacement code. This flag may increase analysis time because engines must perform additional processing to compute fixes.
+
+Type: boolean
+
+\--include-suggestions
+
+Optional
+
+Include suggestion data for violations when available.
+
+When enabled, the output includes suggestion information for violations that have suggestions available. Each suggestion contains a code location and a message describing the suggested change.
+
+Type: boolean
+
 \--no-suppressions
 
 Optional
 
-Disable processing of inline suppression markers.
+Disable processing of inline and bulk suppression markers.
 
-By default, Code Analyzer processes inline suppression markers (code-analyzer-suppress and code-analyzer-unsuppress) found in your source code to filter out violations. Use this flag to ignore all suppression markers and report all violations.
+When specified, any inline suppression markers (code-analyzer-suppress, code-analyzer-suppress-line, and code-analyzer-suppress-next-line) found in targeted files are ignored and any suppressions supplied by your Code Analyzer configuration file are ignored so that no violations are suppressed by them.
 
 Note: If you have a \`code-analyzer.yml\` or \`code-analyzer.yaml\` configuration file with the \`suppressions.disable\_suppressions\` field, the configuration file takes precedence over this flag.
 

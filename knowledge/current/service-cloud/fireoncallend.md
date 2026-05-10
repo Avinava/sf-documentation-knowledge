@@ -5,7 +5,7 @@ topic: fireoncallend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.127Z
+lastCollected: 2026-05-10T00:40:41.064Z
 estimatedTokens: 261
 keywords: [Arguments, fireOnCallEnd, Fires, event, notifies, call, ended, send, interaction, log, console, executes, fireOnCallBegin, API, 31.0, Sample, Code–Visualforce]
 ---

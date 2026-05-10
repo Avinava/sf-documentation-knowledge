@@ -5,7 +5,7 @@ topic: field-service-custom-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:46.951Z
+lastCollected: 2026-05-10T00:40:37.887Z
 estimatedTokens: 751
 keywords: [Service, Standard, Salesforce, installed, managed, package]
 ---

@@ -5,12 +5,10 @@ topic: download-the-salesforce-client-certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.575Z
+lastCollected: 2026-05-10T00:40:43.732Z
 estimatedTokens: 458
-keywords: [Download, Salesforce, Client, Certificate, application, endpoint, server’s, SSL, TLS, configured, require, certificates, two-way, validate, identity]
+keywords: [Download, Salesforce, Client, Certificate, application, endpoint, server’s, SSL, TLS, configured, require, certificates, two-way, validate, identity, server, role, API]
 ---
-
-# Download the Salesforce Client Certificate
 
 > Your application (endpoint) server’s SSL/TLS can be configured to require client
     certificates (two-way SSL/TLS) to validate the identity of the Salesforce server when it takes

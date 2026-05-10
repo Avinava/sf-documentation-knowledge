@@ -5,7 +5,7 @@ topic: get-started-with-ingestion-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:51.466Z
+lastCollected: 2026-05-10T00:39:10.844Z
 estimatedTokens: 1521
 keywords: [Prerequisites, Authentication, Started, Ingestion, API, Cloud, know, limits, apply, bulk, streaming, Ingest, Status, Codes, Error, Responses, Upload]
 ---

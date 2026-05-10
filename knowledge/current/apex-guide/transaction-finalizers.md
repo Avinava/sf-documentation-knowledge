@@ -5,7 +5,7 @@ topic: transaction-finalizers
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.674Z
+lastCollected: 2026-05-10T00:39:54.232Z
 estimatedTokens: 1551
 keywords: [Considerations, Transaction, Finalizers, feature, attach, actions, System.Finalizer, asynchronous, Apex, jobs, Queueable, framework, specific, case, design, recovery, job, fails, System.FinalizerContext, Implementation, Logging, Finalizer, Retry, Best, Practices]
 ---

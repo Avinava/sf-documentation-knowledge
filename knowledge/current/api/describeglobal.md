@@ -5,12 +5,10 @@ topic: describeglobal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.028Z
+lastCollected: 2026-05-10T00:40:44.656Z
 estimatedTokens: 470
-keywords: [describeGlobal, Retrieves, objects, organization's, data, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Arguments, Fault, describeGlobal, Retrieves, organization's, Sample, Code—Java, Code—C#]
 ---
-
-# describeGlobal()
 
 > Retrieves a list of available objects for your organization's data.
 

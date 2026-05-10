@@ -5,7 +5,7 @@ topic: plugindescriberesult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.563Z
+lastCollected: 2026-05-10T00:39:24.691Z
 estimatedTokens: 1258
 namespace: Process
 keywords: [PluginDescribeResult, Process.PluginResult, inputParameters, outputParameters]

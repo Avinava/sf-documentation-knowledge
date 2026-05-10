@@ -5,7 +5,7 @@ topic: paging-with-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.151Z
+lastCollected: 2026-05-10T00:39:51.721Z
 estimatedTokens: 396
 keywords: [Paging, Apex, Connector, Framework, displaying, large, records, user, Salesforce, breaks, batches, displays, batch, However, adapters, Connect, don’t, automatically, support, any, kind, external, that’s, obtained, adapter, implement, server-driven, client-driven]
 ---

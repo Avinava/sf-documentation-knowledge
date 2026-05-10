@@ -5,7 +5,7 @@ topic: adding-apex-code-to-a-appexchange-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:17.816Z
+lastCollected: 2026-05-10T00:39:52.813Z
 estimatedTokens: 216
 keywords: [Adding, Apex, Code, AppExchange, App, include, trigger, you’re, creating]
 ---

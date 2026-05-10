@@ -5,7 +5,7 @@ topic: dmloptionsduplicateruleheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.012Z
+lastCollected: 2026-05-10T00:39:23.443Z
 estimatedTokens: 1062
 namespace: Database
 keywords: [DMLOptions.DuplicateRuleHeader, Determines, options, duplicate, detect, records, part, Management, feature, allowSave, runAsCurrentUser]

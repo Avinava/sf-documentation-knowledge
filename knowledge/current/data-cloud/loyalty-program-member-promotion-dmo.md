@@ -5,7 +5,7 @@ topic: loyalty-program-member-promotion-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.007Z
+lastCollected: 2026-05-10T00:39:13.441Z
 estimatedTokens: 770
 keywords: [Category, Relationships, Loyalty, Program, Member, Promotion, DMO, Cloud, model, double, points, outdoor, purchases, API, Primary, Subject, Area, Key]
 ---

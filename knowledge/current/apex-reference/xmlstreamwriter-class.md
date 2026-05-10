@@ -5,7 +5,7 @@ topic: xmlstreamwriter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:04.059Z
+lastCollected: 2026-05-10T00:39:30.926Z
 estimatedTokens: 3231
 namespace: System
 keywords: [XmlStreamWriter, writing, XML, close, getXmlString, setDefaultNamespace, uri, writeAttribute, prefix, namespaceUri, localName, writeCData, writeCharacters, text, writeComment, comment, writeDefaultNamespace, writeEmptyElement, writeEndDocument, writeEndElement, writeNamespace, writeProcessingInstruction, target, writeStartDocument, encoding, writeStartElement]

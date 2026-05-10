@@ -5,7 +5,7 @@ topic: openprimarytab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.653Z
+lastCollected: 2026-05-10T00:40:43.199Z
 estimatedTokens: 776
 keywords: [Arguments, openPrimaryTab, Opens, new, primary, tab, display, content, URL, relative, absolute, override, API, 20.0, Sample, Code–Visualforce]
 ---

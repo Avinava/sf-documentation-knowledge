@@ -5,7 +5,7 @@ topic: contractlineoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.495Z
+lastCollected: 2026-05-10T00:40:38.596Z
 estimatedTokens: 1357
 keywords: [ContractLineOutcome, contract, line, outcome’s, captured, capturing, API, 58.0]
 ---

@@ -5,7 +5,7 @@ topic: list-view-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.841Z
+lastCollected: 2026-05-10T00:39:57.792Z
 estimatedTokens: 106
 keywords: [View, Basic, specific, including, label, API, resource, REST, 32.0]
 ---

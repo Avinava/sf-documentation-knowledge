@@ -5,7 +5,7 @@ topic: update-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.580Z
+lastCollected: 2026-05-10T00:39:57.369Z
 estimatedTokens: 700
 keywords: [Records, sObject, Collections, PATCH, returning, SaveResult, choose, whether, roll, back, entire, error, occurs]
 ---

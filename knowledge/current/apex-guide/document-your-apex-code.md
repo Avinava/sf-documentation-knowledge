@@ -5,7 +5,7 @@ topic: document-your-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:17.508Z
+lastCollected: 2026-05-10T00:39:52.327Z
 estimatedTokens: 311
 keywords: [Document, Apex, Code, ApexDoc, standardized, comment, easier, humans, documentation, generators, agents, understand, codebase, recommend, comments, facilitate, collaboration, increase, long-term, maintainability, JavaDoc, standard, specifications, specialized, tags, guidelines, tailored, Salesforce, ecosystem]
 ---

@@ -5,7 +5,7 @@ topic: apex-rest-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.416Z
+lastCollected: 2026-05-10T00:39:53.792Z
 estimatedTokens: 2691
 keywords: [Apex, REST, supports, two, formats, representations, resources, JSON, XML, passed, indicated, Content-Type, HTTP, retrieve, Considerations, User-Defined, Status, Codes]
 ---

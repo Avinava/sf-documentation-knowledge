@@ -6,7 +6,7 @@ topic: aura-events-for-enhanced-messaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.930Z
+lastCollected: 2026-05-10T00:40:42.145Z
 estimatedTokens: 431
 keywords: [Aura, Events, Enhanced, Messaging, JavaScript, executed, certain, occur, console, user, closes, tab, few, specific, apply, Lightning, Experience]
 ---

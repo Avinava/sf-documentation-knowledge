@@ -5,12 +5,10 @@ topic: describequickactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.124Z
+lastCollected: 2026-05-10T00:40:44.862Z
 estimatedTokens: 477
-keywords: [describeQuickActions, Retrieves, actions, Usage, Sample—Java, Arguments]
+keywords: [Arguments, describeQuickActions, Retrieves, actions, Sample—Java]
 ---
-
-# describeQuickActions()
 
 > Retrieves details about specified actions.
 

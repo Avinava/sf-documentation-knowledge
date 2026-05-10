@@ -5,22 +5,23 @@ topic: mfgserviceconsolesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:31.014Z
+lastCollected: 2026-05-10T00:40:14.233Z
 estimatedTokens: 535
-keywords: [MfgServiceConsoleSettings, settings, Service, Console, Manufacturing.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
+keywords: [MfgServiceConsoleSettings, settings, Service, Console, Manufacturing, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
 > Represents the settings to access the Service Console for
-      Manufacturing.This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      Manufacturing.
 
 # MfgServiceConsoleSettings
 
-Represents the settings to access the Service Console for Manufacturing.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the settings to access the Service Console for Manufacturing.
 
-## File Suffix and Directory Location
+This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for more details.
+
+## File Suffix and Directory Location
 
 MfgServiceConsoleSettings values are stored in the MfgServiceConsole.settings file in the settings directory.
 

@@ -5,7 +5,7 @@ topic: comparator-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.245Z
+lastCollected: 2026-05-10T00:39:45.297Z
 estimatedTokens: 877
 namespace: System
 keywords: [Comparator, Implement, different, sort, orders, interface’s, compare, pass, List.sort, implementation, explicitly, handle, inputs, avoid, pointer, exception, var1, var2]

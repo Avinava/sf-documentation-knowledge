@@ -5,7 +5,7 @@ topic: post-a-rich-text-comment-with-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.061Z
+lastCollected: 2026-05-10T00:39:54.870Z
 estimatedTokens: 198
 keywords: [Post, Rich-Text, Comment, Inline, Image, call, ConnectApiHelper, repository, already, uploaded]
 ---

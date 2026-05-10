@@ -5,7 +5,7 @@ topic: pardotsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.292Z
+lastCollected: 2026-05-10T00:40:09.659Z
 estimatedTokens: 1215
 keywords: [PardotSettings, Marketing, Cloud, Account, Engagement, settings, Salesforce, org, formerly, known, Pardot, B2B, automation, solution, helps, meaningful, connections, generate, pipeline, close, deals, configure, how, collects, displays, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

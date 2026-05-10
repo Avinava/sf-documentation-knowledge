@@ -5,7 +5,7 @@ topic: servicepresencestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.475Z
+lastCollected: 2026-05-10T00:40:19.610Z
 estimatedTokens: 215
 keywords: [ServicePresenceStatus, presence, status, assigned, service, channel, API, 65.0, SOAP, REST]
 ---

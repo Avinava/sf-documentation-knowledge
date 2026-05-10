@@ -5,7 +5,7 @@ topic: limitations-of-dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.848Z
+lastCollected: 2026-05-10T00:39:49.642Z
 estimatedTokens: 545
 keywords: [Limitations, DataWeave, Apex]
 ---

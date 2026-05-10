@@ -5,7 +5,7 @@ topic: configuration-load-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.375Z
+lastCollected: 2026-05-10T00:39:04.553Z
 estimatedTokens: 329
 keywords: [Configuration, Load, Instance, POST, session, product, transaction, includes, results, actions, qualification, pricing, management]
 ---

@@ -5,7 +5,7 @@ topic: enablementprogramdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.425Z
+lastCollected: 2026-05-10T00:40:05.169Z
 estimatedTokens: 3394
 keywords: [EnablementProgramDefinition, EnablementProgramSection, EnablementProgramTask, EnablementProgramTaskExercise, EnablementProgramTaskCmsContent, EnablementProgramTaskCustomContent, EnablementProgramTaskExternalContent, EnablementProgramTaskFeedbackContent, EnablementProgramTaskMilestone, EnablementProgramTaskMilestoneMeasure, Enablement, program, includes, exercises, measurable, milestones, help, users, sales, reps, achieve, specific, outcomes, company’s, revenue, goals, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

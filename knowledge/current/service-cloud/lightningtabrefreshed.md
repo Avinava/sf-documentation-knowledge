@@ -5,7 +5,7 @@ topic: lightningtabrefreshed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.090Z
+lastCollected: 2026-05-10T00:40:41.013Z
 estimatedTokens: 103
 keywords: [lightning, tabRefreshed, tab, refreshed, lightning__tabRefreshed, Lightning, message, channel, corresponds, Aura, app, event, web, console, _tabRefreshed, LWC]
 ---

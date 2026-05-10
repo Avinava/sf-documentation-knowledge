@@ -5,7 +5,7 @@ topic: updateutility-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.334Z
+lastCollected: 2026-05-10T00:40:42.740Z
 estimatedTokens: 366
 keywords: [Arguments, updateUtility, Lightning, Experience, label, icon, utility, bar, highlighted, Web, LWC, Sample, Code]
 ---

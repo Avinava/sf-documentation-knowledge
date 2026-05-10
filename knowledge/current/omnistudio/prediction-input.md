@@ -5,7 +5,7 @@ topic: prediction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:37.318Z
+lastCollected: 2026-05-10T00:40:23.790Z
 estimatedTokens: 1758
 keywords: [Prediction, features, predictions, fetched]
 ---

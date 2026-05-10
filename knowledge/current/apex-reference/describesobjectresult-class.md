@@ -5,7 +5,7 @@ topic: describesobjectresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.554Z
+lastCollected: 2026-05-10T00:39:47.474Z
 estimatedTokens: 11235
 namespace: Schema
 keywords: [DescribeSObjectResult, Share, accessible, associateentitytype, associateparententity, childrelationships, createable, customsetting, datatranslationenabled, defaultimplementation, deletable, deprecatedandhidden, feedenabled, fieldSets, hassubtypes, implementedby, implementsinterfaces, isinterface, keyprefix, label, labelplural, localname, mergeable, mruenabled, queryable, recordtypeinfos, recordtypeinfosbydevelopername, recordtypeinfosbyid, recordtypeinfosbyname, searchable, sobjectdescribeoption, sobjecttype, undeletable, updateable, equals, obj, getAssociateEntityType, getAssociateParentEntity, getChildRelationships, getDataTranslationEnabled, getDefaultImplementation, getFields, getFieldSets, getHasSubtypes, getImplementedBy, getImplementsInterfaces, getIsInterface, getKeyPrefix, getLabel, getLabelPlural, getLocalName, getName, getRecordTypeInfos, getRecordTypeInfosByDeveloperName, getRecordTypeInfosById, getRecordTypeInfosByName, getSObjectDescribeOption, getSobjectType, hashCode, isAccessible, Versioned, Behavior, Changes, isCreateable, isCustom, isCustomSetting, isDeletable, isDeprecatedAndHidden, isFeedEnabled, isMergeable, isMruEnabled, isQueryable, isSearchable, isUndeletable, isUpdateable, toString]
@@ -521,7 +521,7 @@ The following are methods for DescribeSObjectResult. All are instance methods.
     Returns the effective describe option used by the system for the SObject.
 -   **[getSobjectType()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_Schema_DescribeSObjectResult_getSobjectType)**
     Returns the Schema.SObjectType object for the sObject. You can use this to create a similar sObject.
--   **[getHasSubtypes()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#unique_531981322)**
+-   **[getHasSubtypes()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#unique_394214051)**
     Reserved for future use.
 -   **[hashCode()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_Schema_DescribeSObjectResult_hashCode)**
     Returns the hash code for the SObject.

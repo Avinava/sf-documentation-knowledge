@@ -5,12 +5,10 @@ topic: executelistview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.272Z
+lastCollected: 2026-05-10T00:40:45.226Z
 estimatedTokens: 313
-keywords: [executeListView, Executes, view’s, SOQL, query, retrieve, data, labels, actions, view, Usage, Sample, Code—Java, Arguments]
+keywords: [Arguments, executeListView, Executes, view’s, SOQL, query, retrieve, labels, actions, view, Sample, Code—Java]
 ---
-
-# executeListView()
 
 > Executes a list view’s SOQL query to retrieve data, labels, and actions
    from a list view.

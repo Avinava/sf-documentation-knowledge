@@ -5,7 +5,7 @@ topic: decision-matrix-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:39.232Z
+lastCollected: 2026-05-10T00:40:26.423Z
 estimatedTokens: 139
 keywords: [Decision, Matrix, action, performed]
 ---

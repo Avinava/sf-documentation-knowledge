@@ -5,7 +5,7 @@ topic: user-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.791Z
+lastCollected: 2026-05-10T00:39:11.290Z
 estimatedTokens: 398
 keywords: [User, Track, profile, interaction, Salesforce, Interactions, Web, SDK]
 ---

@@ -5,7 +5,7 @@ topic: common-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:36.210Z
+lastCollected: 2026-05-10T00:40:22.147Z
 estimatedTokens: 264
 keywords: [Common, Platform, Event, Batch, Management, jobs, Processing, Engine, definitions, run, invocable, actions, Flows, BatchJobStatusChanged, notify, subscribers, job, definition, processed, flow]
 ---

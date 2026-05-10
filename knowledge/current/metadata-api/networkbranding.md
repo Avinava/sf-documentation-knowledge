@@ -5,7 +5,7 @@ topic: networkbranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.921Z
+lastCollected: 2026-05-10T00:40:09.189Z
 estimatedTokens: 1147
 keywords: [NetworkBranding, branding, color, scheme, applied, login, pages, Experience, Cloud, site, sites, represented, Network, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

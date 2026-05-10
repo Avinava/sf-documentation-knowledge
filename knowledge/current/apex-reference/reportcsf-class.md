@@ -5,7 +5,7 @@ topic: reportcsf-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.990Z
+lastCollected: 2026-05-10T00:39:29.096Z
 estimatedTokens: 4297
 namespace: Reports
 keywords: [ReportCsf, working, summary, formula, CSF, label, formulaType, decimalPlaces, downGroup, downGroupType, acrossGroup, acrossGroupType, getAcrossGroup, getAcrossGroupType, getDecimalPlaces, getDescription, getDownGroup, getDownGroupType, getFormula, getFormulaType, getLabel, setAcrossGroup, setAcrossGroupType, setDecimalPlaces, setDescription, setDownGroup, setDownGroupType, setFormula, setFormulaType, setLabel, toString]

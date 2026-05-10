@@ -5,7 +5,7 @@ topic: formulainstance-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.585Z
+lastCollected: 2026-05-10T00:39:28.075Z
 estimatedTokens: 979
 namespace: FormulaEval
 keywords: [FormulaInstance, evaluate, formula, instance, contextObject, getReferencedFields]

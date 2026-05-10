@@ -5,7 +5,7 @@ topic: encryptionkeysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.451Z
+lastCollected: 2026-05-10T00:40:05.198Z
 estimatedTokens: 999
 keywords: [EncryptionKeySettings, org’s, encryption, key, settings, customer-supplied, keys, options, derivation, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

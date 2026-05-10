@@ -5,7 +5,7 @@ topic: customnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.197Z
+lastCollected: 2026-05-10T00:39:24.072Z
 estimatedTokens: 3845
 namespace: Messaging
 keywords: [CustomNotification, configure, send, notifications, Apex, code, typeId, sender, title, targetId, targetPageRef, users, setNotificationTypeId, setTitle, setBody, setSenderId, setTargetId, setTargetPageRef, pageRef]

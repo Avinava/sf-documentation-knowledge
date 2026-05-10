@@ -5,16 +5,15 @@ topic: embedding-api-calls-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.589Z
+lastCollected: 2026-05-10T00:40:43.771Z
 estimatedTokens: 852
-keywords: [Embedding, API, Calls, JavaScript, made, toolkit, procedure, Connecting, write, code, processing, sure, check, SOAP, Developer]
+keywords: [Embedding, API, JavaScript, made, toolkit, procedure, Connecting, write, code, processing, sure, check, SOAP, Developer]
 ---
 
-# Embedding API Calls in JavaScript
-
-> After you have made the toolkit available using the procedure in Connecting to the API, you can write the
-            JavaScript code that contains your API calls and processing. Be sure to check the
-                    SOAP API Developer Guide for information about each call that you wish to use. T
+> After you have made the toolkit available using the procedure in Connecting to the API, you can
+                        write the JavaScript code that contains your API calls and processing. Be
+                        sure to check the SOAP API Developer Guide for information about
+                 
 
 # Embedding API Calls in JavaScript
 

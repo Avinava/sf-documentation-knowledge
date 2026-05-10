@@ -5,7 +5,7 @@ topic: verificationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.697Z
+lastCollected: 2026-05-10T00:39:22.851Z
 estimatedTokens: 1939
 namespace: Auth
 keywords: [VerificationResult, result, verification, challenge, invoke, own, Verify, initiated, either, redirect, success, message, clone]

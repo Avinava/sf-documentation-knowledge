@@ -5,12 +5,10 @@ topic: processing-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.649Z
+lastCollected: 2026-05-10T00:40:43.918Z
 estimatedTokens: 223
 keywords: [Processing, Results, process, query, enough, rows, require, queryMore, queryLocator, much, now, iterating, across]
 ---
-
-# Processing Results
 
 > You can process the results of a query that returns enough rows
 to require queryMore and queryLocator, much as you do now,

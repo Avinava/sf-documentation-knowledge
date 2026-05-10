@@ -5,7 +5,7 @@ topic: scoring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.636Z
+lastCollected: 2026-05-10T00:40:32.918Z
 estimatedTokens: 302
 keywords: [Scoring, Framework, developer, resources, define, template, configurations, CRM, Analytics, apps, Generate, scores, predictive, cases, preconfigured, recipes, Einstein, Discovery, models, installed]
 ---

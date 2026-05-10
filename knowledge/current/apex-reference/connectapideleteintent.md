@@ -5,7 +5,7 @@ topic: connectapideleteintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:08.673Z
+lastCollected: 2026-05-10T00:39:38.147Z
 estimatedTokens: 114
 keywords: [ConnectApi.DeleteIntent, intent, social, post]
 ---

@@ -5,7 +5,7 @@ topic: operatinghoursholiday
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:47.634Z
+lastCollected: 2026-05-10T00:40:38.841Z
 estimatedTokens: 611
 keywords: [OperatingHoursHoliday, day, hours, service, territory, resource, unavailable, Salesforce, Scheduler, Meetings, Sales, Engagement, Workforce, API, 54.0]
 ---

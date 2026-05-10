@@ -5,7 +5,7 @@ topic: configurator-update-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.636Z
+lastCollected: 2026-05-10T00:39:04.945Z
 estimatedTokens: 266
 keywords: [Configurator, Nodes, POST, product, configuration]
 ---

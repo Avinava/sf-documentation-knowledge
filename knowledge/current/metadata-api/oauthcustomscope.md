@@ -5,7 +5,7 @@ topic: oauthcustomscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.982Z
+lastCollected: 2026-05-10T00:40:09.227Z
 estimatedTokens: 1105
 keywords: [OauthCustomScope, permission, defining, protected, connected, app, external, entity, Salesforce, OAuth, authorization, provider, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

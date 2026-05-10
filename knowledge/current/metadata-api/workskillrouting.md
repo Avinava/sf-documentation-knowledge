@@ -5,7 +5,7 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:30.995Z
+lastCollected: 2026-05-10T00:40:14.199Z
 estimatedTokens: 857
 keywords: [WorkSkillRouting, WorkSkillRoutingAttribute, setup, stores, route, work, item, agent, skills, necessary, take, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

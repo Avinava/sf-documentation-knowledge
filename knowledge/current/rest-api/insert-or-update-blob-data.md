@@ -5,7 +5,7 @@ topic: insert-or-update-blob-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:20.009Z
+lastCollected: 2026-05-10T00:39:56.439Z
 estimatedTokens: 2822
 keywords: [Insert, Blob, sObject, Basic, Rows, Collections, resources, binary, large, blobs, Salesforce, images, PDFs, upload, files, any, standard, Inserting, Document, Updating, ContentVersion, Collection, Records, Multipart, Message, Considerations]
 ---

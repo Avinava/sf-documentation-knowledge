@@ -5,7 +5,7 @@ topic: setcustomconsolecomponentheight
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.874Z
+lastCollected: 2026-05-10T00:40:43.507Z
 estimatedTokens: 242
 keywords: [Arguments, setCustomConsoleComponentHeight, window, height, application-level, console, that’s, API, 32.0, Sample, Code–Visualforce]
 ---

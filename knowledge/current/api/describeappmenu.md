@@ -5,12 +5,10 @@ topic: describeappmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.968Z
+lastCollected: 2026-05-10T00:40:44.524Z
 estimatedTokens: 357
-keywords: [describeAppMenu, Retrieves, metadata, items, either, Salesforce, mobile, app, navigation, menu, dropdown, Code, Sample—Java, Arguments, Faults]
+keywords: [Arguments, Faults, describeAppMenu, Retrieves, metadata, items, either, Salesforce, mobile, app, navigation, menu, dropdown, Code, Sample—Java]
 ---
-
-# describeAppMenu()
 
 > Retrieves metadata about items either in the Salesforce mobile app navigation menu or
         the Salesforce dropdown app menu.

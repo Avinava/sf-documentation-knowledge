@@ -5,7 +5,7 @@ topic: ocrtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:41.471Z
+lastCollected: 2026-05-10T00:40:29.577Z
 estimatedTokens: 615
 keywords: [OcrTemplate, mapping, document, Salesforce, Einstein, Form, Reader, API, 50.0, OcrTargetObject, OcrTargetObjFieldMapping, OcrSampleDocumentField, OcrSampleDocumentPageItem, OcrTemplateSampleDocument, form, Intelligent, Document, Reader.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest, 55.0, SOAP, REST, 52.0]
 ---

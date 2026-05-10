@@ -5,7 +5,7 @@ topic: acceptchat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:48.771Z
+lastCollected: 2026-05-10T00:40:40.551Z
 estimatedTokens: 191
 keywords: [Arguments, acceptChat, Accepts, chat, API, 29.0, isn't, Omni-Channel, 37.0, Sample, Code–Visualforce]
 ---

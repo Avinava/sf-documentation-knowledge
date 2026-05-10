@@ -5,7 +5,7 @@ topic: contexttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:45.702Z
+lastCollected: 2026-05-10T00:40:36.067Z
 estimatedTokens: 322
 keywords: [ContextTag, shortened, attribute, node, instead, fully, qualified, tag, structure, API, 59.0, SOAP, REST]
 ---

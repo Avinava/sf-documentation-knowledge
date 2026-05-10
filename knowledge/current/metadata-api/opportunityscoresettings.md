@@ -5,7 +5,7 @@ topic: opportunityscoresettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.160Z
+lastCollected: 2026-05-10T00:40:09.469Z
 estimatedTokens: 627
 keywords: [OpportunityScoreSettings, org’s, Einstein, Opportunity, Scoring, settings, whether, enabled, helps, determine, likelihood, won, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

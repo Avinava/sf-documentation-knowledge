@@ -5,7 +5,7 @@ topic: searchlayouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:29.475Z
+lastCollected: 2026-05-10T00:40:11.617Z
 estimatedTokens: 1511
 keywords: [SearchLayouts, metadata, search, layouts, customize, display, users, results, filter, lookup, dialogs, recent, record, tab, home, pages, accessing, encompassing, CustomObject, Declarative, Sample, Definition, Wildcard, Support, Manifest, File]
 ---

@@ -5,7 +5,7 @@ topic: field-service-warranty-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:46.946Z
+lastCollected: 2026-05-10T00:40:37.880Z
 estimatedTokens: 278
 keywords: [Service, Warranty, Management, Model, items, record, labor, parts, expenses, along, any, exchange, options, provided, rectify, issues, products, sold, installed, standard, warranties, product, families, install, additional, extended, exclusions, terms]
 ---

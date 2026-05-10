@@ -5,7 +5,7 @@ topic: getsubtabids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.428Z
+lastCollected: 2026-05-10T00:40:41.463Z
 estimatedTokens: 260
 keywords: [Arguments, getSubtabIds, IDs, subtabs, primary, tab, current, console, detail, overwritten, Visualforce, API, 26.0, Sample, Code–Visualforce]
 ---

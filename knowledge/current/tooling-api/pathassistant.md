@@ -5,7 +5,7 @@ topic: pathassistant
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.821Z
+lastCollected: 2026-05-10T00:40:18.733Z
 estimatedTokens: 1085
 keywords: [PathAssistant, Path, Tooling, API, 36.0, SOAP, REST, HTTP]
 ---

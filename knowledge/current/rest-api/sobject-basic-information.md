@@ -5,7 +5,7 @@ topic: sobject-basic-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.222Z
+lastCollected: 2026-05-10T00:39:58.416Z
 estimatedTokens: 224
 keywords: [sObject, Basic, Retrieves, metadata, creates, new, record]
 ---

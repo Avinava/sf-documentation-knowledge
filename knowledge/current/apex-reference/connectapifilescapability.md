@@ -5,7 +5,7 @@ topic: connectapifilescapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.207Z
+lastCollected: 2026-05-10T00:39:40.564Z
 estimatedTokens: 174
 keywords: [ConnectApi.FilesCapability, capability, file, attachments]
 ---

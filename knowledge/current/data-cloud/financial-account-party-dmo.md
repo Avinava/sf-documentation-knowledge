@@ -5,7 +5,7 @@ topic: financial-account-party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.613Z
+lastCollected: 2026-05-10T00:39:13.051Z
 estimatedTokens: 522
 keywords: [Category, Relationships, Financial, Account, Party, DMO, role, organization, person, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

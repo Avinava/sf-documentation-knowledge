@@ -5,7 +5,7 @@ topic: carebenefitverifysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:23.277Z
+lastCollected: 2026-05-10T00:40:01.745Z
 estimatedTokens: 656
 keywords: [CareBenefitVerifySettings, configuration, settings, benefit, verification, requests, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

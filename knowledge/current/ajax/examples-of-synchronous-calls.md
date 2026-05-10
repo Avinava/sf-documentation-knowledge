@@ -5,12 +5,10 @@ topic: examples-of-synchronous-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.627Z
+lastCollected: 2026-05-10T00:40:43.859Z
 estimatedTokens: 500
-keywords: [Examples, Synchronous, Calls, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect]
+keywords: [Examples, Synchronous, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations, Call, Describe, Utility]
 ---
-
-# Examples of Synchronous Calls
 
 > Where possible, we changed noninclusive terms to align with our
         company value of Equality. We maintained certain terms to avoid any effect on

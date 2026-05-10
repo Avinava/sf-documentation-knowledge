@@ -5,12 +5,10 @@ topic: sample-search-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.788Z
+lastCollected: 2026-05-10T00:40:44.180Z
 estimatedTokens: 232
-keywords: [Sample, search, Call, Java, examples, show, how, partner, WSDL, accepts, phone, number, SOQL, query, looks]
+keywords: [Sample, search, Call, Java, examples, show, how, partner, WSDL, accepts, phone, number, SOQL, query, looks, match, passed, contacts]
 ---
-
-# Sample search Call
 
 > The following Java and C# examples show how to use the search() call for
             the partner WSDL. Each example accepts a phone number string value that is used in the

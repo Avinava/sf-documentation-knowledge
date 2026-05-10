@@ -5,7 +5,7 @@ topic: step-1-optional-add-metadata-components-to-an-org-using-the-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.863Z
+lastCollected: 2026-05-10T00:40:10.585Z
 estimatedTokens: 202
 keywords: [Step, Add, Metadata, Org, you’re, starting, new, practice, doesn’t, customizations, standard, can’t, retrieved, API, retrieve, call, Salesforce, working, project, already, skip]
 ---

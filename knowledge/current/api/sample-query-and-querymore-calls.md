@@ -5,12 +5,10 @@ topic: sample-query-and-querymore-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.782Z
+lastCollected: 2026-05-10T00:40:44.162Z
 estimatedTokens: 329
-keywords: [Sample, query, queryMore, Calls, Java, examples, show, usage, partner, WSDL, batch, size, items, performs, call]
+keywords: [Sample, query, queryMore, Java, examples, show, partner, WSDL, batch, size, items, performs, call, contacts, iter]
 ---
-
-# Sample query and queryMore Calls
 
 > The following Java and C# examples show usage of the query() and queryMore() calls
             for the partner WSDL. Each example sets the batch size of the query to 250 items

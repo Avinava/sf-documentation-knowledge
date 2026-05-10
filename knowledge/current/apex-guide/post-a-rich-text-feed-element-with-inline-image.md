@@ -5,7 +5,7 @@ topic: post-a-rich-text-feed-element-with-inline-image
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:19.106Z
+lastCollected: 2026-05-10T00:39:54.938Z
 estimatedTokens: 414
 keywords: [Post, Rich-Text, Inline, Image, Call, ConnectApiHelper, repository, already, uploaded]
 ---

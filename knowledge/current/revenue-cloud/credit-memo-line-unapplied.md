@@ -5,7 +5,7 @@ topic: credit-memo-line-unapplied
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:45.697Z
+lastCollected: 2026-05-10T00:39:05.465Z
 estimatedTokens: 163
 keywords: [Credit, Memo, Line, Unapplied, invoice, record, status]
 ---

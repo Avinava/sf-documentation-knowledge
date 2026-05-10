@@ -5,7 +5,7 @@ topic: event-log-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:38.414Z
+lastCollected: 2026-05-10T00:40:25.235Z
 estimatedTokens: 190
 keywords: [Event, Log, POST, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, year]
 ---

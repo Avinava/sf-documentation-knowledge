@@ -5,7 +5,7 @@ topic: schema-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.383Z
+lastCollected: 2026-05-10T00:39:10.713Z
 estimatedTokens: 260
 keywords: [Schema, Mappings, collection, event, definitions, standard, ecommerce, cases, review, descriptions, definition]
 ---

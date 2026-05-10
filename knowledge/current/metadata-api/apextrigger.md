@@ -5,7 +5,7 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:30.217Z
+lastCollected: 2026-05-10T00:40:12.854Z
 estimatedTokens: 952
 keywords: [ApexTrigger, Apex, trigger, code, executes, specific, manipulation, language, DML, events, occur, records, inserted, database, deleted, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

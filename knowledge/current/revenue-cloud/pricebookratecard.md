@@ -5,7 +5,7 @@ topic: pricebookratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.861Z
+lastCollected: 2026-05-10T00:39:09.173Z
 estimatedTokens: 645
 keywords: [PriceBookRateCard, junction, price, book, rate, card, API, 62.0]
 ---

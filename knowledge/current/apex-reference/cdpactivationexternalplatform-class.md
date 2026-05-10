@@ -5,7 +5,7 @@ topic: cdpactivationexternalplatform-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.614Z
+lastCollected: 2026-05-10T00:39:15.690Z
 estimatedTokens: 827
 namespace: ConnectApi
 keywords: [CdpActivationExternalPlatform, activation, external, platforms, getActivationExternalPlatforms, API, Requires, Chatter, getActivationExternalPlatformsPaginated, limit, offset, orderBy]

@@ -5,7 +5,7 @@ topic: reportdivisioninfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.995Z
+lastCollected: 2026-05-10T00:39:29.105Z
 estimatedTokens: 388
 namespace: Available
 keywords: [ReportDivisionInfo, divisions, filter, report, getDefaultValue, getValues]

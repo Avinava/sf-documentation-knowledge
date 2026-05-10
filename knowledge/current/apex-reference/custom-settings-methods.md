@@ -5,7 +5,7 @@ topic: custom-settings-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.643Z
+lastCollected: 2026-05-10T00:39:45.968Z
 estimatedTokens: 4932
 keywords: [Settings, similar, enable, application, developers, well, associate, organization, profile, specific, user, exposed, cache, efficient, cost, repeated, queries, database, formula, validation, flows, Apex, SOAP, API, Setting, Examples, Hierarchy, Country, State, Code, getAll, getInstance, dataSetName, getValues, userId, profileId, getOrgDefaults]
 ---

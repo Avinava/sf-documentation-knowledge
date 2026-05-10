@@ -5,7 +5,7 @@ topic: dataweave-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.832Z
+lastCollected: 2026-05-10T00:39:49.617Z
 estimatedTokens: 818
 namespace: Metadata
 keywords: [DataWeave, Apex, uses, Mulesoft, library, parse, transform, export, different, scripts, metadata, invoke, directly, run, Salesforce, application, servers, enforcing, heap, CPU, limits, executing, code]

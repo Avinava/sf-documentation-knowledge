@@ -5,7 +5,7 @@ topic: aiusecasemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.031Z
+lastCollected: 2026-05-10T00:40:33.503Z
 estimatedTokens: 857
 keywords: [AIUsecaseModel, machine, learning, models, generate, predictions, case, API, 55.0, stores, cases, SOAP, REST]
 ---

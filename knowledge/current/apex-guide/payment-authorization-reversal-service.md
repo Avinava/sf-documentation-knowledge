@@ -5,7 +5,7 @@ topic: payment-authorization-reversal-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.834Z
+lastCollected: 2026-05-10T00:39:51.264Z
 estimatedTokens: 241
 keywords: [Payment, Authorization, Reversal, Service, transaction, negates, releasing, hold, funds, customer’s]
 ---

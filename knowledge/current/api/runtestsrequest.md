@@ -5,12 +5,10 @@ topic: runtestsrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:57.515Z
+lastCollected: 2026-05-10T00:40:45.765Z
 estimatedTokens: 814
-keywords: [RunTestsRequest, Apex, code, tested, part, CompileAndTestRequest, passed, compileAndTest, call, Tooling, SOAP, API, runTests, specify, different]
+keywords: [RunTestsRequest, TestsNode, Apex, code, tested, part, CompileAndTestRequest, passed, compileAndTest, call, Tooling, SOAP, API, runTests, specify, different, classes]
 ---
-
-# RunTestsRequest
 
 > Specifies information about the Apex code to be tested. RunTestsRequest is part of CompileAndTestRequest, which is the request passed
 			to the compileAndTest() call. This object is also

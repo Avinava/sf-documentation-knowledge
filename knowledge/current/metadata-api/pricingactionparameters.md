@@ -5,7 +5,7 @@ topic: pricingactionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:28.564Z
+lastCollected: 2026-05-10T00:40:10.120Z
 estimatedTokens: 694
 keywords: [PricingActionParameters, pricing, action, that's, context, definition, procedure, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Wildcard, Support, Manifest]
 ---

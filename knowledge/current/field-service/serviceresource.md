@@ -5,8 +5,8 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.161Z
-estimatedTokens: 1368
+lastCollected: 2026-05-10T00:40:39.656Z
+estimatedTokens: 1366
 keywords: [ServiceResource, service, technician, crew, Salesforce, Scheduler, agent, Workforce, Engagement, API, 38.0]
 ---
 
@@ -32,7 +32,7 @@ Field Service or Workforce Engagement must be enabled.
 | --- | --- |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the resource. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionWhen selected, this option means that the resource can be assigned to work orders. For service tracking purposes, resources can’t be deleted, so deactivating a resource is the best way to send them into retirement.Deactivating a user doesn’t deactivate the related service resource. You can’t create a service resource that is linked to an inactive user. |
-| IsCapacityBased | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionCapacity-based resources are limited to a certain number of hours or appointments in a specified time period.TipThe Capacities related list shows a resource’s capacity. |
+| IsCapacityBased | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionCapacity-based resources are limited to a certain number of hours or appointments in a specified time period. The Capacities related list shows a resource’s capacity. |
 | IsOptimizationCapable | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThis field is reserved for Field Service and the managed package. Create a custom field instead of using this field to include a service resource in optimization. |
 | LastKnownLatitude | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe latitude of the last known location. |
 | LastKnownLongitude | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe longitude of the last known location. |
@@ -45,7 +45,7 @@ Field Service or Workforce Engagement must be enabled.
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe owner of the service resource.OwnerId is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
 | RelatedRecordId | TypereferencePropertiesCreate, Filter, Group, Sort, Nillable, UpdateDescriptionThe associated user. Its label in the UI is User. If the service resource represents a service crew rather than a user, leave the User field blank and select the related crew in the ServiceCrewId field.RelatedRecordId is a relationship field.Relationship NameRelatedRecordRelationship TypeLookupRefers ToUser |
 | ResourceType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionIndicates whether the resource is a Technician (T), Dispatcher (D), Crew (C), Asset (S), Agent (A), or Planner (P). The default value is Technician (T). Resources who are dispatchers can’t be capacity-based or included in scheduling optimization. Only users with the Field Service Dispatcher permission-set license can be dispatchers. You can’t add additional resource types.To create a dependent lookup filter with ServiceResource.ResourceType, use only the first letter of the picklist value, for example T for Technician. |
-| ServiceCrewId | TypereferencePropertiesCreate, Filter, Group, Sort, Nillable, UpdateDescriptionThe associated service crew. If the service resource represents a crew, select the crew.NoteThis field is hidden for all users by default. To use it, update its field-level security settings in Setup and add it to your service resource page layouts. |
+| ServiceCrewId | TypereferencePropertiesCreate, Filter, Group, Sort, Nillable, UpdateDescriptionThe associated service crew. If the service resource represents a crew, select the crew. This field is hidden for all users by default. To use it, update its field-level security settings in Setup and add it to your service resource page layouts. |
 
 ## Associated Objects
 

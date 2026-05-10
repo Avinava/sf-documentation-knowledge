@@ -5,7 +5,7 @@ topic: apexdoc-comment-structure-and-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.503Z
+lastCollected: 2026-05-10T00:39:52.307Z
 estimatedTokens: 1862
 keywords: [ApexDoc, Comment, Structure, Tags, promote, consistency, parsability, comments, defined, consists, main, block, inline, provide, documented, code, Basic]
 ---

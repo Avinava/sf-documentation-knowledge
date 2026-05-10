@@ -5,8 +5,8 @@ topic: reportfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.202Z
-estimatedTokens: 2898
+lastCollected: 2026-05-10T00:39:29.441Z
+estimatedTokens: 2899
 namespace: Reports
 keywords: [ReportFilter, report, filter, including, column, operator, filterType, entityName, getColumn, getEntityName, getFilterType, getOperator, getValue, setColumn, setEntityName, setFilterType, setOperator, setValue, toString]
 ---
@@ -37,7 +37,7 @@ The following are constructors for ReportFilter.
     Creates a new instance of the Reports.ReportFilter class. You can then set values by using the “set” methods.
 -   **[ReportFilter(column, operator, value)](atlas.en-us.apexref.meta/apexref/apex_class_reports_reportfilter.htm#apex_Reports_ReportFilter_ctor)**
     Creates a new instance of the Reports.ReportFilter class by using the specified parameters.
--   **[ReportFilter(column, operator, value, filterType)](atlas.en-us.apexref.meta/apexref/apex_class_reports_reportfilter.htm#unique_145920723)**
+-   **[ReportFilter(column, operator, value, filterType)](atlas.en-us.apexref.meta/apexref/apex_class_reports_reportfilter.htm#unique_1479239290)**
     Creates a new instance of the Reports.ReportFilter class by using the specified parameters.
 -   **[ReportFilter(column, operator, value, filterType, entityName)](atlas.en-us.apexref.meta/apexref/apex_class_reports_reportfilter.htm#apex_Reports_ReportFilter_ctor_4)**
     Creates a new instance of the Reports.ReportFilter class by using the specified parameters.

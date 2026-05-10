@@ -5,7 +5,7 @@ topic: svcmgmtproacagntupdtevnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.416Z
+lastCollected: 2026-05-10T00:39:15.397Z
 estimatedTokens: 460
 keywords: [SvcMgmtProacAgntUpdtEvnt, event, updated, proactive, agent, action, record, user, refreshes, stores, source, triggered, message, detals, stored, status, API, 65.0, Subscribers]
 ---

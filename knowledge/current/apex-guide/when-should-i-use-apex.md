@@ -5,7 +5,7 @@ topic: when-should-i-use-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:17.861Z
+lastCollected: 2026-05-10T00:39:52.890Z
 estimatedTokens: 822
 keywords: [Apex, Visualforce, Salesforce, ability, customize, prebuilt, apps, fit, organization, complex, business, processes, implement, functionality, user, interfaces, variety, tools, including, Lightning, SOAP, API]
 ---

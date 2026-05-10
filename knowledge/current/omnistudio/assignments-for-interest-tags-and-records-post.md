@@ -5,7 +5,7 @@ topic: assignments-for-interest-tags-and-records-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:38.455Z
+lastCollected: 2026-05-10T00:40:25.294Z
 estimatedTokens: 222
 keywords: [Assignments, Interest, Tags, Records, POST, Salesforce]
 ---

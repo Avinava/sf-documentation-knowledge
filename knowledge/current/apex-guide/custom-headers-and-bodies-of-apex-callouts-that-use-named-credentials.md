@@ -6,7 +6,7 @@ topic: custom-headers-and-bodies-of-apex-callouts-that-use-named-credentials
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:16.104Z
+lastCollected: 2026-05-10T00:39:50.060Z
 estimatedTokens: 650
 keywords: [Bodies, Apex, Callouts, Named, Credentials, Salesforce, generates, standard, authorization, callout, named-credential-defined, endpoint, disable, option, code, merge, construct, callout’s, HTTP]
 ---

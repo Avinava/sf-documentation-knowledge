@@ -5,7 +5,7 @@ topic: caseproceedingparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.411Z
+lastCollected: 2026-05-10T00:40:34.135Z
 estimatedTokens: 1107
 keywords: [CaseProceedingParticipant, junction, case, proceeding, participant, account, contact, stores, involved, API, 64.0]
 ---

@@ -5,7 +5,7 @@ topic: communitythemedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.649Z
+lastCollected: 2026-05-10T00:40:02.369Z
 estimatedTokens: 1590
 keywords: [CommunityThemeDefinition, CommunityThemeBundleInfo, CommunityCustomThemeLayoutType, CommunityThemeRouteOverride, definition, theme, Experience, Builder, site, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, CommunityTheme, Setting, Declarative, Sample, Wildcard, Support, Manifest]
 ---

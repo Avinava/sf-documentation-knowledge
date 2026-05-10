@@ -5,7 +5,7 @@ topic: triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:18.693Z
+lastCollected: 2026-05-10T00:39:54.256Z
 estimatedTokens: 1852
 keywords: [Triggers, Apex, invoked, enable, perform, actions, changes, Salesforce, records, insertions, updates, deletions, Implementation, Considerations]
 ---

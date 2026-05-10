@@ -5,7 +5,7 @@ topic: historyretentionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:26.616Z
+lastCollected: 2026-05-10T00:40:07.131Z
 estimatedTokens: 625
 keywords: [HistoryRetentionPolicy, policy, archiving, specify, number, months, want, keep, Salesforce, Audit, Trail, enabled, retained, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition]
 ---

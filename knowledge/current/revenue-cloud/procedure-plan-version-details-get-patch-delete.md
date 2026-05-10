@@ -5,7 +5,7 @@ topic: procedure-plan-version-details-get-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.216Z
+lastCollected: 2026-05-10T00:39:04.383Z
 estimatedTokens: 907
 keywords: [Procedure, Plan, PATCH, definition, record]
 ---

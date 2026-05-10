@@ -5,12 +5,10 @@ topic: quick-start-soap-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.847Z
+lastCollected: 2026-05-10T00:40:46.289Z
 estimatedTokens: 131
 keywords: [Quick, Start, SOAP, API, sample, application, development, environment]
 ---
-
-# Quick Start: SOAP API
 
 > Use this quick start to create a sample
 application in your development environment.

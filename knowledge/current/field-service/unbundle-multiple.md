@@ -5,7 +5,7 @@ topic: unbundle-multiple
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.039Z
+lastCollected: 2026-05-10T00:40:38.031Z
 estimatedTokens: 1934
 keywords: [Unbundle, Multiple, bundles, service, appointments, resource, accepts, bundle, IDs, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---

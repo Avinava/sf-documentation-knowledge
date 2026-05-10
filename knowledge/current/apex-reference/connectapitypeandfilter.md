@@ -5,7 +5,7 @@ topic: connectapitypeandfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.095Z
+lastCollected: 2026-05-10T00:39:43.501Z
 estimatedTokens: 61
 keywords: [ConnectApi.TypeAndFilter, filter]
 ---

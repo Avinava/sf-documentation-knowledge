@@ -5,7 +5,7 @@ topic: packageinstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.777Z
+lastCollected: 2026-05-10T00:40:18.629Z
 estimatedTokens: 1299
 keywords: [PackageInstallRequest, SubscriberPackageInstallErrors, SubscriberPackageInstallError, SubscriberPackageProfileMappings, SubscriberPackageProfileMapping, install, package, first-, second-generation, target, subscriber, org, API, 41.0, SOAP, REST, HTTP]
 ---

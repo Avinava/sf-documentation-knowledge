@@ -5,7 +5,7 @@ topic: named-credentials-as-callout-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.097Z
+lastCollected: 2026-05-10T00:39:50.051Z
 estimatedTokens: 1275
 keywords: [Named, Credentials, Callout, Endpoints, credential, URL, endpoint, authentication, definition, Salesforce, manages, Apex, callouts, specify, code, doesn’t, skip, remote, site, settings, otherwise, external, sites, defined]
 ---

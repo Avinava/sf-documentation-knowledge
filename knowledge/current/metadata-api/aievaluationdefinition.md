@@ -5,7 +5,7 @@ topic: aievaluationdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:22.308Z
+lastCollected: 2026-05-10T00:40:00.151Z
 estimatedTokens: 2199
 keywords: [AiEvaluationDefinition, AiEvaluationTestCase, AiEvaluationExpectation, AiEvaluationTestCaseCritParam, AiEvaluationAgentTestCaseInput, AiEvalCopilotTestCaseCntxtVar, AiEvalCopilotTestCaseConv, agent, evaluation, including, subject, metadata, test, cases, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

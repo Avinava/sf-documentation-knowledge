@@ -5,7 +5,7 @@ topic: articletype-customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.656Z
+lastCollected: 2026-05-10T00:40:00.733Z
 estimatedTokens: 1349
 keywords: [ArticleType, CustomField, metadata, article, definitions, Declarative, File, Suffix, Directory, Location, Retrieving, Standard, Sample, Definition]
 ---

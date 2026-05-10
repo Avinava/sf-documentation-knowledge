@@ -5,7 +5,7 @@ topic: ontabsave
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.630Z
+lastCollected: 2026-05-10T00:40:43.171Z
 estimatedTokens: 684
 keywords: [Arguments, onTabSave, Registers, callback, user, clicks, Save, subtab’s, Unsaved, Changes, dialog, box, call, setTabUnsavedChanges, notifies, console, operation, completed, pass, indicate, successful, unsuccessful, API, 28.0, Sample, Code–Visualforce]
 ---

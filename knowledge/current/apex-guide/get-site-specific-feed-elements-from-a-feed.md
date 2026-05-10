@@ -5,7 +5,7 @@ topic: get-site-specific-feed-elements-from-a-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.991Z
+lastCollected: 2026-05-10T00:39:54.761Z
 estimatedTokens: 202
 keywords: [Site-Specific, Call, display, user, profile, scoped, specific, Experience, Cloud, site]
 ---

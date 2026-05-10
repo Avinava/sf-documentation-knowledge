@@ -5,7 +5,7 @@ topic: party-consent-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.323Z
+lastCollected: 2026-05-10T00:39:13.754Z
 estimatedTokens: 763
 keywords: [Category, Relationships, Party, Consent, DMO, Privacy, Cloud, model, individual’s, preferences, API, Primary, Subject, Area, Key]
 ---

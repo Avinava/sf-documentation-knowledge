@@ -5,7 +5,7 @@ topic: accountholdertype-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.736Z
+lastCollected: 2026-05-10T00:39:44.526Z
 estimatedTokens: 59
 keywords: [AccountHolderType, account, holder]
 ---

@@ -5,7 +5,7 @@ topic: namedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.637Z
+lastCollected: 2026-05-10T00:40:18.383Z
 estimatedTokens: 4818
 namespace: AllowedManagedPackageNamespaces
 keywords: [NamedCredential, NamedCredentialParameter, named, credential, URL, callout, endpoint, authentication, definition, simplify, setup, authenticated, callouts, API, 51.0, SOAP, REST]

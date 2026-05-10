@@ -5,7 +5,7 @@ topic: customobjecttranslation-language-support-end-user-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:21.837Z
+lastCollected: 2026-05-10T00:39:59.404Z
 estimatedTokens: 698
 keywords: [Arabic, Bulgarian, Croatian, Czech, Greek, Hebrew, Hungarian, Indonesian, Polish, Romanian, Slovak, Slovenian, Turkish, Ukrainian, Vietnamese, CustomObjectTranslation, Language, Support, End-User, Languages, every, supports, possible, appendix, determine, English, Portuguese, Portugal]
 ---

@@ -5,7 +5,7 @@ topic: evaluationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.465Z
+lastCollected: 2026-05-10T00:40:21.054Z
 estimatedTokens: 901
 namespace: ComplianceMgmt
 keywords: [EvaluationResult, compliance, evaluation, result, three, properties—isCompliant, complianceMessage, complianceLogMessage, isCompliant, complianceMessageLog, getComplianceMessage, getComplianceMessageLog, getIsCompliant]

@@ -5,7 +5,7 @@ topic: questionsuggestionfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.867Z
+lastCollected: 2026-05-10T00:39:25.180Z
 estimatedTokens: 1709
 namespace: Search
 keywords: [QuestionSuggestionFilter, Search.QuestionSuggestionFilter, filters, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, FeedItem, addGroupId, groupId, addNetworkId, networkId, addUserId, userId, setGroupIds, groupIds, setNetworkIds, networkIds, setTopicId, topicId, setUserIds, userIds]

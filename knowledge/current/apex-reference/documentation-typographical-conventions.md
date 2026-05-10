@@ -5,7 +5,7 @@ topic: documentation-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:15.470Z
+lastCollected: 2026-05-10T00:39:49.040Z
 estimatedTokens: 449
 keywords: [Documentation, Typographical, Conventions, Apex, Visualforce, uses]
 ---

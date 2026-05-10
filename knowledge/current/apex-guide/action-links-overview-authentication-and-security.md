@@ -5,7 +5,7 @@ topic: action-links-overview-authentication-and-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:19.163Z
+lastCollected: 2026-05-10T00:39:55.030Z
 estimatedTokens: 3084
 keywords: [Workflow, Authentication, Security, Versioning, Errors, Action, Links, Apex, labels, Link, Templates, Context, Variables, Localized]
 ---

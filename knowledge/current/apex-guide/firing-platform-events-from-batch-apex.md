@@ -5,7 +5,7 @@ topic: firing-platform-events-from-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.000Z
+lastCollected: 2026-05-10T00:39:49.886Z
 estimatedTokens: 958
 keywords: [Firing, Platform, Events, Batch, Apex, classes, fire, encountering, error, exception, Clients, listening, event, obtain, actionable, how, often, failed, records, were, scope, time, failure, fired, Salesforce, internal, errors, uncatchable, exceptions, LimitExceptions, caused, reaching, governor, limits, Testing, BatchApexErrorEvent, Messages, Published, Jobs]
 ---

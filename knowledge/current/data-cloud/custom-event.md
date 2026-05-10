@@ -5,7 +5,7 @@ topic: custom-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:51.292Z
+lastCollected: 2026-05-10T00:39:10.583Z
 estimatedTokens: 71
 keywords: [Event, capture, user-defined, attributes, mobile, SDK, define, source, map, Schema, naming, conventions]
 ---

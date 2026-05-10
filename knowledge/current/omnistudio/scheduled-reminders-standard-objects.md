@@ -5,7 +5,7 @@ topic: scheduled-reminders-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.632Z
+lastCollected: 2026-05-10T00:40:32.913Z
 estimatedTokens: 299
 keywords: [Scheduled, Reminders, Standard, send]
 ---

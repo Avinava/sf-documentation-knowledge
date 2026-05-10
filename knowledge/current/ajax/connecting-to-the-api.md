@@ -5,12 +5,10 @@ topic: connecting-to-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.579Z
+lastCollected: 2026-05-10T00:40:43.746Z
 estimatedTokens: 952
-keywords: [Connecting, API, portion, any, JavaScript, code, uses, AJAX, Toolkit, different, depending, whether, embedding, Visualforce, button]
+keywords: [Connecting, API, portion, any, JavaScript, code, uses, AJAX, Toolkit, different, depending, whether, embedding, Visualforce, button, link]
 ---
-
-# Connecting to the API
 
 > The first portion of any JavaScript code that uses the AJAX Toolkit must make the
           toolkit available to the JavaScript code. The syntax for this is different depending on

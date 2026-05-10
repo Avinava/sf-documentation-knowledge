@@ -5,7 +5,7 @@ topic: accountsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.030Z
+lastCollected: 2026-05-10T00:39:59.738Z
 estimatedTokens: 1284
 keywords: [AccountSettings, org’s, account, settings, teams, owner, report, View, Hierarchy, link, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Manifest, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: omnisupervisorconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:28.118Z
+lastCollected: 2026-05-10T00:40:09.405Z
 estimatedTokens: 1954
 keywords: [OmniSupervisorConfig, OmniSpvsrConfigAIAgent, OmniSupervisorConfigAction, OmniSupervisorConfigGroup, OmniSupervisorConfigProfile, OmniSupervisorConfigQueue, OmniSupervisorConfigSkill, OmniSupervisorConfigTab, OmniSupervisorConfigUser, Omni-Channel, supervisor, configuration, assigned, group, supervisors, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: pricing-recipe-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.320Z
+lastCollected: 2026-05-10T00:39:05.879Z
 estimatedTokens: 115
 keywords: [Pricing, Recipe, Post, API]
 ---

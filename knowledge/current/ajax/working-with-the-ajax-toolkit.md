@@ -5,12 +5,10 @@ topic: working-with-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.672Z
+lastCollected: 2026-05-10T00:40:43.991Z
 estimatedTokens: 206
-keywords: [Working, AJAX, Toolkit, JavaScript, add, Visualforce, pages, buttons, links, three, sections, connecting, embedding, API, finally]
+keywords: [Working, AJAX, Toolkit, JavaScript, add, Visualforce, pages, buttons, links, three, sections, connecting, embedding, API, finally, processing, results, explains, steps]
 ---
-
-# Working with the AJAX Toolkit
 
 > Most JavaScript that you add to Visualforce pages, buttons, or links has three sections: first,
    connecting to the AJAX Toolkit, next, embedding the API methods in JavaScript, and finally,

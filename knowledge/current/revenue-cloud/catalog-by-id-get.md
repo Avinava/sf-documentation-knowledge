@@ -5,7 +5,7 @@ topic: catalog-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.110Z
+lastCollected: 2026-05-10T00:39:04.264Z
 estimatedTokens: 273
 keywords: [Catalog, Retrieve, records]
 ---

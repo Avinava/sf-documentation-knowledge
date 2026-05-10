@@ -5,7 +5,7 @@ topic: enforce-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.472Z
+lastCollected: 2026-05-10T00:39:53.886Z
 estimatedTokens: 923
 keywords: [Enforce, Sharing, Apex, generally, runs, system, context, current, user’s, permissions, field-level, security, aren’t, taken, account, code, execution, extend, specific, records, keyword, declaration, declare, enforced]
 ---

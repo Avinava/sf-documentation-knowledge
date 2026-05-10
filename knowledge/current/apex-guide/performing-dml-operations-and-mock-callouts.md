@@ -5,7 +5,7 @@ topic: performing-dml-operations-and-mock-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.183Z
+lastCollected: 2026-05-10T00:39:50.194Z
 estimatedTokens: 752
 keywords: [Performing, DML, Operations, Mock, Callouts, aren’t, allowed, transaction, because, result, pending, uncommitted, work, prevents, executing, Sometimes, want, insert, test, making, callout, enable, enclo, Asynchronous, Apex]
 ---

@@ -5,12 +5,10 @@ topic: describeapprovallayoutresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.980Z
+lastCollected: 2026-05-10T00:40:44.552Z
 estimatedTokens: 238
-keywords: [DescribeApprovalLayoutResult, describeApprovalLayout, call, containing, top-level, record, passed-in, sObjectType]
+keywords: [DescribeApprovalLayoutResult, DescribeApprovalLayout, call, containing, top-level, record, passed-in, sObjectType]
 ---
-
-# DescribeApprovalLayoutResult
 
 > The describeApprovalLayout() call returns a DescribeApprovalLayoutResult object
   containing top-level record type information about the passed-in sObjectType.

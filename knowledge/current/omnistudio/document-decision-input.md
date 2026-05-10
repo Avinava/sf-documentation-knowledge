@@ -5,7 +5,7 @@ topic: document-decision-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:36.848Z
+lastCollected: 2026-05-10T00:40:23.084Z
 estimatedTokens: 101
 keywords: [Document, Decision]
 ---

@@ -5,7 +5,7 @@ topic: httpresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:03.941Z
+lastCollected: 2026-05-10T00:39:30.711Z
 estimatedTokens: 2334
 namespace: System
 keywords: [HttpResponse, handle, HTTP, getBody, getBodyAsBlob, getBodyDocument, getHeader, key, getHeaderKeys, getStatus, getStatusCode, getXmlStreamReader, setBody, setBodyAsBlob, setHeader, setStatus, status, setStatusCode, statusCode, toString]

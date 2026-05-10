@@ -5,7 +5,7 @@ topic: einsteinaisettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.194Z
+lastCollected: 2026-05-10T00:40:04.792Z
 estimatedTokens: 800
 keywords: [EinsteinAISettings, Einstein, settings, including, feedback, integration, PII, masking, trust, features, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: onenclosingtabrefresh
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:50.600Z
+lastCollected: 2026-05-10T00:40:43.126Z
 estimatedTokens: 180
 keywords: [Arguments, onEnclosingTabRefresh, Registers, function, call, enclosing, tab, refreshes, API, 24.0, Sample, Code–Visualforce, Event, Handler]
 ---

@@ -5,7 +5,7 @@ topic: schemasettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.438Z
+lastCollected: 2026-05-10T00:40:11.557Z
 estimatedTokens: 770
 keywords: [SchemaSettings, org’s, schema, settings, manage, availability, metadata, extends, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

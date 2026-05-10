@@ -5,7 +5,7 @@ topic: apptbundleconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.174Z
+lastCollected: 2026-05-10T00:40:38.238Z
 estimatedTokens: 1135
 keywords: [ApptBundleConfig, general, define, behavior, bundle, API, 54.0]
 ---

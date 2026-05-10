@@ -5,7 +5,7 @@ topic: billing-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:14.889Z
+lastCollected: 2026-05-10T00:39:06.564Z
 estimatedTokens: 2002
 keywords: [Billing, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

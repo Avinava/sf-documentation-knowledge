@@ -5,7 +5,7 @@ topic: ipaddressrange
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.328Z
+lastCollected: 2026-05-10T00:40:17.887Z
 estimatedTokens: 663
 keywords: [IPAddressRange, range, addresses, include, exclude, feature, SOAP, API, REST]
 ---

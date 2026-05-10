@@ -5,12 +5,10 @@ topic: matchoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.407Z
+lastCollected: 2026-05-10T00:40:45.526Z
 estimatedTokens: 206
 keywords: [MatchOptions, match, operation, options, Standard, Matching, Rule, Leads, Accounts]
 ---
-
-# MatchOptions
 
 > Represents a type to be used with a match operation. It describes
          options to be used during the match operation. This type can be used only with the Standard

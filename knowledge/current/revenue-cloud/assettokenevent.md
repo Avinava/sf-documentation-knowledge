@@ -5,7 +5,7 @@ topic: assettokenevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.357Z
+lastCollected: 2026-05-10T00:39:08.480Z
 estimatedTokens: 65
 keywords: [AssetTokenEvent, documentation, moved, Platform, Events, Developer]
 ---

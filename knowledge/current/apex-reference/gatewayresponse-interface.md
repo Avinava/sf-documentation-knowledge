@@ -5,7 +5,7 @@ topic: gatewayresponse-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:13.338Z
+lastCollected: 2026-05-10T00:39:45.432Z
 estimatedTokens: 520
 namespace: CommercePayments
 keywords: [GatewayResponse, Generic, payment, gateway, extends, CaptureResponse, AbstractTransactionResponse, AbstractResponse, classes, inherits, their, unique, Implementation]

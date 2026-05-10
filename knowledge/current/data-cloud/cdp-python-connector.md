@@ -5,7 +5,7 @@ topic: cdp-python-connector
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:51.634Z
+lastCollected: 2026-05-10T00:39:11.053Z
 estimatedTokens: 1485
 keywords: [Prerequisites, CDP, Python, Connector, Unlock, extend, Cloud, uses, Query, API, extracts, fetch, Pandas, DataFrames, environment, visual, models, perform, powerful, analytical, operations, build, machine, learning, well]
 ---

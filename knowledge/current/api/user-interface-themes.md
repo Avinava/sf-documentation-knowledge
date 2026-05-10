@@ -5,12 +5,10 @@ topic: user-interface-themes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.834Z
+lastCollected: 2026-05-10T00:40:46.253Z
 estimatedTokens: 620
-keywords: [User, Themes, Back, Winter, ’06, release, Salesforce, started, supporting, multiple, allowing, different, icons, colors, apply]
+keywords: [User, Themes, Back, Winter, ’06, release, Salesforce, started, supporting, multiple, allowing, different, icons, colors, apply, org, Lightning, Experience]
 ---
-
-# User Interface Themes
 
 > Back in the Winter ’06 release, Salesforce started supporting multiple user
   interface themes, allowing you to use different sets of icons and colors for the user interface.

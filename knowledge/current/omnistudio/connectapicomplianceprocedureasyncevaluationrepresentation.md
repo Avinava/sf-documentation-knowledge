@@ -5,7 +5,7 @@ topic: connectapicomplianceprocedureasyncevaluationrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:35.839Z
+lastCollected: 2026-05-10T00:40:21.570Z
 estimatedTokens: 146
 keywords: [compliance, procedure, async, evaluation, responses]
 ---

@@ -5,7 +5,7 @@ topic: return-headers-for-embedded-service-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.668Z
+lastCollected: 2026-05-10T00:39:57.515Z
 estimatedTokens: 161
 keywords: [Embedded, Service, Configuration, Describe, resource, gives, chance, ahead, time, retrieving, content, logged, account, owns, EmbeddedServiceConfigDeveloperName, querying, REST, API, 45.0]
 ---

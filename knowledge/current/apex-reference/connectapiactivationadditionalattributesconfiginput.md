@@ -5,7 +5,7 @@ topic: connectapiactivationadditionalattributesconfiginput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:04.355Z
+lastCollected: 2026-05-10T00:39:31.384Z
 estimatedTokens: 338
 keywords: [additional, attributes, configuration, market, segment, activation]
 ---

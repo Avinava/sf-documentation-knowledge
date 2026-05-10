@@ -5,12 +5,10 @@ topic: data-types-in-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.583Z
+lastCollected: 2026-05-10T00:40:43.752Z
 estimatedTokens: 284
-keywords: [Data, AJAX, Toolkit, strings, needed, convert, appropriate, datatype, functions, supplied]
+keywords: [AJAX, Toolkit, strings, needed, convert, appropriate, datatype, functions, supplied]
 ---
-
-# Data Types in AJAX Toolkit
 
 > The AJAX Toolkit returns all data as strings. If needed, you can convert the data into an
   appropriate datatype by using one of the functions supplied with the returned object.

@@ -5,7 +5,7 @@ topic: stagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.865Z
+lastCollected: 2026-05-10T00:40:12.231Z
 estimatedTokens: 2169
 keywords: [StageDefinition, StageTransition, StageCriteria, StageCondition, StgFulfillmentStepDefGrp, StgFulfillmentStepDef, StgFulfillmentStepDpndDef, StageValue, collection, states, transitions, Stage, Management, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: named-query-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.891Z
+lastCollected: 2026-05-10T00:39:57.864Z
 estimatedTokens: 356
 keywords: [Named, Query, API, it’s, REST, call, endpoint, appear, URI]
 ---

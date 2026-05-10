@@ -5,7 +5,7 @@ topic: testing-and-code-coverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.755Z
+lastCollected: 2026-05-10T00:39:51.113Z
 estimatedTokens: 1788
 keywords: [Testing, Code, Coverage, Apex, framework, generates, numbers, classes, triggers, every, time, run, tests, how, executable, lines, exercised, test, Write, generate, Calculated, Inspecting]
 ---

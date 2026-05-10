@@ -5,12 +5,10 @@ topic: step-1-sign-up-for-salesforce-developer-edition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.859Z
+lastCollected: 2026-05-10T00:40:46.319Z
 estimatedTokens: 224
-keywords: [Step, Sign, Salesforce, Developer, Edition, develop, stage, test, API, code, against, sample, data]
+keywords: [Step, Sign, Salesforce, Developer, Edition, develop, stage, test, API, code, against, sample]
 ---
-
-# Step 1: Sign up for Salesforce Developer Edition
 
 > Use Salesforce Developer Edition to develop, stage, and test your API code against
     sample data.

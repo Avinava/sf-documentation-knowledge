@@ -5,7 +5,7 @@ topic: connect-to-the-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.889Z
+lastCollected: 2026-05-10T00:40:40.709Z
 estimatedTokens: 335
 keywords: [Connect, Toolkit, portion, any, JavaScript, code, uses, Salesforce, Console, Integration, different, depending, whether, embedding, Visualforce, third-party, domain]
 ---

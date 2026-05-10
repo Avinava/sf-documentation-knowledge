@@ -5,7 +5,7 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.881Z
+lastCollected: 2026-05-10T00:39:14.572Z
 estimatedTokens: 298
 keywords: [Settings, organization, feature, password, policies, session, network, SecuritySettings]
 ---

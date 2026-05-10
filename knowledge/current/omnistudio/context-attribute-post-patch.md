@@ -5,7 +5,7 @@ topic: context-attribute-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:37.802Z
+lastCollected: 2026-05-10T00:40:24.389Z
 estimatedTokens: 384
 keywords: [Context, Attribute, POST, PATCH, attributes]
 ---

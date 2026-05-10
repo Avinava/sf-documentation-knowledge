@@ -5,7 +5,7 @@ topic: postauthapipaymentmethodrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.029Z
+lastCollected: 2026-05-10T00:39:27.089Z
 estimatedTokens: 381
 namespace: CommercePayments
 keywords: [PostAuthApiPaymentMethodRequest, payment, gateway, adapter, postauthorization, service, call]

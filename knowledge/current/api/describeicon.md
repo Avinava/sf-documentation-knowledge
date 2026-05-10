@@ -5,12 +5,10 @@ topic: describeicon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.047Z
+lastCollected: 2026-05-10T00:40:44.705Z
 estimatedTokens: 555
 keywords: [DescribeIcon, icon, metadata, tab]
 ---
-
-# DescribeIcon
 
 > DescribeIcon contains icon metadata information for a tab.
 

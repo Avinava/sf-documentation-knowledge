@@ -5,7 +5,7 @@ topic: mldatadefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:27.655Z
+lastCollected: 2026-05-10T00:40:08.723Z
 estimatedTokens: 1319
 keywords: [MLDataDefinition, MLField, MLFilter, modeling, definition, model, include, filters, exclude, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---

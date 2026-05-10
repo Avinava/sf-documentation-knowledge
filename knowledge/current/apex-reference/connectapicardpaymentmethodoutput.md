@@ -5,7 +5,7 @@ topic: connectapicardpaymentmethodoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:07.563Z
+lastCollected: 2026-05-10T00:39:36.446Z
 estimatedTokens: 392
 keywords: [ConnectApi.CardPaymentMethodOutput, Card, payment]
 ---

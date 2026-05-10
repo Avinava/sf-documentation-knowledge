@@ -5,7 +5,7 @@ topic: product-catalog-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.467Z
+lastCollected: 2026-05-10T00:39:13.945Z
 estimatedTokens: 510
 keywords: [Category, Relationships, Product, Catalog, DMO, Cloud, model, company’s, inventory, merchandising, API, Primary, Subject, Area, Key]
 ---

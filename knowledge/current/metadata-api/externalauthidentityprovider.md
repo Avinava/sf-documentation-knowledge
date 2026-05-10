@@ -5,7 +5,7 @@ topic: externalauthidentityprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:25.745Z
+lastCollected: 2026-05-10T00:40:05.673Z
 estimatedTokens: 1020
 namespace: CreatedByNamespace
 keywords: [ExternalAuthIdentityProvider, ExternalAuthIdentityProviderParameter, external, authentication, auth, identity, provider, links, credential, obtains, OAuth, tokens, outbound, callouts, systems, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]

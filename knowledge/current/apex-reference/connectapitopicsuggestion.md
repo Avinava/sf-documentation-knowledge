@@ -5,7 +5,7 @@ topic: connectapitopicsuggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:12.039Z
+lastCollected: 2026-05-10T00:39:43.418Z
 estimatedTokens: 106
 keywords: [ConnectApi.TopicSuggestion, Topic, suggestion]
 ---

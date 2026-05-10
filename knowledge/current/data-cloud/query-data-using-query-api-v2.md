@@ -5,7 +5,7 @@ topic: query-data-using-query-api-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:35:51.659Z
+lastCollected: 2026-05-10T00:39:11.089Z
 estimatedTokens: 1282
 keywords: [Query, API, supports, SQL, ANSI, standard, results, array, records, expected, calling, free, form, include, stream, profile, engagement, model, unified, support, variety, cases, includes, large, volume, reads, external, application, integration, interactive, demand, querying, lake, Key, Connected, App, Setup, Acquire, Exchange, Token, Cloud, Qualifiers, Call]
 ---

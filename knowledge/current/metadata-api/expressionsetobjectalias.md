@@ -5,7 +5,7 @@ topic: expressionsetobjectalias
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.726Z
+lastCollected: 2026-05-10T00:40:05.639Z
 estimatedTokens: 726
 keywords: [ExpressionSetObjectAlias, ExpressionSetObjectAliasField, alias, source, that’s, expression, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

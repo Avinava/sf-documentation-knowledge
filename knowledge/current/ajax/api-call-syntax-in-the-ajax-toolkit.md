@@ -5,12 +5,10 @@ topic: api-call-syntax-in-the-ajax-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.570Z
+lastCollected: 2026-05-10T00:40:43.719Z
 estimatedTokens: 213
-keywords: [API, Call, AJAX, Toolkit, SOAP, calls, slightly, different, depending, whether, synchronous, asynchronous]
+keywords: [API, Call, AJAX, Toolkit, SOAP, slightly, different, depending, whether, synchronous, asynchronous]
 ---
-
-# API Call Syntax in the AJAX Toolkit
 
 > SOAP API calls use slightly different syntax in AJAX Toolkit, depending on whether the
     call is synchronous or asynchronous.

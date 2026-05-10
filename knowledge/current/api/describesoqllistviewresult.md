@@ -5,12 +5,10 @@ topic: describesoqllistviewresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.223Z
+lastCollected: 2026-05-10T00:40:45.080Z
 estimatedTokens: 123
-keywords: [DescribeSoqlListViewResult, DescribeSoqlListView, objects, views, including, sObject, columns, SOQL, query]
+keywords: [DescribeSoqlListViewResult, DescribeSoqlListView, views, including, sObject, columns, SOQL, query]
 ---
-
-# DescribeSoqlListViewResult
 
 > Contains one or more DescribeSoqlListView objects,
     each of which contains information about one or more list views, including the ID, sObject type,

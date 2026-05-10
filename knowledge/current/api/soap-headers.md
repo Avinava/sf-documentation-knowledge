@@ -5,12 +5,10 @@ topic: soap-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.895Z
+lastCollected: 2026-05-10T00:40:46.382Z
 estimatedTokens: 589
 keywords: [SOAP, API, client, applications]
 ---
-
-# SOAP Headers
 
 > The API provides SOAP headers to client applications.
 

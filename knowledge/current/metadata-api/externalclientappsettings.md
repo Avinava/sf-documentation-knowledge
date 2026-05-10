@@ -5,17 +5,17 @@ topic: externalclientappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.767Z
-estimatedTokens: 759
-keywords: [ExternalClientAppSettings, settings, enable, External, Client, App, feature, provide, OAuth, consumer, secret, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-05-10T00:40:05.702Z
+estimatedTokens: 766
+keywords: [ExternalClientAppSettings, settings, enable, external, client, app, features, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
-> Represents settings to enable the External Client App
-      feature and provide access to the OAuth consumer secret.
+> Represents settings to enable external client app
+      features.
 
 # ExternalClientAppSettings
 
-Represents settings to enable the External Client App feature and provide access to the OAuth consumer secret.
+Represents settings to enable external client app features.
 
 ## Parent Type and Manifest Access
 
@@ -36,7 +36,7 @@ ExternalClientAppSettings components are available in API version 58.0 and later
 | Field Name | Field Type | Description |
 | --- | --- | --- |
 | enableClientSecretInRestApiAccess | boolean | Indicates whether OAuth consumer secrets can be accessed through the credentials REST API (true) or not (false). This field is available in API version 62.0 and later. |
-| enableConsumerSecretApiAccess | boolean | Indicates whether OAuth consumer secrets can be accessed through Metadata API (true) or not (false). |
+| enableConsumerSecretApiAccess | boolean | DEPRECATED. Indicates whether OAuth consumer secrets can be accessed through Metadata API (true) or not (false).Use the external client app OAuth UI to access consumer secrets. |
 | enablePackageEcaOauthFromDevOrg | boolean | Indicates whether you can package an external client app that is owned by an org, that isn't a Dev Hub org, (true) or not (false). It’s recommended that you only package OAuth-enabled external client apps that are owned by a Dev Hub org. This practice maintains the integrity of the OAuth client credentials by storing them on an org that won't be deleted. If you have other ways to maintain the OAuth client credentials, you can enable this field and package an external client app form a different type of org. External client apps built on ephemeral orgs, like Scratch orgs or sandboxes, can't be packaged even with this field set to true. This field is available in API version 62.0 and later. |
 
 ## Declarative Metadata Sample Definition

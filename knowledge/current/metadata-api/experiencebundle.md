@@ -5,7 +5,7 @@ topic: experiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:25.621Z
+lastCollected: 2026-05-10T00:40:05.479Z
 estimatedTokens: 8326
 keywords: [ExperienceBundle, ExperienceResources, ExperienceResource, text-based, code, structure, settings, site, pages, branding, themes, Experience, Builder, Developers, quickly, deploy, sites, programmatically, their, preferred, development, tools, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Folders, Bundled, Definitions, brandingSets, Folder, config, routes, variations, views, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

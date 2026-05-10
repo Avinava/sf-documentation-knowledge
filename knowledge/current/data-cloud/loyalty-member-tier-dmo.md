@@ -5,7 +5,7 @@ topic: loyalty-member-tier-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.959Z
+lastCollected: 2026-05-10T00:39:13.373Z
 estimatedTokens: 700
 keywords: [Category, Relationships, Loyalty, Member, Tier, DMO, Cloud, model, benefit, program, assigned, API, Primary, Subject, Area, Key]
 ---

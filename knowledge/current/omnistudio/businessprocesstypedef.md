@@ -5,7 +5,7 @@ topic: businessprocesstypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:45.577Z
+lastCollected: 2026-05-10T00:40:35.894Z
 estimatedTokens: 609
 keywords: [BusinessProcessTypeDef, business, process, application, domain, API, 54.0, SOAP, REST]
 ---

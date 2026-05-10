@@ -5,12 +5,10 @@ topic: soqlwherecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.218Z
+lastCollected: 2026-05-10T00:40:45.068Z
 estimatedTokens: 1010
 keywords: [SoqlWhereCondition, SOQL, filter, conditions, view, Evaluating, SoqlWhereConditions]
 ---
-
-# SoqlWhereCondition
 
 > Contains information about SOQL filter conditions for a list view.
 

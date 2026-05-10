@@ -5,7 +5,7 @@ topic: external-change-data-capture-packaging-and-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.117Z
+lastCollected: 2026-05-10T00:39:51.670Z
 estimatedTokens: 235
 keywords: [External, Change, Capture, Packaging, Testing, distribute, managed, packages, including, framework, Apex, triggers, behaviors, limitations, apply, package, installation]
 ---

@@ -5,12 +5,10 @@ topic: describetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.248Z
+lastCollected: 2026-05-10T00:40:45.162Z
 estimatedTokens: 525
-keywords: [describeTheme, themes, current, logged-in, user, Usage, Sample, Faults]
+keywords: [Sample, Faults, describeTheme, themes, current, logged-in, user]
 ---
-
-# describeTheme()
 
 > Returns information about themes available to the current logged-in user.
 

@@ -5,7 +5,7 @@ topic: addresssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.206Z
+lastCollected: 2026-05-10T00:40:00.000Z
 estimatedTokens: 1813
 keywords: [AddressSettings, CountriesAndStates, Country, State, configuration, territory, picklists, configure, organization, convert, text-based, standard, picklist, Setup, enter, Quick, box, select, Declarative, Metadata, File, Suffix, Directory, Location, Salesforce, CLI, Sample, Definition, Wildcard, Support, Manifest]
 ---

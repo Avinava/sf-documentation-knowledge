@@ -5,7 +5,7 @@ topic: type-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:12.085Z
+lastCollected: 2026-05-10T00:39:02.759Z
 estimatedTokens: 914
 keywords: [Annotations, annotate, add, metadata, applied, declaration, provide, instructions, constraint, engine, regarding, how, instances, handled, instantiated, configuration, structure, Creating, Virtual, Container, @virtual]
 ---

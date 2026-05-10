@@ -5,8 +5,8 @@ topic: connectapicdpquerymetadataentitiesoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:07.937Z
-estimatedTokens: 348
+lastCollected: 2026-05-10T00:39:37.056Z
+estimatedTokens: 372
 keywords: [metadata, entities]
 ---
 
@@ -20,7 +20,7 @@ Represents a list of metadata entities.
 | --- | --- | --- | --- |
 | done | Boolean | Indicates whether all metadata entities have been retrieved (true) or not (false). | 66.0 |
 | metadata | List<ConnectApi.​QueryMetadataEntityOutput> | List of metadata entities. | 66.0 |
-| nextBatchId | String | ID for the next batch of metadata entities. | 66.0 |
+| nextBatchId | String | ID for the next batch of metadata entities. Present only when done is false. When done is true, this field is omitted from the response. | 66.0 |
 
 #### See Also
 

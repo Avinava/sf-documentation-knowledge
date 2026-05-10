@@ -5,7 +5,7 @@ topic: routing-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.783Z
+lastCollected: 2026-05-10T00:39:21.177Z
 estimatedTokens: 3234
 namespace: ConnectApi
 keywords: [Routing, Confirm, held, fulfillment, order, capacity, locations, call, decreases, location’s, increases, assigned, count, assign, location, confirmHeldFOCapacity, confirmHeldFOCapacityInput, API, Requires, Chatter, findRoutesWithFewestSplits, findRoutesWithFewestSplitsUsingOCI, findRoutesWithFewestSplitsUsingOCIInput, getFOCapacityValues, getFOCapacityValuesInput, holdFOCapacity, holdFOCapacityInput, rankAverageDistance, rankAverageDistanceInputRepresentation, releaseHeldFOCapacity, releaseHeldFOCapacityInput]

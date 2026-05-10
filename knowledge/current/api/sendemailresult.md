@@ -5,12 +5,10 @@ topic: sendemailresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.585Z
+lastCollected: 2026-05-10T00:40:45.905Z
 estimatedTokens: 644
-keywords: [SendEmailResult, sendEmail, call, objects, SendEmailError]
+keywords: [SendEmailResult, SendEmailError, sendEmail, call]
 ---
-
-# SendEmailResult
 
 > The sendEmail() call returns a list of
             SendEmailResult objects. Each SendEmailResult object has the following properties:

@@ -5,12 +5,10 @@ topic: matchrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.774Z
+lastCollected: 2026-05-10T00:40:46.186Z
 estimatedTokens: 365
-keywords: [MatchRecord, duplicate, record, detected, matching, rule, Usage, Java, Sample]
+keywords: [MatchRecord, duplicate, record, detected, matching, rule, Java, Sample]
 ---
-
-# MatchRecord
 
 > Represents a duplicate record detected by a matching rule.
 

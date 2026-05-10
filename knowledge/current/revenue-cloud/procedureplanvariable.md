@@ -5,7 +5,7 @@ topic: procedureplanvariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:17.677Z
+lastCollected: 2026-05-10T00:39:10.222Z
 estimatedTokens: 455
 keywords: [ProcedurePlanVariable, setup, any, adhoc, user-defined, variable, linked, procedure, plan, definition, record, API, 62.0, SOAP, REST]
 ---

@@ -5,7 +5,7 @@ topic: sobject-rows
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.437Z
+lastCollected: 2026-05-10T00:39:58.738Z
 estimatedTokens: 495
 keywords: [sObject, Rows, Accesses, records, record, Retrieves, updates, deletes, HTTP, retrieve, specific, PATCH]
 ---

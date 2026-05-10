@@ -5,7 +5,7 @@ topic: get-a-list-of-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.826Z
+lastCollected: 2026-05-10T00:39:56.150Z
 estimatedTokens: 82
 keywords: [Describe, resource, org, logged-in, user, encoding, well, maximum, batch, size, permitted, queries]
 ---

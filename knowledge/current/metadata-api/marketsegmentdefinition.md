@@ -5,7 +5,7 @@ topic: marketsegmentdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.490Z
+lastCollected: 2026-05-10T00:40:08.419Z
 estimatedTokens: 764
 keywords: [MarketSegmentDefinition, store, exportable, metadata, segment, criteria, attributes, Developers, definition, packages, pass, form, build, tool, DBT, publish, AppExchange, subscriber, organizations, install, instantiate, segments, Parent, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: organization-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.527Z
+lastCollected: 2026-05-10T00:39:20.709Z
 estimatedTokens: 265
 namespace: ConnectApi
 keywords: [Organization, org, getSettings, API, Requires, Chatter]

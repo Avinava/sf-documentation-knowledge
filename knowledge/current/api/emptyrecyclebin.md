@@ -5,12 +5,10 @@ topic: emptyrecyclebin
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:57.259Z
+lastCollected: 2026-05-10T00:40:45.191Z
 estimatedTokens: 1014
-keywords: [emptyRecycleBin, records, recycle, bin, immediately, Usage, Rules, Guidelines, Sample, Code—Java, Code—C#, Arguments, Faults]
+keywords: [Arguments, Faults, emptyRecycleBin, records, recycle, bin, immediately, Guidelines, Sample, Code—Java, Code—C#]
 ---
-
-# emptyRecycleBin()
 
 > Delete records from the recycle bin 
       immediately.

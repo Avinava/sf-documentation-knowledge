@@ -5,7 +5,7 @@ topic: serviceitsmintelligenceuddsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:54.990Z
+lastCollected: 2026-05-10T00:39:14.741Z
 estimatedTokens: 1038
 keywords: [ServiceItsmIntelligenceUddSettings, settings, enabling, Service, Management, ITSM, Intelligence, features, including, Proactive, Assistance, Einstein, Incident, Agent, capabilities, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

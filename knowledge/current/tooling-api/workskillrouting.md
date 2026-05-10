@@ -5,7 +5,7 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.948Z
+lastCollected: 2026-05-10T00:40:20.313Z
 estimatedTokens: 548
 keywords: [WorkSkillRouting, Limitations, setup, stores, WorkSkillRoutingAttribute, route, work, item, agent, skills, necessary, take, API, 46.0, SOAP, REST, HTTP]
 ---

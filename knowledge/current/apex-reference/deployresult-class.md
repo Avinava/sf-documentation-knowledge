@@ -5,7 +5,7 @@ topic: deployresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.338Z
+lastCollected: 2026-05-10T00:39:24.299Z
 estimatedTokens: 3710
 namespace: Metadata
 keywords: [DeployResult, results, metadata, deployment, canceledBy, canceledByName, checkOnly, completedDate, createdBy, createdByName, createdDate, errorMessage, errorStatusCode, ignoreWarnings, lastModifiedDate, messages, numberComponentErrors, numberComponentsDeployed, numberComponentsTotal, rollbackOnError, startDate, stateDetail, status, success, clone]

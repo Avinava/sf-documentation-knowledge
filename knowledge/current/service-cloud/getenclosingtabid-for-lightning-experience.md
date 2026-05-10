@@ -6,7 +6,7 @@ topic: getenclosingtabid-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.803Z
+lastCollected: 2026-05-10T00:40:41.968Z
 estimatedTokens: 507
 keywords: [Arguments, getEnclosingTabId, Lightning, Experience, enclosing, tab, isn’t, Web, LWC, Aura, Sample, Code]
 ---

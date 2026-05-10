@@ -5,7 +5,7 @@ topic: rate-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.064Z
+lastCollected: 2026-05-10T00:39:08.065Z
 estimatedTokens: 270
 keywords: [Rate, Management, Standard, Invocable, Actions]
 ---

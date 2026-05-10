@@ -5,7 +5,7 @@ topic: getconversationlog-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.796Z
+lastCollected: 2026-05-10T00:40:41.951Z
 estimatedTokens: 327
 keywords: [Arguments, getConversationLog, LWC, Lightning, Experience, Retrieves, conversation, log, works, console, apps, message]
 ---

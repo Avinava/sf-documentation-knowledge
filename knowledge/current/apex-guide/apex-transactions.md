@@ -5,7 +5,7 @@ topic: apex-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.664Z
+lastCollected: 2026-05-10T00:39:54.215Z
 estimatedTokens: 870
 keywords: [Apex, Transactions, transaction, operations, executed, unit, DML, successfully, error, occurs, operation, entire, rolled, back, committed, database, boundary, trigger, anonymous, block, code, Visualforce, Web, service, How, Useful]
 ---

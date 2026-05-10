@@ -5,7 +5,7 @@ topic: certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.019Z
+lastCollected: 2026-05-10T00:40:15.791Z
 estimatedTokens: 963
 keywords: [Certificate, digital, signatures, verify, requests, coming, org, Certificates, either, authenticated, sign-on, external, website, identity, provider, Tooling, API, 37.0, SOAP, REST, HTTP]
 ---

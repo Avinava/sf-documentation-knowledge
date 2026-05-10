@@ -5,7 +5,7 @@ topic: paymentmethodtokenizationresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.019Z
+lastCollected: 2026-05-10T00:39:27.073Z
 estimatedTokens: 4105
 namespace: CommercePayments
 keywords: [PaymentMethodTokenizationResponse, Gateway, sent, payment, adapters, tokenization, includes, method’s, token, setAmount, amount, setAsync, async, setBankName, bankName, setChecksum, checksum, setCustomerReference, customerReference, setGatewayAvsCode, gatewayAvsCode, setGatewayDate, gatewayDate, setGatewayMessage, gatewayMessage, setGatewayReferenceDetails, gatewayReferenceDetails, setGatewayReferenceNumber, gatewayReferenceNumber, setGatewayResultCode, gatewayResultCode, setGatewayResultCodeDescription, gatewayResultCodeDescription, setGatewayToken, gatewayToken, setGatewayTokenDetails, gatewayTokenDetails, setGatewayTokenEncrypted, gatewayTokenEncrypted, setSalesforceResultCodeInfo, salesforceResultCodeInfo]

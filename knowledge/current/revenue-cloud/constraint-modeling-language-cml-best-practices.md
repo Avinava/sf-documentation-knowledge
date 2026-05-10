@@ -5,7 +5,7 @@ topic: constraint-modeling-language-cml-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-03T00:28:11.848Z
+lastCollected: 2026-05-10T00:39:02.457Z
 estimatedTokens: 2938
 keywords: [Constraint, Modeling, Language, CML, Best, Practices, prevent, performance, degradation, unexpected, behaviors, engine, executes, code, follow, writing, Relationship, Cardinality, Specify, Smallest, Range, Decimals, Doubles, Consider, Impact, Scale, Variable, Domains, Keep, Small, Possible, Calculating, Put, Calculations, Inside, Constraints, Relationships, Combine, Reduce, Sequence, Annotation, Order, Execution, Configurable, Automatically, Add, Product, Define, Separate, Quantity, Attribute, Pricing, Configure, Child, Grandchild, Products, Parent, PCG, Group, Relations, Relation, Aggregates, Stabilize, Preferences, Staged, Variables, Dependent, Logic, Premature, Assignment]
 ---

@@ -5,7 +5,7 @@ topic: field-service-core-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:46.902Z
+lastCollected: 2026-05-10T00:40:37.813Z
 estimatedTokens: 1438
 keywords: [Service, Core, Model, Service’s, essential, tasks, managing, work, orders, defining, territories, workforce, Performs, Occurs]
 ---

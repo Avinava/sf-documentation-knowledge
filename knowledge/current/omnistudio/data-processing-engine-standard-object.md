@@ -5,7 +5,7 @@ topic: data-processing-engine-standard-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.834Z
+lastCollected: 2026-05-10T00:40:28.649Z
 estimatedTokens: 233
 keywords: [Processing, Engine, Standard, BatchCalcJobDefinitionView, view, definitions, Salesforce, org, including, file-based]
 ---

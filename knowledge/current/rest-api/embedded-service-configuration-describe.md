@@ -5,7 +5,7 @@ topic: embedded-service-configuration-describe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:20.659Z
+lastCollected: 2026-05-10T00:39:57.499Z
 estimatedTokens: 301
 keywords: [Embedded, Service, Configuration, Describe, Retrieves, deployment]
 ---

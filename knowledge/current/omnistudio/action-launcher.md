@@ -5,7 +5,7 @@ topic: action-launcher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:35.032Z
+lastCollected: 2026-05-10T00:40:20.414Z
 estimatedTokens: 271
 keywords: [Action, Launcher, Add, actions, Lightning, web, users, search, launch, easily, now, resolve, customer, requests, issues, quickly, deliver, better, service, initiate, fee-reversal, flow, service-order]
 ---

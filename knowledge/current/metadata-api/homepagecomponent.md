@@ -5,7 +5,7 @@ topic: homepagecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:26.624Z
+lastCollected: 2026-05-10T00:40:07.145Z
 estimatedTokens: 1132
 keywords: [HomePageComponent, metadata, home, customize, tab, Salesforce, Classic, include, sidebar, links, company, logo, dashboard, snapshot, definitions, Declarative, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

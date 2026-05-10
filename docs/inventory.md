@@ -1,28 +1,28 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-05-03T00:28:19.189Z*
+*Last Updated: 2026-05-10T00:40:53.665Z*
 
-**129 Domains** | **35,354 Knowledge Files**
+**129 Domains** | **35,391 Knowledge Files**
 
 ## Available Domains
 
 | Domain | Name | Files | Description |
 |---|---|---|---|
 | [sfFieldRef](../../knowledge/current/sfFieldRef/_index.md) | **Salesforce Field Reference Guide** | 4817 | Use this concise reference to quickly look up details of the standard fields for |
-| [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4620 | Apex class library reference — all system classes and methods |
+| [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4623 | Apex class library reference — all system classes and methods |
 | [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2465 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
 | [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1777 | Get details on standard objects so that you can interface with your Salesforce d |
-| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1323 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
-| [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1296 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
+| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1324 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
+| [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1297 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
 | [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
 | [mc-apis](../../knowledge/current/mc-apis/_index.md) | **Marketing Cloud API** | 809 | Developer documentation for Marketing Cloud APIs |
 | [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Life Sciences Cloud Developer Guide** | 714 | Use the developer resources of Life Sciences Cloud to automate the operations av |
-| [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 688 | Metadata API — deployment, retrieval, metadata types |
+| [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 693 | Metadata API — deployment, retrieval, metadata types |
 | [insurance-developer-guide](../../knowledge/current/insurance-developer-guide/_index.md) | **Insurance Developer Guide** | 616 | Learn more about the developer sources of Insurance to automate the backend work |
 | [pages](../../knowledge/current/pages/_index.md) | **Visualforce Developer Guide** | 609 | Learn how to develop custom user interfaces and apps with Visualforce, a framewo |
-| [apex-guide](../../knowledge/current/apex-guide/_index.md) | **Apex Developer Guide** | 542 | Apex language guide — syntax, triggers, testing, best practices |
+| [apex-guide](../../knowledge/current/apex-guide/_index.md) | **Apex Developer Guide** | 566 | Apex language guide — syntax, triggers, testing, best practices |
 | [financial-services-cloud-object-reference](../../knowledge/current/financial-services-cloud-object-reference/_index.md) | **Financial Services Cloud Developer Guide** | 527 | Extend Financial Services Cloud with other Salesforce products using the API and |
 | [loyalty](../../knowledge/current/loyalty/_index.md) | **Loyalty Management Developer Guide** | 526 | Use Loyalty Management API and developer resources to create personalized loyalt |
 | [retail-api](../../knowledge/current/retail-api/_index.md) | **Consumer Goods Cloud Developer Guide** | 524 | Use APIs and developer resources to configure, customize, and extend the capabil |
@@ -33,7 +33,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [mc-programmatic-content](../../knowledge/current/mc-programmatic-content/_index.md) | **Programmatic Marketing Content** | 381 | Developer documentation for Marketing Cloud Programmatic Content |
 | [packagingGuide](../../knowledge/current/packagingGuide/_index.md) | **ISVforce Guide** | 356 | Plan, build, and sell AppExchange solutions and consulting services. |
 | [service-cloud](../../knowledge/current/service-cloud/_index.md) | **Service Cloud** | 344 | Service Cloud — cases, knowledge, omni-channel, entitlements |
-| [tooling-api](../../knowledge/current/tooling-api/_index.md) | **Tooling API** | 338 | Tooling API — code coverage, debug logs, custom fields |
+| [tooling-api](../../knowledge/current/tooling-api/_index.md) | **Tooling API** | 339 | Tooling API — code coverage, debug logs, custom fields |
 | [bi-dev-guide-rest-sdd](../../knowledge/current/bi-dev-guide-rest-sdd/_index.md) | **Einstein Discovery REST API Developer Guide** | 312 | Describes how to create and access Einstein Discovery predictions, discovery mod |
 | [edu-cloud-dev-guide](../../knowledge/current/edu-cloud-dev-guide/_index.md) | **Education Cloud Developer Guide** | 308 | Education Cloud gives you the tools and developer resources you need to support  |
 | [rest-api](../../knowledge/current/rest-api/_index.md) | **REST API** | 308 | Salesforce REST API — resources, methods, composite, batch |
@@ -45,7 +45,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [cli-commands](../../knowledge/current/cli-commands/_index.md) | **SF CLI Commands** | 221 | Salesforce CLI (sf) command reference — all commands across plugins |
 | [platform-events](../../knowledge/current/platform-events/_index.md) | **Platform Events Developer Guide** | 219 | Use platform events to connect business processes in Salesforce and external app |
 | [salesforce-scheduler-developer-guide](../../knowledge/current/salesforce-scheduler-developer-guide/_index.md) | **Salesforce Scheduler Developer Guide** | 205 | Create seamless appointment scheduling web applications using the Salesforce Sch |
-| [api](../../knowledge/current/api/_index.md) | **SOAP API Developer Guide** | 199 | Build robust, server-side solutions that integrate your Salesforce data using SO |
+| [api](../../knowledge/current/api/_index.md) | **SOAP API Developer Guide** | 201 | Build robust, server-side solutions that integrate your Salesforce data using SO |
 | [pkg2-dev](../../knowledge/current/pkg2-dev/_index.md) | **Second-Generation Managed Packaging Developer Guide** | 190 | Second-generation managed packaging (2GP) is the preferred way for Salesforce pa |
 | [mfg-api-devguide](../../knowledge/current/mfg-api-devguide/_index.md) | **Manufacturing Cloud Developer Guide** | 187 | Configure a console for business negotiations and planning using the Manufacturi |
 | [sfdx-dev](../../knowledge/current/sfdx-dev/_index.md) | **Salesforce DX Developer Guide** | 180 | Learn how to use Salesforce DX to develop and manage apps on the Lightning Platf |

@@ -5,7 +5,7 @@ topic: territory2settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:30.069Z
+lastCollected: 2026-05-10T00:40:12.606Z
 estimatedTokens: 1739
 keywords: [Territory2Settings, Territory2SettingsOpportunityFilter, Territory2SupportedObject, org’s, Territory2, settings, level, Sales, Territories, users, records, enable, features, standard, record, apply, accounts, opportunities, internal, contacts, cases, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

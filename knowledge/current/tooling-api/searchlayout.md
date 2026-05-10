@@ -5,7 +5,7 @@ topic: searchlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.425Z
+lastCollected: 2026-05-10T00:40:19.547Z
 estimatedTokens: 1087
 keywords: [SearchLayout, Limitations, SearchLayoutButtonsDisplayed, SearchLayoutButton, SearchLayoutFieldsDisplayed, SearchLayoutField, search, layout, defined, SOAP, REST, HTTP]
 ---

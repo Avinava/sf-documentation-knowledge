@@ -5,7 +5,7 @@ topic: loyalty-member-currency-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:53.945Z
+lastCollected: 2026-05-10T00:39:13.360Z
 estimatedTokens: 956
 keywords: [Category, Relationships, Loyalty, Member, Currency, DMO, Cloud, model, representing, selects, receive, airline, miles, points, API, Primary, Subject, Area, Key]
 ---

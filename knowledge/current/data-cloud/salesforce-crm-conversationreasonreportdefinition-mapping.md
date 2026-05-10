@@ -5,7 +5,7 @@ topic: salesforce-crm-conversationreasonreportdefinition-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.030Z
+lastCollected: 2026-05-10T00:39:11.508Z
 estimatedTokens: 363
 keywords: [Salesforce, CRM, ConversationReasonReportDefinition, Mapping, mappings, ConvReasonReportDefinition, DLO, Connector, found, Services, bundle, Cloud, DMO]
 ---

@@ -6,7 +6,7 @@ topic: passing-data-to-a-flow-using-the-processplugin-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.264Z
+lastCollected: 2026-05-10T00:39:53.537Z
 estimatedTokens: 1062
 keywords: [Passing, Flow, Process.Plugin, built-in, lets, process, org, pass, Apex, service, accepts, back]
 ---

@@ -5,7 +5,7 @@ topic: connectapitextclassificationsbulkresultsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:11.999Z
+lastCollected: 2026-05-10T00:39:43.358Z
 estimatedTokens: 92
 keywords: [Text, classification, results, multiple, IDs]
 ---

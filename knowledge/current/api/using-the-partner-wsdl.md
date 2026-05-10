@@ -5,12 +5,10 @@ topic: using-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.817Z
+lastCollected: 2026-05-10T00:40:46.205Z
 estimatedTokens: 758
 keywords: [Partner, WSDL, API, two, WSDLs, choose, High, Precision, Versions]
 ---
-
-# Using the Partner WSDL
 
 > The API provides two WSDLs to choose from:
 

@@ -5,12 +5,10 @@ topic: describeappmenuresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.972Z
+lastCollected: 2026-05-10T00:40:44.536Z
 estimatedTokens: 415
-keywords: [DescribeAppMenuResult, describeAppMenu, call, menu, items, contained, DescribeAppMenuItem]
+keywords: [DescribeAppMenuResult, DescribeAppMenuItem, describeAppMenu, call, menu, items, contained]
 ---
-
-# DescribeAppMenuResult
 
 > The describeAppMenu() call returns a list of menu
     items contained in the specified menu type.

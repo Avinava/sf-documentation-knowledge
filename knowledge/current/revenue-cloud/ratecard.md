@@ -5,7 +5,7 @@ topic: ratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:17.537Z
+lastCollected: 2026-05-10T00:39:09.989Z
 estimatedTokens: 631
 keywords: [RateCard, rate, consumption, group, resources, product, resource, billed, user, consumes, their, allowance, time, period, API, 62.0]
 ---

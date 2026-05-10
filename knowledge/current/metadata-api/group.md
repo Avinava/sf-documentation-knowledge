@@ -5,7 +5,7 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:26.595Z
+lastCollected: 2026-05-10T00:40:07.089Z
 estimatedTokens: 579
 keywords: [Group, groups, users, roles, Declarative, Metadata, File, Suffix, Directory, Location, Sample, Definition, Wildcard, Support, Manifest]
 ---

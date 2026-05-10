@@ -5,7 +5,7 @@ topic: apextestresultlimits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.802Z
+lastCollected: 2026-05-10T00:40:15.484Z
 estimatedTokens: 684
 keywords: [ApexTestResultLimits, Captures, Apex, test, limits, particular, execution, instance, ApexTestResult, API, 37.0, SOAP, REST, HTTP]
 ---

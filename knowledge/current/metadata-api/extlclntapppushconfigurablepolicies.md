@@ -5,7 +5,7 @@ topic: extlclntapppushconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:25.971Z
+lastCollected: 2026-05-10T00:40:06.061Z
 estimatedTokens: 534
 keywords: [ExtlClntAppPushConfigurablePolicies, external, client, app’s, push, notification, policies, configuration, Parent, File, Suffix, Directory, Location]
 ---

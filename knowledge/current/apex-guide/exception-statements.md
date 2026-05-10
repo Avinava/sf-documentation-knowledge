@@ -5,7 +5,7 @@ topic: exception-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.639Z
+lastCollected: 2026-05-10T00:39:52.539Z
 estimatedTokens: 760
 keywords: [Exception, Statements, Apex, uses, exceptions, errors, events, disrupt, normal, flow, code, execution, throw, generate, try, catch, finally, gracefully, recover, Try-Catch-Finally, Can’t, Caught, Versioned, Behavior, Changes]
 ---

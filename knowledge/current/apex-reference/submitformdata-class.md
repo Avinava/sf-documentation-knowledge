@@ -5,7 +5,7 @@ topic: submitformdata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:02.783Z
+lastCollected: 2026-05-10T00:39:28.440Z
 estimatedTokens: 1942
 keywords: [SubmitFormData, retrieve, buttons, options, selected, preference, form, getButtonClicked, getOldSelectedValue, fieldId, getOldSelectedValues, getOldStringValue, getSelectedValue, getSelectedValues, getStringValue]
 ---

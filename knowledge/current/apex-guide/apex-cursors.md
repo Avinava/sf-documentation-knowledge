@@ -5,8 +5,8 @@ topic: apex-cursors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.286Z
-estimatedTokens: 1753
+lastCollected: 2026-05-10T00:39:51.923Z
+estimatedTokens: 1770
 keywords: [Apex, Cursors, break, processing, SOQL, query, result, pieces, processed, bounds, transaction, provide, ability, work, large, actually, returning, entire, traverse, parts, flexibility, navigate, forward, back, Package, developers, advanced, high-volume, high-resource, jobs, combined, chained, queueable, powerful, alternative, batch, address, Apex’s, limitations, Cursor, Pagination, Limits]
 ---
 
@@ -27,7 +27,7 @@ Apex cursors are stateless and generate results from the offset position that is
 
 A cursor is created when a SOQL query is executed on a Database.getCursor() or Database.getCursorWithBinds() call. When a Cursor.fetch(integer position, integer count) method is invoked with an offset position and the count of records to fetch, the corresponding rows are returned from the cursor. The maximum number of rows per cursor is 50 million, regardless of whether the operation is synchronous or asynchronous. To get the number of cursor rows returned from the SOQL query, use Cursor.getNumRecords().
 
-Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit.
+Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit. You can make a maximum of 100 Cursor.fetch() calls per transaction.
 
 Apex cursors throw these new System exceptions: System.FatalCursorException and System.TransientCursorException. Transactions that fail with System.TransientCursorException can be retried.
 

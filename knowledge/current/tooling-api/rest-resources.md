@@ -5,7 +5,7 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:31.279Z
+lastCollected: 2026-05-10T00:40:14.650Z
 estimatedTokens: 1406
 keywords: [REST, Resources, give, Tooling, API, querying, keep, mind, user, permissions, needed, vary, endpoint, Check, want, determine, permission, requirements]
 ---

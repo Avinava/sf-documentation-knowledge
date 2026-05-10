@@ -5,7 +5,7 @@ topic: timezone-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:14.873Z
+lastCollected: 2026-05-10T00:39:48.067Z
 estimatedTokens: 1390
 namespace: System
 keywords: [TimeZone, time, zone, creating, new, obtaining, offset, display, getDisplayName, Versioned, Behavior, Changes, getID, getOffset, date, getTimeZone, timeZoneIdString, toString]

@@ -5,7 +5,7 @@ topic: transaction-management-fields-on-order-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.941Z
+lastCollected: 2026-05-10T00:39:07.922Z
 estimatedTokens: 230
 keywords: [Transaction, Management, Order, Item, Relationship, Standard, extend, API, 58.0]
 ---

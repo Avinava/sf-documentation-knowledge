@@ -5,7 +5,7 @@ topic: connectapifulfillmentgroupinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:05.528Z
+lastCollected: 2026-05-10T00:39:33.035Z
 estimatedTokens: 567
 keywords: [OrderItemSummaries, fulfilled, together, fulfillment, location, handle, defined, FulfillmentOrder, “Warehouse”, “Retail, Store.”, assigned, group]
 ---

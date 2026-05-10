@@ -5,7 +5,7 @@ topic: cdpidentityresolution-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.690Z
+lastCollected: 2026-05-10T00:39:15.804Z
 estimatedTokens: 1634
 namespace: ConnectApi
 keywords: [CdpIdentityResolution, identity, resolution, ruleset, createIdentityResolution, API, Requires, Chatter, deleteIdentityResolution, identityResolution, getIdentityResolution, getIdentityResolutions, runIdentityResolutionNow, updateIdentityResolution]

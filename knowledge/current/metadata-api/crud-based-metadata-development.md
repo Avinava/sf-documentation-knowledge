@@ -5,7 +5,7 @@ topic: crud-based-metadata-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.234Z
+lastCollected: 2026-05-10T00:40:01.679Z
 estimatedTokens: 1428
 keywords: [CRUD-Based, Metadata, Development, setup, configuration, organization, application, include, mimic, behavior, Salesforce, user, creating, updating, deleting, Whatever, apply, there, Java, Sample, Synchronous, Asynchronous]
 ---

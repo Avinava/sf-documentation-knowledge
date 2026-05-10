@@ -5,7 +5,7 @@ topic: make-large-metadata-configuration-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:30.371Z
+lastCollected: 2026-05-10T00:40:13.126Z
 estimatedTokens: 220
 keywords: [Large, Metadata, Configuration, Changes, API, better, suited, APIs, deploying, Salesforce, org]
 ---

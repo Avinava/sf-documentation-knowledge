@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-ledger-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.306Z
+lastCollected: 2026-05-10T00:39:12.755Z
 estimatedTokens: 386
 keywords: [Salesforce, CRM, Loyalty, Ledger, Mapping, mappings, DLO, found, Management, bundle, Connector, Cloud, credited, debited, adjusted, member, activity, points, transaction, journals, DMO]
 ---

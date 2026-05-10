@@ -5,7 +5,7 @@ topic: servicemanagementprivilege
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:55.380Z
+lastCollected: 2026-05-10T00:39:15.345Z
 estimatedTokens: 569
 keywords: [ServiceManagementPrivilege, individual, service, management, privilege, system, including, scope, permitted, level, API, 66.0]
 ---

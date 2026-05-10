@@ -5,7 +5,7 @@ topic: process-compliance-navigator-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:43.436Z
+lastCollected: 2026-05-10T00:40:32.612Z
 estimatedTokens: 221
 namespace: ComplianceMgmt
 keywords: [Process, Compliance, Navigator, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server, conjunction, API, includes, built-in, classes, interfaces, grouped]

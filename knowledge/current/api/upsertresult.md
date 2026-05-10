@@ -5,12 +5,10 @@ topic: upsertresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.627Z
+lastCollected: 2026-05-10T00:40:46.002Z
 estimatedTokens: 280
-keywords: [UpsertResult, upsert, call, array, objects, element, corresponds, sObject, passed, sObjects, index, matches]
+keywords: [UpsertResult, upsert, call, array, corresponds, sObject, passed, sObjects, index, matches]
 ---
-
-# UpsertResult
 
 > The upsert() call returns an array of UpsertResult
     objects. Each element in the array corresponds to the sObject[] array passed as the

@@ -5,7 +5,7 @@ topic: domaincreator-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.009Z
+lastCollected: 2026-05-10T00:39:25.396Z
 estimatedTokens: 2407
 namespace: System
 keywords: [Examples, DomainCreator, hostname, specific, org, org’s, Visualforce, MyDomainName.lightning.force.com, getContentHostname, getExperienceCloudSitesBuilderHostname, getExperienceCloudSitesHostname, getExperienceCloudSitesPreviewHostname, getLightningContainerComponentHostname, packageName, getLightningHostname, getOrgMyDomainHostname, getSalesforceSitesHostname, getSetupHostname, getVisualforceHostname]

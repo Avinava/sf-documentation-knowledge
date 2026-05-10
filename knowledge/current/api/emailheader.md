@@ -5,12 +5,10 @@ topic: emailheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.715Z
+lastCollected: 2026-05-10T00:40:46.108Z
 estimatedTokens: 1159
-keywords: [EmailHeader, resetPassword, upsert, API, Calls, Sample, Code—Java]
+keywords: [EmailHeader, resetPassword, upsert, API, Sample, Code—Java]
 ---
-
-# EmailHeader
 
 > create(),
           delete(), resetPassword(), update(), upsert()

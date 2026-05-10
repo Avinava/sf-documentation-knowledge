@@ -5,7 +5,7 @@ topic: label-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.153Z
+lastCollected: 2026-05-10T00:39:25.649Z
 estimatedTokens: 1744
 namespace: True
 keywords: [Examples, Label, retrieve, check, translation, exists, specific, language, dynamically, resolved, run, time, overriding, user’s, current, requested, can’t, labels, protected, different, translationExists]
@@ -60,7 +60,7 @@ The following are methods for Label.
 
 -   **[get(namespace, label)](atlas.en-us.apexref.meta/apexref/apex_class_System_Label.htm#apex_System_Label_get)**
     Retrieve a custom label for the specified namespace and a default language setting.
--   **[get(namespace, label, language)](atlas.en-us.apexref.meta/apexref/apex_class_System_Label.htm#unique_737867597)**
+-   **[get(namespace, label, language)](atlas.en-us.apexref.meta/apexref/apex_class_System_Label.htm#unique_1309573288)**
     Retrieve a custom label for the specified namespace and language.
 -   **[translationExists(namespace, label, language)](atlas.en-us.apexref.meta/apexref/apex_class_System_Label.htm#apex_System_Label_translationExists)**
     Check if translation exists for a label and language in a namespace.

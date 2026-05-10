@@ -5,7 +5,7 @@ topic: submit-approve-or-reject-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.970Z
+lastCollected: 2026-05-10T00:39:58.012Z
 estimatedTokens: 925
 keywords: [Submit, Approve, Reject, Process, Approvals, Submits, particular, record, entity, supports, approval, defined, Records, approved, rejected, current, user, assigned, approver, resource, REST, API, 30.0]
 ---

@@ -5,7 +5,7 @@ topic: unbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.023Z
+lastCollected: 2026-05-10T00:40:38.005Z
 estimatedTokens: 1710
 keywords: [Unbundle, bundle, service, appointments, resource, accepts, API, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---

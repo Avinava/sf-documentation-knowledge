@@ -5,7 +5,7 @@ topic: create-named-query-apis-in-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.902Z
+lastCollected: 2026-05-10T00:39:57.884Z
 estimatedTokens: 824
 keywords: [Named, Query, APIs, Setup, API, validate, Salesforce, Language, SOQL, resulting, endpoint]
 ---

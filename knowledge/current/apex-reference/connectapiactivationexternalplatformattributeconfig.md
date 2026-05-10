@@ -5,7 +5,7 @@ topic: connectapiactivationexternalplatformattributeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:07.087Z
+lastCollected: 2026-05-10T00:39:35.717Z
 estimatedTokens: 86
 keywords: [attribute, configuration, activation, external, platform]
 ---

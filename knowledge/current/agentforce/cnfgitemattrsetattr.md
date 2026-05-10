@@ -5,7 +5,7 @@ topic: cnfgitemattrsetattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.446Z
+lastCollected: 2026-05-10T00:39:15.450Z
 estimatedTokens: 591
 keywords: [CnfgItemAttrSetAttr, attribute, belongs, Stakeholders, definition, owner, API, 65.0, SOAP, REST]
 ---

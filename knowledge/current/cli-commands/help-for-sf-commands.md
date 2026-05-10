@@ -5,7 +5,7 @@ topic: help-for-sf-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-03T00:28:10.013Z
+lastCollected: 2026-05-10T00:38:59.803Z
 estimatedTokens: 491
 keywords: [Help, Commands, --help, flags, show, topics, their]
 ---

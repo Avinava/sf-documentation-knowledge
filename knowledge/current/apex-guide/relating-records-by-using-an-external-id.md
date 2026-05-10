@@ -5,7 +5,7 @@ topic: relating-records-by-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.502Z
+lastCollected: 2026-05-10T00:39:55.626Z
 estimatedTokens: 408
 keywords: [Relating, Records, External, Add, parent, record, Associating, alternative, another, relationship, master-detail, lookup, defined, involved]
 ---

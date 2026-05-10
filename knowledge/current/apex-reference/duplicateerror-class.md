@@ -5,7 +5,7 @@ topic: duplicateerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.019Z
+lastCollected: 2026-05-10T00:39:23.455Z
 estimatedTokens: 1103
 namespace: Database
 keywords: [DuplicateError, error, occurred, attempt, made, save, duplicate, record, organization, part, Management, feature, getDuplicateResult, getFields, getMessage, getStatusCode]

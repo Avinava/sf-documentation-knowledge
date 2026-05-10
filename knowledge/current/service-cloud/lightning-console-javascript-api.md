@@ -5,7 +5,7 @@ topic: lightning-console-javascript-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.515Z
+lastCollected: 2026-05-10T00:40:41.578Z
 estimatedTokens: 1375
 keywords: [Lightning, Console, JavaScript, API, apps, allow, users, quickly, they, edits, viewing, multiple, records, screen, gives, programmatic, fully, integrate, Aura, web, extending, meet, business, needs]
 ---

@@ -5,7 +5,7 @@ topic: core-concept-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-03T00:28:11.891Z
+lastCollected: 2026-05-10T00:39:02.513Z
 estimatedTokens: 1624
 keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key, Technical, Groupby, Annotation, Virtual, Group, Sharingcount, Reuse, Accessory, Instances, contextPath, tagName, Annotations, Specifiers, Dates, Arithmetic, Calculations, Functions, Considerations, Aggregations]
 ---

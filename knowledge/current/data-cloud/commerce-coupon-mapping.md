@@ -5,7 +5,7 @@ topic: commerce-coupon-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:52.493Z
+lastCollected: 2026-05-10T00:39:11.951Z
 estimatedTokens: 229
 keywords: [Commerce, Coupon, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, buyer, compensate, seller, purchased, good, service, DLO]
 ---

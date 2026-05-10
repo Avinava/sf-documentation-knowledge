@@ -5,7 +5,7 @@ topic: get-the-default-search-scope-and-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:19.968Z
+lastCollected: 2026-05-10T00:39:56.369Z
 estimatedTokens: 222
 keywords: [Search, Scope, Order, resource, retrieve, logged-in, user, including, any, pinned, user’s, results]
 ---

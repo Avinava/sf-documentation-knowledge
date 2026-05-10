@@ -5,7 +5,7 @@ topic: commerce-order-item-tax-line-item-summary-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:52.564Z
+lastCollected: 2026-05-10T00:39:12.059Z
 estimatedTokens: 370
 keywords: [Commerce, Order, Item, Tax, Line, Summary, Mapping, stream, deployed, starter, bundle, automatically, maps, Cloud, model, DMO, charge, imposed, government, entity, aligned, phases, process, SalesOrderTax, FulfillmentProductTax, ShipmentProductTax, DLO]
 ---

@@ -5,7 +5,7 @@ topic: fielddetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:35.538Z
+lastCollected: 2026-05-10T00:40:21.155Z
 estimatedTokens: 546
 namespace: DataRetrieval
 keywords: [FieldDetailsRepresentation, Stores, their, record, various, operations, processing, tasks, fieldName, fieldValue]

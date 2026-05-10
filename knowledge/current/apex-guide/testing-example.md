@@ -5,7 +5,7 @@ topic: testing-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.571Z
+lastCollected: 2026-05-10T00:39:54.053Z
 estimatedTokens: 774
 keywords: [Testing, test, simple, mileage, application, code, verifies, miles, entered, day, primary, named, Mileage__c, creates, record, Positive, Case, Negative, Second, User]
 ---

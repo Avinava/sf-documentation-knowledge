@@ -5,7 +5,7 @@ topic: writable-external-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.111Z
+lastCollected: 2026-05-10T00:39:51.662Z
 estimatedTokens: 739
 namespace: DataSource
 keywords: [Writable, External, Doing, lets, Salesforce, users, APIs, that’s, stored, outside, org, interacting, orders, reside, SAP, system, account, leaving, user, they, place, new, order, route, relevant, automatically, created, updated]

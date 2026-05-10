@@ -5,7 +5,7 @@ topic: alternative-payment-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:16.766Z
+lastCollected: 2026-05-10T00:39:51.131Z
 estimatedTokens: 401
 keywords: [Alternative, Payment, customers, store, represent, represented, another, pre-defined, CardPaymentMethod, DigitalWallet, Common, examples, include, CashOnDeliver, Klarna, Direct, Debit, API, v51.0]
 ---

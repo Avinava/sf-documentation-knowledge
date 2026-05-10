@@ -5,7 +5,7 @@ topic: getpageinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.383Z
+lastCollected: 2026-05-10T00:40:41.412Z
 estimatedTokens: 453
 keywords: [Arguments, getPageInfo, tab, content, loaded, enclosing, primary, subtab, console, tabId, passed, method.This, API, 26.0, Sample, Code–Visualforce]
 ---

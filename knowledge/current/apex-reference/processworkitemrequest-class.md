@@ -5,7 +5,7 @@ topic: processworkitemrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.075Z
+lastCollected: 2026-05-10T00:39:21.704Z
 estimatedTokens: 1139
 namespace: Approval
 keywords: [ProcessWorkitemRequest, processing, approval, submitted, Inherited, getAction, getWorkitemId, setAction, actionType, setWorkitemId]

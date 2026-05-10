@@ -5,7 +5,7 @@ topic: lightning-usage-by-browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:20.772Z
+lastCollected: 2026-05-10T00:39:57.664Z
 estimatedTokens: 308
 keywords: [Lightning, Browser, Experience, results, grouped, instance, resource, REST, API, 44.0]
 ---

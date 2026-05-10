@@ -5,7 +5,7 @@ topic: transaction-management-fields-on-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.896Z
+lastCollected: 2026-05-10T00:39:07.869Z
 estimatedTokens: 213
 keywords: [Transaction, Management, Order, Action, Standard, extend, API, 55.0]
 ---

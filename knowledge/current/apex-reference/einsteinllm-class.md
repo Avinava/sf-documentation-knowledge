@@ -5,7 +5,7 @@ topic: einsteinllm-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.024Z
+lastCollected: 2026-05-10T00:39:19.833Z
 estimatedTokens: 1512
 namespace: ConnectApi
 keywords: [EinsteinLLM, prompt, templates, generate, LLM, responses, generate​MessagesFor​PromptTemplate​, promptTemplate​DevName, prompt​Template​GenerationsInput, API, Requires, Chatter, getPromptTemplates, query, sortBy, offset, pageLimit, relatedEntity, isActive]

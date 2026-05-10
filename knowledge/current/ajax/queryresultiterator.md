@@ -5,12 +5,10 @@ topic: queryresultiterator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.643Z
+lastCollected: 2026-05-10T00:40:43.904Z
 estimatedTokens: 82
 keywords: [QueryResultIterator, Iterate, over, query, results, AJAX, Toolkit, invoking, queryMore, queryLocator]
 ---
-
-# QueryResultIterator
 
 > Iterate over query results returned by the AJAX Toolkit without invoking queryMore and queryLocator.
 

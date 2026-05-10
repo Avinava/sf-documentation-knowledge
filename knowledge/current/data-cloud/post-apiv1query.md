@@ -5,7 +5,7 @@ topic: post-apiv1query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:51.640Z
+lastCollected: 2026-05-10T00:39:11.067Z
 estimatedTokens: 230
 keywords: [Examples, POST, api, query, Cloud, lake, across, model, unified, linked, HTTP, Responses]
 ---

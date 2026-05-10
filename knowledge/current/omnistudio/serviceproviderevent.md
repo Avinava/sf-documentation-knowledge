@@ -5,7 +5,7 @@ topic: serviceproviderevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.266Z
+lastCollected: 2026-05-10T00:40:35.407Z
 estimatedTokens: 178
 keywords: [ServiceProviderEvent, events, generated, third-party, service, providers, platform, API, 55.0]
 ---

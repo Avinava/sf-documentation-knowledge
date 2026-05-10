@@ -5,7 +5,7 @@ topic: assettag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:16.349Z
+lastCollected: 2026-05-10T00:39:08.472Z
 estimatedTokens: 353
 keywords: [AssetTag, Associates, word, short, phrase, Asset]
 ---

@@ -5,7 +5,7 @@ topic: commercesearchsettings-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:57.696Z
+lastCollected: 2026-05-10T00:39:19.284Z
 estimatedTokens: 1178
 namespace: ConnectApi
 keywords: [CommerceSearchSettings, index, product, catalog, createCommerceSearchIndex, webstoreId, indexBuildType, API, Requires, Chatter, getCommerceSearchIndex, indexId, getCommerceSearchIndexes, getCommerceSearchIndexLogs]

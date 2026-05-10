@@ -5,7 +5,7 @@ topic: product-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.510Z
+lastCollected: 2026-05-10T00:39:04.776Z
 estimatedTokens: 1059
 keywords: [Product, POST, attributes, hierarchy, cardinality, API, composite, Discovery]
 ---

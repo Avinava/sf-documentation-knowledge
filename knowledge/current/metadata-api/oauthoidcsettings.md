@@ -5,7 +5,7 @@ topic: oauthoidcsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.994Z
+lastCollected: 2026-05-10T00:40:09.243Z
 estimatedTokens: 852
 keywords: [OauthOidcSettings, org, settings, disabling, OAuth, OpenID, Connect, authorization, flows, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Package, Wildcard, Support]
 ---

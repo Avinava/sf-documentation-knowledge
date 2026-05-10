@@ -5,8 +5,8 @@ topic: future-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:16.291Z
-estimatedTokens: 673
+lastCollected: 2026-05-10T00:39:50.369Z
+estimatedTokens: 670
 keywords: [Future, Annotation, identify, run, asynchronously, runs, Salesforce, resources, Considerations]
 ---
 
@@ -50,7 +50,7 @@ The following snippet shows how to specify that a method executes a callout:
 -   Methods with the Future annotation can’t be used in Visualforce controllers in either getMethodName or setMethodName methods, nor in the constructor.
 -   You can’t call a method annotated with Future from a method that also has the Future annotation. Nor can you call a trigger from an annotated method that calls another annotated method.
 
--   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm "Deprecated Annotation Annotation")
+-   [← Previous](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_deprecated.htm "Deprecated Annotation")
 -   [Next →](atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "InvocableMethod Annotation")
 
 ## Code Examples

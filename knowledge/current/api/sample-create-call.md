@@ -5,12 +5,10 @@ topic: sample-create-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.776Z
+lastCollected: 2026-05-10T00:40:44.151Z
 estimatedTokens: 224
-keywords: [Sample, Call, Java, examples, show, how, partner, WSDL, creates, contact, record, several, iterates, results, checks]
+keywords: [Sample, Call, Java, examples, show, how, partner, WSDL, creates, contact, record, several, iterates, results, checks, whether, operation, successful]
 ---
-
-# Sample create Call
 
 > The following Java and C# examples show how to use the create() call for
             the partner WSDL. Each example creates a contact record with several fields. It iterates

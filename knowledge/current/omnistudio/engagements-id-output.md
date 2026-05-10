@@ -5,7 +5,7 @@ topic: engagements-id-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.451Z
+lastCollected: 2026-05-10T00:40:28.113Z
 estimatedTokens: 89
 keywords: [Engagements, IDs, engagement, interaction, attendee, topic, records]
 ---

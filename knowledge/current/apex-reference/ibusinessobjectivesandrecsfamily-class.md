@@ -5,7 +5,7 @@ topic: ibusinessobjectivesandrecsfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:58.116Z
+lastCollected: 2026-05-10T00:39:19.989Z
 estimatedTokens: 2536
 namespace: ConnectApi
 keywords: [IBusinessObjectivesAndRecsFamily, patch, business, objectives, goals, recommended, actions, createRecommendations, busObjRecommendationInput, API, Requires, Chatter, getBusinessObjectives, webstoreId, channelId, kpiName, includeRecSummary, includeInsightSummary, getRecommendations, businessObjectiveId, domain, externalName, state, secondaryState, tertiaryState, grouping, patchBusinessObjective, patchRecommendations, updateRecommendations]

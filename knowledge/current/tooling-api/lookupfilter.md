@@ -5,7 +5,7 @@ topic: lookupfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:33.386Z
+lastCollected: 2026-05-10T00:40:17.985Z
 estimatedTokens: 1328
 keywords: [LookupFilter, lookup, filter, restricts, dialog, results, master-detail, hierarchical, relationship, SOAP, REST, HTTP, Metadata, FilterItem]
 ---

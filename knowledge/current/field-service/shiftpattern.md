@@ -5,7 +5,7 @@ topic: shiftpattern
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.245Z
+lastCollected: 2026-05-10T00:40:39.798Z
 estimatedTokens: 532
 keywords: [ShiftPattern, pattern, templates, creating, shifts, API, 51.0]
 ---

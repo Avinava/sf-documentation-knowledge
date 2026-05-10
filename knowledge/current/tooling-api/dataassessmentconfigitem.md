@@ -5,7 +5,7 @@ topic: dataassessmentconfigitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.296Z
+lastCollected: 2026-05-10T00:40:16.221Z
 estimatedTokens: 246
 keywords: [DataAssessmentConfigItem, saved, configuration, specific, vendor’s, package, assessment, API, 40.0, SOAP, REST, HTTP]
 ---

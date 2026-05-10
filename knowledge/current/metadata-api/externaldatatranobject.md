@@ -5,7 +5,7 @@ topic: externaldatatranobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:25.837Z
+lastCollected: 2026-05-10T00:40:05.812Z
 estimatedTokens: 1741
 keywords: [ExternalDataTranObject, ExternalDataTranField, MktDataTranField, definition, schema, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Wildcard, Support, Manifest]
 ---

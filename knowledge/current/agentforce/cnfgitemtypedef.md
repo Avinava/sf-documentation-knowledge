@@ -5,7 +5,7 @@ topic: cnfgitemtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:55.476Z
+lastCollected: 2026-05-10T00:39:15.495Z
 estimatedTokens: 759
 keywords: [CnfgItemTypeDef, definition, configuration, item, category, classify, items, share, common, characteristics, server, application, network, device, API, 65.0, SOAP, REST]
 ---

@@ -5,7 +5,7 @@ topic: serviceappointmentstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:48.091Z
+lastCollected: 2026-05-10T00:40:39.545Z
 estimatedTokens: 676
 keywords: [ServiceAppointmentStatus, possible, status, service, appointment]
 ---

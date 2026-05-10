@@ -5,7 +5,7 @@ topic: start-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.009Z
+lastCollected: 2026-05-10T00:40:37.980Z
 estimatedTokens: 599
 keywords: [Start, Batch, Creates, service, appointment, bundles, automatically, resource, uses, bundle, policies, marked, automatic, bundling, appointments, already, bundled, manually, stay, untouched, API, success, failure, message, starting, process, Gov, Cloud, endpoint, 54.0, Salesforce, Add, Remote, Site]
 ---

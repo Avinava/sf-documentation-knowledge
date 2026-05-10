@@ -5,7 +5,7 @@ topic: batchcalcjobdefinitionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:44.209Z
+lastCollected: 2026-05-10T00:40:33.818Z
 estimatedTokens: 1729
 keywords: [BatchCalcJobDefinitionView, Processing, Engine, definition, file-based, Salesforce, org, API, 51.0]
 ---

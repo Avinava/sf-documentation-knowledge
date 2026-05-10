@@ -5,7 +5,7 @@ topic: salesforce-pricing-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:15.542Z
+lastCollected: 2026-05-10T00:39:07.480Z
 estimatedTokens: 2648
 keywords: [Salesforce, Pricing, Standard, model, manage, processes, product, management, calculation, application, discounts]
 ---

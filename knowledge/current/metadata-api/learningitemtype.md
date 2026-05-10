@@ -5,7 +5,7 @@ topic: learningitemtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:27.101Z
+lastCollected: 2026-05-10T00:40:07.905Z
 estimatedTokens: 1295
 keywords: [LearningItemType, exercise, Enablement, user, program, Guidance, Center, requires, corresponding, LearningItem, record, EnblProgramTaskDefinition, EnblProgramTaskSubCategory, records, admins, Builder, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

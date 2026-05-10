@@ -5,7 +5,7 @@ topic: suggestedassessmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:45.284Z
+lastCollected: 2026-05-10T00:40:35.441Z
 estimatedTokens: 636
 keywords: [SuggestedAssessmentReason, Stores, reasons, suggested, assessment, API, 60.0]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-crm-linked-article-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.175Z
+lastCollected: 2026-05-10T00:39:12.619Z
 estimatedTokens: 353
 keywords: [Salesforce, CRM, Linked, Article, Mapping, mappings, LinkedArticle, DLO, found, Knowledge, bundle, Connector, Cloud, DMO]
 ---

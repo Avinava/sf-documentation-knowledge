@@ -5,12 +5,10 @@ topic: compileclasses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.822Z
+lastCollected: 2026-05-10T00:40:44.254Z
 estimatedTokens: 284
-keywords: [compileClasses, Compile, Apex, Developer, Edition, sandbox, organizations, Usage, Sample, Code—Java, Arguments]
+keywords: [Arguments, compileClasses, Compile, Apex, Developer, Edition, sandbox, organizations, Sample, Code—Java]
 ---
-
-# compileClasses()
 
 > Compile your Apex in Developer Edition or sandbox organizations.
 

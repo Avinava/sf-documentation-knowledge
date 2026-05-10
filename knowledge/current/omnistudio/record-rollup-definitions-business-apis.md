@@ -5,7 +5,7 @@ topic: record-rollup-definitions-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:43.594Z
+lastCollected: 2026-05-10T00:40:32.849Z
 estimatedTokens: 258
 keywords: [Record, Rollup, Definitions, Business, APIs, consolidated, view, specific, aggregation, definition, sort, arrange, ascending, descending, order, Resources]
 ---

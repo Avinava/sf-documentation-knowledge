@@ -5,7 +5,7 @@ topic: salesforce-crm-party-expense-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.086Z
+lastCollected: 2026-05-10T00:39:12.480Z
 estimatedTokens: 293
 keywords: [Salesforce, CRM, Party, Expense, Mappings, PartyExpense, DLO, found, Financial, Services, Cloud, bundle, Connector, DMO, Mapping]
 ---

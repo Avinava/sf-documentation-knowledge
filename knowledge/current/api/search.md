@@ -5,12 +5,10 @@ topic: search
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.541Z
+lastCollected: 2026-05-10T00:40:45.816Z
 estimatedTokens: 760
-keywords: [search, Executes, text, organization's, data, Usage, Sample, Code—Java, Code—C#, Arguments, Fault]
+keywords: [Arguments, Fault, search, Executes, text, organization's, Sample, Code—Java, Code—C#]
 ---
-
-# search()
 
 > Executes a text search in your organization's data.
 

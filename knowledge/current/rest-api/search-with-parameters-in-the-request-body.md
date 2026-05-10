@@ -5,7 +5,7 @@ topic: search-with-parameters-in-the-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:21.148Z
+lastCollected: 2026-05-10T00:39:58.305Z
 estimatedTokens: 2257
 keywords: [Search, defining, advanced, offers, control, over, how, query, executes, filter, several, DataCategories, networks, sites, orderBy, constraints, filters, resource, REST, API, 36.0]
 ---

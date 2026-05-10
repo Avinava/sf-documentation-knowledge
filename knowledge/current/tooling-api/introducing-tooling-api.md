@@ -5,7 +5,7 @@ topic: introducing-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T18:36:31.234Z
+lastCollected: 2026-05-10T00:40:14.572Z
 estimatedTokens: 484
 keywords: [Introducing, Tooling, API, build, development, tools, apps, Lightning, Platform, applications, API’s, SOQL, capabilities, metadata, allow, retrieve, smaller, pieces, retrieves, improve, performance, better, fit, developing, interactive, applications.Tooling, SOAP, REST, interfaces]
 ---

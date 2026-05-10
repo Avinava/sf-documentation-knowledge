@@ -5,12 +5,10 @@ topic: compileandtestrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:56.809Z
+lastCollected: 2026-05-10T00:40:44.221Z
 estimatedTokens: 422
 keywords: [CompileAndTestRequest, compileAndTest, call, Apex, compiled]
 ---
-
-# CompileAndTestRequest
 
 > The compileAndTest() call contains this object, a request
       with information about the Apex to be compiled.

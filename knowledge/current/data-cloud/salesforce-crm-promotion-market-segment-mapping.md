@@ -5,7 +5,7 @@ topic: salesforce-crm-promotion-market-segment-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.346Z
+lastCollected: 2026-05-10T00:39:12.816Z
 estimatedTokens: 249
 keywords: [Salesforce, CRM, Promotion, Market, Segment, Mapping, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, Promotions, segments, targeted, towards, DMO]
 ---

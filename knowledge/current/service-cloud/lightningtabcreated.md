@@ -5,7 +5,7 @@ topic: lightningtabcreated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:49.077Z
+lastCollected: 2026-05-10T00:40:40.997Z
 estimatedTokens: 103
 keywords: [lightning, tabCreated, tab, created, successfully, lightning__tabCreated, Lightning, message, channel, corresponds, Aura, app, event, web, console, _tabCreated, LWC]
 ---

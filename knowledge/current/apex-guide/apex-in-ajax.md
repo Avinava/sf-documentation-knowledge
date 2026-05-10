@@ -5,7 +5,7 @@ topic: apex-in-ajax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:15.924Z
+lastCollected: 2026-05-10T00:39:49.764Z
 estimatedTokens: 526
 keywords: [Apex, AJAX, toolkit, includes, built-in, support, invoking, anonymous, blocks, webservice]
 ---

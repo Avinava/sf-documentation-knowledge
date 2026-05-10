@@ -5,7 +5,7 @@ topic: rate-plan-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.606Z
+lastCollected: 2026-05-10T00:39:06.226Z
 estimatedTokens: 130
 keywords: [Rate, Plan]
 ---

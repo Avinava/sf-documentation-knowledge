@@ -5,7 +5,7 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:23.182Z
+lastCollected: 2026-05-10T00:40:01.604Z
 estimatedTokens: 853
 keywords: [BusinessProcessGroup, BusinessProcessDefinition, BusinessProcessFeedback, surveys, track, customers’, experiences, across, different, stages, their, lifecycle, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

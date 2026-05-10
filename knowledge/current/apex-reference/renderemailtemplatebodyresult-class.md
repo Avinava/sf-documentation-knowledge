@@ -5,7 +5,7 @@ topic: renderemailtemplatebodyresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:00.221Z
+lastCollected: 2026-05-10T00:39:24.107Z
 estimatedTokens: 572
 namespace: Messaging
 keywords: [RenderEmailTemplateBodyResult, results, rendering, email, templates, getErrors, getMergedBody, getSuccess]

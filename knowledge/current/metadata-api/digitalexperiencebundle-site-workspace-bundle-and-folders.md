@@ -6,7 +6,7 @@ topic: digitalexperiencebundle-site-workspace-bundle-and-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:24.966Z
+lastCollected: 2026-05-10T00:40:04.412Z
 estimatedTokens: 8426
 keywords: [DigitalExperienceBundle, Site, Workspace, Bundle, Folders, uses, organize, enhanced, LWR, sites, content-focused, text-based, code, structure, sfdc, _cms, _appPage, Folder, _brandingSet, _languageSettings, _route, _site, _theme, _themeLayout, _view]
 ---

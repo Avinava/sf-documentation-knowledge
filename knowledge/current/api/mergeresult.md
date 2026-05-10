@@ -5,12 +5,10 @@ topic: mergeresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:57.425Z
+lastCollected: 2026-05-10T00:40:45.562Z
 estimatedTokens: 206
-keywords: [MergeResult, merge, call, array, objects]
+keywords: [MergeResult, merge, call, array]
 ---
-
-# MergeResult
 
 > The merge() call returns an array of MergeResult
     objects.

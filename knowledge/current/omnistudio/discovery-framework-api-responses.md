@@ -5,7 +5,7 @@ topic: discovery-framework-api-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.972Z
+lastCollected: 2026-05-10T00:40:28.864Z
 estimatedTokens: 563
 keywords: [Discovery, Framework, API, Responses, Here’s, Document, Decision, bodies]
 ---

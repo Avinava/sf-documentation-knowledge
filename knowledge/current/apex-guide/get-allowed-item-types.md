@@ -5,7 +5,7 @@ topic: get-allowed-item-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:18.966Z
+lastCollected: 2026-05-10T00:39:54.736Z
 estimatedTokens: 126
 keywords: [Allowed, Item, Call]
 ---

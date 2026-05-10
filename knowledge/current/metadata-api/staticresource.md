@@ -5,7 +5,7 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:29.891Z
+lastCollected: 2026-05-10T00:40:12.275Z
 estimatedTokens: 781
 keywords: [StaticResource, resource, file, often, code, library, ZIP, resources, allow, upload, content, Visualforce, including, archives, jar, files, images, style, sheets, JavaScript, Salesforce, org, can’t, host, apps, websites, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

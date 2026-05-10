@@ -5,7 +5,7 @@ topic: loyalty-transaction-journal-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:54.064Z
+lastCollected: 2026-05-10T00:39:13.534Z
 estimatedTokens: 2390
 keywords: [Category, Relationships, Loyalty, Transaction, Journal, DMO, Cloud, model, collection, transactions, program, Journals, voucher, relate, payment, API, Primary, Subject, Area, Key]
 ---

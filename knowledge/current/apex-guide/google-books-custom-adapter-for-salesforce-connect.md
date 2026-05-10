@@ -5,7 +5,7 @@ topic: google-books-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:17.005Z
+lastCollected: 2026-05-10T00:39:51.555Z
 estimatedTokens: 247
 keywords: [Google, Books™, Adapter, Salesforce, Connect, illustrates, how, work, around, requirements, limits, external, system’s, APIs, case, Books, API, Family, BooksDataSourceConnection, BooksDataSourceProvider]
 ---

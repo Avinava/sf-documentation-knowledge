@@ -5,7 +5,7 @@ topic: custommetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:24.155Z
+lastCollected: 2026-05-10T00:40:03.184Z
 estimatedTokens: 2115
 keywords: [CustomMetadata, CustomMetadataValue, record, metadata, File, Suffix, Directory, Location, Declarative, Sample, Definitions, Wildcard, Support, Manifest]
 ---

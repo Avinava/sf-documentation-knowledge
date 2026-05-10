@@ -5,7 +5,7 @@ topic: configuration-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:14.114Z
+lastCollected: 2026-05-10T00:39:05.606Z
 estimatedTokens: 152
 keywords: [Configuration, saved]
 ---

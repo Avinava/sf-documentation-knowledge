@@ -5,7 +5,7 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:34.004Z
+lastCollected: 2026-05-10T00:40:19.027Z
 estimatedTokens: 1345
 keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, API, 58.0, SOAP, REST]
 ---

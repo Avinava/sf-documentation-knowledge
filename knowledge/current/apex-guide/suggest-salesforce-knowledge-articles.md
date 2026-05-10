@@ -5,7 +5,7 @@ topic: suggest-salesforce-knowledge-articles
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:17.723Z
+lastCollected: 2026-05-10T00:39:52.667Z
 estimatedTokens: 298
 keywords: [Suggest, Salesforce, Knowledge, Articles, Provide, users, shortcuts, navigate, relevant, they, perform, search, Call, Search.suggest, searchText, objectType, options, whose, titles, match, user’s, query]
 ---

@@ -5,13 +5,11 @@ topic: calloptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:57.695Z
+lastCollected: 2026-05-10T00:40:46.081Z
 estimatedTokens: 1591
 namespace: CallOptions
-keywords: [CallOptions, options, needed, work, specific, client, Partner, WSDL, API, Calls, Sample, Code—C#]
+keywords: [CallOptions, options, needed, work, specific, client, Partner, WSDL, API, Sample, Code—C#]
 ---
-
-# CallOptions
 
 > Specifies the options needed to work with a specific client. This
             header is only available for use with the Partner WSDL.

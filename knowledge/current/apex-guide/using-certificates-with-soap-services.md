@@ -5,7 +5,7 @@ topic: using-certificates-with-soap-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:16.086Z
+lastCollected: 2026-05-10T00:39:50.030Z
 estimatedTokens: 496
 keywords: [Certificates, SOAP, Services, support, two-way, authentication, callout, web, service, generate, certificate, Salesforce, import, key, pair, keystore, integrate, Apex]
 ---

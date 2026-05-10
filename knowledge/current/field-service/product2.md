@@ -5,8 +5,8 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.788Z
-estimatedTokens: 4627
+lastCollected: 2026-05-10T00:40:39.073Z
+estimatedTokens: 4626
 keywords: [Product2, product, company, sells, Schedule, Enabled, Flags]
 ---
 
@@ -16,7 +16,7 @@ keywords: [Product2, product, company, sells, Schedule, Enabled, Flags]
 
 Represents a product that your company sells.
 
-This object has several fields that are used only for quantity and revenue schedules (for example, annuities). Schedules are available only for orgs that have enabled the products and schedules features. If these features aren’t enabled, the schedule fields don’t appear , and you can’t query, create, or update the fields.
+This object has several fields that are used only for quantity and revenue schedules (for example, annuities). Schedules are available only for orgs that have enabled the products and schedules features. If these features aren’t enabled, the schedule fields don’t appear, and you can’t query, create, or update the fields.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=field_service_dev)
 

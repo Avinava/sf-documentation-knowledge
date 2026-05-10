@@ -5,7 +5,7 @@ topic: maintenanceplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:47.710Z
+lastCollected: 2026-05-10T00:40:38.965Z
 estimatedTokens: 2679
 keywords: [MaintenancePlan, preventive, maintenance, schedule, assets, service]
 ---

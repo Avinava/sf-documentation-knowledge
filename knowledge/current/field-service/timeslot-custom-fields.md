@@ -5,7 +5,7 @@ topic: timeslot-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:46.625Z
+lastCollected: 2026-05-10T00:40:37.390Z
 estimatedTokens: 462
 keywords: [TimeSlot, period, time, day, week, service, work, performed, Operating, hours, consist, slots]
 ---

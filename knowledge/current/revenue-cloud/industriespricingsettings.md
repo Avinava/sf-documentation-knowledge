@@ -5,7 +5,7 @@ topic: industriespricingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-03T00:28:15.276Z
+lastCollected: 2026-05-10T00:39:07.134Z
 estimatedTokens: 930
 keywords: [IndustriesPricingSettings, settings, Salesforce, Pricing, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

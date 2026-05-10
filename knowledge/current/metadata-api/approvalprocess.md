@@ -5,7 +5,7 @@ topic: approvalprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T18:36:22.620Z
+lastCollected: 2026-05-10T00:40:00.679Z
 estimatedTokens: 4084
 keywords: [ApprovalProcess, ApprovalSubmitter, ApprovalPageField, ApprovalStep, ApprovalAction, ApprovalStepApprover, Approver, ApprovalEntryCriteria, ApprovalStepRejectBehavior, NextAutomatedApprover, metadata, approval, process, automates, how, records, approved, Salesforce, step, including, point, File, Suffix, Directory, Location, Declarative, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,8 +5,8 @@ topic: cursor-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:59.997Z
-estimatedTokens: 803
+lastCollected: 2026-05-10T00:39:23.412Z
+estimatedTokens: 840
 namespace: Database
 keywords: [Cursor, fetch, records, number, rows, SOQL, query, position, count, getNumRecords]
 ---
@@ -42,13 +42,13 @@ A cursor is created when a SOQL query is executed on a Database.getCursor() or a
 The following are methods for Cursor.
 
 -   **[fetch(position, count)](atlas.en-us.apexref.meta/apexref/apex_class_Database_Cursor.htm#apex_Database_Cursor_fetch)**
-    Fetches cursor rows that correspond to the offset position and the specified record count. The maximum number of rows per cursor is 50 million, regardless of the operation being synchronous or asynchronous. Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit.
+    Fetches cursor rows that correspond to the offset position and the specified record count. The maximum number of rows per cursor is 50 million, regardless of whether the operation is synchronous or asynchronous. Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit. You can make a maximum of 100 Cursor.fetch() calls per transaction.
 -   **[getNumRecords()](atlas.en-us.apexref.meta/apexref/apex_class_Database_Cursor.htm#apex_Database_Cursor_getNumRecords)**
     Gets the number of rows returned in an Apex cursor from a Cursor.fetch(position, count) operation.
 
 ### fetch(position, count)
 
-Fetches cursor rows that correspond to the offset position and the specified record count. The maximum number of rows per cursor is 50 million, regardless of the operation being synchronous or asynchronous. Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit.
+Fetches cursor rows that correspond to the offset position and the specified record count. The maximum number of rows per cursor is 50 million, regardless of whether the operation is synchronous or asynchronous. Calling the Cursor.fetch() method counts against the SOQL query limit, and the rows fetched count against the SOQL query row limit. You can make a maximum of 100 Cursor.fetch() calls per transaction.
 
 #### Signature
 

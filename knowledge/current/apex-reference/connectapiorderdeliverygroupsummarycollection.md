@@ -5,7 +5,7 @@ topic: connectapiorderdeliverygroupsummarycollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.531Z
+lastCollected: 2026-05-10T00:39:41.059Z
 estimatedTokens: 228
 keywords: [Collection, order, delivery, group, summaries]
 ---

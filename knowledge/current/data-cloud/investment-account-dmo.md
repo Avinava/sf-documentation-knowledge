@@ -5,7 +5,7 @@ topic: investment-account-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:53.847Z
+lastCollected: 2026-05-10T00:39:13.237Z
 estimatedTokens: 460
 keywords: [Category, Relationships, Investment, Account, DMO, subtype, financial, Provided, Services, Cloud, Kit, API, Primary, Subject, Area, Key, Label]
 ---

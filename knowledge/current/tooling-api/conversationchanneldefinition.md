@@ -5,7 +5,7 @@ topic: conversationchanneldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:32.138Z
+lastCollected: 2026-05-10T00:40:15.975Z
 estimatedTokens: 3621
 keywords: [ConversationChannelDefinition, configurable, definition, conversation, channel, that’s, implemented, Interaction, Service, Bring, Own, Messaging, CCaaS, channels, API, 60.0, SOAP, REST]
 ---

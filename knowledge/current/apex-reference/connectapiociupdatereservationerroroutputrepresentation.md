@@ -5,7 +5,7 @@ topic: connectapiociupdatereservationerroroutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.467Z
+lastCollected: 2026-05-10T00:39:40.960Z
 estimatedTokens: 82
 keywords: [Error, inventory, reservation]
 ---

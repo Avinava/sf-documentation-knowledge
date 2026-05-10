@@ -5,7 +5,7 @@ topic: connectapipricingresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:10.905Z
+lastCollected: 2026-05-10T00:39:41.647Z
 estimatedTokens: 130
 keywords: [ConnectApi.PricingResult, Product, pricing, result]
 ---

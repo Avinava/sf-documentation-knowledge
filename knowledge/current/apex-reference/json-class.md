@@ -5,7 +5,7 @@ topic: json-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:01.090Z
+lastCollected: 2026-05-10T00:39:25.535Z
 estimatedTokens: 2681
 namespace: System
 keywords: [JSON, Suppresses, serializing, Apex, content, createGenerator, prettyPrint, createParser, jsonString, deserialize, apexType, deserializeStrict, deserializeUntyped, serialize, objectToSerialize, suppressApexObjectNulls, serializePretty]
@@ -49,11 +49,11 @@ The following are methods for JSON. All methods are static.
     Deserializes the specified JSON string into collections of primitive data types.
 -   **[serialize(objectToSerialize)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#apex_System_Json_serialize)**
     Serializes Apex objects into JSON content.
--   **[serialize(objectToSerialize, suppressApexObjectNulls)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#unique_150107089)**
+-   **[serialize(objectToSerialize, suppressApexObjectNulls)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#unique_32222572)**
     Suppresses null values when serializing Apex objects into JSON content.
 -   **[serializePretty(objectToSerialize)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#apex_System_Json_serializePretty)**
     Serializes Apex objects into JSON content and generates indented content using the pretty-print format.
--   **[serializePretty(objectToSerialize, suppressApexObjectNulls)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#unique_11940754)**
+-   **[serializePretty(objectToSerialize, suppressApexObjectNulls)](atlas.en-us.apexref.meta/apexref/apex_class_System_Json.htm#unique_1885894210)**
     Suppresses null values when serializing Apex objects into JSON content and generates indented content using the pretty-print format.
 
 ### createGenerator(prettyPrint)

@@ -5,7 +5,7 @@ topic: expressionsetdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:36:42.655Z
+lastCollected: 2026-05-10T00:40:31.408Z
 estimatedTokens: 5615
 keywords: [ExpressionSetDefinition, ExpressionSetAdvancedCondition, ExpressionSetConditionCriteria, ExpressionSetAggregation, ExpressionSetAssignment, ExpressionSetConditionExpression, ExpressionSetCustomElement, ExpressionSetElementParameter, ExpressionSetDecisionTable, ExpressionSetSubExpression, ExpressionSetVariableField, expression, definition, Parent, File, Suffix, Directory, Location, ExpressionSetDefinitionVersion​​, ExpressionSet​​Step, ExpressionSet​​Variable, Declarative, Metadata, Sample, Wildcard, Support, Manifest, API, 55.0, SOAP, REST]
 ---

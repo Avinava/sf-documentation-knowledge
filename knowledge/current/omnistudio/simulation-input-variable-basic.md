@@ -5,7 +5,7 @@ topic: simulation-input-variable-basic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:36:40.503Z
+lastCollected: 2026-05-10T00:40:28.184Z
 estimatedTokens: 303
 keywords: [Simulation, Variable, Basic]
 ---

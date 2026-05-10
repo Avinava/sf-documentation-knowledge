@@ -5,7 +5,7 @@ topic: get-eligible-promotions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-03T00:28:13.144Z
+lastCollected: 2026-05-10T00:39:04.304Z
 estimatedTokens: 269
 keywords: [Eligible, Promotions, POST, line, items, quote, order]
 ---

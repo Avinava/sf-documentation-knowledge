@@ -5,7 +5,7 @@ topic: considerations-for-crud-operations-in-active-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T18:36:31.248Z
+lastCollected: 2026-05-10T00:40:14.598Z
 estimatedTokens: 137
 keywords: [Considerations, CRUD, Operations, Active, Orgs, Tooling, API, allowed, 41.0, they, kinds, However, performance, reasons, can’t, perform, org]
 ---
