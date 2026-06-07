@@ -5,7 +5,7 @@ topic: split-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.338Z
+lastCollected: 2026-06-07T00:37:36.727Z
 estimatedTokens: 1024
 keywords: [split, Annotation, Constraint, Modeling, Language, CML, whether, instances, Configurator, Result, Configuration, Settings]
 ---
@@ -59,7 +59,7 @@ In this example, the split annotation is specified as false for the type (Model)
 
 In this example, the system allows one instance of the Model type with different quantity defined by the user.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

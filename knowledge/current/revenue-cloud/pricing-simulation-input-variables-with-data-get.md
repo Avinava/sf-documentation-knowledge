@@ -5,7 +5,7 @@ topic: pricing-simulation-input-variables-with-data-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.334Z
+lastCollected: 2026-06-07T00:37:38.587Z
 estimatedTokens: 264
 keywords: [Pricing, Simulation, Variables, along]
 ---
@@ -57,7 +57,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/simulationInputVariablesWithData?expressionSetVersionId=9QMxx0000004CDsGAM&entityId=0Q0xx0000004C92CAE&contextDefinitionId=SalesTransactionContext__stdctx&contextMappingId=QuoteEntitiesMapping
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/simulationInputVariablesWithData?expressionSetVersionId=9QMxx0000004CDsGAM&entityId=0Q0xx0000004C92CAE&contextDefinitionId=SalesTransactionContext__stdctx&contextMappingId=QuoteEntitiesMapping
 ```
 
 ## Related Topics

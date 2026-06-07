@@ -5,9 +5,9 @@ topic: find-products-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.684Z
-estimatedTokens: 1873
-keywords: [Inputs, Outputs, Products, Action, Search, catalog, category, subcategory, term, REST, HTTP, Apex-Defined, Flow]
+lastCollected: 2026-06-07T00:37:35.321Z
+estimatedTokens: 1940
+keywords: [Inputs, Outputs, Products, Action, Search, catalog, category, subcategory, term, Apex-Defined, Flow]
 ---
 
 > Search for the products from a catalog, category, or subcategory by
@@ -23,23 +23,7 @@ This action is available in API version 62.0 and later.
 
 The Find Products action is available in Enterprise, Unlimited, and Developer Editions where Product Discovery is enabled.
 
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/findProducts
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearer token
+You can invoke this action via Apex and Flows only.
 
 ## Inputs
 
@@ -54,6 +38,7 @@ Authorization: Bearer token
 | correlationId | TypestringDescriptionCurrency code that’s used to calculate and show prices. Only the products with the currency code matching the specified currency code are fetched. |
 | currencyCode | TypestringDescriptionCurrency code that’s used to calculate and show prices. |
 | cursor | TypestringDescriptionA unique identifier that represents the position of the product from which the next set of results are retrieved. |
+| executeConfigurationRules | TypebooleanDescriptionIndicates whether configuration rules must run (true) or not (false). Available in API version 67.0 and later. |
 | enablePricing | TypebooleanDescriptionIndicates whether the pricing procedure must run (true) or not (false).The default value is true. To use this parameter, you must enable the Pricing Procedure setting from Setup. |
 | enableQualification | TypebooleanDescriptionIndicates whether the qualification procedure must run (true) or not (false).The default value is true. To use this parameter, you must enable the Qualification Procedure setting from Setup. |
 | filter | TypeApex-definedDescriptionA collection of Apex runtime_industries_cpq.FilterInputRepresentation records where each record contains a related object and the filter criteria that’s applied on the object.The filter parameter supports only the name property.The supported operators are:eqincontainsIf this parameter contains multiple criteria, all the criteria are applied. |
@@ -64,6 +49,8 @@ Authorization: Bearer token
 | productClassificationId | TypestringDescriptionID of the product classification that’s used to filter products. |
 | pricingProcedure | TypestringDescriptionAPI name of the pricing procedure to calculate product prices. If you don’t specify a value, the pricing procedure selected on the Product Discovery Settings page from Setup is used. |
 | qualificationProcedure | TypestringDescriptionAPI name of the qualification procedure to evaluate product eligibility. If you don’t specify a value, the qualification procedure selected on the Product Discovery Settings page from Setup is used. |
+| transactionContextId | TypestringDescriptionContext ID of the quote or order. Available in API version 67.0 and later. |
+| transactionId | TypestringDescriptionID of the quote or order. Available in API version 67.0 and later. |
 | relatedObjectFilters | TypeApex-definedDescriptionA collection of Apex runtime_industries_cpq.RelatedObjectFilterInputRepresentation records, where each record contains a related object and the filter criteria that’s applied on the object. |
 | searchTerm | TypestringDescriptionRequired.Search term to find and retrieve products. |
 | userContext | TypeApex-definedDescriptionAn Apex ConnectApi.UserContextInputRepresentation record that contains the user details to evaluate product eligibility and calculate prices. |
@@ -82,15 +69,13 @@ Authorization: Bearer token
 
 ## Example
 
-POST
-
-This sample request is for the Find Products action.
+Here's a sample input to call this invocable action from Apex code.
 
 ```
 
 ```
 
-This is the sample response for the Find Products action.
+Here’s a sample response for this action.
 
 ```
 
@@ -118,157 +103,482 @@ Configure the action (for example, Find Products action) to add values for the A
 
 ## Code Examples
 
-```
-{
-  "inputs": [
-    {
-      "searchTerm": "firstproduct",
-      "additionalContextData": [
-        {
-          "nodeName": "Contract",
-          "nodeData": {
-            "id": "xxxxx231",
-            "name": "Contract1"
-          }
-        },
-        {
-          "nodeName": "Lead",
-          "nodeData": {
-            "id": "lllllll31",
-            "name": "Lead1"
-          }
-        }
-      ],
-      "additionalFields": {
-        "Product2": {
-          "fields": [
-            "CustomField1__c",
-            "StandardField1"
-          ]
-        }
-      },
-      "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-      "catalogId": "0ZSxx0000000001GAA",
-      "categoryId": "0ZGxx0000000004TAJ",
-      "currencyCode": "USD",
-      "priceBookId": "01sxx0000005puLAAQ",
-      "productClassificationId": "11BRO00000000222AA",
-      "limit": 10,
-      "cursor": "MTAwMDAwMDAwNg==",
-      "orderBy": [
-        "name:asc"
-      ],
-      "userContext": {
-        "accountId": "001xx0000000001AAA"
-      },
-      "enableQualification": true,
-      "enablePricing": true,
-      "qualificationProcedure": "QualificationProcedure",
-      "pricingProcedure": "Preview",
-      "contextDefinition": "TestDefinition",
-      "contextMapping": "TestDefinitionNode",
-      "includeCatalogDetails": false,
-      "filter": {
-        "criteria": [
-          {
-            "property": "name",
-            "operator": "eq",
-            "value": "Catalog_Name_1"
-          }
-        ]
-      },
-      "relatedObjectFilters": [
-        {
-          "objectName": "ProductSpecificationRecType",
-          "criteria": [
-            {
-              "property": "IsCommercial",
-              "operator": "eq",
-              "value": true
-            }
-          ]
-        }
-      ]
+```apex
+Invocable.Action action = Invocable.Action.createStandardAction('findProducts');
+action.setInvocationParameter('searchTerm', 'Additional API');
+action.setInvocationParameter('executeConfigurationRules', true);
+action.setInvocationParameter('catalogId', '0ZSVW000000AhdB4AS');
+action.setInvocationParameter('transactionId', '0Q0VW0000018J6X0AU');
+List<String> orderBy = new List<String>();
+orderBy.add('name:asc');
+action.setInvocationParameter('orderBy', orderBy);
+List<Invocable.Action.Result> results = action.invoke();
+
+for (Invocable.Action.Result res : results) {
+    if (res.isSuccess()) {
+        Map<String, Object> outMap = res.getOutputParameters();
+        String jsonOutput = JSON.serialize(outMap);	
+        System.debug(jsonOutput);
     }
-  ]
 }
 ```
 
 ```
 {
-    "apiStatus": {
-      "messages": [],
-      "statusCode": "FETCHED_DETAILS_SUCCESSFULLY"
-    },
-    "contextId": "0U3RM00000000SR0AY",
-    "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-    "cursor": "MTAwMDAwMDAwNg==",
-    "result": [
-      {
-        "additionalFields": {
-          "CustomField1__c": "TextValue",
-          "CustomField2__c": "10",
-          "StandardField1": "false"
-        },
-        "description": "IPhone-13",
-        "id": "01txx0000006kYwAAI",
-        "name": "Sample product 1",
-        "prices": [
-          {
-            "price": 150,
-            "priceBookEntryId": "12Axx0000004DF7EAM",
-            "priceBookId": "01sxx0000005puLAAQ",
-            "pricingModel": {
-              "frequency": "Monthly",
-              "id": "12Bxx000000CiCDEA0",
-              "name": "IPhone-13",
-              "occurrence": 6,
-              "pricingModelType": "Recurring"
-            }
+  "facets": [],
+  "apiStatus": {
+    "statusMessage": null,
+    "statusCode": "FetchedDetailsSuccessfully",
+    "messages": []
+  },
+  "results": [
+    {
+      "unitOfMeasure": null,
+      "status": null,
+      "qualificationContext": {
+        "reason": null,
+        "isQualified": true
+      },
+      "productType": null,
+      "productSpecificationType": null,
+      "productSellingModelOptions": [
+        {
+          "productSellingModelId": "0jPVW0000001fh32AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Annual",
+            "pricingTerm": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA"
           },
-          {
-            "price": 400,
-            "priceBookEntryId": "12Axx0000004DGjEAM",
-            "priceBookId": "01sxx0000005puLAAQ",
-            "pricingModel": {
-              "id": "12Bxx000000CiCCEA0",
-              "name": "IPhone-13",
-              "pricingModelType": "OneTime"
-            }
-          }
-        ],
-        "qualificationContext": {
-          "isQualified": true
-        }
-      },
-      {
-        "additionalFields": {
-          "CustomField1__c": "TextValue",
-          "CustomField2__c": "10",
-          "StandardField1": "false"
+          "productId": "01tVW000003l7txYAA",
+          "id": "0iOVW00000049w22AA"
         },
-        "description": "Sample product 2",
-        "name": "Sample product 2",
-        "id": "01txx0000006kYwAAI",
-        "prices": [],
-        "qualificationContext": {
-          "isQualified": false
+        {
+          "productSellingModelId": "0jPVW0000001fh52AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "Evergreen",
+            "pricingTermUnit": "Months",
+            "pricingTerm": 1,
+            "name": "Evergreen Monthly",
+            "id": "0jPVW0000001fh52AA"
+          },
+          "productId": "01tVW000003l7txYAA",
+          "id": "0iOVW00000049w12AA"
+        },
+        {
+          "productSellingModelId": "0jPVW0000001fh62AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Months",
+            "pricingTerm": 1,
+            "name": "Term Monthly",
+            "id": "0jPVW0000001fh62AA"
+          },
+          "productId": "01tVW000003l7txYAA",
+          "id": "0iOVW00000049w32AA"
         }
+      ],
+      "productRelatedComponent": null,
+      "productQuantity": null,
+      "productPricingInformation": null,
+      "productInformation": null,
+      "productComponentGroups": [],
+      "productCode": "QB-API",
+      "productClassification": {
+        "id": "11BVW000004ljiZ2AQ"
       },
-      {
-        "description": "Sample product 3",
-        "name": "Sample product 3",
-        "id": "01txx0000006kYwAAI",
-        "prices": [],
-        "qualificationContext": {
-          "isQualified": true
+      "prices": [
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA",
+            "frequency": "Annual"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzfGYAQ",
+          "price": 15000,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": true,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        },
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "Evergreen",
+            "occurrence": 1,
+            "name": "Evergreen Monthly",
+            "id": "0jPVW0000001fh52AA",
+            "frequency": "Months"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzg8YAA",
+          "price": 2000,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": false,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        },
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Monthly",
+            "id": "0jPVW0000001fh62AA",
+            "frequency": "Months"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzg9YAA",
+          "price": 1500,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": false,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
         }
-      }
-    ],
-    "userContext": {
-      "accountId": "001xx0000000001AAA"
+      ],
+      "nodeType": "simpleProduct",
+      "name": "Additional API",
+      "isSoldOnlyWithOtherProds": false,
+      "isQuantityEditable": null,
+      "isDefaultComponent": null,
+      "isComponentRequired": null,
+      "isAssetizable": true,
+      "isActive": true,
+      "id": "01tVW000003l7txYAA",
+      "endOfLifeDate": null,
+      "displayUrl": "/resource/add_api",
+      "discontinuedDate": null,
+      "description": null,
+      "configureDuringSale": "Allowed",
+      "configurationRules": [
+        {
+          "type": "disable",
+          "details": [
+            {
+              "message": "This is disabled"
+            }
+          ]
+        }
+      ],
+      "catalogs": [],
+      "availabilityDate": null,
+      "attributeCategories": [],
+      "additionalFields": []
+    },
+    {
+      "unitOfMeasure": null,
+      "status": null,
+      "qualificationContext": {
+        "reason": null,
+        "isQualified": true
+      },
+      "productType": null,
+      "productSpecificationType": null,
+      "productSellingModelOptions": [
+        {
+          "productSellingModelId": "0jPVW0000001fh32AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Annual",
+            "pricingTerm": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA"
+          },
+          "productId": "01tVW000003l7tyYAA",
+          "id": "0iOVW00000049w42AA"
+        }
+      ],
+      "productRelatedComponent": null,
+      "productQuantity": null,
+      "productPricingInformation": null,
+      "productInformation": null,
+      "productComponentGroups": [],
+      "productCode": "QB-API-FLEX",
+      "productClassification": {
+        "id": null
+      },
+      "prices": [
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA",
+            "frequency": "Annual"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzfFYAQ",
+          "price": 450,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": true,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        }
+      ],
+      "nodeType": "simpleProduct",
+      "name": "Additional API Flex (100M)",
+      "isSoldOnlyWithOtherProds": false,
+      "isQuantityEditable": null,
+      "isDefaultComponent": null,
+      "isComponentRequired": null,
+      "isAssetizable": true,
+      "isActive": true,
+      "id": "01tVW000003l7tyYAA",
+      "endOfLifeDate": null,
+      "displayUrl": "/resource/api_flex",
+      "discontinuedDate": null,
+      "description": "API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.",
+      "configureDuringSale": null,
+      "configurationRules": [],
+      "catalogs": [],
+      "availabilityDate": null,
+      "attributeCategories": [],
+      "additionalFields": []
+    },
+    {
+      "unitOfMeasure": null,
+      "status": null,
+      "qualificationContext": {
+        "reason": null,
+        "isQualified": true
+      },
+      "productType": null,
+      "productSpecificationType": null,
+      "productSellingModelOptions": [
+        {
+          "productSellingModelId": "0jPVW0000001fh32AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Annual",
+            "pricingTerm": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA"
+          },
+          "productId": "01tVW000003l7tzYAA",
+          "id": "0iOVW00000049w52AA"
+        }
+      ],
+      "productRelatedComponent": null,
+      "productQuantity": null,
+      "productPricingInformation": null,
+      "productInformation": null,
+      "productComponentGroups": [],
+      "productCode": "QB-API-GOVT",
+      "productClassification": {
+        "id": null
+      },
+      "prices": [
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA",
+            "frequency": "Annual"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzfHYAQ",
+          "price": 1450,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": true,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        }
+      ],
+      "nodeType": "simpleProduct",
+      "name": "Additional API Gov",
+      "isSoldOnlyWithOtherProds": false,
+      "isQuantityEditable": null,
+      "isDefaultComponent": null,
+      "isComponentRequired": null,
+      "isAssetizable": true,
+      "isActive": true,
+      "id": "01tVW000003l7tzYAA",
+      "endOfLifeDate": null,
+      "displayUrl": "/resource/api_govt",
+      "discontinuedDate": null,
+      "description": "API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.",
+      "configureDuringSale": null,
+      "configurationRules": [],
+      "catalogs": [],
+      "availabilityDate": null,
+      "attributeCategories": [],
+      "additionalFields": []
+    },
+    {
+      "unitOfMeasure": null,
+      "status": null,
+      "qualificationContext": {
+        "reason": null,
+        "isQualified": true
+      },
+      "productType": null,
+      "productSpecificationType": null,
+      "productSellingModelOptions": [
+        {
+          "productSellingModelId": "0jPVW0000001fh32AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Annual",
+            "pricingTerm": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA"
+          },
+          "productId": "01tVW000003l7u0YAA",
+          "id": "0iOVW00000049w92AA"
+        }
+      ],
+      "productRelatedComponent": null,
+      "productQuantity": null,
+      "productPricingInformation": null,
+      "productInformation": null,
+      "productComponentGroups": [],
+      "productCode": "QB-API-PREP",
+      "productClassification": {
+        "id": null
+      },
+      "prices": [
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA",
+            "frequency": "Annual"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzfSYAQ",
+          "price": 3240,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": true,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        }
+      ],
+      "nodeType": "simpleProduct",
+      "name": "Additional API Pre-Prod",
+      "isSoldOnlyWithOtherProds": false,
+      "isQuantityEditable": null,
+      "isDefaultComponent": null,
+      "isComponentRequired": null,
+      "isAssetizable": true,
+      "isActive": true,
+      "id": "01tVW000003l7u0YAA",
+      "endOfLifeDate": null,
+      "displayUrl": "/resource/api_preprod",
+      "discontinuedDate": null,
+      "description": "API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.",
+      "configureDuringSale": null,
+      "configurationRules": [],
+      "catalogs": [],
+      "availabilityDate": null,
+      "attributeCategories": [],
+      "additionalFields": []
+    },
+    {
+      "unitOfMeasure": null,
+      "status": null,
+      "qualificationContext": {
+        "reason": null,
+        "isQualified": true
+      },
+      "productType": null,
+      "productSpecificationType": null,
+      "productSellingModelOptions": [
+        {
+          "productSellingModelId": "0jPVW0000001fh32AA",
+          "productSellingModel": {
+            "status": "Active",
+            "sellingModelType": "TermDefined",
+            "pricingTermUnit": "Annual",
+            "pricingTerm": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA"
+          },
+          "productId": "01tVW000003l7u1YAA",
+          "id": "0iOVW00000049wA2AQ"
+        }
+      ],
+      "productRelatedComponent": null,
+      "productQuantity": null,
+      "productPricingInformation": null,
+      "productInformation": null,
+      "productComponentGroups": [],
+      "productCode": "QB-API-PROD",
+      "productClassification": {
+        "id": null
+      },
+      "prices": [
+        {
+          "pricingModel": {
+            "unitOfMeasure": null,
+            "pricingModelType": "TermDefined",
+            "occurrence": 1,
+            "name": "Term Annual",
+            "id": "0jPVW0000001fh32AA",
+            "frequency": "Annual"
+          },
+          "priceBookId": "01sVW0000024PZlYAM",
+          "priceBookEntryId": "01uVW000000jzfdYAA",
+          "price": 3240,
+          "isSelected": false,
+          "isDerived": false,
+          "isDefault": true,
+          "effectiveTo": null,
+          "effectiveFrom": null,
+          "currencyIsoCode": "USD"
+        }
+      ],
+      "nodeType": "simpleProduct",
+      "name": "Additional API Prod",
+      "isSoldOnlyWithOtherProds": false,
+      "isQuantityEditable": null,
+      "isDefaultComponent": null,
+      "isComponentRequired": null,
+      "isAssetizable": true,
+      "isActive": true,
+      "id": "01tVW000003l7u1YAA",
+      "endOfLifeDate": null,
+      "displayUrl": "/resource/api_prod",
+      "discontinuedDate": null,
+      "description": "API instances remain under management until they are deleted. Instances of API Manager are aggregated using a Max Concurrent model. The usage for a month is the highest number of APIs Managed in a single given hour during a month.",
+      "configureDuringSale": null,
+      "configurationRules": [],
+      "catalogs": [],
+      "availabilityDate": null,
+      "attributeCategories": [],
+      "additionalFields": []
     }
-  }
+  ],
+  "contextId": "0000000r25tp21g002517775323419202e0743b1f275423d8a489c12ca99da72",
+  "correlationId": "4ac34e38-13d6-4720-97c4-4db7b3d41678"
+}
 ```
 
 ```apex

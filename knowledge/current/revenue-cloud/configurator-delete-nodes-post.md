@@ -5,7 +5,7 @@ topic: configurator-delete-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.190Z
+lastCollected: 2026-06-07T00:37:38.449Z
 estimatedTokens: 268
 keywords: [Configurator, Nodes, POST, product, configuration]
 ---
@@ -64,7 +64,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator/actions/delete-nodes
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/configurator/actions/delete-nodes
 ```
 
 ```

@@ -2,7 +2,7 @@
 domain: salesforce-reports-enhanced-reports-tab-tipsheet
 name: Using the Reports Tab
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.348Z
+lastGenerated: 2026-06-07T00:37:45.613Z
 ---
 
 # Using the Reports Tab — Knowledge Index

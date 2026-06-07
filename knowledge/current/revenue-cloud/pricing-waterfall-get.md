@@ -5,7 +5,7 @@ topic: pricing-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.694Z
+lastCollected: 2026-06-07T00:37:38.930Z
 estimatedTokens: 534
 keywords: [Pricing, Waterfall, persisted, price, stores, process, logs, insights, every, step, Advanced]
 ---
@@ -17,7 +17,7 @@ keywords: [Pricing, Waterfall, persisted, price, stores, process, logs, insights
 
 Get the persisted price waterfall that stores the process logs. Price waterfall provides insights into every step of the pricing process.
 
-If price waterfall persistence is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can view the waterfall details in the [Pricing API](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_headless.htm "HTML (New Window)") or [Price Context API](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_price_context.htm "HTML (New Window)") response if price waterfall is enabled in Salesforce Pricing Setup.
+If price waterfall persistence is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can view the waterfall details in the [Pricing API](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_headless.htm "HTML (New Window)") or [Price Context API](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_price_context.htm "HTML (New Window)") response if price waterfall is enabled in Salesforce Pricing Setup.
 
 ## Advanced Price Logs
 
@@ -61,7 +61,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/waterfall/Gold/2yHdNNEFOZr9jAe4gHS7?tagsToFilter=UnitPrice
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/waterfall/Gold/2yHdNNEFOZr9jAe4gHS7?tagsToFilter=UnitPrice
 ```
 
 ## Related Topics

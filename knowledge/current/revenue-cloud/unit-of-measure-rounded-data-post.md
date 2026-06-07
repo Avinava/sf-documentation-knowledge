@@ -5,7 +5,7 @@ topic: unit-of-measure-rounded-data-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.931Z
+lastCollected: 2026-06-07T00:37:39.206Z
 estimatedTokens: 232
 keywords: [Unit, Measure, Rounded, POST, Round, off, scale, decimal, specific]
 ---
@@ -63,7 +63,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/unit-of-measure/rounded-data
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/unit-of-measure/rounded-data
 ```
 
 ```

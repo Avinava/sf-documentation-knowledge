@@ -5,7 +5,7 @@ topic: procedure-plan-version-details-get-patch-delete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.383Z
+lastCollected: 2026-06-07T00:37:38.639Z
 estimatedTokens: 907
 keywords: [Procedure, Plan, PATCH, definition, record]
 ---
@@ -53,7 +53,7 @@ JSON example
 
 ```
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -87,7 +87,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com​/services/data​/v66.0/connect/​procedure-plan-definitions/​versions/1Cvxx0000004E1ACAU
+https://yourInstance.salesforce.com​/services/data​/v67.0/connect/​procedure-plan-definitions/​versions/1Cvxx0000004E1ACAU
 ```
 
 ```

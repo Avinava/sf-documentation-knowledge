@@ -5,7 +5,7 @@ topic: transaction-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.029Z
+lastCollected: 2026-06-07T00:37:42.403Z
 estimatedTokens: 143
 keywords: [Transaction, Management, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---

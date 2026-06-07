@@ -5,7 +5,7 @@ topic: api-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:38:59.390Z
+lastCollected: 2026-06-07T00:37:33.989Z
 estimatedTokens: 1695
 keywords: [Flags, api, Commands, Execute, GraphQL, statement, Beta, Examples, rest]
 ---
@@ -25,7 +25,7 @@ Commands to interact with API calls.
 
 Execute a GraphQL statement.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -125,7 +125,7 @@ Type: option
 
 Make an authenticated HTTP request using the Salesforce REST API.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 

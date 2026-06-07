@@ -5,7 +5,7 @@ topic: variable-annotations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:02.834Z
+lastCollected: 2026-06-07T00:37:37.269Z
 estimatedTokens: 1342
 keywords: [Variable, Annotations, annotate, variables, configurable, defaultValue, domainComputation, relatedAttributes]
 ---
@@ -19,7 +19,7 @@ You can annotate variables with properties such as configurable, defaultValue, d
 
 In this example, the gc\_runningKw variable is annotated to indicate that it's not configurable and has a default value of 0.00.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

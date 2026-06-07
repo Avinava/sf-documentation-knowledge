@@ -5,7 +5,7 @@ topic: rate-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.035Z
+lastCollected: 2026-06-07T00:37:42.414Z
 estimatedTokens: 214
 keywords: [Rate, Management, Business, APIs, plan, persisted, rating, waterfall]
 ---
@@ -24,7 +24,7 @@ Use the Rate Management Business APIs to get rate plan and persisted rating wate
 
 #### See Also
 
--   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
+-   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.262.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
 
 ## Related Topics
 

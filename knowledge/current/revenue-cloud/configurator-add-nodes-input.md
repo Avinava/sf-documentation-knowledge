@@ -5,7 +5,7 @@ topic: configurator-add-nodes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.886Z
+lastCollected: 2026-06-07T00:37:37.324Z
 estimatedTokens: 171
 keywords: [Configurator, Add, Nodes, root, node]
 ---

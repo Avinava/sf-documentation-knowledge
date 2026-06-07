@@ -5,7 +5,7 @@ topic: deployment-workflows-and-sequence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:07.071Z
+lastCollected: 2026-06-07T00:37:41.626Z
 estimatedTokens: 1092
 keywords: [Deployment, Workflows, Sequence, typical, dev, ops, cycle, involves, managing, test, orgs, sandboxes, production, org, workflow, simple, setup, development, much, complex, involving, multiple, staging, testing, any, changes, sent, Full, Incremental, Dependencies]
 ---
@@ -21,7 +21,7 @@ A typical dev ops cycle involves managing test orgs, sandboxes, and a production
 
 Here's a diagram illustrating several potential deployment plans.
 
-![Illustration for potential deployment plans](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Frev_lifecycle_mgmt%2Fdeployment_guide%2Fimages%2Fdeployment_workflows.png&folder=revenue_lifecycle_management_dev_guide)
+![Illustration for potential deployment plans](/docs/resources/img/en-us/262.0?doc_id=dev_guides%2Frev_lifecycle_mgmt%2Fdeployment_guide%2Fimages%2Fdeployment_workflows.png&folder=revenue_lifecycle_management_dev_guide)
 
 ## Full vs. Incremental Deployment
 
@@ -51,7 +51,7 @@ Here are a few deployment dependency examples.
 -   The Attribute Based Adjustment Rule must be deployed before you can insert any Attribute Based Adjustment records.
 -   Decision Tables (metadata records) must be deployed before deploying Pricing Recipes (metadata records).
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

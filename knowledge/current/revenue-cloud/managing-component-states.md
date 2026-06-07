@@ -5,7 +5,7 @@ topic: managing-component-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.771Z
+lastCollected: 2026-06-07T00:37:41.356Z
 estimatedTokens: 816
 keywords: [Managing, States, Manage, activation, versioning, dependencies, part, deployment, plan, successful, sure, system, executes, intended, final, active, logic, preventing, failures, caused, stale, inactive, State, Management, Scenarios, Helpful, Links]
 ---
@@ -55,7 +55,7 @@ Refer to these links for examples and component-specific information:
 -   [Migration of Expression Sets with Dependencies](https://help.salesforce.com/s/articleView?id=ind.how_to_migrate_expression_sets_with_dep.htm&language=en_US)
 -   [Migrate Context Definitions](https://help.salesforce.com/s/articleView?id=ind.context_service_context_definitions_packages.htm&language=en_US)
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

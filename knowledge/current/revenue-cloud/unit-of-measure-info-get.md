@@ -5,7 +5,7 @@ topic: unit-of-measure-info-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.922Z
+lastCollected: 2026-06-07T00:37:39.197Z
 estimatedTokens: 234
 keywords: [Unit, Measure, Info, specific, records]
 ---
@@ -55,7 +55,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/unit-of-measure/info
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/unit-of-measure/info
 ```
 
 ## Related Topics

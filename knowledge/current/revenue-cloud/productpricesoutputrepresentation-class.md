@@ -5,8 +5,8 @@ topic: productpricesoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.655Z
-estimatedTokens: 1489
+lastCollected: 2026-06-07T00:37:36.223Z
+estimatedTokens: 1565
 keywords: [ProductPricesOutputRepresentation, price, product, currencyIsoCode, effectiveFrom, effectiveTo, isDefault, isDerived, isSelected, priceBookEntryId, priceBookId, pricingModel]
 ---
 
@@ -168,7 +168,7 @@ public runtime\_industries\_cpq.PricingModelOutputRepresentation pricingModel {g
 
 #### Property Value
 
-Type: runtime\_industries\_cpq.PricingModelOutputRepresentation
+Type: [runtime\_industries\_cpq.PricingModelOutputRepresentation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/apex_class_runtime_industries_cpq_PricingModelOutputRepresentation.htm#apex_class_runtime_industries_cpq_PricingModelOutputRepresentation "Contains details of a pricing model in a product configuration.")
 
 ## Related Topics
 

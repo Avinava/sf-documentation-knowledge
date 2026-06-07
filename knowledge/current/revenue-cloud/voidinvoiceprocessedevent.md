@@ -5,7 +5,7 @@ topic: voidinvoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T18:35:50.835Z
+lastCollected: 2026-06-07T00:37:44.307Z
 estimatedTokens: 659
 keywords: [VoidInvoiceProcessedEvent, notification, customers, process, started, commerce, invoicing, invoices, invoiceId, actions, attempts, invoice, crediting, changing, status, Voided, prevents, further, changes, API, 62.0, Subscribers, Subscription, Channel, Event, Delivery, Allocation, Enforced]
 ---

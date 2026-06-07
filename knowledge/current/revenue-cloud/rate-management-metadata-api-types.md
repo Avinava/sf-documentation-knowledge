@@ -5,7 +5,7 @@ topic: rate-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.082Z
+lastCollected: 2026-06-07T00:37:42.449Z
 estimatedTokens: 207
 keywords: [Rate, Management, Metadata, API, feature, settings, customize, user]
 ---

@@ -5,7 +5,7 @@ topic: core-concept-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-10T00:39:02.513Z
+lastCollected: 2026-06-07T00:37:36.906Z
 estimatedTokens: 1624
 keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key, Technical, Groupby, Annotation, Virtual, Group, Sharingcount, Reuse, Accessory, Instances, contextPath, tagName, Annotations, Specifiers, Dates, Arithmetic, Calculations, Functions, Considerations, Aggregations]
 ---
@@ -79,7 +79,7 @@ In this example, we apply sharingcount annotation to the Accessory type to allow
 -   contextPath Annotation: This maps the variable directly to a header-level field in the Sales Transaction.
 -   tagName Annotation: This links the variable to a specific Context Tag identifier within the Salesforce Context Definition.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

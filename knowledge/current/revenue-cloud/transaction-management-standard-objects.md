@@ -5,8 +5,8 @@ topic: transaction-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:08.023Z
-estimatedTokens: 3363
+lastCollected: 2026-06-07T00:37:42.397Z
+estimatedTokens: 3430
 keywords: [Transaction, Management, Standard, model, manage, transactions]
 ---
 
@@ -32,7 +32,7 @@ The Transaction Management data model provides objects and fields to manage tran
 -   **[AssetOwnerSharingRule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assetownersharingrule.htm)**
     Represents the rules for sharing an Asset with users other than the owner. This object is available in API version 33.0 and later.
 -   **[AssetRateAdjustment](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assetrateadjustment.htm)**
-    Stores the tier rate adjustments for the asset rate card entries. This object is available in API version 62.0 and later.
+    Stores the tier rate adjustments for the asset rate card entries.This object is available in API version 62.0 and later.
 -   **[AssetRateCardEntry](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assetratecardentry.htm)**
     Stores the negotiated rate card entries that are associated with an asset in Revenue Cloud. This object is available in API version 62.0 and later.
 -   **[AssetRelationship](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assetrelationship.htm)**
@@ -46,7 +46,7 @@ The Transaction Management data model provides objects and fields to manage tran
 -   **[AssetTag](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assettag.htm)**
     Associates a word or short phrase with an Asset.
 -   **[AssetTokenEvent](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assettokenevent.htm)**
-    The documentation has moved to [AssetTokenEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/sforce_api_objects_assettokenevent.htm "HTML (New Window)") in the Platform Events Developer Guide.
+    The documentation has moved to [AssetTokenEvent](https://developer.salesforce.com/docs/atlas.en-us.262.0.platform_events.meta/platform_events/sforce_api_objects_assettokenevent.htm "HTML (New Window)") in the Platform Events Developer Guide.
 -   **[AssetWarranty](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_assetwarranty.htm)**
     Defines the warranty terms applicable to an asset along with any exclusions and extensions. This object is available in API version 50.0 and later.
 -   **[BindingObjUsageRsrcPlcy](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_bindingobjusagersrcplcy.htm)**
@@ -75,6 +75,8 @@ The Transaction Management data model provides objects and fields to manage tran
     Represents the type of the sales transaction. This object is available in API version 61.0 and later.
 -   **[QuoteAction](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quoteaction.htm)**
     Indicates the type of sales transaction that’s being quoted; for example, a renewal sale. This object is available in API version 59.0 and later.
+-   **[QuoteItemTaxItem](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quoteitemtaxitem.htm)**
+    The tax that is applied to a quote line item. This object is available in API version 55.0 and later.
 -   **[QuoteLineDetail](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelinedetail.htm)**
     Represents the breakdown details of a quote line item. Revenue Cloud generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
 -   **[QuoteLineGroup](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelinegroup.htm)**
@@ -92,10 +94,10 @@ The Transaction Management data model provides objects and fields to manage tran
 
 #### See Also
 
--   [*Object Reference for the Salesforce Platform*: Overview of Salesforce Objects and Fields](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm "Object Reference for the Salesforce Platform: Overview of Salesforce Objects
+-   [*Object Reference for the Salesforce Platform*: Overview of Salesforce Objects and Fields](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm "Object Reference for the Salesforce Platform: Overview of Salesforce Objects
     and Fields  - HTML (New Window)")
 
--   [*SOAP API Developer Guide*: Introduction to SOAP API](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_quickstart_intro.htm "SOAP API Developer Guide: Introduction to SOAP API - HTML (New Window)")
+-   [*SOAP API Developer Guide*: Introduction to SOAP API](https://developer.salesforce.com/docs/atlas.en-us.262.0.api.meta/api/sforce_api_quickstart_intro.htm "SOAP API Developer Guide: Introduction to SOAP API - HTML (New Window)")
 
 ## Related Topics
 

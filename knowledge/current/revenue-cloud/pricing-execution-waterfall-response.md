@@ -5,8 +5,8 @@ topic: pricing-execution-waterfall-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:04.998Z
-estimatedTokens: 291
+lastCollected: 2026-06-07T00:37:39.278Z
+estimatedTokens: 405
 keywords: [Pricing, Execution, Waterfall, process, that's]
 ---
 
@@ -25,10 +25,14 @@ JSON example
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
+| apiEndpoint | String | API endpoint that ran during the pricing request. | Small, 63.0 | Small, 63.0 |
 | apiExecutionId | String | Unique execution ID that's generated each time a pricing API is executed. | Small, 63.0 | Small, 63.0 |
 | apiExecution​LogRepresentation​List | API Execution Log Response[] | List of API execution logs. | Small, 63.0 | 63.0 |
+| currencyCode | String | Currency code that’s stored in each API log record for the pricing execution. | Small, 67.0 | Small, 67.0 |
 | error | Pricing Error Response | Error details of the pricing execution process. | Small, 63.0 | Small, 63.0 |
 | executionId | String | Unique ID that's generated each time a pricing process is executed. | Small, 63.0 | Small, 63.0 |
+| id | String | Unique record ID of the waterfall response. | Small, 65.0 | Small, 65.0 |
+| lineItemId | String | Unique ID of the line item that's associated with this pricing execution. | Small, 59.0 | Small, 59.0 |
 | referenceKey | String | The reference ID that a consuming workstream provides in the API to search for the specific logs in the Pricing Operations Console. | Small, 63.0 | Small, 63.0 |
 | success | Boolean | Indicates whether the API execution is successful (true) or not (false). | Small, 63.0 | Small, 63.0 |
 | usageType | String | Usage type of the API execution. | Small, 63.0 | Small, 63.0 |
@@ -37,6 +41,7 @@ JSON example
 
 ```
 {
+  "apiEndpoint": "/connect/core-pricing/pricing",
   "apiExecutionId": "263369316770986",
   "apiExecutionLogRepresentationList": [
     {
@@ -45,7 +50,10 @@ JSON example
       ]
     }
   ],
+  "currencyCode": "USD",
   "executionId": "263369316895959",
+  "id": "263369316895960",
+  "lineItemId": null,
   "referenceKey": "referenceKey-ABCD",
   "success": false,
   "usageType": "Api_Execution"

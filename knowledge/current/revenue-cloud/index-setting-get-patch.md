@@ -5,7 +5,7 @@ topic: index-setting-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.325Z
+lastCollected: 2026-06-07T00:37:38.572Z
 estimatedTokens: 298
 keywords: [Index, Setting, PATCH, Fetch, settings, indexing, search]
 ---
@@ -72,7 +72,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/setting
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/index/setting
 ```
 
 ```

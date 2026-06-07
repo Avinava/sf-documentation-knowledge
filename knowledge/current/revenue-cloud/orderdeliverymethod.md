@@ -5,7 +5,7 @@ topic: orderdeliverymethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:08.953Z
+lastCollected: 2026-06-07T00:37:43.182Z
 estimatedTokens: 797
 keywords: [OrderDeliveryMethod, customizations, options, buyer, selected, their, delivery, API, 48.0]
 ---
@@ -45,6 +45,6 @@ To access Commerce Orders entities, your org must have a Salesforce Order Manage
 
 This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[OrderDeliveryMethodChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm) (API version 62.0)
+[OrderDeliveryMethodChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm) (API version 62.0)
 
 Change events are available for the object.

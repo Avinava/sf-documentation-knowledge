@@ -5,7 +5,7 @@ topic: clause-migration-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-10T00:39:06.635Z
+lastCollected: 2026-06-07T00:37:41.209Z
 estimatedTokens: 1452
 keywords: [Clause, Migration, Considerations, prerequisite, Microsoft, template, Review, understand, how, structure, versions, relationships, exist, target, org, migrating, document, templates, Category, Configuration, First-Time, Iterative]
 ---
@@ -41,7 +41,7 @@ Migrate the three document clause objects in the required order.
 -   Document Clause Set
 -   Document Clause
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -66,7 +66,7 @@ For iterative migrations, use upsert operation to update existing clause sets an
 
 Migrate clause category configuration and clause sets before initiating clause migration. Resolve the clause set references (DocumentClauseSet) to the IDs on the target in your export set before migrating.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 

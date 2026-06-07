@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:07.579Z
+lastCollected: 2026-06-07T00:37:42.101Z
 estimatedTokens: 701
 keywords: [Product, Catalog, Management, Product2, Standard, extend, represent, products]
 ---
@@ -34,4 +34,4 @@ Standard and custom fields extend the standard Product2 object for use in Produc
 
 #### See Also
 
--   [Product2](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_product2.htm "Product2 - HTML (New Window)")
+-   [Product2](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_product2.htm "Product2 - HTML (New Window)")

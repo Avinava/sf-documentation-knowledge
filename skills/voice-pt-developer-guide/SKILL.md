@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-voice-pt-developer-guide
-description: Apply Salesforce knowledge and best practices for Service Cloud Voice for Partner Telephony Developer Guide
+description: Apply Salesforce knowledge and best practices for Salesforce Voice with Partner Telephony Developer Guide
 ---
 
-# Salesforce Knowledge Skill: Service Cloud Voice for Partner Telephony Developer Guide
+# Salesforce Knowledge Skill: Salesforce Voice with Partner Telephony Developer Guide
 
-> Connect your telephony system with Service Cloud Voice.
+> Connect your telephony system with Salesforce Voice.
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Service Cloud Voice for Partner Telephony Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Salesforce Voice with Partner Telephony Developer Guide**.
 
 ## How to Use This Knowledge
 

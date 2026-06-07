@@ -5,7 +5,7 @@ topic: invoke-rating-service-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.865Z
+lastCollected: 2026-06-07T00:37:35.542Z
 estimatedTokens: 484
 keywords: [Inputs, Outputs, Invoke, Rating, Service, Action, rate, records, REST, HTTP]
 ---
@@ -26,7 +26,7 @@ The Invoke Rating Service action is available in Enterprise, Unlimited, and Deve
 
 URI
 
-/services/data/v66.0/actions/standard/invokeRatingService
+/services/data/v67.0/actions/standard/invokeRatingService
 
 Formats
 

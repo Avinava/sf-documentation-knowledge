@@ -5,7 +5,7 @@ topic: productpricerange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.627Z
+lastCollected: 2026-06-07T00:37:43.869Z
 estimatedTokens: 911
 keywords: [ProductPriceRange, price, range, product, determined, selling, model, that’s, stored, relevant, book, API, 62.0]
 ---

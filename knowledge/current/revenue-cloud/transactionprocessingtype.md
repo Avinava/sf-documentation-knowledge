@@ -5,7 +5,7 @@ topic: transactionprocessingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:10.278Z
+lastCollected: 2026-06-07T00:37:44.460Z
 estimatedTokens: 1140
 keywords: [TransactionProcessingType, settings, configure, processing, constraints, API, 63.0, SOAP, REST]
 ---
@@ -17,7 +17,7 @@ keywords: [TransactionProcessingType, settings, configure, processing, constrain
 
 Represents the settings to configure the processing constraints for a request.. This object is available in API version 63.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -70,7 +70,7 @@ Here's a sample payload that specifies a value for rating preference and the ste
 ## Code Examples
 
 ```
-/services/data/v66.0/tooling/sobjects/TransactionProcessingType
+/services/data/v67.0/tooling/sobjects/TransactionProcessingType
 ```
 
 ```

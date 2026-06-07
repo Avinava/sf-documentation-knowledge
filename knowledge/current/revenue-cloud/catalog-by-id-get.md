@@ -5,7 +5,7 @@ topic: catalog-by-id-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.264Z
+lastCollected: 2026-06-07T00:37:38.518Z
 estimatedTokens: 273
 keywords: [Catalog, Retrieve, records]
 ---
@@ -64,11 +64,11 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/catalogs/0ZST100000000kUOAQ
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ?language=spanish
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/catalogs/0ZST100000000kUOAQ?language=spanish
 ```
 
 ## Related Topics

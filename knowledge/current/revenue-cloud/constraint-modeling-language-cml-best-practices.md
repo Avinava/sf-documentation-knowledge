@@ -5,9 +5,9 @@ topic: constraint-modeling-language-cml-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-10T00:39:02.457Z
-estimatedTokens: 2938
-keywords: [Constraint, Modeling, Language, CML, Best, Practices, prevent, performance, degradation, unexpected, behaviors, engine, executes, code, follow, writing, Relationship, Cardinality, Specify, Smallest, Range, Decimals, Doubles, Consider, Impact, Scale, Variable, Domains, Keep, Small, Possible, Calculating, Put, Calculations, Inside, Constraints, Relationships, Combine, Reduce, Sequence, Annotation, Order, Execution, Configurable, Automatically, Add, Product, Define, Separate, Quantity, Attribute, Pricing, Configure, Child, Grandchild, Products, Parent, PCG, Group, Relations, Relation, Aggregates, Stabilize, Preferences, Staged, Variables, Dependent, Logic, Premature, Assignment]
+lastCollected: 2026-06-07T00:37:36.855Z
+estimatedTokens: 3281
+keywords: [Constraint, Modeling, Language, CML, Best, Practices, prevent, performance, degradation, unexpected, behaviors, engine, executes, code, follow, writing, Relationship, Cardinality, Specify, Smallest, Range, Decimals, Doubles, Consider, Impact, Scale, Variable, Domains, Keep, Small, Possible, Calculating, Put, Calculations, Inside, Constraints, Relationships, Combine, Reduce, Sequence, Annotation, Order, Execution, Configurable, Automatically, Add, Product, Define, Separate, Quantity, Attribute, Pricing, Configure, Child, Grandchild, Products, Parent, PCG, Group, Relations, Relation, Aggregates, Stabilize, Preferences, Staged, Variables, Dependent, Logic, Premature, Assignment, Consolidate, Multiple, Configurations]
 ---
 
 > To prevent performance degradation or unexpected behaviors when the constraint engine
@@ -202,7 +202,7 @@ Pricing fields, such as ListPrice, NetUnitPrice, and others, are not supported i
 
 Use the parent keyword to configure child and grandchild products dynamically based on the parent product. Control visibility or availability for the child or grandchild using the keyword.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -276,11 +276,33 @@ In this example, the engine processes ShippingMethod first and immediately assig
 
 In this example, using the @(configurable=false) annotation ensures the ShippingMethod attribute remains as null until the calculation completes and the rules execute.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
 Provide a second preference rule for the fallback condition (else) to ensure a value is always set.
+
+```
+
+```
+
+## Consolidate Multiple Default Configurations
+
+Apply dynamic, overridable default quantities to a single component based on multiple possible states of a driving attribute. This process avoids rule conflicts where only the last rule evaluates.
+
+When multiple setdefault rules target the same assignment in the RHS, evaluations can conflict. For example, a conflict can result when the rule targets the same relation and type, such as accessories\[Accessory\] == .... The condition side can use different expressions, but if the rules resolve to the same target on the assignment side, behavior can become order-dependent and lead to inconsistent outcomes.
+
+For example, if you want to set a default for the quantity of Accessories based on the selected DutyRating of a Generator Set, writing three separate setdefault rules causes inconsistent behavior depending on the quantity changes of the accessories.
+
+To prevent the conflict, consolidate the conditional logic into a single derived variable using nested ternary expressions, such as ? :. Then, apply a single setdefault rule using that newly derived variable to drive the relation's quantity.
+
+This example shows the recommended process, consolidating the logic into a single variable and rule.
+
+```
+
+```
+
+Avoid the process shown in this example, which includes multiple conflicting setdefault rules.
 
 ```
 

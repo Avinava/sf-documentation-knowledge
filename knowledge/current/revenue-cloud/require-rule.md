@@ -5,7 +5,7 @@ topic: require-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.693Z
+lastCollected: 2026-06-07T00:37:37.131Z
 estimatedTokens: 336
 keywords: [Require, Rule, requires, certain, included, relationship, conditions, met]
 ---
@@ -21,7 +21,7 @@ Required components can have attributes and quantity specified. The require rule
 
 In certain scenarios, you can independently add a type at the header level. This means you can include a specific type even if it isn't explicitly defined as part of any of the relationships you've configured. This capability offers flexibility in managing and including necessary types that might not always fall under a specific relationship structure.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

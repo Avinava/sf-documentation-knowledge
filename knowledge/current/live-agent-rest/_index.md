@@ -2,7 +2,7 @@
 domain: live-agent-rest
 name: Chat REST API Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.321Z
+lastGenerated: 2026-06-07T00:37:45.580Z
 ---
 
 # Chat REST API Developer Guide — Knowledge Index

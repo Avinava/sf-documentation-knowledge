@@ -4,10 +4,10 @@ domain: revenue-cloud
 topic: get-categories-action
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-05-10T00:39:00.741Z
-estimatedTokens: 788
-keywords: [Inputs, Outputs, Categories, Action, catalog, record, REST, HTTP]
+docType: developer-guide
+lastCollected: 2026-06-07T00:37:35.376Z
+estimatedTokens: 740
+keywords: [Inputs, Outputs, Categories, Action, catalog, record]
 ---
 
 > Get the list of categories associated with a catalog
@@ -19,27 +19,11 @@ Get the list of categories associated with a catalog record.
 
 This action is available in API version 64.0 and later.
 
+You can invoke this action via Apex and Flows only.
+
 ## Special Access Rules
 
 The Get Categories action is available in Enterprise, Unlimited, and Developer Editions where Product Discovery is enabled.
-
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/getCategories
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearertoken
 
 ## Inputs
 
@@ -68,14 +52,6 @@ Authorization: Bearertoken
 
 ## Example
 
-POST
-
-Here's a sample input to call this invocable action.
-
-```
-
-```
-
 Here's a sample input to call this invocable action from Apex code.
 
 ```
@@ -89,33 +65,6 @@ Here's a sample response when you call this action.
 ```
 
 ## Code Examples
-
-```
-{
-  "inputs": [
-    {
-      "catalogId": "0ZSxx0000000002GAA",
-      "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-      "additionalContextData": [
-        {
-          "nodeName": "Quote__c",
-          "nodeData": {
-            "id": "0Q0xx0000004CDsCAM",
-            "businessObjectType": "Quote"
-          }
-        }
-      ],
-      "contextDefinitionName": "CategoryCD",
-      "contextMappingName": "ProductDiscoveryMapping",
-      "EnableQualificationProcedure": true,
-      "QualificationProcedureName": "CatQual02",
-      "userContextInputRepresentation": {
-        "accountId": "001xx000003GYiEAAW"
-      }
-    }
-  ]
-}
-```
 
 ```apex
 Invocable.Action action = Invocable.Action.createStandardAction('getCategories');

@@ -5,7 +5,7 @@ topic: categories-list-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.274Z
+lastCollected: 2026-06-07T00:37:38.529Z
 estimatedTokens: 378
 keywords: [Categories, Retrieve, root-level, catalog, subcategories, parent, category, search, filter, sort]
 ---
@@ -67,11 +67,11 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories?language=spanish
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/catalogs/0ZST100000000kUOAQ/categories?language=spanish
 ```
 
 ## Related Topics

@@ -5,7 +5,7 @@ topic: attributepicklistoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.152Z
+lastCollected: 2026-06-07T00:37:35.738Z
 estimatedTokens: 1018
 keywords: [AttributePickListOutputRepresentation, Stores, attribute, picklist, status, dataType]
 ---

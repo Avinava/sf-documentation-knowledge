@@ -2,7 +2,7 @@
 domain: draes
 name: Designing Record Access for Enterprise Scale
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.307Z
+lastGenerated: 2026-06-07T00:37:45.562Z
 ---
 
 # Designing Record Access for Enterprise Scale — Knowledge Index

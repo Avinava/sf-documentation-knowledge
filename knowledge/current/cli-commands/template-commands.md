@@ -5,7 +5,7 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.566Z
+lastCollected: 2026-06-07T00:37:35.201Z
 estimatedTokens: 9428
 keywords: [Flags, template, Commands, Generate, simple, Analytics, Examples, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage, Beta, lightning, app, event, test, project, static-resource, ui-bundle, visualforce]
 ---
@@ -341,7 +341,7 @@ Default value: before insert
 
 Generate an Experience Cloud site.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -441,7 +441,7 @@ Type: option
 
 Generate a FlexiPage, also known as a Lightning page.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 

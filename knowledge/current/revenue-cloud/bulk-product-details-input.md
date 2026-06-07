@@ -5,7 +5,7 @@ topic: bulk-product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:02.960Z
+lastCollected: 2026-06-07T00:37:37.360Z
 estimatedTokens: 875
 keywords: [Bulk, Product, retrieve, multiple, products]
 ---
@@ -133,7 +133,16 @@ Properties
   ],
   "catalogSystems": [
     "epc"
-  ]
+  ],
+  "additionalFields": {
+    "AttributeDefinition": {
+      "fields": [
+        "OptOutAssetization",
+        "OptOutDecompositionAction",
+        "OptOutSupplementalAction"
+      ]
+    }
+  }
 }
 ```
 

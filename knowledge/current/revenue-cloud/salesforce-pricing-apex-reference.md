@@ -5,7 +5,7 @@ topic: salesforce-pricing-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:07.370Z
+lastCollected: 2026-06-07T00:37:41.881Z
 estimatedTokens: 185
 namespace: The
 keywords: [Salesforce, Pricing, Apex, built-in, classes, interfaces, grouped]
@@ -25,7 +25,7 @@ Use built-in Apex classes and interfaces grouped by namespace.
 
 #### See Also
 
--   [*Apex Developer Guide*: Getting Started with Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_intro_get_started.htm "Apex Developer Guide: Getting Started with Apex - HTML (New Window)")
+-   [*Apex Developer Guide*: Getting Started with Apex](https://developer.salesforce.com/docs/atlas.en-us.262.0.apexcode.meta/apexcode/apex_intro_get_started.htm "Apex Developer Guide: Getting Started with Apex - HTML (New Window)")
 
 ## Related Topics
 

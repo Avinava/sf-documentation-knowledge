@@ -5,7 +5,7 @@ topic: guid-design-and-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:06.742Z
+lastCollected: 2026-06-07T00:37:41.325Z
 estimatedTokens: 652
 keywords: [GUID, Design, Unique, Here's, guidance, good, versus, poor, deployment, Populate, Cycle, Non-Extensible]
 ---
@@ -40,7 +40,7 @@ Once you have created the GUID field on all the Salesforce objects related to yo
 
 Add the GUID column to your import spreadsheets or import file definitions. Populate the field with the GUID format you've chosen. Now, you're ready to use the GUID in your deployment process.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -52,7 +52,7 @@ The GUID is the cornerstone of your deployment and data migration strategy. Duri
 
 In the event of a deployment failure or a post-deployment data issue, administrators can use the GUID to quickly and confidently locate the problematic records in all orgs for precise auditing and troubleshooting.
 
-![Usage of GUID in the Deployment Cycle](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Frev_lifecycle_mgmt%2Fdeployment_guide%2Fimages%2Fdeployment_GUID_Usage.png&folder=revenue_lifecycle_management_dev_guide)
+![Usage of GUID in the Deployment Cycle](/docs/resources/img/en-us/262.0?doc_id=dev_guides%2Frev_lifecycle_mgmt%2Fdeployment_guide%2Fimages%2Fdeployment_GUID_Usage.png&folder=revenue_lifecycle_management_dev_guide)
 
 ## Non-Extensible Objects
 

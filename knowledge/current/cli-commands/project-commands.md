@@ -5,7 +5,7 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:00.441Z
+lastCollected: 2026-06-07T00:37:35.074Z
 estimatedTokens: 22507
 keywords: [Flags, project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Aliases, source-behavior, Beta, deploy, cancel, pipeline, quick, report, resume, start, validate, preview, generate, manifest, ignored, reset, retrieve]
 ---
@@ -237,7 +237,7 @@ Output directory to store the Metadata API–formatted files in.
 
 Type: option
 
-Default value: metadataPackage\_1777470092289
+Default value: metadataPackage\_1779988371889
 
 \-n | \--package-name PACKAGE-NAME
 
@@ -287,7 +287,7 @@ Type: option
 
 Enable a behavior of your project source files, and then update your Salesforce DX project to implement the behavior.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -755,7 +755,7 @@ Type: option
 
 Quickly deploy a validated deployment to an org.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -865,7 +865,7 @@ Type: boolean
 
 Check the status of a pipeline deploy operation.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -933,7 +933,7 @@ Type: boolean
 
 Resume watching a pipeline deploy operation.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -1039,7 +1039,7 @@ Default value: 33 minutes
 
 Deploy changes from a branch to the pipeline stage’s org.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -1193,7 +1193,7 @@ Type: boolean
 
 Perform a validate-only deployment from a branch to the pipeline stage’s org.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 

@@ -1,0 +1,63 @@
+---
+title: "Product Prices"
+domain: revenue-cloud
+topic: product-prices
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-06-07T00:37:40.614Z
+estimatedTokens: 295
+keywords: [Product, Prices]
+---
+
+> Output representation of the details of the product prices.
+
+# Product Prices
+
+Output representation of the details of the product prices.
+
+JSON example
+
+```
+
+```
+
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| currencyIsoCode | String | Currency ISO code of the given price. | Small, 67.0 | 67.0 |
+| effectiveFrom | String | Date from when the given price is effective. | Small, 67.0 | 67.0 |
+| effectiveTo | String | Date until when the given price is effective. | Small, 67.0 | 67.0 |
+| isDefault | Boolean | Indicates whether the given price is default (true) or not (false). | Small, 67.0 | 67.0 |
+| isDerived | Boolean | Indicates whether the given price is derived (true) or not (false). | Small, 67.0 | 67.0 |
+| isSelected | Boolean | Indicates whether the given price is selected (true) or not (false). | Small, 67.0 | 67.0 |
+| price | Double | Price of the product. | Small, 67.0 | 67.0 |
+| priceBookEntryId | String | Price book entry ID of the given price. | Small, 67.0 | 67.0 |
+| priceBookId | String | Price book ID of the given price. | Small, 67.0 | 67.0 |
+| pricingModel | Pricing Model[] | Pricing model of the given price. | Small, 67.0 | 67.0 |
+
+## Code Examples
+
+```
+{
+  "prices": [
+    {
+      "currencyIsoCode": "USD",
+      "isDefault": true,
+      "isDerived": false,
+      "isSelected": false,
+      "price": 7.99,
+      "priceBookEntryId": "01uSG000004wTsEYAU",
+      "priceBookId": "01sSG00000DQCjhYAH",
+      "pricingModel": {
+        "id": "0jPSG000000Avcv2AC",
+        "name": "One Time",
+        "pricingModelType": "OneTime"
+      }
+    }
+  ]
+}
+```
+
+## Related Topics
+
+- Pricing Model (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_pricing_model_output.htm)

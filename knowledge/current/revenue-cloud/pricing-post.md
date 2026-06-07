@@ -5,8 +5,8 @@ topic: pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.486Z
-estimatedTokens: 547
+lastCollected: 2026-06-07T00:37:38.777Z
+estimatedTokens: 577
 keywords: [Pricing, POST, hydrate, context, instance, Provide, comprehensive, final, per, line, items, errors, any]
 ---
 
@@ -18,7 +18,7 @@ keywords: [Pricing, POST, hydrate, context, instance, Provide, comprehensive, fi
 
 Create and hydrate context instance in a single request. Provide a comprehensive response that contains final pricing details per line items and related errors, if any.
 
-If price waterfall is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can use the [Price Waterfall API](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_pricing_waterfall_fetch.htm "HTML (New Window)") to retrieve the waterfall details if price waterfall persistence is enabled in Salesforce Pricing Setup.
+If price waterfall is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can use the [Price Waterfall API](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_pricing_waterfall_fetch.htm "HTML (New Window)") to retrieve the waterfall details if price waterfall persistence is enabled in Salesforce Pricing Setup.
 
 Resource
 
@@ -59,7 +59,7 @@ Properties
 | configuration​Overrides | Configuration Override Input | Parameters to override the pricing configuration. | Optional | 60.0 |
 | context​Definition​Id | String | ID of the context definition that defines the structure of the input data. | Required | 60.0 |
 | context​Mapping​Id | String | ID of the context mapping that maps the input data to the context instance. | Required | 60.0 |
-| json​Data​String | String | Data to hydrate the context, which must be in JSON format and passed as String. Pass the JSON data as String by using the stringify() method to convert the object to string.The keys in the jsonDataString property must be in accordance to the contextMappingId property sent in the request. | Required | 60.0 |
+| json​Data​String | String | Data to hydrate the context, which must be in JSON format and passed as String. Pass the JSON data as String by using the stringify() method to convert the object to string.The keys in the jsonDataString property must be in accordance to the contextMappingId property sent in the request.Make sure that the businessObjectType value within this property node is set to the sObject used in the context mappings. | Required | 60.0 |
 | pricing​Procedure​Id | String | ID or API name of the pricing procedure used for calculating the prices. A pricing procedure is represented as an Expression Set Definition in the system.If you’re an Experience Cloud user, specify the name of the pricing procedure. | Optional | 60.0 |
 
 Response body for POST
@@ -73,7 +73,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/pricing
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/pricing
 ```
 
 ```

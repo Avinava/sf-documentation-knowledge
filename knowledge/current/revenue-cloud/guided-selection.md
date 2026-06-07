@@ -5,8 +5,8 @@ topic: guided-selection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:05.662Z
-estimatedTokens: 203
+lastCollected: 2026-06-07T00:37:39.922Z
+estimatedTokens: 221
 keywords: [Guided, Selection]
 ---
 
@@ -23,6 +23,12 @@ JSON example
 ```
 
 This example shows a sample response with details of eligible promotions.
+
+```
+
+```
+
+This example shows a sample request to run visibility rules.
 
 ```
 
@@ -195,6 +201,106 @@ This example shows a sample response with details of eligible promotions.
           "termsAndConditions": "Applies to select iPhone models."
         }
       ]
+    }
+  ]
+}
+```
+
+```
+{
+  "apiStatus": {
+    "messages": [],
+    "statusCode": "FetchedDetailsSuccessfully"
+  },
+  "correlationId": "ef4f324d-b6d9-47ca-9e78-c6ec60ca5b23",
+  "cursor": "MTAwMDAwMDAwNg==",
+  "offSet": 1,
+  "result": [
+    {
+      "additionalFields": {},
+      "attributeCategories": [],
+      "catalogs": [
+        {
+          "customFields": {},
+          "id": "0ZSVW000000AhdC4AS",
+          "name": "QuantumBit Hardware",
+          "numberOfCategories": 11
+        }
+      ],
+      "categories": [
+        {
+          "catalogId": "0ZSVW000000AhdC4AS",
+          "childCategories": [],
+          "customFields": {},
+          "eligiblePromotions": [],
+          "id": "0ZGVW000000IUEC4A4",
+          "name": "Memory"
+        }
+      ],
+      "childProducts": [],
+      "childVariationIds": [],
+      "configurationRules": [
+        {
+          "details": [
+            {
+              "message": "32GB RDIMM disables 128GB LRDIMM"
+            }
+          ],
+          "type": "disable"
+        }
+      ],
+      "configureDuringSale": "Allowed",
+      "description": "128GB RDIMM",
+      "displayUrl": "/resource/ram_32GB_RDIMM",
+      "eligiblePromotions": [],
+      "id": "01tVW000003l7v5YAA",
+      "isActive": true,
+      "isAssetizable": true,
+      "isSoldOnlyWithOtherProds": false,
+      "name": "128GB LRDIMM",
+      "nodeType": "simpleProduct",
+      "prices": [
+        {
+          "currencyIsoCode": "USD",
+          "isDefault": true,
+          "isDerived": false,
+          "isSelected": false,
+          "price": 0,
+          "priceBookEntryId": "01uVW000000jzfJYAQ",
+          "priceBookId": "01sVW0000024PZlYAM",
+          "pricingModel": {
+            "id": "0jPVW0000001fh42AA",
+            "name": "One-Time",
+            "pricingModelType": "OneTime"
+          }
+        }
+      ],
+      "productClass": "Simple",
+      "productClassification": {},
+      "productCode": "QB-MEM 128GB",
+      "productComponentGroups": [],
+      "productSellingModelOptions": [
+        {
+          "id": "0iOVW00000049xS2AQ",
+          "isDefault": true,
+          "productId": "01tVW000003l7v5YAA",
+          "productSellingModel": {
+            "doesAutoRenewByDefault": false,
+            "id": "0jPVW0000001fh42AA",
+            "name": "One-Time",
+            "sellingModelType": "OneTime",
+            "status": "Active"
+          },
+          "productSellingModelId": "0jPVW0000001fh42AA"
+        }
+      ],
+      "productUnitOfMeasures": []
+    }
+  ],
+  "searchTerms": [
+    {
+      "tags": [],
+      "term": "128GB LRDIMM"
     }
   ]
 }

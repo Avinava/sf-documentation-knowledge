@@ -5,7 +5,7 @@ topic: product-configurator-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.703Z
+lastCollected: 2026-06-07T00:37:42.243Z
 estimatedTokens: 279
 keywords: [Product, Configurator, Metadata, API, feature, settings, customize, user]
 ---
@@ -24,7 +24,7 @@ Metadata API enables you to access some types and feature settings that you can 
 
 #### See Also
 
--   [*Metadata API Developer Guide*: Understanding Metadata API](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_intro.htm "Metadata API Developer Guide: Understanding Metadata API - HTML (New Window)")
+-   [*Metadata API Developer Guide*: Understanding Metadata API](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_meta.meta/api_meta/meta_intro.htm "Metadata API Developer Guide: Understanding Metadata API - HTML (New Window)")
 
 ## Related Topics
 

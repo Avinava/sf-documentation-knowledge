@@ -5,7 +5,7 @@ topic: assetownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.351Z
+lastCollected: 2026-06-07T00:37:42.688Z
 estimatedTokens: 702
 keywords: [AssetOwnerSharingRule, sharing, Asset, users, owner, API, 33.0]
 ---
@@ -17,11 +17,11 @@ keywords: [AssetOwnerSharingRule, sharing, Asset, users, owner, API, 33.0]
 
 Represents the rules for sharing an Asset with users other than the owner. This object is available in API version 33.0 and later.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
-To enable access to this object for your org, contact Salesforce customer support. However, we recommend that you instead use Metadata API to programmatically update owner sharing rules because it triggers automatic sharing rule recalculation. The [SharingRules](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_sharingrules.htm) Metadata API type is enabled for all orgs.
+To enable access to this object for your org, contact Salesforce customer support. However, we recommend that you instead use Metadata API to programmatically update owner sharing rules because it triggers automatic sharing rule recalculation. The [SharingRules](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_meta.meta/api_meta/meta_sharingrules.htm) Metadata API type is enabled for all orgs.
 
 ## Supported Calls
 

@@ -4,10 +4,10 @@ domain: revenue-cloud
 topic: get-category-details-action
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-05-10T00:39:00.759Z
-estimatedTokens: 767
-keywords: [Inputs, Outputs, Category, Action, record, REST, HTTP]
+docType: developer-guide
+lastCollected: 2026-06-07T00:37:35.395Z
+estimatedTokens: 718
+keywords: [Inputs, Outputs, Category, Action, record]
 ---
 
 > Get details of a category record.
@@ -18,27 +18,11 @@ Get details of a category record.
 
 This action is available in API version 64.0 and later.
 
+You can invoke this action via Apex and Flows only.
+
 ## Special Access Rules
 
 The Get Category Details action is available in Enterprise, Unlimited, and Developer Editions where Product Discovery is enabled.
-
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/getCategoryDetails
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearertoken
 
 ## Inputs
 
@@ -65,14 +49,6 @@ Authorization: Bearertoken
 
 ## Example
 
-POST
-
-Here's a sample input to call this invocable action.
-
-```
-
-```
-
 Here's a sample input to call this invocable action from Apex code.
 
 ```
@@ -86,33 +62,6 @@ Here's a sample response when you call this action.
 ```
 
 ## Code Examples
-
-```
-{
-  "inputs": [
-    {
-      "categoryId": "0ZGxx0000000001GAA",
-      "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-      "additionalContextData": [
-        {
-          "nodeName": "Quote__c",
-          "nodeData": {
-            "id": "0Q0xx0000004CDsCAM",
-            "businessObjectType": "Quote"
-          }
-        }
-      ],
-      "contextDefinitionName": "CategoryCD",
-      "contextMappingName": "ProductDiscoveryMapping",
-      "EnableQualificationProcedure": true,
-      "QualificationProcedureName": "CatQual02",
-      "userContextInputRepresentation": {
-        "accountId": "001xx000003GYiEAAW"
-      }
-    }
-  ]
-}
-```
 
 ```apex
 Invocable.Action action = Invocable.Action.createStandardAction('getCategoryDetails');

@@ -5,7 +5,7 @@ topic: info-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-05-10T00:38:59.815Z
+lastCollected: 2026-06-07T00:37:34.429Z
 estimatedTokens: 311
 keywords: [Flags, info, Commands, Display, Salesforce, CLI, release, notes, command, line, releasenotes, Examples, Aliases]
 ---

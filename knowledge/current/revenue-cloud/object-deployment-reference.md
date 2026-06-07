@@ -5,7 +5,7 @@ topic: object-deployment-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:06.530Z
+lastCollected: 2026-06-07T00:37:41.097Z
 estimatedTokens: 686
 keywords: [Deployment, know, sequence]
 ---

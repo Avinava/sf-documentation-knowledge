@@ -5,7 +5,7 @@ topic: product-related-records-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.824Z
+lastCollected: 2026-06-07T00:37:39.104Z
 estimatedTokens: 367
 keywords: [Product, Records, POST, Retrieve, ProductRampSegment, ProductUsageGrant, Product2]
 ---
@@ -39,7 +39,7 @@ HTTP methods
 
 POST
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -72,7 +72,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/relatedRecords/product2
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/relatedRecords/product2
 ```
 
 ```

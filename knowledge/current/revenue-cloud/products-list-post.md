@@ -5,7 +5,7 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.415Z
+lastCollected: 2026-06-07T00:37:38.675Z
 estimatedTokens: 1278
 keywords: [Products, POST, Retrieve, search, filter, sort, catalog, category, subcategory, API, composite, Product, Discovery]
 ---
@@ -53,6 +53,12 @@ This example shows a sample request to retrieve a product list with promotions.
 
 ```
 
+This example shows a sample request to run visibility rules.
+
+```
+
+```
+
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -68,6 +74,7 @@ Properties
 | cursor | String | Unique ID to represent the position of each product in the dataset. | Optional | 60.0 |
 | enable​Pricing | Boolean | Indicates whether to enable pricing for the products (true) or not (false). The default value is true.The Pricing Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Pricing Procedure toggle is disabled, then setting the enablePricing property to true has no effect and the prices property in the API response is returned empty. | Optional | 60.0 |
 | enable​Qualification | Boolean | Indicates whether to enable qualification rules for the products (true) or not (false). The default value is true.The Qualification Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Qualification Procedure toggle is disabled, then setting the enableQualification property to true has no effect and the qualificationContext property in the API response isn’t returned. | Optional | 60.0 |
+| execute​ConfigurationRules | Boolean | Indicates whether to execute configuration rules (true) or not (false). | Optional | 67.0 |
 | filter | Filter Input | Filters records based on supported criteria.The supported property is name.The supported operators are:eqincontains—This value isn't applicable if the Use Indexed Data For Product Listing and Search toggle from the Product Discovery Settings page from Setup is enabled.If multiple criteria are specified, then the resultant criteria are combined by using the and operator. | Optional | 60.0 |
 | include​Catalog​Details | Boolean | Indicates whether to include catalog details in the response (true) or not (false). | Optional | 61.0 |
 | limit | Integer | Number of items to include in the response. The default value is 10. | Optional | 60.0 |
@@ -78,6 +85,8 @@ Properties
 | product​Classification​Id | String | ID of the product classification. | Optional | 60.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s used for the product qualification process. If this property isn’t specified, then the default qualification procedure is executed. | Optional | 60.0 |
 | related​Object​Filters | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
+| transaction​ContextId | String | ID of the transaction context. | Optional | 67.0 |
+| transactionId | String | ID of the transaction. | Optional | 67.0 |
 | usePromotions | Boolean | Indicates whether to fetch applicable promotions from Global Promotion Management (GPM) for each product in the list (true) or not (false). If Promotion feature is enabled in the org and this property isn't specified, then the default value is true. If the Promotion feature isn't enabled, the default value is false. | Optional | 66.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
 
@@ -92,7 +101,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products?productClassificationId=11BT10000004C9SMAU
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/products?productClassificationId=11BT10000004C9SMAU
 ```
 
 ```

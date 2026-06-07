@@ -2,7 +2,7 @@
 domain: loyalty
 name: Loyalty Management Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.322Z
+lastGenerated: 2026-06-07T00:37:45.581Z
 ---
 
 # Loyalty Management Developer Guide — Knowledge Index

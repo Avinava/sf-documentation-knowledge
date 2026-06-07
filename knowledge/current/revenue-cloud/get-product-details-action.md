@@ -5,9 +5,9 @@ topic: get-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.816Z
-estimatedTokens: 1438
-keywords: [Inputs, Outputs, Product, Action, attributes, hierarchy, cardinality, REST, HTTP, Apex-Defined, Flow]
+lastCollected: 2026-06-07T00:37:35.449Z
+estimatedTokens: 1369
+keywords: [Inputs, Outputs, Product, Action, attributes, hierarchy, cardinality, Apex-Defined, Flow]
 ---
 
 > Get details such as attributes, hierarchy, and cardinality for the
@@ -19,27 +19,11 @@ Get details such as attributes, hierarchy, and cardinality for the specified pro
 
 This action is available in API version 62.0 and later.
 
+You can invoke this action via Apex and Flows only.
+
 ## Special Access Rules
 
 The Get Product Details action is available in Enterprise, Unlimited, and Developer Editions where Product Discovery is enabled.
-
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/getProductDetails
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearer token
 
 ## Inputs
 
@@ -73,20 +57,6 @@ Authorization: Bearer token
 
 ## Example
 
-POST
-
-This sample request is for the Get Product Details action.
-
-```
-
-```
-
-This is the sample response for the Get Product Details action.
-
-```
-
-```
-
 ## Usage of an Apex-Defined Data Type in a Flow
 
 To use an Apex-defined input parameter in a flow, follow these guidelines.
@@ -108,128 +78,6 @@ Configure the action
 Configure the action (for example, Get Product Details action) to add values for the Apex-defined input parameters. Use the output of the created Apex class as the input of the Apex-defined parameter in the Get Product Details action, which users can use to get the product details.
 
 ## Code Examples
-
-```
-{
-  "inputs": [{
-    "additionalContextData": [
-      {
-        "nodeName": "Contract",
-        "nodeData": {
-          "id": "xxxxx231",
-          "name": "Contract1"
-        }
-      },
-      {
-        "nodeName": "Lead",
-        "nodeData": {
-          "id": "lllllll31",
-          "name": "Lead1"
-        }
-      }
-    ],
-    "additionalFields": {
-      "Product2": {
-        "fields": [
-          "CustomField1__c",
-          "StandardField1"
-        ]
-      }
-    },
-    "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-    "catalogId": "0ZSxx0000000001GAA",
-    "currencyCode": "USD",
-    "priceBookId": "01sxx0000005puLAAQ",
-    "productId": "01txx0000006j08AAA",
-    "productSellingModelId": "0jPxx000000004rEAA",
-    "userContext": {
-      "accountId": "001xx0000000001AAA"
-    },
-    "enableQualification": true,
-    "enablePricing": true,
-    "qualificationProcedure": "QualificationProcedure",
-    "pricingProcedure": "Preview",
-    "contextDefinition": "TestDefinition",
-    "contextMapping": "TestDefinitionNode"
-  }]
-}
-```
-
-```
-{
-    "apiStatus": {
-      "messages": [],
-      "statusCode": "FETCHED_DETAILS_SUCCESSFULLY"
-    },
-    "contextId": "0U3RM00000000SR0AY",
-    "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-    "result": [
-      {
-        "additionalFields": {
-          "CustomField1__c": "TextValue",
-          "CustomField2__c": "10",
-          "StandardField1": "false"
-        },
-        "description": "IPhone-13",
-        "id": "01txx0000006kYwAAI",
-        "name": "Sample product 1",
-        "prices": [
-          {
-            "price": 150,
-            "priceBookEntryId": "12Axx0000004DF7EAM",
-            "priceBookId": "01sxx0000005puLAAQ",
-            "pricingModel": {
-              "frequency": "Monthly",
-              "id": "12Bxx000000CiCDEA0",
-              "name": "IPhone-13",
-              "occurrence": 6,
-              "pricingModelType": "Recurring"
-            }
-          },
-          {
-            "price": 400,
-            "priceBookEntryId": "12Axx0000004DGjEAM",
-            "priceBookId": "01sxx0000005puLAAQ",
-            "pricingModel": {
-              "id": "12Bxx000000CiCCEA0",
-              "name": "IPhone-13",
-              "pricingModelType": "OneTime"
-            }
-          }
-        ],
-        "qualificationContext": {
-          "isQualified": true
-        }
-      },
-      {
-        "additionalFields": {
-          "CustomField1__c": "TextValue",
-          "CustomField2__c": "10",
-          "StandardField1": "false"
-        },
-        "description": "Sample product 2",
-        "name": "Sample product 2",
-        "id": "01txx0000006kYwAAI",
-        "prices": [],
-        "qualificationContext": {
-          "isQualified": false
-        }
-      },
-      {
-        "description": "Sample product 3",
-        "name": "Sample product 3",
-        "id": "01txx0000006kYwAAI",
-        "prices": [],
-        "qualificationContext": {
-          "isQualified": true
-        }
-      }
-    ],
-    "userContext": {
-      "accountId": "001xx0000000001AAA"
-    }
-  }
-```
 
 ```apex
 public class ProductServiceAction {

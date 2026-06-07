@@ -5,7 +5,7 @@ topic: pricebookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.136Z
+lastCollected: 2026-06-07T00:37:43.372Z
 estimatedTokens: 1693
 keywords: [PriceBookEntry, product, entry, association, Pricebook2, Product2, price, book, API, 60.0]
 ---
@@ -23,7 +23,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 ## Fields
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -81,7 +81,7 @@ History is available for tracked fields of the object.
 ## Code Examples
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/sobjects/PricebookEntry
+https://yourInstance.salesforce.com/services/data/v67.0/sobjects/PricebookEntry
 ```
 
 ```

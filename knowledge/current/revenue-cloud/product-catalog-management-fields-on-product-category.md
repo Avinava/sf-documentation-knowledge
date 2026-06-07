@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.597Z
+lastCollected: 2026-06-07T00:37:42.124Z
 estimatedTokens: 227
 keywords: [Product, Catalog, Management, Category, Standard, extend]
 ---
@@ -26,4 +26,4 @@ Standard and custom fields extend the standard Product Category object for use i
 
 #### See Also
 
--   [Product Category](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_productcategory.htm "Product Category - HTML (New Window)")
+-   [Product Category](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_productcategory.htm "Product Category - HTML (New Window)")

@@ -5,7 +5,7 @@ topic: relatedattributes-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.299Z
+lastCollected: 2026-06-07T00:37:36.685Z
 estimatedTokens: 2590
 keywords: [relatedAttributes, Annotation, Constraint, Modeling, Language, CML, resets, domain, original, domainComputation, Configurator, Result, Configuration, Settings]
 ---

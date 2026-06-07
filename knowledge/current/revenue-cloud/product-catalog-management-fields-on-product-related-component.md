@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-related-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.616Z
+lastCollected: 2026-06-07T00:37:42.140Z
 estimatedTokens: 282
 keywords: [Product, Catalog, Management, Standard, extend]
 ---
@@ -26,4 +26,4 @@ Standard and custom fields extend the standard Product Related Component object 
 
 #### See Also
 
--   [Product Related Component](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_productrelatedcomponent.htm "Product Related Component - HTML (New Window)")
+-   [Product Related Component](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_productrelatedcomponent.htm "Product Related Component - HTML (New Window)")

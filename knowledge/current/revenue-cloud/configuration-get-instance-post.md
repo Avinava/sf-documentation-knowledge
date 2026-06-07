@@ -5,7 +5,7 @@ topic: configuration-get-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.295Z
+lastCollected: 2026-06-07T00:37:38.553Z
 estimatedTokens: 236
 keywords: [Configuration, Instance, POST, Fetch, JSON, product, display, Salesforce, user, save, external, system]
 ---
@@ -63,7 +63,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator/actions/get-instance
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/configurator/actions/get-instance
 ```
 
 ```

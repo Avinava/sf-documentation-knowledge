@@ -5,8 +5,8 @@ topic: types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:02.783Z
-estimatedTokens: 790
+lastCollected: 2026-06-07T00:37:37.220Z
+estimatedTokens: 929
 keywords: [Constraint, Modeling, Language, CML, define, represent, entities, model, foundational, building, blocks, encapsulates, relationships, entity, Generic, Structure, Basic, Declaration, Variables]
 ---
 
@@ -20,11 +20,17 @@ In Constraint Modeling Language (CML), you define types to represent entities or
 
 A type is similar to a class in object-oriented programming. You can define relationships that represent associations between different types. See [Relationships](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_relationships.htm "Relationships in Constraint Modeling Language (CML) define how different product types are associated with each other, forming the structural hierarchy of a product bundle. Relationships are also referred to as ports.").
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
 To define a constraint for a child product in a bundle, you must include the entire bundle in the constraint model. For example, if you define a constraint for a laptop, and the laptop is a child product in the Laptop Pro Bundle, you must include the Laptop Pro Bundle in the constraint model for the constraint on the laptop to run.
+
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+
+#### Note
+
+Product variants aren't supported in constraint models.
 
 ## Generic Structure of a Type
 
@@ -49,6 +55,8 @@ This example shows the declaration of the main GeneratorSet type. It defines sev
     Constraint Modeling Language (CML) supports inheritance and overriding, which allow you to create hierarchies between types. By establishing these hierarchies, constraint models become more modular and efficient.
 -   **[Type Annotations](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_type_annotations.htm)**
     You can annotate types to add information. Type annotations are metadata applied to a type declaration to provide instructions to the constraint engine regarding how instances of that type should be handled, instantiated, or used in the configuration structure.
+-   **[Group Type](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_group_type.htm)**
+    In Constraint Modeling Language (CML), a Group Type is used to logically containerize related components within a bundle configuration, primarily when product component groups are imported from Product Catalog Management (PCM).
 
 ## Code Examples
 
@@ -67,3 +75,4 @@ string DutyRating = ["Prime Power (PRP)", "Continuous Power (COP)", "Data Center
 - Relationships (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_relationships.htm)
 - Type Hierarchies (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_type_hierarchies.htm)
 - Type Annotations (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_type_annotations.htm)
+- Group Type (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_group_type.htm)

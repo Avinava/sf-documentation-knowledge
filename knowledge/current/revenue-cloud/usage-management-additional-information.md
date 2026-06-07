@@ -5,7 +5,7 @@ topic: usage-management-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.008Z
+lastCollected: 2026-06-07T00:37:41.585Z
 estimatedTokens: 868
 keywords: [Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

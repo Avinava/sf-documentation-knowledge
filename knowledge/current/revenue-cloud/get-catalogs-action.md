@@ -4,10 +4,10 @@ domain: revenue-cloud
 topic: get-catalogs-action
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-05-10T00:39:00.716Z
-estimatedTokens: 467
-keywords: [Inputs, Outputs, Catalogs, Action, catalog, records, REST, HTTP]
+docType: developer-guide
+lastCollected: 2026-06-07T00:37:35.353Z
+estimatedTokens: 421
+keywords: [Inputs, Outputs, Catalogs, Action, catalog, records]
 ---
 
 > Get a list of catalog records.
@@ -18,25 +18,9 @@ Get a list of catalog records.
 
 This action is available in API version 64.0 and later.
 
+You can invoke this action via Apex and Flows only.
+
 ## Special Access Rules
-
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/getCatalogs
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearertoken
 
 ## Inputs
 
@@ -62,12 +46,6 @@ Authorization: Bearertoken
 
 POST
 
-Here's a sample input to call this invocable action.
-
-```
-
-```
-
 Here's a sample input to call this invocable action from Apex code.
 
 ```
@@ -81,21 +59,6 @@ Here's a sample response when you call this action.
 ```
 
 ## Code Examples
-
-```
-{
-  "inputs": [
-    {
-      "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-      "recordLimit": 2,
-      "recordOffset": 0,
-      "orderBy": [
-        "Name:ASC"
-      ]
-    }
-  ]
-}
-```
 
 ```apex
 Invocable.Action action = Invocable.Action.createStandardAction('getCatalogs');

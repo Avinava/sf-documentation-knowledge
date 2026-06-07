@@ -5,7 +5,7 @@ topic: unit-of-measure-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:06.477Z
+lastCollected: 2026-06-07T00:37:41.041Z
 estimatedTokens: 162
 keywords: [Unit, Measure, Info, record]
 ---

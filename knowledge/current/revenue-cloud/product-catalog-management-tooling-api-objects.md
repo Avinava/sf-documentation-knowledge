@@ -5,7 +5,7 @@ topic: product-catalog-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.358Z
+lastCollected: 2026-06-07T00:37:41.868Z
 estimatedTokens: 335
 keywords: [Product, Catalog, Management, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---
@@ -25,7 +25,7 @@ Tooling API exposes metadata used in developer tooling that you can access throu
 
 #### See Also
 
--   [*Tooling API Developer Guide*: Introducing Tooling API](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_tooling.meta/api_tooling/intro_api_tooling.htm "Tooling API Developer Guide: Introducing Tooling API - HTML (New Window)")
+-   [*Tooling API Developer Guide*: Introducing Tooling API](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_tooling.meta/api_tooling/intro_api_tooling.htm "Tooling API Developer Guide: Introducing Tooling API - HTML (New Window)")
 
 ## Related Topics
 

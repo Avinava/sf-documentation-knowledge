@@ -5,7 +5,7 @@ topic: product-catalog-management-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.792Z
+lastCollected: 2026-06-07T00:37:41.380Z
 estimatedTokens: 786
 keywords: [Product, Catalog, Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

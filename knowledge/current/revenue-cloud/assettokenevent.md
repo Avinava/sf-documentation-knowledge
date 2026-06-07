@@ -5,7 +5,7 @@ topic: assettokenevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.480Z
+lastCollected: 2026-06-07T00:37:42.820Z
 estimatedTokens: 65
 keywords: [AssetTokenEvent, documentation, moved, Platform, Events, Developer]
 ---
@@ -14,4 +14,4 @@ keywords: [AssetTokenEvent, documentation, moved, Platform, Events, Developer]
 
 # AssetTokenEvent
 
-The documentation has moved to [AssetTokenEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.platform_events.meta/platform_events/sforce_api_objects_assettokenevent.htm "HTML (New Window)") in the Platform Events Developer Guide.
+The documentation has moved to [AssetTokenEvent](https://developer.salesforce.com/docs/atlas.en-us.262.0.platform_events.meta/platform_events/sforce_api_objects_assettokenevent.htm "HTML (New Window)") in the Platform Events Developer Guide.

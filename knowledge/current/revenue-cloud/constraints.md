@@ -5,8 +5,8 @@ topic: constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.491Z
-estimatedTokens: 2677
+lastCollected: 2026-06-07T00:37:36.884Z
+estimatedTokens: 2585
 keywords: [Constraints, enforce, conditions, variables, relationships, define, logical, restrictions, ensure, consistency, model, Logic, Operators, Arithmetic, Relational, Equality, Operator, Precedence, Constraint, Annotation]
 ---
 
@@ -28,7 +28,7 @@ For more information about the supported constraints, see:
 -   [Preference Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_preference_rule.htm "The preference rule encourages the constraint solver to satisfy the condition, but doesn't enforce it if the condition can't be met.")
 -   [Require Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_require_rule.htm "The require rule requires certain components to be included in a relationship when specified conditions are met.")
 -   [Require Rule vs Constraint](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_require_rule_vs_constraint.htm "In Constraint Modeling Language (CML), constraint() and require() can both enforce behavior, but they operate differently: constraint focuses on logical consistency, require focuses on physical presence of products.")
--   [SetDefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm "The setDefault rule allows component selection with attribute values and quantity, similar to the require rule.")
+-   [SetDefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm "The setdefault rule allows component selection with attribute values and quantity, similar to the require rule.")
 -   [Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm "The exclude rule is used to automatically remove a specific type in a relationship if a certain condition is met.")
 -   [Action Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_action_rule.htm "The CML Action Rule is defined using the rule() keyword. Its primary purpose is to execute a designated action, specified as a string literal, when a condition is met.")
 -   [Hide/Disable Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_hide_disable_rule.htm "The Hide or Disable Rule uses the rule() keyword to conditionally remove an element from the selection menu (hide) or preserve it in the menu while preventing user selection (disable).")
@@ -92,8 +92,6 @@ Here are the details of abort, a constraint annotation.
     The table constraint in Constraint Modeling Language (CML) is used to define a set of valid combinations of values for two or more attributes. These combinations are specified in rows within the constraint definition.
 -   **[Proxy Variables with Constraints on Types and Relationships](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_using_proxy_variables_constraints.htm)**
     Use proxy variables to reference the variables of related types, including parent, root, and sibling types.
--   **[Group Type](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_group_type.htm)**
-    In Constraint Modeling Language (CML), a Group Type is used to logically containerize related components within a bundle configuration, primarily when product component groups are imported from Product Catalog Management (PCM).
 -   **[Message Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_message_rule.htm)**
     The message rule displays a message to users based on specified conditions.
 -   **[Preference Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_preference_rule.htm)**
@@ -102,8 +100,8 @@ Here are the details of abort, a constraint annotation.
     The require rule requires certain components to be included in a relationship when specified conditions are met.
 -   **[Require Rule vs Constraint](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_require_rule_vs_constraint.htm)**
     In Constraint Modeling Language (CML), constraint() and require() can both enforce behavior, but they operate differently: constraint focuses on logical consistency, require focuses on physical presence of products.
--   **[SetDefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm)**
-    The setDefault rule allows component selection with attribute values and quantity, similar to the require rule.
+-   **[Setdefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm)**
+    The setdefault rule allows component selection with attribute values and quantity, similar to the require rule.
 -   **[Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm)**
     The exclude rule is used to automatically remove a specific type in a relationship if a certain condition is met.
 -   **[Action Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_action_rule.htm)**

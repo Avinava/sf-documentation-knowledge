@@ -5,7 +5,7 @@ topic: transaction-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.992Z
+lastCollected: 2026-06-07T00:37:41.569Z
 estimatedTokens: 301
 keywords: [Transaction, Management, deployment, sequence, API, Revenue, Cloud]
 ---
@@ -26,7 +26,7 @@ This table provides the deployment sequence, object types, and API names for Tra
 
 #### See Also
 
--   [*Revenue Cloud Developer Guide*: Transaction Management Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/quote_and_order_capture_standard_objects.htm "Revenue Cloud Developer Guide: Transaction Management Standard
+-   [*Revenue Cloud Developer Guide*: Transaction Management Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/quote_and_order_capture_standard_objects.htm "Revenue Cloud Developer Guide: Transaction Management Standard
     Objects - HTML (New Window)")
 
 -   [Explore the Revenue Cloud Data Model](https://help.salesforce.com/s/articleView?id=ind.data_model_overview.htm&language=en_US "Explore the Revenue Cloud Data Model - HTML (New Window)")

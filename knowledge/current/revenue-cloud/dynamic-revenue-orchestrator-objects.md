@@ -5,7 +5,7 @@ topic: dynamic-revenue-orchestrator-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.727Z
+lastCollected: 2026-06-07T00:37:41.310Z
 estimatedTokens: 681
 keywords: [Dynamic, Revenue, Orchestrator, deployment, sequence, API, lookup, Cloud]
 ---
@@ -36,7 +36,7 @@ This table provides the deployment sequence, object types, API names, and lookup
 
 #### See Also
 
--   [*Revenue Cloud Developer Guide*: Dynamic Revenue Orchestrator Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/dynamic_revenue_orchestrator_std_objects_parent.htm "Revenue Cloud Developer Guide: Dynamic Revenue Orchestrator Standard
+-   [*Revenue Cloud Developer Guide*: Dynamic Revenue Orchestrator Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/dynamic_revenue_orchestrator_std_objects_parent.htm "Revenue Cloud Developer Guide: Dynamic Revenue Orchestrator Standard
     Objects - HTML (New Window)")
 
 -   [Explore the Revenue Cloud Data Model](https://help.salesforce.com/s/articleView?id=ind.data_model_overview.htm&language=en_US "Explore the Revenue Cloud Data Model - HTML (New Window)")

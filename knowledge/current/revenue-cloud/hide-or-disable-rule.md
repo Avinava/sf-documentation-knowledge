@@ -5,7 +5,7 @@ topic: hide-or-disable-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.585Z
+lastCollected: 2026-06-07T00:37:36.980Z
 estimatedTokens: 650
 keywords: [Hide, Disable, Rule, uses, keyword, conditionally, remove, selection, menu, preserve, preventing, user, Hiding, Disabling, Features]
 ---
@@ -24,7 +24,7 @@ This functionality can be applied.
 -   On an individual product, hide an attribute to remove it from the selection menu, or disable an attribute to preserve it in the menu but prevent users from selecting options for it.
 -   On an attribute, hide or disable an attribute value to preserve it in the menu but prevent users from selecting options for it. For attribute values, the hide and disable rules have the same behavior.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

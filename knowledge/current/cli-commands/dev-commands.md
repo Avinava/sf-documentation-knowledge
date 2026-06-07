@@ -5,7 +5,7 @@ topic: dev-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:38:59.717Z
+lastCollected: 2026-06-07T00:37:34.334Z
 estimatedTokens: 2319
 keywords: [Flags, dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code, Examples, convert, script, generate, command, flag, plugin, Aliases]
 ---

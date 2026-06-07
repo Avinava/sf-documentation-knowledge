@@ -5,7 +5,7 @@ topic: procedureplancriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.387Z
+lastCollected: 2026-06-07T00:37:43.661Z
 estimatedTokens: 411
 keywords: [ProcedurePlanCriterion, procedure, plan, option, criterion, record, API, 67.0, 62.0, SOAP, REST]
 ---
@@ -17,7 +17,7 @@ keywords: [ProcedurePlanCriterion, procedure, plan, option, criterion, record, A
 
 Represents a criterion within a procedure plan option record. This object is available in API version 62.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 

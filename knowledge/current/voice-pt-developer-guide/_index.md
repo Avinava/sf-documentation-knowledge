@@ -1,13 +1,13 @@
 ---
 domain: voice-pt-developer-guide
-name: Service Cloud Voice for Partner Telephony Developer Guide
+name: Salesforce Voice with Partner Telephony Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.361Z
+lastGenerated: 2026-06-07T00:37:45.629Z
 ---
 
-# Service Cloud Voice for Partner Telephony Developer Guide — Knowledge Index
+# Salesforce Voice with Partner Telephony Developer Guide — Knowledge Index
 
-> Connect your telephony system with Service Cloud Voice.
+> Connect your telephony system with Salesforce Voice.
 
 ## Available Topics
 

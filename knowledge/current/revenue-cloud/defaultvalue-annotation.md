@@ -5,7 +5,7 @@ topic: defaultvalue-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.199Z
+lastCollected: 2026-06-07T00:37:36.574Z
 estimatedTokens: 851
 keywords: [defaultValue, Annotation, variable, define, start, configuration, begins, Configurator, Result, Settings]
 ---
@@ -61,7 +61,7 @@ In this example, a defaultValue annotation with "Side Entry" is defined in CML, 
 
 The configurator sets the "Side Entry" annotation value as the initial value for Cable Entry.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

@@ -1,9 +1,9 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-05-10T00:40:53.665Z*
+*Last Updated: 2026-06-07T00:37:45.923Z*
 
-**129 Domains** | **35,391 Knowledge Files**
+**129 Domains** | **35,426 Knowledge Files**
 
 ## Available Domains
 
@@ -13,7 +13,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4623 | Apex class library reference — all system classes and methods |
 | [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2465 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
 | [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1777 | Get details on standard objects so that you can interface with your Salesforce d |
-| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1324 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
+| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1359 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
 | [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1297 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
 | [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
@@ -63,11 +63,11 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [bi-dev-guide-sql](../../knowledge/current/bi-dev-guide-sql/_index.md) | **SQL for Analytics Developer Guide** | 107 | Describes how to use the CRM Analytics version of the SQL query language. |
 | [knowledge-dev](../../knowledge/current/knowledge-dev/_index.md) | **Salesforce Knowledge Developer Guide** | 106 | Build a robust knowledge base with SOAP API, REST API, Metadata API, SOQL, SOSL, |
 | [salesforce-feedback-management-dev-guide](../../knowledge/current/salesforce-feedback-management-dev-guide/_index.md) | **Salesforce Feedback Management Developer Guide** | 98 | Create engaging, personalized surveys to understand customer feedback by using t |
-| [voice-developer-guide](../../knowledge/current/voice-developer-guide/_index.md) | **Service Cloud Voice Implementation Guide** | 95 | Implementation guide for technical admins and developers using Service Cloud Voi |
+| [voice-developer-guide](../../knowledge/current/voice-developer-guide/_index.md) | **Salesforce Voice with Telephony Providers Implementation Guide** | 95 | Implementation guide for technical admins and developers using Salesforce Voice. |
 | [bi-dev-guide-wave-templates](../../knowledge/current/bi-dev-guide-wave-templates/_index.md) | **Analytics Templates Developer Guide** | 94 | Create CRM Analytics Templates from source apps, and downstream apps from templa |
 | [referral-marketing](../../knowledge/current/referral-marketing/_index.md) | **Referral Marketing Developer Guide** | 92 | Use developer resources to design and run referral programs for your customers a |
 | [service-connector-api-developer-guide](../../knowledge/current/service-connector-api-developer-guide/_index.md) | **Service Cloud Connector API Reference** | 91 | Pass information between your partner telephony or Contact Center as a Service ( |
-| [voice-pt-developer-guide](../../knowledge/current/voice-pt-developer-guide/_index.md) | **Service Cloud Voice for Partner Telephony Developer Guide** | 88 | Connect your telephony system with Service Cloud Voice. |
+| [voice-pt-developer-guide](../../knowledge/current/voice-pt-developer-guide/_index.md) | **Salesforce Voice with Partner Telephony Developer Guide** | 88 | Connect your telephony system with Salesforce Voice. |
 | [comms-developer-guide](../../knowledge/current/comms-developer-guide/_index.md) | **Communications, Media, Energy and Utilities (CME) Developer Guide** | 87 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [api-streaming](../../knowledge/current/api-streaming/_index.md) | **Streaming API Developer Guide** | 85 | Receive notifications in a secure and scalable way with API Streaming. To receiv |
 | [soql-sosl](../../knowledge/current/soql-sosl/_index.md) | **SOQL and SOSL Reference** | 85 | Query and search your org’s data for specific information with Salesforce Object |

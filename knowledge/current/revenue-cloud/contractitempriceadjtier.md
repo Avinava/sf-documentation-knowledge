@@ -5,7 +5,7 @@ topic: contractitempriceadjtier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.749Z
+lastCollected: 2026-06-07T00:37:43.095Z
 estimatedTokens: 741
 keywords: [ContractItemPriceAdjTier, tiers, price, adjustment, product, contract, API, 63.0]
 ---
@@ -17,7 +17,7 @@ keywords: [ContractItemPriceAdjTier, tiers, price, adjustment, product, contract
 
 Represents the tiers of a price adjustment to a product on a contract. This object is available in API version 63.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -48,10 +48,10 @@ This object is available with Revenue Cloud.
 
 This object has associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[ContractItemPriceAdjTierFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+[ContractItemPriceAdjTierFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
 
 Feed tracking is available for the object.
 
-[ContractItemPriceAdjTierHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+[ContractItemPriceAdjTierHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.

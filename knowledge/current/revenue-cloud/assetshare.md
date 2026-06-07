@@ -5,7 +5,7 @@ topic: assetshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.425Z
+lastCollected: 2026-06-07T00:37:42.763Z
 estimatedTokens: 853
 keywords: [AssetShare, sharing, entry, Asset, API, 33.0]
 ---
@@ -19,7 +19,7 @@ Represents a sharing entry on an Asset. This object is available in API version 
 
 You can only create, edit, and delete sharing entries for standard objects whose RowCause field is set to Manual. Sharing entries for standard objects with different RowCause values are created as a result of your Salesforce org’s sharing configuration and are read-only. For some sharing mechanisms, such as sharing sets, sharing entries aren’t stored at all.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

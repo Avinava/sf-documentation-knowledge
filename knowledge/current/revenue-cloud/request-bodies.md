@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:07.378Z
+lastCollected: 2026-06-07T00:37:41.893Z
 estimatedTokens: 1108
 keywords: [Bodies, Salesforce, Pricing, API, Product, Catalog, Management, Configurator, Discovery]
 ---
@@ -49,6 +49,8 @@ Learn more about the available Product Catalog Management API request bodies.
     Input representation of the sort order item request.
 -   **[Product Classification Details Input](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_classification_details_input.htm)**
     Input representation of the request to fetch details of product classification records, including their attributes and attribute categories.
+-   **[Product Classification List Input](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_classification_list_input.htm)**
+    Input representation of the request to retrieve a list of product classification records.
 -   **[Product Input](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_product_input.htm)**
     Input representation of a product in the catalog.
 -   **[Related Object Filters Input](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_requests_related_object_filters_input.htm)**

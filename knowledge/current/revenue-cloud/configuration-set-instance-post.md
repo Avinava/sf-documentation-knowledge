@@ -5,7 +5,7 @@ topic: configuration-set-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.880Z
+lastCollected: 2026-06-07T00:37:39.151Z
 estimatedTokens: 327
 keywords: [Configuration, Instance, POST, product, API, scenarios, different, database, Salesforce, catalog, management]
 ---
@@ -66,7 +66,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator/actions/set-instance
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/configurator/actions/set-instance
 ```
 
 ```

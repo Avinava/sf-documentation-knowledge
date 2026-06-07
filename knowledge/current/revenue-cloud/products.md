@@ -5,8 +5,8 @@ topic: products
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.207Z
-estimatedTokens: 235
+lastCollected: 2026-06-07T00:37:40.727Z
+estimatedTokens: 258
 keywords: [Products, retrieved]
 ---
 
@@ -17,6 +17,12 @@ keywords: [Products, retrieved]
 Output representation of the list of retrieved products.
 
 JSON example
+
+```
+
+```
+
+This example shows a sample response with data from Enterprise Product Catalog.
 
 ```
 
@@ -184,6 +190,83 @@ JSON example
     "code": "200",
     "errors": [],
     "message": "Successfully fetched the product records."
+  }
+}
+```
+
+```
+{
+  "correlationId": "4cf1997d-5d86-4997-9c6b-55842442f325",
+  "facets": [],
+  "products": [
+    {
+      "additionalFields": {},
+      "attributeCategory": [
+        {
+          "attributes": [
+            {
+              "additionalFields": {
+                "OptOutAssetization": true,
+                "OptOutDecompositionAction": false,
+                "OptOutSupplementalAction": false
+              },
+              "attributeNameOverride": "ATTRIBUTE-ABP-INT",
+              "code": "ABP-INT",
+              "dataType": "Number",
+              "developerName": "ABP-INT",
+              "id": "ABP-INT",
+              "isHidden": false,
+              "isPriceImpacting": false,
+              "isReadOnly": false,
+              "isRequired": false,
+              "name": "ATTRIBUTE-ABP-INT",
+              "sequence": 3,
+              "status": "Active"
+            },
+            {
+              "additionalFields": {
+                "OptOutAssetization": false,
+                "OptOutDecompositionAction": false,
+                "OptOutSupplementalAction": false
+              },
+              "attributeNameOverride": "ATTRIBUTE-ABP-CHECKBOX",
+              "code": "ABP-CHECKBOX",
+              "dataType": "Checkbox",
+              "developerName": "ABP-CHECKBOX",
+              "id": "ABP-CHECKBOX",
+              "isHidden": false,
+              "isPriceImpacting": false,
+              "isReadOnly": false,
+              "isRequired": false,
+              "name": "ATTRIBUTE-ABP-CHECKBOX",
+              "sequence": 2,
+              "status": "Active"
+            }
+          ],
+          "code": "CATEGORY-ABP",
+          "id": "a0Zxx000000c3tNEAQ",
+          "name": "ATTRIBUTE_CATEGORY-ABP"
+        }
+      ],
+      "attributes": [],
+      "catalogs": [],
+      "categories": [],
+      "childProducts": [],
+      "id": "01txx0000006kFYAAY",
+      "isActive": true,
+      "isAssetizable": true,
+      "name": "ARProduct",
+      "nodeType": "simpleProduct",
+      "productCode": "ARProduct",
+      "productComponentGroups": [],
+      "productSellingModelOptions": [],
+      "productUnitOfMeasures": []
+    }
+  ],
+  "status": {
+    "code": "200",
+    "errors": [],
+    "message": "Successfully fetched Product records."
   }
 }
 ```

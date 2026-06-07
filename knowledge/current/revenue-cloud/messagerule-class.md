@@ -5,7 +5,7 @@ topic: messagerule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.429Z
+lastCollected: 2026-06-07T00:37:35.998Z
 estimatedTokens: 863
 keywords: [MessageRule, message, rule, evaluated, product, configuration, display, informational, error, messages, users, conditions, stiId, severity]
 ---

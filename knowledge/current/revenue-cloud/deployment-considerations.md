@@ -5,7 +5,7 @@ topic: deployment-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-10T00:39:06.606Z
+lastCollected: 2026-06-07T00:37:41.181Z
 estimatedTokens: 383
 keywords: [Deployment, Considerations, any, scenario, understand, dependencies, prerequisites, planned, changes]
 ---
@@ -29,7 +29,7 @@ Key considerations include:
 -   How would you handle system settings between the orgs? For example, making sure that a feature toggle is turned off in the target org so that automation doesn't start executing when you insert data from your source org.
 -   What's the impact of versioning on your deployment? For example, schema, app, or API versions.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

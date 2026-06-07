@@ -5,8 +5,8 @@ topic: global-search-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.451Z
-estimatedTokens: 1699
+lastCollected: 2026-06-07T00:37:38.714Z
+estimatedTokens: 1790
 keywords: [Search, POST, Retrieves, products, query, term, API, composite, Product, Discovery]
 ---
 
@@ -61,6 +61,12 @@ This example shows a sample request to search products with eligible promotions.
 
 ```
 
+This example shows a sample request to run visibility rules.
+
+```
+
+```
+
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -76,6 +82,7 @@ Properties
 | cursor | String | Unique ID to represent the position of each product in the dataset. | Optional | 60.0 |
 | enable​Pricing | Boolean | Indicates whether to enable pricing for the products (true) or not (false). The default value is true.The Pricing Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Pricing Procedure toggle is disabled, then setting the enablePricing property to true has no effect and the prices property in the API response is returned empty. | Optional | 60.0 |
 | enable​Qualification | Boolean | Indicates whether to enable qualification rules for the products (true) or not (false). The default value is true.The Qualification Procedure toggle from the Product Discovery Settings page from Setup overrides this property. For example, if the Qualification Procedure toggle is disabled, then setting the enableQualification property to true has no effect and the qualificationContext property in the API response isn’t returned. | Optional | 60.0 |
+| execute​ConfigurationRules | Boolean | Indicates whether to execute configuration rules (true) or not (false). | Optional | 67.0 |
 | filter | Filter Input | Filters records based on supported criteria.The supported property is name.The supported operators are:eqincontainsgt—Specifies a greater than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lt—Specifies a less than criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.gte—Specifies a greater than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.lte—Specifies a less than or equal to criteria. Available from API version 63.0 and later for Number, Date, and Datetime data types only.If multiple criteria are specified, then the resultant criteria are combined by using the and operator. | Optional | 60.0 |
 | include​CatalogDetails | Boolean | Indicates whether to include catalog details in the response (true) or not (false). | Optional | 61.0 |
 | limit | Integer | Number of items to include in the response. The default value is 10. | Optional | 60.0 |
@@ -88,6 +95,8 @@ Properties
 | query | Map<String, Object> | Query to search the products. | Required | 60.0 |
 | related​ObjectFilter | Related Object Filter Input[] | Filter records based on supported criteria for related objects.The supported object is ProductSpecificationRecType.The supported property is IsCommerical.The supported operator is eq.The supported values are true and false. | Optional | 60.0 |
 | searchTerm | String | String used to get products with the product name containing the search term. See Search Considerations When Using Indexed Data. | Optional | 62.0 |
+| transaction​ContextId | String | ID of the transaction context. | Optional | 66.0 |
+| transactionId | String | ID of the transaction. | Optional | 66.0 |
 | usePromotions | Boolean | Indicates whether to retrieve eligible promotions from Global Promotion Management (GPM) for each product in the search results (true) or not (false). If Promotion feature is enabled in the org and this property isn't specified, then the default value is true. If the Promotion feature isn't enabled, the default value is false. | Optional | 66.0 |
 | userContext | User Context Input | User context details. For example, account ID or contact ID. | Optional | 60.0 |
 
@@ -102,7 +111,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/search
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/products/search
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: assetrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:08.408Z
+lastCollected: 2026-06-07T00:37:42.750Z
 estimatedTokens: 1782
 keywords: [AssetRelationship, non-hierarchical, relationship, assets, due, asset, modification, replacement, upgrade, circumstance, Revenue, Lifecycle, Management, grouped, bundle, API, 41.0]
 ---
@@ -52,22 +52,22 @@ Some fields are available only in Revenue Cloud. Field availability is noted in 
 
 This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[AssetRelationshipChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm "HTML (New Window)") (API version 62.0)
+[AssetRelationshipChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm "HTML (New Window)") (API version 62.0)
 
 Change events are available for the object.
 
-[AssetRelationshipFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm "HTML (New Window)")
+[AssetRelationshipFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm "HTML (New Window)")
 
 Feed tracking is available for the object.
 
-[AssetRelationshipHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
+[AssetRelationshipHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
 
 History is available for tracked fields of the object.
 
-[AssetRelationshipOwnerSharingRule](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_ownersharingrule.htm "HTML (New Window)") (API version 58.0)
+[AssetRelationshipOwnerSharingRule](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_ownersharingrule.htm "HTML (New Window)") (API version 58.0)
 
 Sharing rules are available for the object.
 
-[AssetRelationshipShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm "HTML (New Window)") (API version 58.0)
+[AssetRelationshipShare](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm "HTML (New Window)") (API version 58.0)
 
 Sharing is available for the object.

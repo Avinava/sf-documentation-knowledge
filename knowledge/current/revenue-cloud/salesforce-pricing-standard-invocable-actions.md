@@ -5,7 +5,7 @@ topic: salesforce-pricing-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.434Z
+lastCollected: 2026-06-07T00:37:41.950Z
 estimatedTokens: 306
 keywords: [Salesforce, Pricing, Standard, Invocable, Actions]
 ---
@@ -24,9 +24,9 @@ Learn more about the standard invocable actions available with Salesforce Pricin
 
 #### See Also
 
--   [*Actions Developer Guide*: Overview](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_action.meta/api_action/actions_intro_overview.htm "Actions Developer Guide: Overview - HTML (New Window)")
+-   [*Actions Developer Guide*: Overview](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_action.meta/api_action/actions_intro_overview.htm "Actions Developer Guide: Overview - HTML (New Window)")
 
--   [*REST API Developer Guide*: Invocable Actions Standard](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_rest.meta/api_rest/resources_actions_invocable_standard.htm "REST API Developer Guide: Invocable Actions Standard - HTML (New Window)")
+-   [*REST API Developer Guide*: Invocable Actions Standard](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_rest.meta/api_rest/resources_actions_invocable_standard.htm "REST API Developer Guide: Invocable Actions Standard - HTML (New Window)")
 
 ## Related Topics
 

@@ -5,7 +5,7 @@ topic: visibilityrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.879Z
+lastCollected: 2026-06-07T00:37:36.446Z
 estimatedTokens: 1660
 keywords: [VisibilityRule, visibility, rule, evaluated, product, configuration, control, products, attributes, conditions, stiId, prcId, attributeId, attributePicklistValueId, target, scope, productIds, message, productId]
 ---

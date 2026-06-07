@@ -5,9 +5,9 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.054Z
-estimatedTokens: 22690
-keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, auth, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, Deprecated, refresh, resume]
+lastCollected: 2026-06-07T00:37:34.689Z
+estimatedTokens: 23671
+keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, auth, show-access-token, show-sfdx-auth-url, show-user-password, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, Deprecated, refresh, resume]
 ---
 
 > Assign a permission set to one or more org users.
@@ -20,6 +20,12 @@ Commands to create and manage orgs and scratch org users.
     Assign a permission set to one or more org users.
 -   **[org assign permsetlicense](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_assign_permsetlicense_unified)**
     Assign a permission set license to one or more org users.
+-   **[org auth show-access-token](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_auth_show-access-token_unified)**
+    Show the current access token for an org.
+-   **[org auth show-sfdx-auth-url](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_auth_show-sfdx-auth-url_unified)**
+    Show the SFDX Auth URL for an org.
+-   **[org auth show-user-password](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_auth_show-user-password_unified)**
+    Show the stored password for an org's user.
 -   **[org create agent-user](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_create_agent-user_unified)**
     Create the default Salesforce user that is used to run an agent.
 -   **[org create sandbox](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_create_sandbox_unified)**
@@ -83,7 +89,7 @@ Commands to create and manage orgs and scratch org users.
 -   **[org open](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_unified)**
     Open your default scratch org, or another specified org, in a browser.
 -   **[org open agent](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_agent_unified)**
-    Open an agent in your org's Agent Builder UI in a browser.
+    Open an agent in your org's Agentforce Builder UI in a browser.
 -   **[org open authoring-bundle (Deprecated)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_open_authoring-bundle_unified)**
     The command org open authoring-bundle has been deprecated. Open your org in Agentforce Studio, specifically in the list view showing the list of agents.
 -   **[org refresh sandbox](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_refresh_sandbox_unified)**
@@ -252,6 +258,212 @@ Optional
 Override the api version used for api requests made by this command
 
 Type: option
+
+## org auth show-access-token
+
+Show the current access token for an org.
+
+### Description for org auth show-access-token
+
+Because access tokens are sensitive credentials that grant full access to an org, this command prompts for confirmation before revealing the token. Skip confirmation by specifying either the --no-prompt or --json flag.
+
+### Examples for org auth show-access-token
+
+Show the access token for the default org:
+
+```
+
+```
+
+Show the access token for an org with alias "my-org":
+
+```
+
+```
+
+Show the access token without the confirmation prompt:
+
+```
+
+```
+
+Get the access token as JSON for use in scripts:
+
+```
+
+```
+
+### Flags
+
+\--json
+
+Optional
+
+Format output as json.
+
+Type: boolean
+
+\--flags-dir FLAGS-DIR
+
+Optional
+
+Import flag values from a directory.
+
+Type: option
+
+\-o | \--target-org TARGET-ORG
+
+Required
+
+Username or alias of the target org. Not required if the \`target-org\` configuration variable is already set.
+
+Type: option
+
+\-p | \--no-prompt
+
+Optional
+
+Skip the security warning and reveal the access token without confirmation.
+
+Type: boolean
+
+## org auth show-sfdx-auth-url
+
+Show the SFDX Auth URL for an org.
+
+### Description for org auth show-sfdx-auth-url
+
+Shows the SFDX Auth URL for an org. This URL is only available for orgs authenticated via a web-based OAuth flow. This command prompts for confirmation before revealing it. Skip confirmation by specifying either the --no-prompt or --json flag.
+
+### Examples for org auth show-sfdx-auth-url
+
+Show the SFDX Auth URL for the default org:
+
+```
+
+```
+
+Show the SFDX Auth URL for an org with alias "my-org":
+
+```
+
+```
+
+Show the SFDX Auth URL without the confirmation prompt:
+
+```
+
+```
+
+Get the SFDX Auth URL as JSON for use in scripts:
+
+```
+
+```
+
+### Flags
+
+\--json
+
+Optional
+
+Format output as json.
+
+Type: boolean
+
+\--flags-dir FLAGS-DIR
+
+Optional
+
+Import flag values from a directory.
+
+Type: option
+
+\-o | \--target-org TARGET-ORG
+
+Required
+
+Username or alias of the target org. Not required if the \`target-org\` configuration variable is already set.
+
+Type: option
+
+\-p | \--no-prompt
+
+Optional
+
+Skip the security warning and reveal the SFDX Auth URL without confirmation.
+
+Type: boolean
+
+## org auth show-user-password
+
+Show the stored password for an org's user.
+
+### Description for org auth show-user-password
+
+This command shows only passwords that were generated locally in your DX project with either the "org generate password" or "org create user" CLI command. If you generated a password for a user in Setup in your org, you can't show it with this command.
+
+Because passwords are sensitive credentials, this command prompts for confirmation before revealing it. Skip confirmation by specifying either the --no-prompt or --json flag.
+
+### Examples for org auth show-user-password
+
+Show the password for the default org's user:
+
+```
+
+```
+
+Show the password for an org with alias "my-org":
+
+```
+
+```
+
+Show the password without the confirmation prompt:
+
+```
+
+```
+
+Get the password as JSON for use in scripts:
+
+```
+
+```
+
+### Flags
+
+\--json
+
+Optional
+
+Format output as json.
+
+Type: boolean
+
+\--flags-dir FLAGS-DIR
+
+Optional
+
+Import flag values from a directory.
+
+Type: option
+
+\-o | \--target-org TARGET-ORG
+
+Required
+
+Username or alias of the target org. Not required if the \`target-org\` configuration variable is already set.
+
+Type: option
+
+\-p | \--no-prompt
+
+Optional
+
+Skip the security warning and reveal the password without confirmation.
+
+Type: boolean
 
 ## org create agent-user
 
@@ -1559,7 +1771,7 @@ Display information about a Salesforce user.
 
 ### Description for org display user
 
-Output includes the profile name, org ID, access token, instance URL, login URL, and alias if applicable. The displayed alias is local and different from the Alias field of the User sObject record of the new user, which you set in the Setup UI.
+Output includes the profile name, org ID, instance URL, login URL, and alias if applicable. The displayed alias is local and different from the Alias field of the User sObject record of the new user, which you set in the Setup UI.
 
 ### Examples for org display user
 
@@ -1695,7 +1907,7 @@ To change the password strength, set the --complexity flag to a value between 0 
 
 5 - lower and upper case letters and numbers and symbols only
 
-To see a password that was previously generated, run "org display user".
+To see a password that was previously generated, run "org auth show-user-password".
 
 ### Examples for org generate password
 
@@ -2727,9 +2939,9 @@ Authorize an org using a Salesforce DX authorization URL stored in a file or thr
 
 You use the Salesforce DX (SFDX) authorization URL to authorize Salesforce CLI to connect to a target org. The URL contains the required data to accomplish the authorization, such as the client ID, client secret, and instance URL. You must specify the SFDX authorization URL in this format: "force://<clientId>:<clientSecret>:<refreshToken>@<instanceUrl>". Replace <clientId>, <clientSecret>, <refreshToken>, and <instanceUrl> with the values specific to your target org. For <instanceUrl>, don't include a protocol (such as "https://"). Note that although the SFDX authorization URL starts with "force://", it has nothing to do with the actual authorization. Salesforce CLI always communicates with your org using HTTPS.
 
-To see an example of an SFDX authorization URL, run "org display --verbose" on an org.
+To see the SFDX authorization URL for an org, run "org auth show-sfdx-auth-url".
 
-You have three options when creating the authorization file. The easiest option is to redirect the output of the "sf org display --verbose --json" command into a file. For example, using an org with alias my-org that you've already authorized:
+You have three options when creating the authorization file. The easiest option is to redirect the output of the "sf org auth show-sfdx-auth-url --json" command into a file. For example, using an org with alias my-org that you've already authorized:
 
 ```
 
@@ -2741,7 +2953,7 @@ The resulting JSON file contains the URL in the "sfdxAuthUrl" property of the "r
 
 ```
 
-NOTE: The "sf org display --verbose" command displays the refresh token only for orgs authorized with the web server flow, and not the JWT bearer flow.
+NOTE: The SFDX auth URL is only available for orgs authorized with a web-based OAuth flow, and not the JWT bearer flow.
 
 You can also create a JSON file that has a top-level property named sfdxAuthUrl whose value is the authorization URL. Finally, you can create a normal text file that includes just the URL and nothing else.
 
@@ -3241,21 +3453,19 @@ Type: option
 
 ## org open agent
 
-Open an agent in your org's Agent Builder UI in a browser.
+Open an agent in your org's Agentforce Builder UI in a browser.
 
 ### Description for org open agent
 
-Use the --api-name flag to open an agent using its API name in the Agent Builder UI of your org. To find the agent's API name, go to Setup in your org and navigate to the agent's details page.
-
-Alternatively, use the --authoring-bundle flag to open an agent in Agentforce Builder. Optionally include --version to open a specific version of the agent. You'll specify the api name of the authoring bundle.
+Use the --api-name flag to open an agent using its API name in the Agentforce Builder UI of your org. Alternatively, use the --authoring-bundle flag to open an agent using the API name of its authoring bundle. The two API names are typically the same for the same agent. Optionally specify the --version flag to open a specific version of the agent.
 
 To generate the URL but not launch it in your browser, specify --url-only.
 
-To open Agent Builder in a specific browser, use the --browser flag. Supported browsers are "chrome", "edge", and "firefox". If you don't specify --browser, the org opens in your default browser.
+To open Agentforce Builder in a specific browser, use the --browser flag. Supported browsers are "chrome", "edge", and "firefox". If you don't specify --browser, the org opens in your default browser.
 
 ### Examples for org open agent
 
-Open the agent with API name Coral\_Cloud\_Agent in your default org using your default browser:
+Open the agent with API name Coral\_Cloud\_Agent in your default org using your default browser; opens the highest version:
 
 ```
 
@@ -3273,13 +3483,13 @@ Open the agent in an org with alias MyTestOrg1 using the Firefox browser:
 
 ```
 
-Open an agent in Agentforce Builder using its authoring bundle name:
+Open an agent in Agentforce Builder using its authoring bundle API name:
 
 ```
 
 ```
 
-Open a specific version of an agent in Agentforce Builder:
+Open a version 1 of an agent in Agentforce Builder:
 
 ```
 
@@ -3323,7 +3533,7 @@ Type: option
 
 Optional
 
-API name, also known as developer name, of the agent you want to open in the org's Agent Builder UI.
+API name, also known as developer name, of the agent you want to open in the org's Agentforce Builder UI.
 
 Type: option
 
@@ -3331,7 +3541,7 @@ Type: option
 
 Optional
 
-Open the org in the default browser using private (incognito) mode.
+Open the agent in the default browser using private (incognito) mode.
 
 Type: boolean
 
@@ -3357,11 +3567,7 @@ Type: boolean
 
 Optional
 
-API name of the agent to open in Agentforce Builder.
-
-The API name of the agent to open directly in Agentforce Builder. Optionally specify --version to open a specific
-
-version.
+API name of the agent's authoring bundle to open in Agentforce Builder.
 
 Type: option
 
@@ -3369,11 +3575,7 @@ Type: option
 
 Optional
 
-Version number of the agent to open in Agentforce Builder.
-
-The version number of the agent to open directly in Agentforce Builder. Can only be used with the --authoring-bundle
-
-flag.
+Version number of the agent to open in Agentforce Builder. If not specified, the highest version is opened by default.
 
 Type: option
 
@@ -3825,11 +4027,11 @@ sf org assign permsetlicense --name DreamHouse --name CloudHouse --target-org my
 
 - org assign permset (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org assign permsetlicense (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
+- org auth show-access-token (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
+- org auth show-sfdx-auth-url (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
+- org auth show-user-password (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create agent-user (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create sandbox (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create scratch (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create shape (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
 - org create snapshot (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
-- org create user (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
-- org delete sandbox (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)
-- org delete scratch (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm)

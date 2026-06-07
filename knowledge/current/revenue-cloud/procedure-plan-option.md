@@ -5,7 +5,7 @@ topic: procedure-plan-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:06.035Z
+lastCollected: 2026-06-07T00:37:40.325Z
 estimatedTokens: 427
 keywords: [Procedure, Plan, Option]
 ---

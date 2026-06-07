@@ -5,8 +5,8 @@ topic: run-salesforce-headless-pricing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.917Z
-estimatedTokens: 965
+lastCollected: 2026-06-07T00:37:35.584Z
+estimatedTokens: 1024
 keywords: [Inputs, Outputs, Run, Salesforce, Headless, Pricing, Action, Invoke, Connect, API, providing, context, procedure, price, waterfall, REST, HTTP]
 ---
 
@@ -27,7 +27,7 @@ The Run Salesforce Headless Pricing action is available in Enterprise, Unlimited
 
 URI
 
-/services/data/v66.0/actions/standard/runSalesforceHeadlessPricing
+/services/data/v67.0/actions/standard/runSalesforceHeadlessPricing
 
 Formats
 
@@ -52,8 +52,8 @@ Authorization: Bearer token
 | effectiveDate | TypestringDescriptionDate when the pricing rules, as specified in the pricing procedure, are applied.The effectiveDate parameter determines which pricing procedure to execute when multiple active versions of pricing procedures are available with different date ranges. |
 | isHighVolumeLineItems | TypebooleanDescriptionIndicates whether the pricing API returns pricing details for more than 100 line items (true) or not (false). |
 | isSkipWaterfall | TypebooleanDescriptionIndicates whether to generate the price waterfall data (true) or not (false). |
-| persistContext | TypebooleanDescriptionIndicates whether to store the context (true) or not (false). |
-| pricingData | TypestringDescriptionRequired.JSON data that’s used to build the pricing data. The JSON must be escaped. If you're using this data within a Flow, then the JSON data must not be escaped. |
+| persistContext | TypebooleanDescriptionIndicates whether to store the context (true) or not (false). If set to true, the user must have edit access to all sObject fields used in the context mapping. |
+| pricingData | TypestringDescriptionRequired.JSON data that’s used to build the pricing data. The JSON must be escaped. If you're using this data within a Flow, then the JSON data must not be escaped. Also, make sure that the businessObjectType value within the pricingData property node is set to the sObject used in the context mappings. |
 | pricingProcedureId | TypestringDescriptionRequired.ID or API name of the pricing procedure used for calculating the prices. A pricing procedure is represented as an Expression Set Definition in the system.If you’re an Experience Cloud user, specify the name of the pricing procedure. |
 | skipDiscovery | TypebooleanDescriptionIndicates whether to skip executing the discovery procedure (true) or not (false). |
 | taggedData | TypebooleanDescriptionIndicates whether the associated context node contains a key (true) or not (false). |

@@ -5,7 +5,7 @@ topic: bindingobjectratecardentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.668Z
+lastCollected: 2026-06-07T00:37:43.013Z
 estimatedTokens: 1294
 keywords: [BindingObjectRateCardEntry, rate, card, entry, resource, binding, that's, charge, over, consumption, API, 64.0]
 ---
@@ -52,14 +52,14 @@ describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retri
 
 This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[BindingObjectRateAdjustmentFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
+[BindingObjectRateAdjustmentFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_feed.htm)
 
 Feed tracking is available for the object.
 
-[BindingObjectRateAdjustmentHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
+[BindingObjectRateAdjustmentHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.
 
-[BindingObjectRateAdjustmentShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)
+[BindingObjectRateAdjustmentShare](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_associated_objects_share.htm)
 
 Sharing is available for the object.

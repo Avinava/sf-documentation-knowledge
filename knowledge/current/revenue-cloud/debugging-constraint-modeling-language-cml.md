@@ -5,7 +5,7 @@ topic: debugging-constraint-modeling-language-cml
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:02.526Z
+lastCollected: 2026-06-07T00:37:36.919Z
 estimatedTokens: 492
 keywords: [Debugging, Constraint, Modeling, Language, CML, debug, models, troubleshoot, performance, issues, enable, logging, Apex, log, level, FINE]
 ---
@@ -20,7 +20,7 @@ To debug constraint models and troubleshoot performance issues, enable debug log
 For more information on debug logging in Salesforce, see these topics in Salesforce Help:
 
 -   [Set Up Debug Logging](https://help.salesforce.com/s/articleView?id=xcloud.code_add_users_debug_log.htm&language=en_US "HTML (New Window)")
--   [Debug Log](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_debugging_debug_log.htm "HTML (New Window)")
+-   [Debug Log](https://developer.salesforce.com/docs/atlas.en-us.262.0.apexcode.meta/apexcode/apex_debugging_debug_log.htm "HTML (New Window)")
 -   [Debug Log Levels](https://help.salesforce.com/s/articleView?id=platform.code_setting_debug_log_levels.htm&language=en_US "HTML (New Window)")
 
 Use the Apex log to get information about configurator engine performance when running a constraint model, including performance degradation or unexpected behavior. To improve performance, modify the constraint model based on information in the log.

@@ -5,7 +5,7 @@ topic: product-configurator-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.863Z
+lastCollected: 2026-06-07T00:37:41.450Z
 estimatedTokens: 627
 keywords: [Product, Configurator, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

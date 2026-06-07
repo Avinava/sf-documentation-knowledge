@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.608Z
+lastCollected: 2026-06-07T00:37:42.131Z
 estimatedTokens: 196
 keywords: [Product, Catalog, Management, Group, Standard, extend]
 ---
@@ -25,4 +25,4 @@ Standard and custom fields extend the standard Product Component Group object fo
 
 #### See Also
 
--   [Product Component Group](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_productcomponentgroup.htm "Product Component Group - HTML (New Window)")
+-   [Product Component Group](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_productcomponentgroup.htm "Product Component Group - HTML (New Window)")

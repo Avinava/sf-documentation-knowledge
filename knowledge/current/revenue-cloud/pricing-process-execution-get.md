@@ -5,7 +5,7 @@ topic: pricing-process-execution-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.677Z
+lastCollected: 2026-06-07T00:37:38.909Z
 estimatedTokens: 344
 keywords: [Pricing, Process, Execution]
 ---
@@ -60,7 +60,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/pricing-process-execution/29646938297972
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/pricing-process-execution/29646938297972
 ```
 
 ## Related Topics

@@ -5,7 +5,7 @@ topic: dynamic-revenue-orchestrator-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.712Z
+lastCollected: 2026-06-07T00:37:41.295Z
 estimatedTokens: 1269
 keywords: [Dynamic, Revenue, Orchestrator, Metadata, deployment, DRO, Cloud, including, setup, paths, configuration]
 ---
@@ -50,5 +50,5 @@ This table provides the metadata deployment reference for Dynamic Revenue Orches
 
 #### See Also
 
--   [*Revenue Cloud Developer Guide*: DynamicFulfillmentOrchestratorSettings](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/meta_dynamicfulfillmentorchestratorsettings.htm "Revenue Cloud Developer Guide:
+-   [*Revenue Cloud Developer Guide*: DynamicFulfillmentOrchestratorSettings](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/meta_dynamicfulfillmentorchestratorsettings.htm "Revenue Cloud Developer Guide:
     DynamicFulfillmentOrchestratorSettings - HTML (New Window)")

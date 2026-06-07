@@ -5,7 +5,7 @@ topic: external-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.542Z
+lastCollected: 2026-06-07T00:37:36.935Z
 estimatedTokens: 687
 keywords: [External, Variables, Constraint, Modeling, Language, CML, defined, virtual, Context, Path, Annotation, Variable, Annotations]
 ---
@@ -31,7 +31,7 @@ Here's a basic declaration syntax.
 
 In this example, the constraint engine needs access to the quote header (Sales Transaction) field, which defines the shipping location to enforce region-specific compliance requirements. The contextPath annotation is used to map the field (SalesTransaction.ShippingCountry) to an external CML variable (ShippingCountry).
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

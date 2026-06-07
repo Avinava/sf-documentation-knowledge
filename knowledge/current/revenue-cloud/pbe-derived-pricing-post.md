@@ -5,7 +5,7 @@ topic: pbe-derived-pricing-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.566Z
+lastCollected: 2026-06-07T00:37:38.860Z
 estimatedTokens: 254
 keywords: [PBE, Derived, Pricing, POST, source, product, Price, Book, Entry]
 ---
@@ -65,7 +65,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/pbeDerivedPricingSourceProduct
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/pbeDerivedPricingSourceProduct
 ```
 
 ```

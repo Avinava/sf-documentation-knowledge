@@ -5,7 +5,7 @@ topic: productspecificationrecordtypeoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.746Z
+lastCollected: 2026-06-07T00:37:36.310Z
 estimatedTokens: 452
 keywords: [record, product, specification, store, isCommercial]
 ---

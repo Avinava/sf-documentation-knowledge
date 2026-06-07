@@ -5,7 +5,7 @@ topic: rating-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:06.234Z
+lastCollected: 2026-06-07T00:37:40.786Z
 estimatedTokens: 97
 keywords: [Rating, Error, API]
 ---

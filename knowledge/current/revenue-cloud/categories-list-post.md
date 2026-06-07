@@ -5,7 +5,7 @@ topic: categories-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.052Z
+lastCollected: 2026-06-07T00:37:38.360Z
 estimatedTokens: 165
 keywords: [Categories, POST, subcategories, catalog, API, composite, Product, Discovery]
 ---
@@ -62,7 +62,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/categories
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/categories
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: productsellingmodeloutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.738Z
+lastCollected: 2026-06-07T00:37:36.302Z
 estimatedTokens: 1089
 keywords: [ProductSellingModelOutputRepresentation, product, selling, model, how, sold, including, pricing, term, status, pricingTerm, pricingTermUnit, sellingModelType]
 ---

@@ -5,7 +5,7 @@ topic: catalog-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.041Z
+lastCollected: 2026-06-07T00:37:38.352Z
 estimatedTokens: 298
 keywords: [Catalog, POST, paginated, catalogs, API, composite, Product, Discovery, Retrieve, search, filter, sort, records]
 ---
@@ -41,7 +41,7 @@ HTTP methods
 
 POST
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -85,7 +85,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/catalogs
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/catalogs
 ```
 
 ```
@@ -109,7 +109,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/catalogs
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/catalogs
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/catalogs
 ```
 
 ## Related Topics

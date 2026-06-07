@@ -5,7 +5,7 @@ topic: deep-clone-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.177Z
+lastCollected: 2026-06-07T00:37:38.435Z
 estimatedTokens: 252
 keywords: [Deep, Clone, POST, Copy, records, along, main, product, record]
 ---
@@ -64,7 +64,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/deep-clone
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/deep-clone
 ```
 
 ```

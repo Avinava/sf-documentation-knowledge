@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-voice-developer-guide
-description: Apply Salesforce knowledge and best practices for Service Cloud Voice Implementation Guide
+description: Apply Salesforce knowledge and best practices for Salesforce Voice with Telephony Providers Implementation Guide
 ---
 
-# Salesforce Knowledge Skill: Service Cloud Voice Implementation Guide
+# Salesforce Knowledge Skill: Salesforce Voice with Telephony Providers Implementation Guide
 
-> Implementation guide for technical admins and developers using Service Cloud Voice.
+> Implementation guide for technical admins and developers using Salesforce Voice.
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Service Cloud Voice Implementation Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Salesforce Voice with Telephony Providers Implementation Guide**.
 
 ## How to Use This Knowledge
 

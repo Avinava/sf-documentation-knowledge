@@ -5,8 +5,8 @@ topic: guided-selection-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.474Z
-estimatedTokens: 1345
+lastCollected: 2026-06-07T00:37:38.743Z
+estimatedTokens: 1435
 keywords: [Guided, Selection, POST, Retrieve, products, identifier, search, terms, captures, user, requirements, show, suitable]
 ---
 
@@ -52,6 +52,12 @@ This example shows a sample request to fetch eligible promotions.
 
 ```
 
+This example shows a sample request to run visibility rules.
+
+```
+
+```
+
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -67,6 +73,7 @@ Properties
 | cursor | String | Unique ID to represent the position of each product in the dataset. | Optional | 62.0 |
 | enable​Pricing | Boolean | Indicates whether to enable pricing for the products (true) or not (false). The default value is true. | Optional | 62.0 |
 | enable​Qualification | Boolean | Indicates whether to enable qualification rules for the products (true) or not (false). The default value is true. | Optional | 62.0 |
+| execute​ConfigurationRules | Boolean | Indicates whether to execute configuration rules (true) or not (false). | Optional | 67.0 |
 | filter | Filter Input | Filters records based on supported criteria.The supported property is name.The supported operators are:eqincontains—This value isn't applicable if the Use Indexed Data For Product Listing and Search toggle from the Product Discovery Settings page from Setup is enabled.If multiple criteria are specified, then the resultant criteria are combined by using the and operator. | Optional | 62.0 |
 | guided​Selection​ResponseId | String | Response identifier of the guided selection. | Required if the searchTerms property isn’t specified. | 62.0 |
 | include​Catalog​Details | Boolean | Indicates whether to include catalog details in the response (true) or not (false). | Optional | 62.0 |
@@ -77,6 +84,8 @@ Properties
 | product​Classification​Id | String | ID of the product classification. | Optional | 62.0 |
 | qualification​Procedure | String | API name of the custom qualification procedure that’s used for the product qualification process. If this property isn’t specified, then the default qualification procedure is executed. | Optional | 62.0 |
 | searchTerms | Guided Selection Search Term Input[] | Search terms of the guided selection. | Required if the guided​Selection​ResponseId property isn’t specified. | 62.0 |
+| transaction​ContextId | String | ID of the transaction context. | Optional | 67.0 |
+| transactionId | String | ID of the transaction. | Optional | 67.0 |
 | usePromotions | Boolean | Indicates whether to fetch applicable promotions from Global Promotion Management (GPM) for the guided selection (true) or not (false). If Promotion feature is enabled in the org and this property isn't specified, then the default value is true. If the Promotion feature isn't enabled, the default value is false. | Optional | 66.0 |
 | user​Context | User Context Input | User context details. For example, account ID or contact ID. | Optional | 62.0 |
 
@@ -93,7 +102,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/guided-selection
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/products/guided-selection
 ```
 
 ```
@@ -172,6 +181,42 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/gui
   "transactionContextId": "context123",
   "transactionId": "trans456",
   "usePromotions": true
+}
+```
+
+```
+{
+  "catalogId": "0ZSVW000000AhdC4AS",
+  "currencyCode": "USD",
+  "enablePricing": true,
+  "enableQualification": true,
+  "executeConfigurationRules": true,
+  "filter": {
+    "criteria": [
+      {
+        "property": "isActive",
+        "operator": "eq",
+        "value": true
+      },
+      {
+        "property": "UsedFor",
+        "operator": "eq",
+        "value": ""
+      }
+    ]
+  },
+  "guidedSelectionResponseId": "0U3VW0000000a1t0AA",
+  "includeCatalogDetails": true,
+  "limit": 12,
+  "offset": 0,
+  "orderBy": [
+    "name:asc"
+  ],
+  "priceBookId": "01sVW0000024PZlYAM",
+  "transactionId": "0Q0VW000001190f0AA",
+  "userContext": {
+    "accountId": null
+  }
 }
 ```
 

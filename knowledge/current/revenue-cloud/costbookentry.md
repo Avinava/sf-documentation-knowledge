@@ -5,7 +5,7 @@ topic: costbookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.800Z
+lastCollected: 2026-06-07T00:37:43.148Z
 estimatedTokens: 966
 keywords: [CostBookEntry, total, cost, product, service, that’s, determined, various, factors, affect, product's, price, manufactured, weight, raw, material, factor, amount, shipping, API, 61.0]
 ---
@@ -20,7 +20,7 @@ keywords: [CostBookEntry, total, cost, product, service, that’s, determined, v
 
 Represents the total cost of a product or service that’s determined based on various factors that affect a product's price. For example, when a product is manufactured, the weight of the raw material can be a cost factor based on the amount of material required and its shipping cost. This object is available in API version 61.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 

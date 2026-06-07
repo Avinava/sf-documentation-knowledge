@@ -5,7 +5,7 @@ topic: related-object-filter-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:03.694Z
+lastCollected: 2026-06-07T00:37:38.124Z
 estimatedTokens: 137
 keywords: [Filter, records]
 ---

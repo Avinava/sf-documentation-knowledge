@@ -5,7 +5,7 @@ topic: run-salesforce-pricing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:00.933Z
+lastCollected: 2026-06-07T00:37:35.599Z
 estimatedTokens: 671
 keywords: [Inputs, Outputs, Run, Salesforce, Pricing, Action, Invoke, Connect, API, providing, context, procedure, price, waterfall, REST, HTTP]
 ---
@@ -17,7 +17,7 @@ keywords: [Inputs, Outputs, Run, Salesforce, Pricing, Action, Invoke, Connect, A
 
 Invoke the Pricing Connect API by providing the context, pricing procedure, and price waterfall details.
 
-This action is available in API version 60.0 and later. You can use this action with Flows only. To use this action with an API tool such as Postman, see [Run Salesforce Headless Pricing Action](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_run_salesforce_headless_pricing.htm "HTML (New Window)").
+This action is available in API version 60.0 and later. You can use this action with Flows only. To use this action with an API tool such as Postman, see [Run Salesforce Headless Pricing Action](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_run_salesforce_headless_pricing.htm "HTML (New Window)").
 
 ## Special Access Rules
 
@@ -27,7 +27,7 @@ The Run Salesforce Pricing action is available in Developer, Enterprise, and Un
 
 URI
 
-/services/data/v66.0/actions/standard/runSalesforcePricing
+/services/data/v67.0/actions/standard/runSalesforcePricing
 
 Formats
 

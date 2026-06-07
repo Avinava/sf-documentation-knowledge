@@ -5,7 +5,7 @@ topic: rate-plan-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.425Z
+lastCollected: 2026-06-07T00:37:38.685Z
 estimatedTokens: 354
 keywords: [Rate, Plan, context, API, retrieve, cards, card, entries, adjustments, filter, criteria]
 ---
@@ -66,7 +66,7 @@ Response body for GET
 ```
 
 ```
-https://your​Instance.salesforce.com​/services​/data/v66.0/connect/​core-rating/rate-plan​?contextId=858a3ad3e5a0e​5c319652a6ab92f6​fdb2b4fa8be72b390506​d014596c6da62c9&procedure​ApiName=Sample​Procedure
+https://your​Instance.salesforce.com​/services​/data/v67.0/connect/​core-rating/rate-plan​?contextId=858a3ad3e5a0e​5c319652a6ab92f6​fdb2b4fa8be72b390506​d014596c6da62c9&procedure​ApiName=Sample​Procedure
 ```
 
 ## Related Topics

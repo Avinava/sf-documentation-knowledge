@@ -5,7 +5,7 @@ topic: global-properties-and-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.551Z
+lastCollected: 2026-06-07T00:37:36.945Z
 estimatedTokens: 659
 keywords: [Settings, Header-level, declarations, define, model, including, constants, external, foundation, CML, code, Regex, Pattern]
 ---
@@ -47,4 +47,5 @@ For more on the usage of global properties, see [External Variables](atlas.en-us
 - Example 1: Use Regex Global Variable (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_cml_core_concepts.htm)
 - String Variable Functions and
                   Operators (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_string_variable_functions_and_operators.htm)
-- External Variables (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_external_variables.htm)
+- External
+        Variables (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_external_variables.htm)

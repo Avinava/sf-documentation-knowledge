@@ -5,8 +5,8 @@ topic: assetstateperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.449Z
-estimatedTokens: 1365
+lastCollected: 2026-06-07T00:37:42.788Z
+estimatedTokens: 1424
 keywords: [AssetStatePeriod, time, span, asset, quantity, amount, monthly, recurring, revenue, MRR, state, periods, there, changes, actions, lifecycle, dashboard, pages, show, current, period, can’t, edited, API, 50.0]
 ---
 
@@ -44,9 +44,9 @@ To use Customer Asset Lifecycle Management APIs, you must have the Access Custom
 | Mrr | TypecurrencyPropertiesCreateable, Filter, Sort, UpdateableDescriptionAn asset’s monthly recurring revenue during an asset state period. |
 | PriceRevisionPolicy | TypereferencePropertiesCreateable, Filter, Group, Sort, UpdateableDescriptionSpecifies the price uplift policy associated with this asset state period.This field is a relationship field.This field is available in API version 65.0 and later.Relationship NamePrice Revision PolicyRelationship TypeLookupRefers ToPriceRevisionPolicy |
 | Quantity | TypedoublePropertiesCreateable, Filter, Sort, UpdateableDescriptionThe total quantity of an asset during an asset state period. |
-| RampIdentifier | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe ramp record used to group order item segments for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.This field is available in API version 62.0 and later. |
-| SegmentIdentifier | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe order item segment for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.This field is available in API version 62.0 and later. |
-| SegmentName | TypestringPropertiesCreateable, Filter, Group, Nillable, Sort, UpdateableDescriptionThe name of the order item segment for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.This field is available in API version 62.0 and later. |
+| RampIdentifier | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe ramp record used to group order item segments for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.The maximum supported length is 255 characters from API version 67.0 and later.This field is available in API version 62.0 and later. |
+| SegmentIdentifier | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe order item segment for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.The maximum supported length is 255 characters from API version 67.0 and later.This field is available in API version 62.0 and later. |
+| SegmentName | TypestringPropertiesCreateable, Filter, Group, Nillable, Sort, UpdateableDescriptionThe name of the order item segment for this asset state period.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.The maximum supported length is 255 characters from API version 67.0 and later.This field is available in API version 62.0 and later. |
 | SegmentType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateableDescriptionThe period for the order item segment for this asset state period. Valid values are:CustomFree TrialYearlyThe default value is Yearly.This field is available in orgs that have Revenue Cloud when the Ramp Deals setting is enabled.This field is available in API version 62.0 and later. |
 | StartDate | TypedateTimePropertiesCreateable, Filter, Sort, UpdateableDescriptionThe start date and time of an asset state period. |
 | UnitPrice | TypecurrencyPropertiesCreateable, Filter, Nillable, Sort, UpdateableDescriptionThe price per unit for the line item. Available in API version 65.0 and later. Revenue Cloud won't populate this field in API version 66.0 and later. |

@@ -2,7 +2,7 @@
 domain: service-sdk-ios
 name: Embedded Service Chat SDK for iOS Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.371Z
+lastGenerated: 2026-06-07T00:37:45.644Z
 ---
 
 # Embedded Service Chat SDK for iOS Developer Guide — Knowledge Index

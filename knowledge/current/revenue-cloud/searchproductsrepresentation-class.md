@@ -5,7 +5,7 @@ topic: searchproductsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.847Z
+lastCollected: 2026-06-07T00:37:36.410Z
 estimatedTokens: 4968
 keywords: [SearchProductsRepresentation, results, product, search, operation, including, products, facets, pagination, total, count, matching, additionalFields, attributeCategories, availabilityDate, catalogs, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent, isQuantityEditable, isSoldOnlyWithOtherProds, nodeType, prices, productClassification, productCode, productComponentGroups, productInformation, productPricingInformation, productQuantity, productRelatedComponent, productSellingModelOptions, productSpecificationType, productType, qualificationContext, status, unitOfMeasure]
 ---

@@ -5,7 +5,7 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:08.196Z
+lastCollected: 2026-06-07T00:37:42.557Z
 estimatedTokens: 5057
 keywords: [Asset, item, commercial, product, sold, company, competitor, customer, purchased]
 ---
@@ -108,15 +108,15 @@ With REST API, use the getRelatedListInfo function to get information about rela
 
 This object has the following associated objects. If the API version isn’t specified, those objects are available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[AssetChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm "HTML (New Window)") (API version 44.0)
+[AssetChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm "HTML (New Window)") (API version 44.0)
 
 Change events are available for the object.
 
-[AssetFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm "HTML (New Window)")
+[AssetFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm "HTML (New Window)")
 
 Feed tracking is available for the object.
 
-[AssetHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
+[AssetHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm "HTML (New Window)")
 
 History is available for tracked fields of the object.
 

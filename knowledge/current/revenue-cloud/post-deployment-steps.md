@@ -5,7 +5,7 @@ topic: post-deployment-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.364Z
+lastCollected: 2026-06-07T00:37:41.874Z
 estimatedTokens: 243
 keywords: [Post-Deployment, Steps, deployments, require, take, actions, deployment, target, org, ensure, proper, functionality, integrity]
 ---
@@ -24,7 +24,7 @@ Here are some examples of common post-deployment tasks.
 -   Manually create elements that couldn’t be deployed through the API
 -   Create or activate user accounts for testing and validation
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

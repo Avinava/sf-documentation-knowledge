@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.392Z
+lastCollected: 2026-06-07T00:37:41.903Z
 estimatedTokens: 2242
 keywords: [Bodies, Salesforce, Pricing, API, Product, Catalog, Management, Configurator, Discovery, Rate, APIs]
 ---
@@ -79,6 +79,8 @@ Learn more about the available Product Catalog Management API response bodies.
     Output representation that contains the details of a single product classification, including its attributes and categories.
 -   **[Product Classification Details Collection](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_classification_details_collection_output.htm)**
     Output representation that contains a collection of product classification details along with any processing errors.
+-   **[Product Classification List Collection](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_classification_list_collection_output.htm)**
+    Output representation that contains a collection of product classification records along with any processing errors.
 -   **[Product Component Group](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_component_group_output.htm)**
     Output representation of the product component group.
 -   **[Product](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_output.htm)**

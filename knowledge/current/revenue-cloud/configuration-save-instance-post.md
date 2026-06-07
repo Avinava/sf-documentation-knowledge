@@ -5,7 +5,7 @@ topic: configuration-save-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.841Z
+lastCollected: 2026-06-07T00:37:39.113Z
 estimatedTokens: 254
 keywords: [Configuration, Save, Instance, POST, successful, product]
 ---
@@ -64,7 +64,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator/actions/save-instance
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/configurator/actions/save-instance
 ```
 
 ```

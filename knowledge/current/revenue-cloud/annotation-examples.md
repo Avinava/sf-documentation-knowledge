@@ -5,8 +5,8 @@ topic: annotation-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:02.349Z
-estimatedTokens: 844
+lastCollected: 2026-06-07T00:37:36.740Z
+estimatedTokens: 933
 keywords: [Annotation, Examples, Constraint, Modeling, Language, CML, annotations, labels, add, parts, model, variables, relationships, constraints, control, how, shown, they, behave, configurator, help, fine-tune, engine, changing, actual, structure]
 ---
 
@@ -32,6 +32,8 @@ The examples explain what each annotation does, where it can be used in the mode
     domainComputation is a CML annotation that specifies how the domain of a model element is determined, either by using a fixed domain or by computing the domain dynamically during configuration.
 -   **[peelable Annotation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_peelable.htm)**
     The peelable annotation is used to create soft selection values and allow the engine to modify these selections to satisfy a constraint.
+-   **[productField Annotation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_productField.htm)**
+    productField is a CML annotation that defines the Product2 field on a variable. productField loads the value from Product Catalog Management (PCM) during constraint model activation.
 -   **[propagateUp Annotation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_propagateUp.htm)**
     propagateUp is a Constraint Modeling Language (CML) annotation that controls aggregation propagation between children and parent elements.
 -   **[relatedAttributes Annotation](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_relatedAttributes.htm)**
@@ -48,6 +50,7 @@ The examples explain what each annotation does, where it can be used in the mode
 - defaultValue Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_defaultValue.htm)
 - domainComputation Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_domainComputation.htm)
 - peelable Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_peelable.htm)
+- productField Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_productField.htm)
 - propagateUp Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_propagateUp.htm)
 - relatedAttributes Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_relatedAttributes.htm)
 - sequence Annotation (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_annotation_example_sequence.htm)

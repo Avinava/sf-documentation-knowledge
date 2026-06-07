@@ -4,10 +4,10 @@ domain: revenue-cloud
 topic: get-multiple-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-05-10T00:39:00.787Z
-estimatedTokens: 985
-keywords: [Inputs, Outputs, Multiple, Product, Action, products, REST, HTTP]
+docType: developer-guide
+lastCollected: 2026-06-07T00:37:35.421Z
+estimatedTokens: 934
+keywords: [Inputs, Outputs, Multiple, Product, Action, products]
 ---
 
 > Get product details for a list of products.
@@ -18,27 +18,11 @@ Get product details for a list of products.
 
 This action is available in API version 64.0 and later.
 
+You can invoke this action via Apex and Flows only.
+
 ## Special Access Rules
 
 The Get Multiple Product Details action is available in Enterprise, Unlimited, and Developer Editions where Product Discovery is enabled.
-
-## Supported REST HTTP Methods
-
-URI
-
-/services/data/v66.0/actions/standard/getMultipleProductDetails
-
-Formats
-
-JSON, XML
-
-HTTP Methods
-
-POST
-
-Authentication
-
-Authorization: Bearertoken
 
 ## Inputs
 
@@ -71,14 +55,6 @@ Authorization: Bearertoken
 
 ## Example
 
-POST
-
-Here's a sample input to call this invocable action.
-
-```
-
-```
-
 Here's a sample input to call this invocable action from Apex code.
 
 ```
@@ -92,36 +68,6 @@ Here's a sample response when you call this action.
 ```
 
 ## Code Examples
-
-```
-{
-  "inputs": [
-    {
-      "productDataInputs": {
-        "productData": [
-          {
-            "productId": "01txx0000006i2rAAA",
-            "productSellingModelId": "0jPxx0000000002EAA"
-          },
-          {
-            "productId": "01txx0000006i2oAAA",
-            "productSellingModelId": "0jPxx0000000002EAA"
-          }
-        ]
-      },
-      "priceBookId": "01sxx0000005ptpAAA",
-      "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
-      "enableQualification": true,
-      "enablePricing": true,
-      "catalogId": "0ZSxx0000000002GAA",
-      "userContext": {
-        "accountId": "001xx000003GYiFAAW"
-      },
-      "currencyCode": "USD"
-    }
-  ]
-}
-```
 
 ```apex
 Invocable.Action action = Invocable.Action.createStandardAction('getMultipleProductDetails');

@@ -5,8 +5,8 @@ topic: product-discovery-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.743Z
-estimatedTokens: 647
+lastCollected: 2026-06-07T00:37:42.315Z
+estimatedTokens: 682
 keywords: [Product, Discovery, Business, APIs, composite, search, products, discover, catalogs, categories, browsing, experience]
 ---
 
@@ -32,6 +32,7 @@ This table lists the available Product Discovery resources.
 | /connect/cpq/products (POST) | Get a list of products for a specified catalog, category, or subcategory. This API is a composite API for Product Discovery. |
 | /connect/cpq/products/bulk (POST) | Retrieve details for multiple products. This API is a composite API for Product Discovery. |
 | /connect/cpq/products/guided-selection (POST) | Retrieve a list of products based on the response identifier or search terms of a guided selection. Guided selection captures user requirements to show suitable products. |
+| /revenue/product-discovery/products/recommendations (POST) | Get a list of recommended products based on your underlying business rules. |
 
 -   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_discovery_api_resources.htm)**
     Learn more about the available Product Discovery API resources.

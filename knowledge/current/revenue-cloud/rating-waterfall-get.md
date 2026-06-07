@@ -5,7 +5,7 @@ topic: rating-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.811Z
+lastCollected: 2026-06-07T00:37:39.094Z
 estimatedTokens: 252
 keywords: [Rating, Waterfall, persisted, stores, process, logs, insights, internal]
 ---
@@ -55,7 +55,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/waterfall/Gold/2yHdNNEFOZr9jAe4gHS7?tagsToFilter=UnitPrice&usageType=Rating
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/waterfall/Gold/2yHdNNEFOZr9jAe4gHS7?tagsToFilter=UnitPrice&usageType=Rating
 ```
 
 ## Related Topics

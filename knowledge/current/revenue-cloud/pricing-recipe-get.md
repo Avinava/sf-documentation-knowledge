@@ -5,7 +5,7 @@ topic: pricing-recipe-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.684Z
+lastCollected: 2026-06-07T00:37:38.917Z
 estimatedTokens: 110
 keywords: [Pricing, Recipe, mapping, recipes]
 ---
@@ -48,7 +48,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/recipe
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/recipe
 ```
 
 ## Related Topics

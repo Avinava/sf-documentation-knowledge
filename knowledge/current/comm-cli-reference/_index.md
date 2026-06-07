@@ -2,7 +2,7 @@
 domain: comm-cli-reference
 name: Salesforce Commerce Plug-In CLI Command Reference
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.301Z
+lastGenerated: 2026-06-07T00:37:45.556Z
 ---
 
 # Salesforce Commerce Plug-In CLI Command Reference — Knowledge Index

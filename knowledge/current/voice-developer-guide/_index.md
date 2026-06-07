@@ -1,13 +1,13 @@
 ---
 domain: voice-developer-guide
-name: Service Cloud Voice Implementation Guide
+name: Salesforce Voice with Telephony Providers Implementation Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.360Z
+lastGenerated: 2026-06-07T00:37:45.628Z
 ---
 
-# Service Cloud Voice Implementation Guide — Knowledge Index
+# Salesforce Voice with Telephony Providers Implementation Guide — Knowledge Index
 
-> Implementation guide for technical admins and developers using Service Cloud Voice.
+> Implementation guide for technical admins and developers using Salesforce Voice.
 
 ## Available Topics
 

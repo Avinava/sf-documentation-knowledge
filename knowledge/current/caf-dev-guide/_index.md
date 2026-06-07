@@ -2,7 +2,7 @@
 domain: caf-dev-guide
 name: Custom Address Fields Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.294Z
+lastGenerated: 2026-06-07T00:37:45.549Z
 ---
 
 # Custom Address Fields Developer Guide — Knowledge Index

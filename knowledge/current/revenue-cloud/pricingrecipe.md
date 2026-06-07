@@ -5,7 +5,7 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.213Z
+lastCollected: 2026-06-07T00:37:41.710Z
 estimatedTokens: 1281
 keywords: [PricingRecipe, PricingRecipeTableMapping, PricingProcedureOutputMap, models, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, various, entities, that'll, consumed, API, 60.0]
 ---
@@ -19,7 +19,7 @@ Represents the data models or sets of objects of a particular cloud that the pri
 
 ## Parent Type
 
-This type extends the [Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/metadata.htm "HTML (New Window)") metadata type and inherits its fullName field.
+This type extends the [Metadata](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_meta.meta/api_meta/metadata.htm "HTML (New Window)") metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -88,7 +88,7 @@ The following is an example package.xml that references the previous definition.
 
 ## Wildcard Support in the Manifest File
 
-This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
+This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_meta.meta/api_meta/file_based_zip_file.htm "HTML (New Window)").
 
 ## Code Examples
 
@@ -132,6 +132,6 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
         <members>*</members>
         <name>PricingRecipe</name>
     </types>
-    <version>66.0</version>
+    <version>67.0</version>
 </Package>
 ```

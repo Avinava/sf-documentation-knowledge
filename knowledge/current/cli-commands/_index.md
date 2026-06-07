@@ -2,7 +2,7 @@
 domain: cli-commands
 name: SF CLI Commands
 documentCount: 28
-lastGenerated: 2026-05-10T00:40:47.824Z
+lastGenerated: 2026-06-07T00:37:45.336Z
 ---
 
 # SF CLI Commands — Knowledge Index
@@ -13,7 +13,7 @@ lastGenerated: 2026-05-10T00:40:47.824Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
-| [agent-commands.md](./agent-commands.md) | agent Commands | help-article | Activate an agent in an org. |
+| [agent-commands.md](./agent-commands.md) | agent Commands | api-reference | Activate an agent in an org. |
 | [alias-commands.md](./alias-commands.md) | alias Commands | help-article | List all aliases currently set on your local computer. |
 | [apex-commands.md](./apex-commands.md) | apex Commands | api-reference | Fetch the specified log or given number of most recent logs from the org. |
 | [api-commands.md](./api-commands.md) | api Commands | api-reference | Execute a GraphQL statement. |

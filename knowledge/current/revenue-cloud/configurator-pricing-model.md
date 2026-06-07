@@ -5,7 +5,7 @@ topic: configurator-pricing-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:05.252Z
+lastCollected: 2026-06-07T00:37:39.545Z
 estimatedTokens: 174
 keywords: [Configurator, Pricing, Model, product, configuration]
 ---

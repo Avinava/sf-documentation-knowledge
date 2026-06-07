@@ -5,8 +5,8 @@ topic: flow-for-product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.755Z
-estimatedTokens: 372
+lastCollected: 2026-06-07T00:37:42.326Z
+estimatedTokens: 402
 keywords: [FlowActionCall, Flow, Product, Discovery, metadata, application, users, series, pages, query, records, database, run, logic, provide, branching, capability, user, build, dynamic, applications]
 ---
 
@@ -25,4 +25,4 @@ Product Discovery exposes additional actionType values for the FlowActionCall me
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| actionType | InvocableActionType (enumeration of type string) | Required.The action type. Additional valid values for Product Discovery are:findProducts—Search for the products from a catalog, category, or subcategory by using the specified search term.GetProducts—Get products from the specified catalog, category, or subcategory, including product qualification and pricing details.GetProductDetails—Get details such as attributes, hierarchy, and cardinality for the specified product.executeQualificationProcedure—Execute a qualification procedure, which returns the qualification status for the specified products.getCatalogDetails—Get details of a catalog record.getCatalogs—Get a list of catalog records.getCategories—Get the list of categories associated with a catalog record.getCategoryDetails—Get details of a category record.getMultipleProductDetails—Get product details for a list of products.searchPrdctWithGuidedSelection—Use guided product selection to search for products. |
+| actionType | InvocableActionType (enumeration of type string) | Required.The action type. Additional valid values for Product Discovery are:findProducts—Search for the products from a catalog, category, or subcategory by using the specified search term.GetProducts—Get products from the specified catalog, category, or subcategory, including product qualification and pricing details.GetProductDetails—Get details such as attributes, hierarchy, and cardinality for the specified product.executeQualificationProcedure—Execute a qualification procedure, which returns the qualification status for the specified products.getCatalogDetails—Get details of a catalog record.getCatalogs—Get a list of catalog records.getCategories—Get the list of categories associated with a catalog record.getCategoryDetails—Get details of a category record.getMultipleProductDetails—Get product details for a list of products.searchPrdctWithGuidedSelection—Use guided product selection to search for products.getRecommendedProducts—Retrieve a list of recommended products for a quote or order by using the Constraint Rule Engine. |

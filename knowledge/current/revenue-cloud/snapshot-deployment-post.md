@@ -5,7 +5,7 @@ topic: snapshot-deployment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.899Z
+lastCollected: 2026-06-07T00:37:39.175Z
 estimatedTokens: 288
 keywords: [Snapshot, Deployment, POST, indexes, improve, search, results, easier, products, run, time, terms]
 ---
@@ -71,7 +71,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/index/deploy
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/index/deploy
 ```
 
 ```

@@ -2,7 +2,7 @@
 domain: api-cti
 name: Open CTI Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.278Z
+lastGenerated: 2026-06-07T00:37:45.530Z
 ---
 
 # Open CTI Developer Guide — Knowledge Index

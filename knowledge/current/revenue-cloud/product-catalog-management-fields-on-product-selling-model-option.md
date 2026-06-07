@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.631Z
+lastCollected: 2026-06-07T00:37:42.160Z
 estimatedTokens: 211
 keywords: [Product, Catalog, Management, Selling, Model, Option, Standard, extend, API, 60.0]
 ---
@@ -26,4 +26,4 @@ Standard and custom fields extend the standard Product Selling Model Option obje
 
 #### See Also
 
--   [Product Selling Model Option](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_productsellingmodeloption.htm "Product Selling Model Option - HTML (New Window)")
+-   [Product Selling Model Option](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_productsellingmodeloption.htm "Product Selling Model Option - HTML (New Window)")

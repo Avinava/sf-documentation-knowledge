@@ -5,7 +5,7 @@ topic: product-details-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.394Z
+lastCollected: 2026-06-07T00:37:38.651Z
 estimatedTokens: 484
 keywords: [Product, Retrieve, individual, records, bundle]
 ---
@@ -49,7 +49,7 @@ HTTP methods
 
 GET
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -75,15 +75,15 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/products/01tT1000000F0afIAC
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC?language=spanish
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/products/01tT1000000F0afIAC?language=spanish
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/pcm/products/01tT1000000F0afIAC/catalogSystems=epc
+https://yourInstance.salesforce.com/services/data/v67.0/connect/pcm/products/01tT1000000F0afIAC/catalogSystems=epc
 ```
 
 ## Related Topics

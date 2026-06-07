@@ -5,7 +5,7 @@ topic: configurator-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:03.086Z
+lastCollected: 2026-06-07T00:37:37.505Z
 estimatedTokens: 619
 keywords: [Configurator, modify, product, configuration]
 ---
@@ -49,7 +49,7 @@ Properties
 
 -   [*Salesforce Help*: Context Service](https://help.salesforce.com/s/articleView?id=ind.context_service.htm&type=5&language=en_US "Salesforce Help: Context Service - HTML (New Window)")
 
--   [*Developer Documentation*: Context Service](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/context_service_overview.htm "Developer Documentation: Context Service - HTML (New Window)")
+-   [*Developer Documentation*: Context Service](https://developer.salesforce.com/docs/atlas.en-us.262.0.industries_reference.meta/industries_reference/context_service_overview.htm "Developer Documentation: Context Service - HTML (New Window)")
 
 ## Code Examples
 

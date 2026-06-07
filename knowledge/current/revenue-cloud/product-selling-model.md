@@ -5,16 +5,16 @@ topic: product-selling-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:06.189Z
-estimatedTokens: 203
+lastCollected: 2026-06-07T00:37:40.558Z
+estimatedTokens: 227
 keywords: [Product, Selling, Model, definition]
 ---
 
-> Output representation of the definition of the product selling model.
+> Product Selling Model Component output representation
 
 # Product Selling Model
 
-Output representation of the definition of the product selling model.
+Product Selling Model Component output representation
 
 JSON example
 
@@ -24,14 +24,27 @@ JSON example
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| id | String | ID of the record. | Small, 60.0 | 60.0 |
-| name | String | Name of the record. | Small, 60.0 | 60.0 |
-| pricing​Term | Integer | Duration of the selling model. | Small, 60.0 | 60.0 |
-| pricing​Term​Unit | String | Units of the pricing term. | Small, 60.0 | 60.0 |
-| selling​Model​Type | String | Different models of selling the product. Valid values are:OneTimeTermDefinedEvergreen | Small, 60.0 | 60.0 |
-| status | String | Status of the selling model. For example, whether the selling model is active and can be used in transactions. | Small, 60.0 | 60.0 |
+| doesAutoRenewByDefault | Boolean | Indicates whether the product is automatically renewed by default (true) or not (false). | Small, 67.0 | 67.0 |
+| id | String | ID of the product selling model. | Small, 67.0 | 67.0 |
+| name | String | Name of the product selling model. | Small, 67.0 | 67.0 |
+| pricingTerm | Integer | Pricing term of the product selling model. | Small, 67.0 | 67.0 |
+| pricingTermUnit | String | Pricing term unit of the product selling model. | Small, 67.0 | 67.0 |
+| sellingModelType | String | Selling model type associated with the product selling model. | Small, 67.0 | 67.0 |
+| status | String | Status of the product selling model. | Small, 67.0 | 67.0 |
 
 ## Code Examples
+
+```
+{
+  "productSellingModel": {
+    "doesAutoRenewByDefault": false,
+    "id": "0jPSG000000Avcv2AC",
+    "name": "One Time",
+    "sellingModelType": "OneTime",
+    "status": "Active"
+  }
+}
+```
 
 ```
 "productSellingModel": 

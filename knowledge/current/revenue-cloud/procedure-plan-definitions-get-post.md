@@ -5,7 +5,7 @@ topic: procedure-plan-definitions-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.364Z
+lastCollected: 2026-06-07T00:37:38.619Z
 estimatedTokens: 686
 keywords: [Procedure, Plan, Definitions, POST, records, Additionally, record, definition]
 ---
@@ -80,7 +80,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com​/services/data​/v66.0/connect/​procedure-plan-definitions?​isTemplate=true
+https://yourInstance.salesforce.com​/services/data​/v67.0/connect/​procedure-plan-definitions?​isTemplate=true
 ```
 
 ```

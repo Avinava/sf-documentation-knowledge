@@ -5,7 +5,7 @@ topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.281Z
+lastCollected: 2026-06-07T00:37:41.786Z
 estimatedTokens: 603
 keywords: [ProductSpecificationRecType, association, product, specification, record, defined, determines, sold, commercially, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, relationship, industry-specific, specifications, API, 60.0, SOAP, REST]
 ---
@@ -19,7 +19,7 @@ keywords: [ProductSpecificationRecType, association, product, specification, rec
 
 Represents the association of a product specification type with record types defined on the Product object. The product specification record type also determines if the product specification is sold commercially or not. This object is available in API version 60.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -76,6 +76,6 @@ Ensure Product Catalog Management is enabled to access this object.
         <members>Product2.Offer</members>
         <name>RecordType</name>
     </types>
-    <version>66.0</version>
+    <version>67.0</version>
 </Package>
 ```

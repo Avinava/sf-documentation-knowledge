@@ -5,7 +5,7 @@ topic: quotelineitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.840Z
+lastCollected: 2026-06-07T00:37:44.100Z
 estimatedTokens: 702
 keywords: [QuoteLineItemAttribute, virtual, stores, attribute, quote, line, item, API, 59.0]
 ---
@@ -17,7 +17,7 @@ keywords: [QuoteLineItemAttribute, virtual, stores, attribute, quote, line, item
 
 Represents a virtual object that stores an attribute specified for a quote line item. This object is available in API version 59.0 and later.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

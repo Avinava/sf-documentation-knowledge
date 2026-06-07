@@ -5,12 +5,13 @@ topic: product-classification-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.744Z
+lastCollected: 2026-06-07T00:37:38.983Z
 estimatedTokens: 299
 keywords: [Product, Classification, POST, Retrieve, records]
 ---
 
-> Retrieve the details for a list of product classification records.
+> Retrieve the details for a list of product classification
+      records.
 
 # Product Classification Details (POST)
 
@@ -64,7 +65,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/revenue/product-catalog-management/product-classifications/details
+https://yourInstance.salesforce.com/services/data/v67.0/revenue/product-catalog-management/product-classifications/details
 ```
 
 ```

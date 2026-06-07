@@ -5,8 +5,8 @@ topic: product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:06.176Z
-estimatedTokens: 242
+lastCollected: 2026-06-07T00:37:40.548Z
+estimatedTokens: 205
 keywords: [Product, Selling, Model, Option, definition]
 ---
 
@@ -16,7 +16,7 @@ keywords: [Product, Selling, Model, Option, definition]
 
 Output representation of the definition of the product selling model option.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -38,6 +38,26 @@ JSON example
 ## Code Examples
 
 ```
+{
+  "productSellingModelOptions": [
+    {
+      "id": "0iOSG000000J64x2AC",
+      "isDefault": true,
+      "productId": "01tSG00000BiywkYAB",
+      "productSellingModel": {
+        "doesAutoRenewByDefault": false,
+        "id": "0jPSG000000Avcv2AC",
+        "name": "One Time",
+        "sellingModelType": "OneTime",
+        "status": "Active"
+      },
+      "productSellingModelId": "0jPSG000000Avcv2AC"
+    }
+  ]
+}
+```
+
+```
 "productSellingModelOptions": [
    {
     "id": "0iOT10000004CMrMAM",
@@ -56,4 +76,6 @@ JSON example
 
 ## Related Topics
 
+- Product Selling Model (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_discovery_product_selling_model_output.htm)
+- Proration Policy (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_proration_policy_output.htm)
 - Product Selling Model (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_selling_model_output.htm)

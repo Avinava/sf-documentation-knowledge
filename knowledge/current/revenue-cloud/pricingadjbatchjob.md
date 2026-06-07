@@ -5,7 +5,7 @@ topic: pricingadjbatchjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.245Z
+lastCollected: 2026-06-07T00:37:43.503Z
 estimatedTokens: 1269
 keywords: [PricingAdjBatchJob, collective, multiple, records, their, prices, adjustments, API, 62.0]
 ---
@@ -44,7 +44,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 ## Usage
 
-To execute a pricing adjustment batch job through an API request, make a POST request to the /services/data/v66.0/sobjects/PricingAdjBatchJob resource. Here's a sample request payload.
+To execute a pricing adjustment batch job through an API request, make a POST request to the /services/data/v67.0/sobjects/PricingAdjBatchJob resource. Here's a sample request payload.
 
 ```
 
@@ -52,7 +52,7 @@ To execute a pricing adjustment batch job through an API request, make a POST re
 
 You can specify a comma-separated list of record IDs that are eligible for a pricing adjustment batch job.
 
-To rerun a pricing adjustment batch job, make a PATCH request to the /services/data/v66.0/sobjects/PricingAdjBatchJob/pricingAdjBatchJobID resource. Here's a sample request payload.
+To rerun a pricing adjustment batch job, make a PATCH request to the /services/data/v67.0/sobjects/PricingAdjBatchJob/pricingAdjBatchJobID resource. Here's a sample request payload.
 
 ```
 

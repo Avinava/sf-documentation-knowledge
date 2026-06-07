@@ -5,7 +5,7 @@ topic: salesforce-pricing-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.411Z
+lastCollected: 2026-06-07T00:37:41.920Z
 estimatedTokens: 1169
 keywords: [Salesforce, Pricing, Business, APIs, Perform, context, instance, sync, manage, recipes, waterfall]
 ---
@@ -55,7 +55,7 @@ This section lists the available Procedure Plan Definition-related resources. Us
 
 #### See Also
 
--   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
+-   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.262.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
 
 ## Related Topics
 

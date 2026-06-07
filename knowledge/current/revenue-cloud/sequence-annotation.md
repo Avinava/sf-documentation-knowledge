@@ -5,7 +5,7 @@ topic: sequence-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.319Z
+lastCollected: 2026-06-07T00:37:36.707Z
 estimatedTokens: 2084
 keywords: [sequence, Annotation, execution, configuration, order, Constraint, Modeling, Language, CML, model, Configurator, Result, Settings]
 ---
@@ -131,7 +131,7 @@ Even when sequence is not explicitly specified for the relations, the engine set
 
 ```
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

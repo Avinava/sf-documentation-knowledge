@@ -5,7 +5,7 @@ topic: global-unique-id-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:06.734Z
+lastCollected: 2026-06-07T00:37:41.318Z
 estimatedTokens: 462
 keywords: [Unique, Setup, establishment, GUID, column, day-one, initialization, recommended, practice, Salesforce, DevOps]
 ---
@@ -19,7 +19,7 @@ The establishment of a Global Unique ID (GUID) column on all objects during day-
 
 Salesforce uses its own internal ID for records, but this ID isn't portable. The same record in a testing, sandbox, or production org has different Salesforce IDs. This makes tracking a single piece of data across environments nearly impossible. By introducing your own custom, externally set GUID, you have a single, immutable, and universally consistent identifier.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -27,7 +27,7 @@ You can also choose your preferred method to maintain the mapping of records IDs
 
 Before performing any deployment work, establish your GUID across all database objects, and across all Salesforce orgs involved in your deployment plan.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

@@ -5,7 +5,7 @@ topic: procedure-plan-version-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.161Z
+lastCollected: 2026-06-07T00:37:38.425Z
 estimatedTokens: 754
 keywords: [Procedure, Plan, POST, records]
 ---
@@ -45,7 +45,7 @@ JSON example
 
 ```
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -79,7 +79,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com​/services/data​/v66.0/connect/​procedure-plan-definitions​/1FNxx0000004EsOGAU/​version
+https://yourInstance.salesforce.com​/services/data​/v67.0/connect/​procedure-plan-definitions​/1FNxx0000004EsOGAU/​version
 ```
 
 ```

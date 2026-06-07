@@ -5,7 +5,7 @@ topic: string-variable-functions-and-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:02.733Z
+lastCollected: 2026-06-07T00:37:37.169Z
 estimatedTokens: 909
 keywords: [Variable, Functions, Operators, Constraint, Modeling, Language, CML, manipulation, conversion, comparison, validation]
 ---

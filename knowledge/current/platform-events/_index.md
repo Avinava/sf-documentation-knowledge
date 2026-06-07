@@ -2,7 +2,7 @@
 domain: platform-events
 name: Platform Events Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.336Z
+lastGenerated: 2026-06-07T00:37:45.599Z
 ---
 
 # Platform Events Developer Guide — Knowledge Index

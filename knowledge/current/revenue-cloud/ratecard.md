@@ -5,7 +5,7 @@ topic: ratecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.989Z
+lastCollected: 2026-06-07T00:37:44.210Z
 estimatedTokens: 631
 keywords: [RateCard, rate, consumption, group, resources, product, resource, billed, user, consumes, their, allowance, time, period, API, 62.0]
 ---
@@ -40,14 +40,14 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 This object has these associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[RateCardFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+[RateCardFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
 
 Feed tracking is available for the object.
 
-[RateCardHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
+[RateCardHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.
 
-[RateCardShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm)
+[RateCardShare](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm)
 
 Sharing is available for the object.

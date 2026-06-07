@@ -5,7 +5,7 @@ topic: modeling-a-generator-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.477Z
+lastCollected: 2026-06-07T00:37:36.870Z
 estimatedTokens: 460
 keywords: [Modeling, Generator, Constraint, Model, examples, CML, define, technical, power, configuration, illustrating, concepts, calculated, variables, enforcement, external, standards, selection, requirements]
 ---

@@ -5,7 +5,7 @@ topic: logic-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:38:59.858Z
+lastCollected: 2026-06-07T00:37:34.476Z
 estimatedTokens: 2317
 keywords: [Flags, logic, Commands, results, test, run, Beta, Examples]
 ---
@@ -25,7 +25,7 @@ Use the logic commands to run Apex and Flow tests and view the test results.
 
 Get the results of a test run.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -141,7 +141,7 @@ Type: boolean
 
 Invoke tests for Apex and Flows in an org.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 

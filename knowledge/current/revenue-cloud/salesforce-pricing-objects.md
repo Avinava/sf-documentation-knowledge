@@ -5,7 +5,7 @@ topic: salesforce-pricing-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.937Z
+lastCollected: 2026-06-07T00:37:41.521Z
 estimatedTokens: 1422
 keywords: [Salesforce, Pricing, deployment, sequence, API, lookup, translation, requirements, Revenue, Cloud]
 ---
@@ -17,13 +17,13 @@ keywords: [Salesforce, Pricing, deployment, sequence, API, lookup, translation, 
 
 This table provides the deployment sequence, object types, API names, lookup fields, and data translation requirements for Salesforce Pricing objects in Revenue Cloud.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
 Where possible, we changed noninclusive terms to align with our company value of Equality. We maintained certain terms to avoid any effect on customer implementations.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -65,6 +65,6 @@ Internal objects aren't accessible.
 
 #### See Also
 
--   [*Revenue Cloud Developer Guide*: Salesforce Pricing Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/pricing_std_objects_parent.htm "Revenue Cloud Developer Guide: Salesforce Pricing Standard Objects - HTML (New Window)")
+-   [*Revenue Cloud Developer Guide*: Salesforce Pricing Standard Objects](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/pricing_std_objects_parent.htm "Revenue Cloud Developer Guide: Salesforce Pricing Standard Objects - HTML (New Window)")
 
 -   [Explore the Revenue Cloud Data Model](https://help.salesforce.com/s/articleView?id=ind.data_model_overview.htm&language=en_US "Explore the Revenue Cloud Data Model - HTML (New Window)")

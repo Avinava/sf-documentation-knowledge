@@ -5,7 +5,7 @@ topic: procedure-plan-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:03.509Z
+lastCollected: 2026-06-07T00:37:37.898Z
 estimatedTokens: 507
 keywords: [Procedure, Plan, Definition]
 ---
@@ -26,7 +26,7 @@ This example shows a sample request to create a procedure plan definition record
 
 This example shows a sample request to update a procedure plan definition by using the Procedure Plan Definition By ID (PATCH) API.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

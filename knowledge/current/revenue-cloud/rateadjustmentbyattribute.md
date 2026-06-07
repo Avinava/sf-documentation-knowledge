@@ -5,7 +5,7 @@ topic: rateadjustmentbyattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.954Z
+lastCollected: 2026-06-07T00:37:44.174Z
 estimatedTokens: 1243
 keywords: [RateAdjustmentByAttribute, adjustments, determine, rate, resource, rate-impacting, attributes, linked, product, record, Rates, influenced, conditions, Attribute, Adjustment, Condition, Finally, charge, determined, Rule, API, 62.0]
 ---
@@ -20,7 +20,7 @@ keywords: [RateAdjustmentByAttribute, adjustments, determine, rate, resource, ra
 
 Represents the adjustments that determine the rate of a resource based on its rate-impacting attributes. These attributes are linked to the usage product record. Rates are then influenced by conditions specified in the Attribute Based Adjustment Condition object. Finally, the charge rate is determined by using the Attribute Based Adjustment Rule object. This object is available in API version 62.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -55,10 +55,10 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 This object has these associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[RateAdjustmentByAttributeFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+[RateAdjustmentByAttributeFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
 
 Feed tracking is available for the object.
 
-[RateAdjustmentByAttributeHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
+[RateAdjustmentByAttributeHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.

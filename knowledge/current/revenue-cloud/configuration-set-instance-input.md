@@ -5,7 +5,7 @@ topic: configuration-set-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:03.810Z
+lastCollected: 2026-06-07T00:37:38.221Z
 estimatedTokens: 183
 keywords: [Configuration, Instance, product]
 ---

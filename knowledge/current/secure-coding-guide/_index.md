@@ -2,7 +2,7 @@
 domain: secure-coding-guide
 name: Secure Coding Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.350Z
+lastGenerated: 2026-06-07T00:37:45.616Z
 ---
 
 # Secure Coding Guide — Knowledge Index

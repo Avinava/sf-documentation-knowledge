@@ -5,8 +5,8 @@ topic: cpq-base-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:05.438Z
-estimatedTokens: 436
+lastCollected: 2026-06-07T00:37:39.744Z
+estimatedTokens: 456
 keywords: [CPQ, Base, catalogs, categories, products]
 ---
 
@@ -50,6 +50,12 @@ This example shows a sample of the results of a qualification procedure that’s
 ```
 
 This example shows a list of products with eligible promotions.
+
+```
+
+```
+
+This example shows a sample response with visibility rule details.
 
 ```
 

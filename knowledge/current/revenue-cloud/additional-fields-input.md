@@ -5,7 +5,7 @@ topic: additional-fields-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:02.894Z
+lastCollected: 2026-06-07T00:37:37.332Z
 estimatedTokens: 94
 keywords: [Additional, standard, include, included]
 ---
@@ -18,6 +18,12 @@ keywords: [Additional, standard, include, included]
 Input representation of the additional standard or custom fields to be included in the response.
 
 JSON example
+
+```
+
+```
+
+This example shows a sample request with attribute definition field details.
 
 ```
 
@@ -46,4 +52,12 @@ Properties
         "code__c"
       ]
     }
+```
+
+```
+"additionalFields":{
+  "OptOutAssetization":true
+  "OptOutDecompositionAction":false
+  "OptOutSupplementalAction":false
+}
 ```

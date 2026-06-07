@@ -5,7 +5,7 @@ topic: dynamic-revenue-orchestrator-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:06.697Z
+lastCollected: 2026-06-07T00:37:41.281Z
 estimatedTokens: 2408
 keywords: [Dynamic, Revenue, Orchestrator, Additional, know, deployment, DRO, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
@@ -45,7 +45,7 @@ Get to know additional deployment information for Dynamic Revenue Orchestrator (
 ## Other Information
 
 -   Migration Prerequisites
-    -   When DRO is enabled in a new org, the system provides an built-in library named as DRORuleLibrary. See [Dynamic Fulfillment Orchestrator Settings](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/meta_dynamicfulfillmentorchestratorsettings.htm "HTML (New Window)").
+    -   When DRO is enabled in a new org, the system provides an built-in library named as DRORuleLibrary. See [Dynamic Fulfillment Orchestrator Settings](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/meta_dynamicfulfillmentorchestratorsettings.htm "HTML (New Window)").
     -   Context rules library is Active with Usage Type=Dfo and is linked with Sales Context Definition.
     -   The active rule library version must point to the context definition currently configured in the DRO Admin settings. If you change the context definition in the settings, you must create a new rule library version that links to the new definition and activate it.
 
@@ -91,5 +91,5 @@ Get to know additional deployment information for Dynamic Revenue Orchestrator (
 
 #### See Also
 
--   [*Bulk API 2.0 and Bulk API Developer Guide*: Introduction to Bulk API 2.0 and Bulk API](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_asynch.meta/api_asynch/asynch_api_intro.htm "Bulk API 2.0 and Bulk API Developer Guide: Introduction to Bulk API 2.0 and
+-   [*Bulk API 2.0 and Bulk API Developer Guide*: Introduction to Bulk API 2.0 and Bulk API](https://developer.salesforce.com/docs/atlas.en-us.262.0.api_asynch.meta/api_asynch/asynch_api_intro.htm "Bulk API 2.0 and Bulk API Developer Guide: Introduction to Bulk API 2.0 and
     Bulk API - HTML (New Window)")

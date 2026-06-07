@@ -5,7 +5,7 @@ topic: doctor-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:38:59.733Z
+lastCollected: 2026-06-07T00:37:34.349Z
 estimatedTokens: 535
 keywords: [Flags, doctor, Commands, Gather, CLI, configuration, run, diagnostic, tests, discover, report, potential, problems, environment, Examples]
 ---

@@ -5,7 +5,7 @@ topic: facetvaluerepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:01.305Z
+lastCollected: 2026-06-07T00:37:35.888Z
 estimatedTokens: 468
 keywords: [FacetValueRepresentation, facet, found, search, result, displayName, nameOrId]
 ---

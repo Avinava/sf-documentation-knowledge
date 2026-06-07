@@ -5,7 +5,7 @@ topic: catalog-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.026Z
+lastCollected: 2026-06-07T00:37:38.337Z
 estimatedTokens: 241
 keywords: [Catalog, POST, API, composite, Product, Discovery]
 ---
@@ -63,7 +63,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/catalogs/0ZSxx000000009hGAA
+https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/catalogs/0ZSxx000000009hGAA
 ```
 
 ```

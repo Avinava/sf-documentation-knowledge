@@ -2,7 +2,7 @@
 domain: salesforce-large-data-volumes-bp
 name: Best Practices for Deployments with Large Data Volumes
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.345Z
+lastGenerated: 2026-06-07T00:37:45.610Z
 ---
 
 # Best Practices for Deployments with Large Data Volumes — Knowledge Index

@@ -5,7 +5,7 @@ topic: productspecificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.292Z
+lastCollected: 2026-06-07T00:37:41.801Z
 estimatedTokens: 490
 keywords: [ProductSpecificationType, specification, org, define, products, unique, terminology, specific, industry, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, product, provided, user, record, API, 60.0, SOAP, REST]
 ---
@@ -18,7 +18,7 @@ keywords: [ProductSpecificationType, specification, org, define, products, uniqu
 
 Represents the specification types in your org that define products with unique terminology specific to the industry. This object is available in API version 60.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -62,6 +62,6 @@ Ensure Product Catalog Management is enabled to access this object.
         <members>*</members>
         <name>ProductSpecificationType</name>
     </types>
-    <version>66.0</version>
+    <version>67.0</version>
 </Package>
 ```

@@ -2,7 +2,7 @@
 domain: usefulFormulaFields
 name: Examples of Advanced Formula Fields
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.359Z
+lastGenerated: 2026-06-07T00:37:45.625Z
 ---
 
 # Examples of Advanced Formula Fields — Knowledge Index

@@ -5,8 +5,8 @@ topic: group-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-05-10T00:39:02.569Z
-estimatedTokens: 1482
+lastCollected: 2026-06-07T00:37:36.964Z
+estimatedTokens: 1594
 keywords: [Group, Constraint, Modeling, Language, CML, logically, containerize, bundle, configuration, primarily, product, groups, imported, Catalog, Management, PCM, Conceptual, Hierarchy, Role, Cardinality, Selection, Syntactic, Implementation, Defining, Generator, Referencing, Root, Writing, Constraints, Final, Code, Sample, Key, Considerations]
 ---
 
@@ -38,7 +38,7 @@ Bundles and Group Types (also known as Product Component Groups or PCGs) represe
 -   Constraint Limitations: You cannot write a constraint directly on a Group Type's attribute to apply it to all components within that group; constraints must reference the specific child components.
 -   Identification: Group Types are automatically identified by a Group suffix and the presence of instance cardinality annotations during the import from PCM.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -99,6 +99,9 @@ When reviewing Group Types in the context of the Generator Set model, keep these
 -   Root Reference: The GeneratorSetBundle includes the groups as variables (coreModelGroup and enclosureGroup).
 -   Constraint Syntax for Group Components: Constraints access attributes or components inside the groups using dot notation starting with the group variable name (for example, coreModelGroup.generalModel.powerKW).
 -   Limitation on Group Attributes: You cannot write a constraint directly on a group's attribute and expect it to apply to all components within that group (for example, constraint(enclosureGroup.color == "Black")) is not a valid constraint).
+
+-   **[Define Constraints for Quote Groups, Ramps, and Ramp Segments](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_quote_group_ramp_segment_constraints.htm)**
+    Apply rules to quote groups, ramps, and ramp segments by using the SalesTransactionItemGroup context tag. Assign a groupby value to messages defined in Constraint Rules Engine to include the messages in custom grouping strategies.
 
 ## Code Examples
 
@@ -192,3 +195,7 @@ boolean Weatherproof;
 type ReinforcedEnclosure : Enclosure; // Subtype of Enclosure
 type ControlCabinetHeater;
 ```
+
+## Related Topics
+
+- Define Constraints for Quote Groups, Ramps, and Ramp Segments (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_quote_group_ramp_segment_constraints.htm)

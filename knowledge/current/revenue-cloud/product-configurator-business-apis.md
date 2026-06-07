@@ -5,8 +5,8 @@ topic: product-configurator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:07.651Z
-estimatedTokens: 876
+lastCollected: 2026-06-07T00:37:42.184Z
+estimatedTokens: 1027
 keywords: [Product, Configurator, Business, APIs, customize, service, according, business-specific, requirements]
 ---
 
@@ -18,6 +18,10 @@ keywords: [Product, Configurator, Business, APIs, customize, service, according,
 Use the Product Configurator Business APIs to customize a product or a service according to your business-specific requirements.
 
 Perform product configuration-related operations by using the Product Configurator Business APIs. Integrate these APIs with any front-end application to access the configurator capabilities.
+
+These APIs are stateless and don't recall prior user actions between calls unless state is explicitly persisted and reloaded.
+
+For example, if a user deselects a child product and later reselects it, the engine treats the request as adding a new item that doesn't currently exist in the model. It can’t infer that this request is a re-selection of a previously removed item. As a result, the original line item isn't restored and a new line item is created.
 
 This table lists the available Product Configurator resources.
 
@@ -32,6 +36,7 @@ This table lists the available Product Configurator resources.
 | /connect/cpq/configurator/actions/add-nodes (POST) | Add a node to the context through the runtime system without using the Salesforce user interface. |
 | /connect/cpq/configurator/actions/update-nodes (POST) | Update nodes in a product configuration. |
 | /connect/cpq/configurator/actions/delete-nodes (POST) | Delete nodes from a product configuration. |
+| /revenue/product-configurator/rules/actions/execute (POST) | Run rules for a specific quote or order based on a context ID or transaction ID. |
 
 -   **[Resources](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_business_apis_resources.htm)**
     Learn more about the available Product Configurator API resources.
@@ -42,7 +47,7 @@ This table lists the available Product Configurator resources.
 
 #### See Also
 
--   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
+-   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.262.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
 
 -   [*Salesforce Help*: Product Configurator Permissions](https://help.salesforce.com/s/articleView?id=ind.product_configurator_product_configurator_permissions.htm&type=5&language=en_US "Salesforce Help: Product Configurator Permissions - HTML (New Window)")
 
@@ -57,4 +62,4 @@ This table lists the available Product Configurator resources.
 - /connect/cpq/configurator/actions/add-nodes (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_add_nodes.htm)
 - /connect/cpq/configurator/actions/update-nodes (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_update_nodes.htm)
 - /connect/cpq/configurator/actions/delete-nodes (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_delete_nodes.htm)
-- Resources (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_configurator_business_apis_resources.htm)
+- /revenue/product-configurator/rules/actions/execute (atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_config_rules.htm)

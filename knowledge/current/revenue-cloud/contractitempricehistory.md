@@ -5,7 +5,7 @@ topic: contractitempricehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:08.769Z
+lastCollected: 2026-06-07T00:37:43.114Z
 estimatedTokens: 460
 namespace: Namespace
 keywords: [ContractItemPriceHistory, changes, ContractItemPrice, API, 61.0]

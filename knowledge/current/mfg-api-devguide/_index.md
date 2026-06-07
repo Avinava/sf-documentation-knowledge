@@ -2,7 +2,7 @@
 domain: mfg-api-devguide
 name: Manufacturing Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.325Z
+lastGenerated: 2026-06-07T00:37:45.585Z
 ---
 
 # Manufacturing Cloud Developer Guide — Knowledge Index

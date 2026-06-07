@@ -5,7 +5,7 @@ topic: price-context-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.648Z
+lastCollected: 2026-06-07T00:37:38.874Z
 estimatedTokens: 312
 keywords: [Price, Context, POST, Perform, pricing, instance]
 ---
@@ -17,7 +17,7 @@ keywords: [Price, Context, POST, Perform, pricing, instance]
 
 Perform a pricing request by using the instance ID of a context.
 
-If price waterfall is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can use the [Price Waterfall API](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_pricing_waterfall_fetch.htm "HTML (New Window)") to retrieve the waterfall details if price waterfall persistence is enabled in Salesforce Pricing Setup.
+If price waterfall is disabled from Salesforce Pricing Setup in your org, this API doesn't return the waterfall details. You can use the [Price Waterfall API](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_pricing_waterfall_fetch.htm "HTML (New Window)") to retrieve the waterfall details if price waterfall persistence is enabled in Salesforce Pricing Setup.
 
 Resource
 
@@ -65,7 +65,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/price-contexts/0U3RM00000000SR0AY
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/price-contexts/0U3RM00000000SR0AY
 ```
 
 ```

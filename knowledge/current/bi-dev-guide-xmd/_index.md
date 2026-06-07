@@ -2,7 +2,7 @@
 domain: bi-dev-guide-xmd
 name: Analytics Extended Metadata (XMD) Developer Guide
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.291Z
+lastGenerated: 2026-06-07T00:37:45.545Z
 ---
 
 # Analytics Extended Metadata (XMD) Developer Guide — Knowledge Index

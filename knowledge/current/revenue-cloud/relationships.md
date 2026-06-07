@@ -5,9 +5,9 @@ topic: relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:02.686Z
-estimatedTokens: 1119
-keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, different, product, forming, structural, hierarchy, bundle, referred, ports, Definition, Omit, Unnecessary, Order, Keyword, Relationship, Ordering]
+lastCollected: 2026-06-07T00:37:37.120Z
+estimatedTokens: 1362
+keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, different, product, forming, structural, hierarchy, bundle, referred, ports, Definition, Maximum, Relationship, Size, Omit, Unnecessary, Order, Keyword, Ordering]
 ---
 
 > Relationships in Constraint Modeling Language (CML) define how different product types
@@ -18,7 +18,7 @@ keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, diff
 
 Relationships in Constraint Modeling Language (CML) define how different product types are associated with each other, forming the structural hierarchy of a product bundle. Relationships are also referred to as ports.
 
-Here is a comprehensive overview of relationships, their syntax, purpose, and key features, particularly utilizing examples relevant to the Generator Set model.
+Here’s a comprehensive overview of relationships, their syntax, purpose, and key features, particularly using examples relevant to the Generator Set model.
 
 ## Definition and Syntax of Relationships
 
@@ -33,11 +33,27 @@ Relationships define the one-to-many connections between a parent type (such as 
 
 -   Purpose: Relationships represent the product structure in a bundle. For example, the root product (GeneratorSet) has relationships with its components (MainAlternators, TemperatureSensors).
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
 Specifying the smallest required cardinality (quantity range) is a best practice to avoid unnecessary testing of value combinations, which improves performance.
+
+## Set Maximum Relationship Size
+
+The maxRelationSize property is the maximum cardinality for a single relationship in the constraint model. It controls how many instances of a child component can exist under one parent through the relationship. The maximum value for maxRelationSize is 1073741824. The default value is 9999.
+
+Use maxRelationSize to set a limit based on the number of instances you need for your business purposes. For example, if the most a customer can order of a child component is 200,000, set maxRelationSize to 200,000. An overly high cardinality limit increases the risk of unbound variables that cause the constraint engine to backtrack through the entire range to resolve a conflict. Use maxRelationSize with the property.
+
+```
+
+```
+
+The maxRelationSize property doesn’t limit these values:
+
+-   The number of relationship declarations in a type
+-   The number of types in the constraint model
+-   The total component count across all relationships
 
 ## Omit Unnecessary Relationships
 
@@ -61,7 +77,7 @@ For more information, see [Constraints](atlas.en-us.revenue_lifecycle_management
 
 To ensure run-time stability without the allowMissingRelations property, you must manually define every single relation and type present in the PCM bundle, even if you don't intend to write logic for them. This creates large CML files with a high number of variables and components, which lead to performance degradation, and even timeout issues.
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -90,6 +106,15 @@ The order() keyword is used within a relation declaration to define the specific
 
 ```
 relation <relation name> : <Target Type>[min..max] { /* Optional content */ }
+```
+
+```
+property maxRelationSize = 100000;                                                                  
+ type Quote {                                                                             
+
+   relation items : LineItem[0..99999999]; // cardinality uses this max
+
+ }
 ```
 
 ```
@@ -132,34 +157,6 @@ type GeneratorSet {
 }
 type Enclosure ;
 type ReinforcedEnclosure : Enclosure;
-```
-
-```
-// --- Component Subtypes (Specific Generator Models) ---
-// Define a base type for generator models with a power attribute
-type GeneralModel {
-int powerKW = [0..3000]; // Explicit domain
-}
-// Specific subtypes that inherit from GeneralModel
-type GeneralModel2500 : GeneralModel {
-int powerKW = 2500;
-}
-type GeneralModel1750 : GeneralModel {
-int powerKW = 1750;
-}
-type GeneralModel900 : GeneralModel {
-int powerKW = 900;
-}
-// --- Parent Type (GeneratorSet) ---
-type GeneratorSet {
-// Required power defined by the parent (non-configurable)
-@(configurable = false)
-int requiredKW = [100..3000];
-// Relation Declaration using order()
-// Cardinality requires exactly one model to be selected.
-// order() sets the selection priority (2500 KW model is checked before 1750 KW model).
-relation GeneralModels : GeneralModel  order(GeneralModel2500, GeneralModel1750, GeneralModel900);
-}
 ```
 
 ## Related Topics

@@ -5,7 +5,7 @@ topic: rateadjustmentbytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:09.976Z
+lastCollected: 2026-06-07T00:37:44.197Z
 estimatedTokens: 1257
 keywords: [RateAdjustmentByTier, adjustments, rate, resource, that’s, determined, tiers, stores, adjustment, any, applicable, boundaries, API, 62.0]
 ---
@@ -19,7 +19,7 @@ keywords: [RateAdjustmentByTier, adjustments, rate, resource, that’s, determin
 
 Represents the adjustments for the rate of a resource that’s determined based on the specified tiers. This object stores information about the type of adjustment used, the value of the adjustment type, and any applicable boundaries. This object is available in API version 62.0 and later.
 
-![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
+![Important](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note_important.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Important
 
@@ -55,10 +55,10 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 This object has these associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[RateAdjustmentByTierFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+[RateAdjustmentByTierFeed](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
 
 Feed tracking is available for the object.
 
-[RateAdjustmentByTierHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
+[RateAdjustmentByTierHistory](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
 
 History is available for tracked fields of the object.

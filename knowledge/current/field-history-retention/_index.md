@@ -2,7 +2,7 @@
 domain: field-history-retention
 name: Field Audit Trail Implementation Guide 
 documentCount: 0
-lastGenerated: 2026-05-10T00:40:49.312Z
+lastGenerated: 2026-06-07T00:37:45.567Z
 ---
 
 # Field Audit Trail Implementation Guide  — Knowledge Index

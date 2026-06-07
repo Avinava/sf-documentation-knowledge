@@ -5,7 +5,7 @@ topic: cpq-base-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:05.424Z
+lastCollected: 2026-06-07T00:37:39.723Z
 estimatedTokens: 251
 keywords: [CPQ, Base, catalog, category, product]
 ---

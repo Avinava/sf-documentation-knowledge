@@ -5,8 +5,8 @@ topic: pricing-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:03.163Z
-estimatedTokens: 309
+lastCollected: 2026-06-07T00:37:37.557Z
+estimatedTokens: 339
 keywords: [Pricing, API]
 ---
 
@@ -29,7 +29,7 @@ Properties
 | configuration​Overrides | Configuration Override Input | Parameters to override the pricing configuration. | Optional | 60.0 |
 | context​Definition​Id | String | ID of the context definition that defines the structure of the input data. | Required | 60.0 |
 | context​Mapping​Id | String | ID of the context mapping that maps the input data to the context instance. | Required | 60.0 |
-| json​Data​String | String | Data to hydrate the context, which must be in JSON format and passed as String. Pass the JSON data as String by using the stringify() method to convert the object to string.The keys in the jsonDataString property must be in accordance to the contextMappingId property sent in the request. | Required | 60.0 |
+| json​Data​String | String | Data to hydrate the context, which must be in JSON format and passed as String. Pass the JSON data as String by using the stringify() method to convert the object to string.The keys in the jsonDataString property must be in accordance to the contextMappingId property sent in the request.Make sure that the businessObjectType value within this property node is set to the sObject used in the context mappings. | Required | 60.0 |
 | pricing​Procedure​Id | String | ID or API name of the pricing procedure used for calculating the prices. A pricing procedure is represented as an Expression Set Definition in the system.If you’re an Experience Cloud user, specify the name of the pricing procedure. | Optional | 60.0 |
 
 ## Code Examples

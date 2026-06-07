@@ -5,7 +5,7 @@ topic: procedure-plan-definition-version-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-05-10T00:39:03.528Z
+lastCollected: 2026-06-07T00:37:37.917Z
 estimatedTokens: 661
 keywords: [Procedure, Plan, Definition]
 ---
@@ -22,7 +22,7 @@ JSON example
 
 ```
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 

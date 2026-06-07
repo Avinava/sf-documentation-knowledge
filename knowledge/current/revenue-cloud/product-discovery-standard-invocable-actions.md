@@ -5,8 +5,8 @@ topic: product-discovery-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.762Z
-estimatedTokens: 674
+lastCollected: 2026-06-07T00:37:42.334Z
+estimatedTokens: 745
 keywords: [Product, Discovery, Standard, Invocable, Actions, retrieve, category, catalog, Additionally, execute, qualification, procedure, search, products, guided, selection]
 ---
 
@@ -38,6 +38,8 @@ Use the standard invocable actions available with Product Discovery to find and 
     Get details such as attributes, hierarchy, and cardinality for the specified product.
 -   **[Search Product with Guided Selection Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_search_products_with_guided_selection.htm)**
     Use guided product selection to search for products.
+-   **[Get Product Recommendations Action](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/actions_obj_get_recommendation_products.htm)**
+    Retrieve a list of recommended products for a quote or order by using the Constraint Rule Engine.
 
 ## Related Topics
 

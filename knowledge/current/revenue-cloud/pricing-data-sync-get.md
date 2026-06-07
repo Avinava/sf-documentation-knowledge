@@ -5,8 +5,8 @@ topic: pricing-data-sync-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.664Z
-estimatedTokens: 185
+lastCollected: 2026-06-07T00:37:38.892Z
+estimatedTokens: 283
 keywords: [Pricing, Sync, ensure, lookup, tables, contain, latest]
 ---
 
@@ -17,7 +17,7 @@ keywords: [Pricing, Sync, ensure, lookup, tables, contain, latest]
 
 Sync pricing data to ensure that the lookup tables contain the latest pricing data.
 
-To partially synchronize pricing data, use the Decision Table Refresh Action in a Flow. See [Decision Table Refresh Action](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/dt_actions_refresh_decision_table.htm "HTML (New Window)").
+To partially synchronize pricing data, use the Decision Table Refresh Action in a Flow. See [Decision Table Refresh Action](https://developer.salesforce.com/docs/atlas.en-us.262.0.industries_reference.meta/industries_reference/dt_actions_refresh_decision_table.htm "HTML (New Window)").
 
 Resource
 
@@ -31,6 +31,12 @@ Resource example
 
 ```
 
+This example shows a sample resource to filter by pricing recipe.
+
+```
+
+```
+
 Available version
 
 60.0
@@ -38,6 +44,12 @@ Available version
 HTTP methods
 
 GET
+
+Request parameters for GET
+
+| Parameter Name | Type | Description | Required or Optional | Available Version |
+| --- | --- | --- | --- | --- |
+| pricing​RecipeId | String | ID of the pricing recipe whose decision tables you want to sync. If not specified, the default pricing recipe is used. | Optional | 67.0 |
 
 Response body for GET
 
@@ -50,7 +62,11 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/core-pricing/sync/syncData
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/sync/syncData
+```
+
+```
+https://yourInstance.salesforce.com/services/data/v67.0/connect/core-pricing/sync/syncData?pricingRecipeId=12Gxx0000005IzhEAE
 ```
 
 ## Related Topics
