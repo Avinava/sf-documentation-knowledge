@@ -5,7 +5,7 @@ topic: configuration-save-instance-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:39.113Z
+lastCollected: 2026-06-21T00:39:51.573Z
 estimatedTokens: 254
 keywords: [Configuration, Save, Instance, POST, successful, product]
 ---

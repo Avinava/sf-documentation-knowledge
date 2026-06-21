@@ -5,7 +5,7 @@ topic: productfield-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:36.635Z
+lastCollected: 2026-06-21T00:39:49.252Z
 estimatedTokens: 383
 keywords: [productField, Annotation, CML, Product2, variable, loads, Product, Catalog, Management, PCM, constraint, model, activation]
 ---

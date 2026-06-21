@@ -5,8 +5,8 @@ topic: cmdt-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.049Z
-estimatedTokens: 3158
+lastCollected: 2026-06-21T00:39:46.770Z
+estimatedTokens: 3165
 keywords: [Flags, cmdt, Commands, Generate, metadata, provided, Examples, Aliases, fromorg, record, records]
 ---
 
@@ -16,15 +16,15 @@ keywords: [Flags, cmdt, Commands, Generate, metadata, provided, Examples, Aliase
 
 Generate custom metadata types and their records.
 
--   **[cmdt generate field](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_field_unified)**
+-   **[cmdt generate field](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_field_unified)**
     Generate a field for a custom metadata type based on the provided field type.
--   **[cmdt generate fromorg](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_fromorg_unified)**
+-   **[cmdt generate fromorg](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_fromorg_unified)**
     Generate a custom metadata type and all its records from a Salesforce object.
--   **[cmdt generate object](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_object_unified)**
+-   **[cmdt generate object](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_object_unified)**
     Generate a new custom metadata type in the current project.
--   **[cmdt generate record](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_record_unified)**
+-   **[cmdt generate record](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_record_unified)**
     Generate a new record for a given custom metadata type in the current project.
--   **[cmdt generate records](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_records_unified)**
+-   **[cmdt generate records](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_generate_records_unified)**
     Generate new custom metadata type records from a CSV file.
 
 ## cmdt generate field
@@ -635,8 +635,8 @@ cmdt:field:create
 
 ## Related Topics
 
-- cmdt generate field (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
-- cmdt generate fromorg (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
-- cmdt generate object (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
-- cmdt generate record (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
-- cmdt generate records (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- cmdt generate field (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- cmdt generate fromorg (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- cmdt generate object (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- cmdt generate record (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- cmdt generate records (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)

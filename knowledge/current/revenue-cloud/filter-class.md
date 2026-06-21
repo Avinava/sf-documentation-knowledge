@@ -5,7 +5,7 @@ topic: filter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:35.896Z
+lastCollected: 2026-06-21T00:39:48.551Z
 estimatedTokens: 429
 keywords: [Filter, criteria, store, records]
 ---

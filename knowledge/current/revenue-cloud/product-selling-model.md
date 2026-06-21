@@ -5,7 +5,7 @@ topic: product-selling-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:40.558Z
+lastCollected: 2026-06-21T00:39:52.880Z
 estimatedTokens: 227
 keywords: [Product, Selling, Model, definition]
 ---

@@ -5,7 +5,7 @@ topic: product-classification-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:37.974Z
+lastCollected: 2026-06-21T00:39:50.525Z
 estimatedTokens: 165
 keywords: [Product, Classification, fetch, records, including, their, attributes, attribute, categories]
 ---

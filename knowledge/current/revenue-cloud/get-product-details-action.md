@@ -5,7 +5,7 @@ topic: get-product-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:35.449Z
+lastCollected: 2026-06-21T00:39:48.118Z
 estimatedTokens: 1369
 keywords: [Inputs, Outputs, Product, Action, attributes, hierarchy, cardinality, Apex-Defined, Flow]
 ---

@@ -5,7 +5,7 @@ topic: product-catalog-management-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.402Z
+lastCollected: 2026-06-21T00:39:53.664Z
 estimatedTokens: 1191
 keywords: [Product, Catalog, Management, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

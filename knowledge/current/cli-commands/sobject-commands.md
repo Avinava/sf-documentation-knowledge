@@ -5,8 +5,8 @@ topic: sobject-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:35.111Z
-estimatedTokens: 754
+lastCollected: 2026-06-21T00:39:47.804Z
+estimatedTokens: 757
 keywords: [Flags, sobject, Commands, Display, metadata, standard, Tooling, API, describe, Examples, Aliases]
 ---
 
@@ -16,9 +16,9 @@ keywords: [Flags, sobject, Commands, Display, metadata, standard, Tooling, API, 
 
 Commands to interact with Salesforce objects.
 
--   **[sobject describe](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_describe_unified)**
+-   **[sobject describe](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_describe_unified)**
     Display the metadata for a standard or custom object or a Tooling API object.
--   **[sobject list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_list_unified)**
+-   **[sobject list](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_list_unified)**
     List all Salesforce objects of a specified category.
 
 ## sobject describe
@@ -203,5 +203,5 @@ sf sobject list --sobject all
 
 ## Related Topics
 
-- sobject describe (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm)
-- sobject list (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm)
+- sobject describe (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm)
+- sobject list (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm)

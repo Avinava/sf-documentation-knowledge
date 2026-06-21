@@ -5,7 +5,7 @@ topic: run-salesforce-headless-pricing-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:35.584Z
+lastCollected: 2026-06-21T00:39:48.246Z
 estimatedTokens: 1024
 keywords: [Inputs, Outputs, Run, Salesforce, Headless, Pricing, Action, Invoke, Connect, API, providing, context, procedure, price, waterfall, REST, HTTP]
 ---

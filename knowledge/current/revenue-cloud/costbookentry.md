@@ -5,7 +5,7 @@ topic: costbookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:43.148Z
+lastCollected: 2026-06-21T00:39:55.312Z
 estimatedTokens: 966
 keywords: [CostBookEntry, total, cost, product, service, that’s, determined, various, factors, affect, product's, price, manufactured, weight, raw, material, factor, amount, shipping, API, 61.0]
 ---

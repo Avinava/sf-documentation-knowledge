@@ -2,7 +2,7 @@
 domain: omni-channel-dev
 name: Omni-Channel Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.591Z
+lastGenerated: 2026-06-21T00:39:57.389Z
 ---
 
 # Omni-Channel Developer Guide — Knowledge Index

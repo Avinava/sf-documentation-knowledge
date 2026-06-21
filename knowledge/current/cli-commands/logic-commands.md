@@ -5,8 +5,8 @@ topic: logic-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:34.476Z
-estimatedTokens: 2317
+lastCollected: 2026-06-21T00:39:47.182Z
+estimatedTokens: 2320
 keywords: [Flags, logic, Commands, results, test, run, Beta, Examples]
 ---
 
@@ -16,16 +16,16 @@ keywords: [Flags, logic, Commands, results, test, run, Beta, Examples]
 
 Use the logic commands to run Apex and Flow tests and view the test results.
 
--   **[logic get test (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_get_test_unified)**
+-   **[logic get test (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_get_test_unified)**
     Get the results of a test run.
--   **[logic run test (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_run_test_unified)**
+-   **[logic run test (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_run_test_unified)**
     Invoke tests for Apex and Flows in an org.
 
 ## logic get test (Beta)
 
 Get the results of a test run.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -141,7 +141,7 @@ Type: boolean
 
 Invoke tests for Apex and Flows in an org.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -375,5 +375,5 @@ sf logic run test --class-names MyApexClassTest.methodA --class-names MyApexClas
 
 ## Related Topics
 
-- logic get test (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm)
-- logic run test (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm)
+- logic get test (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm)
+- logic run test (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm)

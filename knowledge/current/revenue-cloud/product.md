@@ -5,7 +5,7 @@ topic: product
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:40.594Z
+lastCollected: 2026-06-21T00:39:52.926Z
 estimatedTokens: 975
 keywords: [Product, definition]
 ---

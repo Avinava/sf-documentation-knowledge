@@ -5,7 +5,7 @@ topic: relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:37.120Z
+lastCollected: 2026-06-21T00:39:49.706Z
 estimatedTokens: 1362
 keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, different, product, forming, structural, hierarchy, bundle, referred, ports, Definition, Maximum, Relationship, Size, Omit, Unnecessary, Order, Keyword, Ordering]
 ---

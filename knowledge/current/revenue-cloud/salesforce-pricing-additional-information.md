@@ -5,7 +5,7 @@ topic: salesforce-pricing-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:41.472Z
+lastCollected: 2026-06-21T00:39:53.729Z
 estimatedTokens: 911
 keywords: [Salesforce, Pricing, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

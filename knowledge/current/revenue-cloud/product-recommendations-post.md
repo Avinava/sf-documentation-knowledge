@@ -5,7 +5,7 @@ topic: product-recommendations-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:39.053Z
+lastCollected: 2026-06-21T00:39:51.507Z
 estimatedTokens: 1192
 keywords: [Product, Recommendations, POST, recommended, products, underlying, business]
 ---

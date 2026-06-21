@@ -5,8 +5,8 @@ topic: force-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.400Z
-estimatedTokens: 2145
+lastCollected: 2026-06-21T00:39:47.109Z
+estimatedTokens: 2154
 keywords: [Flags, force, Commands, Bulk, records, org, CSV, file, Uses, API, 1.0, Examples, status, upsert, lightning, lwc, test, run, setup]
 ---
 
@@ -16,17 +16,17 @@ keywords: [Flags, force, Commands, Bulk, records, org, CSV, file, Uses, API, 1.0
 
 Legacy commands for backward compatibility.
 
--   **[force data bulk delete](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_delete_unified)**
+-   **[force data bulk delete](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_delete_unified)**
     Bulk delete records from an org using a CSV file. Uses Bulk API 1.0.
--   **[force data bulk status](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_status_unified)**
+-   **[force data bulk status](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_status_unified)**
     View the status of a bulk data load job or batch. Uses Bulk API 1.0.
--   **[force data bulk upsert](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_upsert_unified)**
+-   **[force data bulk upsert](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_data_bulk_upsert_unified)**
     Bulk upsert records to an org from a CSV file. Uses Bulk API 1.0.
--   **[force lightning lwc test create](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_create_unified)**
+-   **[force lightning lwc test create](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_create_unified)**
 
--   **[force lightning lwc test run](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_run_unified)**
+-   **[force lightning lwc test run](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_run_unified)**
 
--   **[force lightning lwc test setup](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_setup_unified)**
+-   **[force lightning lwc test setup](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_lightning_lwc_test_setup_unified)**
 
 
 ## force data bulk delete
@@ -439,9 +439,9 @@ sf --sobject Contact --file files/contacts.csv --external-id Id
 
 ## Related Topics
 
-- force data bulk delete (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
-- force data bulk status (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
-- force data bulk upsert (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
-- force lightning lwc test create (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
-- force lightning lwc test run (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
-- force lightning lwc test setup (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force data bulk delete (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force data bulk status (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force data bulk upsert (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force lightning lwc test create (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force lightning lwc test run (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)
+- force lightning lwc test setup (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm)

@@ -5,8 +5,8 @@ topic: config-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.159Z
-estimatedTokens: 1511
+lastCollected: 2026-06-21T00:39:46.882Z
+estimatedTokens: 1517
 keywords: [Flags, config, Commands, configuration, variable, Examples, Aliases, unset]
 ---
 
@@ -16,13 +16,13 @@ keywords: [Flags, config, Commands, configuration, variable, Examples, Aliases, 
 
 Commands to configure Salesforce CLI.
 
--   **[config get](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_get_unified)**
+-   **[config get](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_get_unified)**
     Get the value of a configuration variable.
--   **[config list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_list_unified)**
+-   **[config list](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_list_unified)**
     List the configuration variables that you've previously set.
--   **[config set](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_set_unified)**
+-   **[config set](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_set_unified)**
     Set one or more configuration variables, such as your default org.
--   **[config unset](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_unset_unified)**
+-   **[config unset](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_unset_unified)**
     Unset local or global configuration variables.
 
 ## config get
@@ -281,7 +281,7 @@ force:config:list
 
 ## Related Topics
 
-- config get (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
-- config list (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
-- config set (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
-- config unset (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
+- config get (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
+- config list (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
+- config set (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
+- config unset (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)

@@ -2,7 +2,7 @@
 domain: api-asynch
 name: Bulk API 2.0 and Bulk API Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.529Z
+lastGenerated: 2026-06-21T00:39:57.322Z
 ---
 
 # Bulk API 2.0 and Bulk API Developer Guide — Knowledge Index

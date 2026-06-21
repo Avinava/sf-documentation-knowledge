@@ -5,8 +5,8 @@ topic: package1-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-06-07T00:37:34.711Z
-estimatedTokens: 1594
+lastCollected: 2026-06-21T00:39:47.411Z
+estimatedTokens: 1600
 keywords: [Flags, package1, Commands, first-generation, package, release, org, Examples, Aliases, display]
 ---
 
@@ -16,13 +16,13 @@ keywords: [Flags, package1, Commands, first-generation, package, release, org, E
 
 Commands to develop first-generation managed and unmanaged packages.
 
--   **[package1 version create](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_create_unified)**
+-   **[package1 version create](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_create_unified)**
     Create a first-generation package version in the release org.
--   **[package1 version create get](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_create_get_unified)**
+-   **[package1 version create get](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_create_get_unified)**
     Retrieve the status of a package version creation request.
--   **[package1 version display](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_display_unified)**
+-   **[package1 version display](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_display_unified)**
     Display details about a first-generation package version.
--   **[package1 version list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_list_unified)**
+-   **[package1 version list](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_version_list_unified)**
     List package versions for the specified first-generation package or for the org.
 
 ## package1 version create
@@ -389,7 +389,7 @@ sf package1 version create get --request-id 0HD... --target-org myorg@example.co
 
 ## Related Topics
 
-- package1 version create (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
-- package1 version create get (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
-- package1 version display (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
-- package1 version list (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
+- package1 version create (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
+- package1 version create get (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
+- package1 version display (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)
+- package1 version list (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm)

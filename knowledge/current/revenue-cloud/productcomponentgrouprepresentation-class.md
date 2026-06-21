@@ -5,7 +5,7 @@ topic: productcomponentgrouprepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:36.093Z
+lastCollected: 2026-06-21T00:39:48.737Z
 estimatedTokens: 2188
 keywords: [ProductComponentGroupRepresentation, product, group, bulk, operations, similar, specifically, detail, representations, represented, BulkProductDetailsRepresentation, apexObj, childGroups, classifications, code, parentGroupId, parentProductId, sequence]
 ---

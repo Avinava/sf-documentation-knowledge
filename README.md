@@ -416,7 +416,7 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4623 |
 | **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2465 |
 | **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1777 |
-| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1359 |
+| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1362 |
 | **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1297 |
 | **Public Sector Solutions Developer Guide** | Use Public Sector Solutions API and developer resources to unify public service  | ✅ Available | 1003 |
 | **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 833 |
@@ -444,7 +444,7 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Data Prep Recipe REST API Developer Guide** | Describes how to retrieve, update, and schedule Data Prep recipes. | ✅ Available | 296 |
 | *+ 99 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *6,901* |
 
-*129 domains | 35,426 knowledge files*
+*129 domains | 35,429 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

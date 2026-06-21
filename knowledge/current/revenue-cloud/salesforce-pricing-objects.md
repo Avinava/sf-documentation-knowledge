@@ -5,7 +5,7 @@ topic: salesforce-pricing-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.521Z
+lastCollected: 2026-06-21T00:39:53.772Z
 estimatedTokens: 1422
 keywords: [Salesforce, Pricing, deployment, sequence, API, lookup, translation, requirements, Revenue, Cloud]
 ---

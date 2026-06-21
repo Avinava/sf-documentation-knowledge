@@ -5,7 +5,7 @@ topic: rateadjustmentbytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:44.197Z
+lastCollected: 2026-06-21T00:39:56.187Z
 estimatedTokens: 1257
 keywords: [RateAdjustmentByTier, adjustments, rate, resource, that’s, determined, tiers, stores, adjustment, any, applicable, boundaries, API, 62.0]
 ---

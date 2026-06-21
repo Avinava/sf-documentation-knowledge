@@ -5,8 +5,8 @@ topic: code-analyzer-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.106Z
-estimatedTokens: 7033
+lastCollected: 2026-06-21T00:39:46.827Z
+estimatedTokens: 7038
 keywords: [Flags, code-analyzer, Commands, current, state, configuration, Code, Analyzer, config, Examples, run]
 ---
 
@@ -16,11 +16,11 @@ keywords: [Flags, code-analyzer, Commands, current, state, configuration, Code, 
 
 Analyze your code to ensure it adheres to best practices.
 
--   **[code-analyzer config](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_config_unified)**
+-   **[code-analyzer config](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_config_unified)**
     Output the current state of configuration for Code Analyzer.
--   **[code-analyzer rules](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_rules_unified)**
+-   **[code-analyzer rules](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_rules_unified)**
     List the rules that are available to analyze your code.
--   **[code-analyzer run](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_run_unified)**
+-   **[code-analyzer run](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_run_unified)**
     Analyze your code with a selection of rules to ensure good coding practices.
 
 ## code-analyzer config
@@ -653,6 +653,6 @@ sf code-analyzer config --rule-selector "pmd:(2,3)"
 
 ## Related Topics
 
-- code-analyzer config (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
-- code-analyzer rules (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
-- code-analyzer run (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
+- code-analyzer config (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
+- code-analyzer rules (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
+- code-analyzer run (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)

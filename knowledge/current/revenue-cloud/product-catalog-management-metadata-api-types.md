@@ -5,7 +5,7 @@ topic: product-catalog-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:41.834Z
+lastCollected: 2026-06-21T00:39:54.064Z
 estimatedTokens: 335
 keywords: [Product, Catalog, Management, Metadata, API, feature, settings, customize, user]
 ---

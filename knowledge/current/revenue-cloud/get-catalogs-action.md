@@ -5,7 +5,7 @@ topic: get-catalogs-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:35.353Z
+lastCollected: 2026-06-21T00:39:48.027Z
 estimatedTokens: 421
 keywords: [Inputs, Outputs, Catalogs, Action, catalog, records]
 ---

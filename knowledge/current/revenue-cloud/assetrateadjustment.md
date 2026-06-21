@@ -5,7 +5,7 @@ topic: assetrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.705Z
+lastCollected: 2026-06-21T00:39:54.875Z
 estimatedTokens: 475
 keywords: [AssetRateAdjustment, Stores, tier, rate, adjustments, asset, card, entries.This, API, 62.0]
 ---

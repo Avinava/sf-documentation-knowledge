@@ -5,8 +5,8 @@ topic: schema-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:35.097Z
-estimatedTokens: 1811
+lastCollected: 2026-06-21T00:39:47.791Z
+estimatedTokens: 1817
 keywords: [Flags, schema, Commands, Generate, metadata, source, files, new, Examples, Aliases, platformevent, sobject, tab]
 ---
 
@@ -16,13 +16,13 @@ keywords: [Flags, schema, Commands, Generate, metadata, source, files, new, Exam
 
 Generate metadata files.
 
--   **[schema generate field](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_field_unified)**
+-   **[schema generate field](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_field_unified)**
     Generate metadata source files for a new custom field on a specified object.
--   **[schema generate platformevent](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_platformevent_unified)**
+-   **[schema generate platformevent](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_platformevent_unified)**
     Generate metadata source files for a new platform event.
--   **[schema generate sobject](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_sobject_unified)**
+-   **[schema generate sobject](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_sobject_unified)**
     Generate metadata source files for a new custom object.
--   **[schema generate tab](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_tab_unified)**
+-   **[schema generate tab](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_generate_tab_unified)**
     Generate the metadata source files for a new custom tab on a custom object.
 
 ## schema generate field
@@ -297,7 +297,7 @@ generate:metadata:platformevent
 
 ## Related Topics
 
-- schema generate field (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
-- schema generate platformevent (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
-- schema generate sobject (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
-- schema generate tab (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
+- schema generate field (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
+- schema generate platformevent (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
+- schema generate sobject (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)
+- schema generate tab (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm)

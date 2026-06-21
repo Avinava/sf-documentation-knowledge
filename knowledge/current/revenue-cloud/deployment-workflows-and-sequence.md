@@ -5,7 +5,7 @@ topic: deployment-workflows-and-sequence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.626Z
+lastCollected: 2026-06-21T00:39:53.870Z
 estimatedTokens: 1092
 keywords: [Deployment, Workflows, Sequence, typical, dev, ops, cycle, involves, managing, test, orgs, sandboxes, production, org, workflow, simple, setup, development, much, complex, involving, multiple, staging, testing, any, changes, sent, Full, Incremental, Dependencies]
 ---

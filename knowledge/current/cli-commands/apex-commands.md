@@ -5,8 +5,8 @@ topic: apex-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:33.939Z
-estimatedTokens: 3694
+lastCollected: 2026-06-21T00:39:46.657Z
+estimatedTokens: 3703
 keywords: [Flags, apex, Commands, Fetch, log, number, recent, logs, org, Examples, Aliases, test, run, tail]
 ---
 
@@ -16,17 +16,17 @@ keywords: [Flags, apex, Commands, Fetch, log, number, recent, logs, org, Example
 
 Use the apex commands to create Apex classes, execute anonymous blocks, view your logs, run Apex tests, and view Apex test results.
 
--   **[apex get log](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_get_log_unified)**
+-   **[apex get log](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_get_log_unified)**
     Fetch the specified log or given number of most recent logs from the org.
--   **[apex get test](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_get_test_unified)**
+-   **[apex get test](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_get_test_unified)**
     Display test results for a specific asynchronous test run.
--   **[apex list log](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_list_log_unified)**
+-   **[apex list log](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_list_log_unified)**
     Display a list of IDs and general information about debug logs.
--   **[apex run](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_run_unified)**
+-   **[apex run](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_run_unified)**
     Execute anonymous Apex code entered on the command line or from a local file.
--   **[apex run test](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_run_test_unified)**
+-   **[apex run test](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_run_test_unified)**
     Invoke Apex tests in an org.
--   **[apex tail log](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_tail_log_unified)**
+-   **[apex tail log](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_tail_log_unified)**
     Activate debug logging and display logs in the terminal.
 
 ## apex get log
@@ -763,9 +763,9 @@ force:apex:log:get
 
 ## Related Topics
 
-- apex get log (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- apex get test (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- apex list log (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- apex run (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- apex run test (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- apex tail log (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex get log (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex get test (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex list log (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex run (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex run test (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- apex tail log (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)

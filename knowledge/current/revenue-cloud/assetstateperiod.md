@@ -5,7 +5,7 @@ topic: assetstateperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.788Z
+lastCollected: 2026-06-21T00:39:54.957Z
 estimatedTokens: 1424
 keywords: [AssetStatePeriod, time, span, asset, quantity, amount, monthly, recurring, revenue, MRR, state, periods, there, changes, actions, lifecycle, dashboard, pages, show, current, period, can’t, edited, API, 50.0]
 ---

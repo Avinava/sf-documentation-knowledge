@@ -5,7 +5,7 @@ topic: salesforce-pricing-migration-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.500Z
+lastCollected: 2026-06-21T00:39:53.753Z
 estimatedTokens: 663
 keywords: [Salesforce, Pricing, Migration, Scenarios, Review, considerations, understand, process, along, order, prerequisites, First-Time, Subsequent, Production, Migrations]
 ---

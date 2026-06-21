@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:41.903Z
+lastCollected: 2026-06-21T00:39:54.151Z
 estimatedTokens: 2242
 keywords: [Bodies, Salesforce, Pricing, API, Product, Catalog, Management, Configurator, Discovery, Rate, APIs]
 ---
@@ -95,6 +95,8 @@ Learn more about the available Product Catalog Management API response bodies.
     Output representation of the product specification type.
 -   **[Products](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_products_output.htm)**
     Output representation of the list of retrieved products.
+-   **[Product Variants](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_product_variants_output.htm)**
+    Output representation of the variation products associated with the specified parent variant products.
 -   **[Related Object Records](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_related_object_records_output.htm)**
     Output representation of the related records for a specified record ID and related object API name.
 -   **[Related Records](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_responses_related_records_output.htm)**

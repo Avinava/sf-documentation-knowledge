@@ -5,8 +5,8 @@ topic: dev-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:34.334Z
-estimatedTokens: 2319
+lastCollected: 2026-06-21T00:39:47.040Z
+estimatedTokens: 2328
 keywords: [Flags, dev, Commands, Audit, messages, plugin's, directory, locate, unused, missing, references, source, code, Examples, convert, script, generate, command, flag, plugin, Aliases]
 ---
 
@@ -16,17 +16,17 @@ keywords: [Flags, dev, Commands, Audit, messages, plugin's, directory, locate, u
 
 Commands for sf plugin development.
 
--   **[dev audit messages](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_audit_messages_unified)**
+-   **[dev audit messages](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_audit_messages_unified)**
     Audit messages in a plugin's messages directory to locate unused messages and missing messages that have references in source code.
--   **[dev convert messages](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_convert_messages_unified)**
+-   **[dev convert messages](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_convert_messages_unified)**
     Convert a .json messages file into Markdown.
--   **[dev convert script](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_convert_script_unified)**
+-   **[dev convert script](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_convert_script_unified)**
     Convert a script file that contains deprecated sfdx-style commands to use the new sf-style commands instead.
--   **[dev generate command](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_command_unified)**
+-   **[dev generate command](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_command_unified)**
     Generate a new sf command.
--   **[dev generate flag](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_flag_unified)**
+-   **[dev generate flag](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_flag_unified)**
     Generate a flag for an existing command.
--   **[dev generate plugin](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_plugin_unified)**
+-   **[dev generate plugin](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_generate_plugin_unified)**
     Generate a new sf plugin.
 
 ## dev audit messages
@@ -385,9 +385,9 @@ sf dev convert script --script ./myScript.yml
 
 ## Related Topics
 
-- dev audit messages (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
-- dev convert messages (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
-- dev convert script (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
-- dev generate command (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
-- dev generate flag (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
-- dev generate plugin (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev audit messages (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev convert messages (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev convert script (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev generate command (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev generate flag (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- dev generate plugin (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)

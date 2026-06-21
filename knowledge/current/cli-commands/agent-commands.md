@@ -4,10 +4,10 @@ domain: cli-commands
 topic: agent-commands
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-06-07T00:37:33.816Z
-estimatedTokens: 18034
-keywords: [Flags, agent, Commands, Activate, org, Examples, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, send, sessions, start, publish, test, results, resume, run, run-eval, Beta, trace, validate]
+docType: help-article
+lastCollected: 2026-06-21T00:39:46.528Z
+estimatedTokens: 14241
+keywords: [Flags, agent, Commands, Activate, org, Examples, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, send, sessions, start, publish, test, results, resume, run, validate]
 ---
 
 > Activate an agent in an org.
@@ -16,51 +16,43 @@ keywords: [Flags, agent, Commands, Activate, org, Examples, deactivate, generate
 
 Commands to work with agents.
 
--   **[agent activate](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_activate_unified)**
+-   **[agent activate](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_activate_unified)**
     Activate an agent in an org.
--   **[agent create](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_create_unified)**
+-   **[agent create](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_create_unified)**
     Create an agent in your org using a local agent spec file.
--   **[agent deactivate](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_deactivate_unified)**
+-   **[agent deactivate](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_deactivate_unified)**
     Deactivate an agent in an org.
--   **[agent generate agent-spec](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_agent-spec_unified)**
+-   **[agent generate agent-spec](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_agent-spec_unified)**
     Generate an agent spec, which is a YAML file that captures what an agent can do.
--   **[agent generate authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_authoring-bundle_unified)**
+-   **[agent generate authoring-bundle](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_authoring-bundle_unified)**
     Generate an authoring bundle from an existing agent spec YAML file.
--   **[agent generate template](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_template_unified)**
+-   **[agent generate template](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_template_unified)**
     Generate an agent template from an existing agent in your DX project so you can then package the template in a second-generation managed package.
--   **[agent generate test-spec](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_test-spec_unified)**
+-   **[agent generate test-spec](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_generate_test-spec_unified)**
     Generate an agent test spec, which is a YAML file that lists the test cases for testing a specific agent.
--   **[agent preview](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_unified)**
+-   **[agent preview](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_unified)**
     Interact with an agent to preview how it responds to your statements, questions, and commands (utterances).
--   **[agent preview end](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_end_unified)**
+-   **[agent preview end](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_end_unified)**
     End an existing programmatic agent preview session and get trace location.
--   **[agent preview send](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_send_unified)**
+-   **[agent preview send](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_send_unified)**
     Send a message to an existing agent preview session.
--   **[agent preview sessions](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_sessions_unified)**
+-   **[agent preview sessions](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_sessions_unified)**
     List all known programmatic agent preview sessions.
--   **[agent preview start](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_start_unified)**
+-   **[agent preview start](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_preview_start_unified)**
     Start a programmatic agent preview session.
--   **[agent publish authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_publish_authoring-bundle_unified)**
+-   **[agent publish authoring-bundle](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_publish_authoring-bundle_unified)**
     Publish an authoring bundle to your org, which results in a new agent or a new version of an existing agent.
--   **[agent test create](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_create_unified)**
+-   **[agent test create](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_create_unified)**
     Create an agent test in your org using a local test spec YAML file.
--   **[agent test list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_list_unified)**
+-   **[agent test list](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_list_unified)**
     List the available agent tests in your org.
--   **[agent test results](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_results_unified)**
+-   **[agent test results](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_results_unified)**
     Get the results of a completed agent test run.
--   **[agent test resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_resume_unified)**
+-   **[agent test resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_resume_unified)**
     Resume an agent test that you previously started in your org so you can view the test results.
--   **[agent test run](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_run_unified)**
+-   **[agent test run](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_run_unified)**
     Start an agent test in your org.
--   **[agent test run-eval (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_test_run-eval_unified)**
-    Run rich evaluation tests against an Agentforce agent.
--   **[agent trace delete](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_trace_delete_unified)**
-    Delete trace files from an agent preview session.
--   **[agent trace list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_trace_list_unified)**
-    List the available trace files that were recorded during all agent preview sessions.
--   **[agent trace read](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_trace_read_unified)**
-    Read trace files from an agent preview session.
--   **[agent validate authoring-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_validate_authoring-bundle_unified)**
+-   **[agent validate authoring-bundle](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_validate_authoring-bundle_unified)**
     Validate an authoring bundle to ensure its Agent Script file compiles successfully and can be used to publish an agent.
 
 ## agent activate
@@ -915,13 +907,11 @@ End an existing programmatic agent preview session and get trace location.
 
 You must have previously started a programmatic agent preview session with the "agent preview start" command to then use this command to end it. This command also displays the local directory where the session trace files are stored.
 
-The original "agent preview start" command outputs a session ID which you then use with the --session-id flag of this command to end the session. You don't have to specify the --session-id flag if an agent has only one active preview session. You must also use either the --authoring-bundle or --api-name flag to specify the API name of the authoring bundle or the published agent, respectively. To find either API name, navigate to your package directory in your DX project. The API name of an authoring bundle is the same as its directory name under the "aiAuthoringBundles" metadata directory. Similarly, the published agent's API name is the same as its directory name under the "Bots" metadata directory.
-
-Use the --all flag to end all active preview sessions at once. You can combine --all with --api-name or --authoring-bundle to end only sessions for a specific agent, or use --all on its own to end every session across all agents in the project.
+The original "agent preview start" command outputs a session ID which you then use with the --session-id flag of this command to end the session. You don't have to specify the --session-id flag if an agent has only one active preview session. You must also use either the --authoring-bundle or --api-name flag to specify the API name of the authoring bundle or the published agent, respecitvely. To find either API name, navigate to your package directory in your DX project. The API name of an authoring bundle is the same as its directory name under the "aiAuthoringBundles" metadata directory. Similarly, the published agent's API name is the same as its directory name under the "Bots" metadata directory.
 
 ### Examples for agent preview end
 
-End a preview session of a published agent by specifying its session ID and API name; use the default org:
+End a preview session of a published agent by specifying its session ID and API name ; use the default org:
 
 ```
 
@@ -934,18 +924,6 @@ Similar to previous example, but don't specify a session ID; you get an error if
 ```
 
 End a preview session of an agent using its authoring bundle API name; you get an error if the agent has more than one active session.
-
-```
-
-```
-
-End all active preview sessions for a specific agent without prompting:
-
-```
-
-```
-
-End all active preview sessions across every agent in the local session cache for an org:
 
 ```
 
@@ -1008,22 +986,6 @@ Optional
 API name of the authoring bundle metadata component that contains the agent's Agent Script file.
 
 Type: option
-
-\--all
-
-Optional
-
-End all active preview sessions. Combine with --api-name or --authoring-bundle to limit to a specific agent, or use with only --target-org to end sessions for all agents found in the local session cache. Requires --target-org.
-
-Type: boolean
-
-\-p | \--no-prompt
-
-Optional
-
-Don't prompt for confirmation before ending sessions. Has an effect only when used with --all.
-
-Type: boolean
 
 ## agent preview send
 
@@ -1287,18 +1249,6 @@ Publish an authoring bundle with API name MyAuthoringBundle to the org with alia
 
 ```
 
-Publish with verbose output to see all retrieved and deployed metadata components:
-
-```
-
-```
-
-Publish with concise output showing only essential information:
-
-```
-
-```
-
 ### Flags
 
 \--json
@@ -1346,22 +1296,6 @@ Type: option
 Optional
 
 Don't retrieve the metadata associated with the agent to your DX project.
-
-Type: boolean
-
-\-v | \--verbose
-
-Optional
-
-Display detailed output showing all metadata components retrieved and deployed during the publish process.
-
-Type: boolean
-
-\--concise
-
-Optional
-
-Display minimal output with only essential information about the publish operation.
 
 Type: boolean
 
@@ -1469,7 +1403,7 @@ List the available agent tests in your org.
 
 ### Description for agent test list
 
-The command outputs a table with the name (API name) of each test along with its unique ID, type ('agentforce-studio' or 'testing-center'), and the date it was created in the org.
+The command outputs a table with the name (API name) of each test along with its unique ID and the date it was created in the org.
 
 ### Examples for agent test list
 
@@ -1613,18 +1547,6 @@ If the agent test run completes, write the results to the specified directory. I
 
 Type: option
 
-\--test-runner TEST-RUNNER
-
-Optional
-
-Explicitly specify which test runner to use (agentforce-studio or testing-center).
-
-By default, the command automatically detects which test runner to use based on the test definition metadata type in your org. Use this flag to explicitly specify the runner type. 'agentforce-studio' uses AiTestingDefinition metadata. 'testing-center' uses AiEvaluationDefinition metadata.
-
-Type: option
-
-Permissible values are: agentforce-studio, testing-center
-
 \--verbose
 
 Optional
@@ -1749,18 +1671,6 @@ If the agent test run completes, write the results to the specified directory. I
 
 Type: option
 
-\--test-runner TEST-RUNNER
-
-Optional
-
-Explicitly specify which test runner to use (agentforce-studio or testing-center).
-
-By default, the command automatically detects which test runner to use based on the test definition metadata type in your org. Use this flag to explicitly specify the runner type. 'agentforce-studio' uses AiTestingDefinition metadata. 'testing-center' uses AiEvaluationDefinition metadata.
-
-Type: option
-
-Permissible values are: agentforce-studio, testing-center
-
 \--verbose
 
 Optional
@@ -1877,18 +1787,6 @@ If the agent test run completes, write the results to the specified directory. I
 
 Type: option
 
-\--test-runner TEST-RUNNER
-
-Optional
-
-Explicitly specify which test runner to use (agentforce-studio or testing-center).
-
-By default, the command automatically detects which test runner to use based on the test definition metadata type in your org. Use this flag to explicitly specify the runner type. 'agentforce-studio' uses AiTestingDefinition metadata. 'testing-center' uses AiEvaluationDefinition metadata.
-
-Type: option
-
-Permissible values are: agentforce-studio, testing-center
-
 \--verbose
 
 Optional
@@ -1900,472 +1798,6 @@ When enabled, includes detailed generated data (such as invoked actions) in the 
 The generated data is in JSON format and includes the Apex classes or Flows that were invoked, the Salesforce objects that were touched, and so on. Use the JSON structure of this information to build the test case JSONPath expression when using custom evaluations.
 
 Type: boolean
-
-## agent test run-eval (Beta)
-
-Run rich evaluation tests against an Agentforce agent.
-
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
-
-#### Note
-
-This feature is a Beta Service. Customers may opt to try such Beta Service in its sole discretion. Any use of the Beta Service is subject to the applicable Beta Services Terms provided at Agreements and Terms ([https://www.salesforce.com/company/legal/agreements/](https://www.salesforce.com/company/legal/agreements/ "HTML (New Window)")).
-
-### Description for agent test run-eval
-
-Specify the tests you want to run with one of these inputs to the --spec flag:
-
-\- YAML test spec generated by the \`agent generate test-spec\` CLI command
-
-\- JSON payload
-
-When you provide a YAML test spec, this command automatically translates test cases into internal state-based evaluation framework calls and infers the agent name from the test spec's \`subjectName\` field. As a result, you can use the same test spec with both the \`agent test run\` and \`agent test run-eval\` commands. YAML test specs also support context variables, which allow you to inject contextual data (such as CaseId or RoutableId) into agent sessions for testing with different contexts.
-
-When you provide a JSON payload, it's sent directly to the evaluation framework with optional normalization. The normalizer auto-corrects common field name mistakes, converts shorthand references to JSONPath, and injects defaults. Use \`--no-normalize\` to disable this auto-normalization. JSON payloads can also include context\_variables on agent.create\_session steps for the same contextual testing capabilities as when you use a YAML test spec.
-
-This command supports more than 8 evaluator types, including subagent routing assertions, action invocation checks, string/numeric assertions, semantic similarity scoring, and LLM-based quality ratings.
-
-### Examples for agent test run-eval
-
-Run tests using a YAML test spec on the org with alias "my-org":
-
-```
-
-```
-
-Run tests using a YAML spec with explicit agent name override; use your default org:
-
-```
-
-```
-
-Run tests using a JSON payload:
-
-```
-
-```
-
-Run tests and output results in JUnit format; useful for continuous integration and deployment (CI/CD):
-
-```
-
-```
-
-Run tests with contextVariables to inject contextual data into agent sessions (add contextVariables to test cases in your YAML spec):
-
-```
-
-```
-
-Pipe JSON payload from stdin (--spec flag is automatically populated from stdin):
-
-```
-
-```
-
-### Flags
-
-\--json
-
-Optional
-
-Format output as json.
-
-Type: boolean
-
-\--flags-dir FLAGS-DIR
-
-Optional
-
-Import flag values from a directory.
-
-Type: option
-
-\-o | \--target-org TARGET-ORG
-
-Required
-
-Username or alias of the target org. Not required if the \`target-org\` configuration variable is already set.
-
-Type: option
-
-\--api-version API-VERSION
-
-Optional
-
-Override the api version used for api requests made by this command
-
-Type: option
-
-\-s | \--spec SPEC
-
-Required
-
-Path to test spec file (YAML or JSON). Supports reading from stdin when piping content.
-
-Type: option
-
-\-n | \--api-name API-NAME
-
-Optional
-
-Agent API name (also called DeveloperName) used to resolve agent\_id and agent\_version\_id. Auto-inferred from the YAML spec's subjectName.
-
-Type: option
-
-\--result-format RESULT-FORMAT
-
-Optional
-
-Format of the agent test run results.
-
-Type: option
-
-Permissible values are: json, human, junit, tap
-
-Default value: human
-
-\--batch-size BATCH-SIZE
-
-Optional
-
-Number of tests per API request (max 5).
-
-Type: option
-
-Default value: 5
-
-\--no-normalize
-
-Optional
-
-Disable auto-normalization of field names and shorthand references.
-
-Type: boolean
-
-## agent trace delete
-
-Delete trace files from an agent preview session.
-
-### Description for agent trace delete
-
-When you run an agent preview conversation (either interactive or programmatic), trace files are automatically recorded and saved in your local DX project. Use this command to delete some or all of the trace files.
-
-By default, this command shows a preview of what will be deleted and prompts for confirmation. Use --no-prompt to skip confirmation.
-
-Without filters, this comamnd deletes all trace files for all agents and sessions. Use flags to narrow the scope: filter by agent API name (--agent), by session (--session-id), or by age (--older-than).
-
-### Examples for agent trace delete
-
-Delete all traces for all agents and sessions; prompt for confirmation:
-
-```
-
-```
-
-Delete all traces for a specific agent:
-
-```
-
-```
-
-Delete traces from a specific session:
-
-```
-
-```
-
-Delete traces older than 7 days:
-
-```
-
-```
-
-Delete traces older than 24 hours for a specific agent; don't prompt for confirmation:
-
-```
-
-```
-
-Delete all traces for all agents and sessions; don't prompt for confirmation:
-
-```
-
-```
-
-### Flags
-
-\--json
-
-Optional
-
-Format output as json.
-
-Type: boolean
-
-\--flags-dir FLAGS-DIR
-
-Optional
-
-Import flag values from a directory.
-
-Type: option
-
-\-a | \--agent AGENT
-
-Optional
-
-API name of the agent used to filter the list of trace files you want to delete. Matches against the API name used when starting the session, either an authoring bundle or a published agent API name.
-
-Type: option
-
-\--session-id SESSION-ID
-
-Optional
-
-Session ID used to filter the list of trace files you want to delete. Use the "agent preview sessions" CLI command to list all known agent preview sessions along with their session IDs.
-
-Type: option
-
-\--older-than OLDER-THAN
-
-Optional
-
-Duration used to filter the list of trace files; only files older than the duration are deleted. Accepts a number followed by a unit: m/minutes, h/hours, d/days, w/weeks. Examples: 7d, 24h, 2w.
-
-Type: option
-
-\--no-prompt
-
-Optional
-
-Skip the confirmation prompt and delete immediately.
-
-Type: boolean
-
-## agent trace list
-
-List the available trace files that were recorded during all agent preview sessions.
-
-### Description for agent trace list
-
-When you run an agent preview conversation (either interactive or programmatic), trace files are automatically recorded and saved in your local DX project. By default, this command lists all trace files for all agents and all of their sessions. Use flags to narrow results: filter by agent name (--agent), by session (--session-id), or by date (--since).
-
-Each row in the output corresponds to one trace file, which in turn corresponds to one agent session. The Agent column shows the authoring bundle or API name used when starting the session.
-
-### Examples for agent trace list
-
-List all trace files for all agents and sessions:
-
-```
-
-```
-
-List all trace files for a specific agent:
-
-```
-
-```
-
-List trace files for a specific session:
-
-```
-
-```
-
-List trace files recorded on or after April 20, 2026 (date-only, interpreted as UTC midnight):
-
-```
-
-```
-
-List trace files recorded on or after a specific UTC time:
-
-```
-
-```
-
-Filter by agent and date together:
-
-```
-
-```
-
-Return results as JSON:
-
-```
-
-```
-
-### Flags
-
-\--json
-
-Optional
-
-Format output as json.
-
-Type: boolean
-
-\--flags-dir FLAGS-DIR
-
-Optional
-
-Import flag values from a directory.
-
-Type: option
-
-\--session-id SESSION-ID
-
-Optional
-
-Session ID used to filter the list of trace files. Use the "agent preview sessions" CLI command to list all known agent preview sessions along with their session IDs.
-
-Type: option
-
-\-a | \--agent AGENT
-
-Optional
-
-API name of the agent used to filter the list of available trace files. Matches against the API name used when starting the session, either an authoring bundle or a published agent API name.
-
-Type: option
-
-\--since SINCE
-
-Optional
-
-Date used to filter the list of trace files; only those recorded on or after the date are listed.
-
-Accepts ISO 8601 format: date-only (2026-04-20), date-time (2026-04-20T14:00:00Z), or date-time with milliseconds (2026-04-20T14:00:00.000Z). The "Recorded At" values shown in the table output are valid inputs.
-
-Type: option
-
-## agent trace read
-
-Read trace files from an agent preview session.
-
-### Description for agent trace read
-
-When you run an agent preview conversation (either interactive or programmatic), trace files are automatically recorded and saved in your local DX project. Each turn (utterance or response) of a conversation creates trace data. Use this command to view trace data for a specific preview session, so you can then analyze the trace data to observe, monitor, investigate, and troubleshoot agent events and behavior.
-
-Use the --format flag to specify one of these formats of the outputted trace data:
-
-\- summary (Default): A per-turn narrative showing topic routing, actions executed, and the agent's response. Use this to quickly understand what happened in a preview session.
-
-\- detail: Diagnostic drill-down into a specific dimension. Filters output to only the trace steps relevant to that dimension, minimizing noise.
-
-\- raw: Unprocessed trace JSON. Use this as a fallback when the trace schema has changed or you need to perform custom analysis.
-
-If you specify "--format detail", you must also specify a dimension with the --dimension flag. Dimensions are a way to slice and analyze the agent execution trace from a specific angle or concern. Instead of looking at the raw sequence of everything that happened, each dimension filters and organizes the trace data to answer a specific type of question. These are the available dimensions and the information they provide:
-
-\- actions: The actions the agent executed. Includes action name, input parameters, output, and latency. Use this dimension to understand what the agent actually did when answering an utterance in the preview session.
-
-\- grounding: The reasoning steps used by the LLM. Use this dimension to see how the agent "thought" about the problem - the AI reasoning that determined which actions to take.
-
-\- routing: How the agent navigated between subagents. Use this dimension to understand conversation flow - when and why the agent switched between different subagents or contexts during the conversation.
-
-\- errors: Aggregates all errors during the session. Use this dimension to quickly identify and debug issues across all steps.
-
-### Examples for agent trace read
-
-Show a session trace summary for all turns in the session with the specified ID:
-
-```
-
-```
-
-Show a trace summary for the second turn (utterance or response) of the conversation:
-
-```
-
-```
-
-Drill into action execution across all turns:
-
-```
-
-```
-
-Drill into routing decisions for the first turn of the conversation:
-
-```
-
-```
-
-Show all errors across the session:
-
-```
-
-```
-
-Output raw trace JSON for custom parsing:
-
-```
-
-```
-
-Return results as JSON:
-
-```
-
-```
-
-### Flags
-
-\--json
-
-Optional
-
-Format output as json.
-
-Type: boolean
-
-\--flags-dir FLAGS-DIR
-
-Optional
-
-Import flag values from a directory.
-
-Type: option
-
-\-s | \--session-id SESSION-ID
-
-Required
-
-Session ID to read traces for. Use the "agent preview sessions" CLI command to list all known agent preview sessions along with their session IDs
-
-Type: option
-
-\-f | \--format FORMAT
-
-Optional
-
-Output format of the trace data; specifies the level of detail you want in the trace files.
-
-Type: option
-
-Permissible values are: summary, detail, raw
-
-Default value: summary
-
-\-d | \--dimension DIMENSION
-
-Optional
-
-Dimension to drill into when using "--format detail"; used to filter and organize the trace data to answer a specific type of question.
-
-Type: option
-
-Permissible values are: actions, grounding, routing, errors
-
-\-t | \--turn TURN
-
-Optional
-
-Turn number for which you want trace data. A turn is a single utterance or response in a conversation, starting with 1.
-
-Type: option
 
 ## agent validate authoring-bundle
 
@@ -2459,13 +1891,13 @@ sf agent create --name "Resort Manager" --spec specs/resortManagerAgent.yaml --p
 
 ## Related Topics
 
-- agent activate (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent create (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent deactivate (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent generate agent-spec (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent generate authoring-bundle (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent generate template (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent generate test-spec (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent preview (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent preview end (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- agent preview send (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent activate (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent create (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent deactivate (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent generate agent-spec (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent generate authoring-bundle (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent generate template (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent generate test-spec (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent preview (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent preview end (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- agent preview send (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)

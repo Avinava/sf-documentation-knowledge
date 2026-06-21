@@ -5,7 +5,7 @@ topic: category-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:38.381Z
+lastCollected: 2026-06-21T00:39:50.902Z
 estimatedTokens: 980
 keywords: [Category, POST, API, composite, Product, Discovery]
 ---

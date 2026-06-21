@@ -5,7 +5,7 @@ topic: deployment-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-07T00:37:41.181Z
+lastCollected: 2026-06-21T00:39:53.464Z
 estimatedTokens: 383
 keywords: [Deployment, Considerations, any, scenario, understand, dependencies, prerequisites, planned, changes]
 ---

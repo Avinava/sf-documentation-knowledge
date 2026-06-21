@@ -5,7 +5,7 @@ topic: product-catalog-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.842Z
+lastCollected: 2026-06-21T00:39:54.072Z
 estimatedTokens: 664
 keywords: [Product, Catalog, Management, Manage, entire, portfolio, attributes, classifications, simple, bundled, products, manage]
 ---

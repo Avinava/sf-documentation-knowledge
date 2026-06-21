@@ -5,8 +5,8 @@ topic: data-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.305Z
-estimatedTokens: 11358
+lastCollected: 2026-06-21T00:39:47.013Z
+estimatedTokens: 11390
 keywords: [Flags, Commands, results, bulk, ingest, job, previously, ran, Examples, file, record, Aliases, resume, export, tree, import, query, search, upsert]
 ---
 
@@ -16,47 +16,47 @@ keywords: [Flags, Commands, results, bulk, ingest, job, previously, ran, Example
 
 Manage records in your org.
 
--   **[data bulk results](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_bulk_results_unified)**
+-   **[data bulk results](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_bulk_results_unified)**
     Get the results of a bulk ingest job that you previously ran.
--   **[data create file](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_create_file_unified)**
+-   **[data create file](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_create_file_unified)**
     Upload a local file to an org.
--   **[data create record](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_create_record_unified)**
+-   **[data create record](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_create_record_unified)**
     Create and insert a record into a Salesforce or Tooling API object.
--   **[data delete bulk](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_bulk_unified)**
+-   **[data delete bulk](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_bulk_unified)**
     Bulk delete records from an org using a CSV file. Uses Bulk API 2.0.
--   **[data delete record](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_record_unified)**
+-   **[data delete record](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_record_unified)**
     Deletes a single record from a Salesforce or Tooling API object.
--   **[data delete resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_resume_unified)**
+-   **[data delete resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_delete_resume_unified)**
     Resume a bulk delete job that you previously started. Uses Bulk API 2.0.
--   **[data export bulk](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_bulk_unified)**
+-   **[data export bulk](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_bulk_unified)**
     Bulk export records from an org into a file using a SOQL query. Uses Bulk API 2.0.
--   **[data export resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_resume_unified)**
+-   **[data export resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_resume_unified)**
     Resume a bulk export job that you previously started. Uses Bulk API 2.0.
--   **[data export tree](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_tree_unified)**
+-   **[data export tree](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_export_tree_unified)**
     Export data from an org into one or more JSON files.
--   **[data get record](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_get_record_unified)**
+-   **[data get record](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_get_record_unified)**
     Retrieve and display a single record of a Salesforce or Tooling API object.
--   **[data import bulk](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_bulk_unified)**
+-   **[data import bulk](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_bulk_unified)**
     Bulk import records into a Salesforce object from a CSV file. Uses Bulk API 2.0.
--   **[data import resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_resume_unified)**
+-   **[data import resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_resume_unified)**
     Resume a bulk import job that you previously started. Uses Bulk API 2.0.
--   **[data import tree](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_tree_unified)**
+-   **[data import tree](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_import_tree_unified)**
     Import data from one or more JSON files into an org.
--   **[data query](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_query_unified)**
+-   **[data query](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_query_unified)**
     Execute a SOQL query.
--   **[data resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_resume_unified)**
+-   **[data resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_resume_unified)**
     View the status of a bulk data load job or batch.
--   **[data search](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_search_unified)**
+-   **[data search](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_search_unified)**
     Execute a SOSL text-based search query.
--   **[data update bulk](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_bulk_unified)**
+-   **[data update bulk](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_bulk_unified)**
     Bulk update records to an org from a CSV file. Uses Bulk API 2.0.
--   **[data update record](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_record_unified)**
+-   **[data update record](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_record_unified)**
     Updates a single record of a Salesforce or Tooling API object.
--   **[data update resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_resume_unified)**
+-   **[data update resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_update_resume_unified)**
     Resume a bulk update job that you previously started. Uses Bulk API 2.0.
--   **[data upsert bulk](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_upsert_bulk_unified)**
+-   **[data upsert bulk](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_upsert_bulk_unified)**
     Bulk upsert records to an org from a CSV file. Uses Bulk API 2.0.
--   **[data upsert resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_upsert_resume_unified)**
+-   **[data upsert resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_upsert_resume_unified)**
     Resume a bulk upsert job that you previously started. Uses Bulk API 2.0.
 
 ## data bulk results
@@ -2061,13 +2061,13 @@ sf data create record --sobject Account --values "Name=Acme"
 
 ## Related Topics
 
-- data bulk results (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data create file (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data create record (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data delete bulk (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data delete record (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data delete resume (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data export bulk (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data export resume (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data export tree (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- data get record (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data bulk results (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data create file (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data create record (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data delete bulk (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data delete record (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data delete resume (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data export bulk (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data export resume (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data export tree (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- data get record (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)

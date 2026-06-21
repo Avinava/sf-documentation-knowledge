@@ -5,7 +5,7 @@ topic: transaction-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:41.569Z
+lastCollected: 2026-06-21T00:39:53.818Z
 estimatedTokens: 301
 keywords: [Transaction, Management, deployment, sequence, API, Revenue, Cloud]
 ---

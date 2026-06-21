@@ -5,8 +5,8 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:35.201Z
-estimatedTokens: 9428
+lastCollected: 2026-06-21T00:39:47.893Z
+estimatedTokens: 9451
 keywords: [Flags, template, Commands, Generate, simple, Analytics, Examples, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage, Beta, lightning, app, event, test, project, static-resource, ui-bundle, visualforce]
 ---
 
@@ -16,35 +16,35 @@ keywords: [Flags, template, Commands, Generate, simple, Analytics, Examples, Ali
 
 Collection of Salesforce templates.
 
--   **[template generate analytics template](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_analytics_template_unified)**
+-   **[template generate analytics template](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_analytics_template_unified)**
     Generate a simple Analytics template.
--   **[template generate apex class](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_apex_class_unified)**
+-   **[template generate apex class](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_apex_class_unified)**
     Generate an Apex class.
--   **[template generate apex trigger](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_apex_trigger_unified)**
+-   **[template generate apex trigger](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_apex_trigger_unified)**
     Generate an Apex trigger.
--   **[template generate digital-experience site (Developer Preview)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_digital-experience_site_unified)**
+-   **[template generate digital-experience site (Developer Preview)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_digital-experience_site_unified)**
     Generate an Experience Cloud site.
--   **[template generate flexipage (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_flexipage_unified)**
+-   **[template generate flexipage (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_flexipage_unified)**
     Generate a FlexiPage, also known as a Lightning page.
--   **[template generate lightning app](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_app_unified)**
+-   **[template generate lightning app](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_app_unified)**
     Generate a Lightning App.
--   **[template generate lightning component](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_component_unified)**
+-   **[template generate lightning component](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_component_unified)**
     Generate a bundle for an Aura component or a Lightning web component.
--   **[template generate lightning event](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_event_unified)**
+-   **[template generate lightning event](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_event_unified)**
     Generate a Lightning Event.
--   **[template generate lightning interface](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_interface_unified)**
+-   **[template generate lightning interface](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_interface_unified)**
     Generate a Lightning Interface.
--   **[template generate lightning test](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_test_unified)**
+-   **[template generate lightning test](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_lightning_test_unified)**
     Generate a Lightning test.
--   **[template generate project](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_project_unified)**
+-   **[template generate project](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_project_unified)**
     Generate a Salesforce DX project.
--   **[template generate static-resource](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_static-resource_unified)**
+-   **[template generate static-resource](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_static-resource_unified)**
     Generate a static resource.
--   **[template generate ui-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_ui-bundle_unified)**
+-   **[template generate ui-bundle](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_ui-bundle_unified)**
     Generate a UI bundle, which contains the code and metadata to build a UI experience that uses non-native Salesforce frameworks, such as React.
--   **[template generate visualforce component](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_component_unified)**
+-   **[template generate visualforce component](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_component_unified)**
     Generate a Visualforce Component.
--   **[template generate visualforce page](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_page_unified)**
+-   **[template generate visualforce page](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_page_unified)**
     Generate a Visualforce Page.
 
 ## template generate analytics template
@@ -341,7 +341,7 @@ Default value: before insert
 
 Generate an Experience Cloud site.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -441,7 +441,7 @@ Type: option
 
 Generate a FlexiPage, also known as a Lightning page.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -1705,13 +1705,13 @@ sf template generate apex class --name MyClass --output-dir force-app/main/defau
 
 ## Related Topics
 
-- template generate analytics template (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate apex class (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate apex trigger (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate digital-experience site (Developer Preview) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate flexipage (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate lightning app (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate lightning component (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate lightning event (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate lightning interface (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
-- template generate lightning test (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate analytics template (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate apex class (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate apex trigger (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate digital-experience site (Developer Preview) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate flexipage (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate lightning app (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate lightning component (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate lightning event (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate lightning interface (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)
+- template generate lightning test (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm)

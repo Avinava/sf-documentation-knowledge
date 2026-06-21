@@ -2,7 +2,7 @@
 domain: api-streaming
 name: Streaming API Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.532Z
+lastGenerated: 2026-06-21T00:39:57.324Z
 ---
 
 # Streaming API Developer Guide — Knowledge Index

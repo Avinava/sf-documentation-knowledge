@@ -5,8 +5,8 @@ topic: api-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:33.989Z
-estimatedTokens: 1695
+lastCollected: 2026-06-21T00:39:46.696Z
+estimatedTokens: 1698
 keywords: [Flags, api, Commands, Execute, GraphQL, statement, Beta, Examples, rest]
 ---
 
@@ -16,16 +16,16 @@ keywords: [Flags, api, Commands, Execute, GraphQL, statement, Beta, Examples, re
 
 Commands to interact with API calls.
 
--   **[api request graphql (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_request_graphql_unified)**
+-   **[api request graphql (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_request_graphql_unified)**
     Execute a GraphQL statement.
--   **[api request rest (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_request_rest_unified)**
+-   **[api request rest (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_request_rest_unified)**
     Make an authenticated HTTP request using the Salesforce REST API.
 
 ## api request graphql (Beta)
 
 Execute a GraphQL statement.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -125,7 +125,7 @@ Type: option
 
 Make an authenticated HTTP request using the Salesforce REST API.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -316,5 +316,5 @@ sf api request rest 'services/data/v56.0/limits' --target-org my-org
 
 ## Related Topics
 
-- api request graphql (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)
-- api request rest (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)
+- api request graphql (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)
+- api request rest (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)

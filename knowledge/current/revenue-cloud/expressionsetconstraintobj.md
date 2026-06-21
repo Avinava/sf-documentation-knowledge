@@ -5,7 +5,7 @@ topic: expressionsetconstraintobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:43.162Z
+lastCollected: 2026-06-21T00:39:55.325Z
 estimatedTokens: 573
 keywords: [ExpressionSetConstraintObj, association, Product, constraint, model, tags, defined, API, 63.0]
 ---

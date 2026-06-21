@@ -2,7 +2,7 @@
 domain: salesforce-developer-environment-dotnet-tipsheet
 name: Setting Up Your .NET Developer Environment
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.606Z
+lastGenerated: 2026-06-21T00:39:57.405Z
 ---
 
 # Setting Up Your .NET Developer Environment — Knowledge Index

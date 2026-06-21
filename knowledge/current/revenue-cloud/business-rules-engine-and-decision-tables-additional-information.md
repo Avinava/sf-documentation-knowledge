@@ -5,7 +5,7 @@ topic: business-rules-engine-and-decision-tables-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-07T00:37:41.339Z
+lastCollected: 2026-06-21T00:39:53.607Z
 estimatedTokens: 851
 keywords: [Dependencies, Business, Engine, Decision, Tables, Additional, know, Revenue, Cloud, deployment, Industries, common, features, Expression, Object-Specific, Helpful, Links, Considerations]
 ---

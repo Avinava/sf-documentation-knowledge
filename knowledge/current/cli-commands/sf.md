@@ -5,8 +5,8 @@ topic: sf
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-06-07T00:37:35.233Z
-estimatedTokens: 1878
+lastCollected: 2026-06-21T00:39:47.922Z
+estimatedTokens: 1916
 keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, synchronize, source, install, packages]
 ---
 
@@ -16,101 +16,101 @@ keywords: [Commands, manage, Salesforce, projects, scratch, orgs, sandboxes, syn
 
 Commands to manage Salesforce DX projects, create and manage scratch orgs and sandboxes, synchronize source to and from orgs, create and install packages, and more.
 
-This version of the sf command reference includes details about version 2.137.6 of the sf executable of Salesforce CLI and the following plug-in versions:
+This version of the sf command reference includes details about version 2.133.4 of the sf executable of Salesforce CLI and the following plug-in versions:
 
--   @salesforce/plugin-deploy-retrieve version 3.24.50
--   @salesforce/plugin-settings version 2.4.82
--   @salesforce/plugin-info version 3.4.136
--   @salesforce/plugin-sobject version 1.4.110
--   @salesforce/plugin-limits version 3.3.91
--   @salesforce/plugin-schema version 3.3.115
--   @salesforce/plugin-custom-metadata version 3.3.104
--   @salesforce/plugin-data version 4.0.103
--   @salesforce/plugin-community version 3.3.63
--   @salesforce/plugin-signups version 2.6.71
--   @salesforce/plugin-user version 3.10.1
--   @salesforce/plugin-org version 5.11.4
--   @salesforce/plugin-packaging version 2.28.3
--   @salesforce/plugin-templates version 56.17.4
--   @salesforce/plugin-apex version 3.9.31
--   @salesforce/plugin-auth version 4.4.1
+-   @salesforce/plugin-deploy-retrieve version 3.24.37
+-   @salesforce/plugin-settings version 2.4.71
+-   @salesforce/plugin-info version 3.4.124
+-   @salesforce/plugin-sobject version 1.4.100
+-   @salesforce/plugin-limits version 3.3.84
+-   @salesforce/plugin-schema version 3.3.106
+-   @salesforce/plugin-custom-metadata version 3.3.97
+-   @salesforce/plugin-data version 4.0.92
+-   @salesforce/plugin-community version 3.3.57
+-   @salesforce/plugin-signups version 2.6.66
+-   @salesforce/plugin-user version 3.9.0
+-   @salesforce/plugin-org version 5.10.3
+-   @salesforce/plugin-packaging version 2.27.7
+-   @salesforce/plugin-templates version 56.16.3
+-   @salesforce/plugin-apex version 3.9.22
+-   @salesforce/plugin-auth version 4.3.7
 -   @salesforce/plugin-dev version 2.5.2
 -   @salesforce/sfdx-plugin-lwc-test version 1.2.1
 -   @salesforce/plugin-devops-center version 1.2.27
--   @salesforce/plugin-marketplace version 1.3.28
--   @salesforce/plugin-code-analyzer version 5.13.0
--   @salesforce/plugin-api version 1.3.36
--   @salesforce/plugin-agent version 1.40.5
+-   @salesforce/plugin-marketplace version 1.3.18
+-   @salesforce/plugin-code-analyzer version 5.12.0
+-   @salesforce/plugin-api version 1.3.21
+-   @salesforce/plugin-agent version 1.34.0
 -   @salesforce/plugin-flow version 1.0.5
 -   @salesforce/plugin-lightning-dev version 6.2.17
 -   @salesforce/plugin-ui-bundle-dev version 1.2.2
 
-For information about installing Salesforce CLI, see the [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.262.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm "HTML (New Window)").
+For information about installing Salesforce CLI, see the [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm "HTML (New Window)").
 
 For information about Salesforce CLI changes, see the [Salesforce CLI Release Notes](https://github.com/forcedotcom/cli/blob/main/releasenotes/README.md "HTML (New Window)").
 
--   **[agent Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_commands_unified)**
+-   **[agent Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm#cli_reference_agent_commands_unified)**
     Commands to work with agents.
--   **[alias Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_commands_unified)**
+-   **[alias Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_commands_unified)**
     Use the alias commands to manage your aliases.
--   **[apex Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_commands_unified)**
+-   **[apex Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm#cli_reference_apex_commands_unified)**
     Use the apex commands to create Apex classes, execute anonymous blocks, view your logs, run Apex tests, and view Apex test results.
--   **[api Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_commands_unified)**
+-   **[api Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm#cli_reference_api_commands_unified)**
     Commands to interact with API calls.
--   **[cmdt Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_commands_unified)**
+-   **[cmdt Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm#cli_reference_cmdt_commands_unified)**
     Generate custom metadata types and their records.
--   **[code-analyzer Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_commands_unified)**
+-   **[code-analyzer Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm#cli_reference_code-analyzer_commands_unified)**
     Analyze your code to ensure it adheres to best practices.
--   **[community Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_commands_unified)**
+-   **[community Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_commands_unified)**
     Create and publish an Experience Cloud site.
--   **[config Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_commands_unified)**
+-   **[config Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm#cli_reference_config_commands_unified)**
     Commands to configure Salesforce CLI.
--   **[data Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_commands_unified)**
+-   **[data Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm#cli_reference_data_commands_unified)**
     Manage records in your org.
--   **[dev Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_commands_unified)**
+-   **[dev Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm#cli_reference_dev_commands_unified)**
     Commands for sf plugin development.
--   **[doctor Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm#cli_reference_doctor_commands_unified)**
+-   **[doctor Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm#cli_reference_doctor_commands_unified)**
     Tools for diagnosing problems with Salesforce CLI.
--   **[flow Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_flow_commands_unified.htm#cli_reference_flow_commands_unified)**
+-   **[flow Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_flow_commands_unified.htm#cli_reference_flow_commands_unified)**
     Commands for testing flows
--   **[force Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_commands_unified)**
+-   **[force Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_force_commands_unified.htm#cli_reference_force_commands_unified)**
     Legacy commands for backward compatibility.
--   **[info Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm#cli_reference_info_commands_unified)**
+-   **[info Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm#cli_reference_info_commands_unified)**
     Access Salesforce CLI information from the command line.
--   **[lightning Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_commands_unified)**
+-   **[lightning Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_commands_unified)**
     Commands to work with Lightning applications.
--   **[logic Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_commands_unified)**
+-   **[logic Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_logic_commands_unified.htm#cli_reference_logic_commands_unified)**
     Use the logic commands to run Apex and Flow tests and view the test results.
--   **[org Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_commands_unified)**
+-   **[org Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_org_commands_unified.htm#cli_reference_org_commands_unified)**
     Commands to create and manage orgs and scratch org users.
--   **[package Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package_commands_unified.htm#cli_reference_package_commands_unified)**
+-   **[package Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package_commands_unified.htm#cli_reference_package_commands_unified)**
     Commands to develop and install unlocked packages and managed 2GP packages.
--   **[package1 Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_commands_unified)**
+-   **[package1 Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_package1_commands_unified.htm#cli_reference_package1_commands_unified)**
     Commands to develop first-generation managed and unmanaged packages.
--   **[plugins Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_plugins_commands_unified.htm#cli_reference_plugins_commands_unified)**
+-   **[plugins Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_plugins_commands_unified.htm#cli_reference_plugins_commands_unified)**
     Find and manage plugins
--   **[project Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_commands_unified)**
+-   **[project Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_commands_unified)**
     Work with projects, such as deploy and retrieve metadata.
--   **[schema Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_commands_unified)**
+-   **[schema Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_schema_commands_unified.htm#cli_reference_schema_commands_unified)**
     Generate metadata files.
--   **[sobject Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_commands_unified)**
+-   **[sobject Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_sobject_commands_unified.htm#cli_reference_sobject_commands_unified)**
     Commands to interact with Salesforce objects.
--   **[template Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_commands_unified)**
+-   **[template Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_commands_unified)**
     Collection of Salesforce templates.
--   **[ui-bundle Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm#cli_reference_ui-bundle_commands_unified)**
+-   **[ui-bundle Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm#cli_reference_ui-bundle_commands_unified)**
     Work with UI bundles
--   **[Help for sf Commands](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_help_unified.htm)**
+-   **[Help for sf Commands](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_help_unified.htm)**
     The \-h and \--help flags show details about sf topics and their commands.
 
 ## Related Topics
 
-- agent Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
-- alias Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
-- apex Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
-- api Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)
-- cmdt Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
-- code-analyzer Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
-- community Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
-- config Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
-- data Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
-- dev Commands (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)
+- agent Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_agent_commands_unified.htm)
+- alias Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
+- apex Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_apex_commands_unified.htm)
+- api Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_api_commands_unified.htm)
+- cmdt Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_cmdt_commands_unified.htm)
+- code-analyzer Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_code-analyzer_commands_unified.htm)
+- community Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
+- config Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_config_commands_unified.htm)
+- data Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_data_commands_unified.htm)
+- dev Commands (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_dev_commands_unified.htm)

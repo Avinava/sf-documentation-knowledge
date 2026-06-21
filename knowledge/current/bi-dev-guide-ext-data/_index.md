@@ -2,7 +2,7 @@
 domain: bi-dev-guide-ext-data
 name: Analytics External Data API Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.536Z
+lastGenerated: 2026-06-21T00:39:57.330Z
 ---
 
 # Analytics External Data API Developer Guide — Knowledge Index

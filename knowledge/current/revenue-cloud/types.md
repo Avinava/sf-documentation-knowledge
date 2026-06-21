@@ -5,7 +5,7 @@ topic: types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:37.220Z
+lastCollected: 2026-06-21T00:39:49.799Z
 estimatedTokens: 929
 keywords: [Constraint, Modeling, Language, CML, define, represent, entities, model, foundational, building, blocks, encapsulates, relationships, entity, Generic, Structure, Basic, Declaration, Variables]
 ---

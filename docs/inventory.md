@@ -1,9 +1,9 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-06-07T00:37:45.923Z*
+*Last Updated: 2026-06-21T00:39:57.702Z*
 
-**129 Domains** | **35,426 Knowledge Files**
+**129 Domains** | **35,429 Knowledge Files**
 
 ## Available Domains
 
@@ -13,7 +13,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4623 | Apex class library reference — all system classes and methods |
 | [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2465 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
 | [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1777 | Get details on standard objects so that you can interface with your Salesforce d |
-| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1359 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
+| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1362 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
 | [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1297 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
 | [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |

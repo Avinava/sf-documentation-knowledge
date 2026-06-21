@@ -5,8 +5,8 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:35.074Z
-estimatedTokens: 22507
+lastCollected: 2026-06-21T00:39:47.771Z
+estimatedTokens: 22540
 keywords: [Flags, project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Aliases, source-behavior, Beta, deploy, cancel, pipeline, quick, report, resume, start, validate, preview, generate, manifest, ignored, reset, retrieve]
 ---
 
@@ -16,49 +16,49 @@ keywords: [Flags, project, Commands, Convert, metadata, retrieved, via, API, sou
 
 Work with projects, such as deploy and retrieve metadata.
 
--   **[project convert mdapi](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_mdapi_unified)**
+-   **[project convert mdapi](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_mdapi_unified)**
     Convert metadata retrieved via Metadata API into the source format used in Salesforce DX projects.
--   **[project convert source](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_source_unified)**
+-   **[project convert source](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_source_unified)**
     Convert source-formatted files into metadata that you can deploy using Metadata API.
--   **[project convert source-behavior (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_source-behavior_unified)**
+-   **[project convert source-behavior (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_convert_source-behavior_unified)**
     Enable a behavior of your project source files, and then update your Salesforce DX project to implement the behavior.
--   **[project delete source](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_delete_source_unified)**
+-   **[project delete source](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_delete_source_unified)**
     Delete source from your project and from a non-source-tracked org.
--   **[project delete tracking](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_delete_tracking_unified)**
+-   **[project delete tracking](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_delete_tracking_unified)**
     Delete all local source tracking information.
--   **[project deploy cancel](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_cancel_unified)**
+-   **[project deploy cancel](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_cancel_unified)**
     Cancel a deploy operation.
--   **[project deploy pipeline quick (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_quick_unified)**
+-   **[project deploy pipeline quick (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_quick_unified)**
     Quickly deploy a validated deployment to an org.
--   **[project deploy pipeline report (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_report_unified)**
+-   **[project deploy pipeline report (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_report_unified)**
     Check the status of a pipeline deploy operation.
--   **[project deploy pipeline resume (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_resume_unified)**
+-   **[project deploy pipeline resume (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_resume_unified)**
     Resume watching a pipeline deploy operation.
--   **[project deploy pipeline start (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_start_unified)**
+-   **[project deploy pipeline start (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_start_unified)**
     Deploy changes from a branch to the pipeline stage’s org.
--   **[project deploy pipeline validate (Beta)](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_validate_unified)**
+-   **[project deploy pipeline validate (Beta)](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_pipeline_validate_unified)**
     Perform a validate-only deployment from a branch to the pipeline stage’s org.
--   **[project deploy preview](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_preview_unified)**
+-   **[project deploy preview](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_preview_unified)**
     Preview a deployment to see what will deploy to the org, the potential conflicts, and the ignored files.
--   **[project deploy quick](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_quick_unified)**
+-   **[project deploy quick](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_quick_unified)**
     Quickly deploy a validated deployment to an org.
--   **[project deploy report](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_report_unified)**
+-   **[project deploy report](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_report_unified)**
     Check or poll for the status of a deploy operation.
--   **[project deploy resume](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_resume_unified)**
+-   **[project deploy resume](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_resume_unified)**
     Resume watching a deploy operation and update source tracking when the deploy completes.
--   **[project deploy start](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_start_unified)**
+-   **[project deploy start](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_start_unified)**
     Deploy metadata to an org from your local project.
--   **[project deploy validate](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_validate_unified)**
+-   **[project deploy validate](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_deploy_validate_unified)**
     Validate a metadata deployment without actually executing it.
--   **[project generate manifest](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_generate_manifest_unified)**
+-   **[project generate manifest](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_generate_manifest_unified)**
     Create a project manifest that lists the metadata components you want to deploy or retrieve.
--   **[project list ignored](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_list_ignored_unified)**
+-   **[project list ignored](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_list_ignored_unified)**
     Check your local project package directories for forceignored files.
--   **[project reset tracking](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_reset_tracking_unified)**
+-   **[project reset tracking](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_reset_tracking_unified)**
     Reset local and remote source tracking.
--   **[project retrieve preview](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_retrieve_preview_unified)**
+-   **[project retrieve preview](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_retrieve_preview_unified)**
     Preview a retrieval to see what will be retrieved from the org, the potential conflicts, and the ignored files.
--   **[project retrieve start](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_retrieve_start_unified)**
+-   **[project retrieve start](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm#cli_reference_project_retrieve_start_unified)**
     Retrieve metadata from an org to your local project.
 
 ## project convert mdapi
@@ -237,7 +237,7 @@ Output directory to store the Metadata API–formatted files in.
 
 Type: option
 
-Default value: metadataPackage\_1779988371889
+Default value: metadataPackage\_1777470092289
 
 \-n | \--package-name PACKAGE-NAME
 
@@ -287,7 +287,7 @@ Type: option
 
 Enable a behavior of your project source files, and then update your Salesforce DX project to implement the behavior.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -755,7 +755,7 @@ Type: option
 
 Quickly deploy a validated deployment to an org.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -865,7 +865,7 @@ Type: boolean
 
 Check the status of a pipeline deploy operation.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -933,7 +933,7 @@ Type: boolean
 
 Resume watching a pipeline deploy operation.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -1039,7 +1039,7 @@ Default value: 33 minutes
 
 Deploy changes from a branch to the pipeline stage’s org.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -1193,7 +1193,7 @@ Type: boolean
 
 Perform a validate-only deployment from a branch to the pipeline stage’s org.
 
-![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=sfdx_cli_reference)
 
 #### Note
 
@@ -3181,13 +3181,13 @@ $ sf project convert source --root-dir path/to/source --output-dir path/to/outpu
 
 ## Related Topics
 
-- project convert mdapi (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project convert source (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project convert source-behavior (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project delete source (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project delete tracking (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project deploy cancel (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project deploy pipeline quick (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project deploy pipeline report (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project deploy pipeline resume (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
-- project deploy pipeline start (Beta) (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project convert mdapi (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project convert source (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project convert source-behavior (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project delete source (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project delete tracking (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project deploy cancel (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project deploy pipeline quick (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project deploy pipeline report (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project deploy pipeline resume (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)
+- project deploy pipeline start (Beta) (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_project_commands_unified.htm)

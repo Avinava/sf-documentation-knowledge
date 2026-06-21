@@ -5,7 +5,7 @@ topic: attributebasedadjrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.874Z
+lastCollected: 2026-06-21T00:39:55.039Z
 estimatedTokens: 713
 keywords: [AttributeBasedAdjRule, attribute, conditions, rule, adjustment, made, product, service, sold, API, 60.0]
 ---

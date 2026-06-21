@@ -5,8 +5,8 @@ topic: lightning-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:34.450Z
-estimatedTokens: 1933
+lastCollected: 2026-06-21T00:39:47.156Z
+estimatedTokens: 1938
 keywords: [Flags, lightning, Commands, Preview, Experience, app, locally, real-time, deploying, dev, Examples, site]
 ---
 
@@ -16,11 +16,11 @@ keywords: [Flags, lightning, Commands, Preview, Experience, app, locally, real-t
 
 Commands to work with Lightning applications.
 
--   **[lightning dev app](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_app_unified)**
+-   **[lightning dev app](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_app_unified)**
     Preview a Lightning Experience app locally and in real-time, without deploying it.
--   **[lightning dev component](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_component_unified)**
+-   **[lightning dev component](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_component_unified)**
     Preview LWC components in isolation.
--   **[lightning dev site](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_site_unified)**
+-   **[lightning dev site](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm#cli_reference_lightning_dev_site_unified)**
     Preview an Experience Builder site locally and in real-time, without deploying it.
 
 ## lightning dev app
@@ -305,6 +305,6 @@ sf lightning dev component --name myComponent --target-org myscratch
 
 ## Related Topics
 
-- lightning dev app (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)
-- lightning dev component (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)
-- lightning dev site (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)
+- lightning dev app (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)
+- lightning dev component (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)
+- lightning dev site (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_lightning_commands_unified.htm)

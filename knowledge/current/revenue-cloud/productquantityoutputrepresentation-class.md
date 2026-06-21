@@ -5,7 +5,7 @@ topic: productquantityoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:36.232Z
+lastCollected: 2026-06-21T00:39:48.869Z
 estimatedTokens: 586
 keywords: [ProductQuantityOutputRepresentation, quantity, constraints, current, product, discovery, context, maxQuantity, minQuantity]
 ---

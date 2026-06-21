@@ -5,8 +5,8 @@ topic: product-catalog-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.074Z
-estimatedTokens: 921
+lastCollected: 2026-06-21T00:39:54.316Z
+estimatedTokens: 953
 keywords: [Product, Catalog, Management, Business, APIs, primitive, serve, definitions, users, applications]
 ---
 
@@ -31,6 +31,7 @@ This table lists the available Product Catalog Management resources.
 | /revenue/product-discovery/products/recommendations (POST) | Get a list of recommended products based on your underlying business rules. |
 | /revenue/product-configurator/rules/actions/execute (POST) | This API is used in Product Catalog Management to disable rules, get product recommendations, and get message rules. |
 | /connect/pcm/products/bulk (POST) | Retrieve details for multiple products. |
+| /connect/pcm/products/variants (POST) | Retrieve the variation product associated with one or more parent variant products. |
 | /connect/pcm/index/configurations (GET, PUT) | Retrieve the saved index configurations. Additionally, you can persist the index configuration. |
 | /connect/pcm/relatedRecords/entityName (POST) | Retrieve related ProductRampSegment or ProductUsageGrant records for Product2 object. |
 | /connect/pcm/index/snapshots (GET) | Retrieve the created snapshots and snapshot indexes. |

@@ -5,7 +5,7 @@ topic: prorationpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:44.013Z
+lastCollected: 2026-06-21T00:39:56.110Z
 estimatedTokens: 343
 keywords: [ProrationPolicy, proration, policy, Product, Selling, Model, Option, determines, how, product's, price, calculated, subscription, duration, billing, periods, API, 67.0]
 ---

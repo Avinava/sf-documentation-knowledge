@@ -5,7 +5,7 @@ topic: configuration-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:39.525Z
+lastCollected: 2026-06-21T00:39:51.944Z
 estimatedTokens: 403
 keywords: [Configuration, product]
 ---

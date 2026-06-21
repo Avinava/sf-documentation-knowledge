@@ -5,7 +5,7 @@ topic: clause-migration-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-07T00:37:41.209Z
+lastCollected: 2026-06-21T00:39:53.488Z
 estimatedTokens: 1452
 keywords: [Clause, Migration, Considerations, prerequisite, Microsoft, template, Review, understand, how, structure, versions, relationships, exist, target, org, migrating, document, templates, Category, Configuration, First-Time, Iterative]
 ---

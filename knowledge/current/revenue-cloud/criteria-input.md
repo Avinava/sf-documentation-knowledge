@@ -5,7 +5,7 @@ topic: criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:37.573Z
+lastCollected: 2026-06-21T00:39:50.139Z
 estimatedTokens: 425
 keywords: [Criteria, filter, item]
 ---

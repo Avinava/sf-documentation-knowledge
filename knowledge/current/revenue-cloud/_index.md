@@ -1,8 +1,8 @@
 ---
 domain: revenue-cloud
 name: Revenue Cloud / Agentforce Revenue Management
-documentCount: 611
-lastGenerated: 2026-06-07T00:37:45.510Z
+documentCount: 604
+lastGenerated: 2026-06-21T00:39:57.303Z
 ---
 
 # Revenue Cloud / Agentforce Revenue Management — Knowledge Index
@@ -81,8 +81,6 @@ lastGenerated: 2026-06-07T00:37:45.510Z
 | [attributepicklistvalueoutputrepresentation-class.md](./attributepicklistvalueoutputrepresentation-class.md) | AttributePickListValueOutputRepresentation Class | api-reference | Stores details of an attribute picklist value. |
 | [attrpicklistexcludedvalue.md](./attrpicklistexcludedvalue.md) | AttrPicklistExcludedValue | developer-guide | Represents the excluded picklist values for a product classification
          at |
-| [automate-refund-action.md](./automate-refund-action.md) | Automate Refund Action | api-reference | Initiate refund orchestration for a credit memo
-            generated from a sub |
 | [billing-additional-information.md](./billing-additional-information.md) | Billing Additional Information | api-reference | Get to know additional deployment information for Billing in Revenue Cloud, incl |
 | [billing-metadata.md](./billing-metadata.md) | Billing Metadata | help-article | This table provides the metadata deployment reference for Billing in Revenue Clo |
 | [billing-objects.md](./billing-objects.md) | Billing Objects | api-reference | This table provides the deployment sequence, object types, API names, and lookup |
@@ -625,6 +623,10 @@ lastGenerated: 2026-06-07T00:37:45.510Z
 | [product-specification-record-type.md](./product-specification-record-type.md) | Product Specification Record Type | developer-guide | Output representation of the details of the product specification record
     typ |
 | [product-specification-type.md](./product-specification-type.md) | Product Specification Type | developer-guide | Output representation of the details of the product specification type. |
+| [product-variants.md](./product-variants.md) | Product Variants | developer-guide | Output representation of the variation products associated with the specified pa |
+| [product-variants-post.md](./product-variants-post.md) | Product Variants (POST) | api-reference | Retrieve the variation product associated with one or more parent
+      variant  |
+| [product-variants-input.md](./product-variants-input.md) | Product Variants Input | developer-guide | Input representation of the request to retrieve the variation products associate |
 | [productattributedefinition.md](./productattributedefinition.md) | ProductAttributeDefinition | help-article | Represents the relationship between a product and its attributes. This
       obj |
 | [productattributeoutputrepresentation-class.md](./productattributeoutputrepresentation-class.md) | ProductAttributeOutputRepresentation Class | api-reference | Contains details about the attribute in a product configuration. |
@@ -705,20 +707,8 @@ lastGenerated: 2026-06-07T00:37:45.510Z
 | [qualificationcontextoutputrepresentation-class.md](./qualificationcontextoutputrepresentation-class.md) | QualificationContextOutputRepresentation Class | api-reference | Represents the context information used for product qualification, including acc |
 | [quoteaction.md](./quoteaction.md) | QuoteAction | developer-guide | Indicates the type of sales transaction that’s being quoted; for
          exampl |
-| [quoteitemtaxitem.md](./quoteitemtaxitem.md) | QuoteItemTaxItem | developer-guide | The tax that is applied to a quote line item. This object is available
-      in  |
 | [quotelinedetail.md](./quotelinedetail.md) | QuoteLineDetail | developer-guide | Represents the breakdown details of a quote line item. Revenue Cloud
          ge |
-| [quotelinegroup.md](./quotelinegroup.md) | QuoteLineGroup | help-article | Stores the group information for line items in a quote. It also stores the
-      |
-| [quotelineitemattribute.md](./quotelineitemattribute.md) | QuoteLineItemAttribute | developer-guide | Represents a virtual object that stores an attribute specified for a quote
-      |
-| [quotelinerateadjustment.md](./quotelinerateadjustment.md) | QuoteLineRateAdjustment | developer-guide | Represents the negotiated rate adjustment for a quote line item. This
-      obje |
-| [quotlineitmusagersrcplcy.md](./quotlineitmusagersrcplcy.md) | QuotLineItmUsageRsrcPlcy | developer-guide | Represents the policies that are used for the usage resource that's
-         ass |
-| [quotlineitmusersrcgrant.md](./quotlineitmusersrcgrant.md) | QuotLineItmUseRsrcGrant | developer-guide | Represents the negotiated grants for the usage resource that's
-         associat |
 | [rate-management.md](./rate-management.md) | Rate Management | help-article | Quote and price products based on predefined rates for future use of the product |
 | [rate-management-business-apis.md](./rate-management-business-apis.md) | Rate Management Business APIs | developer-guide | Use the Rate Management Business APIs to get rate plan and persisted rating wate |
 | [rate-management-metadata-api-types.md](./rate-management-metadata-api-types.md) | Rate Management Metadata API Types | developer-guide | Metadata API enables you to access some types and feature settings that you can
@@ -843,16 +833,13 @@ lastGenerated: 2026-06-07T00:37:45.510Z
   |
 | [table-constraints.md](./table-constraints.md) | Table Constraints | help-article | The table constraint in Constraint Modeling Language (CML) is used to define a s |
 | [transaction-management.md](./transaction-management.md) | Transaction Management | help-article | Configure, price, and sell products with Transaction Management in Revenue Cloud |
-| [transaction-management-fields-on-quote-line-group.md](./transaction-management-fields-on-quote-line-group.md) | Transaction Management Fields on Quote Line Group | developer-guide | Standard and custom fields extend the standard Quote Line Group object
-   for us |
+| [transaction-management-fields-on-order-item.md](./transaction-management-fields-on-order-item.md) | Transaction Management Fields on Order Item | developer-guide | Standard and custom fields extend the standard Order Item object for use in
+     |
 | [transaction-management-metadata.md](./transaction-management-metadata.md) | Transaction Management Metadata | help-article | This table provides the metadata deployment reference for Transaction Management |
 | [transaction-management-objects.md](./transaction-management-objects.md) | Transaction Management Objects | help-article | This table provides the deployment sequence, object types, and API names for
     |
 | [transaction-management-standard-objects.md](./transaction-management-standard-objects.md) | Transaction Management Standard Objects | api-reference | The Transaction Management data model provides objects and fields to manage
      |
-| [transaction-management-tooling-api-objects.md](./transaction-management-tooling-api-objects.md) | Transaction Management Tooling API Objects | developer-guide | Tooling API exposes metadata used in developer tooling that you can access throu |
-| [transactionprocessingtype.md](./transactionprocessingtype.md) | TransactionProcessingType | api-reference | Represents the settings to configure the processing constraints for a
-         r |
 | [transactionrequest-class.md](./transactionrequest-class.md) | TransactionRequest Class | api-reference | Represents the transaction request to the signaling Apex processor. |
 | [transactionresponse-class.md](./transactionresponse-class.md) | TransactionResponse Class | api-reference | Represents the transaction response from the signaling Apex processor. |
 | [transactionstatus-enum.md](./transactionstatus-enum.md) | TransactionStatus Enum | developer-guide | Specifies the status of the transaction request. |
@@ -880,8 +867,6 @@ lastGenerated: 2026-06-07T00:37:45.510Z
 | [variables.md](./variables.md) | Variables | developer-guide | Variables are the properties or characteristics defined within a type. Variables |
 | [visibility-rules.md](./visibility-rules.md) | Visibility Rules | developer-guide | Output representation of the details of the visibility rules. |
 | [visibilityrule-class.md](./visibilityrule-class.md) | VisibilityRule Class | api-reference | Represents a visibility rule that is evaluated during product configuration. Vis |
-| [voidinvoiceprocessedevent.md](./voidinvoiceprocessedevent.md) | VoidInvoiceProcessedEvent | developer-guide | Represents the notification to the customers after the process
-         started  |
 
 ## How to Use
 

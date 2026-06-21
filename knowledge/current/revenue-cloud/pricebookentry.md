@@ -5,7 +5,7 @@ topic: pricebookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:43.372Z
+lastCollected: 2026-06-21T00:39:55.528Z
 estimatedTokens: 1693
 keywords: [PriceBookEntry, product, entry, association, Pricebook2, Product2, price, book, API, 60.0]
 ---

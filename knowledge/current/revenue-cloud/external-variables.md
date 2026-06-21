@@ -5,7 +5,7 @@ topic: external-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:36.935Z
+lastCollected: 2026-06-21T00:39:49.536Z
 estimatedTokens: 687
 keywords: [External, Variables, Constraint, Modeling, Language, CML, defined, virtual, Context, Path, Annotation, Variable, Annotations]
 ---

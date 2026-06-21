@@ -5,8 +5,8 @@ topic: community-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:34.131Z
-estimatedTokens: 1950
+lastCollected: 2026-06-21T00:39:46.860Z
+estimatedTokens: 1955
 keywords: [Flags, community, Commands, Experience, Cloud, site, template, Examples, Aliases, publish]
 ---
 
@@ -16,11 +16,11 @@ keywords: [Flags, community, Commands, Experience, Cloud, site, template, Exampl
 
 Create and publish an Experience Cloud site.
 
--   **[community create](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_create_unified)**
+-   **[community create](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_create_unified)**
     Create an Experience Cloud site using a template.
--   **[community list template](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_list_template_unified)**
+-   **[community list template](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_list_template_unified)**
     Retrieve the list of templates available in your org.
--   **[community publish](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_publish_unified)**
+-   **[community publish](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm#cli_reference_community_publish_unified)**
     Publish an Experience Builder site to make it live.
 
 ## community create
@@ -293,6 +293,6 @@ sf community list template --target-org my-scratch-org
 
 ## Related Topics
 
-- community create (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
-- community list template (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
-- community publish (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
+- community create (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
+- community list template (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)
+- community publish (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_community_commands_unified.htm)

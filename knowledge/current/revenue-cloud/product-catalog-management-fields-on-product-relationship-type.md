@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-relationship-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.148Z
+lastCollected: 2026-06-21T00:39:54.384Z
 estimatedTokens: 213
 keywords: [Product, Catalog, Management, Relationship, Standard, extend]
 ---

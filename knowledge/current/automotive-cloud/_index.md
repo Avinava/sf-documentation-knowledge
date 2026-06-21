@@ -2,7 +2,7 @@
 domain: automotive-cloud
 name: Automotive Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.535Z
+lastGenerated: 2026-06-21T00:39:57.327Z
 ---
 
 # Automotive Cloud Developer Guide — Knowledge Index

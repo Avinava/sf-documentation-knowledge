@@ -5,7 +5,7 @@ topic: product-classification-details-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:40.378Z
+lastCollected: 2026-06-21T00:39:52.773Z
 estimatedTokens: 188
 keywords: [Product, Classification, Collection, along, any, processing, errors]
 ---

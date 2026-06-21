@@ -2,7 +2,7 @@
 domain: salesforce-scheduler-developer-guide
 name: Salesforce Scheduler Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.614Z
+lastGenerated: 2026-06-21T00:39:57.416Z
 ---
 
 # Salesforce Scheduler Developer Guide — Knowledge Index

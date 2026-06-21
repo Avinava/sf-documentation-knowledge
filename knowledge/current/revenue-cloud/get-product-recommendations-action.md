@@ -5,7 +5,7 @@ topic: get-product-recommendations-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:35.524Z
+lastCollected: 2026-06-21T00:39:48.189Z
 estimatedTokens: 1235
 keywords: [Inputs, Outputs, Product, Recommendations, Action, Retrieve, recommended, products, quote, order, Constraint, Rule, Engine]
 ---

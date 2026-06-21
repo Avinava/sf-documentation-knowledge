@@ -5,8 +5,8 @@ topic: split-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:36.727Z
-estimatedTokens: 1024
+lastCollected: 2026-06-21T00:39:49.340Z
+estimatedTokens: 1150
 keywords: [split, Annotation, Constraint, Modeling, Language, CML, whether, instances, Configurator, Result, Configuration, Settings]
 ---
 
@@ -21,11 +21,11 @@ split is a Constraint Modeling Language (CML) annotation that specifies whether 
 | --- | --- |
 | Applicable to | Type |
 | Value Type/Values | true, false |
-| Description | If split is not specified, there are multiple instances of the same type in the relationship with different quantities.If the split is specified as true, there can be multiple instances of the type, and the quantity of each instance is always 1.If the split is specified as false, there is only one instance in the relationship.If the user adds more instances, the engine adds more quantity to the existing instance. |
+| Description | If split isn’t specified, there are multiple instances of the same type in the relationship with different quantities.If the split is specified as true, there can be multiple instances of the type, and the quantity of each instance is always 1.If the split is specified as false, there is only one instance in the relationship.If the user adds more instances, the engine adds more quantity to the existing instance. |
 
 ## Example 1
 
-In this example, the split annotation is not specified for the type (Model).
+In this example, the split annotation isn’t specified for the type (Model).
 
 ```
 
@@ -55,6 +55,8 @@ In this example, the split annotation is specified as false for the type (Model)
 
 ```
 
+Use @(split=false) when the line item record must persist across configuration changes and record continuity matters for your business process. The @(split=false) annotation prevents the configurator from deleting and recreating existing line item records when the quantity or selection changes. When you apply @(split=false), the configurator updates the quantity on the existing record instead of replacing it with a new one. This preserves the record ID and any data associated with it.
+
 ## Example Description and Configurator Result
 
 In this example, the system allows one instance of the Model type with different quantity defined by the user.
@@ -63,7 +65,7 @@ In this example, the system allows one instance of the Model type with different
 
 #### Note
 
-If there are multiple products of type Model (e.g., FESBA 900kW and FESBA 1500kW), the user can add both models to the configuration and adjust the quantity for each one. However, the user cannot add additional separate instances of the same product (e.g., to configure unique instances with different variable values).
+If there are multiple products of type Model (for example, FESBA 900kW and FESBA 1500kW), the user can add both models to the configuration and adjust the quantity for each one. However, the user can’t add additional separate instances of the same product (for example, to configure unique instances with different variable values).
 
 ## split Configuration Settings
 

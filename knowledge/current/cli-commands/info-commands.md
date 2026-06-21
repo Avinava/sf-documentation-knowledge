@@ -5,8 +5,8 @@ topic: info-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-06-07T00:37:34.429Z
-estimatedTokens: 311
+lastCollected: 2026-06-21T00:39:47.138Z
+estimatedTokens: 312
 keywords: [Flags, info, Commands, Display, Salesforce, CLI, release, notes, command, line, releasenotes, Examples, Aliases]
 ---
 
@@ -16,7 +16,7 @@ keywords: [Flags, info, Commands, Display, Salesforce, CLI, release, notes, comm
 
 Access Salesforce CLI information from the command line.
 
--   **[info releasenotes display](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm#cli_reference_info_releasenotes_display_unified)**
+-   **[info releasenotes display](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm#cli_reference_info_releasenotes_display_unified)**
     Display Salesforce CLI release notes on the command line.
 
 ## info releasenotes display
@@ -95,4 +95,4 @@ sf info releasenotes display --version latest
 
 ## Related Topics
 
-- info releasenotes display (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm)
+- info releasenotes display (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_info_commands_unified.htm)

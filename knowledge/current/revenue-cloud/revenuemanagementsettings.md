@@ -5,7 +5,7 @@ topic: revenuemanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:41.826Z
+lastCollected: 2026-06-21T00:39:54.058Z
 estimatedTokens: 1552
 keywords: [RevenueManagementSettings, configuration, settings, Revenue, Cloud, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: attributebasedadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.898Z
+lastCollected: 2026-06-21T00:39:55.061Z
 estimatedTokens: 1399
 keywords: [AttributeBasedAdjustment, association, product, selling, model, price, adjustment, service, sold, attributes, stores, define, discounts, applied, along, date, range, API, 60.0]
 ---

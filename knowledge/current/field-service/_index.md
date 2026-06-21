@@ -2,7 +2,7 @@
 domain: field-service
 name: Field Service
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.523Z
+lastGenerated: 2026-06-21T00:39:57.315Z
 ---
 
 # Field Service — Knowledge Index

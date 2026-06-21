@@ -5,8 +5,8 @@ topic: alias-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:33.852Z
-estimatedTokens: 787
+lastCollected: 2026-06-21T00:39:46.570Z
+estimatedTokens: 792
 keywords: [Flags, alias, Commands, aliases, currently, local, computer, Examples, unset]
 ---
 
@@ -16,11 +16,11 @@ keywords: [Flags, alias, Commands, aliases, currently, local, computer, Examples
 
 Use the alias commands to manage your aliases.
 
--   **[alias list](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_list_unified)**
+-   **[alias list](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_list_unified)**
     List all aliases currently set on your local computer.
--   **[alias set](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_set_unified)**
+-   **[alias set](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_set_unified)**
     Set one or more aliases on your local computer.
--   **[alias unset](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_unset_unified)**
+-   **[alias unset](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm#cli_reference_alias_unset_unified)**
     Unset one or more aliases that are currently set on your local computer.
 
 ## alias list
@@ -217,6 +217,6 @@ sf alias set my-alias='alias with spaces'
 
 ## Related Topics
 
-- alias list (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
-- alias set (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
-- alias unset (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
+- alias list (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
+- alias set (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)
+- alias unset (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_alias_commands_unified.htm)

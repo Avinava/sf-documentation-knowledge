@@ -2,7 +2,7 @@
 domain: voice-developer-guide
 name: Salesforce Voice with Telephony Providers Implementation Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.628Z
+lastGenerated: 2026-06-21T00:39:57.432Z
 ---
 
 # Salesforce Voice with Telephony Providers Implementation Guide — Knowledge Index

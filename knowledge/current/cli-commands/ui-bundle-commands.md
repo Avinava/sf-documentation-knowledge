@@ -5,8 +5,8 @@ topic: ui-bundle-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-07T00:37:35.218Z
-estimatedTokens: 1129
+lastCollected: 2026-06-21T00:39:47.905Z
+estimatedTokens: 1131
 keywords: [Flags, ui-bundle, Commands, Preview, bundle, locally, real-time, deploying, org, dev, Examples]
 ---
 
@@ -16,7 +16,7 @@ keywords: [Flags, ui-bundle, Commands, Preview, bundle, locally, real-time, depl
 
 Work with UI bundles
 
--   **[ui-bundle dev](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm#cli_reference_ui-bundle_dev_unified)**
+-   **[ui-bundle dev](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm#cli_reference_ui-bundle_dev_unified)**
     Preview a UI bundle locally and in real-time, without deploying it to your org.
 
 ## ui-bundle dev
@@ -151,4 +151,4 @@ sf ui-bundle dev --target-org myorg --port 4546 --open
 
 ## Related Topics
 
-- ui-bundle dev (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm)
+- ui-bundle dev (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_ui-bundle_commands_unified.htm)

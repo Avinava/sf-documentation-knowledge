@@ -2,7 +2,7 @@
 domain: channel-revenue-management-dev-guide
 name: Channel Revenue Management Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.553Z
+lastGenerated: 2026-06-21T00:39:57.346Z
 ---
 
 # Channel Revenue Management Developer Guide — Knowledge Index

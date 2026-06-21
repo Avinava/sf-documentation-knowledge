@@ -2,7 +2,7 @@
 domain: nonprofit-cloud
 name: Nonprofit Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.588Z
+lastGenerated: 2026-06-21T00:39:57.386Z
 ---
 
 # Nonprofit Cloud Developer Guide — Knowledge Index

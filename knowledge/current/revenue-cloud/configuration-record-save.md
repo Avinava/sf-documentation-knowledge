@@ -5,7 +5,7 @@ topic: configuration-record-save
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:39.766Z
+lastCollected: 2026-06-21T00:39:52.167Z
 estimatedTokens: 155
 keywords: [Configuration, Record, Save, saved]
 ---

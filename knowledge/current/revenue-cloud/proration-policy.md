@@ -5,7 +5,7 @@ topic: proration-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:40.749Z
+lastCollected: 2026-06-21T00:39:53.062Z
 estimatedTokens: 97
 keywords: [Proration, Policy]
 ---

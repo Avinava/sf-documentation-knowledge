@@ -2,7 +2,7 @@
 domain: integration-patterns-and-practices
 name: Integration Patterns and Practices
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.574Z
+lastGenerated: 2026-06-21T00:39:57.369Z
 ---
 
 # Integration Patterns and Practices — Knowledge Index

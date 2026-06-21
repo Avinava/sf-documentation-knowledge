@@ -5,7 +5,7 @@ topic: assetownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:42.688Z
+lastCollected: 2026-06-21T00:39:54.864Z
 estimatedTokens: 702
 keywords: [AssetOwnerSharingRule, sharing, Asset, users, owner, API, 33.0]
 ---

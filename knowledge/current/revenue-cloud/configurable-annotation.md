@@ -5,7 +5,7 @@ topic: configurable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:36.550Z
+lastCollected: 2026-06-21T00:39:49.173Z
 estimatedTokens: 1152
 keywords: [configurable, Annotation, CML, whether, model, configured, Configurator, Result]
 ---

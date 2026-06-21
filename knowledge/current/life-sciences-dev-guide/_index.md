@@ -2,7 +2,7 @@
 domain: life-sciences-dev-guide
 name: Life Sciences Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-07T00:37:45.577Z
+lastGenerated: 2026-06-21T00:39:57.371Z
 ---
 
 # Life Sciences Cloud Developer Guide — Knowledge Index

@@ -5,7 +5,7 @@ topic: guid-design-and-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:41.325Z
+lastCollected: 2026-06-21T00:39:53.593Z
 estimatedTokens: 652
 keywords: [GUID, Design, Unique, Here's, guidance, good, versus, poor, deployment, Populate, Cycle, Non-Extensible]
 ---

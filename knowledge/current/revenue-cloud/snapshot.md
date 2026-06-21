@@ -5,7 +5,7 @@ topic: snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:41.009Z
+lastCollected: 2026-06-21T00:39:53.303Z
 estimatedTokens: 204
 keywords: [Snapshot, active, snapshots]
 ---

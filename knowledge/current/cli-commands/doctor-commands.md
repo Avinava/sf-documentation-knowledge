@@ -5,8 +5,8 @@ topic: doctor-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-07T00:37:34.349Z
-estimatedTokens: 535
+lastCollected: 2026-06-21T00:39:47.056Z
+estimatedTokens: 537
 keywords: [Flags, doctor, Commands, Gather, CLI, configuration, run, diagnostic, tests, discover, report, potential, problems, environment, Examples]
 ---
 
@@ -16,7 +16,7 @@ keywords: [Flags, doctor, Commands, Gather, CLI, configuration, run, diagnostic,
 
 Tools for diagnosing problems with Salesforce CLI.
 
--   **[doctor](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm#cli_reference_doctor_unified)**
+-   **[doctor](atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm#cli_reference_doctor_unified)**
     Gather CLI configuration data and run diagnostic tests to discover and report potential problems in your environment.
 
 ## doctor
@@ -113,4 +113,4 @@ sf doctor --plugin @salesforce/plugin-source
 
 ## Related Topics
 
-- doctor (atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm)
+- doctor (atlas.en-us.260.0.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_doctor_commands_unified.htm)
