@@ -5,8 +5,8 @@ topic: configuration-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:51.471Z
-estimatedTokens: 648
+lastCollected: 2026-07-26T01:59:42.146Z
+estimatedTokens: 674
 keywords: [Configuration, POST, Retrieve, product’s, configurator, Execute, notify, users, any, violations, changes, product, bundle, attributes, quantity, Additionally, pricing, configured]
 ---
 
@@ -26,6 +26,12 @@ Resource
 ```
 
 Resource example
+
+```
+
+```
+
+If you’re calling this API from an external website, include the site name in the resource.
 
 ```
 
@@ -82,6 +88,10 @@ Response body for POST
 
 ```
 https://yourInstance.salesforce.com/services/data/v67.0/connect/cpq/configurator/actions/configure
+```
+
+```
+https://yourInstance.salesforce.com/<siteName>/services/data/v67.0/connect/cpq/configurator/actions/configure
 ```
 
 ```

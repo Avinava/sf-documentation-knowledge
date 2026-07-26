@@ -5,7 +5,7 @@ topic: transactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:48.333Z
+lastCollected: 2026-07-26T01:59:38.534Z
 estimatedTokens: 523
 namespace: RevSignaling
 keywords: [TransactionResponse, transaction, signaling, Apex, processor, message, status]

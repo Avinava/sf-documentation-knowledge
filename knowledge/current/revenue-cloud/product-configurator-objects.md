@@ -5,18 +5,18 @@ topic: product-configurator-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:53.719Z
-estimatedTokens: 208
-keywords: [Product, Configurator, deployment, sequence, Revenue, Cloud, including, API, sequences, lookup]
+lastCollected: 2026-07-26T01:59:44.777Z
+estimatedTokens: 209
+keywords: [Product, Configurator, deployment, sequence, Revenue, Management, including, API, sequences, lookup]
 ---
 
 > This table provides the object deployment sequence and properties for Product
-    Configurator in Revenue Cloud, including object types, API names, deployment sequences, and
+    Configurator in Revenue Management, including object types, API names, deployment sequences, and
     lookup fields.
 
 # Product Configurator Objects
 
-This table provides the object deployment sequence and properties for Product Configurator in Revenue Cloud, including object types, API names, deployment sequences, and lookup fields.
+This table provides the object deployment sequence and properties for Product Configurator in Revenue Management, including object types, API names, deployment sequences, and lookup fields.
 
 | Object Use Type | Object Name | Object API | Deployment Sequence | Lookup Fields (Foreign Keys) |
 | --- | --- | --- | --- | --- |

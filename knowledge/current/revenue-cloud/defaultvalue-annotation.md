@@ -5,7 +5,7 @@ topic: defaultvalue-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.190Z
+lastCollected: 2026-07-26T01:59:39.486Z
 estimatedTokens: 851
 keywords: [defaultValue, Annotation, variable, define, start, configuration, begins, Configurator, Result, Settings]
 ---

@@ -5,8 +5,8 @@ topic: bindingobjectrateadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:55.146Z
-estimatedTokens: 911
+lastCollected: 2026-07-26T01:59:46.439Z
+estimatedTokens: 913
 keywords: [BindingObjectRateAdjustment, rate, adjustments, resource, binding, that's, charge, over, consumption, API, 64.0]
 ---
 
@@ -30,7 +30,7 @@ describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retri
 
 ## Special Access Rules
 
--   This object is available in Revenue Cloud when Rate Management is enabled.
+-   This object is available in Revenue Management when Rate Management is enabled.
 -   Users with any Rate Management permission set (Admin, Manager, Designtime, Runtime) can view records.
 
 ## Fields

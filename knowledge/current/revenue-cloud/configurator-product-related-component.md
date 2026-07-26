@@ -5,7 +5,7 @@ topic: configurator-product-related-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:52.029Z
+lastCollected: 2026-07-26T01:59:42.821Z
 estimatedTokens: 676
 keywords: [Configurator, Product, configuration]
 ---

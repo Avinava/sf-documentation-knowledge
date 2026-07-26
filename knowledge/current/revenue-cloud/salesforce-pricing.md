@@ -5,8 +5,8 @@ topic: salesforce-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:54.209Z
-estimatedTokens: 749
+lastCollected: 2026-07-26T01:59:45.340Z
+estimatedTokens: 750
 keywords: [Salesforce, Pricing, customized, price, adjustment, procedures, Determine, discounts, apply, products, services, visibility, calculation, process]
 ---
 
@@ -20,7 +20,7 @@ Create customized price adjustment methods and pricing procedures. Determine the
 
 | Available in: Lightning Experience |
 | --- |
-| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Cloud where Salesforce Pricing is enabled |
+| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Management where Salesforce Pricing is enabled |
 
 
 -   **[Salesforce Pricing Standard Objects](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/pricing_std_objects_parent.htm)**

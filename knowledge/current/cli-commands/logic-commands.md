@@ -5,7 +5,7 @@ topic: logic-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:47.182Z
+lastCollected: 2026-07-26T01:59:37.314Z
 estimatedTokens: 2320
 keywords: [Flags, logic, Commands, results, test, run, Beta, Examples]
 ---

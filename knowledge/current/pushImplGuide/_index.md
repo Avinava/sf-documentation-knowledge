@@ -2,7 +2,7 @@
 domain: pushImplGuide
 name: Salesforce Mobile Notifications Implementation Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.400Z
+lastGenerated: 2026-07-26T01:59:49.549Z
 ---
 
 # Salesforce Mobile Notifications Implementation Guide — Knowledge Index

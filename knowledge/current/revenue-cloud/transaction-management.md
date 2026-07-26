@@ -5,18 +5,18 @@ topic: transaction-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:54.553Z
-estimatedTokens: 788
-keywords: [Transaction, Management, Configure, price, sell, products, Revenue, Cloud, supports, subscription, lifecycles, ensures, end-to-end, integrity, quotes, orders]
+lastCollected: 2026-07-26T01:59:45.754Z
+estimatedTokens: 789
+keywords: [Transaction, Management, Configure, price, sell, products, Revenue, supports, subscription, lifecycles, ensures, end-to-end, integrity, quotes, orders]
 ---
 
-> Configure, price, and sell products with Transaction Management in Revenue Cloud.
+> Configure, price, and sell products with Transaction Management in Revenue Management.
   Transaction Management supports subscription lifecycles and ensures end-to-end integrity of your
   quotes and orders.
 
 # Transaction Management
 
-Configure, price, and sell products with Transaction Management in Revenue Cloud. Transaction Management supports subscription lifecycles and ensures end-to-end integrity of your quotes and orders.
+Configure, price, and sell products with Transaction Management in Revenue Management. Transaction Management supports subscription lifecycles and ensures end-to-end integrity of your quotes and orders.
 
 | Available in: Lightning Experience |
 | --- |

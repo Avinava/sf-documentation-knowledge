@@ -5,7 +5,7 @@ topic: orderdeliverymethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:55.361Z
+lastCollected: 2026-07-26T01:59:46.700Z
 estimatedTokens: 797
 keywords: [OrderDeliveryMethod, customizations, options, buyer, selected, their, delivery, API, 48.0]
 ---

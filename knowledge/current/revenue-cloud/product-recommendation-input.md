@@ -5,7 +5,7 @@ topic: product-recommendation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:50.630Z
+lastCollected: 2026-07-26T01:59:41.108Z
 estimatedTokens: 1026
 keywords: [Product, Recommendation, recommendations]
 ---

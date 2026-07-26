@@ -2,7 +2,7 @@
 domain: clm-developer-guide
 name: Salesforce Contracts
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.349Z
+lastGenerated: 2026-07-26T01:59:49.497Z
 ---
 
 # Salesforce Contracts — Knowledge Index

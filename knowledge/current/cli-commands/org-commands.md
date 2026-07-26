@@ -5,7 +5,7 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:47.387Z
+lastCollected: 2026-07-26T01:59:37.526Z
 estimatedTokens: 22747
 keywords: [Flags, org, Commands, Assign, permission, users, permset, Examples, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot, user, disable, display, enable, generate, password, auth, limits, metadata, metadata-types, sobject, record-counts, login, access-token, jwt, sfdx-url, web, logout, open, agent, authoring-bundle, Deprecated, refresh, resume]
 ---

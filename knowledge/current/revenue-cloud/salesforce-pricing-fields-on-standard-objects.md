@@ -5,7 +5,7 @@ topic: salesforce-pricing-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:54.218Z
+lastCollected: 2026-07-26T01:59:45.346Z
 estimatedTokens: 150
 keywords: [Salesforce, Pricing, Standard, adds, features, represent, specific, orgs, enabled]
 ---

@@ -5,7 +5,7 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:47.893Z
+lastCollected: 2026-07-26T01:59:38.071Z
 estimatedTokens: 9451
 keywords: [Flags, template, Commands, Generate, simple, Analytics, Examples, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage, Beta, lightning, app, event, test, project, static-resource, ui-bundle, visualforce]
 ---

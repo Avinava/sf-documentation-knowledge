@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-financial-services-cloud-object-reference
-description: Apply Salesforce knowledge and best practices for Financial Services Cloud Developer Guide
+description: Apply Salesforce knowledge and best practices for Agentforce Financial Services Developer Guide
 ---
 
-# Salesforce Knowledge Skill: Financial Services Cloud Developer Guide
+# Salesforce Knowledge Skill: Agentforce Financial Services Developer Guide
 
-> Extend Financial Services Cloud with other Salesforce products using the API and developer resources
+> Extend Agentforce Financial Services with other Salesforce products using the API and developer reso
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Financial Services Cloud Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Agentforce Financial Services Developer Guide**.
 
 ## How to Use This Knowledge
 

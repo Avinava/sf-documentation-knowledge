@@ -2,7 +2,7 @@
 domain: pkg1-dev
 name: First-Generation Managed Packaging Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.393Z
+lastGenerated: 2026-07-26T01:59:49.541Z
 ---
 
 # First-Generation Managed Packaging Developer Guide — Knowledge Index

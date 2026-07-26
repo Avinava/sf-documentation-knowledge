@@ -5,7 +5,7 @@ topic: product-configurator-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:53.699Z
+lastCollected: 2026-07-26T01:59:44.753Z
 estimatedTokens: 511
 keywords: [Product, Configurator, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

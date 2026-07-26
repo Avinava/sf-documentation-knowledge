@@ -5,8 +5,8 @@ topic: deployment-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-21T00:39:53.464Z
-estimatedTokens: 383
+lastCollected: 2026-07-26T01:59:44.470Z
+estimatedTokens: 384
 keywords: [Deployment, Considerations, any, scenario, understand, dependencies, prerequisites, planned, changes]
 ---
 
@@ -33,7 +33,7 @@ Key considerations include:
 
 #### Note
 
-For detailed information about these deployment considerations, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Cloud feature domain, ensuring successful deployments and migrations.").
+For detailed information about these deployment considerations, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Management feature domain, ensuring successful deployments and migrations.").
 
 ## Related Topics
 

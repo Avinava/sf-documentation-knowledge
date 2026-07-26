@@ -5,7 +5,7 @@ topic: peelable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.241Z
+lastCollected: 2026-07-26T01:59:39.540Z
 estimatedTokens: 1975
 keywords: [peelable, Annotation, soft, selection, allow, engine, modify, selections, satisfy, constraint, Hard, Configurator, Result, System-Driven, configurable, Auto-Correcting, User, `configurable, `peelable, Upstream, Correction, `sequence, Guided, Fallback, ‘strategy]
 ---

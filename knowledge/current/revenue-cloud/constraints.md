@@ -5,8 +5,8 @@ topic: constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.486Z
-estimatedTokens: 2585
+lastCollected: 2026-07-26T01:59:39.803Z
+estimatedTokens: 2580
 keywords: [Constraints, enforce, conditions, variables, relationships, define, logical, restrictions, ensure, consistency, model, Logic, Operators, Arithmetic, Relational, Equality, Operator, Precedence, Constraint, Annotation]
 ---
 
@@ -29,7 +29,7 @@ For more information about the supported constraints, see:
 -   [Require Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_require_rule.htm "The require rule requires certain components to be included in a relationship when specified conditions are met.")
 -   [Require Rule vs Constraint](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_require_rule_vs_constraint.htm "In Constraint Modeling Language (CML), constraint() and require() can both enforce behavior, but they operate differently: constraint focuses on logical consistency, require focuses on physical presence of products.")
 -   [SetDefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm "The setdefault rule allows component selection with attribute values and quantity, similar to the require rule.")
--   [Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm "The exclude rule is used to automatically remove a specific type in a relationship if a certain condition is met.")
+-   [Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm "The exclude rule automatically removes a specific type in a relationship if a certain condition is true.")
 -   [Action Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_action_rule.htm "The CML Action Rule is defined using the rule() keyword. Its primary purpose is to execute a designated action, specified as a string literal, when a condition is met.")
 -   [Hide/Disable Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_hide_disable_rule.htm "The Hide or Disable Rule uses the rule() keyword to conditionally remove an element from the selection menu (hide) or preserve it in the menu while preventing user selection (disable).")
 -   [Recommendation Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_recommendation_rule.htm "The recommend keyword is used within a Constraint Modeling Language (CML) rule to display suggestions for related products in the Product Configurator. The rule defines the condition under which a specific product type or relation should be suggested to the user.")
@@ -103,7 +103,7 @@ Here are the details of abort, a constraint annotation.
 -   **[Setdefault Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_setdefault_rule.htm)**
     The setdefault rule allows component selection with attribute values and quantity, similar to the require rule.
 -   **[Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm)**
-    The exclude rule is used to automatically remove a specific type in a relationship if a certain condition is met.
+    The exclude rule automatically removes a specific type in a relationship if a certain condition is true.
 -   **[Action Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_action_rule.htm)**
     The CML Action Rule is defined using the rule() keyword. Its primary purpose is to execute a designated action, specified as a string literal, when a condition is met.
 -   **[Hide or Disable Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_hide_disable_rule.htm)**

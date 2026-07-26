@@ -5,8 +5,8 @@ topic: guid-design-and-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:53.593Z
-estimatedTokens: 652
+lastCollected: 2026-07-26T01:59:44.635Z
+estimatedTokens: 654
 keywords: [GUID, Design, Unique, Here's, guidance, good, versus, poor, deployment, Populate, Cycle, Non-Extensible]
 ---
 
@@ -56,4 +56,4 @@ In the event of a deployment failure or a post-deployment data issue, administra
 
 ## Non-Extensible Objects
 
-A few Revenue Cloud objects are protected, and therefore non-extensible. You can't add a GUID field to these objects. Instead, create an external reference table to store your GUID. Use this reference table to track the non-extensible object throughout your deployment process.
+A few Revenue Management objects are protected, and therefore non-extensible. You can't add a GUID field to these objects. Instead, create an external reference table to store your GUID. Use this reference table to track the non-extensible object throughout your deployment process.

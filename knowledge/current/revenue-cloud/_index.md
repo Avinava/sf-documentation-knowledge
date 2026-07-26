@@ -1,8 +1,8 @@
 ---
 domain: revenue-cloud
 name: Revenue Cloud / Agentforce Revenue Management
-documentCount: 604
-lastGenerated: 2026-06-21T00:39:57.303Z
+documentCount: 615
+lastGenerated: 2026-07-26T01:59:49.455Z
 ---
 
 # Revenue Cloud / Agentforce Revenue Management — Knowledge Index
@@ -16,7 +16,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [about-the-apex-debugging-log-file.md](./about-the-apex-debugging-log-file.md) | About the Apex Debugging Log File | developer-guide | The Apex debugging log file contains three sections: RLM_CONFIGURATOR_BEGIN,
     |
 | [action-rule.md](./action-rule.md) | Action Rule | developer-guide | The CML Action Rule is defined using the rule() keyword. Its primary purpose is  |
-| [additional-deployment-information.md](./additional-deployment-information.md) | Additional Deployment Information | developer-guide | Get to know additional deployment information for each Revenue Cloud feature dom |
+| [additional-deployment-information.md](./additional-deployment-information.md) | Additional Deployment Information | developer-guide | Get to know additional deployment information for each Revenue Management featur |
 | [additional-fields-input.md](./additional-fields-input.md) | Additional Fields Input | developer-guide | Input representation of the additional standard or custom fields to be included  |
 | [additionalcontextdata-class.md](./additionalcontextdata-class.md) | AdditionalContextData Class | api-reference | Contains properties to include a list of additional context data nodes. These no |
 | [additionalfields-class.md](./additionalfields-class.md) | AdditionalFields Class | api-reference | Contains properties to include a map where the key is a string and the value is  |
@@ -81,8 +81,8 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [attributepicklistvalueoutputrepresentation-class.md](./attributepicklistvalueoutputrepresentation-class.md) | AttributePickListValueOutputRepresentation Class | api-reference | Stores details of an attribute picklist value. |
 | [attrpicklistexcludedvalue.md](./attrpicklistexcludedvalue.md) | AttrPicklistExcludedValue | developer-guide | Represents the excluded picklist values for a product classification
          at |
-| [billing-additional-information.md](./billing-additional-information.md) | Billing Additional Information | api-reference | Get to know additional deployment information for Billing in Revenue Cloud, incl |
-| [billing-metadata.md](./billing-metadata.md) | Billing Metadata | help-article | This table provides the metadata deployment reference for Billing in Revenue Clo |
+| [billing-additional-information.md](./billing-additional-information.md) | Billing Additional Information | api-reference | Get to know additional deployment information for Billing in Revenue Management, |
+| [billing-metadata.md](./billing-metadata.md) | Billing Metadata | help-article | This table provides the metadata deployment reference for Billing in Revenue Man |
 | [billing-objects.md](./billing-objects.md) | Billing Objects | api-reference | This table provides the deployment sequence, object types, API names, and lookup |
 | [bindingobjectcustomext.md](./bindingobjectcustomext.md) | BindingObjectCustomExt | developer-guide | Represents the external or custom target object that's bound to the
          ent |
@@ -103,7 +103,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [bulkproductdetailsrepresentation-class.md](./bulkproductdetailsrepresentation-class.md) | BulkProductDetailsRepresentation Class | api-reference | Get the details of multiple product definitions in a single request. This class  |
 | [bundlebasedadjustment.md](./bundlebasedadjustment.md) | BundleBasedAdjustment | api-reference | Represents the association between the product selling model and the price
       |
-| [business-rules-engine-and-decision-tables-additional-information.md](./business-rules-engine-and-decision-tables-additional-information.md) | Business Rules Engine and Decision Tables Additional Information | concept | Get to know additional Revenue Cloud deployment information for Industries commo |
+| [business-rules-engine-and-decision-tables-additional-information.md](./business-rules-engine-and-decision-tables-additional-information.md) | Business Rules Engine and Decision Tables Additional Information | concept | Get to know additional Revenue Management deployment information for Industries  |
 | [business-centric-cml-examples.md](./business-centric-cml-examples.md) | Business-Centric CML Examples | help-article | These Constraint Modeling Language (CML) structures implement quantity aggregati |
 | [business-centric-constraint-modeling-language-cml-guidelines.md](./business-centric-constraint-modeling-language-cml-guidelines.md) | Business-Centric Constraint Modeling Language (CML) Guidelines | concept | Constraint Modeling Language (CML) must accurately calculate the total sum or ag |
 | [catalog-by-id-get.md](./catalog-by-id-get.md) | Catalog By ID (GET) | api-reference | Retrieve details of catalog records based on a catalog
@@ -244,6 +244,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [cpq-message.md](./cpq-message.md) | CPQ Message | developer-guide | Output representation of the API messages. |
 | [create-a-guid-field.md](./create-a-guid-field.md) | Create a GUID Field | help-article | Add a GUID field to all objects used during your deployment to ensure unique
   i |
+| [createassetorderevent.md](./createassetorderevent.md) | CreateAssetOrderEvent | help-article | Notifies subscribers that the process started by the /actions/standard/createOrU |
 | [criteria-input.md](./criteria-input.md) | Criteria Input | help-article | Input representation of the filter criteria item request. |
 | [data-processing-engine-additional-information.md](./data-processing-engine-additional-information.md) | Data Processing Engine Additional Information | concept | Get to know additional deployment information for Data Processing Engine in Reve |
 | [data-rounding.md](./data-rounding.md) | Data Rounding | developer-guide | Output representation of the data rounding response. |
@@ -278,7 +279,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [error-output.md](./error-output.md) | Error
     Output | developer-guide | Output representation of the error details. |
 | [error-response.md](./error-response.md) | Error Response | developer-guide | Output representation of the details of the error. |
-| [exclude-rule.md](./exclude-rule.md) | Exclude Rule | developer-guide | The exclude rule is used to automatically remove a specific type in a relationsh |
+| [exclude-rule.md](./exclude-rule.md) | Exclude Rule | developer-guide | The exclude rule automatically removes a specific type in a relationship if a ce |
 | [execute-qualification-procedure-action.md](./execute-qualification-procedure-action.md) | Execute Qualification Procedure Action | developer-guide | Execute a qualification procedure, which returns the qualification
             s |
 | [expressionsetconstraintobj.md](./expressionsetconstraintobj.md) | ExpressionSetConstraintObj | developer-guide | Represents the association between a Product object and the constraint model
@@ -310,6 +311,8 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [get-categories-action.md](./get-categories-action.md) | Get Categories Action | developer-guide | Get the list of categories associated with a catalog
         record. |
 | [get-category-details-action.md](./get-category-details-action.md) | Get Category Details Action | developer-guide | Get details of a category record. |
+| [get-eligible-promotions-post.md](./get-eligible-promotions-post.md) | Get Eligible Promotions (POST) | api-reference | Get eligible promotions for line items within a quote or an
+      order. |
 | [get-multiple-product-details-action.md](./get-multiple-product-details-action.md) | Get Multiple Product Details Action | developer-guide | Get product details for a list of products. |
 | [get-product-details-action.md](./get-product-details-action.md) | Get Product Details Action | api-reference | Get details such as attributes, hierarchy, and cardinality for the
 			specified  |
@@ -317,7 +320,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 			the Con |
 | [get-products-action.md](./get-products-action.md) | Get Products Action | api-reference | Get products from the specified catalog, category, or subcategory,
 			including  |
-| [get-started-with-revenue-cloud-developer-resources.md](./get-started-with-revenue-cloud-developer-resources.md) | Get Started with Revenue Cloud Developer Resources | api-reference | Get a single, unified system to automate your CRM processes. Use the developer s |
+| [get-started-with-revenue-management-developer-resources.md](./get-started-with-revenue-management-developer-resources.md) | Get Started with Revenue Management Developer Resources | api-reference | Get a single, unified system to automate your CRM processes. Use the developer s |
 | [global-properties-and-settings.md](./global-properties-and-settings.md) | Global Properties and Settings | developer-guide | Header-level declarations define the global properties and settings for a model, |
 | [global-search-post.md](./global-search-post.md) | Global Search (POST) | api-reference | Retrieves a list of products based on a search query or search term.
       This  |
@@ -380,8 +383,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
    |
 | [orderitemattribute.md](./orderitemattribute.md) | OrderItemAttribute | developer-guide | Represents
          a virtual object that stores an attribute specified for an o |
-| [orderitemdetail.md](./orderitemdetail.md) | OrderItemDetail | developer-guide | Represents the breakdown details of an order product. Revenue Cloud generates
-   |
+| [orderitemdetail.md](./orderitemdetail.md) | OrderItemDetail | developer-guide | Represents the breakdown details of an order product. Revenue Management generat |
 | [orderitemrateadjustment.md](./orderitemrateadjustment.md) | OrderItemRateAdjustment | developer-guide | Represents the negotiated rate adjustment for an order product. This
       objec |
 | [orderitemratecardentry.md](./orderitemratecardentry.md) | OrderItemRateCardEntry | developer-guide | Represents the catalog and negotiated rates of a usage metric associated with
@@ -397,7 +399,7 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [peelable-annotation.md](./peelable-annotation.md) | peelable Annotation | developer-guide | The peelable annotation is used to create soft
     selection values and allow th |
 | [post-deployment-steps.md](./post-deployment-steps.md) | Post-Deployment Steps | developer-guide | Most deployments require that you take some actions after the deployment to the  |
-| [preference-rule.md](./preference-rule.md) | Preference Rule | developer-guide | The preference rule encourages the constraint solver to satisfy the condition, b |
+| [preference-rule.md](./preference-rule.md) | Preference Rule | help-article | The preference rule encourages the constraint solver to satisfy the condition, b |
 | [price-context-post.md](./price-context-post.md) | Price Context (POST) | api-reference | Perform a pricing request by using the instance ID of a
       context. |
 | [priceadjustmentschedule.md](./priceadjustmentschedule.md) | PriceAdjustmentSchedule | api-reference | Represents a series of tiered discounts based on the number of items
@@ -645,6 +647,8 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [productcomponentgrouprepresentation-class.md](./productcomponentgrouprepresentation-class.md) | ProductComponentGroupRepresentation Class | api-reference | Represents a product component group used in bulk product operations. This class |
 | [productcomponentgrpoverride.md](./productcomponentgrpoverride.md) | ProductComponentGrpOverride | developer-guide | Represents override information for a Product Component Group. The
          card |
+| [productconfigflowassignment.md](./productconfigflowassignment.md) | ProductConfigFlowAssignment | developer-guide | A junction object that represents the many-to-many relationship between
+         |
 | [productconfigurationflow.md](./productconfigurationflow.md) | ProductConfigurationFlow | developer-guide | Specifies the many-to-many relationship between Product Classification,
          |
 | [productconfigurationrule.md](./productconfigurationrule.md) | ProductConfigurationRule | developer-guide | Represents the validation, inclusion, and exclusion rules for products in the
@@ -707,8 +711,12 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [qualificationcontextoutputrepresentation-class.md](./qualificationcontextoutputrepresentation-class.md) | QualificationContextOutputRepresentation Class | api-reference | Represents the context information used for product qualification, including acc |
 | [quoteaction.md](./quoteaction.md) | QuoteAction | developer-guide | Indicates the type of sales transaction that’s being quoted; for
          exampl |
-| [quotelinedetail.md](./quotelinedetail.md) | QuoteLineDetail | developer-guide | Represents the breakdown details of a quote line item. Revenue Cloud
-         ge |
+| [quotelinegroup.md](./quotelinegroup.md) | QuoteLineGroup | help-article | Stores the group information for line items in a quote. It also stores the
+      |
+| [quotelinerateadjustment.md](./quotelinerateadjustment.md) | QuoteLineRateAdjustment | developer-guide | Represents the negotiated rate adjustment for a quote line item. This
+      obje |
+| [quotlineitmusersrcgrant.md](./quotlineitmusersrcgrant.md) | QuotLineItmUseRsrcGrant | developer-guide | Represents the negotiated grants for the usage resource that's
+         associat |
 | [rate-management.md](./rate-management.md) | Rate Management | help-article | Quote and price products based on predefined rates for future use of the product |
 | [rate-management-business-apis.md](./rate-management-business-apis.md) | Rate Management Business APIs | developer-guide | Use the Rate Management Business APIs to get rate plan and persisted rating wate |
 | [rate-management-metadata-api-types.md](./rate-management-metadata-api-types.md) | Rate Management Metadata API Types | developer-guide | Metadata API enables you to access some types and feature settings that you can
@@ -736,6 +744,8 @@ lastGenerated: 2026-06-21T00:39:57.303Z
          a |
 | [ratingrequestbatchjob.md](./ratingrequestbatchjob.md) | RatingRequestBatchJob | developer-guide | Represents a junction between the rating request and batch job
          objects. |
+| [read-sales-transaction-post.md](./read-sales-transaction-post.md) | Read Sales Transaction (POST) | api-reference | Retrieve sales transaction data efficiently from an initialized or a
+      hydra |
 | [recommendation-rule.md](./recommendation-rule.md) | Recommendation Rule | help-article | The recommend keyword is used within a Constraint Modeling Language (CML) rule t |
 | [recommended-products.md](./recommended-products.md) | Recommended Products | developer-guide | Output representation of the list of recommended products. |
 | [related-object-filter-input.md](./related-object-filter-input.md) | Related Object Filter Input | developer-guide | Input representation of the request to filter records of a related object. |
@@ -757,13 +767,13 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [relationships.md](./relationships.md) | Relationships | help-article | Relationships in Constraint Modeling Language (CML) define how different product |
 | [request-bodies.md](./request-bodies.md) | Request Bodies | help-article | Learn more about the available Product Catalog Management API request
     bodies |
-| [require-rule.md](./require-rule.md) | Require Rule | developer-guide | The require rule requires certain components to be included in a relationship wh |
+| [require-rule.md](./require-rule.md) | Require Rule | help-article | The require rule requires certain components to be included in a relationship wh |
 | [require-rule-vs-constraint.md](./require-rule-vs-constraint.md) | Require Rule vs Constraint | developer-guide | In Constraint Modeling Language (CML), constraint() and require() can both enfor |
 | [resources.md](./resources.md) | Resources | developer-guide | Learn more about the available Salesforce Pricing resources. |
 | [response-bodies.md](./response-bodies.md) | Response Bodies | developer-guide | Learn more about the available Product Catalog Management API response
     bodie |
-| [revenue-cloud-deployment.md](./revenue-cloud-deployment.md) | Revenue Cloud Deployment | help-article | This section provides a clear roadmap for accurately and efficiently deploying R |
-| [revenuemanagementsettings.md](./revenuemanagementsettings.md) | RevenueManagementSettings | api-reference | Represents the configuration settings to set up Revenue Cloud. |
+| [revenue-management-deployment.md](./revenue-management-deployment.md) | Revenue Management Deployment | help-article | This section provides a clear roadmap for accurately and efficiently deploying R |
+| [revenuemanagementsettings.md](./revenuemanagementsettings.md) | RevenueManagementSettings | api-reference | Represents the configuration settings to set up Revenue Management. |
 | [revsignaling-namespace.md](./revsignaling-namespace.md) | RevSignaling Namespace | api-reference | The RevSignaling Namespace includes properties and methods to extend the standar |
 | [run-config-rules-action.md](./run-config-rules-action.md) | Run Config Rules Action | api-reference | Run rules for a specific quote or order based on a context ID or
             tra |
@@ -832,9 +842,16 @@ lastGenerated: 2026-06-21T00:39:57.303Z
 | [string-variable-functions-and-operators.md](./string-variable-functions-and-operators.md) | String Variable Functions and Operators | api-reference | Constraint Modeling Language (CML) provides string manipulation and conversion
   |
 | [table-constraints.md](./table-constraints.md) | Table Constraints | help-article | The table constraint in Constraint Modeling Language (CML) is used to define a s |
-| [transaction-management.md](./transaction-management.md) | Transaction Management | help-article | Configure, price, and sell products with Transaction Management in Revenue Cloud |
-| [transaction-management-fields-on-order-item.md](./transaction-management-fields-on-order-item.md) | Transaction Management Fields on Order Item | developer-guide | Standard and custom fields extend the standard Order Item object for use in
-     |
+| [transaction-management.md](./transaction-management.md) | Transaction Management | help-article | Configure, price, and sell products with Transaction Management in Revenue Manag |
+| [transaction-management-business-apis.md](./transaction-management-business-apis.md) | Transaction Management Business APIs | developer-guide | Use the Transaction Management Business APIs to fetch instant pricing data on a  |
+| [transaction-management-fields-on-object-state-definition.md](./transaction-management-fields-on-object-state-definition.md) | Transaction Management Fields on Object State Definition | developer-guide | Standard and custom fields extend the standard Object State Definition object
+   |
+| [transaction-management-fields-on-object-state-value.md](./transaction-management-fields-on-object-state-value.md) | Transaction Management Fields on Object State Value | developer-guide | Standard and custom fields extend the standard Object State Transition object
+   |
+| [transaction-management-fields-on-quote.md](./transaction-management-fields-on-quote.md) | Transaction Management Fields on Quote | api-reference | Standard and custom fields extend the standard Quote object for use in
+          |
+| [transaction-management-fields-on-quote-line-group.md](./transaction-management-fields-on-quote-line-group.md) | Transaction Management Fields on Quote Line Group | developer-guide | Standard and custom fields extend the standard Quote Line Group object
+   for us |
 | [transaction-management-metadata.md](./transaction-management-metadata.md) | Transaction Management Metadata | help-article | This table provides the metadata deployment reference for Transaction Management |
 | [transaction-management-objects.md](./transaction-management-objects.md) | Transaction Management Objects | help-article | This table provides the deployment sequence, object types, and API names for
     |
@@ -854,7 +871,9 @@ lastGenerated: 2026-06-21T00:39:57.303Z
     fields. |
 | [unit-of-measure-status.md](./unit-of-measure-status.md) | Unit of Measure Status | developer-guide | Output representation of the status of the Unit of Measure API request. |
 | [unitofmeasureoutputrepresentation-class.md](./unitofmeasureoutputrepresentation-class.md) | UnitOfMeasureOutputRepresentation Class | api-reference | Represents the unit of measure for a product. This class contains information ab |
-| [usage-management-additional-information.md](./usage-management-additional-information.md) | Usage Management Additional Information | developer-guide | Get to know additional deployment information for Usage Management in Revenue Cl |
+| [update-ramp-deal-post.md](./update-ramp-deal-post.md) | Update Ramp Deal (POST) | api-reference | Modify a ramp deal in scenarios where a segment has updates such as
+      quanti |
+| [usage-management-additional-information.md](./usage-management-additional-information.md) | Usage Management Additional Information | developer-guide | Get to know additional deployment information for Usage Management in Revenue Ma |
 | [usage-management-metadata.md](./usage-management-metadata.md) | Usage Management Metadata | help-article | This table provides the metadata deployment reference for Usage Management in Re |
 | [usage-management-objects.md](./usage-management-objects.md) | Usage Management Objects | help-article | This table provides the deployment sequence, object types, API names, and lookup |
 | [use-the-apex-debugging-log-file.md](./use-the-apex-debugging-log-file.md) | Use the Apex Debugging Log File | developer-guide | To find possible reasons for the performance problems and identify solutions, lo |

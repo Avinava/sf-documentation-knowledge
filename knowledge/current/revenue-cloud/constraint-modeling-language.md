@@ -5,8 +5,8 @@ topic: constraint-modeling-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:49.882Z
-estimatedTokens: 1452
+lastCollected: 2026-07-26T01:59:40.263Z
+estimatedTokens: 1456
 keywords: [Constraint, Modeling, Language, CML, domain-specific, models, complex, systems, product, configuration, describe, real-world, entities, their, relationships]
 ---
 
@@ -23,9 +23,9 @@ Constraint models enforce business logic declaratively, without the need for ext
 To build a constraint model in CML, use this basic workflow.
 
 -   Create global properties and settings that are header-level declarations in CML that define the foundational, fixed values for the entire constraint model. They’re crucial for setting up the core configuration environment and ensuring reusability across the model.
--   Create variables to define the properties or characteristics of a type. Variables can hold different kinds of data, such as strings, numbers, or lists, and can be calculated from other variables and values. In Revenue Cloud, variables represent product fields, product attributes, and sometimes context tags. See [Create a Context Definition](https://help.salesforce.com/s/articleView?id=ind.context_service_create_context_definitions.htm&language=en_US "HTML (New Window)") in Salesforce Help.
--   Define types, which represent entities or objects in the model. Types are the building blocks of CML. They're similar to classes in object-oriented programming. In Revenue Cloud, types represent standalone products, bundles, product components, and product classes.
--   Define relationships that describe how different types are associated with each other. In Revenue Cloud, relationships represent the product structure in a bundle. For example, the root product has a relationship with its components.
+-   Create variables to define the properties or characteristics of a type. Variables can hold different kinds of data, such as strings, numbers, or lists, and can be calculated from other variables and values. In Revenue Management, variables represent product fields, product attributes, and sometimes context tags. See [Create a Context Definition](https://help.salesforce.com/s/articleView?id=ind.context_service_create_context_definitions.htm&language=en_US "HTML (New Window)") in Salesforce Help.
+-   Define types, which represent entities or objects in the model. Types are the building blocks of CML. They're similar to classes in object-oriented programming. In Revenue Management, types represent standalone products, bundles, product components, and product classes.
+-   Define relationships that describe how different types are associated with each other. In Revenue Management, relationships represent the product structure in a bundle. For example, the root product has a relationship with its components.
 -   Apply constraints to define logical restrictions, and enforce rules and conditions on types, variables, and relationships.
 
 In Product Configurator, use the Visual Builder and CML Editor in Constraint Builder to create constraint models with CML.

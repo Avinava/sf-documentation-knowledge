@@ -2,7 +2,7 @@
 domain: fundamentals
 name: Lightning Platform Fundamentals
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.364Z
+lastGenerated: 2026-07-26T01:59:49.516Z
 ---
 
 # Lightning Platform Fundamentals — Knowledge Index

@@ -5,9 +5,9 @@ topic: core-concept-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-21T00:39:49.508Z
-estimatedTokens: 1624
-keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key, Technical, Groupby, Annotation, Virtual, Group, Sharingcount, Reuse, Accessory, Instances, contextPath, tagName, Annotations, Specifiers, Dates, Arithmetic, Calculations, Functions, Considerations, Aggregations]
+lastCollected: 2026-07-26T01:59:39.836Z
+estimatedTokens: 2520
+keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key, Technical, Groupby, Annotation, Virtual, Group, Sharingcount, Reuse, Accessory, Instances, contextPath, tagName, Annotations, Specifiers, Dates, Arithmetic, Calculations, Functions, Considerations, Aggregations, Asset-Based, Across, Transaction, Installed, Base, Asset, Scope, Drive, Auto-Add, Logic]
 ---
 
 > These examples illustrate core Constraint Modeling Language (CML) concepts including
@@ -117,6 +117,45 @@ When implementing these functions in CML, follow these architectural best practi
 -   Explicit domains are required: All the derived attributes that result from a calculation or aggregation must have an explicit variable domain definition. This practice ensures accurate aggregation and helps prevent runtime errors.
 -   Separate calculation from declaration: Define the aggregation or calculation in a separate constraint rather than using an inline derived attribute declaration (for example, int total = items.sumPrice;). This separation helps avoid issues where domains may not initialize correctly.
 -   Correct Pattern: Define the relation aggregate (totalQty = sum(quantity);) and then enforce the result via a constraint (constraint(totalItemCount == items.totalQty);).
+
+## Example 7: Use Asset-Based Constraints Across Transaction and Installed Base
+
+This example shows how to enforce quantity rules that span both in-flight items on the current sales transaction and products the customer already owns (the installed base). The sourceContextNode="Asset" annotation on a relation pulls existing asset records into the model as read-only data, so that a require() rule can combine those asset quantities with in-transaction quantities to drive configuration logic.
+
+```
+
+```
+
+## Key Technical Details
+
+-   sourceContextNode="SalesTransaction.SalesTransactionItem": Binds the relation to line items on the current quote or order. The engine reads and writes these instances during configuration.
+-   sourceContextNode="Asset": Binds the relation to asset records that represent products the customer already owns from prior transactions. These records exist outside the current transaction and are treated as read-only context data.
+-   closerelation=true: Required on asset-sourced relations to prevent the engine from attempting to add new instances to the installed base. Without this annotation, the engine may try to create asset records to satisfy cardinality or require rules.
+-   Asset-based require(): The rule require(heaters\[Heater\] + heaterAssets\[Heater\] > 10, generators\[GeneratorSet\] == 100) combines cardinality from two separate relations — one sourced from the transaction and one from the installed base — in a single logical expression. This lets the model enforce quantity thresholds that account for what the customer is buying now and what they already have.
+-   Virtual grouping: The groupby=FuelType annotation on GeneratorGroup ensures that the asset-based constraint is evaluated independently per fuel type, so heaters and generator sets of different fuel types do not count toward each other's totals.
+
+## Example 8: Use Asset Scope to Drive Auto-Add Logic
+
+These examples show how to use the installed base (existing customer assets) as a condition in a require() rule to automatically add products to the current quote. The positive asset check triggers an auto-add when the customer already owns a product. The negative asset check enforces a prerequisite product when the customer does not yet own it.
+
+Positive asset check: if the customer already owns at least one GeneratorSet in their installed base, the engine automatically adds a MaintenanceKit to the current quote.
+
+```
+
+```
+
+Negative asset check: if the customer does not yet own a GeneratorSet in their installed base but is adding more than one MaintenanceKit to the quote, the engine requires a GeneratorSet to also be added to the quote.
+
+```
+
+```
+
+## Key Technical Details
+
+-   Positive asset check (generatorAssets\[GeneratorSet\] >= 1): Evaluates to true when the installed base contains at least one matching asset. Use this pattern to trigger upsell or companion-product logic for existing customers.
+-   Negative asset check (generatorAssets\[GeneratorSet\] < 1): Evaluates to true when the customer has no matching asset. Use this pattern to enforce a prerequisite product for net-new buyers.
+-   Auto-add result: When the require() condition is met, the engine adds the specified product to the relation automatically. Passing only the relation and type without a quantity (maintenanceKits\[MaintenanceKit\]) requires exactly one instance. Append \== N to require a specific quantity.
+-   closeRelation=true is required on the asset relation to prevent the engine from attempting to write back to the installed base when evaluating the condition.
 
 ## Code Examples
 

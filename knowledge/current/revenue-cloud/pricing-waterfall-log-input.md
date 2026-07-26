@@ -5,7 +5,7 @@ topic: pricing-waterfall-log-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:50.428Z
+lastCollected: 2026-07-26T01:59:40.879Z
 estimatedTokens: 282
 keywords: [Pricing, Waterfall, Log, explainability, action]
 ---

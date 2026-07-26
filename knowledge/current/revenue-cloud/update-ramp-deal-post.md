@@ -5,7 +5,7 @@ topic: update-ramp-deal-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T18:35:45.069Z
+lastCollected: 2026-07-26T01:59:42.408Z
 estimatedTokens: 609
 keywords: [Ramp, Deal, POST, Modify, scenarios, segment, updates, quantity, discount, date, change]
 ---
@@ -22,9 +22,9 @@ Update a ramp deal in these scenarios.
 -   A segment has quantity or discount changes.
 -   A trial segment or custom segment has a date change. A custom segment is an added or deleted segment. In this scenario, you can update a ramp deal during the initial sale before assetization.
 
-This API request returns the updated context with the context ID. You must call the Place Sales Transaction (POST) API by specifying this context ID to apply the ramp deal updates. See [Place Sales Transaction (POST) API](https://developer.salesforce.com/docs/atlas.en-us.260.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_place_sales_transaction.htm "HTML (New Window)").
+This API request returns the updated context with the context ID. You must call the Place Sales Transaction (POST) API by specifying this context ID to apply the ramp deal updates. See [Place Sales Transaction (POST) API](https://developer.salesforce.com/docs/atlas.en-us.262.0.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/connect_resources_place_sales_transaction.htm "HTML (New Window)").
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
@@ -84,7 +84,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/revenue-management/sales-transaction-contexts/4f23961a5c98806f89305e064c67b397e93f1bb8a2a7a3a80db506f1d4110ee9/actions/ramp-deal-update
+https://yourInstance.salesforce.com/services/data/v67.0/connect/revenue-management/sales-transaction-contexts/4f23961a5c98806f89305e064c67b397e93f1bb8a2a7a3a80db506f1d4110ee9/actions/ramp-deal-update
 ```
 
 ```

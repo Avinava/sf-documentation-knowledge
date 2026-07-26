@@ -1,11 +1,11 @@
 ---
 domain: life-sciences-dev-guide
-name: Life Sciences Cloud Developer Guide
+name: Agentforce Life Sciences Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.371Z
+lastGenerated: 2026-07-26T01:59:49.522Z
 ---
 
-# Life Sciences Cloud Developer Guide — Knowledge Index
+# Agentforce Life Sciences Developer Guide — Knowledge Index
 
 > Use the developer resources of Life Sciences Cloud to automate the operations available with the end
 

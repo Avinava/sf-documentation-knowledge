@@ -2,7 +2,7 @@
 domain: bi-dev-guide-wave-templates
 name: Analytics Templates Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.335Z
+lastGenerated: 2026-07-26T01:59:49.486Z
 ---
 
 # Analytics Templates Developer Guide — Knowledge Index

@@ -5,17 +5,17 @@ topic: dynamic-revenue-orchestrator-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.565Z
-estimatedTokens: 1269
-keywords: [Dynamic, Revenue, Orchestrator, Metadata, deployment, DRO, Cloud, including, setup, paths, configuration]
+lastCollected: 2026-07-26T01:59:44.603Z
+estimatedTokens: 1270
+keywords: [Dynamic, Revenue, Orchestrator, Metadata, deployment, DRO, Management, including, setup, paths, configuration]
 ---
 
 > This table provides the metadata deployment reference for Dynamic Revenue Orchestrator
-    (DRO) in Revenue Cloud, including setup paths and configuration details.
+    (DRO) in Revenue Management, including setup paths and configuration details.
 
 # Dynamic Revenue Orchestrator Metadata
 
-This table provides the metadata deployment reference for Dynamic Revenue Orchestrator (DRO) in Revenue Cloud, including setup paths and configuration details.
+This table provides the metadata deployment reference for Dynamic Revenue Orchestrator (DRO) in Revenue Management, including setup paths and configuration details.
 
 | Type | Label | Setup Path | Details |
 | --- | --- | --- | --- |

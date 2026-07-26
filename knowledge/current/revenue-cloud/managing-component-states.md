@@ -5,8 +5,8 @@ topic: managing-component-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.624Z
-estimatedTokens: 816
+lastCollected: 2026-07-26T01:59:44.668Z
+estimatedTokens: 819
 keywords: [Managing, States, Manage, activation, versioning, dependencies, part, deployment, plan, successful, sure, system, executes, intended, final, active, logic, preventing, failures, caused, stale, inactive, State, Management, Scenarios, Helpful, Links]
 ---
 
@@ -59,7 +59,7 @@ Refer to these links for examples and component-specific information:
 
 #### Note
 
-Some Revenue Cloud components have unique activation requirements. For complete information about state management for these components, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Cloud feature domain, ensuring successful deployments and migrations.").
+Some Revenue Management components have unique activation requirements. For complete information about state management for these components, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Management feature domain, ensuring successful deployments and migrations.").
 
 ## Related Topics
 

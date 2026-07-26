@@ -5,7 +5,7 @@ topic: rate-plan-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:51.229Z
+lastCollected: 2026-07-26T01:59:41.851Z
 estimatedTokens: 354
 keywords: [Rate, Plan, context, API, retrieve, cards, card, entries, adjustments, filter, criteria]
 ---

@@ -5,7 +5,7 @@ topic: quotlineitmusersrcgrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-07T00:37:44.151Z
+lastCollected: 2026-07-26T01:59:47.626Z
 estimatedTokens: 985
 keywords: [QuotLineItmUseRsrcGrant, negotiated, grants, resource, that's, product, added, quote, line, item, API, 65.0]
 ---

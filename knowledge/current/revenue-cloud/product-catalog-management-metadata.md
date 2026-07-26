@@ -5,17 +5,17 @@ topic: product-catalog-management-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.664Z
-estimatedTokens: 1191
-keywords: [Product, Catalog, Management, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
+lastCollected: 2026-07-26T01:59:44.714Z
+estimatedTokens: 1193
+keywords: [Product, Catalog, Management, Metadata, deployment, Revenue, including, setup, paths, configuration]
 ---
 
 > This table provides the metadata deployment reference for Product Catalog Management in
-    Revenue Cloud, including setup paths and configuration details.
+    Revenue Management, including setup paths and configuration details.
 
 # Product Catalog Management Metadata
 
-This table provides the metadata deployment reference for Product Catalog Management in Revenue Cloud, including setup paths and configuration details.
+This table provides the metadata deployment reference for Product Catalog Management in Revenue Management, including setup paths and configuration details.
 
 | Type | Label | Setup Path | Details |
 | --- | --- | --- | --- |

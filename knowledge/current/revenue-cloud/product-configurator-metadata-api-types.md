@@ -5,7 +5,7 @@ topic: product-configurator-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:54.467Z
+lastCollected: 2026-07-26T01:59:45.638Z
 estimatedTokens: 279
 keywords: [Product, Configurator, Metadata, API, feature, settings, customize, user]
 ---

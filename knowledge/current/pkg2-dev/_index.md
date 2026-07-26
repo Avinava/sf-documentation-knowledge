@@ -2,7 +2,7 @@
 domain: pkg2-dev
 name: Second-Generation Managed Packaging Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.394Z
+lastGenerated: 2026-07-26T01:59:49.542Z
 ---
 
 # Second-Generation Managed Packaging Developer Guide — Knowledge Index

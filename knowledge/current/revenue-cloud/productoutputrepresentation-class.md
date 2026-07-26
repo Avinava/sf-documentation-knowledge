@@ -5,7 +5,7 @@ topic: productoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:48.846Z
+lastCollected: 2026-07-26T01:59:39.105Z
 estimatedTokens: 5165
 keywords: [ProductOutputRepresentation, product, definition, additionalFields, attributeCategories, availabilityDate, catalogs, configureDuringSale, discontinuedDate, displayUrl, endOfLifeDate, isActive, isAssetizable, isComponentRequired, isDefaultComponent, isQuantityEditable, isSoldOnlyWithOtherProds, nodeType, productClassification, productCode, productComponentGroups, productInformation, productPricingInformation, productQuantity, productRelatedComponent, productSellingModelOptions, productSpecificationType, productType, qualificationContext, status]
 ---

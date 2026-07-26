@@ -2,7 +2,7 @@
 domain: sfdx-dev
 name: Salesforce DX Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.423Z
+lastGenerated: 2026-07-26T01:59:49.569Z
 ---
 
 # Salesforce DX Developer Guide — Knowledge Index

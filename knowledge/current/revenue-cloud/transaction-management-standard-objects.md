@@ -5,8 +5,8 @@ topic: transaction-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:54.597Z
-estimatedTokens: 3430
+lastCollected: 2026-07-26T01:59:45.828Z
+estimatedTokens: 3531
 keywords: [Transaction, Management, Standard, model, manage, transactions]
 ---
 
@@ -62,7 +62,7 @@ The Transaction Management data model provides objects and fields to manage tran
 -   **[OrderItemAttribute](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_orderitemattribute.htm)**
     Represents a virtual object that stores an attribute specified for an order item.This object is available in API version 60.0 and later.
 -   **[OrderItemDetail](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_orderitemdetail.htm)**
-    Represents the breakdown details of an order product. Revenue Cloud generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
+    Represents the breakdown details of an order product. Revenue Management generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
 -   **[OrderItemRateAdjustment](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_orderitemrateadjustment.htm)**
     Represents the negotiated rate adjustment for an order product. This object is available in API version 62.0 and later.
 -   **[OrderItemRateCardEntry](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_orderitemratecardentry.htm)**
@@ -78,7 +78,7 @@ The Transaction Management data model provides objects and fields to manage tran
 -   **[QuoteItemTaxItem](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quoteitemtaxitem.htm)**
     The tax that is applied to a quote line item. This object is available in API version 55.0 and later.
 -   **[QuoteLineDetail](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelinedetail.htm)**
-    Represents the breakdown details of a quote line item. Revenue Cloud generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
+    Represents the breakdown details of a quote line item. Revenue Management generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
 -   **[QuoteLineGroup](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelinegroup.htm)**
     Stores the group information for line items in a quote. It also stores the aggregated line field information (subtotal). It contains a parent-child relationship to quote. This object is available in API version 61.0 and later.
 -   **[QuoteLineItemAttribute](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelineitemattribute.htm)**
@@ -91,10 +91,12 @@ The Transaction Management data model provides objects and fields to manage tran
     Represents the negotiated rate adjustment for a quote line item. This object is available in API version 62.0 and later.
 -   **[QuoteLineRateCardEntry](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotelineratecardentry.htm)**
     Represents the catalog and negotiated rates of a usage resource associated with a quote line item that's used to charge overage consumption. This object is available in API version 62.0 and later.
+-   **[QuoteToOpportunitySyncEvent](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/sforce_api_objects_quotetoopportunitysyncevent.htm)**
+    Represents an asynchronous quote to opportunity synchronization event. It tracks whether the sync succeeded or failed and notifies associated subscribers upon completion. This object is available in API version XX.0 and later.
 
 #### See Also
 
--   [*Object Reference for the Salesforce Platform*: Overview of Salesforce Objects and Fields](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm "Object Reference for the Salesforce Platform: Overview of Salesforce Objects
+-   [*Object Reference for the platform*: Overview of Salesforce Objects and Fields](https://developer.salesforce.com/docs/atlas.en-us.262.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm "Object Reference for the platform: Overview of Salesforce Objects
     and Fields  - HTML (New Window)")
 
 -   [*SOAP API Developer Guide*: Introduction to SOAP API](https://developer.salesforce.com/docs/atlas.en-us.262.0.api.meta/api/sforce_api_quickstart_intro.htm "SOAP API Developer Guide: Introduction to SOAP API - HTML (New Window)")

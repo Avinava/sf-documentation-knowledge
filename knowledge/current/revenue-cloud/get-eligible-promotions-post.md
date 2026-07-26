@@ -5,7 +5,7 @@ topic: get-eligible-promotions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-05-10T00:39:04.304Z
+lastCollected: 2026-07-26T01:59:41.626Z
 estimatedTokens: 269
 keywords: [Eligible, Promotions, POST, line, items, quote, order]
 ---
@@ -65,7 +65,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/revenue/transaction-management/sales-transactions/actions/get-eligible-promotions
+https://yourInstance.salesforce.com/services/data/v67.0/revenue/transaction-management/sales-transactions/actions/get-eligible-promotions
 ```
 
 ```

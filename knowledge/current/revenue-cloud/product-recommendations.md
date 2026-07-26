@@ -5,7 +5,7 @@ topic: product-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:52.962Z
+lastCollected: 2026-07-26T01:59:43.884Z
 estimatedTokens: 196
 keywords: [Product, Recommendations, fetched]
 ---

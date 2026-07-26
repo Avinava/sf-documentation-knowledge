@@ -2,7 +2,7 @@
 domain: platform-encryption-rest-api-guide
 name: Platform Encryption REST API Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.396Z
+lastGenerated: 2026-07-26T01:59:49.545Z
 ---
 
 # Platform Encryption REST API Developer Guide — Knowledge Index

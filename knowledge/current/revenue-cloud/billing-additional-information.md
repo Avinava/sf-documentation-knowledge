@@ -5,17 +5,17 @@ topic: billing-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:53.425Z
-estimatedTokens: 2002
-keywords: [Billing, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
+lastCollected: 2026-07-26T01:59:44.427Z
+estimatedTokens: 2003
+keywords: [Billing, Additional, know, deployment, Revenue, Management, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
 
-> Get to know additional deployment information for Billing in Revenue Cloud, including
+> Get to know additional deployment information for Billing in Revenue Management, including
     active or inactive states, object information, and migration considerations.
 
 # Billing Additional Information
 
-Get to know additional deployment information for Billing in Revenue Cloud, including active or inactive states, object information, and migration considerations.
+Get to know additional deployment information for Billing in Revenue Management, including active or inactive states, object information, and migration considerations.
 
 ## Object-Specific Information
 

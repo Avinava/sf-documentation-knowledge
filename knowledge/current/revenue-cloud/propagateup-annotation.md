@@ -5,7 +5,7 @@ topic: propagateup-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.272Z
+lastCollected: 2026-07-26T01:59:39.573Z
 estimatedTokens: 2038
 keywords: [propagateUp, Annotation, Constraint, Modeling, Language, CML, aggregation, propagation, children, parent, Configurator, Result, Configuration, Settings]
 ---

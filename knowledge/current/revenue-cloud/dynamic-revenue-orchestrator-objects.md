@@ -5,17 +5,17 @@ topic: dynamic-revenue-orchestrator-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.579Z
-estimatedTokens: 681
-keywords: [Dynamic, Revenue, Orchestrator, deployment, sequence, API, lookup, Cloud]
+lastCollected: 2026-07-26T01:59:44.619Z
+estimatedTokens: 682
+keywords: [Dynamic, Revenue, Orchestrator, deployment, sequence, API, lookup, Management]
 ---
 
 > This table provides the deployment sequence, object types, API names, and lookup fields
-    for Dynamic Revenue Orchestrator objects in Revenue Cloud.
+    for Dynamic Revenue Orchestrator objects in Revenue Management.
 
 # Dynamic Revenue Orchestrator Objects
 
-This table provides the deployment sequence, object types, API names, and lookup fields for Dynamic Revenue Orchestrator objects in Revenue Cloud.
+This table provides the deployment sequence, object types, API names, and lookup fields for Dynamic Revenue Orchestrator objects in Revenue Management.
 
 | Object Use Type | Object Name | Object API | Deployment Sequence | Lookup Fields (Foreign Keys) |
 | --- | --- | --- | --- | --- |

@@ -5,18 +5,18 @@ topic: salesforce-pricing-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:53.729Z
-estimatedTokens: 911
-keywords: [Salesforce, Pricing, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
+lastCollected: 2026-07-26T01:59:44.788Z
+estimatedTokens: 912
+keywords: [Salesforce, Pricing, Additional, know, deployment, Revenue, Management, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
 
-> Get to know additional deployment information for Salesforce Pricing in Revenue Cloud,
+> Get to know additional deployment information for Salesforce Pricing in Revenue Management,
     including active or inactive states, object information, and migration
     considerations.
 
 # Salesforce Pricing Additional Information
 
-Get to know additional deployment information for Salesforce Pricing in Revenue Cloud, including active or inactive states, object information, and migration considerations.
+Get to know additional deployment information for Salesforce Pricing in Revenue Management, including active or inactive states, object information, and migration considerations.
 
 ## Object-Specific Information
 

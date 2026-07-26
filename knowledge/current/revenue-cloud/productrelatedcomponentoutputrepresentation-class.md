@@ -5,7 +5,7 @@ topic: productrelatedcomponentoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:48.911Z
+lastCollected: 2026-07-26T01:59:39.177Z
 estimatedTokens: 3099
 keywords: [product, bundle, relationship, including, configuration, quantity, constraints, status, metadata, childProductId, childSellingModelId, doesBundlePriceIncludeChild, isComponentRequired, isDefaultComponent, isQuantityEditable, maxQuantity, minQuantity, parentProductId, parentSellingModelId, productClassificationId, productComponentGroupId, productRelationshipTypeId, quantityScaleMethod, sequence, unitOfMeasure, isExcluded, quoteVisibility]
 ---

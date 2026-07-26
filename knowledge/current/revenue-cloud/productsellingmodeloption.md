@@ -5,7 +5,7 @@ topic: productsellingmodeloption
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:56.064Z
+lastCollected: 2026-07-26T01:59:47.497Z
 estimatedTokens: 729
 keywords: [ProductSellingModelOption, junction, Product, Selling, Model, Product2, API, 60.0]
 ---

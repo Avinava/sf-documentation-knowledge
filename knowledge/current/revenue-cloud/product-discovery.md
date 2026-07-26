@@ -5,8 +5,8 @@ topic: product-discovery
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:54.544Z
-estimatedTokens: 549
+lastCollected: 2026-07-26T01:59:45.728Z
+estimatedTokens: 550
 keywords: [Product, Discovery, hierarchical, catalog, browsing, experience, identify, suitable, products, text-based, faceted, search]
 ---
 
@@ -19,7 +19,7 @@ Product Discovery provides a hierarchical catalog browsing experience to identif
 
 | Available in: Lightning Experience |
 | --- |
-| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Cloud |
+| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Management |
 
 
 -   **[Product Discovery Business APIs](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/product_discovery_business_apis.htm)**

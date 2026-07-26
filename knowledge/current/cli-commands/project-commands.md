@@ -5,7 +5,7 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:47.771Z
+lastCollected: 2026-07-26T01:59:37.939Z
 estimatedTokens: 22540
 keywords: [Flags, project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Aliases, source-behavior, Beta, deploy, cancel, pipeline, quick, report, resume, start, validate, preview, generate, manifest, ignored, reset, retrieve]
 ---

@@ -2,7 +2,7 @@
 domain: apex-guide
 name: Apex Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.309Z
+lastGenerated: 2026-07-26T01:59:49.461Z
 ---
 
 # Apex Developer Guide — Knowledge Index

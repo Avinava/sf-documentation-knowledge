@@ -5,7 +5,7 @@ topic: configuration-load-instance-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:50.332Z
+lastCollected: 2026-07-26T01:59:40.767Z
 estimatedTokens: 185
 keywords: [Configuration, Load, Instance, product]
 ---

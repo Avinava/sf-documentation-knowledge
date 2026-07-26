@@ -2,7 +2,7 @@
 domain: mc-app-development
 name: Marketing Cloud Package Development
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.438Z
+lastGenerated: 2026-07-26T01:59:49.581Z
 ---
 
 # Marketing Cloud Package Development — Knowledge Index

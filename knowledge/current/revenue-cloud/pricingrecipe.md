@@ -5,8 +5,8 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:53.947Z
-estimatedTokens: 1281
+lastCollected: 2026-07-26T01:59:45.045Z
+estimatedTokens: 1279
 keywords: [PricingRecipe, PricingRecipeTableMapping, PricingProcedureOutputMap, models, particular, cloud, pricing, store, consumes, design, time, run, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest, various, entities, that'll, consumed, API, 60.0]
 ---
 
@@ -52,7 +52,7 @@ Represents the mapping of the lookup table with the chosen pricing recipe.
 
 | Field Name | Description |
 | --- | --- |
-| isInternal | Field TypebooleanDescriptionIndicates whether the price recipe field mapping record is created internally by the Salesforce platform (true) or not (false).The default value is false. |
+| isInternal | Field TypebooleanDescriptionIndicates whether the price recipe field mapping record is created internally by the platform (true) or not (false).The default value is false. |
 | lookupTable | Field TypeDecisionTableDecisionMatrixDefinitionDescriptionLookup table that's associated with either a decision matrix or decision table. |
 | lookupTableDeveloperName | Field TypestringDescriptionFor internal use only. |
 | pricingComponentType | Field TypestringDescriptionPricing component field data that the decision table is built on.Valid values are:AttributeDiscountBundleDiscountDerivedPricingListPricePriceAdjustmentMatrixPromotionsDiscountVolumeDiscountVolumeTierDiscountDiscountDistributionService. This value is available in API version 60.0 and later.MinimumPrice. Available in API version 62.0 and later. |

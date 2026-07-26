@@ -5,7 +5,7 @@ topic: product-catalog-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.691Z
+lastCollected: 2026-07-26T01:59:44.744Z
 estimatedTokens: 1916
 keywords: [Product, Catalog, Management, deployment, sequence, API, lookup, translation, requirements, Revenue, Cloud]
 ---

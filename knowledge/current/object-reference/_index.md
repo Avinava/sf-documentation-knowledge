@@ -2,7 +2,7 @@
 domain: object-reference
 name: Object Reference for the Salesforce Platform
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.388Z
+lastGenerated: 2026-07-26T01:59:49.536Z
 ---
 
 # Object Reference for the Salesforce Platform — Knowledge Index

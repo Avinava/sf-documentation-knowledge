@@ -5,7 +5,7 @@ topic: force-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:47.109Z
+lastCollected: 2026-07-26T01:59:37.235Z
 estimatedTokens: 2154
 keywords: [Flags, force, Commands, Bulk, records, org, CSV, file, Uses, API, 1.0, Examples, status, upsert, lightning, lwc, test, run, setup]
 ---

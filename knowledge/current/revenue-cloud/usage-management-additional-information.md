@@ -5,18 +5,18 @@ topic: usage-management-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:53.833Z
-estimatedTokens: 868
-keywords: [Management, Additional, know, deployment, Revenue, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
+lastCollected: 2026-07-26T01:59:44.908Z
+estimatedTokens: 869
+keywords: [Management, Additional, know, deployment, Revenue, including, active, inactive, states, migration, considerations, Object-Specific]
 ---
 
-> Get to know additional deployment information for Usage Management in Revenue Cloud,
+> Get to know additional deployment information for Usage Management in Revenue Management,
     including active or inactive states, object information, and migration
     considerations.
 
 # Usage Management Additional Information
 
-Get to know additional deployment information for Usage Management in Revenue Cloud, including active or inactive states, object information, and migration considerations.
+Get to know additional deployment information for Usage Management in Revenue Management, including active or inactive states, object information, and migration considerations.
 
 ## Object-Specific Information
 

@@ -5,7 +5,7 @@ topic: ratingfrequencypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:56.239Z
+lastCollected: 2026-07-26T01:59:47.733Z
 estimatedTokens: 879
 keywords: [RatingFrequencyPolicy, policy, frequency, rating, triggered, ratable, summary, records, API, 62.0]
 ---

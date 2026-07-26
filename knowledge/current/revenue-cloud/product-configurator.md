@@ -5,8 +5,8 @@ topic: product-configurator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:54.259Z
-estimatedTokens: 476
+lastCollected: 2026-07-26T01:59:45.394Z
+estimatedTokens: 478
 keywords: [Product, Configurator, Customize, attributes, align, specific, business, requirements]
 ---
 
@@ -19,7 +19,7 @@ Customize the components and attributes of a product to align with specific busi
 
 | Available in: Lightning Experience |
 | --- |
-| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Cloud where Product Configurator is enabled |
+| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Management where Product Configurator is enabled |
 
 
 -   **[Product Configurator Standard Objects](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/prod_config_std_objects_parent.htm)**

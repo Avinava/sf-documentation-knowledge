@@ -5,7 +5,7 @@ topic: api-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:46.696Z
+lastCollected: 2026-07-26T01:59:36.813Z
 estimatedTokens: 1698
 keywords: [Flags, api, Commands, Execute, GraphQL, statement, Beta, Examples, rest]
 ---

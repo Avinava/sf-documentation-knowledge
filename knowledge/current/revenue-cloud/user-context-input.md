@@ -5,7 +5,7 @@ topic: user-context-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:50.106Z
+lastCollected: 2026-07-26T01:59:40.509Z
 estimatedTokens: 134
 keywords: [User, Context, qualification]
 ---

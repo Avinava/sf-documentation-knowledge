@@ -5,7 +5,7 @@ topic: product-catalog-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:54.107Z
+lastCollected: 2026-07-26T01:59:45.209Z
 estimatedTokens: 335
 keywords: [Product, Catalog, Management, Tooling, API, metadata, developer, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---

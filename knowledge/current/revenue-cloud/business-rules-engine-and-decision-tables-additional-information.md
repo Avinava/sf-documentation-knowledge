@@ -5,17 +5,17 @@ topic: business-rules-engine-and-decision-tables-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-06-21T00:39:53.607Z
-estimatedTokens: 851
-keywords: [Dependencies, Business, Engine, Decision, Tables, Additional, know, Revenue, Cloud, deployment, Industries, common, features, Expression, Object-Specific, Helpful, Links, Considerations]
+lastCollected: 2026-07-26T01:59:44.650Z
+estimatedTokens: 852
+keywords: [Dependencies, Business, Engine, Decision, Tables, Additional, know, Revenue, Management, deployment, Industries, common, features, Expression, Object-Specific, Helpful, Links, Considerations]
 ---
 
-> Get to know additional Revenue Cloud deployment information for Industries common
+> Get to know additional Revenue Management deployment information for Industries common
     features such as Business Rules Engine, Expression Sets, and Decision Tables.
 
 # Business Rules Engine and Decision Tables Additional Information
 
-Get to know additional Revenue Cloud deployment information for Industries common features such as Business Rules Engine, Expression Sets, and Decision Tables.
+Get to know additional Revenue Management deployment information for Industries common features such as Business Rules Engine, Expression Sets, and Decision Tables.
 
 ## Object-Specific Information
 

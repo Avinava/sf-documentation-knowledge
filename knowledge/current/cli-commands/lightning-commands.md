@@ -5,7 +5,7 @@ topic: lightning-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:47.156Z
+lastCollected: 2026-07-26T01:59:37.286Z
 estimatedTokens: 1938
 keywords: [Flags, lightning, Commands, Preview, Experience, app, locally, real-time, deploying, dev, Examples, site]
 ---

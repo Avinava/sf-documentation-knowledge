@@ -5,17 +5,17 @@ topic: billing-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.440Z
-estimatedTokens: 792
-keywords: [Billing, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
+lastCollected: 2026-07-26T01:59:44.442Z
+estimatedTokens: 793
+keywords: [Billing, Metadata, deployment, Revenue, Management, including, setup, paths, configuration]
 ---
 
-> This table provides the metadata deployment reference for Billing in Revenue Cloud,
+> This table provides the metadata deployment reference for Billing in Revenue Management,
     including setup paths and configuration details.
 
 # Billing Metadata
 
-This table provides the metadata deployment reference for Billing in Revenue Cloud, including setup paths and configuration details.
+This table provides the metadata deployment reference for Billing in Revenue Management, including setup paths and configuration details.
 
 | Type | Label | Setup Path | Details |
 | --- | --- | --- | --- |

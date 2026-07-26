@@ -5,7 +5,7 @@ topic: pbe-derived-pricing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:52.441Z
+lastCollected: 2026-07-26T01:59:43.292Z
 estimatedTokens: 147
 keywords: [PBE, Derived, Pricing, includes, source, product, Price, Book, Entry]
 ---

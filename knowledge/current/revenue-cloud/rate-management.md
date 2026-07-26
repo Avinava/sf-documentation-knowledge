@@ -5,8 +5,8 @@ topic: rate-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:54.644Z
-estimatedTokens: 425
+lastCollected: 2026-07-26T01:59:45.883Z
+estimatedTokens: 426
 keywords: [Rate, Management, Quote, price, products, predefined, rates, future, product, service]
 ---
 
@@ -19,7 +19,7 @@ Quote and price products based on predefined rates for future use of the product
 
 | Available in: Lightning Experience |
 | --- |
-| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Cloud where Rate Management is enabled |
+| Available in: Enterprise, Unlimited, and Developer Editions of Revenue Management where Rate Management is enabled |
 
 
 -   **[Rate Management Standard Objects](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/rate_management_std_objects_parent.htm)**

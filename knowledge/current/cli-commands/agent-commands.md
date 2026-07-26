@@ -5,7 +5,7 @@ topic: agent-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:46.528Z
+lastCollected: 2026-07-26T01:59:36.650Z
 estimatedTokens: 14241
 keywords: [Flags, agent, Commands, Activate, org, Examples, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, send, sessions, start, publish, test, results, resume, run, validate]
 ---

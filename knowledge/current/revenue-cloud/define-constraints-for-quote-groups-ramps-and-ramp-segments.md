@@ -5,7 +5,7 @@ topic: define-constraints-for-quote-groups-ramps-and-ramp-segments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.640Z
+lastCollected: 2026-07-26T01:59:39.983Z
 estimatedTokens: 321
 keywords: [Define, Constraints, Quote, Groups, Ramps, Ramp, Segments, Apply, SalesTransactionItemGroup, context, tag, Assign, groupby, messages, defined, Constraint, Engine, include, grouping, strategies]
 ---

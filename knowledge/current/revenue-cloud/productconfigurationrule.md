@@ -5,7 +5,7 @@ topic: productconfigurationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:55.921Z
+lastCollected: 2026-07-26T01:59:47.332Z
 estimatedTokens: 789
 keywords: [ProductConfigurationRule, validation, inclusion, exclusion, products, context, selling, process, quoting, configuration, ordering, API, 61.0]
 ---

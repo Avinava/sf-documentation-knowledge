@@ -5,7 +5,7 @@ topic: mathematical-functions-numerical-derivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.608Z
+lastCollected: 2026-07-26T01:59:39.948Z
 estimatedTokens: 322
 keywords: [Mathematical, Functions, Numerical, Derivation, operators, calculate, derived, arithmetic, relationships, variables]
 ---

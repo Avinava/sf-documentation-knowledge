@@ -5,17 +5,17 @@ topic: billing-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:53.457Z
-estimatedTokens: 809
-keywords: [Billing, deployment, sequence, API, lookup, Revenue, Cloud]
+lastCollected: 2026-07-26T01:59:44.462Z
+estimatedTokens: 810
+keywords: [Billing, deployment, sequence, API, lookup, Revenue, Management]
 ---
 
 > This table provides the deployment sequence, object types, API names, and lookup fields
-    for Billing objects in Revenue Cloud.
+    for Billing objects in Revenue Management.
 
 # Billing Objects
 
-This table provides the deployment sequence, object types, API names, and lookup fields for Billing objects in Revenue Cloud.
+This table provides the deployment sequence, object types, API names, and lookup fields for Billing objects in Revenue Management.
 
 | Object Use Type | Object Name | Object API | Deployment Sequence | Lookup Fields (Foreign Keys) |
 | --- | --- | --- | --- | --- |

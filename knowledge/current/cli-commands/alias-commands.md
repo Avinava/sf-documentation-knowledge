@@ -5,7 +5,7 @@ topic: alias-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:46.570Z
+lastCollected: 2026-07-26T01:59:36.689Z
 estimatedTokens: 792
 keywords: [Flags, alias, Commands, aliases, currently, local, computer, Examples, unset]
 ---

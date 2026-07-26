@@ -2,7 +2,7 @@
 domain: edu-cloud-dev-guide
 name: Education Cloud Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.357Z
+lastGenerated: 2026-07-26T01:59:49.507Z
 ---
 
 # Education Cloud Developer Guide — Knowledge Index

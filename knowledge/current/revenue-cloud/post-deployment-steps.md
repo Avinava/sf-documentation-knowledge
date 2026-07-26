@@ -5,8 +5,8 @@ topic: post-deployment-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:54.117Z
-estimatedTokens: 243
+lastCollected: 2026-07-26T01:59:45.216Z
+estimatedTokens: 244
 keywords: [Post-Deployment, Steps, deployments, require, take, actions, deployment, target, org, ensure, proper, functionality, integrity]
 ---
 
@@ -28,7 +28,7 @@ Here are some examples of common post-deployment tasks.
 
 #### Note
 
-For information about the post-deployment steps necessary for each Revenue Cloud feature, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Cloud feature domain, ensuring successful deployments and migrations.").
+For information about the post-deployment steps necessary for each Revenue Cloud feature, see [Additional Deployment Information](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/deployment_appendix_C.htm "Get to know additional deployment information for each Revenue Management feature domain, ensuring successful deployments and migrations.").
 
 ## Related Topics
 

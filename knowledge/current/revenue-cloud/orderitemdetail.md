@@ -5,12 +5,12 @@ topic: orderitemdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:55.391Z
-estimatedTokens: 717
-keywords: [OrderItemDetail, breakdown, order, product, Revenue, Cloud, generates, records, capture, pricing, quantity, changes, negative, reductions, early, renewals, derived, repricing, amendment, bundle, attribute, reconfigurations, API, 60.0]
+lastCollected: 2026-07-26T01:59:46.733Z
+estimatedTokens: 719
+keywords: [OrderItemDetail, breakdown, order, product, Revenue, Management, generates, records, capture, pricing, quantity, changes, negative, reductions, early, renewals, derived, repricing, amendment, bundle, attribute, reconfigurations, API, 60.0]
 ---
 
-> Represents the breakdown details of an order product. Revenue Cloud generates
+> Represents the breakdown details of an order product. Revenue Management generates
          these records to capture pricing and quantity changes, such as negative quantity
          reductions, early renewals, derived pricing or repricing during an amendment, and bundle or
          product attribute reconfigurations. This object is available in API version 60.0 and
@@ -18,7 +18,7 @@ keywords: [OrderItemDetail, breakdown, order, product, Revenue, Cloud, generates
 
 # OrderItemDetail
 
-Represents the breakdown details of an order product. Revenue Cloud generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
+Represents the breakdown details of an order product. Revenue Management generates these records to capture pricing and quantity changes, such as negative quantity reductions, early renewals, derived pricing or repricing during an amendment, and bundle or product attribute reconfigurations. This object is available in API version 60.0 and later.
 
 ## Supported Calls
 

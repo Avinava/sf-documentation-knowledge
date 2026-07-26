@@ -1,9 +1,9 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-06-21T00:39:57.702Z*
+*Last Updated: 2026-07-26T01:59:49.845Z*
 
-**129 Domains** | **35,429 Knowledge Files**
+**130 Domains** | **35,431 Knowledge Files**
 
 ## Available Domains
 
@@ -13,17 +13,17 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4623 | Apex class library reference — all system classes and methods |
 | [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2465 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
 | [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1777 | Get details on standard objects so that you can interface with your Salesforce d |
-| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1362 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
+| [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1364 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
 | [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1297 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
-| [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
+| [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Agentforce Health Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
 | [mc-apis](../../knowledge/current/mc-apis/_index.md) | **Marketing Cloud API** | 809 | Developer documentation for Marketing Cloud APIs |
-| [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Life Sciences Cloud Developer Guide** | 714 | Use the developer resources of Life Sciences Cloud to automate the operations av |
+| [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Agentforce Life Sciences Developer Guide** | 714 | Use the developer resources of Life Sciences Cloud to automate the operations av |
 | [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 693 | Metadata API — deployment, retrieval, metadata types |
 | [insurance-developer-guide](../../knowledge/current/insurance-developer-guide/_index.md) | **Insurance Developer Guide** | 616 | Learn more about the developer sources of Insurance to automate the backend work |
 | [pages](../../knowledge/current/pages/_index.md) | **Visualforce Developer Guide** | 609 | Learn how to develop custom user interfaces and apps with Visualforce, a framewo |
 | [apex-guide](../../knowledge/current/apex-guide/_index.md) | **Apex Developer Guide** | 566 | Apex language guide — syntax, triggers, testing, best practices |
-| [financial-services-cloud-object-reference](../../knowledge/current/financial-services-cloud-object-reference/_index.md) | **Financial Services Cloud Developer Guide** | 527 | Extend Financial Services Cloud with other Salesforce products using the API and |
+| [financial-services-cloud-object-reference](../../knowledge/current/financial-services-cloud-object-reference/_index.md) | **Agentforce Financial Services Developer Guide** | 527 | Extend Agentforce Financial Services with other Salesforce products using the AP |
 | [loyalty](../../knowledge/current/loyalty/_index.md) | **Loyalty Management Developer Guide** | 526 | Use Loyalty Management API and developer resources to create personalized loyalt |
 | [retail-api](../../knowledge/current/retail-api/_index.md) | **Consumer Goods Cloud Developer Guide** | 524 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [bi-dev-guide-rest](../../knowledge/current/bi-dev-guide-rest/_index.md) | **CRM Analytics REST API Developer Guide** | 519 | Describes how to send queries directly to CRM Analytics, access datasets that ha |
@@ -138,3 +138,4 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [lwc](../../knowledge/current/lwc/_index.md) | **Lightning Web Components** | 1 | LWC developer guide — components, lifecycle, wire service, events |
 | [platform-encryption-rest-api-guide](../../knowledge/current/platform-encryption-rest-api-guide/_index.md) | **Platform Encryption REST API Developer Guide** | 1 | The REST API for Salesforce Platform Encryption lets you generate and manage ten |
 | [salesforce-reports-enhanced-reports-tab-tipsheet](../../knowledge/current/salesforce-reports-enhanced-reports-tab-tipsheet/_index.md) | **Using the Reports Tab** | 1 | The Reports tab makes it easier to find, organize, and manage both your reports  |
+| [real-time-offer-management](../../knowledge/current/real-time-offer-management/_index.md) | **Real-Time Offer Management Developer Guide** | 0 | Real-Time Offer Management enables companies to run promotions and offers for th |

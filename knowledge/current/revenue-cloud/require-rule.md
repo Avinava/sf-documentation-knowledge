@@ -4,9 +4,9 @@ domain: revenue-cloud
 topic: require-rule
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.712Z
-estimatedTokens: 336
+docType: help-article
+lastCollected: 2026-07-26T01:59:40.071Z
+estimatedTokens: 371
 keywords: [Require, Rule, requires, certain, included, relationship, conditions, met]
 ---
 
@@ -25,7 +25,7 @@ In certain scenarios, you can independently add a type at the header level. This
 
 #### Note
 
-When you assign a require rule to a virtual bundle (a bundle related to the sales transaction, where the parent product has no associated price), set one Product Selling Model Option on the required product to Default. For more information on Product Selling Model Options, see Manage Product Selling Model in Revenue Cloud.
+If a require rule auto-adds a product that has one or more Product Selling Model Options (PSMOs), set one PSMO on the product to Default. The system uses the default PSMO to determine which pricebook entry to use for the auto-added product. For more information, see [Manage Product Selling Model](https://help.salesforce.com/s/articleView?id=ind.product_catalog_product_selling_model.htm&language=en_US "HTML (New Window)") in Revenue Cloud in Salesforce Help.
 
 The require rule has this syntax:
 

@@ -5,8 +5,8 @@ topic: relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:49.706Z
-estimatedTokens: 1362
+lastCollected: 2026-07-26T01:59:40.062Z
+estimatedTokens: 1442
 keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, different, product, forming, structural, hierarchy, bundle, referred, ports, Definition, Maximum, Relationship, Size, Omit, Unnecessary, Order, Keyword, Ordering]
 ---
 
@@ -19,6 +19,12 @@ keywords: [Relationships, Constraint, Modeling, Language, CML, define, how, diff
 Relationships in Constraint Modeling Language (CML) define how different product types are associated with each other, forming the structural hierarchy of a product bundle. Relationships are also referred to as ports.
 
 Here’s a comprehensive overview of relationships, their syntax, purpose, and key features, particularly using examples relevant to the Generator Set model.
+
+![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
+
+#### Note
+
+When you import product relationships from PCM into a constraint model, don’t include product component groups. Importing with product component groups increases complexity and can cause performance degradation.
 
 ## Definition and Syntax of Relationships
 
@@ -37,7 +43,7 @@ Relationships define the one-to-many connections between a parent type (such as 
 
 #### Note
 
-Specifying the smallest required cardinality (quantity range) is a best practice to avoid unnecessary testing of value combinations, which improves performance.
+To avoid testing unnecessary value combinations and improve performance, specify the smallest required cardinality (quantity range).
 
 ## Set Maximum Relationship Size
 
@@ -65,9 +71,9 @@ To enable import of a subset of bundle components, add this property at the top 
 
 ```
 
-If your PCM bundle contains many different relations but your CML code defines only one, the engine will validate the model but this often results in a configuration run-time failure. By setting allowMissingRelations = "true", you do not have to define every relation found in the PCM (such as GeneralModels in the Relationship Ordering example) if they do not require specific configuration logic in your CML file.
+If your PCM bundle contains many relations but your CML code defines only one, the engine validates the model, but often returns a configuration failure. at run time. By setting allowMissingRelations = "true", you don’t have to define every relation found in the PCM (such as GeneralModels in the Relationship Ordering example) if they don’t require specific configuration logic in your CML file.
 
-Here’s an example with allowMissingRelations property.
+Here’s an example with the allowMissingRelations property.
 
 ```
 
@@ -75,13 +81,13 @@ Here’s an example with allowMissingRelations property.
 
 For more information, see [Constraints](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_constraints.htm "Constraints enforce rules and conditions on types, variables, and relationships. Use constraints to define logical restrictions and ensure consistency within the model.").
 
-To ensure run-time stability without the allowMissingRelations property, you must manually define every single relation and type present in the PCM bundle, even if you don't intend to write logic for them. This creates large CML files with a high number of variables and components, which lead to performance degradation, and even timeout issues.
+To ensure stability at run time without the allowMissingRelations property, you must manually define every relation and type present in the PCM bundle, even if you don't intend to write logic for them. This creates large CML files with a high number of variables and components, which lead to performance degradation, and even timeout issues.
 
 ![Note](/docs/resources/img/en-us/262.0?doc_id=images%2Ficon_note.png&folder=revenue_lifecycle_management_dev_guide)
 
 #### Note
 
-This code isn’t recommended.
+We don’t recommend using the pattern in this example.
 
 ```
 

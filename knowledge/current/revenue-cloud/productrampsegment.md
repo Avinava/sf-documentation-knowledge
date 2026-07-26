@@ -5,7 +5,7 @@ topic: productrampsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:56.000Z
+lastCollected: 2026-07-26T01:59:47.424Z
 estimatedTokens: 925
 keywords: [ProductRampSegment, ramp, period, deal, terms, volumes, commitments, change, over, time, API, 62.0]
 ---

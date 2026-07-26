@@ -5,7 +5,7 @@ topic: filter-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:50.225Z
+lastCollected: 2026-07-26T01:59:40.644Z
 estimatedTokens: 336
 keywords: [Filter, Criteria, records]
 ---

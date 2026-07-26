@@ -5,7 +5,7 @@ topic: define-a-constraint-for-a-ramp-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.653Z
+lastCollected: 2026-07-26T01:59:40.004Z
 estimatedTokens: 158
 keywords: [Define, Constraint, Ramp, Segment, rule, defined, conditions, ItemSegmentType, attribute]
 ---

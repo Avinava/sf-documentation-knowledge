@@ -5,7 +5,7 @@ topic: create-a-guid-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.528Z
+lastCollected: 2026-07-26T01:59:44.561Z
 estimatedTokens: 373
 keywords: [GUID, Add, deployment, ensure, unique, identification, records, across, environments]
 ---

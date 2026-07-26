@@ -5,29 +5,24 @@ topic: dynamic-revenue-orchestrator-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.551Z
-estimatedTokens: 2408
-keywords: [Dynamic, Revenue, Orchestrator, Additional, know, deployment, DRO, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
+lastCollected: 2026-07-26T01:59:44.588Z
+estimatedTokens: 2521
+keywords: [Dynamic, Revenue, Orchestrator, Additional, know, deployment, DRO, Management, including, active, inactive, states, migration, considerations, RuleSet, API, Naming, Pattern, Object-Specific]
 ---
 
 > Get to know additional deployment information for Dynamic Revenue Orchestrator (DRO) in
-    Revenue Cloud, including active or inactive states, object information, and migration
+    Revenue Management, including active or inactive states, object information, and migration
     considerations.
 
 # Dynamic Revenue Orchestrator Additional Information
 
-Get to know additional deployment information for Dynamic Revenue Orchestrator (DRO) in Revenue Cloud, including active or inactive states, object information, and migration considerations.
+Get to know additional deployment information for Dynamic Revenue Orchestrator (DRO) in Revenue Management, including active or inactive states, object information, and migration considerations.
 
-## Object-Specific Information
+## RuleSet API Naming Pattern
 
-| Object Name | Object API | Notes |
-| --- | --- | --- |
-| Product Fulfillment Decomposition Rule | ProductFulfillmentDecompRule | Rule set references are created in the target org by using UPDATE operation on the JSON fields as listed in the Special Fields section. Any rule set records and references aren’t created on INSERT operation. |
-| Fulfillment Step Definition | FulfillmentStepDefinition | Rule set references are created in the target org by using UPDATE operation on the JSON fields as listed in the Special Fields section. Any rule set records and references aren’t created on INSERT operation. |
-| Product Fulfillment Scenario | ProductFulfillmentScenario | Rule set references are created in the target org by using UPDATE operation on the JSON fields as listed in the Special Fields section. Any rule set records and references aren’t created on INSERT operation. |
-| Fulfillment Fallout Rule | FulfillmentFalloutRule | After migration, refresh the related Decision Tables. |
-| Fulfillment Task Assignment Rule | FulfillmentTaskAssignmentRule | Rule set references are created in the target org by using UPDATE operation on the JSON fields as listed in the Special Fields section. Any rule set records and references aren’t created on INSERT operation. |
-| Orchestration Plan Context Mapping | OrchestrationPlanCtxMapping | This setup object is always active after creation. Here are some considerations.The object must have an active context definition to create the mapping.The context definition must remain active for the mapping to be valid.Context nodes or referenced mappings must exist in the active context definition version. |
+In API version 67.0 and later, RuleSet API naming is decoupled from the parent record ID and uses a global key (UUID). This naming pattern removes the pre-commit dependency on record IDs and enables condition JSON processing during INSERT operation for records.
+
+Existing RuleSet records that use the legacy record ID-based naming patterns keep their original API naming pattern and aren’t automatically renamed. Legacy and current naming patterns can coexist in the same org. No mandatory migration is required solely to normalize RuleSet API names.
 
 ## Special Fields
 
@@ -41,6 +36,18 @@ Get to know additional deployment information for Dynamic Revenue Orchestrator (
         -   ConditionData. This is related to ExecuteOnRule field (RuleSet reference).
     -   FulfillmentTaskAssignmentRule
         -   ConditionData. This is related to Condition field (RuleSet reference).
+-   Condition JSON fields support full lifecycle behavior for global key-based naming pattern records. You can provide condition JSON at insert, modify it through updates, and remove it to delete associated RuleSet artifacts where applicable. Here are the details for each operation type.
+    -   You can create the record and provide condition JSON in the same transaction, including bulk operations.
+    -   When you change condition JSON, the related RuleSet reference and runtime evaluation logic are updated.
+    -   When you remove condition JSON, the related RuleSet artifacts are deleted where applicable, including resume on rule scenarios.
+
+## Object-Specific Information
+
+| Object Name | Object API | Notes |
+| --- | --- | --- |
+| Product Fulfillment Decomposition RuleFulfillment Step DefinitionProduct Fulfillment ScenarioFulfillment Task Assignment Rule | ProductFulfillmentDecompRuleFulfillmentStepDefinitionProductFulfillmentScenarioFulfillmentTaskAssignmentRule |  |
+| Fulfillment Fallout Rule | FulfillmentFalloutRule | After migration, refresh the related Decision Tables. |
+| Orchestration Plan Context Mapping | OrchestrationPlanCtxMapping | This setup object is always active after creation. Here are some considerations.The object must have an active context definition to create the mapping.The context definition must remain active for the mapping to be valid.Context nodes or referenced mappings must exist in the active context definition version. |
 
 ## Other Information
 
@@ -76,12 +83,13 @@ Get to know additional deployment information for Dynamic Revenue Orchestrator (
     -   Internal rule set tables may contain attribute ID values, which are the Salesforce IDs of the relevant AttributeDefinition records of the Product or Product Classification.
     -   DRO stores rule set-related data in string representation with AttributeDefinition. During migration, the JSON representation of a rule set uses Attribute Code as the natural key to resolve AttributeDefinition records and set as key in internal rule set tables. As a prerequisite, make sure that attribute code values are populated and consistent in both the source and target orgs before you migrate DRO rules.
     -   Rule sets also contain attribute picklist values in condition expressions. The AttributePicklistValue records of the associated AttributeDefinition records must exist in target org before you migrate DRO rules.
-    -   You can’t insert a new DRO rule record with condition data. You can only update the record. In such a scenario, migrate the rule record with an empty condition field through an INSERT operation. Then, perform an UPDATE operation on the condition field with the JSON value from the source org.
+    -   In API version 67.0 and later, you can insert DRO rule and scenario records with condition JSON in one transaction, including bulk inserts, when prerequisites are satisfied.
+    -   Deleting a DRO parent record also deletes related RuleSet and rule artifacts to prevent orphan records. If condition JSON is removed from a record, related RuleSet artifacts are also removed where applicable.
 -   After Migration:
     -   Refresh the Decision Tables (DT) used by DRO Fallout Management—Migrating the Fulfillment Fallout Rules records requires a refreshed Fallout Rules DT definition.
     -   Refresh DTs used by DRO Jeopardy Management—Migrating the Fulfillment Step Jeopardy Rule records requires a refreshed Fulfillment Step Jeopardy Rule DT definition.
-    -   Make sure to activate technical products in your target org as part of your deployment.
--   These components have dependencies on Industries common features:
+    -   Activate technical products in your target org as part of your deployment.
+-   These components have dependencies on specific features.
     -   Enrichment Rule—Expression Set
     -   Decomposition Rule with condition—Business Rules Engine Context Rule and Context Service
     -   Callout step—Integration Definition

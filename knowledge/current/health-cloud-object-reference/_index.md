@@ -1,11 +1,11 @@
 ---
 domain: health-cloud-object-reference
-name: Salesforce Health Cloud Developer Guide
+name: Agentforce Health Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.367Z
+lastGenerated: 2026-07-26T01:59:49.518Z
 ---
 
-# Salesforce Health Cloud Developer Guide — Knowledge Index
+# Agentforce Health Developer Guide — Knowledge Index
 
 > Use the Health Cloud API to configure the Health Cloud console, which helps care coordinators manage
 

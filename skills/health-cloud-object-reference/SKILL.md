@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-health-cloud-object-reference
-description: Apply Salesforce knowledge and best practices for Salesforce Health Cloud Developer Guide
+description: Apply Salesforce knowledge and best practices for Agentforce Health Developer Guide
 ---
 
-# Salesforce Knowledge Skill: Salesforce Health Cloud Developer Guide
+# Salesforce Knowledge Skill: Agentforce Health Developer Guide
 
 > Use the Health Cloud API to configure the Health Cloud console, which helps care coordinators manage
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Salesforce Health Cloud Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Agentforce Health Developer Guide**.
 
 ## How to Use This Knowledge
 

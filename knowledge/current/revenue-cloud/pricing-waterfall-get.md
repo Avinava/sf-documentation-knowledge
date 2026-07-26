@@ -5,7 +5,7 @@ topic: pricing-waterfall-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:51.392Z
+lastCollected: 2026-07-26T01:59:42.054Z
 estimatedTokens: 534
 keywords: [Pricing, Waterfall, persisted, price, stores, process, logs, insights, every, step, Advanced]
 ---

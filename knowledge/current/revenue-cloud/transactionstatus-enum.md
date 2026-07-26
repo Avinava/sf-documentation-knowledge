@@ -5,7 +5,7 @@ topic: transactionstatus-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:49.082Z
+lastCollected: 2026-07-26T01:59:39.367Z
 estimatedTokens: 94
 keywords: [TransactionStatus, status, transaction]
 ---

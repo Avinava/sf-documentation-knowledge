@@ -5,7 +5,7 @@ topic: ui-bundle-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:47.905Z
+lastCollected: 2026-07-26T01:59:38.085Z
 estimatedTokens: 1131
 keywords: [Flags, ui-bundle, Commands, Preview, bundle, locally, real-time, deploying, org, dev, Examples]
 ---

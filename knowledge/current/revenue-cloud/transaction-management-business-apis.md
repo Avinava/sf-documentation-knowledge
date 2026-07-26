@@ -5,8 +5,8 @@ topic: transaction-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-05-10T00:39:07.791Z
-estimatedTokens: 1398
+lastCollected: 2026-07-26T01:59:45.741Z
+estimatedTokens: 1341
 keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, quote, order]
 ---
 
@@ -35,7 +35,6 @@ This table lists the available Transaction Management resources.
 | /connect/rev/sales-transaction/actions/clone (POST) | Create a clone of a sales transaction, such as a quote or an order. You can also clone a quote line item or an order item record with its related records and configurations. |
 | /connect/rev/sales-transaction/actions/place-supplemental-transaction (POST) | Create a supplemental order or change orders after they are submitted for processing, such as during the fulfillment process. |
 | /connect/revenue/transaction-management/sales-transactions/actions/read (POST) | Retrieve sales transaction data efficiently from an initialized or a hydrated context. |
-| /connect/advanced-approvals/approval-submission/preview (POST) | Preview the approval levels of a record and associated level details, approval chains, approvers, and conditions before you submit the record for an approval. |
 | /global-promotions-management/promotions (GET, POST, PUT) | Get rewards based on a product selling model template. |
 | /revenue/transaction-management/sales-transactions/actions/get-eligible-promotions (POST) | Get eligible promotions for line items within a quote or an order. |
 | /revenue/transaction-management/assets/actions/swap (POST) | Exchange one product for another of equivalent or different value. The change is tracked as a swap request with linked asset actions and a net-zero order total where applicable. The API creates an amendment quote and order with order actions and quote action subtypes. |
@@ -51,7 +50,7 @@ This table lists the available Transaction Management resources.
 
 #### See Also
 
--   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.260.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
+-   [*Connect REST API Developer Guide*: Introduction](https://developer.salesforce.com/docs/atlas.en-us.262.0.chatterapi.meta/chatterapi/intro_what_is_chatter_connect.htm "Connect REST API Developer Guide: Introduction - HTML (New Window)")
 
 ## Related Topics
 

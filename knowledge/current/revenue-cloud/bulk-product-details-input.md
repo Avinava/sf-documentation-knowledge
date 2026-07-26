@@ -5,7 +5,7 @@ topic: bulk-product-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:49.933Z
+lastCollected: 2026-07-26T01:59:40.319Z
 estimatedTokens: 875
 keywords: [Bulk, Product, retrieve, multiple, products]
 ---

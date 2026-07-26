@@ -2,7 +2,7 @@
 domain: salesforce-app-limits-cheatsheet
 name: Salesforce Developer Limits and Allocations Quick Reference
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.404Z
+lastGenerated: 2026-07-26T01:59:49.555Z
 ---
 
 # Salesforce Developer Limits and Allocations Quick Reference — Knowledge Index

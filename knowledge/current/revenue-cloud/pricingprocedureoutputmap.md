@@ -5,8 +5,8 @@ topic: pricingprocedureoutputmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:55.685Z
-estimatedTokens: 636
+lastCollected: 2026-07-26T01:59:47.062Z
+estimatedTokens: 641
 keywords: [PricingProcedureOutputMap, mapping, outputs, pricing, procedures, lookup, tables, record, Recipe, API, 60.0]
 ---
 
@@ -31,6 +31,6 @@ create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
 | LookupField | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionDefinition of the fields that are used for this lookup. |
 | OutputFieldNameId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe field name containing the output type generated from the pricing element.This field is a polymorphic relationship field.Relationship NameOutputFieldNameRelationship TypeLookupRefers ToCalculationMatrixColumn, DecisionTableParameter |
 | OutputFieldNameString | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThis is a derived field that references a specific column in a decision table or decision matrix. |
-| OutputType | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe output type generated from a pricing element.Possible values are:AdjustmentType—Adjustment TypeAdjustmentValue—Adjustment ValueCustomOutput—Custom OutputHashOutput—Hash OutputUnitPrice—Unit PriceUpperBound—Unit PriceLowerBound—Unit PriceTierValue—Unit PriceTierType—Unit Price |
+| OutputType | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe output type generated from a pricing element.Possible values are:AdjustmentType—Adjustment TypeAdjustmentValue—Adjustment ValueCustomOutput—Custom OutputHashOutput—Hash OutputPriceIndex—Price IndexUnitPrice—Unit PriceUpperBound—Unit PriceLowerBound—Unit PriceTierValue—Unit PriceTierType—Unit Price |
 | PricingComponentType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe pricing component field data on which the decision table is built.Possible values are:AttributeDiscount—Attribute Based DiscountBundleDiscount—Bundle Based DiscountDerivedPricingDiscountDistributionService—Discount Distribution ServiceListPrice—List PricePriceAdjustmentMatrixPromotionsDiscountVolumeDiscount—Volume Based DiscountVolumeTierDiscount—Tier DiscountRuleFetchAssetDiscovery |
 | PricingRecipeTableMappingId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe mapping of pricing components of a lookup table with the chosen pricing recipe.This field is a relationship field.Relationship NamePricingRecipeTableMappingRelationship TypeLookupRefers ToPricingRecipeTableMapping |

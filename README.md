@@ -416,17 +416,17 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4623 |
 | **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2465 |
 | **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1777 |
-| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1362 |
+| **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1364 |
 | **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1297 |
 | **Public Sector Solutions Developer Guide** | Use Public Sector Solutions API and developer resources to unify public service  | ✅ Available | 1003 |
-| **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 833 |
+| **Agentforce Health Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 833 |
 | **Marketing Cloud API** | Developer documentation for Marketing Cloud APIs | ✅ Available | 809 |
-| **Life Sciences Cloud Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 714 |
+| **Agentforce Life Sciences Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 714 |
 | **Metadata API** | Metadata API — deployment, retrieval, metadata types | ✅ Available | 693 |
 | **Insurance Developer Guide** | Learn more about the developer sources of Insurance to automate the backend work | ✅ Available | 616 |
 | **Visualforce Developer Guide** | Learn how to develop custom user interfaces and apps with Visualforce, a framewo | ✅ Available | 609 |
 | **Apex Developer Guide** | Apex language guide — syntax, triggers, testing, best practices | ✅ Available | 566 |
-| **Financial Services Cloud Developer Guide** | Extend Financial Services Cloud with other Salesforce products using the API and | ✅ Available | 527 |
+| **Agentforce Financial Services Developer Guide** | Extend Agentforce Financial Services with other Salesforce products using the AP | ✅ Available | 527 |
 | **Loyalty Management Developer Guide** | Use Loyalty Management API and developer resources to create personalized loyalt | ✅ Available | 526 |
 | **Consumer Goods Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 524 |
 | **CRM Analytics REST API Developer Guide** | Describes how to send queries directly to CRM Analytics, access datasets that ha | ✅ Available | 519 |
@@ -444,7 +444,7 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Data Prep Recipe REST API Developer Guide** | Describes how to retrieve, update, and schedule Data Prep recipes. | ✅ Available | 296 |
 | *+ 99 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *6,901* |
 
-*129 domains | 35,429 knowledge files*
+*129 domains | 35,431 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

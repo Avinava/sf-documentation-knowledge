@@ -2,7 +2,7 @@
 domain: voice-pt-developer-guide
 name: Salesforce Voice with Partner Telephony Developer Guide
 documentCount: 0
-lastGenerated: 2026-06-21T00:39:57.433Z
+lastGenerated: 2026-07-26T01:59:49.578Z
 ---
 
 # Salesforce Voice with Partner Telephony Developer Guide — Knowledge Index

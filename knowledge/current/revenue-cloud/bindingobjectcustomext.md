@@ -5,8 +5,8 @@ topic: bindingobjectcustomext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-06-21T00:39:55.130Z
-estimatedTokens: 335
+lastCollected: 2026-07-26T01:59:46.420Z
+estimatedTokens: 336
 keywords: [BindingObjectCustomExt, external, target, that's, bound, entitlements, granted, sellable, product, API, 64.0]
 ---
 
@@ -24,7 +24,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 ## Special Access Rules
 
--   This object is available in Revenue Cloud when Rate Management is enabled.
+-   This object is available in Revenue Management when Rate Management is enabled.
 
 -   Users with any Rate Management permission set (Admin, Manager, Designtime, Runtime) can view records. Only Admins can create, edit, and delete records.
 

@@ -5,8 +5,8 @@ topic: logical-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:49.601Z
-estimatedTokens: 2377
+lastCollected: 2026-07-26T01:59:39.939Z
+estimatedTokens: 2375
 keywords: [Logical, Constraints, constraint, statement, hold, logically, any, expression, operator, Patterns, Key, Operators, Explanation, How, User, Order, Affects, Engine, Behavior, Evaluation, Generator, Left-Hand, Side, Right-Hand, Resolution, Implication, Directional, Enforcement, Bi-conditional, <->, Symmetrical, Equivalence, Exception, exclude, Rule]
 ---
 
@@ -131,7 +131,7 @@ The bi-conditional constraint A <-> B (A if and only if B) requires that the LHS
 
 ## Exception: The exclude Rule
 
-The only scenario where the constraint engine intentionally overrides user input is when processing the exclude rule. If a user selects a component or sets an attribute value that violates an exclude rule, the engine will automatically override that user input to satisfy the exclusion constraint. In all other constraint types (like implication constraints shown previously), the engine relies on the user to fix the error. For more information, see [Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm "The exclude rule is used to automatically remove a specific type in a relationship if a certain condition is met.").
+The only scenario where the constraint engine intentionally overrides user input is when processing the exclude rule. If a user selects a component or sets an attribute value that violates an exclude rule, the engine will automatically override that user input to satisfy the exclusion constraint. In all other constraint types (like implication constraints shown previously), the engine relies on the user to fix the error. For more information, see [Exclude Rule](atlas.en-us.revenue_lifecycle_management_dev_guide.meta/revenue_lifecycle_management_dev_guide/cml_exclude_rule.htm "The exclude rule automatically removes a specific type in a relationship if a certain condition is true.").
 
 ## Code Examples
 

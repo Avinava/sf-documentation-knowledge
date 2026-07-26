@@ -5,17 +5,17 @@ topic: transaction-management-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-06-21T00:39:53.818Z
-estimatedTokens: 301
-keywords: [Transaction, Management, deployment, sequence, API, Revenue, Cloud]
+lastCollected: 2026-07-26T01:59:44.895Z
+estimatedTokens: 303
+keywords: [Transaction, Management, deployment, sequence, API, Revenue]
 ---
 
 > This table provides the deployment sequence, object types, and API names for
-    Transaction Management objects in Revenue Cloud.
+    Transaction Management objects in Revenue Management.
 
 # Transaction Management Objects
 
-This table provides the deployment sequence, object types, and API names for Transaction Management objects in Revenue Cloud.
+This table provides the deployment sequence, object types, and API names for Transaction Management objects in Revenue Management.
 
 | Object Use Type | Object Name | Object API | Deployment Sequence | Lookup Fields (Foreign Keys) |
 | --- | --- | --- | --- | --- |

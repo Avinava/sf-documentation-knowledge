@@ -5,16 +5,16 @@ topic: revenuemanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-06-21T00:39:54.058Z
-estimatedTokens: 1552
-keywords: [RevenueManagementSettings, configuration, settings, Revenue, Cloud, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
+lastCollected: 2026-07-26T01:59:45.163Z
+estimatedTokens: 1822
+keywords: [RevenueManagementSettings, configuration, settings, Revenue, Management, Parent, Manifest, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---
 
-> Represents the configuration settings to set up Revenue Cloud.
+> Represents the configuration settings to set up Revenue Management.
 
 # RevenueManagementSettings
 
-Represents the configuration settings to set up Revenue Cloud.
+Represents the configuration settings to set up Revenue Management.
 
 ## Parent Type and Manifest Access
 
@@ -32,7 +32,7 @@ RevenueManagementSettings is available in API version 60.0 and later.
 
 ## Special Access Rules
 
-This metadata settings type is available with Revenue Cloud.
+This metadata settings type is available with Revenue Management.
 
 ## Fields
 
@@ -42,10 +42,13 @@ This metadata settings type is available with Revenue Cloud.
 | enableAdvancedDetailLinePricing | Field TypebooleanDescriptionIndicates whether to enable advanced pricing for quote and order detail line items (true) or not (false). The default value is false. Available in API version 65.0 and later. |
 | enableAsIsRenewals | Field TypebooleanDescriptionIndicates whether users can enable as-is renewals capability for existing assets (true) or not (false). The default value is false. Available in API version 64.0 and later. |
 | enableAutoAddDerivedAsset | Field TypebooleanDescriptionIndicates whether to automatically add assets with derived pricing to a quote or an order when contributing products are added to it (true) or not (false). Available in API version 62.0 and later. |
-| enableCoreCPQ | Field TypebooleanDescriptionIndicates whether to enable read and write access to Revenue Cloud features and objects (true) or not (false). See Enable Revenue Cloud Features in Your Scratch Org. |
+| enableAutoLineItemSequencing | Field TypebooleanDescriptionIndicates whether to enable automatic line item sequencing (true) or not (false). If set to true, the system maintains a consistent, automated sequence of transaction line items on quotes and orders, ensuring line items created from a quote appear in the same sequential order on the resulting order. Available in API version 66.0 and later. |
+| enableCoreCPQ | Field TypebooleanDescriptionIndicates whether to enable read and write access to Revenue Management features and objects (true) or not (false). See Enable Revenue Management Features in Your Scratch Org. |
 | enableDeltaPricing | Field TypebooleanDescriptionIndicates whether to reprice faster by processing only the changes (delta) made to quotes and orders (true) or not (false). The default value is false. Available in API version 63.0 and later. |
 | enableGroupRamp | Field TypebooleanDescriptionReserved for internal use. |
+| enableGroupRampMultiSchedulePref | Field TypebooleanDescriptionIndicates whether to enable support for multiple ramp schedules per transaction (true) or not (false). The default value is false. Available in API version 66.0 and later. |
 | enableGroupRampPref | Field TypebooleanDescriptionIndicates whether to create ramp deals for multiple products by creating group ramp segments (true) or not (false). The default value is false. Configure group ramp segments with specific start dates and end dates, and different product quantities and prices. Available in API version 65.0 and later.Before you enable this setting, ensure the groupsEnabled and enableTransactionCloning fields are set to true. |
+| enableGroupRampTrialSegmentPref | Field TypebooleanDescriptionIndicates whether to enable trial segments within group ramp deals (true) or not (false). The default value is false. If set to true, this setting defines a trial pricing segment as part of a ramp schedule on groups to support promotional or introductory pricing tiers in multi-year subscription ramp deals. Available in API version 67.0 and later. |
 | enableRampDeal | Field TypebooleanDescriptionIndicates whether to create ramp deals for individual line items by creating segments with specific start dates, end dates, quantities, and prices (true) or not (false). Available in API version 62.0 and later. |
 | enableRevUnifiedSetup | Field TypebooleanDescriptionIndicates whether to enable the usage of a procedure plan for price calculation (true) or not (false). |
 | enableTransactionCloning | Field TypebooleanDescriptionIndicates whether to clone quotes or orders with their line items and groups, or clone the individual line items and groups of line items. Available in API version 64.0 and later. |

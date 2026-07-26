@@ -1,13 +1,13 @@
 ---
 name: sf-knowledge-life-sciences-dev-guide
-description: Apply Salesforce knowledge and best practices for Life Sciences Cloud Developer Guide
+description: Apply Salesforce knowledge and best practices for Agentforce Life Sciences Developer Guide
 ---
 
-# Salesforce Knowledge Skill: Life Sciences Cloud Developer Guide
+# Salesforce Knowledge Skill: Agentforce Life Sciences Developer Guide
 
 > Use the developer resources of Life Sciences Cloud to automate the operations available with the end
 
-This repository contains curated, accurate knowledge mapping for Salesforce **Life Sciences Cloud Developer Guide**.
+This repository contains curated, accurate knowledge mapping for Salesforce **Agentforce Life Sciences Developer Guide**.
 
 ## How to Use This Knowledge
 
